@@ -2,6 +2,33 @@
 layout: default
 ---
 
+# pathogenflows
+
+**pathogenflows** is an R package providing functions that can be used to predict pathogen flows throughout a sanitation system, based on the types of technologies used.
+
+## Installation
+
+The latest version of pathogenflows can be installed from github (if you don't have the package **devtools**, you will need to install it first):
+
+``` r
+# install.packages("devtools")
+devtools::install_github('mverbyla/pathogenflows')
+```
+
+## Example use of pathogenflows
+
+The **getLoadings** function allows you to predict annual loadings of water pathogens from the onsite sanitation system technologies used in a given region of the world. 
+
+| Pathogen Loadings               | head two          | three |
+|:--------------------------|:------------------|:------|
+| Excreted                       | good swedish fish | nice  |
+| To groundwater             | good and plenty   | nice  |
+| To the surface                 | good `oreos`      | hmm   |
+| Retained in subsurface             | good `zoute` drop | yumm  |
+| Decayed/inactivated            | good `zoute` drop | yumm  |
+| Conveyed in fecal sludge to treatment   | good `zoute` drop | yumm  |
+| Conveyed in sewerage to treatment   | good `zoute` drop | yumm  |
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
