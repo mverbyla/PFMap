@@ -19,15 +19,17 @@ devtools::install_github('mverbyla/pathogenflows')
 
 The **getLoadings** function allows you to predict annual loadings of water pathogens from the onsite sanitation system technologies used in a given region of the world. 
 
-| Pathogen Loadings               | head two          | three |
-|:--------------------------|:------------------|:------|
-| Excreted                       | good swedish fish | nice  |
-| To groundwater             | good and plenty   | nice  |
-| To the surface                 | good `oreos`      | hmm   |
-| Retained in subsurface             | good `zoute` drop | yumm  |
-| Decayed/inactivated            | good `zoute` drop | yumm  |
-| Conveyed in fecal sludge to treatment   | good `zoute` drop | yumm  |
-| Conveyed in sewerage to treatment   | good `zoute` drop | yumm  |
+![Pathogen Flows](https://raw.githubusercontent.com/mverbyla/pathogenflows/master/images/pft_flow_chart.png)
+
+| Pathogen Loadings               | Description          |
+|:--------------------------|:---------------------------|
+| Excreted                       | Number of pathogens excreted per year   |
+| To groundwater             | good and plenty   |
+| To the surface                 | good `oreos`      |
+| Retained in subsurface             | good `zoute` drop |
+| Decayed/inactivated            | good `zoute` drop | 
+| Conveyed in fecal sludge to treatment   | good `zoute` drop |
+| Conveyed in sewerage to treatment   | good `zoute` drop | 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
@@ -125,7 +127,7 @@ end
 
 ### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Branching](https://raw.githubusercontent.com/mverbyla/pathogenflows/master/images/pft_flow_chart.png)
 
 
 ### Definition lists can be used with HTML syntax.
