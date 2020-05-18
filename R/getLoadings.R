@@ -1,4 +1,4 @@
-#' The Pathogen Flow Model Function
+#' The getLoadings function
 #'
 #' This function predicts the flow of pathogens through onsite sanitation systems for data available through the UNICEF/WHO Joint Monitoring Program and provides an output that can be used directly by the Pathogen Mapping Tool.
 #' @param onsiteData A CSV file containing your onsite sanitation data. Defaults to example template from http://data.waterpathogens.org/dataset/5374462b-5bb5-456f-bfc0-816ea572666d/resource/4d9e5fba-9280-4b8b-acce-d1c87952acc1/download/onsitedata_example.csv
