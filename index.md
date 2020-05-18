@@ -10,9 +10,37 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+## Installation
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+The latest version of pathogenflows can be installed from github (if you don't have the package **devtools**, you will need to install it first):
+
+``` r
+# install.packages("devtools")
+devtools::install_github('mverbyla/pathogenflows')
+```
+
+## About
+
+The 'getLoadings' function allows you to predict annual loadings of water pathogens from the onsite sanitation system technologies used in a given region of the world. 
+
+| Pathogen Loadings               | Description          |
+|:--------------------------|:---------------------------|
+| Excreted                       | Number of pathogens excreted per year   |
+| To groundwater             | Number of pathogens emitted to groundwater each year   |
+| To the surface                 | Number of pathogens emitted to the surface each year      |
+| Retained in subsurface    | Number of pathogens retained in the subsurface each year |
+| Decayed/inactivated        | Number of pathogens inactivated per year | 
+| Conveyed in fecal sludge to treatment   | Number of pathogens conveyed each year to treatment in fecal sludge |
+| Conveyed in sewerage to treatment   | Number of pathogens conveyed each year to treatment in sewerage | 
+
+## Example
+
+The following shows the use of the getLoadings function for data from Kampala, Uganda, grouping the data by 'region' and showing results for the 'Virus' group.
+
+``` r
+getLoadings(onsiteData,by="region",group="Virus")
+
+```
 
 ## Header 2
 
