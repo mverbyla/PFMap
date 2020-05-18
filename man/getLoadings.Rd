@@ -7,22 +7,26 @@
 getLoadings(
  
     onsiteData = "http://data.waterpathogens.org/dataset/5374462b-5bb5-456f-bfc0-816ea572666d/resource/4d9e5fba-9280-4b8b-acce-d1c87952acc1/download/onsitedata_example.csv",
-  by,
   pathogenType
 )
 }
 \arguments{
 \item{onsiteData}{A CSV file containing your onsite sanitation data. Defaults to example template from http://data.waterpathogens.org/dataset/5374462b-5bb5-456f-bfc0-816ea572666d/resource/4d9e5fba-9280-4b8b-acce-d1c87952acc1/download/onsitedata_example.csv}
 
-\item{by}{Specify if you want to run the analysis by region or by subregion}
-
 \item{pathogenType}{Pathogen group of interest (Virus, Bacteria, Protozoa, Helminths)}
 }
 \description{
-This function predicts the flow of pathogens through onsite sanitation systems for data available through the UNICEF/WHO Joint Monitoring Program and provides an output that can be used directly by the Pathogen Mapping Tool.
+This function predicts the pathogen loadings from onsite sanitation systems for data available through the UNICEF/WHO Joint Monitoring Program and provides an output that can be used directly by the Pathogen Mapping Tool.
 }
 \examples{
 getLoadings(by="region",pathogenType="Virus")
+
+    region     excreted to_groundwater   to_surface retained_in_soil      decayed In_Fecal_Sludge    In_Sewage  stillViable Onsite_LRV Onsite_PR
+1  Central 3.470412e+16   7.208736e+14 1.241347e+15     6.487862e+15 1.696317e+16    4.204900e+13 9.142680e+15 1.114695e+16       0.49    0.6788
+2  Kawempe 1.828207e+17   2.923315e+15 3.819070e+15     2.630984e+16 1.427235e+17    1.714675e+14 6.738060e+15 1.365191e+16       1.13    0.9253
+3 Makindye 2.115370e+17   5.784264e+15 7.404292e+15     5.205838e+16 1.396717e+17    1.877473e+14 6.042660e+15 1.941896e+16       1.04    0.9082
+4   Nakawa 1.740476e+17   4.848475e+15 5.834954e+15     4.363628e+16 1.023125e+17    1.109438e+14 1.716174e+16 2.795611e+16       0.79    0.8394
+5   Rubaga 2.103805e+17   4.278101e+15 5.257688e+15     3.850291e+16 1.602164e+17    2.221318e+14 9.808800e+14 1.073880e+16       1.29    0.9490
 
 }
 \keyword{pathogens}
