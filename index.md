@@ -2,10 +2,6 @@
 layout: default
 ---
 
-# pathogenflows
-
-**pathogenflows** is an R package providing functions that can be used to predict pathogen flows throughout a sanitation system, based on the types of technologies used.
-
 ## Installation
 
 The latest version of pathogenflows can be installed from github (if you don't have the package **devtools**, you will need to install it first):
@@ -15,21 +11,24 @@ The latest version of pathogenflows can be installed from github (if you don't h
 devtools::install_github('mverbyla/pathogenflows')
 ```
 
-## Example use of pathogenflows
+## About
 
 The **getLoadings** function allows you to predict annual loadings of water pathogens from the onsite sanitation system technologies used in a given region of the world. 
 
-![Pathogen Flows](https://raw.githubusercontent.com/mverbyla/pathogenflows/master/images/pft_flow_chart.png)
+![PathogenFlows](https://raw.githubusercontent.com/mverbyla/pathogenflows/master/images/pft_flow_chart.png)
 
 | Pathogen Loadings               | Description          |
 |:--------------------------|:---------------------------|
 | Excreted                       | Number of pathogens excreted per year   |
-| To groundwater             | good and plenty   |
-| To the surface                 | good `oreos`      |
-| Retained in subsurface             | good `zoute` drop |
-| Decayed/inactivated            | good `zoute` drop | 
-| Conveyed in fecal sludge to treatment   | good `zoute` drop |
-| Conveyed in sewerage to treatment   | good `zoute` drop | 
+| To groundwater             | Number of pathogens emitted to groundwater each year   |
+| To the surface                 | Number of pathogens emitted to the surface each year      |
+| Retained in subsurface    | Number of pathogens retained in the subsurface each year |
+| Decayed/inactivated        | Number of pathogens inactivated per year | 
+| Conveyed in fecal sludge to treatment   | Number of pathogens conveyed each year to treatment in fecal sludge |
+| Conveyed in sewerage to treatment   | Number of pathogens conveyed each year to treatment in sewerage | 
+
+The 'getLoadings' 
+
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
