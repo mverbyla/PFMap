@@ -7,7 +7,7 @@ Authors@R:
            role = c("aut", "cre"),
            email = "mverbyla@sdsu.edu",
            comment = structure("0000-0001-8143-6954", .Names = "ORCID"))
-Description: This package predicts the flow of pathogens through onsite sanitation systems for data available through the UNICEF/WHO Joint Monitoring Program (see example input data: http://data.waterpathogens.org/dataset/5374462b-5bb5-456f-bfc0-816ea572666d/resource/4d9e5fba-9280-4b8b-acce-d1c87952acc1/download/onsitedata_example.csv)
+Description: This package predicts the flow of pathogens through onsite sanitation systems for data available through the UNICEF/WHO Joint Monitoring Program and provides an output that can be used directly by the Pathogen Mapping Tool (http://www.waterpathogens.org/k2p/pathogen-mapping-tool)
 License: https://creativecommons.org/licenses/by/4.0/
 Encoding: UTF-8
 LazyData: true
