@@ -39,9 +39,11 @@ The function outputs a dataframe that contains the following estimated annual lo
 | `decayed`  | Decayed/inactivated        | Number of pathogens inactivated per year | 
 | `In_Fecal_Sludge`  | Conveyed in fecal sludge to treatment   | Number of pathogens conveyed each year to treatment in fecal sludge |
 | `In_Sewage`  | Conveyed in sewerage to treatment   | Number of pathogens conveyed each year to treatment in sewerage | 
-| `stillViable`  | Still Viable  | Total number of pathogens that remain viable (`viable + decayed = excreted`)  |
-| `Onsite_LRV`  | Onsite Log Reduction Value  | The base 10 logarithmic reduction of pathogens achieved by onsite sanitation  |
-| `Onsite_PR`  | Onsite Percent Reduction  | Total number of pathogens that remain viable (`viable + decayed = excreted`)  |
+| `stillViable`  | Still Viable  | Total number of pathogens that remain viable (`stillViable + decayed = excreted`)  |
+| `Onsite_LRV`  | Onsite Log Reduction Value  | The base 10 logarithmic reduction of pathogens achieved by onsite sanitation (`Onsite_LRV = log10(excreted/stillViable)`) |
+| `Onsite_PR`  | Onsite Percent Reduction  | The percent reduction of pathogens achieved by onsite sanitation (`Onsite_PR = (excreted-stillViable)/excreted`)  |
+
+![PathogenFlows](./assets/img/PFTlogo.png)
 
 ## Example
 
