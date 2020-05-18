@@ -15,27 +15,33 @@ devtools::install_github('mverbyla/pathogenflows')
 
 The `getLoadings` function allows you to predict annual loadings of water pathogens from the onsite sanitation system technologies used in a given region of the world. 
 
-| Pathogen Loadings               | Description          |
-|:--------------------------|:---------------------------|
-| Excreted                       | Number of pathogens excreted per year   |
-| To groundwater             | Number of pathogens emitted to groundwater each year   |
-| To the surface                 | Number of pathogens emitted to the surface each year      |
-| Retained in subsurface    | Number of pathogens retained in the subsurface each year |
-| Decayed/inactivated        | Number of pathogens inactivated per year | 
-| Conveyed in fecal sludge to treatment   | Number of pathogens conveyed each year to treatment in fecal sludge |
-| Conveyed in sewerage to treatment   | Number of pathogens conveyed each year to treatment in sewerage | 
-
-The `getloadings` function requires the following three inputs:
-
 ### Inputs:
 
+The `getloadings` function requires the following two inputs:
 *   onsiteData
 *   pathogenType
 
-The input `onsiteData` should refer to a data input file from the K2P Data Portal (data.waterpathogens.org). This file must be in a very specific format. An example file can be found [here](http://data.waterpathogens.org/dataset/5374462b-5bb5-456f-bfc0-816ea572666d/resource/4d9e5fba-9280-4b8b-acce-d1c87952acc1/download/onsitedata_example.csv).
+The input `onsiteData` should refer to the web address of a data input file from the K2P Data Portal (data.waterpathogens.org). This file must be in a very specific format. An example file can be found [here](http://data.waterpathogens.org/dataset/5374462b-5bb5-456f-bfc0-816ea572666d/resource/4d9e5fba-9280-4b8b-acce-d1c87952acc1/download/onsitedata_example.csv).
 
 The input **`pathogenType`** should be equal to either one of the following strings: c("Virus","Bacteria","Protozoa","Helminth"). 
 
+### Outputs:
+
+The function outputs a dataframe that contains the following estimated annual loadings and calculated reduction values:
+
+| Variable | Pathogen Loadings               | Description          |
+|:-----|:--------------------------|:---------------------------|
+| `region`  | Region                       | The region of interest   |
+| `excreted`  | Excreted                       | Number of pathogens excreted per year   |
+| `to_groundwater`  | To groundwater             | Number of pathogens emitted to groundwater each year   |
+| `to_surface`  | To the surface                 | Number of pathogens emitted to the surface each year      |
+| `reatained_in_soil`  | Retained in subsurface    | Number of pathogens retained in the subsurface each year |
+| `decayed`  | Decayed/inactivated        | Number of pathogens inactivated per year | 
+| `In_Fecal_Sludge`  | Conveyed in fecal sludge to treatment   | Number of pathogens conveyed each year to treatment in fecal sludge |
+| `In_Sewage`  | Conveyed in sewerage to treatment   | Number of pathogens conveyed each year to treatment in sewerage | 
+| `stillViable`  | Still Viable  | Total number of pathogens that remain viable (`viable + decayed = excreted`)  |
+| `Onsite_LRV`  | Onsite Log Reduction Value  | The base 10 logarithmic reduction of pathogens achieved by onsite sanitation  |
+| `Onsite_PR`  | Onsite Percent Reduction  | Total number of pathogens that remain viable (`viable + decayed = excreted`)  |
 
 ## Example
 
