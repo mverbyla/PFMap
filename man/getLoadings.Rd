@@ -8,7 +8,7 @@ getLoadings(
  
     onsiteData = "http://data.waterpathogens.org/dataset/5374462b-5bb5-456f-bfc0-816ea572666d/resource/4d9e5fba-9280-4b8b-acce-d1c87952acc1/download/onsitedata_example.csv",
   by,
-  group
+  pathogenType
 )
 }
 \arguments{
@@ -16,13 +16,13 @@ getLoadings(
 
 \item{by}{Specify if you want to run the analysis by region or by subregion}
 
-\item{group}{Pathogen group of interest (Virus, Bacteria, Protozoa, Helminths)}
+\item{pathogenType}{Pathogen group of interest (Virus, Bacteria, Protozoa, Helminths)}
 }
 \description{
 This function predicts the flow of pathogens through onsite sanitation systems for data available through the UNICEF/WHO Joint Monitoring Program and provides an output that can be used directly by the Pathogen Mapping Tool.
 }
 \examples{
-getLoadings(by="region",group="Virus")
+getLoadings(by="region",pathogenType="Virus")
 
 }
 \keyword{pathogens}
