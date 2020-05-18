@@ -2,7 +2,7 @@
 % Please edit documentation in R/getLoadings.R
 \name{getLoadings}
 \alias{getLoadings}
-\title{The Pathogen Flow Model Function}
+\title{The getLoadings function}
 \usage{
 getLoadings(
  

@@ -3,18 +3,18 @@
 #' This function predicts the flow of pathogens through onsite sanitation systems for data available through the UNICEF/WHO Joint Monitoring Program and provides an output that can be used directly by the Pathogen Mapping Tool.
 #' @param onsiteData A CSV file containing your onsite sanitation data. Defaults to example template from http://data.waterpathogens.org/dataset/5374462b-5bb5-456f-bfc0-816ea572666d/resource/4d9e5fba-9280-4b8b-acce-d1c87952acc1/download/onsitedata_example.csv
 #' @param by Specify if you want to run the analysis by region or by subregion
-#' @param group Pathogen group of interest (Virus, Bacteria, Protozoa, Helminths)
+#' @param pathogenType Pathogen group of interest (Virus, Bacteria, Protozoa, Helminths)
 #' @keywords pathogens
 #' @export
 #' @examples
-#' getLoadings(by="region",group="Virus")
+#' getLoadings(by="region",pathogenType="Virus")
 #'
-getLoadings<-function(onsiteData="http://data.waterpathogens.org/dataset/5374462b-5bb5-456f-bfc0-816ea572666d/resource/4d9e5fba-9280-4b8b-acce-d1c87952acc1/download/onsitedata_example.csv",by,group){
+getLoadings<-function(onsiteData="http://data.waterpathogens.org/dataset/5374462b-5bb5-456f-bfc0-816ea572666d/resource/4d9e5fba-9280-4b8b-acce-d1c87952acc1/download/onsitedata_example.csv",by,pathogenType){
 
   df1<-read.csv(onsiteData,header=TRUE)   #bring in the inputs CSV file
 
   pathogenGroups<-c("Virus","Bacteria","Protozoa","Helminths")
-  index<-which(pathogenGroups==group)
+  index<-which(pathogenGroups==pathogenType)
   # &&&&& START GWPP Inputs &&&&&
   lambdas<-c(lambdaV=0.2,lambdaB=0.3,lambdaP=0.6,lambdaH=0.99) # these lambda values are based on data from the literature (Chauret et al., 1999; Lucena et al., 2004; Ramo et al., 2017; Rose et al., 1996; Tanji et al., 2002; Tsai et al., 1998)
   vzReduction<-c(vzV=0.1,vzB=0.01,vzP=0.001,vzH=0.0001) # currently assuming 1-, 2-, 3-, and 4-log reduction of viruses, bacteria, protozoa, and helminth eggs, respectively, between pits and groundwater
@@ -37,7 +37,7 @@ getLoadings<-function(onsiteData="http://data.waterpathogens.org/dataset/5374462
     # lnrv is ln(Ct/Co), so our linear model is like this: lnrv~time
     fit<-lm(lnrv~time)
     num[z]<-length(time)
-    r2[z]<-summary(fit)$r.squared
+    r2[z]<-suppressWarnings(summary(fit)$r.squared)
     k[z]<-fit$coefficients[2]
     authors[z]<-paste(unique(persist[persist$ind==z,]$bib_id),as.character(unique(persist[persist$ind==z,]$authors)))
     group[z]<-as.character(unique(persist[persist$ind==z,]$microbial_group))
@@ -57,10 +57,10 @@ getLoadings<-function(onsiteData="http://data.waterpathogens.org/dataset/5374462
   fit_kPit<-lm(lk~factor(microbial_group)+factor(urine)*pH+ltemp+moisture,data=kPit)
   summary(fit_kPit)
   # I need to find out here how to make pitAdditive dependent on the index m (geographic location or treatment plant service area)
-  kValueV<-exp(predict(fit_kPit,newdata=data.frame(urine="Fresh Urine",pH=7,ltemp=log(30),moisture=80,microbial_group="Virus")))
-  kValueB<-exp(predict(fit_kPit,newdata=data.frame(urine="Fresh Urine",pH=7,ltemp=log(30),moisture=80,microbial_group="Bacteria")))
-  kValueP<-exp(predict(fit_kPit,newdata=data.frame(urine="Fresh Urine",pH=7,ltemp=log(30),moisture=80,microbial_group="Protozoa")))
-  kValueH<-exp(predict(fit_kPit,newdata=data.frame(urine="Fresh Urine",pH=7,ltemp=log(30),moisture=80,microbial_group="Helminth")))
+  kValueV<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Fresh Urine",pH=7,ltemp=log(30),moisture=80,microbial_group="Virus"))))
+  kValueB<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Fresh Urine",pH=7,ltemp=log(30),moisture=80,microbial_group="Bacteria"))))
+  kValueP<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Fresh Urine",pH=7,ltemp=log(30),moisture=80,microbial_group="Protozoa"))))
+  kValueH<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Fresh Urine",pH=7,ltemp=log(30),moisture=80,microbial_group="Helminth"))))
 
   kValues<-c(Virus=kValueV,Bacteria=kValueB,Protozoa=kValueP,Helminth=kValueH);kValues #the units here are 1/days
   # &&&&& END GWPP Inputs &&&&&
