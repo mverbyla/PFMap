@@ -1,8 +1,7 @@
 #' The getLoadings function
 #'
-#' This function predicts the flow of pathogens through onsite sanitation systems for data available through the UNICEF/WHO Joint Monitoring Program and provides an output that can be used directly by the Pathogen Mapping Tool.
+#' This function predicts the pathogen loadings from onsite sanitation systems for data available through the UNICEF/WHO Joint Monitoring Program and provides an output that can be used directly by the Pathogen Mapping Tool.
 #' @param onsiteData A CSV file containing your onsite sanitation data. Defaults to example template from http://data.waterpathogens.org/dataset/5374462b-5bb5-456f-bfc0-816ea572666d/resource/4d9e5fba-9280-4b8b-acce-d1c87952acc1/download/onsitedata_example.csv
-#' @param by Specify if you want to run the analysis by region or by subregion
 #' @param pathogenType Pathogen group of interest (Virus, Bacteria, Protozoa, Helminths)
 #' @keywords pathogens
 #' @export
@@ -16,7 +15,7 @@
 #' 4   Nakawa 1.740476e+17   4.848475e+15 5.834954e+15     4.363628e+16 1.023125e+17    1.109438e+14 1.716174e+16 2.795611e+16       0.79    0.8394
 #' 5   Rubaga 2.103805e+17   4.278101e+15 5.257688e+15     3.850291e+16 1.602164e+17    2.221318e+14 9.808800e+14 1.073880e+16       1.29    0.9490
 #'
-getLoadings<-function(onsiteData="http://data.waterpathogens.org/dataset/5374462b-5bb5-456f-bfc0-816ea572666d/resource/4d9e5fba-9280-4b8b-acce-d1c87952acc1/download/onsitedata_example.csv",by,pathogenType){
+getLoadings<-function(onsiteData="http://data.waterpathogens.org/dataset/5374462b-5bb5-456f-bfc0-816ea572666d/resource/4d9e5fba-9280-4b8b-acce-d1c87952acc1/download/onsitedata_example.csv",pathogenType){
 
   df1<-read.csv(onsiteData,header=TRUE)   #bring in the inputs CSV file
 
@@ -71,46 +70,6 @@ getLoadings<-function(onsiteData="http://data.waterpathogens.org/dataset/5374462
 
   kValues<-c(Virus=kValueV,Bacteria=kValueB,Protozoa=kValueP,Helminth=kValueH);kValues #the units here are 1/days
   # &&&&& END GWPP Inputs &&&&&
-
-  dfR<-df1
-  head(dfR)  #the purpose of this code is to aggregate by region or by subregion
-  dfR[,c("sheddingRate","prevalence","flushSewer","flushSeptic","flushPit","flushOpen","flushUnknown","pitSlab",
-         "pitNoSlab","compostingTwinSlab","compostingTwinNoSlab","compostingToilet","bucketLatrine","containerBased",
-         "hangingToilet","openDefecation","other","isShared","sewerLeak","emptied","isWatertight","hasLeach",
-         "coverBury","emptiedTreatment","flushElsewhere","pitVIP","pitTraditional","otherLatrine",
-         "otherImproved","otherUnimproved","dontKnow","pitLined","pitUnlined")] <-
-    dfR$population*dfR[,c("sheddingRate","prevalence","flushSewer","flushSeptic","flushPit","flushOpen","flushUnknown","pitSlab",
-                          "pitNoSlab","compostingTwinSlab","compostingTwinNoSlab","compostingToilet","bucketLatrine","containerBased",
-                          "hangingToilet","openDefecation","other","isShared","sewerLeak","emptied","isWatertight","hasLeach",
-                          "coverBury","emptiedTreatment","flushElsewhere","pitVIP","pitTraditional","otherLatrine",
-                          "otherImproved","otherUnimproved","dontKnow","pitLined","pitUnlined")]
-  dfR$pitAdditive<-as.character(dfR$pitAdditive)
-  dfRe<-aggregate(.~region,data=dfR[,c("region","population")],FUN=sum)
-  dfR$scenario<-as.character(dfR$scenario)
-  pops<-aggregate(.~region,data=dfR[,c("region","sheddingRate","prevalence","flushSewer","flushSeptic","flushPit","flushOpen","flushUnknown","pitSlab",
-                                 "pitNoSlab","compostingTwinSlab","compostingTwinNoSlab","compostingToilet","bucketLatrine","containerBased",
-                                 "hangingToilet","openDefecation","other","isShared","sewerLeak","emptied","isWatertight","hasLeach",
-                                 "coverBury","emptiedTreatment","flushElsewhere","pitVIP","pitTraditional","otherLatrine",
-                                 "otherImproved","otherUnimproved","dontKnow","pitLined","pitUnlined")],FUN=sum)
-  pops<-pops[,-1]/dfRe$population
-  dfRe<-cbind(dfRe,pops)
-  adds<-aggregate(.~region,data=dfR[,c("region","scenario","pitAdditive")],FUN=unique)
-  empfreq<-aggregate(.~region,data=dfR[,c("region","emptyFrequency")],FUN=mean)
-  dfRe<-cbind(dfRe,adds[,-1],empfreq)
-  if(by=="region"){
-    df1<-dfRe
-    df1<-df1[,c("scenario","region","population","sheddingRate","prevalence",
-                "flushSewer","flushSeptic","flushPit","flushOpen","flushUnknown","pitSlab",
-                "pitNoSlab","compostingTwinSlab","compostingTwinNoSlab","compostingToilet",
-                "bucketLatrine","containerBased","hangingToilet","openDefecation","other",
-                "isShared","sewerLeak","emptied","isWatertight","hasLeach","coverBury",
-                "emptiedTreatment","emptyFrequency","pitAdditive","flushElsewhere","pitVIP",
-                "pitTraditional","otherLatrine","otherImproved","otherUnimproved","dontKnow",
-                "pitLined","pitUnlined")]
-  }else{
-    df1<-df1[,-which(names(df1) == "region")]
-    colnames(df1)[which(names(df1)=="subregion")]<-"region"
-    }
 
   loops<-nrow(df1)
 
@@ -277,7 +236,7 @@ getLoadings<-function(onsiteData="http://data.waterpathogens.org/dataset/5374462
                          Onsite_LRV=round(log10(excreted/(to_groundwater+to_surface+In_Sewage+In_Fecal_Sludge)),2),
                          Onsite_PR=round(((excreted-(to_groundwater+to_surface+In_Sewage+In_Fecal_Sludge))/excreted),4))
       onsite_results=rbind(onsite_results,newRow)
-  };onsite_results
+  }
 
   return(summaryEmissions=onsite_results)
 }

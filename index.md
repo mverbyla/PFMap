@@ -30,10 +30,11 @@ The `getloadings` function requires the following three inputs:
 ### Inputs:
 
 *   onsiteData
-*   by
 *   pathogenType
 
 The input `onsiteData` should refer to a data input file from the K2P Data Portal (data.waterpathogens.org). This file must be in a very specific format. An example file can be found [here](http://data.waterpathogens.org/dataset/5374462b-5bb5-456f-bfc0-816ea572666d/resource/4d9e5fba-9280-4b8b-acce-d1c87952acc1/download/onsitedata_example.csv).
+
+The input **`pathogenType`** should be equal to either one of the following strings: c("Virus","Bacteria","Protozoa","Helminth"). 
 
 
 ## Example
@@ -41,7 +42,7 @@ The input `onsiteData` should refer to a data input file from the K2P Data Porta
 The following shows the use of the getLoadings function for data from Kampala, Uganda, grouping the data by 'region' and showing results for the 'Virus' group.
 
 ``` r
-getLoadings(onsiteData,by="region",group="Virus")
+getLoadings(onsiteData,pathogenType="Virus")
 
 #>     region     excreted to_groundwater   to_surface retained_in_soil      decayed In_Fecal_Sludge    In_Sewage  stillViable Onsite_LRV Onsite_PR
 #> 1  Central 3.470412e+16   7.208736e+14 1.241347e+15     6.487862e+15 1.696317e+16    4.204900e+13 9.142680e+15 1.114695e+16       0.49    0.6788
