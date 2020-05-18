@@ -2,6 +2,8 @@
 layout: default
 ---
 
+# pathogenflows
+
 ## Installation
 
 The latest version of pathogenflows can be installed from github (if you don't have the package **devtools**, you will need to install it first):
