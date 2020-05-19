@@ -220,7 +220,7 @@ getLoadings<-function(onsiteData="http://data.waterpathogens.org/dataset/5374462
       loadings[[m]]$LRV_byTech<-round(log10(loadings[[m]][,"excreted"]/loadings[[m]][,"stillViable"]),2)
       LRV_byTechnology <- as.data.frame(t(loadings[[m]]$LRV_byTech))
       colnames(LRV_byTechnology) <- paste("LRV_",loadings[[m]]$name,sep="")
-      LRV_byTechnology[is.na(LRV_byTechnology)]<-0
+      LRV_byTechnology[is.na(LRV_byTechnology)]<-NA
 
       ### CALCULATE EMISSIONS ###
       excreted=sum(loadings[[m]]$excreted)
@@ -231,6 +231,9 @@ getLoadings<-function(onsiteData="http://data.waterpathogens.org/dataset/5374462
       In_Sewage=sum(loadings[[m]]$toWWTP)
       In_Fecal_Sludge=sum(loadings[[m]]$toFSTP)
 
+      loadings[[m]]<-loadings[[m]][,c("name","classification","percentage","excreted","toGW","toSW","totalSubsurface","totalDecayed","toFSTP","toWWTP","stillViable","LRV_byTech")]
+      names(loadings[[m]])<-c("id","sanitationTechnology","percentage","excreted","toGroundwater","toSurface","inSubsurface","decayed","fecalSludge","sewerage","stillViable","onsiteLRV")
+
       newRow<-data.frame(region=df$region,excreted,to_groundwater,to_surface,retained_in_soil,decayed,
                          In_Fecal_Sludge,In_Sewage,stillViable=(to_groundwater+to_surface+In_Sewage+In_Fecal_Sludge),
                          Onsite_LRV=round(log10(excreted/(to_groundwater+to_surface+In_Sewage+In_Fecal_Sludge)),2),
@@ -238,5 +241,6 @@ getLoadings<-function(onsiteData="http://data.waterpathogens.org/dataset/5374462
       onsite_results=rbind(onsite_results,newRow)
   }
 
-  return(summaryEmissions=onsite_results)
+  return(detailedEmissions=loadings)
 }
+
