@@ -63,21 +63,6 @@ getLRV<-function(mySketch="http://data.waterpathogens.org/dataset/a1423a05-7680-
     }
     return(list(nodes=nodes,arrows=arrows))
   }
-  transformData<-function(k2pdata){
-    k2pdata$SQRTlrv<-sqrt(k2pdata$lrv)
-    k2pdata$llrv<-log(k2pdata$lrv)
-    k2pdata$pathogen<-k2pdata$pathogen_group
-    k2pdata$lhrt<-log(k2pdata$hrt_days)
-    k2pdata$SQRThrt<-sqrt(k2pdata$hrt_days)
-    k2pdata$SQRTht<-sqrt(k2pdata$holdingtime_days)
-    k2pdata$ldepth<-log(k2pdata$depth_meters)
-    k2pdata$temp<-k2pdata$temperature_celsius
-    k2pdata$temp2<-k2pdata$temperature_celsius^2
-    k2pdata$temp3<-k2pdata$temperature_celsius^3
-    k2pdata$ltemp<-log(k2pdata$temperature_celsius)
-    k2pdata$SQRTmoist<-sqrt(k2pdata$moisture_content_percent)
-    return(k2pdata)
-  }
   estimate<-function(nodes,pathogenType){
     # transformation of user data to make predictions
     nodes$lhrt<-NA
@@ -134,6 +119,18 @@ getLRV<-function(mySketch="http://data.waterpathogens.org/dataset/a1423a05-7680-
 
   ############### other stuff
   k2pdata<-read.csv("http://data.waterpathogens.org/dataset/eda3c64c-479e-4177-869c-93b3dc247a10/resource/9e172f8f-d8b5-4657-92a4-38da60786327/download/treatmentdata.csv",header=T)
+  suppressWarnings(k2pdata$SQRTlrv<-sqrt(k2pdata$lrv))
+  suppressWarnings(k2pdata$llrv<-log(k2pdata$lrv))
+  suppressWarnings(k2pdata$pathogen<-k2pdata$pathogen_group)
+  suppressWarnings(k2pdata$lhrt<-log(k2pdata$hrt_days))
+  suppressWarnings(k2pdata$SQRThrt<-sqrt(k2pdata$hrt_days))
+  suppressWarnings(k2pdata$SQRTht<-sqrt(k2pdata$holdingtime_days))
+  suppressWarnings(k2pdata$ldepth<-log(k2pdata$depth_meters))
+  suppressWarnings(k2pdata$temp<-k2pdata$temperature_celsius)
+  suppressWarnings(k2pdata$temp2<-k2pdata$temperature_celsius^2)
+  suppressWarnings(k2pdata$temp3<-k2pdata$temperature_celsius^3)
+  suppressWarnings(k2pdata$ltemp<-log(k2pdata$temperature_celsius))
+  suppressWarnings(k2pdata$SQRTmoist<-sqrt(k2pdata$moisture_content_percent))
   lambdas<-c(Virus=0.2,Bacteria=0.3,Protozoa=0.6,Helminths=0.99) # these lambda values are based on data from the literature (Chauret et al., 1999; Lucena et al., 2004; Ramo et al., 2017; Rose et al., 1996; Tanji et al., 2002; Tsai et al., 1998)
   lambda<-as.numeric(lambdas[pathogenType])
 
