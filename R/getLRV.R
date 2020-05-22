@@ -1,4 +1,17 @@
-# getLRV function for the pathogen flow model (to use with sketcher tool)
+#' The getLRV function
+#'
+#' This function predicts the pathogen log reduction value for a wastewater or fecal sludge treatment plant sketched using the K2P Sketcher Tool (http://tools.waterpathogens.org/sketcher/)
+#' @param sketch A JSON file containing information about the wastewater or fecal sludge treatment plant. This file must be in a very specific format and can be created using the K2P Sketcher Tool (http://tools.waterpathogens.org/sketcher/)
+#' @param inFecalSludge Number of pathogens conveyed each year to the treatment plant in fecal sludge
+#' @param inSewage Number of pathogens conveyed each year to the treatment plant in sewerage
+#' @param pathogenType Pathogen group of interest (Virus, Bacteria, Protozoa, Helminths)
+#' @keywords pathogens
+#' @export
+#' @examples
+#' getLRV(mySketch="http://data.waterpathogens.org/dataset/a1423a05-7680-4d1c-8d67-082fbeb00a50/resource/e7852e8f-9603-4b19-a5fa-9cb3cdc63bb8/download/sketch_lubigi.json",pathogenType="Virus",inFecalSludge=10000000000,inSewage=10000000000)
+#'
+#'
+#'
 getLRV<-function(mySketch="http://data.waterpathogens.org/dataset/a1423a05-7680-4d1c-8d67-082fbeb00a50/resource/e7852e8f-9603-4b19-a5fa-9cb3cdc63bb8/download/sketch_lubigi.json",pathogenType="Virus",inFecalSludge=10000000000,inSewage=10000000000){
   k2pdata<-read.csv("http://data.waterpathogens.org/dataset/eda3c64c-479e-4177-869c-93b3dc247a10/resource/9e172f8f-d8b5-4657-92a4-38da60786327/download/treatmentdata.csv",header=T)
   lambdas<-c(Virus=0.2,Bacteria=0.3,Protozoa=0.6,Helminths=0.99) # these lambda values are based on data from the literature (Chauret et al., 1999; Lucena et al., 2004; Ramo et al., 2017; Rose et al., 1996; Tanji et al., 2002; Tsai et al., 1998)

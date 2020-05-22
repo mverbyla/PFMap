@@ -65,6 +65,10 @@ The input `sketch` should refer to a JSON file that describes the wastewater or 
 
 The input `pathogenType` should be equal to either one of the following strings: `c("Virus","Bacteria","Protozoa","Helminth")`. 
 
+The input `inFecalSludge` should be a number value that represents the number of pathogens conveyed each year in fecal sludge to the treatment plant. The `getLoadings` function can be used to estimate this value for a given service area of interest, but if this value is unknown, you can just leave it blank and the function will calculate the log reduction value and the relative portion of pathogens discharged in liquid effluent vs. sludge.
+
+The input `inSewage` should be a number value that represents the number of pathogens conveyed each year in fecal sludge to the treatment plant. The `getLoadings` function can be used to estimate this value for a given service area of interest, but if this value is unknown, you can just leave it blank and the function will calculate the log reduction value and the relative portion of pathogens discharged in liquid effluent vs. sludge.
+
 ### Outputs:
 
 The function outputs a dataframe with the following values:

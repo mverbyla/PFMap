@@ -19,7 +19,7 @@ getLoadings(
 This function predicts the pathogen loadings from onsite sanitation systems for data available through the UNICEF/WHO Joint Monitoring Program and provides an output that can be used directly by the Pathogen Mapping Tool.
 }
 \examples{
-getLoadings(by="region",pathogenType="Virus")
+getLoadings(onsiteData="http://data.waterpathogens.org/dataset/5374462b-5bb5-456f-bfc0-816ea572666d/resource/4d9e5fba-9280-4b8b-acce-d1c87952acc1/download/onsitedata_example.csv",pathogenType="Virus")
 
     region     excreted to_groundwater   to_surface retained_in_soil      decayed In_Fecal_Sludge    In_Sewage  stillViable Onsite_LRV Onsite_PR
 1  Central 3.470412e+16   7.208736e+14 1.241347e+15     6.487862e+15 1.696317e+16    4.204900e+13 9.142680e+15 1.114695e+16       0.49    0.6788
