@@ -1,0 +1,15 @@
+transformData<-function(k2pdata){
+  k2pdata$SQRTlrv<-sqrt(k2pdata$lrv)
+  k2pdata$llrv<-log(k2pdata$lrv)
+  k2pdata$pathogen<-k2pdata$pathogen_group
+  k2pdata$lhrt<-log(k2pdata$hrt_days)
+  k2pdata$SQRThrt<-sqrt(k2pdata$hrt_days)
+  k2pdata$SQRTht<-sqrt(k2pdata$holdingtime_days)
+  k2pdata$ldepth<-log(k2pdata$depth_meters)
+  k2pdata$temp<-k2pdata$temperature_celsius
+  k2pdata$temp2<-k2pdata$temperature_celsius^2
+  k2pdata$temp3<-k2pdata$temperature_celsius^3
+  k2pdata$ltemp<-log(k2pdata$temperature_celsius)
+  k2pdata$SQRTmoist<-sqrt(k2pdata$moisture_content_percent)
+  return(k2pdata)
+}
