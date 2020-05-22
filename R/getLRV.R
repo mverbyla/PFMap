@@ -45,21 +45,22 @@ getLRV<-function(mySketch="http://data.waterpathogens.org/dataset/a1423a05-7680-
   for(i in 1:nrow(sketch)){
     nodes$number_inputs[i]<-length(sketch[[2]][[i]])
     nodes$number_outputs[i]<-length(data.frame(sketch[i,3])[1,])
-  };nodes
+  }
   nodes$loading_output=NA
   sn<-sketch[,c("parents","children")]
   sn$me<-as.numeric(row.names(sn))
   lenny<-rep(NA,length(sn[,1]))
   rem<-NA;j=0
-  for(i in 1:length(sn[,1])){
+  suppressWarnings(
+    for(i in 1:length(sn[,1])){
     lenny[i]<-if(is.null(dim(sn[i,1][[1]]))){0}else{length(sn[i,1][[1]])}
     if(is.null(dim(sn[i,1][[1]]))){sn[i,1][[1]]<-NA}
     if(is.null(dim(sn[i,2][[1]]))){sn[i,2][[1]]<-NA}
     if(is.na(sn[[1]][[i]])){
       j=j+1;rem[j]<-i
     }
-  };rem
-  lenny
+  }
+  )
   arrows<-data.frame(us_node=rep(NA,sum(lenny)),ds_node=rep(NA,sum(lenny)))
   sn<-sn[-rem,];rownames(sn)<-1:nrow(sn)
   m=0
