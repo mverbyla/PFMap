@@ -13,6 +13,126 @@
 #'
 #'
 getLRV<-function(mySketch="http://data.waterpathogens.org/dataset/a1423a05-7680-4d1c-8d67-082fbeb00a50/resource/e7852e8f-9603-4b19-a5fa-9cb3cdc63bb8/download/sketch_lubigi.json",pathogenType="Virus",inFecalSludge=10000000000,inSewage=10000000000){
+  ############### internal functions
+  getNodes<-function(sketch,nodes){
+    nodes$number_inputs<-NA
+    nodes$number_outputs<-NA
+    for(i in 1:nrow(sketch)){
+      nodes$number_inputs[i]<-length(sketch[[2]][[i]])
+      nodes$number_outputs[i]<-length(data.frame(sketch[i,3])[1,])
+    };nodes
+    nodes$loading_output=NA
+    sn<-sketch[,c("parents","children")]
+    sn$me<-as.numeric(row.names(sn))
+    lenny<-rep(NA,length(sn[,1]))
+    rem<-NA;j=0
+    for(i in 1:length(sn[,1])){
+      lenny[i]<-if(is.null(dim(sn[i,1][[1]]))){0}else{length(sn[i,1][[1]])}
+      if(is.null(dim(sn[i,1][[1]]))){sn[i,1][[1]]<-NA}
+      if(is.null(dim(sn[i,2][[1]]))){sn[i,2][[1]]<-NA}
+      if(is.na(sn[[1]][[i]])){
+        j=j+1;rem[j]<-i
+      }
+    };rem
+    lenny
+    arrows<-data.frame(us_node=rep(NA,sum(lenny)),ds_node=rep(NA,sum(lenny)))
+    sn<-sn[-rem,];rownames(sn)<-1:nrow(sn)
+    m=0
+    for(i in 1:sum(lenny)){
+      for(j in 1:length(sn[i,"parents"][[1]][1,])){
+        repl<-as.numeric(gsub(".*?([0-9]+).*", "\\1", sn[i,"parents"][[1]][1,j]))
+        if(length(repl)>0){
+          arrows$us_node[m+1]<-repl
+          arrows$ds_node[m+1]<-sn$me[i]
+          m=m+1
+        }
+      }
+    }
+    arrows$us_node
+    arrows$ds_node
+    arrows$loading<-NA
+    arrows$siblings<-nodes[arrows$us_node,"number_outputs"]
+    arrows$flowtype<-nodes[arrows$ds_node,"matrix"]
+    arrows$siblings_solid<-NA
+    arrows$siblings_liquid<-NA
+    arrows$iamsolid<-NA
+    for(i in 1:nrow(arrows)){
+      arrows$siblings_solid[i]<-sum(arrows$flowtype[which(arrows$us_node==arrows$us_node[i])]=="solid")
+      arrows$siblings_liquid[i]<-sum(arrows$flowtype[which(arrows$us_node==arrows$us_node[i])]=="liquid")
+      if(arrows$flowtype[i]=="solid"){arrows$iamsolid[i]<-TRUE}else{arrows$iamsolid[i]<-FALSE}
+    }
+    return(list(nodes=nodes,arrows=arrows))
+  }
+  transformData<-function(k2pdata){
+    k2pdata$SQRTlrv<-sqrt(k2pdata$lrv)
+    k2pdata$llrv<-log(k2pdata$lrv)
+    k2pdata$pathogen<-k2pdata$pathogen_group
+    k2pdata$lhrt<-log(k2pdata$hrt_days)
+    k2pdata$SQRThrt<-sqrt(k2pdata$hrt_days)
+    k2pdata$SQRTht<-sqrt(k2pdata$holdingtime_days)
+    k2pdata$ldepth<-log(k2pdata$depth_meters)
+    k2pdata$temp<-k2pdata$temperature_celsius
+    k2pdata$temp2<-k2pdata$temperature_celsius^2
+    k2pdata$temp3<-k2pdata$temperature_celsius^3
+    k2pdata$ltemp<-log(k2pdata$temperature_celsius)
+    k2pdata$SQRTmoist<-sqrt(k2pdata$moisture_content_percent)
+    return(k2pdata)
+  }
+  estimate<-function(nodes,pathogenType){
+    # transformation of user data to make predictions
+    nodes$lhrt<-NA
+    nodes$lhrt[nodes$subType=="anaerobic pond"|nodes$subType=="facultative pond"|nodes$subType=="maturation pond"]<-log(nodes$retentionTime[nodes$subType=="anaerobic pond"|nodes$subType=="facultative pond"|nodes$subType=="maturation pond"])
+    nodes$SQRThrt<-sqrt(nodes$retentionTime)
+    nodes$SQRTht<-sqrt(as.double(nodes$holdingTime))
+    nodes$ldepth<-NA
+    nodes$ldepth[nodes$subType=="anaerobic pond"|nodes$subType=="facultative pond"|nodes$subType=="maturation pond"]<-log(nodes$depth[nodes$subType=="anaerobic pond"|nodes$subType=="facultative pond"|nodes$subType=="maturation pond"])
+    nodes$temp<-nodes$temperature
+    nodes$temp2<-nodes$temperature^2
+    nodes$temp3<-nodes$temperature^3
+    nodes$ltemp<-NA
+    nodes$ltemp[nodes$subType=="sludge drying bed"]<-log(nodes$temperature[nodes$subType=="sludge drying bed"])
+    nodes$ltemp<-log(nodes$temperature)
+    nodes$SQRTmoist<-sqrt(as.double(nodes$moistureContent))
+    nodes$pathogen<-pathogenType
+    nodes$fit<-0;nodes$upr<-0;nodes$lwr<-0
+    # execution of models
+    if(any(nodes$subType=="anaerobic pond")==TRUE){nodes[nodes$subType=="anaerobic pond",c("fit","lwr","upr")]<-predict(fit_ap,nodes[nodes$subType=="anaerobic pond",],interval="confidence")^2}
+    if(any(nodes$subType=="facultative pond")==TRUE){nodes[nodes$subType=="facultative pond",c("fit","lwr","upr")]<-predict(fit_fp,nodes[nodes$subType=="facultative pond",],interval="confidence")^2}
+    if(any(nodes$subType=="maturation pond")==TRUE){nodes[nodes$subType=="maturation pond",c("fit","lwr","upr")]<-predict(fit_mp,nodes[nodes$subType=="maturation pond",],interval="confidence")^2}
+    if(any(nodes$subType=="sludge drying bed")==TRUE){
+      if(pathogenType=="Virus"){nodes[nodes$subType=="sludge drying bed",c("fit","lwr","upr")]<-1}else{nodes[nodes$subType=="sludge drying bed",c("fit","lwr","upr")]<-predict(fit_db,nodes[nodes$subType=="sludge drying bed",],interval="confidence")^2}
+    }
+    if(any(nodes$subType=="trickling filter")==TRUE){
+      if(pathogenType=="Helminth"){nodes[nodes$subType=="trickling filter",c("fit","lwr","upr")]<-1}else{nodes[nodes$subType=="trickling filter",c("fit","lwr","upr")]<-predict(fit_tf,nodes[nodes$subType=="trickling filter",],interval="confidence")^2}
+    }
+    if(any(nodes$subType=="settler/sedimentation")==TRUE){
+      if(pathogenType=="Protozoa"|pathogenType=="Helminth"){nodes[nodes$subType=="settler/sedimentation",c("fit","lwr","upr")]<-0}else{nodes[nodes$subType=="settler/sedimentation",c("fit","lwr","upr")]<-predict(fit_sd,nodes[nodes$subType=="settler/sedimentation",],interval="confidence")^2}
+    }
+    return(nodes)
+  }
+  solveit<-function(nodes,arrows,lambda){
+    i=1;j=1
+    while (any(is.na(arrows$loading)) == TRUE | any(is.na(nodes$loading_output)) == TRUE){
+      if(nodes[j,]$ntype=="source"){arrows$loading[i]=nodes$loading_output[arrows$us_node[i]]/arrows$siblings[i]}
+      if(any(arrows$ds_node==(j+1))==TRUE){
+        nodes$loading_output[j+1]=10^(log10(sum(arrows$loading[which(arrows$ds_node==(j+1))]))-nodes$fit[j+1])
+      }
+      if(arrows$iamsolid[i+1]==TRUE & arrows$siblings_liquid[i+1]>0){ #if I'm a solid but I have liquid siblings
+        arrows$loading[i+1]=nodes$loading_output[arrows$us_node[i+1]]*lambda/arrows$siblings_solid[i+1]
+      }else{
+        if(arrows$iamsolid[i+1]==FALSE & arrows$siblings_solid[i+1]>0){ #if I'm a liquid but I have solid siblings
+          arrows$loading[i+1]=nodes$loading_output[arrows$us_node[i+1]]*(1-lambda)/arrows$siblings_liquid[i+1]
+        }else{arrows$loading[i+1]=nodes$loading_output[arrows$us_node[i+1]]/arrows$siblings[i+1]} #otherwise I only have siblings that are like me, could be liquid or solid but we're all the same
+      }
+      #arrows$loading[i+1]=nodes$loading_output[arrows$us_node[i+1]]/arrows$divideby[i+1]
+      if(i==(nrow(arrows)-1)){i=1} else {i=i+1}
+      if(j==(nrow(nodes)-1)){j=1} else {j=j+1};arrows;nodes[,c("subType","loading_output")]
+    }
+    lrv=log10(sum(nodes$loading_output[nodes$ntype=="source"])/sum(nodes$loading_output[nodes$ntype=="end use"]))
+    return(list(arrows=arrows,nodes=nodes,lrv=lrv))
+  }
+
+  ############### other stuff
   k2pdata<-read.csv("http://data.waterpathogens.org/dataset/eda3c64c-479e-4177-869c-93b3dc247a10/resource/9e172f8f-d8b5-4657-92a4-38da60786327/download/treatmentdata.csv",header=T)
   lambdas<-c(Virus=0.2,Bacteria=0.3,Protozoa=0.6,Helminths=0.99) # these lambda values are based on data from the literature (Chauret et al., 1999; Lucena et al., 2004; Ramo et al., 2017; Rose et al., 1996; Tanji et al., 2002; Tsai et al., 1998)
   lambda<-as.numeric(lambdas[pathogenType])
