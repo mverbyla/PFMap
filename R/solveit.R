@@ -2,7 +2,6 @@ solveit<-function(nodes,arrows,lambda){
   i=1;j=1
   while (any(is.na(arrows$loading)) == TRUE | any(is.na(nodes$loading_output)) == TRUE){
     if(nodes[j,]$ntype=="source"){arrows$loading[i]=nodes$loading_output[arrows$us_node[i]]/arrows$siblings[i]}
-    #arrows$loading[i]=nodes$loading_output[arrows$us_node[i]]/arrows$divideby[i]
     if(any(arrows$ds_node==(j+1))==TRUE){
       nodes$loading_output[j+1]=10^(log10(sum(arrows$loading[which(arrows$ds_node==(j+1))]))-nodes$fit[j+1])
     }

@@ -17,13 +17,13 @@ getNodes<-function(sketch,nodes){
     if(is.na(sn[[1]][[i]])){
       j=j+1;rem[j]<-i
     }
-  };rem 
+  };rem
   lenny
   arrows<-data.frame(us_node=rep(NA,sum(lenny)),ds_node=rep(NA,sum(lenny)))
   sn<-sn[-rem,];rownames(sn)<-1:nrow(sn)
   m=0
   for(i in 1:sum(lenny)){
-    for(j in 1:length(sn[i,"parents"][[1]][1,])){ 
+    for(j in 1:length(sn[i,"parents"][[1]][1,])){
       repl<-as.numeric(gsub(".*?([0-9]+).*", "\\1", sn[i,"parents"][[1]][1,j]))
       if(length(repl)>0){
         arrows$us_node[m+1]<-repl
