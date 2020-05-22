@@ -1,5 +1,6 @@
 # getLRV function for the pathogen flow model (to use with sketcher tool)
-getLRV(mySketch="http://data.waterpathogens.org/dataset/a1423a05-7680-4d1c-8d67-082fbeb00a50/resource/e7852e8f-9603-4b19-a5fa-9cb3cdc63bb8/download/sketch_lubigi.json",pathogenType,inFecalSludge=10000000000,inSewage=10000000000){
+getLRV(mySketch="http://data.waterpathogens.org/dataset/a1423a05-7680-4d1c-8d67-082fbeb00a50/resource/e7852e8f-9603-4b19-a5fa-9cb3cdc63bb8/download/sketch_lubigi.json",pathogenType,
+       inFecalSludge=10000000000,inSewage=10000000000){
   k2pdata<-read.csv("http://data.waterpathogens.org/dataset/eda3c64c-479e-4177-869c-93b3dc247a10/resource/9e172f8f-d8b5-4657-92a4-38da60786327/download/treatmentdata.csv",header=T)
 
 }
@@ -17,8 +18,8 @@ sketch$retentionTime<-as.double(sketch$retentionTime)
 sketch$depth<-as.double(sketch$depth)
 
 res<-suppressWarnings(getNodes(sketch = sketch, nodes = sketch[,-c(2,3)]))
-nodes[[m]]<-res$nodes
-arrows[[m]]<-res$arrows
+nodes<-res$nodes
+arrows<-res$arrows
 
 sketch
 nodes
@@ -36,56 +37,41 @@ fit_sd<-lm(SQRTlrv ~ factor(pathogen),data=subset(k2pdata,technology_description
 
 # find the LRVs for each pathogen group, then solve the DAG!
 pathogenGroups<-c("Virus","Bacteria","Protozoa","Helminth")
-#nodeLRVs<-list()
-nodeLRVs.names <- sketches
-nodeLRVs <- vector("list", length(nodeLRVs.names))
-names(nodeLRVs) <- nodeLRVs.names
-
-myNodes.names <- sketches
-myNodes <- vector("list", length(myNodes.names))
-names(myNodes) <- myNodes.names
-
-#arrowLoads<-list()
-arrowLoads.names <- sketches
-arrowLoads <- vector("list", length(arrowLoads.names))
-names(arrowLoads) <- arrowLoads.names
 
 warnings<-vector(mode="character",length=0)
 
-for(h in 1:length(pathogenGroups)){
-  for(k in 1:length(sketches)){
-    if(sum(results[[h]][sketches[k],]$In_Fecal_Sludge)==0 | (any(results[[h]][sketches[k],]$In_Fecal_Sludge>0)==TRUE & any(nodes[[k]]$subType=="fecal sludge")==FALSE)){ #if the onsite system produces fecal sludge but the treatment plant does not accept any
-      results[[h]]$to_surface<-results[[h]]$to_surface+results[[h]]$In_Fecal_Sludge
-      warnings[length(warnings)+1]<-paste("Warning: The onsite sanitation technologies in",sketches[k],"produce fecal sludge, but according to your sketch, the treatment plant does not appear to be accepting fecal sludge.")
-      results[[h]][sketches[k],]$In_Fecal_Sludge<-0
-      skipFS<-TRUE
-    }else{skipFS<-FALSE}
-    if(sum(results[[h]][sketches[k],]$In_Sewage)==0 | (any(results[[h]][sketches[k],]$In_Sewage>0)==TRUE & any(nodes[[k]]$subType=="sewerage")==FALSE)){ #if the onsite system produces sewerage but the treatment plant does not accept any
-      results[[h]]$to_surface<-results[[h]]$to_surface+results[[h]]$In_Sewage
-      warnings[length(warnings)+1]<-paste("Warning: The onsite sanitation technologies in",sketches[k],"produce sewerage, but according to your sketch, the treatment plant does not appear to be accepting sewerage.")
-      results[[h]][sketches[k],]$In_Sewage<-0
-      skipWW<-TRUE
-    }else{skipWW<-FALSE}
+if(results$In_Fecal_Sludge>0 & any(nodes$subType=="fecal sludge")==FALSE){ #if the onsite system produces fecal sludge but the treatment plant does not accept any
+  results$To_Surface<-results$In_Fecal_Sludge
+  warnings[length(warnings)+1]<-"Warning: The onsite sanitation technologies in your system produce fecal sludge, but according to your sketch, the treatment plant does not accept fecal sludge.")
+  results$In_Fecal_Sludge<-0
+  skipFS<-TRUE
+}else{skipFS<-FALSE}
+if(sum(results[mySketch,]$In_Sewage)==0 | (any(results[mySketch,]$In_Sewage>0)==TRUE & any(nodes$subType=="sewerage")==FALSE)){ #if the onsite system produces sewerage but the treatment plant does not accept any
+  results$to_surface<-results$to_surface+results$In_Sewage
+  warnings[length(warnings)+1]<-paste("Warning: The onsite sanitation technologies in",mySketch,"produce sewerage, but according to your sketch, the treatment plant does not appear to be accepting sewerage.")
+  results[mySketch,]$In_Sewage<-0
+  skipWW<-TRUE
+}else{skipWW<-FALSE}
 
-    nodes[[k]]$loading_output<-NA
-    arrows[[k]]$loading<-NA
-    if(skipFS==FALSE){nodes[[k]][nodes[[k]]$subType=="fecal sludge",]$loading_output<-results[[h]][sketches[k],]$In_Fecal_Sludge}
-    if(skipWW==FALSE){nodes[[k]][nodes[[k]]$subType=="sewerage",]$loading_output<-results[[h]][sketches[k],]$In_Sewage}
-    # get the LRVs for each node
-    nodes[[k]]<-estimate(nodes[[k]],pathogenType=pathogenGroups[h])
+nodes[[k]]$loading_output<-NA
+arrows[[k]]$loading<-NA
+if(skipFS==FALSE){nodes[nodes$subType=="fecal sludge",]$loading_output<-results[mySketch,]$In_Fecal_Sludge}
+if(skipWW==FALSE){nodes[nodes$subType=="sewerage",]$loading_output<-results[mySketch,]$In_Sewage}
+# get the LRVs for each node
+nodes<-estimate(nodes,pathogenType=pathogenType)
 
-    nodeLRVs[[k]][[pathogenGroups[h]]]<-nodes[[k]][,c("name","fit","lwr","upr")]
+nodeLRVs[[pathogenType]]<-nodes[,c("name","fit","lwr","upr")]
 
-    # solve the DAG
-    solved<-solveit(nodes[[k]],arrows[[k]],lambda=lambdas[h])
-    #myNodes[[k]][[pathogenGroups[h]]]<-solved$arrows[,c("name","pathogen","loading_output","fit","lwr","upr")]
-    # store the results
-    arrowLoads[[k]][[pathogenGroups[h]]]<-solved$arrows
-    results[[h]][sketches[k],]$Centralized_LRV<-round(solved$lrv,2)
-    if(any(solved$nodes$matrix=="liquid")){results[[h]][sketches[k],]$Liquid_Effluent<-solved$nodes[solved$nodes$ntype=="end use" & solved$nodes$matrix=="liquid",]$loading_output}else{results[[h]][sketches[k],]$Liquid_Effluent<-0}
-    if(any(solved$nodes$matrix=="solid")){results[[h]][sketches[k],]$Sludge_Biosolids<-sum(solved$nodes[solved$nodes$ntype=="end use" & solved$nodes$matrix=="solid",]$loading_output)}else{results[[h]][sketches[k],]$Sludge_Biosolids<-0}
-  }
-}
+# solve the DAG
+solved<-solveit(nodes[[k]],arrows[[k]],lambda=lambdas[h])
+#myNodes[[k]][[pathogenGroups[h]]]<-solved$arrows[,c("name","pathogen","loading_output","fit","lwr","upr")]
+# store the results
+arrowLoads[[k]][[pathogenGroups[h]]]<-solved$arrows
+results[[h]][sketches[k],]$Centralized_LRV<-round(solved$lrv,2)
+if(any(solved$nodes$matrix=="liquid")){results[[h]][sketches[k],]$Liquid_Effluent<-solved$nodes[solved$nodes$ntype=="end use" & solved$nodes$matrix=="liquid",]$loading_output}else{results[[h]][sketches[k],]$Liquid_Effluent<-0}
+if(any(solved$nodes$matrix=="solid")){results[[h]][sketches[k],]$Sludge_Biosolids<-sum(solved$nodes[solved$nodes$ntype=="end use" & solved$nodes$matrix=="solid",]$loading_output)}else{results[[h]][sketches[k],]$Sludge_Biosolids<-0}
+
+
 
 # First the references
 ref.names <- sketches

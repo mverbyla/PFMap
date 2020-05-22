@@ -4,7 +4,7 @@ layout: default
 
 ## Installation
 
-The latest version of pathogenflows can be installed from github (if you don't have the package **devtools**, you will need to install it first):
+The latest version of `pathogenflows` can be installed from github (if you don't have the package **devtools**, you will need to install it first):
 
 ``` r
 # install.packages("devtools")
@@ -13,7 +13,13 @@ devtools::install_github('mverbyla/pathogenflows')
 
 ## About
 
-The `getLoadings` function allows you to predict annual loadings of water pathogens from the onsite sanitation system technologies used in a given region of the world. 
+The `pathogenflows` package contains two functions that can be used to predict pathogen flows throughout sanitation systems.
+
+The `getLoadings` function allows you to predict annual loadings of water pathogens from onsite sanitation system technologies used in a given region of the world. 
+
+The `getLRV` function allows you to predict the overall log<sub>10</sub> reduction value for viral, bacterial, protozoan, or helminth pathogens by a custom wastewater treatment plant, specified using the [K2P Sketcher Tool](http://tools.waterpathogens.org/sketcher/).
+
+## getLoadings
 
 ### Inputs:
 
@@ -45,10 +51,29 @@ The function outputs a list with a dataframe for each `subregion`, where each su
 | `stillViable`  | Still viable  | Total number of pathogens that remain viable (`stillViable + decayed = excreted`)  |
 | `onsiteLRV`  | Onsite log reduction value  | The base 10 logarithmic reduction of pathogens achieved by onsite sanitation (`Onsite_LRV = log10(excreted/stillViable)`) |
 
+## getLRV
+
+### Inputs:
+
+The `getLRV` function requires the following two inputs:
+*   sketch
+*   pathogenType
+*   inFecalSludge
+*   inSewage
+
+The input `sketch` should refer to a JSON file that describes the wastewater or fecal sludge treatment plant. This file must be in a very specific format. An example file can be found [here](http://data.waterpathogens.org/dataset/a1423a05-7680-4d1c-8d67-082fbeb00a50/resource/e7852e8f-9603-4b19-a5fa-9cb3cdc63bb8/download/sketch_lubigi.json). A file like this can be created using the [K2P Sketcher Tool](http://tools.waterpathogens.org/sketcher/).
+
+The input `pathogenType` should be equal to either one of the following strings: `c("Virus","Bacteria","Protozoa","Helminth")`. 
+
+### Outputs:
+
+The function outputs a dataframe with the following values:
+
+`dataframe goes here`
 
 ![PathogenFlows](./assets/img/PFTlogo.png)
 
-## Example
+## Examples
 
 The following shows the use of the getLoadings function for data from Kampala, Uganda, grouping the data by 'region' and showing results for the 'Virus' group.
 
