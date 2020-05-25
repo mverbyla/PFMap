@@ -10,7 +10,7 @@
 #' @examples
 #' getLRV(mySketch="http://data.waterpathogens.org/dataset/a1423a05-7680-4d1c-8d67-082fbeb00a50/resource/e7852e8f-9603-4b19-a5fa-9cb3cdc63bb8/download/sketch_lubigi.json",pathogenType="Virus",inFecalSludge=10000000000,inSewage=10000000000)
 #'
-#'
+#' getLRV(mySketch="http://data.waterpathogens.org/dataset/829ff74c-c5cb-4065-be22-2760537b3229/resource/ca04ffc0-d024-42f1-8640-4610cff6cafb/download/kirinyawastewatertreatmentplant-jinja.json",pathogenType="Virus",inFecalSludge=10000000000,inSewage=10000000000)
 #'
 getLRV<-function(mySketch="http://data.waterpathogens.org/dataset/a1423a05-7680-4d1c-8d67-082fbeb00a50/resource/e7852e8f-9603-4b19-a5fa-9cb3cdc63bb8/download/sketch_lubigi.json",pathogenType="Virus",inFecalSludge=10000000000,inSewage=10000000000){
   k2pdata<-read.csv("http://data.waterpathogens.org/dataset/eda3c64c-479e-4177-869c-93b3dc247a10/resource/9e172f8f-d8b5-4657-92a4-38da60786327/download/treatmentdata.csv",header=T)
@@ -39,34 +39,38 @@ getLRV<-function(mySketch="http://data.waterpathogens.org/dataset/a1423a05-7680-
 
   ########((((((((this is the beginning of the old getNodes function))))))))
   #res<-suppressWarnings(getNodes(sketch = sketch, nodes = sketch[,-c(2,3)]))
-  nodes = sketch[,-c(2,3)]
+  drop <- c("x","y","parents","children")
+  nodes = sketch[,!(names(sketch) %in% drop)]
+
   nodes$number_inputs<-NA
   nodes$number_outputs<-NA
   for(i in 1:nrow(sketch)){
-    nodes$number_inputs[i]<-length(sketch[[2]][[i]])
-    nodes$number_outputs[i]<-length(data.frame(sketch[i,3])[1,])
+    nodes$number_inputs[i]<-length(sketch[["parents"]][[i]])
+    nodes$number_outputs[i]<-length(sketch[["children"]][[i]])
   }
   nodes$loading_output=NA
   sn<-sketch[,c("parents","children")]
   sn$me<-as.numeric(row.names(sn))
-  lenny<-rep(NA,length(sn[,1]))
+  numParents<-rep(NA,length(sn[,1]))
   rem<-NA;j=0
-  suppressWarnings(
+  suppressWarnings(  # this for loop turns all NULL parents and children to NA values, and it counts the number of parents (numParents) each node has
     for(i in 1:length(sn[,1])){
-    lenny[i]<-if(is.null(dim(sn[i,1][[1]]))){0}else{length(sn[i,1][[1]])}
-    if(is.null(dim(sn[i,1][[1]]))){sn[i,1][[1]]<-NA}
-    if(is.null(dim(sn[i,2][[1]]))){sn[i,2][[1]]<-NA}
-    if(is.na(sn[[1]][[i]])){
-      j=j+1;rem[j]<-i
+      numParents[i]<-if(is.null(length(sn[i,1][[1]]))){0}else{length(sn[i,1][[1]])}
+      if(is.null(sn$parents[[i]]) | rlang::is_empty(sn$parents[[i]])){sn[i,1][[1]]<-NA}
+      if(is.null(sn$children[[i]]) | rlang::is_empty(sn$children[[i]])){sn[i,2][[1]]<-NA}
+      if(is.na(sn[[1]][[i]])){
+        j=j+1;rem[j]<-i
+      }
     }
-  }
   )
-  arrows<-data.frame(us_node=rep(NA,sum(lenny)),ds_node=rep(NA,sum(lenny)))
-  sn<-sn[-rem,];rownames(sn)<-1:nrow(sn)
+  orph<-which(numParents==0)
+  arrows<-data.frame(us_node=rep(NA,sum(numParents)),ds_node=rep(NA,sum(numParents)))
+  sn<-sn[-orph,];rownames(sn)<-1:nrow(sn)
+
   m=0
-  for(i in 1:sum(lenny)){
-    for(j in 1:length(sn[i,"parents"][[1]][1,])){
-      repl<-as.numeric(gsub(".*?([0-9]+).*", "\\1", sn[i,"parents"][[1]][1,j]))
+  for(i in 1:sum(numParents)){
+    for(j in 1:length(sn[i,"parents"][[1]])){
+      repl<-sn[i,"parents"][[1]]
       if(length(repl)>0){
         arrows$us_node[m+1]<-repl
         arrows$ds_node[m+1]<-sn$me[i]
@@ -74,6 +78,7 @@ getLRV<-function(mySketch="http://data.waterpathogens.org/dataset/a1423a05-7680-
       }
     }
   }
+
   arrows$us_node
   arrows$ds_node
   arrows$loading<-NA
@@ -167,7 +172,7 @@ getLRV<-function(mySketch="http://data.waterpathogens.org/dataset/a1423a05-7680-
 
     ####(((((((this is the end of the old estimate function)))))))
 
-  nodeLRVs<-nodes[,c("name","fit","lwr","upr")]
+  nodeLRVs<-nodes[,c("name","subType","fit","lwr","upr")]
 
 
   #######(((((((SOLVE IT SOLVE IT SOLVE IT)))))))
@@ -189,7 +194,7 @@ getLRV<-function(mySketch="http://data.waterpathogens.org/dataset/a1423a05-7680-
     }
     #arrows$loading[i+1]=nodes$loading_output[arrows$us_node[i+1]]/arrows$divideby[i+1]
     if(i==(nrow(arrows)-1)){i=1} else {i=i+1}
-    if(j==(nrow(nodes)-1)){j=1} else {j=j+1};arrows;nodes[,c("subType","loading_output")]
+    if(j==(nrow(nodes)-1)){j=1} else {j=j+1};arrows;nodes[,c("subType","loading_output")];i;j
   }
   lrv=log10(sum(nodes$loading_output[nodes$ntype=="source"])/sum(nodes$loading_output[nodes$ntype=="end use"]))
 
