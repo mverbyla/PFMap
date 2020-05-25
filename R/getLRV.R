@@ -8,9 +8,9 @@
 #' @keywords pathogens
 #' @export
 #' @examples
-#' getLRV(mySketch="http://data.waterpathogens.org/dataset/a1423a05-7680-4d1c-8d67-082fbeb00a50/resource/e7852e8f-9603-4b19-a5fa-9cb3cdc63bb8/download/sketch_lubigi.json",pathogenType="Virus",inFecalSludge=10000000000,inSewage=10000000000)
+#' getLRV(mySketch="http://data.waterpathogens.org/dataset/afafd87c-b592-44c5-bb42-0a5a8415e54b/resource/83057ee9-402d-4b9b-8ab3-92053ee94c63/download/lubigisewageandfecalsludgetreatmentsystemv4.json",pathogenType="Virus",inFecalSludge=10000000000,inSewage=10000000000)
 #'
-#' getLRV(mySketch="http://data.waterpathogens.org/dataset/829ff74c-c5cb-4065-be22-2760537b3229/resource/ca04ffc0-d024-42f1-8640-4610cff6cafb/download/kirinyawastewatertreatmentplant-jinja.json",pathogenType="Virus",inFecalSludge=10000000000,inSewage=10000000000)
+#' getLRV(mySketch="http://data.waterpathogens.org/dataset/bd53bbc6-a8f3-4d10-95b6-35f36e274b3c/resource/5cf1c3e0-a28c-4293-81e9-12586dd8941c/download/kirinyawastewatertreatmentplant-jinja6.json",pathogenType="Virus",inFecalSludge=10000000000,inSewage=10000000000)
 #'
 getLRV<-function(mySketch="http://data.waterpathogens.org/dataset/a1423a05-7680-4d1c-8d67-082fbeb00a50/resource/e7852e8f-9603-4b19-a5fa-9cb3cdc63bb8/download/sketch_lubigi.json",pathogenType="Virus",inFecalSludge=10000000000,inSewage=10000000000){
   k2pdata<-read.csv("http://data.waterpathogens.org/dataset/eda3c64c-479e-4177-869c-93b3dc247a10/resource/9e172f8f-d8b5-4657-92a4-38da60786327/download/treatmentdata.csv",header=T)
@@ -50,7 +50,7 @@ getLRV<-function(mySketch="http://data.waterpathogens.org/dataset/a1423a05-7680-
   }
   nodes$loading_output=NA
   sn<-sketch[,c("parents","children")]
-  sn$me<-as.numeric(row.names(sn))
+  sn$me<-as.character(sketch[,c("name")])
   numParents<-rep(NA,length(sn[,1]))
   rem<-NA;j=0
   suppressWarnings(  # this for loop turns all NULL parents and children to NA values, and it counts the number of parents (numParents) each node has
@@ -67,21 +67,18 @@ getLRV<-function(mySketch="http://data.waterpathogens.org/dataset/a1423a05-7680-
   arrows<-data.frame(us_node=rep(NA,sum(numParents)),ds_node=rep(NA,sum(numParents)))
   sn<-sn[-orph,];rownames(sn)<-1:nrow(sn)
 
-  m=0
-  for(i in 1:sum(numParents)){
+  m=1
+  for(i in 1:nrow(sn)){
     for(j in 1:length(sn[i,"parents"][[1]])){
-      repl<-sn[i,"parents"][[1]]
-      if(length(repl)>0){
-        arrows$us_node[m+1]<-repl
-        arrows$ds_node[m+1]<-sn$me[i]
-        m=m+1
-      }
+      arrows$us_node[m]<-sn[i,"parents"][[1]][j]
+      arrows$ds_node[m]<-sn$me[i]
+      m=m+1
     }
   }
 
-  arrows$us_node
-  arrows$ds_node
+
   arrows$loading<-NA
+  rownames(nodes)<-nodes$name
   arrows$siblings<-nodes[arrows$us_node,"number_outputs"]
   arrows$flowtype<-nodes[arrows$ds_node,"matrix"]
   arrows$siblings_solid<-NA
@@ -92,13 +89,8 @@ getLRV<-function(mySketch="http://data.waterpathogens.org/dataset/a1423a05-7680-
     arrows$siblings_liquid[i]<-sum(arrows$flowtype[which(arrows$us_node==arrows$us_node[i])]=="liquid")
     if(arrows$flowtype[i]=="solid"){arrows$iamsolid[i]<-TRUE}else{arrows$iamsolid[i]<-FALSE}
   }
-  res<-list(nodes=nodes,arrows=arrows)
 
   ####(((((((this is the end of the old getNodes function)))))))
-
-
-  nodes<-res$nodes
-  arrows<-res$arrows
 
   # transform the K2P data and fit the models
   # k2pdata<-suppressWarnings(transformData(k2pdata))
@@ -179,22 +171,25 @@ getLRV<-function(mySketch="http://data.waterpathogens.org/dataset/a1423a05-7680-
   #######(((((((SOLVE IT SOLVE IT SOLVE IT)))))))
   #######(((((((SOLVE IT SOLVE IT SOLVE IT)))))))
   # solve the DAG
-  i=1;j=1
-  while (any(is.na(arrows$loading)) == TRUE | any(is.na(nodes$loading_output)) == TRUE){
-    if(nodes[j,]$ntype=="source"){arrows$loading[i]=nodes$loading_output[arrows$us_node[i]]/arrows$siblings[i]}
-    if(any(arrows$ds_node==(j+1))==TRUE){
-      nodes$loading_output[j+1]=10^(log10(sum(arrows$loading[which(arrows$ds_node==(j+1))]))-nodes$fit[j+1])
+  i=0;j=0   # here, j is an index for the nodes and i is an index for the arrows
+  nN<-nodes$name
+  while (any(is.na(arrows$loading)) == TRUE | any(is.na(nodes$loading_output)) == TRUE){       ##### each loop focuses on a single node (nN[j+1]) and the arrow (i+1) that is going into it
+    if(nodes[nN[j+1],]$ntype=="source"){                                             # if this node nN[j+1] is a source...
+      arrows$loading[i]=nodes[arrows$us_node[i],]$loading_output/arrows$siblings[i]  # then divide the loads in the arrows leaving the source by the number of arrows leaving it
+      }
+    if(any(arrows$ds_node==(nN[j+1]))==TRUE){       #CALCULATES THE LOADING LEAVING THIS NODE                               # if there are any arrows coming into this downstream node (nN[j+1])...
+      nodes[nN[j+1],]$loading_output=10^(log10(sum(arrows$loading[which(arrows$ds_node==(nN[j+1]))]))-nodes[nN[j+1],]$fit)  # then get the sum of all arrows going into that downstream node (nN[j+1]), minus the LRV for that node, to give the output from that downstream node
     }
-    if(arrows$iamsolid[i+1]==TRUE & arrows$siblings_liquid[i+1]>0){ #if I'm a solid but I have liquid siblings
-      arrows$loading[i+1]=nodes$loading_output[arrows$us_node[i+1]]*lambda/arrows$siblings_solid[i+1]
+    if(arrows[i+1,]$iamsolid==TRUE & arrows$siblings_liquid[i+1]>0){    #CALCULATES THE LOADING IN THIS ARROW     # if this arrow is a solid but has liquid siblings
+      arrows[i+1,]$loading=nodes[arrows[i+1,]$us_node,]$loading_output*lambda/arrows$siblings_solid[i+1]          # then use the factor lambda to divide the loading up between liquid vs. solid
     }else{
-      if(arrows$iamsolid[i+1]==FALSE & arrows$siblings_solid[i+1]>0){ #if I'm a liquid but I have solid siblings
-        arrows$loading[i+1]=nodes$loading_output[arrows$us_node[i+1]]*(1-lambda)/arrows$siblings_liquid[i+1]
-      }else{arrows$loading[i+1]=nodes$loading_output[arrows$us_node[i+1]]/arrows$siblings[i+1]} #otherwise I only have siblings that are like me, could be liquid or solid but we're all the same
+      if(arrows$iamsolid[i+1]==FALSE & arrows$siblings_solid[i+1]>0){   #CALCULATES THE LOADING IN THIS ARROW     # if this arrow is a liquid but has solid siblings
+        arrows$loading[i+1]=nodes[arrows$us_node[i+1],]$loading_output*(1-lambda)/arrows$siblings_liquid[i+1]     # then use the factor lambda to divide the loading up between liquid vs. solid
+      }else{arrows$loading[i+1]=nodes[arrows$us_node[i+1],]$loading_output/arrows$siblings[i+1]}                  # otherwise this arrow only has siblings that are the same as it (could be liquid or solid, but they're all the same), so just divide the loading by the number of siblings
     }
     #arrows$loading[i+1]=nodes$loading_output[arrows$us_node[i+1]]/arrows$divideby[i+1]
-    if(i==(nrow(arrows)-1)){i=1} else {i=i+1}
-    if(j==(nrow(nodes)-1)){j=1} else {j=j+1};arrows;nodes[,c("subType","loading_output")];i;j
+    if(i==(nrow(arrows)-1)){i=0} else {i=i+1}
+    if(j==(nrow(nodes)-1)){j=0} else {j=j+1};arrows;nodes[,c("subType","loading_output")];i;nN[j]
   }
   lrv=log10(sum(nodes$loading_output[nodes$ntype=="source"])/sum(nodes$loading_output[nodes$ntype=="end use"]))
 
@@ -211,6 +206,11 @@ getLRV<-function(mySketch="http://data.waterpathogens.org/dataset/a1423a05-7680-
   if(any(solved$nodes$matrix=="solid")){results$Sludge_Biosolids<-sum(solved$nodes[solved$nodes$ntype=="end use" & solved$nodes$matrix=="solid",]$loading_output)}else{results$Sludge_Biosolids<-0}
 
   references<-unique(k2pdata[nodes$subType %in% tolower(unique(k2pdata$technology_description)),]$bib_id)
+
+  arrows$relativeLoading<-arrows$loading/(results$In_Fecal_Sludge+results$In_Sewage)
+
+  arrows$us_node_type<-nodes[arrows$us_node,]$subType
+  arrows$ds_node_type<-nodes[arrows$ds_node,]$subType
 
   return(list(Results=results,References=references))
 }
