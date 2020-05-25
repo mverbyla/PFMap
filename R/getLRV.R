@@ -212,5 +212,5 @@ getLRV<-function(mySketch="http://data.waterpathogens.org/dataset/a1423a05-7680-
   arrows$us_node_type<-nodes[arrows$us_node,]$subType
   arrows$ds_node_type<-nodes[arrows$ds_node,]$subType
 
-  return(list(Results=results,References=references))
+  return(list(Arrows=arrows,Nodes=nodes,Results=results,References=references))
 }
