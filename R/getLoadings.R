@@ -241,6 +241,6 @@ getLoadings<-function(onsiteData="http://data.waterpathogens.org/dataset/5374462
       onsite_results=rbind(onsite_results,newRow)
   }
 
-  return(detailedEmissions=loadings)
+  return(list(detailed=loadings,summary=onsite_results))
 }
 
