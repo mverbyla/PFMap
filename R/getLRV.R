@@ -4,7 +4,7 @@
 #' @param sketch A JSON file containing information about the wastewater or fecal sludge treatment plant. This file must be in a very specific format and can be created using the K2P Sketcher Tool (http://tools.waterpathogens.org/sketcher/)
 #' @param inFecalSludge Number of pathogens conveyed each year to the treatment plant in fecal sludge
 #' @param inSewage Number of pathogens conveyed each year to the treatment plant in sewerage
-#' @param pathogenType Pathogen group of interest (Virus, Bacteria, Protozoa, Helminths)
+#' @param pathogenType Pathogen group of interest (Virus, Bacteria, Protozoa, Helminth)
 #' @keywords pathogens
 #' @export
 #' @examples
@@ -26,7 +26,7 @@ getLRV<-function(mySketch="http://data.waterpathogens.org/dataset/a1423a05-7680-
   suppressWarnings(k2pdata$temp3<-k2pdata$temperature_celsius^3)
   suppressWarnings(k2pdata$ltemp<-log(k2pdata$temperature_celsius))
   suppressWarnings(k2pdata$SQRTmoist<-sqrt(k2pdata$moisture_content_percent))
-  lambdas<-c(Virus=0.2,Bacteria=0.3,Protozoa=0.6,Helminths=0.99) # these lambda values are based on data from the literature (Chauret et al., 1999; Lucena et al., 2004; Ramo et al., 2017; Rose et al., 1996; Tanji et al., 2002; Tsai et al., 1998)
+  lambdas<-c(Virus=0.2,Bacteria=0.3,Protozoa=0.6,Helminth=0.99) # these lambda values are based on data from the literature (Chauret et al., 1999; Lucena et al., 2004; Ramo et al., 2017; Rose et al., 1996; Tanji et al., 2002; Tsai et al., 1998)
   lambda<-as.numeric(lambdas[pathogenType])
 
   results<-data.frame(In_Fecal_Sludge=inFecalSludge,In_Sewage=inSewage,Sludge_Biosolids=NA,Liquid_Effluent=NA,Centralized_LRV=NA)

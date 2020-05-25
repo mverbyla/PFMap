@@ -13,7 +13,7 @@ getLRV(
 )
 }
 \arguments{
-\item{pathogenType}{Pathogen group of interest (Virus, Bacteria, Protozoa, Helminths)}
+\item{pathogenType}{Pathogen group of interest (Virus, Bacteria, Protozoa, Helminth)}
 
 \item{inFecalSludge}{Number of pathogens conveyed each year to the treatment plant in fecal sludge}
 
@@ -25,9 +25,9 @@ getLRV(
 This function predicts the pathogen log reduction value for a wastewater or fecal sludge treatment plant sketched using the K2P Sketcher Tool (http://tools.waterpathogens.org/sketcher/)
 }
 \examples{
-getLRV(mySketch="http://data.waterpathogens.org/dataset/a1423a05-7680-4d1c-8d67-082fbeb00a50/resource/e7852e8f-9603-4b19-a5fa-9cb3cdc63bb8/download/sketch_lubigi.json",pathogenType="Virus",inFecalSludge=10000000000,inSewage=10000000000)
+getLRV(mySketch="http://data.waterpathogens.org/dataset/afafd87c-b592-44c5-bb42-0a5a8415e54b/resource/83057ee9-402d-4b9b-8ab3-92053ee94c63/download/lubigisewageandfecalsludgetreatmentsystemv4.json",pathogenType="Virus",inFecalSludge=10000000000,inSewage=10000000000)
 
-
+getLRV(mySketch="http://data.waterpathogens.org/dataset/bd53bbc6-a8f3-4d10-95b6-35f36e274b3c/resource/5cf1c3e0-a28c-4293-81e9-12586dd8941c/download/kirinyawastewatertreatmentplant-jinja6.json",pathogenType="Virus",inFecalSludge=10000000000,inSewage=10000000000)
 
 }
 \keyword{pathogens}

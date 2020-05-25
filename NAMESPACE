@@ -2,3 +2,4 @@
 
 export(getLRV)
 export(getLoadings)
+export(plotPathogenFlows)

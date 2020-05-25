@@ -13,7 +13,7 @@ getLoadings(
 \arguments{
 \item{onsiteData}{A CSV file containing your onsite sanitation data. Defaults to example template from http://data.waterpathogens.org/dataset/5374462b-5bb5-456f-bfc0-816ea572666d/resource/4d9e5fba-9280-4b8b-acce-d1c87952acc1/download/onsitedata_example.csv}
 
-\item{pathogenType}{Pathogen group of interest (Virus, Bacteria, Protozoa, Helminths)}
+\item{pathogenType}{The input pathogenType should be equal to either one of the following strings: c("Virus","Bacteria","Protozoa","Helminth")}
 }
 \description{
 This function predicts the pathogen loadings from onsite sanitation systems for data available through the UNICEF/WHO Joint Monitoring Program and provides an output that can be used directly by the Pathogen Mapping Tool.

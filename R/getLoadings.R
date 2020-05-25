@@ -2,7 +2,7 @@
 #'
 #' This function predicts the pathogen loadings from onsite sanitation systems for data available through the UNICEF/WHO Joint Monitoring Program and provides an output that can be used directly by the Pathogen Mapping Tool.
 #' @param onsiteData A CSV file containing your onsite sanitation data. Defaults to example template from http://data.waterpathogens.org/dataset/5374462b-5bb5-456f-bfc0-816ea572666d/resource/4d9e5fba-9280-4b8b-acce-d1c87952acc1/download/onsitedata_example.csv
-#' @param pathogenType Pathogen group of interest (Virus, Bacteria, Protozoa, Helminths)
+#' @param pathogenType The input pathogenType should be equal to either one of the following strings: c("Virus","Bacteria","Protozoa","Helminth")
 #' @keywords pathogens
 #' @export
 #' @examples
@@ -19,7 +19,7 @@ getLoadings<-function(onsiteData="http://data.waterpathogens.org/dataset/5374462
 
   df1<-read.csv(onsiteData,header=TRUE)   #bring in the inputs CSV file
 
-  pathogenGroups<-c("Virus","Bacteria","Protozoa","Helminths")
+  pathogenGroups<-c("Virus","Bacteria","Protozoa","Helminth")
   index<-which(pathogenGroups==pathogenType)
   # &&&&& START GWPP Inputs &&&&&
   lambdas<-c(lambdaV=0.2,lambdaB=0.3,lambdaP=0.6,lambdaH=0.99) # these lambda values are based on data from the literature (Chauret et al., 1999; Lucena et al., 2004; Ramo et al., 2017; Rose et al., 1996; Tanji et al., 2002; Tsai et al., 1998)
