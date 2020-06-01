@@ -200,10 +200,10 @@ getLRV<-function(mySketch="http://data.waterpathogens.org/dataset/a1423a05-7680-
   #######(((((((I SOLVED IT!)))))))
 
   # store the results
-  arrowLoads<-solved$arrows
+  #arrowLoads<-solved$arrows
   results$Centralized_LRV<-lrv
-  if(any(solved$nodes$matrix=="liquid")){results$Liquid_Effluent<-solved$nodes[solved$nodes$ntype=="end use" & solved$nodes$matrix=="liquid",]$loading_output}else{results$Liquid_Effluent<-0}
-  if(any(solved$nodes$matrix=="solid")){results$Sludge_Biosolids<-sum(solved$nodes[solved$nodes$ntype=="end use" & solved$nodes$matrix=="solid",]$loading_output)}else{results$Sludge_Biosolids<-0}
+  if(any(nodes$matrix=="liquid")){results$Liquid_Effluent<-nodes[nodes$ntype=="end use" & nodes$matrix=="liquid",]$loading_output}else{results$Liquid_Effluent<-0}
+  if(any(nodes$matrix=="solid")){results$Sludge_Biosolids<-sum(nodes[nodes$ntype=="end use" & nodes$matrix=="solid",]$loading_output)}else{results$Sludge_Biosolids<-0}
 
   loadings=results
   loadings$Percent_Liquid<-round(loadings$Liquid_Effluent/(loadings$Liquid_Effluent+loadings$Sludge_Biosolids)*100,1)
