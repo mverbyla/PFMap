@@ -25,7 +25,12 @@ cors <- function(req, res) {
 #* @param inSewage The number of pathogens per day taken in at the plant in sewerage
 #* @get /lrv
 #* @serializer unboxedJSON
+
 function(mySketch, inFecalSludge=10000000000, inSewage=10000000000){
+
+  library(igraph)
+  library(networkD3)
+  library(htmlwidgets)
 
   once<-function(mySketch,pathogenType,inFecalSludge,inSewage){
     k2pdata<-read.csv("http://data.waterpathogens.org/dataset/eda3c64c-479e-4177-869c-93b3dc247a10/resource/9e172f8f-d8b5-4657-92a4-38da60786327/download/treatmentdata.csv",header=T)
@@ -231,7 +236,7 @@ function(mySketch, inFecalSludge=10000000000, inSewage=10000000000){
                  nodes=nodes[,c("name","ntype","subType","temperature","retentionTime","depth","useCategory","moistureContent","holdingTime","matrix","loading_output","pathogen")],
                  loadings=loadings,
                  references=references)
-    return(list(lrv=solved$loadings$Centralized_LRV,pSolid=solved$loadings$Percent_Solid,pLiquid=solved$loadings$Percent_Liquid))
+    return(list(solved=solved,lrv=solved$loadings$Centralized_LRV,pSolid=solved$loadings$Percent_Solid,pLiquid=solved$loadings$Percent_Liquid))
   }
 
   v<-once(mySketch,pathogenType="Virus",inFecalSludge,inSewage)
@@ -268,6 +273,38 @@ function(mySketch, inFecalSludge=10000000000, inSewage=10000000000){
   )
 
   output<-jsonlite::toJSON(list(stackChart=stackChart,table=LRV),pretty = T)
+
+  createLinks<-function(sketcherResults){
+    myNodes<-data.frame(name=make.names(sketcherResults$nodes$subType,unique=T),id=sketcherResults$nodes$name)
+    myNodes$newID<-rownames(myNodes)
+    myLinks<-data.frame(source=sketcherResults$arrows$us_node,target=sketcherResults$arrows$ds_node,value=sketcherResults$arrows$relativeLoading*100)
+    lookup<-myNodes[,c("id","newID")]
+    myLinks$source<-as.integer(lookup$newID[match(myLinks$source,lookup$id)])-1
+    myLinks$target<-as.integer(lookup$newID[match(myLinks$target,lookup$id)])-1
+    return(list(myLinks=myLinks,myNodes=myNodes))
+  }
+
+  dfv<-createLinks(v$solved)
+  dfb<-createLinks(b$solved)
+  dfp<-createLinks(p$solved)
+  dfh<-createLinks(h$solved)
+
+  page1<-sankeyNetwork(Links = dfv$myLinks, Nodes = dfv$myNodes, Source = "source",
+                       Target = "target", Value = "value", NodeID = "name",
+                       units = "%", fontSize = 12, nodeWidth = 30)
+  saveWidget(page1, file="page1.html")
+  page2<-sankeyNetwork(Links = dfb$myLinks, Nodes = dfb$myNodes, Source = "source",
+                       Target = "target", Value = "value", NodeID = "name",
+                       units = "%", fontSize = 12, nodeWidth = 30)
+  saveWidget(page1, file="page2.html")
+  page3<-sankeyNetwork(Links = dfp$myLinks, Nodes = dfp$myNodes, Source = "source",
+                       Target = "target", Value = "value", NodeID = "name",
+                       units = "%", fontSize = 12, nodeWidth = 30)
+  saveWidget(page1, file="page3.html")
+  page4<-sankeyNetwork(Links = dfh$myLinks, Nodes = dfh$myNodes, Source = "source",
+                       Target = "target", Value = "value", NodeID = "name",
+                       units = "%", fontSize = 12, nodeWidth = 30)
+  saveWidget(page1, file="page4.html")
 
   return(output)
 

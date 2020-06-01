@@ -75,11 +75,3 @@ ui <- shinyUI(fluidPage(
 
 #### Run ####
 shinyApp(ui = ui, server = server)
-
-
-#### create static html ####
-#test<-sankeyNetwork(Links = df1$myLinks, Nodes = df1$myNodes, Source = "source",
-#                    Target = "target", Value = "value", NodeID = "name",
-#                    units = "%", fontSize = 12, nodeWidth = 30)
-
-#saveWidget(test, file="test.html")
