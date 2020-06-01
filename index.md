@@ -79,7 +79,7 @@ The function outputs a dataframe with the following values:
 
 ## Examples
 
-Here is an [example output](another-page.md).
+Here is an [example output](virus.html).
 
 The following shows the use of the getLoadings function for data from Kampala, Uganda, grouping the data by 'region' and showing results for the 'Virus' group.
 
