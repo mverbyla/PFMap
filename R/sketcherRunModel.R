@@ -296,15 +296,15 @@ function(mySketch, inFecalSludge=10000000000, inSewage=10000000000){
   page2<-sankeyNetwork(Links = dfb$myLinks, Nodes = dfb$myNodes, Source = "source",
                        Target = "target", Value = "value", NodeID = "name",
                        units = "%", fontSize = 12, nodeWidth = 30)
-  saveWidget(page1, file="page2.html")
+  saveWidget(page2, file="page2.html")
   page3<-sankeyNetwork(Links = dfp$myLinks, Nodes = dfp$myNodes, Source = "source",
                        Target = "target", Value = "value", NodeID = "name",
                        units = "%", fontSize = 12, nodeWidth = 30)
-  saveWidget(page1, file="page3.html")
+  saveWidget(page3, file="page3.html")
   page4<-sankeyNetwork(Links = dfh$myLinks, Nodes = dfh$myNodes, Source = "source",
                        Target = "target", Value = "value", NodeID = "name",
                        units = "%", fontSize = 12, nodeWidth = 30)
-  saveWidget(page1, file="page4.html")
+  saveWidget(page4, file="page4.html")
 
   return(output)
 
