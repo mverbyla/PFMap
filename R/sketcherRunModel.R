@@ -19,14 +19,15 @@ cors <- function(req, res) {
 ################## ANALYZE SKETCH ####################
 ######################################################
 
-#* API to estimate the log reduction value for a sketched wastewater or fecal sludge treatment plant
+#* API to estimate the log reduction value for a sketched wastewater or fecal sludge treatment plant for a single pathogen type
 #* @param mySketch Filepath to a JSON file containing a sketch of your treatment plant
-#* @param pathogenType The pathogen type you want to analyze (Virus, Bacteria, Protozoa, Helminth)
 #* @param inFecalSludge The number of pathogens per day taken in at the plant in fecal sludge received
 #* @param inSewage The number of pathogens per day taken in at the plant in sewerage
 #* @get /lrv
 #* @serializer unboxedJSON
-function(mySketch="http://data.waterpathogens.org/dataset/a1423a05-7680-4d1c-8d67-082fbeb00a50/resource/e7852e8f-9603-4b19-a5fa-9cb3cdc63bb8/download/sketch_lubigi.json", pathogenType="Virus", inFecalSludge=10000000000, inSewage=10000000000){
+function(mySketch, inFecalSludge=10000000000, inSewage=10000000000){
+
+  once<-function(mySketch,pathogenType,inFecalSludge,inSewage){
     k2pdata<-read.csv("http://data.waterpathogens.org/dataset/eda3c64c-479e-4177-869c-93b3dc247a10/resource/9e172f8f-d8b5-4657-92a4-38da60786327/download/treatmentdata.csv",header=T)
     suppressWarnings(k2pdata$SQRTlrv<-sqrt(k2pdata$lrv))
     suppressWarnings(k2pdata$llrv<-log(k2pdata$lrv))
@@ -40,7 +41,7 @@ function(mySketch="http://data.waterpathogens.org/dataset/a1423a05-7680-4d1c-8d6
     suppressWarnings(k2pdata$temp3<-k2pdata$temperature_celsius^3)
     suppressWarnings(k2pdata$ltemp<-log(k2pdata$temperature_celsius))
     suppressWarnings(k2pdata$SQRTmoist<-sqrt(k2pdata$moisture_content_percent))
-    lambdas<-c(Virus=0.2,Bacteria=0.3,Protozoa=0.6,Helminths=0.99) # these lambda values are based on data from the literature (Chauret et al., 1999; Lucena et al., 2004; Ramo et al., 2017; Rose et al., 1996; Tanji et al., 2002; Tsai et al., 1998)
+    lambdas<-c(Virus=0.2,Bacteria=0.3,Protozoa=0.6,Helminth=0.99) # these lambda values are based on data from the literature (Chauret et al., 1999; Lucena et al., 2004; Ramo et al., 2017; Rose et al., 1996; Tanji et al., 2002; Tsai et al., 1998)
     lambda<-as.numeric(lambdas[pathogenType])
 
     results<-data.frame(In_Fecal_Sludge=inFecalSludge,In_Sewage=inSewage,Sludge_Biosolids=NA,Liquid_Effluent=NA,Centralized_LRV=NA)
@@ -53,44 +54,46 @@ function(mySketch="http://data.waterpathogens.org/dataset/a1423a05-7680-4d1c-8d6
 
     ########((((((((this is the beginning of the old getNodes function))))))))
     #res<-suppressWarnings(getNodes(sketch = sketch, nodes = sketch[,-c(2,3)]))
-    nodes = sketch[,-c(2,3)]
+    drop <- c("x","y","parents","children")
+    nodes = sketch[,!(names(sketch) %in% drop)]
+
     nodes$number_inputs<-NA
     nodes$number_outputs<-NA
     for(i in 1:nrow(sketch)){
-      nodes$number_inputs[i]<-length(sketch[[2]][[i]])
-      nodes$number_outputs[i]<-length(data.frame(sketch[i,3])[1,])
+      nodes$number_inputs[i]<-length(sketch[["parents"]][[i]])
+      nodes$number_outputs[i]<-length(sketch[["children"]][[i]])
     }
     nodes$loading_output=NA
     sn<-sketch[,c("parents","children")]
-    sn$me<-as.numeric(row.names(sn))
-    lenny<-rep(NA,length(sn[,1]))
+    sn$me<-as.character(sketch[,c("name")])
+    numParents<-rep(NA,length(sn[,1]))
     rem<-NA;j=0
-    suppressWarnings(
+    suppressWarnings(  # this for loop turns all NULL parents and children to NA values, and it counts the number of parents (numParents) each node has
       for(i in 1:length(sn[,1])){
-        lenny[i]<-if(is.null(dim(sn[i,1][[1]]))){0}else{length(sn[i,1][[1]])}
-        if(is.null(dim(sn[i,1][[1]]))){sn[i,1][[1]]<-NA}
-        if(is.null(dim(sn[i,2][[1]]))){sn[i,2][[1]]<-NA}
+        numParents[i]<-if(is.null(length(sn[i,1][[1]]))){0}else{length(sn[i,1][[1]])}
+        if(is.null(sn$parents[[i]]) | rlang::is_empty(sn$parents[[i]])){sn[i,1][[1]]<-NA}
+        if(is.null(sn$children[[i]]) | rlang::is_empty(sn$children[[i]])){sn[i,2][[1]]<-NA}
         if(is.na(sn[[1]][[i]])){
           j=j+1;rem[j]<-i
         }
       }
     )
-    arrows<-data.frame(us_node=rep(NA,sum(lenny)),ds_node=rep(NA,sum(lenny)))
-    sn<-sn[-rem,];rownames(sn)<-1:nrow(sn)
-    m=0
-    for(i in 1:sum(lenny)){
-      for(j in 1:length(sn[i,"parents"][[1]][1,])){
-        repl<-as.numeric(gsub(".*?([0-9]+).*", "\\1", sn[i,"parents"][[1]][1,j]))
-        if(length(repl)>0){
-          arrows$us_node[m+1]<-repl
-          arrows$ds_node[m+1]<-sn$me[i]
-          m=m+1
-        }
+    orph<-which(numParents==0)
+    arrows<-data.frame(us_node=rep(NA,sum(numParents)),ds_node=rep(NA,sum(numParents)))
+    sn<-sn[-orph,];rownames(sn)<-1:nrow(sn)
+
+    m=1
+    for(i in 1:nrow(sn)){
+      for(j in 1:length(sn[i,"parents"][[1]])){
+        arrows$us_node[m]<-sn[i,"parents"][[1]][j]
+        arrows$ds_node[m]<-sn$me[i]
+        m=m+1
       }
     }
-    arrows$us_node
-    arrows$ds_node
+
+
     arrows$loading<-NA
+    rownames(nodes)<-nodes$name
     arrows$siblings<-nodes[arrows$us_node,"number_outputs"]
     arrows$flowtype<-nodes[arrows$ds_node,"matrix"]
     arrows$siblings_solid<-NA
@@ -101,13 +104,8 @@ function(mySketch="http://data.waterpathogens.org/dataset/a1423a05-7680-4d1c-8d6
       arrows$siblings_liquid[i]<-sum(arrows$flowtype[which(arrows$us_node==arrows$us_node[i])]=="liquid")
       if(arrows$flowtype[i]=="solid"){arrows$iamsolid[i]<-TRUE}else{arrows$iamsolid[i]<-FALSE}
     }
-    res<-list(nodes=nodes,arrows=arrows)
 
     ####(((((((this is the end of the old getNodes function)))))))
-
-
-    nodes<-res$nodes
-    arrows<-res$arrows
 
     # transform the K2P data and fit the models
     # k2pdata<-suppressWarnings(transformData(k2pdata))
@@ -181,47 +179,96 @@ function(mySketch="http://data.waterpathogens.org/dataset/a1423a05-7680-4d1c-8d6
 
     ####(((((((this is the end of the old estimate function)))))))
 
-    nodeLRVs<-nodes[,c("name","fit","lwr","upr")]
+    nodeLRVs<-nodes[,c("name","subType","fit","lwr","upr")]
 
 
     #######(((((((SOLVE IT SOLVE IT SOLVE IT)))))))
     #######(((((((SOLVE IT SOLVE IT SOLVE IT)))))))
     #######(((((((SOLVE IT SOLVE IT SOLVE IT)))))))
     # solve the DAG
-    i=1;j=1
-    while (any(is.na(arrows$loading)) == TRUE | any(is.na(nodes$loading_output)) == TRUE){
-      if(nodes[j,]$ntype=="source"){arrows$loading[i]=nodes$loading_output[arrows$us_node[i]]/arrows$siblings[i]}
-      if(any(arrows$ds_node==(j+1))==TRUE){
-        nodes$loading_output[j+1]=10^(log10(sum(arrows$loading[which(arrows$ds_node==(j+1))]))-nodes$fit[j+1])
+    i=0;j=0   # here, j is an index for the nodes and i is an index for the arrows
+    nN<-nodes$name
+    while (any(is.na(arrows$loading)) == TRUE | any(is.na(nodes$loading_output)) == TRUE){       ##### each loop focuses on a single node (nN[j+1]) and the arrow (i+1) that is going into it
+      if(nodes[nN[j+1],]$ntype=="source"){                                             # if this node nN[j+1] is a source...
+        arrows$loading[i]=nodes[arrows$us_node[i],]$loading_output/arrows$siblings[i]  # then divide the loads in the arrows leaving the source by the number of arrows leaving it
       }
-      if(arrows$iamsolid[i+1]==TRUE & arrows$siblings_liquid[i+1]>0){ #if I'm a solid but I have liquid siblings
-        arrows$loading[i+1]=nodes$loading_output[arrows$us_node[i+1]]*lambda/arrows$siblings_solid[i+1]
+      if(any(arrows$ds_node==(nN[j+1]))==TRUE){       #CALCULATES THE LOADING LEAVING THIS NODE                               # if there are any arrows coming into this downstream node (nN[j+1])...
+        nodes[nN[j+1],]$loading_output=10^(log10(sum(arrows$loading[which(arrows$ds_node==(nN[j+1]))]))-nodes[nN[j+1],]$fit)  # then get the sum of all arrows going into that downstream node (nN[j+1]), minus the LRV for that node, to give the output from that downstream node
+      }
+      if(arrows[i+1,]$iamsolid==TRUE & arrows$siblings_liquid[i+1]>0){    #CALCULATES THE LOADING IN THIS ARROW     # if this arrow is a solid but has liquid siblings
+        arrows[i+1,]$loading=nodes[arrows[i+1,]$us_node,]$loading_output*lambda/arrows$siblings_solid[i+1]          # then use the factor lambda to divide the loading up between liquid vs. solid
       }else{
-        if(arrows$iamsolid[i+1]==FALSE & arrows$siblings_solid[i+1]>0){ #if I'm a liquid but I have solid siblings
-          arrows$loading[i+1]=nodes$loading_output[arrows$us_node[i+1]]*(1-lambda)/arrows$siblings_liquid[i+1]
-        }else{arrows$loading[i+1]=nodes$loading_output[arrows$us_node[i+1]]/arrows$siblings[i+1]} #otherwise I only have siblings that are like me, could be liquid or solid but we're all the same
+        if(arrows$iamsolid[i+1]==FALSE & arrows$siblings_solid[i+1]>0){   #CALCULATES THE LOADING IN THIS ARROW     # if this arrow is a liquid but has solid siblings
+          arrows$loading[i+1]=nodes[arrows$us_node[i+1],]$loading_output*(1-lambda)/arrows$siblings_liquid[i+1]     # then use the factor lambda to divide the loading up between liquid vs. solid
+        }else{arrows$loading[i+1]=nodes[arrows$us_node[i+1],]$loading_output/arrows$siblings[i+1]}                  # otherwise this arrow only has siblings that are the same as it (could be liquid or solid, but they're all the same), so just divide the loading by the number of siblings
       }
       #arrows$loading[i+1]=nodes$loading_output[arrows$us_node[i+1]]/arrows$divideby[i+1]
-      if(i==(nrow(arrows)-1)){i=1} else {i=i+1}
-      if(j==(nrow(nodes)-1)){j=1} else {j=j+1};arrows;nodes[,c("subType","loading_output")]
+      if(i==(nrow(arrows)-1)){i=0} else {i=i+1}
+      if(j==(nrow(nodes)-1)){j=0} else {j=j+1};arrows;nodes[,c("subType","loading_output")];i;nN[j]
     }
-    lrv=log10(sum(nodes$loading_output[nodes$ntype=="source"])/sum(nodes$loading_output[nodes$ntype=="end use"]))
 
-    solved<-list(arrows=arrows,nodes=nodes,lrv=lrv)
+    lrv=round(log10(sum(nodes$loading_output[nodes$ntype=="source"])/sum(nodes$loading_output[nodes$ntype=="end use"])),2)
+    references<-unique(k2pdata[nodes$subType %in% tolower(unique(k2pdata$technology_description)),]$bib_id)
 
     #######(((((((I SOLVED IT!)))))))
     #######(((((((I SOLVED IT!)))))))
     #######(((((((I SOLVED IT!)))))))
 
     # store the results
-    arrowLoads<-solved$arrows
-    results$Centralized_LRV<-round(solved$lrv,2)
-    if(any(solved$nodes$matrix=="liquid")){results$Liquid_Effluent<-solved$nodes[solved$nodes$ntype=="end use" & solved$nodes$matrix=="liquid",]$loading_output}else{results$Liquid_Effluent<-0}
-    if(any(solved$nodes$matrix=="solid")){results$Sludge_Biosolids<-sum(solved$nodes[solved$nodes$ntype=="end use" & solved$nodes$matrix=="solid",]$loading_output)}else{results$Sludge_Biosolids<-0}
+    results$Centralized_LRV<-lrv
+    if(any(nodes$matrix=="liquid")){results$Liquid_Effluent<-nodes[nodes$ntype=="end use" & nodes$matrix=="liquid",]$loading_output}else{results$Liquid_Effluent<-0}
+    if(any(nodes$matrix=="solid")){results$Sludge_Biosolids<-sum(nodes[nodes$ntype=="end use" & nodes$matrix=="solid",]$loading_output)}else{results$Sludge_Biosolids<-0}
 
-    references<-unique(k2pdata[nodes$subType %in% tolower(unique(k2pdata$technology_description)),]$bib_id)
+    loadings=results
+    loadings$Percent_Liquid<-round(loadings$Liquid_Effluent/(loadings$Liquid_Effluent+loadings$Sludge_Biosolids)*100,1)
+    loadings$Percent_Solid<-round(loadings$Sludge_Biosolids/(loadings$Liquid_Effluent+loadings$Sludge_Biosolids)*100,1)
 
-  lrv<-list(Results=results,References=references)
-  return(lrv)
+    arrows$relativeLoading<-arrows$loading/(results$In_Fecal_Sludge+results$In_Sewage)
+    arrows$us_node_type<-nodes[arrows$us_node,]$subType
+    arrows$ds_node_type<-nodes[arrows$ds_node,]$subType
+
+    solved<-list(arrows=arrows[,c("us_node","ds_node","loading","flowtype","us_node_type","ds_node_type","relativeLoading")],
+                 nodes=nodes[,c("name","ntype","subType","temperature","retentionTime","depth","useCategory","moistureContent","holdingTime","matrix","loading_output","pathogen")],
+                 loadings=loadings,
+                 references=references)
+    return(list(lrv=solved$loadings$Centralized_LRV,pSolid=solved$loadings$Percent_Solid,pLiquid=solved$loadings$Percent_Liquid))
+  }
+
+  v<-once(mySketch,pathogenType="Virus",inFecalSludge,inSewage)
+  b<-once(mySketch,pathogenType="Bacteria",inFecalSludge,inSewage)
+  p<-once(mySketch,pathogenType="Protozoa",inFecalSludge,inSewage)
+  h<-once(mySketch,pathogenType="Helminth",inFecalSludge,inSewage)
+
+  stackChart<-list(
+    chart=list(type="column"),
+    title=list(text="Breakdown of Pathogen Loadings"),
+    xAxis=list(
+      categories=c("Virus","Bacteria","Protozoa","Helminth")
+    ),
+    yAxis=list(
+      min=0,
+      max=100,
+      title=list(text="Pathogen Loadings")
+    ),
+    series=list(
+      list(
+        name="Percent % in Liquid Effluent",
+        data=c(v$pLiquid,b$pLiquid,p$pLiquid,h$pLiquid)
+      ),
+      list(
+        name="Percent % in Sludge/Biosolids",
+        data=c(v$pSolid,b$pSolid,p$pSolid,h$pSolid)
+      )
+    )
+  )
+
+  LRV<-list(
+    labels=c("Virus","Bacteria","Protozoa","Helminth"),
+    values=c(v$lrv,b$lrv,p$lrv,h$lrv)
+  )
+
+  output<-jsonlite::toJSON(list(stackChart=stackChart,table=LRV),pretty = T)
+
+  return(output)
+
 }
-

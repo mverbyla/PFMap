@@ -191,9 +191,9 @@ getLRV<-function(mySketch="http://data.waterpathogens.org/dataset/a1423a05-7680-
     if(i==(nrow(arrows)-1)){i=0} else {i=i+1}
     if(j==(nrow(nodes)-1)){j=0} else {j=j+1};arrows;nodes[,c("subType","loading_output")];i;nN[j]
   }
-  lrv=log10(sum(nodes$loading_output[nodes$ntype=="source"])/sum(nodes$loading_output[nodes$ntype=="end use"]))
 
-  solved<-list(arrows=arrows,nodes=nodes,lrv=lrv)
+  lrv=round(log10(sum(nodes$loading_output[nodes$ntype=="source"])/sum(nodes$loading_output[nodes$ntype=="end use"])),2)
+  references<-unique(k2pdata[nodes$subType %in% tolower(unique(k2pdata$technology_description)),]$bib_id)
 
   #######(((((((I SOLVED IT!)))))))
   #######(((((((I SOLVED IT!)))))))
@@ -201,16 +201,22 @@ getLRV<-function(mySketch="http://data.waterpathogens.org/dataset/a1423a05-7680-
 
   # store the results
   arrowLoads<-solved$arrows
-  results$Centralized_LRV<-round(solved$lrv,2)
+  results$Centralized_LRV<-lrv
   if(any(solved$nodes$matrix=="liquid")){results$Liquid_Effluent<-solved$nodes[solved$nodes$ntype=="end use" & solved$nodes$matrix=="liquid",]$loading_output}else{results$Liquid_Effluent<-0}
   if(any(solved$nodes$matrix=="solid")){results$Sludge_Biosolids<-sum(solved$nodes[solved$nodes$ntype=="end use" & solved$nodes$matrix=="solid",]$loading_output)}else{results$Sludge_Biosolids<-0}
 
-  references<-unique(k2pdata[nodes$subType %in% tolower(unique(k2pdata$technology_description)),]$bib_id)
+  loadings=results
+  loadings$Percent_Liquid<-round(loadings$Liquid_Effluent/(loadings$Liquid_Effluent+loadings$Sludge_Biosolids)*100,1)
+  loadings$Percent_Solid<-round(loadings$Sludge_Biosolids/(loadings$Liquid_Effluent+loadings$Sludge_Biosolids)*100,1)
 
   arrows$relativeLoading<-arrows$loading/(results$In_Fecal_Sludge+results$In_Sewage)
-
   arrows$us_node_type<-nodes[arrows$us_node,]$subType
   arrows$ds_node_type<-nodes[arrows$ds_node,]$subType
 
-  return(list(Arrows=arrows,Nodes=nodes,Results=results,References=references))
+  solved<-list(arrows=arrows[,c("us_node","ds_node","loading","flowtype","us_node_type","ds_node_type","relativeLoading")],
+               nodes=nodes[,c("name","ntype","subType","temperature","retentionTime","depth","useCategory","moistureContent","holdingTime","matrix","loading_output","pathogen")],
+               loadings=loadings,
+               references=references)
+
+  return(solved)
 }
