@@ -12,8 +12,21 @@
 #'
 #' getLRV(mySketch="http://data.waterpathogens.org/dataset/bd53bbc6-a8f3-4d10-95b6-35f36e274b3c/resource/5cf1c3e0-a28c-4293-81e9-12586dd8941c/download/kirinyawastewatertreatmentplant-jinja6.json",pathogenType="Virus",inFecalSludge=10000000000,inSewage=10000000000)
 #'
-getLRV<-function(mySketch="http://data.waterpathogens.org/dataset/a1423a05-7680-4d1c-8d67-082fbeb00a50/resource/e7852e8f-9603-4b19-a5fa-9cb3cdc63bb8/download/sketch_lubigi.json",pathogenType="Virus",inFecalSludge=10000000000,inSewage=10000000000){
-  k2pdata<-read.csv("http://data.waterpathogens.org/dataset/eda3c64c-479e-4177-869c-93b3dc247a10/resource/9e172f8f-d8b5-4657-92a4-38da60786327/download/treatmentdata.csv",header=T)
+getLRV<-function(mySketch="http://data.waterpathogens.org/dataset/a1423a05-7680-4d1c-8d67-082fbeb00a50/resource/e7852e8f-9603-4b19-a5fa-9cb3cdc63bb8/download/sketch_lubigi.json"
+                 ,
+                 myLRVdata="http://data.waterpathogens.org/dataset/eda3c64c-479e-4177-869c-93b3dc247a10/resource/9e172f8f-d8b5-4657-92a4-38da60786327/download/treatmentdata.csv"
+                 ,
+                 pathogenType="Virus"
+                 ,
+                 inFecalSludge=10000000000
+                 ,
+                 inSewage=10000000000
+                 ){
+
+  #library(igraph)
+  #library(networkD3)
+
+  k2pdata<-read.csv(myLRVdata,header=T)
   suppressWarnings(k2pdata$SQRTlrv<-sqrt(k2pdata$lrv))
   suppressWarnings(k2pdata$llrv<-log(k2pdata$lrv))
   suppressWarnings(k2pdata$pathogen<-k2pdata$pathogen_group)
@@ -162,6 +175,19 @@ getLRV<-function(mySketch="http://data.waterpathogens.org/dataset/a1423a05-7680-
       if(pathogenType=="Protozoa"|pathogenType=="Helminth"){nodes[nodes$subType=="settler/sedimentation",c("fit","lwr","upr")]<-0}else{nodes[nodes$subType=="settler/sedimentation",c("fit","lwr","upr")]<-predict(fit_sd,nodes[nodes$subType=="settler/sedimentation",],interval="confidence")^2}
     }
 
+    ####placeholder LRVs until we get more data into the database####
+    if(any(nodes$subType=="biogas reactor")==TRUE){nodes[nodes$subType=="biogas reactor",c("fit","lwr","upr")]<-c(1,0,2)}
+    if(any(nodes$subType=="co-composting")==TRUE){nodes[nodes$subType=="co-composting",c("fit","lwr","upr")]<-c(1,0,2)}
+    if(any(nodes$subType=="activated sludge")==TRUE){nodes[nodes$subType=="activated sludge",c("fit","lwr","upr")]<-c(1,0,2)}
+    if(any(nodes$subType=="uasb reactor")==TRUE){nodes[nodes$subType=="uasb reactor",c("fit","lwr","upr")]<-c(1,0,2)}
+    if(any(nodes$subType=="media filer")==TRUE){nodes[nodes$subType=="media filer",c("fit","lwr","upr")]<-c(1,0,2)}
+    if(any(nodes$subType=="imhoff tank")==TRUE){nodes[nodes$subType=="imhoff tank",c("fit","lwr","upr")]<-c(1,0,2)}
+    if(any(nodes$subType=="aerated pond")==TRUE){nodes[nodes$subType=="aerated pond",c("fit","lwr","upr")]<-c(1,0,2)}
+    if(any(nodes$subType=="ss")==TRUE){nodes[nodes$subType=="ss",c("fit","lwr","upr")]<-c(1,0,2)}
+    if(any(nodes$subType=="fws")==TRUE){nodes[nodes$subType=="fws",c("fit","lwr","upr")]<-c(1,0,2)}
+    if(any(nodes$subType=="anaerobic baffled reactor")==TRUE){nodes[nodes$subType=="anaerobic baffled reactor",c("fit","lwr","upr")]<-c(1,0,2)}
+    ####
+
     ####(((((((this is the end of the old estimate function)))))))
 
   nodeLRVs<-nodes[,c("name","subType","fit","lwr","upr")]
@@ -171,9 +197,10 @@ getLRV<-function(mySketch="http://data.waterpathogens.org/dataset/a1423a05-7680-
   #######(((((((SOLVE IT SOLVE IT SOLVE IT)))))))
   #######(((((((SOLVE IT SOLVE IT SOLVE IT)))))))
   # solve the DAG
-  i=0;j=0   # here, j is an index for the nodes and i is an index for the arrows
+  i=0;j=0;stuck=0   # here, j is an index for the nodes and i is an index for the arrows, stuck prevents the loop from getting infinitely stuck
   nN<-nodes$name
-  while (any(is.na(arrows$loading)) == TRUE | any(is.na(nodes$loading_output)) == TRUE){       ##### each loop focuses on a single node (nN[j+1]) and the arrow (i+1) that is going into it
+  keepGoing=TRUE
+  while (keepGoing==TRUE){       ##### each loop focuses on a single node (nN[j+1]) and the arrow (i+1) that is going into it
     if(nodes[nN[j+1],]$ntype=="source"){                                             # if this node nN[j+1] is a source...
       arrows$loading[i]=nodes[arrows$us_node[i],]$loading_output/arrows$siblings[i]  # then divide the loads in the arrows leaving the source by the number of arrows leaving it
       }
@@ -188,8 +215,10 @@ getLRV<-function(mySketch="http://data.waterpathogens.org/dataset/a1423a05-7680-
       }else{arrows$loading[i+1]=nodes[arrows$us_node[i+1],]$loading_output/arrows$siblings[i+1]}                  # otherwise this arrow only has siblings that are the same as it (could be liquid or solid, but they're all the same), so just divide the loading by the number of siblings
     }
     #arrows$loading[i+1]=nodes$loading_output[arrows$us_node[i+1]]/arrows$divideby[i+1]
+    stuck<-stuck+1
     if(i==(nrow(arrows)-1)){i=0} else {i=i+1}
-    if(j==(nrow(nodes)-1)){j=0} else {j=j+1};arrows;nodes[,c("subType","loading_output")];i;nN[j]
+    if(j==(nrow(nodes)-1)){j=0} else {j=j+1} #;arrows;nodes[,c("subType","loading_output")];i;nN[j]
+    if(stuck==100000){keepGoing = FALSE} else {keepGoing = (any(is.na(arrows$loading)) == TRUE | any(is.na(nodes$loading_output)) == TRUE)}
   }
 
   lrv=round(log10(sum(nodes$loading_output[nodes$ntype=="source"])/sum(nodes$loading_output[nodes$ntype=="end use"])),2)
@@ -217,6 +246,24 @@ getLRV<-function(mySketch="http://data.waterpathogens.org/dataset/a1423a05-7680-
                nodes=nodes[,c("name","ntype","subType","temperature","retentionTime","depth","useCategory","moistureContent","holdingTime","matrix","loading_output","pathogen")],
                loadings=loadings,
                references=references)
+
+  #sanKey<-function(sketcherResults){
+  #  myNodes<-data.frame(name=make.names(sketcherResults$nodes$subType,unique=T),id=sketcherResults$nodes$name)
+  #  myNodes$newID<-rownames(myNodes)
+  #  myLinks<-data.frame(source=sketcherResults$arrows$us_node,target=sketcherResults$arrows$ds_node,value=sketcherResults$arrows$relativeLoading*100)
+  #  lookup<-myNodes[,c("id","newID")]
+  #  myLinks$source<-as.integer(lookup$newID[match(myLinks$source,lookup$id)])-1
+  #  myLinks$target<-as.integer(lookup$newID[match(myLinks$target,lookup$id)])-1
+
+  #  return(list(links=myLinks,nodes=myNodes))
+
+  #  networkd3::sankeyNetwork(Links = myLinks, Nodes = myNodes, Source = "source",
+  #                Target = "target", Value = "value", NodeID = "name",
+  #                units = "%", fontSize = 12, nodeWidth = 30)
+  #}
+
+  #par(mfrow = c(2, 2))
+  #sanKey(solved)
 
   return(solved)
 }

@@ -28,8 +28,8 @@ cors <- function(req, res) {
 
 function(mySketch, inFecalSludge=10000000000, inSewage=10000000000){
 
-  library(igraph)
-  library(networkD3)
+  #library(igraph)
+  #library(networkD3)
 
   once<-function(mySketch,pathogenType,inFecalSludge,inSewage){
     k2pdata<-read.csv("http://data.waterpathogens.org/dataset/eda3c64c-479e-4177-869c-93b3dc247a10/resource/9e172f8f-d8b5-4657-92a4-38da60786327/download/treatmentdata.csv",header=T)
@@ -181,10 +181,23 @@ function(mySketch, inFecalSludge=10000000000, inSewage=10000000000){
       if(pathogenType=="Protozoa"|pathogenType=="Helminth"){nodes[nodes$subType=="settler/sedimentation",c("fit","lwr","upr")]<-0}else{nodes[nodes$subType=="settler/sedimentation",c("fit","lwr","upr")]<-predict(fit_sd,nodes[nodes$subType=="settler/sedimentation",],interval="confidence")^2}
     }
 
+    ####placeholder LRVs until we get more data into the database####
+    if(any(nodes$subType=="biogas reactor")==TRUE){nodes[nodes$subType=="biogas reactor",c("fit","lwr","upr")]<-c(1,0,2)}
+    if(any(nodes$subType=="co-composting")==TRUE){nodes[nodes$subType=="co-composting",c("fit","lwr","upr")]<-c(1,0,2)}
+    if(any(nodes$subType=="activated sludge")==TRUE){nodes[nodes$subType=="activated sludge",c("fit","lwr","upr")]<-c(1,0,2)}
+    if(any(nodes$subType=="uasb reactor")==TRUE){nodes[nodes$subType=="uasb reactor",c("fit","lwr","upr")]<-c(1,0,2)}
+    if(any(nodes$subType=="media filer")==TRUE){nodes[nodes$subType=="media filer",c("fit","lwr","upr")]<-c(1,0,2)}
+    if(any(nodes$subType=="imhoff tank")==TRUE){nodes[nodes$subType=="imhoff tank",c("fit","lwr","upr")]<-c(1,0,2)}
+    if(any(nodes$subType=="aerated pond")==TRUE){nodes[nodes$subType=="aerated pond",c("fit","lwr","upr")]<-c(1,0,2)}
+    if(any(nodes$subType=="ss")==TRUE){nodes[nodes$subType=="ss",c("fit","lwr","upr")]<-c(1,0,2)}
+    if(any(nodes$subType=="fws")==TRUE){nodes[nodes$subType=="fws",c("fit","lwr","upr")]<-c(1,0,2)}
+    if(any(nodes$subType=="anaerobic baffled reactor")==TRUE){nodes[nodes$subType=="anaerobic baffled reactor",c("fit","lwr","upr")]<-c(1,0,2)}
+    ####
+
+
     ####(((((((this is the end of the old estimate function)))))))
 
     nodeLRVs<-nodes[,c("name","subType","fit","lwr","upr")]
-
 
     #######(((((((SOLVE IT SOLVE IT SOLVE IT)))))))
     #######(((((((SOLVE IT SOLVE IT SOLVE IT)))))))
@@ -192,7 +205,8 @@ function(mySketch, inFecalSludge=10000000000, inSewage=10000000000){
     # solve the DAG
     i=0;j=0   # here, j is an index for the nodes and i is an index for the arrows
     nN<-nodes$name
-    while (any(is.na(arrows$loading)) == TRUE | any(is.na(nodes$loading_output)) == TRUE){       ##### each loop focuses on a single node (nN[j+1]) and the arrow (i+1) that is going into it
+    keepGoing=TRUE
+    while (keepGoing==TRUE){       ##### each loop focuses on a single node (nN[j+1]) and the arrow (i+1) that is going into it
       if(nodes[nN[j+1],]$ntype=="source"){                                             # if this node nN[j+1] is a source...
         arrows$loading[i]=nodes[arrows$us_node[i],]$loading_output/arrows$siblings[i]  # then divide the loads in the arrows leaving the source by the number of arrows leaving it
       }
@@ -207,8 +221,10 @@ function(mySketch, inFecalSludge=10000000000, inSewage=10000000000){
         }else{arrows$loading[i+1]=nodes[arrows$us_node[i+1],]$loading_output/arrows$siblings[i+1]}                  # otherwise this arrow only has siblings that are the same as it (could be liquid or solid, but they're all the same), so just divide the loading by the number of siblings
       }
       #arrows$loading[i+1]=nodes$loading_output[arrows$us_node[i+1]]/arrows$divideby[i+1]
+      stuck<-stuck+1
       if(i==(nrow(arrows)-1)){i=0} else {i=i+1}
-      if(j==(nrow(nodes)-1)){j=0} else {j=j+1};arrows;nodes[,c("subType","loading_output")];i;nN[j]
+      if(j==(nrow(nodes)-1)){j=0} else {j=j+1} #;arrows;nodes[,c("subType","loading_output")];i;nN[j]
+      if(stuck==100000){keepGoing = FALSE} else {keepGoing = (any(is.na(arrows$loading)) == TRUE | any(is.na(nodes$loading_output)) == TRUE)}
     }
 
     lrv=round(log10(sum(nodes$loading_output[nodes$ntype=="source"])/sum(nodes$loading_output[nodes$ntype=="end use"])),2)
@@ -313,3 +329,7 @@ function(mySketch, inFecalSludge=10000000000, inSewage=10000000000){
   return(output)
 
 }
+
+#library(plumber)
+#r<-plumb("pathogenflows/R/sketcherRunModel.R")  # Where 'plumber.R' is the location of the file shown above
+#r$run(port=8000)
