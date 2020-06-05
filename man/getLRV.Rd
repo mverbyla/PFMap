@@ -7,6 +7,8 @@
 getLRV(
  
     mySketch = "http://data.waterpathogens.org/dataset/a1423a05-7680-4d1c-8d67-082fbeb00a50/resource/e7852e8f-9603-4b19-a5fa-9cb3cdc63bb8/download/sketch_lubigi.json",
+ 
+    myLRVdata = "http://data.waterpathogens.org/dataset/eda3c64c-479e-4177-869c-93b3dc247a10/resource/9e172f8f-d8b5-4657-92a4-38da60786327/download/treatmentdata.csv",
   pathogenType = "Virus",
   inFecalSludge = 1e+10,
   inSewage = 1e+10

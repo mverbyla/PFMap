@@ -23,9 +23,6 @@ getLRV<-function(mySketch="http://data.waterpathogens.org/dataset/a1423a05-7680-
                  inSewage=10000000000
                  ){
 
-  #library(igraph)
-  #library(networkD3)
-
   k2pdata<-read.csv(myLRVdata,header=T)
   suppressWarnings(k2pdata$SQRTlrv<-sqrt(k2pdata$lrv))
   suppressWarnings(k2pdata$llrv<-log(k2pdata$lrv))
@@ -197,28 +194,26 @@ getLRV<-function(mySketch="http://data.waterpathogens.org/dataset/a1423a05-7680-
   #######(((((((SOLVE IT SOLVE IT SOLVE IT)))))))
   #######(((((((SOLVE IT SOLVE IT SOLVE IT)))))))
   # solve the DAG
-  i=0;j=0;stuck=0   # here, j is an index for the nodes and i is an index for the arrows, stuck prevents the loop from getting infinitely stuck
+  i=1;j=1;stuck=1   # here, j is an index for the nodes, i is an index for the arrows, stuck prevents the loop from getting infinitely stuck
   nN<-nodes$name
   keepGoing=TRUE
+  # this next monstrosity of a line finds all arrows who's parents are a source, then divides the parent's source load by the number of siblings to calculate the load in these "special" arrows.
+  arrows[which(arrows$us_node %in% nodes[nodes$ntype=="source",]$name),]$loading<-nodes[arrows[which(arrows$us_node %in% nodes[nodes$ntype=="source",]$name),]$us_node,]$loading_output/arrows[which(arrows$us_node %in% nodes[nodes$ntype=="source",]$name),]$siblings
   while (keepGoing==TRUE){       ##### each loop focuses on a single node (nN[j+1]) and the arrow (i+1) that is going into it
-    if(nodes[nN[j+1],]$ntype=="source"){                                             # if this node nN[j+1] is a source...
-      arrows$loading[i]=nodes[arrows$us_node[i],]$loading_output/arrows$siblings[i]  # then divide the loads in the arrows leaving the source by the number of arrows leaving it
-      }
-    if(any(arrows$ds_node==(nN[j+1]))==TRUE){       #CALCULATES THE LOADING LEAVING THIS NODE                               # if there are any arrows coming into this downstream node (nN[j+1])...
-      nodes[nN[j+1],]$loading_output=10^(log10(sum(arrows$loading[which(arrows$ds_node==(nN[j+1]))]))-nodes[nN[j+1],]$fit)  # then get the sum of all arrows going into that downstream node (nN[j+1]), minus the LRV for that node, to give the output from that downstream node
+    if(any(arrows$ds_node==(nN[j]))==TRUE & is.na(sum(arrows[which(arrows$ds_node==(nN[j])),]$loading))==FALSE){       #2. DO I KNOW THE LOADINGS OF ARROWS COMING INTO ME               # if there are any arrows coming into me (Node nN[j])...
+      nodes[nN[j],]$loading_output=10^(log10(sum(arrows[which(arrows$ds_node==(nN[j])),]$loading))-nodes[nN[j],]$fit)  # then get the sum of all arrows coming into me (nN[j]), minus my LRV, to calculate my output loading
     }
-    if(arrows[i+1,]$iamsolid==TRUE & arrows$siblings_liquid[i+1]>0){    #CALCULATES THE LOADING IN THIS ARROW     # if this arrow is a solid but has liquid siblings
-      arrows[i+1,]$loading=nodes[arrows[i+1,]$us_node,]$loading_output*lambda/arrows$siblings_solid[i+1]          # then use the factor lambda to divide the loading up between liquid vs. solid
+    if(arrows[i,]$iamsolid==TRUE & arrows[i,]$siblings_liquid>0){    #CALCULATES THE LOADING IN THIS ARROW     # if this arrow is a solid but has liquid siblings
+      arrows[i,]$loading=nodes[arrows[i,]$us_node,]$loading_output*lambda/arrows[i,]$siblings_solid          # then use the factor lambda to divide the loading up between liquid vs. solid
     }else{
-      if(arrows$iamsolid[i+1]==FALSE & arrows$siblings_solid[i+1]>0){   #CALCULATES THE LOADING IN THIS ARROW     # if this arrow is a liquid but has solid siblings
-        arrows$loading[i+1]=nodes[arrows$us_node[i+1],]$loading_output*(1-lambda)/arrows$siblings_liquid[i+1]     # then use the factor lambda to divide the loading up between liquid vs. solid
-      }else{arrows$loading[i+1]=nodes[arrows$us_node[i+1],]$loading_output/arrows$siblings[i+1]}                  # otherwise this arrow only has siblings that are the same as it (could be liquid or solid, but they're all the same), so just divide the loading by the number of siblings
+      if(arrows[i,]$iamsolid==FALSE & arrows[i,]$siblings_solid>0){   #CALCULATES THE LOADING IN THIS ARROW     # if this arrow is a liquid but has solid siblings
+        arrows[i,]$loading=nodes[arrows[i,]$us_node,]$loading_output*(1-lambda)/arrows[i,]$siblings_liquid     # then use the factor lambda to divide the loading up between liquid vs. solid
+      }else{arrows[i,]$loading=nodes[arrows[i,]$us_node,]$loading_output/arrows[i,]$siblings}                  # otherwise this arrow only has siblings that are the same as it (could be liquid or solid, but they're all the same), so just divide the loading by the number of siblings
     }
-    #arrows$loading[i+1]=nodes$loading_output[arrows$us_node[i+1]]/arrows$divideby[i+1]
     stuck<-stuck+1
-    if(i==(nrow(arrows)-1)){i=0} else {i=i+1}
-    if(j==(nrow(nodes)-1)){j=0} else {j=j+1} #;arrows;nodes[,c("subType","loading_output")];i;nN[j]
-    if(stuck==100000){keepGoing = FALSE} else {keepGoing = (any(is.na(arrows$loading)) == TRUE | any(is.na(nodes$loading_output)) == TRUE)}
+    if(i==(nrow(arrows))){i=1} else {i=i+1}
+    if(j==(nrow(nodes))){j=1} else {j=j+1} ;arrows;nodes[,c("subType","loading_output")];i;j;nN[j]
+    if(stuck==1000){keepGoing = FALSE} else {keepGoing = (any(is.na(arrows$loading)) == TRUE | any(is.na(nodes$loading_output)) == TRUE)}
   }
 
   lrv=round(log10(sum(nodes$loading_output[nodes$ntype=="source"])/sum(nodes$loading_output[nodes$ntype=="end use"])),2)
@@ -247,23 +242,6 @@ getLRV<-function(mySketch="http://data.waterpathogens.org/dataset/a1423a05-7680-
                loadings=loadings,
                references=references)
 
-  #sanKey<-function(sketcherResults){
-  #  myNodes<-data.frame(name=make.names(sketcherResults$nodes$subType,unique=T),id=sketcherResults$nodes$name)
-  #  myNodes$newID<-rownames(myNodes)
-  #  myLinks<-data.frame(source=sketcherResults$arrows$us_node,target=sketcherResults$arrows$ds_node,value=sketcherResults$arrows$relativeLoading*100)
-  #  lookup<-myNodes[,c("id","newID")]
-  #  myLinks$source<-as.integer(lookup$newID[match(myLinks$source,lookup$id)])-1
-  #  myLinks$target<-as.integer(lookup$newID[match(myLinks$target,lookup$id)])-1
-
-  #  return(list(links=myLinks,nodes=myNodes))
-
-  #  networkd3::sankeyNetwork(Links = myLinks, Nodes = myNodes, Source = "source",
-  #                Target = "target", Value = "value", NodeID = "name",
-  #                units = "%", fontSize = 12, nodeWidth = 30)
-  #}
-
-  #par(mfrow = c(2, 2))
-  #sanKey(solved)
-
   return(solved)
 }
+getLRV()
