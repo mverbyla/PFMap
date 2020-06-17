@@ -10,9 +10,7 @@
 #' @examples
 #' getLRV(mySketch="http://data.waterpathogens.org/dataset/1c681f80-82fa-4ed8-a572-cb98c886781a/resource/a87a552b-2f7c-4267-ac07-526eba1f4b68/download/lubigisewageandfecalsludgetreatmentsystem.json",pathogenType="Virus",inFecalSludge=10000000000,inSewage=10000000000)
 #'
-#' getLRV(mySketch="http://data.waterpathogens.org/dataset/bd53bbc6-a8f3-4d10-95b6-35f36e274b3c/resource/5cf1c3e0-a28c-4293-81e9-12586dd8941c/download/kirinyawastewatertreatmentplant-jinja6.json",pathogenType="Virus",inFecalSludge=10000000000,inSewage=10000000000)
-#'
-getLRV<-function(mySketch="http://data.waterpathogens.org/dataset/1c681f80-82fa-4ed8-a572-cb98c886781a/resource/a87a552b-2f7c-4267-ac07-526eba1f4b68/download/lubigisewageandfecalsludgetreatmentsystem.json"
+getLRV<-function(mySketch#="http://data.waterpathogens.org/dataset/1c681f80-82fa-4ed8-a572-cb98c886781a/resource/a87a552b-2f7c-4267-ac07-526eba1f4b68/download/lubigisewageandfecalsludgetreatmentsystem.json"
                  ,
                  myLRVdata="http://data.waterpathogens.org/dataset/eda3c64c-479e-4177-869c-93b3dc247a10/resource/9e172f8f-d8b5-4657-92a4-38da60786327/download/treatmentdata.csv"
                  ,
