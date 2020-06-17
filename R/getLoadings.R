@@ -22,7 +22,7 @@ getLoadings<-function(onsiteData="http://data.waterpathogens.org/dataset/5374462
   pathogenGroups<-c("Virus","Bacteria","Protozoa","Helminth")
   index<-which(pathogenGroups==pathogenType)
   # &&&&& START GWPP Inputs &&&&&
-  lambdas<-c(lambdaV=0.2,lambdaB=0.3,lambdaP=0.6,lambdaH=0.99) # these lambda values are based on data from the literature (Chauret et al., 1999; Lucena et al., 2004; Ramo et al., 2017; Rose et al., 1996; Tanji et al., 2002; Tsai et al., 1998)
+  lambdas<-c(lambdaV=0.2,lambdaB=0.3,lambdaP=0.6,lambdaH=0.99) # these lambda values are based on data from the literature (Chauret et al., 1999; Lucena et al., 2004; Ramo et al., 2017; Rose et al., 1996; Kinyua et al. 2016; Tanji et al., 2002; Tsai et al., 1998)
   vzReduction<-c(vzV=0.1,vzB=0.01,vzP=0.001,vzH=0.0001) # currently assuming 1-, 2-, 3-, and 4-log reduction of viruses, bacteria, protozoa, and helminth eggs, respectively, between pits and groundwater
 
   #persistence model in pits
