@@ -50,11 +50,17 @@ function(mySketch, inFecalSludge=10000000000, inSewage=10000000000){
 
     results<-data.frame(In_Fecal_Sludge=inFecalSludge,In_Sewage=inSewage,Sludge_Biosolids=NA,Liquid_Effluent=NA,Centralized_LRV=NA)
 
-    sketch=jsonlite::read_json(mySketch,simplifyVector = T)
+    sketch=jsonlite::parse_json(mySketch,simplifyVector = T)
     #pData=read.csv(myData,header=T)
-    sketch$temperature<-as.double(sketch$temperature)
-    sketch$retentionTime<-as.double(sketch$retentionTime)
+    #sketch$retentionTime<-as.double(sketch$retentionTime)
     sketch$depth<-as.double(sketch$depth)
+    sketch$temperature<-as.double(sketch$temperature)
+    sketch$surfaceArea<-as.double(sketch$surfaceArea)
+    sketch$flowRate<-as.double(sketch$flowRate)
+    sketch$depth<-as.double(sketch$depth)
+    sketch$holdingTime<-as.double(sketch$holdingTime)
+    #sketch$retentionTime<-as.double((sketch$surfaceArea*sketch$depth)/sketch$flowRate)
+    sketch$moistureContent<-as.double(sketch$moistureContent)/100
 
     ########((((((((this is the beginning of the old getNodes function))))))))
     #res<-suppressWarnings(getNodes(sketch = sketch, nodes = sketch[,-c(2,3)]))
@@ -103,6 +109,7 @@ function(mySketch, inFecalSludge=10000000000, inSewage=10000000000){
     arrows$siblings_solid<-NA
     arrows$siblings_liquid<-NA
     arrows$iamsolid<-NA
+    arrows$flowRate<-NA
     for(i in 1:nrow(arrows)){
       arrows$siblings_solid[i]<-sum(arrows$flowtype[which(arrows$us_node==arrows$us_node[i])]=="solid")
       arrows$siblings_liquid[i]<-sum(arrows$flowtype[which(arrows$us_node==arrows$us_node[i])]=="liquid")
@@ -110,6 +117,34 @@ function(mySketch, inFecalSludge=10000000000, inSewage=10000000000){
     }
 
     ####(((((((this is the end of the old getNodes function)))))))
+
+    # Here the flow rates and volumes are used to calculate retention times
+    # solve the DAG for the flow rate
+    i=1;j=1;stuck=1   # here, j is an index for the nodes, i is an index for the arrows, stuck prevents the loop from getting infinitely stuck
+    nN<-nodes$name
+    keepGoing=TRUE
+    # this next monstrosity of a line finds all arrows who's parents are a source, then divides the parent's source load by the number of siblings to calculate the load in these "special" arrows.
+    arrows[which(arrows$us_node %in% nodes[nodes$ntype=="source",]$name),]$flowRate<-nodes[arrows[which(arrows$us_node %in% nodes[nodes$ntype=="source",]$name),]$us_node,]$flowRate/arrows[which(arrows$us_node %in% nodes[nodes$ntype=="source",]$name),]$siblings
+    while (keepGoing==TRUE){       ##### each loop focuses on a single node (nN[j+1]) and the arrow (i+1) that is going into it
+      if(any(arrows$ds_node==(nN[j]))==TRUE & is.na(sum(arrows[which(arrows$ds_node==(nN[j])),]$flowRate))==FALSE){       #2. DO I KNOW THE LOADINGS OF ARROWS COMING INTO ME               # if there are any arrows coming into me (Node nN[j])...
+        nodes[nN[j],]$flowRate=sum(arrows[which(arrows$ds_node==(nN[j])),]$flowRate)  # then get the sum of all arrows coming into me (nN[j]), minus my LRV, to calculate my output flow
+      }
+      if(arrows[i,]$iamsolid==TRUE & arrows[i,]$siblings_liquid>0){    #CALCULATES THE LOADING IN THIS ARROW     # if this arrow is a solid but has liquid siblings
+        arrows[i,]$flowRate=nodes[arrows[i,]$us_node,]$flowRate*0.1/arrows[i,]$siblings_solid          # then use the factor 0.1 to divide the flow up between liquid vs. solid
+      }else{
+        if(arrows[i,]$iamsolid==FALSE & arrows[i,]$siblings_solid>0){   #CALCULATES THE LOADING IN THIS ARROW     # if this arrow is a liquid but has solid siblings
+          arrows[i,]$flowRate=nodes[arrows[i,]$us_node,]$flowRate*(0.9)/arrows[i,]$siblings_liquid     # then use the factor 0.9 to divide the flow up between liquid vs. solid
+        }else{arrows[i,]$flowRate=nodes[arrows[i,]$us_node,]$flowRate/arrows[i,]$siblings}                  # otherwise this arrow only has siblings that are the same as it (could be liquid or solid, but they're all the same), so just divide the loading by the number of siblings
+      }
+      stuck<-stuck+1
+      if(i==(nrow(arrows))){i=1} else {i=i+1}
+      if(j==(nrow(nodes))){j=1} else {j=j+1} ;arrows;nodes[,c("subType","flowRate")];i;j;nN[j]
+      if(stuck==1000){keepGoing = FALSE} else {keepGoing = (any(is.na(arrows$flowRate)) == TRUE | any(is.na(nodes$flowRate)) == TRUE)}
+    }
+
+    nodes[nodes$volume==0,]$volume<-nodes[nodes$volume==0,]$surfaceArea*nodes[nodes$volume==0,]$depth
+    nodes$retentionTime<-nodes$volume/nodes$flowRate
+    # end of new script
 
     # transform the K2P data and fit the models
     # k2pdata<-suppressWarnings(transformData(k2pdata))
@@ -155,7 +190,7 @@ function(mySketch, inFecalSludge=10000000000, inSewage=10000000000){
     nodes$lhrt<-NA
     nodes$lhrt[nodes$subType=="anaerobic pond"|nodes$subType=="facultative pond"|nodes$subType=="maturation pond"]<-log(nodes$retentionTime[nodes$subType=="anaerobic pond"|nodes$subType=="facultative pond"|nodes$subType=="maturation pond"])
     nodes$SQRThrt<-sqrt(nodes$retentionTime)
-    nodes$SQRTht<-sqrt(as.double(nodes$holdingTime))
+    nodes$SQRTht<-sqrt(nodes$holdingTime)
     nodes$ldepth<-NA
     nodes$ldepth[nodes$subType=="anaerobic pond"|nodes$subType=="facultative pond"|nodes$subType=="maturation pond"]<-log(nodes$depth[nodes$subType=="anaerobic pond"|nodes$subType=="facultative pond"|nodes$subType=="maturation pond"])
     nodes$temp<-nodes$temperature
@@ -192,6 +227,9 @@ function(mySketch, inFecalSludge=10000000000, inSewage=10000000000){
     if(any(nodes$subType=="ss")==TRUE){nodes[nodes$subType=="ss",c("fit","lwr","upr")]<-c(1,0,2)}
     if(any(nodes$subType=="fws")==TRUE){nodes[nodes$subType=="fws",c("fit","lwr","upr")]<-c(1,0,2)}
     if(any(nodes$subType=="anaerobic baffled reactor")==TRUE){nodes[nodes$subType=="anaerobic baffled reactor",c("fit","lwr","upr")]<-c(1,0,2)}
+    if(any(nodes$subType=="chlorination")==TRUE){nodes[nodes$subType=="anaerobic baffled reactor",c("fit","lwr","upr")]<-c(1,0,2)}
+    if(any(nodes$subType=="ammonia")==TRUE){nodes[nodes$subType=="anaerobic baffled reactor",c("fit","lwr","upr")]<-c(1,0,2)}
+    if(any(nodes$subType=="lime treatment")==TRUE){nodes[nodes$subType=="anaerobic baffled reactor",c("fit","lwr","upr")]<-c(1,0,2)}
     ####
 
 

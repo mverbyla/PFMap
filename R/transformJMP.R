@@ -1,12 +1,13 @@
 #' The getLoadings function
 #'
 #' This function predicts the pathogen loadings from onsite sanitation systems for data available through the UNICEF/WHO Joint Monitoring Program and provides an output that can be used directly by the Pathogen Mapping Tool.
-#' @param onsiteData A CSV file containing your onsite sanitation data. Defaults to example template from http://data.waterpathogens.org/dataset/5374462b-5bb5-456f-bfc0-816ea572666d/resource/4d9e5fba-9280-4b8b-acce-d1c87952acc1/download/onsitedata_example.csv
+#' @param sanitation The mapped location of a CSV file containing JMP sanitation facilities data.
+#' @param emptying The mapped location of a CSV file containing JMP emptying and treatment data.
 #' @param pathogenType The input pathogenType should be equal to either one of the following strings: c("Virus","Bacteria","Protozoa","Helminth")
 #' @keywords pathogens
 #' @export
 #' @examples
-#' getLoadings(onsiteData="http://data.waterpathogens.org/dataset/5374462b-5bb5-456f-bfc0-816ea572666d/resource/4d9e5fba-9280-4b8b-acce-d1c87952acc1/download/onsitedata_example.csv",pathogenType="Virus")
+#' getLoadings(sanFac,empTrt,pathogenType="Virus")
 #'
 #'     region     excreted to_groundwater   to_surface retained_in_soil      decayed In_Fecal_Sludge    In_Sewage  stillViable Onsite_LRV Onsite_PR
 #' 1  Central 3.470412e+16   7.208736e+14 1.241347e+15     6.487862e+15 1.696317e+16    4.204900e+13 9.142680e+15 1.114695e+16       0.49    0.6788
@@ -15,9 +16,21 @@
 #' 4   Nakawa 1.740476e+17   4.848475e+15 5.834954e+15     4.363628e+16 1.023125e+17    1.109438e+14 1.716174e+16 2.795611e+16       0.79    0.8394
 #' 5   Rubaga 2.103805e+17   4.278101e+15 5.257688e+15     3.850291e+16 1.602164e+17    2.221318e+14 9.808800e+14 1.073880e+16       1.29    0.9490
 #'
-getLoadings<-function(onsiteData="http://data.waterpathogens.org/dataset/5374462b-5bb5-456f-bfc0-816ea572666d/resource/4d9e5fba-9280-4b8b-acce-d1c87952acc1/download/onsitedata_example.csv",pathogenType){
+getLoadings<-function(sanitation="data/san_fac_subnational.csv",emptying="data/emptying_and_treatment.csv",pathogenType="Virus"){
 
-  df1<-read.csv(onsiteData,header=TRUE)   #bring in the inputs CSV file
+  st<-read.csv(sanitation,header=TRUE)   #bring in the sanitation CSV file
+  et<-read.csv(emptying,header=TRUE)     #bring in the emptying CSV file
+  sst<-read.csv("data/san_fac_cat_subnational.csv",header=TRUE)
+
+  sl <- merge(aggregate(year ~ iso3, st, max), st[,c("iso3","year","name","survey","sanitation_facility","region","value")])
+  el <- merge(aggregate(year ~ iso3, et, max), et[,c("iso3","year","country_name","indicator","urban","rural","total")])
+  ssl <- merge(aggregate(year ~ iso3, sst, max), sst[,c("iso3","year","name","survey","region","san_sew","san_sep","san_lat","san_unimp","san_od")])
+
+  head(sl$sanitation_facility)
+  head(el)
+  head(ssl)
+
+  #df1<-data.frame(region=,)
 
   pathogenGroups<-c("Virus","Bacteria","Protozoa","Helminth")
   index<-which(pathogenGroups==pathogenType)
@@ -93,8 +106,9 @@ getLoadings<-function(onsiteData="http://data.waterpathogens.org/dataset/5374462
     df<-df1[m,]
     myJMP<-myJMP1
     region<-df$region
+    sheddingRate<-df$sheddingRate # this needs to be the number of pathogens shed per INFECTED person per day
+    prevalence<-df$prevalence # this needs to be the percentage of the population actively shedding
     population<-df$population
-    excreted<-df$excreted
     flushSewer<-df$flushSewer
     flushSeptic<-df$flushSeptic
     flushPit<-df$flushPit
@@ -174,7 +188,7 @@ getLoadings<-function(onsiteData="http://data.waterpathogens.org/dataset/5374462
 
     i=index
       loadings[[m]]$lamda<-c(0,lambdas[i],lambdas[i],0,0,1,1,1,1,1,0,1,0,0,0)
-      loadings[[m]]$excreted<-excreted*loadings[[m]]$percentage*daysperyear  #Eq. 1: Pathogen Loading Model (Column J) #/year
+      loadings[[m]]$excreted<-sheddingRate*round(round(population*loadings[[m]]$percentage)*prevalence)*daysperyear  #Eq. 1: Pathogen Loading Model (Column J) #/year
       loadings[[m]]$initContained<-loadings[[m]]$excreted*loadings[[m]]$initiallyContained  #Eq. 2: Number Initially Contained (Column O) #/year
       loadings[[m]]$notContained<-loadings[[m]]$excreted-loadings[[m]]$initContained
       loadings[[m]]$inLiquid<-loadings[[m]]$initContained*(1-loadings[[m]]$lamda)*(1-loadings[[m]]$flushSewer)
