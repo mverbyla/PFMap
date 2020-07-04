@@ -5,8 +5,7 @@
 \title{The getLRV function}
 \usage{
 getLRV(
- 
-    mySketch = "http://data.waterpathogens.org/dataset/1c681f80-82fa-4ed8-a572-cb98c886781a/resource/a87a552b-2f7c-4267-ac07-526eba1f4b68/download/lubigisewageandfecalsludgetreatmentsystem.json",
+  mySketch = "data/lubigisewageandfecalsludgetreatmentsystem2.json",
  
     myLRVdata = "http://data.waterpathogens.org/dataset/eda3c64c-479e-4177-869c-93b3dc247a10/resource/9e172f8f-d8b5-4657-92a4-38da60786327/download/treatmentdata.csv",
   pathogenType = "Virus",
@@ -15,19 +14,22 @@ getLRV(
 )
 }
 \arguments{
+\item{mySketch}{A JSON file containing information about the wastewater or fecal sludge treatment plant. This file must be in a very specific format and can be created using the K2P Sketcher Tool (http://tools.waterpathogens.org/sketcher/)}
+
+\item{myLRVdata}{A CSV file specifying data to use for fitting regression models that are used to predict pathogen reduction values in your sketched system}
+
 \item{pathogenType}{Pathogen group of interest (Virus, Bacteria, Protozoa, Helminth)}
 
 \item{inFecalSludge}{Number of pathogens conveyed each year to the treatment plant in fecal sludge}
 
 \item{inSewage}{Number of pathogens conveyed each year to the treatment plant in sewerage}
-
-\item{sketch}{A JSON file containing information about the wastewater or fecal sludge treatment plant. This file must be in a very specific format and can be created using the K2P Sketcher Tool (http://tools.waterpathogens.org/sketcher/)}
 }
 \description{
 This function predicts the pathogen log reduction value for a wastewater or fecal sludge treatment plant sketched using the K2P Sketcher Tool (http://tools.waterpathogens.org/sketcher/)
 }
 \examples{
-getLRV(mySketch="http://data.waterpathogens.org/dataset/1c681f80-82fa-4ed8-a572-cb98c886781a/resource/a87a552b-2f7c-4267-ac07-526eba1f4b68/download/lubigisewageandfecalsludgetreatmentsystem.json",pathogenType="Virus",inFecalSludge=10000000000,inSewage=10000000000)
+getLRV(mySketch="data/lubigisewageandfecalsludgetreatmentsystem2.json",pathogenType="Virus",myLRVdata="http://data.waterpathogens.org/dataset/eda3c64c-479e-4177-869c-93b3dc247a10/resource/9e172f8f-d8b5-4657-92a4-38da60786327/download/treatmentdata.csv",pathogenType="Virus",inFecalSludge=10000000000,inSewage=10000000000)
+
 
 }
 \keyword{pathogens}

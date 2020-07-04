@@ -1,18 +1,19 @@
 #' The getLRV function
 #'
 #' This function predicts the pathogen log reduction value for a wastewater or fecal sludge treatment plant sketched using the K2P Sketcher Tool (http://tools.waterpathogens.org/sketcher/)
-#' @param sketch A JSON file containing information about the wastewater or fecal sludge treatment plant. This file must be in a very specific format and can be created using the K2P Sketcher Tool (http://tools.waterpathogens.org/sketcher/)
+#' @param mySketch A JSON file containing information about the wastewater or fecal sludge treatment plant. This file must be in a very specific format and can be created using the K2P Sketcher Tool (http://tools.waterpathogens.org/sketcher/)
+#' @param myLRVdata A CSV file specifying data to use for fitting regression models that are used to predict pathogen reduction values in your sketched system
+#' @param pathogenType Pathogen group of interest (Virus, Bacteria, Protozoa, Helminth)
 #' @param inFecalSludge Number of pathogens conveyed each year to the treatment plant in fecal sludge
 #' @param inSewage Number of pathogens conveyed each year to the treatment plant in sewerage
-#' @param pathogenType Pathogen group of interest (Virus, Bacteria, Protozoa, Helminth)
 #' @keywords pathogens
 #' @export
 #' @examples
-#' getLRV(mySketch="http://data.waterpathogens.org/dataset/1c681f80-82fa-4ed8-a572-cb98c886781a/resource/a87a552b-2f7c-4267-ac07-526eba1f4b68/download/lubigisewageandfecalsludgetreatmentsystem.json",pathogenType="Virus",inFecalSludge=10000000000,inSewage=10000000000)
+#' getLRV(mySketch="data/lubigisewageandfecalsludgetreatmentsystem2.json",pathogenType="Virus",myLRVdata="http://data.waterpathogens.org/dataset/eda3c64c-479e-4177-869c-93b3dc247a10/resource/9e172f8f-d8b5-4657-92a4-38da60786327/download/treatmentdata.csv",pathogenType="Virus",inFecalSludge=10000000000,inSewage=10000000000)
 #'
 #'
-mySketch<-"sketch.test.json"
-getLRV<-function(mySketch="http://data.waterpathogens.org/dataset/1c681f80-82fa-4ed8-a572-cb98c886781a/resource/a87a552b-2f7c-4267-ac07-526eba1f4b68/download/lubigisewageandfecalsludgetreatmentsystem.json"
+
+getLRV<-function(mySketch="data/lubigisewageandfecalsludgetreatmentsystem2.json"
                  ,
                  myLRVdata="http://data.waterpathogens.org/dataset/eda3c64c-479e-4177-869c-93b3dc247a10/resource/9e172f8f-d8b5-4657-92a4-38da60786327/download/treatmentdata.csv"
                  ,
@@ -48,7 +49,6 @@ getLRV<-function(mySketch="http://data.waterpathogens.org/dataset/1c681f80-82fa-
   sketch$flowRate<-as.double(sketch$flowRate)
   sketch$depth<-as.double(sketch$depth)
   sketch$holdingTime<-as.double(sketch$holdingTime)
-  #sketch$retentionTime<-as.double(sketch$retentionTime)
   sketch$moistureContent<-as.double(sketch$moistureContent)/100
 
   ########((((((((this is the beginning of the old getNodes function))))))))
@@ -99,6 +99,7 @@ getLRV<-function(mySketch="http://data.waterpathogens.org/dataset/1c681f80-82fa-
   arrows$siblings_liquid<-NA
   arrows$iamsolid<-NA
   arrows$flowRate<-NA
+  nodes[nodes$flowRate==0,]$flowRate<-NA
   for(i in 1:nrow(arrows)){
     arrows$siblings_solid[i]<-sum(arrows$flowtype[which(arrows$us_node==arrows$us_node[i])]=="solid")
     arrows$siblings_liquid[i]<-sum(arrows$flowtype[which(arrows$us_node==arrows$us_node[i])]=="liquid")
@@ -127,8 +128,8 @@ getLRV<-function(mySketch="http://data.waterpathogens.org/dataset/1c681f80-82fa-
     }
     stuck<-stuck+1
     if(i==(nrow(arrows))){i=1} else {i=i+1}
-    if(j==(nrow(nodes))){j=1} else {j=j+1} ;arrows;nodes[,c("subType","flowRate")];i;j;nN[j]
-    if(stuck==1000){keepGoing = FALSE} else {keepGoing = (any(is.na(arrows$flowRate)) == TRUE | any(is.na(nodes$flowRate)) == TRUE)}
+    if(j==(nrow(nodes))){j=1} else {j=j+1}
+    if(stuck==1000){keepGoing = FALSE} else {keepGoing = (any(is.na(arrows$flowRate)) == TRUE | any(is.na(nodes$flowRate)) == TRUE)};arrows;nodes[,c("subType","flowRate")];nN[j];keepGoing
   }
 
   nodes[nodes$volume==0,]$volume<-nodes[nodes$volume==0,]$surfaceArea*nodes[nodes$volume==0,]$depth
@@ -199,24 +200,24 @@ getLRV<-function(mySketch="http://data.waterpathogens.org/dataset/1c681f80-82fa-
     if(any(nodes$subType=="trickling filter")==TRUE){
       if(pathogenType=="Helminth"){nodes[nodes$subType=="trickling filter",c("fit","lwr","upr")]<-1}else{nodes[nodes$subType=="trickling filter",c("fit","lwr","upr")]<-predict(fit_tf,nodes[nodes$subType=="trickling filter",],interval="confidence")^2}
     }
-    if(any(nodes$subType=="settler/sedimentation")==TRUE){
-      if(pathogenType=="Protozoa"|pathogenType=="Helminth"){nodes[nodes$subType=="settler/sedimentation",c("fit","lwr","upr")]<-0}else{nodes[nodes$subType=="settler/sedimentation",c("fit","lwr","upr")]<-predict(fit_sd,nodes[nodes$subType=="settler/sedimentation",],interval="confidence")^2}
+    if(any(nodes$subType=="settler or clarifier")==TRUE){
+      if(pathogenType=="Protozoa"|pathogenType=="Helminth"){nodes[nodes$subType=="settler or clarifier",c("fit","lwr","upr")]<-0}else{nodes[nodes$subType=="settler or clarifier",c("fit","lwr","upr")]<-predict(fit_sd,nodes[nodes$subType=="settler or clarifier",],interval="confidence")^2}
     }
 
     ####placeholder LRVs until we get more data into the database####
     if(any(nodes$subType=="biogas reactor")==TRUE){nodes[nodes$subType=="biogas reactor",c("fit","lwr","upr")]<-c(1,0,2)}
-    if(any(nodes$subType=="composting")==TRUE){nodes[nodes$subType=="co-composting",c("fit","lwr","upr")]<-c(1,0,2)}
+    if(any(nodes$subType=="composting")==TRUE){nodes[nodes$subType=="composting",c("fit","lwr","upr")]<-c(1,0,2)}
     if(any(nodes$subType=="activated sludge")==TRUE){nodes[nodes$subType=="activated sludge",c("fit","lwr","upr")]<-c(1,0,2)}
     if(any(nodes$subType=="uasb reactor")==TRUE){nodes[nodes$subType=="uasb reactor",c("fit","lwr","upr")]<-c(1,0,2)}
-    if(any(nodes$subType=="media filer")==TRUE){nodes[nodes$subType=="media filer",c("fit","lwr","upr")]<-c(1,0,2)}
+    if(any(nodes$subType=="media filter")==TRUE){nodes[nodes$subType=="media filter",c("fit","lwr","upr")]<-c(1,0,2)}
     if(any(nodes$subType=="imhoff tank")==TRUE){nodes[nodes$subType=="imhoff tank",c("fit","lwr","upr")]<-c(1,0,2)}
     if(any(nodes$subType=="aerated pond")==TRUE){nodes[nodes$subType=="aerated pond",c("fit","lwr","upr")]<-c(1,0,2)}
-    if(any(nodes$subType=="ss wetland")==TRUE){nodes[nodes$subType=="ss",c("fit","lwr","upr")]<-c(1,0,2)}
-    if(any(nodes$subType=="fws wetland")==TRUE){nodes[nodes$subType=="fws",c("fit","lwr","upr")]<-c(1,0,2)}
+    if(any(nodes$subType=="ss wetland")==TRUE){nodes[nodes$subType=="ss wetland",c("fit","lwr","upr")]<-c(1,0,2)}
+    if(any(nodes$subType=="fws wetland")==TRUE){nodes[nodes$subType=="fws wetland",c("fit","lwr","upr")]<-c(1,0,2)}
     if(any(nodes$subType=="anaerobic baffled reactor")==TRUE){nodes[nodes$subType=="anaerobic baffled reactor",c("fit","lwr","upr")]<-c(1,0,2)}
-    if(any(nodes$subType=="chlorination")==TRUE){nodes[nodes$subType=="anaerobic baffled reactor",c("fit","lwr","upr")]<-c(1,0,2)}
-    if(any(nodes$subType=="ammonia")==TRUE){nodes[nodes$subType=="anaerobic baffled reactor",c("fit","lwr","upr")]<-c(1,0,2)}
-    if(any(nodes$subType=="lime treatment")==TRUE){nodes[nodes$subType=="anaerobic baffled reactor",c("fit","lwr","upr")]<-c(1,0,2)}
+    if(any(nodes$subType=="chlorination")==TRUE){nodes[nodes$subType=="chlorination",c("fit","lwr","upr")]<-c(1,0,2)}
+    if(any(nodes$subType=="ammonia")==TRUE){nodes[nodes$subType=="ammonia",c("fit","lwr","upr")]<-c(1,0,2)}
+    if(any(nodes$subType=="lime treatment")==TRUE){nodes[nodes$subType=="lime treatment",c("fit","lwr","upr")]<-c(1,0,2)}
     ####
 
     ####(((((((this is the end of the old estimate function)))))))

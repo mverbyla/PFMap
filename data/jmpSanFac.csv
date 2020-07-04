@@ -1,0 +1,609 @@
+iso3,country,year,source,san_cat_1,san_cat_2,san,urban,rural,national
+ALB,countryname,year,survey,desc1,desc2,flushSewer,11.8316839,38.2804781,28.767918
+ALB,countryname,year,survey,desc1,desc2,flushPit,10.6923984,3.448312,2.3180097
+ALB,countryname,year,survey,desc1,desc2,flushOpen,3.8986184,4.510442,5.6012064
+ALB,countryname,year,survey,desc1,desc2,pitSlab,36.7886497,26.8803839,31.6564329
+ALB,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+ALB,countryname,year,survey,desc1,desc2,compostingToilet,35.7886497,25.8803839,30.6564329
+AND,countryname,year,survey,desc1,desc2,flushSewer,38.6887265,28.4027697,21.4888243
+AND,countryname,year,survey,desc1,desc2,flushPit,4.4132725,6.7131941,5.5771315
+AND,countryname,year,survey,desc1,desc2,flushOpen,7.4804787,9.3471867,5.9806037
+AND,countryname,year,survey,desc1,desc2,pitSlab,24.7087612,27.7684248,33.4767202
+AND,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+AND,countryname,year,survey,desc1,desc2,compostingToilet,23.7087612,26.7684248,32.4767202
+ARM,countryname,year,survey,desc1,desc2,flushSewer,14.2701754,27.0077293,24.8499163
+ARM,countryname,year,survey,desc1,desc2,flushPit,5.2514576,6.8443942,7.1542236
+ARM,countryname,year,survey,desc1,desc2,flushOpen,8.2173449,3.1724867,7.756426
+ARM,countryname,year,survey,desc1,desc2,pitSlab,36.130511,31.4876949,30.1197171
+ARM,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+ARM,countryname,year,survey,desc1,desc2,compostingToilet,35.130511,30.4876949,29.1197171
+AUT,countryname,year,survey,desc1,desc2,flushSewer,6.1086694,20.3163673,21.2859521
+AUT,countryname,year,survey,desc1,desc2,flushPit,2.3892254,4.4132373,2.5996144
+AUT,countryname,year,survey,desc1,desc2,flushOpen,6.4997453,1.9938775,4.6696286
+AUT,countryname,year,survey,desc1,desc2,pitSlab,42.50118,36.6382589,35.7224024
+AUT,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+AUT,countryname,year,survey,desc1,desc2,compostingToilet,41.50118,35.6382589,34.7224024
+AZE,countryname,year,survey,desc1,desc2,flushSewer,40.7491157,33.0121806,19.7356951
+AZE,countryname,year,survey,desc1,desc2,flushPit,4.5651662,2.0244101,6.6950601
+AZE,countryname,year,survey,desc1,desc2,flushOpen,5.7055928,0.5568067,10.5236117
+AZE,countryname,year,survey,desc1,desc2,pitSlab,24.4900627,32.2033013,31.5228165
+AZE,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+AZE,countryname,year,survey,desc1,desc2,compostingToilet,23.4900627,31.2033013,30.5228165
+BGD,countryname,year,survey,desc1,desc2,flushSewer,9.126591,20.1848091,13.7178491
+BGD,countryname,year,survey,desc1,desc2,flushPit,3.8578745,7.6968452,4.7821495
+BGD,countryname,year,survey,desc1,desc2,flushOpen,5.4503451,5.3019511,10.5405961
+BGD,countryname,year,survey,desc1,desc2,pitSlab,40.7825947,33.4081973,35.4797026
+BGD,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+BGD,countryname,year,survey,desc1,desc2,compostingToilet,39.7825947,32.4081973,34.4797026
+BGR,countryname,year,survey,desc1,desc2,flushSewer,18.79401,27.856258,15.8352755
+BGR,countryname,year,survey,desc1,desc2,flushPit,7.6737221,2.5013523,5.0802258
+BGR,countryname,year,survey,desc1,desc2,flushOpen,1.5932867,2.4237557,5.9656685
+BGR,countryname,year,survey,desc1,desc2,pitSlab,35.9694906,33.609317,36.5594151
+BGR,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+BGR,countryname,year,survey,desc1,desc2,compostingToilet,34.9694906,32.609317,35.5594151
+BIH,countryname,year,survey,desc1,desc2,flushSewer,15.9794338,0.641635,35.986356
+BIH,countryname,year,survey,desc1,desc2,flushPit,4.6503662,1.4733025,4.0319307
+BIH,countryname,year,survey,desc1,desc2,flushOpen,7.2165422,10.8467836,3.9121878
+BIH,countryname,year,survey,desc1,desc2,pitSlab,36.0768289,43.5191394,28.0347628
+BIH,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+BIH,countryname,year,survey,desc1,desc2,compostingToilet,35.0768289,42.5191394,27.0347628
+BLR,countryname,year,survey,desc1,desc2,flushSewer,22.9341987,28.1474115,8.7974027
+BLR,countryname,year,survey,desc1,desc2,flushPit,4.1114971,4.8246336,1.1623945
+BLR,countryname,year,survey,desc1,desc2,flushOpen,6.5931903,2.5255257,10.3947476
+BLR,countryname,year,survey,desc1,desc2,pitSlab,33.1805569,32.2512146,39.8227276
+BLR,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+BLR,countryname,year,survey,desc1,desc2,compostingToilet,32.1805569,31.2512146,38.8227276
+BMU,countryname,year,survey,desc1,desc2,flushSewer,21.2350861,15.797557,9.2595752
+BMU,countryname,year,survey,desc1,desc2,flushPit,4.0184397,2.7072695,6.4892431
+BMU,countryname,year,survey,desc1,desc2,flushOpen,9.7134235,3.3372864,0.7586779
+BMU,countryname,year,survey,desc1,desc2,pitSlab,32.5165254,39.0789436,41.7462519
+BMU,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+BMU,countryname,year,survey,desc1,desc2,compostingToilet,31.5165254,38.0789436,40.7462519
+BOL,countryname,year,survey,desc1,desc2,flushSewer,31.1596761,10.6431333,21.886254
+BOL,countryname,year,survey,desc1,desc2,flushPit,2.6069164,4.6370499,7.3527592
+BOL,countryname,year,survey,desc1,desc2,flushOpen,5.0532782,11.757055,5.4728233
+BOL,countryname,year,survey,desc1,desc2,pitSlab,30.5900646,36.4813809,32.6440817
+BOL,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+BOL,countryname,year,survey,desc1,desc2,compostingToilet,29.5900646,35.4813809,31.6440817
+BRA,countryname,year,survey,desc1,desc2,flushSewer,17.5036408,21.9601695,1.7239676
+BRA,countryname,year,survey,desc1,desc2,flushPit,9.5715879,4.2133887,5.8506383
+BRA,countryname,year,survey,desc1,desc2,flushOpen,6.0530383,6.7031728,4.0741291
+BRA,countryname,year,survey,desc1,desc2,pitSlab,33.4358665,33.5616345,44.1756324
+BRA,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+BRA,countryname,year,survey,desc1,desc2,compostingToilet,32.4358665,32.5616345,43.1756324
+CAN,countryname,year,survey,desc1,desc2,flushSewer,2.2037916,40.9442586,37.5671499
+CAN,countryname,year,survey,desc1,desc2,flushPit,4.4154383,10.5679096,5.7722833
+CAN,countryname,year,survey,desc1,desc2,flushOpen,6.0286743,4.4298305,5.9827669
+CAN,countryname,year,survey,desc1,desc2,pitSlab,43.6760479,22.0290007,25.3388999
+CAN,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+CAN,countryname,year,survey,desc1,desc2,compostingToilet,42.6760479,21.0290007,24.3388999
+CHE,countryname,year,survey,desc1,desc2,flushSewer,25.6756658,14.3297151,25.7583969
+CHE,countryname,year,survey,desc1,desc2,flushPit,0.7246916,3.8191045,14.0640323
+CHE,countryname,year,survey,desc1,desc2,flushOpen,4.6004964,7.0422366,3.4374439
+CHE,countryname,year,survey,desc1,desc2,pitSlab,34.4995731,37.4044719,28.3700634
+CHE,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+CHE,countryname,year,survey,desc1,desc2,compostingToilet,33.4995731,36.4044719,27.3700634
+CHL,countryname,year,survey,desc1,desc2,flushSewer,35.8025469,14.9365086,20.7693018
+CHL,countryname,year,survey,desc1,desc2,flushPit,6.2002887,6.4930817,6.904789
+CHL,countryname,year,survey,desc1,desc2,flushOpen,6.4455865,3.3155764,2.0888251
+CHL,countryname,year,survey,desc1,desc2,pitSlab,25.775789,37.6274166,35.1185421
+CHL,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+CHL,countryname,year,survey,desc1,desc2,compostingToilet,24.775789,36.6274166,34.1185421
+CHN,countryname,year,survey,desc1,desc2,flushSewer,24.851621,18.5700054,24.2771433
+CHN,countryname,year,survey,desc1,desc2,flushPit,8.2165968,2.4128944,9.830767
+CHN,countryname,year,survey,desc1,desc2,flushOpen,2.5905911,4.7270279,4.2439314
+CHN,countryname,year,survey,desc1,desc2,pitSlab,32.1705955,37.1450361,30.8240792
+CHN,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+CHN,countryname,year,survey,desc1,desc2,compostingToilet,31.1705955,36.1450361,29.8240792
+COL,countryname,year,survey,desc1,desc2,flushSewer,14.6159249,25.6334612,27.0285899
+COL,countryname,year,survey,desc1,desc2,flushPit,2.9564185,3.3301151,4.3541487
+COL,countryname,year,survey,desc1,desc2,flushOpen,7.3204594,6.7600303,11.6285653
+COL,countryname,year,survey,desc1,desc2,pitSlab,37.5535986,32.1381967,28.494348
+COL,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+COL,countryname,year,survey,desc1,desc2,compostingToilet,36.5535986,31.1381967,27.494348
+CRI,countryname,year,survey,desc1,desc2,flushSewer,18.0752377,25.3437254,32.5776749
+CRI,countryname,year,survey,desc1,desc2,flushPit,4.8942112,6.0742403,3.9035579
+CRI,countryname,year,survey,desc1,desc2,flushOpen,0.1745315,1.5255406,5.8102547
+CRI,countryname,year,survey,desc1,desc2,pitSlab,38.4280098,33.5282468,28.8542562
+CRI,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+CRI,countryname,year,survey,desc1,desc2,compostingToilet,37.4280098,32.5282468,27.8542562
+CUB,countryname,year,survey,desc1,desc2,flushSewer,14.0429439,12.6610957,17.8540666
+CUB,countryname,year,survey,desc1,desc2,flushPit,3.8802112,4.1461556,0.844708
+CUB,countryname,year,survey,desc1,desc2,flushOpen,7.15915,4.9324062,5.0991029
+CUB,countryname,year,survey,desc1,desc2,pitSlab,37.4588474,39.1301712,38.1010612
+CUB,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+CUB,countryname,year,survey,desc1,desc2,compostingToilet,36.4588474,38.1301712,37.1010612
+CYP,countryname,year,survey,desc1,desc2,flushSewer,23.649554,25.8921951,40.9675473
+CYP,countryname,year,survey,desc1,desc2,flushPit,6.0192048,1.2551655,8.1668376
+CYP,countryname,year,survey,desc1,desc2,flushOpen,7.3920402,7.9812437,0.7875313
+CYP,countryname,year,survey,desc1,desc2,pitSlab,31.4696005,32.4356978,25.0390419
+CYP,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+CYP,countryname,year,survey,desc1,desc2,compostingToilet,30.4696005,31.4356978,24.0390419
+CZE,countryname,year,survey,desc1,desc2,flushSewer,16.153541,13.6908355,12.7497029
+CZE,countryname,year,survey,desc1,desc2,flushPit,0.4319826,6.9066992,2.4801339
+CZE,countryname,year,survey,desc1,desc2,flushOpen,2.0980174,0.7081113,2.5385421
+CZE,countryname,year,survey,desc1,desc2,pitSlab,40.6582295,39.347177,41.1158106
+CZE,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+CZE,countryname,year,survey,desc1,desc2,compostingToilet,39.6582295,38.347177,40.1158106
+DEU,countryname,year,survey,desc1,desc2,flushSewer,28.5411929,6.548607,32.2281754
+DEU,countryname,year,survey,desc1,desc2,flushPit,0.2328944,6.0086097,6.420867
+DEU,countryname,year,survey,desc1,desc2,flushOpen,11.3328769,2.6662946,6.1398998
+DEU,countryname,year,survey,desc1,desc2,pitSlab,29.9465179,42.3882444,27.6055289
+DEU,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+DEU,countryname,year,survey,desc1,desc2,compostingToilet,28.9465179,41.3882444,26.6055289
+DJI,countryname,year,survey,desc1,desc2,flushSewer,23.1572106,27.201279,27.9339082
+DJI,countryname,year,survey,desc1,desc2,flushPit,6.7006437,3.1574589,4.2588966
+DJI,countryname,year,survey,desc1,desc2,flushOpen,5.4407806,1.9930642,5.171741
+DJI,countryname,year,survey,desc1,desc2,pitSlab,32.3506826,33.824099,31.3177271
+DJI,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+DJI,countryname,year,survey,desc1,desc2,compostingToilet,31.3506826,32.824099,30.3177271
+DOM,countryname,year,survey,desc1,desc2,flushSewer,20.4330517,4.8320651,21.288858
+DOM,countryname,year,survey,desc1,desc2,flushPit,4.8204282,3.7934921,2.6631221
+DOM,countryname,year,survey,desc1,desc2,flushOpen,0.8482413,1.5978393,0.1958069
+DOM,countryname,year,survey,desc1,desc2,pitSlab,36.9491394,44.8883018,37.9261065
+DOM,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+DOM,countryname,year,survey,desc1,desc2,compostingToilet,35.9491394,43.8883018,36.9261065
+DZA,countryname,year,survey,desc1,desc2,flushSewer,31.9416998,7.6453007,15.1523371
+DZA,countryname,year,survey,desc1,desc2,flushPit,8.266602,5.2501935,10.5690225
+DZA,countryname,year,survey,desc1,desc2,flushOpen,2.6978964,0.0884402,9.6465635
+DZA,countryname,year,survey,desc1,desc2,pitSlab,28.5469009,43.5080328,32.3160385
+DZA,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+DZA,countryname,year,survey,desc1,desc2,compostingToilet,27.5469009,42.5080328,31.3160385
+ECU,countryname,year,survey,desc1,desc2,flushSewer,6.6721527,29.1873099,22.9257379
+ECU,countryname,year,survey,desc1,desc2,flushPit,10.7441074,0.9503591,6.2320263
+ECU,countryname,year,survey,desc1,desc2,flushOpen,1.4375149,7.8622005,5.4291022
+ECU,countryname,year,survey,desc1,desc2,pitSlab,40.5731125,31.0000653,32.7065668
+ECU,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+ECU,countryname,year,survey,desc1,desc2,compostingToilet,39.5731125,30.0000653,31.7065668
+EGY,countryname,year,survey,desc1,desc2,flushSewer,33.0262778,8.0954133,15.2536447
+EGY,countryname,year,survey,desc1,desc2,flushPit,3.2654565,3.7816941,4.3245681
+EGY,countryname,year,survey,desc1,desc2,flushOpen,4.659802,4.2374239,7.1769167
+EGY,countryname,year,survey,desc1,desc2,pitSlab,29.5242319,41.9427344,36.6224353
+EGY,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+EGY,countryname,year,survey,desc1,desc2,compostingToilet,28.5242319,40.9427344,35.6224353
+ESP,countryname,year,survey,desc1,desc2,flushSewer,32.1921135,24.0161966,11.5286999
+ESP,countryname,year,survey,desc1,desc2,flushPit,4.2480292,2.9675974,1.0747707
+ESP,countryname,year,survey,desc1,desc2,flushOpen,4.2705479,6.5869562,2.193425
+ESP,countryname,year,survey,desc1,desc2,pitSlab,29.6446547,33.2146249,42.6015522
+ESP,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+ESP,countryname,year,survey,desc1,desc2,compostingToilet,28.6446547,32.2146249,41.6015522
+EST,countryname,year,survey,desc1,desc2,flushSewer,11.5914127,35.3520171,17.1623655
+EST,countryname,year,survey,desc1,desc2,flushPit,9.1368174,1.4202581,3.959104
+EST,countryname,year,survey,desc1,desc2,flushOpen,5.3400342,5.8850986,7.2215353
+EST,countryname,year,survey,desc1,desc2,pitSlab,36.9658679,28.6713131,35.8284976
+EST,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+EST,countryname,year,survey,desc1,desc2,compostingToilet,35.9658679,27.6713131,34.8284976
+ETH,countryname,year,survey,desc1,desc2,flushSewer,4.7409097,19.3960064,13.8405634
+ETH,countryname,year,survey,desc1,desc2,flushPit,0.4181705,3.6785364,10.8302847
+ETH,countryname,year,survey,desc1,desc2,flushOpen,3.3693603,7.7171684,4.2788906
+ETH,countryname,year,survey,desc1,desc2,pitSlab,45.7357797,34.6041444,35.5251306
+ETH,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+ETH,countryname,year,survey,desc1,desc2,compostingToilet,44.7357797,33.6041444,34.5251306
+FIN,countryname,year,survey,desc1,desc2,flushSewer,18.9885736,17.9376263,23.0717612
+FIN,countryname,year,survey,desc1,desc2,flushPit,6.0055282,5.4606702,4.7284743
+FIN,countryname,year,survey,desc1,desc2,flushOpen,2.1941279,6.5729703,8.1949447
+FIN,countryname,year,survey,desc1,desc2,pitSlab,36.4058852,35.0143666,32.0024099
+FIN,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+FIN,countryname,year,survey,desc1,desc2,compostingToilet,35.4058852,34.0143666,31.0024099
+GBR,countryname,year,survey,desc1,desc2,flushSewer,26.3500527,23.4378678,31.7013013
+GBR,countryname,year,survey,desc1,desc2,flushPit,4.6671779,5.7139653,1.3126916
+GBR,countryname,year,survey,desc1,desc2,flushOpen,4.8331898,2.5856359,11.6017539
+GBR,countryname,year,survey,desc1,desc2,pitSlab,32.0747898,34.1312655,27.6921266
+GBR,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+GBR,countryname,year,survey,desc1,desc2,compostingToilet,31.0747898,33.1312655,26.6921266
+GEO,countryname,year,survey,desc1,desc2,flushSewer,5.427533,13.5112168,22.7758209
+GEO,countryname,year,survey,desc1,desc2,flushPit,4.2720935,5.5472575,1.402827
+GEO,countryname,year,survey,desc1,desc2,flushOpen,6.1797587,9.1298557,3.5449454
+GEO,countryname,year,survey,desc1,desc2,pitSlab,42.0603074,35.905835,36.1382034
+GEO,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+GEO,countryname,year,survey,desc1,desc2,compostingToilet,41.0603074,34.905835,35.1382034
+GRC,countryname,year,survey,desc1,desc2,flushSewer,33.8146187,22.817227,3.1046808
+GRC,countryname,year,survey,desc1,desc2,flushPit,7.0024656,7.1450486,5.8425118
+GRC,countryname,year,survey,desc1,desc2,flushOpen,3.3438816,2.3377726,0.1363536
+GRC,countryname,year,survey,desc1,desc2,pitSlab,27.919517,33.8499759,45.4582269
+GRC,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+GRC,countryname,year,survey,desc1,desc2,compostingToilet,26.919517,32.8499759,44.4582269
+HKG,countryname,year,survey,desc1,desc2,flushSewer,14.1506145,13.3262962,8.8670608
+HKG,countryname,year,survey,desc1,desc2,flushPit,1.7935784,3.3702139,0.171642
+HKG,countryname,year,survey,desc1,desc2,flushOpen,2.6217819,7.0734567,6.3463636
+HKG,countryname,year,survey,desc1,desc2,pitSlab,40.7170126,38.1150166,42.3074668
+HKG,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+HKG,countryname,year,survey,desc1,desc2,compostingToilet,39.7170126,37.1150166,41.3074668
+HND,Honduras,2017,Encuesta Permanente de Hogares de Prop—sitos Mœltiples,Flush and pour flush,to piped sewer system,flushSewer,64.41,3.01,37.7
+HND,Honduras,2017,Encuesta Permanente de Hogares de Prop—sitos Mœltiples,Flush and pour flush,to septic tank,flushSeptic,20.77,26.42,23.23
+HND,Honduras,2017,Encuesta Permanente de Hogares de Prop—sitos Mœltiples,Flush and pour flush,to pit,flushPit,0,0,0
+HND,Honduras,2017,Encuesta Permanente de Hogares de Prop—sitos Mœltiples,Flush and pour flush,to unknown place/ not sure/DK,flushUnknown,0.14,0.82,0.44
+HND,Honduras,2017,Encuesta Permanente de Hogares de Prop—sitos Mœltiples,Flush and pour flush,to elsewhere,flushOpen,1.68,1.68,1.68
+HND,Honduras,2017,Encuesta Permanente de Hogares de Prop—sitos Mœltiples,Dry latrines,Ventilated Improved Pit latrine,pitSlab,0,0,0
+HND,Honduras,2017,Encuesta Permanente de Hogares de Prop—sitos Mœltiples,Dry latrines,Pit latrine with slab/covered latrine,pitSlab,6.63,46.27,23.87
+HND,Honduras,2017,Encuesta Permanente de Hogares de Prop—sitos Mœltiples,Dry latrines,Traditional latrine,pitSlab,4.06,7.52,5.57
+HND,Honduras,2017,Encuesta Permanente de Hogares de Prop—sitos Mœltiples,Dry latrines,Pit latrine without slab/open pit,pitNoSlab,0,0,0
+HND,Honduras,2017,Encuesta Permanente de Hogares de Prop—sitos Mœltiples,Dry latrines,Hanging toilet/hanging latrine,hangingToilet,0,0,0
+HND,Honduras,2017,Encuesta Permanente de Hogares de Prop—sitos Mœltiples,Dry latrines,Bucket latrine,bucketLatrine,0,0,0
+HND,Honduras,2017,Encuesta Permanente de Hogares de Prop—sitos Mœltiples,Dry latrines,Other,pitSlab,0,0,0
+HND,Honduras,2017,Encuesta Permanente de Hogares de Prop—sitos Mœltiples,Composting toilets,NA,compostingToilet,0.64,0.03,0.38
+HND,Honduras,2017,Encuesta Permanente de Hogares de Prop—sitos Mœltiples,Other improved,NA,flushPit,0,0,0
+HND,Honduras,2017,Encuesta Permanente de Hogares de Prop—sitos Mœltiples,"No facility, bush, field",NA,openDefecation,1.67,14.16,7.1
+HND,Honduras,2017,Encuesta Permanente de Hogares de Prop—sitos Mœltiples,Other unimproved,NA,flushOpen,0,0.08,0.04
+HND,Honduras,2017,Encuesta Permanente de Hogares de Prop—sitos Mœltiples,DK/missing information,NA,openDefecation,0,0,0
+HRV,countryname,year,survey,desc1,desc2,flushSewer,26.9149148,4.731056,4.5359542
+HRV,countryname,year,survey,desc1,desc2,flushPit,3.386692,7.4531317,0.2926179
+HRV,countryname,year,survey,desc1,desc2,flushOpen,6.9185737,4.9017504,3.5818433
+HRV,countryname,year,survey,desc1,desc2,pitSlab,31.3899097,41.4570309,45.7947923
+HRV,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+HRV,countryname,year,survey,desc1,desc2,compostingToilet,30.3899097,40.4570309,44.7947923
+HUN,countryname,year,survey,desc1,desc2,flushSewer,35.1614123,29.4114898,8.1511286
+HUN,countryname,year,survey,desc1,desc2,flushPit,2.036272,3.5341999,6.6049531
+HUN,countryname,year,survey,desc1,desc2,flushOpen,6.0937395,1.5799588,2.2114039
+HUN,countryname,year,survey,desc1,desc2,pitSlab,28.354288,32.7371758,41.5162572
+HUN,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+HUN,countryname,year,survey,desc1,desc2,compostingToilet,27.354288,31.7371758,40.5162572
+IND,countryname,year,survey,desc1,desc2,flushSewer,30.987756,27.1431649,27.8969756
+IND,countryname,year,survey,desc1,desc2,flushPit,3.0792745,1.9769466,4.0345911
+IND,countryname,year,survey,desc1,desc2,flushOpen,2.0484888,5.6655514,3.0319127
+IND,countryname,year,survey,desc1,desc2,pitSlab,31.9422404,32.6071686,32.5182603
+IND,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+IND,countryname,year,survey,desc1,desc2,compostingToilet,30.9422404,31.6071686,31.5182603
+IRL,countryname,year,survey,desc1,desc2,flushSewer,13.748508,21.1880822,17.0696545
+IRL,countryname,year,survey,desc1,desc2,flushPit,0.9383812,2.5851255,3.0945747
+IRL,countryname,year,survey,desc1,desc2,flushOpen,3.9871667,4.3922092,4.7884254
+IRL,countryname,year,survey,desc1,desc2,pitSlab,40.662972,35.9172916,37.5236727
+IRL,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+IRL,countryname,year,survey,desc1,desc2,compostingToilet,39.662972,34.9172916,36.5236727
+IRN,countryname,year,survey,desc1,desc2,flushSewer,16.0920062,21.8361031,20.2042078
+IRN,countryname,year,survey,desc1,desc2,flushPit,8.4551602,9.0225783,1.9101983
+IRN,countryname,year,survey,desc1,desc2,flushOpen,4.6016215,6.3641173,4.1618638
+IRN,countryname,year,survey,desc1,desc2,pitSlab,35.4256061,31.3886007,36.8618651
+IRN,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+IRN,countryname,year,survey,desc1,desc2,compostingToilet,34.4256061,30.3886007,35.8618651
+IRQ,countryname,year,survey,desc1,desc2,flushSewer,15.5840817,2.4722944,23.7060582
+IRQ,countryname,year,survey,desc1,desc2,flushPit,11.4055254,0.4035603,5.1522279
+IRQ,countryname,year,survey,desc1,desc2,flushOpen,3.8990616,5.7025708,4.4031245
+IRQ,countryname,year,survey,desc1,desc2,pitSlab,34.5556656,45.7107873,33.3692947
+IRQ,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+IRQ,countryname,year,survey,desc1,desc2,compostingToilet,33.5556656,44.7107873,32.3692947
+ISR,countryname,year,survey,desc1,desc2,flushSewer,7.000441,8.8227287,14.2951875
+ISR,countryname,year,survey,desc1,desc2,flushPit,8.2929618,4.7426334,7.6587462
+ISR,countryname,year,survey,desc1,desc2,flushOpen,10.1649779,2.3164742,3.9026008
+ISR,countryname,year,survey,desc1,desc2,pitSlab,37.2708097,42.0590818,37.0717328
+ISR,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+ISR,countryname,year,survey,desc1,desc2,compostingToilet,36.2708097,41.0590818,36.0717328
+ITA,countryname,year,survey,desc1,desc2,flushSewer,1.6161001,27.3257682,24.9353938
+ITA,countryname,year,survey,desc1,desc2,flushPit,6.0594649,3.8680552,6.3747389
+ITA,countryname,year,survey,desc1,desc2,flushOpen,6.0990839,4.4082129,3.4584465
+ITA,countryname,year,survey,desc1,desc2,pitSlab,43.1126755,32.1989819,32.6157104
+ITA,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+ITA,countryname,year,survey,desc1,desc2,compostingToilet,42.1126755,31.1989819,31.6157104
+JAM,countryname,year,survey,desc1,desc2,flushSewer,13.3878734,28.5171377,22.3140331
+JAM,countryname,year,survey,desc1,desc2,flushPit,3.7237614,6.081035,6.7874126
+JAM,countryname,year,survey,desc1,desc2,flushOpen,9.2572892,2.2967502,3.9132325
+JAM,countryname,year,survey,desc1,desc2,pitSlab,36.815538,31.5525385,33.4926609
+JAM,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+JAM,countryname,year,survey,desc1,desc2,compostingToilet,35.815538,30.5525385,32.4926609
+JOR,countryname,year,survey,desc1,desc2,flushSewer,31.0971193,25.3408296,16.3328913
+JOR,countryname,year,survey,desc1,desc2,flushPit,5.9464085,5.6497783,3.6508528
+JOR,countryname,year,survey,desc1,desc2,flushOpen,6.8889399,10.2808333,1.7054123
+JOR,countryname,year,survey,desc1,desc2,pitSlab,28.0337662,29.3642794,39.1554218
+JOR,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+JOR,countryname,year,survey,desc1,desc2,compostingToilet,27.0337662,28.3642794,38.1554218
+KAZ,countryname,year,survey,desc1,desc2,flushSewer,20.1319008,22.0023407,30.820957
+KAZ,countryname,year,survey,desc1,desc2,flushPit,1.3011612,2.2868743,1.312168
+KAZ,countryname,year,survey,desc1,desc2,flushOpen,3.2925643,1.959668,6.2353256
+KAZ,countryname,year,survey,desc1,desc2,pitSlab,37.6371868,36.8755585,30.8157747
+KAZ,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+KAZ,countryname,year,survey,desc1,desc2,compostingToilet,36.6371868,35.8755585,29.8157747
+KGZ,countryname,year,survey,desc1,desc2,flushSewer,26.2247149,11.9781419,9.9491032
+KGZ,countryname,year,survey,desc1,desc2,flushPit,7.3993714,2.3576179,9.9642752
+KGZ,countryname,year,survey,desc1,desc2,flushOpen,6.7996344,13.7145889,9.5367183
+KGZ,countryname,year,survey,desc1,desc2,pitSlab,29.7881397,35.9748257,35.2749516
+KGZ,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+KGZ,countryname,year,survey,desc1,desc2,compostingToilet,28.7881397,34.9748257,34.2749516
+LAO,countryname,year,survey,desc1,desc2,flushSewer,28.9796999,19.8745728,27.7496258
+LAO,countryname,year,survey,desc1,desc2,flushPit,8.3114028,6.3928012,1.7949885
+LAO,countryname,year,survey,desc1,desc2,flushOpen,3.1368279,4.1579094,0.8260112
+LAO,countryname,year,survey,desc1,desc2,pitSlab,29.7860347,34.7873583,34.8146873
+LAO,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+LAO,countryname,year,survey,desc1,desc2,compostingToilet,28.7860347,33.7873583,33.8146873
+LTU,countryname,year,survey,desc1,desc2,flushSewer,36.0726018,14.9190704,6.852842
+LTU,countryname,year,survey,desc1,desc2,flushPit,1.1512496,6.7280212,5.8793492
+LTU,countryname,year,survey,desc1,desc2,flushOpen,5.8544337,3.012976,8.1897701
+LTU,countryname,year,survey,desc1,desc2,pitSlab,28.4608575,37.6699662,39.5390193
+LTU,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+LTU,countryname,year,survey,desc1,desc2,compostingToilet,27.4608575,36.6699662,38.5390193
+LUX,countryname,year,survey,desc1,desc2,flushSewer,29.2184166,11.3290699,16.8378088
+LUX,countryname,year,survey,desc1,desc2,flushPit,7.9403351,8.1316458,6.8566267
+LUX,countryname,year,survey,desc1,desc2,flushOpen,0.794874,1.2634921,6.4760995
+LUX,countryname,year,survey,desc1,desc2,pitSlab,31.0231872,39.6378961,34.9147325
+LUX,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+LUX,countryname,year,survey,desc1,desc2,compostingToilet,30.0231872,38.6378961,33.9147325
+LVA,countryname,year,survey,desc1,desc2,flushSewer,9.3000194,9.7007918,22.7726742
+LVA,countryname,year,survey,desc1,desc2,flushPit,3.8317593,8.1656407,6.8644586
+LVA,countryname,year,survey,desc1,desc2,flushOpen,3.469659,6.4232378,1.520827
+LVA,countryname,year,survey,desc1,desc2,pitSlab,41.6992811,37.8551649,34.4210201
+LVA,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+LVA,countryname,year,survey,desc1,desc2,compostingToilet,40.6992811,36.8551649,33.4210201
+MAR,countryname,year,survey,desc1,desc2,flushSewer,27.8573029,32.5538948,32.3060613
+MAR,countryname,year,survey,desc1,desc2,flushPit,8.3768139,9.8156361,10.7543338
+MAR,countryname,year,survey,desc1,desc2,flushOpen,3.8520769,9.9461918,6.2124469
+MAR,countryname,year,survey,desc1,desc2,pitSlab,29.9569031,23.8421386,25.363579
+MAR,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+MAR,countryname,year,survey,desc1,desc2,compostingToilet,28.9569031,22.8421386,24.363579
+MCO,countryname,year,survey,desc1,desc2,flushSewer,31.8189657,17.3505156,20.5017666
+MCO,countryname,year,survey,desc1,desc2,flushPit,4.0996445,5.4706337,0.8372521
+MCO,countryname,year,survey,desc1,desc2,flushOpen,6.9804676,2.2564326,8.4416244
+MCO,countryname,year,survey,desc1,desc2,pitSlab,28.5504611,37.461209,35.1096784
+MCO,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+MCO,countryname,year,survey,desc1,desc2,compostingToilet,27.5504611,36.461209,34.1096784
+MDA,countryname,year,survey,desc1,desc2,flushSewer,29.7794584,25.4032088,33.9734201
+MDA,countryname,year,survey,desc1,desc2,flushPit,8.3691685,7.0889328,7.4857921
+MDA,countryname,year,survey,desc1,desc2,flushOpen,1.5681009,5.5437731,4.7833363
+MDA,countryname,year,survey,desc1,desc2,pitSlab,30.1416361,30.9820427,26.8787257
+MDA,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+MDA,countryname,year,survey,desc1,desc2,compostingToilet,29.1416361,29.9820427,25.8787257
+MEX,countryname,year,survey,desc1,desc2,flushSewer,21.0687039,21.5002477,12.2590314
+MEX,countryname,year,survey,desc1,desc2,flushPit,10.1407412,6.2445669,9.7404066
+MEX,countryname,year,survey,desc1,desc2,flushOpen,8.4690393,4.9090368,4.2409758
+MEX,countryname,year,survey,desc1,desc2,pitSlab,30.1607578,33.6730743,36.8797931
+MEX,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+MEX,countryname,year,survey,desc1,desc2,compostingToilet,29.1607578,32.6730743,35.8797931
+MKD,countryname,year,survey,desc1,desc2,flushSewer,16.9184555,5.2242796,1.0986549
+MKD,countryname,year,survey,desc1,desc2,flushPit,6.340387,2.0896047,7.0345705
+MKD,countryname,year,survey,desc1,desc2,flushOpen,12.8727029,7.5656757,7.8821541
+MKD,countryname,year,survey,desc1,desc2,pitSlab,31.9342273,42.5602199,41.9923103
+MKD,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+MKD,countryname,year,survey,desc1,desc2,compostingToilet,30.9342273,41.5602199,40.9923103
+MLI,countryname,year,survey,desc1,desc2,flushSewer,11.8521091,12.6240877,28.8470016
+MLI,countryname,year,survey,desc1,desc2,flushPit,7.783703,8.2607076,5.167731
+MLI,countryname,year,survey,desc1,desc2,flushOpen,4.9158598,5.3838486,2.7121441
+MLI,countryname,year,survey,desc1,desc2,pitSlab,37.7241641,36.8656781,31.6365617
+MLI,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+MLI,countryname,year,survey,desc1,desc2,compostingToilet,36.7241641,35.8656781,30.6365617
+MLT,countryname,year,survey,desc1,desc2,flushSewer,13.9730859,16.3020303,27.3943507
+MLT,countryname,year,survey,desc1,desc2,flushPit,3.9845433,8.3712803,10.9127006
+MLT,countryname,year,survey,desc1,desc2,flushOpen,3.6522322,4.514966,4.0351669
+MLT,countryname,year,survey,desc1,desc2,pitSlab,39.1950693,35.4058617,28.8288909
+MLT,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+MLT,countryname,year,survey,desc1,desc2,compostingToilet,38.1950693,34.4058617,27.8288909
+MNE,countryname,year,survey,desc1,desc2,flushSewer,22.0234225,13.8149344,15.9314962
+MNE,countryname,year,survey,desc1,desc2,flushPit,6.7747746,2.3589271,11.7817512
+MNE,countryname,year,survey,desc1,desc2,flushOpen,11.5266841,5.2026851,2.0101207
+MNE,countryname,year,survey,desc1,desc2,pitSlab,29.8375594,39.3117267,35.138316
+MNE,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+MNE,countryname,year,survey,desc1,desc2,compostingToilet,28.8375594,38.3117267,34.138316
+MNG,countryname,year,survey,desc1,desc2,flushSewer,15.4013283,12.8625724,21.3636805
+MNG,countryname,year,survey,desc1,desc2,flushPit,2.6271688,3.0270509,6.5886846
+MNG,countryname,year,survey,desc1,desc2,flushOpen,5.7334673,4.9393339,2.8064368
+MNG,countryname,year,survey,desc1,desc2,pitSlab,38.1190178,39.5855214,34.620599
+MNG,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+MNG,countryname,year,survey,desc1,desc2,compostingToilet,37.1190178,38.5855214,33.620599
+MOZ,countryname,year,survey,desc1,desc2,flushSewer,15.7129272,19.2429105,5.8928273
+MOZ,countryname,year,survey,desc1,desc2,flushPit,3.9865644,1.7833091,5.2607168
+MOZ,countryname,year,survey,desc1,desc2,flushOpen,7.4156486,6.0363148,7.5120361
+MOZ,countryname,year,survey,desc1,desc2,pitSlab,36.4424299,36.4687328,40.6672099
+MOZ,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+MOZ,countryname,year,survey,desc1,desc2,compostingToilet,35.4424299,35.4687328,39.6672099
+MUS,countryname,year,survey,desc1,desc2,flushSewer,21.0825636,25.2208455,9.6935599
+MUS,countryname,year,survey,desc1,desc2,flushPit,0.7328849,6.9052903,3.6818694
+MUS,countryname,year,survey,desc1,desc2,flushOpen,6.1963679,4.4975486,0.8845706
+MUS,countryname,year,survey,desc1,desc2,pitSlab,35.9940918,31.6881578,42.8700001
+MUS,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+MUS,countryname,year,survey,desc1,desc2,compostingToilet,34.9940918,30.6881578,41.8700001
+NER,countryname,year,survey,desc1,desc2,flushSewer,25.7888209,40.0526564,21.8450633
+NER,countryname,year,survey,desc1,desc2,flushPit,4.1868664,9.7695333,7.9116967
+NER,countryname,year,survey,desc1,desc2,flushOpen,5.1953365,6.9359782,2.6416259
+NER,countryname,year,survey,desc1,desc2,pitSlab,32.4144881,21.6209161,33.8008071
+NER,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+NER,countryname,year,survey,desc1,desc2,compostingToilet,31.4144881,20.6209161,32.8008071
+NGA,countryname,year,survey,desc1,desc2,flushSewer,23.1241736,30.5742194,27.2773886
+NGA,countryname,year,survey,desc1,desc2,flushPit,2.1476326,4.193092,1.9832538
+NGA,countryname,year,survey,desc1,desc2,flushOpen,0.3151761,4.4381315,2.7412788
+NGA,countryname,year,survey,desc1,desc2,pitSlab,37.2065088,30.3972786,33.9990394
+NGA,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+NGA,countryname,year,survey,desc1,desc2,compostingToilet,36.2065088,29.3972786,32.9990394
+NLD,countryname,year,survey,desc1,desc2,flushSewer,25.1281319,23.0032056,11.1666567
+NLD,countryname,year,survey,desc1,desc2,flushPit,6.6589208,5.8048704,8.4729105
+NLD,countryname,year,survey,desc1,desc2,flushOpen,8.3322976,2.2740895,4.6504073
+NLD,countryname,year,survey,desc1,desc2,pitSlab,29.9403249,34.4589172,37.8550127
+NLD,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+NLD,countryname,year,survey,desc1,desc2,compostingToilet,28.9403249,33.4589172,36.8550127
+OMN,countryname,year,survey,desc1,desc2,flushSewer,10.2143024,28.2148801,26.0419353
+OMN,countryname,year,survey,desc1,desc2,flushPit,3.46539,0.6746395,6.3945728
+OMN,countryname,year,survey,desc1,desc2,flushOpen,3.3989157,3.3882076,1.5890779
+OMN,countryname,year,survey,desc1,desc2,pitSlab,41.460696,33.8611364,32.987207
+OMN,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+OMN,countryname,year,survey,desc1,desc2,compostingToilet,40.460696,32.8611364,31.987207
+PER,countryname,year,survey,desc1,desc2,flushSewer,15.5127268,12.690458,8.9916525
+PER,countryname,year,survey,desc1,desc2,flushPit,6.3034764,8.0418348,2.1518845
+PER,countryname,year,survey,desc1,desc2,flushOpen,3.610379,0.0451233,2.3501888
+PER,countryname,year,survey,desc1,desc2,pitSlab,37.2867089,39.611292,43.2531371
+PER,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+PER,countryname,year,survey,desc1,desc2,compostingToilet,36.2867089,38.611292,42.2531371
+PHL,countryname,year,survey,desc1,desc2,flushSewer,21.9679341,17.4006269,17.3189718
+PHL,countryname,year,survey,desc1,desc2,flushPit,5.2218952,0.0915647,5.3235921
+PHL,countryname,year,survey,desc1,desc2,flushOpen,5.0987485,4.7012714,5.4296209
+PHL,countryname,year,survey,desc1,desc2,pitSlab,33.8557111,38.9032685,35.9639076
+PHL,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+PHL,countryname,year,survey,desc1,desc2,compostingToilet,32.8557111,37.9032685,34.9639076
+PNG,countryname,year,survey,desc1,desc2,flushSewer,40.6966431,16.1564843,6.1615085
+PNG,countryname,year,survey,desc1,desc2,flushPit,4.1053922,0.4718873,5.3736796
+PNG,countryname,year,survey,desc1,desc2,flushOpen,9.6233645,4.6831777,6.119095
+PNG,countryname,year,survey,desc1,desc2,pitSlab,22.7873001,39.3442254,41.1728585
+PNG,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+PNG,countryname,year,survey,desc1,desc2,compostingToilet,21.7873001,38.3442254,40.1728585
+PRK,countryname,year,survey,desc1,desc2,flushSewer,8.2660618,15.37939,10.3470158
+PRK,countryname,year,survey,desc1,desc2,flushPit,6.3672832,5.0282535,3.2362799
+PRK,countryname,year,survey,desc1,desc2,flushOpen,9.6189667,5.6994668,4.2118599
+PRK,countryname,year,survey,desc1,desc2,pitSlab,37.8738442,36.9464448,41.1024222
+PRK,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+PRK,countryname,year,survey,desc1,desc2,compostingToilet,36.8738442,35.9464448,40.1024222
+PRT,countryname,year,survey,desc1,desc2,flushSewer,26.792641,19.9354634,32.6106571
+PRT,countryname,year,survey,desc1,desc2,flushPit,7.66983,5.2851557,3.9474769
+PRT,countryname,year,survey,desc1,desc2,flushOpen,5.8963714,7.9964617,5.5233864
+PRT,countryname,year,survey,desc1,desc2,pitSlab,29.8205788,33.3914596,28.9592398
+PRT,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+PRT,countryname,year,survey,desc1,desc2,compostingToilet,28.8205788,32.3914596,27.9592398
+PRY,countryname,year,survey,desc1,desc2,flushSewer,9.1910529,18.1458196,19.7330131
+PRY,countryname,year,survey,desc1,desc2,flushPit,5.1490863,7.2056184,6.5747887
+PRY,countryname,year,survey,desc1,desc2,flushOpen,7.3544493,8.1818281,3.5160998
+PRY,countryname,year,survey,desc1,desc2,pitSlab,39.1527058,33.233367,35.0880492
+PRY,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+PRY,countryname,year,survey,desc1,desc2,compostingToilet,38.1527058,32.233367,34.0880492
+PSE,countryname,year,survey,desc1,desc2,flushSewer,33.3017498,9.3681006,15.8274216
+PSE,countryname,year,survey,desc1,desc2,flushPit,6.4945278,2.1622692,8.616085
+PSE,countryname,year,survey,desc1,desc2,flushOpen,9.0438706,2.1290036,5.5425771
+PSE,countryname,year,survey,desc1,desc2,pitSlab,25.5799259,43.1703133,35.0069582
+PSE,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+PSE,countryname,year,survey,desc1,desc2,compostingToilet,24.5799259,42.1703133,34.0069582
+RUS,countryname,year,survey,desc1,desc2,flushSewer,17.7813527,32.822345,22.7368923
+RUS,countryname,year,survey,desc1,desc2,flushPit,5.2692834,2.9737345,4.0510306
+RUS,countryname,year,survey,desc1,desc2,flushOpen,3.4879267,8.9689509,1.2301907
+RUS,countryname,year,survey,desc1,desc2,pitSlab,36.7307186,27.6174848,35.9909432
+RUS,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+RUS,countryname,year,survey,desc1,desc2,compostingToilet,35.7307186,26.6174848,34.9909432
+SEN,countryname,year,survey,desc1,desc2,flushSewer,39.3693217,34.3454411,42.9863852
+SEN,countryname,year,survey,desc1,desc2,flushPit,3.914007,3.6093578,2.5332747
+SEN,countryname,year,survey,desc1,desc2,flushOpen,5.2726846,8.9112032,7.0922887
+SEN,countryname,year,survey,desc1,desc2,pitSlab,25.7219933,26.5669989,23.6940257
+SEN,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+SEN,countryname,year,survey,desc1,desc2,compostingToilet,24.7219933,25.5669989,22.6940257
+SGP,countryname,year,survey,desc1,desc2,flushSewer,28.4067468,21.0438578,7.5753097
+SGP,countryname,year,survey,desc1,desc2,flushPit,2.8835111,1.1094407,1.9585563
+SGP,countryname,year,survey,desc1,desc2,flushOpen,0.9987888,6.1223173,7.2440748
+SGP,countryname,year,survey,desc1,desc2,pitSlab,33.8554767,35.8621921,41.6110297
+SGP,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+SGP,countryname,year,survey,desc1,desc2,compostingToilet,32.8554767,34.8621921,40.6110297
+SLE,countryname,year,survey,desc1,desc2,flushSewer,29.2731907,18.9352946,12.1810178
+SLE,countryname,year,survey,desc1,desc2,flushPit,0.5873227,3.6821677,7.3081006
+SLE,countryname,year,survey,desc1,desc2,flushOpen,9.6258397,2.9006514,4.9787274
+SLE,countryname,year,survey,desc1,desc2,pitSlab,30.2568235,37.2409431,37.7660771
+SLE,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+SLE,countryname,year,survey,desc1,desc2,compostingToilet,29.2568235,36.2409431,36.7660771
+SRB,countryname,year,survey,desc1,desc2,flushSewer,23.4279528,20.8914015,18.8302605
+SRB,countryname,year,survey,desc1,desc2,flushPit,3.4752879,7.7794451,4.4463392
+SRB,countryname,year,survey,desc1,desc2,flushOpen,6.0440659,1.7930385,5.9818315
+SRB,countryname,year,survey,desc1,desc2,pitSlab,33.5263467,34.7680575,35.3707844
+SRB,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+SRB,countryname,year,survey,desc1,desc2,compostingToilet,32.5263467,33.7680575,34.3707844
+SVK,countryname,year,survey,desc1,desc2,flushSewer,25.2805977,24.9981837,12.3740949
+SVK,countryname,year,survey,desc1,desc2,flushPit,4.9561299,2.1815379,9.5435785
+SVK,countryname,year,survey,desc1,desc2,flushOpen,6.7323401,6.5196296,3.3078864
+SVK,countryname,year,survey,desc1,desc2,pitSlab,31.5154661,33.1503244,37.3872201
+SVK,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+SVK,countryname,year,survey,desc1,desc2,compostingToilet,30.5154661,32.1503244,36.3872201
+SWE,countryname,year,survey,desc1,desc2,flushSewer,33.9417844,25.7112044,19.3409273
+SWE,countryname,year,survey,desc1,desc2,flushPit,7.3517445,8.2680858,6.6066112
+SWE,countryname,year,survey,desc1,desc2,flushOpen,7.6217267,7.0984253,7.44596
+SWE,countryname,year,survey,desc1,desc2,pitSlab,25.5423722,29.4611422,33.3032507
+SWE,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+SWE,countryname,year,survey,desc1,desc2,compostingToilet,24.5423722,28.4611422,32.3032507
+SWZ,countryname,year,survey,desc1,desc2,flushSewer,3.6763772,9.1953846,21.6744574
+SWZ,countryname,year,survey,desc1,desc2,flushPit,3.8799492,4.7554136,7.8591212
+SWZ,countryname,year,survey,desc1,desc2,flushOpen,3.7061643,3.4864972,0.3987147
+SWZ,countryname,year,survey,desc1,desc2,pitSlab,44.3687547,41.2813523,35.0338534
+SWZ,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+SWZ,countryname,year,survey,desc1,desc2,compostingToilet,43.3687547,40.2813523,34.0338534
+TUN,countryname,year,survey,desc1,desc2,flushSewer,29.8658425,17.8205166,7.7006381
+TUN,countryname,year,survey,desc1,desc2,flushPit,4.5347453,6.0951031,10.4128743
+TUN,countryname,year,survey,desc1,desc2,flushOpen,5.2957583,3.7196328,3.3358357
+TUN,countryname,year,survey,desc1,desc2,pitSlab,30.151827,36.1823738,39.275326
+TUN,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+TUN,countryname,year,survey,desc1,desc2,compostingToilet,29.151827,35.1823738,38.275326
+TUR,countryname,year,survey,desc1,desc2,flushSewer,15.7443079,30.1101179,7.1494286
+TUR,countryname,year,survey,desc1,desc2,flushPit,4.0018157,3.2467003,6.7145666
+TUR,countryname,year,survey,desc1,desc2,flushOpen,10.2090202,6.7757736,3.2766151
+TUR,countryname,year,survey,desc1,desc2,pitSlab,35.0224281,29.9337041,41.4296949
+TUR,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+TUR,countryname,year,survey,desc1,desc2,compostingToilet,34.0224281,28.9337041,40.4296949
+TUV,countryname,year,survey,desc1,desc2,flushSewer,19.4212974,19.9194065,29.1456573
+TUV,countryname,year,survey,desc1,desc2,flushPit,11.2973738,9.7006643,8.3540304
+TUV,countryname,year,survey,desc1,desc2,flushOpen,4.4947124,7.6400843,5.6381134
+TUV,countryname,year,survey,desc1,desc2,pitSlab,32.3933082,31.3699224,28.4310995
+TUV,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+TUV,countryname,year,survey,desc1,desc2,compostingToilet,31.3933082,30.3699224,27.4310995
+TZA,countryname,year,survey,desc1,desc2,flushSewer,25.6598066,23.3988602,46.2421437
+TZA,countryname,year,survey,desc1,desc2,flushPit,4.3247183,7.5604723,8.8546405
+TZA,countryname,year,survey,desc1,desc2,flushOpen,2.9410996,2.7730678,6.5449358
+TZA,countryname,year,survey,desc1,desc2,pitSlab,33.5371878,33.1337999,19.1791401
+TZA,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+TZA,countryname,year,survey,desc1,desc2,compostingToilet,32.5371878,32.1337999,18.1791401
+UGA,Uganda,2015,"Malaria Indicator Survey, 2014-2015",Flush and pour flush,to piped sewer system,flushSewer,2.79825,0.18812,0.67417
+UGA,Uganda,2015,"Malaria Indicator Survey, 2014-2015",Flush and pour flush,to septic tank,flushSeptic,5.35472,0.27655,1.2222
+UGA,Uganda,2015,"Malaria Indicator Survey, 2014-2015",Flush and pour flush,to pit,flushPit,0.28523,0,0.05311
+UGA,Uganda,2015,"Malaria Indicator Survey, 2014-2015",Flush and pour flush,to unknown place/ not sure/DK,flushUnknown,0,0,0
+UGA,Uganda,2015,"Malaria Indicator Survey, 2014-2015",Flush and pour flush,to elsewhere,flushOpen,0.08532,0,0.01589
+UGA,Uganda,2015,"Malaria Indicator Survey, 2014-2015",Dry latrines,Ventilated Improved Pit latrine,pitSlab,22.21916,7.18706,9.9863
+UGA,Uganda,2015,"Malaria Indicator Survey, 2014-2015",Dry latrines,Pit latrine with slab/covered latrine,pitSlab,35.93874,12.53676,16.89462
+UGA,Uganda,2015,"Malaria Indicator Survey, 2014-2015",Dry latrines,Traditional latrine,pitSlab,0,0,0
+UGA,Uganda,2015,"Malaria Indicator Survey, 2014-2015",Dry latrines,Pit latrine without slab/open pit,pitNoSlab,25.43563,51.61316,46.73844
+UGA,Uganda,2015,"Malaria Indicator Survey, 2014-2015",Dry latrines,Hanging toilet/hanging latrine,hangingToilet,0,1.07047,0.87113
+UGA,Uganda,2015,"Malaria Indicator Survey, 2014-2015",Dry latrines,Bucket latrine,bucketLatrine,0.03576,0,0.00666
+UGA,Uganda,2015,"Malaria Indicator Survey, 2014-2015",Dry latrines,Other,pitSlab,0,0,0
+UGA,Uganda,2015,"Malaria Indicator Survey, 2014-2015",Composting toilets,NA,compostingToilet,0.47783,0.07376,0.149
+UGA,Uganda,2015,"Malaria Indicator Survey, 2014-2015",Other improved,NA,flushPit,2.89217,3.11984,3.07744
+UGA,Uganda,2015,"Malaria Indicator Survey, 2014-2015","No facility, bush, field",NA,openDefecation,0.77823,6.66054,5.56515
+UGA,Uganda,2015,"Malaria Indicator Survey, 2014-2015",Other unimproved,NA,flushOpen,3.69897,17.22962,14.70997
+UGA,Uganda,2015,"Malaria Indicator Survey, 2014-2015",DK/missing information,NA,openDefecation,0,0,0
+UGA,Uganda,2015,Performance Monitoring and Accountability,Flush and pour flush,to piped sewer system,flushSewer,9.041265,4.410505,6.950825
+UGA,Uganda,2015,Performance Monitoring and Accountability,Flush and pour flush,to septic tank,flushSeptic,16.57267,4.839055,11.09868
+UGA,Uganda,2015,Performance Monitoring and Accountability,Flush and pour flush,to pit,flushPit,0,0,0
+UGA,Uganda,2015,Performance Monitoring and Accountability,Flush and pour flush,to unknown place/ not sure/DK,flushUnknown,1.715405,0,0.81002
+UGA,Uganda,2015,Performance Monitoring and Accountability,Flush and pour flush,to elsewhere,flushOpen,1.617095,2.328265,1.88911
+UGA,Uganda,2015,Performance Monitoring and Accountability,Dry latrines,Ventilated Improved Pit latrine,pitSlab,31.6585,26.41249,28.85093
+UGA,Uganda,2015,Performance Monitoring and Accountability,Dry latrines,Pit latrine with slab/covered latrine,pitSlab,19.241685,17.69339,18.30663
+UGA,Uganda,2015,Performance Monitoring and Accountability,Dry latrines,Traditional latrine,pitSlab,0,0,0
+UGA,Uganda,2015,Performance Monitoring and Accountability,Dry latrines,Pit latrine without slab/open pit,pitNoSlab,16.8749,31.320775,23.87093
+UGA,Uganda,2015,Performance Monitoring and Accountability,Dry latrines,Hanging toilet/hanging latrine,hangingToilet,0,0,0
+UGA,Uganda,2015,Performance Monitoring and Accountability,Dry latrines,Bucket latrine,bucketLatrine,0,0,0
+UGA,Uganda,2015,Performance Monitoring and Accountability,Dry latrines,Other,pitSlab,0,0,0
+UGA,Uganda,2015,Performance Monitoring and Accountability,Composting toilets,NA,compostingToilet,0,0,0
+UGA,Uganda,2015,Performance Monitoring and Accountability,Other improved,NA,flushPit,0,0,0
+UGA,Uganda,2015,Performance Monitoring and Accountability,"No facility, bush, field",NA,openDefecation,3.126875,6.277075,5.03282
+UGA,Uganda,2015,Performance Monitoring and Accountability,Other unimproved,NA,flushOpen,0,6.344135,2.920915
+UGA,Uganda,2015,Performance Monitoring and Accountability,DK/missing information,NA,openDefecation,0.151605,0.37431,0.269145
+UGA,Uganda,2017,Performance Monitoring and Accountability,Flush and pour flush,to piped sewer system,flushSewer,1.39613,0.1958,0.40626
+UGA,Uganda,2017,Performance Monitoring and Accountability,Flush and pour flush,to septic tank,flushSeptic,6.17928,0.18613,1.23694
+UGA,Uganda,2017,Performance Monitoring and Accountability,Flush and pour flush,to pit,flushPit,3.85826,0.02237,0.69493
+UGA,Uganda,2017,Performance Monitoring and Accountability,Flush and pour flush,to unknown place/ not sure/DK,flushUnknown,0.59178,0,0.10376
+UGA,Uganda,2017,Performance Monitoring and Accountability,Flush and pour flush,to elsewhere,flushOpen,0.2302,0,0.04036
+UGA,Uganda,2017,Performance Monitoring and Accountability,Dry latrines,Ventilated Improved Pit latrine,pitSlab,17.80925,6.86324,8.78245
+UGA,Uganda,2017,Performance Monitoring and Accountability,Dry latrines,Pit latrine with slab/covered latrine,pitSlab,32.78454,15.73262,18.72241
+UGA,Uganda,2017,Performance Monitoring and Accountability,Dry latrines,Traditional latrine,pitSlab,0,0,0
+UGA,Uganda,2017,Performance Monitoring and Accountability,Dry latrines,Pit latrine without slab/open pit,pitNoSlab,35.00416,67.55004,61.84363
+UGA,Uganda,2017,Performance Monitoring and Accountability,Dry latrines,Hanging toilet/hanging latrine,hangingToilet,0.03321,0.18254,0.15635
+UGA,Uganda,2017,Performance Monitoring and Accountability,Dry latrines,Bucket latrine,bucketLatrine,0,0.08204,0.06765
+UGA,Uganda,2017,Performance Monitoring and Accountability,Dry latrines,Other,pitSlab,0,0,0
+UGA,Uganda,2017,Performance Monitoring and Accountability,Composting toilets,NA,compostingToilet,0.92487,0.05064,0.20392
+UGA,Uganda,2017,Performance Monitoring and Accountability,Other improved,NA,flushPit,0,0,0
+UGA,Uganda,2017,Performance Monitoring and Accountability,"No facility, bush, field",NA,openDefecation,1.18834,8.11253,6.89848
+UGA,Uganda,2017,Performance Monitoring and Accountability,Other unimproved,NA,flushOpen,0,0.90795,0.74875
+UGA,Uganda,2017,Performance Monitoring and Accountability,DK/missing information,NA,openDefecation,0,0.1141,0.09409
+UKR,countryname,year,survey,desc1,desc2,flushSewer,15.0724321,20.0980201,33.1850212
+UKR,countryname,year,survey,desc1,desc2,flushPit,3.7567558,2.3867607,0.4244111
+UKR,countryname,year,survey,desc1,desc2,flushOpen,9.1757873,0.7935608,6.0645972
+UKR,countryname,year,survey,desc1,desc2,pitSlab,35.9975124,38.3608292,30.1629853
+UKR,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+UKR,countryname,year,survey,desc1,desc2,compostingToilet,34.9975124,37.3608292,29.1629853
+USA,countryname,year,survey,desc1,desc2,flushSewer,10.0213117,2.0584084,16.6736813
+USA,countryname,year,survey,desc1,desc2,flushPit,4.2723658,3.5671525,4.940439
+USA,countryname,year,survey,desc1,desc2,flushOpen,8.4389392,1.908166,3.8344257
+USA,countryname,year,survey,desc1,desc2,pitSlab,38.6336917,46.2331366,37.275727
+USA,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+USA,countryname,year,survey,desc1,desc2,compostingToilet,37.6336917,45.2331366,36.275727
+WSM,countryname,year,survey,desc1,desc2,flushSewer,37.5309495,7.4088972,20.8732642
+WSM,countryname,year,survey,desc1,desc2,flushPit,7.8953185,5.7862069,7.3745521
+WSM,countryname,year,survey,desc1,desc2,flushOpen,1.5186039,6.0383059,4.5399459
+WSM,countryname,year,survey,desc1,desc2,pitSlab,26.527564,40.383295,33.6061189
+WSM,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+WSM,countryname,year,survey,desc1,desc2,compostingToilet,25.527564,39.383295,32.6061189
+YEM,countryname,year,survey,desc1,desc2,flushSewer,47.5174213,17.5444766,15.4453349
+YEM,countryname,year,survey,desc1,desc2,flushPit,7.388522,8.5550071,5.4087691
+YEM,countryname,year,survey,desc1,desc2,flushOpen,4.446579,5.1780346,0.3941612
+YEM,countryname,year,survey,desc1,desc2,pitSlab,20.3237389,34.3612409,39.3758674
+YEM,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+YEM,countryname,year,survey,desc1,desc2,compostingToilet,19.3237389,33.3612409,38.3758674
+ZWE,countryname,year,survey,desc1,desc2,flushSewer,8.700726,35.3994957,27.5627784
+ZWE,countryname,year,survey,desc1,desc2,flushPit,0.4343353,5.0915757,9.1524014
+ZWE,countryname,year,survey,desc1,desc2,flushOpen,5.8303821,3.1307075,3.2704136
+ZWE,countryname,year,survey,desc1,desc2,pitSlab,42.5172783,28.1891105,30.0072033
+ZWE,countryname,year,survey,desc1,desc2,openDefecation,1,1,1
+ZWE,countryname,year,survey,desc1,desc2,compostingToilet,41.5172783,27.1891105,29.0072033

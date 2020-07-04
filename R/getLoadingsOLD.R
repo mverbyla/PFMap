@@ -3,11 +3,10 @@
 #' This function predicts the pathogen loadings from onsite sanitation systems for data available through the UNICEF/WHO Joint Monitoring Program and provides an output that can be used directly by the Pathogen Mapping Tool.
 #' @param onsiteData A CSV file containing your onsite sanitation data. Defaults to example template from http://data.waterpathogens.org/dataset/5374462b-5bb5-456f-bfc0-816ea572666d/resource/4d9e5fba-9280-4b8b-acce-d1c87952acc1/download/onsitedata_example.csv
 #' @param pathogenType The input pathogenType should be equal to either one of the following strings: c("Virus","Bacteria","Protozoa","Helminth")
-#' @param context Specify either "urban" or "rural"
 #' @keywords pathogens
 #' @export
 #' @examples
-#' getLoadings(onsiteData="data/onsitedata_example2.csv",pathogenType="Virus",context="urban")
+#' getLoadings(onsiteData="http://data.waterpathogens.org/dataset/5374462b-5bb5-456f-bfc0-816ea572666d/resource/4d9e5fba-9280-4b8b-acce-d1c87952acc1/download/onsitedata_example.csv",pathogenType="Virus")
 #'
 #'     region     excreted to_groundwater   to_surface retained_in_soil      decayed In_Fecal_Sludge    In_Sewage  stillViable Onsite_LRV Onsite_PR
 #' 1  Central 3.470412e+16   7.208736e+14 1.241347e+15     6.487862e+15 1.696317e+16    4.204900e+13 9.142680e+15 1.114695e+16       0.49    0.6788
@@ -16,12 +15,9 @@
 #' 4   Nakawa 1.740476e+17   4.848475e+15 5.834954e+15     4.363628e+16 1.023125e+17    1.109438e+14 1.716174e+16 2.795611e+16       0.79    0.8394
 #' 5   Rubaga 2.103805e+17   4.278101e+15 5.257688e+15     3.850291e+16 1.602164e+17    2.221318e+14 9.808800e+14 1.073880e+16       1.29    0.9490
 #'
-getLoadings<-function(onsiteData="data/onsiteData_example2.csv",pathogenType="Virus",context="urban"){
+getLoadings<-function(onsiteData="data/onsiteData_example.csv",pathogenType="Virus"){
 
   df1<-read.csv(onsiteData,header=TRUE)   #bring in the inputs CSV file
-  df1<-merge(df1,t_JMP(contx=context),by="region",all=T)
-  assume<-data.frame(urban=c(0,0.25,0.5),rural=c(0.99,0.25,0.1))
-  rownames(assume)<-c("coverBury","sewerLeak","emptiedTreatment")
 
   pathogenGroups<-c("Virus","Bacteria","Protozoa","Helminth")
   index<-which(pathogenGroups==pathogenType)
@@ -98,42 +94,53 @@ getLoadings<-function(onsiteData="data/onsiteData_example2.csv",pathogenType="Vi
     myJMP<-myJMP1
     region<-df$region
     population<-df$population
-    excreted<-if(context=="urban"){df$excreted_urban}else{if(context=="rural"){df$excreted_rural}else{NA}}
+    excreted<-df$excreted
+    flushSewer<-df$flushSewer
+    flushSeptic<-df$flushSeptic
+    flushPit<-df$flushPit
+    flushOpen<-df$flushOpen
+    flushUnknown<-df$flushUnknown
+    pitSlab<-df$pitSlab
+    pitNoSlab<-df$pitNoSlab
+    compostingTwinSlab<-df$compostingTwinSlab
+    compostingTwinNoSlab<-df$compostingTwinNoSlab
+    compostingToilet<-df$compostingToilet
+    bucketLatrine<-df$bucketLatrine
+    containerBased<-df$containerBased
+    hangingToilet<-df$hangingToilet
+    openDefecation<-df$openDefecation
+    other<-df$other
+    isShared<-df$isShared
+    sewerLeak<-df$sewerLeak
+    emptied<-df$emptied
     isWatertight<-df$isWatertight
     hasLeach<-df$hasLeach
+    coverBury<-df$coverBury
+    emptiedTreatment<-df$emptiedTreatment
+    emptiedLast<-df$emptiedLast
     emptyFrequency<-df$emptyFrequency
+    soilType<-df$soilType
     pitAdditive<-df$pitAdditive
-
-    coverBury<-if(is.na(df$coverBury)){assume["coverBury",context]}else{df$coverBury}
-    emptiedTreatment<-if(is.na(df$fecalSludgeTreated)){assume["emptiedTreatment",context]}else{df$fecalSludgeTreated}
-    sewerLeak<-if(is.na(df$sewageTreated)){assume["sewerLeak",context]}else{1-df$sewageTreated}
-
-    flushSewer<-if(is.null(df$flushSewer)){0}else{if(is.na(df$flushSewer)){0}else{df$flushSewer}}
-    flushSeptic<-if(is.null(df$flushSeptic)){0}else{if(is.na(df$flushSeptic)){0}else{df$flushSeptic}}
-    flushPit<-if(is.null(df$flushPit)){0}else{if(is.na(df$flushPit)){0}else{df$flushPit}}
-    flushOpen<-if(is.null(df$flushOpen)){0}else{if(is.na(df$flushOpen)){0}else{df$flushOpen}}
-    flushUnknown<-if(is.null(df$flushUnknown)){0}else{if(is.na(df$flushUnknown)){0}else{df$flushUnknown}}
-    pitSlab<-if(is.null(df$pitSlab)){0}else{if(is.na(df$pitSlab)){0}else{df$pitSlab}}
-    pitNoSlab<-if(is.null(df$pitNoSlab)){0}else{if(is.na(df$pitNoSlab)){0}else{df$pitNoSlab}}
-    compostingTwinSlab<-if(is.null(df$compostingTwinSlab)){0}else{if(is.na(df$compostingTwinSlab)){0}else{df$compostingTwinSlab}}
-    compostingTwinNoSlab<-if(is.null(df$compostingTwinNoSlab)){0}else{if(is.na(df$compostingTwinNoSlab)){0}else{df$compostingTwinNoSlab}}
-    compostingToilet<-if(is.null(df$compostingToilet)){0}else{if(is.na(df$compostingToilet)){0}else{df$compostingToilet}}
-    bucketLatrine<-if(is.null(df$bucketLatrine)){0}else{if(is.na(df$bucketLatrine)){0}else{df$bucketLatrine}}
-    containerBased<-if(is.null(df$containerBased)){0}else{if(is.na(df$containerBased)){0}else{df$containerBased}}
-    hangingToilet<-if(is.null(df$hangingToilet)){0}else{if(is.na(df$hangingToilet)){0}else{df$hangingToilet}}
-    openDefecation<-if(is.null(df$openDefecation)){0}else{if(is.na(df$openDefecation)){0}else{df$openDefecation}}
-    other<-if(is.null(df$other)){0}else{if(is.na(df$other)){0}else{df$other}}
-
+    #pitAge<-df$pitAge
+    liquidWaste<-df$liquidWaste
+    infantStools<-df$infantStools
+    flushElsewhere<-df$flushElsewhere
+    pitVIP<-df$pitVIP
+    pitTraditional<-df$pitTraditional
+    otherLatrine<-df$otherLatrine
+    otherImproved<-df$otherImproved
+    otherUnimproved<-df$otherUnimproved
+    dontKnow<-df$dontKnow
 
     daysperyear<-366
     decayTimeUNSAFE<-daysperyear  # this is the average time interval between unsafe pit emptying events (default is set to 1 year, assuming it happens at the beginning of the rainy season)
 
     myJMP$percentage<-c(flushSewer,
-                        flushSeptic,
+                        flushSeptic+otherImproved,
                         flushPit,
-                        flushOpen,
+                        flushOpen+flushElsewhere+otherUnimproved,
                         flushUnknown,
-                        pitSlab,
+                        pitSlab+pitVIP+pitTraditional+otherLatrine,
                         pitNoSlab,
                         compostingTwinSlab,
                         compostingTwinNoSlab,
@@ -142,7 +149,7 @@ getLoadings<-function(onsiteData="data/onsiteData_example2.csv",pathogenType="Vi
                         containerBased,
                         hangingToilet,
                         openDefecation,
-                        other)
+                        other+dontKnow);myJMP
 
     myJMP$tankWatertight<-c(0,isWatertight,rep(0,13))
     myJMP$leachSystem<-c(0,hasLeach,rep(0,13))
@@ -166,74 +173,73 @@ getLoadings<-function(onsiteData="data/onsiteData_example2.csv",pathogenType="Vi
     # &&&&& START PFM Onsite Calculations &&&&&
 
     i=index
-    loadings[[m]]$lamda<-c(0,lambdas[i],lambdas[i],0,0,1,1,1,1,1,0,1,0,0,0)
-    loadings[[m]]$excreted<-excreted*loadings[[m]]$percentage  #Eq. 1: Pathogen Loading Model (Column J) #/year
-    loadings[[m]]$initContained<-loadings[[m]]$excreted*loadings[[m]]$initiallyContained  #Eq. 2: Number Initially Contained (Column O) #/year
-    loadings[[m]]$notContained<-loadings[[m]]$excreted-loadings[[m]]$initContained
-    loadings[[m]]$inLiquid<-loadings[[m]]$initContained*(1-loadings[[m]]$lamda)*(1-loadings[[m]]$flushSewer)
-    loadings[[m]]$inSolid<-loadings[[m]]$initContained*loadings[[m]]$lamda*(1-loadings[[m]]$flushSewer)
-    loadings[[m]]$toGW<-loadings[[m]]$inLiquid*(loadings[[m]]$FLUSH_TOILET_containedNotWT+loadings[[m]]$FLUSH_TOILET_containedWT_Leach)*vzReduction[[i]]   #Eq. 5: Number Reaching Groundwater (Column AI) #/year
-    loadings[[m]]$inVZ<-loadings[[m]]$inLiquid*(loadings[[m]]$FLUSH_TOILET_containedNotWT+loadings[[m]]$FLUSH_TOILET_containedWT_Leach)-loadings[[m]]$toGW
-    loadings[[m]]$coveredBuried<-loadings[[m]]$inSolid*coverBury
-    loadings[[m]]$totalSubsurface<-loadings[[m]]$inVZ+loadings[[m]]$coveredBuried
-    loadings[[m]]$toSW_liq<-loadings[[m]]$inLiquid*loadings[[m]]$FLUSH_TOILET_containedWT_noLeach+loadings[[m]]$initContained*loadings[[m]]$flushSewer*sewerLeak
+      loadings[[m]]$lamda<-c(0,lambdas[i],lambdas[i],0,0,1,1,1,1,1,0,1,0,0,0)
+      loadings[[m]]$excreted<-excreted*loadings[[m]]$percentage  #Eq. 1: Pathogen Loading Model (Column J) #/year
+      loadings[[m]]$initContained<-loadings[[m]]$excreted*loadings[[m]]$initiallyContained  #Eq. 2: Number Initially Contained (Column O) #/year
+      loadings[[m]]$notContained<-loadings[[m]]$excreted-loadings[[m]]$initContained
+      loadings[[m]]$inLiquid<-loadings[[m]]$initContained*(1-loadings[[m]]$lamda)*(1-loadings[[m]]$flushSewer)
+      loadings[[m]]$inSolid<-loadings[[m]]$initContained*loadings[[m]]$lamda*(1-loadings[[m]]$flushSewer)
+      loadings[[m]]$toGW<-loadings[[m]]$inLiquid*(loadings[[m]]$FLUSH_TOILET_containedNotWT+loadings[[m]]$FLUSH_TOILET_containedWT_Leach)*vzReduction[[i]]   #Eq. 5: Number Reaching Groundwater (Column AI) #/year
+      loadings[[m]]$inVZ<-loadings[[m]]$inLiquid*(loadings[[m]]$FLUSH_TOILET_containedNotWT+loadings[[m]]$FLUSH_TOILET_containedWT_Leach)-loadings[[m]]$toGW
+      loadings[[m]]$coveredBuried<-loadings[[m]]$inSolid*coverBury
+      loadings[[m]]$totalSubsurface<-loadings[[m]]$inVZ+loadings[[m]]$coveredBuried
+      loadings[[m]]$toSW_liq<-loadings[[m]]$inLiquid*loadings[[m]]$FLUSH_TOILET_containedWT_noLeach+loadings[[m]]$initContained*loadings[[m]]$flushSewer*sewerLeak
 
-    for(j in 1:15){  # decay for toilets with UNSAFE emptying practices
-      if(j==8|j==9){ #i.e., if there are twin pits
-        remaining<-exp(-kValues[i]*(seq(decayTimeUNSAFE,1,by=-1)+decayTimeUNSAFE-1))
-        remaining<-replace(remaining,which(remaining<0.001),0.001)
-        loadings[[m]]$toSW_sol[j]<-sum(remaining*loadings[[m]]$inSolid[j]/daysperyear*loadings[[m]]$unsafeEmpty[j])
-        loadings[[m]]$unsafeDecay[j]<-sum((1-remaining)*loadings[[m]]$inSolid[j]/daysperyear*loadings[[m]]$unsafeEmpty[j])
-      }else{ #i.e., there is only a single pit
-        remaining<-exp(-kValues[i]*seq(decayTimeUNSAFE,1,by=-1))
-        remaining<-replace(remaining,which(remaining<0.001),0.001)
-        loadings[[m]]$toSW_sol[j]<-sum(remaining*loadings[[m]]$inSolid[j]/daysperyear*loadings[[m]]$unsafeEmpty[j])
-        loadings[[m]]$unsafeDecay[j]<-sum((1-remaining)*loadings[[m]]$inSolid[j]/daysperyear*loadings[[m]]$unsafeEmpty[j])
+      for(j in 1:15){  # decay for toilets with UNSAFE emptying practices
+        if(j==8|j==9){ #i.e., if there are twin pits
+          remaining<-exp(-kValues[i]*(seq(decayTimeUNSAFE,1,by=-1)+decayTimeUNSAFE-1))
+          remaining<-replace(remaining,which(remaining<0.001),0.001)
+          loadings[[m]]$toSW_sol[j]<-sum(remaining*loadings[[m]]$inSolid[j]/daysperyear*loadings[[m]]$unsafeEmpty[j])
+          loadings[[m]]$unsafeDecay[j]<-sum((1-remaining)*loadings[[m]]$inSolid[j]/daysperyear*loadings[[m]]$unsafeEmpty[j])
+        }else{ #i.e., there is only a single pit
+          remaining<-exp(-kValues[i]*seq(decayTimeUNSAFE,1,by=-1))
+          remaining<-replace(remaining,which(remaining<0.001),0.001)
+          loadings[[m]]$toSW_sol[j]<-sum(remaining*loadings[[m]]$inSolid[j]/daysperyear*loadings[[m]]$unsafeEmpty[j])
+          loadings[[m]]$unsafeDecay[j]<-sum((1-remaining)*loadings[[m]]$inSolid[j]/daysperyear*loadings[[m]]$unsafeEmpty[j])
+        }
       }
-    }
-    loadings[[m]]$toWWTP<-loadings[[m]]$initContained*loadings[[m]]$flushSewer*(1-sewerLeak)
-    for(j in 1:15){  # decay for toilets with SAFE emptying practices
-      if(j==8|j==9){ #i.e., if there are twin pits
-        remaining<-exp(-kValues[i]*(seq(daysperyear*emptyFrequency,1,by=-1)+daysperyear*emptyFrequency-1))
-        remaining<-replace(remaining,which(remaining<0.001),0.001)
-        loadings[[m]]$toFSTP[j]<-sum(remaining*loadings[[m]]$inSolid[j]/daysperyear*loadings[[m]]$safeEmpty[j])/emptyFrequency
-        # decay = Σ [ (1 - exp(-0.7559879*10)) * 4.4e17/366 * 1 ]
-        loadings[[m]]$safeDecay[j]<-sum((1-remaining)*loadings[[m]]$inSolid[j]/daysperyear*loadings[[m]]$safeEmpty[j])/emptyFrequency
-      }else{   #i.e., there is only a single pit
-        remaining<-exp(-kValues[i]*(seq(daysperyear*emptyFrequency,1,by=-1)))
-        remaining<-replace(remaining,which(remaining<0.001),0.001)
-        loadings[[m]]$toFSTP[j]<-sum(remaining*loadings[[m]]$inSolid[j]/daysperyear*loadings[[m]]$safeEmpty[j])/emptyFrequency
-        loadings[[m]]$safeDecay[j]<-sum((1-remaining)*loadings[[m]]$inSolid[j]/daysperyear*loadings[[m]]$safeEmpty[j])/emptyFrequency
+      loadings[[m]]$toWWTP<-loadings[[m]]$initContained*loadings[[m]]$flushSewer*(1-sewerLeak)
+      for(j in 1:15){  # decay for toilets with SAFE emptying practices
+        if(j==8|j==9){ #i.e., if there are twin pits
+          remaining<-exp(-kValues[i]*(seq(daysperyear*emptyFrequency,1,by=-1)+daysperyear*emptyFrequency-1))
+          remaining<-replace(remaining,which(remaining<0.001),0.001)
+          loadings[[m]]$toFSTP[j]<-sum(remaining*loadings[[m]]$inSolid[j]/daysperyear*loadings[[m]]$safeEmpty[j])/emptyFrequency
+          # decay = Σ [ (1 - exp(-0.7559879*10)) * 4.4e17/366 * 1 ]
+          loadings[[m]]$safeDecay[j]<-sum((1-remaining)*loadings[[m]]$inSolid[j]/daysperyear*loadings[[m]]$safeEmpty[j])/emptyFrequency
+        }else{   #i.e., there is only a single pit
+          remaining<-exp(-kValues[i]*(seq(daysperyear*emptyFrequency,1,by=-1)))
+          remaining<-replace(remaining,which(remaining<0.001),0.001)
+          loadings[[m]]$toFSTP[j]<-sum(remaining*loadings[[m]]$inSolid[j]/daysperyear*loadings[[m]]$safeEmpty[j])/emptyFrequency
+          loadings[[m]]$safeDecay[j]<-sum((1-remaining)*loadings[[m]]$inSolid[j]/daysperyear*loadings[[m]]$safeEmpty[j])/emptyFrequency
+        }
       }
-    }
-    loadings[[m]]$totalDecayed<-loadings[[m]]$unsafeDecay+loadings[[m]]$safeDecay
-    loadings[[m]]$toSW<-loadings[[m]]$notContained+loadings[[m]]$toSW_sol+loadings[[m]]$toSW_liq
-    loadings[[m]]$stillViable<-(loadings[[m]][,"toGW"]+loadings[[m]][,"toSW"]+loadings[[m]][,"toWWTP"]+loadings[[m]][,"toFSTP"])
-    loadings[[m]]$LRV_byTech<-round(log10(loadings[[m]][,"excreted"]/loadings[[m]][,"stillViable"]),2)
-    LRV_byTechnology <- as.data.frame(t(loadings[[m]]$LRV_byTech))
-    colnames(LRV_byTechnology) <- paste("LRV_",loadings[[m]]$name,sep="")
-    LRV_byTechnology[is.na(LRV_byTechnology)]<-NA
+      loadings[[m]]$totalDecayed<-loadings[[m]]$unsafeDecay+loadings[[m]]$safeDecay
+      loadings[[m]]$toSW<-loadings[[m]]$notContained+loadings[[m]]$toSW_sol+loadings[[m]]$toSW_liq
+      loadings[[m]]$stillViable<-(loadings[[m]][,"toGW"]+loadings[[m]][,"toSW"]+loadings[[m]][,"toWWTP"]+loadings[[m]][,"toFSTP"])
+      loadings[[m]]$LRV_byTech<-round(log10(loadings[[m]][,"excreted"]/loadings[[m]][,"stillViable"]),2)
+      LRV_byTechnology <- as.data.frame(t(loadings[[m]]$LRV_byTech))
+      colnames(LRV_byTechnology) <- paste("LRV_",loadings[[m]]$name,sep="")
+      LRV_byTechnology[is.na(LRV_byTechnology)]<-NA
 
-    ### CALCULATE EMISSIONS ###
-    excreted=sum(loadings[[m]]$excreted)
-    to_groundwater=sum(loadings[[m]]$toGW)
-    to_surface=sum(loadings[[m]]$toSW)
-    retained_in_soil=sum(loadings[[m]]$totalSubsurface)
-    decayed=sum(loadings[[m]]$totalDecayed)
-    In_Sewage=sum(loadings[[m]]$toWWTP)
-    In_Fecal_Sludge=sum(loadings[[m]]$toFSTP)
+      ### CALCULATE EMISSIONS ###
+      excreted=sum(loadings[[m]]$excreted)
+      to_groundwater=sum(loadings[[m]]$toGW)
+      to_surface=sum(loadings[[m]]$toSW)
+      retained_in_soil=sum(loadings[[m]]$totalSubsurface)
+      decayed=sum(loadings[[m]]$totalDecayed)
+      In_Sewage=sum(loadings[[m]]$toWWTP)
+      In_Fecal_Sludge=sum(loadings[[m]]$toFSTP)
 
-    loadings[[m]]<-loadings[[m]][,c("name","classification","percentage","excreted","toGW","toSW","totalSubsurface","totalDecayed","toFSTP","toWWTP","stillViable","LRV_byTech")]
-    names(loadings[[m]])<-c("id","sanitationTechnology","percentage","excreted","toGroundwater","toSurface","inSubsurface","decayed","fecalSludge","sewerage","stillViable","onsiteLRV")
+      loadings[[m]]<-loadings[[m]][,c("name","classification","percentage","excreted","toGW","toSW","totalSubsurface","totalDecayed","toFSTP","toWWTP","stillViable","LRV_byTech")]
+      names(loadings[[m]])<-c("id","sanitationTechnology","percentage","excreted","toGroundwater","toSurface","inSubsurface","decayed","fecalSludge","sewerage","stillViable","onsiteLRV")
 
-    newRow<-data.frame(region=df$region,excreted,to_groundwater,to_surface,retained_in_soil,decayed,
-                       In_Fecal_Sludge,In_Sewage,stillViable=(to_groundwater+to_surface+In_Sewage+In_Fecal_Sludge),
-                       Onsite_LRV=round(log10(excreted/(to_groundwater+to_surface+In_Sewage+In_Fecal_Sludge)),2),
-                       Onsite_PR=round(((excreted-(to_groundwater+to_surface+In_Sewage+In_Fecal_Sludge))/excreted),4))
-    onsite_results=rbind(onsite_results,newRow)
+      newRow<-data.frame(region=df$region,excreted,to_groundwater,to_surface,retained_in_soil,decayed,
+                         In_Fecal_Sludge,In_Sewage,stillViable=(to_groundwater+to_surface+In_Sewage+In_Fecal_Sludge),
+                         Onsite_LRV=round(log10(excreted/(to_groundwater+to_surface+In_Sewage+In_Fecal_Sludge)),2),
+                         Onsite_PR=round(((excreted-(to_groundwater+to_surface+In_Sewage+In_Fecal_Sludge))/excreted),4))
+      onsite_results=rbind(onsite_results,newRow)
   }
 
-  return(list(detailed=loadings,summary=onsite_results[complete.cases(onsite_results),]))
-
+  return(list(detailed=loadings,summary=onsite_results))
 }
 

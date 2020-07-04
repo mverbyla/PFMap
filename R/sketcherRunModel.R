@@ -51,15 +51,14 @@ function(mySketch, inFecalSludge=10000000000, inSewage=10000000000){
     results<-data.frame(In_Fecal_Sludge=inFecalSludge,In_Sewage=inSewage,Sludge_Biosolids=NA,Liquid_Effluent=NA,Centralized_LRV=NA)
 
     sketch=jsonlite::parse_json(mySketch,simplifyVector = T)
+    #sketch=jsonlite::read_json(mySketch,simplifyVector = T)
     #pData=read.csv(myData,header=T)
-    #sketch$retentionTime<-as.double(sketch$retentionTime)
     sketch$depth<-as.double(sketch$depth)
     sketch$temperature<-as.double(sketch$temperature)
     sketch$surfaceArea<-as.double(sketch$surfaceArea)
     sketch$flowRate<-as.double(sketch$flowRate)
     sketch$depth<-as.double(sketch$depth)
     sketch$holdingTime<-as.double(sketch$holdingTime)
-    #sketch$retentionTime<-as.double((sketch$surfaceArea*sketch$depth)/sketch$flowRate)
     sketch$moistureContent<-as.double(sketch$moistureContent)/100
 
     ########((((((((this is the beginning of the old getNodes function))))))))
@@ -110,6 +109,7 @@ function(mySketch, inFecalSludge=10000000000, inSewage=10000000000){
     arrows$siblings_liquid<-NA
     arrows$iamsolid<-NA
     arrows$flowRate<-NA
+    nodes[nodes$flowRate==0,]$flowRate<-NA
     for(i in 1:nrow(arrows)){
       arrows$siblings_solid[i]<-sum(arrows$flowtype[which(arrows$us_node==arrows$us_node[i])]=="solid")
       arrows$siblings_liquid[i]<-sum(arrows$flowtype[which(arrows$us_node==arrows$us_node[i])]=="liquid")
@@ -212,24 +212,24 @@ function(mySketch, inFecalSludge=10000000000, inSewage=10000000000){
     if(any(nodes$subType=="trickling filter")==TRUE){
       if(pathogenType=="Helminth"){nodes[nodes$subType=="trickling filter",c("fit","lwr","upr")]<-1}else{nodes[nodes$subType=="trickling filter",c("fit","lwr","upr")]<-predict(fit_tf,nodes[nodes$subType=="trickling filter",],interval="confidence")^2}
     }
-    if(any(nodes$subType=="settler/sedimentation")==TRUE){
-      if(pathogenType=="Protozoa"|pathogenType=="Helminth"){nodes[nodes$subType=="settler/sedimentation",c("fit","lwr","upr")]<-0}else{nodes[nodes$subType=="settler/sedimentation",c("fit","lwr","upr")]<-predict(fit_sd,nodes[nodes$subType=="settler/sedimentation",],interval="confidence")^2}
+    if(any(nodes$subType=="settler or clarifier")==TRUE){
+      if(pathogenType=="Protozoa"|pathogenType=="Helminth"){nodes[nodes$subType=="settler or clarifier",c("fit","lwr","upr")]<-0}else{nodes[nodes$subType=="settler or clarifier",c("fit","lwr","upr")]<-predict(fit_sd,nodes[nodes$subType=="settler or clarifier",],interval="confidence")^2}
     }
 
     ####placeholder LRVs until we get more data into the database####
     if(any(nodes$subType=="biogas reactor")==TRUE){nodes[nodes$subType=="biogas reactor",c("fit","lwr","upr")]<-c(1,0,2)}
-    if(any(nodes$subType=="co-composting")==TRUE){nodes[nodes$subType=="co-composting",c("fit","lwr","upr")]<-c(1,0,2)}
+    if(any(nodes$subType=="composting")==TRUE){nodes[nodes$subType=="composting",c("fit","lwr","upr")]<-c(1,0,2)}
     if(any(nodes$subType=="activated sludge")==TRUE){nodes[nodes$subType=="activated sludge",c("fit","lwr","upr")]<-c(1,0,2)}
     if(any(nodes$subType=="uasb reactor")==TRUE){nodes[nodes$subType=="uasb reactor",c("fit","lwr","upr")]<-c(1,0,2)}
-    if(any(nodes$subType=="media filer")==TRUE){nodes[nodes$subType=="media filer",c("fit","lwr","upr")]<-c(1,0,2)}
+    if(any(nodes$subType=="media filter")==TRUE){nodes[nodes$subType=="media filter",c("fit","lwr","upr")]<-c(1,0,2)}
     if(any(nodes$subType=="imhoff tank")==TRUE){nodes[nodes$subType=="imhoff tank",c("fit","lwr","upr")]<-c(1,0,2)}
     if(any(nodes$subType=="aerated pond")==TRUE){nodes[nodes$subType=="aerated pond",c("fit","lwr","upr")]<-c(1,0,2)}
-    if(any(nodes$subType=="ss")==TRUE){nodes[nodes$subType=="ss",c("fit","lwr","upr")]<-c(1,0,2)}
-    if(any(nodes$subType=="fws")==TRUE){nodes[nodes$subType=="fws",c("fit","lwr","upr")]<-c(1,0,2)}
+    if(any(nodes$subType=="ss wetland")==TRUE){nodes[nodes$subType=="ss wetland",c("fit","lwr","upr")]<-c(1,0,2)}
+    if(any(nodes$subType=="fws wetland")==TRUE){nodes[nodes$subType=="fws wetland",c("fit","lwr","upr")]<-c(1,0,2)}
     if(any(nodes$subType=="anaerobic baffled reactor")==TRUE){nodes[nodes$subType=="anaerobic baffled reactor",c("fit","lwr","upr")]<-c(1,0,2)}
-    if(any(nodes$subType=="chlorination")==TRUE){nodes[nodes$subType=="anaerobic baffled reactor",c("fit","lwr","upr")]<-c(1,0,2)}
-    if(any(nodes$subType=="ammonia")==TRUE){nodes[nodes$subType=="anaerobic baffled reactor",c("fit","lwr","upr")]<-c(1,0,2)}
-    if(any(nodes$subType=="lime treatment")==TRUE){nodes[nodes$subType=="anaerobic baffled reactor",c("fit","lwr","upr")]<-c(1,0,2)}
+    if(any(nodes$subType=="chlorination")==TRUE){nodes[nodes$subType=="chlorination",c("fit","lwr","upr")]<-c(1,0,2)}
+    if(any(nodes$subType=="ammonia")==TRUE){nodes[nodes$subType=="ammonia",c("fit","lwr","upr")]<-c(1,0,2)}
+    if(any(nodes$subType=="lime treatment")==TRUE){nodes[nodes$subType=="lime treatment",c("fit","lwr","upr")]<-c(1,0,2)}
     ####
 
 
@@ -347,5 +347,5 @@ function(mySketch, inFecalSludge=10000000000, inSewage=10000000000){
 }
 
 #library(plumber)
-#r<-plumb("pathogenflows/R/sketcherRunModel.R")  # Where 'plumber.R' is the location of the file shown above
+#r<-plumb("R/sketcherRunModel.R")  # Where 'plumber.R' is the location of the file shown above
 #r$run(port=8000)
