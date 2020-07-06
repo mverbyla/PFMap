@@ -1,0 +1,676 @@
+sanitation_facility,category
+Public toilet,other
+chasse d'eau avec egouts ou avec fosse sceptique,flushUnknown
+chasse eau avec egouts ou fosse,flushUnknown
+Inodoro con alcantarillado/pozo séptico,flushUnknown
+flush toilet shared,flushUnknown
+flush toilet private,flushUnknown
+Private toilet,other
+Share toilet,other
+..Modern flush toilet,flushUnknown
+..Traditional with tank flush,flushUnknown
+..Traditional with bucket flush,flushUnknown
+modern flush toilet,flushUnknown
+traditional tank flush,flushUnknown
+traditional bucket flush,flushUnknown
+Modern flush,flushUnknown
+Modern flush toilets,flushUnknown
+W.C.,flushUnknown
+"Public toilet (WC,KVIP,Pit,Pan, etc)",other
+flush to sewage system/septic tank,flushUnknown
+"Rios, ribeiros e linha de água",openDefecation
+Sistema de esgoto ou fossa séptica,flushUnknown
+Latrine with siphon,flushUnknown
+w.c,flushUnknown
+flush to sewage system or septic tank,flushUnknown
+Retrete sem autoclismo Sistema de esgoto geral,other
+Excusado o letrina,pitSlab
+Descarga para o sist.de esgoto ou fossa,flushUnknown
+Bucket,bucketLatrine
+Bucket toilet,bucketLatrine
+balde,bucketLatrine
+Bucket/potty/other container,bucketLatrine
+seau,bucketLatrine
+Seaux,bucketLatrine
+Seaux/tinettes,bucketLatrine
+Seaux / Tinettes,bucketLatrine
+Sceau,bucketLatrine
+Bacinilla,bucketLatrine
+Cubeta,bucketLatrine
+"Bucket, pan",bucketLatrine
+Bucket/pan toilet,bucketLatrine
+Bucket/Pan,bucketLatrine
+Mobile latrine,bucketLatrine
+Pots de champbre,bucketLatrine
+Baldes,bucketLatrine
+Composting toilet,compostingToilet
+Single vault,compostingToilet
+Eco sanitation,compostingToilet
+Traditional dry vault,compostingToilet
+Single/double vault - with urine diversion,compostingToilet
+latrina seca/latrina com descarga manual,compostingToilet
+Toilettes a compostage,compostingToilet
+Toilettes à compostage/Ecocendre,compostingToilet
+Toilettes à compostage,compostingToilet
+Toilettes à compostage / EcoSan,compostingToilet
+Inodoro de compostaje,compostingToilet
+Latrine with composting facility,compostingToilet
+Letrina Abonero,compostingToilet
+Excusado de compostaje,compostingToilet
+Toilettes ? compostage,compostingToilet
+Letrina de compostaje,compostingToilet
+Letrina abonera,compostingToilet
+31,compostingToilet
+Composting toilet/ecosan,compostingToilet
+Ecosan,compostingToilet
+Composting toilet / ECOSAN,compostingToilet
+Composting toilet/Arbo loo,compostingToilet
+composite toilet,compostingToilet
+Double vault,compostingTwinSlab
+directo ao rio mar ou lago,flushOpen
+"vala negra, aberta",flushOpen
+Inside yard: Latrine to open pit (ditch or river),flushOpen
+Out of yard: Flush to open pit (ditch or river),flushOpen
+Out of yard: Latrine to open pit (ditch or river),flushOpen
+Inside yard: Flush to open pit (ditch or river),flushOpen
+Indoors: Flush to open pit (ditch or river),flushOpen
+Surface water (street/stream),flushOpen
+4. A la superficie(calle/quebrada/río)?,flushOpen
+Reliée à autre chose,flushOpen
+"Toilet to creek, open space",flushOpen
+toilet connected to plot/yard,flushOpen
+"Inodoro con salida directa a acequia, zanja, río o estero",flushOpen
+"Inodoro con descarga a río, cañada u otro",flushOpen
+Flust to pipe connected to canal,flushOpen
+Flush to pipe connected to canal,flushOpen
+Valas a céu aberto,flushOpen
+Casa de banho ligado a canal de drenagem,flushOpen
+"Inodoro con desague a rio, laguna, mar",flushOpen
+Letrina con descarga a rio laguna o mar,flushOpen
+" Inodoro con descarga a rio, laguna o mar",flushOpen
+" Inodoro con desague a rio, laguna o mar",flushOpen
+Flush toilet with connection to open water,flushOpen
+Latrine with connection to open water,flushOpen
+FLUSH / POUR FLUSH: FLUSH TO OPEN DRAIN,flushOpen
+Flush toilet (sink-sumidero),flushOpen
+Flush toilet (rain water sewer),flushOpen
+Flush toilet (rivers),flushOpen
+"Servicio con conexión al mar, río o quebrada u otro lugar circundante",flushOpen
+"Arrastre de agua en superficie de la tierra,zanja,arroyo...",flushOpen
+"Con arrastre de agua en la superf. de la tierra, zanja, arro",flushOpen
+"Con arrastre de agua en la superficie de la tierra,zanja,arroyo...",flushOpen
+Flush - to pit latrine,flushPit
+Flush to pit (latrine),flushPit
+Flush to pit latrine,flushPit
+Flush/pour flush toilet to pit,flushPit
+Flush/pour toilet to septic tank/pit,flushPit
+"com fosse de esgotos (pia,sanita)",flushPit
+com fossa septica e poco roto,flushPit
+Chasse reliée à des latrines,flushPit
+Chasse branchee a latrines,flushPit
+water sealed/slab latrine,flushPit
+Pit toilet,flushPit
+3. A un pozo ciego/absorción?,flushPit
+Flush to well/pit (latrine),flushPit
+latrines a evacuation,flushPit
+Chasse branchée a puits perdu,flushPit
+Chasse branchee aux latrines,flushPit
+Reliée à des latrines,flushPit
+Toilet to pit,flushPit
+"Letrina (pozo negro, hueco con descarga de agua)",flushPit
+Inodoro conectado a pozo séptico,flushPit
+Flush to pipe connected to ground water,flushPit
+Flush to vault (Bayara),flushPit
+flush toilet piped to pit (latrine),flushPit
+pour flush latrine,flushPit
+Latrina com descarga de água,flushPit
+Pozo negro,flushPit
+Letrina con pozo septico,flushPit
+Letrina con cierre hidraulico,flushPit
+Letrina con pozo negro,flushPit
+ Letrina con cierre hidraulico,flushPit
+ Letrina con pozo negro,flushPit
+....flush - to pit latrine,flushPit
+Flush to pit,flushPit
+FLUSH / POUR FLUSH: FLUSH TO PIT LATRINE,flushPit
+Pit latrine with drainage,flushPit
+Chasse branchée à latrines,flushPit
+Flush/pour flush: Flush to pit (latrine),flushPit
+Retrete com autoclismo Fossa septica,flushPit
+Connecte ? une fosse simple,flushPit
+Letrina de arrastre,flushPit
+Flush toilet to pit latrine,flushPit
+Arrastre de agua y pozo ciego(absorbente),flushPit
+Con arrastre de agua con pozo ciego (absorbente),flushPit
+Con arrastre de agua con pozo ciego(absorbente),flushPit
+"Pozo ciego, sin cámara séptica",flushPit
+latrinesa evacuation,flushPit
+Latrine with manual flush,flushPit
+Descarga para latrina,flushPit
+Chasse branchee a fosses simples,flushPit
+Chasse reliée à la fosse simple,flushPit
+Inodoro o taza turca (letrina) conectado/a a pozo permeable (perdedor),flushPit
+Flush to latrine,flushPit
+Flush - to septic tank,flushSeptic
+Flush to septic tank,flushSeptic
+Septic tank,flushSeptic
+Indoors: Latrine to septic tank,flushSeptic
+Indoors: Flush to septic tank,flushSeptic
+Out of yard: Flush to septic tank,flushSeptic
+Out of yard: Latrine to septic tank,flushSeptic
+Inside yard: Latrine to septic tank,flushSeptic
+Inside yard: Flush to septic tank,flushSeptic
+Chasse branchee a fosse septique,flushSeptic
+Chasse connectée à fosse septique,flushSeptic
+septic tank/modern toilet,flushSeptic
+Camara s‚ptica,flushSeptic
+Septic system,flushSeptic
+2. A una cámara séptica?,flushSeptic
+Chasse branchée a fosse septique,flushSeptic
+Connectée à fosse septique,flushSeptic
+toilet connected to septic well,flushSeptic
+Chase d'eau avec égout ou avec fosse septique,flushSeptic
+Inodoro conectado al tanque séptico,flushSeptic
+Flush to septic system,flushSeptic
+Flush to manhole/septic tank,flushSeptic
+chasse d'eau avec fosse septique,flushSeptic
+Casa de banho ligado a fossa séptica,flushSeptic
+Inodoro conectado a pozo septico,flushSeptic
+ Letrina con pozo septico,flushSeptic
+ Inodoro conectado a pozo septico,flushSeptic
+Flush toilet connected to a septic tank,flushSeptic
+....flush -to septic tank,flushSeptic
+Private with septic tank,flushSeptic
+Private - with septic tank,flushSeptic
+FLUSH / POUR FLUSH: FLUSH TO SEPTIC TANK,flushSeptic
+Excusado conectado a tanque séptico,flushSeptic
+Chasse branchée à fosse septique,flushSeptic
+Pit latrine with watertight tank,flushSeptic
+Flush/pour flush: Flush to septic tank,flushSeptic
+Chasse connectee ? fosse septique,flushSeptic
+Flust toilet (septic tank),flushSeptic
+Sumidero o pozo septico,flushSeptic
+Servicio conectado a tanque séptico o a fosa séptica,flushSeptic
+Septic well,flushSeptic
+Flush toilet to septic tank,flushSeptic
+"Arrastre de agua, cámara séptica y pozo ciego(absorbente)",flushSeptic
+"Con arrastre de agua, cámara séptica y pozo ciego (absorbent",flushSeptic
+"Con arrastre de agua, cámara séptica y pozo ciego(absorbente)",flushSeptic
+Cámara séptica y pozo ciego,flushSeptic
+chasse d'eau avec egouts ou fosse sceptique,flushSeptic
+Chasse avec fossee,flushSeptic
+Inodoro conectado a tanque séptico,flushSeptic
+Latrina com fossa sceptica,flushSeptic
+Fosse ‚tanche,flushSeptic
+Chasse d'eau ou fosse septique,flushSeptic
+Inodoro conectado a fosa séptica o pozo impermeable,flushSeptic
+Flush - to piped sewer system,flushSewer
+Flush to piped sewer system,flushSewer
+Flush toilet to sewer system,flushSewer
+Piped sewage system,flushSewer
+Indoors: Latrine to piped public system,flushSewer
+Inside yard: Flush to piped public system,flushSewer
+Indoors: Flush to piped public system,flushSewer
+Out of yard: Flush to piped public system,flushSewer
+Out of yard: Latrine to piped public system,flushSewer
+Inside yard: Latrine to piped public system,flushSewer
+Chasse branchee a l'egout,flushSewer
+flush toilet connected to sewer system,flushSewer
+Chasse connectée à système d'égouts,flushSewer
+Sewage system,flushSewer
+1. A la red de alcantarillado?,flushSewer
+Chasse branchée a l'égoût,flushSewer
+Chasse branchee a egout,flushSewer
+chasse raccordee & l'egout,flushSewer
+Toilet to sewer,flushSewer
+toilet connected to sewer,flushSewer
+Inodoro conectado al alcantarillado,flushSewer
+Inodoro con descarga al alcantarillado público o cloaca,flushSewer
+flush toilet piped to sewer system,flushSewer
+chasse d'eau avec égout,flushSewer
+Casa de banho ligado ao esgoto,flushSewer
+Flush to piper sewer,flushSewer
+Inodoro conectado ared de alcantarilla,flushSewer
+Inodoro conectado a alcantarilla,flushSewer
+ Inodoro conectado a alcantarilla,flushSewer
+....flush - to piped sewer system,flushSewer
+FLUSH / POUR FLUSH: FLUSH TO PIPED SEWER SYSTEM,flushSewer
+Sewage sytem,flushSewer
+Sewage,flushSewer
+Excusado conectado al alcantarillado,flushSewer
+Chasse branchée à l'égout,flushSewer
+Flush/pour flush: Flush to piped sewer system,flushSewer
+Retrete com autoclismo Sistema de esgoto geral,flushSewer
+Flush to piped sewer,flushSewer
+Chasse connectee ? syst?me d'egouts,flushSewer
+Connectée à système d?égouts,flushSewer
+Flush toilet (sewer),flushSewer
+Tubería de aguas negra,flushSewer
+Flush to sewer system,flushSewer
+Servicio conectado al alcantarillado,flushSewer
+Flush toilet to piped sewer system,flushSewer
+"Arrastre de agua, red de alcantarillado sanitario",flushSewer
+"Con arrastre de agua, red de alcantarillado sanitario",flushSewer
+Red de alcantarillado sanitario(cloaca),flushSewer
+Chasse raccordee … l'egout,flushSewer
+Yes and connected to sewage,flushSewer
+Conectada ao sistema de esgoto,flushSewer
+wc linked to sewer,flushSewer
+11,flushSewer
+Inodoro conectado a red de saneamiento,flushSewer
+Flushed to piped sewer system,flushSewer
+Flush - to somewhere else,flushUnknown
+Flush - don't know where,flushUnknown
+Flush to somewhere else,flushUnknown
+Flush to unknown place / Not sure / DK where,flushUnknown
+"Flush, don't know where",flushUnknown
+Flush/pour flush toilet to elsewhere,flushUnknown
+Water flow do not know where,flushUnknown
+Own flush toilet,flushUnknown
+Flush toilet,flushUnknown
+flush toilet not connected to sewer system,flushUnknown
+Chasse reliée à autre chose,flushUnknown
+Chasse reliée à endroit inconnu / Pas sûr / NSP où,flushUnknown
+Flush to unknown place/not sure/DK where,flushUnknown
+5. No sabe?,flushUnknown
+Chasse branchée a autre chose,flushUnknown
+Chasse branchée a endroit inconnu/pas sûre,flushUnknown
+Chasse reliée à endroit inconnu / Pas sûr / Ne sait pas où,flushUnknown
+Chasse branchee a autre chose,flushUnknown
+Reliée à endroit inconnu/pas sûr/NSP où,flushUnknown
+Reliée à endroit inconnu/pas sûr/ NSP où,flushUnknown
+Inodoro con descarga a lugar desconocido,flushUnknown
+flush toilet piped to somewhere else,flushUnknown
+flush toilet piped unknown place/not sure/dk where,flushUnknown
+"Flush , don't know where",flushUnknown
+LATRINA COM AUTOCLISMO,flushUnknown
+Flush don't know where,flushUnknown
+Flush to elsewhere,flushUnknown
+Flush toilet does not know connection,flushUnknown
+....flush - don't know,flushUnknown
+Private with no septic tank,flushUnknown
+Private - without septic tank,flushUnknown
+FLUSH / POUR FLUSH: FLUSH TO DK WHERE,flushUnknown
+Shared flush toilet,flushUnknown
+pour flush latrine( water seal type),flushUnknown
+Pour Flush,flushUnknown
+Chasse branchée à autre chose,flushUnknown
+Chasse branchée à un endroit inconnu/pas sûr,flushUnknown
+Flush/pour flush: Flush to somewhere else,flushUnknown
+Retrete com autoclismo Nao sabe,flushUnknown
+Retrete com autoclismo Sem info,flushUnknown
+"Toilet without flush, don't know where",flushUnknown
+Toilet with flush,flushUnknown
+Chasse branchee a un endroit inconnu,flushUnknown
+Chasse reliee ? endroit inconnu / Pas s?r / NSP o?,flushUnknown
+Share flush toilet outside/yard,flushUnknown
+Own flush toilet outsite/yard,flushUnknown
+Share flush toilet into residence,flushUnknown
+Own flust toilet into residence,flushUnknown
+Inside dwelling,flushUnknown
+Flush toilet: own,flushUnknown
+Flush toilet: shared,flushUnknown
+Flush toilet to somewhere else,flushUnknown
+Flush toilet with drainage,flushUnknown
+Yes and not connected to sewage,flushUnknown
+Flush or pour flush toilet,flushUnknown
+Private flush toilet,flushUnknown
+Chasse branchee a endroit inconnu,flushUnknown
+Flush and moulded-Private,flushUnknown
+Flush latrine-Private,flushUnknown
+Flush and moulded-Shared,flushUnknown
+Flush latrine-Shared,flushUnknown
+pour flush latrine (water seal type),flushUnknown
+wc not linked to sewer,flushUnknown
+Flush other,flushUnknown
+flush to unknown place,flushUnknown
+Hanging toilet/latrine,hangingToilet
+Toilettes / Latrines suspendues,hangingToilet
+hanging latrine,hangingToilet
+Hanging toilet/hanging latrine,hangingToilet
+"Hanging toilet, Hanging latrine",hangingToilet
+Toilette suspendues/latrines suspendues,hangingToilet
+traditional toilet to sea/river (low tide),hangingToilet
+"Inodoro colgante, Letrina colgante",hangingToilet
+Hanging toilet / hanging latrine,hangingToilet
+Hanging toilet/ hanging letrine,hangingToilet
+Hanging toilet,hangingToilet
+Toilet hanging (on stilts),hangingToilet
+"Excusado colgante, Letrina colgante",hangingToilet
+Hanging letrine (colgante),hangingToilet
+Servicio colgante sobre el río o el mar,hangingToilet
+Latrine over river/lake,hangingToilet
+Drop/Hanging toilet,hangingToilet
+No facility/bush/field,openDefecation
+"No facility, Bush, Field",openDefecation
+"No facility - open field, bush",openDefecation
+"capim, mato, ar livre",openDefecation
+No facility,openDefecation
+No facility/outdoors/bush,openDefecation
+No facility/ Bush/ Field,openDefecation
+Manquant,openDefecation
+Pas de toilettes ou brousse ou champ,openDefecation
+"no toilet, in nature",openDefecation
+No facilities or bush or field,openDefecation
+Pas de toilettes/dans la nature,openDefecation
+"Pas de toilettes,nature",openDefecation
+pas de toilettes/brousse,openDefecation
+"Pas de toilettes, nature",openDefecation
+no toilet facility,openDefecation
+Pas de toilette ou brousse ou champ,openDefecation
+"No hay instalación sanitaria, va al monte, campo",openDefecation
+"No tiene sanitario, usa matorral/campo",openDefecation
+No tiene sanitario/usa el río,openDefecation
+No hay instalación sanitaria,openDefecation
+"Nature, plein air",openDefecation
+..No facility,openDefecation
+No facility/Field,openDefecation
+No facility / bush / field,openDefecation
+No toilet/bush,openDefecation
+No facilities (bush/beach/field),openDefecation
+nature,openDefecation
+"Pas de toilettes, brousse, nature",openDefecation
+no facilities/bush/field,openDefecation
+No mato ou ar livre,openDefecation
+ENTERRA AS FEZES NO QUINTAL,openDefecation
+NO MATO (NATUREZA),openDefecation
+ENTERRA AS FEZES FORA DO QUINTAL,openDefecation
+Não tem casa de banho,openDefecation
+"No toilet, use bush or field",openDefecation
+No tiene,openDefecation
+Open Defecation,openDefecation
+ No tiene,openDefecation
+"open, rudimentary",openDefecation
+"no facility, nature",openDefecation
+....not facility,openDefecation
+Bush/forest/yard/field/no facility,openDefecation
+River/stream/creek,openDefecation
+Yard/bush/forest,openDefecation
+Pond/lake,openDefecation
+Bush/forest,openDefecation
+Beach/sea,openDefecation
+Gutter/drain,openDefecation
+No toilet/field/forest,openDefecation
+No toilet,openDefecation
+"Pas de toilettes , nature",openDefecation
+No facilities,openDefecation
+No flush toilet,openDefecation
+Na praia,openDefecation
+No mato,openDefecation
+No facility/bush,openDefecation
+"No facility/bush, field",openDefecation
+Bush / field,openDefecation
+River,openDefecation
+Bush/field (Abonera),openDefecation
+Río / Quebrada,openDefecation
+"No hay servicio sanitario, va al monte, campo",openDefecation
+River/canal,openDefecation
+No service,openDefecation
+"River, canal",openDefecation
+No toilet/field/bush,openDefecation
+No facility/ bush/ field/ river,openDefecation
+"No hay instalación sanitaria, va al monte o campo",openDefecation
+"La calle, patio/terreno o en algún otro lugar",openDefecation
+pas de toillettes dans parcelle/brousse/champ,openDefecation
+Dans la nature,openDefecation
+Stream/river,openDefecation
+Baldeo a otra parte,openDefecation
+No hay instalacion sanitaria,openDefecation
+"Mato, praia ou campo",openDefecation
+No facility/bush/field/beach,openDefecation
+Em falta,openDefecation
+NÃ£o tem casa de banho/mato,openDefecation
+"No facility, Bush, Field, Flying toilet (plastic)",openDefecation
+Pas de toilette/brousse/champ,openDefecation
+None (nature),openDefecation
+none,openDefecation
+"No facility, bush/field/public toilet",openDefecation
+Bush,openDefecation
+"No facility, bush",openDefecation
+Other,other
+Missing,other
+"Other, specify",other
+poco roto somente,other
+outros,other
+Cemented with sink,other
+Other place,other
+Without cement sink,other
+Autres,other
+Autre,other
+Non déclaré/Pas de réponse,other
+Non Déclarée,other
+97,other
+Otro,other
+Omitido,other
+Otros,other
+Mobile toilet,other
+non déclaré,other
+Ne sait pas où,other
+Outro,other
+Mobile chemical toilet,other
+Shared/public,other
+NO RESPONSE,other
+Public/shared to,other
+98,other
+Descarga a otra parte,other
+Descarga a sitio desconocido / no estáseguro dónde / NS dónde,other
+DK,other
+99,other
+Retrete sem autoclismo Sem info,other
+K?Niv,other
+Autre (préciser),other
+No hay dato,other
+Outside dwelling,other
+Drop/overhang,other
+9,other
+No informado,other
+Baño de silla/basin para adultos/niños o enfermos,other
+No responde,other
+No sabe dónde se depositan,other
+Edicule publict latrine,other
+Sitio desconocido/ no está seguro/ NS dónde,other
+Outro (especificar),other
+7,other
+NSP,other
+Others,other
+0,other
+Pit latrine - without slab / open pit,pitNoSlab
+Pit latrine without slab / Open pit,pitNoSlab
+Pit latrine without slab/open pit,pitNoSlab
+Pit latrine _without slab/open,pitNoSlab
+Latrines a fosses/trou ouvert,pitNoSlab
+Latrines à fosse sans dalle / trou ouvert,pitNoSlab
+open latrine,pitNoSlab
+Open pit,pitNoSlab
+trou ouvert,pitNoSlab
+Latrines à trou sans dalle / trou ouvert,pitNoSlab
+Latrines a trou ouvert (tranchée),pitNoSlab
+Rudimentary pit toilet latrine,pitNoSlab
+latrinetraditionnelles non couvertes,pitNoSlab
+Traditional pit toilet (uncovered),pitNoSlab
+Latrines à fosses sans dalle/trou ouvert,pitNoSlab
+Letrina de fosa sin losa / Foso abierto,pitNoSlab
+Letrina expuesta,pitNoSlab
+pit toilet without bassinet (shared),pitNoSlab
+pit toilet without bassinet (private),pitNoSlab
+Private latrine without slab,pitNoSlab
+Share latrine without slab,pitNoSlab
+pit latrine without slab,pitNoSlab
+latrines non couvertes,pitNoSlab
+....pit latrine - without slab,pitNoSlab
+PIT LATRINE: PIT LATRINE WITHOUT SLAB / OPEN PIT,pitNoSlab
+Pit latrine without slab/ open pit,pitNoSlab
+Pit latrine without slab/open pit*,pitNoSlab
+Letrina de fosa sin losa/Foso abierto,pitNoSlab
+Latrina não melhorada (laje),pitNoSlab
+Pit latrine without slab/,pitNoSlab
+Not improved latrine,pitNoSlab
+Latrines ? fosse sans dalle / trou ouvert,pitNoSlab
+Toilettes/latrines suspendues sans dalle,pitNoSlab
+Letrina o servicio hueco sin piso,pitNoSlab
+"Pit latrine, without slab/open pit",pitNoSlab
+Letrina común sin techo o puerta,pitNoSlab
+"Letrina comúnsin losa , sin techo o puerta",pitNoSlab
+Letrina común sin losa pero con techo o puerta,pitNoSlab
+Pit latrine without slab / Open pit / Incomplete latrine,pitNoSlab
+Latrines traditionnelle ou non couverte,pitNoSlab
+Uncovered pin latrine,pitNoSlab
+Pit latrine without slab non-wahable,pitNoSlab
+"Uncovered pit latrine, no slab",pitNoSlab
+"Covered pit latrine, no slab",pitNoSlab
+Uncovered pit latrine no slab,pitNoSlab
+Covered pit latrine no slab,pitNoSlab
+Covered pit latrine - without slab / open pit,pitNoSlab
+Uncovered pit latrine - without slab,pitNoSlab
+Non-VIP pit latrine without slab,pitNoSlab
+Pit latrine - ventilated improved pit (VIP),pitSlab
+Pit latrine - with slab,pitSlab
+Pit latrine with slab,pitSlab
+Ventilated Improved Pit latrine (VIP),pitSlab
+Ventilated improved pit latrine,pitSlab
+Pit latrine - with slab/covered,pitSlab
+Single/double vault - without urine diversion,pitSlab
+Ventilated improved (VIP),pitSlab
+Slit latrine,pitSlab
+Trad. pit toilet,pitSlab
+Latrine,pitSlab
+Latrines couvertes,pitSlab
+Latrines ameliorees auto aerees (LAA),pitSlab
+Pit latrine with washable slab,pitSlab
+Pit latrine with slab no washable,pitSlab
+Unventilated latrine,pitSlab
+Ventilated latrine,pitSlab
+non-ventilated pit latrine,pitSlab
+ventilated pit latrine,pitSlab
+Latrines à fosse avec dalle,pitSlab
+Latrines améliorées ventilées (LAV),pitSlab
+ventilated improved pit (vip) latrine,pitSlab
+traditional pit toilet,pitSlab
+pit latrine,pitSlab
+latrines traditionnelle ameliorees,pitSlab
+latrines ameliorees a ventillation,pitSlab
+latrines traditionnelles,pitSlab
+Latrine à trou avec dalle,pitSlab
+Latrines améliorées ventillées,pitSlab
+latrines traditionelles,pitSlab
+latrines ameliorees a ventilation,pitSlab
+latrines e‚vacuation,pitSlab
+Improved pit toilet latrine,pitSlab
+Latrines à fosses avec dalle,pitSlab
+Latrines amélirées ventilées (LAV),pitSlab
+latrines tradionnelle couertes,pitSlab
+latrine a evacuation,pitSlab
+Traditional pit toilet (covered),pitSlab
+Improved pit latrine,pitSlab
+Latrine améliorée à ventillation,pitSlab
+Latrine à évacuation,pitSlab
+Latrine traditionnelle,pitSlab
+Letrina de fosa con losa,pitSlab
+Letrina de fosa mejorada con ventilación,pitSlab
+Letrina sanitaria,pitSlab
+Letrina tradicional,pitSlab
+pit toilet with bassinet (shared),pitSlab
+pit toilet with basinet (private),pitSlab
+Share latrine with slab,pitSlab
+Private latrine with slab,pitSlab
+Letrina a pozo negro u hoyo,pitSlab
+..Pit toilet\latrine,pitSlab
+Vented improved pit latrine,pitSlab
+Traditional pit latrine,pitSlab
+Improved (ventilated) pit latrine,pitSlab
+Ventilated improved pit (VIP) Latrines,pitSlab
+KVIP,pitSlab
+Covered latrine,pitSlab
+latrines ventilées améliorées,pitSlab
+Latrina melhorada,pitSlab
+Latrina tradicional ou cerco,pitSlab
+RETRETE TRADICIONAL,pitSlab
+RETRETE MELHORADA,pitSlab
+LATRINA SEM AUTOCLISMO,pitSlab
+Latrinas melhoradas com tampa ligada a fossa,pitSlab
+Latrina tradicionais/retrete,pitSlab
+improved latrines,pitSlab
+....pit latrine - with slab,pitSlab
+....pit latrine - ventilated improved,pitSlab
+Pit,pitSlab
+Dry toilet,pitSlab
+PIT LATRINE: PIT LATRINE WITH SLAB,pitSlab
+Shared traditional pit toilet,pitSlab
+Own traditional pit toilet,pitSlab
+PIT LATRINE: VENTILATED IMPROVED PIT LATRINE,pitSlab
+Own VIP,pitSlab
+Own pit latrine,pitSlab
+Pit latrine ventilated improved pit latrine,pitSlab
+Ventilated improved pit latrine (LAA),pitSlab
+Pit latrine with slab that can not be washed,pitSlab
+Pit latrine with washable slab*,pitSlab
+Pit latrine with non-washable slab*,pitSlab
+Dry latrine,pitSlab
+"Letrina (pozo negro, hoyo)",pitSlab
+Latrines ameliorées ventilées (LAV),pitSlab
+"Pit latrine without slab, open pit",pitSlab
+Pit latrine: Ventilated Improved Pit latrine (VIP),pitSlab
+Retrete sem autoclismo Fossa septica,pitSlab
+Latrina tradicional melhorada,pitSlab
+Toilet without flush,pitSlab
+Traditional improved latrine,pitSlab
+Improved latrine,pitSlab
+Toilettes / Latrines suspendues avec dalle,pitSlab
+Latrines ? fosses avec dalle,pitSlab
+Latrines ? fosses ventilees,pitSlab
+VIP Latrine,pitSlab
+Pit latrine w. slab/cover and foot rest,pitSlab
+Pit latrine w. slab and foot rest,pitSlab
+Pit latrine with slab and cover,pitSlab
+Pit Latrine with slab made from mud rock wood etc,pitSlab
+Ventilated improved pit toilet,pitSlab
+Ventilated/improved pit latrine,pitSlab
+Letrina o servicio de hueco con ventilación,pitSlab
+Letrina o servicio de hueco sin ventilación,pitSlab
+Own pit toilet/latrine,pitSlab
+Share pit toilet/letrine,pitSlab
+Latrine (ciego o negro),pitSlab
+Close pit,pitSlab
+"Pit latrine, ventilated improved",pitSlab
+"Pit latrine, with slab",pitSlab
+"Letrina común de hoyo seco(con losa,techo,paredes y puertas)",pitSlab
+Letrina ventilada de hoyo seco(común c/tubo de ventilación),pitSlab
+"Letrina común de hoyo seco (con losa, techo, paredes y puert",pitSlab
+Letrina ventilada de hoyo seco (común c/tubo de ventilación),pitSlab
+Letrina ventilada de hoyo seco(común con tubo de ventilación),pitSlab
+"Letrina comúnde hoyo seco con losa (sin techo, paredes y puertas)",pitSlab
+Ventilated improved pit,pitSlab
+Latrine a fosse ventillee),pitSlab
+Latrine seches traditionnelles,pitSlab
+Traditional latrine,pitSlab
+Latrina tradicional,pitSlab
+Latrinas melhoradas,pitSlab
+Latrina com fossa seca,pitSlab
+Ordinary pit latrine,pitSlab
+Ventilated improved privy,pitSlab
+Traditional pip toilet,pitSlab
+Ventilated improved latrine,pitSlab
+Moulded latrine-Shared,pitSlab
+Moulded latrine-Private,pitSlab
+improved pit latrine (e.g.. vip),pitSlab
+Covered pin latrine,pitSlab
+Closed pit,pitSlab
+21,pitSlab
+22,pitSlab
+Pit latrine (traditional),pitSlab
+Pit latrine with slab (not washable),pitSlab
+Pit latrine with slab (washable),pitSlab
+Pit latrine with slab/ washable,pitSlab
+Pit latrine with slab/non washable,pitSlab
+"Uncovered pit latrine, with slab",pitSlab
+"Covered pit latrine, with slab",pitSlab
+Uncovered pit latrine with slab,pitSlab
+Covered pit latrine with slab,pitSlab
+Uncovered pit latrine - with slab,pitSlab
+Covered pit latrine - with slab,pitSlab
+Vent.imp.pit latrine,pitSlab
+Traditional pit toilet/latrine,pitSlab
+VIP,pitSlab
+Ventilated improved pit/latrine (VIP Blair toilet),pitSlab
+Non-VIP pit latrine with slab,pitSlab
+Pit latrine (UBVIP),pitSlab

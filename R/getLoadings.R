@@ -1,25 +1,22 @@
 #' The getLoadings function
 #'
 #' This function predicts the pathogen loadings from onsite sanitation systems for data available through the UNICEF/WHO Joint Monitoring Program and provides an output that can be used directly by the Pathogen Mapping Tool.
-#' @param onsiteData A CSV file containing your onsite sanitation data. Defaults to example template from http://data.waterpathogens.org/dataset/5374462b-5bb5-456f-bfc0-816ea572666d/resource/4d9e5fba-9280-4b8b-acce-d1c87952acc1/download/onsitedata_example.csv
-#' @param pathogenType The input pathogenType should be equal to either one of the following strings: c("Virus","Bacteria","Protozoa","Helminth")
+#' @param inputDF A dataframe containing your onsite sanitation data. An example template can be found at http://data.waterpathogens.org/dataset/pasteaddresshere?
+#' @param pathogenType Specify either "Virus","Bacteria","Protozoa", or "Helminth"
 #' @param context Specify either "urban" or "rural"
 #' @keywords pathogens
 #' @export
 #' @examples
-#' getLoadings(onsiteData="data/onsitedata_example2.csv",pathogenType="Virus",context="urban")
+#' getLoadings(inputDF,pathogenType="Virus",context="urban")
 #'
-#'     region     excreted to_groundwater   to_surface retained_in_soil      decayed In_Fecal_Sludge    In_Sewage  stillViable Onsite_LRV Onsite_PR
-#' 1  Central 3.470412e+16   7.208736e+14 1.241347e+15     6.487862e+15 1.696317e+16    4.204900e+13 9.142680e+15 1.114695e+16       0.49    0.6788
-#' 2  Kawempe 1.828207e+17   2.923315e+15 3.819070e+15     2.630984e+16 1.427235e+17    1.714675e+14 6.738060e+15 1.365191e+16       1.13    0.9253
-#' 3 Makindye 2.115370e+17   5.784264e+15 7.404292e+15     5.205838e+16 1.396717e+17    1.877473e+14 6.042660e+15 1.941896e+16       1.04    0.9082
-#' 4   Nakawa 1.740476e+17   4.848475e+15 5.834954e+15     4.363628e+16 1.023125e+17    1.109438e+14 1.716174e+16 2.795611e+16       0.79    0.8394
-#' 5   Rubaga 2.103805e+17   4.278101e+15 5.257688e+15     3.850291e+16 1.602164e+17    2.221318e+14 9.808800e+14 1.073880e+16       1.29    0.9490
-#'
-getLoadings<-function(onsiteData="data/onsiteData_example2.csv",pathogenType="Virus",context="urban"){
+#' $output
+#' region excreted to_groundwater   to_surface retained_in_soil      decayed In_Fecal_Sludge    In_Sewage  stillViable Onsite_LRV Onsite_PR
+#' 1    HND 3.63e+18   5.840389e+16 1.963546e+18     5.738629e+17 5.042712e+17    1.179983e+14 5.297977e+17 2.551866e+18       0.15    0.2970
+#' 2    UGA 1.67e+19   1.565005e+17 1.731193e+18     1.408505e+18 1.340068e+19    0.000000e+00 3.127723e+15 1.890822e+18       0.95    0.8868
 
-  df1<-read.csv(onsiteData,header=TRUE)   #bring in the inputs CSV file
-  df1<-merge(df1,t_JMP(contx=context),by="region",all=T)
+getLoadings<-function(inputDF,pathogenType="Virus",context="urban"){
+
+  df1<-inputDF
   assume<-data.frame(urban=c(0,0.25,0.5),rural=c(0.99,0.25,0.1))
   rownames(assume)<-c("coverBury","sewerLeak","emptiedTreatment")
 
@@ -64,13 +61,13 @@ getLoadings<-function(onsiteData="data/onsiteData_example2.csv",pathogenType="Vi
   kPit<-kPit[kPit$num>4,] #removing any results from experiments done with fewer than 4 data points
   kPit$lk<-log(-kPit$k)
   kPit$ltemp<-log(kPit$temp)
-  fit_kPit<-lm(lk~factor(microbial_group)+factor(urine)*pH+ltemp+moisture,data=kPit)
+  fit_kPit<-lm(lk~factor(microbial_group)+factor(urine)*pH+ltemp+moisture+additive,data=kPit)
   summary(fit_kPit)
   # I need to find out here how to make pitAdditive dependent on the index m (geographic location or treatment plant service area)
-  kValueV<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Fresh Urine",pH=7,ltemp=log(30),moisture=80,microbial_group="Virus"))))
-  kValueB<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Fresh Urine",pH=7,ltemp=log(30),moisture=80,microbial_group="Bacteria"))))
-  kValueP<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Fresh Urine",pH=7,ltemp=log(30),moisture=80,microbial_group="Protozoa"))))
-  kValueH<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Fresh Urine",pH=7,ltemp=log(30),moisture=80,microbial_group="Helminth"))))
+  kValueV<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Fresh Urine",pH=7,ltemp=log(30),moisture=80,additive="None",microbial_group="Virus"))))
+  kValueB<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Fresh Urine",pH=7,ltemp=log(30),moisture=80,additive="None",microbial_group="Bacteria"))))
+  kValueP<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Fresh Urine",pH=7,ltemp=log(30),moisture=80,additive="None",microbial_group="Protozoa"))))
+  kValueH<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Fresh Urine",pH=7,ltemp=log(30),moisture=80,additive="None",microbial_group="Helminth"))))
 
   kValues<-c(Virus=kValueV,Bacteria=kValueB,Protozoa=kValueP,Helminth=kValueH);kValues #the units here are 1/days
   # &&&&& END GWPP Inputs &&&&&
@@ -233,7 +230,13 @@ getLoadings<-function(onsiteData="data/onsiteData_example2.csv",pathogenType="Vi
     onsite_results=rbind(onsite_results,newRow)
   }
 
-  return(list(detailed=loadings,summary=onsite_results[complete.cases(onsite_results),]))
+  #return(list(detailed=loadings,summary=onsite_results[complete.cases(onsite_results),]))
+  returned<-list(input=df1,
+                 det=loadings,
+                 output=onsite_results[complete.cases(onsite_results),]
+                 )
+  return(returned)
 
 }
 
+my=getLoadings(inputDF=my_input,context="urban")
