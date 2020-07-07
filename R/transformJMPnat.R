@@ -20,6 +20,9 @@ t_JMPnat<-function(context,myRegions="all"){
   rownames(assume)<-c("coverBury","sewageTreated","fecalSludgeTreated")
 
   if(context=="urban"){
+    pop$excreted<-pop$excreted_urban
+    pop$population<-pop$population*pop$fr_urban
+    pop<-pop[,-which(names(pop) %in% c("fr_urban","excreted_urban","excreted_rural"))]
     ag<-aggregate(urban~iso3+san+source+year,data=sat,FUN=sum);head(ag)
     defaultSurveys<-read.csv("data/surveys.csv",header=T)
     # here I could include a function that filters out all other surveys except for the ones chosen by JMP
@@ -48,6 +51,9 @@ t_JMPnat<-function(context,myRegions="all"){
     names(out)[1]<-"region"
   }
   if(context=="rural"){
+    pop$excreted<-pop$excreted_rural
+    pop$population<-pop$population*(1-pop$fr_urban)
+    pop<-pop[,-which(names(pop) %in% c("fr_urban","excreted_urban","excreted_rural"))]
     ag<-aggregate(rural~iso3+san+source+year,data=sat,FUN=sum)
     d<-aggregate(rural~san+iso3,data=ag,FUN=mean)
     w<-tidyr::spread(d,san,rural)
@@ -88,7 +94,7 @@ t_JMPnat<-function(context,myRegions="all"){
   if(is.null(out$compostingTwinNoSlab)){out$compostingTwinNoSlab<-0}
   if(is.null(out$other)){out$other<-0}
   out<-merge(pop,out,by="region",all=T)
-  out<-out[c("region","name","iso2","isonum","population","fr_urban","excreted_urban","excreted_rural","flushSewer","flushSeptic","flushPit","flushOpen","flushUnknown","pitSlab","pitNoSlab","compostingTwinSlab","compostingTwinNoSlab","compostingToilet","bucketLatrine","containerBased","hangingToilet","openDefecation","other","coverBury","sewageTreated","fecalSludgeTreated")]
+  out<-out[c("region","name","iso2","isonum","population","excreted","flushSewer","flushSeptic","flushPit","flushOpen","flushUnknown","pitSlab","pitNoSlab","compostingTwinSlab","compostingTwinNoSlab","compostingToilet","bucketLatrine","containerBased","hangingToilet","openDefecation","other","coverBury","sewageTreated","fecalSludgeTreated")]
   out$isWatertight<-out$fecalSludgeTreated
   out$hasLeach<-out$fecalSludgeTreated
   out$onsiteDumpedLand<-0.1
@@ -102,3 +108,4 @@ t_JMPnat<-function(context,myRegions="all"){
   return(out)
 }
 my_input=t_JMPnat(context="urban",myRegions=c("HND","UGA"))
+write.csv(my_input,"inputDF.csv")

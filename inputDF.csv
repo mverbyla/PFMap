@@ -1,0 +1,3 @@
+,region,name,population,excreted,flushSewer,flushSeptic,flushPit,flushOpen,flushUnknown,pitSlab,pitNoSlab,compostingTwinSlab,compostingTwinNoSlab,compostingToilet,bucketLatrine,containerBased,hangingToilet,openDefecation,other,coverBury,sewageTreated,fecalSludgeTreated,isWatertight,hasLeach,onsiteDumpedLand,emptyFrequency,pitAdditive,urine
+1,HND,Honduras,5780230.183,3.63E+18,0.6441,0.2077,0,0.0168,0.0014,0.1069,0,0,0,0.0064,0,0,0,0.0167,0,0.0858043,0.2265949,0.0327772,0.0327772,0.0327772,0.1,3,None,Fresh Urine
+2,UGA,Uganda,11414209.14,1.67E+19,0.044118817,0.0936889,0.0234522,0.01877195,0.007690617,0.532172917,0.257715633,0,0,0.004675667,0.0001192,0,0.0001107,0.0174835,0,0,0.0042451,0,0,0,0.1,3,None,Fresh Urine

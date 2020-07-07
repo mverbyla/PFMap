@@ -92,7 +92,7 @@ getLoadings<-function(inputDF,pathogenType="Virus"){
     myJMP<-myJMP1
     region<-df$region
     population<-df$population
-    excreted<-if(context=="urban"){df$excreted_urban}else{if(context=="rural"){df$excreted_rural}else{NA}}
+    excreted<-df$excreted
     isWatertight<-df$isWatertight
     hasLeach<-df$hasLeach
     emptyFrequency<-df$emptyFrequency
