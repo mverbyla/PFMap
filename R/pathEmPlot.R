@@ -73,9 +73,9 @@ pathEmPlot<-function(myLoadings){
   }
   plotMe<-tidyr::gather(plotMe,key=region,value=emissionsPerCapita,-Category)
   plotMe$emissionsPerCapita<-as.numeric(plotMe$emissionsPerCapita)
-  #ggplot(data=plotMe,aes(x=region,y=emissionsPerCapita,fill=Category)) +
-  #  geom_bar(stat="identity",position = "fill") + theme_classic() +
-  #  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1, size = 6))
+  #ggplot2::ggplot(data=plotMe,ggplot2::aes(x=region,y=emissionsPerCapita,fill=Category)) +
+  #  ggplot2::geom_bar(stat="identity") + ggplot2::theme_classic() +
+  #  ggplot2::theme(axis.text.x = ggplot2::element_text(angle = 90, vjust = 0.5, hjust=1))
   return(jsonlite::toJSON(list(plotMe),pretty = T))
 }
 pathEmPlot(my)

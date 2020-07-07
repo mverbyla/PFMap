@@ -3,22 +3,19 @@
 #' This function predicts the pathogen loadings from onsite sanitation systems for data available through the UNICEF/WHO Joint Monitoring Program and provides an output that can be used directly by the Pathogen Mapping Tool.
 #' @param inputDF A dataframe containing your onsite sanitation data. An example template can be found at http://data.waterpathogens.org/dataset/pasteaddresshere?
 #' @param pathogenType Specify either "Virus","Bacteria","Protozoa", or "Helminth"
-#' @param context Specify either "urban" or "rural"
 #' @keywords pathogens
 #' @export
 #' @examples
-#' getLoadings(inputDF,pathogenType="Virus",context="urban")
+#' getLoadings(inputDF,pathogenType="Virus")
 #'
 #' $output
 #' region excreted to_groundwater   to_surface retained_in_soil      decayed In_Fecal_Sludge    In_Sewage  stillViable Onsite_LRV Onsite_PR
 #' 1    HND 3.63e+18   5.840389e+16 1.963546e+18     5.738629e+17 5.042712e+17    1.179983e+14 5.297977e+17 2.551866e+18       0.15    0.2970
 #' 2    UGA 1.67e+19   1.565005e+17 1.731193e+18     1.408505e+18 1.340068e+19    0.000000e+00 3.127723e+15 1.890822e+18       0.95    0.8868
 
-getLoadings<-function(inputDF,pathogenType="Virus",context="urban"){
+getLoadings<-function(inputDF,pathogenType="Virus"){
 
   df1<-inputDF
-  assume<-data.frame(urban=c(0,0.25,0.5),rural=c(0.99,0.25,0.1))
-  rownames(assume)<-c("coverBury","sewerLeak","emptiedTreatment")
 
   pathogenGroups<-c("Virus","Bacteria","Protozoa","Helminth")
   index<-which(pathogenGroups==pathogenType)
@@ -101,9 +98,9 @@ getLoadings<-function(inputDF,pathogenType="Virus",context="urban"){
     emptyFrequency<-df$emptyFrequency
     pitAdditive<-df$pitAdditive
 
-    coverBury<-if(is.na(df$coverBury)){assume["coverBury",context]}else{df$coverBury}
-    emptiedTreatment<-if(is.na(df$fecalSludgeTreated)){assume["emptiedTreatment",context]}else{df$fecalSludgeTreated}
-    sewerLeak<-if(is.na(df$sewageTreated)){assume["sewerLeak",context]}else{1-df$sewageTreated}
+    coverBury<-df$coverBury
+    emptiedTreatment<-df$fecalSludgeTreated
+    sewerLeak<-1-df$sewageTreated
 
     flushSewer<-if(is.null(df$flushSewer)){0}else{if(is.na(df$flushSewer)){0}else{df$flushSewer}}
     flushSeptic<-if(is.null(df$flushSeptic)){0}else{if(is.na(df$flushSeptic)){0}else{df$flushSeptic}}
@@ -239,4 +236,4 @@ getLoadings<-function(inputDF,pathogenType="Virus",context="urban"){
 
 }
 
-my=getLoadings(inputDF=my_input,context="urban")
+my=getLoadings(inputDF=my_input)

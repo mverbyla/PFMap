@@ -1,22 +1,25 @@
 #' The t_JMP function
 #'
 #' This function transforms national or subnational sanitation data from the UNICEF/WHO Joint Monitoring Program and produces it in a format that can be used directly by the getLoadings function.
-#' @param contx Either "urban" or "rural" context
+#' @param context Either "urban" or "rural" context
 #' @keywords pathogens
 #' @export
 #' @examples
 #' t_JMP("urban")
 #'
 #'
-t_JMPnat<-function(contx,myRegions="all"){
+t_JMPnat<-function(context,myRegions="all"){
 
   sat<-read.csv("data/jmpSanFac.csv",header=T);head(sat)
-  if(myRegions=="all"){sat<-sat}else{sat<-sat[sat$iso3 %in% myRegions,]}
+  suppressWarnings(if(myRegions=="all"){sat<-sat}else{sat<-sat[sat$iso3 %in% myRegions,]})
   trt<-read.csv("data/jmpTreatment.csv",header=T)
-  if(myRegions=="all"){trt<-trt}else{trt<-trt[trt$ISO3 %in% myRegions,]}
-  pop<-read.csv("data/population.csv",header=TRUE)   #bring in the inputs CSV file
+  suppressWarnings(if(myRegions=="all"){trt<-trt}else{trt<-trt[trt$ISO3 %in% myRegions,]})
+  pop<-read.csv("data/population.csv",header=T)   #bring in the inputs CSV file
+  suppressWarnings(if(myRegions=="all"){pop<-pop}else{pop<-pop[pop$region %in% myRegions,]})
+  assume<-data.frame(urban=c(0.01,0.2,0.3),rural=c(0.99,0.1,0.1))
+  rownames(assume)<-c("coverBury","sewageTreated","fecalSludgeTreated")
 
-  if(contx=="urban"){
+  if(context=="urban"){
     ag<-aggregate(urban~iso3+san+source+year,data=sat,FUN=sum);head(ag)
     defaultSurveys<-read.csv("data/surveys.csv",header=T)
     # here I could include a function that filters out all other surveys except for the ones chosen by JMP
@@ -44,7 +47,7 @@ t_JMPnat<-function(contx,myRegions="all"){
     out[is.na(out)] <- 0
     names(out)[1]<-"region"
   }
-  if(contx=="rural"){
+  if(context=="rural"){
     ag<-aggregate(rural~iso3+san+source+year,data=sat,FUN=sum)
     d<-aggregate(rural~san+iso3,data=ag,FUN=mean)
     w<-tidyr::spread(d,san,rural)
@@ -84,7 +87,7 @@ t_JMPnat<-function(contx,myRegions="all"){
   if(is.null(out$compostingTwinSlab)){out$compostingTwinSlab<-0}
   if(is.null(out$compostingTwinNoSlab)){out$compostingTwinNoSlab<-0}
   if(is.null(out$other)){out$other<-0}
-  out<-merge(pop,out,by="region",all=F)
+  out<-merge(pop,out,by="region",all=T)
   out<-out[c("region","name","iso2","isonum","population","fr_urban","excreted_urban","excreted_rural","flushSewer","flushSeptic","flushPit","flushOpen","flushUnknown","pitSlab","pitNoSlab","compostingTwinSlab","compostingTwinNoSlab","compostingToilet","bucketLatrine","containerBased","hangingToilet","openDefecation","other","coverBury","sewageTreated","fecalSludgeTreated")]
   out$isWatertight<-out$fecalSludgeTreated
   out$hasLeach<-out$fecalSludgeTreated
@@ -92,7 +95,10 @@ t_JMPnat<-function(contx,myRegions="all"){
   out$emptyFrequency<-3
   out$pitAdditive<-"None"
   out$urine<-"Fresh Urine"
+  if(any(is.na(out$coverBury))){out[is.na(out$coverBury),]$coverBury<-assume["coverBury",context]}
+  if(any(is.na(out$fecalSludgeTreated))){out[is.na(out$fecalSludgeTreated),]$fecalSludgeTreated<-assume["fecalSludgeTreated",context]}
+  if(any(is.na(out$sewageTreated))){out[is.na(out$sewageTreated),]$sewageTreatd<-assume["sewageTreated",context]}
 
   return(out)
 }
-my_input=t_JMPnat(contx="urban",myRegions=c("HND","UGA"))
+my_input=t_JMPnat(context="urban",myRegions=c("HND","UGA"))
