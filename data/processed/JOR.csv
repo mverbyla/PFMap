@@ -1,0 +1,205 @@
+country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+Jordan,JO,JOR,400,Urban,1,Flush and pour flush - to piped sewer system,0.708,Household Income and Expenditure Survey - HIES03
+Jordan,JO,JOR,400,Urban,2,Flush and pour flush - to septic tank,0.291,Household Income and Expenditure Survey - HIES03
+Jordan,JO,JOR,400,Urban,3,Flush and pour flush - to pit,0.0,Household Income and Expenditure Survey - HIES03
+Jordan,JO,JOR,400,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Income and Expenditure Survey - HIES03
+Jordan,JO,JOR,400,Urban,5,Flush and pour flush - to elsewhere,0.0,Household Income and Expenditure Survey - HIES03
+Jordan,JO,JOR,400,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Income and Expenditure Survey - HIES03
+Jordan,JO,JOR,400,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Income and Expenditure Survey - HIES03
+Jordan,JO,JOR,400,Urban,8,Dry latrines - Traditional latrine,0.0,Household Income and Expenditure Survey - HIES03
+Jordan,JO,JOR,400,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Income and Expenditure Survey - HIES03
+Jordan,JO,JOR,400,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Income and Expenditure Survey - HIES03
+Jordan,JO,JOR,400,Urban,11,Dry latrines - Bucket latrine,0.0,Household Income and Expenditure Survey - HIES03
+Jordan,JO,JOR,400,Urban,12,Dry latrines - Other,0.0,Household Income and Expenditure Survey - HIES03
+Jordan,JO,JOR,400,Urban,13,Composting toilets,0.0,Household Income and Expenditure Survey - HIES03
+Jordan,JO,JOR,400,Urban,14,Other improved,0.0,Household Income and Expenditure Survey - HIES03
+Jordan,JO,JOR,400,Urban,15,"No facility, bush, field",0.0,Household Income and Expenditure Survey - HIES03
+Jordan,JO,JOR,400,Urban,16,Other unimproved,0.001,Household Income and Expenditure Survey - HIES03
+Jordan,JO,JOR,400,Urban,17,DK/missing information,0.0,Household Income and Expenditure Survey - HIES03
+Jordan,JO,JOR,400,Rural,1,Flush and pour flush - to piped sewer system,0.04,Household Income and Expenditure Survey - HIES03
+Jordan,JO,JOR,400,Rural,2,Flush and pour flush - to septic tank,0.954,Household Income and Expenditure Survey - HIES03
+Jordan,JO,JOR,400,Rural,3,Flush and pour flush - to pit,0.0,Household Income and Expenditure Survey - HIES03
+Jordan,JO,JOR,400,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Income and Expenditure Survey - HIES03
+Jordan,JO,JOR,400,Rural,5,Flush and pour flush - to elsewhere,0.0,Household Income and Expenditure Survey - HIES03
+Jordan,JO,JOR,400,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Income and Expenditure Survey - HIES03
+Jordan,JO,JOR,400,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Income and Expenditure Survey - HIES03
+Jordan,JO,JOR,400,Rural,8,Dry latrines - Traditional latrine,0.0,Household Income and Expenditure Survey - HIES03
+Jordan,JO,JOR,400,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Income and Expenditure Survey - HIES03
+Jordan,JO,JOR,400,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Income and Expenditure Survey - HIES03
+Jordan,JO,JOR,400,Rural,11,Dry latrines - Bucket latrine,0.0,Household Income and Expenditure Survey - HIES03
+Jordan,JO,JOR,400,Rural,12,Dry latrines - Other,0.0,Household Income and Expenditure Survey - HIES03
+Jordan,JO,JOR,400,Rural,13,Composting toilets,0.0,Household Income and Expenditure Survey - HIES03
+Jordan,JO,JOR,400,Rural,14,Other improved,0.0,Household Income and Expenditure Survey - HIES03
+Jordan,JO,JOR,400,Rural,15,"No facility, bush, field",0.0,Household Income and Expenditure Survey - HIES03
+Jordan,JO,JOR,400,Rural,16,Other unimproved,0.0,Household Income and Expenditure Survey - HIES03
+Jordan,JO,JOR,400,Rural,17,DK/missing information,0.0,Household Income and Expenditure Survey - HIES03
+Jordan,JO,JOR,400,Urban,1,Flush and pour flush - to piped sewer system,0.678,Population census - CEN04
+Jordan,JO,JOR,400,Urban,2,Flush and pour flush - to septic tank,0.309,Population census - CEN04
+Jordan,JO,JOR,400,Urban,3,Flush and pour flush - to pit,0.0,Population census - CEN04
+Jordan,JO,JOR,400,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Population census - CEN04
+Jordan,JO,JOR,400,Urban,5,Flush and pour flush - to elsewhere,0.0,Population census - CEN04
+Jordan,JO,JOR,400,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Population census - CEN04
+Jordan,JO,JOR,400,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Population census - CEN04
+Jordan,JO,JOR,400,Urban,8,Dry latrines - Traditional latrine,0.0,Population census - CEN04
+Jordan,JO,JOR,400,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Population census - CEN04
+Jordan,JO,JOR,400,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Population census - CEN04
+Jordan,JO,JOR,400,Urban,11,Dry latrines - Bucket latrine,0.0,Population census - CEN04
+Jordan,JO,JOR,400,Urban,12,Dry latrines - Other,0.0,Population census - CEN04
+Jordan,JO,JOR,400,Urban,13,Composting toilets,0.0,Population census - CEN04
+Jordan,JO,JOR,400,Urban,14,Other improved,0.0,Population census - CEN04
+Jordan,JO,JOR,400,Urban,15,"No facility, bush, field",0.001,Population census - CEN04
+Jordan,JO,JOR,400,Urban,16,Other unimproved,0.001,Population census - CEN04
+Jordan,JO,JOR,400,Urban,17,DK/missing information,0.011,Population census - CEN04
+Jordan,JO,JOR,400,Rural,1,Flush and pour flush - to piped sewer system,0.028,Population census - CEN04
+Jordan,JO,JOR,400,Rural,2,Flush and pour flush - to septic tank,0.933,Population census - CEN04
+Jordan,JO,JOR,400,Rural,3,Flush and pour flush - to pit,0.0,Population census - CEN04
+Jordan,JO,JOR,400,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Population census - CEN04
+Jordan,JO,JOR,400,Rural,5,Flush and pour flush - to elsewhere,0.0,Population census - CEN04
+Jordan,JO,JOR,400,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Population census - CEN04
+Jordan,JO,JOR,400,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Population census - CEN04
+Jordan,JO,JOR,400,Rural,8,Dry latrines - Traditional latrine,0.0,Population census - CEN04
+Jordan,JO,JOR,400,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Population census - CEN04
+Jordan,JO,JOR,400,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Population census - CEN04
+Jordan,JO,JOR,400,Rural,11,Dry latrines - Bucket latrine,0.0,Population census - CEN04
+Jordan,JO,JOR,400,Rural,12,Dry latrines - Other,0.0,Population census - CEN04
+Jordan,JO,JOR,400,Rural,13,Composting toilets,0.0,Population census - CEN04
+Jordan,JO,JOR,400,Rural,14,Other improved,0.0,Population census - CEN04
+Jordan,JO,JOR,400,Rural,15,"No facility, bush, field",0.025,Population census - CEN04
+Jordan,JO,JOR,400,Rural,16,Other unimproved,0.002,Population census - CEN04
+Jordan,JO,JOR,400,Rural,17,DK/missing information,0.012,Population census - CEN04
+Jordan,JO,JOR,400,Urban,1,Flush and pour flush - to piped sewer system,0.672,Demographic and Health Survey - DHS09
+Jordan,JO,JOR,400,Urban,2,Flush and pour flush - to septic tank,0.0,Demographic and Health Survey - DHS09
+Jordan,JO,JOR,400,Urban,3,Flush and pour flush - to pit,0.322,Demographic and Health Survey - DHS09
+Jordan,JO,JOR,400,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS09
+Jordan,JO,JOR,400,Urban,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS09
+Jordan,JO,JOR,400,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - DHS09
+Jordan,JO,JOR,400,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.006,Demographic and Health Survey - DHS09
+Jordan,JO,JOR,400,Urban,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS09
+Jordan,JO,JOR,400,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Survey - DHS09
+Jordan,JO,JOR,400,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS09
+Jordan,JO,JOR,400,Urban,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS09
+Jordan,JO,JOR,400,Urban,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS09
+Jordan,JO,JOR,400,Urban,13,Composting toilets,0.0,Demographic and Health Survey - DHS09
+Jordan,JO,JOR,400,Urban,14,Other improved,0.0,Demographic and Health Survey - DHS09
+Jordan,JO,JOR,400,Urban,15,"No facility, bush, field",0.0,Demographic and Health Survey - DHS09
+Jordan,JO,JOR,400,Urban,16,Other unimproved,0.0,Demographic and Health Survey - DHS09
+Jordan,JO,JOR,400,Urban,17,DK/missing information,0.0,Demographic and Health Survey - DHS09
+Jordan,JO,JOR,400,Rural,1,Flush and pour flush - to piped sewer system,0.04,Demographic and Health Survey - DHS09
+Jordan,JO,JOR,400,Rural,2,Flush and pour flush - to septic tank,0.0,Demographic and Health Survey - DHS09
+Jordan,JO,JOR,400,Rural,3,Flush and pour flush - to pit,0.932,Demographic and Health Survey - DHS09
+Jordan,JO,JOR,400,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS09
+Jordan,JO,JOR,400,Rural,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS09
+Jordan,JO,JOR,400,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.003,Demographic and Health Survey - DHS09
+Jordan,JO,JOR,400,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.023,Demographic and Health Survey - DHS09
+Jordan,JO,JOR,400,Rural,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS09
+Jordan,JO,JOR,400,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Survey - DHS09
+Jordan,JO,JOR,400,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS09
+Jordan,JO,JOR,400,Rural,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS09
+Jordan,JO,JOR,400,Rural,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS09
+Jordan,JO,JOR,400,Rural,13,Composting toilets,0.0,Demographic and Health Survey - DHS09
+Jordan,JO,JOR,400,Rural,14,Other improved,0.0,Demographic and Health Survey - DHS09
+Jordan,JO,JOR,400,Rural,15,"No facility, bush, field",0.001,Demographic and Health Survey - DHS09
+Jordan,JO,JOR,400,Rural,16,Other unimproved,0.0,Demographic and Health Survey - DHS09
+Jordan,JO,JOR,400,Rural,17,DK/missing information,0.0,Demographic and Health Survey - DHS09
+Jordan,JO,JOR,400,Urban,1,Flush and pour flush - to piped sewer system,0.702,Jordan Labour Market Panel Survey 2010 - JLMPS10
+Jordan,JO,JOR,400,Urban,2,Flush and pour flush - to septic tank,0.298,Jordan Labour Market Panel Survey 2010 - JLMPS10
+Jordan,JO,JOR,400,Urban,3,Flush and pour flush - to pit,0.0,Jordan Labour Market Panel Survey 2010 - JLMPS10
+Jordan,JO,JOR,400,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Jordan Labour Market Panel Survey 2010 - JLMPS10
+Jordan,JO,JOR,400,Urban,5,Flush and pour flush - to elsewhere,0.0,Jordan Labour Market Panel Survey 2010 - JLMPS10
+Jordan,JO,JOR,400,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Jordan Labour Market Panel Survey 2010 - JLMPS10
+Jordan,JO,JOR,400,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Jordan Labour Market Panel Survey 2010 - JLMPS10
+Jordan,JO,JOR,400,Urban,8,Dry latrines - Traditional latrine,0.0,Jordan Labour Market Panel Survey 2010 - JLMPS10
+Jordan,JO,JOR,400,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Jordan Labour Market Panel Survey 2010 - JLMPS10
+Jordan,JO,JOR,400,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Jordan Labour Market Panel Survey 2010 - JLMPS10
+Jordan,JO,JOR,400,Urban,11,Dry latrines - Bucket latrine,0.0,Jordan Labour Market Panel Survey 2010 - JLMPS10
+Jordan,JO,JOR,400,Urban,12,Dry latrines - Other,0.0,Jordan Labour Market Panel Survey 2010 - JLMPS10
+Jordan,JO,JOR,400,Urban,13,Composting toilets,0.0,Jordan Labour Market Panel Survey 2010 - JLMPS10
+Jordan,JO,JOR,400,Urban,14,Other improved,0.0,Jordan Labour Market Panel Survey 2010 - JLMPS10
+Jordan,JO,JOR,400,Urban,15,"No facility, bush, field",0.0,Jordan Labour Market Panel Survey 2010 - JLMPS10
+Jordan,JO,JOR,400,Urban,16,Other unimproved,0.0,Jordan Labour Market Panel Survey 2010 - JLMPS10
+Jordan,JO,JOR,400,Urban,17,DK/missing information,0.0,Jordan Labour Market Panel Survey 2010 - JLMPS10
+Jordan,JO,JOR,400,Rural,1,Flush and pour flush - to piped sewer system,0.06,Jordan Labour Market Panel Survey 2010 - JLMPS10
+Jordan,JO,JOR,400,Rural,2,Flush and pour flush - to septic tank,0.938,Jordan Labour Market Panel Survey 2010 - JLMPS10
+Jordan,JO,JOR,400,Rural,3,Flush and pour flush - to pit,0.0,Jordan Labour Market Panel Survey 2010 - JLMPS10
+Jordan,JO,JOR,400,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Jordan Labour Market Panel Survey 2010 - JLMPS10
+Jordan,JO,JOR,400,Rural,5,Flush and pour flush - to elsewhere,0.0,Jordan Labour Market Panel Survey 2010 - JLMPS10
+Jordan,JO,JOR,400,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Jordan Labour Market Panel Survey 2010 - JLMPS10
+Jordan,JO,JOR,400,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Jordan Labour Market Panel Survey 2010 - JLMPS10
+Jordan,JO,JOR,400,Rural,8,Dry latrines - Traditional latrine,0.0,Jordan Labour Market Panel Survey 2010 - JLMPS10
+Jordan,JO,JOR,400,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Jordan Labour Market Panel Survey 2010 - JLMPS10
+Jordan,JO,JOR,400,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Jordan Labour Market Panel Survey 2010 - JLMPS10
+Jordan,JO,JOR,400,Rural,11,Dry latrines - Bucket latrine,0.0,Jordan Labour Market Panel Survey 2010 - JLMPS10
+Jordan,JO,JOR,400,Rural,12,Dry latrines - Other,0.0,Jordan Labour Market Panel Survey 2010 - JLMPS10
+Jordan,JO,JOR,400,Rural,13,Composting toilets,0.0,Jordan Labour Market Panel Survey 2010 - JLMPS10
+Jordan,JO,JOR,400,Rural,14,Other improved,0.0,Jordan Labour Market Panel Survey 2010 - JLMPS10
+Jordan,JO,JOR,400,Rural,15,"No facility, bush, field",0.002,Jordan Labour Market Panel Survey 2010 - JLMPS10
+Jordan,JO,JOR,400,Rural,16,Other unimproved,0.0,Jordan Labour Market Panel Survey 2010 - JLMPS10
+Jordan,JO,JOR,400,Rural,17,DK/missing information,0.0,Jordan Labour Market Panel Survey 2010 - JLMPS10
+Jordan,JO,JOR,400,Urban,1,Flush and pour flush - to piped sewer system,0.734,Household Income and Expenditure Survey - HIES13
+Jordan,JO,JOR,400,Urban,2,Flush and pour flush - to septic tank,0.265,Household Income and Expenditure Survey - HIES13
+Jordan,JO,JOR,400,Urban,3,Flush and pour flush - to pit,0.0,Household Income and Expenditure Survey - HIES13
+Jordan,JO,JOR,400,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Income and Expenditure Survey - HIES13
+Jordan,JO,JOR,400,Urban,5,Flush and pour flush - to elsewhere,0.0,Household Income and Expenditure Survey - HIES13
+Jordan,JO,JOR,400,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Income and Expenditure Survey - HIES13
+Jordan,JO,JOR,400,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Income and Expenditure Survey - HIES13
+Jordan,JO,JOR,400,Urban,8,Dry latrines - Traditional latrine,0.0,Household Income and Expenditure Survey - HIES13
+Jordan,JO,JOR,400,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Income and Expenditure Survey - HIES13
+Jordan,JO,JOR,400,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Income and Expenditure Survey - HIES13
+Jordan,JO,JOR,400,Urban,11,Dry latrines - Bucket latrine,0.0,Household Income and Expenditure Survey - HIES13
+Jordan,JO,JOR,400,Urban,12,Dry latrines - Other,0.0,Household Income and Expenditure Survey - HIES13
+Jordan,JO,JOR,400,Urban,13,Composting toilets,0.0,Household Income and Expenditure Survey - HIES13
+Jordan,JO,JOR,400,Urban,14,Other improved,0.0,Household Income and Expenditure Survey - HIES13
+Jordan,JO,JOR,400,Urban,15,"No facility, bush, field",0.0,Household Income and Expenditure Survey - HIES13
+Jordan,JO,JOR,400,Urban,16,Other unimproved,0.0,Household Income and Expenditure Survey - HIES13
+Jordan,JO,JOR,400,Urban,17,DK/missing information,0.0,Household Income and Expenditure Survey - HIES13
+Jordan,JO,JOR,400,Rural,1,Flush and pour flush - to piped sewer system,0.068,Household Income and Expenditure Survey - HIES13
+Jordan,JO,JOR,400,Rural,2,Flush and pour flush - to septic tank,0.931,Household Income and Expenditure Survey - HIES13
+Jordan,JO,JOR,400,Rural,3,Flush and pour flush - to pit,0.0,Household Income and Expenditure Survey - HIES13
+Jordan,JO,JOR,400,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Income and Expenditure Survey - HIES13
+Jordan,JO,JOR,400,Rural,5,Flush and pour flush - to elsewhere,0.0,Household Income and Expenditure Survey - HIES13
+Jordan,JO,JOR,400,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Income and Expenditure Survey - HIES13
+Jordan,JO,JOR,400,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Income and Expenditure Survey - HIES13
+Jordan,JO,JOR,400,Rural,8,Dry latrines - Traditional latrine,0.0,Household Income and Expenditure Survey - HIES13
+Jordan,JO,JOR,400,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Income and Expenditure Survey - HIES13
+Jordan,JO,JOR,400,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Income and Expenditure Survey - HIES13
+Jordan,JO,JOR,400,Rural,11,Dry latrines - Bucket latrine,0.0,Household Income and Expenditure Survey - HIES13
+Jordan,JO,JOR,400,Rural,12,Dry latrines - Other,0.0,Household Income and Expenditure Survey - HIES13
+Jordan,JO,JOR,400,Rural,13,Composting toilets,0.0,Household Income and Expenditure Survey - HIES13
+Jordan,JO,JOR,400,Rural,14,Other improved,0.0,Household Income and Expenditure Survey - HIES13
+Jordan,JO,JOR,400,Rural,15,"No facility, bush, field",0.001,Household Income and Expenditure Survey - HIES13
+Jordan,JO,JOR,400,Rural,16,Other unimproved,0.0,Household Income and Expenditure Survey - HIES13
+Jordan,JO,JOR,400,Rural,17,DK/missing information,0.0,Household Income and Expenditure Survey - HIES13
+Jordan,JO,JOR,400,Urban,1,Flush and pour flush - to piped sewer system,0.708,Jordan Labour Market Panel Survey 2016 - JLMPS16
+Jordan,JO,JOR,400,Urban,2,Flush and pour flush - to septic tank,0.29,Jordan Labour Market Panel Survey 2016 - JLMPS16
+Jordan,JO,JOR,400,Urban,3,Flush and pour flush - to pit,0.0,Jordan Labour Market Panel Survey 2016 - JLMPS16
+Jordan,JO,JOR,400,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Jordan Labour Market Panel Survey 2016 - JLMPS16
+Jordan,JO,JOR,400,Urban,5,Flush and pour flush - to elsewhere,0.0,Jordan Labour Market Panel Survey 2016 - JLMPS16
+Jordan,JO,JOR,400,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Jordan Labour Market Panel Survey 2016 - JLMPS16
+Jordan,JO,JOR,400,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Jordan Labour Market Panel Survey 2016 - JLMPS16
+Jordan,JO,JOR,400,Urban,8,Dry latrines - Traditional latrine,0.0,Jordan Labour Market Panel Survey 2016 - JLMPS16
+Jordan,JO,JOR,400,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Jordan Labour Market Panel Survey 2016 - JLMPS16
+Jordan,JO,JOR,400,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Jordan Labour Market Panel Survey 2016 - JLMPS16
+Jordan,JO,JOR,400,Urban,11,Dry latrines - Bucket latrine,0.0,Jordan Labour Market Panel Survey 2016 - JLMPS16
+Jordan,JO,JOR,400,Urban,12,Dry latrines - Other,0.0,Jordan Labour Market Panel Survey 2016 - JLMPS16
+Jordan,JO,JOR,400,Urban,13,Composting toilets,0.0,Jordan Labour Market Panel Survey 2016 - JLMPS16
+Jordan,JO,JOR,400,Urban,14,Other improved,0.0,Jordan Labour Market Panel Survey 2016 - JLMPS16
+Jordan,JO,JOR,400,Urban,15,"No facility, bush, field",0.002,Jordan Labour Market Panel Survey 2016 - JLMPS16
+Jordan,JO,JOR,400,Urban,16,Other unimproved,0.0,Jordan Labour Market Panel Survey 2016 - JLMPS16
+Jordan,JO,JOR,400,Urban,17,DK/missing information,0.0,Jordan Labour Market Panel Survey 2016 - JLMPS16
+Jordan,JO,JOR,400,Rural,1,Flush and pour flush - to piped sewer system,0.227,Jordan Labour Market Panel Survey 2016 - JLMPS16
+Jordan,JO,JOR,400,Rural,2,Flush and pour flush - to septic tank,0.751,Jordan Labour Market Panel Survey 2016 - JLMPS16
+Jordan,JO,JOR,400,Rural,3,Flush and pour flush - to pit,0.0,Jordan Labour Market Panel Survey 2016 - JLMPS16
+Jordan,JO,JOR,400,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Jordan Labour Market Panel Survey 2016 - JLMPS16
+Jordan,JO,JOR,400,Rural,5,Flush and pour flush - to elsewhere,0.0,Jordan Labour Market Panel Survey 2016 - JLMPS16
+Jordan,JO,JOR,400,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Jordan Labour Market Panel Survey 2016 - JLMPS16
+Jordan,JO,JOR,400,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Jordan Labour Market Panel Survey 2016 - JLMPS16
+Jordan,JO,JOR,400,Rural,8,Dry latrines - Traditional latrine,0.0,Jordan Labour Market Panel Survey 2016 - JLMPS16
+Jordan,JO,JOR,400,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Jordan Labour Market Panel Survey 2016 - JLMPS16
+Jordan,JO,JOR,400,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Jordan Labour Market Panel Survey 2016 - JLMPS16
+Jordan,JO,JOR,400,Rural,11,Dry latrines - Bucket latrine,0.0,Jordan Labour Market Panel Survey 2016 - JLMPS16
+Jordan,JO,JOR,400,Rural,12,Dry latrines - Other,0.0,Jordan Labour Market Panel Survey 2016 - JLMPS16
+Jordan,JO,JOR,400,Rural,13,Composting toilets,0.0,Jordan Labour Market Panel Survey 2016 - JLMPS16
+Jordan,JO,JOR,400,Rural,14,Other improved,0.0,Jordan Labour Market Panel Survey 2016 - JLMPS16
+Jordan,JO,JOR,400,Rural,15,"No facility, bush, field",0.019,Jordan Labour Market Panel Survey 2016 - JLMPS16
+Jordan,JO,JOR,400,Rural,16,Other unimproved,0.002,Jordan Labour Market Panel Survey 2016 - JLMPS16
+Jordan,JO,JOR,400,Rural,17,DK/missing information,0.0,Jordan Labour Market Panel Survey 2016 - JLMPS16

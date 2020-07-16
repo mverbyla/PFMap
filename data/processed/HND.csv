@@ -1,0 +1,519 @@
+country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+Honduras,HN,HND,340,Urban,1,Flush and pour flush - to piped sewer system,0.697,Household Time Series  - HTS11
+Honduras,HN,HND,340,Urban,2,Flush and pour flush - to septic tank,0.146,Household Time Series  - HTS11
+Honduras,HN,HND,340,Urban,3,Flush and pour flush - to pit,0.061,Household Time Series  - HTS11
+Honduras,HN,HND,340,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Time Series  - HTS11
+Honduras,HN,HND,340,Urban,5,Flush and pour flush - to elsewhere,0.013,Household Time Series  - HTS11
+Honduras,HN,HND,340,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Time Series  - HTS11
+Honduras,HN,HND,340,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Time Series  - HTS11
+Honduras,HN,HND,340,Urban,8,Dry latrines - Traditional latrine,0.064,Household Time Series  - HTS11
+Honduras,HN,HND,340,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Time Series  - HTS11
+Honduras,HN,HND,340,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Time Series  - HTS11
+Honduras,HN,HND,340,Urban,11,Dry latrines - Bucket latrine,0.0,Household Time Series  - HTS11
+Honduras,HN,HND,340,Urban,12,Dry latrines - Other,0.0,Household Time Series  - HTS11
+Honduras,HN,HND,340,Urban,13,Composting toilets,0.0,Household Time Series  - HTS11
+Honduras,HN,HND,340,Urban,14,Other improved,0.0,Household Time Series  - HTS11
+Honduras,HN,HND,340,Urban,15,"No facility, bush, field",0.014,Household Time Series  - HTS11
+Honduras,HN,HND,340,Urban,16,Other unimproved,0.004,Household Time Series  - HTS11
+Honduras,HN,HND,340,Urban,17,DK/missing information,0.0,Household Time Series  - HTS11
+Honduras,HN,HND,340,Rural,1,Flush and pour flush - to piped sewer system,0.043,Household Time Series  - HTS11
+Honduras,HN,HND,340,Rural,2,Flush and pour flush - to septic tank,0.285,Household Time Series  - HTS11
+Honduras,HN,HND,340,Rural,3,Flush and pour flush - to pit,0.358,Household Time Series  - HTS11
+Honduras,HN,HND,340,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Time Series  - HTS11
+Honduras,HN,HND,340,Rural,5,Flush and pour flush - to elsewhere,0.01,Household Time Series  - HTS11
+Honduras,HN,HND,340,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Time Series  - HTS11
+Honduras,HN,HND,340,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Time Series  - HTS11
+Honduras,HN,HND,340,Rural,8,Dry latrines - Traditional latrine,0.147,Household Time Series  - HTS11
+Honduras,HN,HND,340,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Time Series  - HTS11
+Honduras,HN,HND,340,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Time Series  - HTS11
+Honduras,HN,HND,340,Rural,11,Dry latrines - Bucket latrine,0.0,Household Time Series  - HTS11
+Honduras,HN,HND,340,Rural,12,Dry latrines - Other,0.0,Household Time Series  - HTS11
+Honduras,HN,HND,340,Rural,13,Composting toilets,0.0,Household Time Series  - HTS11
+Honduras,HN,HND,340,Rural,14,Other improved,0.0,Household Time Series  - HTS11
+Honduras,HN,HND,340,Rural,15,"No facility, bush, field",0.155,Household Time Series  - HTS11
+Honduras,HN,HND,340,Rural,16,Other unimproved,0.002,Household Time Series  - HTS11
+Honduras,HN,HND,340,Rural,17,DK/missing information,0.0,Household Time Series  - HTS11
+Honduras,HN,HND,340,Urban,1,Flush and pour flush - to piped sewer system,0.589,Demographic and Health Survey - DHS06
+Honduras,HN,HND,340,Urban,2,Flush and pour flush - to septic tank,0.14,Demographic and Health Survey - DHS06
+Honduras,HN,HND,340,Urban,3,Flush and pour flush - to pit,0.073,Demographic and Health Survey - DHS06
+Honduras,HN,HND,340,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.004,Demographic and Health Survey - DHS06
+Honduras,HN,HND,340,Urban,5,Flush and pour flush - to elsewhere,0.004,Demographic and Health Survey - DHS06
+Honduras,HN,HND,340,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - DHS06
+Honduras,HN,HND,340,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS06
+Honduras,HN,HND,340,Urban,8,Dry latrines - Traditional latrine,0.145,Demographic and Health Survey - DHS06
+Honduras,HN,HND,340,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Survey - DHS06
+Honduras,HN,HND,340,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.004,Demographic and Health Survey - DHS06
+Honduras,HN,HND,340,Urban,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS06
+Honduras,HN,HND,340,Urban,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS06
+Honduras,HN,HND,340,Urban,13,Composting toilets,0.007,Demographic and Health Survey - DHS06
+Honduras,HN,HND,340,Urban,14,Other improved,0.0,Demographic and Health Survey - DHS06
+Honduras,HN,HND,340,Urban,15,"No facility, bush, field",0.03,Demographic and Health Survey - DHS06
+Honduras,HN,HND,340,Urban,16,Other unimproved,0.003,Demographic and Health Survey - DHS06
+Honduras,HN,HND,340,Urban,17,DK/missing information,0.0,Demographic and Health Survey - DHS06
+Honduras,HN,HND,340,Rural,1,Flush and pour flush - to piped sewer system,0.025,Demographic and Health Survey - DHS06
+Honduras,HN,HND,340,Rural,2,Flush and pour flush - to septic tank,0.143,Demographic and Health Survey - DHS06
+Honduras,HN,HND,340,Rural,3,Flush and pour flush - to pit,0.316,Demographic and Health Survey - DHS06
+Honduras,HN,HND,340,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.001,Demographic and Health Survey - DHS06
+Honduras,HN,HND,340,Rural,5,Flush and pour flush - to elsewhere,0.004,Demographic and Health Survey - DHS06
+Honduras,HN,HND,340,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - DHS06
+Honduras,HN,HND,340,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS06
+Honduras,HN,HND,340,Rural,8,Dry latrines - Traditional latrine,0.2,Demographic and Health Survey - DHS06
+Honduras,HN,HND,340,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Survey - DHS06
+Honduras,HN,HND,340,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.002,Demographic and Health Survey - DHS06
+Honduras,HN,HND,340,Rural,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS06
+Honduras,HN,HND,340,Rural,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS06
+Honduras,HN,HND,340,Rural,13,Composting toilets,0.009,Demographic and Health Survey - DHS06
+Honduras,HN,HND,340,Rural,14,Other improved,0.0,Demographic and Health Survey - DHS06
+Honduras,HN,HND,340,Rural,15,"No facility, bush, field",0.295,Demographic and Health Survey - DHS06
+Honduras,HN,HND,340,Rural,16,Other unimproved,0.005,Demographic and Health Survey - DHS06
+Honduras,HN,HND,340,Rural,17,DK/missing information,0.0,Demographic and Health Survey - DHS06
+Honduras,HN,HND,340,Urban,1,Flush and pour flush - to piped sewer system,0.629,"XXXV Encuesta Permanente de Hogares de Propositos Multiples, 2007 - EPHM07"
+Honduras,HN,HND,340,Urban,2,Flush and pour flush - to septic tank,0.177,"XXXV Encuesta Permanente de Hogares de Propositos Multiples, 2007 - EPHM07"
+Honduras,HN,HND,340,Urban,3,Flush and pour flush - to pit,0.068,"XXXV Encuesta Permanente de Hogares de Propositos Multiples, 2007 - EPHM07"
+Honduras,HN,HND,340,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"XXXV Encuesta Permanente de Hogares de Propositos Multiples, 2007 - EPHM07"
+Honduras,HN,HND,340,Urban,5,Flush and pour flush - to elsewhere,0.009,"XXXV Encuesta Permanente de Hogares de Propositos Multiples, 2007 - EPHM07"
+Honduras,HN,HND,340,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"XXXV Encuesta Permanente de Hogares de Propositos Multiples, 2007 - EPHM07"
+Honduras,HN,HND,340,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"XXXV Encuesta Permanente de Hogares de Propositos Multiples, 2007 - EPHM07"
+Honduras,HN,HND,340,Urban,8,Dry latrines - Traditional latrine,0.087,"XXXV Encuesta Permanente de Hogares de Propositos Multiples, 2007 - EPHM07"
+Honduras,HN,HND,340,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,"XXXV Encuesta Permanente de Hogares de Propositos Multiples, 2007 - EPHM07"
+Honduras,HN,HND,340,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"XXXV Encuesta Permanente de Hogares de Propositos Multiples, 2007 - EPHM07"
+Honduras,HN,HND,340,Urban,11,Dry latrines - Bucket latrine,0.0,"XXXV Encuesta Permanente de Hogares de Propositos Multiples, 2007 - EPHM07"
+Honduras,HN,HND,340,Urban,12,Dry latrines - Other,0.0,"XXXV Encuesta Permanente de Hogares de Propositos Multiples, 2007 - EPHM07"
+Honduras,HN,HND,340,Urban,13,Composting toilets,0.0,"XXXV Encuesta Permanente de Hogares de Propositos Multiples, 2007 - EPHM07"
+Honduras,HN,HND,340,Urban,14,Other improved,0.0,"XXXV Encuesta Permanente de Hogares de Propositos Multiples, 2007 - EPHM07"
+Honduras,HN,HND,340,Urban,15,"No facility, bush, field",0.028,"XXXV Encuesta Permanente de Hogares de Propositos Multiples, 2007 - EPHM07"
+Honduras,HN,HND,340,Urban,16,Other unimproved,0.002,"XXXV Encuesta Permanente de Hogares de Propositos Multiples, 2007 - EPHM07"
+Honduras,HN,HND,340,Urban,17,DK/missing information,0.0,"XXXV Encuesta Permanente de Hogares de Propositos Multiples, 2007 - EPHM07"
+Honduras,HN,HND,340,Rural,1,Flush and pour flush - to piped sewer system,0.041,"XXXV Encuesta Permanente de Hogares de Propositos Multiples, 2007 - EPHM07"
+Honduras,HN,HND,340,Rural,2,Flush and pour flush - to septic tank,0.275,"XXXV Encuesta Permanente de Hogares de Propositos Multiples, 2007 - EPHM07"
+Honduras,HN,HND,340,Rural,3,Flush and pour flush - to pit,0.301,"XXXV Encuesta Permanente de Hogares de Propositos Multiples, 2007 - EPHM07"
+Honduras,HN,HND,340,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"XXXV Encuesta Permanente de Hogares de Propositos Multiples, 2007 - EPHM07"
+Honduras,HN,HND,340,Rural,5,Flush and pour flush - to elsewhere,0.004,"XXXV Encuesta Permanente de Hogares de Propositos Multiples, 2007 - EPHM07"
+Honduras,HN,HND,340,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"XXXV Encuesta Permanente de Hogares de Propositos Multiples, 2007 - EPHM07"
+Honduras,HN,HND,340,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"XXXV Encuesta Permanente de Hogares de Propositos Multiples, 2007 - EPHM07"
+Honduras,HN,HND,340,Rural,8,Dry latrines - Traditional latrine,0.163,"XXXV Encuesta Permanente de Hogares de Propositos Multiples, 2007 - EPHM07"
+Honduras,HN,HND,340,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,"XXXV Encuesta Permanente de Hogares de Propositos Multiples, 2007 - EPHM07"
+Honduras,HN,HND,340,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"XXXV Encuesta Permanente de Hogares de Propositos Multiples, 2007 - EPHM07"
+Honduras,HN,HND,340,Rural,11,Dry latrines - Bucket latrine,0.0,"XXXV Encuesta Permanente de Hogares de Propositos Multiples, 2007 - EPHM07"
+Honduras,HN,HND,340,Rural,12,Dry latrines - Other,0.0,"XXXV Encuesta Permanente de Hogares de Propositos Multiples, 2007 - EPHM07"
+Honduras,HN,HND,340,Rural,13,Composting toilets,0.0,"XXXV Encuesta Permanente de Hogares de Propositos Multiples, 2007 - EPHM07"
+Honduras,HN,HND,340,Rural,14,Other improved,0.0,"XXXV Encuesta Permanente de Hogares de Propositos Multiples, 2007 - EPHM07"
+Honduras,HN,HND,340,Rural,15,"No facility, bush, field",0.214,"XXXV Encuesta Permanente de Hogares de Propositos Multiples, 2007 - EPHM07"
+Honduras,HN,HND,340,Rural,16,Other unimproved,0.001,"XXXV Encuesta Permanente de Hogares de Propositos Multiples, 2007 - EPHM07"
+Honduras,HN,HND,340,Rural,17,DK/missing information,0.0,"XXXV Encuesta Permanente de Hogares de Propositos Multiples, 2007 - EPHM07"
+Honduras,HN,HND,340,Urban,1,Flush and pour flush - to piped sewer system,0.625,Household Time Series  - HTS07
+Honduras,HN,HND,340,Urban,2,Flush and pour flush - to septic tank,0.165,Household Time Series  - HTS07
+Honduras,HN,HND,340,Urban,3,Flush and pour flush - to pit,0.083,Household Time Series  - HTS07
+Honduras,HN,HND,340,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Time Series  - HTS07
+Honduras,HN,HND,340,Urban,5,Flush and pour flush - to elsewhere,0.009,Household Time Series  - HTS07
+Honduras,HN,HND,340,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Time Series  - HTS07
+Honduras,HN,HND,340,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Time Series  - HTS07
+Honduras,HN,HND,340,Urban,8,Dry latrines - Traditional latrine,0.088,Household Time Series  - HTS07
+Honduras,HN,HND,340,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Time Series  - HTS07
+Honduras,HN,HND,340,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Time Series  - HTS07
+Honduras,HN,HND,340,Urban,11,Dry latrines - Bucket latrine,0.0,Household Time Series  - HTS07
+Honduras,HN,HND,340,Urban,12,Dry latrines - Other,0.0,Household Time Series  - HTS07
+Honduras,HN,HND,340,Urban,13,Composting toilets,0.0,Household Time Series  - HTS07
+Honduras,HN,HND,340,Urban,14,Other improved,0.0,Household Time Series  - HTS07
+Honduras,HN,HND,340,Urban,15,"No facility, bush, field",0.027,Household Time Series  - HTS07
+Honduras,HN,HND,340,Urban,16,Other unimproved,0.002,Household Time Series  - HTS07
+Honduras,HN,HND,340,Urban,17,DK/missing information,0.0,Household Time Series  - HTS07
+Honduras,HN,HND,340,Rural,1,Flush and pour flush - to piped sewer system,0.046,Household Time Series  - HTS07
+Honduras,HN,HND,340,Rural,2,Flush and pour flush - to septic tank,0.264,Household Time Series  - HTS07
+Honduras,HN,HND,340,Rural,3,Flush and pour flush - to pit,0.319,Household Time Series  - HTS07
+Honduras,HN,HND,340,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Time Series  - HTS07
+Honduras,HN,HND,340,Rural,5,Flush and pour flush - to elsewhere,0.005,Household Time Series  - HTS07
+Honduras,HN,HND,340,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Time Series  - HTS07
+Honduras,HN,HND,340,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Time Series  - HTS07
+Honduras,HN,HND,340,Rural,8,Dry latrines - Traditional latrine,0.149,Household Time Series  - HTS07
+Honduras,HN,HND,340,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Time Series  - HTS07
+Honduras,HN,HND,340,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Time Series  - HTS07
+Honduras,HN,HND,340,Rural,11,Dry latrines - Bucket latrine,0.0,Household Time Series  - HTS07
+Honduras,HN,HND,340,Rural,12,Dry latrines - Other,0.0,Household Time Series  - HTS07
+Honduras,HN,HND,340,Rural,13,Composting toilets,0.0,Household Time Series  - HTS07
+Honduras,HN,HND,340,Rural,14,Other improved,0.0,Household Time Series  - HTS07
+Honduras,HN,HND,340,Rural,15,"No facility, bush, field",0.216,Household Time Series  - HTS07
+Honduras,HN,HND,340,Rural,16,Other unimproved,0.001,Household Time Series  - HTS07
+Honduras,HN,HND,340,Rural,17,DK/missing information,0.0,Household Time Series  - HTS07
+Honduras,HN,HND,340,Urban,1,Flush and pour flush - to piped sewer system,0.65,Household Time Series  - HTS08
+Honduras,HN,HND,340,Urban,2,Flush and pour flush - to septic tank,0.159,Household Time Series  - HTS08
+Honduras,HN,HND,340,Urban,3,Flush and pour flush - to pit,0.08,Household Time Series  - HTS08
+Honduras,HN,HND,340,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Time Series  - HTS08
+Honduras,HN,HND,340,Urban,5,Flush and pour flush - to elsewhere,0.008,Household Time Series  - HTS08
+Honduras,HN,HND,340,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Time Series  - HTS08
+Honduras,HN,HND,340,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Time Series  - HTS08
+Honduras,HN,HND,340,Urban,8,Dry latrines - Traditional latrine,0.075,Household Time Series  - HTS08
+Honduras,HN,HND,340,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Time Series  - HTS08
+Honduras,HN,HND,340,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Time Series  - HTS08
+Honduras,HN,HND,340,Urban,11,Dry latrines - Bucket latrine,0.0,Household Time Series  - HTS08
+Honduras,HN,HND,340,Urban,12,Dry latrines - Other,0.0,Household Time Series  - HTS08
+Honduras,HN,HND,340,Urban,13,Composting toilets,0.0,Household Time Series  - HTS08
+Honduras,HN,HND,340,Urban,14,Other improved,0.0,Household Time Series  - HTS08
+Honduras,HN,HND,340,Urban,15,"No facility, bush, field",0.024,Household Time Series  - HTS08
+Honduras,HN,HND,340,Urban,16,Other unimproved,0.003,Household Time Series  - HTS08
+Honduras,HN,HND,340,Urban,17,DK/missing information,0.0,Household Time Series  - HTS08
+Honduras,HN,HND,340,Rural,1,Flush and pour flush - to piped sewer system,0.049,Household Time Series  - HTS08
+Honduras,HN,HND,340,Rural,2,Flush and pour flush - to septic tank,0.261,Household Time Series  - HTS08
+Honduras,HN,HND,340,Rural,3,Flush and pour flush - to pit,0.347,Household Time Series  - HTS08
+Honduras,HN,HND,340,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Time Series  - HTS08
+Honduras,HN,HND,340,Rural,5,Flush and pour flush - to elsewhere,0.003,Household Time Series  - HTS08
+Honduras,HN,HND,340,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Time Series  - HTS08
+Honduras,HN,HND,340,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Time Series  - HTS08
+Honduras,HN,HND,340,Rural,8,Dry latrines - Traditional latrine,0.138,Household Time Series  - HTS08
+Honduras,HN,HND,340,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Time Series  - HTS08
+Honduras,HN,HND,340,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Time Series  - HTS08
+Honduras,HN,HND,340,Rural,11,Dry latrines - Bucket latrine,0.0,Household Time Series  - HTS08
+Honduras,HN,HND,340,Rural,12,Dry latrines - Other,0.0,Household Time Series  - HTS08
+Honduras,HN,HND,340,Rural,13,Composting toilets,0.0,Household Time Series  - HTS08
+Honduras,HN,HND,340,Rural,14,Other improved,0.0,Household Time Series  - HTS08
+Honduras,HN,HND,340,Rural,15,"No facility, bush, field",0.199,Household Time Series  - HTS08
+Honduras,HN,HND,340,Rural,16,Other unimproved,0.002,Household Time Series  - HTS08
+Honduras,HN,HND,340,Rural,17,DK/missing information,0.0,Household Time Series  - HTS08
+Honduras,HN,HND,340,Urban,1,Flush and pour flush - to piped sewer system,0.648,Household Time Series  - HTS09
+Honduras,HN,HND,340,Urban,2,Flush and pour flush - to septic tank,0.159,Household Time Series  - HTS09
+Honduras,HN,HND,340,Urban,3,Flush and pour flush - to pit,0.078,Household Time Series  - HTS09
+Honduras,HN,HND,340,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Time Series  - HTS09
+Honduras,HN,HND,340,Urban,5,Flush and pour flush - to elsewhere,0.012,Household Time Series  - HTS09
+Honduras,HN,HND,340,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Time Series  - HTS09
+Honduras,HN,HND,340,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Time Series  - HTS09
+Honduras,HN,HND,340,Urban,8,Dry latrines - Traditional latrine,0.073,Household Time Series  - HTS09
+Honduras,HN,HND,340,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Time Series  - HTS09
+Honduras,HN,HND,340,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Time Series  - HTS09
+Honduras,HN,HND,340,Urban,11,Dry latrines - Bucket latrine,0.0,Household Time Series  - HTS09
+Honduras,HN,HND,340,Urban,12,Dry latrines - Other,0.0,Household Time Series  - HTS09
+Honduras,HN,HND,340,Urban,13,Composting toilets,0.0,Household Time Series  - HTS09
+Honduras,HN,HND,340,Urban,14,Other improved,0.0,Household Time Series  - HTS09
+Honduras,HN,HND,340,Urban,15,"No facility, bush, field",0.026,Household Time Series  - HTS09
+Honduras,HN,HND,340,Urban,16,Other unimproved,0.003,Household Time Series  - HTS09
+Honduras,HN,HND,340,Urban,17,DK/missing information,0.0,Household Time Series  - HTS09
+Honduras,HN,HND,340,Rural,1,Flush and pour flush - to piped sewer system,0.046,Household Time Series  - HTS09
+Honduras,HN,HND,340,Rural,2,Flush and pour flush - to septic tank,0.268,Household Time Series  - HTS09
+Honduras,HN,HND,340,Rural,3,Flush and pour flush - to pit,0.339,Household Time Series  - HTS09
+Honduras,HN,HND,340,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Time Series  - HTS09
+Honduras,HN,HND,340,Rural,5,Flush and pour flush - to elsewhere,0.006,Household Time Series  - HTS09
+Honduras,HN,HND,340,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Time Series  - HTS09
+Honduras,HN,HND,340,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Time Series  - HTS09
+Honduras,HN,HND,340,Rural,8,Dry latrines - Traditional latrine,0.137,Household Time Series  - HTS09
+Honduras,HN,HND,340,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Time Series  - HTS09
+Honduras,HN,HND,340,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Time Series  - HTS09
+Honduras,HN,HND,340,Rural,11,Dry latrines - Bucket latrine,0.0,Household Time Series  - HTS09
+Honduras,HN,HND,340,Rural,12,Dry latrines - Other,0.0,Household Time Series  - HTS09
+Honduras,HN,HND,340,Rural,13,Composting toilets,0.0,Household Time Series  - HTS09
+Honduras,HN,HND,340,Rural,14,Other improved,0.0,Household Time Series  - HTS09
+Honduras,HN,HND,340,Rural,15,"No facility, bush, field",0.204,Household Time Series  - HTS09
+Honduras,HN,HND,340,Rural,16,Other unimproved,0.001,Household Time Series  - HTS09
+Honduras,HN,HND,340,Rural,17,DK/missing information,0.0,Household Time Series  - HTS09
+Honduras,HN,HND,340,Urban,1,Flush and pour flush - to piped sewer system,0.661,Household Time Series  - HTS10
+Honduras,HN,HND,340,Urban,2,Flush and pour flush - to septic tank,0.159,Household Time Series  - HTS10
+Honduras,HN,HND,340,Urban,3,Flush and pour flush - to pit,0.061,Household Time Series  - HTS10
+Honduras,HN,HND,340,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Time Series  - HTS10
+Honduras,HN,HND,340,Urban,5,Flush and pour flush - to elsewhere,0.02,Household Time Series  - HTS10
+Honduras,HN,HND,340,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Time Series  - HTS10
+Honduras,HN,HND,340,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Time Series  - HTS10
+Honduras,HN,HND,340,Urban,8,Dry latrines - Traditional latrine,0.081,Household Time Series  - HTS10
+Honduras,HN,HND,340,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Time Series  - HTS10
+Honduras,HN,HND,340,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Time Series  - HTS10
+Honduras,HN,HND,340,Urban,11,Dry latrines - Bucket latrine,0.0,Household Time Series  - HTS10
+Honduras,HN,HND,340,Urban,12,Dry latrines - Other,0.0,Household Time Series  - HTS10
+Honduras,HN,HND,340,Urban,13,Composting toilets,0.0,Household Time Series  - HTS10
+Honduras,HN,HND,340,Urban,14,Other improved,0.0,Household Time Series  - HTS10
+Honduras,HN,HND,340,Urban,15,"No facility, bush, field",0.014,Household Time Series  - HTS10
+Honduras,HN,HND,340,Urban,16,Other unimproved,0.003,Household Time Series  - HTS10
+Honduras,HN,HND,340,Urban,17,DK/missing information,0.0,Household Time Series  - HTS10
+Honduras,HN,HND,340,Rural,1,Flush and pour flush - to piped sewer system,0.053,Household Time Series  - HTS10
+Honduras,HN,HND,340,Rural,2,Flush and pour flush - to septic tank,0.275,Household Time Series  - HTS10
+Honduras,HN,HND,340,Rural,3,Flush and pour flush - to pit,0.359,Household Time Series  - HTS10
+Honduras,HN,HND,340,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Time Series  - HTS10
+Honduras,HN,HND,340,Rural,5,Flush and pour flush - to elsewhere,0.005,Household Time Series  - HTS10
+Honduras,HN,HND,340,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Time Series  - HTS10
+Honduras,HN,HND,340,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Time Series  - HTS10
+Honduras,HN,HND,340,Rural,8,Dry latrines - Traditional latrine,0.145,Household Time Series  - HTS10
+Honduras,HN,HND,340,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Time Series  - HTS10
+Honduras,HN,HND,340,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Time Series  - HTS10
+Honduras,HN,HND,340,Rural,11,Dry latrines - Bucket latrine,0.0,Household Time Series  - HTS10
+Honduras,HN,HND,340,Rural,12,Dry latrines - Other,0.0,Household Time Series  - HTS10
+Honduras,HN,HND,340,Rural,13,Composting toilets,0.0,Household Time Series  - HTS10
+Honduras,HN,HND,340,Rural,14,Other improved,0.0,Household Time Series  - HTS10
+Honduras,HN,HND,340,Rural,15,"No facility, bush, field",0.163,Household Time Series  - HTS10
+Honduras,HN,HND,340,Rural,16,Other unimproved,0.001,Household Time Series  - HTS10
+Honduras,HN,HND,340,Rural,17,DK/missing information,0.0,Household Time Series  - HTS10
+Honduras,HN,HND,340,Urban,1,Flush and pour flush - to piped sewer system,0.621,ENCUESTA NACIONAL DE DEMOGRAFÍA Y SALUD ENDESA 2011-2012  - ENDESA12
+Honduras,HN,HND,340,Urban,2,Flush and pour flush - to septic tank,0.176,ENCUESTA NACIONAL DE DEMOGRAFÍA Y SALUD ENDESA 2011-2012  - ENDESA12
+Honduras,HN,HND,340,Urban,3,Flush and pour flush - to pit,0.065,ENCUESTA NACIONAL DE DEMOGRAFÍA Y SALUD ENDESA 2011-2012  - ENDESA12
+Honduras,HN,HND,340,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.002,ENCUESTA NACIONAL DE DEMOGRAFÍA Y SALUD ENDESA 2011-2012  - ENDESA12
+Honduras,HN,HND,340,Urban,5,Flush and pour flush - to elsewhere,0.018,ENCUESTA NACIONAL DE DEMOGRAFÍA Y SALUD ENDESA 2011-2012  - ENDESA12
+Honduras,HN,HND,340,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,ENCUESTA NACIONAL DE DEMOGRAFÍA Y SALUD ENDESA 2011-2012  - ENDESA12
+Honduras,HN,HND,340,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,ENCUESTA NACIONAL DE DEMOGRAFÍA Y SALUD ENDESA 2011-2012  - ENDESA12
+Honduras,HN,HND,340,Urban,8,Dry latrines - Traditional latrine,0.093,ENCUESTA NACIONAL DE DEMOGRAFÍA Y SALUD ENDESA 2011-2012  - ENDESA12
+Honduras,HN,HND,340,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,ENCUESTA NACIONAL DE DEMOGRAFÍA Y SALUD ENDESA 2011-2012  - ENDESA12
+Honduras,HN,HND,340,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,ENCUESTA NACIONAL DE DEMOGRAFÍA Y SALUD ENDESA 2011-2012  - ENDESA12
+Honduras,HN,HND,340,Urban,11,Dry latrines - Bucket latrine,0.0,ENCUESTA NACIONAL DE DEMOGRAFÍA Y SALUD ENDESA 2011-2012  - ENDESA12
+Honduras,HN,HND,340,Urban,12,Dry latrines - Other,0.0,ENCUESTA NACIONAL DE DEMOGRAFÍA Y SALUD ENDESA 2011-2012  - ENDESA12
+Honduras,HN,HND,340,Urban,13,Composting toilets,0.004,ENCUESTA NACIONAL DE DEMOGRAFÍA Y SALUD ENDESA 2011-2012  - ENDESA12
+Honduras,HN,HND,340,Urban,14,Other improved,0.0,ENCUESTA NACIONAL DE DEMOGRAFÍA Y SALUD ENDESA 2011-2012  - ENDESA12
+Honduras,HN,HND,340,Urban,15,"No facility, bush, field",0.021,ENCUESTA NACIONAL DE DEMOGRAFÍA Y SALUD ENDESA 2011-2012  - ENDESA12
+Honduras,HN,HND,340,Urban,16,Other unimproved,0.0,ENCUESTA NACIONAL DE DEMOGRAFÍA Y SALUD ENDESA 2011-2012  - ENDESA12
+Honduras,HN,HND,340,Urban,17,DK/missing information,0.0,ENCUESTA NACIONAL DE DEMOGRAFÍA Y SALUD ENDESA 2011-2012  - ENDESA12
+Honduras,HN,HND,340,Rural,1,Flush and pour flush - to piped sewer system,0.042,ENCUESTA NACIONAL DE DEMOGRAFÍA Y SALUD ENDESA 2011-2012  - ENDESA12
+Honduras,HN,HND,340,Rural,2,Flush and pour flush - to septic tank,0.289,ENCUESTA NACIONAL DE DEMOGRAFÍA Y SALUD ENDESA 2011-2012  - ENDESA12
+Honduras,HN,HND,340,Rural,3,Flush and pour flush - to pit,0.336,ENCUESTA NACIONAL DE DEMOGRAFÍA Y SALUD ENDESA 2011-2012  - ENDESA12
+Honduras,HN,HND,340,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.001,ENCUESTA NACIONAL DE DEMOGRAFÍA Y SALUD ENDESA 2011-2012  - ENDESA12
+Honduras,HN,HND,340,Rural,5,Flush and pour flush - to elsewhere,0.01,ENCUESTA NACIONAL DE DEMOGRAFÍA Y SALUD ENDESA 2011-2012  - ENDESA12
+Honduras,HN,HND,340,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,ENCUESTA NACIONAL DE DEMOGRAFÍA Y SALUD ENDESA 2011-2012  - ENDESA12
+Honduras,HN,HND,340,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,ENCUESTA NACIONAL DE DEMOGRAFÍA Y SALUD ENDESA 2011-2012  - ENDESA12
+Honduras,HN,HND,340,Rural,8,Dry latrines - Traditional latrine,0.146,ENCUESTA NACIONAL DE DEMOGRAFÍA Y SALUD ENDESA 2011-2012  - ENDESA12
+Honduras,HN,HND,340,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,ENCUESTA NACIONAL DE DEMOGRAFÍA Y SALUD ENDESA 2011-2012  - ENDESA12
+Honduras,HN,HND,340,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,ENCUESTA NACIONAL DE DEMOGRAFÍA Y SALUD ENDESA 2011-2012  - ENDESA12
+Honduras,HN,HND,340,Rural,11,Dry latrines - Bucket latrine,0.0,ENCUESTA NACIONAL DE DEMOGRAFÍA Y SALUD ENDESA 2011-2012  - ENDESA12
+Honduras,HN,HND,340,Rural,12,Dry latrines - Other,0.0,ENCUESTA NACIONAL DE DEMOGRAFÍA Y SALUD ENDESA 2011-2012  - ENDESA12
+Honduras,HN,HND,340,Rural,13,Composting toilets,0.002,ENCUESTA NACIONAL DE DEMOGRAFÍA Y SALUD ENDESA 2011-2012  - ENDESA12
+Honduras,HN,HND,340,Rural,14,Other improved,0.0,ENCUESTA NACIONAL DE DEMOGRAFÍA Y SALUD ENDESA 2011-2012  - ENDESA12
+Honduras,HN,HND,340,Rural,15,"No facility, bush, field",0.173,ENCUESTA NACIONAL DE DEMOGRAFÍA Y SALUD ENDESA 2011-2012  - ENDESA12
+Honduras,HN,HND,340,Rural,16,Other unimproved,0.0,ENCUESTA NACIONAL DE DEMOGRAFÍA Y SALUD ENDESA 2011-2012  - ENDESA12
+Honduras,HN,HND,340,Rural,17,DK/missing information,0.0,ENCUESTA NACIONAL DE DEMOGRAFÍA Y SALUD ENDESA 2011-2012  - ENDESA12
+Honduras,HN,HND,340,Urban,1,Flush and pour flush - to piped sewer system,0.683,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM12
+Honduras,HN,HND,340,Urban,2,Flush and pour flush - to septic tank,0.149,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM12
+Honduras,HN,HND,340,Urban,3,Flush and pour flush - to pit,0.0,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM12
+Honduras,HN,HND,340,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.012,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM12
+Honduras,HN,HND,340,Urban,5,Flush and pour flush - to elsewhere,0.0,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM12
+Honduras,HN,HND,340,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM12
+Honduras,HN,HND,340,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.071,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM12
+Honduras,HN,HND,340,Urban,8,Dry latrines - Traditional latrine,0.061,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM12
+Honduras,HN,HND,340,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM12
+Honduras,HN,HND,340,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM12
+Honduras,HN,HND,340,Urban,11,Dry latrines - Bucket latrine,0.0,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM12
+Honduras,HN,HND,340,Urban,12,Dry latrines - Other,0.0,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM12
+Honduras,HN,HND,340,Urban,13,Composting toilets,0.0,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM12
+Honduras,HN,HND,340,Urban,14,Other improved,0.0,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM12
+Honduras,HN,HND,340,Urban,15,"No facility, bush, field",0.02,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM12
+Honduras,HN,HND,340,Urban,16,Other unimproved,0.005,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM12
+Honduras,HN,HND,340,Urban,17,DK/missing information,0.0,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM12
+Honduras,HN,HND,340,Rural,1,Flush and pour flush - to piped sewer system,0.044,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM12
+Honduras,HN,HND,340,Rural,2,Flush and pour flush - to septic tank,0.282,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM12
+Honduras,HN,HND,340,Rural,3,Flush and pour flush - to pit,0.0,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM12
+Honduras,HN,HND,340,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.005,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM12
+Honduras,HN,HND,340,Rural,5,Flush and pour flush - to elsewhere,0.0,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM12
+Honduras,HN,HND,340,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM12
+Honduras,HN,HND,340,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.342,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM12
+Honduras,HN,HND,340,Rural,8,Dry latrines - Traditional latrine,0.152,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM12
+Honduras,HN,HND,340,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM12
+Honduras,HN,HND,340,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM12
+Honduras,HN,HND,340,Rural,11,Dry latrines - Bucket latrine,0.0,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM12
+Honduras,HN,HND,340,Rural,12,Dry latrines - Other,0.0,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM12
+Honduras,HN,HND,340,Rural,13,Composting toilets,0.0,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM12
+Honduras,HN,HND,340,Rural,14,Other improved,0.0,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM12
+Honduras,HN,HND,340,Rural,15,"No facility, bush, field",0.173,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM12
+Honduras,HN,HND,340,Rural,16,Other unimproved,0.002,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM12
+Honduras,HN,HND,340,Rural,17,DK/missing information,0.0,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM12
+Honduras,HN,HND,340,Urban,1,Flush and pour flush - to piped sewer system,0.662,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM13
+Honduras,HN,HND,340,Urban,2,Flush and pour flush - to septic tank,0.159,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM13
+Honduras,HN,HND,340,Urban,3,Flush and pour flush - to pit,0.0,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM13
+Honduras,HN,HND,340,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.009,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM13
+Honduras,HN,HND,340,Urban,5,Flush and pour flush - to elsewhere,0.0,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM13
+Honduras,HN,HND,340,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM13
+Honduras,HN,HND,340,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.072,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM13
+Honduras,HN,HND,340,Urban,8,Dry latrines - Traditional latrine,0.062,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM13
+Honduras,HN,HND,340,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM13
+Honduras,HN,HND,340,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM13
+Honduras,HN,HND,340,Urban,11,Dry latrines - Bucket latrine,0.0,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM13
+Honduras,HN,HND,340,Urban,12,Dry latrines - Other,0.0,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM13
+Honduras,HN,HND,340,Urban,13,Composting toilets,0.0,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM13
+Honduras,HN,HND,340,Urban,14,Other improved,0.0,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM13
+Honduras,HN,HND,340,Urban,15,"No facility, bush, field",0.032,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM13
+Honduras,HN,HND,340,Urban,16,Other unimproved,0.005,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM13
+Honduras,HN,HND,340,Urban,17,DK/missing information,0.0,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM13
+Honduras,HN,HND,340,Rural,1,Flush and pour flush - to piped sewer system,0.061,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM13
+Honduras,HN,HND,340,Rural,2,Flush and pour flush - to septic tank,0.342,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM13
+Honduras,HN,HND,340,Rural,3,Flush and pour flush - to pit,0.0,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM13
+Honduras,HN,HND,340,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.008,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM13
+Honduras,HN,HND,340,Rural,5,Flush and pour flush - to elsewhere,0.0,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM13
+Honduras,HN,HND,340,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM13
+Honduras,HN,HND,340,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.308,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM13
+Honduras,HN,HND,340,Rural,8,Dry latrines - Traditional latrine,0.115,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM13
+Honduras,HN,HND,340,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM13
+Honduras,HN,HND,340,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM13
+Honduras,HN,HND,340,Rural,11,Dry latrines - Bucket latrine,0.0,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM13
+Honduras,HN,HND,340,Rural,12,Dry latrines - Other,0.0,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM13
+Honduras,HN,HND,340,Rural,13,Composting toilets,0.0,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM13
+Honduras,HN,HND,340,Rural,14,Other improved,0.0,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM13
+Honduras,HN,HND,340,Rural,15,"No facility, bush, field",0.165,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM13
+Honduras,HN,HND,340,Rural,16,Other unimproved,0.001,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM13
+Honduras,HN,HND,340,Rural,17,DK/missing information,0.0,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM13
+Honduras,HN,HND,340,Urban,1,Flush and pour flush - to piped sewer system,0.574,Censo de Población y Vivienda 2013 - CEN13
+Honduras,HN,HND,340,Urban,2,Flush and pour flush - to septic tank,0.27,Censo de Población y Vivienda 2013 - CEN13
+Honduras,HN,HND,340,Urban,3,Flush and pour flush - to pit,0.0,Censo de Población y Vivienda 2013 - CEN13
+Honduras,HN,HND,340,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Censo de Población y Vivienda 2013 - CEN13
+Honduras,HN,HND,340,Urban,5,Flush and pour flush - to elsewhere,0.0,Censo de Población y Vivienda 2013 - CEN13
+Honduras,HN,HND,340,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Censo de Población y Vivienda 2013 - CEN13
+Honduras,HN,HND,340,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.022,Censo de Población y Vivienda 2013 - CEN13
+Honduras,HN,HND,340,Urban,8,Dry latrines - Traditional latrine,0.108,Censo de Población y Vivienda 2013 - CEN13
+Honduras,HN,HND,340,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.02,Censo de Población y Vivienda 2013 - CEN13
+Honduras,HN,HND,340,Urban,8,Dry latrines - Traditional latrine,0.096,Censo de Población y Vivienda 2013 - CEN13
+Honduras,HN,HND,340,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.002,Censo de Población y Vivienda 2013 - CEN13
+Honduras,HN,HND,340,Urban,8,Dry latrines - Traditional latrine,0.012,Censo de Población y Vivienda 2013 - CEN13
+Honduras,HN,HND,340,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Censo de Población y Vivienda 2013 - CEN13
+Honduras,HN,HND,340,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Censo de Población y Vivienda 2013 - CEN13
+Honduras,HN,HND,340,Urban,11,Dry latrines - Bucket latrine,0.0,Censo de Población y Vivienda 2013 - CEN13
+Honduras,HN,HND,340,Urban,12,Dry latrines - Other,0.0,Censo de Población y Vivienda 2013 - CEN13
+Honduras,HN,HND,340,Urban,13,Composting toilets,0.0,Censo de Población y Vivienda 2013 - CEN13
+Honduras,HN,HND,340,Urban,14,Other improved,0.0,Censo de Población y Vivienda 2013 - CEN13
+Honduras,HN,HND,340,Urban,15,"No facility, bush, field",0.023,Censo de Población y Vivienda 2013 - CEN13
+Honduras,HN,HND,340,Urban,16,Other unimproved,0.002,Censo de Población y Vivienda 2013 - CEN13
+Honduras,HN,HND,340,Urban,17,DK/missing information,0.0,Censo de Población y Vivienda 2013 - CEN13
+Honduras,HN,HND,340,Rural,1,Flush and pour flush - to piped sewer system,0.044,Censo de Población y Vivienda 2013 - CEN13
+Honduras,HN,HND,340,Rural,2,Flush and pour flush - to septic tank,0.439,Censo de Población y Vivienda 2013 - CEN13
+Honduras,HN,HND,340,Rural,3,Flush and pour flush - to pit,0.0,Censo de Población y Vivienda 2013 - CEN13
+Honduras,HN,HND,340,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Censo de Población y Vivienda 2013 - CEN13
+Honduras,HN,HND,340,Rural,5,Flush and pour flush - to elsewhere,0.0,Censo de Población y Vivienda 2013 - CEN13
+Honduras,HN,HND,340,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Censo de Población y Vivienda 2013 - CEN13
+Honduras,HN,HND,340,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.113,Censo de Población y Vivienda 2013 - CEN13
+Honduras,HN,HND,340,Rural,8,Dry latrines - Traditional latrine,0.204,Censo de Población y Vivienda 2013 - CEN13
+Honduras,HN,HND,340,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.108,Censo de Población y Vivienda 2013 - CEN13
+Honduras,HN,HND,340,Rural,8,Dry latrines - Traditional latrine,0.195,Censo de Población y Vivienda 2013 - CEN13
+Honduras,HN,HND,340,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.005,Censo de Población y Vivienda 2013 - CEN13
+Honduras,HN,HND,340,Rural,8,Dry latrines - Traditional latrine,0.009,Censo de Población y Vivienda 2013 - CEN13
+Honduras,HN,HND,340,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Censo de Población y Vivienda 2013 - CEN13
+Honduras,HN,HND,340,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Censo de Población y Vivienda 2013 - CEN13
+Honduras,HN,HND,340,Rural,11,Dry latrines - Bucket latrine,0.0,Censo de Población y Vivienda 2013 - CEN13
+Honduras,HN,HND,340,Rural,12,Dry latrines - Other,0.0,Censo de Población y Vivienda 2013 - CEN13
+Honduras,HN,HND,340,Rural,13,Composting toilets,0.0,Censo de Población y Vivienda 2013 - CEN13
+Honduras,HN,HND,340,Rural,14,Other improved,0.0,Censo de Población y Vivienda 2013 - CEN13
+Honduras,HN,HND,340,Rural,15,"No facility, bush, field",0.195,Censo de Población y Vivienda 2013 - CEN13
+Honduras,HN,HND,340,Rural,16,Other unimproved,0.004,Censo de Población y Vivienda 2013 - CEN13
+Honduras,HN,HND,340,Rural,17,DK/missing information,0.0,Censo de Población y Vivienda 2013 - CEN13
+Honduras,HN,HND,340,Urban,1,Flush and pour flush - to piped sewer system,0.662,"Encuesta Permanente de Hogares, 2014 - EPHPM14"
+Honduras,HN,HND,340,Urban,2,Flush and pour flush - to septic tank,0.133,"Encuesta Permanente de Hogares, 2014 - EPHPM14"
+Honduras,HN,HND,340,Urban,3,Flush and pour flush - to pit,0.072,"Encuesta Permanente de Hogares, 2014 - EPHPM14"
+Honduras,HN,HND,340,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Encuesta Permanente de Hogares, 2014 - EPHPM14"
+Honduras,HN,HND,340,Urban,5,Flush and pour flush - to elsewhere,0.007,"Encuesta Permanente de Hogares, 2014 - EPHPM14"
+Honduras,HN,HND,340,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Encuesta Permanente de Hogares, 2014 - EPHPM14"
+Honduras,HN,HND,340,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Encuesta Permanente de Hogares, 2014 - EPHPM14"
+Honduras,HN,HND,340,Urban,8,Dry latrines - Traditional latrine,0.062,"Encuesta Permanente de Hogares, 2014 - EPHPM14"
+Honduras,HN,HND,340,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Encuesta Permanente de Hogares, 2014 - EPHPM14"
+Honduras,HN,HND,340,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Encuesta Permanente de Hogares, 2014 - EPHPM14"
+Honduras,HN,HND,340,Urban,11,Dry latrines - Bucket latrine,0.0,"Encuesta Permanente de Hogares, 2014 - EPHPM14"
+Honduras,HN,HND,340,Urban,12,Dry latrines - Other,0.0,"Encuesta Permanente de Hogares, 2014 - EPHPM14"
+Honduras,HN,HND,340,Urban,13,Composting toilets,0.0,"Encuesta Permanente de Hogares, 2014 - EPHPM14"
+Honduras,HN,HND,340,Urban,14,Other improved,0.0,"Encuesta Permanente de Hogares, 2014 - EPHPM14"
+Honduras,HN,HND,340,Urban,15,"No facility, bush, field",0.032,"Encuesta Permanente de Hogares, 2014 - EPHPM14"
+Honduras,HN,HND,340,Urban,16,Other unimproved,0.005,"Encuesta Permanente de Hogares, 2014 - EPHPM14"
+Honduras,HN,HND,340,Urban,17,DK/missing information,0.0,"Encuesta Permanente de Hogares, 2014 - EPHPM14"
+Honduras,HN,HND,340,Rural,1,Flush and pour flush - to piped sewer system,0.061,"Encuesta Permanente de Hogares, 2014 - EPHPM14"
+Honduras,HN,HND,340,Rural,2,Flush and pour flush - to septic tank,0.251,"Encuesta Permanente de Hogares, 2014 - EPHPM14"
+Honduras,HN,HND,340,Rural,3,Flush and pour flush - to pit,0.308,"Encuesta Permanente de Hogares, 2014 - EPHPM14"
+Honduras,HN,HND,340,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Encuesta Permanente de Hogares, 2014 - EPHPM14"
+Honduras,HN,HND,340,Rural,5,Flush and pour flush - to elsewhere,0.006,"Encuesta Permanente de Hogares, 2014 - EPHPM14"
+Honduras,HN,HND,340,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Encuesta Permanente de Hogares, 2014 - EPHPM14"
+Honduras,HN,HND,340,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Encuesta Permanente de Hogares, 2014 - EPHPM14"
+Honduras,HN,HND,340,Rural,8,Dry latrines - Traditional latrine,0.115,"Encuesta Permanente de Hogares, 2014 - EPHPM14"
+Honduras,HN,HND,340,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Encuesta Permanente de Hogares, 2014 - EPHPM14"
+Honduras,HN,HND,340,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Encuesta Permanente de Hogares, 2014 - EPHPM14"
+Honduras,HN,HND,340,Rural,11,Dry latrines - Bucket latrine,0.0,"Encuesta Permanente de Hogares, 2014 - EPHPM14"
+Honduras,HN,HND,340,Rural,12,Dry latrines - Other,0.0,"Encuesta Permanente de Hogares, 2014 - EPHPM14"
+Honduras,HN,HND,340,Rural,13,Composting toilets,0.0,"Encuesta Permanente de Hogares, 2014 - EPHPM14"
+Honduras,HN,HND,340,Rural,14,Other improved,0.0,"Encuesta Permanente de Hogares, 2014 - EPHPM14"
+Honduras,HN,HND,340,Rural,15,"No facility, bush, field",0.165,"Encuesta Permanente de Hogares, 2014 - EPHPM14"
+Honduras,HN,HND,340,Rural,16,Other unimproved,0.001,"Encuesta Permanente de Hogares, 2014 - EPHPM14"
+Honduras,HN,HND,340,Rural,17,DK/missing information,0.0,"Encuesta Permanente de Hogares, 2014 - EPHPM14"
+Honduras,HN,HND,340,Urban,1,Flush and pour flush - to piped sewer system,0.0,Informe de Indicadores 2015 Sector Agua Potable y Saneamiento - ERSAPS15
+Honduras,HN,HND,340,Urban,2,Flush and pour flush - to septic tank,0.0,Informe de Indicadores 2015 Sector Agua Potable y Saneamiento - ERSAPS15
+Honduras,HN,HND,340,Urban,3,Flush and pour flush - to pit,0.0,Informe de Indicadores 2015 Sector Agua Potable y Saneamiento - ERSAPS15
+Honduras,HN,HND,340,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Informe de Indicadores 2015 Sector Agua Potable y Saneamiento - ERSAPS15
+Honduras,HN,HND,340,Urban,5,Flush and pour flush - to elsewhere,0.0,Informe de Indicadores 2015 Sector Agua Potable y Saneamiento - ERSAPS15
+Honduras,HN,HND,340,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Informe de Indicadores 2015 Sector Agua Potable y Saneamiento - ERSAPS15
+Honduras,HN,HND,340,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Informe de Indicadores 2015 Sector Agua Potable y Saneamiento - ERSAPS15
+Honduras,HN,HND,340,Urban,8,Dry latrines - Traditional latrine,0.0,Informe de Indicadores 2015 Sector Agua Potable y Saneamiento - ERSAPS15
+Honduras,HN,HND,340,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Informe de Indicadores 2015 Sector Agua Potable y Saneamiento - ERSAPS15
+Honduras,HN,HND,340,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Informe de Indicadores 2015 Sector Agua Potable y Saneamiento - ERSAPS15
+Honduras,HN,HND,340,Urban,11,Dry latrines - Bucket latrine,0.0,Informe de Indicadores 2015 Sector Agua Potable y Saneamiento - ERSAPS15
+Honduras,HN,HND,340,Urban,12,Dry latrines - Other,0.0,Informe de Indicadores 2015 Sector Agua Potable y Saneamiento - ERSAPS15
+Honduras,HN,HND,340,Urban,13,Composting toilets,0.0,Informe de Indicadores 2015 Sector Agua Potable y Saneamiento - ERSAPS15
+Honduras,HN,HND,340,Urban,14,Other improved,0.0,Informe de Indicadores 2015 Sector Agua Potable y Saneamiento - ERSAPS15
+Honduras,HN,HND,340,Urban,15,"No facility, bush, field",0.0,Informe de Indicadores 2015 Sector Agua Potable y Saneamiento - ERSAPS15
+Honduras,HN,HND,340,Urban,16,Other unimproved,0.0,Informe de Indicadores 2015 Sector Agua Potable y Saneamiento - ERSAPS15
+Honduras,HN,HND,340,Urban,17,DK/missing information,0.0,Informe de Indicadores 2015 Sector Agua Potable y Saneamiento - ERSAPS15
+Honduras,HN,HND,340,Rural,1,Flush and pour flush - to piped sewer system,0.0,Informe de Indicadores 2015 Sector Agua Potable y Saneamiento - ERSAPS15
+Honduras,HN,HND,340,Rural,2,Flush and pour flush - to septic tank,0.0,Informe de Indicadores 2015 Sector Agua Potable y Saneamiento - ERSAPS15
+Honduras,HN,HND,340,Rural,3,Flush and pour flush - to pit,0.0,Informe de Indicadores 2015 Sector Agua Potable y Saneamiento - ERSAPS15
+Honduras,HN,HND,340,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Informe de Indicadores 2015 Sector Agua Potable y Saneamiento - ERSAPS15
+Honduras,HN,HND,340,Rural,5,Flush and pour flush - to elsewhere,0.0,Informe de Indicadores 2015 Sector Agua Potable y Saneamiento - ERSAPS15
+Honduras,HN,HND,340,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Informe de Indicadores 2015 Sector Agua Potable y Saneamiento - ERSAPS15
+Honduras,HN,HND,340,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Informe de Indicadores 2015 Sector Agua Potable y Saneamiento - ERSAPS15
+Honduras,HN,HND,340,Rural,8,Dry latrines - Traditional latrine,0.0,Informe de Indicadores 2015 Sector Agua Potable y Saneamiento - ERSAPS15
+Honduras,HN,HND,340,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Informe de Indicadores 2015 Sector Agua Potable y Saneamiento - ERSAPS15
+Honduras,HN,HND,340,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Informe de Indicadores 2015 Sector Agua Potable y Saneamiento - ERSAPS15
+Honduras,HN,HND,340,Rural,11,Dry latrines - Bucket latrine,0.0,Informe de Indicadores 2015 Sector Agua Potable y Saneamiento - ERSAPS15
+Honduras,HN,HND,340,Rural,12,Dry latrines - Other,0.0,Informe de Indicadores 2015 Sector Agua Potable y Saneamiento - ERSAPS15
+Honduras,HN,HND,340,Rural,13,Composting toilets,0.0,Informe de Indicadores 2015 Sector Agua Potable y Saneamiento - ERSAPS15
+Honduras,HN,HND,340,Rural,14,Other improved,0.0,Informe de Indicadores 2015 Sector Agua Potable y Saneamiento - ERSAPS15
+Honduras,HN,HND,340,Rural,15,"No facility, bush, field",0.0,Informe de Indicadores 2015 Sector Agua Potable y Saneamiento - ERSAPS15
+Honduras,HN,HND,340,Rural,16,Other unimproved,0.0,Informe de Indicadores 2015 Sector Agua Potable y Saneamiento - ERSAPS15
+Honduras,HN,HND,340,Rural,17,DK/missing information,0.0,Informe de Indicadores 2015 Sector Agua Potable y Saneamiento - ERSAPS15
+Honduras,HN,HND,340,Urban,1,Flush and pour flush - to piped sewer system,0.0,Informe de Indicadores 2016 Sector Agua Potable y Saneamiento - ERSAPS16
+Honduras,HN,HND,340,Urban,2,Flush and pour flush - to septic tank,0.0,Informe de Indicadores 2016 Sector Agua Potable y Saneamiento - ERSAPS16
+Honduras,HN,HND,340,Urban,3,Flush and pour flush - to pit,0.0,Informe de Indicadores 2016 Sector Agua Potable y Saneamiento - ERSAPS16
+Honduras,HN,HND,340,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Informe de Indicadores 2016 Sector Agua Potable y Saneamiento - ERSAPS16
+Honduras,HN,HND,340,Urban,5,Flush and pour flush - to elsewhere,0.0,Informe de Indicadores 2016 Sector Agua Potable y Saneamiento - ERSAPS16
+Honduras,HN,HND,340,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Informe de Indicadores 2016 Sector Agua Potable y Saneamiento - ERSAPS16
+Honduras,HN,HND,340,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Informe de Indicadores 2016 Sector Agua Potable y Saneamiento - ERSAPS16
+Honduras,HN,HND,340,Urban,8,Dry latrines - Traditional latrine,0.0,Informe de Indicadores 2016 Sector Agua Potable y Saneamiento - ERSAPS16
+Honduras,HN,HND,340,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Informe de Indicadores 2016 Sector Agua Potable y Saneamiento - ERSAPS16
+Honduras,HN,HND,340,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Informe de Indicadores 2016 Sector Agua Potable y Saneamiento - ERSAPS16
+Honduras,HN,HND,340,Urban,11,Dry latrines - Bucket latrine,0.0,Informe de Indicadores 2016 Sector Agua Potable y Saneamiento - ERSAPS16
+Honduras,HN,HND,340,Urban,12,Dry latrines - Other,0.0,Informe de Indicadores 2016 Sector Agua Potable y Saneamiento - ERSAPS16
+Honduras,HN,HND,340,Urban,13,Composting toilets,0.0,Informe de Indicadores 2016 Sector Agua Potable y Saneamiento - ERSAPS16
+Honduras,HN,HND,340,Urban,14,Other improved,0.0,Informe de Indicadores 2016 Sector Agua Potable y Saneamiento - ERSAPS16
+Honduras,HN,HND,340,Urban,15,"No facility, bush, field",0.0,Informe de Indicadores 2016 Sector Agua Potable y Saneamiento - ERSAPS16
+Honduras,HN,HND,340,Urban,16,Other unimproved,0.0,Informe de Indicadores 2016 Sector Agua Potable y Saneamiento - ERSAPS16
+Honduras,HN,HND,340,Urban,17,DK/missing information,0.0,Informe de Indicadores 2016 Sector Agua Potable y Saneamiento - ERSAPS16
+Honduras,HN,HND,340,Rural,1,Flush and pour flush - to piped sewer system,0.0,Informe de Indicadores 2016 Sector Agua Potable y Saneamiento - ERSAPS16
+Honduras,HN,HND,340,Rural,2,Flush and pour flush - to septic tank,0.0,Informe de Indicadores 2016 Sector Agua Potable y Saneamiento - ERSAPS16
+Honduras,HN,HND,340,Rural,3,Flush and pour flush - to pit,0.0,Informe de Indicadores 2016 Sector Agua Potable y Saneamiento - ERSAPS16
+Honduras,HN,HND,340,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Informe de Indicadores 2016 Sector Agua Potable y Saneamiento - ERSAPS16
+Honduras,HN,HND,340,Rural,5,Flush and pour flush - to elsewhere,0.0,Informe de Indicadores 2016 Sector Agua Potable y Saneamiento - ERSAPS16
+Honduras,HN,HND,340,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Informe de Indicadores 2016 Sector Agua Potable y Saneamiento - ERSAPS16
+Honduras,HN,HND,340,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Informe de Indicadores 2016 Sector Agua Potable y Saneamiento - ERSAPS16
+Honduras,HN,HND,340,Rural,8,Dry latrines - Traditional latrine,0.0,Informe de Indicadores 2016 Sector Agua Potable y Saneamiento - ERSAPS16
+Honduras,HN,HND,340,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Informe de Indicadores 2016 Sector Agua Potable y Saneamiento - ERSAPS16
+Honduras,HN,HND,340,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Informe de Indicadores 2016 Sector Agua Potable y Saneamiento - ERSAPS16
+Honduras,HN,HND,340,Rural,11,Dry latrines - Bucket latrine,0.0,Informe de Indicadores 2016 Sector Agua Potable y Saneamiento - ERSAPS16
+Honduras,HN,HND,340,Rural,12,Dry latrines - Other,0.0,Informe de Indicadores 2016 Sector Agua Potable y Saneamiento - ERSAPS16
+Honduras,HN,HND,340,Rural,13,Composting toilets,0.0,Informe de Indicadores 2016 Sector Agua Potable y Saneamiento - ERSAPS16
+Honduras,HN,HND,340,Rural,14,Other improved,0.0,Informe de Indicadores 2016 Sector Agua Potable y Saneamiento - ERSAPS16
+Honduras,HN,HND,340,Rural,15,"No facility, bush, field",0.0,Informe de Indicadores 2016 Sector Agua Potable y Saneamiento - ERSAPS16
+Honduras,HN,HND,340,Rural,16,Other unimproved,0.0,Informe de Indicadores 2016 Sector Agua Potable y Saneamiento - ERSAPS16
+Honduras,HN,HND,340,Rural,17,DK/missing information,0.0,Informe de Indicadores 2016 Sector Agua Potable y Saneamiento - ERSAPS16
+Honduras,HN,HND,340,Urban,1,Flush and pour flush - to piped sewer system,0.644,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM17
+Honduras,HN,HND,340,Urban,2,Flush and pour flush - to septic tank,0.208,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM17
+Honduras,HN,HND,340,Urban,3,Flush and pour flush - to pit,0.0,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM17
+Honduras,HN,HND,340,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.001,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM17
+Honduras,HN,HND,340,Urban,5,Flush and pour flush - to elsewhere,0.017,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM17
+Honduras,HN,HND,340,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM17
+Honduras,HN,HND,340,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.066,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM17
+Honduras,HN,HND,340,Urban,8,Dry latrines - Traditional latrine,0.041,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM17
+Honduras,HN,HND,340,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM17
+Honduras,HN,HND,340,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM17
+Honduras,HN,HND,340,Urban,11,Dry latrines - Bucket latrine,0.0,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM17
+Honduras,HN,HND,340,Urban,12,Dry latrines - Other,0.0,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM17
+Honduras,HN,HND,340,Urban,13,Composting toilets,0.006,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM17
+Honduras,HN,HND,340,Urban,14,Other improved,0.0,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM17
+Honduras,HN,HND,340,Urban,15,"No facility, bush, field",0.017,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM17
+Honduras,HN,HND,340,Urban,16,Other unimproved,0.0,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM17
+Honduras,HN,HND,340,Urban,17,DK/missing information,0.0,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM17
+Honduras,HN,HND,340,Rural,1,Flush and pour flush - to piped sewer system,0.03,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM17
+Honduras,HN,HND,340,Rural,2,Flush and pour flush - to septic tank,0.264,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM17
+Honduras,HN,HND,340,Rural,3,Flush and pour flush - to pit,0.0,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM17
+Honduras,HN,HND,340,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.008,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM17
+Honduras,HN,HND,340,Rural,5,Flush and pour flush - to elsewhere,0.017,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM17
+Honduras,HN,HND,340,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM17
+Honduras,HN,HND,340,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.463,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM17
+Honduras,HN,HND,340,Rural,8,Dry latrines - Traditional latrine,0.075,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM17
+Honduras,HN,HND,340,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM17
+Honduras,HN,HND,340,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM17
+Honduras,HN,HND,340,Rural,11,Dry latrines - Bucket latrine,0.0,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM17
+Honduras,HN,HND,340,Rural,12,Dry latrines - Other,0.0,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM17
+Honduras,HN,HND,340,Rural,13,Composting toilets,0.0,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM17
+Honduras,HN,HND,340,Rural,14,Other improved,0.0,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM17
+Honduras,HN,HND,340,Rural,15,"No facility, bush, field",0.142,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM17
+Honduras,HN,HND,340,Rural,16,Other unimproved,0.001,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM17
+Honduras,HN,HND,340,Rural,17,DK/missing information,0.0,Encuesta Permanente de Hogares de Propósitos Múltiples - EPHPM17

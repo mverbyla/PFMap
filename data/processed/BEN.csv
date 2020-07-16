@@ -1,0 +1,103 @@
+country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+Benin,BJ,BEN,204,Urban,1,Flush and pour flush - to piped sewer system,0.012,ENQUETE MODULAIRE INTEGREE SUR LES CONDITIONS DE VIE DES MENAGES 2ème ÉDITION (EMICoV 2011) - EMICOV11
+Benin,BJ,BEN,204,Urban,2,Flush and pour flush - to septic tank,0.076,ENQUETE MODULAIRE INTEGREE SUR LES CONDITIONS DE VIE DES MENAGES 2ème ÉDITION (EMICoV 2011) - EMICOV11
+Benin,BJ,BEN,204,Urban,3,Flush and pour flush - to pit,0.014,ENQUETE MODULAIRE INTEGREE SUR LES CONDITIONS DE VIE DES MENAGES 2ème ÉDITION (EMICoV 2011) - EMICOV11
+Benin,BJ,BEN,204,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.001,ENQUETE MODULAIRE INTEGREE SUR LES CONDITIONS DE VIE DES MENAGES 2ème ÉDITION (EMICoV 2011) - EMICOV11
+Benin,BJ,BEN,204,Urban,5,Flush and pour flush - to elsewhere,0.001,ENQUETE MODULAIRE INTEGREE SUR LES CONDITIONS DE VIE DES MENAGES 2ème ÉDITION (EMICoV 2011) - EMICOV11
+Benin,BJ,BEN,204,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.067,ENQUETE MODULAIRE INTEGREE SUR LES CONDITIONS DE VIE DES MENAGES 2ème ÉDITION (EMICoV 2011) - EMICOV11
+Benin,BJ,BEN,204,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.425,ENQUETE MODULAIRE INTEGREE SUR LES CONDITIONS DE VIE DES MENAGES 2ème ÉDITION (EMICoV 2011) - EMICOV11
+Benin,BJ,BEN,204,Urban,8,Dry latrines - Traditional latrine,0.0,ENQUETE MODULAIRE INTEGREE SUR LES CONDITIONS DE VIE DES MENAGES 2ème ÉDITION (EMICoV 2011) - EMICOV11
+Benin,BJ,BEN,204,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.092,ENQUETE MODULAIRE INTEGREE SUR LES CONDITIONS DE VIE DES MENAGES 2ème ÉDITION (EMICoV 2011) - EMICOV11
+Benin,BJ,BEN,204,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.022,ENQUETE MODULAIRE INTEGREE SUR LES CONDITIONS DE VIE DES MENAGES 2ème ÉDITION (EMICoV 2011) - EMICOV11
+Benin,BJ,BEN,204,Urban,11,Dry latrines - Bucket latrine,0.0,ENQUETE MODULAIRE INTEGREE SUR LES CONDITIONS DE VIE DES MENAGES 2ème ÉDITION (EMICoV 2011) - EMICOV11
+Benin,BJ,BEN,204,Urban,12,Dry latrines - Other,0.0,ENQUETE MODULAIRE INTEGREE SUR LES CONDITIONS DE VIE DES MENAGES 2ème ÉDITION (EMICoV 2011) - EMICOV11
+Benin,BJ,BEN,204,Urban,13,Composting toilets,0.005,ENQUETE MODULAIRE INTEGREE SUR LES CONDITIONS DE VIE DES MENAGES 2ème ÉDITION (EMICoV 2011) - EMICOV11
+Benin,BJ,BEN,204,Urban,14,Other improved,0.0,ENQUETE MODULAIRE INTEGREE SUR LES CONDITIONS DE VIE DES MENAGES 2ème ÉDITION (EMICoV 2011) - EMICOV11
+Benin,BJ,BEN,204,Urban,15,"No facility, bush, field",0.279,ENQUETE MODULAIRE INTEGREE SUR LES CONDITIONS DE VIE DES MENAGES 2ème ÉDITION (EMICoV 2011) - EMICOV11
+Benin,BJ,BEN,204,Urban,16,Other unimproved,0.007,ENQUETE MODULAIRE INTEGREE SUR LES CONDITIONS DE VIE DES MENAGES 2ème ÉDITION (EMICoV 2011) - EMICOV11
+Benin,BJ,BEN,204,Urban,17,DK/missing information,0.0,ENQUETE MODULAIRE INTEGREE SUR LES CONDITIONS DE VIE DES MENAGES 2ème ÉDITION (EMICoV 2011) - EMICOV11
+Benin,BJ,BEN,204,Rural,1,Flush and pour flush - to piped sewer system,0.002,ENQUETE MODULAIRE INTEGREE SUR LES CONDITIONS DE VIE DES MENAGES 2ème ÉDITION (EMICoV 2011) - EMICOV11
+Benin,BJ,BEN,204,Rural,2,Flush and pour flush - to septic tank,0.002,ENQUETE MODULAIRE INTEGREE SUR LES CONDITIONS DE VIE DES MENAGES 2ème ÉDITION (EMICoV 2011) - EMICOV11
+Benin,BJ,BEN,204,Rural,3,Flush and pour flush - to pit,0.0,ENQUETE MODULAIRE INTEGREE SUR LES CONDITIONS DE VIE DES MENAGES 2ème ÉDITION (EMICoV 2011) - EMICOV11
+Benin,BJ,BEN,204,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,ENQUETE MODULAIRE INTEGREE SUR LES CONDITIONS DE VIE DES MENAGES 2ème ÉDITION (EMICoV 2011) - EMICOV11
+Benin,BJ,BEN,204,Rural,5,Flush and pour flush - to elsewhere,0.0,ENQUETE MODULAIRE INTEGREE SUR LES CONDITIONS DE VIE DES MENAGES 2ème ÉDITION (EMICoV 2011) - EMICOV11
+Benin,BJ,BEN,204,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.008,ENQUETE MODULAIRE INTEGREE SUR LES CONDITIONS DE VIE DES MENAGES 2ème ÉDITION (EMICoV 2011) - EMICOV11
+Benin,BJ,BEN,204,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.107,ENQUETE MODULAIRE INTEGREE SUR LES CONDITIONS DE VIE DES MENAGES 2ème ÉDITION (EMICoV 2011) - EMICOV11
+Benin,BJ,BEN,204,Rural,8,Dry latrines - Traditional latrine,0.0,ENQUETE MODULAIRE INTEGREE SUR LES CONDITIONS DE VIE DES MENAGES 2ème ÉDITION (EMICoV 2011) - EMICOV11
+Benin,BJ,BEN,204,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.049,ENQUETE MODULAIRE INTEGREE SUR LES CONDITIONS DE VIE DES MENAGES 2ème ÉDITION (EMICoV 2011) - EMICOV11
+Benin,BJ,BEN,204,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.012,ENQUETE MODULAIRE INTEGREE SUR LES CONDITIONS DE VIE DES MENAGES 2ème ÉDITION (EMICoV 2011) - EMICOV11
+Benin,BJ,BEN,204,Rural,11,Dry latrines - Bucket latrine,0.0,ENQUETE MODULAIRE INTEGREE SUR LES CONDITIONS DE VIE DES MENAGES 2ème ÉDITION (EMICoV 2011) - EMICOV11
+Benin,BJ,BEN,204,Rural,12,Dry latrines - Other,0.0,ENQUETE MODULAIRE INTEGREE SUR LES CONDITIONS DE VIE DES MENAGES 2ème ÉDITION (EMICoV 2011) - EMICOV11
+Benin,BJ,BEN,204,Rural,13,Composting toilets,0.002,ENQUETE MODULAIRE INTEGREE SUR LES CONDITIONS DE VIE DES MENAGES 2ème ÉDITION (EMICoV 2011) - EMICOV11
+Benin,BJ,BEN,204,Rural,14,Other improved,0.0,ENQUETE MODULAIRE INTEGREE SUR LES CONDITIONS DE VIE DES MENAGES 2ème ÉDITION (EMICoV 2011) - EMICOV11
+Benin,BJ,BEN,204,Rural,15,"No facility, bush, field",0.814,ENQUETE MODULAIRE INTEGREE SUR LES CONDITIONS DE VIE DES MENAGES 2ème ÉDITION (EMICoV 2011) - EMICOV11
+Benin,BJ,BEN,204,Rural,16,Other unimproved,0.002,ENQUETE MODULAIRE INTEGREE SUR LES CONDITIONS DE VIE DES MENAGES 2ème ÉDITION (EMICoV 2011) - EMICOV11
+Benin,BJ,BEN,204,Rural,17,DK/missing information,0.0,ENQUETE MODULAIRE INTEGREE SUR LES CONDITIONS DE VIE DES MENAGES 2ème ÉDITION (EMICoV 2011) - EMICOV11
+Benin,BJ,BEN,204,Urban,1,Flush and pour flush - to piped sewer system,0.021,Enquête Démographique et de Santé - DHS12
+Benin,BJ,BEN,204,Urban,2,Flush and pour flush - to septic tank,0.1,Enquête Démographique et de Santé - DHS12
+Benin,BJ,BEN,204,Urban,3,Flush and pour flush - to pit,0.017,Enquête Démographique et de Santé - DHS12
+Benin,BJ,BEN,204,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.001,Enquête Démographique et de Santé - DHS12
+Benin,BJ,BEN,204,Urban,5,Flush and pour flush - to elsewhere,0.001,Enquête Démographique et de Santé - DHS12
+Benin,BJ,BEN,204,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.045,Enquête Démographique et de Santé - DHS12
+Benin,BJ,BEN,204,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.382,Enquête Démographique et de Santé - DHS12
+Benin,BJ,BEN,204,Urban,8,Dry latrines - Traditional latrine,0.0,Enquête Démographique et de Santé - DHS12
+Benin,BJ,BEN,204,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.134,Enquête Démographique et de Santé - DHS12
+Benin,BJ,BEN,204,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.013,Enquête Démographique et de Santé - DHS12
+Benin,BJ,BEN,204,Urban,11,Dry latrines - Bucket latrine,0.0,Enquête Démographique et de Santé - DHS12
+Benin,BJ,BEN,204,Urban,12,Dry latrines - Other,0.0,Enquête Démographique et de Santé - DHS12
+Benin,BJ,BEN,204,Urban,13,Composting toilets,0.008,Enquête Démographique et de Santé - DHS12
+Benin,BJ,BEN,204,Urban,14,Other improved,0.0,Enquête Démographique et de Santé - DHS12
+Benin,BJ,BEN,204,Urban,15,"No facility, bush, field",0.278,Enquête Démographique et de Santé - DHS12
+Benin,BJ,BEN,204,Urban,16,Other unimproved,0.0,Enquête Démographique et de Santé - DHS12
+Benin,BJ,BEN,204,Urban,17,DK/missing information,0.0,Enquête Démographique et de Santé - DHS12
+Benin,BJ,BEN,204,Rural,1,Flush and pour flush - to piped sewer system,0.004,Enquête Démographique et de Santé - DHS12
+Benin,BJ,BEN,204,Rural,2,Flush and pour flush - to septic tank,0.004,Enquête Démographique et de Santé - DHS12
+Benin,BJ,BEN,204,Rural,3,Flush and pour flush - to pit,0.001,Enquête Démographique et de Santé - DHS12
+Benin,BJ,BEN,204,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.001,Enquête Démographique et de Santé - DHS12
+Benin,BJ,BEN,204,Rural,5,Flush and pour flush - to elsewhere,0.0,Enquête Démographique et de Santé - DHS12
+Benin,BJ,BEN,204,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.019,Enquête Démographique et de Santé - DHS12
+Benin,BJ,BEN,204,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.084,Enquête Démographique et de Santé - DHS12
+Benin,BJ,BEN,204,Rural,8,Dry latrines - Traditional latrine,0.0,Enquête Démographique et de Santé - DHS12
+Benin,BJ,BEN,204,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.077,Enquête Démographique et de Santé - DHS12
+Benin,BJ,BEN,204,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.014,Enquête Démographique et de Santé - DHS12
+Benin,BJ,BEN,204,Rural,11,Dry latrines - Bucket latrine,0.0,Enquête Démographique et de Santé - DHS12
+Benin,BJ,BEN,204,Rural,12,Dry latrines - Other,0.0,Enquête Démographique et de Santé - DHS12
+Benin,BJ,BEN,204,Rural,13,Composting toilets,0.01,Enquête Démographique et de Santé - DHS12
+Benin,BJ,BEN,204,Rural,14,Other improved,0.0,Enquête Démographique et de Santé - DHS12
+Benin,BJ,BEN,204,Rural,15,"No facility, bush, field",0.786,Enquête Démographique et de Santé - DHS12
+Benin,BJ,BEN,204,Rural,16,Other unimproved,0.0,Enquête Démographique et de Santé - DHS12
+Benin,BJ,BEN,204,Rural,17,DK/missing information,0.0,Enquête Démographique et de Santé - DHS12
+Benin,BJ,BEN,204,Urban,1,Flush and pour flush - to piped sewer system,0.008,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Benin,BJ,BEN,204,Urban,2,Flush and pour flush - to septic tank,0.0,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Benin,BJ,BEN,204,Urban,3,Flush and pour flush - to pit,0.0,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Benin,BJ,BEN,204,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Benin,BJ,BEN,204,Urban,5,Flush and pour flush - to elsewhere,0.0,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Benin,BJ,BEN,204,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.157,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Benin,BJ,BEN,204,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.279,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Benin,BJ,BEN,204,Urban,8,Dry latrines - Traditional latrine,0.0,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Benin,BJ,BEN,204,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.094,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Benin,BJ,BEN,204,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.005,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Benin,BJ,BEN,204,Urban,11,Dry latrines - Bucket latrine,0.0,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Benin,BJ,BEN,204,Urban,12,Dry latrines - Other,0.0,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Benin,BJ,BEN,204,Urban,13,Composting toilets,0.003,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Benin,BJ,BEN,204,Urban,14,Other improved,0.0,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Benin,BJ,BEN,204,Urban,15,"No facility, bush, field",0.356,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Benin,BJ,BEN,204,Urban,16,Other unimproved,0.011,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Benin,BJ,BEN,204,Urban,17,DK/missing information,0.0,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Benin,BJ,BEN,204,Rural,1,Flush and pour flush - to piped sewer system,0.002,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Benin,BJ,BEN,204,Rural,2,Flush and pour flush - to septic tank,0.0,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Benin,BJ,BEN,204,Rural,3,Flush and pour flush - to pit,0.0,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Benin,BJ,BEN,204,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Benin,BJ,BEN,204,Rural,5,Flush and pour flush - to elsewhere,0.0,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Benin,BJ,BEN,204,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.028,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Benin,BJ,BEN,204,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.118,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Benin,BJ,BEN,204,Rural,8,Dry latrines - Traditional latrine,0.0,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Benin,BJ,BEN,204,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.05,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Benin,BJ,BEN,204,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.01,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Benin,BJ,BEN,204,Rural,11,Dry latrines - Bucket latrine,0.0,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Benin,BJ,BEN,204,Rural,12,Dry latrines - Other,0.0,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Benin,BJ,BEN,204,Rural,13,Composting toilets,0.001,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Benin,BJ,BEN,204,Rural,14,Other improved,0.0,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Benin,BJ,BEN,204,Rural,15,"No facility, bush, field",0.771,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Benin,BJ,BEN,204,Rural,16,Other unimproved,0.012,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Benin,BJ,BEN,204,Rural,17,DK/missing information,0.0,"Multiple Indicator Cluster Survey, 2014 - MICS14"

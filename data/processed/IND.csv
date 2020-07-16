@@ -1,0 +1,147 @@
+country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+India,IN,IND,356,Urban,1,Flush and pour flush - to piped sewer system,0.283,Demographic and Health Survey - NFHS06
+India,IN,IND,356,Urban,2,Flush and pour flush - to septic tank,0.391,Demographic and Health Survey - NFHS06
+India,IN,IND,356,Urban,3,Flush and pour flush - to pit,0.069,Demographic and Health Survey - NFHS06
+India,IN,IND,356,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.001,Demographic and Health Survey - NFHS06
+India,IN,IND,356,Urban,5,Flush and pour flush - to elsewhere,0.04,Demographic and Health Survey - NFHS06
+India,IN,IND,356,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.006,Demographic and Health Survey - NFHS06
+India,IN,IND,356,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.021,Demographic and Health Survey - NFHS06
+India,IN,IND,356,Urban,8,Dry latrines - Traditional latrine,0.007,Demographic and Health Survey - NFHS06
+India,IN,IND,356,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.007,Demographic and Health Survey - NFHS06
+India,IN,IND,356,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - NFHS06
+India,IN,IND,356,Urban,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - NFHS06
+India,IN,IND,356,Urban,12,Dry latrines - Other,0.0,Demographic and Health Survey - NFHS06
+India,IN,IND,356,Urban,13,Composting toilets,0.001,Demographic and Health Survey - NFHS06
+India,IN,IND,356,Urban,14,Other improved,0.0,Demographic and Health Survey - NFHS06
+India,IN,IND,356,Urban,15,"No facility, bush, field",0.17,Demographic and Health Survey - NFHS06
+India,IN,IND,356,Urban,16,Other unimproved,0.004,Demographic and Health Survey - NFHS06
+India,IN,IND,356,Urban,17,DK/missing information,0.0,Demographic and Health Survey - NFHS06
+India,IN,IND,356,Rural,1,Flush and pour flush - to piped sewer system,0.008,Demographic and Health Survey - NFHS06
+India,IN,IND,356,Rural,2,Flush and pour flush - to septic tank,0.135,Demographic and Health Survey - NFHS06
+India,IN,IND,356,Rural,3,Flush and pour flush - to pit,0.054,Demographic and Health Survey - NFHS06
+India,IN,IND,356,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - NFHS06
+India,IN,IND,356,Rural,5,Flush and pour flush - to elsewhere,0.002,Demographic and Health Survey - NFHS06
+India,IN,IND,356,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.002,Demographic and Health Survey - NFHS06
+India,IN,IND,356,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.029,Demographic and Health Survey - NFHS06
+India,IN,IND,356,Rural,8,Dry latrines - Traditional latrine,0.007,Demographic and Health Survey - NFHS06
+India,IN,IND,356,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.023,Demographic and Health Survey - NFHS06
+India,IN,IND,356,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - NFHS06
+India,IN,IND,356,Rural,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - NFHS06
+India,IN,IND,356,Rural,12,Dry latrines - Other,0.0,Demographic and Health Survey - NFHS06
+India,IN,IND,356,Rural,13,Composting toilets,0.0,Demographic and Health Survey - NFHS06
+India,IN,IND,356,Rural,14,Other improved,0.0,Demographic and Health Survey - NFHS06
+India,IN,IND,356,Rural,15,"No facility, bush, field",0.739,Demographic and Health Survey - NFHS06
+India,IN,IND,356,Rural,16,Other unimproved,0.001,Demographic and Health Survey - NFHS06
+India,IN,IND,356,Rural,17,DK/missing information,0.0,Demographic and Health Survey - NFHS06
+India,IN,IND,356,Urban,1,Flush and pour flush - to piped sewer system,0.327,Census - CEN11
+India,IN,IND,356,Urban,2,Flush and pour flush - to septic tank,0.382,Census - CEN11
+India,IN,IND,356,Urban,3,Flush and pour flush - to pit,0.0,Census - CEN11
+India,IN,IND,356,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.017,Census - CEN11
+India,IN,IND,356,Urban,5,Flush and pour flush - to elsewhere,0.0,Census - CEN11
+India,IN,IND,356,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN11
+India,IN,IND,356,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.064,Census - CEN11
+India,IN,IND,356,Urban,8,Dry latrines - Traditional latrine,0.06,Census - CEN11
+India,IN,IND,356,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.007,Census - CEN11
+India,IN,IND,356,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN11
+India,IN,IND,356,Urban,11,Dry latrines - Bucket latrine,0.0,Census - CEN11
+India,IN,IND,356,Urban,12,Dry latrines - Other,0.012,Census - CEN11
+India,IN,IND,356,Urban,8,Dry latrines - Traditional latrine,0.06,Census - CEN11
+India,IN,IND,356,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN11
+India,IN,IND,356,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN11
+India,IN,IND,356,Urban,11,Dry latrines - Bucket latrine,0.0,Census - CEN11
+India,IN,IND,356,Urban,12,Dry latrines - Other,0.0,Census - CEN11
+India,IN,IND,356,Urban,13,Composting toilets,0.0,Census - CEN11
+India,IN,IND,356,Urban,14,Other improved,0.002,Census - CEN11
+India,IN,IND,356,Urban,15,"No facility, bush, field",0.126,Census - CEN11
+India,IN,IND,356,Urban,16,Other unimproved,0.003,Census - CEN11
+India,IN,IND,356,Urban,17,DK/missing information,0.0,Census - CEN11
+India,IN,IND,356,Rural,1,Flush and pour flush - to piped sewer system,0.022,Census - CEN11
+India,IN,IND,356,Rural,2,Flush and pour flush - to septic tank,0.147,Census - CEN11
+India,IN,IND,356,Rural,3,Flush and pour flush - to pit,0.0,Census - CEN11
+India,IN,IND,356,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.025,Census - CEN11
+India,IN,IND,356,Rural,5,Flush and pour flush - to elsewhere,0.0,Census - CEN11
+India,IN,IND,356,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN11
+India,IN,IND,356,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.082,Census - CEN11
+India,IN,IND,356,Rural,8,Dry latrines - Traditional latrine,0.019,Census - CEN11
+India,IN,IND,356,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.023,Census - CEN11
+India,IN,IND,356,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN11
+India,IN,IND,356,Rural,11,Dry latrines - Bucket latrine,0.0,Census - CEN11
+India,IN,IND,356,Rural,12,Dry latrines - Other,0.002,Census - CEN11
+India,IN,IND,356,Rural,8,Dry latrines - Traditional latrine,0.019,Census - CEN11
+India,IN,IND,356,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN11
+India,IN,IND,356,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN11
+India,IN,IND,356,Rural,11,Dry latrines - Bucket latrine,0.0,Census - CEN11
+India,IN,IND,356,Rural,12,Dry latrines - Other,0.0,Census - CEN11
+India,IN,IND,356,Rural,13,Composting toilets,0.0,Census - CEN11
+India,IN,IND,356,Rural,14,Other improved,0.002,Census - CEN11
+India,IN,IND,356,Rural,15,"No facility, bush, field",0.673,Census - CEN11
+India,IN,IND,356,Rural,16,Other unimproved,0.003,Census - CEN11
+India,IN,IND,356,Rural,17,DK/missing information,0.0,Census - CEN11
+India,IN,IND,356,Urban,1,Flush and pour flush - to piped sewer system,0.363,National sample survey 69th round - NSS12
+India,IN,IND,356,Urban,2,Flush and pour flush - to septic tank,0.454,National sample survey 69th round - NSS12
+India,IN,IND,356,Urban,3,Flush and pour flush - to pit,0.061,National sample survey 69th round - NSS12
+India,IN,IND,356,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National sample survey 69th round - NSS12
+India,IN,IND,356,Urban,5,Flush and pour flush - to elsewhere,0.009,National sample survey 69th round - NSS12
+India,IN,IND,356,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.005,National sample survey 69th round - NSS12
+India,IN,IND,356,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.013,National sample survey 69th round - NSS12
+India,IN,IND,356,Urban,8,Dry latrines - Traditional latrine,0.0,National sample survey 69th round - NSS12
+India,IN,IND,356,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.001,National sample survey 69th round - NSS12
+India,IN,IND,356,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National sample survey 69th round - NSS12
+India,IN,IND,356,Urban,11,Dry latrines - Bucket latrine,0.0,National sample survey 69th round - NSS12
+India,IN,IND,356,Urban,12,Dry latrines - Other,0.0,National sample survey 69th round - NSS12
+India,IN,IND,356,Urban,13,Composting toilets,0.0,National sample survey 69th round - NSS12
+India,IN,IND,356,Urban,14,Other improved,0.0,National sample survey 69th round - NSS12
+India,IN,IND,356,Urban,15,"No facility, bush, field",0.091,National sample survey 69th round - NSS12
+India,IN,IND,356,Urban,16,Other unimproved,0.003,National sample survey 69th round - NSS12
+India,IN,IND,356,Urban,17,DK/missing information,0.0,National sample survey 69th round - NSS12
+India,IN,IND,356,Rural,1,Flush and pour flush - to piped sewer system,0.013,National sample survey 69th round - NSS12
+India,IN,IND,356,Rural,2,Flush and pour flush - to septic tank,0.226,National sample survey 69th round - NSS12
+India,IN,IND,356,Rural,3,Flush and pour flush - to pit,0.107,National sample survey 69th round - NSS12
+India,IN,IND,356,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National sample survey 69th round - NSS12
+India,IN,IND,356,Rural,5,Flush and pour flush - to elsewhere,0.003,National sample survey 69th round - NSS12
+India,IN,IND,356,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.006,National sample survey 69th round - NSS12
+India,IN,IND,356,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.037,National sample survey 69th round - NSS12
+India,IN,IND,356,Rural,8,Dry latrines - Traditional latrine,0.0,National sample survey 69th round - NSS12
+India,IN,IND,356,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.006,National sample survey 69th round - NSS12
+India,IN,IND,356,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National sample survey 69th round - NSS12
+India,IN,IND,356,Rural,11,Dry latrines - Bucket latrine,0.0,National sample survey 69th round - NSS12
+India,IN,IND,356,Rural,12,Dry latrines - Other,0.0,National sample survey 69th round - NSS12
+India,IN,IND,356,Rural,13,Composting toilets,0.0,National sample survey 69th round - NSS12
+India,IN,IND,356,Rural,14,Other improved,0.0,National sample survey 69th round - NSS12
+India,IN,IND,356,Rural,15,"No facility, bush, field",0.601,National sample survey 69th round - NSS12
+India,IN,IND,356,Rural,16,Other unimproved,0.001,National sample survey 69th round - NSS12
+India,IN,IND,356,Rural,17,DK/missing information,0.0,National sample survey 69th round - NSS12
+India,IN,IND,356,Urban,1,Flush and pour flush - to piped sewer system,0.225,Demographic and Health Survey - DHS16
+India,IN,IND,356,Urban,2,Flush and pour flush - to septic tank,0.505,Demographic and Health Survey - DHS16
+India,IN,IND,356,Urban,3,Flush and pour flush - to pit,0.078,Demographic and Health Survey - DHS16
+India,IN,IND,356,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.002,Demographic and Health Survey - DHS16
+India,IN,IND,356,Urban,5,Flush and pour flush - to elsewhere,0.027,Demographic and Health Survey - DHS16
+India,IN,IND,356,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.006,Demographic and Health Survey - DHS16
+India,IN,IND,356,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.036,Demographic and Health Survey - DHS16
+India,IN,IND,356,Urban,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS16
+India,IN,IND,356,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.005,Demographic and Health Survey - DHS16
+India,IN,IND,356,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS16
+India,IN,IND,356,Urban,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS16
+India,IN,IND,356,Urban,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS16
+India,IN,IND,356,Urban,13,Composting toilets,0.001,Demographic and Health Survey - DHS16
+India,IN,IND,356,Urban,14,Other improved,0.0,Demographic and Health Survey - DHS16
+India,IN,IND,356,Urban,15,"No facility, bush, field",0.106,Demographic and Health Survey - DHS16
+India,IN,IND,356,Urban,16,Other unimproved,0.008,Demographic and Health Survey - DHS16
+India,IN,IND,356,Urban,17,DK/missing information,0.0,Demographic and Health Survey - DHS16
+India,IN,IND,356,Rural,1,Flush and pour flush - to piped sewer system,0.016,Demographic and Health Survey - DHS16
+India,IN,IND,356,Rural,2,Flush and pour flush - to septic tank,0.254,Demographic and Health Survey - DHS16
+India,IN,IND,356,Rural,3,Flush and pour flush - to pit,0.091,Demographic and Health Survey - DHS16
+India,IN,IND,356,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.001,Demographic and Health Survey - DHS16
+India,IN,IND,356,Rural,5,Flush and pour flush - to elsewhere,0.005,Demographic and Health Survey - DHS16
+India,IN,IND,356,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.008,Demographic and Health Survey - DHS16
+India,IN,IND,356,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.055,Demographic and Health Survey - DHS16
+India,IN,IND,356,Rural,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS16
+India,IN,IND,356,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.019,Demographic and Health Survey - DHS16
+India,IN,IND,356,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS16
+India,IN,IND,356,Rural,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS16
+India,IN,IND,356,Rural,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS16
+India,IN,IND,356,Rural,13,Composting toilets,0.002,Demographic and Health Survey - DHS16
+India,IN,IND,356,Rural,14,Other improved,0.0,Demographic and Health Survey - DHS16
+India,IN,IND,356,Rural,15,"No facility, bush, field",0.543,Demographic and Health Survey - DHS16
+India,IN,IND,356,Rural,16,Other unimproved,0.007,Demographic and Health Survey - DHS16
+India,IN,IND,356,Rural,17,DK/missing information,0.0,Demographic and Health Survey - DHS16

@@ -1,0 +1,655 @@
+country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+Brazil,BR,BRA,076,Urban,1,Flush and pour flush - to piped sewer system,0.735,"Pesquisa Nacional por Amostra de Domicílios, 2015 - PNAD17"
+Brazil,BR,BRA,076,Urban,2,Flush and pour flush - to septic tank,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2015 - PNAD17"
+Brazil,BR,BRA,076,Urban,3,Flush and pour flush - to pit,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2015 - PNAD17"
+Brazil,BR,BRA,076,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.002,"Pesquisa Nacional por Amostra de Domicílios, 2015 - PNAD17"
+Brazil,BR,BRA,076,Urban,5,Flush and pour flush - to elsewhere,0.007,"Pesquisa Nacional por Amostra de Domicílios, 2015 - PNAD17"
+Brazil,BR,BRA,076,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2015 - PNAD17"
+Brazil,BR,BRA,076,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2015 - PNAD17"
+Brazil,BR,BRA,076,Urban,8,Dry latrines - Traditional latrine,0.243,"Pesquisa Nacional por Amostra de Domicílios, 2015 - PNAD17"
+Brazil,BR,BRA,076,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.008,"Pesquisa Nacional por Amostra de Domicílios, 2015 - PNAD17"
+Brazil,BR,BRA,076,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2015 - PNAD17"
+Brazil,BR,BRA,076,Urban,11,Dry latrines - Bucket latrine,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2015 - PNAD17"
+Brazil,BR,BRA,076,Urban,12,Dry latrines - Other,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2015 - PNAD17"
+Brazil,BR,BRA,076,Urban,13,Composting toilets,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2015 - PNAD17"
+Brazil,BR,BRA,076,Urban,14,Other improved,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2015 - PNAD17"
+Brazil,BR,BRA,076,Urban,15,"No facility, bush, field",0.001,"Pesquisa Nacional por Amostra de Domicílios, 2015 - PNAD17"
+Brazil,BR,BRA,076,Urban,16,Other unimproved,0.004,"Pesquisa Nacional por Amostra de Domicílios, 2015 - PNAD17"
+Brazil,BR,BRA,076,Urban,17,DK/missing information,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2015 - PNAD17"
+Brazil,BR,BRA,076,Rural,1,Flush and pour flush - to piped sewer system,0.069,"Pesquisa Nacional por Amostra de Domicílios, 2015 - PNAD17"
+Brazil,BR,BRA,076,Rural,2,Flush and pour flush - to septic tank,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2015 - PNAD17"
+Brazil,BR,BRA,076,Rural,3,Flush and pour flush - to pit,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2015 - PNAD17"
+Brazil,BR,BRA,076,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.005,"Pesquisa Nacional por Amostra de Domicílios, 2015 - PNAD17"
+Brazil,BR,BRA,076,Rural,5,Flush and pour flush - to elsewhere,0.021,"Pesquisa Nacional por Amostra de Domicílios, 2015 - PNAD17"
+Brazil,BR,BRA,076,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2015 - PNAD17"
+Brazil,BR,BRA,076,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2015 - PNAD17"
+Brazil,BR,BRA,076,Rural,8,Dry latrines - Traditional latrine,0.721,"Pesquisa Nacional por Amostra de Domicílios, 2015 - PNAD17"
+Brazil,BR,BRA,076,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.053,"Pesquisa Nacional por Amostra de Domicílios, 2015 - PNAD17"
+Brazil,BR,BRA,076,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2015 - PNAD17"
+Brazil,BR,BRA,076,Rural,11,Dry latrines - Bucket latrine,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2015 - PNAD17"
+Brazil,BR,BRA,076,Rural,12,Dry latrines - Other,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2015 - PNAD17"
+Brazil,BR,BRA,076,Rural,13,Composting toilets,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2015 - PNAD17"
+Brazil,BR,BRA,076,Rural,14,Other improved,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2015 - PNAD17"
+Brazil,BR,BRA,076,Rural,15,"No facility, bush, field",0.052,"Pesquisa Nacional por Amostra de Domicílios, 2015 - PNAD17"
+Brazil,BR,BRA,076,Rural,16,Other unimproved,0.079,"Pesquisa Nacional por Amostra de Domicílios, 2015 - PNAD17"
+Brazil,BR,BRA,076,Rural,17,DK/missing information,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2015 - PNAD17"
+Brazil,BR,BRA,076,Urban,1,Flush and pour flush - to piped sewer system,0.538,Censo Demográfico - CEN00
+Brazil,BR,BRA,076,Urban,2,Flush and pour flush - to septic tank,0.162,Censo Demográfico - CEN00
+Brazil,BR,BRA,076,Urban,3,Flush and pour flush - to pit,0.0,Censo Demográfico - CEN00
+Brazil,BR,BRA,076,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Censo Demográfico - CEN00
+Brazil,BR,BRA,076,Urban,5,Flush and pour flush - to elsewhere,0.0,Censo Demográfico - CEN00
+Brazil,BR,BRA,076,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Censo Demográfico - CEN00
+Brazil,BR,BRA,076,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Censo Demográfico - CEN00
+Brazil,BR,BRA,076,Urban,8,Dry latrines - Traditional latrine,0.215,Censo Demográfico - CEN00
+Brazil,BR,BRA,076,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.024,Censo Demográfico - CEN00
+Brazil,BR,BRA,076,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Censo Demográfico - CEN00
+Brazil,BR,BRA,076,Urban,11,Dry latrines - Bucket latrine,0.0,Censo Demográfico - CEN00
+Brazil,BR,BRA,076,Urban,12,Dry latrines - Other,0.0,Censo Demográfico - CEN00
+Brazil,BR,BRA,076,Urban,13,Composting toilets,0.0,Censo Demográfico - CEN00
+Brazil,BR,BRA,076,Urban,14,Other improved,0.0,Censo Demográfico - CEN00
+Brazil,BR,BRA,076,Urban,15,"No facility, bush, field",0.055,Censo Demográfico - CEN00
+Brazil,BR,BRA,076,Urban,16,Other unimproved,0.007,Censo Demográfico - CEN00
+Brazil,BR,BRA,076,Urban,17,DK/missing information,0.0,Censo Demográfico - CEN00
+Brazil,BR,BRA,076,Rural,1,Flush and pour flush - to piped sewer system,0.031,Censo Demográfico - CEN00
+Brazil,BR,BRA,076,Rural,2,Flush and pour flush - to septic tank,0.087,Censo Demográfico - CEN00
+Brazil,BR,BRA,076,Rural,3,Flush and pour flush - to pit,0.0,Censo Demográfico - CEN00
+Brazil,BR,BRA,076,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Censo Demográfico - CEN00
+Brazil,BR,BRA,076,Rural,5,Flush and pour flush - to elsewhere,0.0,Censo Demográfico - CEN00
+Brazil,BR,BRA,076,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Censo Demográfico - CEN00
+Brazil,BR,BRA,076,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Censo Demográfico - CEN00
+Brazil,BR,BRA,076,Rural,8,Dry latrines - Traditional latrine,0.406,Censo Demográfico - CEN00
+Brazil,BR,BRA,076,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.045,Censo Demográfico - CEN00
+Brazil,BR,BRA,076,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Censo Demográfico - CEN00
+Brazil,BR,BRA,076,Rural,11,Dry latrines - Bucket latrine,0.0,Censo Demográfico - CEN00
+Brazil,BR,BRA,076,Rural,12,Dry latrines - Other,0.0,Censo Demográfico - CEN00
+Brazil,BR,BRA,076,Rural,13,Composting toilets,0.0,Censo Demográfico - CEN00
+Brazil,BR,BRA,076,Rural,14,Other improved,0.0,Censo Demográfico - CEN00
+Brazil,BR,BRA,076,Rural,15,"No facility, bush, field",0.413,Censo Demográfico - CEN00
+Brazil,BR,BRA,076,Rural,16,Other unimproved,0.018,Censo Demográfico - CEN00
+Brazil,BR,BRA,076,Rural,17,DK/missing information,0.0,Censo Demográfico - CEN00
+Brazil,BR,BRA,076,Urban,1,Flush and pour flush - to piped sewer system,0.61,Pescuisa Nacional por Amostra de Domicilios - PNAD01
+Brazil,BR,BRA,076,Urban,2,Flush and pour flush - to septic tank,0.129,Pescuisa Nacional por Amostra de Domicilios - PNAD01
+Brazil,BR,BRA,076,Urban,3,Flush and pour flush - to pit,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD01
+Brazil,BR,BRA,076,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD01
+Brazil,BR,BRA,076,Urban,5,Flush and pour flush - to elsewhere,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD01
+Brazil,BR,BRA,076,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD01
+Brazil,BR,BRA,076,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD01
+Brazil,BR,BRA,076,Urban,8,Dry latrines - Traditional latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD01
+Brazil,BR,BRA,076,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD01
+Brazil,BR,BRA,076,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD01
+Brazil,BR,BRA,076,Urban,11,Dry latrines - Bucket latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD01
+Brazil,BR,BRA,076,Urban,12,Dry latrines - Other,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD01
+Brazil,BR,BRA,076,Urban,13,Composting toilets,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD01
+Brazil,BR,BRA,076,Urban,14,Other improved,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD01
+Brazil,BR,BRA,076,Urban,15,"No facility, bush, field",0.019,Pescuisa Nacional por Amostra de Domicilios - PNAD01
+Brazil,BR,BRA,076,Urban,16,Other unimproved,0.225,Pescuisa Nacional por Amostra de Domicilios - PNAD01
+Brazil,BR,BRA,076,Urban,17,DK/missing information,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD01
+Brazil,BR,BRA,076,Rural,1,Flush and pour flush - to piped sewer system,0.04,Pescuisa Nacional por Amostra de Domicilios - PNAD01
+Brazil,BR,BRA,076,Rural,2,Flush and pour flush - to septic tank,0.097,Pescuisa Nacional por Amostra de Domicilios - PNAD01
+Brazil,BR,BRA,076,Rural,3,Flush and pour flush - to pit,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD01
+Brazil,BR,BRA,076,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD01
+Brazil,BR,BRA,076,Rural,5,Flush and pour flush - to elsewhere,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD01
+Brazil,BR,BRA,076,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD01
+Brazil,BR,BRA,076,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD01
+Brazil,BR,BRA,076,Rural,8,Dry latrines - Traditional latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD01
+Brazil,BR,BRA,076,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD01
+Brazil,BR,BRA,076,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD01
+Brazil,BR,BRA,076,Rural,11,Dry latrines - Bucket latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD01
+Brazil,BR,BRA,076,Rural,12,Dry latrines - Other,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD01
+Brazil,BR,BRA,076,Rural,13,Composting toilets,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD01
+Brazil,BR,BRA,076,Rural,14,Other improved,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD01
+Brazil,BR,BRA,076,Rural,15,"No facility, bush, field",0.282,Pescuisa Nacional por Amostra de Domicilios - PNAD01
+Brazil,BR,BRA,076,Rural,16,Other unimproved,0.621,Pescuisa Nacional por Amostra de Domicilios - PNAD01
+Brazil,BR,BRA,076,Rural,17,DK/missing information,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD01
+Brazil,BR,BRA,076,Urban,1,Flush and pour flush - to piped sewer system,0.621,Pescuisa Nacional por Amostra de Domicilios - PNAD02
+Brazil,BR,BRA,076,Urban,2,Flush and pour flush - to septic tank,0.127,Pescuisa Nacional por Amostra de Domicilios - PNAD02
+Brazil,BR,BRA,076,Urban,3,Flush and pour flush - to pit,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD02
+Brazil,BR,BRA,076,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD02
+Brazil,BR,BRA,076,Urban,5,Flush and pour flush - to elsewhere,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD02
+Brazil,BR,BRA,076,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD02
+Brazil,BR,BRA,076,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD02
+Brazil,BR,BRA,076,Urban,8,Dry latrines - Traditional latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD02
+Brazil,BR,BRA,076,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD02
+Brazil,BR,BRA,076,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD02
+Brazil,BR,BRA,076,Urban,11,Dry latrines - Bucket latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD02
+Brazil,BR,BRA,076,Urban,12,Dry latrines - Other,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD02
+Brazil,BR,BRA,076,Urban,13,Composting toilets,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD02
+Brazil,BR,BRA,076,Urban,14,Other improved,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD02
+Brazil,BR,BRA,076,Urban,15,"No facility, bush, field",0.018,Pescuisa Nacional por Amostra de Domicilios - PNAD02
+Brazil,BR,BRA,076,Urban,16,Other unimproved,0.221,Pescuisa Nacional por Amostra de Domicilios - PNAD02
+Brazil,BR,BRA,076,Urban,17,DK/missing information,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD02
+Brazil,BR,BRA,076,Rural,1,Flush and pour flush - to piped sewer system,0.049,Pescuisa Nacional por Amostra de Domicilios - PNAD02
+Brazil,BR,BRA,076,Rural,2,Flush and pour flush - to septic tank,0.11,Pescuisa Nacional por Amostra de Domicilios - PNAD02
+Brazil,BR,BRA,076,Rural,3,Flush and pour flush - to pit,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD02
+Brazil,BR,BRA,076,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD02
+Brazil,BR,BRA,076,Rural,5,Flush and pour flush - to elsewhere,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD02
+Brazil,BR,BRA,076,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD02
+Brazil,BR,BRA,076,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD02
+Brazil,BR,BRA,076,Rural,8,Dry latrines - Traditional latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD02
+Brazil,BR,BRA,076,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD02
+Brazil,BR,BRA,076,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD02
+Brazil,BR,BRA,076,Rural,11,Dry latrines - Bucket latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD02
+Brazil,BR,BRA,076,Rural,12,Dry latrines - Other,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD02
+Brazil,BR,BRA,076,Rural,13,Composting toilets,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD02
+Brazil,BR,BRA,076,Rural,14,Other improved,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD02
+Brazil,BR,BRA,076,Rural,15,"No facility, bush, field",0.282,Pescuisa Nacional por Amostra de Domicilios - PNAD02
+Brazil,BR,BRA,076,Rural,16,Other unimproved,0.622,Pescuisa Nacional por Amostra de Domicilios - PNAD02
+Brazil,BR,BRA,076,Rural,17,DK/missing information,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD02
+Brazil,BR,BRA,076,Urban,1,Flush and pour flush - to piped sewer system,0.553,Pesquisa de Orçamentos Familiares 2002-2003 (POF ) - POF02
+Brazil,BR,BRA,076,Urban,2,Flush and pour flush - to septic tank,0.177,Pesquisa de Orçamentos Familiares 2002-2003 (POF ) - POF02
+Brazil,BR,BRA,076,Urban,3,Flush and pour flush - to pit,0.0,Pesquisa de Orçamentos Familiares 2002-2003 (POF ) - POF02
+Brazil,BR,BRA,076,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Pesquisa de Orçamentos Familiares 2002-2003 (POF ) - POF02
+Brazil,BR,BRA,076,Urban,5,Flush and pour flush - to elsewhere,0.0,Pesquisa de Orçamentos Familiares 2002-2003 (POF ) - POF02
+Brazil,BR,BRA,076,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Pesquisa de Orçamentos Familiares 2002-2003 (POF ) - POF02
+Brazil,BR,BRA,076,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Pesquisa de Orçamentos Familiares 2002-2003 (POF ) - POF02
+Brazil,BR,BRA,076,Urban,8,Dry latrines - Traditional latrine,0.196,Pesquisa de Orçamentos Familiares 2002-2003 (POF ) - POF02
+Brazil,BR,BRA,076,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.021,Pesquisa de Orçamentos Familiares 2002-2003 (POF ) - POF02
+Brazil,BR,BRA,076,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Pesquisa de Orçamentos Familiares 2002-2003 (POF ) - POF02
+Brazil,BR,BRA,076,Urban,11,Dry latrines - Bucket latrine,0.0,Pesquisa de Orçamentos Familiares 2002-2003 (POF ) - POF02
+Brazil,BR,BRA,076,Urban,12,Dry latrines - Other,0.0,Pesquisa de Orçamentos Familiares 2002-2003 (POF ) - POF02
+Brazil,BR,BRA,076,Urban,13,Composting toilets,0.0,Pesquisa de Orçamentos Familiares 2002-2003 (POF ) - POF02
+Brazil,BR,BRA,076,Urban,14,Other improved,0.0,Pesquisa de Orçamentos Familiares 2002-2003 (POF ) - POF02
+Brazil,BR,BRA,076,Urban,15,"No facility, bush, field",0.025,Pesquisa de Orçamentos Familiares 2002-2003 (POF ) - POF02
+Brazil,BR,BRA,076,Urban,16,Other unimproved,0.028,Pesquisa de Orçamentos Familiares 2002-2003 (POF ) - POF02
+Brazil,BR,BRA,076,Urban,17,DK/missing information,0.0,Pesquisa de Orçamentos Familiares 2002-2003 (POF ) - POF02
+Brazil,BR,BRA,076,Rural,1,Flush and pour flush - to piped sewer system,0.052,Pesquisa de Orçamentos Familiares 2002-2003 (POF ) - POF02
+Brazil,BR,BRA,076,Rural,2,Flush and pour flush - to septic tank,0.122,Pesquisa de Orçamentos Familiares 2002-2003 (POF ) - POF02
+Brazil,BR,BRA,076,Rural,3,Flush and pour flush - to pit,0.0,Pesquisa de Orçamentos Familiares 2002-2003 (POF ) - POF02
+Brazil,BR,BRA,076,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Pesquisa de Orçamentos Familiares 2002-2003 (POF ) - POF02
+Brazil,BR,BRA,076,Rural,5,Flush and pour flush - to elsewhere,0.0,Pesquisa de Orçamentos Familiares 2002-2003 (POF ) - POF02
+Brazil,BR,BRA,076,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Pesquisa de Orçamentos Familiares 2002-2003 (POF ) - POF02
+Brazil,BR,BRA,076,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Pesquisa de Orçamentos Familiares 2002-2003 (POF ) - POF02
+Brazil,BR,BRA,076,Rural,8,Dry latrines - Traditional latrine,0.419,Pesquisa de Orçamentos Familiares 2002-2003 (POF ) - POF02
+Brazil,BR,BRA,076,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.041,Pesquisa de Orçamentos Familiares 2002-2003 (POF ) - POF02
+Brazil,BR,BRA,076,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Pesquisa de Orçamentos Familiares 2002-2003 (POF ) - POF02
+Brazil,BR,BRA,076,Rural,11,Dry latrines - Bucket latrine,0.0,Pesquisa de Orçamentos Familiares 2002-2003 (POF ) - POF02
+Brazil,BR,BRA,076,Rural,12,Dry latrines - Other,0.0,Pesquisa de Orçamentos Familiares 2002-2003 (POF ) - POF02
+Brazil,BR,BRA,076,Rural,13,Composting toilets,0.0,Pesquisa de Orçamentos Familiares 2002-2003 (POF ) - POF02
+Brazil,BR,BRA,076,Rural,14,Other improved,0.0,Pesquisa de Orçamentos Familiares 2002-2003 (POF ) - POF02
+Brazil,BR,BRA,076,Rural,15,"No facility, bush, field",0.308,Pesquisa de Orçamentos Familiares 2002-2003 (POF ) - POF02
+Brazil,BR,BRA,076,Rural,16,Other unimproved,0.06,Pesquisa de Orçamentos Familiares 2002-2003 (POF ) - POF02
+Brazil,BR,BRA,076,Rural,17,DK/missing information,0.0,Pesquisa de Orçamentos Familiares 2002-2003 (POF ) - POF02
+Brazil,BR,BRA,076,Urban,1,Flush and pour flush - to piped sewer system,0.534,Pescuisa Nacional por Amostra de Domicilios - PNAD03
+Brazil,BR,BRA,076,Urban,2,Flush and pour flush - to septic tank,0.223,Pescuisa Nacional por Amostra de Domicilios - PNAD03
+Brazil,BR,BRA,076,Urban,3,Flush and pour flush - to pit,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD03
+Brazil,BR,BRA,076,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD03
+Brazil,BR,BRA,076,Urban,5,Flush and pour flush - to elsewhere,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD03
+Brazil,BR,BRA,076,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD03
+Brazil,BR,BRA,076,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD03
+Brazil,BR,BRA,076,Urban,8,Dry latrines - Traditional latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD03
+Brazil,BR,BRA,076,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD03
+Brazil,BR,BRA,076,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD03
+Brazil,BR,BRA,076,Urban,11,Dry latrines - Bucket latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD03
+Brazil,BR,BRA,076,Urban,12,Dry latrines - Other,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD03
+Brazil,BR,BRA,076,Urban,13,Composting toilets,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD03
+Brazil,BR,BRA,076,Urban,14,Other improved,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD03
+Brazil,BR,BRA,076,Urban,15,"No facility, bush, field",0.024,Pescuisa Nacional por Amostra de Domicilios - PNAD03
+Brazil,BR,BRA,076,Urban,16,Other unimproved,0.219,Pescuisa Nacional por Amostra de Domicilios - PNAD03
+Brazil,BR,BRA,076,Urban,17,DK/missing information,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD03
+Brazil,BR,BRA,076,Rural,1,Flush and pour flush - to piped sewer system,0.037,Pescuisa Nacional por Amostra de Domicilios - PNAD03
+Brazil,BR,BRA,076,Rural,2,Flush and pour flush - to septic tank,0.135,Pescuisa Nacional por Amostra de Domicilios - PNAD03
+Brazil,BR,BRA,076,Rural,3,Flush and pour flush - to pit,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD03
+Brazil,BR,BRA,076,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD03
+Brazil,BR,BRA,076,Rural,5,Flush and pour flush - to elsewhere,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD03
+Brazil,BR,BRA,076,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD03
+Brazil,BR,BRA,076,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD03
+Brazil,BR,BRA,076,Rural,8,Dry latrines - Traditional latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD03
+Brazil,BR,BRA,076,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD03
+Brazil,BR,BRA,076,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD03
+Brazil,BR,BRA,076,Rural,11,Dry latrines - Bucket latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD03
+Brazil,BR,BRA,076,Rural,12,Dry latrines - Other,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD03
+Brazil,BR,BRA,076,Rural,13,Composting toilets,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD03
+Brazil,BR,BRA,076,Rural,14,Other improved,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD03
+Brazil,BR,BRA,076,Rural,15,"No facility, bush, field",0.296,Pescuisa Nacional por Amostra de Domicilios - PNAD03
+Brazil,BR,BRA,076,Rural,16,Other unimproved,0.532,Pescuisa Nacional por Amostra de Domicilios - PNAD03
+Brazil,BR,BRA,076,Rural,17,DK/missing information,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD03
+Brazil,BR,BRA,076,Urban,1,Flush and pour flush - to piped sewer system,0.632,Pescuisa Nacional por Amostra de Domicilios - PNAD04
+Brazil,BR,BRA,076,Urban,2,Flush and pour flush - to septic tank,0.128,Pescuisa Nacional por Amostra de Domicilios - PNAD04
+Brazil,BR,BRA,076,Urban,3,Flush and pour flush - to pit,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD04
+Brazil,BR,BRA,076,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD04
+Brazil,BR,BRA,076,Urban,5,Flush and pour flush - to elsewhere,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD04
+Brazil,BR,BRA,076,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD04
+Brazil,BR,BRA,076,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD04
+Brazil,BR,BRA,076,Urban,8,Dry latrines - Traditional latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD04
+Brazil,BR,BRA,076,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD04
+Brazil,BR,BRA,076,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD04
+Brazil,BR,BRA,076,Urban,11,Dry latrines - Bucket latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD04
+Brazil,BR,BRA,076,Urban,12,Dry latrines - Other,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD04
+Brazil,BR,BRA,076,Urban,13,Composting toilets,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD04
+Brazil,BR,BRA,076,Urban,14,Other improved,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD04
+Brazil,BR,BRA,076,Urban,15,"No facility, bush, field",0.018,Pescuisa Nacional por Amostra de Domicilios - PNAD04
+Brazil,BR,BRA,076,Urban,16,Other unimproved,0.214,Pescuisa Nacional por Amostra de Domicilios - PNAD04
+Brazil,BR,BRA,076,Urban,17,DK/missing information,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD04
+Brazil,BR,BRA,076,Rural,1,Flush and pour flush - to piped sewer system,0.048,Pescuisa Nacional por Amostra de Domicilios - PNAD04
+Brazil,BR,BRA,076,Rural,2,Flush and pour flush - to septic tank,0.133,Pescuisa Nacional por Amostra de Domicilios - PNAD04
+Brazil,BR,BRA,076,Rural,3,Flush and pour flush - to pit,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD04
+Brazil,BR,BRA,076,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD04
+Brazil,BR,BRA,076,Rural,5,Flush and pour flush - to elsewhere,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD04
+Brazil,BR,BRA,076,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD04
+Brazil,BR,BRA,076,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD04
+Brazil,BR,BRA,076,Rural,8,Dry latrines - Traditional latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD04
+Brazil,BR,BRA,076,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD04
+Brazil,BR,BRA,076,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD04
+Brazil,BR,BRA,076,Rural,11,Dry latrines - Bucket latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD04
+Brazil,BR,BRA,076,Rural,12,Dry latrines - Other,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD04
+Brazil,BR,BRA,076,Rural,13,Composting toilets,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD04
+Brazil,BR,BRA,076,Rural,14,Other improved,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD04
+Brazil,BR,BRA,076,Rural,15,"No facility, bush, field",0.251,Pescuisa Nacional por Amostra de Domicilios - PNAD04
+Brazil,BR,BRA,076,Rural,16,Other unimproved,0.553,Pescuisa Nacional por Amostra de Domicilios - PNAD04
+Brazil,BR,BRA,076,Rural,17,DK/missing information,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD04
+Brazil,BR,BRA,076,Urban,1,Flush and pour flush - to piped sewer system,0.636,Pescuisa Nacional por Amostra de Domicilios - PNAD05
+Brazil,BR,BRA,076,Urban,2,Flush and pour flush - to septic tank,0.135,Pescuisa Nacional por Amostra de Domicilios - PNAD05
+Brazil,BR,BRA,076,Urban,3,Flush and pour flush - to pit,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD05
+Brazil,BR,BRA,076,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD05
+Brazil,BR,BRA,076,Urban,5,Flush and pour flush - to elsewhere,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD05
+Brazil,BR,BRA,076,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD05
+Brazil,BR,BRA,076,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD05
+Brazil,BR,BRA,076,Urban,8,Dry latrines - Traditional latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD05
+Brazil,BR,BRA,076,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD05
+Brazil,BR,BRA,076,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD05
+Brazil,BR,BRA,076,Urban,11,Dry latrines - Bucket latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD05
+Brazil,BR,BRA,076,Urban,12,Dry latrines - Other,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD05
+Brazil,BR,BRA,076,Urban,13,Composting toilets,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD05
+Brazil,BR,BRA,076,Urban,14,Other improved,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD05
+Brazil,BR,BRA,076,Urban,15,"No facility, bush, field",0.017,Pescuisa Nacional por Amostra de Domicilios - PNAD05
+Brazil,BR,BRA,076,Urban,16,Other unimproved,0.212,Pescuisa Nacional por Amostra de Domicilios - PNAD05
+Brazil,BR,BRA,076,Urban,17,DK/missing information,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD05
+Brazil,BR,BRA,076,Rural,1,Flush and pour flush - to piped sewer system,0.049,Pescuisa Nacional por Amostra de Domicilios - PNAD05
+Brazil,BR,BRA,076,Rural,2,Flush and pour flush - to septic tank,0.134,Pescuisa Nacional por Amostra de Domicilios - PNAD05
+Brazil,BR,BRA,076,Rural,3,Flush and pour flush - to pit,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD05
+Brazil,BR,BRA,076,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD05
+Brazil,BR,BRA,076,Rural,5,Flush and pour flush - to elsewhere,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD05
+Brazil,BR,BRA,076,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD05
+Brazil,BR,BRA,076,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD05
+Brazil,BR,BRA,076,Rural,8,Dry latrines - Traditional latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD05
+Brazil,BR,BRA,076,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD05
+Brazil,BR,BRA,076,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD05
+Brazil,BR,BRA,076,Rural,11,Dry latrines - Bucket latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD05
+Brazil,BR,BRA,076,Rural,12,Dry latrines - Other,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD05
+Brazil,BR,BRA,076,Rural,13,Composting toilets,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD05
+Brazil,BR,BRA,076,Rural,14,Other improved,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD05
+Brazil,BR,BRA,076,Rural,15,"No facility, bush, field",0.245,Pescuisa Nacional por Amostra de Domicilios - PNAD05
+Brazil,BR,BRA,076,Rural,16,Other unimproved,0.539,Pescuisa Nacional por Amostra de Domicilios - PNAD05
+Brazil,BR,BRA,076,Rural,17,DK/missing information,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD05
+Brazil,BR,BRA,076,Urban,1,Flush and pour flush - to piped sewer system,0.641,Pescuisa Nacional por Amostra de Domicilios - PNAD06
+Brazil,BR,BRA,076,Urban,2,Flush and pour flush - to septic tank,0.136,Pescuisa Nacional por Amostra de Domicilios - PNAD06
+Brazil,BR,BRA,076,Urban,3,Flush and pour flush - to pit,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD06
+Brazil,BR,BRA,076,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD06
+Brazil,BR,BRA,076,Urban,5,Flush and pour flush - to elsewhere,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD06
+Brazil,BR,BRA,076,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD06
+Brazil,BR,BRA,076,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD06
+Brazil,BR,BRA,076,Urban,8,Dry latrines - Traditional latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD06
+Brazil,BR,BRA,076,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD06
+Brazil,BR,BRA,076,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD06
+Brazil,BR,BRA,076,Urban,11,Dry latrines - Bucket latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD06
+Brazil,BR,BRA,076,Urban,12,Dry latrines - Other,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD06
+Brazil,BR,BRA,076,Urban,13,Composting toilets,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD06
+Brazil,BR,BRA,076,Urban,14,Other improved,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD06
+Brazil,BR,BRA,076,Urban,15,"No facility, bush, field",0.017,Pescuisa Nacional por Amostra de Domicilios - PNAD06
+Brazil,BR,BRA,076,Urban,16,Other unimproved,0.208,Pescuisa Nacional por Amostra de Domicilios - PNAD06
+Brazil,BR,BRA,076,Urban,17,DK/missing information,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD06
+Brazil,BR,BRA,076,Rural,1,Flush and pour flush - to piped sewer system,0.054,Pescuisa Nacional por Amostra de Domicilios - PNAD06
+Brazil,BR,BRA,076,Rural,2,Flush and pour flush - to septic tank,0.148,Pescuisa Nacional por Amostra de Domicilios - PNAD06
+Brazil,BR,BRA,076,Rural,3,Flush and pour flush - to pit,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD06
+Brazil,BR,BRA,076,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD06
+Brazil,BR,BRA,076,Rural,5,Flush and pour flush - to elsewhere,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD06
+Brazil,BR,BRA,076,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD06
+Brazil,BR,BRA,076,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD06
+Brazil,BR,BRA,076,Rural,8,Dry latrines - Traditional latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD06
+Brazil,BR,BRA,076,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD06
+Brazil,BR,BRA,076,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD06
+Brazil,BR,BRA,076,Rural,11,Dry latrines - Bucket latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD06
+Brazil,BR,BRA,076,Rural,12,Dry latrines - Other,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD06
+Brazil,BR,BRA,076,Rural,13,Composting toilets,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD06
+Brazil,BR,BRA,076,Rural,14,Other improved,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD06
+Brazil,BR,BRA,076,Rural,15,"No facility, bush, field",0.249,Pescuisa Nacional por Amostra de Domicilios - PNAD06
+Brazil,BR,BRA,076,Rural,16,Other unimproved,0.548,Pescuisa Nacional por Amostra de Domicilios - PNAD06
+Brazil,BR,BRA,076,Rural,17,DK/missing information,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD06
+Brazil,BR,BRA,076,Urban,1,Flush and pour flush - to piped sewer system,0.659,Pescuisa Nacional por Amostra de Domicilios - PNAD07
+Brazil,BR,BRA,076,Urban,2,Flush and pour flush - to septic tank,0.149,Pescuisa Nacional por Amostra de Domicilios - PNAD07
+Brazil,BR,BRA,076,Urban,3,Flush and pour flush - to pit,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD07
+Brazil,BR,BRA,076,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD07
+Brazil,BR,BRA,076,Urban,5,Flush and pour flush - to elsewhere,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD07
+Brazil,BR,BRA,076,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD07
+Brazil,BR,BRA,076,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD07
+Brazil,BR,BRA,076,Urban,8,Dry latrines - Traditional latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD07
+Brazil,BR,BRA,076,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD07
+Brazil,BR,BRA,076,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD07
+Brazil,BR,BRA,076,Urban,11,Dry latrines - Bucket latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD07
+Brazil,BR,BRA,076,Urban,12,Dry latrines - Other,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD07
+Brazil,BR,BRA,076,Urban,13,Composting toilets,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD07
+Brazil,BR,BRA,076,Urban,14,Other improved,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD07
+Brazil,BR,BRA,076,Urban,15,"No facility, bush, field",0.017,Pescuisa Nacional por Amostra de Domicilios - PNAD07
+Brazil,BR,BRA,076,Urban,16,Other unimproved,0.206,Pescuisa Nacional por Amostra de Domicilios - PNAD07
+Brazil,BR,BRA,076,Urban,17,DK/missing information,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD07
+Brazil,BR,BRA,076,Rural,1,Flush and pour flush - to piped sewer system,0.065,Pescuisa Nacional por Amostra de Domicilios - PNAD07
+Brazil,BR,BRA,076,Rural,2,Flush and pour flush - to septic tank,0.17,Pescuisa Nacional por Amostra de Domicilios - PNAD07
+Brazil,BR,BRA,076,Rural,3,Flush and pour flush - to pit,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD07
+Brazil,BR,BRA,076,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD07
+Brazil,BR,BRA,076,Rural,5,Flush and pour flush - to elsewhere,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD07
+Brazil,BR,BRA,076,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD07
+Brazil,BR,BRA,076,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD07
+Brazil,BR,BRA,076,Rural,8,Dry latrines - Traditional latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD07
+Brazil,BR,BRA,076,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD07
+Brazil,BR,BRA,076,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD07
+Brazil,BR,BRA,076,Rural,11,Dry latrines - Bucket latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD07
+Brazil,BR,BRA,076,Rural,12,Dry latrines - Other,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD07
+Brazil,BR,BRA,076,Rural,13,Composting toilets,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD07
+Brazil,BR,BRA,076,Rural,14,Other improved,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD07
+Brazil,BR,BRA,076,Rural,15,"No facility, bush, field",0.249,Pescuisa Nacional por Amostra de Domicilios - PNAD07
+Brazil,BR,BRA,076,Rural,16,Other unimproved,0.548,Pescuisa Nacional por Amostra de Domicilios - PNAD07
+Brazil,BR,BRA,076,Rural,17,DK/missing information,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD07
+Brazil,BR,BRA,076,Urban,1,Flush and pour flush - to piped sewer system,0.663,Pescuisa Nacional por Amostra de Domicilios - PNAD08
+Brazil,BR,BRA,076,Urban,2,Flush and pour flush - to septic tank,0.141,Pescuisa Nacional por Amostra de Domicilios - PNAD08
+Brazil,BR,BRA,076,Urban,3,Flush and pour flush - to pit,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD08
+Brazil,BR,BRA,076,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD08
+Brazil,BR,BRA,076,Urban,5,Flush and pour flush - to elsewhere,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD08
+Brazil,BR,BRA,076,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD08
+Brazil,BR,BRA,076,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD08
+Brazil,BR,BRA,076,Urban,8,Dry latrines - Traditional latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD08
+Brazil,BR,BRA,076,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD08
+Brazil,BR,BRA,076,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD08
+Brazil,BR,BRA,076,Urban,11,Dry latrines - Bucket latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD08
+Brazil,BR,BRA,076,Urban,12,Dry latrines - Other,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD08
+Brazil,BR,BRA,076,Urban,13,Composting toilets,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD08
+Brazil,BR,BRA,076,Urban,14,Other improved,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD08
+Brazil,BR,BRA,076,Urban,15,"No facility, bush, field",0.017,Pescuisa Nacional por Amostra de Domicilios - PNAD08
+Brazil,BR,BRA,076,Urban,16,Other unimproved,0.202,Pescuisa Nacional por Amostra de Domicilios - PNAD08
+Brazil,BR,BRA,076,Urban,17,DK/missing information,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD08
+Brazil,BR,BRA,076,Rural,1,Flush and pour flush - to piped sewer system,0.071,Pescuisa Nacional por Amostra de Domicilios - PNAD08
+Brazil,BR,BRA,076,Rural,2,Flush and pour flush - to septic tank,0.171,Pescuisa Nacional por Amostra de Domicilios - PNAD08
+Brazil,BR,BRA,076,Rural,3,Flush and pour flush - to pit,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD08
+Brazil,BR,BRA,076,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD08
+Brazil,BR,BRA,076,Rural,5,Flush and pour flush - to elsewhere,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD08
+Brazil,BR,BRA,076,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD08
+Brazil,BR,BRA,076,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD08
+Brazil,BR,BRA,076,Rural,8,Dry latrines - Traditional latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD08
+Brazil,BR,BRA,076,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD08
+Brazil,BR,BRA,076,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD08
+Brazil,BR,BRA,076,Rural,11,Dry latrines - Bucket latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD08
+Brazil,BR,BRA,076,Rural,12,Dry latrines - Other,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD08
+Brazil,BR,BRA,076,Rural,13,Composting toilets,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD08
+Brazil,BR,BRA,076,Rural,14,Other improved,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD08
+Brazil,BR,BRA,076,Rural,15,"No facility, bush, field",0.252,Pescuisa Nacional por Amostra de Domicilios - PNAD08
+Brazil,BR,BRA,076,Rural,16,Other unimproved,0.555,Pescuisa Nacional por Amostra de Domicilios - PNAD08
+Brazil,BR,BRA,076,Rural,17,DK/missing information,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD08
+Brazil,BR,BRA,076,Urban,1,Flush and pour flush - to piped sewer system,0.661,Pescuisa Nacional por Amostra de Domicilios - PNAD09
+Brazil,BR,BRA,076,Urban,2,Flush and pour flush - to septic tank,0.13,Pescuisa Nacional por Amostra de Domicilios - PNAD09
+Brazil,BR,BRA,076,Urban,3,Flush and pour flush - to pit,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD09
+Brazil,BR,BRA,076,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD09
+Brazil,BR,BRA,076,Urban,5,Flush and pour flush - to elsewhere,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD09
+Brazil,BR,BRA,076,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD09
+Brazil,BR,BRA,076,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD09
+Brazil,BR,BRA,076,Urban,8,Dry latrines - Traditional latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD09
+Brazil,BR,BRA,076,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD09
+Brazil,BR,BRA,076,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD09
+Brazil,BR,BRA,076,Urban,11,Dry latrines - Bucket latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD09
+Brazil,BR,BRA,076,Urban,12,Dry latrines - Other,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD09
+Brazil,BR,BRA,076,Urban,13,Composting toilets,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD09
+Brazil,BR,BRA,076,Urban,14,Other improved,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD09
+Brazil,BR,BRA,076,Urban,15,"No facility, bush, field",0.017,Pescuisa Nacional por Amostra de Domicilios - PNAD09
+Brazil,BR,BRA,076,Urban,16,Other unimproved,0.2,Pescuisa Nacional por Amostra de Domicilios - PNAD09
+Brazil,BR,BRA,076,Urban,17,DK/missing information,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD09
+Brazil,BR,BRA,076,Rural,1,Flush and pour flush - to piped sewer system,0.068,Pescuisa Nacional por Amostra de Domicilios - PNAD09
+Brazil,BR,BRA,076,Rural,2,Flush and pour flush - to septic tank,0.182,Pescuisa Nacional por Amostra de Domicilios - PNAD09
+Brazil,BR,BRA,076,Rural,3,Flush and pour flush - to pit,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD09
+Brazil,BR,BRA,076,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD09
+Brazil,BR,BRA,076,Rural,5,Flush and pour flush - to elsewhere,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD09
+Brazil,BR,BRA,076,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD09
+Brazil,BR,BRA,076,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD09
+Brazil,BR,BRA,076,Rural,8,Dry latrines - Traditional latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD09
+Brazil,BR,BRA,076,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD09
+Brazil,BR,BRA,076,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD09
+Brazil,BR,BRA,076,Rural,11,Dry latrines - Bucket latrine,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD09
+Brazil,BR,BRA,076,Rural,12,Dry latrines - Other,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD09
+Brazil,BR,BRA,076,Rural,13,Composting toilets,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD09
+Brazil,BR,BRA,076,Rural,14,Other improved,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD09
+Brazil,BR,BRA,076,Rural,15,"No facility, bush, field",0.253,Pescuisa Nacional por Amostra de Domicilios - PNAD09
+Brazil,BR,BRA,076,Rural,16,Other unimproved,0.557,Pescuisa Nacional por Amostra de Domicilios - PNAD09
+Brazil,BR,BRA,076,Rural,17,DK/missing information,0.0,Pescuisa Nacional por Amostra de Domicilios - PNAD09
+Brazil,BR,BRA,076,Urban,1,Flush and pour flush - to piped sewer system,0.641,Census - CEN10
+Brazil,BR,BRA,076,Urban,2,Flush and pour flush - to septic tank,0.112,Census - CEN10
+Brazil,BR,BRA,076,Urban,3,Flush and pour flush - to pit,0.0,Census - CEN10
+Brazil,BR,BRA,076,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN10
+Brazil,BR,BRA,076,Urban,5,Flush and pour flush - to elsewhere,0.0,Census - CEN10
+Brazil,BR,BRA,076,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN10
+Brazil,BR,BRA,076,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN10
+Brazil,BR,BRA,076,Urban,8,Dry latrines - Traditional latrine,0.196,Census - CEN10
+Brazil,BR,BRA,076,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.019,Census - CEN10
+Brazil,BR,BRA,076,Urban,8,Dry latrines - Traditional latrine,0.186,Census - CEN10
+Brazil,BR,BRA,076,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.016,Census - CEN10
+Brazil,BR,BRA,076,Urban,8,Dry latrines - Traditional latrine,0.01,Census - CEN10
+Brazil,BR,BRA,076,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.003,Census - CEN10
+Brazil,BR,BRA,076,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN10
+Brazil,BR,BRA,076,Urban,11,Dry latrines - Bucket latrine,0.0,Census - CEN10
+Brazil,BR,BRA,076,Urban,12,Dry latrines - Other,0.0,Census - CEN10
+Brazil,BR,BRA,076,Urban,13,Composting toilets,0.0,Census - CEN10
+Brazil,BR,BRA,076,Urban,14,Other improved,0.0,Census - CEN10
+Brazil,BR,BRA,076,Urban,15,"No facility, bush, field",0.025,Census - CEN10
+Brazil,BR,BRA,076,Urban,16,Other unimproved,0.007,Census - CEN10
+Brazil,BR,BRA,076,Urban,17,DK/missing information,0.0,Census - CEN10
+Brazil,BR,BRA,076,Rural,1,Flush and pour flush - to piped sewer system,0.031,Census - CEN10
+Brazil,BR,BRA,076,Rural,2,Flush and pour flush - to septic tank,0.139,Census - CEN10
+Brazil,BR,BRA,076,Rural,3,Flush and pour flush - to pit,0.0,Census - CEN10
+Brazil,BR,BRA,076,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN10
+Brazil,BR,BRA,076,Rural,5,Flush and pour flush - to elsewhere,0.0,Census - CEN10
+Brazil,BR,BRA,076,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN10
+Brazil,BR,BRA,076,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN10
+Brazil,BR,BRA,076,Rural,8,Dry latrines - Traditional latrine,0.539,Census - CEN10
+Brazil,BR,BRA,076,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.059,Census - CEN10
+Brazil,BR,BRA,076,Rural,8,Dry latrines - Traditional latrine,0.468,Census - CEN10
+Brazil,BR,BRA,076,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.034,Census - CEN10
+Brazil,BR,BRA,076,Rural,8,Dry latrines - Traditional latrine,0.072,Census - CEN10
+Brazil,BR,BRA,076,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.025,Census - CEN10
+Brazil,BR,BRA,076,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN10
+Brazil,BR,BRA,076,Rural,11,Dry latrines - Bucket latrine,0.0,Census - CEN10
+Brazil,BR,BRA,076,Rural,12,Dry latrines - Other,0.0,Census - CEN10
+Brazil,BR,BRA,076,Rural,13,Composting toilets,0.0,Census - CEN10
+Brazil,BR,BRA,076,Rural,14,Other improved,0.0,Census - CEN10
+Brazil,BR,BRA,076,Rural,15,"No facility, bush, field",0.181,Census - CEN10
+Brazil,BR,BRA,076,Rural,16,Other unimproved,0.05,Census - CEN10
+Brazil,BR,BRA,076,Rural,17,DK/missing information,0.0,Census - CEN10
+Brazil,BR,BRA,076,Urban,1,Flush and pour flush - to piped sewer system,0.63,"Pesquisa Nacional por Amostra de Domicílios - PNAD, - PNAD11"
+Brazil,BR,BRA,076,Urban,2,Flush and pour flush - to septic tank,0.085,"Pesquisa Nacional por Amostra de Domicílios - PNAD, - PNAD11"
+Brazil,BR,BRA,076,Urban,3,Flush and pour flush - to pit,0.133,"Pesquisa Nacional por Amostra de Domicílios - PNAD, - PNAD11"
+Brazil,BR,BRA,076,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Pesquisa Nacional por Amostra de Domicílios - PNAD, - PNAD11"
+Brazil,BR,BRA,076,Urban,5,Flush and pour flush - to elsewhere,0.0,"Pesquisa Nacional por Amostra de Domicílios - PNAD, - PNAD11"
+Brazil,BR,BRA,076,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Pesquisa Nacional por Amostra de Domicílios - PNAD, - PNAD11"
+Brazil,BR,BRA,076,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Pesquisa Nacional por Amostra de Domicílios - PNAD, - PNAD11"
+Brazil,BR,BRA,076,Urban,8,Dry latrines - Traditional latrine,0.117,"Pesquisa Nacional por Amostra de Domicílios - PNAD, - PNAD11"
+Brazil,BR,BRA,076,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Pesquisa Nacional por Amostra de Domicílios - PNAD, - PNAD11"
+Brazil,BR,BRA,076,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Pesquisa Nacional por Amostra de Domicílios - PNAD, - PNAD11"
+Brazil,BR,BRA,076,Urban,11,Dry latrines - Bucket latrine,0.0,"Pesquisa Nacional por Amostra de Domicílios - PNAD, - PNAD11"
+Brazil,BR,BRA,076,Urban,12,Dry latrines - Other,0.0,"Pesquisa Nacional por Amostra de Domicílios - PNAD, - PNAD11"
+Brazil,BR,BRA,076,Urban,13,Composting toilets,0.0,"Pesquisa Nacional por Amostra de Domicílios - PNAD, - PNAD11"
+Brazil,BR,BRA,076,Urban,14,Other improved,0.0,"Pesquisa Nacional por Amostra de Domicílios - PNAD, - PNAD11"
+Brazil,BR,BRA,076,Urban,15,"No facility, bush, field",0.01,"Pesquisa Nacional por Amostra de Domicílios - PNAD, - PNAD11"
+Brazil,BR,BRA,076,Urban,16,Other unimproved,0.025,"Pesquisa Nacional por Amostra de Domicílios - PNAD, - PNAD11"
+Brazil,BR,BRA,076,Urban,17,DK/missing information,0.0,"Pesquisa Nacional por Amostra de Domicílios - PNAD, - PNAD11"
+Brazil,BR,BRA,076,Rural,1,Flush and pour flush - to piped sewer system,0.047,"Pesquisa Nacional por Amostra de Domicílios - PNAD, - PNAD11"
+Brazil,BR,BRA,076,Rural,2,Flush and pour flush - to septic tank,0.022,"Pesquisa Nacional por Amostra de Domicílios - PNAD, - PNAD11"
+Brazil,BR,BRA,076,Rural,3,Flush and pour flush - to pit,0.224,"Pesquisa Nacional por Amostra de Domicílios - PNAD, - PNAD11"
+Brazil,BR,BRA,076,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Pesquisa Nacional por Amostra de Domicílios - PNAD, - PNAD11"
+Brazil,BR,BRA,076,Rural,5,Flush and pour flush - to elsewhere,0.0,"Pesquisa Nacional por Amostra de Domicílios - PNAD, - PNAD11"
+Brazil,BR,BRA,076,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Pesquisa Nacional por Amostra de Domicílios - PNAD, - PNAD11"
+Brazil,BR,BRA,076,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Pesquisa Nacional por Amostra de Domicílios - PNAD, - PNAD11"
+Brazil,BR,BRA,076,Rural,8,Dry latrines - Traditional latrine,0.469,"Pesquisa Nacional por Amostra de Domicílios - PNAD, - PNAD11"
+Brazil,BR,BRA,076,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Pesquisa Nacional por Amostra de Domicílios - PNAD, - PNAD11"
+Brazil,BR,BRA,076,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Pesquisa Nacional por Amostra de Domicílios - PNAD, - PNAD11"
+Brazil,BR,BRA,076,Rural,11,Dry latrines - Bucket latrine,0.0,"Pesquisa Nacional por Amostra de Domicílios - PNAD, - PNAD11"
+Brazil,BR,BRA,076,Rural,12,Dry latrines - Other,0.0,"Pesquisa Nacional por Amostra de Domicílios - PNAD, - PNAD11"
+Brazil,BR,BRA,076,Rural,13,Composting toilets,0.0,"Pesquisa Nacional por Amostra de Domicílios - PNAD, - PNAD11"
+Brazil,BR,BRA,076,Rural,14,Other improved,0.0,"Pesquisa Nacional por Amostra de Domicílios - PNAD, - PNAD11"
+Brazil,BR,BRA,076,Rural,15,"No facility, bush, field",0.155,"Pesquisa Nacional por Amostra de Domicílios - PNAD, - PNAD11"
+Brazil,BR,BRA,076,Rural,16,Other unimproved,0.082,"Pesquisa Nacional por Amostra de Domicílios - PNAD, - PNAD11"
+Brazil,BR,BRA,076,Rural,17,DK/missing information,0.0,"Pesquisa Nacional por Amostra de Domicílios - PNAD, - PNAD11"
+Brazil,BR,BRA,076,Urban,1,Flush and pour flush - to piped sewer system,0.638,Pesquisa Nacional por Amostra de Domicílios - PNAD 2012 - PNAD12
+Brazil,BR,BRA,076,Urban,2,Flush and pour flush - to septic tank,0.067,Pesquisa Nacional por Amostra de Domicílios - PNAD 2012 - PNAD12
+Brazil,BR,BRA,076,Urban,3,Flush and pour flush - to pit,0.135,Pesquisa Nacional por Amostra de Domicílios - PNAD 2012 - PNAD12
+Brazil,BR,BRA,076,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Pesquisa Nacional por Amostra de Domicílios - PNAD 2012 - PNAD12
+Brazil,BR,BRA,076,Urban,5,Flush and pour flush - to elsewhere,0.0,Pesquisa Nacional por Amostra de Domicílios - PNAD 2012 - PNAD12
+Brazil,BR,BRA,076,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Pesquisa Nacional por Amostra de Domicílios - PNAD 2012 - PNAD12
+Brazil,BR,BRA,076,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Pesquisa Nacional por Amostra de Domicílios - PNAD 2012 - PNAD12
+Brazil,BR,BRA,076,Urban,8,Dry latrines - Traditional latrine,0.127,Pesquisa Nacional por Amostra de Domicílios - PNAD 2012 - PNAD12
+Brazil,BR,BRA,076,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Pesquisa Nacional por Amostra de Domicílios - PNAD 2012 - PNAD12
+Brazil,BR,BRA,076,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Pesquisa Nacional por Amostra de Domicílios - PNAD 2012 - PNAD12
+Brazil,BR,BRA,076,Urban,11,Dry latrines - Bucket latrine,0.0,Pesquisa Nacional por Amostra de Domicílios - PNAD 2012 - PNAD12
+Brazil,BR,BRA,076,Urban,12,Dry latrines - Other,0.0,Pesquisa Nacional por Amostra de Domicílios - PNAD 2012 - PNAD12
+Brazil,BR,BRA,076,Urban,13,Composting toilets,0.0,Pesquisa Nacional por Amostra de Domicílios - PNAD 2012 - PNAD12
+Brazil,BR,BRA,076,Urban,14,Other improved,0.0,Pesquisa Nacional por Amostra de Domicílios - PNAD 2012 - PNAD12
+Brazil,BR,BRA,076,Urban,15,"No facility, bush, field",0.009,Pesquisa Nacional por Amostra de Domicílios - PNAD 2012 - PNAD12
+Brazil,BR,BRA,076,Urban,16,Other unimproved,0.025,Pesquisa Nacional por Amostra de Domicílios - PNAD 2012 - PNAD12
+Brazil,BR,BRA,076,Urban,17,DK/missing information,0.0,Pesquisa Nacional por Amostra de Domicílios - PNAD 2012 - PNAD12
+Brazil,BR,BRA,076,Rural,1,Flush and pour flush - to piped sewer system,0.048,Pesquisa Nacional por Amostra de Domicílios - PNAD 2012 - PNAD12
+Brazil,BR,BRA,076,Rural,2,Flush and pour flush - to septic tank,0.024,Pesquisa Nacional por Amostra de Domicílios - PNAD 2012 - PNAD12
+Brazil,BR,BRA,076,Rural,3,Flush and pour flush - to pit,0.253,Pesquisa Nacional por Amostra de Domicílios - PNAD 2012 - PNAD12
+Brazil,BR,BRA,076,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Pesquisa Nacional por Amostra de Domicílios - PNAD 2012 - PNAD12
+Brazil,BR,BRA,076,Rural,5,Flush and pour flush - to elsewhere,0.0,Pesquisa Nacional por Amostra de Domicílios - PNAD 2012 - PNAD12
+Brazil,BR,BRA,076,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Pesquisa Nacional por Amostra de Domicílios - PNAD 2012 - PNAD12
+Brazil,BR,BRA,076,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Pesquisa Nacional por Amostra de Domicílios - PNAD 2012 - PNAD12
+Brazil,BR,BRA,076,Rural,8,Dry latrines - Traditional latrine,0.453,Pesquisa Nacional por Amostra de Domicílios - PNAD 2012 - PNAD12
+Brazil,BR,BRA,076,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Pesquisa Nacional por Amostra de Domicílios - PNAD 2012 - PNAD12
+Brazil,BR,BRA,076,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Pesquisa Nacional por Amostra de Domicílios - PNAD 2012 - PNAD12
+Brazil,BR,BRA,076,Rural,11,Dry latrines - Bucket latrine,0.0,Pesquisa Nacional por Amostra de Domicílios - PNAD 2012 - PNAD12
+Brazil,BR,BRA,076,Rural,12,Dry latrines - Other,0.0,Pesquisa Nacional por Amostra de Domicílios - PNAD 2012 - PNAD12
+Brazil,BR,BRA,076,Rural,13,Composting toilets,0.0,Pesquisa Nacional por Amostra de Domicílios - PNAD 2012 - PNAD12
+Brazil,BR,BRA,076,Rural,14,Other improved,0.0,Pesquisa Nacional por Amostra de Domicílios - PNAD 2012 - PNAD12
+Brazil,BR,BRA,076,Rural,15,"No facility, bush, field",0.143,Pesquisa Nacional por Amostra de Domicílios - PNAD 2012 - PNAD12
+Brazil,BR,BRA,076,Rural,16,Other unimproved,0.079,Pesquisa Nacional por Amostra de Domicílios - PNAD 2012 - PNAD12
+Brazil,BR,BRA,076,Rural,17,DK/missing information,0.0,Pesquisa Nacional por Amostra de Domicílios - PNAD 2012 - PNAD12
+Brazil,BR,BRA,076,Urban,1,Flush and pour flush - to piped sewer system,0.652,"Pesquisa Nacional por Amostra de Domicílios, 2013 - PNAD13"
+Brazil,BR,BRA,076,Urban,2,Flush and pour flush - to septic tank,0.055,"Pesquisa Nacional por Amostra de Domicílios, 2013 - PNAD13"
+Brazil,BR,BRA,076,Urban,3,Flush and pour flush - to pit,0.119,"Pesquisa Nacional por Amostra de Domicílios, 2013 - PNAD13"
+Brazil,BR,BRA,076,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2013 - PNAD13"
+Brazil,BR,BRA,076,Urban,5,Flush and pour flush - to elsewhere,0.013,"Pesquisa Nacional por Amostra de Domicílios, 2013 - PNAD13"
+Brazil,BR,BRA,076,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2013 - PNAD13"
+Brazil,BR,BRA,076,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2013 - PNAD13"
+Brazil,BR,BRA,076,Urban,8,Dry latrines - Traditional latrine,0.14,"Pesquisa Nacional por Amostra de Domicílios, 2013 - PNAD13"
+Brazil,BR,BRA,076,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.009,"Pesquisa Nacional por Amostra de Domicílios, 2013 - PNAD13"
+Brazil,BR,BRA,076,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2013 - PNAD13"
+Brazil,BR,BRA,076,Urban,11,Dry latrines - Bucket latrine,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2013 - PNAD13"
+Brazil,BR,BRA,076,Urban,12,Dry latrines - Other,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2013 - PNAD13"
+Brazil,BR,BRA,076,Urban,13,Composting toilets,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2013 - PNAD13"
+Brazil,BR,BRA,076,Urban,14,Other improved,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2013 - PNAD13"
+Brazil,BR,BRA,076,Urban,15,"No facility, bush, field",0.008,"Pesquisa Nacional por Amostra de Domicílios, 2013 - PNAD13"
+Brazil,BR,BRA,076,Urban,16,Other unimproved,0.001,"Pesquisa Nacional por Amostra de Domicílios, 2013 - PNAD13"
+Brazil,BR,BRA,076,Urban,17,DK/missing information,0.002,"Pesquisa Nacional por Amostra de Domicílios, 2013 - PNAD13"
+Brazil,BR,BRA,076,Rural,1,Flush and pour flush - to piped sewer system,0.044,"Pesquisa Nacional por Amostra de Domicílios, 2013 - PNAD13"
+Brazil,BR,BRA,076,Rural,2,Flush and pour flush - to septic tank,0.032,"Pesquisa Nacional por Amostra de Domicílios, 2013 - PNAD13"
+Brazil,BR,BRA,076,Rural,3,Flush and pour flush - to pit,0.217,"Pesquisa Nacional por Amostra de Domicílios, 2013 - PNAD13"
+Brazil,BR,BRA,076,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2013 - PNAD13"
+Brazil,BR,BRA,076,Rural,5,Flush and pour flush - to elsewhere,0.03,"Pesquisa Nacional por Amostra de Domicílios, 2013 - PNAD13"
+Brazil,BR,BRA,076,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2013 - PNAD13"
+Brazil,BR,BRA,076,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2013 - PNAD13"
+Brazil,BR,BRA,076,Rural,8,Dry latrines - Traditional latrine,0.498,"Pesquisa Nacional por Amostra de Domicílios, 2013 - PNAD13"
+Brazil,BR,BRA,076,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.036,"Pesquisa Nacional por Amostra de Domicílios, 2013 - PNAD13"
+Brazil,BR,BRA,076,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2013 - PNAD13"
+Brazil,BR,BRA,076,Rural,11,Dry latrines - Bucket latrine,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2013 - PNAD13"
+Brazil,BR,BRA,076,Rural,12,Dry latrines - Other,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2013 - PNAD13"
+Brazil,BR,BRA,076,Rural,13,Composting toilets,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2013 - PNAD13"
+Brazil,BR,BRA,076,Rural,14,Other improved,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2013 - PNAD13"
+Brazil,BR,BRA,076,Rural,15,"No facility, bush, field",0.137,"Pesquisa Nacional por Amostra de Domicílios, 2013 - PNAD13"
+Brazil,BR,BRA,076,Rural,16,Other unimproved,0.005,"Pesquisa Nacional por Amostra de Domicílios, 2013 - PNAD13"
+Brazil,BR,BRA,076,Rural,17,DK/missing information,0.002,"Pesquisa Nacional por Amostra de Domicílios, 2013 - PNAD13"
+Brazil,BR,BRA,076,Urban,1,Flush and pour flush - to piped sewer system,0.646,"Pesquisa Nacional por Amostra de Domicílios, 2014 - PNAD14"
+Brazil,BR,BRA,076,Urban,2,Flush and pour flush - to septic tank,0.063,"Pesquisa Nacional por Amostra de Domicílios, 2014 - PNAD14"
+Brazil,BR,BRA,076,Urban,3,Flush and pour flush - to pit,0.122,"Pesquisa Nacional por Amostra de Domicílios, 2014 - PNAD14"
+Brazil,BR,BRA,076,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2014 - PNAD14"
+Brazil,BR,BRA,076,Urban,5,Flush and pour flush - to elsewhere,0.013,"Pesquisa Nacional por Amostra de Domicílios, 2014 - PNAD14"
+Brazil,BR,BRA,076,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2014 - PNAD14"
+Brazil,BR,BRA,076,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2014 - PNAD14"
+Brazil,BR,BRA,076,Urban,8,Dry latrines - Traditional latrine,0.137,"Pesquisa Nacional por Amostra de Domicílios, 2014 - PNAD14"
+Brazil,BR,BRA,076,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.01,"Pesquisa Nacional por Amostra de Domicílios, 2014 - PNAD14"
+Brazil,BR,BRA,076,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2014 - PNAD14"
+Brazil,BR,BRA,076,Urban,11,Dry latrines - Bucket latrine,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2014 - PNAD14"
+Brazil,BR,BRA,076,Urban,12,Dry latrines - Other,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2014 - PNAD14"
+Brazil,BR,BRA,076,Urban,13,Composting toilets,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2014 - PNAD14"
+Brazil,BR,BRA,076,Urban,14,Other improved,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2014 - PNAD14"
+Brazil,BR,BRA,076,Urban,15,"No facility, bush, field",0.006,"Pesquisa Nacional por Amostra de Domicílios, 2014 - PNAD14"
+Brazil,BR,BRA,076,Urban,16,Other unimproved,0.001,"Pesquisa Nacional por Amostra de Domicílios, 2014 - PNAD14"
+Brazil,BR,BRA,076,Urban,17,DK/missing information,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2014 - PNAD14"
+Brazil,BR,BRA,076,Rural,1,Flush and pour flush - to piped sewer system,0.052,"Pesquisa Nacional por Amostra de Domicílios, 2014 - PNAD14"
+Brazil,BR,BRA,076,Rural,2,Flush and pour flush - to septic tank,0.024,"Pesquisa Nacional por Amostra de Domicílios, 2014 - PNAD14"
+Brazil,BR,BRA,076,Rural,3,Flush and pour flush - to pit,0.231,"Pesquisa Nacional por Amostra de Domicílios, 2014 - PNAD14"
+Brazil,BR,BRA,076,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2014 - PNAD14"
+Brazil,BR,BRA,076,Rural,5,Flush and pour flush - to elsewhere,0.029,"Pesquisa Nacional por Amostra de Domicílios, 2014 - PNAD14"
+Brazil,BR,BRA,076,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2014 - PNAD14"
+Brazil,BR,BRA,076,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2014 - PNAD14"
+Brazil,BR,BRA,076,Rural,8,Dry latrines - Traditional latrine,0.492,"Pesquisa Nacional por Amostra de Domicílios, 2014 - PNAD14"
+Brazil,BR,BRA,076,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.041,"Pesquisa Nacional por Amostra de Domicílios, 2014 - PNAD14"
+Brazil,BR,BRA,076,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2014 - PNAD14"
+Brazil,BR,BRA,076,Rural,11,Dry latrines - Bucket latrine,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2014 - PNAD14"
+Brazil,BR,BRA,076,Rural,12,Dry latrines - Other,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2014 - PNAD14"
+Brazil,BR,BRA,076,Rural,13,Composting toilets,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2014 - PNAD14"
+Brazil,BR,BRA,076,Rural,14,Other improved,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2014 - PNAD14"
+Brazil,BR,BRA,076,Rural,15,"No facility, bush, field",0.123,"Pesquisa Nacional por Amostra de Domicílios, 2014 - PNAD14"
+Brazil,BR,BRA,076,Rural,16,Other unimproved,0.006,"Pesquisa Nacional por Amostra de Domicílios, 2014 - PNAD14"
+Brazil,BR,BRA,076,Rural,17,DK/missing information,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2014 - PNAD14"
+Brazil,BR,BRA,076,Urban,1,Flush and pour flush - to piped sewer system,0.663,"Pesquisa Nacional por Amostra de Domicílios, 2015 - PNAD15"
+Brazil,BR,BRA,076,Urban,2,Flush and pour flush - to septic tank,0.065,"Pesquisa Nacional por Amostra de Domicílios, 2015 - PNAD15"
+Brazil,BR,BRA,076,Urban,3,Flush and pour flush - to pit,0.139,"Pesquisa Nacional por Amostra de Domicílios, 2015 - PNAD15"
+Brazil,BR,BRA,076,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2015 - PNAD15"
+Brazil,BR,BRA,076,Urban,5,Flush and pour flush - to elsewhere,0.012,"Pesquisa Nacional por Amostra de Domicílios, 2015 - PNAD15"
+Brazil,BR,BRA,076,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2015 - PNAD15"
+Brazil,BR,BRA,076,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2015 - PNAD15"
+Brazil,BR,BRA,076,Urban,8,Dry latrines - Traditional latrine,0.102,"Pesquisa Nacional por Amostra de Domicílios, 2015 - PNAD15"
+Brazil,BR,BRA,076,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.009,"Pesquisa Nacional por Amostra de Domicílios, 2015 - PNAD15"
+Brazil,BR,BRA,076,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2015 - PNAD15"
+Brazil,BR,BRA,076,Urban,11,Dry latrines - Bucket latrine,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2015 - PNAD15"
+Brazil,BR,BRA,076,Urban,12,Dry latrines - Other,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2015 - PNAD15"
+Brazil,BR,BRA,076,Urban,13,Composting toilets,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2015 - PNAD15"
+Brazil,BR,BRA,076,Urban,14,Other improved,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2015 - PNAD15"
+Brazil,BR,BRA,076,Urban,15,"No facility, bush, field",0.006,"Pesquisa Nacional por Amostra de Domicílios, 2015 - PNAD15"
+Brazil,BR,BRA,076,Urban,16,Other unimproved,0.001,"Pesquisa Nacional por Amostra de Domicílios, 2015 - PNAD15"
+Brazil,BR,BRA,076,Urban,17,DK/missing information,0.003,"Pesquisa Nacional por Amostra de Domicílios, 2015 - PNAD15"
+Brazil,BR,BRA,076,Rural,1,Flush and pour flush - to piped sewer system,0.053,"Pesquisa Nacional por Amostra de Domicílios, 2015 - PNAD15"
+Brazil,BR,BRA,076,Rural,2,Flush and pour flush - to septic tank,0.043,"Pesquisa Nacional por Amostra de Domicílios, 2015 - PNAD15"
+Brazil,BR,BRA,076,Rural,3,Flush and pour flush - to pit,0.283,"Pesquisa Nacional por Amostra de Domicílios, 2015 - PNAD15"
+Brazil,BR,BRA,076,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2015 - PNAD15"
+Brazil,BR,BRA,076,Rural,5,Flush and pour flush - to elsewhere,0.031,"Pesquisa Nacional por Amostra de Domicílios, 2015 - PNAD15"
+Brazil,BR,BRA,076,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2015 - PNAD15"
+Brazil,BR,BRA,076,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2015 - PNAD15"
+Brazil,BR,BRA,076,Rural,8,Dry latrines - Traditional latrine,0.434,"Pesquisa Nacional por Amostra de Domicílios, 2015 - PNAD15"
+Brazil,BR,BRA,076,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.04,"Pesquisa Nacional por Amostra de Domicílios, 2015 - PNAD15"
+Brazil,BR,BRA,076,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2015 - PNAD15"
+Brazil,BR,BRA,076,Rural,11,Dry latrines - Bucket latrine,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2015 - PNAD15"
+Brazil,BR,BRA,076,Rural,12,Dry latrines - Other,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2015 - PNAD15"
+Brazil,BR,BRA,076,Rural,13,Composting toilets,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2015 - PNAD15"
+Brazil,BR,BRA,076,Rural,14,Other improved,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2015 - PNAD15"
+Brazil,BR,BRA,076,Rural,15,"No facility, bush, field",0.11,"Pesquisa Nacional por Amostra de Domicílios, 2015 - PNAD15"
+Brazil,BR,BRA,076,Rural,16,Other unimproved,0.005,"Pesquisa Nacional por Amostra de Domicílios, 2015 - PNAD15"
+Brazil,BR,BRA,076,Rural,17,DK/missing information,0.001,"Pesquisa Nacional por Amostra de Domicílios, 2015 - PNAD15"
+Brazil,BR,BRA,076,Urban,1,Flush and pour flush - to piped sewer system,0.731,"Pesquisa Nacional por Amostra de Domicílios, 2016 - PNAD16"
+Brazil,BR,BRA,076,Urban,2,Flush and pour flush - to septic tank,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2016 - PNAD16"
+Brazil,BR,BRA,076,Urban,3,Flush and pour flush - to pit,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2016 - PNAD16"
+Brazil,BR,BRA,076,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.001,"Pesquisa Nacional por Amostra de Domicílios, 2016 - PNAD16"
+Brazil,BR,BRA,076,Urban,5,Flush and pour flush - to elsewhere,0.008,"Pesquisa Nacional por Amostra de Domicílios, 2016 - PNAD16"
+Brazil,BR,BRA,076,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2016 - PNAD16"
+Brazil,BR,BRA,076,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2016 - PNAD16"
+Brazil,BR,BRA,076,Urban,8,Dry latrines - Traditional latrine,0.245,"Pesquisa Nacional por Amostra de Domicílios, 2016 - PNAD16"
+Brazil,BR,BRA,076,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.009,"Pesquisa Nacional por Amostra de Domicílios, 2016 - PNAD16"
+Brazil,BR,BRA,076,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2016 - PNAD16"
+Brazil,BR,BRA,076,Urban,11,Dry latrines - Bucket latrine,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2016 - PNAD16"
+Brazil,BR,BRA,076,Urban,12,Dry latrines - Other,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2016 - PNAD16"
+Brazil,BR,BRA,076,Urban,13,Composting toilets,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2016 - PNAD16"
+Brazil,BR,BRA,076,Urban,14,Other improved,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2016 - PNAD16"
+Brazil,BR,BRA,076,Urban,15,"No facility, bush, field",0.005,"Pesquisa Nacional por Amostra de Domicílios, 2016 - PNAD16"
+Brazil,BR,BRA,076,Urban,16,Other unimproved,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2016 - PNAD16"
+Brazil,BR,BRA,076,Urban,17,DK/missing information,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2016 - PNAD16"
+Brazil,BR,BRA,076,Rural,1,Flush and pour flush - to piped sewer system,0.081,"Pesquisa Nacional por Amostra de Domicílios, 2016 - PNAD16"
+Brazil,BR,BRA,076,Rural,2,Flush and pour flush - to septic tank,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2016 - PNAD16"
+Brazil,BR,BRA,076,Rural,3,Flush and pour flush - to pit,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2016 - PNAD16"
+Brazil,BR,BRA,076,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.011,"Pesquisa Nacional por Amostra de Domicílios, 2016 - PNAD16"
+Brazil,BR,BRA,076,Rural,5,Flush and pour flush - to elsewhere,0.025,"Pesquisa Nacional por Amostra de Domicílios, 2016 - PNAD16"
+Brazil,BR,BRA,076,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2016 - PNAD16"
+Brazil,BR,BRA,076,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2016 - PNAD16"
+Brazil,BR,BRA,076,Rural,8,Dry latrines - Traditional latrine,0.723,"Pesquisa Nacional por Amostra de Domicílios, 2016 - PNAD16"
+Brazil,BR,BRA,076,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.074,"Pesquisa Nacional por Amostra de Domicílios, 2016 - PNAD16"
+Brazil,BR,BRA,076,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2016 - PNAD16"
+Brazil,BR,BRA,076,Rural,11,Dry latrines - Bucket latrine,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2016 - PNAD16"
+Brazil,BR,BRA,076,Rural,12,Dry latrines - Other,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2016 - PNAD16"
+Brazil,BR,BRA,076,Rural,13,Composting toilets,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2016 - PNAD16"
+Brazil,BR,BRA,076,Rural,14,Other improved,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2016 - PNAD16"
+Brazil,BR,BRA,076,Rural,15,"No facility, bush, field",0.086,"Pesquisa Nacional por Amostra de Domicílios, 2016 - PNAD16"
+Brazil,BR,BRA,076,Rural,16,Other unimproved,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2016 - PNAD16"
+Brazil,BR,BRA,076,Rural,17,DK/missing information,0.0,"Pesquisa Nacional por Amostra de Domicílios, 2016 - PNAD16"

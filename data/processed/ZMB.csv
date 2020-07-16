@@ -1,0 +1,219 @@
+country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+Zambia,ZM,ZMB,894,Urban,1,Flush and pour flush - to piped sewer system,0.313,Malaria Indicator Survey - MIS06
+Zambia,ZM,ZMB,894,Urban,2,Flush and pour flush - to septic tank,0.045,Malaria Indicator Survey - MIS06
+Zambia,ZM,ZMB,894,Urban,3,Flush and pour flush - to pit,0.021,Malaria Indicator Survey - MIS06
+Zambia,ZM,ZMB,894,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Malaria Indicator Survey - MIS06
+Zambia,ZM,ZMB,894,Urban,5,Flush and pour flush - to elsewhere,0.002,Malaria Indicator Survey - MIS06
+Zambia,ZM,ZMB,894,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.009,Malaria Indicator Survey - MIS06
+Zambia,ZM,ZMB,894,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.267,Malaria Indicator Survey - MIS06
+Zambia,ZM,ZMB,894,Urban,8,Dry latrines - Traditional latrine,0.0,Malaria Indicator Survey - MIS06
+Zambia,ZM,ZMB,894,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.288,Malaria Indicator Survey - MIS06
+Zambia,ZM,ZMB,894,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.008,Malaria Indicator Survey - MIS06
+Zambia,ZM,ZMB,894,Urban,11,Dry latrines - Bucket latrine,0.0,Malaria Indicator Survey - MIS06
+Zambia,ZM,ZMB,894,Urban,12,Dry latrines - Other,0.0,Malaria Indicator Survey - MIS06
+Zambia,ZM,ZMB,894,Urban,13,Composting toilets,0.0,Malaria Indicator Survey - MIS06
+Zambia,ZM,ZMB,894,Urban,14,Other improved,0.0,Malaria Indicator Survey - MIS06
+Zambia,ZM,ZMB,894,Urban,15,"No facility, bush, field",0.048,Malaria Indicator Survey - MIS06
+Zambia,ZM,ZMB,894,Urban,16,Other unimproved,0.0,Malaria Indicator Survey - MIS06
+Zambia,ZM,ZMB,894,Urban,17,DK/missing information,0.0,Malaria Indicator Survey - MIS06
+Zambia,ZM,ZMB,894,Rural,1,Flush and pour flush - to piped sewer system,0.006,Malaria Indicator Survey - MIS06
+Zambia,ZM,ZMB,894,Rural,2,Flush and pour flush - to septic tank,0.01,Malaria Indicator Survey - MIS06
+Zambia,ZM,ZMB,894,Rural,3,Flush and pour flush - to pit,0.0,Malaria Indicator Survey - MIS06
+Zambia,ZM,ZMB,894,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Malaria Indicator Survey - MIS06
+Zambia,ZM,ZMB,894,Rural,5,Flush and pour flush - to elsewhere,0.0,Malaria Indicator Survey - MIS06
+Zambia,ZM,ZMB,894,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.016,Malaria Indicator Survey - MIS06
+Zambia,ZM,ZMB,894,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.091,Malaria Indicator Survey - MIS06
+Zambia,ZM,ZMB,894,Rural,8,Dry latrines - Traditional latrine,0.0,Malaria Indicator Survey - MIS06
+Zambia,ZM,ZMB,894,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.484,Malaria Indicator Survey - MIS06
+Zambia,ZM,ZMB,894,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.007,Malaria Indicator Survey - MIS06
+Zambia,ZM,ZMB,894,Rural,11,Dry latrines - Bucket latrine,0.0,Malaria Indicator Survey - MIS06
+Zambia,ZM,ZMB,894,Rural,12,Dry latrines - Other,0.0,Malaria Indicator Survey - MIS06
+Zambia,ZM,ZMB,894,Rural,13,Composting toilets,0.0,Malaria Indicator Survey - MIS06
+Zambia,ZM,ZMB,894,Rural,14,Other improved,0.0,Malaria Indicator Survey - MIS06
+Zambia,ZM,ZMB,894,Rural,15,"No facility, bush, field",0.383,Malaria Indicator Survey - MIS06
+Zambia,ZM,ZMB,894,Rural,16,Other unimproved,0.002,Malaria Indicator Survey - MIS06
+Zambia,ZM,ZMB,894,Rural,17,DK/missing information,0.0,Malaria Indicator Survey - MIS06
+Zambia,ZM,ZMB,894,Urban,1,Flush and pour flush - to piped sewer system,0.281,Demographic and Health Survey - DHS07
+Zambia,ZM,ZMB,894,Urban,2,Flush and pour flush - to septic tank,0.086,Demographic and Health Survey - DHS07
+Zambia,ZM,ZMB,894,Urban,3,Flush and pour flush - to pit,0.009,Demographic and Health Survey - DHS07
+Zambia,ZM,ZMB,894,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.001,Demographic and Health Survey - DHS07
+Zambia,ZM,ZMB,894,Urban,5,Flush and pour flush - to elsewhere,0.002,Demographic and Health Survey - DHS07
+Zambia,ZM,ZMB,894,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.07,Demographic and Health Survey - DHS07
+Zambia,ZM,ZMB,894,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.27,Demographic and Health Survey - DHS07
+Zambia,ZM,ZMB,894,Urban,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS07
+Zambia,ZM,ZMB,894,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.259,Demographic and Health Survey - DHS07
+Zambia,ZM,ZMB,894,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS07
+Zambia,ZM,ZMB,894,Urban,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS07
+Zambia,ZM,ZMB,894,Urban,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS07
+Zambia,ZM,ZMB,894,Urban,13,Composting toilets,0.001,Demographic and Health Survey - DHS07
+Zambia,ZM,ZMB,894,Urban,14,Other improved,0.0,Demographic and Health Survey - DHS07
+Zambia,ZM,ZMB,894,Urban,15,"No facility, bush, field",0.018,Demographic and Health Survey - DHS07
+Zambia,ZM,ZMB,894,Urban,16,Other unimproved,0.003,Demographic and Health Survey - DHS07
+Zambia,ZM,ZMB,894,Urban,17,DK/missing information,0.0,Demographic and Health Survey - DHS07
+Zambia,ZM,ZMB,894,Rural,1,Flush and pour flush - to piped sewer system,0.004,Demographic and Health Survey - DHS07
+Zambia,ZM,ZMB,894,Rural,2,Flush and pour flush - to septic tank,0.006,Demographic and Health Survey - DHS07
+Zambia,ZM,ZMB,894,Rural,3,Flush and pour flush - to pit,0.002,Demographic and Health Survey - DHS07
+Zambia,ZM,ZMB,894,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS07
+Zambia,ZM,ZMB,894,Rural,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS07
+Zambia,ZM,ZMB,894,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.086,Demographic and Health Survey - DHS07
+Zambia,ZM,ZMB,894,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.086,Demographic and Health Survey - DHS07
+Zambia,ZM,ZMB,894,Rural,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS07
+Zambia,ZM,ZMB,894,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.454,Demographic and Health Survey - DHS07
+Zambia,ZM,ZMB,894,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.001,Demographic and Health Survey - DHS07
+Zambia,ZM,ZMB,894,Rural,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS07
+Zambia,ZM,ZMB,894,Rural,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS07
+Zambia,ZM,ZMB,894,Rural,13,Composting toilets,0.0,Demographic and Health Survey - DHS07
+Zambia,ZM,ZMB,894,Rural,14,Other improved,0.0,Demographic and Health Survey - DHS07
+Zambia,ZM,ZMB,894,Rural,15,"No facility, bush, field",0.354,Demographic and Health Survey - DHS07
+Zambia,ZM,ZMB,894,Rural,16,Other unimproved,0.007,Demographic and Health Survey - DHS07
+Zambia,ZM,ZMB,894,Rural,17,DK/missing information,0.0,Demographic and Health Survey - DHS07
+Zambia,ZM,ZMB,894,Urban,1,Flush and pour flush - to piped sewer system,0.269,Malaria Indicator Survey - MIS08
+Zambia,ZM,ZMB,894,Urban,2,Flush and pour flush - to septic tank,0.088,Malaria Indicator Survey - MIS08
+Zambia,ZM,ZMB,894,Urban,3,Flush and pour flush - to pit,0.002,Malaria Indicator Survey - MIS08
+Zambia,ZM,ZMB,894,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Malaria Indicator Survey - MIS08
+Zambia,ZM,ZMB,894,Urban,5,Flush and pour flush - to elsewhere,0.004,Malaria Indicator Survey - MIS08
+Zambia,ZM,ZMB,894,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.006,Malaria Indicator Survey - MIS08
+Zambia,ZM,ZMB,894,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.29,Malaria Indicator Survey - MIS08
+Zambia,ZM,ZMB,894,Urban,8,Dry latrines - Traditional latrine,0.0,Malaria Indicator Survey - MIS08
+Zambia,ZM,ZMB,894,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.254,Malaria Indicator Survey - MIS08
+Zambia,ZM,ZMB,894,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.001,Malaria Indicator Survey - MIS08
+Zambia,ZM,ZMB,894,Urban,11,Dry latrines - Bucket latrine,0.0,Malaria Indicator Survey - MIS08
+Zambia,ZM,ZMB,894,Urban,12,Dry latrines - Other,0.0,Malaria Indicator Survey - MIS08
+Zambia,ZM,ZMB,894,Urban,13,Composting toilets,0.0,Malaria Indicator Survey - MIS08
+Zambia,ZM,ZMB,894,Urban,14,Other improved,0.0,Malaria Indicator Survey - MIS08
+Zambia,ZM,ZMB,894,Urban,15,"No facility, bush, field",0.038,Malaria Indicator Survey - MIS08
+Zambia,ZM,ZMB,894,Urban,16,Other unimproved,0.002,Malaria Indicator Survey - MIS08
+Zambia,ZM,ZMB,894,Urban,17,DK/missing information,0.0,Malaria Indicator Survey - MIS08
+Zambia,ZM,ZMB,894,Rural,1,Flush and pour flush - to piped sewer system,0.004,Malaria Indicator Survey - MIS08
+Zambia,ZM,ZMB,894,Rural,2,Flush and pour flush - to septic tank,0.001,Malaria Indicator Survey - MIS08
+Zambia,ZM,ZMB,894,Rural,3,Flush and pour flush - to pit,0.017,Malaria Indicator Survey - MIS08
+Zambia,ZM,ZMB,894,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Malaria Indicator Survey - MIS08
+Zambia,ZM,ZMB,894,Rural,5,Flush and pour flush - to elsewhere,0.0,Malaria Indicator Survey - MIS08
+Zambia,ZM,ZMB,894,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.009,Malaria Indicator Survey - MIS08
+Zambia,ZM,ZMB,894,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.184,Malaria Indicator Survey - MIS08
+Zambia,ZM,ZMB,894,Rural,8,Dry latrines - Traditional latrine,0.0,Malaria Indicator Survey - MIS08
+Zambia,ZM,ZMB,894,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.416,Malaria Indicator Survey - MIS08
+Zambia,ZM,ZMB,894,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.002,Malaria Indicator Survey - MIS08
+Zambia,ZM,ZMB,894,Rural,11,Dry latrines - Bucket latrine,0.0,Malaria Indicator Survey - MIS08
+Zambia,ZM,ZMB,894,Rural,12,Dry latrines - Other,0.0,Malaria Indicator Survey - MIS08
+Zambia,ZM,ZMB,894,Rural,13,Composting toilets,0.0,Malaria Indicator Survey - MIS08
+Zambia,ZM,ZMB,894,Rural,14,Other improved,0.0,Malaria Indicator Survey - MIS08
+Zambia,ZM,ZMB,894,Rural,15,"No facility, bush, field",0.372,Malaria Indicator Survey - MIS08
+Zambia,ZM,ZMB,894,Rural,16,Other unimproved,0.004,Malaria Indicator Survey - MIS08
+Zambia,ZM,ZMB,894,Rural,17,DK/missing information,0.0,Malaria Indicator Survey - MIS08
+Zambia,ZM,ZMB,894,Urban,1,Flush and pour flush - to piped sewer system,0.287,Malaria Indicator Survey - MIS10
+Zambia,ZM,ZMB,894,Urban,2,Flush and pour flush - to septic tank,0.044,Malaria Indicator Survey - MIS10
+Zambia,ZM,ZMB,894,Urban,3,Flush and pour flush - to pit,0.008,Malaria Indicator Survey - MIS10
+Zambia,ZM,ZMB,894,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Malaria Indicator Survey - MIS10
+Zambia,ZM,ZMB,894,Urban,5,Flush and pour flush - to elsewhere,0.004,Malaria Indicator Survey - MIS10
+Zambia,ZM,ZMB,894,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.01,Malaria Indicator Survey - MIS10
+Zambia,ZM,ZMB,894,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.293,Malaria Indicator Survey - MIS10
+Zambia,ZM,ZMB,894,Urban,8,Dry latrines - Traditional latrine,0.0,Malaria Indicator Survey - MIS10
+Zambia,ZM,ZMB,894,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.314,Malaria Indicator Survey - MIS10
+Zambia,ZM,ZMB,894,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Malaria Indicator Survey - MIS10
+Zambia,ZM,ZMB,894,Urban,11,Dry latrines - Bucket latrine,0.0,Malaria Indicator Survey - MIS10
+Zambia,ZM,ZMB,894,Urban,12,Dry latrines - Other,0.0,Malaria Indicator Survey - MIS10
+Zambia,ZM,ZMB,894,Urban,13,Composting toilets,0.0,Malaria Indicator Survey - MIS10
+Zambia,ZM,ZMB,894,Urban,14,Other improved,0.0,Malaria Indicator Survey - MIS10
+Zambia,ZM,ZMB,894,Urban,15,"No facility, bush, field",0.034,Malaria Indicator Survey - MIS10
+Zambia,ZM,ZMB,894,Urban,16,Other unimproved,0.008,Malaria Indicator Survey - MIS10
+Zambia,ZM,ZMB,894,Urban,17,DK/missing information,0.0,Malaria Indicator Survey - MIS10
+Zambia,ZM,ZMB,894,Rural,1,Flush and pour flush - to piped sewer system,0.016,Malaria Indicator Survey - MIS10
+Zambia,ZM,ZMB,894,Rural,2,Flush and pour flush - to septic tank,0.007,Malaria Indicator Survey - MIS10
+Zambia,ZM,ZMB,894,Rural,3,Flush and pour flush - to pit,0.001,Malaria Indicator Survey - MIS10
+Zambia,ZM,ZMB,894,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Malaria Indicator Survey - MIS10
+Zambia,ZM,ZMB,894,Rural,5,Flush and pour flush - to elsewhere,0.001,Malaria Indicator Survey - MIS10
+Zambia,ZM,ZMB,894,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.007,Malaria Indicator Survey - MIS10
+Zambia,ZM,ZMB,894,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.17,Malaria Indicator Survey - MIS10
+Zambia,ZM,ZMB,894,Rural,8,Dry latrines - Traditional latrine,0.0,Malaria Indicator Survey - MIS10
+Zambia,ZM,ZMB,894,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.373,Malaria Indicator Survey - MIS10
+Zambia,ZM,ZMB,894,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.003,Malaria Indicator Survey - MIS10
+Zambia,ZM,ZMB,894,Rural,11,Dry latrines - Bucket latrine,0.0,Malaria Indicator Survey - MIS10
+Zambia,ZM,ZMB,894,Rural,12,Dry latrines - Other,0.0,Malaria Indicator Survey - MIS10
+Zambia,ZM,ZMB,894,Rural,13,Composting toilets,0.0,Malaria Indicator Survey - MIS10
+Zambia,ZM,ZMB,894,Rural,14,Other improved,0.0,Malaria Indicator Survey - MIS10
+Zambia,ZM,ZMB,894,Rural,15,"No facility, bush, field",0.41,Malaria Indicator Survey - MIS10
+Zambia,ZM,ZMB,894,Rural,16,Other unimproved,0.012,Malaria Indicator Survey - MIS10
+Zambia,ZM,ZMB,894,Rural,17,DK/missing information,0.0,Malaria Indicator Survey - MIS10
+Zambia,ZM,ZMB,894,Urban,1,Flush and pour flush - to piped sewer system,0.214,Malaria Indicator Survey - MIS13
+Zambia,ZM,ZMB,894,Urban,2,Flush and pour flush - to septic tank,0.127,Malaria Indicator Survey - MIS13
+Zambia,ZM,ZMB,894,Urban,3,Flush and pour flush - to pit,0.012,Malaria Indicator Survey - MIS13
+Zambia,ZM,ZMB,894,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Malaria Indicator Survey - MIS13
+Zambia,ZM,ZMB,894,Urban,5,Flush and pour flush - to elsewhere,0.003,Malaria Indicator Survey - MIS13
+Zambia,ZM,ZMB,894,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.035,Malaria Indicator Survey - MIS13
+Zambia,ZM,ZMB,894,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.399,Malaria Indicator Survey - MIS13
+Zambia,ZM,ZMB,894,Urban,8,Dry latrines - Traditional latrine,0.0,Malaria Indicator Survey - MIS13
+Zambia,ZM,ZMB,894,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.177,Malaria Indicator Survey - MIS13
+Zambia,ZM,ZMB,894,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Malaria Indicator Survey - MIS13
+Zambia,ZM,ZMB,894,Urban,11,Dry latrines - Bucket latrine,0.0,Malaria Indicator Survey - MIS13
+Zambia,ZM,ZMB,894,Urban,12,Dry latrines - Other,0.0,Malaria Indicator Survey - MIS13
+Zambia,ZM,ZMB,894,Urban,13,Composting toilets,0.0,Malaria Indicator Survey - MIS13
+Zambia,ZM,ZMB,894,Urban,14,Other improved,0.0,Malaria Indicator Survey - MIS13
+Zambia,ZM,ZMB,894,Urban,15,"No facility, bush, field",0.029,Malaria Indicator Survey - MIS13
+Zambia,ZM,ZMB,894,Urban,16,Other unimproved,0.004,Malaria Indicator Survey - MIS13
+Zambia,ZM,ZMB,894,Urban,17,DK/missing information,0.0,Malaria Indicator Survey - MIS13
+Zambia,ZM,ZMB,894,Rural,1,Flush and pour flush - to piped sewer system,0.006,Malaria Indicator Survey - MIS13
+Zambia,ZM,ZMB,894,Rural,2,Flush and pour flush - to septic tank,0.005,Malaria Indicator Survey - MIS13
+Zambia,ZM,ZMB,894,Rural,3,Flush and pour flush - to pit,0.001,Malaria Indicator Survey - MIS13
+Zambia,ZM,ZMB,894,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Malaria Indicator Survey - MIS13
+Zambia,ZM,ZMB,894,Rural,5,Flush and pour flush - to elsewhere,0.001,Malaria Indicator Survey - MIS13
+Zambia,ZM,ZMB,894,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.009,Malaria Indicator Survey - MIS13
+Zambia,ZM,ZMB,894,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.121,Malaria Indicator Survey - MIS13
+Zambia,ZM,ZMB,894,Rural,8,Dry latrines - Traditional latrine,0.0,Malaria Indicator Survey - MIS13
+Zambia,ZM,ZMB,894,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.506,Malaria Indicator Survey - MIS13
+Zambia,ZM,ZMB,894,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.004,Malaria Indicator Survey - MIS13
+Zambia,ZM,ZMB,894,Rural,11,Dry latrines - Bucket latrine,0.0,Malaria Indicator Survey - MIS13
+Zambia,ZM,ZMB,894,Rural,12,Dry latrines - Other,0.0,Malaria Indicator Survey - MIS13
+Zambia,ZM,ZMB,894,Rural,13,Composting toilets,0.0,Malaria Indicator Survey - MIS13
+Zambia,ZM,ZMB,894,Rural,14,Other improved,0.0,Malaria Indicator Survey - MIS13
+Zambia,ZM,ZMB,894,Rural,15,"No facility, bush, field",0.338,Malaria Indicator Survey - MIS13
+Zambia,ZM,ZMB,894,Rural,16,Other unimproved,0.008,Malaria Indicator Survey - MIS13
+Zambia,ZM,ZMB,894,Rural,17,DK/missing information,0.0,Malaria Indicator Survey - MIS13
+Zambia,ZM,ZMB,894,Urban,1,Flush and pour flush - to piped sewer system,0.248,Demographic and Health Surveys 2013-2014 - DHS14
+Zambia,ZM,ZMB,894,Urban,2,Flush and pour flush - to septic tank,0.101,Demographic and Health Surveys 2013-2014 - DHS14
+Zambia,ZM,ZMB,894,Urban,3,Flush and pour flush - to pit,0.016,Demographic and Health Surveys 2013-2014 - DHS14
+Zambia,ZM,ZMB,894,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Surveys 2013-2014 - DHS14
+Zambia,ZM,ZMB,894,Urban,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Surveys 2013-2014 - DHS14
+Zambia,ZM,ZMB,894,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.103,Demographic and Health Surveys 2013-2014 - DHS14
+Zambia,ZM,ZMB,894,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.261,Demographic and Health Surveys 2013-2014 - DHS14
+Zambia,ZM,ZMB,894,Urban,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Surveys 2013-2014 - DHS14
+Zambia,ZM,ZMB,894,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.251,Demographic and Health Surveys 2013-2014 - DHS14
+Zambia,ZM,ZMB,894,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Surveys 2013-2014 - DHS14
+Zambia,ZM,ZMB,894,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.036,Demographic and Health Surveys 2013-2014 - DHS14
+Zambia,ZM,ZMB,894,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.083,Demographic and Health Surveys 2013-2014 - DHS14
+Zambia,ZM,ZMB,894,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.067,Demographic and Health Surveys 2013-2014 - DHS14
+Zambia,ZM,ZMB,894,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.178,Demographic and Health Surveys 2013-2014 - DHS14
+Zambia,ZM,ZMB,894,Urban,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Surveys 2013-2014 - DHS14
+Zambia,ZM,ZMB,894,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Surveys 2013-2014 - DHS14
+Zambia,ZM,ZMB,894,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Surveys 2013-2014 - DHS14
+Zambia,ZM,ZMB,894,Urban,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Surveys 2013-2014 - DHS14
+Zambia,ZM,ZMB,894,Urban,12,Dry latrines - Other,0.0,Demographic and Health Surveys 2013-2014 - DHS14
+Zambia,ZM,ZMB,894,Urban,13,Composting toilets,0.0,Demographic and Health Surveys 2013-2014 - DHS14
+Zambia,ZM,ZMB,894,Urban,14,Other improved,0.0,Demographic and Health Surveys 2013-2014 - DHS14
+Zambia,ZM,ZMB,894,Urban,15,"No facility, bush, field",0.014,Demographic and Health Surveys 2013-2014 - DHS14
+Zambia,ZM,ZMB,894,Urban,16,Other unimproved,0.0,Demographic and Health Surveys 2013-2014 - DHS14
+Zambia,ZM,ZMB,894,Urban,17,DK/missing information,0.0,Demographic and Health Surveys 2013-2014 - DHS14
+Zambia,ZM,ZMB,894,Rural,1,Flush and pour flush - to piped sewer system,0.004,Demographic and Health Surveys 2013-2014 - DHS14
+Zambia,ZM,ZMB,894,Rural,2,Flush and pour flush - to septic tank,0.007,Demographic and Health Surveys 2013-2014 - DHS14
+Zambia,ZM,ZMB,894,Rural,3,Flush and pour flush - to pit,0.002,Demographic and Health Surveys 2013-2014 - DHS14
+Zambia,ZM,ZMB,894,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Surveys 2013-2014 - DHS14
+Zambia,ZM,ZMB,894,Rural,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Surveys 2013-2014 - DHS14
+Zambia,ZM,ZMB,894,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.134,Demographic and Health Surveys 2013-2014 - DHS14
+Zambia,ZM,ZMB,894,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.115,Demographic and Health Surveys 2013-2014 - DHS14
+Zambia,ZM,ZMB,894,Rural,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Surveys 2013-2014 - DHS14
+Zambia,ZM,ZMB,894,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.478,Demographic and Health Surveys 2013-2014 - DHS14
+Zambia,ZM,ZMB,894,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.002,Demographic and Health Surveys 2013-2014 - DHS14
+Zambia,ZM,ZMB,894,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.101,Demographic and Health Surveys 2013-2014 - DHS14
+Zambia,ZM,ZMB,894,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.086,Demographic and Health Surveys 2013-2014 - DHS14
+Zambia,ZM,ZMB,894,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.033,Demographic and Health Surveys 2013-2014 - DHS14
+Zambia,ZM,ZMB,894,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.029,Demographic and Health Surveys 2013-2014 - DHS14
+Zambia,ZM,ZMB,894,Rural,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Surveys 2013-2014 - DHS14
+Zambia,ZM,ZMB,894,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Surveys 2013-2014 - DHS14
+Zambia,ZM,ZMB,894,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Surveys 2013-2014 - DHS14
+Zambia,ZM,ZMB,894,Rural,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Surveys 2013-2014 - DHS14
+Zambia,ZM,ZMB,894,Rural,12,Dry latrines - Other,0.0,Demographic and Health Surveys 2013-2014 - DHS14
+Zambia,ZM,ZMB,894,Rural,13,Composting toilets,0.0,Demographic and Health Surveys 2013-2014 - DHS14
+Zambia,ZM,ZMB,894,Rural,14,Other improved,0.0,Demographic and Health Surveys 2013-2014 - DHS14
+Zambia,ZM,ZMB,894,Rural,15,"No facility, bush, field",0.257,Demographic and Health Surveys 2013-2014 - DHS14
+Zambia,ZM,ZMB,894,Rural,16,Other unimproved,0.0,Demographic and Health Surveys 2013-2014 - DHS14
+Zambia,ZM,ZMB,894,Rural,17,DK/missing information,0.0,Demographic and Health Surveys 2013-2014 - DHS14

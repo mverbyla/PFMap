@@ -1,0 +1,69 @@
+country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+Eswatini,SZ,SWZ,748,Urban,1,Flush and pour flush - to piped sewer system,0.361,Multiple Indicator Cluster Survey - MICS10
+Eswatini,SZ,SWZ,748,Urban,2,Flush and pour flush - to septic tank,0.091,Multiple Indicator Cluster Survey - MICS10
+Eswatini,SZ,SWZ,748,Urban,3,Flush and pour flush - to pit,0.001,Multiple Indicator Cluster Survey - MICS10
+Eswatini,SZ,SWZ,748,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.009,Multiple Indicator Cluster Survey - MICS10
+Eswatini,SZ,SWZ,748,Urban,5,Flush and pour flush - to elsewhere,0.002,Multiple Indicator Cluster Survey - MICS10
+Eswatini,SZ,SWZ,748,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.078,Multiple Indicator Cluster Survey - MICS10
+Eswatini,SZ,SWZ,748,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.401,Multiple Indicator Cluster Survey - MICS10
+Eswatini,SZ,SWZ,748,Urban,8,Dry latrines - Traditional latrine,0.0,Multiple Indicator Cluster Survey - MICS10
+Eswatini,SZ,SWZ,748,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.041,Multiple Indicator Cluster Survey - MICS10
+Eswatini,SZ,SWZ,748,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS10
+Eswatini,SZ,SWZ,748,Urban,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS10
+Eswatini,SZ,SWZ,748,Urban,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS10
+Eswatini,SZ,SWZ,748,Urban,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS10
+Eswatini,SZ,SWZ,748,Urban,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS10
+Eswatini,SZ,SWZ,748,Urban,15,"No facility, bush, field",0.013,Multiple Indicator Cluster Survey - MICS10
+Eswatini,SZ,SWZ,748,Urban,16,Other unimproved,0.001,Multiple Indicator Cluster Survey - MICS10
+Eswatini,SZ,SWZ,748,Urban,17,DK/missing information,0.002,Multiple Indicator Cluster Survey - MICS10
+Eswatini,SZ,SWZ,748,Rural,1,Flush and pour flush - to piped sewer system,0.026,Multiple Indicator Cluster Survey - MICS10
+Eswatini,SZ,SWZ,748,Rural,2,Flush and pour flush - to septic tank,0.026,Multiple Indicator Cluster Survey - MICS10
+Eswatini,SZ,SWZ,748,Rural,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS10
+Eswatini,SZ,SWZ,748,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS10
+Eswatini,SZ,SWZ,748,Rural,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS10
+Eswatini,SZ,SWZ,748,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.208,Multiple Indicator Cluster Survey - MICS10
+Eswatini,SZ,SWZ,748,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.473,Multiple Indicator Cluster Survey - MICS10
+Eswatini,SZ,SWZ,748,Rural,8,Dry latrines - Traditional latrine,0.0,Multiple Indicator Cluster Survey - MICS10
+Eswatini,SZ,SWZ,748,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.07,Multiple Indicator Cluster Survey - MICS10
+Eswatini,SZ,SWZ,748,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS10
+Eswatini,SZ,SWZ,748,Rural,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS10
+Eswatini,SZ,SWZ,748,Rural,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS10
+Eswatini,SZ,SWZ,748,Rural,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS10
+Eswatini,SZ,SWZ,748,Rural,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS10
+Eswatini,SZ,SWZ,748,Rural,15,"No facility, bush, field",0.197,Multiple Indicator Cluster Survey - MICS10
+Eswatini,SZ,SWZ,748,Rural,16,Other unimproved,0.0,Multiple Indicator Cluster Survey - MICS10
+Eswatini,SZ,SWZ,748,Rural,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS10
+Eswatini,SZ,SWZ,748,Urban,1,Flush and pour flush - to piped sewer system,0.316,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Eswatini,SZ,SWZ,748,Urban,2,Flush and pour flush - to septic tank,0.179,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Eswatini,SZ,SWZ,748,Urban,3,Flush and pour flush - to pit,0.015,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Eswatini,SZ,SWZ,748,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.002,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Eswatini,SZ,SWZ,748,Urban,5,Flush and pour flush - to elsewhere,0.004,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Eswatini,SZ,SWZ,748,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.114,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Eswatini,SZ,SWZ,748,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.314,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Eswatini,SZ,SWZ,748,Urban,8,Dry latrines - Traditional latrine,0.0,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Eswatini,SZ,SWZ,748,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.049,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Eswatini,SZ,SWZ,748,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Eswatini,SZ,SWZ,748,Urban,11,Dry latrines - Bucket latrine,0.0,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Eswatini,SZ,SWZ,748,Urban,12,Dry latrines - Other,0.0,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Eswatini,SZ,SWZ,748,Urban,13,Composting toilets,0.0,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Eswatini,SZ,SWZ,748,Urban,14,Other improved,0.0,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Eswatini,SZ,SWZ,748,Urban,15,"No facility, bush, field",0.005,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Eswatini,SZ,SWZ,748,Urban,16,Other unimproved,0.0,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Eswatini,SZ,SWZ,748,Urban,17,DK/missing information,0.0,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Eswatini,SZ,SWZ,748,Rural,1,Flush and pour flush - to piped sewer system,0.02,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Eswatini,SZ,SWZ,748,Rural,2,Flush and pour flush - to septic tank,0.038,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Eswatini,SZ,SWZ,748,Rural,3,Flush and pour flush - to pit,0.007,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Eswatini,SZ,SWZ,748,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.001,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Eswatini,SZ,SWZ,748,Rural,5,Flush and pour flush - to elsewhere,0.0,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Eswatini,SZ,SWZ,748,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.271,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Eswatini,SZ,SWZ,748,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.444,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Eswatini,SZ,SWZ,748,Rural,8,Dry latrines - Traditional latrine,0.0,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Eswatini,SZ,SWZ,748,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.074,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Eswatini,SZ,SWZ,748,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Eswatini,SZ,SWZ,748,Rural,11,Dry latrines - Bucket latrine,0.0,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Eswatini,SZ,SWZ,748,Rural,12,Dry latrines - Other,0.0,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Eswatini,SZ,SWZ,748,Rural,13,Composting toilets,0.0,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Eswatini,SZ,SWZ,748,Rural,14,Other improved,0.0,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Eswatini,SZ,SWZ,748,Rural,15,"No facility, bush, field",0.144,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Eswatini,SZ,SWZ,748,Rural,16,Other unimproved,0.001,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Eswatini,SZ,SWZ,748,Rural,17,DK/missing information,0.0,"Multiple Indicator Cluster Survey, 2014 - MICS14"

@@ -1,0 +1,1021 @@
+country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+Peru,PE,PER,604,Urban,1,Flush and pour flush - to piped sewer system,0.862,"Encuesta Demográfica y de Salud Familiar, 2015 - ENDES16"
+Peru,PE,PER,604,Urban,2,Flush and pour flush - to septic tank,0.014,"Encuesta Demográfica y de Salud Familiar, 2015 - ENDES16"
+Peru,PE,PER,604,Urban,3,Flush and pour flush - to pit,0.0,"Encuesta Demográfica y de Salud Familiar, 2015 - ENDES16"
+Peru,PE,PER,604,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Encuesta Demográfica y de Salud Familiar, 2015 - ENDES16"
+Peru,PE,PER,604,Urban,5,Flush and pour flush - to elsewhere,0.002,"Encuesta Demográfica y de Salud Familiar, 2015 - ENDES16"
+Peru,PE,PER,604,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.03,"Encuesta Demográfica y de Salud Familiar, 2015 - ENDES16"
+Peru,PE,PER,604,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Encuesta Demográfica y de Salud Familiar, 2015 - ENDES16"
+Peru,PE,PER,604,Urban,8,Dry latrines - Traditional latrine,0.067,"Encuesta Demográfica y de Salud Familiar, 2015 - ENDES16"
+Peru,PE,PER,604,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Encuesta Demográfica y de Salud Familiar, 2015 - ENDES16"
+Peru,PE,PER,604,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Encuesta Demográfica y de Salud Familiar, 2015 - ENDES16"
+Peru,PE,PER,604,Urban,11,Dry latrines - Bucket latrine,0.0,"Encuesta Demográfica y de Salud Familiar, 2015 - ENDES16"
+Peru,PE,PER,604,Urban,12,Dry latrines - Other,0.0,"Encuesta Demográfica y de Salud Familiar, 2015 - ENDES16"
+Peru,PE,PER,604,Urban,13,Composting toilets,0.0,"Encuesta Demográfica y de Salud Familiar, 2015 - ENDES16"
+Peru,PE,PER,604,Urban,14,Other improved,0.0,"Encuesta Demográfica y de Salud Familiar, 2015 - ENDES16"
+Peru,PE,PER,604,Urban,15,"No facility, bush, field",0.023,"Encuesta Demográfica y de Salud Familiar, 2015 - ENDES16"
+Peru,PE,PER,604,Urban,16,Other unimproved,0.001,"Encuesta Demográfica y de Salud Familiar, 2015 - ENDES16"
+Peru,PE,PER,604,Urban,17,DK/missing information,0.0,"Encuesta Demográfica y de Salud Familiar, 2015 - ENDES16"
+Peru,PE,PER,604,Rural,1,Flush and pour flush - to piped sewer system,0.178,"Encuesta Demográfica y de Salud Familiar, 2015 - ENDES16"
+Peru,PE,PER,604,Rural,2,Flush and pour flush - to septic tank,0.056,"Encuesta Demográfica y de Salud Familiar, 2015 - ENDES16"
+Peru,PE,PER,604,Rural,3,Flush and pour flush - to pit,0.0,"Encuesta Demográfica y de Salud Familiar, 2015 - ENDES16"
+Peru,PE,PER,604,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Encuesta Demográfica y de Salud Familiar, 2015 - ENDES16"
+Peru,PE,PER,604,Rural,5,Flush and pour flush - to elsewhere,0.004,"Encuesta Demográfica y de Salud Familiar, 2015 - ENDES16"
+Peru,PE,PER,604,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.112,"Encuesta Demográfica y de Salud Familiar, 2015 - ENDES16"
+Peru,PE,PER,604,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Encuesta Demográfica y de Salud Familiar, 2015 - ENDES16"
+Peru,PE,PER,604,Rural,8,Dry latrines - Traditional latrine,0.447,"Encuesta Demográfica y de Salud Familiar, 2015 - ENDES16"
+Peru,PE,PER,604,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Encuesta Demográfica y de Salud Familiar, 2015 - ENDES16"
+Peru,PE,PER,604,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Encuesta Demográfica y de Salud Familiar, 2015 - ENDES16"
+Peru,PE,PER,604,Rural,11,Dry latrines - Bucket latrine,0.0,"Encuesta Demográfica y de Salud Familiar, 2015 - ENDES16"
+Peru,PE,PER,604,Rural,12,Dry latrines - Other,0.0,"Encuesta Demográfica y de Salud Familiar, 2015 - ENDES16"
+Peru,PE,PER,604,Rural,13,Composting toilets,0.0,"Encuesta Demográfica y de Salud Familiar, 2015 - ENDES16"
+Peru,PE,PER,604,Rural,14,Other improved,0.0,"Encuesta Demográfica y de Salud Familiar, 2015 - ENDES16"
+Peru,PE,PER,604,Rural,15,"No facility, bush, field",0.2,"Encuesta Demográfica y de Salud Familiar, 2015 - ENDES16"
+Peru,PE,PER,604,Rural,16,Other unimproved,0.003,"Encuesta Demográfica y de Salud Familiar, 2015 - ENDES16"
+Peru,PE,PER,604,Rural,17,DK/missing information,0.0,"Encuesta Demográfica y de Salud Familiar, 2015 - ENDES16"
+Peru,PE,PER,604,Urban,1,Flush and pour flush - to piped sewer system,0.802,Encuesta Nacional de Hogares - ENH02
+Peru,PE,PER,604,Urban,2,Flush and pour flush - to septic tank,0.048,Encuesta Nacional de Hogares - ENH02
+Peru,PE,PER,604,Urban,3,Flush and pour flush - to pit,0.0,Encuesta Nacional de Hogares - ENH02
+Peru,PE,PER,604,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Nacional de Hogares - ENH02
+Peru,PE,PER,604,Urban,5,Flush and pour flush - to elsewhere,0.008,Encuesta Nacional de Hogares - ENH02
+Peru,PE,PER,604,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Nacional de Hogares - ENH02
+Peru,PE,PER,604,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta Nacional de Hogares - ENH02
+Peru,PE,PER,604,Urban,8,Dry latrines - Traditional latrine,0.104,Encuesta Nacional de Hogares - ENH02
+Peru,PE,PER,604,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta Nacional de Hogares - ENH02
+Peru,PE,PER,604,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Nacional de Hogares - ENH02
+Peru,PE,PER,604,Urban,11,Dry latrines - Bucket latrine,0.0,Encuesta Nacional de Hogares - ENH02
+Peru,PE,PER,604,Urban,12,Dry latrines - Other,0.0,Encuesta Nacional de Hogares - ENH02
+Peru,PE,PER,604,Urban,13,Composting toilets,0.0,Encuesta Nacional de Hogares - ENH02
+Peru,PE,PER,604,Urban,14,Other improved,0.0,Encuesta Nacional de Hogares - ENH02
+Peru,PE,PER,604,Urban,15,"No facility, bush, field",0.038,Encuesta Nacional de Hogares - ENH02
+Peru,PE,PER,604,Urban,16,Other unimproved,0.0,Encuesta Nacional de Hogares - ENH02
+Peru,PE,PER,604,Urban,17,DK/missing information,0.0,Encuesta Nacional de Hogares - ENH02
+Peru,PE,PER,604,Rural,1,Flush and pour flush - to piped sewer system,0.18,Encuesta Nacional de Hogares - ENH02
+Peru,PE,PER,604,Rural,2,Flush and pour flush - to septic tank,0.098,Encuesta Nacional de Hogares - ENH02
+Peru,PE,PER,604,Rural,3,Flush and pour flush - to pit,0.0,Encuesta Nacional de Hogares - ENH02
+Peru,PE,PER,604,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Nacional de Hogares - ENH02
+Peru,PE,PER,604,Rural,5,Flush and pour flush - to elsewhere,0.024,Encuesta Nacional de Hogares - ENH02
+Peru,PE,PER,604,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Nacional de Hogares - ENH02
+Peru,PE,PER,604,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta Nacional de Hogares - ENH02
+Peru,PE,PER,604,Rural,8,Dry latrines - Traditional latrine,0.329,Encuesta Nacional de Hogares - ENH02
+Peru,PE,PER,604,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta Nacional de Hogares - ENH02
+Peru,PE,PER,604,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Nacional de Hogares - ENH02
+Peru,PE,PER,604,Rural,11,Dry latrines - Bucket latrine,0.0,Encuesta Nacional de Hogares - ENH02
+Peru,PE,PER,604,Rural,12,Dry latrines - Other,0.0,Encuesta Nacional de Hogares - ENH02
+Peru,PE,PER,604,Rural,13,Composting toilets,0.0,Encuesta Nacional de Hogares - ENH02
+Peru,PE,PER,604,Rural,14,Other improved,0.0,Encuesta Nacional de Hogares - ENH02
+Peru,PE,PER,604,Rural,15,"No facility, bush, field",0.368,Encuesta Nacional de Hogares - ENH02
+Peru,PE,PER,604,Rural,16,Other unimproved,0.0,Encuesta Nacional de Hogares - ENH02
+Peru,PE,PER,604,Rural,17,DK/missing information,0.0,Encuesta Nacional de Hogares - ENH02
+Peru,PE,PER,604,Urban,1,Flush and pour flush - to piped sewer system,0.75,Encuesta Nacional de los Hogares - ENAHO04
+Peru,PE,PER,604,Urban,2,Flush and pour flush - to septic tank,0.081,Encuesta Nacional de los Hogares - ENAHO04
+Peru,PE,PER,604,Urban,3,Flush and pour flush - to pit,0.0,Encuesta Nacional de los Hogares - ENAHO04
+Peru,PE,PER,604,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Nacional de los Hogares - ENAHO04
+Peru,PE,PER,604,Urban,5,Flush and pour flush - to elsewhere,0.01,Encuesta Nacional de los Hogares - ENAHO04
+Peru,PE,PER,604,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Nacional de los Hogares - ENAHO04
+Peru,PE,PER,604,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta Nacional de los Hogares - ENAHO04
+Peru,PE,PER,604,Urban,8,Dry latrines - Traditional latrine,0.087,Encuesta Nacional de los Hogares - ENAHO04
+Peru,PE,PER,604,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta Nacional de los Hogares - ENAHO04
+Peru,PE,PER,604,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Nacional de los Hogares - ENAHO04
+Peru,PE,PER,604,Urban,11,Dry latrines - Bucket latrine,0.0,Encuesta Nacional de los Hogares - ENAHO04
+Peru,PE,PER,604,Urban,12,Dry latrines - Other,0.0,Encuesta Nacional de los Hogares - ENAHO04
+Peru,PE,PER,604,Urban,13,Composting toilets,0.0,Encuesta Nacional de los Hogares - ENAHO04
+Peru,PE,PER,604,Urban,14,Other improved,0.0,Encuesta Nacional de los Hogares - ENAHO04
+Peru,PE,PER,604,Urban,15,"No facility, bush, field",0.072,Encuesta Nacional de los Hogares - ENAHO04
+Peru,PE,PER,604,Urban,16,Other unimproved,0.0,Encuesta Nacional de los Hogares - ENAHO04
+Peru,PE,PER,604,Urban,17,DK/missing information,0.0,Encuesta Nacional de los Hogares - ENAHO04
+Peru,PE,PER,604,Rural,1,Flush and pour flush - to piped sewer system,0.053,Encuesta Nacional de los Hogares - ENAHO04
+Peru,PE,PER,604,Rural,2,Flush and pour flush - to septic tank,0.174,Encuesta Nacional de los Hogares - ENAHO04
+Peru,PE,PER,604,Rural,3,Flush and pour flush - to pit,0.0,Encuesta Nacional de los Hogares - ENAHO04
+Peru,PE,PER,604,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Nacional de los Hogares - ENAHO04
+Peru,PE,PER,604,Rural,5,Flush and pour flush - to elsewhere,0.021,Encuesta Nacional de los Hogares - ENAHO04
+Peru,PE,PER,604,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Nacional de los Hogares - ENAHO04
+Peru,PE,PER,604,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta Nacional de los Hogares - ENAHO04
+Peru,PE,PER,604,Rural,8,Dry latrines - Traditional latrine,0.306,Encuesta Nacional de los Hogares - ENAHO04
+Peru,PE,PER,604,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta Nacional de los Hogares - ENAHO04
+Peru,PE,PER,604,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Nacional de los Hogares - ENAHO04
+Peru,PE,PER,604,Rural,11,Dry latrines - Bucket latrine,0.0,Encuesta Nacional de los Hogares - ENAHO04
+Peru,PE,PER,604,Rural,12,Dry latrines - Other,0.0,Encuesta Nacional de los Hogares - ENAHO04
+Peru,PE,PER,604,Rural,13,Composting toilets,0.0,Encuesta Nacional de los Hogares - ENAHO04
+Peru,PE,PER,604,Rural,14,Other improved,0.0,Encuesta Nacional de los Hogares - ENAHO04
+Peru,PE,PER,604,Rural,15,"No facility, bush, field",0.446,Encuesta Nacional de los Hogares - ENAHO04
+Peru,PE,PER,604,Rural,16,Other unimproved,0.0,Encuesta Nacional de los Hogares - ENAHO04
+Peru,PE,PER,604,Rural,17,DK/missing information,0.0,Encuesta Nacional de los Hogares - ENAHO04
+Peru,PE,PER,604,Urban,1,Flush and pour flush - to piped sewer system,0.753,Encuesta Nacional de los Hogares - ENAHO05
+Peru,PE,PER,604,Urban,2,Flush and pour flush - to septic tank,0.094,Encuesta Nacional de los Hogares - ENAHO05
+Peru,PE,PER,604,Urban,3,Flush and pour flush - to pit,0.0,Encuesta Nacional de los Hogares - ENAHO05
+Peru,PE,PER,604,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Nacional de los Hogares - ENAHO05
+Peru,PE,PER,604,Urban,5,Flush and pour flush - to elsewhere,0.012,Encuesta Nacional de los Hogares - ENAHO05
+Peru,PE,PER,604,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Nacional de los Hogares - ENAHO05
+Peru,PE,PER,604,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta Nacional de los Hogares - ENAHO05
+Peru,PE,PER,604,Urban,8,Dry latrines - Traditional latrine,0.076,Encuesta Nacional de los Hogares - ENAHO05
+Peru,PE,PER,604,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta Nacional de los Hogares - ENAHO05
+Peru,PE,PER,604,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Nacional de los Hogares - ENAHO05
+Peru,PE,PER,604,Urban,11,Dry latrines - Bucket latrine,0.0,Encuesta Nacional de los Hogares - ENAHO05
+Peru,PE,PER,604,Urban,12,Dry latrines - Other,0.0,Encuesta Nacional de los Hogares - ENAHO05
+Peru,PE,PER,604,Urban,13,Composting toilets,0.0,Encuesta Nacional de los Hogares - ENAHO05
+Peru,PE,PER,604,Urban,14,Other improved,0.0,Encuesta Nacional de los Hogares - ENAHO05
+Peru,PE,PER,604,Urban,15,"No facility, bush, field",0.065,Encuesta Nacional de los Hogares - ENAHO05
+Peru,PE,PER,604,Urban,16,Other unimproved,0.0,Encuesta Nacional de los Hogares - ENAHO05
+Peru,PE,PER,604,Urban,17,DK/missing information,0.0,Encuesta Nacional de los Hogares - ENAHO05
+Peru,PE,PER,604,Rural,1,Flush and pour flush - to piped sewer system,0.058,Encuesta Nacional de los Hogares - ENAHO05
+Peru,PE,PER,604,Rural,2,Flush and pour flush - to septic tank,0.253,Encuesta Nacional de los Hogares - ENAHO05
+Peru,PE,PER,604,Rural,3,Flush and pour flush - to pit,0.0,Encuesta Nacional de los Hogares - ENAHO05
+Peru,PE,PER,604,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Nacional de los Hogares - ENAHO05
+Peru,PE,PER,604,Rural,5,Flush and pour flush - to elsewhere,0.023,Encuesta Nacional de los Hogares - ENAHO05
+Peru,PE,PER,604,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Nacional de los Hogares - ENAHO05
+Peru,PE,PER,604,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta Nacional de los Hogares - ENAHO05
+Peru,PE,PER,604,Rural,8,Dry latrines - Traditional latrine,0.201,Encuesta Nacional de los Hogares - ENAHO05
+Peru,PE,PER,604,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta Nacional de los Hogares - ENAHO05
+Peru,PE,PER,604,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Nacional de los Hogares - ENAHO05
+Peru,PE,PER,604,Rural,11,Dry latrines - Bucket latrine,0.0,Encuesta Nacional de los Hogares - ENAHO05
+Peru,PE,PER,604,Rural,12,Dry latrines - Other,0.0,Encuesta Nacional de los Hogares - ENAHO05
+Peru,PE,PER,604,Rural,13,Composting toilets,0.0,Encuesta Nacional de los Hogares - ENAHO05
+Peru,PE,PER,604,Rural,14,Other improved,0.0,Encuesta Nacional de los Hogares - ENAHO05
+Peru,PE,PER,604,Rural,15,"No facility, bush, field",0.465,Encuesta Nacional de los Hogares - ENAHO05
+Peru,PE,PER,604,Rural,16,Other unimproved,0.0,Encuesta Nacional de los Hogares - ENAHO05
+Peru,PE,PER,604,Rural,17,DK/missing information,0.0,Encuesta Nacional de los Hogares - ENAHO05
+Peru,PE,PER,604,Urban,1,Flush and pour flush - to piped sewer system,0.769,Encuesta Nacional de los Hogares - ENAHO06
+Peru,PE,PER,604,Urban,2,Flush and pour flush - to septic tank,0.101,Encuesta Nacional de los Hogares - ENAHO06
+Peru,PE,PER,604,Urban,3,Flush and pour flush - to pit,0.0,Encuesta Nacional de los Hogares - ENAHO06
+Peru,PE,PER,604,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Nacional de los Hogares - ENAHO06
+Peru,PE,PER,604,Urban,5,Flush and pour flush - to elsewhere,0.016,Encuesta Nacional de los Hogares - ENAHO06
+Peru,PE,PER,604,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Nacional de los Hogares - ENAHO06
+Peru,PE,PER,604,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta Nacional de los Hogares - ENAHO06
+Peru,PE,PER,604,Urban,8,Dry latrines - Traditional latrine,0.06,Encuesta Nacional de los Hogares - ENAHO06
+Peru,PE,PER,604,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta Nacional de los Hogares - ENAHO06
+Peru,PE,PER,604,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Nacional de los Hogares - ENAHO06
+Peru,PE,PER,604,Urban,11,Dry latrines - Bucket latrine,0.0,Encuesta Nacional de los Hogares - ENAHO06
+Peru,PE,PER,604,Urban,12,Dry latrines - Other,0.0,Encuesta Nacional de los Hogares - ENAHO06
+Peru,PE,PER,604,Urban,13,Composting toilets,0.0,Encuesta Nacional de los Hogares - ENAHO06
+Peru,PE,PER,604,Urban,14,Other improved,0.0,Encuesta Nacional de los Hogares - ENAHO06
+Peru,PE,PER,604,Urban,15,"No facility, bush, field",0.053,Encuesta Nacional de los Hogares - ENAHO06
+Peru,PE,PER,604,Urban,16,Other unimproved,0.0,Encuesta Nacional de los Hogares - ENAHO06
+Peru,PE,PER,604,Urban,17,DK/missing information,0.0,Encuesta Nacional de los Hogares - ENAHO06
+Peru,PE,PER,604,Rural,1,Flush and pour flush - to piped sewer system,0.057,Encuesta Nacional de los Hogares - ENAHO06
+Peru,PE,PER,604,Rural,2,Flush and pour flush - to septic tank,0.301,Encuesta Nacional de los Hogares - ENAHO06
+Peru,PE,PER,604,Rural,3,Flush and pour flush - to pit,0.0,Encuesta Nacional de los Hogares - ENAHO06
+Peru,PE,PER,604,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Nacional de los Hogares - ENAHO06
+Peru,PE,PER,604,Rural,5,Flush and pour flush - to elsewhere,0.024,Encuesta Nacional de los Hogares - ENAHO06
+Peru,PE,PER,604,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Nacional de los Hogares - ENAHO06
+Peru,PE,PER,604,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta Nacional de los Hogares - ENAHO06
+Peru,PE,PER,604,Rural,8,Dry latrines - Traditional latrine,0.197,Encuesta Nacional de los Hogares - ENAHO06
+Peru,PE,PER,604,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta Nacional de los Hogares - ENAHO06
+Peru,PE,PER,604,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Nacional de los Hogares - ENAHO06
+Peru,PE,PER,604,Rural,11,Dry latrines - Bucket latrine,0.0,Encuesta Nacional de los Hogares - ENAHO06
+Peru,PE,PER,604,Rural,12,Dry latrines - Other,0.0,Encuesta Nacional de los Hogares - ENAHO06
+Peru,PE,PER,604,Rural,13,Composting toilets,0.0,Encuesta Nacional de los Hogares - ENAHO06
+Peru,PE,PER,604,Rural,14,Other improved,0.0,Encuesta Nacional de los Hogares - ENAHO06
+Peru,PE,PER,604,Rural,15,"No facility, bush, field",0.422,Encuesta Nacional de los Hogares - ENAHO06
+Peru,PE,PER,604,Rural,16,Other unimproved,0.0,Encuesta Nacional de los Hogares - ENAHO06
+Peru,PE,PER,604,Rural,17,DK/missing information,0.0,Encuesta Nacional de los Hogares - ENAHO06
+Peru,PE,PER,604,Urban,1,Flush and pour flush - to piped sewer system,0.776,Encuesta Nacional de los Hogares - ENAHO07
+Peru,PE,PER,604,Urban,2,Flush and pour flush - to septic tank,0.066,Encuesta Nacional de los Hogares - ENAHO07
+Peru,PE,PER,604,Urban,3,Flush and pour flush - to pit,0.0,Encuesta Nacional de los Hogares - ENAHO07
+Peru,PE,PER,604,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Nacional de los Hogares - ENAHO07
+Peru,PE,PER,604,Urban,5,Flush and pour flush - to elsewhere,0.015,Encuesta Nacional de los Hogares - ENAHO07
+Peru,PE,PER,604,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Nacional de los Hogares - ENAHO07
+Peru,PE,PER,604,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta Nacional de los Hogares - ENAHO07
+Peru,PE,PER,604,Urban,8,Dry latrines - Traditional latrine,0.083,Encuesta Nacional de los Hogares - ENAHO07
+Peru,PE,PER,604,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta Nacional de los Hogares - ENAHO07
+Peru,PE,PER,604,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Nacional de los Hogares - ENAHO07
+Peru,PE,PER,604,Urban,11,Dry latrines - Bucket latrine,0.0,Encuesta Nacional de los Hogares - ENAHO07
+Peru,PE,PER,604,Urban,12,Dry latrines - Other,0.0,Encuesta Nacional de los Hogares - ENAHO07
+Peru,PE,PER,604,Urban,13,Composting toilets,0.0,Encuesta Nacional de los Hogares - ENAHO07
+Peru,PE,PER,604,Urban,14,Other improved,0.0,Encuesta Nacional de los Hogares - ENAHO07
+Peru,PE,PER,604,Urban,15,"No facility, bush, field",0.059,Encuesta Nacional de los Hogares - ENAHO07
+Peru,PE,PER,604,Urban,16,Other unimproved,0.0,Encuesta Nacional de los Hogares - ENAHO07
+Peru,PE,PER,604,Urban,17,DK/missing information,0.0,Encuesta Nacional de los Hogares - ENAHO07
+Peru,PE,PER,604,Rural,1,Flush and pour flush - to piped sewer system,0.075,Encuesta Nacional de los Hogares - ENAHO07
+Peru,PE,PER,604,Rural,2,Flush and pour flush - to septic tank,0.272,Encuesta Nacional de los Hogares - ENAHO07
+Peru,PE,PER,604,Rural,3,Flush and pour flush - to pit,0.0,Encuesta Nacional de los Hogares - ENAHO07
+Peru,PE,PER,604,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Nacional de los Hogares - ENAHO07
+Peru,PE,PER,604,Rural,5,Flush and pour flush - to elsewhere,0.017,Encuesta Nacional de los Hogares - ENAHO07
+Peru,PE,PER,604,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Nacional de los Hogares - ENAHO07
+Peru,PE,PER,604,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta Nacional de los Hogares - ENAHO07
+Peru,PE,PER,604,Rural,8,Dry latrines - Traditional latrine,0.243,Encuesta Nacional de los Hogares - ENAHO07
+Peru,PE,PER,604,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta Nacional de los Hogares - ENAHO07
+Peru,PE,PER,604,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Nacional de los Hogares - ENAHO07
+Peru,PE,PER,604,Rural,11,Dry latrines - Bucket latrine,0.0,Encuesta Nacional de los Hogares - ENAHO07
+Peru,PE,PER,604,Rural,12,Dry latrines - Other,0.0,Encuesta Nacional de los Hogares - ENAHO07
+Peru,PE,PER,604,Rural,13,Composting toilets,0.0,Encuesta Nacional de los Hogares - ENAHO07
+Peru,PE,PER,604,Rural,14,Other improved,0.0,Encuesta Nacional de los Hogares - ENAHO07
+Peru,PE,PER,604,Rural,15,"No facility, bush, field",0.394,Encuesta Nacional de los Hogares - ENAHO07
+Peru,PE,PER,604,Rural,16,Other unimproved,0.0,Encuesta Nacional de los Hogares - ENAHO07
+Peru,PE,PER,604,Rural,17,DK/missing information,0.0,Encuesta Nacional de los Hogares - ENAHO07
+Peru,PE,PER,604,Urban,1,Flush and pour flush - to piped sewer system,0.725,Censos Nacionales de Poblacion y de Vivienda - CEN07
+Peru,PE,PER,604,Urban,2,Flush and pour flush - to septic tank,0.046,Censos Nacionales de Poblacion y de Vivienda - CEN07
+Peru,PE,PER,604,Urban,3,Flush and pour flush - to pit,0.0,Censos Nacionales de Poblacion y de Vivienda - CEN07
+Peru,PE,PER,604,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Censos Nacionales de Poblacion y de Vivienda - CEN07
+Peru,PE,PER,604,Urban,5,Flush and pour flush - to elsewhere,0.013,Censos Nacionales de Poblacion y de Vivienda - CEN07
+Peru,PE,PER,604,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Censos Nacionales de Poblacion y de Vivienda - CEN07
+Peru,PE,PER,604,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Censos Nacionales de Poblacion y de Vivienda - CEN07
+Peru,PE,PER,604,Urban,8,Dry latrines - Traditional latrine,0.128,Censos Nacionales de Poblacion y de Vivienda - CEN07
+Peru,PE,PER,604,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Censos Nacionales de Poblacion y de Vivienda - CEN07
+Peru,PE,PER,604,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Censos Nacionales de Poblacion y de Vivienda - CEN07
+Peru,PE,PER,604,Urban,11,Dry latrines - Bucket latrine,0.0,Censos Nacionales de Poblacion y de Vivienda - CEN07
+Peru,PE,PER,604,Urban,12,Dry latrines - Other,0.0,Censos Nacionales de Poblacion y de Vivienda - CEN07
+Peru,PE,PER,604,Urban,13,Composting toilets,0.0,Censos Nacionales de Poblacion y de Vivienda - CEN07
+Peru,PE,PER,604,Urban,14,Other improved,0.0,Censos Nacionales de Poblacion y de Vivienda - CEN07
+Peru,PE,PER,604,Urban,15,"No facility, bush, field",0.087,Censos Nacionales de Poblacion y de Vivienda - CEN07
+Peru,PE,PER,604,Urban,16,Other unimproved,0.0,Censos Nacionales de Poblacion y de Vivienda - CEN07
+Peru,PE,PER,604,Urban,17,DK/missing information,0.0,Censos Nacionales de Poblacion y de Vivienda - CEN07
+Peru,PE,PER,604,Rural,1,Flush and pour flush - to piped sewer system,0.025,Censos Nacionales de Poblacion y de Vivienda - CEN07
+Peru,PE,PER,604,Rural,2,Flush and pour flush - to septic tank,0.052,Censos Nacionales de Poblacion y de Vivienda - CEN07
+Peru,PE,PER,604,Rural,3,Flush and pour flush - to pit,0.0,Censos Nacionales de Poblacion y de Vivienda - CEN07
+Peru,PE,PER,604,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Censos Nacionales de Poblacion y de Vivienda - CEN07
+Peru,PE,PER,604,Rural,5,Flush and pour flush - to elsewhere,0.031,Censos Nacionales de Poblacion y de Vivienda - CEN07
+Peru,PE,PER,604,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Censos Nacionales de Poblacion y de Vivienda - CEN07
+Peru,PE,PER,604,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Censos Nacionales de Poblacion y de Vivienda - CEN07
+Peru,PE,PER,604,Rural,8,Dry latrines - Traditional latrine,0.473,Censos Nacionales de Poblacion y de Vivienda - CEN07
+Peru,PE,PER,604,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Censos Nacionales de Poblacion y de Vivienda - CEN07
+Peru,PE,PER,604,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Censos Nacionales de Poblacion y de Vivienda - CEN07
+Peru,PE,PER,604,Rural,11,Dry latrines - Bucket latrine,0.0,Censos Nacionales de Poblacion y de Vivienda - CEN07
+Peru,PE,PER,604,Rural,12,Dry latrines - Other,0.0,Censos Nacionales de Poblacion y de Vivienda - CEN07
+Peru,PE,PER,604,Rural,13,Composting toilets,0.0,Censos Nacionales de Poblacion y de Vivienda - CEN07
+Peru,PE,PER,604,Rural,14,Other improved,0.0,Censos Nacionales de Poblacion y de Vivienda - CEN07
+Peru,PE,PER,604,Rural,15,"No facility, bush, field",0.419,Censos Nacionales de Poblacion y de Vivienda - CEN07
+Peru,PE,PER,604,Rural,16,Other unimproved,0.0,Censos Nacionales de Poblacion y de Vivienda - CEN07
+Peru,PE,PER,604,Rural,17,DK/missing information,0.0,Censos Nacionales de Poblacion y de Vivienda - CEN07
+Peru,PE,PER,604,Urban,1,Flush and pour flush - to piped sewer system,0.792,Encuesta Nacional de los Hogares - ENAHO08
+Peru,PE,PER,604,Urban,2,Flush and pour flush - to septic tank,0.058,Encuesta Nacional de los Hogares - ENAHO08
+Peru,PE,PER,604,Urban,3,Flush and pour flush - to pit,0.0,Encuesta Nacional de los Hogares - ENAHO08
+Peru,PE,PER,604,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Nacional de los Hogares - ENAHO08
+Peru,PE,PER,604,Urban,5,Flush and pour flush - to elsewhere,0.017,Encuesta Nacional de los Hogares - ENAHO08
+Peru,PE,PER,604,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Nacional de los Hogares - ENAHO08
+Peru,PE,PER,604,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta Nacional de los Hogares - ENAHO08
+Peru,PE,PER,604,Urban,8,Dry latrines - Traditional latrine,0.073,Encuesta Nacional de los Hogares - ENAHO08
+Peru,PE,PER,604,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta Nacional de los Hogares - ENAHO08
+Peru,PE,PER,604,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Nacional de los Hogares - ENAHO08
+Peru,PE,PER,604,Urban,11,Dry latrines - Bucket latrine,0.0,Encuesta Nacional de los Hogares - ENAHO08
+Peru,PE,PER,604,Urban,12,Dry latrines - Other,0.0,Encuesta Nacional de los Hogares - ENAHO08
+Peru,PE,PER,604,Urban,13,Composting toilets,0.0,Encuesta Nacional de los Hogares - ENAHO08
+Peru,PE,PER,604,Urban,14,Other improved,0.0,Encuesta Nacional de los Hogares - ENAHO08
+Peru,PE,PER,604,Urban,15,"No facility, bush, field",0.06,Encuesta Nacional de los Hogares - ENAHO08
+Peru,PE,PER,604,Urban,16,Other unimproved,0.0,Encuesta Nacional de los Hogares - ENAHO08
+Peru,PE,PER,604,Urban,17,DK/missing information,0.0,Encuesta Nacional de los Hogares - ENAHO08
+Peru,PE,PER,604,Rural,1,Flush and pour flush - to piped sewer system,0.077,Encuesta Nacional de los Hogares - ENAHO08
+Peru,PE,PER,604,Rural,2,Flush and pour flush - to septic tank,0.32,Encuesta Nacional de los Hogares - ENAHO08
+Peru,PE,PER,604,Rural,3,Flush and pour flush - to pit,0.0,Encuesta Nacional de los Hogares - ENAHO08
+Peru,PE,PER,604,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Nacional de los Hogares - ENAHO08
+Peru,PE,PER,604,Rural,5,Flush and pour flush - to elsewhere,0.02,Encuesta Nacional de los Hogares - ENAHO08
+Peru,PE,PER,604,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Nacional de los Hogares - ENAHO08
+Peru,PE,PER,604,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta Nacional de los Hogares - ENAHO08
+Peru,PE,PER,604,Rural,8,Dry latrines - Traditional latrine,0.24,Encuesta Nacional de los Hogares - ENAHO08
+Peru,PE,PER,604,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta Nacional de los Hogares - ENAHO08
+Peru,PE,PER,604,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Nacional de los Hogares - ENAHO08
+Peru,PE,PER,604,Rural,11,Dry latrines - Bucket latrine,0.0,Encuesta Nacional de los Hogares - ENAHO08
+Peru,PE,PER,604,Rural,12,Dry latrines - Other,0.0,Encuesta Nacional de los Hogares - ENAHO08
+Peru,PE,PER,604,Rural,13,Composting toilets,0.0,Encuesta Nacional de los Hogares - ENAHO08
+Peru,PE,PER,604,Rural,14,Other improved,0.0,Encuesta Nacional de los Hogares - ENAHO08
+Peru,PE,PER,604,Rural,15,"No facility, bush, field",0.343,Encuesta Nacional de los Hogares - ENAHO08
+Peru,PE,PER,604,Rural,16,Other unimproved,0.0,Encuesta Nacional de los Hogares - ENAHO08
+Peru,PE,PER,604,Rural,17,DK/missing information,0.0,Encuesta Nacional de los Hogares - ENAHO08
+Peru,PE,PER,604,Urban,1,Flush and pour flush - to piped sewer system,0.822,Encuestas de demografía y salud  - ENDES08
+Peru,PE,PER,604,Urban,2,Flush and pour flush - to septic tank,0.018,Encuestas de demografía y salud  - ENDES08
+Peru,PE,PER,604,Urban,3,Flush and pour flush - to pit,0.0,Encuestas de demografía y salud  - ENDES08
+Peru,PE,PER,604,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuestas de demografía y salud  - ENDES08
+Peru,PE,PER,604,Urban,5,Flush and pour flush - to elsewhere,0.0,Encuestas de demografía y salud  - ENDES08
+Peru,PE,PER,604,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.002,Encuestas de demografía y salud  - ENDES08
+Peru,PE,PER,604,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuestas de demografía y salud  - ENDES08
+Peru,PE,PER,604,Urban,8,Dry latrines - Traditional latrine,0.093,Encuestas de demografía y salud  - ENDES08
+Peru,PE,PER,604,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuestas de demografía y salud  - ENDES08
+Peru,PE,PER,604,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.008,Encuestas de demografía y salud  - ENDES08
+Peru,PE,PER,604,Urban,11,Dry latrines - Bucket latrine,0.0,Encuestas de demografía y salud  - ENDES08
+Peru,PE,PER,604,Urban,12,Dry latrines - Other,0.002,Encuestas de demografía y salud  - ENDES08
+Peru,PE,PER,604,Urban,13,Composting toilets,0.0,Encuestas de demografía y salud  - ENDES08
+Peru,PE,PER,604,Urban,14,Other improved,0.0,Encuestas de demografía y salud  - ENDES08
+Peru,PE,PER,604,Urban,15,"No facility, bush, field",0.038,Encuestas de demografía y salud  - ENDES08
+Peru,PE,PER,604,Urban,16,Other unimproved,0.017,Encuestas de demografía y salud  - ENDES08
+Peru,PE,PER,604,Urban,17,DK/missing information,0.0,Encuestas de demografía y salud  - ENDES08
+Peru,PE,PER,604,Rural,1,Flush and pour flush - to piped sewer system,0.094,Encuestas de demografía y salud  - ENDES08
+Peru,PE,PER,604,Rural,2,Flush and pour flush - to septic tank,0.081,Encuestas de demografía y salud  - ENDES08
+Peru,PE,PER,604,Rural,3,Flush and pour flush - to pit,0.0,Encuestas de demografía y salud  - ENDES08
+Peru,PE,PER,604,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuestas de demografía y salud  - ENDES08
+Peru,PE,PER,604,Rural,5,Flush and pour flush - to elsewhere,0.0,Encuestas de demografía y salud  - ENDES08
+Peru,PE,PER,604,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.056,Encuestas de demografía y salud  - ENDES08
+Peru,PE,PER,604,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuestas de demografía y salud  - ENDES08
+Peru,PE,PER,604,Rural,8,Dry latrines - Traditional latrine,0.369,Encuestas de demografía y salud  - ENDES08
+Peru,PE,PER,604,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuestas de demografía y salud  - ENDES08
+Peru,PE,PER,604,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.007,Encuestas de demografía y salud  - ENDES08
+Peru,PE,PER,604,Rural,11,Dry latrines - Bucket latrine,0.0,Encuestas de demografía y salud  - ENDES08
+Peru,PE,PER,604,Rural,12,Dry latrines - Other,0.003,Encuestas de demografía y salud  - ENDES08
+Peru,PE,PER,604,Rural,13,Composting toilets,0.0,Encuestas de demografía y salud  - ENDES08
+Peru,PE,PER,604,Rural,14,Other improved,0.0,Encuestas de demografía y salud  - ENDES08
+Peru,PE,PER,604,Rural,15,"No facility, bush, field",0.367,Encuestas de demografía y salud  - ENDES08
+Peru,PE,PER,604,Rural,16,Other unimproved,0.022,Encuestas de demografía y salud  - ENDES08
+Peru,PE,PER,604,Rural,17,DK/missing information,0.0,Encuestas de demografía y salud  - ENDES08
+Peru,PE,PER,604,Urban,1,Flush and pour flush - to piped sewer system,0.809,Encuesta Nacional de los Hogares - ENAHO09
+Peru,PE,PER,604,Urban,2,Flush and pour flush - to septic tank,0.052,Encuesta Nacional de los Hogares - ENAHO09
+Peru,PE,PER,604,Urban,3,Flush and pour flush - to pit,0.0,Encuesta Nacional de los Hogares - ENAHO09
+Peru,PE,PER,604,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Nacional de los Hogares - ENAHO09
+Peru,PE,PER,604,Urban,5,Flush and pour flush - to elsewhere,0.02,Encuesta Nacional de los Hogares - ENAHO09
+Peru,PE,PER,604,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Nacional de los Hogares - ENAHO09
+Peru,PE,PER,604,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta Nacional de los Hogares - ENAHO09
+Peru,PE,PER,604,Urban,8,Dry latrines - Traditional latrine,0.068,Encuesta Nacional de los Hogares - ENAHO09
+Peru,PE,PER,604,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta Nacional de los Hogares - ENAHO09
+Peru,PE,PER,604,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Nacional de los Hogares - ENAHO09
+Peru,PE,PER,604,Urban,11,Dry latrines - Bucket latrine,0.0,Encuesta Nacional de los Hogares - ENAHO09
+Peru,PE,PER,604,Urban,12,Dry latrines - Other,0.0,Encuesta Nacional de los Hogares - ENAHO09
+Peru,PE,PER,604,Urban,13,Composting toilets,0.0,Encuesta Nacional de los Hogares - ENAHO09
+Peru,PE,PER,604,Urban,14,Other improved,0.0,Encuesta Nacional de los Hogares - ENAHO09
+Peru,PE,PER,604,Urban,15,"No facility, bush, field",0.051,Encuesta Nacional de los Hogares - ENAHO09
+Peru,PE,PER,604,Urban,16,Other unimproved,0.0,Encuesta Nacional de los Hogares - ENAHO09
+Peru,PE,PER,604,Urban,17,DK/missing information,0.0,Encuesta Nacional de los Hogares - ENAHO09
+Peru,PE,PER,604,Rural,1,Flush and pour flush - to piped sewer system,0.094,Encuesta Nacional de los Hogares - ENAHO09
+Peru,PE,PER,604,Rural,2,Flush and pour flush - to septic tank,0.345,Encuesta Nacional de los Hogares - ENAHO09
+Peru,PE,PER,604,Rural,3,Flush and pour flush - to pit,0.0,Encuesta Nacional de los Hogares - ENAHO09
+Peru,PE,PER,604,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Nacional de los Hogares - ENAHO09
+Peru,PE,PER,604,Rural,5,Flush and pour flush - to elsewhere,0.023,Encuesta Nacional de los Hogares - ENAHO09
+Peru,PE,PER,604,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Nacional de los Hogares - ENAHO09
+Peru,PE,PER,604,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta Nacional de los Hogares - ENAHO09
+Peru,PE,PER,604,Rural,8,Dry latrines - Traditional latrine,0.248,Encuesta Nacional de los Hogares - ENAHO09
+Peru,PE,PER,604,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta Nacional de los Hogares - ENAHO09
+Peru,PE,PER,604,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Nacional de los Hogares - ENAHO09
+Peru,PE,PER,604,Rural,11,Dry latrines - Bucket latrine,0.0,Encuesta Nacional de los Hogares - ENAHO09
+Peru,PE,PER,604,Rural,12,Dry latrines - Other,0.0,Encuesta Nacional de los Hogares - ENAHO09
+Peru,PE,PER,604,Rural,13,Composting toilets,0.0,Encuesta Nacional de los Hogares - ENAHO09
+Peru,PE,PER,604,Rural,14,Other improved,0.0,Encuesta Nacional de los Hogares - ENAHO09
+Peru,PE,PER,604,Rural,15,"No facility, bush, field",0.29,Encuesta Nacional de los Hogares - ENAHO09
+Peru,PE,PER,604,Rural,16,Other unimproved,0.0,Encuesta Nacional de los Hogares - ENAHO09
+Peru,PE,PER,604,Rural,17,DK/missing information,0.0,Encuesta Nacional de los Hogares - ENAHO09
+Peru,PE,PER,604,Urban,1,Flush and pour flush - to piped sewer system,0.773,Encuestas de demografía y salud  - ENDES10
+Peru,PE,PER,604,Urban,2,Flush and pour flush - to septic tank,0.009,Encuestas de demografía y salud  - ENDES10
+Peru,PE,PER,604,Urban,3,Flush and pour flush - to pit,0.0,Encuestas de demografía y salud  - ENDES10
+Peru,PE,PER,604,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuestas de demografía y salud  - ENDES10
+Peru,PE,PER,604,Urban,5,Flush and pour flush - to elsewhere,0.0,Encuestas de demografía y salud  - ENDES10
+Peru,PE,PER,604,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.032,Encuestas de demografía y salud  - ENDES10
+Peru,PE,PER,604,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuestas de demografía y salud  - ENDES10
+Peru,PE,PER,604,Urban,8,Dry latrines - Traditional latrine,0.122,Encuestas de demografía y salud  - ENDES10
+Peru,PE,PER,604,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuestas de demografía y salud  - ENDES10
+Peru,PE,PER,604,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuestas de demografía y salud  - ENDES10
+Peru,PE,PER,604,Urban,11,Dry latrines - Bucket latrine,0.0,Encuestas de demografía y salud  - ENDES10
+Peru,PE,PER,604,Urban,12,Dry latrines - Other,0.003,Encuestas de demografía y salud  - ENDES10
+Peru,PE,PER,604,Urban,13,Composting toilets,0.0,Encuestas de demografía y salud  - ENDES10
+Peru,PE,PER,604,Urban,14,Other improved,0.0,Encuestas de demografía y salud  - ENDES10
+Peru,PE,PER,604,Urban,15,"No facility, bush, field",0.061,Encuestas de demografía y salud  - ENDES10
+Peru,PE,PER,604,Urban,16,Other unimproved,0.001,Encuestas de demografía y salud  - ENDES10
+Peru,PE,PER,604,Urban,17,DK/missing information,0.0,Encuestas de demografía y salud  - ENDES10
+Peru,PE,PER,604,Rural,1,Flush and pour flush - to piped sewer system,0.111,Encuestas de demografía y salud  - ENDES10
+Peru,PE,PER,604,Rural,2,Flush and pour flush - to septic tank,0.022,Encuestas de demografía y salud  - ENDES10
+Peru,PE,PER,604,Rural,3,Flush and pour flush - to pit,0.0,Encuestas de demografía y salud  - ENDES10
+Peru,PE,PER,604,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuestas de demografía y salud  - ENDES10
+Peru,PE,PER,604,Rural,5,Flush and pour flush - to elsewhere,0.0,Encuestas de demografía y salud  - ENDES10
+Peru,PE,PER,604,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.133,Encuestas de demografía y salud  - ENDES10
+Peru,PE,PER,604,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuestas de demografía y salud  - ENDES10
+Peru,PE,PER,604,Rural,8,Dry latrines - Traditional latrine,0.411,Encuestas de demografía y salud  - ENDES10
+Peru,PE,PER,604,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuestas de demografía y salud  - ENDES10
+Peru,PE,PER,604,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuestas de demografía y salud  - ENDES10
+Peru,PE,PER,604,Rural,11,Dry latrines - Bucket latrine,0.0,Encuestas de demografía y salud  - ENDES10
+Peru,PE,PER,604,Rural,12,Dry latrines - Other,0.004,Encuestas de demografía y salud  - ENDES10
+Peru,PE,PER,604,Rural,13,Composting toilets,0.0,Encuestas de demografía y salud  - ENDES10
+Peru,PE,PER,604,Rural,14,Other improved,0.0,Encuestas de demografía y salud  - ENDES10
+Peru,PE,PER,604,Rural,15,"No facility, bush, field",0.317,Encuestas de demografía y salud  - ENDES10
+Peru,PE,PER,604,Rural,16,Other unimproved,0.001,Encuestas de demografía y salud  - ENDES10
+Peru,PE,PER,604,Rural,17,DK/missing information,0.0,Encuestas de demografía y salud  - ENDES10
+Peru,PE,PER,604,Urban,1,Flush and pour flush - to piped sewer system,0.827,Encuesta Nacional de los Hogares - ENAHO10
+Peru,PE,PER,604,Urban,2,Flush and pour flush - to septic tank,0.051,Encuesta Nacional de los Hogares - ENAHO10
+Peru,PE,PER,604,Urban,3,Flush and pour flush - to pit,0.0,Encuesta Nacional de los Hogares - ENAHO10
+Peru,PE,PER,604,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Nacional de los Hogares - ENAHO10
+Peru,PE,PER,604,Urban,5,Flush and pour flush - to elsewhere,0.014,Encuesta Nacional de los Hogares - ENAHO10
+Peru,PE,PER,604,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Nacional de los Hogares - ENAHO10
+Peru,PE,PER,604,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta Nacional de los Hogares - ENAHO10
+Peru,PE,PER,604,Urban,8,Dry latrines - Traditional latrine,0.062,Encuesta Nacional de los Hogares - ENAHO10
+Peru,PE,PER,604,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta Nacional de los Hogares - ENAHO10
+Peru,PE,PER,604,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Nacional de los Hogares - ENAHO10
+Peru,PE,PER,604,Urban,11,Dry latrines - Bucket latrine,0.0,Encuesta Nacional de los Hogares - ENAHO10
+Peru,PE,PER,604,Urban,12,Dry latrines - Other,0.0,Encuesta Nacional de los Hogares - ENAHO10
+Peru,PE,PER,604,Urban,13,Composting toilets,0.0,Encuesta Nacional de los Hogares - ENAHO10
+Peru,PE,PER,604,Urban,14,Other improved,0.0,Encuesta Nacional de los Hogares - ENAHO10
+Peru,PE,PER,604,Urban,15,"No facility, bush, field",0.046,Encuesta Nacional de los Hogares - ENAHO10
+Peru,PE,PER,604,Urban,16,Other unimproved,0.0,Encuesta Nacional de los Hogares - ENAHO10
+Peru,PE,PER,604,Urban,17,DK/missing information,0.0,Encuesta Nacional de los Hogares - ENAHO10
+Peru,PE,PER,604,Rural,1,Flush and pour flush - to piped sewer system,0.103,Encuesta Nacional de los Hogares - ENAHO10
+Peru,PE,PER,604,Rural,2,Flush and pour flush - to septic tank,0.377,Encuesta Nacional de los Hogares - ENAHO10
+Peru,PE,PER,604,Rural,3,Flush and pour flush - to pit,0.0,Encuesta Nacional de los Hogares - ENAHO10
+Peru,PE,PER,604,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Nacional de los Hogares - ENAHO10
+Peru,PE,PER,604,Rural,5,Flush and pour flush - to elsewhere,0.021,Encuesta Nacional de los Hogares - ENAHO10
+Peru,PE,PER,604,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Nacional de los Hogares - ENAHO10
+Peru,PE,PER,604,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta Nacional de los Hogares - ENAHO10
+Peru,PE,PER,604,Rural,8,Dry latrines - Traditional latrine,0.238,Encuesta Nacional de los Hogares - ENAHO10
+Peru,PE,PER,604,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta Nacional de los Hogares - ENAHO10
+Peru,PE,PER,604,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Nacional de los Hogares - ENAHO10
+Peru,PE,PER,604,Rural,11,Dry latrines - Bucket latrine,0.0,Encuesta Nacional de los Hogares - ENAHO10
+Peru,PE,PER,604,Rural,12,Dry latrines - Other,0.0,Encuesta Nacional de los Hogares - ENAHO10
+Peru,PE,PER,604,Rural,13,Composting toilets,0.0,Encuesta Nacional de los Hogares - ENAHO10
+Peru,PE,PER,604,Rural,14,Other improved,0.0,Encuesta Nacional de los Hogares - ENAHO10
+Peru,PE,PER,604,Rural,15,"No facility, bush, field",0.261,Encuesta Nacional de los Hogares - ENAHO10
+Peru,PE,PER,604,Rural,16,Other unimproved,0.0,Encuesta Nacional de los Hogares - ENAHO10
+Peru,PE,PER,604,Rural,17,DK/missing information,0.0,Encuesta Nacional de los Hogares - ENAHO10
+Peru,PE,PER,604,Urban,1,Flush and pour flush - to piped sewer system,0.834,Encuesta Nacional de los Hogares - ENAHO11
+Peru,PE,PER,604,Urban,2,Flush and pour flush - to septic tank,0.044,Encuesta Nacional de los Hogares - ENAHO11
+Peru,PE,PER,604,Urban,3,Flush and pour flush - to pit,0.0,Encuesta Nacional de los Hogares - ENAHO11
+Peru,PE,PER,604,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Nacional de los Hogares - ENAHO11
+Peru,PE,PER,604,Urban,5,Flush and pour flush - to elsewhere,0.015,Encuesta Nacional de los Hogares - ENAHO11
+Peru,PE,PER,604,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Nacional de los Hogares - ENAHO11
+Peru,PE,PER,604,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta Nacional de los Hogares - ENAHO11
+Peru,PE,PER,604,Urban,8,Dry latrines - Traditional latrine,0.066,Encuesta Nacional de los Hogares - ENAHO11
+Peru,PE,PER,604,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta Nacional de los Hogares - ENAHO11
+Peru,PE,PER,604,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Nacional de los Hogares - ENAHO11
+Peru,PE,PER,604,Urban,11,Dry latrines - Bucket latrine,0.0,Encuesta Nacional de los Hogares - ENAHO11
+Peru,PE,PER,604,Urban,12,Dry latrines - Other,0.0,Encuesta Nacional de los Hogares - ENAHO11
+Peru,PE,PER,604,Urban,13,Composting toilets,0.0,Encuesta Nacional de los Hogares - ENAHO11
+Peru,PE,PER,604,Urban,14,Other improved,0.0,Encuesta Nacional de los Hogares - ENAHO11
+Peru,PE,PER,604,Urban,15,"No facility, bush, field",0.036,Encuesta Nacional de los Hogares - ENAHO11
+Peru,PE,PER,604,Urban,16,Other unimproved,0.006,Encuesta Nacional de los Hogares - ENAHO11
+Peru,PE,PER,604,Urban,17,DK/missing information,0.0,Encuesta Nacional de los Hogares - ENAHO11
+Peru,PE,PER,604,Rural,1,Flush and pour flush - to piped sewer system,0.122,Encuesta Nacional de los Hogares - ENAHO11
+Peru,PE,PER,604,Rural,2,Flush and pour flush - to septic tank,0.351,Encuesta Nacional de los Hogares - ENAHO11
+Peru,PE,PER,604,Rural,3,Flush and pour flush - to pit,0.0,Encuesta Nacional de los Hogares - ENAHO11
+Peru,PE,PER,604,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Nacional de los Hogares - ENAHO11
+Peru,PE,PER,604,Rural,5,Flush and pour flush - to elsewhere,0.018,Encuesta Nacional de los Hogares - ENAHO11
+Peru,PE,PER,604,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Nacional de los Hogares - ENAHO11
+Peru,PE,PER,604,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta Nacional de los Hogares - ENAHO11
+Peru,PE,PER,604,Rural,8,Dry latrines - Traditional latrine,0.256,Encuesta Nacional de los Hogares - ENAHO11
+Peru,PE,PER,604,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta Nacional de los Hogares - ENAHO11
+Peru,PE,PER,604,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Nacional de los Hogares - ENAHO11
+Peru,PE,PER,604,Rural,11,Dry latrines - Bucket latrine,0.0,Encuesta Nacional de los Hogares - ENAHO11
+Peru,PE,PER,604,Rural,12,Dry latrines - Other,0.0,Encuesta Nacional de los Hogares - ENAHO11
+Peru,PE,PER,604,Rural,13,Composting toilets,0.0,Encuesta Nacional de los Hogares - ENAHO11
+Peru,PE,PER,604,Rural,14,Other improved,0.0,Encuesta Nacional de los Hogares - ENAHO11
+Peru,PE,PER,604,Rural,15,"No facility, bush, field",0.251,Encuesta Nacional de los Hogares - ENAHO11
+Peru,PE,PER,604,Rural,16,Other unimproved,0.003,Encuesta Nacional de los Hogares - ENAHO11
+Peru,PE,PER,604,Rural,17,DK/missing information,0.0,Encuesta Nacional de los Hogares - ENAHO11
+Peru,PE,PER,604,Urban,1,Flush and pour flush - to piped sewer system,0.796,Encuesta Nacional de Programmas Estrategico - ENAPRES11
+Peru,PE,PER,604,Urban,2,Flush and pour flush - to septic tank,0.036,Encuesta Nacional de Programmas Estrategico - ENAPRES11
+Peru,PE,PER,604,Urban,3,Flush and pour flush - to pit,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES11
+Peru,PE,PER,604,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES11
+Peru,PE,PER,604,Urban,5,Flush and pour flush - to elsewhere,0.014,Encuesta Nacional de Programmas Estrategico - ENAPRES11
+Peru,PE,PER,604,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES11
+Peru,PE,PER,604,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES11
+Peru,PE,PER,604,Urban,8,Dry latrines - Traditional latrine,0.08,Encuesta Nacional de Programmas Estrategico - ENAPRES11
+Peru,PE,PER,604,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES11
+Peru,PE,PER,604,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES11
+Peru,PE,PER,604,Urban,11,Dry latrines - Bucket latrine,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES11
+Peru,PE,PER,604,Urban,12,Dry latrines - Other,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES11
+Peru,PE,PER,604,Urban,13,Composting toilets,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES11
+Peru,PE,PER,604,Urban,14,Other improved,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES11
+Peru,PE,PER,604,Urban,15,"No facility, bush, field",0.065,Encuesta Nacional de Programmas Estrategico - ENAPRES11
+Peru,PE,PER,604,Urban,16,Other unimproved,0.009,Encuesta Nacional de Programmas Estrategico - ENAPRES11
+Peru,PE,PER,604,Urban,17,DK/missing information,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES11
+Peru,PE,PER,604,Rural,1,Flush and pour flush - to piped sewer system,0.1,Encuesta Nacional de Programmas Estrategico - ENAPRES11
+Peru,PE,PER,604,Rural,2,Flush and pour flush - to septic tank,0.301,Encuesta Nacional de Programmas Estrategico - ENAPRES11
+Peru,PE,PER,604,Rural,3,Flush and pour flush - to pit,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES11
+Peru,PE,PER,604,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES11
+Peru,PE,PER,604,Rural,5,Flush and pour flush - to elsewhere,0.008,Encuesta Nacional de Programmas Estrategico - ENAPRES11
+Peru,PE,PER,604,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES11
+Peru,PE,PER,604,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES11
+Peru,PE,PER,604,Rural,8,Dry latrines - Traditional latrine,0.21,Encuesta Nacional de Programmas Estrategico - ENAPRES11
+Peru,PE,PER,604,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES11
+Peru,PE,PER,604,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES11
+Peru,PE,PER,604,Rural,11,Dry latrines - Bucket latrine,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES11
+Peru,PE,PER,604,Rural,12,Dry latrines - Other,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES11
+Peru,PE,PER,604,Rural,13,Composting toilets,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES11
+Peru,PE,PER,604,Rural,14,Other improved,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES11
+Peru,PE,PER,604,Rural,15,"No facility, bush, field",0.321,Encuesta Nacional de Programmas Estrategico - ENAPRES11
+Peru,PE,PER,604,Rural,16,Other unimproved,0.06,Encuesta Nacional de Programmas Estrategico - ENAPRES11
+Peru,PE,PER,604,Rural,17,DK/missing information,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES11
+Peru,PE,PER,604,Urban,1,Flush and pour flush - to piped sewer system,0.79,Encuestas de demografía y salud  - ENDES11
+Peru,PE,PER,604,Urban,2,Flush and pour flush - to septic tank,0.01,Encuestas de demografía y salud  - ENDES11
+Peru,PE,PER,604,Urban,3,Flush and pour flush - to pit,0.0,Encuestas de demografía y salud  - ENDES11
+Peru,PE,PER,604,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuestas de demografía y salud  - ENDES11
+Peru,PE,PER,604,Urban,5,Flush and pour flush - to elsewhere,0.0,Encuestas de demografía y salud  - ENDES11
+Peru,PE,PER,604,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.021,Encuestas de demografía y salud  - ENDES11
+Peru,PE,PER,604,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuestas de demografía y salud  - ENDES11
+Peru,PE,PER,604,Urban,8,Dry latrines - Traditional latrine,0.129,Encuestas de demografía y salud  - ENDES11
+Peru,PE,PER,604,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuestas de demografía y salud  - ENDES11
+Peru,PE,PER,604,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuestas de demografía y salud  - ENDES11
+Peru,PE,PER,604,Urban,11,Dry latrines - Bucket latrine,0.0,Encuestas de demografía y salud  - ENDES11
+Peru,PE,PER,604,Urban,12,Dry latrines - Other,0.004,Encuestas de demografía y salud  - ENDES11
+Peru,PE,PER,604,Urban,13,Composting toilets,0.0,Encuestas de demografía y salud  - ENDES11
+Peru,PE,PER,604,Urban,14,Other improved,0.0,Encuestas de demografía y salud  - ENDES11
+Peru,PE,PER,604,Urban,15,"No facility, bush, field",0.046,Encuestas de demografía y salud  - ENDES11
+Peru,PE,PER,604,Urban,16,Other unimproved,0.0,Encuestas de demografía y salud  - ENDES11
+Peru,PE,PER,604,Urban,17,DK/missing information,0.0,Encuestas de demografía y salud  - ENDES11
+Peru,PE,PER,604,Rural,1,Flush and pour flush - to piped sewer system,0.125,Encuestas de demografía y salud  - ENDES11
+Peru,PE,PER,604,Rural,2,Flush and pour flush - to septic tank,0.032,Encuestas de demografía y salud  - ENDES11
+Peru,PE,PER,604,Rural,3,Flush and pour flush - to pit,0.0,Encuestas de demografía y salud  - ENDES11
+Peru,PE,PER,604,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuestas de demografía y salud  - ENDES11
+Peru,PE,PER,604,Rural,5,Flush and pour flush - to elsewhere,0.0,Encuestas de demografía y salud  - ENDES11
+Peru,PE,PER,604,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.102,Encuestas de demografía y salud  - ENDES11
+Peru,PE,PER,604,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuestas de demografía y salud  - ENDES11
+Peru,PE,PER,604,Rural,8,Dry latrines - Traditional latrine,0.452,Encuestas de demografía y salud  - ENDES11
+Peru,PE,PER,604,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuestas de demografía y salud  - ENDES11
+Peru,PE,PER,604,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuestas de demografía y salud  - ENDES11
+Peru,PE,PER,604,Rural,11,Dry latrines - Bucket latrine,0.0,Encuestas de demografía y salud  - ENDES11
+Peru,PE,PER,604,Rural,12,Dry latrines - Other,0.002,Encuestas de demografía y salud  - ENDES11
+Peru,PE,PER,604,Rural,13,Composting toilets,0.0,Encuestas de demografía y salud  - ENDES11
+Peru,PE,PER,604,Rural,14,Other improved,0.0,Encuestas de demografía y salud  - ENDES11
+Peru,PE,PER,604,Rural,15,"No facility, bush, field",0.287,Encuestas de demografía y salud  - ENDES11
+Peru,PE,PER,604,Rural,16,Other unimproved,0.0,Encuestas de demografía y salud  - ENDES11
+Peru,PE,PER,604,Rural,17,DK/missing information,0.0,Encuestas de demografía y salud  - ENDES11
+Peru,PE,PER,604,Urban,1,Flush and pour flush - to piped sewer system,0.806,Encuesta Demográfica y de Salud Familiar – ENDES - ENDES12
+Peru,PE,PER,604,Urban,2,Flush and pour flush - to septic tank,0.011,Encuesta Demográfica y de Salud Familiar – ENDES - ENDES12
+Peru,PE,PER,604,Urban,3,Flush and pour flush - to pit,0.0,Encuesta Demográfica y de Salud Familiar – ENDES - ENDES12
+Peru,PE,PER,604,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Demográfica y de Salud Familiar – ENDES - ENDES12
+Peru,PE,PER,604,Urban,5,Flush and pour flush - to elsewhere,0.0,Encuesta Demográfica y de Salud Familiar – ENDES - ENDES12
+Peru,PE,PER,604,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.026,Encuesta Demográfica y de Salud Familiar – ENDES - ENDES12
+Peru,PE,PER,604,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta Demográfica y de Salud Familiar – ENDES - ENDES12
+Peru,PE,PER,604,Urban,8,Dry latrines - Traditional latrine,0.109,Encuesta Demográfica y de Salud Familiar – ENDES - ENDES12
+Peru,PE,PER,604,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta Demográfica y de Salud Familiar – ENDES - ENDES12
+Peru,PE,PER,604,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Demográfica y de Salud Familiar – ENDES - ENDES12
+Peru,PE,PER,604,Urban,11,Dry latrines - Bucket latrine,0.0,Encuesta Demográfica y de Salud Familiar – ENDES - ENDES12
+Peru,PE,PER,604,Urban,12,Dry latrines - Other,0.003,Encuesta Demográfica y de Salud Familiar – ENDES - ENDES12
+Peru,PE,PER,604,Urban,13,Composting toilets,0.0,Encuesta Demográfica y de Salud Familiar – ENDES - ENDES12
+Peru,PE,PER,604,Urban,14,Other improved,0.0,Encuesta Demográfica y de Salud Familiar – ENDES - ENDES12
+Peru,PE,PER,604,Urban,15,"No facility, bush, field",0.044,Encuesta Demográfica y de Salud Familiar – ENDES - ENDES12
+Peru,PE,PER,604,Urban,16,Other unimproved,0.0,Encuesta Demográfica y de Salud Familiar – ENDES - ENDES12
+Peru,PE,PER,604,Urban,17,DK/missing information,0.0,Encuesta Demográfica y de Salud Familiar – ENDES - ENDES12
+Peru,PE,PER,604,Rural,1,Flush and pour flush - to piped sewer system,0.124,Encuesta Demográfica y de Salud Familiar – ENDES - ENDES12
+Peru,PE,PER,604,Rural,2,Flush and pour flush - to septic tank,0.067,Encuesta Demográfica y de Salud Familiar – ENDES - ENDES12
+Peru,PE,PER,604,Rural,3,Flush and pour flush - to pit,0.0,Encuesta Demográfica y de Salud Familiar – ENDES - ENDES12
+Peru,PE,PER,604,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Demográfica y de Salud Familiar – ENDES - ENDES12
+Peru,PE,PER,604,Rural,5,Flush and pour flush - to elsewhere,0.0,Encuesta Demográfica y de Salud Familiar – ENDES - ENDES12
+Peru,PE,PER,604,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.124,Encuesta Demográfica y de Salud Familiar – ENDES - ENDES12
+Peru,PE,PER,604,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta Demográfica y de Salud Familiar – ENDES - ENDES12
+Peru,PE,PER,604,Rural,8,Dry latrines - Traditional latrine,0.463,Encuesta Demográfica y de Salud Familiar – ENDES - ENDES12
+Peru,PE,PER,604,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta Demográfica y de Salud Familiar – ENDES - ENDES12
+Peru,PE,PER,604,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Demográfica y de Salud Familiar – ENDES - ENDES12
+Peru,PE,PER,604,Rural,11,Dry latrines - Bucket latrine,0.0,Encuesta Demográfica y de Salud Familiar – ENDES - ENDES12
+Peru,PE,PER,604,Rural,12,Dry latrines - Other,0.005,Encuesta Demográfica y de Salud Familiar – ENDES - ENDES12
+Peru,PE,PER,604,Rural,13,Composting toilets,0.0,Encuesta Demográfica y de Salud Familiar – ENDES - ENDES12
+Peru,PE,PER,604,Rural,14,Other improved,0.0,Encuesta Demográfica y de Salud Familiar – ENDES - ENDES12
+Peru,PE,PER,604,Rural,15,"No facility, bush, field",0.217,Encuesta Demográfica y de Salud Familiar – ENDES - ENDES12
+Peru,PE,PER,604,Rural,16,Other unimproved,0.0,Encuesta Demográfica y de Salud Familiar – ENDES - ENDES12
+Peru,PE,PER,604,Rural,17,DK/missing information,0.0,Encuesta Demográfica y de Salud Familiar – ENDES - ENDES12
+Peru,PE,PER,604,Urban,1,Flush and pour flush - to piped sewer system,0.85,Encuesta Nacional de los Hogares - ENAHO12
+Peru,PE,PER,604,Urban,2,Flush and pour flush - to septic tank,0.037,Encuesta Nacional de los Hogares - ENAHO12
+Peru,PE,PER,604,Urban,3,Flush and pour flush - to pit,0.0,Encuesta Nacional de los Hogares - ENAHO12
+Peru,PE,PER,604,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Nacional de los Hogares - ENAHO12
+Peru,PE,PER,604,Urban,5,Flush and pour flush - to elsewhere,0.013,Encuesta Nacional de los Hogares - ENAHO12
+Peru,PE,PER,604,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Nacional de los Hogares - ENAHO12
+Peru,PE,PER,604,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta Nacional de los Hogares - ENAHO12
+Peru,PE,PER,604,Urban,8,Dry latrines - Traditional latrine,0.017,Encuesta Nacional de los Hogares - ENAHO12
+Peru,PE,PER,604,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.04,Encuesta Nacional de los Hogares - ENAHO12
+Peru,PE,PER,604,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Nacional de los Hogares - ENAHO12
+Peru,PE,PER,604,Urban,11,Dry latrines - Bucket latrine,0.0,Encuesta Nacional de los Hogares - ENAHO12
+Peru,PE,PER,604,Urban,12,Dry latrines - Other,0.0,Encuesta Nacional de los Hogares - ENAHO12
+Peru,PE,PER,604,Urban,13,Composting toilets,0.0,Encuesta Nacional de los Hogares - ENAHO12
+Peru,PE,PER,604,Urban,14,Other improved,0.0,Encuesta Nacional de los Hogares - ENAHO12
+Peru,PE,PER,604,Urban,15,"No facility, bush, field",0.034,Encuesta Nacional de los Hogares - ENAHO12
+Peru,PE,PER,604,Urban,16,Other unimproved,0.009,Encuesta Nacional de los Hogares - ENAHO12
+Peru,PE,PER,604,Urban,17,DK/missing information,0.0,Encuesta Nacional de los Hogares - ENAHO12
+Peru,PE,PER,604,Rural,1,Flush and pour flush - to piped sewer system,0.122,Encuesta Nacional de los Hogares - ENAHO12
+Peru,PE,PER,604,Rural,2,Flush and pour flush - to septic tank,0.334,Encuesta Nacional de los Hogares - ENAHO12
+Peru,PE,PER,604,Rural,3,Flush and pour flush - to pit,0.0,Encuesta Nacional de los Hogares - ENAHO12
+Peru,PE,PER,604,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Nacional de los Hogares - ENAHO12
+Peru,PE,PER,604,Rural,5,Flush and pour flush - to elsewhere,0.013,Encuesta Nacional de los Hogares - ENAHO12
+Peru,PE,PER,604,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Nacional de los Hogares - ENAHO12
+Peru,PE,PER,604,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta Nacional de los Hogares - ENAHO12
+Peru,PE,PER,604,Rural,8,Dry latrines - Traditional latrine,0.134,Encuesta Nacional de los Hogares - ENAHO12
+Peru,PE,PER,604,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.165,Encuesta Nacional de los Hogares - ENAHO12
+Peru,PE,PER,604,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Nacional de los Hogares - ENAHO12
+Peru,PE,PER,604,Rural,11,Dry latrines - Bucket latrine,0.0,Encuesta Nacional de los Hogares - ENAHO12
+Peru,PE,PER,604,Rural,12,Dry latrines - Other,0.0,Encuesta Nacional de los Hogares - ENAHO12
+Peru,PE,PER,604,Rural,13,Composting toilets,0.0,Encuesta Nacional de los Hogares - ENAHO12
+Peru,PE,PER,604,Rural,14,Other improved,0.0,Encuesta Nacional de los Hogares - ENAHO12
+Peru,PE,PER,604,Rural,15,"No facility, bush, field",0.228,Encuesta Nacional de los Hogares - ENAHO12
+Peru,PE,PER,604,Rural,16,Other unimproved,0.004,Encuesta Nacional de los Hogares - ENAHO12
+Peru,PE,PER,604,Rural,17,DK/missing information,0.0,Encuesta Nacional de los Hogares - ENAHO12
+Peru,PE,PER,604,Urban,1,Flush and pour flush - to piped sewer system,0.817,Encuesta Nacional de Programmas Estrategico - ENAPRES12
+Peru,PE,PER,604,Urban,2,Flush and pour flush - to septic tank,0.031,Encuesta Nacional de Programmas Estrategico - ENAPRES12
+Peru,PE,PER,604,Urban,3,Flush and pour flush - to pit,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES12
+Peru,PE,PER,604,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES12
+Peru,PE,PER,604,Urban,5,Flush and pour flush - to elsewhere,0.014,Encuesta Nacional de Programmas Estrategico - ENAPRES12
+Peru,PE,PER,604,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES12
+Peru,PE,PER,604,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES12
+Peru,PE,PER,604,Urban,8,Dry latrines - Traditional latrine,0.01,Encuesta Nacional de Programmas Estrategico - ENAPRES12
+Peru,PE,PER,604,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.071,Encuesta Nacional de Programmas Estrategico - ENAPRES12
+Peru,PE,PER,604,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES12
+Peru,PE,PER,604,Urban,11,Dry latrines - Bucket latrine,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES12
+Peru,PE,PER,604,Urban,12,Dry latrines - Other,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES12
+Peru,PE,PER,604,Urban,13,Composting toilets,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES12
+Peru,PE,PER,604,Urban,14,Other improved,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES12
+Peru,PE,PER,604,Urban,15,"No facility, bush, field",0.057,Encuesta Nacional de Programmas Estrategico - ENAPRES12
+Peru,PE,PER,604,Urban,16,Other unimproved,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES12
+Peru,PE,PER,604,Urban,17,DK/missing information,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES12
+Peru,PE,PER,604,Rural,1,Flush and pour flush - to piped sewer system,0.111,Encuesta Nacional de Programmas Estrategico - ENAPRES12
+Peru,PE,PER,604,Rural,2,Flush and pour flush - to septic tank,0.279,Encuesta Nacional de Programmas Estrategico - ENAPRES12
+Peru,PE,PER,604,Rural,3,Flush and pour flush - to pit,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES12
+Peru,PE,PER,604,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES12
+Peru,PE,PER,604,Rural,5,Flush and pour flush - to elsewhere,0.013,Encuesta Nacional de Programmas Estrategico - ENAPRES12
+Peru,PE,PER,604,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES12
+Peru,PE,PER,604,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES12
+Peru,PE,PER,604,Rural,8,Dry latrines - Traditional latrine,0.064,Encuesta Nacional de Programmas Estrategico - ENAPRES12
+Peru,PE,PER,604,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.236,Encuesta Nacional de Programmas Estrategico - ENAPRES12
+Peru,PE,PER,604,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES12
+Peru,PE,PER,604,Rural,11,Dry latrines - Bucket latrine,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES12
+Peru,PE,PER,604,Rural,12,Dry latrines - Other,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES12
+Peru,PE,PER,604,Rural,13,Composting toilets,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES12
+Peru,PE,PER,604,Rural,14,Other improved,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES12
+Peru,PE,PER,604,Rural,15,"No facility, bush, field",0.297,Encuesta Nacional de Programmas Estrategico - ENAPRES12
+Peru,PE,PER,604,Rural,16,Other unimproved,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES12
+Peru,PE,PER,604,Rural,17,DK/missing information,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES12
+Peru,PE,PER,604,Urban,1,Flush and pour flush - to piped sewer system,0.842,Encuesta Nacional de los Hogares - ENAHO13
+Peru,PE,PER,604,Urban,2,Flush and pour flush - to septic tank,0.04,Encuesta Nacional de los Hogares - ENAHO13
+Peru,PE,PER,604,Urban,3,Flush and pour flush - to pit,0.0,Encuesta Nacional de los Hogares - ENAHO13
+Peru,PE,PER,604,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Nacional de los Hogares - ENAHO13
+Peru,PE,PER,604,Urban,5,Flush and pour flush - to elsewhere,0.013,Encuesta Nacional de los Hogares - ENAHO13
+Peru,PE,PER,604,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Nacional de los Hogares - ENAHO13
+Peru,PE,PER,604,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta Nacional de los Hogares - ENAHO13
+Peru,PE,PER,604,Urban,8,Dry latrines - Traditional latrine,0.028,Encuesta Nacional de los Hogares - ENAHO13
+Peru,PE,PER,604,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.041,Encuesta Nacional de los Hogares - ENAHO13
+Peru,PE,PER,604,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Nacional de los Hogares - ENAHO13
+Peru,PE,PER,604,Urban,11,Dry latrines - Bucket latrine,0.0,Encuesta Nacional de los Hogares - ENAHO13
+Peru,PE,PER,604,Urban,12,Dry latrines - Other,0.0,Encuesta Nacional de los Hogares - ENAHO13
+Peru,PE,PER,604,Urban,13,Composting toilets,0.0,Encuesta Nacional de los Hogares - ENAHO13
+Peru,PE,PER,604,Urban,14,Other improved,0.0,Encuesta Nacional de los Hogares - ENAHO13
+Peru,PE,PER,604,Urban,15,"No facility, bush, field",0.028,Encuesta Nacional de los Hogares - ENAHO13
+Peru,PE,PER,604,Urban,16,Other unimproved,0.009,Encuesta Nacional de los Hogares - ENAHO13
+Peru,PE,PER,604,Urban,17,DK/missing information,0.0,Encuesta Nacional de los Hogares - ENAHO13
+Peru,PE,PER,604,Rural,1,Flush and pour flush - to piped sewer system,0.142,Encuesta Nacional de los Hogares - ENAHO13
+Peru,PE,PER,604,Rural,2,Flush and pour flush - to septic tank,0.333,Encuesta Nacional de los Hogares - ENAHO13
+Peru,PE,PER,604,Rural,3,Flush and pour flush - to pit,0.0,Encuesta Nacional de los Hogares - ENAHO13
+Peru,PE,PER,604,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Nacional de los Hogares - ENAHO13
+Peru,PE,PER,604,Rural,5,Flush and pour flush - to elsewhere,0.014,Encuesta Nacional de los Hogares - ENAHO13
+Peru,PE,PER,604,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Nacional de los Hogares - ENAHO13
+Peru,PE,PER,604,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta Nacional de los Hogares - ENAHO13
+Peru,PE,PER,604,Rural,8,Dry latrines - Traditional latrine,0.131,Encuesta Nacional de los Hogares - ENAHO13
+Peru,PE,PER,604,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.171,Encuesta Nacional de los Hogares - ENAHO13
+Peru,PE,PER,604,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Nacional de los Hogares - ENAHO13
+Peru,PE,PER,604,Rural,11,Dry latrines - Bucket latrine,0.0,Encuesta Nacional de los Hogares - ENAHO13
+Peru,PE,PER,604,Rural,12,Dry latrines - Other,0.0,Encuesta Nacional de los Hogares - ENAHO13
+Peru,PE,PER,604,Rural,13,Composting toilets,0.0,Encuesta Nacional de los Hogares - ENAHO13
+Peru,PE,PER,604,Rural,14,Other improved,0.0,Encuesta Nacional de los Hogares - ENAHO13
+Peru,PE,PER,604,Rural,15,"No facility, bush, field",0.206,Encuesta Nacional de los Hogares - ENAHO13
+Peru,PE,PER,604,Rural,16,Other unimproved,0.003,Encuesta Nacional de los Hogares - ENAHO13
+Peru,PE,PER,604,Rural,17,DK/missing information,0.0,Encuesta Nacional de los Hogares - ENAHO13
+Peru,PE,PER,604,Urban,1,Flush and pour flush - to piped sewer system,0.833,Encuesta Nacional de Programmas Estrategico - ENAPRES13
+Peru,PE,PER,604,Urban,2,Flush and pour flush - to septic tank,0.025,Encuesta Nacional de Programmas Estrategico - ENAPRES13
+Peru,PE,PER,604,Urban,3,Flush and pour flush - to pit,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES13
+Peru,PE,PER,604,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES13
+Peru,PE,PER,604,Urban,5,Flush and pour flush - to elsewhere,0.012,Encuesta Nacional de Programmas Estrategico - ENAPRES13
+Peru,PE,PER,604,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES13
+Peru,PE,PER,604,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES13
+Peru,PE,PER,604,Urban,8,Dry latrines - Traditional latrine,0.006,Encuesta Nacional de Programmas Estrategico - ENAPRES13
+Peru,PE,PER,604,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.068,Encuesta Nacional de Programmas Estrategico - ENAPRES13
+Peru,PE,PER,604,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES13
+Peru,PE,PER,604,Urban,11,Dry latrines - Bucket latrine,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES13
+Peru,PE,PER,604,Urban,12,Dry latrines - Other,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES13
+Peru,PE,PER,604,Urban,13,Composting toilets,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES13
+Peru,PE,PER,604,Urban,14,Other improved,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES13
+Peru,PE,PER,604,Urban,15,"No facility, bush, field",0.056,Encuesta Nacional de Programmas Estrategico - ENAPRES13
+Peru,PE,PER,604,Urban,16,Other unimproved,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES13
+Peru,PE,PER,604,Urban,17,DK/missing information,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES13
+Peru,PE,PER,604,Rural,1,Flush and pour flush - to piped sewer system,0.135,Encuesta Nacional de Programmas Estrategico - ENAPRES13
+Peru,PE,PER,604,Rural,2,Flush and pour flush - to septic tank,0.262,Encuesta Nacional de Programmas Estrategico - ENAPRES13
+Peru,PE,PER,604,Rural,3,Flush and pour flush - to pit,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES13
+Peru,PE,PER,604,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES13
+Peru,PE,PER,604,Rural,5,Flush and pour flush - to elsewhere,0.014,Encuesta Nacional de Programmas Estrategico - ENAPRES13
+Peru,PE,PER,604,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES13
+Peru,PE,PER,604,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES13
+Peru,PE,PER,604,Rural,8,Dry latrines - Traditional latrine,0.057,Encuesta Nacional de Programmas Estrategico - ENAPRES13
+Peru,PE,PER,604,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.238,Encuesta Nacional de Programmas Estrategico - ENAPRES13
+Peru,PE,PER,604,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES13
+Peru,PE,PER,604,Rural,11,Dry latrines - Bucket latrine,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES13
+Peru,PE,PER,604,Rural,12,Dry latrines - Other,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES13
+Peru,PE,PER,604,Rural,13,Composting toilets,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES13
+Peru,PE,PER,604,Rural,14,Other improved,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES13
+Peru,PE,PER,604,Rural,15,"No facility, bush, field",0.294,Encuesta Nacional de Programmas Estrategico - ENAPRES13
+Peru,PE,PER,604,Rural,16,Other unimproved,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES13
+Peru,PE,PER,604,Rural,17,DK/missing information,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES13
+Peru,PE,PER,604,Urban,1,Flush and pour flush - to piped sewer system,0.844,Encuesta Nacional de los Hogares - ENAHO14
+Peru,PE,PER,604,Urban,2,Flush and pour flush - to septic tank,0.04,Encuesta Nacional de los Hogares - ENAHO14
+Peru,PE,PER,604,Urban,3,Flush and pour flush - to pit,0.0,Encuesta Nacional de los Hogares - ENAHO14
+Peru,PE,PER,604,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Nacional de los Hogares - ENAHO14
+Peru,PE,PER,604,Urban,5,Flush and pour flush - to elsewhere,0.013,Encuesta Nacional de los Hogares - ENAHO14
+Peru,PE,PER,604,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Nacional de los Hogares - ENAHO14
+Peru,PE,PER,604,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta Nacional de los Hogares - ENAHO14
+Peru,PE,PER,604,Urban,8,Dry latrines - Traditional latrine,0.032,Encuesta Nacional de los Hogares - ENAHO14
+Peru,PE,PER,604,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.034,Encuesta Nacional de los Hogares - ENAHO14
+Peru,PE,PER,604,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Nacional de los Hogares - ENAHO14
+Peru,PE,PER,604,Urban,11,Dry latrines - Bucket latrine,0.0,Encuesta Nacional de los Hogares - ENAHO14
+Peru,PE,PER,604,Urban,12,Dry latrines - Other,0.0,Encuesta Nacional de los Hogares - ENAHO14
+Peru,PE,PER,604,Urban,13,Composting toilets,0.0,Encuesta Nacional de los Hogares - ENAHO14
+Peru,PE,PER,604,Urban,14,Other improved,0.0,Encuesta Nacional de los Hogares - ENAHO14
+Peru,PE,PER,604,Urban,15,"No facility, bush, field",0.029,Encuesta Nacional de los Hogares - ENAHO14
+Peru,PE,PER,604,Urban,16,Other unimproved,0.008,Encuesta Nacional de los Hogares - ENAHO14
+Peru,PE,PER,604,Urban,17,DK/missing information,0.0,Encuesta Nacional de los Hogares - ENAHO14
+Peru,PE,PER,604,Rural,1,Flush and pour flush - to piped sewer system,0.15,Encuesta Nacional de los Hogares - ENAHO14
+Peru,PE,PER,604,Rural,2,Flush and pour flush - to septic tank,0.319,Encuesta Nacional de los Hogares - ENAHO14
+Peru,PE,PER,604,Rural,3,Flush and pour flush - to pit,0.0,Encuesta Nacional de los Hogares - ENAHO14
+Peru,PE,PER,604,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Nacional de los Hogares - ENAHO14
+Peru,PE,PER,604,Rural,5,Flush and pour flush - to elsewhere,0.016,Encuesta Nacional de los Hogares - ENAHO14
+Peru,PE,PER,604,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Nacional de los Hogares - ENAHO14
+Peru,PE,PER,604,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta Nacional de los Hogares - ENAHO14
+Peru,PE,PER,604,Rural,8,Dry latrines - Traditional latrine,0.155,Encuesta Nacional de los Hogares - ENAHO14
+Peru,PE,PER,604,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.163,Encuesta Nacional de los Hogares - ENAHO14
+Peru,PE,PER,604,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Nacional de los Hogares - ENAHO14
+Peru,PE,PER,604,Rural,11,Dry latrines - Bucket latrine,0.0,Encuesta Nacional de los Hogares - ENAHO14
+Peru,PE,PER,604,Rural,12,Dry latrines - Other,0.0,Encuesta Nacional de los Hogares - ENAHO14
+Peru,PE,PER,604,Rural,13,Composting toilets,0.0,Encuesta Nacional de los Hogares - ENAHO14
+Peru,PE,PER,604,Rural,14,Other improved,0.0,Encuesta Nacional de los Hogares - ENAHO14
+Peru,PE,PER,604,Rural,15,"No facility, bush, field",0.193,Encuesta Nacional de los Hogares - ENAHO14
+Peru,PE,PER,604,Rural,16,Other unimproved,0.004,Encuesta Nacional de los Hogares - ENAHO14
+Peru,PE,PER,604,Rural,17,DK/missing information,0.0,Encuesta Nacional de los Hogares - ENAHO14
+Peru,PE,PER,604,Urban,1,Flush and pour flush - to piped sewer system,0.836,Encuesta Nacional de Programmas Estrategico - ENAPRES14
+Peru,PE,PER,604,Urban,2,Flush and pour flush - to septic tank,0.021,Encuesta Nacional de Programmas Estrategico - ENAPRES14
+Peru,PE,PER,604,Urban,3,Flush and pour flush - to pit,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES14
+Peru,PE,PER,604,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES14
+Peru,PE,PER,604,Urban,5,Flush and pour flush - to elsewhere,0.014,Encuesta Nacional de Programmas Estrategico - ENAPRES14
+Peru,PE,PER,604,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES14
+Peru,PE,PER,604,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES14
+Peru,PE,PER,604,Urban,8,Dry latrines - Traditional latrine,0.006,Encuesta Nacional de Programmas Estrategico - ENAPRES14
+Peru,PE,PER,604,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.068,Encuesta Nacional de Programmas Estrategico - ENAPRES14
+Peru,PE,PER,604,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES14
+Peru,PE,PER,604,Urban,11,Dry latrines - Bucket latrine,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES14
+Peru,PE,PER,604,Urban,12,Dry latrines - Other,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES14
+Peru,PE,PER,604,Urban,13,Composting toilets,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES14
+Peru,PE,PER,604,Urban,14,Other improved,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES14
+Peru,PE,PER,604,Urban,15,"No facility, bush, field",0.054,Encuesta Nacional de Programmas Estrategico - ENAPRES14
+Peru,PE,PER,604,Urban,16,Other unimproved,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES14
+Peru,PE,PER,604,Urban,17,DK/missing information,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES14
+Peru,PE,PER,604,Rural,1,Flush and pour flush - to piped sewer system,0.131,Encuesta Nacional de Programmas Estrategico - ENAPRES14
+Peru,PE,PER,604,Rural,2,Flush and pour flush - to septic tank,0.266,Encuesta Nacional de Programmas Estrategico - ENAPRES14
+Peru,PE,PER,604,Rural,3,Flush and pour flush - to pit,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES14
+Peru,PE,PER,604,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES14
+Peru,PE,PER,604,Rural,5,Flush and pour flush - to elsewhere,0.011,Encuesta Nacional de Programmas Estrategico - ENAPRES14
+Peru,PE,PER,604,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES14
+Peru,PE,PER,604,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES14
+Peru,PE,PER,604,Rural,8,Dry latrines - Traditional latrine,0.056,Encuesta Nacional de Programmas Estrategico - ENAPRES14
+Peru,PE,PER,604,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.25,Encuesta Nacional de Programmas Estrategico - ENAPRES14
+Peru,PE,PER,604,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES14
+Peru,PE,PER,604,Rural,11,Dry latrines - Bucket latrine,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES14
+Peru,PE,PER,604,Rural,12,Dry latrines - Other,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES14
+Peru,PE,PER,604,Rural,13,Composting toilets,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES14
+Peru,PE,PER,604,Rural,14,Other improved,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES14
+Peru,PE,PER,604,Rural,15,"No facility, bush, field",0.285,Encuesta Nacional de Programmas Estrategico - ENAPRES14
+Peru,PE,PER,604,Rural,16,Other unimproved,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES14
+Peru,PE,PER,604,Rural,17,DK/missing information,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES14
+Peru,PE,PER,604,Urban,1,Flush and pour flush - to piped sewer system,0.844,Encuesta Nacional de los Hogares - ENAHO15
+Peru,PE,PER,604,Urban,2,Flush and pour flush - to septic tank,0.04,Encuesta Nacional de los Hogares - ENAHO15
+Peru,PE,PER,604,Urban,3,Flush and pour flush - to pit,0.0,Encuesta Nacional de los Hogares - ENAHO15
+Peru,PE,PER,604,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Nacional de los Hogares - ENAHO15
+Peru,PE,PER,604,Urban,5,Flush and pour flush - to elsewhere,0.012,Encuesta Nacional de los Hogares - ENAHO15
+Peru,PE,PER,604,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Nacional de los Hogares - ENAHO15
+Peru,PE,PER,604,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta Nacional de los Hogares - ENAHO15
+Peru,PE,PER,604,Urban,8,Dry latrines - Traditional latrine,0.028,Encuesta Nacional de los Hogares - ENAHO15
+Peru,PE,PER,604,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.04,Encuesta Nacional de los Hogares - ENAHO15
+Peru,PE,PER,604,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Nacional de los Hogares - ENAHO15
+Peru,PE,PER,604,Urban,11,Dry latrines - Bucket latrine,0.0,Encuesta Nacional de los Hogares - ENAHO15
+Peru,PE,PER,604,Urban,12,Dry latrines - Other,0.0,Encuesta Nacional de los Hogares - ENAHO15
+Peru,PE,PER,604,Urban,13,Composting toilets,0.0,Encuesta Nacional de los Hogares - ENAHO15
+Peru,PE,PER,604,Urban,14,Other improved,0.0,Encuesta Nacional de los Hogares - ENAHO15
+Peru,PE,PER,604,Urban,15,"No facility, bush, field",0.027,Encuesta Nacional de los Hogares - ENAHO15
+Peru,PE,PER,604,Urban,16,Other unimproved,0.008,Encuesta Nacional de los Hogares - ENAHO15
+Peru,PE,PER,604,Urban,17,DK/missing information,0.0,Encuesta Nacional de los Hogares - ENAHO15
+Peru,PE,PER,604,Rural,1,Flush and pour flush - to piped sewer system,0.168,Encuesta Nacional de los Hogares - ENAHO15
+Peru,PE,PER,604,Rural,2,Flush and pour flush - to septic tank,0.286,Encuesta Nacional de los Hogares - ENAHO15
+Peru,PE,PER,604,Rural,3,Flush and pour flush - to pit,0.0,Encuesta Nacional de los Hogares - ENAHO15
+Peru,PE,PER,604,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Nacional de los Hogares - ENAHO15
+Peru,PE,PER,604,Rural,5,Flush and pour flush - to elsewhere,0.01,Encuesta Nacional de los Hogares - ENAHO15
+Peru,PE,PER,604,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Nacional de los Hogares - ENAHO15
+Peru,PE,PER,604,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta Nacional de los Hogares - ENAHO15
+Peru,PE,PER,604,Rural,8,Dry latrines - Traditional latrine,0.145,Encuesta Nacional de los Hogares - ENAHO15
+Peru,PE,PER,604,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.183,Encuesta Nacional de los Hogares - ENAHO15
+Peru,PE,PER,604,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Nacional de los Hogares - ENAHO15
+Peru,PE,PER,604,Rural,11,Dry latrines - Bucket latrine,0.0,Encuesta Nacional de los Hogares - ENAHO15
+Peru,PE,PER,604,Rural,12,Dry latrines - Other,0.0,Encuesta Nacional de los Hogares - ENAHO15
+Peru,PE,PER,604,Rural,13,Composting toilets,0.0,Encuesta Nacional de los Hogares - ENAHO15
+Peru,PE,PER,604,Rural,14,Other improved,0.0,Encuesta Nacional de los Hogares - ENAHO15
+Peru,PE,PER,604,Rural,15,"No facility, bush, field",0.203,Encuesta Nacional de los Hogares - ENAHO15
+Peru,PE,PER,604,Rural,16,Other unimproved,0.005,Encuesta Nacional de los Hogares - ENAHO15
+Peru,PE,PER,604,Rural,17,DK/missing information,0.0,Encuesta Nacional de los Hogares - ENAHO15
+Peru,PE,PER,604,Urban,1,Flush and pour flush - to piped sewer system,0.869,Encuesta Nacional de Programmas Estrategico - ENAPRES15
+Peru,PE,PER,604,Urban,2,Flush and pour flush - to septic tank,0.019,Encuesta Nacional de Programmas Estrategico - ENAPRES15
+Peru,PE,PER,604,Urban,3,Flush and pour flush - to pit,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES15
+Peru,PE,PER,604,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES15
+Peru,PE,PER,604,Urban,5,Flush and pour flush - to elsewhere,0.014,Encuesta Nacional de Programmas Estrategico - ENAPRES15
+Peru,PE,PER,604,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES15
+Peru,PE,PER,604,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES15
+Peru,PE,PER,604,Urban,8,Dry latrines - Traditional latrine,0.006,Encuesta Nacional de Programmas Estrategico - ENAPRES15
+Peru,PE,PER,604,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.05,Encuesta Nacional de Programmas Estrategico - ENAPRES15
+Peru,PE,PER,604,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES15
+Peru,PE,PER,604,Urban,11,Dry latrines - Bucket latrine,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES15
+Peru,PE,PER,604,Urban,12,Dry latrines - Other,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES15
+Peru,PE,PER,604,Urban,13,Composting toilets,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES15
+Peru,PE,PER,604,Urban,14,Other improved,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES15
+Peru,PE,PER,604,Urban,15,"No facility, bush, field",0.044,Encuesta Nacional de Programmas Estrategico - ENAPRES15
+Peru,PE,PER,604,Urban,16,Other unimproved,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES15
+Peru,PE,PER,604,Urban,17,DK/missing information,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES15
+Peru,PE,PER,604,Rural,1,Flush and pour flush - to piped sewer system,0.147,Encuesta Nacional de Programmas Estrategico - ENAPRES15
+Peru,PE,PER,604,Rural,2,Flush and pour flush - to septic tank,0.282,Encuesta Nacional de Programmas Estrategico - ENAPRES15
+Peru,PE,PER,604,Rural,3,Flush and pour flush - to pit,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES15
+Peru,PE,PER,604,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES15
+Peru,PE,PER,604,Rural,5,Flush and pour flush - to elsewhere,0.011,Encuesta Nacional de Programmas Estrategico - ENAPRES15
+Peru,PE,PER,604,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES15
+Peru,PE,PER,604,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES15
+Peru,PE,PER,604,Rural,8,Dry latrines - Traditional latrine,0.071,Encuesta Nacional de Programmas Estrategico - ENAPRES15
+Peru,PE,PER,604,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.203,Encuesta Nacional de Programmas Estrategico - ENAPRES15
+Peru,PE,PER,604,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES15
+Peru,PE,PER,604,Rural,11,Dry latrines - Bucket latrine,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES15
+Peru,PE,PER,604,Rural,12,Dry latrines - Other,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES15
+Peru,PE,PER,604,Rural,13,Composting toilets,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES15
+Peru,PE,PER,604,Rural,14,Other improved,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES15
+Peru,PE,PER,604,Rural,15,"No facility, bush, field",0.311,Encuesta Nacional de Programmas Estrategico - ENAPRES15
+Peru,PE,PER,604,Rural,16,Other unimproved,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES15
+Peru,PE,PER,604,Rural,17,DK/missing information,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES15
+Peru,PE,PER,604,Urban,1,Flush and pour flush - to piped sewer system,0.85,Encuesta Nacional de los Hogares - ENAHO16
+Peru,PE,PER,604,Urban,2,Flush and pour flush - to septic tank,0.04,Encuesta Nacional de los Hogares - ENAHO16
+Peru,PE,PER,604,Urban,3,Flush and pour flush - to pit,0.0,Encuesta Nacional de los Hogares - ENAHO16
+Peru,PE,PER,604,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Nacional de los Hogares - ENAHO16
+Peru,PE,PER,604,Urban,5,Flush and pour flush - to elsewhere,0.01,Encuesta Nacional de los Hogares - ENAHO16
+Peru,PE,PER,604,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Nacional de los Hogares - ENAHO16
+Peru,PE,PER,604,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta Nacional de los Hogares - ENAHO16
+Peru,PE,PER,604,Urban,8,Dry latrines - Traditional latrine,0.029,Encuesta Nacional de los Hogares - ENAHO16
+Peru,PE,PER,604,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.035,Encuesta Nacional de los Hogares - ENAHO16
+Peru,PE,PER,604,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Nacional de los Hogares - ENAHO16
+Peru,PE,PER,604,Urban,11,Dry latrines - Bucket latrine,0.0,Encuesta Nacional de los Hogares - ENAHO16
+Peru,PE,PER,604,Urban,12,Dry latrines - Other,0.0,Encuesta Nacional de los Hogares - ENAHO16
+Peru,PE,PER,604,Urban,13,Composting toilets,0.0,Encuesta Nacional de los Hogares - ENAHO16
+Peru,PE,PER,604,Urban,14,Other improved,0.0,Encuesta Nacional de los Hogares - ENAHO16
+Peru,PE,PER,604,Urban,15,"No facility, bush, field",0.028,Encuesta Nacional de los Hogares - ENAHO16
+Peru,PE,PER,604,Urban,16,Other unimproved,0.008,Encuesta Nacional de los Hogares - ENAHO16
+Peru,PE,PER,604,Urban,17,DK/missing information,0.0,Encuesta Nacional de los Hogares - ENAHO16
+Peru,PE,PER,604,Rural,1,Flush and pour flush - to piped sewer system,0.172,Encuesta Nacional de los Hogares - ENAHO16
+Peru,PE,PER,604,Rural,2,Flush and pour flush - to septic tank,0.288,Encuesta Nacional de los Hogares - ENAHO16
+Peru,PE,PER,604,Rural,3,Flush and pour flush - to pit,0.0,Encuesta Nacional de los Hogares - ENAHO16
+Peru,PE,PER,604,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Nacional de los Hogares - ENAHO16
+Peru,PE,PER,604,Rural,5,Flush and pour flush - to elsewhere,0.011,Encuesta Nacional de los Hogares - ENAHO16
+Peru,PE,PER,604,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Nacional de los Hogares - ENAHO16
+Peru,PE,PER,604,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta Nacional de los Hogares - ENAHO16
+Peru,PE,PER,604,Rural,8,Dry latrines - Traditional latrine,0.156,Encuesta Nacional de los Hogares - ENAHO16
+Peru,PE,PER,604,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.169,Encuesta Nacional de los Hogares - ENAHO16
+Peru,PE,PER,604,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Nacional de los Hogares - ENAHO16
+Peru,PE,PER,604,Rural,11,Dry latrines - Bucket latrine,0.0,Encuesta Nacional de los Hogares - ENAHO16
+Peru,PE,PER,604,Rural,12,Dry latrines - Other,0.0,Encuesta Nacional de los Hogares - ENAHO16
+Peru,PE,PER,604,Rural,13,Composting toilets,0.0,Encuesta Nacional de los Hogares - ENAHO16
+Peru,PE,PER,604,Rural,14,Other improved,0.0,Encuesta Nacional de los Hogares - ENAHO16
+Peru,PE,PER,604,Rural,15,"No facility, bush, field",0.199,Encuesta Nacional de los Hogares - ENAHO16
+Peru,PE,PER,604,Rural,16,Other unimproved,0.005,Encuesta Nacional de los Hogares - ENAHO16
+Peru,PE,PER,604,Rural,17,DK/missing information,0.0,Encuesta Nacional de los Hogares - ENAHO16
+Peru,PE,PER,604,Urban,1,Flush and pour flush - to piped sewer system,0.881,Encuesta Nacional de Programmas Estrategico - ENAPRES16
+Peru,PE,PER,604,Urban,2,Flush and pour flush - to septic tank,0.014,Encuesta Nacional de Programmas Estrategico - ENAPRES16
+Peru,PE,PER,604,Urban,3,Flush and pour flush - to pit,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES16
+Peru,PE,PER,604,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES16
+Peru,PE,PER,604,Urban,5,Flush and pour flush - to elsewhere,0.012,Encuesta Nacional de Programmas Estrategico - ENAPRES16
+Peru,PE,PER,604,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES16
+Peru,PE,PER,604,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES16
+Peru,PE,PER,604,Urban,8,Dry latrines - Traditional latrine,0.004,Encuesta Nacional de Programmas Estrategico - ENAPRES16
+Peru,PE,PER,604,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.053,Encuesta Nacional de Programmas Estrategico - ENAPRES16
+Peru,PE,PER,604,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES16
+Peru,PE,PER,604,Urban,11,Dry latrines - Bucket latrine,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES16
+Peru,PE,PER,604,Urban,12,Dry latrines - Other,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES16
+Peru,PE,PER,604,Urban,13,Composting toilets,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES16
+Peru,PE,PER,604,Urban,14,Other improved,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES16
+Peru,PE,PER,604,Urban,15,"No facility, bush, field",0.036,Encuesta Nacional de Programmas Estrategico - ENAPRES16
+Peru,PE,PER,604,Urban,16,Other unimproved,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES16
+Peru,PE,PER,604,Urban,17,DK/missing information,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES16
+Peru,PE,PER,604,Rural,1,Flush and pour flush - to piped sewer system,0.17,Encuesta Nacional de Programmas Estrategico - ENAPRES16
+Peru,PE,PER,604,Rural,2,Flush and pour flush - to septic tank,0.252,Encuesta Nacional de Programmas Estrategico - ENAPRES16
+Peru,PE,PER,604,Rural,3,Flush and pour flush - to pit,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES16
+Peru,PE,PER,604,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES16
+Peru,PE,PER,604,Rural,5,Flush and pour flush - to elsewhere,0.009,Encuesta Nacional de Programmas Estrategico - ENAPRES16
+Peru,PE,PER,604,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES16
+Peru,PE,PER,604,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES16
+Peru,PE,PER,604,Rural,8,Dry latrines - Traditional latrine,0.08,Encuesta Nacional de Programmas Estrategico - ENAPRES16
+Peru,PE,PER,604,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.231,Encuesta Nacional de Programmas Estrategico - ENAPRES16
+Peru,PE,PER,604,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES16
+Peru,PE,PER,604,Rural,11,Dry latrines - Bucket latrine,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES16
+Peru,PE,PER,604,Rural,12,Dry latrines - Other,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES16
+Peru,PE,PER,604,Rural,13,Composting toilets,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES16
+Peru,PE,PER,604,Rural,14,Other improved,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES16
+Peru,PE,PER,604,Rural,15,"No facility, bush, field",0.258,Encuesta Nacional de Programmas Estrategico - ENAPRES16
+Peru,PE,PER,604,Rural,16,Other unimproved,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES16
+Peru,PE,PER,604,Rural,17,DK/missing information,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES16
+Peru,PE,PER,604,Urban,1,Flush and pour flush - to piped sewer system,0.853,Censos Nacionales de Poblacion y de Vivienda - CEN17
+Peru,PE,PER,604,Urban,2,Flush and pour flush - to septic tank,0.027,Censos Nacionales de Poblacion y de Vivienda - CEN17
+Peru,PE,PER,604,Urban,3,Flush and pour flush - to pit,0.0,Censos Nacionales de Poblacion y de Vivienda - CEN17
+Peru,PE,PER,604,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Censos Nacionales de Poblacion y de Vivienda - CEN17
+Peru,PE,PER,604,Urban,5,Flush and pour flush - to elsewhere,0.005,Censos Nacionales de Poblacion y de Vivienda - CEN17
+Peru,PE,PER,604,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Censos Nacionales de Poblacion y de Vivienda - CEN17
+Peru,PE,PER,604,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Censos Nacionales de Poblacion y de Vivienda - CEN17
+Peru,PE,PER,604,Urban,8,Dry latrines - Traditional latrine,0.025,Censos Nacionales de Poblacion y de Vivienda - CEN17
+Peru,PE,PER,604,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.074,Censos Nacionales de Poblacion y de Vivienda - CEN17
+Peru,PE,PER,604,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Censos Nacionales de Poblacion y de Vivienda - CEN17
+Peru,PE,PER,604,Urban,11,Dry latrines - Bucket latrine,0.0,Censos Nacionales de Poblacion y de Vivienda - CEN17
+Peru,PE,PER,604,Urban,12,Dry latrines - Other,0.0,Censos Nacionales de Poblacion y de Vivienda - CEN17
+Peru,PE,PER,604,Urban,13,Composting toilets,0.0,Censos Nacionales de Poblacion y de Vivienda - CEN17
+Peru,PE,PER,604,Urban,14,Other improved,0.0,Censos Nacionales de Poblacion y de Vivienda - CEN17
+Peru,PE,PER,604,Urban,15,"No facility, bush, field",0.01,Censos Nacionales de Poblacion y de Vivienda - CEN17
+Peru,PE,PER,604,Urban,16,Other unimproved,0.005,Censos Nacionales de Poblacion y de Vivienda - CEN17
+Peru,PE,PER,604,Urban,17,DK/missing information,0.0,Censos Nacionales de Poblacion y de Vivienda - CEN17
+Peru,PE,PER,604,Rural,1,Flush and pour flush - to piped sewer system,0.214,Censos Nacionales de Poblacion y de Vivienda - CEN17
+Peru,PE,PER,604,Rural,2,Flush and pour flush - to septic tank,0.069,Censos Nacionales de Poblacion y de Vivienda - CEN17
+Peru,PE,PER,604,Rural,3,Flush and pour flush - to pit,0.0,Censos Nacionales de Poblacion y de Vivienda - CEN17
+Peru,PE,PER,604,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Censos Nacionales de Poblacion y de Vivienda - CEN17
+Peru,PE,PER,604,Rural,5,Flush and pour flush - to elsewhere,0.012,Censos Nacionales de Poblacion y de Vivienda - CEN17
+Peru,PE,PER,604,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Censos Nacionales de Poblacion y de Vivienda - CEN17
+Peru,PE,PER,604,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Censos Nacionales de Poblacion y de Vivienda - CEN17
+Peru,PE,PER,604,Rural,8,Dry latrines - Traditional latrine,0.138,Censos Nacionales de Poblacion y de Vivienda - CEN17
+Peru,PE,PER,604,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.406,Censos Nacionales de Poblacion y de Vivienda - CEN17
+Peru,PE,PER,604,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Censos Nacionales de Poblacion y de Vivienda - CEN17
+Peru,PE,PER,604,Rural,11,Dry latrines - Bucket latrine,0.0,Censos Nacionales de Poblacion y de Vivienda - CEN17
+Peru,PE,PER,604,Rural,12,Dry latrines - Other,0.0,Censos Nacionales de Poblacion y de Vivienda - CEN17
+Peru,PE,PER,604,Rural,13,Composting toilets,0.0,Censos Nacionales de Poblacion y de Vivienda - CEN17
+Peru,PE,PER,604,Rural,14,Other improved,0.0,Censos Nacionales de Poblacion y de Vivienda - CEN17
+Peru,PE,PER,604,Rural,15,"No facility, bush, field",0.152,Censos Nacionales de Poblacion y de Vivienda - CEN17
+Peru,PE,PER,604,Rural,16,Other unimproved,0.008,Censos Nacionales de Poblacion y de Vivienda - CEN17
+Peru,PE,PER,604,Rural,17,DK/missing information,0.0,Censos Nacionales de Poblacion y de Vivienda - CEN17
+Peru,PE,PER,604,Urban,1,Flush and pour flush - to piped sewer system,0.854,Encuesta Nacional de los Hogares - ENAHO17
+Peru,PE,PER,604,Urban,2,Flush and pour flush - to septic tank,0.039,Encuesta Nacional de los Hogares - ENAHO17
+Peru,PE,PER,604,Urban,3,Flush and pour flush - to pit,0.0,Encuesta Nacional de los Hogares - ENAHO17
+Peru,PE,PER,604,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Nacional de los Hogares - ENAHO17
+Peru,PE,PER,604,Urban,5,Flush and pour flush - to elsewhere,0.013,Encuesta Nacional de los Hogares - ENAHO17
+Peru,PE,PER,604,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Nacional de los Hogares - ENAHO17
+Peru,PE,PER,604,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta Nacional de los Hogares - ENAHO17
+Peru,PE,PER,604,Urban,8,Dry latrines - Traditional latrine,0.027,Encuesta Nacional de los Hogares - ENAHO17
+Peru,PE,PER,604,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.035,Encuesta Nacional de los Hogares - ENAHO17
+Peru,PE,PER,604,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Nacional de los Hogares - ENAHO17
+Peru,PE,PER,604,Urban,11,Dry latrines - Bucket latrine,0.0,Encuesta Nacional de los Hogares - ENAHO17
+Peru,PE,PER,604,Urban,12,Dry latrines - Other,0.0,Encuesta Nacional de los Hogares - ENAHO17
+Peru,PE,PER,604,Urban,13,Composting toilets,0.0,Encuesta Nacional de los Hogares - ENAHO17
+Peru,PE,PER,604,Urban,14,Other improved,0.0,Encuesta Nacional de los Hogares - ENAHO17
+Peru,PE,PER,604,Urban,15,"No facility, bush, field",0.025,Encuesta Nacional de los Hogares - ENAHO17
+Peru,PE,PER,604,Urban,16,Other unimproved,0.008,Encuesta Nacional de los Hogares - ENAHO17
+Peru,PE,PER,604,Urban,17,DK/missing information,0.0,Encuesta Nacional de los Hogares - ENAHO17
+Peru,PE,PER,604,Rural,1,Flush and pour flush - to piped sewer system,0.18,Encuesta Nacional de los Hogares - ENAHO17
+Peru,PE,PER,604,Rural,2,Flush and pour flush - to septic tank,0.275,Encuesta Nacional de los Hogares - ENAHO17
+Peru,PE,PER,604,Rural,3,Flush and pour flush - to pit,0.0,Encuesta Nacional de los Hogares - ENAHO17
+Peru,PE,PER,604,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Nacional de los Hogares - ENAHO17
+Peru,PE,PER,604,Rural,5,Flush and pour flush - to elsewhere,0.01,Encuesta Nacional de los Hogares - ENAHO17
+Peru,PE,PER,604,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Nacional de los Hogares - ENAHO17
+Peru,PE,PER,604,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta Nacional de los Hogares - ENAHO17
+Peru,PE,PER,604,Rural,8,Dry latrines - Traditional latrine,0.168,Encuesta Nacional de los Hogares - ENAHO17
+Peru,PE,PER,604,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.17,Encuesta Nacional de los Hogares - ENAHO17
+Peru,PE,PER,604,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Nacional de los Hogares - ENAHO17
+Peru,PE,PER,604,Rural,11,Dry latrines - Bucket latrine,0.0,Encuesta Nacional de los Hogares - ENAHO17
+Peru,PE,PER,604,Rural,12,Dry latrines - Other,0.0,Encuesta Nacional de los Hogares - ENAHO17
+Peru,PE,PER,604,Rural,13,Composting toilets,0.0,Encuesta Nacional de los Hogares - ENAHO17
+Peru,PE,PER,604,Rural,14,Other improved,0.0,Encuesta Nacional de los Hogares - ENAHO17
+Peru,PE,PER,604,Rural,15,"No facility, bush, field",0.191,Encuesta Nacional de los Hogares - ENAHO17
+Peru,PE,PER,604,Rural,16,Other unimproved,0.005,Encuesta Nacional de los Hogares - ENAHO17
+Peru,PE,PER,604,Rural,17,DK/missing information,0.0,Encuesta Nacional de los Hogares - ENAHO17
+Peru,PE,PER,604,Urban,1,Flush and pour flush - to piped sewer system,0.887,Encuesta Nacional de Programmas Estrategico - ENAPRES17
+Peru,PE,PER,604,Urban,2,Flush and pour flush - to septic tank,0.012,Encuesta Nacional de Programmas Estrategico - ENAPRES17
+Peru,PE,PER,604,Urban,3,Flush and pour flush - to pit,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES17
+Peru,PE,PER,604,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES17
+Peru,PE,PER,604,Urban,5,Flush and pour flush - to elsewhere,0.013,Encuesta Nacional de Programmas Estrategico - ENAPRES17
+Peru,PE,PER,604,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES17
+Peru,PE,PER,604,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES17
+Peru,PE,PER,604,Urban,8,Dry latrines - Traditional latrine,0.003,Encuesta Nacional de Programmas Estrategico - ENAPRES17
+Peru,PE,PER,604,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.049,Encuesta Nacional de Programmas Estrategico - ENAPRES17
+Peru,PE,PER,604,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES17
+Peru,PE,PER,604,Urban,11,Dry latrines - Bucket latrine,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES17
+Peru,PE,PER,604,Urban,12,Dry latrines - Other,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES17
+Peru,PE,PER,604,Urban,13,Composting toilets,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES17
+Peru,PE,PER,604,Urban,14,Other improved,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES17
+Peru,PE,PER,604,Urban,15,"No facility, bush, field",0.036,Encuesta Nacional de Programmas Estrategico - ENAPRES17
+Peru,PE,PER,604,Urban,16,Other unimproved,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES17
+Peru,PE,PER,604,Urban,17,DK/missing information,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES17
+Peru,PE,PER,604,Rural,1,Flush and pour flush - to piped sewer system,0.175,Encuesta Nacional de Programmas Estrategico - ENAPRES17
+Peru,PE,PER,604,Rural,2,Flush and pour flush - to septic tank,0.235,Encuesta Nacional de Programmas Estrategico - ENAPRES17
+Peru,PE,PER,604,Rural,3,Flush and pour flush - to pit,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES17
+Peru,PE,PER,604,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES17
+Peru,PE,PER,604,Rural,5,Flush and pour flush - to elsewhere,0.009,Encuesta Nacional de Programmas Estrategico - ENAPRES17
+Peru,PE,PER,604,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES17
+Peru,PE,PER,604,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES17
+Peru,PE,PER,604,Rural,8,Dry latrines - Traditional latrine,0.073,Encuesta Nacional de Programmas Estrategico - ENAPRES17
+Peru,PE,PER,604,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.257,Encuesta Nacional de Programmas Estrategico - ENAPRES17
+Peru,PE,PER,604,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES17
+Peru,PE,PER,604,Rural,11,Dry latrines - Bucket latrine,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES17
+Peru,PE,PER,604,Rural,12,Dry latrines - Other,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES17
+Peru,PE,PER,604,Rural,13,Composting toilets,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES17
+Peru,PE,PER,604,Rural,14,Other improved,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES17
+Peru,PE,PER,604,Rural,15,"No facility, bush, field",0.25,Encuesta Nacional de Programmas Estrategico - ENAPRES17
+Peru,PE,PER,604,Rural,16,Other unimproved,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES17
+Peru,PE,PER,604,Rural,17,DK/missing information,0.0,Encuesta Nacional de Programmas Estrategico - ENAPRES17
+Peru,PE,PER,604,Urban,1,Flush and pour flush - to piped sewer system,0.874,"Encuesta Demográfica y de Salud Familiar, 2015 - ENDES17"
+Peru,PE,PER,604,Urban,2,Flush and pour flush - to septic tank,0.007,"Encuesta Demográfica y de Salud Familiar, 2015 - ENDES17"
+Peru,PE,PER,604,Urban,3,Flush and pour flush - to pit,0.0,"Encuesta Demográfica y de Salud Familiar, 2015 - ENDES17"
+Peru,PE,PER,604,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Encuesta Demográfica y de Salud Familiar, 2015 - ENDES17"
+Peru,PE,PER,604,Urban,5,Flush and pour flush - to elsewhere,0.001,"Encuesta Demográfica y de Salud Familiar, 2015 - ENDES17"
+Peru,PE,PER,604,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.038,"Encuesta Demográfica y de Salud Familiar, 2015 - ENDES17"
+Peru,PE,PER,604,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Encuesta Demográfica y de Salud Familiar, 2015 - ENDES17"
+Peru,PE,PER,604,Urban,8,Dry latrines - Traditional latrine,0.058,"Encuesta Demográfica y de Salud Familiar, 2015 - ENDES17"
+Peru,PE,PER,604,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Encuesta Demográfica y de Salud Familiar, 2015 - ENDES17"
+Peru,PE,PER,604,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Encuesta Demográfica y de Salud Familiar, 2015 - ENDES17"
+Peru,PE,PER,604,Urban,11,Dry latrines - Bucket latrine,0.0,"Encuesta Demográfica y de Salud Familiar, 2015 - ENDES17"
+Peru,PE,PER,604,Urban,12,Dry latrines - Other,0.0,"Encuesta Demográfica y de Salud Familiar, 2015 - ENDES17"
+Peru,PE,PER,604,Urban,13,Composting toilets,0.0,"Encuesta Demográfica y de Salud Familiar, 2015 - ENDES17"
+Peru,PE,PER,604,Urban,14,Other improved,0.0,"Encuesta Demográfica y de Salud Familiar, 2015 - ENDES17"
+Peru,PE,PER,604,Urban,15,"No facility, bush, field",0.02,"Encuesta Demográfica y de Salud Familiar, 2015 - ENDES17"
+Peru,PE,PER,604,Urban,16,Other unimproved,0.001,"Encuesta Demográfica y de Salud Familiar, 2015 - ENDES17"
+Peru,PE,PER,604,Urban,17,DK/missing information,0.0,"Encuesta Demográfica y de Salud Familiar, 2015 - ENDES17"
+Peru,PE,PER,604,Rural,1,Flush and pour flush - to piped sewer system,0.193,"Encuesta Demográfica y de Salud Familiar, 2015 - ENDES17"
+Peru,PE,PER,604,Rural,2,Flush and pour flush - to septic tank,0.074,"Encuesta Demográfica y de Salud Familiar, 2015 - ENDES17"
+Peru,PE,PER,604,Rural,3,Flush and pour flush - to pit,0.0,"Encuesta Demográfica y de Salud Familiar, 2015 - ENDES17"
+Peru,PE,PER,604,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Encuesta Demográfica y de Salud Familiar, 2015 - ENDES17"
+Peru,PE,PER,604,Rural,5,Flush and pour flush - to elsewhere,0.005,"Encuesta Demográfica y de Salud Familiar, 2015 - ENDES17"
+Peru,PE,PER,604,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.103,"Encuesta Demográfica y de Salud Familiar, 2015 - ENDES17"
+Peru,PE,PER,604,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Encuesta Demográfica y de Salud Familiar, 2015 - ENDES17"
+Peru,PE,PER,604,Rural,8,Dry latrines - Traditional latrine,0.433,"Encuesta Demográfica y de Salud Familiar, 2015 - ENDES17"
+Peru,PE,PER,604,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Encuesta Demográfica y de Salud Familiar, 2015 - ENDES17"
+Peru,PE,PER,604,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.001,"Encuesta Demográfica y de Salud Familiar, 2015 - ENDES17"
+Peru,PE,PER,604,Rural,11,Dry latrines - Bucket latrine,0.0,"Encuesta Demográfica y de Salud Familiar, 2015 - ENDES17"
+Peru,PE,PER,604,Rural,12,Dry latrines - Other,0.0,"Encuesta Demográfica y de Salud Familiar, 2015 - ENDES17"
+Peru,PE,PER,604,Rural,13,Composting toilets,0.0,"Encuesta Demográfica y de Salud Familiar, 2015 - ENDES17"
+Peru,PE,PER,604,Rural,14,Other improved,0.0,"Encuesta Demográfica y de Salud Familiar, 2015 - ENDES17"
+Peru,PE,PER,604,Rural,15,"No facility, bush, field",0.189,"Encuesta Demográfica y de Salud Familiar, 2015 - ENDES17"
+Peru,PE,PER,604,Rural,16,Other unimproved,0.002,"Encuesta Demográfica y de Salud Familiar, 2015 - ENDES17"
+Peru,PE,PER,604,Rural,17,DK/missing information,0.0,"Encuesta Demográfica y de Salud Familiar, 2015 - ENDES17"

@@ -13,7 +13,7 @@
 #' 1    HND 3.63e+18   5.840389e+16 1.963546e+18     5.738629e+17 5.042712e+17    1.179983e+14 5.297977e+17 2.551866e+18       0.15    0.2970
 #' 2    UGA 1.67e+19   1.565005e+17 1.731193e+18     1.408505e+18 1.340068e+19    0.000000e+00 3.127723e+15 1.890822e+18       0.95    0.8868
 
-getLoadings<-function(inputDF,pathogenType="Virus"){
+getLoadings<-function(inputDF=read.csv("data/testInput.csv"),pathogenType="Virus"){
 
   df1<-inputDF
 

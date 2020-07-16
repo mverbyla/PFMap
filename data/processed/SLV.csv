@@ -1,0 +1,635 @@
+country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+El Salvador,SV,SLV,222,Urban,1,Flush and pour flush - to piped sewer system,0.622,Multiple Indicator Household Survey - EHPM04
+El Salvador,SV,SLV,222,Urban,2,Flush and pour flush - to septic tank,0.082,Multiple Indicator Household Survey - EHPM04
+El Salvador,SV,SLV,222,Urban,3,Flush and pour flush - to pit,0.0,Multiple Indicator Household Survey - EHPM04
+El Salvador,SV,SLV,222,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Household Survey - EHPM04
+El Salvador,SV,SLV,222,Urban,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Household Survey - EHPM04
+El Salvador,SV,SLV,222,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Multiple Indicator Household Survey - EHPM04
+El Salvador,SV,SLV,222,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Multiple Indicator Household Survey - EHPM04
+El Salvador,SV,SLV,222,Urban,8,Dry latrines - Traditional latrine,0.279,Multiple Indicator Household Survey - EHPM04
+El Salvador,SV,SLV,222,Urban,8,Dry latrines - Traditional latrine,0.237,Multiple Indicator Household Survey - EHPM04
+El Salvador,SV,SLV,222,Urban,8,Dry latrines - Traditional latrine,0.042,Multiple Indicator Household Survey - EHPM04
+El Salvador,SV,SLV,222,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Multiple Indicator Household Survey - EHPM04
+El Salvador,SV,SLV,222,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Household Survey - EHPM04
+El Salvador,SV,SLV,222,Urban,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Household Survey - EHPM04
+El Salvador,SV,SLV,222,Urban,12,Dry latrines - Other,0.0,Multiple Indicator Household Survey - EHPM04
+El Salvador,SV,SLV,222,Urban,13,Composting toilets,0.0,Multiple Indicator Household Survey - EHPM04
+El Salvador,SV,SLV,222,Urban,14,Other improved,0.0,Multiple Indicator Household Survey - EHPM04
+El Salvador,SV,SLV,222,Urban,15,"No facility, bush, field",0.017,Multiple Indicator Household Survey - EHPM04
+El Salvador,SV,SLV,222,Urban,16,Other unimproved,0.0,Multiple Indicator Household Survey - EHPM04
+El Salvador,SV,SLV,222,Urban,17,DK/missing information,0.0,Multiple Indicator Household Survey - EHPM04
+El Salvador,SV,SLV,222,Rural,1,Flush and pour flush - to piped sewer system,0.023,Multiple Indicator Household Survey - EHPM04
+El Salvador,SV,SLV,222,Rural,2,Flush and pour flush - to septic tank,0.067,Multiple Indicator Household Survey - EHPM04
+El Salvador,SV,SLV,222,Rural,3,Flush and pour flush - to pit,0.0,Multiple Indicator Household Survey - EHPM04
+El Salvador,SV,SLV,222,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Household Survey - EHPM04
+El Salvador,SV,SLV,222,Rural,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Household Survey - EHPM04
+El Salvador,SV,SLV,222,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Multiple Indicator Household Survey - EHPM04
+El Salvador,SV,SLV,222,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Multiple Indicator Household Survey - EHPM04
+El Salvador,SV,SLV,222,Rural,8,Dry latrines - Traditional latrine,0.758,Multiple Indicator Household Survey - EHPM04
+El Salvador,SV,SLV,222,Rural,8,Dry latrines - Traditional latrine,0.687,Multiple Indicator Household Survey - EHPM04
+El Salvador,SV,SLV,222,Rural,8,Dry latrines - Traditional latrine,0.071,Multiple Indicator Household Survey - EHPM04
+El Salvador,SV,SLV,222,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Multiple Indicator Household Survey - EHPM04
+El Salvador,SV,SLV,222,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Household Survey - EHPM04
+El Salvador,SV,SLV,222,Rural,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Household Survey - EHPM04
+El Salvador,SV,SLV,222,Rural,12,Dry latrines - Other,0.0,Multiple Indicator Household Survey - EHPM04
+El Salvador,SV,SLV,222,Rural,13,Composting toilets,0.0,Multiple Indicator Household Survey - EHPM04
+El Salvador,SV,SLV,222,Rural,14,Other improved,0.0,Multiple Indicator Household Survey - EHPM04
+El Salvador,SV,SLV,222,Rural,15,"No facility, bush, field",0.152,Multiple Indicator Household Survey - EHPM04
+El Salvador,SV,SLV,222,Rural,16,Other unimproved,0.0,Multiple Indicator Household Survey - EHPM04
+El Salvador,SV,SLV,222,Rural,17,DK/missing information,0.0,Multiple Indicator Household Survey - EHPM04
+El Salvador,SV,SLV,222,Urban,1,Flush and pour flush - to piped sewer system,0.597,Encuesta de Hogares de Propositis Multiples - EHPM05
+El Salvador,SV,SLV,222,Urban,2,Flush and pour flush - to septic tank,0.087,Encuesta de Hogares de Propositis Multiples - EHPM05
+El Salvador,SV,SLV,222,Urban,3,Flush and pour flush - to pit,0.0,Encuesta de Hogares de Propositis Multiples - EHPM05
+El Salvador,SV,SLV,222,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta de Hogares de Propositis Multiples - EHPM05
+El Salvador,SV,SLV,222,Urban,5,Flush and pour flush - to elsewhere,0.0,Encuesta de Hogares de Propositis Multiples - EHPM05
+El Salvador,SV,SLV,222,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta de Hogares de Propositis Multiples - EHPM05
+El Salvador,SV,SLV,222,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta de Hogares de Propositis Multiples - EHPM05
+El Salvador,SV,SLV,222,Urban,8,Dry latrines - Traditional latrine,0.237,Encuesta de Hogares de Propositis Multiples - EHPM05
+El Salvador,SV,SLV,222,Urban,8,Dry latrines - Traditional latrine,0.222,Encuesta de Hogares de Propositis Multiples - EHPM05
+El Salvador,SV,SLV,222,Urban,8,Dry latrines - Traditional latrine,0.014,Encuesta de Hogares de Propositis Multiples - EHPM05
+El Salvador,SV,SLV,222,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta de Hogares de Propositis Multiples - EHPM05
+El Salvador,SV,SLV,222,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta de Hogares de Propositis Multiples - EHPM05
+El Salvador,SV,SLV,222,Urban,11,Dry latrines - Bucket latrine,0.0,Encuesta de Hogares de Propositis Multiples - EHPM05
+El Salvador,SV,SLV,222,Urban,12,Dry latrines - Other,0.0,Encuesta de Hogares de Propositis Multiples - EHPM05
+El Salvador,SV,SLV,222,Urban,13,Composting toilets,0.0,Encuesta de Hogares de Propositis Multiples - EHPM05
+El Salvador,SV,SLV,222,Urban,14,Other improved,0.0,Encuesta de Hogares de Propositis Multiples - EHPM05
+El Salvador,SV,SLV,222,Urban,15,"No facility, bush, field",0.039,Encuesta de Hogares de Propositis Multiples - EHPM05
+El Salvador,SV,SLV,222,Urban,16,Other unimproved,0.0,Encuesta de Hogares de Propositis Multiples - EHPM05
+El Salvador,SV,SLV,222,Urban,17,DK/missing information,0.0,Encuesta de Hogares de Propositis Multiples - EHPM05
+El Salvador,SV,SLV,222,Rural,1,Flush and pour flush - to piped sewer system,0.024,Encuesta de Hogares de Propositis Multiples - EHPM05
+El Salvador,SV,SLV,222,Rural,2,Flush and pour flush - to septic tank,0.081,Encuesta de Hogares de Propositis Multiples - EHPM05
+El Salvador,SV,SLV,222,Rural,3,Flush and pour flush - to pit,0.0,Encuesta de Hogares de Propositis Multiples - EHPM05
+El Salvador,SV,SLV,222,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta de Hogares de Propositis Multiples - EHPM05
+El Salvador,SV,SLV,222,Rural,5,Flush and pour flush - to elsewhere,0.0,Encuesta de Hogares de Propositis Multiples - EHPM05
+El Salvador,SV,SLV,222,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta de Hogares de Propositis Multiples - EHPM05
+El Salvador,SV,SLV,222,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta de Hogares de Propositis Multiples - EHPM05
+El Salvador,SV,SLV,222,Rural,8,Dry latrines - Traditional latrine,0.678,Encuesta de Hogares de Propositis Multiples - EHPM05
+El Salvador,SV,SLV,222,Rural,8,Dry latrines - Traditional latrine,0.662,Encuesta de Hogares de Propositis Multiples - EHPM05
+El Salvador,SV,SLV,222,Rural,8,Dry latrines - Traditional latrine,0.016,Encuesta de Hogares de Propositis Multiples - EHPM05
+El Salvador,SV,SLV,222,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta de Hogares de Propositis Multiples - EHPM05
+El Salvador,SV,SLV,222,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta de Hogares de Propositis Multiples - EHPM05
+El Salvador,SV,SLV,222,Rural,11,Dry latrines - Bucket latrine,0.0,Encuesta de Hogares de Propositis Multiples - EHPM05
+El Salvador,SV,SLV,222,Rural,12,Dry latrines - Other,0.0,Encuesta de Hogares de Propositis Multiples - EHPM05
+El Salvador,SV,SLV,222,Rural,13,Composting toilets,0.0,Encuesta de Hogares de Propositis Multiples - EHPM05
+El Salvador,SV,SLV,222,Rural,14,Other improved,0.0,Encuesta de Hogares de Propositis Multiples - EHPM05
+El Salvador,SV,SLV,222,Rural,15,"No facility, bush, field",0.208,Encuesta de Hogares de Propositis Multiples - EHPM05
+El Salvador,SV,SLV,222,Rural,16,Other unimproved,0.0,Encuesta de Hogares de Propositis Multiples - EHPM05
+El Salvador,SV,SLV,222,Rural,17,DK/missing information,0.0,Encuesta de Hogares de Propositis Multiples - EHPM05
+El Salvador,SV,SLV,222,Urban,1,Flush and pour flush - to piped sewer system,0.617,Multiple Indicator Household Survey - EHPM06
+El Salvador,SV,SLV,222,Urban,2,Flush and pour flush - to septic tank,0.102,Multiple Indicator Household Survey - EHPM06
+El Salvador,SV,SLV,222,Urban,3,Flush and pour flush - to pit,0.0,Multiple Indicator Household Survey - EHPM06
+El Salvador,SV,SLV,222,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Household Survey - EHPM06
+El Salvador,SV,SLV,222,Urban,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Household Survey - EHPM06
+El Salvador,SV,SLV,222,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Multiple Indicator Household Survey - EHPM06
+El Salvador,SV,SLV,222,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Multiple Indicator Household Survey - EHPM06
+El Salvador,SV,SLV,222,Urban,8,Dry latrines - Traditional latrine,0.236,Multiple Indicator Household Survey - EHPM06
+El Salvador,SV,SLV,222,Urban,8,Dry latrines - Traditional latrine,0.225,Multiple Indicator Household Survey - EHPM06
+El Salvador,SV,SLV,222,Urban,8,Dry latrines - Traditional latrine,0.011,Multiple Indicator Household Survey - EHPM06
+El Salvador,SV,SLV,222,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Multiple Indicator Household Survey - EHPM06
+El Salvador,SV,SLV,222,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Household Survey - EHPM06
+El Salvador,SV,SLV,222,Urban,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Household Survey - EHPM06
+El Salvador,SV,SLV,222,Urban,12,Dry latrines - Other,0.0,Multiple Indicator Household Survey - EHPM06
+El Salvador,SV,SLV,222,Urban,13,Composting toilets,0.005,Multiple Indicator Household Survey - EHPM06
+El Salvador,SV,SLV,222,Urban,14,Other improved,0.0,Multiple Indicator Household Survey - EHPM06
+El Salvador,SV,SLV,222,Urban,15,"No facility, bush, field",0.039,Multiple Indicator Household Survey - EHPM06
+El Salvador,SV,SLV,222,Urban,16,Other unimproved,0.0,Multiple Indicator Household Survey - EHPM06
+El Salvador,SV,SLV,222,Urban,17,DK/missing information,0.0,Multiple Indicator Household Survey - EHPM06
+El Salvador,SV,SLV,222,Rural,1,Flush and pour flush - to piped sewer system,0.024,Multiple Indicator Household Survey - EHPM06
+El Salvador,SV,SLV,222,Rural,2,Flush and pour flush - to septic tank,0.097,Multiple Indicator Household Survey - EHPM06
+El Salvador,SV,SLV,222,Rural,3,Flush and pour flush - to pit,0.0,Multiple Indicator Household Survey - EHPM06
+El Salvador,SV,SLV,222,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Household Survey - EHPM06
+El Salvador,SV,SLV,222,Rural,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Household Survey - EHPM06
+El Salvador,SV,SLV,222,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Multiple Indicator Household Survey - EHPM06
+El Salvador,SV,SLV,222,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Multiple Indicator Household Survey - EHPM06
+El Salvador,SV,SLV,222,Rural,8,Dry latrines - Traditional latrine,0.628,Multiple Indicator Household Survey - EHPM06
+El Salvador,SV,SLV,222,Rural,8,Dry latrines - Traditional latrine,0.612,Multiple Indicator Household Survey - EHPM06
+El Salvador,SV,SLV,222,Rural,8,Dry latrines - Traditional latrine,0.016,Multiple Indicator Household Survey - EHPM06
+El Salvador,SV,SLV,222,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Multiple Indicator Household Survey - EHPM06
+El Salvador,SV,SLV,222,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Household Survey - EHPM06
+El Salvador,SV,SLV,222,Rural,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Household Survey - EHPM06
+El Salvador,SV,SLV,222,Rural,12,Dry latrines - Other,0.0,Multiple Indicator Household Survey - EHPM06
+El Salvador,SV,SLV,222,Rural,13,Composting toilets,0.066,Multiple Indicator Household Survey - EHPM06
+El Salvador,SV,SLV,222,Rural,14,Other improved,0.0,Multiple Indicator Household Survey - EHPM06
+El Salvador,SV,SLV,222,Rural,15,"No facility, bush, field",0.184,Multiple Indicator Household Survey - EHPM06
+El Salvador,SV,SLV,222,Rural,16,Other unimproved,0.0,Multiple Indicator Household Survey - EHPM06
+El Salvador,SV,SLV,222,Rural,17,DK/missing information,0.0,Multiple Indicator Household Survey - EHPM06
+El Salvador,SV,SLV,222,Urban,1,Flush and pour flush - to piped sewer system,0.559,Encuesta de Hogares de Propositis Multiples - EHPM07
+El Salvador,SV,SLV,222,Urban,2,Flush and pour flush - to septic tank,0.112,Encuesta de Hogares de Propositis Multiples - EHPM07
+El Salvador,SV,SLV,222,Urban,3,Flush and pour flush - to pit,0.0,Encuesta de Hogares de Propositis Multiples - EHPM07
+El Salvador,SV,SLV,222,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta de Hogares de Propositis Multiples - EHPM07
+El Salvador,SV,SLV,222,Urban,5,Flush and pour flush - to elsewhere,0.0,Encuesta de Hogares de Propositis Multiples - EHPM07
+El Salvador,SV,SLV,222,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta de Hogares de Propositis Multiples - EHPM07
+El Salvador,SV,SLV,222,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta de Hogares de Propositis Multiples - EHPM07
+El Salvador,SV,SLV,222,Urban,8,Dry latrines - Traditional latrine,0.251,Encuesta de Hogares de Propositis Multiples - EHPM07
+El Salvador,SV,SLV,222,Urban,8,Dry latrines - Traditional latrine,0.231,Encuesta de Hogares de Propositis Multiples - EHPM07
+El Salvador,SV,SLV,222,Urban,8,Dry latrines - Traditional latrine,0.019,Encuesta de Hogares de Propositis Multiples - EHPM07
+El Salvador,SV,SLV,222,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta de Hogares de Propositis Multiples - EHPM07
+El Salvador,SV,SLV,222,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta de Hogares de Propositis Multiples - EHPM07
+El Salvador,SV,SLV,222,Urban,11,Dry latrines - Bucket latrine,0.0,Encuesta de Hogares de Propositis Multiples - EHPM07
+El Salvador,SV,SLV,222,Urban,12,Dry latrines - Other,0.0,Encuesta de Hogares de Propositis Multiples - EHPM07
+El Salvador,SV,SLV,222,Urban,13,Composting toilets,0.005,Encuesta de Hogares de Propositis Multiples - EHPM07
+El Salvador,SV,SLV,222,Urban,14,Other improved,0.0,Encuesta de Hogares de Propositis Multiples - EHPM07
+El Salvador,SV,SLV,222,Urban,15,"No facility, bush, field",0.032,Encuesta de Hogares de Propositis Multiples - EHPM07
+El Salvador,SV,SLV,222,Urban,16,Other unimproved,0.0,Encuesta de Hogares de Propositis Multiples - EHPM07
+El Salvador,SV,SLV,222,Urban,17,DK/missing information,0.0,Encuesta de Hogares de Propositis Multiples - EHPM07
+El Salvador,SV,SLV,222,Rural,1,Flush and pour flush - to piped sewer system,0.021,Encuesta de Hogares de Propositis Multiples - EHPM07
+El Salvador,SV,SLV,222,Rural,2,Flush and pour flush - to septic tank,0.115,Encuesta de Hogares de Propositis Multiples - EHPM07
+El Salvador,SV,SLV,222,Rural,3,Flush and pour flush - to pit,0.0,Encuesta de Hogares de Propositis Multiples - EHPM07
+El Salvador,SV,SLV,222,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta de Hogares de Propositis Multiples - EHPM07
+El Salvador,SV,SLV,222,Rural,5,Flush and pour flush - to elsewhere,0.0,Encuesta de Hogares de Propositis Multiples - EHPM07
+El Salvador,SV,SLV,222,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta de Hogares de Propositis Multiples - EHPM07
+El Salvador,SV,SLV,222,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta de Hogares de Propositis Multiples - EHPM07
+El Salvador,SV,SLV,222,Rural,8,Dry latrines - Traditional latrine,0.575,Encuesta de Hogares de Propositis Multiples - EHPM07
+El Salvador,SV,SLV,222,Rural,8,Dry latrines - Traditional latrine,0.557,Encuesta de Hogares de Propositis Multiples - EHPM07
+El Salvador,SV,SLV,222,Rural,8,Dry latrines - Traditional latrine,0.018,Encuesta de Hogares de Propositis Multiples - EHPM07
+El Salvador,SV,SLV,222,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta de Hogares de Propositis Multiples - EHPM07
+El Salvador,SV,SLV,222,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta de Hogares de Propositis Multiples - EHPM07
+El Salvador,SV,SLV,222,Rural,11,Dry latrines - Bucket latrine,0.0,Encuesta de Hogares de Propositis Multiples - EHPM07
+El Salvador,SV,SLV,222,Rural,12,Dry latrines - Other,0.0,Encuesta de Hogares de Propositis Multiples - EHPM07
+El Salvador,SV,SLV,222,Rural,13,Composting toilets,0.107,Encuesta de Hogares de Propositis Multiples - EHPM07
+El Salvador,SV,SLV,222,Rural,14,Other improved,0.0,Encuesta de Hogares de Propositis Multiples - EHPM07
+El Salvador,SV,SLV,222,Rural,15,"No facility, bush, field",0.177,Encuesta de Hogares de Propositis Multiples - EHPM07
+El Salvador,SV,SLV,222,Rural,16,Other unimproved,0.0,Encuesta de Hogares de Propositis Multiples - EHPM07
+El Salvador,SV,SLV,222,Rural,17,DK/missing information,0.0,Encuesta de Hogares de Propositis Multiples - EHPM07
+El Salvador,SV,SLV,222,Urban,1,Flush and pour flush - to piped sewer system,0.535,Census - CEN07
+El Salvador,SV,SLV,222,Urban,2,Flush and pour flush - to septic tank,0.17,Census - CEN07
+El Salvador,SV,SLV,222,Urban,3,Flush and pour flush - to pit,0.0,Census - CEN07
+El Salvador,SV,SLV,222,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN07
+El Salvador,SV,SLV,222,Urban,5,Flush and pour flush - to elsewhere,0.0,Census - CEN07
+El Salvador,SV,SLV,222,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN07
+El Salvador,SV,SLV,222,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN07
+El Salvador,SV,SLV,222,Urban,8,Dry latrines - Traditional latrine,0.26,Census - CEN07
+El Salvador,SV,SLV,222,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN07
+El Salvador,SV,SLV,222,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN07
+El Salvador,SV,SLV,222,Urban,11,Dry latrines - Bucket latrine,0.0,Census - CEN07
+El Salvador,SV,SLV,222,Urban,12,Dry latrines - Other,0.0,Census - CEN07
+El Salvador,SV,SLV,222,Urban,13,Composting toilets,0.017,Census - CEN07
+El Salvador,SV,SLV,222,Urban,14,Other improved,0.0,Census - CEN07
+El Salvador,SV,SLV,222,Urban,15,"No facility, bush, field",0.011,Census - CEN07
+El Salvador,SV,SLV,222,Urban,16,Other unimproved,0.0,Census - CEN07
+El Salvador,SV,SLV,222,Urban,17,DK/missing information,0.005,Census - CEN07
+El Salvador,SV,SLV,222,Rural,1,Flush and pour flush - to piped sewer system,0.018,Census - CEN07
+El Salvador,SV,SLV,222,Rural,2,Flush and pour flush - to septic tank,0.118,Census - CEN07
+El Salvador,SV,SLV,222,Rural,3,Flush and pour flush - to pit,0.0,Census - CEN07
+El Salvador,SV,SLV,222,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN07
+El Salvador,SV,SLV,222,Rural,5,Flush and pour flush - to elsewhere,0.0,Census - CEN07
+El Salvador,SV,SLV,222,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN07
+El Salvador,SV,SLV,222,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN07
+El Salvador,SV,SLV,222,Rural,8,Dry latrines - Traditional latrine,0.575,Census - CEN07
+El Salvador,SV,SLV,222,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN07
+El Salvador,SV,SLV,222,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN07
+El Salvador,SV,SLV,222,Rural,11,Dry latrines - Bucket latrine,0.0,Census - CEN07
+El Salvador,SV,SLV,222,Rural,12,Dry latrines - Other,0.0,Census - CEN07
+El Salvador,SV,SLV,222,Rural,13,Composting toilets,0.148,Census - CEN07
+El Salvador,SV,SLV,222,Rural,14,Other improved,0.0,Census - CEN07
+El Salvador,SV,SLV,222,Rural,15,"No facility, bush, field",0.14,Census - CEN07
+El Salvador,SV,SLV,222,Rural,16,Other unimproved,0.0,Census - CEN07
+El Salvador,SV,SLV,222,Rural,17,DK/missing information,0.001,Census - CEN07
+El Salvador,SV,SLV,222,Urban,1,Flush and pour flush - to piped sewer system,0.545,Encuesta de Hogares de Propositis Multiples - EHPM08
+El Salvador,SV,SLV,222,Urban,2,Flush and pour flush - to septic tank,0.105,Encuesta de Hogares de Propositis Multiples - EHPM08
+El Salvador,SV,SLV,222,Urban,3,Flush and pour flush - to pit,0.0,Encuesta de Hogares de Propositis Multiples - EHPM08
+El Salvador,SV,SLV,222,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta de Hogares de Propositis Multiples - EHPM08
+El Salvador,SV,SLV,222,Urban,5,Flush and pour flush - to elsewhere,0.0,Encuesta de Hogares de Propositis Multiples - EHPM08
+El Salvador,SV,SLV,222,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta de Hogares de Propositis Multiples - EHPM08
+El Salvador,SV,SLV,222,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta de Hogares de Propositis Multiples - EHPM08
+El Salvador,SV,SLV,222,Urban,8,Dry latrines - Traditional latrine,0.28,Encuesta de Hogares de Propositis Multiples - EHPM08
+El Salvador,SV,SLV,222,Urban,8,Dry latrines - Traditional latrine,0.239,Encuesta de Hogares de Propositis Multiples - EHPM08
+El Salvador,SV,SLV,222,Urban,8,Dry latrines - Traditional latrine,0.041,Encuesta de Hogares de Propositis Multiples - EHPM08
+El Salvador,SV,SLV,222,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta de Hogares de Propositis Multiples - EHPM08
+El Salvador,SV,SLV,222,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta de Hogares de Propositis Multiples - EHPM08
+El Salvador,SV,SLV,222,Urban,11,Dry latrines - Bucket latrine,0.0,Encuesta de Hogares de Propositis Multiples - EHPM08
+El Salvador,SV,SLV,222,Urban,12,Dry latrines - Other,0.0,Encuesta de Hogares de Propositis Multiples - EHPM08
+El Salvador,SV,SLV,222,Urban,13,Composting toilets,0.021,Encuesta de Hogares de Propositis Multiples - EHPM08
+El Salvador,SV,SLV,222,Urban,14,Other improved,0.0,Encuesta de Hogares de Propositis Multiples - EHPM08
+El Salvador,SV,SLV,222,Urban,15,"No facility, bush, field",0.012,Encuesta de Hogares de Propositis Multiples - EHPM08
+El Salvador,SV,SLV,222,Urban,16,Other unimproved,0.0,Encuesta de Hogares de Propositis Multiples - EHPM08
+El Salvador,SV,SLV,222,Urban,17,DK/missing information,0.0,Encuesta de Hogares de Propositis Multiples - EHPM08
+El Salvador,SV,SLV,222,Rural,1,Flush and pour flush - to piped sewer system,0.008,Encuesta de Hogares de Propositis Multiples - EHPM08
+El Salvador,SV,SLV,222,Rural,2,Flush and pour flush - to septic tank,0.098,Encuesta de Hogares de Propositis Multiples - EHPM08
+El Salvador,SV,SLV,222,Rural,3,Flush and pour flush - to pit,0.0,Encuesta de Hogares de Propositis Multiples - EHPM08
+El Salvador,SV,SLV,222,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta de Hogares de Propositis Multiples - EHPM08
+El Salvador,SV,SLV,222,Rural,5,Flush and pour flush - to elsewhere,0.0,Encuesta de Hogares de Propositis Multiples - EHPM08
+El Salvador,SV,SLV,222,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta de Hogares de Propositis Multiples - EHPM08
+El Salvador,SV,SLV,222,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta de Hogares de Propositis Multiples - EHPM08
+El Salvador,SV,SLV,222,Rural,8,Dry latrines - Traditional latrine,0.641,Encuesta de Hogares de Propositis Multiples - EHPM08
+El Salvador,SV,SLV,222,Rural,8,Dry latrines - Traditional latrine,0.548,Encuesta de Hogares de Propositis Multiples - EHPM08
+El Salvador,SV,SLV,222,Rural,8,Dry latrines - Traditional latrine,0.093,Encuesta de Hogares de Propositis Multiples - EHPM08
+El Salvador,SV,SLV,222,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta de Hogares de Propositis Multiples - EHPM08
+El Salvador,SV,SLV,222,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta de Hogares de Propositis Multiples - EHPM08
+El Salvador,SV,SLV,222,Rural,11,Dry latrines - Bucket latrine,0.0,Encuesta de Hogares de Propositis Multiples - EHPM08
+El Salvador,SV,SLV,222,Rural,12,Dry latrines - Other,0.0,Encuesta de Hogares de Propositis Multiples - EHPM08
+El Salvador,SV,SLV,222,Rural,13,Composting toilets,0.125,Encuesta de Hogares de Propositis Multiples - EHPM08
+El Salvador,SV,SLV,222,Rural,14,Other improved,0.0,Encuesta de Hogares de Propositis Multiples - EHPM08
+El Salvador,SV,SLV,222,Rural,15,"No facility, bush, field",0.123,Encuesta de Hogares de Propositis Multiples - EHPM08
+El Salvador,SV,SLV,222,Rural,16,Other unimproved,0.0,Encuesta de Hogares de Propositis Multiples - EHPM08
+El Salvador,SV,SLV,222,Rural,17,DK/missing information,0.0,Encuesta de Hogares de Propositis Multiples - EHPM08
+El Salvador,SV,SLV,222,Urban,1,Flush and pour flush - to piped sewer system,0.622,Reproductive Health Survey (RHS) | Institute for Health Metrics - RHS08
+El Salvador,SV,SLV,222,Urban,2,Flush and pour flush - to septic tank,0.131,Reproductive Health Survey (RHS) | Institute for Health Metrics - RHS08
+El Salvador,SV,SLV,222,Urban,3,Flush and pour flush - to pit,0.0,Reproductive Health Survey (RHS) | Institute for Health Metrics - RHS08
+El Salvador,SV,SLV,222,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Reproductive Health Survey (RHS) | Institute for Health Metrics - RHS08
+El Salvador,SV,SLV,222,Urban,5,Flush and pour flush - to elsewhere,0.0,Reproductive Health Survey (RHS) | Institute for Health Metrics - RHS08
+El Salvador,SV,SLV,222,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Reproductive Health Survey (RHS) | Institute for Health Metrics - RHS08
+El Salvador,SV,SLV,222,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Reproductive Health Survey (RHS) | Institute for Health Metrics - RHS08
+El Salvador,SV,SLV,222,Urban,8,Dry latrines - Traditional latrine,0.21,Reproductive Health Survey (RHS) | Institute for Health Metrics - RHS08
+El Salvador,SV,SLV,222,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Reproductive Health Survey (RHS) | Institute for Health Metrics - RHS08
+El Salvador,SV,SLV,222,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Reproductive Health Survey (RHS) | Institute for Health Metrics - RHS08
+El Salvador,SV,SLV,222,Urban,11,Dry latrines - Bucket latrine,0.0,Reproductive Health Survey (RHS) | Institute for Health Metrics - RHS08
+El Salvador,SV,SLV,222,Urban,12,Dry latrines - Other,0.005,Reproductive Health Survey (RHS) | Institute for Health Metrics - RHS08
+El Salvador,SV,SLV,222,Urban,13,Composting toilets,0.021,Reproductive Health Survey (RHS) | Institute for Health Metrics - RHS08
+El Salvador,SV,SLV,222,Urban,14,Other improved,0.0,Reproductive Health Survey (RHS) | Institute for Health Metrics - RHS08
+El Salvador,SV,SLV,222,Urban,15,"No facility, bush, field",0.01,Reproductive Health Survey (RHS) | Institute for Health Metrics - RHS08
+El Salvador,SV,SLV,222,Urban,16,Other unimproved,0.0,Reproductive Health Survey (RHS) | Institute for Health Metrics - RHS08
+El Salvador,SV,SLV,222,Urban,17,DK/missing information,0.0,Reproductive Health Survey (RHS) | Institute for Health Metrics - RHS08
+El Salvador,SV,SLV,222,Rural,1,Flush and pour flush - to piped sewer system,0.05,Reproductive Health Survey (RHS) | Institute for Health Metrics - RHS08
+El Salvador,SV,SLV,222,Rural,2,Flush and pour flush - to septic tank,0.147,Reproductive Health Survey (RHS) | Institute for Health Metrics - RHS08
+El Salvador,SV,SLV,222,Rural,3,Flush and pour flush - to pit,0.0,Reproductive Health Survey (RHS) | Institute for Health Metrics - RHS08
+El Salvador,SV,SLV,222,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Reproductive Health Survey (RHS) | Institute for Health Metrics - RHS08
+El Salvador,SV,SLV,222,Rural,5,Flush and pour flush - to elsewhere,0.0,Reproductive Health Survey (RHS) | Institute for Health Metrics - RHS08
+El Salvador,SV,SLV,222,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Reproductive Health Survey (RHS) | Institute for Health Metrics - RHS08
+El Salvador,SV,SLV,222,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Reproductive Health Survey (RHS) | Institute for Health Metrics - RHS08
+El Salvador,SV,SLV,222,Rural,8,Dry latrines - Traditional latrine,0.539,Reproductive Health Survey (RHS) | Institute for Health Metrics - RHS08
+El Salvador,SV,SLV,222,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Reproductive Health Survey (RHS) | Institute for Health Metrics - RHS08
+El Salvador,SV,SLV,222,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Reproductive Health Survey (RHS) | Institute for Health Metrics - RHS08
+El Salvador,SV,SLV,222,Rural,11,Dry latrines - Bucket latrine,0.0,Reproductive Health Survey (RHS) | Institute for Health Metrics - RHS08
+El Salvador,SV,SLV,222,Rural,12,Dry latrines - Other,0.008,Reproductive Health Survey (RHS) | Institute for Health Metrics - RHS08
+El Salvador,SV,SLV,222,Rural,13,Composting toilets,0.147,Reproductive Health Survey (RHS) | Institute for Health Metrics - RHS08
+El Salvador,SV,SLV,222,Rural,14,Other improved,0.001,Reproductive Health Survey (RHS) | Institute for Health Metrics - RHS08
+El Salvador,SV,SLV,222,Rural,15,"No facility, bush, field",0.108,Reproductive Health Survey (RHS) | Institute for Health Metrics - RHS08
+El Salvador,SV,SLV,222,Rural,16,Other unimproved,0.0,Reproductive Health Survey (RHS) | Institute for Health Metrics - RHS08
+El Salvador,SV,SLV,222,Rural,17,DK/missing information,0.0,Reproductive Health Survey (RHS) | Institute for Health Metrics - RHS08
+El Salvador,SV,SLV,222,Urban,1,Flush and pour flush - to piped sewer system,0.563,Encuesta de Hogares de Propositis Multiples - EHPM09
+El Salvador,SV,SLV,222,Urban,2,Flush and pour flush - to septic tank,0.109,Encuesta de Hogares de Propositis Multiples - EHPM09
+El Salvador,SV,SLV,222,Urban,3,Flush and pour flush - to pit,0.0,Encuesta de Hogares de Propositis Multiples - EHPM09
+El Salvador,SV,SLV,222,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta de Hogares de Propositis Multiples - EHPM09
+El Salvador,SV,SLV,222,Urban,5,Flush and pour flush - to elsewhere,0.0,Encuesta de Hogares de Propositis Multiples - EHPM09
+El Salvador,SV,SLV,222,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta de Hogares de Propositis Multiples - EHPM09
+El Salvador,SV,SLV,222,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta de Hogares de Propositis Multiples - EHPM09
+El Salvador,SV,SLV,222,Urban,8,Dry latrines - Traditional latrine,0.255,Encuesta de Hogares de Propositis Multiples - EHPM09
+El Salvador,SV,SLV,222,Urban,8,Dry latrines - Traditional latrine,0.213,Encuesta de Hogares de Propositis Multiples - EHPM09
+El Salvador,SV,SLV,222,Urban,8,Dry latrines - Traditional latrine,0.043,Encuesta de Hogares de Propositis Multiples - EHPM09
+El Salvador,SV,SLV,222,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta de Hogares de Propositis Multiples - EHPM09
+El Salvador,SV,SLV,222,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta de Hogares de Propositis Multiples - EHPM09
+El Salvador,SV,SLV,222,Urban,11,Dry latrines - Bucket latrine,0.0,Encuesta de Hogares de Propositis Multiples - EHPM09
+El Salvador,SV,SLV,222,Urban,12,Dry latrines - Other,0.0,Encuesta de Hogares de Propositis Multiples - EHPM09
+El Salvador,SV,SLV,222,Urban,13,Composting toilets,0.026,Encuesta de Hogares de Propositis Multiples - EHPM09
+El Salvador,SV,SLV,222,Urban,14,Other improved,0.0,Encuesta de Hogares de Propositis Multiples - EHPM09
+El Salvador,SV,SLV,222,Urban,15,"No facility, bush, field",0.008,Encuesta de Hogares de Propositis Multiples - EHPM09
+El Salvador,SV,SLV,222,Urban,16,Other unimproved,0.0,Encuesta de Hogares de Propositis Multiples - EHPM09
+El Salvador,SV,SLV,222,Urban,17,DK/missing information,0.0,Encuesta de Hogares de Propositis Multiples - EHPM09
+El Salvador,SV,SLV,222,Rural,1,Flush and pour flush - to piped sewer system,0.006,Encuesta de Hogares de Propositis Multiples - EHPM09
+El Salvador,SV,SLV,222,Rural,2,Flush and pour flush - to septic tank,0.106,Encuesta de Hogares de Propositis Multiples - EHPM09
+El Salvador,SV,SLV,222,Rural,3,Flush and pour flush - to pit,0.0,Encuesta de Hogares de Propositis Multiples - EHPM09
+El Salvador,SV,SLV,222,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta de Hogares de Propositis Multiples - EHPM09
+El Salvador,SV,SLV,222,Rural,5,Flush and pour flush - to elsewhere,0.0,Encuesta de Hogares de Propositis Multiples - EHPM09
+El Salvador,SV,SLV,222,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta de Hogares de Propositis Multiples - EHPM09
+El Salvador,SV,SLV,222,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta de Hogares de Propositis Multiples - EHPM09
+El Salvador,SV,SLV,222,Rural,8,Dry latrines - Traditional latrine,0.618,Encuesta de Hogares de Propositis Multiples - EHPM09
+El Salvador,SV,SLV,222,Rural,8,Dry latrines - Traditional latrine,0.514,Encuesta de Hogares de Propositis Multiples - EHPM09
+El Salvador,SV,SLV,222,Rural,8,Dry latrines - Traditional latrine,0.104,Encuesta de Hogares de Propositis Multiples - EHPM09
+El Salvador,SV,SLV,222,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta de Hogares de Propositis Multiples - EHPM09
+El Salvador,SV,SLV,222,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta de Hogares de Propositis Multiples - EHPM09
+El Salvador,SV,SLV,222,Rural,11,Dry latrines - Bucket latrine,0.0,Encuesta de Hogares de Propositis Multiples - EHPM09
+El Salvador,SV,SLV,222,Rural,12,Dry latrines - Other,0.0,Encuesta de Hogares de Propositis Multiples - EHPM09
+El Salvador,SV,SLV,222,Rural,13,Composting toilets,0.148,Encuesta de Hogares de Propositis Multiples - EHPM09
+El Salvador,SV,SLV,222,Rural,14,Other improved,0.0,Encuesta de Hogares de Propositis Multiples - EHPM09
+El Salvador,SV,SLV,222,Rural,15,"No facility, bush, field",0.114,Encuesta de Hogares de Propositis Multiples - EHPM09
+El Salvador,SV,SLV,222,Rural,16,Other unimproved,0.0,Encuesta de Hogares de Propositis Multiples - EHPM09
+El Salvador,SV,SLV,222,Rural,17,DK/missing information,0.0,Encuesta de Hogares de Propositis Multiples - EHPM09
+El Salvador,SV,SLV,222,Urban,1,Flush and pour flush - to piped sewer system,0.558,Encuesta de Hogares de Propositis Multiples - EHPM10
+El Salvador,SV,SLV,222,Urban,2,Flush and pour flush - to septic tank,0.112,Encuesta de Hogares de Propositis Multiples - EHPM10
+El Salvador,SV,SLV,222,Urban,3,Flush and pour flush - to pit,0.0,Encuesta de Hogares de Propositis Multiples - EHPM10
+El Salvador,SV,SLV,222,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta de Hogares de Propositis Multiples - EHPM10
+El Salvador,SV,SLV,222,Urban,5,Flush and pour flush - to elsewhere,0.0,Encuesta de Hogares de Propositis Multiples - EHPM10
+El Salvador,SV,SLV,222,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta de Hogares de Propositis Multiples - EHPM10
+El Salvador,SV,SLV,222,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta de Hogares de Propositis Multiples - EHPM10
+El Salvador,SV,SLV,222,Urban,8,Dry latrines - Traditional latrine,0.252,Encuesta de Hogares de Propositis Multiples - EHPM10
+El Salvador,SV,SLV,222,Urban,8,Dry latrines - Traditional latrine,0.205,Encuesta de Hogares de Propositis Multiples - EHPM10
+El Salvador,SV,SLV,222,Urban,8,Dry latrines - Traditional latrine,0.047,Encuesta de Hogares de Propositis Multiples - EHPM10
+El Salvador,SV,SLV,222,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta de Hogares de Propositis Multiples - EHPM10
+El Salvador,SV,SLV,222,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta de Hogares de Propositis Multiples - EHPM10
+El Salvador,SV,SLV,222,Urban,11,Dry latrines - Bucket latrine,0.0,Encuesta de Hogares de Propositis Multiples - EHPM10
+El Salvador,SV,SLV,222,Urban,12,Dry latrines - Other,0.0,Encuesta de Hogares de Propositis Multiples - EHPM10
+El Salvador,SV,SLV,222,Urban,13,Composting toilets,0.026,Encuesta de Hogares de Propositis Multiples - EHPM10
+El Salvador,SV,SLV,222,Urban,14,Other improved,0.0,Encuesta de Hogares de Propositis Multiples - EHPM10
+El Salvador,SV,SLV,222,Urban,15,"No facility, bush, field",0.007,Encuesta de Hogares de Propositis Multiples - EHPM10
+El Salvador,SV,SLV,222,Urban,16,Other unimproved,0.0,Encuesta de Hogares de Propositis Multiples - EHPM10
+El Salvador,SV,SLV,222,Urban,17,DK/missing information,0.0,Encuesta de Hogares de Propositis Multiples - EHPM10
+El Salvador,SV,SLV,222,Rural,1,Flush and pour flush - to piped sewer system,0.008,Encuesta de Hogares de Propositis Multiples - EHPM10
+El Salvador,SV,SLV,222,Rural,2,Flush and pour flush - to septic tank,0.117,Encuesta de Hogares de Propositis Multiples - EHPM10
+El Salvador,SV,SLV,222,Rural,3,Flush and pour flush - to pit,0.0,Encuesta de Hogares de Propositis Multiples - EHPM10
+El Salvador,SV,SLV,222,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta de Hogares de Propositis Multiples - EHPM10
+El Salvador,SV,SLV,222,Rural,5,Flush and pour flush - to elsewhere,0.0,Encuesta de Hogares de Propositis Multiples - EHPM10
+El Salvador,SV,SLV,222,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta de Hogares de Propositis Multiples - EHPM10
+El Salvador,SV,SLV,222,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta de Hogares de Propositis Multiples - EHPM10
+El Salvador,SV,SLV,222,Rural,8,Dry latrines - Traditional latrine,0.604,Encuesta de Hogares de Propositis Multiples - EHPM10
+El Salvador,SV,SLV,222,Rural,8,Dry latrines - Traditional latrine,0.504,Encuesta de Hogares de Propositis Multiples - EHPM10
+El Salvador,SV,SLV,222,Rural,8,Dry latrines - Traditional latrine,0.099,Encuesta de Hogares de Propositis Multiples - EHPM10
+El Salvador,SV,SLV,222,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta de Hogares de Propositis Multiples - EHPM10
+El Salvador,SV,SLV,222,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta de Hogares de Propositis Multiples - EHPM10
+El Salvador,SV,SLV,222,Rural,11,Dry latrines - Bucket latrine,0.0,Encuesta de Hogares de Propositis Multiples - EHPM10
+El Salvador,SV,SLV,222,Rural,12,Dry latrines - Other,0.0,Encuesta de Hogares de Propositis Multiples - EHPM10
+El Salvador,SV,SLV,222,Rural,13,Composting toilets,0.158,Encuesta de Hogares de Propositis Multiples - EHPM10
+El Salvador,SV,SLV,222,Rural,14,Other improved,0.0,Encuesta de Hogares de Propositis Multiples - EHPM10
+El Salvador,SV,SLV,222,Rural,15,"No facility, bush, field",0.104,Encuesta de Hogares de Propositis Multiples - EHPM10
+El Salvador,SV,SLV,222,Rural,16,Other unimproved,0.0,Encuesta de Hogares de Propositis Multiples - EHPM10
+El Salvador,SV,SLV,222,Rural,17,DK/missing information,0.0,Encuesta de Hogares de Propositis Multiples - EHPM10
+El Salvador,SV,SLV,222,Urban,1,Flush and pour flush - to piped sewer system,0.588,Encuesta de Hogares de Propósitos Múltiples (EHPM) - EHPM11
+El Salvador,SV,SLV,222,Urban,2,Flush and pour flush - to septic tank,0.133,Encuesta de Hogares de Propósitos Múltiples (EHPM) - EHPM11
+El Salvador,SV,SLV,222,Urban,3,Flush and pour flush - to pit,0.0,Encuesta de Hogares de Propósitos Múltiples (EHPM) - EHPM11
+El Salvador,SV,SLV,222,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta de Hogares de Propósitos Múltiples (EHPM) - EHPM11
+El Salvador,SV,SLV,222,Urban,5,Flush and pour flush - to elsewhere,0.0,Encuesta de Hogares de Propósitos Múltiples (EHPM) - EHPM11
+El Salvador,SV,SLV,222,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta de Hogares de Propósitos Múltiples (EHPM) - EHPM11
+El Salvador,SV,SLV,222,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta de Hogares de Propósitos Múltiples (EHPM) - EHPM11
+El Salvador,SV,SLV,222,Urban,8,Dry latrines - Traditional latrine,0.247,Encuesta de Hogares de Propósitos Múltiples (EHPM) - EHPM11
+El Salvador,SV,SLV,222,Urban,8,Dry latrines - Traditional latrine,0.204,Encuesta de Hogares de Propósitos Múltiples (EHPM) - EHPM11
+El Salvador,SV,SLV,222,Urban,8,Dry latrines - Traditional latrine,0.043,Encuesta de Hogares de Propósitos Múltiples (EHPM) - EHPM11
+El Salvador,SV,SLV,222,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta de Hogares de Propósitos Múltiples (EHPM) - EHPM11
+El Salvador,SV,SLV,222,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta de Hogares de Propósitos Múltiples (EHPM) - EHPM11
+El Salvador,SV,SLV,222,Urban,11,Dry latrines - Bucket latrine,0.0,Encuesta de Hogares de Propósitos Múltiples (EHPM) - EHPM11
+El Salvador,SV,SLV,222,Urban,12,Dry latrines - Other,0.0,Encuesta de Hogares de Propósitos Múltiples (EHPM) - EHPM11
+El Salvador,SV,SLV,222,Urban,13,Composting toilets,0.027,Encuesta de Hogares de Propósitos Múltiples (EHPM) - EHPM11
+El Salvador,SV,SLV,222,Urban,14,Other improved,0.0,Encuesta de Hogares de Propósitos Múltiples (EHPM) - EHPM11
+El Salvador,SV,SLV,222,Urban,15,"No facility, bush, field",0.006,Encuesta de Hogares de Propósitos Múltiples (EHPM) - EHPM11
+El Salvador,SV,SLV,222,Urban,16,Other unimproved,0.0,Encuesta de Hogares de Propósitos Múltiples (EHPM) - EHPM11
+El Salvador,SV,SLV,222,Urban,17,DK/missing information,0.0,Encuesta de Hogares de Propósitos Múltiples (EHPM) - EHPM11
+El Salvador,SV,SLV,222,Rural,1,Flush and pour flush - to piped sewer system,0.006,Encuesta de Hogares de Propósitos Múltiples (EHPM) - EHPM11
+El Salvador,SV,SLV,222,Rural,2,Flush and pour flush - to septic tank,0.13,Encuesta de Hogares de Propósitos Múltiples (EHPM) - EHPM11
+El Salvador,SV,SLV,222,Rural,3,Flush and pour flush - to pit,0.0,Encuesta de Hogares de Propósitos Múltiples (EHPM) - EHPM11
+El Salvador,SV,SLV,222,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta de Hogares de Propósitos Múltiples (EHPM) - EHPM11
+El Salvador,SV,SLV,222,Rural,5,Flush and pour flush - to elsewhere,0.0,Encuesta de Hogares de Propósitos Múltiples (EHPM) - EHPM11
+El Salvador,SV,SLV,222,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta de Hogares de Propósitos Múltiples (EHPM) - EHPM11
+El Salvador,SV,SLV,222,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta de Hogares de Propósitos Múltiples (EHPM) - EHPM11
+El Salvador,SV,SLV,222,Rural,8,Dry latrines - Traditional latrine,0.6,Encuesta de Hogares de Propósitos Múltiples (EHPM) - EHPM11
+El Salvador,SV,SLV,222,Rural,8,Dry latrines - Traditional latrine,0.501,Encuesta de Hogares de Propósitos Múltiples (EHPM) - EHPM11
+El Salvador,SV,SLV,222,Rural,8,Dry latrines - Traditional latrine,0.099,Encuesta de Hogares de Propósitos Múltiples (EHPM) - EHPM11
+El Salvador,SV,SLV,222,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta de Hogares de Propósitos Múltiples (EHPM) - EHPM11
+El Salvador,SV,SLV,222,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta de Hogares de Propósitos Múltiples (EHPM) - EHPM11
+El Salvador,SV,SLV,222,Rural,11,Dry latrines - Bucket latrine,0.0,Encuesta de Hogares de Propósitos Múltiples (EHPM) - EHPM11
+El Salvador,SV,SLV,222,Rural,12,Dry latrines - Other,0.0,Encuesta de Hogares de Propósitos Múltiples (EHPM) - EHPM11
+El Salvador,SV,SLV,222,Rural,13,Composting toilets,0.168,Encuesta de Hogares de Propósitos Múltiples (EHPM) - EHPM11
+El Salvador,SV,SLV,222,Rural,14,Other improved,0.0,Encuesta de Hogares de Propósitos Múltiples (EHPM) - EHPM11
+El Salvador,SV,SLV,222,Rural,15,"No facility, bush, field",0.094,Encuesta de Hogares de Propósitos Múltiples (EHPM) - EHPM11
+El Salvador,SV,SLV,222,Rural,16,Other unimproved,0.0,Encuesta de Hogares de Propósitos Múltiples (EHPM) - EHPM11
+El Salvador,SV,SLV,222,Rural,17,DK/missing information,0.0,Encuesta de Hogares de Propósitos Múltiples (EHPM) - EHPM11
+El Salvador,SV,SLV,222,Urban,1,Flush and pour flush - to piped sewer system,0.566,Encuesta de Hogares de Propositis Multiples - EHPM12
+El Salvador,SV,SLV,222,Urban,2,Flush and pour flush - to septic tank,0.124,Encuesta de Hogares de Propositis Multiples - EHPM12
+El Salvador,SV,SLV,222,Urban,3,Flush and pour flush - to pit,0.0,Encuesta de Hogares de Propositis Multiples - EHPM12
+El Salvador,SV,SLV,222,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta de Hogares de Propositis Multiples - EHPM12
+El Salvador,SV,SLV,222,Urban,5,Flush and pour flush - to elsewhere,0.0,Encuesta de Hogares de Propositis Multiples - EHPM12
+El Salvador,SV,SLV,222,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta de Hogares de Propositis Multiples - EHPM12
+El Salvador,SV,SLV,222,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta de Hogares de Propositis Multiples - EHPM12
+El Salvador,SV,SLV,222,Urban,8,Dry latrines - Traditional latrine,0.236,Encuesta de Hogares de Propositis Multiples - EHPM12
+El Salvador,SV,SLV,222,Urban,8,Dry latrines - Traditional latrine,0.201,Encuesta de Hogares de Propositis Multiples - EHPM12
+El Salvador,SV,SLV,222,Urban,8,Dry latrines - Traditional latrine,0.035,Encuesta de Hogares de Propositis Multiples - EHPM12
+El Salvador,SV,SLV,222,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta de Hogares de Propositis Multiples - EHPM12
+El Salvador,SV,SLV,222,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta de Hogares de Propositis Multiples - EHPM12
+El Salvador,SV,SLV,222,Urban,11,Dry latrines - Bucket latrine,0.0,Encuesta de Hogares de Propositis Multiples - EHPM12
+El Salvador,SV,SLV,222,Urban,12,Dry latrines - Other,0.0,Encuesta de Hogares de Propositis Multiples - EHPM12
+El Salvador,SV,SLV,222,Urban,13,Composting toilets,0.024,Encuesta de Hogares de Propositis Multiples - EHPM12
+El Salvador,SV,SLV,222,Urban,14,Other improved,0.0,Encuesta de Hogares de Propositis Multiples - EHPM12
+El Salvador,SV,SLV,222,Urban,15,"No facility, bush, field",0.006,Encuesta de Hogares de Propositis Multiples - EHPM12
+El Salvador,SV,SLV,222,Urban,16,Other unimproved,0.0,Encuesta de Hogares de Propositis Multiples - EHPM12
+El Salvador,SV,SLV,222,Urban,17,DK/missing information,0.0,Encuesta de Hogares de Propositis Multiples - EHPM12
+El Salvador,SV,SLV,222,Rural,1,Flush and pour flush - to piped sewer system,0.008,Encuesta de Hogares de Propositis Multiples - EHPM12
+El Salvador,SV,SLV,222,Rural,2,Flush and pour flush - to septic tank,0.137,Encuesta de Hogares de Propositis Multiples - EHPM12
+El Salvador,SV,SLV,222,Rural,3,Flush and pour flush - to pit,0.0,Encuesta de Hogares de Propositis Multiples - EHPM12
+El Salvador,SV,SLV,222,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta de Hogares de Propositis Multiples - EHPM12
+El Salvador,SV,SLV,222,Rural,5,Flush and pour flush - to elsewhere,0.0,Encuesta de Hogares de Propositis Multiples - EHPM12
+El Salvador,SV,SLV,222,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta de Hogares de Propositis Multiples - EHPM12
+El Salvador,SV,SLV,222,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta de Hogares de Propositis Multiples - EHPM12
+El Salvador,SV,SLV,222,Rural,8,Dry latrines - Traditional latrine,0.589,Encuesta de Hogares de Propositis Multiples - EHPM12
+El Salvador,SV,SLV,222,Rural,8,Dry latrines - Traditional latrine,0.5,Encuesta de Hogares de Propositis Multiples - EHPM12
+El Salvador,SV,SLV,222,Rural,8,Dry latrines - Traditional latrine,0.088,Encuesta de Hogares de Propositis Multiples - EHPM12
+El Salvador,SV,SLV,222,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta de Hogares de Propositis Multiples - EHPM12
+El Salvador,SV,SLV,222,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta de Hogares de Propositis Multiples - EHPM12
+El Salvador,SV,SLV,222,Rural,11,Dry latrines - Bucket latrine,0.0,Encuesta de Hogares de Propositis Multiples - EHPM12
+El Salvador,SV,SLV,222,Rural,12,Dry latrines - Other,0.0,Encuesta de Hogares de Propositis Multiples - EHPM12
+El Salvador,SV,SLV,222,Rural,13,Composting toilets,0.164,Encuesta de Hogares de Propositis Multiples - EHPM12
+El Salvador,SV,SLV,222,Rural,14,Other improved,0.0,Encuesta de Hogares de Propositis Multiples - EHPM12
+El Salvador,SV,SLV,222,Rural,15,"No facility, bush, field",0.092,Encuesta de Hogares de Propositis Multiples - EHPM12
+El Salvador,SV,SLV,222,Rural,16,Other unimproved,0.0,Encuesta de Hogares de Propositis Multiples - EHPM12
+El Salvador,SV,SLV,222,Rural,17,DK/missing information,0.0,Encuesta de Hogares de Propositis Multiples - EHPM12
+El Salvador,SV,SLV,222,Urban,1,Flush and pour flush - to piped sewer system,0.556,Encuesta de Hogares de Propositis Multiples - EHPM13
+El Salvador,SV,SLV,222,Urban,2,Flush and pour flush - to septic tank,0.121,Encuesta de Hogares de Propositis Multiples - EHPM13
+El Salvador,SV,SLV,222,Urban,3,Flush and pour flush - to pit,0.0,Encuesta de Hogares de Propositis Multiples - EHPM13
+El Salvador,SV,SLV,222,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta de Hogares de Propositis Multiples - EHPM13
+El Salvador,SV,SLV,222,Urban,5,Flush and pour flush - to elsewhere,0.0,Encuesta de Hogares de Propositis Multiples - EHPM13
+El Salvador,SV,SLV,222,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta de Hogares de Propositis Multiples - EHPM13
+El Salvador,SV,SLV,222,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta de Hogares de Propositis Multiples - EHPM13
+El Salvador,SV,SLV,222,Urban,8,Dry latrines - Traditional latrine,0.239,Encuesta de Hogares de Propositis Multiples - EHPM13
+El Salvador,SV,SLV,222,Urban,8,Dry latrines - Traditional latrine,0.199,Encuesta de Hogares de Propositis Multiples - EHPM13
+El Salvador,SV,SLV,222,Urban,8,Dry latrines - Traditional latrine,0.04,Encuesta de Hogares de Propositis Multiples - EHPM13
+El Salvador,SV,SLV,222,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta de Hogares de Propositis Multiples - EHPM13
+El Salvador,SV,SLV,222,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta de Hogares de Propositis Multiples - EHPM13
+El Salvador,SV,SLV,222,Urban,11,Dry latrines - Bucket latrine,0.0,Encuesta de Hogares de Propositis Multiples - EHPM13
+El Salvador,SV,SLV,222,Urban,12,Dry latrines - Other,0.0,Encuesta de Hogares de Propositis Multiples - EHPM13
+El Salvador,SV,SLV,222,Urban,13,Composting toilets,0.028,Encuesta de Hogares de Propositis Multiples - EHPM13
+El Salvador,SV,SLV,222,Urban,14,Other improved,0.0,Encuesta de Hogares de Propositis Multiples - EHPM13
+El Salvador,SV,SLV,222,Urban,15,"No facility, bush, field",0.006,Encuesta de Hogares de Propositis Multiples - EHPM13
+El Salvador,SV,SLV,222,Urban,16,Other unimproved,0.0,Encuesta de Hogares de Propositis Multiples - EHPM13
+El Salvador,SV,SLV,222,Urban,17,DK/missing information,0.0,Encuesta de Hogares de Propositis Multiples - EHPM13
+El Salvador,SV,SLV,222,Rural,1,Flush and pour flush - to piped sewer system,0.01,Encuesta de Hogares de Propositis Multiples - EHPM13
+El Salvador,SV,SLV,222,Rural,2,Flush and pour flush - to septic tank,0.147,Encuesta de Hogares de Propositis Multiples - EHPM13
+El Salvador,SV,SLV,222,Rural,3,Flush and pour flush - to pit,0.0,Encuesta de Hogares de Propositis Multiples - EHPM13
+El Salvador,SV,SLV,222,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta de Hogares de Propositis Multiples - EHPM13
+El Salvador,SV,SLV,222,Rural,5,Flush and pour flush - to elsewhere,0.0,Encuesta de Hogares de Propositis Multiples - EHPM13
+El Salvador,SV,SLV,222,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta de Hogares de Propositis Multiples - EHPM13
+El Salvador,SV,SLV,222,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta de Hogares de Propositis Multiples - EHPM13
+El Salvador,SV,SLV,222,Rural,8,Dry latrines - Traditional latrine,0.586,Encuesta de Hogares de Propositis Multiples - EHPM13
+El Salvador,SV,SLV,222,Rural,8,Dry latrines - Traditional latrine,0.49,Encuesta de Hogares de Propositis Multiples - EHPM13
+El Salvador,SV,SLV,222,Rural,8,Dry latrines - Traditional latrine,0.096,Encuesta de Hogares de Propositis Multiples - EHPM13
+El Salvador,SV,SLV,222,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta de Hogares de Propositis Multiples - EHPM13
+El Salvador,SV,SLV,222,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta de Hogares de Propositis Multiples - EHPM13
+El Salvador,SV,SLV,222,Rural,11,Dry latrines - Bucket latrine,0.0,Encuesta de Hogares de Propositis Multiples - EHPM13
+El Salvador,SV,SLV,222,Rural,12,Dry latrines - Other,0.0,Encuesta de Hogares de Propositis Multiples - EHPM13
+El Salvador,SV,SLV,222,Rural,13,Composting toilets,0.169,Encuesta de Hogares de Propositis Multiples - EHPM13
+El Salvador,SV,SLV,222,Rural,14,Other improved,0.0,Encuesta de Hogares de Propositis Multiples - EHPM13
+El Salvador,SV,SLV,222,Rural,15,"No facility, bush, field",0.077,Encuesta de Hogares de Propositis Multiples - EHPM13
+El Salvador,SV,SLV,222,Rural,16,Other unimproved,0.0,Encuesta de Hogares de Propositis Multiples - EHPM13
+El Salvador,SV,SLV,222,Rural,17,DK/missing information,0.0,Encuesta de Hogares de Propositis Multiples - EHPM13
+El Salvador,SV,SLV,222,Urban,1,Flush and pour flush - to piped sewer system,0.538,Multiple Indicator Cluster Surveys - MICS14
+El Salvador,SV,SLV,222,Urban,2,Flush and pour flush - to septic tank,0.156,Multiple Indicator Cluster Surveys - MICS14
+El Salvador,SV,SLV,222,Urban,3,Flush and pour flush - to pit,0.075,Multiple Indicator Cluster Surveys - MICS14
+El Salvador,SV,SLV,222,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Surveys - MICS14
+El Salvador,SV,SLV,222,Urban,5,Flush and pour flush - to elsewhere,0.002,Multiple Indicator Cluster Surveys - MICS14
+El Salvador,SV,SLV,222,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.003,Multiple Indicator Cluster Surveys - MICS14
+El Salvador,SV,SLV,222,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.179,Multiple Indicator Cluster Surveys - MICS14
+El Salvador,SV,SLV,222,Urban,8,Dry latrines - Traditional latrine,0.0,Multiple Indicator Cluster Surveys - MICS14
+El Salvador,SV,SLV,222,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.004,Multiple Indicator Cluster Surveys - MICS14
+El Salvador,SV,SLV,222,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Surveys - MICS14
+El Salvador,SV,SLV,222,Urban,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Surveys - MICS14
+El Salvador,SV,SLV,222,Urban,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Surveys - MICS14
+El Salvador,SV,SLV,222,Urban,13,Composting toilets,0.04,Multiple Indicator Cluster Surveys - MICS14
+El Salvador,SV,SLV,222,Urban,14,Other improved,0.0,Multiple Indicator Cluster Surveys - MICS14
+El Salvador,SV,SLV,222,Urban,15,"No facility, bush, field",0.003,Multiple Indicator Cluster Surveys - MICS14
+El Salvador,SV,SLV,222,Urban,16,Other unimproved,0.001,Multiple Indicator Cluster Surveys - MICS14
+El Salvador,SV,SLV,222,Urban,17,DK/missing information,0.0,Multiple Indicator Cluster Surveys - MICS14
+El Salvador,SV,SLV,222,Rural,1,Flush and pour flush - to piped sewer system,0.015,Multiple Indicator Cluster Surveys - MICS14
+El Salvador,SV,SLV,222,Rural,2,Flush and pour flush - to septic tank,0.153,Multiple Indicator Cluster Surveys - MICS14
+El Salvador,SV,SLV,222,Rural,3,Flush and pour flush - to pit,0.188,Multiple Indicator Cluster Surveys - MICS14
+El Salvador,SV,SLV,222,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Surveys - MICS14
+El Salvador,SV,SLV,222,Rural,5,Flush and pour flush - to elsewhere,0.002,Multiple Indicator Cluster Surveys - MICS14
+El Salvador,SV,SLV,222,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.001,Multiple Indicator Cluster Surveys - MICS14
+El Salvador,SV,SLV,222,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.375,Multiple Indicator Cluster Surveys - MICS14
+El Salvador,SV,SLV,222,Rural,8,Dry latrines - Traditional latrine,0.0,Multiple Indicator Cluster Surveys - MICS14
+El Salvador,SV,SLV,222,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.013,Multiple Indicator Cluster Surveys - MICS14
+El Salvador,SV,SLV,222,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Surveys - MICS14
+El Salvador,SV,SLV,222,Rural,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Surveys - MICS14
+El Salvador,SV,SLV,222,Rural,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Surveys - MICS14
+El Salvador,SV,SLV,222,Rural,13,Composting toilets,0.196,Multiple Indicator Cluster Surveys - MICS14
+El Salvador,SV,SLV,222,Rural,14,Other improved,0.0,Multiple Indicator Cluster Surveys - MICS14
+El Salvador,SV,SLV,222,Rural,15,"No facility, bush, field",0.057,Multiple Indicator Cluster Surveys - MICS14
+El Salvador,SV,SLV,222,Rural,16,Other unimproved,0.002,Multiple Indicator Cluster Surveys - MICS14
+El Salvador,SV,SLV,222,Rural,17,DK/missing information,0.001,Multiple Indicator Cluster Surveys - MICS14
+El Salvador,SV,SLV,222,Urban,1,Flush and pour flush - to piped sewer system,0.592,"Encuesta de Hogares de Propositos Multiples, 2014 - EHPM14"
+El Salvador,SV,SLV,222,Urban,2,Flush and pour flush - to septic tank,0.145,"Encuesta de Hogares de Propositos Multiples, 2014 - EHPM14"
+El Salvador,SV,SLV,222,Urban,3,Flush and pour flush - to pit,0.0,"Encuesta de Hogares de Propositos Multiples, 2014 - EHPM14"
+El Salvador,SV,SLV,222,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Encuesta de Hogares de Propositos Multiples, 2014 - EHPM14"
+El Salvador,SV,SLV,222,Urban,5,Flush and pour flush - to elsewhere,0.0,"Encuesta de Hogares de Propositos Multiples, 2014 - EHPM14"
+El Salvador,SV,SLV,222,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Encuesta de Hogares de Propositos Multiples, 2014 - EHPM14"
+El Salvador,SV,SLV,222,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Encuesta de Hogares de Propositos Multiples, 2014 - EHPM14"
+El Salvador,SV,SLV,222,Urban,8,Dry latrines - Traditional latrine,0.236,"Encuesta de Hogares de Propositos Multiples, 2014 - EHPM14"
+El Salvador,SV,SLV,222,Urban,8,Dry latrines - Traditional latrine,0.197,"Encuesta de Hogares de Propositos Multiples, 2014 - EHPM14"
+El Salvador,SV,SLV,222,Urban,8,Dry latrines - Traditional latrine,0.038,"Encuesta de Hogares de Propositos Multiples, 2014 - EHPM14"
+El Salvador,SV,SLV,222,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Encuesta de Hogares de Propositos Multiples, 2014 - EHPM14"
+El Salvador,SV,SLV,222,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Encuesta de Hogares de Propositos Multiples, 2014 - EHPM14"
+El Salvador,SV,SLV,222,Urban,11,Dry latrines - Bucket latrine,0.0,"Encuesta de Hogares de Propositos Multiples, 2014 - EHPM14"
+El Salvador,SV,SLV,222,Urban,12,Dry latrines - Other,0.0,"Encuesta de Hogares de Propositos Multiples, 2014 - EHPM14"
+El Salvador,SV,SLV,222,Urban,13,Composting toilets,0.023,"Encuesta de Hogares de Propositos Multiples, 2014 - EHPM14"
+El Salvador,SV,SLV,222,Urban,14,Other improved,0.0,"Encuesta de Hogares de Propositos Multiples, 2014 - EHPM14"
+El Salvador,SV,SLV,222,Urban,15,"No facility, bush, field",0.004,"Encuesta de Hogares de Propositos Multiples, 2014 - EHPM14"
+El Salvador,SV,SLV,222,Urban,16,Other unimproved,0.0,"Encuesta de Hogares de Propositos Multiples, 2014 - EHPM14"
+El Salvador,SV,SLV,222,Urban,17,DK/missing information,0.0,"Encuesta de Hogares de Propositos Multiples, 2014 - EHPM14"
+El Salvador,SV,SLV,222,Rural,1,Flush and pour flush - to piped sewer system,0.01,"Encuesta de Hogares de Propositos Multiples, 2014 - EHPM14"
+El Salvador,SV,SLV,222,Rural,2,Flush and pour flush - to septic tank,0.16,"Encuesta de Hogares de Propositos Multiples, 2014 - EHPM14"
+El Salvador,SV,SLV,222,Rural,3,Flush and pour flush - to pit,0.0,"Encuesta de Hogares de Propositos Multiples, 2014 - EHPM14"
+El Salvador,SV,SLV,222,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Encuesta de Hogares de Propositos Multiples, 2014 - EHPM14"
+El Salvador,SV,SLV,222,Rural,5,Flush and pour flush - to elsewhere,0.0,"Encuesta de Hogares de Propositos Multiples, 2014 - EHPM14"
+El Salvador,SV,SLV,222,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Encuesta de Hogares de Propositos Multiples, 2014 - EHPM14"
+El Salvador,SV,SLV,222,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Encuesta de Hogares de Propositos Multiples, 2014 - EHPM14"
+El Salvador,SV,SLV,222,Rural,8,Dry latrines - Traditional latrine,0.611,"Encuesta de Hogares de Propositos Multiples, 2014 - EHPM14"
+El Salvador,SV,SLV,222,Rural,8,Dry latrines - Traditional latrine,0.512,"Encuesta de Hogares de Propositos Multiples, 2014 - EHPM14"
+El Salvador,SV,SLV,222,Rural,8,Dry latrines - Traditional latrine,0.099,"Encuesta de Hogares de Propositos Multiples, 2014 - EHPM14"
+El Salvador,SV,SLV,222,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Encuesta de Hogares de Propositos Multiples, 2014 - EHPM14"
+El Salvador,SV,SLV,222,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Encuesta de Hogares de Propositos Multiples, 2014 - EHPM14"
+El Salvador,SV,SLV,222,Rural,11,Dry latrines - Bucket latrine,0.0,"Encuesta de Hogares de Propositos Multiples, 2014 - EHPM14"
+El Salvador,SV,SLV,222,Rural,12,Dry latrines - Other,0.0,"Encuesta de Hogares de Propositos Multiples, 2014 - EHPM14"
+El Salvador,SV,SLV,222,Rural,13,Composting toilets,0.156,"Encuesta de Hogares de Propositos Multiples, 2014 - EHPM14"
+El Salvador,SV,SLV,222,Rural,14,Other improved,0.0,"Encuesta de Hogares de Propositos Multiples, 2014 - EHPM14"
+El Salvador,SV,SLV,222,Rural,15,"No facility, bush, field",0.064,"Encuesta de Hogares de Propositos Multiples, 2014 - EHPM14"
+El Salvador,SV,SLV,222,Rural,16,Other unimproved,0.0,"Encuesta de Hogares de Propositos Multiples, 2014 - EHPM14"
+El Salvador,SV,SLV,222,Rural,17,DK/missing information,0.0,"Encuesta de Hogares de Propositos Multiples, 2014 - EHPM14"
+El Salvador,SV,SLV,222,Urban,1,Flush and pour flush - to piped sewer system,0.592,"Encuesta de Hogares de Propositos Multiples, 2015 - EHPM15"
+El Salvador,SV,SLV,222,Urban,2,Flush and pour flush - to septic tank,0.155,"Encuesta de Hogares de Propositos Multiples, 2015 - EHPM15"
+El Salvador,SV,SLV,222,Urban,3,Flush and pour flush - to pit,0.0,"Encuesta de Hogares de Propositos Multiples, 2015 - EHPM15"
+El Salvador,SV,SLV,222,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Encuesta de Hogares de Propositos Multiples, 2015 - EHPM15"
+El Salvador,SV,SLV,222,Urban,5,Flush and pour flush - to elsewhere,0.0,"Encuesta de Hogares de Propositos Multiples, 2015 - EHPM15"
+El Salvador,SV,SLV,222,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Encuesta de Hogares de Propositos Multiples, 2015 - EHPM15"
+El Salvador,SV,SLV,222,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Encuesta de Hogares de Propositos Multiples, 2015 - EHPM15"
+El Salvador,SV,SLV,222,Urban,8,Dry latrines - Traditional latrine,0.221,"Encuesta de Hogares de Propositos Multiples, 2015 - EHPM15"
+El Salvador,SV,SLV,222,Urban,8,Dry latrines - Traditional latrine,0.185,"Encuesta de Hogares de Propositos Multiples, 2015 - EHPM15"
+El Salvador,SV,SLV,222,Urban,8,Dry latrines - Traditional latrine,0.036,"Encuesta de Hogares de Propositos Multiples, 2015 - EHPM15"
+El Salvador,SV,SLV,222,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Encuesta de Hogares de Propositos Multiples, 2015 - EHPM15"
+El Salvador,SV,SLV,222,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Encuesta de Hogares de Propositos Multiples, 2015 - EHPM15"
+El Salvador,SV,SLV,222,Urban,11,Dry latrines - Bucket latrine,0.0,"Encuesta de Hogares de Propositos Multiples, 2015 - EHPM15"
+El Salvador,SV,SLV,222,Urban,12,Dry latrines - Other,0.0,"Encuesta de Hogares de Propositos Multiples, 2015 - EHPM15"
+El Salvador,SV,SLV,222,Urban,13,Composting toilets,0.027,"Encuesta de Hogares de Propositos Multiples, 2015 - EHPM15"
+El Salvador,SV,SLV,222,Urban,14,Other improved,0.0,"Encuesta de Hogares de Propositos Multiples, 2015 - EHPM15"
+El Salvador,SV,SLV,222,Urban,15,"No facility, bush, field",0.004,"Encuesta de Hogares de Propositos Multiples, 2015 - EHPM15"
+El Salvador,SV,SLV,222,Urban,16,Other unimproved,0.0,"Encuesta de Hogares de Propositos Multiples, 2015 - EHPM15"
+El Salvador,SV,SLV,222,Urban,17,DK/missing information,0.0,"Encuesta de Hogares de Propositos Multiples, 2015 - EHPM15"
+El Salvador,SV,SLV,222,Rural,1,Flush and pour flush - to piped sewer system,0.011,"Encuesta de Hogares de Propositos Multiples, 2015 - EHPM15"
+El Salvador,SV,SLV,222,Rural,2,Flush and pour flush - to septic tank,0.171,"Encuesta de Hogares de Propositos Multiples, 2015 - EHPM15"
+El Salvador,SV,SLV,222,Rural,3,Flush and pour flush - to pit,0.0,"Encuesta de Hogares de Propositos Multiples, 2015 - EHPM15"
+El Salvador,SV,SLV,222,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Encuesta de Hogares de Propositos Multiples, 2015 - EHPM15"
+El Salvador,SV,SLV,222,Rural,5,Flush and pour flush - to elsewhere,0.0,"Encuesta de Hogares de Propositos Multiples, 2015 - EHPM15"
+El Salvador,SV,SLV,222,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Encuesta de Hogares de Propositos Multiples, 2015 - EHPM15"
+El Salvador,SV,SLV,222,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Encuesta de Hogares de Propositos Multiples, 2015 - EHPM15"
+El Salvador,SV,SLV,222,Rural,8,Dry latrines - Traditional latrine,0.603,"Encuesta de Hogares de Propositos Multiples, 2015 - EHPM15"
+El Salvador,SV,SLV,222,Rural,8,Dry latrines - Traditional latrine,0.506,"Encuesta de Hogares de Propositos Multiples, 2015 - EHPM15"
+El Salvador,SV,SLV,222,Rural,8,Dry latrines - Traditional latrine,0.098,"Encuesta de Hogares de Propositos Multiples, 2015 - EHPM15"
+El Salvador,SV,SLV,222,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Encuesta de Hogares de Propositos Multiples, 2015 - EHPM15"
+El Salvador,SV,SLV,222,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Encuesta de Hogares de Propositos Multiples, 2015 - EHPM15"
+El Salvador,SV,SLV,222,Rural,11,Dry latrines - Bucket latrine,0.0,"Encuesta de Hogares de Propositos Multiples, 2015 - EHPM15"
+El Salvador,SV,SLV,222,Rural,12,Dry latrines - Other,0.0,"Encuesta de Hogares de Propositos Multiples, 2015 - EHPM15"
+El Salvador,SV,SLV,222,Rural,13,Composting toilets,0.154,"Encuesta de Hogares de Propositos Multiples, 2015 - EHPM15"
+El Salvador,SV,SLV,222,Rural,14,Other improved,0.0,"Encuesta de Hogares de Propositos Multiples, 2015 - EHPM15"
+El Salvador,SV,SLV,222,Rural,15,"No facility, bush, field",0.062,"Encuesta de Hogares de Propositos Multiples, 2015 - EHPM15"
+El Salvador,SV,SLV,222,Rural,16,Other unimproved,0.0,"Encuesta de Hogares de Propositos Multiples, 2015 - EHPM15"
+El Salvador,SV,SLV,222,Rural,17,DK/missing information,0.0,"Encuesta de Hogares de Propositos Multiples, 2015 - EHPM15"
+El Salvador,SV,SLV,222,Urban,1,Flush and pour flush - to piped sewer system,0.595,"Encuesta de Hogares de Propositos Multiples, 2016 - EHPM16"
+El Salvador,SV,SLV,222,Urban,2,Flush and pour flush - to septic tank,0.168,"Encuesta de Hogares de Propositos Multiples, 2016 - EHPM16"
+El Salvador,SV,SLV,222,Urban,3,Flush and pour flush - to pit,0.0,"Encuesta de Hogares de Propositos Multiples, 2016 - EHPM16"
+El Salvador,SV,SLV,222,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Encuesta de Hogares de Propositos Multiples, 2016 - EHPM16"
+El Salvador,SV,SLV,222,Urban,5,Flush and pour flush - to elsewhere,0.0,"Encuesta de Hogares de Propositos Multiples, 2016 - EHPM16"
+El Salvador,SV,SLV,222,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Encuesta de Hogares de Propositos Multiples, 2016 - EHPM16"
+El Salvador,SV,SLV,222,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Encuesta de Hogares de Propositos Multiples, 2016 - EHPM16"
+El Salvador,SV,SLV,222,Urban,8,Dry latrines - Traditional latrine,0.206,"Encuesta de Hogares de Propositos Multiples, 2016 - EHPM16"
+El Salvador,SV,SLV,222,Urban,8,Dry latrines - Traditional latrine,0.177,"Encuesta de Hogares de Propositos Multiples, 2016 - EHPM16"
+El Salvador,SV,SLV,222,Urban,8,Dry latrines - Traditional latrine,0.028,"Encuesta de Hogares de Propositos Multiples, 2016 - EHPM16"
+El Salvador,SV,SLV,222,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Encuesta de Hogares de Propositos Multiples, 2016 - EHPM16"
+El Salvador,SV,SLV,222,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Encuesta de Hogares de Propositos Multiples, 2016 - EHPM16"
+El Salvador,SV,SLV,222,Urban,11,Dry latrines - Bucket latrine,0.0,"Encuesta de Hogares de Propositos Multiples, 2016 - EHPM16"
+El Salvador,SV,SLV,222,Urban,12,Dry latrines - Other,0.0,"Encuesta de Hogares de Propositos Multiples, 2016 - EHPM16"
+El Salvador,SV,SLV,222,Urban,13,Composting toilets,0.027,"Encuesta de Hogares de Propositos Multiples, 2016 - EHPM16"
+El Salvador,SV,SLV,222,Urban,14,Other improved,0.0,"Encuesta de Hogares de Propositos Multiples, 2016 - EHPM16"
+El Salvador,SV,SLV,222,Urban,15,"No facility, bush, field",0.005,"Encuesta de Hogares de Propositos Multiples, 2016 - EHPM16"
+El Salvador,SV,SLV,222,Urban,16,Other unimproved,0.0,"Encuesta de Hogares de Propositos Multiples, 2016 - EHPM16"
+El Salvador,SV,SLV,222,Urban,17,DK/missing information,0.0,"Encuesta de Hogares de Propositos Multiples, 2016 - EHPM16"
+El Salvador,SV,SLV,222,Rural,1,Flush and pour flush - to piped sewer system,0.011,"Encuesta de Hogares de Propositos Multiples, 2016 - EHPM16"
+El Salvador,SV,SLV,222,Rural,2,Flush and pour flush - to septic tank,0.187,"Encuesta de Hogares de Propositos Multiples, 2016 - EHPM16"
+El Salvador,SV,SLV,222,Rural,3,Flush and pour flush - to pit,0.0,"Encuesta de Hogares de Propositos Multiples, 2016 - EHPM16"
+El Salvador,SV,SLV,222,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Encuesta de Hogares de Propositos Multiples, 2016 - EHPM16"
+El Salvador,SV,SLV,222,Rural,5,Flush and pour flush - to elsewhere,0.0,"Encuesta de Hogares de Propositos Multiples, 2016 - EHPM16"
+El Salvador,SV,SLV,222,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Encuesta de Hogares de Propositos Multiples, 2016 - EHPM16"
+El Salvador,SV,SLV,222,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Encuesta de Hogares de Propositos Multiples, 2016 - EHPM16"
+El Salvador,SV,SLV,222,Rural,8,Dry latrines - Traditional latrine,0.592,"Encuesta de Hogares de Propositos Multiples, 2016 - EHPM16"
+El Salvador,SV,SLV,222,Rural,8,Dry latrines - Traditional latrine,0.496,"Encuesta de Hogares de Propositos Multiples, 2016 - EHPM16"
+El Salvador,SV,SLV,222,Rural,8,Dry latrines - Traditional latrine,0.097,"Encuesta de Hogares de Propositos Multiples, 2016 - EHPM16"
+El Salvador,SV,SLV,222,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Encuesta de Hogares de Propositos Multiples, 2016 - EHPM16"
+El Salvador,SV,SLV,222,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Encuesta de Hogares de Propositos Multiples, 2016 - EHPM16"
+El Salvador,SV,SLV,222,Rural,11,Dry latrines - Bucket latrine,0.0,"Encuesta de Hogares de Propositos Multiples, 2016 - EHPM16"
+El Salvador,SV,SLV,222,Rural,12,Dry latrines - Other,0.0,"Encuesta de Hogares de Propositos Multiples, 2016 - EHPM16"
+El Salvador,SV,SLV,222,Rural,13,Composting toilets,0.155,"Encuesta de Hogares de Propositos Multiples, 2016 - EHPM16"
+El Salvador,SV,SLV,222,Rural,14,Other improved,0.0,"Encuesta de Hogares de Propositos Multiples, 2016 - EHPM16"
+El Salvador,SV,SLV,222,Rural,15,"No facility, bush, field",0.054,"Encuesta de Hogares de Propositos Multiples, 2016 - EHPM16"
+El Salvador,SV,SLV,222,Rural,16,Other unimproved,0.0,"Encuesta de Hogares de Propositos Multiples, 2016 - EHPM16"
+El Salvador,SV,SLV,222,Rural,17,DK/missing information,0.0,"Encuesta de Hogares de Propositos Multiples, 2016 - EHPM16"
+El Salvador,SV,SLV,222,Urban,1,Flush and pour flush - to piped sewer system,0.569,"Encuesta de Hogares de Propositos Multiples, 2017 - EHPM17"
+El Salvador,SV,SLV,222,Urban,2,Flush and pour flush - to septic tank,0.181,"Encuesta de Hogares de Propositos Multiples, 2017 - EHPM17"
+El Salvador,SV,SLV,222,Urban,3,Flush and pour flush - to pit,0.0,"Encuesta de Hogares de Propositos Multiples, 2017 - EHPM17"
+El Salvador,SV,SLV,222,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Encuesta de Hogares de Propositos Multiples, 2017 - EHPM17"
+El Salvador,SV,SLV,222,Urban,5,Flush and pour flush - to elsewhere,0.0,"Encuesta de Hogares de Propositos Multiples, 2017 - EHPM17"
+El Salvador,SV,SLV,222,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Encuesta de Hogares de Propositos Multiples, 2017 - EHPM17"
+El Salvador,SV,SLV,222,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Encuesta de Hogares de Propositos Multiples, 2017 - EHPM17"
+El Salvador,SV,SLV,222,Urban,8,Dry latrines - Traditional latrine,0.22,"Encuesta de Hogares de Propositos Multiples, 2017 - EHPM17"
+El Salvador,SV,SLV,222,Urban,8,Dry latrines - Traditional latrine,0.188,"Encuesta de Hogares de Propositos Multiples, 2017 - EHPM17"
+El Salvador,SV,SLV,222,Urban,8,Dry latrines - Traditional latrine,0.033,"Encuesta de Hogares de Propositos Multiples, 2017 - EHPM17"
+El Salvador,SV,SLV,222,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Encuesta de Hogares de Propositos Multiples, 2017 - EHPM17"
+El Salvador,SV,SLV,222,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Encuesta de Hogares de Propositos Multiples, 2017 - EHPM17"
+El Salvador,SV,SLV,222,Urban,11,Dry latrines - Bucket latrine,0.0,"Encuesta de Hogares de Propositos Multiples, 2017 - EHPM17"
+El Salvador,SV,SLV,222,Urban,12,Dry latrines - Other,0.0,"Encuesta de Hogares de Propositos Multiples, 2017 - EHPM17"
+El Salvador,SV,SLV,222,Urban,13,Composting toilets,0.026,"Encuesta de Hogares de Propositos Multiples, 2017 - EHPM17"
+El Salvador,SV,SLV,222,Urban,14,Other improved,0.0,"Encuesta de Hogares de Propositos Multiples, 2017 - EHPM17"
+El Salvador,SV,SLV,222,Urban,15,"No facility, bush, field",0.003,"Encuesta de Hogares de Propositos Multiples, 2017 - EHPM17"
+El Salvador,SV,SLV,222,Urban,16,Other unimproved,0.0,"Encuesta de Hogares de Propositos Multiples, 2017 - EHPM17"
+El Salvador,SV,SLV,222,Urban,17,DK/missing information,0.0,"Encuesta de Hogares de Propositos Multiples, 2017 - EHPM17"
+El Salvador,SV,SLV,222,Rural,1,Flush and pour flush - to piped sewer system,0.012,"Encuesta de Hogares de Propositos Multiples, 2017 - EHPM17"
+El Salvador,SV,SLV,222,Rural,2,Flush and pour flush - to septic tank,0.204,"Encuesta de Hogares de Propositos Multiples, 2017 - EHPM17"
+El Salvador,SV,SLV,222,Rural,3,Flush and pour flush - to pit,0.0,"Encuesta de Hogares de Propositos Multiples, 2017 - EHPM17"
+El Salvador,SV,SLV,222,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Encuesta de Hogares de Propositos Multiples, 2017 - EHPM17"
+El Salvador,SV,SLV,222,Rural,5,Flush and pour flush - to elsewhere,0.0,"Encuesta de Hogares de Propositos Multiples, 2017 - EHPM17"
+El Salvador,SV,SLV,222,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Encuesta de Hogares de Propositos Multiples, 2017 - EHPM17"
+El Salvador,SV,SLV,222,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Encuesta de Hogares de Propositos Multiples, 2017 - EHPM17"
+El Salvador,SV,SLV,222,Rural,8,Dry latrines - Traditional latrine,0.581,"Encuesta de Hogares de Propositos Multiples, 2017 - EHPM17"
+El Salvador,SV,SLV,222,Rural,8,Dry latrines - Traditional latrine,0.49,"Encuesta de Hogares de Propositos Multiples, 2017 - EHPM17"
+El Salvador,SV,SLV,222,Rural,8,Dry latrines - Traditional latrine,0.091,"Encuesta de Hogares de Propositos Multiples, 2017 - EHPM17"
+El Salvador,SV,SLV,222,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Encuesta de Hogares de Propositos Multiples, 2017 - EHPM17"
+El Salvador,SV,SLV,222,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Encuesta de Hogares de Propositos Multiples, 2017 - EHPM17"
+El Salvador,SV,SLV,222,Rural,11,Dry latrines - Bucket latrine,0.0,"Encuesta de Hogares de Propositos Multiples, 2017 - EHPM17"
+El Salvador,SV,SLV,222,Rural,12,Dry latrines - Other,0.0,"Encuesta de Hogares de Propositos Multiples, 2017 - EHPM17"
+El Salvador,SV,SLV,222,Rural,13,Composting toilets,0.151,"Encuesta de Hogares de Propositos Multiples, 2017 - EHPM17"
+El Salvador,SV,SLV,222,Rural,14,Other improved,0.0,"Encuesta de Hogares de Propositos Multiples, 2017 - EHPM17"
+El Salvador,SV,SLV,222,Rural,15,"No facility, bush, field",0.051,"Encuesta de Hogares de Propositos Multiples, 2017 - EHPM17"
+El Salvador,SV,SLV,222,Rural,16,Other unimproved,0.0,"Encuesta de Hogares de Propositos Multiples, 2017 - EHPM17"
+El Salvador,SV,SLV,222,Rural,17,DK/missing information,0.0,"Encuesta de Hogares de Propositos Multiples, 2017 - EHPM17"

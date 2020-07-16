@@ -1,0 +1,477 @@
+country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+Uruguay,UY,URY,858,Urban,1,Flush and pour flush - to piped sewer system,0.598,"Encuesta Nacional de Hogares Ampliada, Primer trimestre de 2006 - ENH06"
+Uruguay,UY,URY,858,Urban,2,Flush and pour flush - to septic tank,0.384,"Encuesta Nacional de Hogares Ampliada, Primer trimestre de 2006 - ENH06"
+Uruguay,UY,URY,858,Urban,3,Flush and pour flush - to pit,0.0,"Encuesta Nacional de Hogares Ampliada, Primer trimestre de 2006 - ENH06"
+Uruguay,UY,URY,858,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Encuesta Nacional de Hogares Ampliada, Primer trimestre de 2006 - ENH06"
+Uruguay,UY,URY,858,Urban,5,Flush and pour flush - to elsewhere,0.005,"Encuesta Nacional de Hogares Ampliada, Primer trimestre de 2006 - ENH06"
+Uruguay,UY,URY,858,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Encuesta Nacional de Hogares Ampliada, Primer trimestre de 2006 - ENH06"
+Uruguay,UY,URY,858,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Encuesta Nacional de Hogares Ampliada, Primer trimestre de 2006 - ENH06"
+Uruguay,UY,URY,858,Urban,8,Dry latrines - Traditional latrine,0.0,"Encuesta Nacional de Hogares Ampliada, Primer trimestre de 2006 - ENH06"
+Uruguay,UY,URY,858,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Encuesta Nacional de Hogares Ampliada, Primer trimestre de 2006 - ENH06"
+Uruguay,UY,URY,858,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Encuesta Nacional de Hogares Ampliada, Primer trimestre de 2006 - ENH06"
+Uruguay,UY,URY,858,Urban,11,Dry latrines - Bucket latrine,0.0,"Encuesta Nacional de Hogares Ampliada, Primer trimestre de 2006 - ENH06"
+Uruguay,UY,URY,858,Urban,12,Dry latrines - Other,0.0,"Encuesta Nacional de Hogares Ampliada, Primer trimestre de 2006 - ENH06"
+Uruguay,UY,URY,858,Urban,13,Composting toilets,0.0,"Encuesta Nacional de Hogares Ampliada, Primer trimestre de 2006 - ENH06"
+Uruguay,UY,URY,858,Urban,14,Other improved,0.0,"Encuesta Nacional de Hogares Ampliada, Primer trimestre de 2006 - ENH06"
+Uruguay,UY,URY,858,Urban,15,"No facility, bush, field",0.011,"Encuesta Nacional de Hogares Ampliada, Primer trimestre de 2006 - ENH06"
+Uruguay,UY,URY,858,Urban,16,Other unimproved,0.002,"Encuesta Nacional de Hogares Ampliada, Primer trimestre de 2006 - ENH06"
+Uruguay,UY,URY,858,Urban,17,DK/missing information,0.0,"Encuesta Nacional de Hogares Ampliada, Primer trimestre de 2006 - ENH06"
+Uruguay,UY,URY,858,Rural,1,Flush and pour flush - to piped sewer system,0.016,"Encuesta Nacional de Hogares Ampliada, Primer trimestre de 2006 - ENH06"
+Uruguay,UY,URY,858,Rural,2,Flush and pour flush - to septic tank,0.905,"Encuesta Nacional de Hogares Ampliada, Primer trimestre de 2006 - ENH06"
+Uruguay,UY,URY,858,Rural,3,Flush and pour flush - to pit,0.0,"Encuesta Nacional de Hogares Ampliada, Primer trimestre de 2006 - ENH06"
+Uruguay,UY,URY,858,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Encuesta Nacional de Hogares Ampliada, Primer trimestre de 2006 - ENH06"
+Uruguay,UY,URY,858,Rural,5,Flush and pour flush - to elsewhere,0.026,"Encuesta Nacional de Hogares Ampliada, Primer trimestre de 2006 - ENH06"
+Uruguay,UY,URY,858,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Encuesta Nacional de Hogares Ampliada, Primer trimestre de 2006 - ENH06"
+Uruguay,UY,URY,858,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Encuesta Nacional de Hogares Ampliada, Primer trimestre de 2006 - ENH06"
+Uruguay,UY,URY,858,Rural,8,Dry latrines - Traditional latrine,0.0,"Encuesta Nacional de Hogares Ampliada, Primer trimestre de 2006 - ENH06"
+Uruguay,UY,URY,858,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Encuesta Nacional de Hogares Ampliada, Primer trimestre de 2006 - ENH06"
+Uruguay,UY,URY,858,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Encuesta Nacional de Hogares Ampliada, Primer trimestre de 2006 - ENH06"
+Uruguay,UY,URY,858,Rural,11,Dry latrines - Bucket latrine,0.0,"Encuesta Nacional de Hogares Ampliada, Primer trimestre de 2006 - ENH06"
+Uruguay,UY,URY,858,Rural,12,Dry latrines - Other,0.0,"Encuesta Nacional de Hogares Ampliada, Primer trimestre de 2006 - ENH06"
+Uruguay,UY,URY,858,Rural,13,Composting toilets,0.0,"Encuesta Nacional de Hogares Ampliada, Primer trimestre de 2006 - ENH06"
+Uruguay,UY,URY,858,Rural,14,Other improved,0.0,"Encuesta Nacional de Hogares Ampliada, Primer trimestre de 2006 - ENH06"
+Uruguay,UY,URY,858,Rural,15,"No facility, bush, field",0.034,"Encuesta Nacional de Hogares Ampliada, Primer trimestre de 2006 - ENH06"
+Uruguay,UY,URY,858,Rural,16,Other unimproved,0.018,"Encuesta Nacional de Hogares Ampliada, Primer trimestre de 2006 - ENH06"
+Uruguay,UY,URY,858,Rural,17,DK/missing information,0.0,"Encuesta Nacional de Hogares Ampliada, Primer trimestre de 2006 - ENH06"
+Uruguay,UY,URY,858,Urban,1,Flush and pour flush - to piped sewer system,0.599,Encuesta continua de los hogares - ECH07
+Uruguay,UY,URY,858,Urban,2,Flush and pour flush - to septic tank,0.382,Encuesta continua de los hogares - ECH07
+Uruguay,UY,URY,858,Urban,3,Flush and pour flush - to pit,0.0,Encuesta continua de los hogares - ECH07
+Uruguay,UY,URY,858,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta continua de los hogares - ECH07
+Uruguay,UY,URY,858,Urban,5,Flush and pour flush - to elsewhere,0.005,Encuesta continua de los hogares - ECH07
+Uruguay,UY,URY,858,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta continua de los hogares - ECH07
+Uruguay,UY,URY,858,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta continua de los hogares - ECH07
+Uruguay,UY,URY,858,Urban,8,Dry latrines - Traditional latrine,0.0,Encuesta continua de los hogares - ECH07
+Uruguay,UY,URY,858,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta continua de los hogares - ECH07
+Uruguay,UY,URY,858,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta continua de los hogares - ECH07
+Uruguay,UY,URY,858,Urban,11,Dry latrines - Bucket latrine,0.0,Encuesta continua de los hogares - ECH07
+Uruguay,UY,URY,858,Urban,12,Dry latrines - Other,0.0,Encuesta continua de los hogares - ECH07
+Uruguay,UY,URY,858,Urban,13,Composting toilets,0.0,Encuesta continua de los hogares - ECH07
+Uruguay,UY,URY,858,Urban,14,Other improved,0.0,Encuesta continua de los hogares - ECH07
+Uruguay,UY,URY,858,Urban,15,"No facility, bush, field",0.01,Encuesta continua de los hogares - ECH07
+Uruguay,UY,URY,858,Urban,16,Other unimproved,0.004,Encuesta continua de los hogares - ECH07
+Uruguay,UY,URY,858,Urban,17,DK/missing information,0.0,Encuesta continua de los hogares - ECH07
+Uruguay,UY,URY,858,Rural,1,Flush and pour flush - to piped sewer system,0.008,Encuesta continua de los hogares - ECH07
+Uruguay,UY,URY,858,Rural,2,Flush and pour flush - to septic tank,0.866,Encuesta continua de los hogares - ECH07
+Uruguay,UY,URY,858,Rural,3,Flush and pour flush - to pit,0.0,Encuesta continua de los hogares - ECH07
+Uruguay,UY,URY,858,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta continua de los hogares - ECH07
+Uruguay,UY,URY,858,Rural,5,Flush and pour flush - to elsewhere,0.048,Encuesta continua de los hogares - ECH07
+Uruguay,UY,URY,858,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta continua de los hogares - ECH07
+Uruguay,UY,URY,858,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta continua de los hogares - ECH07
+Uruguay,UY,URY,858,Rural,8,Dry latrines - Traditional latrine,0.0,Encuesta continua de los hogares - ECH07
+Uruguay,UY,URY,858,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta continua de los hogares - ECH07
+Uruguay,UY,URY,858,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta continua de los hogares - ECH07
+Uruguay,UY,URY,858,Rural,11,Dry latrines - Bucket latrine,0.0,Encuesta continua de los hogares - ECH07
+Uruguay,UY,URY,858,Rural,12,Dry latrines - Other,0.0,Encuesta continua de los hogares - ECH07
+Uruguay,UY,URY,858,Rural,13,Composting toilets,0.0,Encuesta continua de los hogares - ECH07
+Uruguay,UY,URY,858,Rural,14,Other improved,0.0,Encuesta continua de los hogares - ECH07
+Uruguay,UY,URY,858,Rural,15,"No facility, bush, field",0.04,Encuesta continua de los hogares - ECH07
+Uruguay,UY,URY,858,Rural,16,Other unimproved,0.038,Encuesta continua de los hogares - ECH07
+Uruguay,UY,URY,858,Rural,17,DK/missing information,0.0,Encuesta continua de los hogares - ECH07
+Uruguay,UY,URY,858,Urban,1,Flush and pour flush - to piped sewer system,0.613,Encuesta continua de los hogares - ECH08
+Uruguay,UY,URY,858,Urban,2,Flush and pour flush - to septic tank,0.37,Encuesta continua de los hogares - ECH08
+Uruguay,UY,URY,858,Urban,3,Flush and pour flush - to pit,0.0,Encuesta continua de los hogares - ECH08
+Uruguay,UY,URY,858,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta continua de los hogares - ECH08
+Uruguay,UY,URY,858,Urban,5,Flush and pour flush - to elsewhere,0.006,Encuesta continua de los hogares - ECH08
+Uruguay,UY,URY,858,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta continua de los hogares - ECH08
+Uruguay,UY,URY,858,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta continua de los hogares - ECH08
+Uruguay,UY,URY,858,Urban,8,Dry latrines - Traditional latrine,0.0,Encuesta continua de los hogares - ECH08
+Uruguay,UY,URY,858,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta continua de los hogares - ECH08
+Uruguay,UY,URY,858,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta continua de los hogares - ECH08
+Uruguay,UY,URY,858,Urban,11,Dry latrines - Bucket latrine,0.0,Encuesta continua de los hogares - ECH08
+Uruguay,UY,URY,858,Urban,12,Dry latrines - Other,0.0,Encuesta continua de los hogares - ECH08
+Uruguay,UY,URY,858,Urban,13,Composting toilets,0.0,Encuesta continua de los hogares - ECH08
+Uruguay,UY,URY,858,Urban,14,Other improved,0.0,Encuesta continua de los hogares - ECH08
+Uruguay,UY,URY,858,Urban,15,"No facility, bush, field",0.009,Encuesta continua de los hogares - ECH08
+Uruguay,UY,URY,858,Urban,16,Other unimproved,0.003,Encuesta continua de los hogares - ECH08
+Uruguay,UY,URY,858,Urban,17,DK/missing information,0.0,Encuesta continua de los hogares - ECH08
+Uruguay,UY,URY,858,Rural,1,Flush and pour flush - to piped sewer system,0.009,Encuesta continua de los hogares - ECH08
+Uruguay,UY,URY,858,Rural,2,Flush and pour flush - to septic tank,0.889,Encuesta continua de los hogares - ECH08
+Uruguay,UY,URY,858,Rural,3,Flush and pour flush - to pit,0.0,Encuesta continua de los hogares - ECH08
+Uruguay,UY,URY,858,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta continua de los hogares - ECH08
+Uruguay,UY,URY,858,Rural,5,Flush and pour flush - to elsewhere,0.04,Encuesta continua de los hogares - ECH08
+Uruguay,UY,URY,858,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta continua de los hogares - ECH08
+Uruguay,UY,URY,858,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta continua de los hogares - ECH08
+Uruguay,UY,URY,858,Rural,8,Dry latrines - Traditional latrine,0.0,Encuesta continua de los hogares - ECH08
+Uruguay,UY,URY,858,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta continua de los hogares - ECH08
+Uruguay,UY,URY,858,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta continua de los hogares - ECH08
+Uruguay,UY,URY,858,Rural,11,Dry latrines - Bucket latrine,0.0,Encuesta continua de los hogares - ECH08
+Uruguay,UY,URY,858,Rural,12,Dry latrines - Other,0.0,Encuesta continua de los hogares - ECH08
+Uruguay,UY,URY,858,Rural,13,Composting toilets,0.0,Encuesta continua de los hogares - ECH08
+Uruguay,UY,URY,858,Rural,14,Other improved,0.0,Encuesta continua de los hogares - ECH08
+Uruguay,UY,URY,858,Rural,15,"No facility, bush, field",0.033,Encuesta continua de los hogares - ECH08
+Uruguay,UY,URY,858,Rural,16,Other unimproved,0.029,Encuesta continua de los hogares - ECH08
+Uruguay,UY,URY,858,Rural,17,DK/missing information,0.0,Encuesta continua de los hogares - ECH08
+Uruguay,UY,URY,858,Urban,1,Flush and pour flush - to piped sewer system,0.63,Encuesta Nacional de Hogares Ampliada - ENH09
+Uruguay,UY,URY,858,Urban,2,Flush and pour flush - to septic tank,0.355,Encuesta Nacional de Hogares Ampliada - ENH09
+Uruguay,UY,URY,858,Urban,3,Flush and pour flush - to pit,0.0,Encuesta Nacional de Hogares Ampliada - ENH09
+Uruguay,UY,URY,858,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Nacional de Hogares Ampliada - ENH09
+Uruguay,UY,URY,858,Urban,5,Flush and pour flush - to elsewhere,0.004,Encuesta Nacional de Hogares Ampliada - ENH09
+Uruguay,UY,URY,858,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Nacional de Hogares Ampliada - ENH09
+Uruguay,UY,URY,858,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta Nacional de Hogares Ampliada - ENH09
+Uruguay,UY,URY,858,Urban,8,Dry latrines - Traditional latrine,0.0,Encuesta Nacional de Hogares Ampliada - ENH09
+Uruguay,UY,URY,858,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta Nacional de Hogares Ampliada - ENH09
+Uruguay,UY,URY,858,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Nacional de Hogares Ampliada - ENH09
+Uruguay,UY,URY,858,Urban,11,Dry latrines - Bucket latrine,0.0,Encuesta Nacional de Hogares Ampliada - ENH09
+Uruguay,UY,URY,858,Urban,12,Dry latrines - Other,0.0,Encuesta Nacional de Hogares Ampliada - ENH09
+Uruguay,UY,URY,858,Urban,13,Composting toilets,0.0,Encuesta Nacional de Hogares Ampliada - ENH09
+Uruguay,UY,URY,858,Urban,14,Other improved,0.0,Encuesta Nacional de Hogares Ampliada - ENH09
+Uruguay,UY,URY,858,Urban,15,"No facility, bush, field",0.009,Encuesta Nacional de Hogares Ampliada - ENH09
+Uruguay,UY,URY,858,Urban,16,Other unimproved,0.003,Encuesta Nacional de Hogares Ampliada - ENH09
+Uruguay,UY,URY,858,Urban,17,DK/missing information,0.0,Encuesta Nacional de Hogares Ampliada - ENH09
+Uruguay,UY,URY,858,Rural,1,Flush and pour flush - to piped sewer system,0.027,Encuesta Nacional de Hogares Ampliada - ENH09
+Uruguay,UY,URY,858,Rural,2,Flush and pour flush - to septic tank,0.888,Encuesta Nacional de Hogares Ampliada - ENH09
+Uruguay,UY,URY,858,Rural,3,Flush and pour flush - to pit,0.0,Encuesta Nacional de Hogares Ampliada - ENH09
+Uruguay,UY,URY,858,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Nacional de Hogares Ampliada - ENH09
+Uruguay,UY,URY,858,Rural,5,Flush and pour flush - to elsewhere,0.038,Encuesta Nacional de Hogares Ampliada - ENH09
+Uruguay,UY,URY,858,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Nacional de Hogares Ampliada - ENH09
+Uruguay,UY,URY,858,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta Nacional de Hogares Ampliada - ENH09
+Uruguay,UY,URY,858,Rural,8,Dry latrines - Traditional latrine,0.0,Encuesta Nacional de Hogares Ampliada - ENH09
+Uruguay,UY,URY,858,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta Nacional de Hogares Ampliada - ENH09
+Uruguay,UY,URY,858,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Nacional de Hogares Ampliada - ENH09
+Uruguay,UY,URY,858,Rural,11,Dry latrines - Bucket latrine,0.0,Encuesta Nacional de Hogares Ampliada - ENH09
+Uruguay,UY,URY,858,Rural,12,Dry latrines - Other,0.0,Encuesta Nacional de Hogares Ampliada - ENH09
+Uruguay,UY,URY,858,Rural,13,Composting toilets,0.0,Encuesta Nacional de Hogares Ampliada - ENH09
+Uruguay,UY,URY,858,Rural,14,Other improved,0.0,Encuesta Nacional de Hogares Ampliada - ENH09
+Uruguay,UY,URY,858,Rural,15,"No facility, bush, field",0.029,Encuesta Nacional de Hogares Ampliada - ENH09
+Uruguay,UY,URY,858,Rural,16,Other unimproved,0.018,Encuesta Nacional de Hogares Ampliada - ENH09
+Uruguay,UY,URY,858,Rural,17,DK/missing information,0.0,Encuesta Nacional de Hogares Ampliada - ENH09
+Uruguay,UY,URY,858,Urban,1,Flush and pour flush - to piped sewer system,0.587,Encuesta Nacional de Hogares Ampliada - ENH10
+Uruguay,UY,URY,858,Urban,2,Flush and pour flush - to septic tank,0.397,Encuesta Nacional de Hogares Ampliada - ENH10
+Uruguay,UY,URY,858,Urban,3,Flush and pour flush - to pit,0.0,Encuesta Nacional de Hogares Ampliada - ENH10
+Uruguay,UY,URY,858,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Nacional de Hogares Ampliada - ENH10
+Uruguay,UY,URY,858,Urban,5,Flush and pour flush - to elsewhere,0.005,Encuesta Nacional de Hogares Ampliada - ENH10
+Uruguay,UY,URY,858,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Nacional de Hogares Ampliada - ENH10
+Uruguay,UY,URY,858,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta Nacional de Hogares Ampliada - ENH10
+Uruguay,UY,URY,858,Urban,8,Dry latrines - Traditional latrine,0.0,Encuesta Nacional de Hogares Ampliada - ENH10
+Uruguay,UY,URY,858,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta Nacional de Hogares Ampliada - ENH10
+Uruguay,UY,URY,858,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Nacional de Hogares Ampliada - ENH10
+Uruguay,UY,URY,858,Urban,11,Dry latrines - Bucket latrine,0.0,Encuesta Nacional de Hogares Ampliada - ENH10
+Uruguay,UY,URY,858,Urban,12,Dry latrines - Other,0.0,Encuesta Nacional de Hogares Ampliada - ENH10
+Uruguay,UY,URY,858,Urban,13,Composting toilets,0.0,Encuesta Nacional de Hogares Ampliada - ENH10
+Uruguay,UY,URY,858,Urban,14,Other improved,0.0,Encuesta Nacional de Hogares Ampliada - ENH10
+Uruguay,UY,URY,858,Urban,15,"No facility, bush, field",0.008,Encuesta Nacional de Hogares Ampliada - ENH10
+Uruguay,UY,URY,858,Urban,16,Other unimproved,0.003,Encuesta Nacional de Hogares Ampliada - ENH10
+Uruguay,UY,URY,858,Urban,17,DK/missing information,0.0,Encuesta Nacional de Hogares Ampliada - ENH10
+Uruguay,UY,URY,858,Rural,1,Flush and pour flush - to piped sewer system,0.012,Encuesta Nacional de Hogares Ampliada - ENH10
+Uruguay,UY,URY,858,Rural,2,Flush and pour flush - to septic tank,0.9,Encuesta Nacional de Hogares Ampliada - ENH10
+Uruguay,UY,URY,858,Rural,3,Flush and pour flush - to pit,0.0,Encuesta Nacional de Hogares Ampliada - ENH10
+Uruguay,UY,URY,858,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Nacional de Hogares Ampliada - ENH10
+Uruguay,UY,URY,858,Rural,5,Flush and pour flush - to elsewhere,0.039,Encuesta Nacional de Hogares Ampliada - ENH10
+Uruguay,UY,URY,858,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Nacional de Hogares Ampliada - ENH10
+Uruguay,UY,URY,858,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta Nacional de Hogares Ampliada - ENH10
+Uruguay,UY,URY,858,Rural,8,Dry latrines - Traditional latrine,0.0,Encuesta Nacional de Hogares Ampliada - ENH10
+Uruguay,UY,URY,858,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta Nacional de Hogares Ampliada - ENH10
+Uruguay,UY,URY,858,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Nacional de Hogares Ampliada - ENH10
+Uruguay,UY,URY,858,Rural,11,Dry latrines - Bucket latrine,0.0,Encuesta Nacional de Hogares Ampliada - ENH10
+Uruguay,UY,URY,858,Rural,12,Dry latrines - Other,0.0,Encuesta Nacional de Hogares Ampliada - ENH10
+Uruguay,UY,URY,858,Rural,13,Composting toilets,0.0,Encuesta Nacional de Hogares Ampliada - ENH10
+Uruguay,UY,URY,858,Rural,14,Other improved,0.0,Encuesta Nacional de Hogares Ampliada - ENH10
+Uruguay,UY,URY,858,Rural,15,"No facility, bush, field",0.028,Encuesta Nacional de Hogares Ampliada - ENH10
+Uruguay,UY,URY,858,Rural,16,Other unimproved,0.021,Encuesta Nacional de Hogares Ampliada - ENH10
+Uruguay,UY,URY,858,Rural,17,DK/missing information,0.0,Encuesta Nacional de Hogares Ampliada - ENH10
+Uruguay,UY,URY,858,Urban,1,Flush and pour flush - to piped sewer system,0.617,Censo 2010  - CEN10
+Uruguay,UY,URY,858,Urban,2,Flush and pour flush - to septic tank,0.36,Censo 2010  - CEN10
+Uruguay,UY,URY,858,Urban,3,Flush and pour flush - to pit,0.0,Censo 2010  - CEN10
+Uruguay,UY,URY,858,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Censo 2010  - CEN10
+Uruguay,UY,URY,858,Urban,5,Flush and pour flush - to elsewhere,0.004,Censo 2010  - CEN10
+Uruguay,UY,URY,858,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Censo 2010  - CEN10
+Uruguay,UY,URY,858,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Censo 2010  - CEN10
+Uruguay,UY,URY,858,Urban,8,Dry latrines - Traditional latrine,0.0,Censo 2010  - CEN10
+Uruguay,UY,URY,858,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Censo 2010  - CEN10
+Uruguay,UY,URY,858,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Censo 2010  - CEN10
+Uruguay,UY,URY,858,Urban,11,Dry latrines - Bucket latrine,0.0,Censo 2010  - CEN10
+Uruguay,UY,URY,858,Urban,12,Dry latrines - Other,0.0,Censo 2010  - CEN10
+Uruguay,UY,URY,858,Urban,13,Composting toilets,0.0,Censo 2010  - CEN10
+Uruguay,UY,URY,858,Urban,14,Other improved,0.0,Censo 2010  - CEN10
+Uruguay,UY,URY,858,Urban,15,"No facility, bush, field",0.017,Censo 2010  - CEN10
+Uruguay,UY,URY,858,Urban,16,Other unimproved,0.002,Censo 2010  - CEN10
+Uruguay,UY,URY,858,Urban,17,DK/missing information,0.0,Censo 2010  - CEN10
+Uruguay,UY,URY,858,Rural,1,Flush and pour flush - to piped sewer system,0.0,Censo 2010  - CEN10
+Uruguay,UY,URY,858,Rural,2,Flush and pour flush - to septic tank,0.923,Censo 2010  - CEN10
+Uruguay,UY,URY,858,Rural,3,Flush and pour flush - to pit,0.0,Censo 2010  - CEN10
+Uruguay,UY,URY,858,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Censo 2010  - CEN10
+Uruguay,UY,URY,858,Rural,5,Flush and pour flush - to elsewhere,0.016,Censo 2010  - CEN10
+Uruguay,UY,URY,858,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Censo 2010  - CEN10
+Uruguay,UY,URY,858,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Censo 2010  - CEN10
+Uruguay,UY,URY,858,Rural,8,Dry latrines - Traditional latrine,0.0,Censo 2010  - CEN10
+Uruguay,UY,URY,858,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Censo 2010  - CEN10
+Uruguay,UY,URY,858,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Censo 2010  - CEN10
+Uruguay,UY,URY,858,Rural,11,Dry latrines - Bucket latrine,0.0,Censo 2010  - CEN10
+Uruguay,UY,URY,858,Rural,12,Dry latrines - Other,0.0,Censo 2010  - CEN10
+Uruguay,UY,URY,858,Rural,13,Composting toilets,0.0,Censo 2010  - CEN10
+Uruguay,UY,URY,858,Rural,14,Other improved,0.0,Censo 2010  - CEN10
+Uruguay,UY,URY,858,Rural,15,"No facility, bush, field",0.05,Censo 2010  - CEN10
+Uruguay,UY,URY,858,Rural,16,Other unimproved,0.012,Censo 2010  - CEN10
+Uruguay,UY,URY,858,Rural,17,DK/missing information,0.0,Censo 2010  - CEN10
+Uruguay,UY,URY,858,Urban,1,Flush and pour flush - to piped sewer system,0.655,Encuesta Nacional de Hogares Ampliada - ENH11
+Uruguay,UY,URY,858,Urban,2,Flush and pour flush - to septic tank,0.333,Encuesta Nacional de Hogares Ampliada - ENH11
+Uruguay,UY,URY,858,Urban,3,Flush and pour flush - to pit,0.0,Encuesta Nacional de Hogares Ampliada - ENH11
+Uruguay,UY,URY,858,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Nacional de Hogares Ampliada - ENH11
+Uruguay,UY,URY,858,Urban,5,Flush and pour flush - to elsewhere,0.004,Encuesta Nacional de Hogares Ampliada - ENH11
+Uruguay,UY,URY,858,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Nacional de Hogares Ampliada - ENH11
+Uruguay,UY,URY,858,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta Nacional de Hogares Ampliada - ENH11
+Uruguay,UY,URY,858,Urban,8,Dry latrines - Traditional latrine,0.0,Encuesta Nacional de Hogares Ampliada - ENH11
+Uruguay,UY,URY,858,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta Nacional de Hogares Ampliada - ENH11
+Uruguay,UY,URY,858,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Nacional de Hogares Ampliada - ENH11
+Uruguay,UY,URY,858,Urban,11,Dry latrines - Bucket latrine,0.0,Encuesta Nacional de Hogares Ampliada - ENH11
+Uruguay,UY,URY,858,Urban,12,Dry latrines - Other,0.0,Encuesta Nacional de Hogares Ampliada - ENH11
+Uruguay,UY,URY,858,Urban,13,Composting toilets,0.0,Encuesta Nacional de Hogares Ampliada - ENH11
+Uruguay,UY,URY,858,Urban,14,Other improved,0.0,Encuesta Nacional de Hogares Ampliada - ENH11
+Uruguay,UY,URY,858,Urban,15,"No facility, bush, field",0.007,Encuesta Nacional de Hogares Ampliada - ENH11
+Uruguay,UY,URY,858,Urban,16,Other unimproved,0.002,Encuesta Nacional de Hogares Ampliada - ENH11
+Uruguay,UY,URY,858,Urban,17,DK/missing information,0.0,Encuesta Nacional de Hogares Ampliada - ENH11
+Uruguay,UY,URY,858,Rural,1,Flush and pour flush - to piped sewer system,0.013,Encuesta Nacional de Hogares Ampliada - ENH11
+Uruguay,UY,URY,858,Rural,2,Flush and pour flush - to septic tank,0.91,Encuesta Nacional de Hogares Ampliada - ENH11
+Uruguay,UY,URY,858,Rural,3,Flush and pour flush - to pit,0.0,Encuesta Nacional de Hogares Ampliada - ENH11
+Uruguay,UY,URY,858,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Nacional de Hogares Ampliada - ENH11
+Uruguay,UY,URY,858,Rural,5,Flush and pour flush - to elsewhere,0.031,Encuesta Nacional de Hogares Ampliada - ENH11
+Uruguay,UY,URY,858,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Nacional de Hogares Ampliada - ENH11
+Uruguay,UY,URY,858,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta Nacional de Hogares Ampliada - ENH11
+Uruguay,UY,URY,858,Rural,8,Dry latrines - Traditional latrine,0.0,Encuesta Nacional de Hogares Ampliada - ENH11
+Uruguay,UY,URY,858,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta Nacional de Hogares Ampliada - ENH11
+Uruguay,UY,URY,858,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Nacional de Hogares Ampliada - ENH11
+Uruguay,UY,URY,858,Rural,11,Dry latrines - Bucket latrine,0.0,Encuesta Nacional de Hogares Ampliada - ENH11
+Uruguay,UY,URY,858,Rural,12,Dry latrines - Other,0.0,Encuesta Nacional de Hogares Ampliada - ENH11
+Uruguay,UY,URY,858,Rural,13,Composting toilets,0.0,Encuesta Nacional de Hogares Ampliada - ENH11
+Uruguay,UY,URY,858,Rural,14,Other improved,0.0,Encuesta Nacional de Hogares Ampliada - ENH11
+Uruguay,UY,URY,858,Rural,15,"No facility, bush, field",0.029,Encuesta Nacional de Hogares Ampliada - ENH11
+Uruguay,UY,URY,858,Rural,16,Other unimproved,0.018,Encuesta Nacional de Hogares Ampliada - ENH11
+Uruguay,UY,URY,858,Rural,17,DK/missing information,0.0,Encuesta Nacional de Hogares Ampliada - ENH11
+Uruguay,UY,URY,858,Urban,1,Flush and pour flush - to piped sewer system,0.66,Encuesta continua de los hogares - ECH12
+Uruguay,UY,URY,858,Urban,2,Flush and pour flush - to septic tank,0.329,Encuesta continua de los hogares - ECH12
+Uruguay,UY,URY,858,Urban,3,Flush and pour flush - to pit,0.0,Encuesta continua de los hogares - ECH12
+Uruguay,UY,URY,858,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta continua de los hogares - ECH12
+Uruguay,UY,URY,858,Urban,5,Flush and pour flush - to elsewhere,0.003,Encuesta continua de los hogares - ECH12
+Uruguay,UY,URY,858,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta continua de los hogares - ECH12
+Uruguay,UY,URY,858,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta continua de los hogares - ECH12
+Uruguay,UY,URY,858,Urban,8,Dry latrines - Traditional latrine,0.0,Encuesta continua de los hogares - ECH12
+Uruguay,UY,URY,858,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta continua de los hogares - ECH12
+Uruguay,UY,URY,858,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta continua de los hogares - ECH12
+Uruguay,UY,URY,858,Urban,11,Dry latrines - Bucket latrine,0.0,Encuesta continua de los hogares - ECH12
+Uruguay,UY,URY,858,Urban,12,Dry latrines - Other,0.0,Encuesta continua de los hogares - ECH12
+Uruguay,UY,URY,858,Urban,13,Composting toilets,0.0,Encuesta continua de los hogares - ECH12
+Uruguay,UY,URY,858,Urban,14,Other improved,0.0,Encuesta continua de los hogares - ECH12
+Uruguay,UY,URY,858,Urban,15,"No facility, bush, field",0.007,Encuesta continua de los hogares - ECH12
+Uruguay,UY,URY,858,Urban,16,Other unimproved,0.001,Encuesta continua de los hogares - ECH12
+Uruguay,UY,URY,858,Urban,17,DK/missing information,0.0,Encuesta continua de los hogares - ECH12
+Uruguay,UY,URY,858,Rural,1,Flush and pour flush - to piped sewer system,0.012,Encuesta continua de los hogares - ECH12
+Uruguay,UY,URY,858,Rural,2,Flush and pour flush - to septic tank,0.92,Encuesta continua de los hogares - ECH12
+Uruguay,UY,URY,858,Rural,3,Flush and pour flush - to pit,0.0,Encuesta continua de los hogares - ECH12
+Uruguay,UY,URY,858,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta continua de los hogares - ECH12
+Uruguay,UY,URY,858,Rural,5,Flush and pour flush - to elsewhere,0.033,Encuesta continua de los hogares - ECH12
+Uruguay,UY,URY,858,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta continua de los hogares - ECH12
+Uruguay,UY,URY,858,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta continua de los hogares - ECH12
+Uruguay,UY,URY,858,Rural,8,Dry latrines - Traditional latrine,0.0,Encuesta continua de los hogares - ECH12
+Uruguay,UY,URY,858,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta continua de los hogares - ECH12
+Uruguay,UY,URY,858,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta continua de los hogares - ECH12
+Uruguay,UY,URY,858,Rural,11,Dry latrines - Bucket latrine,0.0,Encuesta continua de los hogares - ECH12
+Uruguay,UY,URY,858,Rural,12,Dry latrines - Other,0.0,Encuesta continua de los hogares - ECH12
+Uruguay,UY,URY,858,Rural,13,Composting toilets,0.0,Encuesta continua de los hogares - ECH12
+Uruguay,UY,URY,858,Rural,14,Other improved,0.0,Encuesta continua de los hogares - ECH12
+Uruguay,UY,URY,858,Rural,15,"No facility, bush, field",0.017,Encuesta continua de los hogares - ECH12
+Uruguay,UY,URY,858,Rural,16,Other unimproved,0.018,Encuesta continua de los hogares - ECH12
+Uruguay,UY,URY,858,Rural,17,DK/missing information,0.0,Encuesta continua de los hogares - ECH12
+Uruguay,UY,URY,858,Urban,1,Flush and pour flush - to piped sewer system,0.639,Encuesta continua de los hogares - ECH13
+Uruguay,UY,URY,858,Urban,2,Flush and pour flush - to septic tank,0.348,Encuesta continua de los hogares - ECH13
+Uruguay,UY,URY,858,Urban,3,Flush and pour flush - to pit,0.0,Encuesta continua de los hogares - ECH13
+Uruguay,UY,URY,858,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta continua de los hogares - ECH13
+Uruguay,UY,URY,858,Urban,5,Flush and pour flush - to elsewhere,0.004,Encuesta continua de los hogares - ECH13
+Uruguay,UY,URY,858,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta continua de los hogares - ECH13
+Uruguay,UY,URY,858,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta continua de los hogares - ECH13
+Uruguay,UY,URY,858,Urban,8,Dry latrines - Traditional latrine,0.0,Encuesta continua de los hogares - ECH13
+Uruguay,UY,URY,858,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta continua de los hogares - ECH13
+Uruguay,UY,URY,858,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta continua de los hogares - ECH13
+Uruguay,UY,URY,858,Urban,11,Dry latrines - Bucket latrine,0.0,Encuesta continua de los hogares - ECH13
+Uruguay,UY,URY,858,Urban,12,Dry latrines - Other,0.0,Encuesta continua de los hogares - ECH13
+Uruguay,UY,URY,858,Urban,13,Composting toilets,0.0,Encuesta continua de los hogares - ECH13
+Uruguay,UY,URY,858,Urban,14,Other improved,0.0,Encuesta continua de los hogares - ECH13
+Uruguay,UY,URY,858,Urban,15,"No facility, bush, field",0.007,Encuesta continua de los hogares - ECH13
+Uruguay,UY,URY,858,Urban,16,Other unimproved,0.002,Encuesta continua de los hogares - ECH13
+Uruguay,UY,URY,858,Urban,17,DK/missing information,0.0,Encuesta continua de los hogares - ECH13
+Uruguay,UY,URY,858,Rural,1,Flush and pour flush - to piped sewer system,0.005,Encuesta continua de los hogares - ECH13
+Uruguay,UY,URY,858,Rural,2,Flush and pour flush - to septic tank,0.951,Encuesta continua de los hogares - ECH13
+Uruguay,UY,URY,858,Rural,3,Flush and pour flush - to pit,0.0,Encuesta continua de los hogares - ECH13
+Uruguay,UY,URY,858,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta continua de los hogares - ECH13
+Uruguay,UY,URY,858,Rural,5,Flush and pour flush - to elsewhere,0.02,Encuesta continua de los hogares - ECH13
+Uruguay,UY,URY,858,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta continua de los hogares - ECH13
+Uruguay,UY,URY,858,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta continua de los hogares - ECH13
+Uruguay,UY,URY,858,Rural,8,Dry latrines - Traditional latrine,0.0,Encuesta continua de los hogares - ECH13
+Uruguay,UY,URY,858,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta continua de los hogares - ECH13
+Uruguay,UY,URY,858,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta continua de los hogares - ECH13
+Uruguay,UY,URY,858,Rural,11,Dry latrines - Bucket latrine,0.0,Encuesta continua de los hogares - ECH13
+Uruguay,UY,URY,858,Rural,12,Dry latrines - Other,0.0,Encuesta continua de los hogares - ECH13
+Uruguay,UY,URY,858,Rural,13,Composting toilets,0.0,Encuesta continua de los hogares - ECH13
+Uruguay,UY,URY,858,Rural,14,Other improved,0.0,Encuesta continua de los hogares - ECH13
+Uruguay,UY,URY,858,Rural,15,"No facility, bush, field",0.01,Encuesta continua de los hogares - ECH13
+Uruguay,UY,URY,858,Rural,16,Other unimproved,0.014,Encuesta continua de los hogares - ECH13
+Uruguay,UY,URY,858,Rural,17,DK/missing information,0.0,Encuesta continua de los hogares - ECH13
+Uruguay,UY,URY,858,Urban,1,Flush and pour flush - to piped sewer system,0.588,"Multiple Indicator Cluster Survey, 2012-2013 - MICS13"
+Uruguay,UY,URY,858,Urban,2,Flush and pour flush - to septic tank,0.395,"Multiple Indicator Cluster Survey, 2012-2013 - MICS13"
+Uruguay,UY,URY,858,Urban,3,Flush and pour flush - to pit,0.002,"Multiple Indicator Cluster Survey, 2012-2013 - MICS13"
+Uruguay,UY,URY,858,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Multiple Indicator Cluster Survey, 2012-2013 - MICS13"
+Uruguay,UY,URY,858,Urban,5,Flush and pour flush - to elsewhere,0.006,"Multiple Indicator Cluster Survey, 2012-2013 - MICS13"
+Uruguay,UY,URY,858,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Multiple Indicator Cluster Survey, 2012-2013 - MICS13"
+Uruguay,UY,URY,858,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Multiple Indicator Cluster Survey, 2012-2013 - MICS13"
+Uruguay,UY,URY,858,Urban,8,Dry latrines - Traditional latrine,0.0,"Multiple Indicator Cluster Survey, 2012-2013 - MICS13"
+Uruguay,UY,URY,858,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Multiple Indicator Cluster Survey, 2012-2013 - MICS13"
+Uruguay,UY,URY,858,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Multiple Indicator Cluster Survey, 2012-2013 - MICS13"
+Uruguay,UY,URY,858,Urban,11,Dry latrines - Bucket latrine,0.001,"Multiple Indicator Cluster Survey, 2012-2013 - MICS13"
+Uruguay,UY,URY,858,Urban,12,Dry latrines - Other,0.0,"Multiple Indicator Cluster Survey, 2012-2013 - MICS13"
+Uruguay,UY,URY,858,Urban,13,Composting toilets,0.0,"Multiple Indicator Cluster Survey, 2012-2013 - MICS13"
+Uruguay,UY,URY,858,Urban,14,Other improved,0.0,"Multiple Indicator Cluster Survey, 2012-2013 - MICS13"
+Uruguay,UY,URY,858,Urban,15,"No facility, bush, field",0.005,"Multiple Indicator Cluster Survey, 2012-2013 - MICS13"
+Uruguay,UY,URY,858,Urban,16,Other unimproved,0.001,"Multiple Indicator Cluster Survey, 2012-2013 - MICS13"
+Uruguay,UY,URY,858,Urban,17,DK/missing information,0.003,"Multiple Indicator Cluster Survey, 2012-2013 - MICS13"
+Uruguay,UY,URY,858,Rural,1,Flush and pour flush - to piped sewer system,0.149,"Multiple Indicator Cluster Survey, 2012-2013 - MICS13"
+Uruguay,UY,URY,858,Rural,2,Flush and pour flush - to septic tank,0.827,"Multiple Indicator Cluster Survey, 2012-2013 - MICS13"
+Uruguay,UY,URY,858,Rural,3,Flush and pour flush - to pit,0.002,"Multiple Indicator Cluster Survey, 2012-2013 - MICS13"
+Uruguay,UY,URY,858,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Multiple Indicator Cluster Survey, 2012-2013 - MICS13"
+Uruguay,UY,URY,858,Rural,5,Flush and pour flush - to elsewhere,0.0,"Multiple Indicator Cluster Survey, 2012-2013 - MICS13"
+Uruguay,UY,URY,858,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Multiple Indicator Cluster Survey, 2012-2013 - MICS13"
+Uruguay,UY,URY,858,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Multiple Indicator Cluster Survey, 2012-2013 - MICS13"
+Uruguay,UY,URY,858,Rural,8,Dry latrines - Traditional latrine,0.0,"Multiple Indicator Cluster Survey, 2012-2013 - MICS13"
+Uruguay,UY,URY,858,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Multiple Indicator Cluster Survey, 2012-2013 - MICS13"
+Uruguay,UY,URY,858,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Multiple Indicator Cluster Survey, 2012-2013 - MICS13"
+Uruguay,UY,URY,858,Rural,11,Dry latrines - Bucket latrine,0.01,"Multiple Indicator Cluster Survey, 2012-2013 - MICS13"
+Uruguay,UY,URY,858,Rural,12,Dry latrines - Other,0.0,"Multiple Indicator Cluster Survey, 2012-2013 - MICS13"
+Uruguay,UY,URY,858,Rural,13,Composting toilets,0.0,"Multiple Indicator Cluster Survey, 2012-2013 - MICS13"
+Uruguay,UY,URY,858,Rural,14,Other improved,0.0,"Multiple Indicator Cluster Survey, 2012-2013 - MICS13"
+Uruguay,UY,URY,858,Rural,15,"No facility, bush, field",0.001,"Multiple Indicator Cluster Survey, 2012-2013 - MICS13"
+Uruguay,UY,URY,858,Rural,16,Other unimproved,0.011,"Multiple Indicator Cluster Survey, 2012-2013 - MICS13"
+Uruguay,UY,URY,858,Rural,17,DK/missing information,0.0,"Multiple Indicator Cluster Survey, 2012-2013 - MICS13"
+Uruguay,UY,URY,858,Urban,1,Flush and pour flush - to piped sewer system,0.615,"Encuesta Continua de Hogares, 2014 - ECH14"
+Uruguay,UY,URY,858,Urban,2,Flush and pour flush - to septic tank,0.332,"Encuesta Continua de Hogares, 2014 - ECH14"
+Uruguay,UY,URY,858,Urban,3,Flush and pour flush - to pit,0.0,"Encuesta Continua de Hogares, 2014 - ECH14"
+Uruguay,UY,URY,858,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Encuesta Continua de Hogares, 2014 - ECH14"
+Uruguay,UY,URY,858,Urban,5,Flush and pour flush - to elsewhere,0.001,"Encuesta Continua de Hogares, 2014 - ECH14"
+Uruguay,UY,URY,858,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Encuesta Continua de Hogares, 2014 - ECH14"
+Uruguay,UY,URY,858,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Encuesta Continua de Hogares, 2014 - ECH14"
+Uruguay,UY,URY,858,Urban,8,Dry latrines - Traditional latrine,0.0,"Encuesta Continua de Hogares, 2014 - ECH14"
+Uruguay,UY,URY,858,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Encuesta Continua de Hogares, 2014 - ECH14"
+Uruguay,UY,URY,858,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Encuesta Continua de Hogares, 2014 - ECH14"
+Uruguay,UY,URY,858,Urban,11,Dry latrines - Bucket latrine,0.0,"Encuesta Continua de Hogares, 2014 - ECH14"
+Uruguay,UY,URY,858,Urban,12,Dry latrines - Other,0.0,"Encuesta Continua de Hogares, 2014 - ECH14"
+Uruguay,UY,URY,858,Urban,13,Composting toilets,0.0,"Encuesta Continua de Hogares, 2014 - ECH14"
+Uruguay,UY,URY,858,Urban,14,Other improved,0.039,"Encuesta Continua de Hogares, 2014 - ECH14"
+Uruguay,UY,URY,858,Urban,15,"No facility, bush, field",0.006,"Encuesta Continua de Hogares, 2014 - ECH14"
+Uruguay,UY,URY,858,Urban,16,Other unimproved,0.006,"Encuesta Continua de Hogares, 2014 - ECH14"
+Uruguay,UY,URY,858,Urban,17,DK/missing information,0.0,"Encuesta Continua de Hogares, 2014 - ECH14"
+Uruguay,UY,URY,858,Rural,1,Flush and pour flush - to piped sewer system,0.006,"Encuesta Continua de Hogares, 2014 - ECH14"
+Uruguay,UY,URY,858,Rural,2,Flush and pour flush - to septic tank,0.818,"Encuesta Continua de Hogares, 2014 - ECH14"
+Uruguay,UY,URY,858,Rural,3,Flush and pour flush - to pit,0.0,"Encuesta Continua de Hogares, 2014 - ECH14"
+Uruguay,UY,URY,858,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Encuesta Continua de Hogares, 2014 - ECH14"
+Uruguay,UY,URY,858,Rural,5,Flush and pour flush - to elsewhere,0.004,"Encuesta Continua de Hogares, 2014 - ECH14"
+Uruguay,UY,URY,858,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Encuesta Continua de Hogares, 2014 - ECH14"
+Uruguay,UY,URY,858,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Encuesta Continua de Hogares, 2014 - ECH14"
+Uruguay,UY,URY,858,Rural,8,Dry latrines - Traditional latrine,0.0,"Encuesta Continua de Hogares, 2014 - ECH14"
+Uruguay,UY,URY,858,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Encuesta Continua de Hogares, 2014 - ECH14"
+Uruguay,UY,URY,858,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Encuesta Continua de Hogares, 2014 - ECH14"
+Uruguay,UY,URY,858,Rural,11,Dry latrines - Bucket latrine,0.0,"Encuesta Continua de Hogares, 2014 - ECH14"
+Uruguay,UY,URY,858,Rural,12,Dry latrines - Other,0.0,"Encuesta Continua de Hogares, 2014 - ECH14"
+Uruguay,UY,URY,858,Rural,13,Composting toilets,0.0,"Encuesta Continua de Hogares, 2014 - ECH14"
+Uruguay,UY,URY,858,Rural,14,Other improved,0.141,"Encuesta Continua de Hogares, 2014 - ECH14"
+Uruguay,UY,URY,858,Rural,15,"No facility, bush, field",0.008,"Encuesta Continua de Hogares, 2014 - ECH14"
+Uruguay,UY,URY,858,Rural,16,Other unimproved,0.024,"Encuesta Continua de Hogares, 2014 - ECH14"
+Uruguay,UY,URY,858,Rural,17,DK/missing information,0.0,"Encuesta Continua de Hogares, 2014 - ECH14"
+Uruguay,UY,URY,858,Urban,1,Flush and pour flush - to piped sewer system,0.624,"Encuesta Continua de Hogares, 2015 - ECH15"
+Uruguay,UY,URY,858,Urban,2,Flush and pour flush - to septic tank,0.33,"Encuesta Continua de Hogares, 2015 - ECH15"
+Uruguay,UY,URY,858,Urban,3,Flush and pour flush - to pit,0.0,"Encuesta Continua de Hogares, 2015 - ECH15"
+Uruguay,UY,URY,858,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Encuesta Continua de Hogares, 2015 - ECH15"
+Uruguay,UY,URY,858,Urban,5,Flush and pour flush - to elsewhere,0.001,"Encuesta Continua de Hogares, 2015 - ECH15"
+Uruguay,UY,URY,858,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Encuesta Continua de Hogares, 2015 - ECH15"
+Uruguay,UY,URY,858,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Encuesta Continua de Hogares, 2015 - ECH15"
+Uruguay,UY,URY,858,Urban,8,Dry latrines - Traditional latrine,0.0,"Encuesta Continua de Hogares, 2015 - ECH15"
+Uruguay,UY,URY,858,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Encuesta Continua de Hogares, 2015 - ECH15"
+Uruguay,UY,URY,858,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Encuesta Continua de Hogares, 2015 - ECH15"
+Uruguay,UY,URY,858,Urban,11,Dry latrines - Bucket latrine,0.0,"Encuesta Continua de Hogares, 2015 - ECH15"
+Uruguay,UY,URY,858,Urban,12,Dry latrines - Other,0.0,"Encuesta Continua de Hogares, 2015 - ECH15"
+Uruguay,UY,URY,858,Urban,13,Composting toilets,0.0,"Encuesta Continua de Hogares, 2015 - ECH15"
+Uruguay,UY,URY,858,Urban,14,Other improved,0.034,"Encuesta Continua de Hogares, 2015 - ECH15"
+Uruguay,UY,URY,858,Urban,15,"No facility, bush, field",0.005,"Encuesta Continua de Hogares, 2015 - ECH15"
+Uruguay,UY,URY,858,Urban,16,Other unimproved,0.005,"Encuesta Continua de Hogares, 2015 - ECH15"
+Uruguay,UY,URY,858,Urban,17,DK/missing information,0.0,"Encuesta Continua de Hogares, 2015 - ECH15"
+Uruguay,UY,URY,858,Rural,1,Flush and pour flush - to piped sewer system,0.008,"Encuesta Continua de Hogares, 2015 - ECH15"
+Uruguay,UY,URY,858,Rural,2,Flush and pour flush - to septic tank,0.836,"Encuesta Continua de Hogares, 2015 - ECH15"
+Uruguay,UY,URY,858,Rural,3,Flush and pour flush - to pit,0.0,"Encuesta Continua de Hogares, 2015 - ECH15"
+Uruguay,UY,URY,858,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Encuesta Continua de Hogares, 2015 - ECH15"
+Uruguay,UY,URY,858,Rural,5,Flush and pour flush - to elsewhere,0.007,"Encuesta Continua de Hogares, 2015 - ECH15"
+Uruguay,UY,URY,858,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Encuesta Continua de Hogares, 2015 - ECH15"
+Uruguay,UY,URY,858,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Encuesta Continua de Hogares, 2015 - ECH15"
+Uruguay,UY,URY,858,Rural,8,Dry latrines - Traditional latrine,0.0,"Encuesta Continua de Hogares, 2015 - ECH15"
+Uruguay,UY,URY,858,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Encuesta Continua de Hogares, 2015 - ECH15"
+Uruguay,UY,URY,858,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Encuesta Continua de Hogares, 2015 - ECH15"
+Uruguay,UY,URY,858,Rural,11,Dry latrines - Bucket latrine,0.0,"Encuesta Continua de Hogares, 2015 - ECH15"
+Uruguay,UY,URY,858,Rural,12,Dry latrines - Other,0.0,"Encuesta Continua de Hogares, 2015 - ECH15"
+Uruguay,UY,URY,858,Rural,13,Composting toilets,0.0,"Encuesta Continua de Hogares, 2015 - ECH15"
+Uruguay,UY,URY,858,Rural,14,Other improved,0.12,"Encuesta Continua de Hogares, 2015 - ECH15"
+Uruguay,UY,URY,858,Rural,15,"No facility, bush, field",0.008,"Encuesta Continua de Hogares, 2015 - ECH15"
+Uruguay,UY,URY,858,Rural,16,Other unimproved,0.022,"Encuesta Continua de Hogares, 2015 - ECH15"
+Uruguay,UY,URY,858,Rural,17,DK/missing information,0.0,"Encuesta Continua de Hogares, 2015 - ECH15"
+Uruguay,UY,URY,858,Urban,1,Flush and pour flush - to piped sewer system,0.619,"Encuesta Continua de Hogares, 2016 - ECH16"
+Uruguay,UY,URY,858,Urban,2,Flush and pour flush - to septic tank,0.33,"Encuesta Continua de Hogares, 2016 - ECH16"
+Uruguay,UY,URY,858,Urban,3,Flush and pour flush - to pit,0.0,"Encuesta Continua de Hogares, 2016 - ECH16"
+Uruguay,UY,URY,858,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Encuesta Continua de Hogares, 2016 - ECH16"
+Uruguay,UY,URY,858,Urban,5,Flush and pour flush - to elsewhere,0.0,"Encuesta Continua de Hogares, 2016 - ECH16"
+Uruguay,UY,URY,858,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Encuesta Continua de Hogares, 2016 - ECH16"
+Uruguay,UY,URY,858,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Encuesta Continua de Hogares, 2016 - ECH16"
+Uruguay,UY,URY,858,Urban,8,Dry latrines - Traditional latrine,0.0,"Encuesta Continua de Hogares, 2016 - ECH16"
+Uruguay,UY,URY,858,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Encuesta Continua de Hogares, 2016 - ECH16"
+Uruguay,UY,URY,858,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Encuesta Continua de Hogares, 2016 - ECH16"
+Uruguay,UY,URY,858,Urban,11,Dry latrines - Bucket latrine,0.0,"Encuesta Continua de Hogares, 2016 - ECH16"
+Uruguay,UY,URY,858,Urban,12,Dry latrines - Other,0.0,"Encuesta Continua de Hogares, 2016 - ECH16"
+Uruguay,UY,URY,858,Urban,13,Composting toilets,0.0,"Encuesta Continua de Hogares, 2016 - ECH16"
+Uruguay,UY,URY,858,Urban,14,Other improved,0.04,"Encuesta Continua de Hogares, 2016 - ECH16"
+Uruguay,UY,URY,858,Urban,15,"No facility, bush, field",0.005,"Encuesta Continua de Hogares, 2016 - ECH16"
+Uruguay,UY,URY,858,Urban,16,Other unimproved,0.005,"Encuesta Continua de Hogares, 2016 - ECH16"
+Uruguay,UY,URY,858,Urban,17,DK/missing information,0.0,"Encuesta Continua de Hogares, 2016 - ECH16"
+Uruguay,UY,URY,858,Rural,1,Flush and pour flush - to piped sewer system,0.007,"Encuesta Continua de Hogares, 2016 - ECH16"
+Uruguay,UY,URY,858,Rural,2,Flush and pour flush - to septic tank,0.847,"Encuesta Continua de Hogares, 2016 - ECH16"
+Uruguay,UY,URY,858,Rural,3,Flush and pour flush - to pit,0.0,"Encuesta Continua de Hogares, 2016 - ECH16"
+Uruguay,UY,URY,858,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Encuesta Continua de Hogares, 2016 - ECH16"
+Uruguay,UY,URY,858,Rural,5,Flush and pour flush - to elsewhere,0.004,"Encuesta Continua de Hogares, 2016 - ECH16"
+Uruguay,UY,URY,858,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Encuesta Continua de Hogares, 2016 - ECH16"
+Uruguay,UY,URY,858,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Encuesta Continua de Hogares, 2016 - ECH16"
+Uruguay,UY,URY,858,Rural,8,Dry latrines - Traditional latrine,0.0,"Encuesta Continua de Hogares, 2016 - ECH16"
+Uruguay,UY,URY,858,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Encuesta Continua de Hogares, 2016 - ECH16"
+Uruguay,UY,URY,858,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Encuesta Continua de Hogares, 2016 - ECH16"
+Uruguay,UY,URY,858,Rural,11,Dry latrines - Bucket latrine,0.0,"Encuesta Continua de Hogares, 2016 - ECH16"
+Uruguay,UY,URY,858,Rural,12,Dry latrines - Other,0.0,"Encuesta Continua de Hogares, 2016 - ECH16"
+Uruguay,UY,URY,858,Rural,13,Composting toilets,0.0,"Encuesta Continua de Hogares, 2016 - ECH16"
+Uruguay,UY,URY,858,Rural,14,Other improved,0.117,"Encuesta Continua de Hogares, 2016 - ECH16"
+Uruguay,UY,URY,858,Rural,15,"No facility, bush, field",0.006,"Encuesta Continua de Hogares, 2016 - ECH16"
+Uruguay,UY,URY,858,Rural,16,Other unimproved,0.019,"Encuesta Continua de Hogares, 2016 - ECH16"
+Uruguay,UY,URY,858,Rural,17,DK/missing information,0.0,"Encuesta Continua de Hogares, 2016 - ECH16"
+Uruguay,UY,URY,858,Urban,1,Flush and pour flush - to piped sewer system,0.63,"Encuesta Continua de Hogares, 2017 - ECH17"
+Uruguay,UY,URY,858,Urban,2,Flush and pour flush - to septic tank,0.325,"Encuesta Continua de Hogares, 2017 - ECH17"
+Uruguay,UY,URY,858,Urban,3,Flush and pour flush - to pit,0.0,"Encuesta Continua de Hogares, 2017 - ECH17"
+Uruguay,UY,URY,858,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Encuesta Continua de Hogares, 2017 - ECH17"
+Uruguay,UY,URY,858,Urban,5,Flush and pour flush - to elsewhere,0.001,"Encuesta Continua de Hogares, 2017 - ECH17"
+Uruguay,UY,URY,858,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Encuesta Continua de Hogares, 2017 - ECH17"
+Uruguay,UY,URY,858,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Encuesta Continua de Hogares, 2017 - ECH17"
+Uruguay,UY,URY,858,Urban,8,Dry latrines - Traditional latrine,0.0,"Encuesta Continua de Hogares, 2017 - ECH17"
+Uruguay,UY,URY,858,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Encuesta Continua de Hogares, 2017 - ECH17"
+Uruguay,UY,URY,858,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Encuesta Continua de Hogares, 2017 - ECH17"
+Uruguay,UY,URY,858,Urban,11,Dry latrines - Bucket latrine,0.0,"Encuesta Continua de Hogares, 2017 - ECH17"
+Uruguay,UY,URY,858,Urban,12,Dry latrines - Other,0.0,"Encuesta Continua de Hogares, 2017 - ECH17"
+Uruguay,UY,URY,858,Urban,13,Composting toilets,0.0,"Encuesta Continua de Hogares, 2017 - ECH17"
+Uruguay,UY,URY,858,Urban,14,Other improved,0.036,"Encuesta Continua de Hogares, 2017 - ECH17"
+Uruguay,UY,URY,858,Urban,15,"No facility, bush, field",0.004,"Encuesta Continua de Hogares, 2017 - ECH17"
+Uruguay,UY,URY,858,Urban,16,Other unimproved,0.005,"Encuesta Continua de Hogares, 2017 - ECH17"
+Uruguay,UY,URY,858,Urban,17,DK/missing information,0.0,"Encuesta Continua de Hogares, 2017 - ECH17"
+Uruguay,UY,URY,858,Rural,1,Flush and pour flush - to piped sewer system,0.011,"Encuesta Continua de Hogares, 2017 - ECH17"
+Uruguay,UY,URY,858,Rural,2,Flush and pour flush - to septic tank,0.868,"Encuesta Continua de Hogares, 2017 - ECH17"
+Uruguay,UY,URY,858,Rural,3,Flush and pour flush - to pit,0.0,"Encuesta Continua de Hogares, 2017 - ECH17"
+Uruguay,UY,URY,858,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Encuesta Continua de Hogares, 2017 - ECH17"
+Uruguay,UY,URY,858,Rural,5,Flush and pour flush - to elsewhere,0.002,"Encuesta Continua de Hogares, 2017 - ECH17"
+Uruguay,UY,URY,858,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Encuesta Continua de Hogares, 2017 - ECH17"
+Uruguay,UY,URY,858,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Encuesta Continua de Hogares, 2017 - ECH17"
+Uruguay,UY,URY,858,Rural,8,Dry latrines - Traditional latrine,0.0,"Encuesta Continua de Hogares, 2017 - ECH17"
+Uruguay,UY,URY,858,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Encuesta Continua de Hogares, 2017 - ECH17"
+Uruguay,UY,URY,858,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Encuesta Continua de Hogares, 2017 - ECH17"
+Uruguay,UY,URY,858,Rural,11,Dry latrines - Bucket latrine,0.0,"Encuesta Continua de Hogares, 2017 - ECH17"
+Uruguay,UY,URY,858,Rural,12,Dry latrines - Other,0.0,"Encuesta Continua de Hogares, 2017 - ECH17"
+Uruguay,UY,URY,858,Rural,13,Composting toilets,0.0,"Encuesta Continua de Hogares, 2017 - ECH17"
+Uruguay,UY,URY,858,Rural,14,Other improved,0.097,"Encuesta Continua de Hogares, 2017 - ECH17"
+Uruguay,UY,URY,858,Rural,15,"No facility, bush, field",0.007,"Encuesta Continua de Hogares, 2017 - ECH17"
+Uruguay,UY,URY,858,Rural,16,Other unimproved,0.015,"Encuesta Continua de Hogares, 2017 - ECH17"
+Uruguay,UY,URY,858,Rural,17,DK/missing information,0.0,"Encuesta Continua de Hogares, 2017 - ECH17"

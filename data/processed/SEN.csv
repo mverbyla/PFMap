@@ -1,0 +1,591 @@
+country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+Senegal,SN,SEN,686,Urban,1,Flush and pour flush - to piped sewer system,0.151,Multiple Indicator Cluster Survey - MICS00
+Senegal,SN,SEN,686,Urban,2,Flush and pour flush - to septic tank,0.27,Multiple Indicator Cluster Survey - MICS00
+Senegal,SN,SEN,686,Urban,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Senegal,SN,SEN,686,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS00
+Senegal,SN,SEN,686,Urban,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS00
+Senegal,SN,SEN,686,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.36,Multiple Indicator Cluster Survey - MICS00
+Senegal,SN,SEN,686,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Senegal,SN,SEN,686,Urban,8,Dry latrines - Traditional latrine,0.157,Multiple Indicator Cluster Survey - MICS00
+Senegal,SN,SEN,686,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Senegal,SN,SEN,686,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Senegal,SN,SEN,686,Urban,11,Dry latrines - Bucket latrine,0.001,Multiple Indicator Cluster Survey - MICS00
+Senegal,SN,SEN,686,Urban,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS00
+Senegal,SN,SEN,686,Urban,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS00
+Senegal,SN,SEN,686,Urban,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS00
+Senegal,SN,SEN,686,Urban,15,"No facility, bush, field",0.023,Multiple Indicator Cluster Survey - MICS00
+Senegal,SN,SEN,686,Urban,16,Other unimproved,0.034,Multiple Indicator Cluster Survey - MICS00
+Senegal,SN,SEN,686,Urban,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS00
+Senegal,SN,SEN,686,Rural,1,Flush and pour flush - to piped sewer system,0.002,Multiple Indicator Cluster Survey - MICS00
+Senegal,SN,SEN,686,Rural,2,Flush and pour flush - to septic tank,0.022,Multiple Indicator Cluster Survey - MICS00
+Senegal,SN,SEN,686,Rural,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Senegal,SN,SEN,686,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS00
+Senegal,SN,SEN,686,Rural,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS00
+Senegal,SN,SEN,686,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.12,Multiple Indicator Cluster Survey - MICS00
+Senegal,SN,SEN,686,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Senegal,SN,SEN,686,Rural,8,Dry latrines - Traditional latrine,0.426,Multiple Indicator Cluster Survey - MICS00
+Senegal,SN,SEN,686,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Senegal,SN,SEN,686,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Senegal,SN,SEN,686,Rural,11,Dry latrines - Bucket latrine,0.003,Multiple Indicator Cluster Survey - MICS00
+Senegal,SN,SEN,686,Rural,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS00
+Senegal,SN,SEN,686,Rural,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS00
+Senegal,SN,SEN,686,Rural,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS00
+Senegal,SN,SEN,686,Rural,15,"No facility, bush, field",0.393,Multiple Indicator Cluster Survey - MICS00
+Senegal,SN,SEN,686,Rural,16,Other unimproved,0.031,Multiple Indicator Cluster Survey - MICS00
+Senegal,SN,SEN,686,Rural,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS00
+Senegal,SN,SEN,686,Urban,1,Flush and pour flush - to piped sewer system,0.176,Census - CEN02
+Senegal,SN,SEN,686,Urban,2,Flush and pour flush - to septic tank,0.407,Census - CEN02
+Senegal,SN,SEN,686,Urban,3,Flush and pour flush - to pit,0.0,Census - CEN02
+Senegal,SN,SEN,686,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN02
+Senegal,SN,SEN,686,Urban,5,Flush and pour flush - to elsewhere,0.0,Census - CEN02
+Senegal,SN,SEN,686,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN02
+Senegal,SN,SEN,686,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN02
+Senegal,SN,SEN,686,Urban,8,Dry latrines - Traditional latrine,0.358,Census - CEN02
+Senegal,SN,SEN,686,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN02
+Senegal,SN,SEN,686,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN02
+Senegal,SN,SEN,686,Urban,11,Dry latrines - Bucket latrine,0.0,Census - CEN02
+Senegal,SN,SEN,686,Urban,12,Dry latrines - Other,0.0,Census - CEN02
+Senegal,SN,SEN,686,Urban,13,Composting toilets,0.0,Census - CEN02
+Senegal,SN,SEN,686,Urban,14,Other improved,0.0,Census - CEN02
+Senegal,SN,SEN,686,Urban,15,"No facility, bush, field",0.045,Census - CEN02
+Senegal,SN,SEN,686,Urban,16,Other unimproved,0.015,Census - CEN02
+Senegal,SN,SEN,686,Urban,17,DK/missing information,0.0,Census - CEN02
+Senegal,SN,SEN,686,Rural,1,Flush and pour flush - to piped sewer system,0.009,Census - CEN02
+Senegal,SN,SEN,686,Rural,2,Flush and pour flush - to septic tank,0.107,Census - CEN02
+Senegal,SN,SEN,686,Rural,3,Flush and pour flush - to pit,0.0,Census - CEN02
+Senegal,SN,SEN,686,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN02
+Senegal,SN,SEN,686,Rural,5,Flush and pour flush - to elsewhere,0.0,Census - CEN02
+Senegal,SN,SEN,686,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN02
+Senegal,SN,SEN,686,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN02
+Senegal,SN,SEN,686,Rural,8,Dry latrines - Traditional latrine,0.462,Census - CEN02
+Senegal,SN,SEN,686,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN02
+Senegal,SN,SEN,686,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN02
+Senegal,SN,SEN,686,Rural,11,Dry latrines - Bucket latrine,0.0,Census - CEN02
+Senegal,SN,SEN,686,Rural,12,Dry latrines - Other,0.0,Census - CEN02
+Senegal,SN,SEN,686,Rural,13,Composting toilets,0.0,Census - CEN02
+Senegal,SN,SEN,686,Rural,14,Other improved,0.0,Census - CEN02
+Senegal,SN,SEN,686,Rural,15,"No facility, bush, field",0.396,Census - CEN02
+Senegal,SN,SEN,686,Rural,16,Other unimproved,0.026,Census - CEN02
+Senegal,SN,SEN,686,Rural,17,DK/missing information,0.0,Census - CEN02
+Senegal,SN,SEN,686,Urban,1,Flush and pour flush - to piped sewer system,0.162,Enquête Sénégalaise Auprès des Ménages - ESAM02
+Senegal,SN,SEN,686,Urban,2,Flush and pour flush - to septic tank,0.489,Enquête Sénégalaise Auprès des Ménages - ESAM02
+Senegal,SN,SEN,686,Urban,3,Flush and pour flush - to pit,0.0,Enquête Sénégalaise Auprès des Ménages - ESAM02
+Senegal,SN,SEN,686,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquête Sénégalaise Auprès des Ménages - ESAM02
+Senegal,SN,SEN,686,Urban,5,Flush and pour flush - to elsewhere,0.0,Enquête Sénégalaise Auprès des Ménages - ESAM02
+Senegal,SN,SEN,686,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.031,Enquête Sénégalaise Auprès des Ménages - ESAM02
+Senegal,SN,SEN,686,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.128,Enquête Sénégalaise Auprès des Ménages - ESAM02
+Senegal,SN,SEN,686,Urban,8,Dry latrines - Traditional latrine,0.085,Enquête Sénégalaise Auprès des Ménages - ESAM02
+Senegal,SN,SEN,686,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Enquête Sénégalaise Auprès des Ménages - ESAM02
+Senegal,SN,SEN,686,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquête Sénégalaise Auprès des Ménages - ESAM02
+Senegal,SN,SEN,686,Urban,11,Dry latrines - Bucket latrine,0.034,Enquête Sénégalaise Auprès des Ménages - ESAM02
+Senegal,SN,SEN,686,Urban,12,Dry latrines - Other,0.0,Enquête Sénégalaise Auprès des Ménages - ESAM02
+Senegal,SN,SEN,686,Urban,13,Composting toilets,0.0,Enquête Sénégalaise Auprès des Ménages - ESAM02
+Senegal,SN,SEN,686,Urban,14,Other improved,0.0,Enquête Sénégalaise Auprès des Ménages - ESAM02
+Senegal,SN,SEN,686,Urban,15,"No facility, bush, field",0.047,Enquête Sénégalaise Auprès des Ménages - ESAM02
+Senegal,SN,SEN,686,Urban,16,Other unimproved,0.016,Enquête Sénégalaise Auprès des Ménages - ESAM02
+Senegal,SN,SEN,686,Urban,17,DK/missing information,0.008,Enquête Sénégalaise Auprès des Ménages - ESAM02
+Senegal,SN,SEN,686,Rural,1,Flush and pour flush - to piped sewer system,0.002,Enquête Sénégalaise Auprès des Ménages - ESAM02
+Senegal,SN,SEN,686,Rural,2,Flush and pour flush - to septic tank,0.052,Enquête Sénégalaise Auprès des Ménages - ESAM02
+Senegal,SN,SEN,686,Rural,3,Flush and pour flush - to pit,0.0,Enquête Sénégalaise Auprès des Ménages - ESAM02
+Senegal,SN,SEN,686,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquête Sénégalaise Auprès des Ménages - ESAM02
+Senegal,SN,SEN,686,Rural,5,Flush and pour flush - to elsewhere,0.0,Enquête Sénégalaise Auprès des Ménages - ESAM02
+Senegal,SN,SEN,686,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.019,Enquête Sénégalaise Auprès des Ménages - ESAM02
+Senegal,SN,SEN,686,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.189,Enquête Sénégalaise Auprès des Ménages - ESAM02
+Senegal,SN,SEN,686,Rural,8,Dry latrines - Traditional latrine,0.31,Enquête Sénégalaise Auprès des Ménages - ESAM02
+Senegal,SN,SEN,686,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Enquête Sénégalaise Auprès des Ménages - ESAM02
+Senegal,SN,SEN,686,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquête Sénégalaise Auprès des Ménages - ESAM02
+Senegal,SN,SEN,686,Rural,11,Dry latrines - Bucket latrine,0.013,Enquête Sénégalaise Auprès des Ménages - ESAM02
+Senegal,SN,SEN,686,Rural,12,Dry latrines - Other,0.0,Enquête Sénégalaise Auprès des Ménages - ESAM02
+Senegal,SN,SEN,686,Rural,13,Composting toilets,0.0,Enquête Sénégalaise Auprès des Ménages - ESAM02
+Senegal,SN,SEN,686,Rural,14,Other improved,0.0,Enquête Sénégalaise Auprès des Ménages - ESAM02
+Senegal,SN,SEN,686,Rural,15,"No facility, bush, field",0.313,Enquête Sénégalaise Auprès des Ménages - ESAM02
+Senegal,SN,SEN,686,Rural,16,Other unimproved,0.09,Enquête Sénégalaise Auprès des Ménages - ESAM02
+Senegal,SN,SEN,686,Rural,17,DK/missing information,0.012,Enquête Sénégalaise Auprès des Ménages - ESAM02
+Senegal,SN,SEN,686,Urban,1,Flush and pour flush - to piped sewer system,0.361,World Health Survey - WHS03
+Senegal,SN,SEN,686,Urban,2,Flush and pour flush - to septic tank,0.402,World Health Survey - WHS03
+Senegal,SN,SEN,686,Urban,3,Flush and pour flush - to pit,0.0,World Health Survey - WHS03
+Senegal,SN,SEN,686,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,World Health Survey - WHS03
+Senegal,SN,SEN,686,Urban,5,Flush and pour flush - to elsewhere,0.0,World Health Survey - WHS03
+Senegal,SN,SEN,686,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,World Health Survey - WHS03
+Senegal,SN,SEN,686,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.071,World Health Survey - WHS03
+Senegal,SN,SEN,686,Urban,8,Dry latrines - Traditional latrine,0.0,World Health Survey - WHS03
+Senegal,SN,SEN,686,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.045,World Health Survey - WHS03
+Senegal,SN,SEN,686,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,World Health Survey - WHS03
+Senegal,SN,SEN,686,Urban,11,Dry latrines - Bucket latrine,0.002,World Health Survey - WHS03
+Senegal,SN,SEN,686,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.059,World Health Survey - WHS03
+Senegal,SN,SEN,686,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.012,World Health Survey - WHS03
+Senegal,SN,SEN,686,Urban,8,Dry latrines - Traditional latrine,0.0,World Health Survey - WHS03
+Senegal,SN,SEN,686,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,World Health Survey - WHS03
+Senegal,SN,SEN,686,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,World Health Survey - WHS03
+Senegal,SN,SEN,686,Urban,11,Dry latrines - Bucket latrine,0.0,World Health Survey - WHS03
+Senegal,SN,SEN,686,Urban,12,Dry latrines - Other,0.0,World Health Survey - WHS03
+Senegal,SN,SEN,686,Urban,13,Composting toilets,0.0,World Health Survey - WHS03
+Senegal,SN,SEN,686,Urban,14,Other improved,0.0,World Health Survey - WHS03
+Senegal,SN,SEN,686,Urban,15,"No facility, bush, field",0.026,World Health Survey - WHS03
+Senegal,SN,SEN,686,Urban,16,Other unimproved,0.016,World Health Survey - WHS03
+Senegal,SN,SEN,686,Urban,17,DK/missing information,0.0,World Health Survey - WHS03
+Senegal,SN,SEN,686,Rural,1,Flush and pour flush - to piped sewer system,0.058,World Health Survey - WHS03
+Senegal,SN,SEN,686,Rural,2,Flush and pour flush - to septic tank,0.174,World Health Survey - WHS03
+Senegal,SN,SEN,686,Rural,3,Flush and pour flush - to pit,0.0,World Health Survey - WHS03
+Senegal,SN,SEN,686,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,World Health Survey - WHS03
+Senegal,SN,SEN,686,Rural,5,Flush and pour flush - to elsewhere,0.0,World Health Survey - WHS03
+Senegal,SN,SEN,686,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,World Health Survey - WHS03
+Senegal,SN,SEN,686,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.174,World Health Survey - WHS03
+Senegal,SN,SEN,686,Rural,8,Dry latrines - Traditional latrine,0.0,World Health Survey - WHS03
+Senegal,SN,SEN,686,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.204,World Health Survey - WHS03
+Senegal,SN,SEN,686,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,World Health Survey - WHS03
+Senegal,SN,SEN,686,Rural,11,Dry latrines - Bucket latrine,0.009,World Health Survey - WHS03
+Senegal,SN,SEN,686,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.148,World Health Survey - WHS03
+Senegal,SN,SEN,686,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.026,World Health Survey - WHS03
+Senegal,SN,SEN,686,Rural,8,Dry latrines - Traditional latrine,0.0,World Health Survey - WHS03
+Senegal,SN,SEN,686,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,World Health Survey - WHS03
+Senegal,SN,SEN,686,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,World Health Survey - WHS03
+Senegal,SN,SEN,686,Rural,11,Dry latrines - Bucket latrine,0.0,World Health Survey - WHS03
+Senegal,SN,SEN,686,Rural,12,Dry latrines - Other,0.0,World Health Survey - WHS03
+Senegal,SN,SEN,686,Rural,13,Composting toilets,0.0,World Health Survey - WHS03
+Senegal,SN,SEN,686,Rural,14,Other improved,0.0,World Health Survey - WHS03
+Senegal,SN,SEN,686,Rural,15,"No facility, bush, field",0.312,World Health Survey - WHS03
+Senegal,SN,SEN,686,Rural,16,Other unimproved,0.026,World Health Survey - WHS03
+Senegal,SN,SEN,686,Rural,17,DK/missing information,0.0,World Health Survey - WHS03
+Senegal,SN,SEN,686,Urban,1,Flush and pour flush - to piped sewer system,0.183,Demographic and Health Survey - DHS05
+Senegal,SN,SEN,686,Urban,2,Flush and pour flush - to septic tank,0.472,Demographic and Health Survey - DHS05
+Senegal,SN,SEN,686,Urban,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS05
+Senegal,SN,SEN,686,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS05
+Senegal,SN,SEN,686,Urban,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS05
+Senegal,SN,SEN,686,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - DHS05
+Senegal,SN,SEN,686,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.093,Demographic and Health Survey - DHS05
+Senegal,SN,SEN,686,Urban,8,Dry latrines - Traditional latrine,0.204,Demographic and Health Survey - DHS05
+Senegal,SN,SEN,686,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Survey - DHS05
+Senegal,SN,SEN,686,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS05
+Senegal,SN,SEN,686,Urban,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS05
+Senegal,SN,SEN,686,Urban,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS05
+Senegal,SN,SEN,686,Urban,13,Composting toilets,0.0,Demographic and Health Survey - DHS05
+Senegal,SN,SEN,686,Urban,14,Other improved,0.0,Demographic and Health Survey - DHS05
+Senegal,SN,SEN,686,Urban,15,"No facility, bush, field",0.041,Demographic and Health Survey - DHS05
+Senegal,SN,SEN,686,Urban,16,Other unimproved,0.0,Demographic and Health Survey - DHS05
+Senegal,SN,SEN,686,Urban,17,DK/missing information,0.006,Demographic and Health Survey - DHS05
+Senegal,SN,SEN,686,Rural,1,Flush and pour flush - to piped sewer system,0.004,Demographic and Health Survey - DHS05
+Senegal,SN,SEN,686,Rural,2,Flush and pour flush - to septic tank,0.123,Demographic and Health Survey - DHS05
+Senegal,SN,SEN,686,Rural,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS05
+Senegal,SN,SEN,686,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS05
+Senegal,SN,SEN,686,Rural,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS05
+Senegal,SN,SEN,686,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - DHS05
+Senegal,SN,SEN,686,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.1,Demographic and Health Survey - DHS05
+Senegal,SN,SEN,686,Rural,8,Dry latrines - Traditional latrine,0.365,Demographic and Health Survey - DHS05
+Senegal,SN,SEN,686,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Survey - DHS05
+Senegal,SN,SEN,686,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS05
+Senegal,SN,SEN,686,Rural,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS05
+Senegal,SN,SEN,686,Rural,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS05
+Senegal,SN,SEN,686,Rural,13,Composting toilets,0.0,Demographic and Health Survey - DHS05
+Senegal,SN,SEN,686,Rural,14,Other improved,0.0,Demographic and Health Survey - DHS05
+Senegal,SN,SEN,686,Rural,15,"No facility, bush, field",0.403,Demographic and Health Survey - DHS05
+Senegal,SN,SEN,686,Rural,16,Other unimproved,0.0,Demographic and Health Survey - DHS05
+Senegal,SN,SEN,686,Rural,17,DK/missing information,0.005,Demographic and Health Survey - DHS05
+Senegal,SN,SEN,686,Urban,1,Flush and pour flush - to piped sewer system,0.097,Malaria Indicator Survey - MIS06
+Senegal,SN,SEN,686,Urban,2,Flush and pour flush - to septic tank,0.641,Malaria Indicator Survey - MIS06
+Senegal,SN,SEN,686,Urban,3,Flush and pour flush - to pit,0.0,Malaria Indicator Survey - MIS06
+Senegal,SN,SEN,686,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Malaria Indicator Survey - MIS06
+Senegal,SN,SEN,686,Urban,5,Flush and pour flush - to elsewhere,0.0,Malaria Indicator Survey - MIS06
+Senegal,SN,SEN,686,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Malaria Indicator Survey - MIS06
+Senegal,SN,SEN,686,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.107,Malaria Indicator Survey - MIS06
+Senegal,SN,SEN,686,Urban,8,Dry latrines - Traditional latrine,0.119,Malaria Indicator Survey - MIS06
+Senegal,SN,SEN,686,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Malaria Indicator Survey - MIS06
+Senegal,SN,SEN,686,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Malaria Indicator Survey - MIS06
+Senegal,SN,SEN,686,Urban,11,Dry latrines - Bucket latrine,0.0,Malaria Indicator Survey - MIS06
+Senegal,SN,SEN,686,Urban,12,Dry latrines - Other,0.0,Malaria Indicator Survey - MIS06
+Senegal,SN,SEN,686,Urban,13,Composting toilets,0.0,Malaria Indicator Survey - MIS06
+Senegal,SN,SEN,686,Urban,14,Other improved,0.0,Malaria Indicator Survey - MIS06
+Senegal,SN,SEN,686,Urban,15,"No facility, bush, field",0.025,Malaria Indicator Survey - MIS06
+Senegal,SN,SEN,686,Urban,16,Other unimproved,0.003,Malaria Indicator Survey - MIS06
+Senegal,SN,SEN,686,Urban,17,DK/missing information,0.009,Malaria Indicator Survey - MIS06
+Senegal,SN,SEN,686,Rural,1,Flush and pour flush - to piped sewer system,0.002,Malaria Indicator Survey - MIS06
+Senegal,SN,SEN,686,Rural,2,Flush and pour flush - to septic tank,0.213,Malaria Indicator Survey - MIS06
+Senegal,SN,SEN,686,Rural,3,Flush and pour flush - to pit,0.0,Malaria Indicator Survey - MIS06
+Senegal,SN,SEN,686,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Malaria Indicator Survey - MIS06
+Senegal,SN,SEN,686,Rural,5,Flush and pour flush - to elsewhere,0.0,Malaria Indicator Survey - MIS06
+Senegal,SN,SEN,686,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Malaria Indicator Survey - MIS06
+Senegal,SN,SEN,686,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.123,Malaria Indicator Survey - MIS06
+Senegal,SN,SEN,686,Rural,8,Dry latrines - Traditional latrine,0.358,Malaria Indicator Survey - MIS06
+Senegal,SN,SEN,686,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Malaria Indicator Survey - MIS06
+Senegal,SN,SEN,686,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Malaria Indicator Survey - MIS06
+Senegal,SN,SEN,686,Rural,11,Dry latrines - Bucket latrine,0.0,Malaria Indicator Survey - MIS06
+Senegal,SN,SEN,686,Rural,12,Dry latrines - Other,0.0,Malaria Indicator Survey - MIS06
+Senegal,SN,SEN,686,Rural,13,Composting toilets,0.0,Malaria Indicator Survey - MIS06
+Senegal,SN,SEN,686,Rural,14,Other improved,0.0,Malaria Indicator Survey - MIS06
+Senegal,SN,SEN,686,Rural,15,"No facility, bush, field",0.295,Malaria Indicator Survey - MIS06
+Senegal,SN,SEN,686,Rural,16,Other unimproved,0.0,Malaria Indicator Survey - MIS06
+Senegal,SN,SEN,686,Rural,17,DK/missing information,0.009,Malaria Indicator Survey - MIS06
+Senegal,SN,SEN,686,Urban,1,Flush and pour flush - to piped sewer system,0.186,Malaria Indicator Survey - MIS09
+Senegal,SN,SEN,686,Urban,2,Flush and pour flush - to septic tank,0.589,Malaria Indicator Survey - MIS09
+Senegal,SN,SEN,686,Urban,3,Flush and pour flush - to pit,0.048,Malaria Indicator Survey - MIS09
+Senegal,SN,SEN,686,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.001,Malaria Indicator Survey - MIS09
+Senegal,SN,SEN,686,Urban,5,Flush and pour flush - to elsewhere,0.004,Malaria Indicator Survey - MIS09
+Senegal,SN,SEN,686,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.034,Malaria Indicator Survey - MIS09
+Senegal,SN,SEN,686,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.035,Malaria Indicator Survey - MIS09
+Senegal,SN,SEN,686,Urban,8,Dry latrines - Traditional latrine,0.0,Malaria Indicator Survey - MIS09
+Senegal,SN,SEN,686,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.061,Malaria Indicator Survey - MIS09
+Senegal,SN,SEN,686,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.002,Malaria Indicator Survey - MIS09
+Senegal,SN,SEN,686,Urban,11,Dry latrines - Bucket latrine,0.001,Malaria Indicator Survey - MIS09
+Senegal,SN,SEN,686,Urban,12,Dry latrines - Other,0.0,Malaria Indicator Survey - MIS09
+Senegal,SN,SEN,686,Urban,13,Composting toilets,0.001,Malaria Indicator Survey - MIS09
+Senegal,SN,SEN,686,Urban,14,Other improved,0.0,Malaria Indicator Survey - MIS09
+Senegal,SN,SEN,686,Urban,15,"No facility, bush, field",0.035,Malaria Indicator Survey - MIS09
+Senegal,SN,SEN,686,Urban,16,Other unimproved,0.001,Malaria Indicator Survey - MIS09
+Senegal,SN,SEN,686,Urban,17,DK/missing information,0.003,Malaria Indicator Survey - MIS09
+Senegal,SN,SEN,686,Rural,1,Flush and pour flush - to piped sewer system,0.009,Malaria Indicator Survey - MIS09
+Senegal,SN,SEN,686,Rural,2,Flush and pour flush - to septic tank,0.22,Malaria Indicator Survey - MIS09
+Senegal,SN,SEN,686,Rural,3,Flush and pour flush - to pit,0.067,Malaria Indicator Survey - MIS09
+Senegal,SN,SEN,686,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Malaria Indicator Survey - MIS09
+Senegal,SN,SEN,686,Rural,5,Flush and pour flush - to elsewhere,0.003,Malaria Indicator Survey - MIS09
+Senegal,SN,SEN,686,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.063,Malaria Indicator Survey - MIS09
+Senegal,SN,SEN,686,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.064,Malaria Indicator Survey - MIS09
+Senegal,SN,SEN,686,Rural,8,Dry latrines - Traditional latrine,0.0,Malaria Indicator Survey - MIS09
+Senegal,SN,SEN,686,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.234,Malaria Indicator Survey - MIS09
+Senegal,SN,SEN,686,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.005,Malaria Indicator Survey - MIS09
+Senegal,SN,SEN,686,Rural,11,Dry latrines - Bucket latrine,0.0,Malaria Indicator Survey - MIS09
+Senegal,SN,SEN,686,Rural,12,Dry latrines - Other,0.0,Malaria Indicator Survey - MIS09
+Senegal,SN,SEN,686,Rural,13,Composting toilets,0.001,Malaria Indicator Survey - MIS09
+Senegal,SN,SEN,686,Rural,14,Other improved,0.0,Malaria Indicator Survey - MIS09
+Senegal,SN,SEN,686,Rural,15,"No facility, bush, field",0.328,Malaria Indicator Survey - MIS09
+Senegal,SN,SEN,686,Rural,16,Other unimproved,0.001,Malaria Indicator Survey - MIS09
+Senegal,SN,SEN,686,Rural,17,DK/missing information,0.006,Malaria Indicator Survey - MIS09
+Senegal,SN,SEN,686,Urban,1,Flush and pour flush - to piped sewer system,0.274,L’Enquête de Suivi de la Pauvreté au Sénégal - ESPS11
+Senegal,SN,SEN,686,Urban,2,Flush and pour flush - to septic tank,0.535,L’Enquête de Suivi de la Pauvreté au Sénégal - ESPS11
+Senegal,SN,SEN,686,Urban,3,Flush and pour flush - to pit,0.0,L’Enquête de Suivi de la Pauvreté au Sénégal - ESPS11
+Senegal,SN,SEN,686,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,L’Enquête de Suivi de la Pauvreté au Sénégal - ESPS11
+Senegal,SN,SEN,686,Urban,5,Flush and pour flush - to elsewhere,0.0,L’Enquête de Suivi de la Pauvreté au Sénégal - ESPS11
+Senegal,SN,SEN,686,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.023,L’Enquête de Suivi de la Pauvreté au Sénégal - ESPS11
+Senegal,SN,SEN,686,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.084,L’Enquête de Suivi de la Pauvreté au Sénégal - ESPS11
+Senegal,SN,SEN,686,Urban,8,Dry latrines - Traditional latrine,0.0,L’Enquête de Suivi de la Pauvreté au Sénégal - ESPS11
+Senegal,SN,SEN,686,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.049,L’Enquête de Suivi de la Pauvreté au Sénégal - ESPS11
+Senegal,SN,SEN,686,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,L’Enquête de Suivi de la Pauvreté au Sénégal - ESPS11
+Senegal,SN,SEN,686,Urban,11,Dry latrines - Bucket latrine,0.014,L’Enquête de Suivi de la Pauvreté au Sénégal - ESPS11
+Senegal,SN,SEN,686,Urban,12,Dry latrines - Other,0.0,L’Enquête de Suivi de la Pauvreté au Sénégal - ESPS11
+Senegal,SN,SEN,686,Urban,13,Composting toilets,0.0,L’Enquête de Suivi de la Pauvreté au Sénégal - ESPS11
+Senegal,SN,SEN,686,Urban,14,Other improved,0.0,L’Enquête de Suivi de la Pauvreté au Sénégal - ESPS11
+Senegal,SN,SEN,686,Urban,15,"No facility, bush, field",0.005,L’Enquête de Suivi de la Pauvreté au Sénégal - ESPS11
+Senegal,SN,SEN,686,Urban,16,Other unimproved,0.016,L’Enquête de Suivi de la Pauvreté au Sénégal - ESPS11
+Senegal,SN,SEN,686,Urban,17,DK/missing information,0.0,L’Enquête de Suivi de la Pauvreté au Sénégal - ESPS11
+Senegal,SN,SEN,686,Rural,1,Flush and pour flush - to piped sewer system,0.015,L’Enquête de Suivi de la Pauvreté au Sénégal - ESPS11
+Senegal,SN,SEN,686,Rural,2,Flush and pour flush - to septic tank,0.21,L’Enquête de Suivi de la Pauvreté au Sénégal - ESPS11
+Senegal,SN,SEN,686,Rural,3,Flush and pour flush - to pit,0.0,L’Enquête de Suivi de la Pauvreté au Sénégal - ESPS11
+Senegal,SN,SEN,686,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,L’Enquête de Suivi de la Pauvreté au Sénégal - ESPS11
+Senegal,SN,SEN,686,Rural,5,Flush and pour flush - to elsewhere,0.0,L’Enquête de Suivi de la Pauvreté au Sénégal - ESPS11
+Senegal,SN,SEN,686,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.062,L’Enquête de Suivi de la Pauvreté au Sénégal - ESPS11
+Senegal,SN,SEN,686,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.139,L’Enquête de Suivi de la Pauvreté au Sénégal - ESPS11
+Senegal,SN,SEN,686,Rural,8,Dry latrines - Traditional latrine,0.0,L’Enquête de Suivi de la Pauvreté au Sénégal - ESPS11
+Senegal,SN,SEN,686,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.228,L’Enquête de Suivi de la Pauvreté au Sénégal - ESPS11
+Senegal,SN,SEN,686,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,L’Enquête de Suivi de la Pauvreté au Sénégal - ESPS11
+Senegal,SN,SEN,686,Rural,11,Dry latrines - Bucket latrine,0.023,L’Enquête de Suivi de la Pauvreté au Sénégal - ESPS11
+Senegal,SN,SEN,686,Rural,12,Dry latrines - Other,0.0,L’Enquête de Suivi de la Pauvreté au Sénégal - ESPS11
+Senegal,SN,SEN,686,Rural,13,Composting toilets,0.0,L’Enquête de Suivi de la Pauvreté au Sénégal - ESPS11
+Senegal,SN,SEN,686,Rural,14,Other improved,0.003,L’Enquête de Suivi de la Pauvreté au Sénégal - ESPS11
+Senegal,SN,SEN,686,Rural,15,"No facility, bush, field",0.254,L’Enquête de Suivi de la Pauvreté au Sénégal - ESPS11
+Senegal,SN,SEN,686,Rural,16,Other unimproved,0.068,L’Enquête de Suivi de la Pauvreté au Sénégal - ESPS11
+Senegal,SN,SEN,686,Rural,17,DK/missing information,0.0,L’Enquête de Suivi de la Pauvreté au Sénégal - ESPS11
+Senegal,SN,SEN,686,Urban,1,Flush and pour flush - to piped sewer system,0.23,Measure DHS - DHS11
+Senegal,SN,SEN,686,Urban,2,Flush and pour flush - to septic tank,0.248,Measure DHS - DHS11
+Senegal,SN,SEN,686,Urban,3,Flush and pour flush - to pit,0.0,Measure DHS - DHS11
+Senegal,SN,SEN,686,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Measure DHS - DHS11
+Senegal,SN,SEN,686,Urban,5,Flush and pour flush - to elsewhere,0.0,Measure DHS - DHS11
+Senegal,SN,SEN,686,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.054,Measure DHS - DHS11
+Senegal,SN,SEN,686,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.27,Measure DHS - DHS11
+Senegal,SN,SEN,686,Urban,8,Dry latrines - Traditional latrine,0.109,Measure DHS - DHS11
+Senegal,SN,SEN,686,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Measure DHS - DHS11
+Senegal,SN,SEN,686,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Measure DHS - DHS11
+Senegal,SN,SEN,686,Urban,11,Dry latrines - Bucket latrine,0.0,Measure DHS - DHS11
+Senegal,SN,SEN,686,Urban,12,Dry latrines - Other,0.0,Measure DHS - DHS11
+Senegal,SN,SEN,686,Urban,13,Composting toilets,0.0,Measure DHS - DHS11
+Senegal,SN,SEN,686,Urban,14,Other improved,0.069,Measure DHS - DHS11
+Senegal,SN,SEN,686,Urban,15,"No facility, bush, field",0.02,Measure DHS - DHS11
+Senegal,SN,SEN,686,Urban,16,Other unimproved,0.001,Measure DHS - DHS11
+Senegal,SN,SEN,686,Urban,17,DK/missing information,0.0,Measure DHS - DHS11
+Senegal,SN,SEN,686,Rural,1,Flush and pour flush - to piped sewer system,0.008,Measure DHS - DHS11
+Senegal,SN,SEN,686,Rural,2,Flush and pour flush - to septic tank,0.084,Measure DHS - DHS11
+Senegal,SN,SEN,686,Rural,3,Flush and pour flush - to pit,0.0,Measure DHS - DHS11
+Senegal,SN,SEN,686,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Measure DHS - DHS11
+Senegal,SN,SEN,686,Rural,5,Flush and pour flush - to elsewhere,0.0,Measure DHS - DHS11
+Senegal,SN,SEN,686,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.049,Measure DHS - DHS11
+Senegal,SN,SEN,686,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.179,Measure DHS - DHS11
+Senegal,SN,SEN,686,Rural,8,Dry latrines - Traditional latrine,0.329,Measure DHS - DHS11
+Senegal,SN,SEN,686,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Measure DHS - DHS11
+Senegal,SN,SEN,686,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Measure DHS - DHS11
+Senegal,SN,SEN,686,Rural,11,Dry latrines - Bucket latrine,0.0,Measure DHS - DHS11
+Senegal,SN,SEN,686,Rural,12,Dry latrines - Other,0.0,Measure DHS - DHS11
+Senegal,SN,SEN,686,Rural,13,Composting toilets,0.0,Measure DHS - DHS11
+Senegal,SN,SEN,686,Rural,14,Other improved,0.024,Measure DHS - DHS11
+Senegal,SN,SEN,686,Rural,15,"No facility, bush, field",0.328,Measure DHS - DHS11
+Senegal,SN,SEN,686,Rural,16,Other unimproved,0.0,Measure DHS - DHS11
+Senegal,SN,SEN,686,Rural,17,DK/missing information,0.0,Measure DHS - DHS11
+Senegal,SN,SEN,686,Urban,1,Flush and pour flush - to piped sewer system,0.14,Enquête Démographique et de Santé Continue au Sénégal (EDS-Continue 2012-2013) - DHS13
+Senegal,SN,SEN,686,Urban,2,Flush and pour flush - to septic tank,0.292,Enquête Démographique et de Santé Continue au Sénégal (EDS-Continue 2012-2013) - DHS13
+Senegal,SN,SEN,686,Urban,3,Flush and pour flush - to pit,0.0,Enquête Démographique et de Santé Continue au Sénégal (EDS-Continue 2012-2013) - DHS13
+Senegal,SN,SEN,686,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquête Démographique et de Santé Continue au Sénégal (EDS-Continue 2012-2013) - DHS13
+Senegal,SN,SEN,686,Urban,5,Flush and pour flush - to elsewhere,0.0,Enquête Démographique et de Santé Continue au Sénégal (EDS-Continue 2012-2013) - DHS13
+Senegal,SN,SEN,686,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.117,Enquête Démographique et de Santé Continue au Sénégal (EDS-Continue 2012-2013) - DHS13
+Senegal,SN,SEN,686,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.34,Enquête Démographique et de Santé Continue au Sénégal (EDS-Continue 2012-2013) - DHS13
+Senegal,SN,SEN,686,Urban,8,Dry latrines - Traditional latrine,0.08,Enquête Démographique et de Santé Continue au Sénégal (EDS-Continue 2012-2013) - DHS13
+Senegal,SN,SEN,686,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.068,Enquête Démographique et de Santé Continue au Sénégal (EDS-Continue 2012-2013) - DHS13
+Senegal,SN,SEN,686,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.235,Enquête Démographique et de Santé Continue au Sénégal (EDS-Continue 2012-2013) - DHS13
+Senegal,SN,SEN,686,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.049,Enquête Démographique et de Santé Continue au Sénégal (EDS-Continue 2012-2013) - DHS13
+Senegal,SN,SEN,686,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.105,Enquête Démographique et de Santé Continue au Sénégal (EDS-Continue 2012-2013) - DHS13
+Senegal,SN,SEN,686,Urban,8,Dry latrines - Traditional latrine,0.0,Enquête Démographique et de Santé Continue au Sénégal (EDS-Continue 2012-2013) - DHS13
+Senegal,SN,SEN,686,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Enquête Démographique et de Santé Continue au Sénégal (EDS-Continue 2012-2013) - DHS13
+Senegal,SN,SEN,686,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquête Démographique et de Santé Continue au Sénégal (EDS-Continue 2012-2013) - DHS13
+Senegal,SN,SEN,686,Urban,11,Dry latrines - Bucket latrine,0.0,Enquête Démographique et de Santé Continue au Sénégal (EDS-Continue 2012-2013) - DHS13
+Senegal,SN,SEN,686,Urban,12,Dry latrines - Other,0.0,Enquête Démographique et de Santé Continue au Sénégal (EDS-Continue 2012-2013) - DHS13
+Senegal,SN,SEN,686,Urban,13,Composting toilets,0.0,Enquête Démographique et de Santé Continue au Sénégal (EDS-Continue 2012-2013) - DHS13
+Senegal,SN,SEN,686,Urban,14,Other improved,0.0,Enquête Démographique et de Santé Continue au Sénégal (EDS-Continue 2012-2013) - DHS13
+Senegal,SN,SEN,686,Urban,15,"No facility, bush, field",0.021,Enquête Démographique et de Santé Continue au Sénégal (EDS-Continue 2012-2013) - DHS13
+Senegal,SN,SEN,686,Urban,16,Other unimproved,0.006,Enquête Démographique et de Santé Continue au Sénégal (EDS-Continue 2012-2013) - DHS13
+Senegal,SN,SEN,686,Urban,17,DK/missing information,0.0,Enquête Démographique et de Santé Continue au Sénégal (EDS-Continue 2012-2013) - DHS13
+Senegal,SN,SEN,686,Rural,1,Flush and pour flush - to piped sewer system,0.0,Enquête Démographique et de Santé Continue au Sénégal (EDS-Continue 2012-2013) - DHS13
+Senegal,SN,SEN,686,Rural,2,Flush and pour flush - to septic tank,0.082,Enquête Démographique et de Santé Continue au Sénégal (EDS-Continue 2012-2013) - DHS13
+Senegal,SN,SEN,686,Rural,3,Flush and pour flush - to pit,0.0,Enquête Démographique et de Santé Continue au Sénégal (EDS-Continue 2012-2013) - DHS13
+Senegal,SN,SEN,686,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquête Démographique et de Santé Continue au Sénégal (EDS-Continue 2012-2013) - DHS13
+Senegal,SN,SEN,686,Rural,5,Flush and pour flush - to elsewhere,0.0,Enquête Démographique et de Santé Continue au Sénégal (EDS-Continue 2012-2013) - DHS13
+Senegal,SN,SEN,686,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.064,Enquête Démographique et de Santé Continue au Sénégal (EDS-Continue 2012-2013) - DHS13
+Senegal,SN,SEN,686,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.266,Enquête Démographique et de Santé Continue au Sénégal (EDS-Continue 2012-2013) - DHS13
+Senegal,SN,SEN,686,Rural,8,Dry latrines - Traditional latrine,0.238,Enquête Démographique et de Santé Continue au Sénégal (EDS-Continue 2012-2013) - DHS13
+Senegal,SN,SEN,686,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.055,Enquête Démographique et de Santé Continue au Sénégal (EDS-Continue 2012-2013) - DHS13
+Senegal,SN,SEN,686,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.22,Enquête Démographique et de Santé Continue au Sénégal (EDS-Continue 2012-2013) - DHS13
+Senegal,SN,SEN,686,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.009,Enquête Démographique et de Santé Continue au Sénégal (EDS-Continue 2012-2013) - DHS13
+Senegal,SN,SEN,686,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.046,Enquête Démographique et de Santé Continue au Sénégal (EDS-Continue 2012-2013) - DHS13
+Senegal,SN,SEN,686,Rural,8,Dry latrines - Traditional latrine,0.0,Enquête Démographique et de Santé Continue au Sénégal (EDS-Continue 2012-2013) - DHS13
+Senegal,SN,SEN,686,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Enquête Démographique et de Santé Continue au Sénégal (EDS-Continue 2012-2013) - DHS13
+Senegal,SN,SEN,686,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquête Démographique et de Santé Continue au Sénégal (EDS-Continue 2012-2013) - DHS13
+Senegal,SN,SEN,686,Rural,11,Dry latrines - Bucket latrine,0.0,Enquête Démographique et de Santé Continue au Sénégal (EDS-Continue 2012-2013) - DHS13
+Senegal,SN,SEN,686,Rural,12,Dry latrines - Other,0.0,Enquête Démographique et de Santé Continue au Sénégal (EDS-Continue 2012-2013) - DHS13
+Senegal,SN,SEN,686,Rural,13,Composting toilets,0.0,Enquête Démographique et de Santé Continue au Sénégal (EDS-Continue 2012-2013) - DHS13
+Senegal,SN,SEN,686,Rural,14,Other improved,0.0,Enquête Démographique et de Santé Continue au Sénégal (EDS-Continue 2012-2013) - DHS13
+Senegal,SN,SEN,686,Rural,15,"No facility, bush, field",0.341,Enquête Démographique et de Santé Continue au Sénégal (EDS-Continue 2012-2013) - DHS13
+Senegal,SN,SEN,686,Rural,16,Other unimproved,0.004,Enquête Démographique et de Santé Continue au Sénégal (EDS-Continue 2012-2013) - DHS13
+Senegal,SN,SEN,686,Rural,17,DK/missing information,0.0,Enquête Démographique et de Santé Continue au Sénégal (EDS-Continue 2012-2013) - DHS13
+Senegal,SN,SEN,686,Urban,1,Flush and pour flush - to piped sewer system,0.27,"Census, 2013 - CEN13"
+Senegal,SN,SEN,686,Urban,2,Flush and pour flush - to septic tank,0.442,"Census, 2013 - CEN13"
+Senegal,SN,SEN,686,Urban,3,Flush and pour flush - to pit,0.0,"Census, 2013 - CEN13"
+Senegal,SN,SEN,686,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Census, 2013 - CEN13"
+Senegal,SN,SEN,686,Urban,5,Flush and pour flush - to elsewhere,0.0,"Census, 2013 - CEN13"
+Senegal,SN,SEN,686,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.018,"Census, 2013 - CEN13"
+Senegal,SN,SEN,686,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.149,"Census, 2013 - CEN13"
+Senegal,SN,SEN,686,Urban,8,Dry latrines - Traditional latrine,0.0,"Census, 2013 - CEN13"
+Senegal,SN,SEN,686,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.09,"Census, 2013 - CEN13"
+Senegal,SN,SEN,686,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Census, 2013 - CEN13"
+Senegal,SN,SEN,686,Urban,11,Dry latrines - Bucket latrine,0.0,"Census, 2013 - CEN13"
+Senegal,SN,SEN,686,Urban,12,Dry latrines - Other,0.0,"Census, 2013 - CEN13"
+Senegal,SN,SEN,686,Urban,13,Composting toilets,0.0,"Census, 2013 - CEN13"
+Senegal,SN,SEN,686,Urban,14,Other improved,0.0,"Census, 2013 - CEN13"
+Senegal,SN,SEN,686,Urban,15,"No facility, bush, field",0.015,"Census, 2013 - CEN13"
+Senegal,SN,SEN,686,Urban,16,Other unimproved,0.017,"Census, 2013 - CEN13"
+Senegal,SN,SEN,686,Urban,17,DK/missing information,0.0,"Census, 2013 - CEN13"
+Senegal,SN,SEN,686,Rural,1,Flush and pour flush - to piped sewer system,0.026,"Census, 2013 - CEN13"
+Senegal,SN,SEN,686,Rural,2,Flush and pour flush - to septic tank,0.19,"Census, 2013 - CEN13"
+Senegal,SN,SEN,686,Rural,3,Flush and pour flush - to pit,0.0,"Census, 2013 - CEN13"
+Senegal,SN,SEN,686,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Census, 2013 - CEN13"
+Senegal,SN,SEN,686,Rural,5,Flush and pour flush - to elsewhere,0.0,"Census, 2013 - CEN13"
+Senegal,SN,SEN,686,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.036,"Census, 2013 - CEN13"
+Senegal,SN,SEN,686,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.195,"Census, 2013 - CEN13"
+Senegal,SN,SEN,686,Rural,8,Dry latrines - Traditional latrine,0.0,"Census, 2013 - CEN13"
+Senegal,SN,SEN,686,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.291,"Census, 2013 - CEN13"
+Senegal,SN,SEN,686,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Census, 2013 - CEN13"
+Senegal,SN,SEN,686,Rural,11,Dry latrines - Bucket latrine,0.0,"Census, 2013 - CEN13"
+Senegal,SN,SEN,686,Rural,12,Dry latrines - Other,0.0,"Census, 2013 - CEN13"
+Senegal,SN,SEN,686,Rural,13,Composting toilets,0.0,"Census, 2013 - CEN13"
+Senegal,SN,SEN,686,Rural,14,Other improved,0.0,"Census, 2013 - CEN13"
+Senegal,SN,SEN,686,Rural,15,"No facility, bush, field",0.221,"Census, 2013 - CEN13"
+Senegal,SN,SEN,686,Rural,16,Other unimproved,0.041,"Census, 2013 - CEN13"
+Senegal,SN,SEN,686,Rural,17,DK/missing information,0.0,"Census, 2013 - CEN13"
+Senegal,SN,SEN,686,Urban,1,Flush and pour flush - to piped sewer system,0.114,"Continuous Demographic and Health Surveys, 2013-2014 - DHS14"
+Senegal,SN,SEN,686,Urban,2,Flush and pour flush - to septic tank,0.152,"Continuous Demographic and Health Surveys, 2013-2014 - DHS14"
+Senegal,SN,SEN,686,Urban,3,Flush and pour flush - to pit,0.0,"Continuous Demographic and Health Surveys, 2013-2014 - DHS14"
+Senegal,SN,SEN,686,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Continuous Demographic and Health Surveys, 2013-2014 - DHS14"
+Senegal,SN,SEN,686,Urban,5,Flush and pour flush - to elsewhere,0.0,"Continuous Demographic and Health Surveys, 2013-2014 - DHS14"
+Senegal,SN,SEN,686,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.025,"Continuous Demographic and Health Surveys, 2013-2014 - DHS14"
+Senegal,SN,SEN,686,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.562,"Continuous Demographic and Health Surveys, 2013-2014 - DHS14"
+Senegal,SN,SEN,686,Urban,8,Dry latrines - Traditional latrine,0.1,"Continuous Demographic and Health Surveys, 2013-2014 - DHS14"
+Senegal,SN,SEN,686,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.016,"Continuous Demographic and Health Surveys, 2013-2014 - DHS14"
+Senegal,SN,SEN,686,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.415,"Continuous Demographic and Health Surveys, 2013-2014 - DHS14"
+Senegal,SN,SEN,686,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.009,"Continuous Demographic and Health Surveys, 2013-2014 - DHS14"
+Senegal,SN,SEN,686,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.147,"Continuous Demographic and Health Surveys, 2013-2014 - DHS14"
+Senegal,SN,SEN,686,Urban,8,Dry latrines - Traditional latrine,0.0,"Continuous Demographic and Health Surveys, 2013-2014 - DHS14"
+Senegal,SN,SEN,686,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Continuous Demographic and Health Surveys, 2013-2014 - DHS14"
+Senegal,SN,SEN,686,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Continuous Demographic and Health Surveys, 2013-2014 - DHS14"
+Senegal,SN,SEN,686,Urban,11,Dry latrines - Bucket latrine,0.0,"Continuous Demographic and Health Surveys, 2013-2014 - DHS14"
+Senegal,SN,SEN,686,Urban,12,Dry latrines - Other,0.0,"Continuous Demographic and Health Surveys, 2013-2014 - DHS14"
+Senegal,SN,SEN,686,Urban,13,Composting toilets,0.0,"Continuous Demographic and Health Surveys, 2013-2014 - DHS14"
+Senegal,SN,SEN,686,Urban,14,Other improved,0.022,"Continuous Demographic and Health Surveys, 2013-2014 - DHS14"
+Senegal,SN,SEN,686,Urban,15,"No facility, bush, field",0.024,"Continuous Demographic and Health Surveys, 2013-2014 - DHS14"
+Senegal,SN,SEN,686,Urban,16,Other unimproved,0.0,"Continuous Demographic and Health Surveys, 2013-2014 - DHS14"
+Senegal,SN,SEN,686,Urban,17,DK/missing information,0.0,"Continuous Demographic and Health Surveys, 2013-2014 - DHS14"
+Senegal,SN,SEN,686,Rural,1,Flush and pour flush - to piped sewer system,0.0,"Continuous Demographic and Health Surveys, 2013-2014 - DHS14"
+Senegal,SN,SEN,686,Rural,2,Flush and pour flush - to septic tank,0.105,"Continuous Demographic and Health Surveys, 2013-2014 - DHS14"
+Senegal,SN,SEN,686,Rural,3,Flush and pour flush - to pit,0.0,"Continuous Demographic and Health Surveys, 2013-2014 - DHS14"
+Senegal,SN,SEN,686,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Continuous Demographic and Health Surveys, 2013-2014 - DHS14"
+Senegal,SN,SEN,686,Rural,5,Flush and pour flush - to elsewhere,0.0,"Continuous Demographic and Health Surveys, 2013-2014 - DHS14"
+Senegal,SN,SEN,686,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.041,"Continuous Demographic and Health Surveys, 2013-2014 - DHS14"
+Senegal,SN,SEN,686,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.293,"Continuous Demographic and Health Surveys, 2013-2014 - DHS14"
+Senegal,SN,SEN,686,Rural,8,Dry latrines - Traditional latrine,0.292,"Continuous Demographic and Health Surveys, 2013-2014 - DHS14"
+Senegal,SN,SEN,686,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.033,"Continuous Demographic and Health Surveys, 2013-2014 - DHS14"
+Senegal,SN,SEN,686,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.24,"Continuous Demographic and Health Surveys, 2013-2014 - DHS14"
+Senegal,SN,SEN,686,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.008,"Continuous Demographic and Health Surveys, 2013-2014 - DHS14"
+Senegal,SN,SEN,686,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.053,"Continuous Demographic and Health Surveys, 2013-2014 - DHS14"
+Senegal,SN,SEN,686,Rural,8,Dry latrines - Traditional latrine,0.0,"Continuous Demographic and Health Surveys, 2013-2014 - DHS14"
+Senegal,SN,SEN,686,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Continuous Demographic and Health Surveys, 2013-2014 - DHS14"
+Senegal,SN,SEN,686,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Continuous Demographic and Health Surveys, 2013-2014 - DHS14"
+Senegal,SN,SEN,686,Rural,11,Dry latrines - Bucket latrine,0.0,"Continuous Demographic and Health Surveys, 2013-2014 - DHS14"
+Senegal,SN,SEN,686,Rural,12,Dry latrines - Other,0.0,"Continuous Demographic and Health Surveys, 2013-2014 - DHS14"
+Senegal,SN,SEN,686,Rural,13,Composting toilets,0.0,"Continuous Demographic and Health Surveys, 2013-2014 - DHS14"
+Senegal,SN,SEN,686,Rural,14,Other improved,0.006,"Continuous Demographic and Health Surveys, 2013-2014 - DHS14"
+Senegal,SN,SEN,686,Rural,15,"No facility, bush, field",0.262,"Continuous Demographic and Health Surveys, 2013-2014 - DHS14"
+Senegal,SN,SEN,686,Rural,16,Other unimproved,0.0,"Continuous Demographic and Health Surveys, 2013-2014 - DHS14"
+Senegal,SN,SEN,686,Rural,17,DK/missing information,0.0,"Continuous Demographic and Health Surveys, 2013-2014 - DHS14"
+Senegal,SN,SEN,686,Urban,1,Flush and pour flush - to piped sewer system,0.138,"Continuous Demographic and Health Surveys, 2015 - DHS15"
+Senegal,SN,SEN,686,Urban,2,Flush and pour flush - to septic tank,0.403,"Continuous Demographic and Health Surveys, 2015 - DHS15"
+Senegal,SN,SEN,686,Urban,3,Flush and pour flush - to pit,0.0,"Continuous Demographic and Health Surveys, 2015 - DHS15"
+Senegal,SN,SEN,686,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Continuous Demographic and Health Surveys, 2015 - DHS15"
+Senegal,SN,SEN,686,Urban,5,Flush and pour flush - to elsewhere,0.0,"Continuous Demographic and Health Surveys, 2015 - DHS15"
+Senegal,SN,SEN,686,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.032,"Continuous Demographic and Health Surveys, 2015 - DHS15"
+Senegal,SN,SEN,686,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.291,"Continuous Demographic and Health Surveys, 2015 - DHS15"
+Senegal,SN,SEN,686,Urban,8,Dry latrines - Traditional latrine,0.09,"Continuous Demographic and Health Surveys, 2015 - DHS15"
+Senegal,SN,SEN,686,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Continuous Demographic and Health Surveys, 2015 - DHS15"
+Senegal,SN,SEN,686,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Continuous Demographic and Health Surveys, 2015 - DHS15"
+Senegal,SN,SEN,686,Urban,11,Dry latrines - Bucket latrine,0.0,"Continuous Demographic and Health Surveys, 2015 - DHS15"
+Senegal,SN,SEN,686,Urban,12,Dry latrines - Other,0.0,"Continuous Demographic and Health Surveys, 2015 - DHS15"
+Senegal,SN,SEN,686,Urban,13,Composting toilets,0.0,"Continuous Demographic and Health Surveys, 2015 - DHS15"
+Senegal,SN,SEN,686,Urban,14,Other improved,0.016,"Continuous Demographic and Health Surveys, 2015 - DHS15"
+Senegal,SN,SEN,686,Urban,15,"No facility, bush, field",0.026,"Continuous Demographic and Health Surveys, 2015 - DHS15"
+Senegal,SN,SEN,686,Urban,16,Other unimproved,0.003,"Continuous Demographic and Health Surveys, 2015 - DHS15"
+Senegal,SN,SEN,686,Urban,17,DK/missing information,0.0,"Continuous Demographic and Health Surveys, 2015 - DHS15"
+Senegal,SN,SEN,686,Rural,1,Flush and pour flush - to piped sewer system,0.0,"Continuous Demographic and Health Surveys, 2015 - DHS15"
+Senegal,SN,SEN,686,Rural,2,Flush and pour flush - to septic tank,0.136,"Continuous Demographic and Health Surveys, 2015 - DHS15"
+Senegal,SN,SEN,686,Rural,3,Flush and pour flush - to pit,0.0,"Continuous Demographic and Health Surveys, 2015 - DHS15"
+Senegal,SN,SEN,686,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Continuous Demographic and Health Surveys, 2015 - DHS15"
+Senegal,SN,SEN,686,Rural,5,Flush and pour flush - to elsewhere,0.0,"Continuous Demographic and Health Surveys, 2015 - DHS15"
+Senegal,SN,SEN,686,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.07,"Continuous Demographic and Health Surveys, 2015 - DHS15"
+Senegal,SN,SEN,686,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.209,"Continuous Demographic and Health Surveys, 2015 - DHS15"
+Senegal,SN,SEN,686,Rural,8,Dry latrines - Traditional latrine,0.356,"Continuous Demographic and Health Surveys, 2015 - DHS15"
+Senegal,SN,SEN,686,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Continuous Demographic and Health Surveys, 2015 - DHS15"
+Senegal,SN,SEN,686,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Continuous Demographic and Health Surveys, 2015 - DHS15"
+Senegal,SN,SEN,686,Rural,11,Dry latrines - Bucket latrine,0.0,"Continuous Demographic and Health Surveys, 2015 - DHS15"
+Senegal,SN,SEN,686,Rural,12,Dry latrines - Other,0.0,"Continuous Demographic and Health Surveys, 2015 - DHS15"
+Senegal,SN,SEN,686,Rural,13,Composting toilets,0.0,"Continuous Demographic and Health Surveys, 2015 - DHS15"
+Senegal,SN,SEN,686,Rural,14,Other improved,0.002,"Continuous Demographic and Health Surveys, 2015 - DHS15"
+Senegal,SN,SEN,686,Rural,15,"No facility, bush, field",0.223,"Continuous Demographic and Health Surveys, 2015 - DHS15"
+Senegal,SN,SEN,686,Rural,16,Other unimproved,0.003,"Continuous Demographic and Health Surveys, 2015 - DHS15"
+Senegal,SN,SEN,686,Rural,17,DK/missing information,0.0,"Continuous Demographic and Health Surveys, 2015 - DHS15"
+Senegal,SN,SEN,686,Urban,1,Flush and pour flush - to piped sewer system,0.115,"Continuous Demographic and Health Surveys, 2016 - DHS16"
+Senegal,SN,SEN,686,Urban,2,Flush and pour flush - to septic tank,0.341,"Continuous Demographic and Health Surveys, 2016 - DHS16"
+Senegal,SN,SEN,686,Urban,3,Flush and pour flush - to pit,0.0,"Continuous Demographic and Health Surveys, 2016 - DHS16"
+Senegal,SN,SEN,686,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Continuous Demographic and Health Surveys, 2016 - DHS16"
+Senegal,SN,SEN,686,Urban,5,Flush and pour flush - to elsewhere,0.0,"Continuous Demographic and Health Surveys, 2016 - DHS16"
+Senegal,SN,SEN,686,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.031,"Continuous Demographic and Health Surveys, 2016 - DHS16"
+Senegal,SN,SEN,686,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.409,"Continuous Demographic and Health Surveys, 2016 - DHS16"
+Senegal,SN,SEN,686,Urban,8,Dry latrines - Traditional latrine,0.071,"Continuous Demographic and Health Surveys, 2016 - DHS16"
+Senegal,SN,SEN,686,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Continuous Demographic and Health Surveys, 2016 - DHS16"
+Senegal,SN,SEN,686,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Continuous Demographic and Health Surveys, 2016 - DHS16"
+Senegal,SN,SEN,686,Urban,11,Dry latrines - Bucket latrine,0.0,"Continuous Demographic and Health Surveys, 2016 - DHS16"
+Senegal,SN,SEN,686,Urban,12,Dry latrines - Other,0.0,"Continuous Demographic and Health Surveys, 2016 - DHS16"
+Senegal,SN,SEN,686,Urban,13,Composting toilets,0.0,"Continuous Demographic and Health Surveys, 2016 - DHS16"
+Senegal,SN,SEN,686,Urban,14,Other improved,0.017,"Continuous Demographic and Health Surveys, 2016 - DHS16"
+Senegal,SN,SEN,686,Urban,15,"No facility, bush, field",0.014,"Continuous Demographic and Health Surveys, 2016 - DHS16"
+Senegal,SN,SEN,686,Urban,16,Other unimproved,0.003,"Continuous Demographic and Health Surveys, 2016 - DHS16"
+Senegal,SN,SEN,686,Urban,17,DK/missing information,0.0,"Continuous Demographic and Health Surveys, 2016 - DHS16"
+Senegal,SN,SEN,686,Rural,1,Flush and pour flush - to piped sewer system,0.001,"Continuous Demographic and Health Surveys, 2016 - DHS16"
+Senegal,SN,SEN,686,Rural,2,Flush and pour flush - to septic tank,0.138,"Continuous Demographic and Health Surveys, 2016 - DHS16"
+Senegal,SN,SEN,686,Rural,3,Flush and pour flush - to pit,0.0,"Continuous Demographic and Health Surveys, 2016 - DHS16"
+Senegal,SN,SEN,686,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Continuous Demographic and Health Surveys, 2016 - DHS16"
+Senegal,SN,SEN,686,Rural,5,Flush and pour flush - to elsewhere,0.0,"Continuous Demographic and Health Surveys, 2016 - DHS16"
+Senegal,SN,SEN,686,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.047,"Continuous Demographic and Health Surveys, 2016 - DHS16"
+Senegal,SN,SEN,686,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.256,"Continuous Demographic and Health Surveys, 2016 - DHS16"
+Senegal,SN,SEN,686,Rural,8,Dry latrines - Traditional latrine,0.308,"Continuous Demographic and Health Surveys, 2016 - DHS16"
+Senegal,SN,SEN,686,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Continuous Demographic and Health Surveys, 2016 - DHS16"
+Senegal,SN,SEN,686,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Continuous Demographic and Health Surveys, 2016 - DHS16"
+Senegal,SN,SEN,686,Rural,11,Dry latrines - Bucket latrine,0.0,"Continuous Demographic and Health Surveys, 2016 - DHS16"
+Senegal,SN,SEN,686,Rural,12,Dry latrines - Other,0.0,"Continuous Demographic and Health Surveys, 2016 - DHS16"
+Senegal,SN,SEN,686,Rural,13,Composting toilets,0.0,"Continuous Demographic and Health Surveys, 2016 - DHS16"
+Senegal,SN,SEN,686,Rural,14,Other improved,0.007,"Continuous Demographic and Health Surveys, 2016 - DHS16"
+Senegal,SN,SEN,686,Rural,15,"No facility, bush, field",0.24,"Continuous Demographic and Health Surveys, 2016 - DHS16"
+Senegal,SN,SEN,686,Rural,16,Other unimproved,0.003,"Continuous Demographic and Health Surveys, 2016 - DHS16"
+Senegal,SN,SEN,686,Rural,17,DK/missing information,0.0,"Continuous Demographic and Health Surveys, 2016 - DHS16"
+Senegal,SN,SEN,686,Urban,1,Flush and pour flush - to piped sewer system,0.217,"Continuous Demographic and Health Surveys, 2017 - DHS17"
+Senegal,SN,SEN,686,Urban,2,Flush and pour flush - to septic tank,0.57,"Continuous Demographic and Health Surveys, 2017 - DHS17"
+Senegal,SN,SEN,686,Urban,3,Flush and pour flush - to pit,0.027,"Continuous Demographic and Health Surveys, 2017 - DHS17"
+Senegal,SN,SEN,686,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.002,"Continuous Demographic and Health Surveys, 2017 - DHS17"
+Senegal,SN,SEN,686,Urban,5,Flush and pour flush - to elsewhere,0.008,"Continuous Demographic and Health Surveys, 2017 - DHS17"
+Senegal,SN,SEN,686,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.032,"Continuous Demographic and Health Surveys, 2017 - DHS17"
+Senegal,SN,SEN,686,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.077,"Continuous Demographic and Health Surveys, 2017 - DHS17"
+Senegal,SN,SEN,686,Urban,8,Dry latrines - Traditional latrine,0.041,"Continuous Demographic and Health Surveys, 2017 - DHS17"
+Senegal,SN,SEN,686,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Continuous Demographic and Health Surveys, 2017 - DHS17"
+Senegal,SN,SEN,686,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.009,"Continuous Demographic and Health Surveys, 2017 - DHS17"
+Senegal,SN,SEN,686,Urban,11,Dry latrines - Bucket latrine,0.0,"Continuous Demographic and Health Surveys, 2017 - DHS17"
+Senegal,SN,SEN,686,Urban,12,Dry latrines - Other,0.0,"Continuous Demographic and Health Surveys, 2017 - DHS17"
+Senegal,SN,SEN,686,Urban,13,Composting toilets,0.0,"Continuous Demographic and Health Surveys, 2017 - DHS17"
+Senegal,SN,SEN,686,Urban,14,Other improved,0.0,"Continuous Demographic and Health Surveys, 2017 - DHS17"
+Senegal,SN,SEN,686,Urban,15,"No facility, bush, field",0.011,"Continuous Demographic and Health Surveys, 2017 - DHS17"
+Senegal,SN,SEN,686,Urban,16,Other unimproved,0.005,"Continuous Demographic and Health Surveys, 2017 - DHS17"
+Senegal,SN,SEN,686,Urban,17,DK/missing information,0.0,"Continuous Demographic and Health Surveys, 2017 - DHS17"
+Senegal,SN,SEN,686,Rural,1,Flush and pour flush - to piped sewer system,0.001,"Continuous Demographic and Health Surveys, 2017 - DHS17"
+Senegal,SN,SEN,686,Rural,2,Flush and pour flush - to septic tank,0.26,"Continuous Demographic and Health Surveys, 2017 - DHS17"
+Senegal,SN,SEN,686,Rural,3,Flush and pour flush - to pit,0.037,"Continuous Demographic and Health Surveys, 2017 - DHS17"
+Senegal,SN,SEN,686,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Continuous Demographic and Health Surveys, 2017 - DHS17"
+Senegal,SN,SEN,686,Rural,5,Flush and pour flush - to elsewhere,0.004,"Continuous Demographic and Health Surveys, 2017 - DHS17"
+Senegal,SN,SEN,686,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.063,"Continuous Demographic and Health Surveys, 2017 - DHS17"
+Senegal,SN,SEN,686,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.17,"Continuous Demographic and Health Surveys, 2017 - DHS17"
+Senegal,SN,SEN,686,Rural,8,Dry latrines - Traditional latrine,0.195,"Continuous Demographic and Health Surveys, 2017 - DHS17"
+Senegal,SN,SEN,686,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Continuous Demographic and Health Surveys, 2017 - DHS17"
+Senegal,SN,SEN,686,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.043,"Continuous Demographic and Health Surveys, 2017 - DHS17"
+Senegal,SN,SEN,686,Rural,11,Dry latrines - Bucket latrine,0.0,"Continuous Demographic and Health Surveys, 2017 - DHS17"
+Senegal,SN,SEN,686,Rural,12,Dry latrines - Other,0.0,"Continuous Demographic and Health Surveys, 2017 - DHS17"
+Senegal,SN,SEN,686,Rural,13,Composting toilets,0.002,"Continuous Demographic and Health Surveys, 2017 - DHS17"
+Senegal,SN,SEN,686,Rural,14,Other improved,0.0,"Continuous Demographic and Health Surveys, 2017 - DHS17"
+Senegal,SN,SEN,686,Rural,15,"No facility, bush, field",0.217,"Continuous Demographic and Health Surveys, 2017 - DHS17"
+Senegal,SN,SEN,686,Rural,16,Other unimproved,0.008,"Continuous Demographic and Health Surveys, 2017 - DHS17"
+Senegal,SN,SEN,686,Rural,17,DK/missing information,0.0,"Continuous Demographic and Health Surveys, 2017 - DHS17"
+Senegal,SN,SEN,686,Urban,1,Flush and pour flush - to piped sewer system,0.167,Survey - SUR17
+Senegal,SN,SEN,686,Urban,2,Flush and pour flush - to septic tank,0.555,Survey - SUR17
+Senegal,SN,SEN,686,Urban,3,Flush and pour flush - to pit,0.01,Survey - SUR17
+Senegal,SN,SEN,686,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.01,Survey - SUR17
+Senegal,SN,SEN,686,Urban,5,Flush and pour flush - to elsewhere,0.0,Survey - SUR17
+Senegal,SN,SEN,686,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.091,Survey - SUR17
+Senegal,SN,SEN,686,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.076,Survey - SUR17
+Senegal,SN,SEN,686,Urban,8,Dry latrines - Traditional latrine,0.0,Survey - SUR17
+Senegal,SN,SEN,686,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.031,Survey - SUR17
+Senegal,SN,SEN,686,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.007,Survey - SUR17
+Senegal,SN,SEN,686,Urban,11,Dry latrines - Bucket latrine,0.001,Survey - SUR17
+Senegal,SN,SEN,686,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.091,Survey - SUR17
+Senegal,SN,SEN,686,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.062,Survey - SUR17
+Senegal,SN,SEN,686,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.014,Survey - SUR17
+Senegal,SN,SEN,686,Urban,8,Dry latrines - Traditional latrine,0.0,Survey - SUR17
+Senegal,SN,SEN,686,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Survey - SUR17
+Senegal,SN,SEN,686,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Survey - SUR17
+Senegal,SN,SEN,686,Urban,11,Dry latrines - Bucket latrine,0.0,Survey - SUR17
+Senegal,SN,SEN,686,Urban,12,Dry latrines - Other,0.0,Survey - SUR17
+Senegal,SN,SEN,686,Urban,13,Composting toilets,0.002,Survey - SUR17
+Senegal,SN,SEN,686,Urban,14,Other improved,0.0,Survey - SUR17
+Senegal,SN,SEN,686,Urban,15,"No facility, bush, field",0.043,Survey - SUR17
+Senegal,SN,SEN,686,Urban,16,Other unimproved,0.0,Survey - SUR17
+Senegal,SN,SEN,686,Urban,17,DK/missing information,0.0,Survey - SUR17
+Senegal,SN,SEN,686,Rural,1,Flush and pour flush - to piped sewer system,0.0,Survey - SUR17
+Senegal,SN,SEN,686,Rural,2,Flush and pour flush - to septic tank,0.322,Survey - SUR17
+Senegal,SN,SEN,686,Rural,3,Flush and pour flush - to pit,0.007,Survey - SUR17
+Senegal,SN,SEN,686,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.005,Survey - SUR17
+Senegal,SN,SEN,686,Rural,5,Flush and pour flush - to elsewhere,0.0,Survey - SUR17
+Senegal,SN,SEN,686,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.092,Survey - SUR17
+Senegal,SN,SEN,686,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.128,Survey - SUR17
+Senegal,SN,SEN,686,Rural,8,Dry latrines - Traditional latrine,0.0,Survey - SUR17
+Senegal,SN,SEN,686,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.108,Survey - SUR17
+Senegal,SN,SEN,686,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.032,Survey - SUR17
+Senegal,SN,SEN,686,Rural,11,Dry latrines - Bucket latrine,0.0,Survey - SUR17
+Senegal,SN,SEN,686,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.092,Survey - SUR17
+Senegal,SN,SEN,686,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.097,Survey - SUR17
+Senegal,SN,SEN,686,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.031,Survey - SUR17
+Senegal,SN,SEN,686,Rural,8,Dry latrines - Traditional latrine,0.0,Survey - SUR17
+Senegal,SN,SEN,686,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Survey - SUR17
+Senegal,SN,SEN,686,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Survey - SUR17
+Senegal,SN,SEN,686,Rural,11,Dry latrines - Bucket latrine,0.0,Survey - SUR17
+Senegal,SN,SEN,686,Rural,12,Dry latrines - Other,0.0,Survey - SUR17
+Senegal,SN,SEN,686,Rural,13,Composting toilets,0.011,Survey - SUR17
+Senegal,SN,SEN,686,Rural,14,Other improved,0.0,Survey - SUR17
+Senegal,SN,SEN,686,Rural,15,"No facility, bush, field",0.288,Survey - SUR17
+Senegal,SN,SEN,686,Rural,16,Other unimproved,0.001,Survey - SUR17
+Senegal,SN,SEN,686,Rural,17,DK/missing information,0.0,Survey - SUR17
