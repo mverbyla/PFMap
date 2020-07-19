@@ -91,3 +91,6 @@ my_inputU=t_JMPnat(context="urban",myRegions=c("HND","UGA"))
 write.csv(my_inputU,"inputURBAN.csv")
 my_inputR=t_JMPnat(context="rural",myRegions="all")
 write.csv(my_inputR,"inputRURAL.csv")
+df1<-read.csv("inputURBAN.csv")
+df2<-read.csv("inputRURAL.csv")
+df1[complete.cases(df1),]
