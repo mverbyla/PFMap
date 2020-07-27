@@ -1,0 +1,1471 @@
+country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+South Africa,ZA,ZAF,710,Urban,1,Flush and pour flush - to piped sewer system,0.0,Income and Expenditure Survey  - IES00
+South Africa,ZA,ZAF,710,Urban,2,Flush and pour flush - to septic tank,0.0,Income and Expenditure Survey  - IES00
+South Africa,ZA,ZAF,710,Urban,3,Flush and pour flush - to pit,0.0,Income and Expenditure Survey  - IES00
+South Africa,ZA,ZAF,710,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Income and Expenditure Survey  - IES00
+South Africa,ZA,ZAF,710,Urban,5,Flush and pour flush - to elsewhere,0.0,Income and Expenditure Survey  - IES00
+South Africa,ZA,ZAF,710,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.024,Income and Expenditure Survey  - IES00
+South Africa,ZA,ZAF,710,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Income and Expenditure Survey  - IES00
+South Africa,ZA,ZAF,710,Urban,8,Dry latrines - Traditional latrine,0.086,Income and Expenditure Survey  - IES00
+South Africa,ZA,ZAF,710,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Income and Expenditure Survey  - IES00
+South Africa,ZA,ZAF,710,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Income and Expenditure Survey  - IES00
+South Africa,ZA,ZAF,710,Urban,11,Dry latrines - Bucket latrine,0.045,Income and Expenditure Survey  - IES00
+South Africa,ZA,ZAF,710,Urban,12,Dry latrines - Other,0.0,Income and Expenditure Survey  - IES00
+South Africa,ZA,ZAF,710,Urban,13,Composting toilets,0.0,Income and Expenditure Survey  - IES00
+South Africa,ZA,ZAF,710,Urban,14,Other improved,0.005,Income and Expenditure Survey  - IES00
+South Africa,ZA,ZAF,710,Urban,15,"No facility, bush, field",0.017,Income and Expenditure Survey  - IES00
+South Africa,ZA,ZAF,710,Urban,16,Other unimproved,0.001,Income and Expenditure Survey  - IES00
+South Africa,ZA,ZAF,710,Urban,17,DK/missing information,0.0,Income and Expenditure Survey  - IES00
+South Africa,ZA,ZAF,710,Rural,1,Flush and pour flush - to piped sewer system,0.0,Income and Expenditure Survey  - IES00
+South Africa,ZA,ZAF,710,Rural,2,Flush and pour flush - to septic tank,0.0,Income and Expenditure Survey  - IES00
+South Africa,ZA,ZAF,710,Rural,3,Flush and pour flush - to pit,0.0,Income and Expenditure Survey  - IES00
+South Africa,ZA,ZAF,710,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Income and Expenditure Survey  - IES00
+South Africa,ZA,ZAF,710,Rural,5,Flush and pour flush - to elsewhere,0.0,Income and Expenditure Survey  - IES00
+South Africa,ZA,ZAF,710,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.071,Income and Expenditure Survey  - IES00
+South Africa,ZA,ZAF,710,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Income and Expenditure Survey  - IES00
+South Africa,ZA,ZAF,710,Rural,8,Dry latrines - Traditional latrine,0.571,Income and Expenditure Survey  - IES00
+South Africa,ZA,ZAF,710,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Income and Expenditure Survey  - IES00
+South Africa,ZA,ZAF,710,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Income and Expenditure Survey  - IES00
+South Africa,ZA,ZAF,710,Rural,11,Dry latrines - Bucket latrine,0.006,Income and Expenditure Survey  - IES00
+South Africa,ZA,ZAF,710,Rural,12,Dry latrines - Other,0.0,Income and Expenditure Survey  - IES00
+South Africa,ZA,ZAF,710,Rural,13,Composting toilets,0.0,Income and Expenditure Survey  - IES00
+South Africa,ZA,ZAF,710,Rural,14,Other improved,0.004,Income and Expenditure Survey  - IES00
+South Africa,ZA,ZAF,710,Rural,15,"No facility, bush, field",0.252,Income and Expenditure Survey  - IES00
+South Africa,ZA,ZAF,710,Rural,16,Other unimproved,0.006,Income and Expenditure Survey  - IES00
+South Africa,ZA,ZAF,710,Rural,17,DK/missing information,0.001,Income and Expenditure Survey  - IES00
+South Africa,ZA,ZAF,710,National,1,Flush and pour flush - to piped sewer system,0.0,Income and Expenditure Survey  - IES00
+South Africa,ZA,ZAF,710,National,2,Flush and pour flush - to septic tank,0.0,Income and Expenditure Survey  - IES00
+South Africa,ZA,ZAF,710,National,3,Flush and pour flush - to pit,0.0,Income and Expenditure Survey  - IES00
+South Africa,ZA,ZAF,710,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Income and Expenditure Survey  - IES00
+South Africa,ZA,ZAF,710,National,5,Flush and pour flush - to elsewhere,0.0,Income and Expenditure Survey  - IES00
+South Africa,ZA,ZAF,710,National,6,Dry latrines - Ventilated Improved Pit latrine,0.044,Income and Expenditure Survey  - IES00
+South Africa,ZA,ZAF,710,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Income and Expenditure Survey  - IES00
+South Africa,ZA,ZAF,710,National,8,Dry latrines - Traditional latrine,0.292,Income and Expenditure Survey  - IES00
+South Africa,ZA,ZAF,710,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Income and Expenditure Survey  - IES00
+South Africa,ZA,ZAF,710,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Income and Expenditure Survey  - IES00
+South Africa,ZA,ZAF,710,National,11,Dry latrines - Bucket latrine,0.028,Income and Expenditure Survey  - IES00
+South Africa,ZA,ZAF,710,National,12,Dry latrines - Other,0.0,Income and Expenditure Survey  - IES00
+South Africa,ZA,ZAF,710,National,13,Composting toilets,0.0,Income and Expenditure Survey  - IES00
+South Africa,ZA,ZAF,710,National,14,Other improved,0.004,Income and Expenditure Survey  - IES00
+South Africa,ZA,ZAF,710,National,15,"No facility, bush, field",0.117,Income and Expenditure Survey  - IES00
+South Africa,ZA,ZAF,710,National,16,Other unimproved,0.003,Income and Expenditure Survey  - IES00
+South Africa,ZA,ZAF,710,National,17,DK/missing information,0.001,Income and Expenditure Survey  - IES00
+South Africa,ZA,ZAF,710,Urban,1,Flush and pour flush - to piped sewer system,0.744,Census - CEN01
+South Africa,ZA,ZAF,710,Urban,2,Flush and pour flush - to septic tank,0.025,Census - CEN01
+South Africa,ZA,ZAF,710,Urban,3,Flush and pour flush - to pit,0.0,Census - CEN01
+South Africa,ZA,ZAF,710,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN01
+South Africa,ZA,ZAF,710,Urban,5,Flush and pour flush - to elsewhere,0.0,Census - CEN01
+South Africa,ZA,ZAF,710,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.025,Census - CEN01
+South Africa,ZA,ZAF,710,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN01
+South Africa,ZA,ZAF,710,Urban,8,Dry latrines - Traditional latrine,0.087,Census - CEN01
+South Africa,ZA,ZAF,710,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN01
+South Africa,ZA,ZAF,710,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN01
+South Africa,ZA,ZAF,710,Urban,11,Dry latrines - Bucket latrine,0.057,Census - CEN01
+South Africa,ZA,ZAF,710,Urban,12,Dry latrines - Other,0.0,Census - CEN01
+South Africa,ZA,ZAF,710,Urban,13,Composting toilets,0.0,Census - CEN01
+South Africa,ZA,ZAF,710,Urban,14,Other improved,0.012,Census - CEN01
+South Africa,ZA,ZAF,710,Urban,15,"No facility, bush, field",0.051,Census - CEN01
+South Africa,ZA,ZAF,710,Urban,16,Other unimproved,0.0,Census - CEN01
+South Africa,ZA,ZAF,710,Urban,17,DK/missing information,0.0,Census - CEN01
+South Africa,ZA,ZAF,710,Rural,1,Flush and pour flush - to piped sewer system,0.071,Census - CEN01
+South Africa,ZA,ZAF,710,Rural,2,Flush and pour flush - to septic tank,0.034,Census - CEN01
+South Africa,ZA,ZAF,710,Rural,3,Flush and pour flush - to pit,0.0,Census - CEN01
+South Africa,ZA,ZAF,710,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN01
+South Africa,ZA,ZAF,710,Rural,5,Flush and pour flush - to elsewhere,0.0,Census - CEN01
+South Africa,ZA,ZAF,710,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.11,Census - CEN01
+South Africa,ZA,ZAF,710,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN01
+South Africa,ZA,ZAF,710,Rural,8,Dry latrines - Traditional latrine,0.463,Census - CEN01
+South Africa,ZA,ZAF,710,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN01
+South Africa,ZA,ZAF,710,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN01
+South Africa,ZA,ZAF,710,Rural,11,Dry latrines - Bucket latrine,0.014,Census - CEN01
+South Africa,ZA,ZAF,710,Rural,12,Dry latrines - Other,0.0,Census - CEN01
+South Africa,ZA,ZAF,710,Rural,13,Composting toilets,0.0,Census - CEN01
+South Africa,ZA,ZAF,710,Rural,14,Other improved,0.032,Census - CEN01
+South Africa,ZA,ZAF,710,Rural,15,"No facility, bush, field",0.277,Census - CEN01
+South Africa,ZA,ZAF,710,Rural,16,Other unimproved,0.0,Census - CEN01
+South Africa,ZA,ZAF,710,Rural,17,DK/missing information,0.0,Census - CEN01
+South Africa,ZA,ZAF,710,National,1,Flush and pour flush - to piped sewer system,0.0,Census - CEN01
+South Africa,ZA,ZAF,710,National,2,Flush and pour flush - to septic tank,0.0,Census - CEN01
+South Africa,ZA,ZAF,710,National,3,Flush and pour flush - to pit,0.0,Census - CEN01
+South Africa,ZA,ZAF,710,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN01
+South Africa,ZA,ZAF,710,National,5,Flush and pour flush - to elsewhere,0.0,Census - CEN01
+South Africa,ZA,ZAF,710,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN01
+South Africa,ZA,ZAF,710,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN01
+South Africa,ZA,ZAF,710,National,8,Dry latrines - Traditional latrine,0.0,Census - CEN01
+South Africa,ZA,ZAF,710,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN01
+South Africa,ZA,ZAF,710,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN01
+South Africa,ZA,ZAF,710,National,11,Dry latrines - Bucket latrine,0.0,Census - CEN01
+South Africa,ZA,ZAF,710,National,12,Dry latrines - Other,0.0,Census - CEN01
+South Africa,ZA,ZAF,710,National,13,Composting toilets,0.0,Census - CEN01
+South Africa,ZA,ZAF,710,National,14,Other improved,0.0,Census - CEN01
+South Africa,ZA,ZAF,710,National,15,"No facility, bush, field",0.0,Census - CEN01
+South Africa,ZA,ZAF,710,National,16,Other unimproved,0.0,Census - CEN01
+South Africa,ZA,ZAF,710,National,17,DK/missing information,0.0,Census - CEN01
+South Africa,ZA,ZAF,710,Urban,1,Flush and pour flush - to piped sewer system,0.748,Demographic  and Health Survey - DHS03
+South Africa,ZA,ZAF,710,Urban,2,Flush and pour flush - to septic tank,0.063,Demographic  and Health Survey - DHS03
+South Africa,ZA,ZAF,710,Urban,3,Flush and pour flush - to pit,0.0,Demographic  and Health Survey - DHS03
+South Africa,ZA,ZAF,710,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic  and Health Survey - DHS03
+South Africa,ZA,ZAF,710,Urban,5,Flush and pour flush - to elsewhere,0.0,Demographic  and Health Survey - DHS03
+South Africa,ZA,ZAF,710,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.009,Demographic  and Health Survey - DHS03
+South Africa,ZA,ZAF,710,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic  and Health Survey - DHS03
+South Africa,ZA,ZAF,710,Urban,8,Dry latrines - Traditional latrine,0.147,Demographic  and Health Survey - DHS03
+South Africa,ZA,ZAF,710,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic  and Health Survey - DHS03
+South Africa,ZA,ZAF,710,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic  and Health Survey - DHS03
+South Africa,ZA,ZAF,710,Urban,11,Dry latrines - Bucket latrine,0.0,Demographic  and Health Survey - DHS03
+South Africa,ZA,ZAF,710,Urban,12,Dry latrines - Other,0.0,Demographic  and Health Survey - DHS03
+South Africa,ZA,ZAF,710,Urban,13,Composting toilets,0.0,Demographic  and Health Survey - DHS03
+South Africa,ZA,ZAF,710,Urban,14,Other improved,0.0,Demographic  and Health Survey - DHS03
+South Africa,ZA,ZAF,710,Urban,15,"No facility, bush, field",0.023,Demographic  and Health Survey - DHS03
+South Africa,ZA,ZAF,710,Urban,16,Other unimproved,0.0,Demographic  and Health Survey - DHS03
+South Africa,ZA,ZAF,710,Urban,17,DK/missing information,0.01,Demographic  and Health Survey - DHS03
+South Africa,ZA,ZAF,710,Rural,1,Flush and pour flush - to piped sewer system,0.055,Demographic  and Health Survey - DHS03
+South Africa,ZA,ZAF,710,Rural,2,Flush and pour flush - to septic tank,0.015,Demographic  and Health Survey - DHS03
+South Africa,ZA,ZAF,710,Rural,3,Flush and pour flush - to pit,0.0,Demographic  and Health Survey - DHS03
+South Africa,ZA,ZAF,710,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic  and Health Survey - DHS03
+South Africa,ZA,ZAF,710,Rural,5,Flush and pour flush - to elsewhere,0.0,Demographic  and Health Survey - DHS03
+South Africa,ZA,ZAF,710,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.038,Demographic  and Health Survey - DHS03
+South Africa,ZA,ZAF,710,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic  and Health Survey - DHS03
+South Africa,ZA,ZAF,710,Rural,8,Dry latrines - Traditional latrine,0.7,Demographic  and Health Survey - DHS03
+South Africa,ZA,ZAF,710,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic  and Health Survey - DHS03
+South Africa,ZA,ZAF,710,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic  and Health Survey - DHS03
+South Africa,ZA,ZAF,710,Rural,11,Dry latrines - Bucket latrine,0.0,Demographic  and Health Survey - DHS03
+South Africa,ZA,ZAF,710,Rural,12,Dry latrines - Other,0.0,Demographic  and Health Survey - DHS03
+South Africa,ZA,ZAF,710,Rural,13,Composting toilets,0.0,Demographic  and Health Survey - DHS03
+South Africa,ZA,ZAF,710,Rural,14,Other improved,0.0,Demographic  and Health Survey - DHS03
+South Africa,ZA,ZAF,710,Rural,15,"No facility, bush, field",0.185,Demographic  and Health Survey - DHS03
+South Africa,ZA,ZAF,710,Rural,16,Other unimproved,0.0,Demographic  and Health Survey - DHS03
+South Africa,ZA,ZAF,710,Rural,17,DK/missing information,0.007,Demographic  and Health Survey - DHS03
+South Africa,ZA,ZAF,710,National,1,Flush and pour flush - to piped sewer system,0.497,Demographic  and Health Survey - DHS03
+South Africa,ZA,ZAF,710,National,2,Flush and pour flush - to septic tank,0.046,Demographic  and Health Survey - DHS03
+South Africa,ZA,ZAF,710,National,3,Flush and pour flush - to pit,0.0,Demographic  and Health Survey - DHS03
+South Africa,ZA,ZAF,710,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic  and Health Survey - DHS03
+South Africa,ZA,ZAF,710,National,5,Flush and pour flush - to elsewhere,0.0,Demographic  and Health Survey - DHS03
+South Africa,ZA,ZAF,710,National,6,Dry latrines - Ventilated Improved Pit latrine,0.02,Demographic  and Health Survey - DHS03
+South Africa,ZA,ZAF,710,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic  and Health Survey - DHS03
+South Africa,ZA,ZAF,710,National,8,Dry latrines - Traditional latrine,0.347,Demographic  and Health Survey - DHS03
+South Africa,ZA,ZAF,710,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic  and Health Survey - DHS03
+South Africa,ZA,ZAF,710,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic  and Health Survey - DHS03
+South Africa,ZA,ZAF,710,National,11,Dry latrines - Bucket latrine,0.0,Demographic  and Health Survey - DHS03
+South Africa,ZA,ZAF,710,National,12,Dry latrines - Other,0.0,Demographic  and Health Survey - DHS03
+South Africa,ZA,ZAF,710,National,13,Composting toilets,0.0,Demographic  and Health Survey - DHS03
+South Africa,ZA,ZAF,710,National,14,Other improved,0.0,Demographic  and Health Survey - DHS03
+South Africa,ZA,ZAF,710,National,15,"No facility, bush, field",0.081,Demographic  and Health Survey - DHS03
+South Africa,ZA,ZAF,710,National,16,Other unimproved,0.0,Demographic  and Health Survey - DHS03
+South Africa,ZA,ZAF,710,National,17,DK/missing information,0.009,Demographic  and Health Survey - DHS03
+South Africa,ZA,ZAF,710,Urban,1,Flush and pour flush - to piped sewer system,0.831,General Household Survey - GHS05
+South Africa,ZA,ZAF,710,Urban,2,Flush and pour flush - to septic tank,0.012,General Household Survey - GHS05
+South Africa,ZA,ZAF,710,Urban,3,Flush and pour flush - to pit,0.0,General Household Survey - GHS05
+South Africa,ZA,ZAF,710,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,General Household Survey - GHS05
+South Africa,ZA,ZAF,710,Urban,5,Flush and pour flush - to elsewhere,0.0,General Household Survey - GHS05
+South Africa,ZA,ZAF,710,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.021,General Household Survey - GHS05
+South Africa,ZA,ZAF,710,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,General Household Survey - GHS05
+South Africa,ZA,ZAF,710,Urban,8,Dry latrines - Traditional latrine,0.077,General Household Survey - GHS05
+South Africa,ZA,ZAF,710,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,General Household Survey - GHS05
+South Africa,ZA,ZAF,710,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,General Household Survey - GHS05
+South Africa,ZA,ZAF,710,Urban,11,Dry latrines - Bucket latrine,0.033,General Household Survey - GHS05
+South Africa,ZA,ZAF,710,Urban,12,Dry latrines - Other,0.0,General Household Survey - GHS05
+South Africa,ZA,ZAF,710,Urban,13,Composting toilets,0.0,General Household Survey - GHS05
+South Africa,ZA,ZAF,710,Urban,14,Other improved,0.004,General Household Survey - GHS05
+South Africa,ZA,ZAF,710,Urban,15,"No facility, bush, field",0.023,General Household Survey - GHS05
+South Africa,ZA,ZAF,710,Urban,16,Other unimproved,0.0,General Household Survey - GHS05
+South Africa,ZA,ZAF,710,Urban,17,DK/missing information,0.001,General Household Survey - GHS05
+South Africa,ZA,ZAF,710,Rural,1,Flush and pour flush - to piped sewer system,0.079,General Household Survey - GHS05
+South Africa,ZA,ZAF,710,Rural,2,Flush and pour flush - to septic tank,0.024,General Household Survey - GHS05
+South Africa,ZA,ZAF,710,Rural,3,Flush and pour flush - to pit,0.0,General Household Survey - GHS05
+South Africa,ZA,ZAF,710,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,General Household Survey - GHS05
+South Africa,ZA,ZAF,710,Rural,5,Flush and pour flush - to elsewhere,0.0,General Household Survey - GHS05
+South Africa,ZA,ZAF,710,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.117,General Household Survey - GHS05
+South Africa,ZA,ZAF,710,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,General Household Survey - GHS05
+South Africa,ZA,ZAF,710,Rural,8,Dry latrines - Traditional latrine,0.56,General Household Survey - GHS05
+South Africa,ZA,ZAF,710,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,General Household Survey - GHS05
+South Africa,ZA,ZAF,710,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,General Household Survey - GHS05
+South Africa,ZA,ZAF,710,Rural,11,Dry latrines - Bucket latrine,0.006,General Household Survey - GHS05
+South Africa,ZA,ZAF,710,Rural,12,Dry latrines - Other,0.0,General Household Survey - GHS05
+South Africa,ZA,ZAF,710,Rural,13,Composting toilets,0.0,General Household Survey - GHS05
+South Africa,ZA,ZAF,710,Rural,14,Other improved,0.004,General Household Survey - GHS05
+South Africa,ZA,ZAF,710,Rural,15,"No facility, bush, field",0.21,General Household Survey - GHS05
+South Africa,ZA,ZAF,710,Rural,16,Other unimproved,0.0,General Household Survey - GHS05
+South Africa,ZA,ZAF,710,Rural,17,DK/missing information,0.001,General Household Survey - GHS05
+South Africa,ZA,ZAF,710,National,1,Flush and pour flush - to piped sewer system,0.508,General Household Survey - GHS05
+South Africa,ZA,ZAF,710,National,2,Flush and pour flush - to septic tank,0.017,General Household Survey - GHS05
+South Africa,ZA,ZAF,710,National,3,Flush and pour flush - to pit,0.0,General Household Survey - GHS05
+South Africa,ZA,ZAF,710,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,General Household Survey - GHS05
+South Africa,ZA,ZAF,710,National,5,Flush and pour flush - to elsewhere,0.0,General Household Survey - GHS05
+South Africa,ZA,ZAF,710,National,6,Dry latrines - Ventilated Improved Pit latrine,0.062,General Household Survey - GHS05
+South Africa,ZA,ZAF,710,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,General Household Survey - GHS05
+South Africa,ZA,ZAF,710,National,8,Dry latrines - Traditional latrine,0.284,General Household Survey - GHS05
+South Africa,ZA,ZAF,710,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,General Household Survey - GHS05
+South Africa,ZA,ZAF,710,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,General Household Survey - GHS05
+South Africa,ZA,ZAF,710,National,11,Dry latrines - Bucket latrine,0.021,General Household Survey - GHS05
+South Africa,ZA,ZAF,710,National,12,Dry latrines - Other,0.0,General Household Survey - GHS05
+South Africa,ZA,ZAF,710,National,13,Composting toilets,0.0,General Household Survey - GHS05
+South Africa,ZA,ZAF,710,National,14,Other improved,0.004,General Household Survey - GHS05
+South Africa,ZA,ZAF,710,National,15,"No facility, bush, field",0.103,General Household Survey - GHS05
+South Africa,ZA,ZAF,710,National,16,Other unimproved,0.0,General Household Survey - GHS05
+South Africa,ZA,ZAF,710,National,17,DK/missing information,0.001,General Household Survey - GHS05
+South Africa,ZA,ZAF,710,Urban,1,Flush and pour flush - to piped sewer system,0.745,General Household Survey - GHS06
+South Africa,ZA,ZAF,710,Urban,2,Flush and pour flush - to septic tank,0.092,General Household Survey - GHS06
+South Africa,ZA,ZAF,710,Urban,3,Flush and pour flush - to pit,0.0,General Household Survey - GHS06
+South Africa,ZA,ZAF,710,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,General Household Survey - GHS06
+South Africa,ZA,ZAF,710,Urban,5,Flush and pour flush - to elsewhere,0.0,General Household Survey - GHS06
+South Africa,ZA,ZAF,710,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.032,General Household Survey - GHS06
+South Africa,ZA,ZAF,710,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,General Household Survey - GHS06
+South Africa,ZA,ZAF,710,Urban,8,Dry latrines - Traditional latrine,0.077,General Household Survey - GHS06
+South Africa,ZA,ZAF,710,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,General Household Survey - GHS06
+South Africa,ZA,ZAF,710,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,General Household Survey - GHS06
+South Africa,ZA,ZAF,710,Urban,11,Dry latrines - Bucket latrine,0.033,General Household Survey - GHS06
+South Africa,ZA,ZAF,710,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.022,General Household Survey - GHS06
+South Africa,ZA,ZAF,710,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,General Household Survey - GHS06
+South Africa,ZA,ZAF,710,Urban,8,Dry latrines - Traditional latrine,0.0,General Household Survey - GHS06
+South Africa,ZA,ZAF,710,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,General Household Survey - GHS06
+South Africa,ZA,ZAF,710,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,General Household Survey - GHS06
+South Africa,ZA,ZAF,710,Urban,11,Dry latrines - Bucket latrine,0.0,General Household Survey - GHS06
+South Africa,ZA,ZAF,710,Urban,12,Dry latrines - Other,0.0,General Household Survey - GHS06
+South Africa,ZA,ZAF,710,Urban,13,Composting toilets,0.0,General Household Survey - GHS06
+South Africa,ZA,ZAF,710,Urban,14,Other improved,0.004,General Household Survey - GHS06
+South Africa,ZA,ZAF,710,Urban,15,"No facility, bush, field",0.016,General Household Survey - GHS06
+South Africa,ZA,ZAF,710,Urban,16,Other unimproved,0.0,General Household Survey - GHS06
+South Africa,ZA,ZAF,710,Urban,17,DK/missing information,0.001,General Household Survey - GHS06
+South Africa,ZA,ZAF,710,Rural,1,Flush and pour flush - to piped sewer system,0.049,General Household Survey - GHS06
+South Africa,ZA,ZAF,710,Rural,2,Flush and pour flush - to septic tank,0.024,General Household Survey - GHS06
+South Africa,ZA,ZAF,710,Rural,3,Flush and pour flush - to pit,0.0,General Household Survey - GHS06
+South Africa,ZA,ZAF,710,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,General Household Survey - GHS06
+South Africa,ZA,ZAF,710,Rural,5,Flush and pour flush - to elsewhere,0.0,General Household Survey - GHS06
+South Africa,ZA,ZAF,710,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.176,General Household Survey - GHS06
+South Africa,ZA,ZAF,710,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,General Household Survey - GHS06
+South Africa,ZA,ZAF,710,Rural,8,Dry latrines - Traditional latrine,0.583,General Household Survey - GHS06
+South Africa,ZA,ZAF,710,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,General Household Survey - GHS06
+South Africa,ZA,ZAF,710,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,General Household Survey - GHS06
+South Africa,ZA,ZAF,710,Rural,11,Dry latrines - Bucket latrine,0.008,General Household Survey - GHS06
+South Africa,ZA,ZAF,710,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.129,General Household Survey - GHS06
+South Africa,ZA,ZAF,710,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,General Household Survey - GHS06
+South Africa,ZA,ZAF,710,Rural,8,Dry latrines - Traditional latrine,0.0,General Household Survey - GHS06
+South Africa,ZA,ZAF,710,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,General Household Survey - GHS06
+South Africa,ZA,ZAF,710,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,General Household Survey - GHS06
+South Africa,ZA,ZAF,710,Rural,11,Dry latrines - Bucket latrine,0.0,General Household Survey - GHS06
+South Africa,ZA,ZAF,710,Rural,12,Dry latrines - Other,0.0,General Household Survey - GHS06
+South Africa,ZA,ZAF,710,Rural,13,Composting toilets,0.0,General Household Survey - GHS06
+South Africa,ZA,ZAF,710,Rural,14,Other improved,0.004,General Household Survey - GHS06
+South Africa,ZA,ZAF,710,Rural,15,"No facility, bush, field",0.155,General Household Survey - GHS06
+South Africa,ZA,ZAF,710,Rural,16,Other unimproved,0.0,General Household Survey - GHS06
+South Africa,ZA,ZAF,710,Rural,17,DK/missing information,0.002,General Household Survey - GHS06
+South Africa,ZA,ZAF,710,National,1,Flush and pour flush - to piped sewer system,0.488,General Household Survey - GHS06
+South Africa,ZA,ZAF,710,National,2,Flush and pour flush - to septic tank,0.067,General Household Survey - GHS06
+South Africa,ZA,ZAF,710,National,3,Flush and pour flush - to pit,0.0,General Household Survey - GHS06
+South Africa,ZA,ZAF,710,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,General Household Survey - GHS06
+South Africa,ZA,ZAF,710,National,5,Flush and pour flush - to elsewhere,0.0,General Household Survey - GHS06
+South Africa,ZA,ZAF,710,National,6,Dry latrines - Ventilated Improved Pit latrine,0.085,General Household Survey - GHS06
+South Africa,ZA,ZAF,710,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,General Household Survey - GHS06
+South Africa,ZA,ZAF,710,National,8,Dry latrines - Traditional latrine,0.264,General Household Survey - GHS06
+South Africa,ZA,ZAF,710,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,General Household Survey - GHS06
+South Africa,ZA,ZAF,710,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,General Household Survey - GHS06
+South Africa,ZA,ZAF,710,National,11,Dry latrines - Bucket latrine,0.023,General Household Survey - GHS06
+South Africa,ZA,ZAF,710,National,6,Dry latrines - Ventilated Improved Pit latrine,0.055,General Household Survey - GHS06
+South Africa,ZA,ZAF,710,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,General Household Survey - GHS06
+South Africa,ZA,ZAF,710,National,8,Dry latrines - Traditional latrine,0.0,General Household Survey - GHS06
+South Africa,ZA,ZAF,710,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,General Household Survey - GHS06
+South Africa,ZA,ZAF,710,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,General Household Survey - GHS06
+South Africa,ZA,ZAF,710,National,11,Dry latrines - Bucket latrine,0.0,General Household Survey - GHS06
+South Africa,ZA,ZAF,710,National,12,Dry latrines - Other,0.0,General Household Survey - GHS06
+South Africa,ZA,ZAF,710,National,13,Composting toilets,0.0,General Household Survey - GHS06
+South Africa,ZA,ZAF,710,National,14,Other improved,0.004,General Household Survey - GHS06
+South Africa,ZA,ZAF,710,National,15,"No facility, bush, field",0.068,General Household Survey - GHS06
+South Africa,ZA,ZAF,710,National,16,Other unimproved,0.0,General Household Survey - GHS06
+South Africa,ZA,ZAF,710,National,17,DK/missing information,0.001,General Household Survey - GHS06
+South Africa,ZA,ZAF,710,Urban,1,Flush and pour flush - to piped sewer system,0.781,Community Survey - CS07
+South Africa,ZA,ZAF,710,Urban,2,Flush and pour flush - to septic tank,0.03,Community Survey - CS07
+South Africa,ZA,ZAF,710,Urban,3,Flush and pour flush - to pit,0.0,Community Survey - CS07
+South Africa,ZA,ZAF,710,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Community Survey - CS07
+South Africa,ZA,ZAF,710,Urban,5,Flush and pour flush - to elsewhere,0.0,Community Survey - CS07
+South Africa,ZA,ZAF,710,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.031,Community Survey - CS07
+South Africa,ZA,ZAF,710,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Community Survey - CS07
+South Africa,ZA,ZAF,710,Urban,8,Dry latrines - Traditional latrine,0.07,Community Survey - CS07
+South Africa,ZA,ZAF,710,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Community Survey - CS07
+South Africa,ZA,ZAF,710,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Community Survey - CS07
+South Africa,ZA,ZAF,710,Urban,11,Dry latrines - Bucket latrine,0.036,Community Survey - CS07
+South Africa,ZA,ZAF,710,Urban,12,Dry latrines - Other,0.023,Community Survey - CS07
+South Africa,ZA,ZAF,710,Urban,13,Composting toilets,0.0,Community Survey - CS07
+South Africa,ZA,ZAF,710,Urban,14,Other improved,0.003,Community Survey - CS07
+South Africa,ZA,ZAF,710,Urban,15,"No facility, bush, field",0.027,Community Survey - CS07
+South Africa,ZA,ZAF,710,Urban,16,Other unimproved,0.0,Community Survey - CS07
+South Africa,ZA,ZAF,710,Urban,17,DK/missing information,0.0,Community Survey - CS07
+South Africa,ZA,ZAF,710,Rural,1,Flush and pour flush - to piped sewer system,0.075,Community Survey - CS07
+South Africa,ZA,ZAF,710,Rural,2,Flush and pour flush - to septic tank,0.023,Community Survey - CS07
+South Africa,ZA,ZAF,710,Rural,3,Flush and pour flush - to pit,0.0,Community Survey - CS07
+South Africa,ZA,ZAF,710,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Community Survey - CS07
+South Africa,ZA,ZAF,710,Rural,5,Flush and pour flush - to elsewhere,0.0,Community Survey - CS07
+South Africa,ZA,ZAF,710,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.145,Community Survey - CS07
+South Africa,ZA,ZAF,710,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Community Survey - CS07
+South Africa,ZA,ZAF,710,Rural,8,Dry latrines - Traditional latrine,0.441,Community Survey - CS07
+South Africa,ZA,ZAF,710,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Community Survey - CS07
+South Africa,ZA,ZAF,710,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Community Survey - CS07
+South Africa,ZA,ZAF,710,Rural,11,Dry latrines - Bucket latrine,0.007,Community Survey - CS07
+South Africa,ZA,ZAF,710,Rural,12,Dry latrines - Other,0.086,Community Survey - CS07
+South Africa,ZA,ZAF,710,Rural,13,Composting toilets,0.0,Community Survey - CS07
+South Africa,ZA,ZAF,710,Rural,14,Other improved,0.006,Community Survey - CS07
+South Africa,ZA,ZAF,710,Rural,15,"No facility, bush, field",0.217,Community Survey - CS07
+South Africa,ZA,ZAF,710,Rural,16,Other unimproved,0.0,Community Survey - CS07
+South Africa,ZA,ZAF,710,Rural,17,DK/missing information,0.0,Community Survey - CS07
+South Africa,ZA,ZAF,710,National,1,Flush and pour flush - to piped sewer system,0.0,Community Survey - CS07
+South Africa,ZA,ZAF,710,National,2,Flush and pour flush - to septic tank,0.0,Community Survey - CS07
+South Africa,ZA,ZAF,710,National,3,Flush and pour flush - to pit,0.0,Community Survey - CS07
+South Africa,ZA,ZAF,710,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Community Survey - CS07
+South Africa,ZA,ZAF,710,National,5,Flush and pour flush - to elsewhere,0.0,Community Survey - CS07
+South Africa,ZA,ZAF,710,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Community Survey - CS07
+South Africa,ZA,ZAF,710,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Community Survey - CS07
+South Africa,ZA,ZAF,710,National,8,Dry latrines - Traditional latrine,0.0,Community Survey - CS07
+South Africa,ZA,ZAF,710,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Community Survey - CS07
+South Africa,ZA,ZAF,710,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Community Survey - CS07
+South Africa,ZA,ZAF,710,National,11,Dry latrines - Bucket latrine,0.0,Community Survey - CS07
+South Africa,ZA,ZAF,710,National,12,Dry latrines - Other,0.0,Community Survey - CS07
+South Africa,ZA,ZAF,710,National,13,Composting toilets,0.0,Community Survey - CS07
+South Africa,ZA,ZAF,710,National,14,Other improved,0.0,Community Survey - CS07
+South Africa,ZA,ZAF,710,National,15,"No facility, bush, field",0.0,Community Survey - CS07
+South Africa,ZA,ZAF,710,National,16,Other unimproved,0.0,Community Survey - CS07
+South Africa,ZA,ZAF,710,National,17,DK/missing information,0.0,Community Survey - CS07
+South Africa,ZA,ZAF,710,Urban,1,Flush and pour flush - to piped sewer system,0.793,General Household Survey - GHS07
+South Africa,ZA,ZAF,710,Urban,2,Flush and pour flush - to septic tank,0.041,General Household Survey - GHS07
+South Africa,ZA,ZAF,710,Urban,3,Flush and pour flush - to pit,0.0,General Household Survey - GHS07
+South Africa,ZA,ZAF,710,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,General Household Survey - GHS07
+South Africa,ZA,ZAF,710,Urban,5,Flush and pour flush - to elsewhere,0.0,General Household Survey - GHS07
+South Africa,ZA,ZAF,710,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.034,General Household Survey - GHS07
+South Africa,ZA,ZAF,710,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,General Household Survey - GHS07
+South Africa,ZA,ZAF,710,Urban,8,Dry latrines - Traditional latrine,0.082,General Household Survey - GHS07
+South Africa,ZA,ZAF,710,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,General Household Survey - GHS07
+South Africa,ZA,ZAF,710,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,General Household Survey - GHS07
+South Africa,ZA,ZAF,710,Urban,11,Dry latrines - Bucket latrine,0.024,General Household Survey - GHS07
+South Africa,ZA,ZAF,710,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.021,General Household Survey - GHS07
+South Africa,ZA,ZAF,710,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,General Household Survey - GHS07
+South Africa,ZA,ZAF,710,Urban,8,Dry latrines - Traditional latrine,0.05,General Household Survey - GHS07
+South Africa,ZA,ZAF,710,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,General Household Survey - GHS07
+South Africa,ZA,ZAF,710,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,General Household Survey - GHS07
+South Africa,ZA,ZAF,710,Urban,11,Dry latrines - Bucket latrine,0.007,General Household Survey - GHS07
+South Africa,ZA,ZAF,710,Urban,11,Dry latrines - Bucket latrine,0.016,General Household Survey - GHS07
+South Africa,ZA,ZAF,710,Urban,12,Dry latrines - Other,0.0,General Household Survey - GHS07
+South Africa,ZA,ZAF,710,Urban,13,Composting toilets,0.0,General Household Survey - GHS07
+South Africa,ZA,ZAF,710,Urban,14,Other improved,0.005,General Household Survey - GHS07
+South Africa,ZA,ZAF,710,Urban,15,"No facility, bush, field",0.014,General Household Survey - GHS07
+South Africa,ZA,ZAF,710,Urban,16,Other unimproved,0.0,General Household Survey - GHS07
+South Africa,ZA,ZAF,710,Urban,17,DK/missing information,0.008,General Household Survey - GHS07
+South Africa,ZA,ZAF,710,Rural,1,Flush and pour flush - to piped sewer system,0.059,General Household Survey - GHS07
+South Africa,ZA,ZAF,710,Rural,2,Flush and pour flush - to septic tank,0.021,General Household Survey - GHS07
+South Africa,ZA,ZAF,710,Rural,3,Flush and pour flush - to pit,0.0,General Household Survey - GHS07
+South Africa,ZA,ZAF,710,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,General Household Survey - GHS07
+South Africa,ZA,ZAF,710,Rural,5,Flush and pour flush - to elsewhere,0.0,General Household Survey - GHS07
+South Africa,ZA,ZAF,710,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.227,General Household Survey - GHS07
+South Africa,ZA,ZAF,710,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,General Household Survey - GHS07
+South Africa,ZA,ZAF,710,Rural,8,Dry latrines - Traditional latrine,0.518,General Household Survey - GHS07
+South Africa,ZA,ZAF,710,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,General Household Survey - GHS07
+South Africa,ZA,ZAF,710,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,General Household Survey - GHS07
+South Africa,ZA,ZAF,710,Rural,11,Dry latrines - Bucket latrine,0.004,General Household Survey - GHS07
+South Africa,ZA,ZAF,710,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.134,General Household Survey - GHS07
+South Africa,ZA,ZAF,710,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,General Household Survey - GHS07
+South Africa,ZA,ZAF,710,Rural,8,Dry latrines - Traditional latrine,0.422,General Household Survey - GHS07
+South Africa,ZA,ZAF,710,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,General Household Survey - GHS07
+South Africa,ZA,ZAF,710,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,General Household Survey - GHS07
+South Africa,ZA,ZAF,710,Rural,11,Dry latrines - Bucket latrine,0.002,General Household Survey - GHS07
+South Africa,ZA,ZAF,710,Rural,11,Dry latrines - Bucket latrine,0.003,General Household Survey - GHS07
+South Africa,ZA,ZAF,710,Rural,12,Dry latrines - Other,0.0,General Household Survey - GHS07
+South Africa,ZA,ZAF,710,Rural,13,Composting toilets,0.0,General Household Survey - GHS07
+South Africa,ZA,ZAF,710,Rural,14,Other improved,0.009,General Household Survey - GHS07
+South Africa,ZA,ZAF,710,Rural,15,"No facility, bush, field",0.156,General Household Survey - GHS07
+South Africa,ZA,ZAF,710,Rural,16,Other unimproved,0.0,General Household Survey - GHS07
+South Africa,ZA,ZAF,710,Rural,17,DK/missing information,0.006,General Household Survey - GHS07
+South Africa,ZA,ZAF,710,National,1,Flush and pour flush - to piped sewer system,0.526,General Household Survey - GHS07
+South Africa,ZA,ZAF,710,National,2,Flush and pour flush - to septic tank,0.033,General Household Survey - GHS07
+South Africa,ZA,ZAF,710,National,3,Flush and pour flush - to pit,0.0,General Household Survey - GHS07
+South Africa,ZA,ZAF,710,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,General Household Survey - GHS07
+South Africa,ZA,ZAF,710,National,5,Flush and pour flush - to elsewhere,0.0,General Household Survey - GHS07
+South Africa,ZA,ZAF,710,National,6,Dry latrines - Ventilated Improved Pit latrine,0.104,General Household Survey - GHS07
+South Africa,ZA,ZAF,710,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,General Household Survey - GHS07
+South Africa,ZA,ZAF,710,National,8,Dry latrines - Traditional latrine,0.241,General Household Survey - GHS07
+South Africa,ZA,ZAF,710,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,General Household Survey - GHS07
+South Africa,ZA,ZAF,710,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,General Household Survey - GHS07
+South Africa,ZA,ZAF,710,National,11,Dry latrines - Bucket latrine,0.016,General Household Survey - GHS07
+South Africa,ZA,ZAF,710,National,6,Dry latrines - Ventilated Improved Pit latrine,0.067,General Household Survey - GHS07
+South Africa,ZA,ZAF,710,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,General Household Survey - GHS07
+South Africa,ZA,ZAF,710,National,8,Dry latrines - Traditional latrine,0.159,General Household Survey - GHS07
+South Africa,ZA,ZAF,710,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,General Household Survey - GHS07
+South Africa,ZA,ZAF,710,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,General Household Survey - GHS07
+South Africa,ZA,ZAF,710,National,11,Dry latrines - Bucket latrine,0.005,General Household Survey - GHS07
+South Africa,ZA,ZAF,710,National,11,Dry latrines - Bucket latrine,0.012,General Household Survey - GHS07
+South Africa,ZA,ZAF,710,National,12,Dry latrines - Other,0.0,General Household Survey - GHS07
+South Africa,ZA,ZAF,710,National,13,Composting toilets,0.0,General Household Survey - GHS07
+South Africa,ZA,ZAF,710,National,14,Other improved,0.006,General Household Survey - GHS07
+South Africa,ZA,ZAF,710,National,15,"No facility, bush, field",0.065,General Household Survey - GHS07
+South Africa,ZA,ZAF,710,National,16,Other unimproved,0.0,General Household Survey - GHS07
+South Africa,ZA,ZAF,710,National,17,DK/missing information,0.007,General Household Survey - GHS07
+South Africa,ZA,ZAF,710,Urban,1,Flush and pour flush - to piped sewer system,0.769,Study on Global Ageing and Adult health - SAGE08
+South Africa,ZA,ZAF,710,Urban,2,Flush and pour flush - to septic tank,0.036,Study on Global Ageing and Adult health - SAGE08
+South Africa,ZA,ZAF,710,Urban,3,Flush and pour flush - to pit,0.007,Study on Global Ageing and Adult health - SAGE08
+South Africa,ZA,ZAF,710,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.006,Study on Global Ageing and Adult health - SAGE08
+South Africa,ZA,ZAF,710,Urban,5,Flush and pour flush - to elsewhere,0.001,Study on Global Ageing and Adult health - SAGE08
+South Africa,ZA,ZAF,710,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.033,Study on Global Ageing and Adult health - SAGE08
+South Africa,ZA,ZAF,710,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.061,Study on Global Ageing and Adult health - SAGE08
+South Africa,ZA,ZAF,710,Urban,8,Dry latrines - Traditional latrine,0.0,Study on Global Ageing and Adult health - SAGE08
+South Africa,ZA,ZAF,710,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.037,Study on Global Ageing and Adult health - SAGE08
+South Africa,ZA,ZAF,710,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Study on Global Ageing and Adult health - SAGE08
+South Africa,ZA,ZAF,710,Urban,11,Dry latrines - Bucket latrine,0.015,Study on Global Ageing and Adult health - SAGE08
+South Africa,ZA,ZAF,710,Urban,12,Dry latrines - Other,0.0,Study on Global Ageing and Adult health - SAGE08
+South Africa,ZA,ZAF,710,Urban,13,Composting toilets,0.002,Study on Global Ageing and Adult health - SAGE08
+South Africa,ZA,ZAF,710,Urban,14,Other improved,0.0,Study on Global Ageing and Adult health - SAGE08
+South Africa,ZA,ZAF,710,Urban,15,"No facility, bush, field",0.017,Study on Global Ageing and Adult health - SAGE08
+South Africa,ZA,ZAF,710,Urban,16,Other unimproved,0.01,Study on Global Ageing and Adult health - SAGE08
+South Africa,ZA,ZAF,710,Urban,17,DK/missing information,0.004,Study on Global Ageing and Adult health - SAGE08
+South Africa,ZA,ZAF,710,Rural,1,Flush and pour flush - to piped sewer system,0.129,Study on Global Ageing and Adult health - SAGE08
+South Africa,ZA,ZAF,710,Rural,2,Flush and pour flush - to septic tank,0.026,Study on Global Ageing and Adult health - SAGE08
+South Africa,ZA,ZAF,710,Rural,3,Flush and pour flush - to pit,0.039,Study on Global Ageing and Adult health - SAGE08
+South Africa,ZA,ZAF,710,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.001,Study on Global Ageing and Adult health - SAGE08
+South Africa,ZA,ZAF,710,Rural,5,Flush and pour flush - to elsewhere,0.006,Study on Global Ageing and Adult health - SAGE08
+South Africa,ZA,ZAF,710,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.036,Study on Global Ageing and Adult health - SAGE08
+South Africa,ZA,ZAF,710,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.375,Study on Global Ageing and Adult health - SAGE08
+South Africa,ZA,ZAF,710,Rural,8,Dry latrines - Traditional latrine,0.0,Study on Global Ageing and Adult health - SAGE08
+South Africa,ZA,ZAF,710,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.211,Study on Global Ageing and Adult health - SAGE08
+South Africa,ZA,ZAF,710,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.004,Study on Global Ageing and Adult health - SAGE08
+South Africa,ZA,ZAF,710,Rural,11,Dry latrines - Bucket latrine,0.019,Study on Global Ageing and Adult health - SAGE08
+South Africa,ZA,ZAF,710,Rural,12,Dry latrines - Other,0.0,Study on Global Ageing and Adult health - SAGE08
+South Africa,ZA,ZAF,710,Rural,13,Composting toilets,0.02,Study on Global Ageing and Adult health - SAGE08
+South Africa,ZA,ZAF,710,Rural,14,Other improved,0.0,Study on Global Ageing and Adult health - SAGE08
+South Africa,ZA,ZAF,710,Rural,15,"No facility, bush, field",0.107,Study on Global Ageing and Adult health - SAGE08
+South Africa,ZA,ZAF,710,Rural,16,Other unimproved,0.026,Study on Global Ageing and Adult health - SAGE08
+South Africa,ZA,ZAF,710,Rural,17,DK/missing information,0.001,Study on Global Ageing and Adult health - SAGE08
+South Africa,ZA,ZAF,710,National,1,Flush and pour flush - to piped sewer system,0.546,Study on Global Ageing and Adult health - SAGE08
+South Africa,ZA,ZAF,710,National,2,Flush and pour flush - to septic tank,0.033,Study on Global Ageing and Adult health - SAGE08
+South Africa,ZA,ZAF,710,National,3,Flush and pour flush - to pit,0.018,Study on Global Ageing and Adult health - SAGE08
+South Africa,ZA,ZAF,710,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.004,Study on Global Ageing and Adult health - SAGE08
+South Africa,ZA,ZAF,710,National,5,Flush and pour flush - to elsewhere,0.003,Study on Global Ageing and Adult health - SAGE08
+South Africa,ZA,ZAF,710,National,6,Dry latrines - Ventilated Improved Pit latrine,0.034,Study on Global Ageing and Adult health - SAGE08
+South Africa,ZA,ZAF,710,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.171,Study on Global Ageing and Adult health - SAGE08
+South Africa,ZA,ZAF,710,National,8,Dry latrines - Traditional latrine,0.0,Study on Global Ageing and Adult health - SAGE08
+South Africa,ZA,ZAF,710,National,9,Dry latrines - Pit latrine without slab/open pit,0.098,Study on Global Ageing and Adult health - SAGE08
+South Africa,ZA,ZAF,710,National,10,Dry latrines - Hanging toilet/hanging latrine,0.002,Study on Global Ageing and Adult health - SAGE08
+South Africa,ZA,ZAF,710,National,11,Dry latrines - Bucket latrine,0.017,Study on Global Ageing and Adult health - SAGE08
+South Africa,ZA,ZAF,710,National,12,Dry latrines - Other,0.0,Study on Global Ageing and Adult health - SAGE08
+South Africa,ZA,ZAF,710,National,13,Composting toilets,0.008,Study on Global Ageing and Adult health - SAGE08
+South Africa,ZA,ZAF,710,National,14,Other improved,0.0,Study on Global Ageing and Adult health - SAGE08
+South Africa,ZA,ZAF,710,National,15,"No facility, bush, field",0.049,Study on Global Ageing and Adult health - SAGE08
+South Africa,ZA,ZAF,710,National,16,Other unimproved,0.015,Study on Global Ageing and Adult health - SAGE08
+South Africa,ZA,ZAF,710,National,17,DK/missing information,0.003,Study on Global Ageing and Adult health - SAGE08
+South Africa,ZA,ZAF,710,Urban,1,Flush and pour flush - to piped sewer system,0.0,National Income Dynamics Study: Wave 1 (Panel) - NIDS08
+South Africa,ZA,ZAF,710,Urban,2,Flush and pour flush - to septic tank,0.0,National Income Dynamics Study: Wave 1 (Panel) - NIDS08
+South Africa,ZA,ZAF,710,Urban,3,Flush and pour flush - to pit,0.0,National Income Dynamics Study: Wave 1 (Panel) - NIDS08
+South Africa,ZA,ZAF,710,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Income Dynamics Study: Wave 1 (Panel) - NIDS08
+South Africa,ZA,ZAF,710,Urban,5,Flush and pour flush - to elsewhere,0.0,National Income Dynamics Study: Wave 1 (Panel) - NIDS08
+South Africa,ZA,ZAF,710,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.022,National Income Dynamics Study: Wave 1 (Panel) - NIDS08
+South Africa,ZA,ZAF,710,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Income Dynamics Study: Wave 1 (Panel) - NIDS08
+South Africa,ZA,ZAF,710,Urban,8,Dry latrines - Traditional latrine,0.03,National Income Dynamics Study: Wave 1 (Panel) - NIDS08
+South Africa,ZA,ZAF,710,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Income Dynamics Study: Wave 1 (Panel) - NIDS08
+South Africa,ZA,ZAF,710,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Income Dynamics Study: Wave 1 (Panel) - NIDS08
+South Africa,ZA,ZAF,710,Urban,11,Dry latrines - Bucket latrine,0.006,National Income Dynamics Study: Wave 1 (Panel) - NIDS08
+South Africa,ZA,ZAF,710,Urban,12,Dry latrines - Other,0.0,National Income Dynamics Study: Wave 1 (Panel) - NIDS08
+South Africa,ZA,ZAF,710,Urban,13,Composting toilets,0.0,National Income Dynamics Study: Wave 1 (Panel) - NIDS08
+South Africa,ZA,ZAF,710,Urban,14,Other improved,0.003,National Income Dynamics Study: Wave 1 (Panel) - NIDS08
+South Africa,ZA,ZAF,710,Urban,15,"No facility, bush, field",0.013,National Income Dynamics Study: Wave 1 (Panel) - NIDS08
+South Africa,ZA,ZAF,710,Urban,16,Other unimproved,0.003,National Income Dynamics Study: Wave 1 (Panel) - NIDS08
+South Africa,ZA,ZAF,710,Urban,17,DK/missing information,0.006,National Income Dynamics Study: Wave 1 (Panel) - NIDS08
+South Africa,ZA,ZAF,710,Rural,1,Flush and pour flush - to piped sewer system,0.0,National Income Dynamics Study: Wave 1 (Panel) - NIDS08
+South Africa,ZA,ZAF,710,Rural,2,Flush and pour flush - to septic tank,0.0,National Income Dynamics Study: Wave 1 (Panel) - NIDS08
+South Africa,ZA,ZAF,710,Rural,3,Flush and pour flush - to pit,0.0,National Income Dynamics Study: Wave 1 (Panel) - NIDS08
+South Africa,ZA,ZAF,710,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Income Dynamics Study: Wave 1 (Panel) - NIDS08
+South Africa,ZA,ZAF,710,Rural,5,Flush and pour flush - to elsewhere,0.0,National Income Dynamics Study: Wave 1 (Panel) - NIDS08
+South Africa,ZA,ZAF,710,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.083,National Income Dynamics Study: Wave 1 (Panel) - NIDS08
+South Africa,ZA,ZAF,710,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Income Dynamics Study: Wave 1 (Panel) - NIDS08
+South Africa,ZA,ZAF,710,Rural,8,Dry latrines - Traditional latrine,0.284,National Income Dynamics Study: Wave 1 (Panel) - NIDS08
+South Africa,ZA,ZAF,710,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Income Dynamics Study: Wave 1 (Panel) - NIDS08
+South Africa,ZA,ZAF,710,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Income Dynamics Study: Wave 1 (Panel) - NIDS08
+South Africa,ZA,ZAF,710,Rural,11,Dry latrines - Bucket latrine,0.042,National Income Dynamics Study: Wave 1 (Panel) - NIDS08
+South Africa,ZA,ZAF,710,Rural,12,Dry latrines - Other,0.0,National Income Dynamics Study: Wave 1 (Panel) - NIDS08
+South Africa,ZA,ZAF,710,Rural,13,Composting toilets,0.0,National Income Dynamics Study: Wave 1 (Panel) - NIDS08
+South Africa,ZA,ZAF,710,Rural,14,Other improved,0.011,National Income Dynamics Study: Wave 1 (Panel) - NIDS08
+South Africa,ZA,ZAF,710,Rural,15,"No facility, bush, field",0.137,National Income Dynamics Study: Wave 1 (Panel) - NIDS08
+South Africa,ZA,ZAF,710,Rural,16,Other unimproved,0.004,National Income Dynamics Study: Wave 1 (Panel) - NIDS08
+South Africa,ZA,ZAF,710,Rural,17,DK/missing information,0.011,National Income Dynamics Study: Wave 1 (Panel) - NIDS08
+South Africa,ZA,ZAF,710,National,1,Flush and pour flush - to piped sewer system,0.0,National Income Dynamics Study: Wave 1 (Panel) - NIDS08
+South Africa,ZA,ZAF,710,National,2,Flush and pour flush - to septic tank,0.0,National Income Dynamics Study: Wave 1 (Panel) - NIDS08
+South Africa,ZA,ZAF,710,National,3,Flush and pour flush - to pit,0.0,National Income Dynamics Study: Wave 1 (Panel) - NIDS08
+South Africa,ZA,ZAF,710,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Income Dynamics Study: Wave 1 (Panel) - NIDS08
+South Africa,ZA,ZAF,710,National,5,Flush and pour flush - to elsewhere,0.0,National Income Dynamics Study: Wave 1 (Panel) - NIDS08
+South Africa,ZA,ZAF,710,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,National Income Dynamics Study: Wave 1 (Panel) - NIDS08
+South Africa,ZA,ZAF,710,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Income Dynamics Study: Wave 1 (Panel) - NIDS08
+South Africa,ZA,ZAF,710,National,8,Dry latrines - Traditional latrine,0.0,National Income Dynamics Study: Wave 1 (Panel) - NIDS08
+South Africa,ZA,ZAF,710,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Income Dynamics Study: Wave 1 (Panel) - NIDS08
+South Africa,ZA,ZAF,710,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Income Dynamics Study: Wave 1 (Panel) - NIDS08
+South Africa,ZA,ZAF,710,National,11,Dry latrines - Bucket latrine,0.0,National Income Dynamics Study: Wave 1 (Panel) - NIDS08
+South Africa,ZA,ZAF,710,National,12,Dry latrines - Other,0.0,National Income Dynamics Study: Wave 1 (Panel) - NIDS08
+South Africa,ZA,ZAF,710,National,13,Composting toilets,0.0,National Income Dynamics Study: Wave 1 (Panel) - NIDS08
+South Africa,ZA,ZAF,710,National,14,Other improved,0.0,National Income Dynamics Study: Wave 1 (Panel) - NIDS08
+South Africa,ZA,ZAF,710,National,15,"No facility, bush, field",0.0,National Income Dynamics Study: Wave 1 (Panel) - NIDS08
+South Africa,ZA,ZAF,710,National,16,Other unimproved,0.0,National Income Dynamics Study: Wave 1 (Panel) - NIDS08
+South Africa,ZA,ZAF,710,National,17,DK/missing information,0.0,National Income Dynamics Study: Wave 1 (Panel) - NIDS08
+South Africa,ZA,ZAF,710,Urban,1,Flush and pour flush - to piped sewer system,0.806,General Household Survey - GHS08
+South Africa,ZA,ZAF,710,Urban,2,Flush and pour flush - to septic tank,0.05,General Household Survey - GHS08
+South Africa,ZA,ZAF,710,Urban,3,Flush and pour flush - to pit,0.0,General Household Survey - GHS08
+South Africa,ZA,ZAF,710,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,General Household Survey - GHS08
+South Africa,ZA,ZAF,710,Urban,5,Flush and pour flush - to elsewhere,0.0,General Household Survey - GHS08
+South Africa,ZA,ZAF,710,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.038,General Household Survey - GHS08
+South Africa,ZA,ZAF,710,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,General Household Survey - GHS08
+South Africa,ZA,ZAF,710,Urban,8,Dry latrines - Traditional latrine,0.067,General Household Survey - GHS08
+South Africa,ZA,ZAF,710,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,General Household Survey - GHS08
+South Africa,ZA,ZAF,710,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,General Household Survey - GHS08
+South Africa,ZA,ZAF,710,Urban,11,Dry latrines - Bucket latrine,0.018,General Household Survey - GHS08
+South Africa,ZA,ZAF,710,Urban,12,Dry latrines - Other,0.0,General Household Survey - GHS08
+South Africa,ZA,ZAF,710,Urban,13,Composting toilets,0.0,General Household Survey - GHS08
+South Africa,ZA,ZAF,710,Urban,14,Other improved,0.004,General Household Survey - GHS08
+South Africa,ZA,ZAF,710,Urban,15,"No facility, bush, field",0.013,General Household Survey - GHS08
+South Africa,ZA,ZAF,710,Urban,16,Other unimproved,0.0,General Household Survey - GHS08
+South Africa,ZA,ZAF,710,Urban,17,DK/missing information,0.005,General Household Survey - GHS08
+South Africa,ZA,ZAF,710,Rural,1,Flush and pour flush - to piped sewer system,0.06,General Household Survey - GHS08
+South Africa,ZA,ZAF,710,Rural,2,Flush and pour flush - to septic tank,0.022,General Household Survey - GHS08
+South Africa,ZA,ZAF,710,Rural,3,Flush and pour flush - to pit,0.0,General Household Survey - GHS08
+South Africa,ZA,ZAF,710,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,General Household Survey - GHS08
+South Africa,ZA,ZAF,710,Rural,5,Flush and pour flush - to elsewhere,0.0,General Household Survey - GHS08
+South Africa,ZA,ZAF,710,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.235,General Household Survey - GHS08
+South Africa,ZA,ZAF,710,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,General Household Survey - GHS08
+South Africa,ZA,ZAF,710,Rural,8,Dry latrines - Traditional latrine,0.518,General Household Survey - GHS08
+South Africa,ZA,ZAF,710,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,General Household Survey - GHS08
+South Africa,ZA,ZAF,710,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,General Household Survey - GHS08
+South Africa,ZA,ZAF,710,Rural,11,Dry latrines - Bucket latrine,0.008,General Household Survey - GHS08
+South Africa,ZA,ZAF,710,Rural,12,Dry latrines - Other,0.0,General Household Survey - GHS08
+South Africa,ZA,ZAF,710,Rural,13,Composting toilets,0.0,General Household Survey - GHS08
+South Africa,ZA,ZAF,710,Rural,14,Other improved,0.005,General Household Survey - GHS08
+South Africa,ZA,ZAF,710,Rural,15,"No facility, bush, field",0.147,General Household Survey - GHS08
+South Africa,ZA,ZAF,710,Rural,16,Other unimproved,0.0,General Household Survey - GHS08
+South Africa,ZA,ZAF,710,Rural,17,DK/missing information,0.005,General Household Survey - GHS08
+South Africa,ZA,ZAF,710,National,1,Flush and pour flush - to piped sewer system,0.524,General Household Survey - GHS08
+South Africa,ZA,ZAF,710,National,2,Flush and pour flush - to septic tank,0.039,General Household Survey - GHS08
+South Africa,ZA,ZAF,710,National,3,Flush and pour flush - to pit,0.0,General Household Survey - GHS08
+South Africa,ZA,ZAF,710,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,General Household Survey - GHS08
+South Africa,ZA,ZAF,710,National,5,Flush and pour flush - to elsewhere,0.0,General Household Survey - GHS08
+South Africa,ZA,ZAF,710,National,6,Dry latrines - Ventilated Improved Pit latrine,0.112,General Household Survey - GHS08
+South Africa,ZA,ZAF,710,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,General Household Survey - GHS08
+South Africa,ZA,ZAF,710,National,8,Dry latrines - Traditional latrine,0.238,General Household Survey - GHS08
+South Africa,ZA,ZAF,710,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,General Household Survey - GHS08
+South Africa,ZA,ZAF,710,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,General Household Survey - GHS08
+South Africa,ZA,ZAF,710,National,11,Dry latrines - Bucket latrine,0.014,General Household Survey - GHS08
+South Africa,ZA,ZAF,710,National,12,Dry latrines - Other,0.0,General Household Survey - GHS08
+South Africa,ZA,ZAF,710,National,13,Composting toilets,0.0,General Household Survey - GHS08
+South Africa,ZA,ZAF,710,National,14,Other improved,0.005,General Household Survey - GHS08
+South Africa,ZA,ZAF,710,National,15,"No facility, bush, field",0.064,General Household Survey - GHS08
+South Africa,ZA,ZAF,710,National,16,Other unimproved,0.0,General Household Survey - GHS08
+South Africa,ZA,ZAF,710,National,17,DK/missing information,0.005,General Household Survey - GHS08
+South Africa,ZA,ZAF,710,Urban,1,Flush and pour flush - to piped sewer system,0.836,General Household Survey - GHS09
+South Africa,ZA,ZAF,710,Urban,2,Flush and pour flush - to septic tank,0.019,General Household Survey - GHS09
+South Africa,ZA,ZAF,710,Urban,3,Flush and pour flush - to pit,0.0,General Household Survey - GHS09
+South Africa,ZA,ZAF,710,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,General Household Survey - GHS09
+South Africa,ZA,ZAF,710,Urban,5,Flush and pour flush - to elsewhere,0.0,General Household Survey - GHS09
+South Africa,ZA,ZAF,710,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.044,General Household Survey - GHS09
+South Africa,ZA,ZAF,710,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,General Household Survey - GHS09
+South Africa,ZA,ZAF,710,Urban,8,Dry latrines - Traditional latrine,0.066,General Household Survey - GHS09
+South Africa,ZA,ZAF,710,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,General Household Survey - GHS09
+South Africa,ZA,ZAF,710,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,General Household Survey - GHS09
+South Africa,ZA,ZAF,710,Urban,11,Dry latrines - Bucket latrine,0.015,General Household Survey - GHS09
+South Africa,ZA,ZAF,710,Urban,12,Dry latrines - Other,0.0,General Household Survey - GHS09
+South Africa,ZA,ZAF,710,Urban,13,Composting toilets,0.0,General Household Survey - GHS09
+South Africa,ZA,ZAF,710,Urban,14,Other improved,0.004,General Household Survey - GHS09
+South Africa,ZA,ZAF,710,Urban,15,"No facility, bush, field",0.016,General Household Survey - GHS09
+South Africa,ZA,ZAF,710,Urban,16,Other unimproved,0.001,General Household Survey - GHS09
+South Africa,ZA,ZAF,710,Urban,17,DK/missing information,0.0,General Household Survey - GHS09
+South Africa,ZA,ZAF,710,Rural,1,Flush and pour flush - to piped sewer system,0.047,General Household Survey - GHS09
+South Africa,ZA,ZAF,710,Rural,2,Flush and pour flush - to septic tank,0.032,General Household Survey - GHS09
+South Africa,ZA,ZAF,710,Rural,3,Flush and pour flush - to pit,0.0,General Household Survey - GHS09
+South Africa,ZA,ZAF,710,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,General Household Survey - GHS09
+South Africa,ZA,ZAF,710,Rural,5,Flush and pour flush - to elsewhere,0.0,General Household Survey - GHS09
+South Africa,ZA,ZAF,710,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.303,General Household Survey - GHS09
+South Africa,ZA,ZAF,710,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,General Household Survey - GHS09
+South Africa,ZA,ZAF,710,Rural,8,Dry latrines - Traditional latrine,0.483,General Household Survey - GHS09
+South Africa,ZA,ZAF,710,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,General Household Survey - GHS09
+South Africa,ZA,ZAF,710,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,General Household Survey - GHS09
+South Africa,ZA,ZAF,710,Rural,11,Dry latrines - Bucket latrine,0.002,General Household Survey - GHS09
+South Africa,ZA,ZAF,710,Rural,12,Dry latrines - Other,0.0,General Household Survey - GHS09
+South Africa,ZA,ZAF,710,Rural,13,Composting toilets,0.0,General Household Survey - GHS09
+South Africa,ZA,ZAF,710,Rural,14,Other improved,0.002,General Household Survey - GHS09
+South Africa,ZA,ZAF,710,Rural,15,"No facility, bush, field",0.127,General Household Survey - GHS09
+South Africa,ZA,ZAF,710,Rural,16,Other unimproved,0.005,General Household Survey - GHS09
+South Africa,ZA,ZAF,710,Rural,17,DK/missing information,0.0,General Household Survey - GHS09
+South Africa,ZA,ZAF,710,National,1,Flush and pour flush - to piped sewer system,0.535,General Household Survey - GHS09
+South Africa,ZA,ZAF,710,National,2,Flush and pour flush - to septic tank,0.024,General Household Survey - GHS09
+South Africa,ZA,ZAF,710,National,3,Flush and pour flush - to pit,0.0,General Household Survey - GHS09
+South Africa,ZA,ZAF,710,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,General Household Survey - GHS09
+South Africa,ZA,ZAF,710,National,5,Flush and pour flush - to elsewhere,0.0,General Household Survey - GHS09
+South Africa,ZA,ZAF,710,National,6,Dry latrines - Ventilated Improved Pit latrine,0.142,General Household Survey - GHS09
+South Africa,ZA,ZAF,710,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,General Household Survey - GHS09
+South Africa,ZA,ZAF,710,National,8,Dry latrines - Traditional latrine,0.225,General Household Survey - GHS09
+South Africa,ZA,ZAF,710,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,General Household Survey - GHS09
+South Africa,ZA,ZAF,710,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,General Household Survey - GHS09
+South Africa,ZA,ZAF,710,National,11,Dry latrines - Bucket latrine,0.01,General Household Survey - GHS09
+South Africa,ZA,ZAF,710,National,12,Dry latrines - Other,0.0,General Household Survey - GHS09
+South Africa,ZA,ZAF,710,National,13,Composting toilets,0.0,General Household Survey - GHS09
+South Africa,ZA,ZAF,710,National,14,Other improved,0.003,General Household Survey - GHS09
+South Africa,ZA,ZAF,710,National,15,"No facility, bush, field",0.058,General Household Survey - GHS09
+South Africa,ZA,ZAF,710,National,16,Other unimproved,0.003,General Household Survey - GHS09
+South Africa,ZA,ZAF,710,National,17,DK/missing information,0.0,General Household Survey - GHS09
+South Africa,ZA,ZAF,710,Urban,1,Flush and pour flush - to piped sewer system,0.8,Living Conditions Survey - LCS09
+South Africa,ZA,ZAF,710,Urban,2,Flush and pour flush - to septic tank,0.044,Living Conditions Survey - LCS09
+South Africa,ZA,ZAF,710,Urban,3,Flush and pour flush - to pit,0.0,Living Conditions Survey - LCS09
+South Africa,ZA,ZAF,710,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Living Conditions Survey - LCS09
+South Africa,ZA,ZAF,710,Urban,5,Flush and pour flush - to elsewhere,0.0,Living Conditions Survey - LCS09
+South Africa,ZA,ZAF,710,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.039,Living Conditions Survey - LCS09
+South Africa,ZA,ZAF,710,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Living Conditions Survey - LCS09
+South Africa,ZA,ZAF,710,Urban,8,Dry latrines - Traditional latrine,0.064,Living Conditions Survey - LCS09
+South Africa,ZA,ZAF,710,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Living Conditions Survey - LCS09
+South Africa,ZA,ZAF,710,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Living Conditions Survey - LCS09
+South Africa,ZA,ZAF,710,Urban,11,Dry latrines - Bucket latrine,0.02,Living Conditions Survey - LCS09
+South Africa,ZA,ZAF,710,Urban,12,Dry latrines - Other,0.0,Living Conditions Survey - LCS09
+South Africa,ZA,ZAF,710,Urban,13,Composting toilets,0.0,Living Conditions Survey - LCS09
+South Africa,ZA,ZAF,710,Urban,14,Other improved,0.006,Living Conditions Survey - LCS09
+South Africa,ZA,ZAF,710,Urban,15,"No facility, bush, field",0.014,Living Conditions Survey - LCS09
+South Africa,ZA,ZAF,710,Urban,16,Other unimproved,0.0,Living Conditions Survey - LCS09
+South Africa,ZA,ZAF,710,Urban,17,DK/missing information,0.0,Living Conditions Survey - LCS09
+South Africa,ZA,ZAF,710,Rural,1,Flush and pour flush - to piped sewer system,0.058,Living Conditions Survey - LCS09
+South Africa,ZA,ZAF,710,Rural,2,Flush and pour flush - to septic tank,0.018,Living Conditions Survey - LCS09
+South Africa,ZA,ZAF,710,Rural,3,Flush and pour flush - to pit,0.0,Living Conditions Survey - LCS09
+South Africa,ZA,ZAF,710,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Living Conditions Survey - LCS09
+South Africa,ZA,ZAF,710,Rural,5,Flush and pour flush - to elsewhere,0.0,Living Conditions Survey - LCS09
+South Africa,ZA,ZAF,710,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.247,Living Conditions Survey - LCS09
+South Africa,ZA,ZAF,710,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Living Conditions Survey - LCS09
+South Africa,ZA,ZAF,710,Rural,8,Dry latrines - Traditional latrine,0.495,Living Conditions Survey - LCS09
+South Africa,ZA,ZAF,710,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Living Conditions Survey - LCS09
+South Africa,ZA,ZAF,710,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Living Conditions Survey - LCS09
+South Africa,ZA,ZAF,710,Rural,11,Dry latrines - Bucket latrine,0.003,Living Conditions Survey - LCS09
+South Africa,ZA,ZAF,710,Rural,12,Dry latrines - Other,0.0,Living Conditions Survey - LCS09
+South Africa,ZA,ZAF,710,Rural,13,Composting toilets,0.0,Living Conditions Survey - LCS09
+South Africa,ZA,ZAF,710,Rural,14,Other improved,0.006,Living Conditions Survey - LCS09
+South Africa,ZA,ZAF,710,Rural,15,"No facility, bush, field",0.138,Living Conditions Survey - LCS09
+South Africa,ZA,ZAF,710,Rural,16,Other unimproved,0.0,Living Conditions Survey - LCS09
+South Africa,ZA,ZAF,710,Rural,17,DK/missing information,0.0,Living Conditions Survey - LCS09
+South Africa,ZA,ZAF,710,National,1,Flush and pour flush - to piped sewer system,0.52,Living Conditions Survey - LCS09
+South Africa,ZA,ZAF,710,National,2,Flush and pour flush - to septic tank,0.034,Living Conditions Survey - LCS09
+South Africa,ZA,ZAF,710,National,3,Flush and pour flush - to pit,0.0,Living Conditions Survey - LCS09
+South Africa,ZA,ZAF,710,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Living Conditions Survey - LCS09
+South Africa,ZA,ZAF,710,National,5,Flush and pour flush - to elsewhere,0.0,Living Conditions Survey - LCS09
+South Africa,ZA,ZAF,710,National,6,Dry latrines - Ventilated Improved Pit latrine,0.118,Living Conditions Survey - LCS09
+South Africa,ZA,ZAF,710,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Living Conditions Survey - LCS09
+South Africa,ZA,ZAF,710,National,8,Dry latrines - Traditional latrine,0.227,Living Conditions Survey - LCS09
+South Africa,ZA,ZAF,710,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Living Conditions Survey - LCS09
+South Africa,ZA,ZAF,710,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Living Conditions Survey - LCS09
+South Africa,ZA,ZAF,710,National,11,Dry latrines - Bucket latrine,0.014,Living Conditions Survey - LCS09
+South Africa,ZA,ZAF,710,National,12,Dry latrines - Other,0.0,Living Conditions Survey - LCS09
+South Africa,ZA,ZAF,710,National,13,Composting toilets,0.0,Living Conditions Survey - LCS09
+South Africa,ZA,ZAF,710,National,14,Other improved,0.006,Living Conditions Survey - LCS09
+South Africa,ZA,ZAF,710,National,15,"No facility, bush, field",0.061,Living Conditions Survey - LCS09
+South Africa,ZA,ZAF,710,National,16,Other unimproved,0.0,Living Conditions Survey - LCS09
+South Africa,ZA,ZAF,710,National,17,DK/missing information,0.0,Living Conditions Survey - LCS09
+South Africa,ZA,ZAF,710,Urban,1,Flush and pour flush - to piped sewer system,0.848,General Household Survey - GHS10
+South Africa,ZA,ZAF,710,Urban,2,Flush and pour flush - to septic tank,0.016,General Household Survey - GHS10
+South Africa,ZA,ZAF,710,Urban,3,Flush and pour flush - to pit,0.0,General Household Survey - GHS10
+South Africa,ZA,ZAF,710,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,General Household Survey - GHS10
+South Africa,ZA,ZAF,710,Urban,5,Flush and pour flush - to elsewhere,0.0,General Household Survey - GHS10
+South Africa,ZA,ZAF,710,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.031,General Household Survey - GHS10
+South Africa,ZA,ZAF,710,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,General Household Survey - GHS10
+South Africa,ZA,ZAF,710,Urban,8,Dry latrines - Traditional latrine,0.048,General Household Survey - GHS10
+South Africa,ZA,ZAF,710,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,General Household Survey - GHS10
+South Africa,ZA,ZAF,710,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,General Household Survey - GHS10
+South Africa,ZA,ZAF,710,Urban,11,Dry latrines - Bucket latrine,0.008,General Household Survey - GHS10
+South Africa,ZA,ZAF,710,Urban,12,Dry latrines - Other,0.0,General Household Survey - GHS10
+South Africa,ZA,ZAF,710,Urban,13,Composting toilets,0.0,General Household Survey - GHS10
+South Africa,ZA,ZAF,710,Urban,14,Other improved,0.003,General Household Survey - GHS10
+South Africa,ZA,ZAF,710,Urban,15,"No facility, bush, field",0.012,General Household Survey - GHS10
+South Africa,ZA,ZAF,710,Urban,16,Other unimproved,0.001,General Household Survey - GHS10
+South Africa,ZA,ZAF,710,Urban,17,DK/missing information,0.033,General Household Survey - GHS10
+South Africa,ZA,ZAF,710,Rural,1,Flush and pour flush - to piped sewer system,0.039,General Household Survey - GHS10
+South Africa,ZA,ZAF,710,Rural,2,Flush and pour flush - to septic tank,0.041,General Household Survey - GHS10
+South Africa,ZA,ZAF,710,Rural,3,Flush and pour flush - to pit,0.0,General Household Survey - GHS10
+South Africa,ZA,ZAF,710,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,General Household Survey - GHS10
+South Africa,ZA,ZAF,710,Rural,5,Flush and pour flush - to elsewhere,0.0,General Household Survey - GHS10
+South Africa,ZA,ZAF,710,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.315,General Household Survey - GHS10
+South Africa,ZA,ZAF,710,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,General Household Survey - GHS10
+South Africa,ZA,ZAF,710,Rural,8,Dry latrines - Traditional latrine,0.435,General Household Survey - GHS10
+South Africa,ZA,ZAF,710,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,General Household Survey - GHS10
+South Africa,ZA,ZAF,710,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,General Household Survey - GHS10
+South Africa,ZA,ZAF,710,Rural,11,Dry latrines - Bucket latrine,0.001,General Household Survey - GHS10
+South Africa,ZA,ZAF,710,Rural,12,Dry latrines - Other,0.0,General Household Survey - GHS10
+South Africa,ZA,ZAF,710,Rural,13,Composting toilets,0.0,General Household Survey - GHS10
+South Africa,ZA,ZAF,710,Rural,14,Other improved,0.006,General Household Survey - GHS10
+South Africa,ZA,ZAF,710,Rural,15,"No facility, bush, field",0.113,General Household Survey - GHS10
+South Africa,ZA,ZAF,710,Rural,16,Other unimproved,0.001,General Household Survey - GHS10
+South Africa,ZA,ZAF,710,Rural,17,DK/missing information,0.05,General Household Survey - GHS10
+South Africa,ZA,ZAF,710,National,1,Flush and pour flush - to piped sewer system,0.543,General Household Survey - GHS10
+South Africa,ZA,ZAF,710,National,2,Flush and pour flush - to septic tank,0.026,General Household Survey - GHS10
+South Africa,ZA,ZAF,710,National,3,Flush and pour flush - to pit,0.0,General Household Survey - GHS10
+South Africa,ZA,ZAF,710,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,General Household Survey - GHS10
+South Africa,ZA,ZAF,710,National,5,Flush and pour flush - to elsewhere,0.0,General Household Survey - GHS10
+South Africa,ZA,ZAF,710,National,6,Dry latrines - Ventilated Improved Pit latrine,0.138,General Household Survey - GHS10
+South Africa,ZA,ZAF,710,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,General Household Survey - GHS10
+South Africa,ZA,ZAF,710,National,8,Dry latrines - Traditional latrine,0.194,General Household Survey - GHS10
+South Africa,ZA,ZAF,710,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,General Household Survey - GHS10
+South Africa,ZA,ZAF,710,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,General Household Survey - GHS10
+South Africa,ZA,ZAF,710,National,11,Dry latrines - Bucket latrine,0.006,General Household Survey - GHS10
+South Africa,ZA,ZAF,710,National,12,Dry latrines - Other,0.0,General Household Survey - GHS10
+South Africa,ZA,ZAF,710,National,13,Composting toilets,0.0,General Household Survey - GHS10
+South Africa,ZA,ZAF,710,National,14,Other improved,0.004,General Household Survey - GHS10
+South Africa,ZA,ZAF,710,National,15,"No facility, bush, field",0.05,General Household Survey - GHS10
+South Africa,ZA,ZAF,710,National,16,Other unimproved,0.001,General Household Survey - GHS10
+South Africa,ZA,ZAF,710,National,17,DK/missing information,0.039,General Household Survey - GHS10
+South Africa,ZA,ZAF,710,Urban,1,Flush and pour flush - to piped sewer system,0.886,Income and Expenditure of Households - IES11
+South Africa,ZA,ZAF,710,Urban,2,Flush and pour flush - to septic tank,0.037,Income and Expenditure of Households - IES11
+South Africa,ZA,ZAF,710,Urban,3,Flush and pour flush - to pit,0.0,Income and Expenditure of Households - IES11
+South Africa,ZA,ZAF,710,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Income and Expenditure of Households - IES11
+South Africa,ZA,ZAF,710,Urban,5,Flush and pour flush - to elsewhere,0.0,Income and Expenditure of Households - IES11
+South Africa,ZA,ZAF,710,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.018,Income and Expenditure of Households - IES11
+South Africa,ZA,ZAF,710,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Income and Expenditure of Households - IES11
+South Africa,ZA,ZAF,710,Urban,8,Dry latrines - Traditional latrine,0.033,Income and Expenditure of Households - IES11
+South Africa,ZA,ZAF,710,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Income and Expenditure of Households - IES11
+South Africa,ZA,ZAF,710,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Income and Expenditure of Households - IES11
+South Africa,ZA,ZAF,710,Urban,11,Dry latrines - Bucket latrine,0.006,Income and Expenditure of Households - IES11
+South Africa,ZA,ZAF,710,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.017,Income and Expenditure of Households - IES11
+South Africa,ZA,ZAF,710,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Income and Expenditure of Households - IES11
+South Africa,ZA,ZAF,710,Urban,8,Dry latrines - Traditional latrine,0.032,Income and Expenditure of Households - IES11
+South Africa,ZA,ZAF,710,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Income and Expenditure of Households - IES11
+South Africa,ZA,ZAF,710,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Income and Expenditure of Households - IES11
+South Africa,ZA,ZAF,710,Urban,11,Dry latrines - Bucket latrine,0.006,Income and Expenditure of Households - IES11
+South Africa,ZA,ZAF,710,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.001,Income and Expenditure of Households - IES11
+South Africa,ZA,ZAF,710,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Income and Expenditure of Households - IES11
+South Africa,ZA,ZAF,710,Urban,8,Dry latrines - Traditional latrine,0.002,Income and Expenditure of Households - IES11
+South Africa,ZA,ZAF,710,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Income and Expenditure of Households - IES11
+South Africa,ZA,ZAF,710,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Income and Expenditure of Households - IES11
+South Africa,ZA,ZAF,710,Urban,11,Dry latrines - Bucket latrine,0.001,Income and Expenditure of Households - IES11
+South Africa,ZA,ZAF,710,Urban,12,Dry latrines - Other,0.0,Income and Expenditure of Households - IES11
+South Africa,ZA,ZAF,710,Urban,13,Composting toilets,0.0,Income and Expenditure of Households - IES11
+South Africa,ZA,ZAF,710,Urban,14,Other improved,0.004,Income and Expenditure of Households - IES11
+South Africa,ZA,ZAF,710,Urban,15,"No facility, bush, field",0.011,Income and Expenditure of Households - IES11
+South Africa,ZA,ZAF,710,Urban,16,Other unimproved,0.004,Income and Expenditure of Households - IES11
+South Africa,ZA,ZAF,710,Urban,17,DK/missing information,0.0,Income and Expenditure of Households - IES11
+South Africa,ZA,ZAF,710,Rural,1,Flush and pour flush - to piped sewer system,0.442,Income and Expenditure of Households - IES11
+South Africa,ZA,ZAF,710,Rural,2,Flush and pour flush - to septic tank,0.093,Income and Expenditure of Households - IES11
+South Africa,ZA,ZAF,710,Rural,3,Flush and pour flush - to pit,0.0,Income and Expenditure of Households - IES11
+South Africa,ZA,ZAF,710,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Income and Expenditure of Households - IES11
+South Africa,ZA,ZAF,710,Rural,5,Flush and pour flush - to elsewhere,0.0,Income and Expenditure of Households - IES11
+South Africa,ZA,ZAF,710,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.107,Income and Expenditure of Households - IES11
+South Africa,ZA,ZAF,710,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Income and Expenditure of Households - IES11
+South Africa,ZA,ZAF,710,Rural,8,Dry latrines - Traditional latrine,0.245,Income and Expenditure of Households - IES11
+South Africa,ZA,ZAF,710,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Income and Expenditure of Households - IES11
+South Africa,ZA,ZAF,710,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Income and Expenditure of Households - IES11
+South Africa,ZA,ZAF,710,Rural,11,Dry latrines - Bucket latrine,0.01,Income and Expenditure of Households - IES11
+South Africa,ZA,ZAF,710,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.087,Income and Expenditure of Households - IES11
+South Africa,ZA,ZAF,710,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Income and Expenditure of Households - IES11
+South Africa,ZA,ZAF,710,Rural,8,Dry latrines - Traditional latrine,0.203,Income and Expenditure of Households - IES11
+South Africa,ZA,ZAF,710,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Income and Expenditure of Households - IES11
+South Africa,ZA,ZAF,710,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Income and Expenditure of Households - IES11
+South Africa,ZA,ZAF,710,Rural,11,Dry latrines - Bucket latrine,0.009,Income and Expenditure of Households - IES11
+South Africa,ZA,ZAF,710,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.02,Income and Expenditure of Households - IES11
+South Africa,ZA,ZAF,710,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Income and Expenditure of Households - IES11
+South Africa,ZA,ZAF,710,Rural,8,Dry latrines - Traditional latrine,0.042,Income and Expenditure of Households - IES11
+South Africa,ZA,ZAF,710,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Income and Expenditure of Households - IES11
+South Africa,ZA,ZAF,710,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Income and Expenditure of Households - IES11
+South Africa,ZA,ZAF,710,Rural,11,Dry latrines - Bucket latrine,0.001,Income and Expenditure of Households - IES11
+South Africa,ZA,ZAF,710,Rural,12,Dry latrines - Other,0.0,Income and Expenditure of Households - IES11
+South Africa,ZA,ZAF,710,Rural,13,Composting toilets,0.0,Income and Expenditure of Households - IES11
+South Africa,ZA,ZAF,710,Rural,14,Other improved,0.002,Income and Expenditure of Households - IES11
+South Africa,ZA,ZAF,710,Rural,15,"No facility, bush, field",0.091,Income and Expenditure of Households - IES11
+South Africa,ZA,ZAF,710,Rural,16,Other unimproved,0.01,Income and Expenditure of Households - IES11
+South Africa,ZA,ZAF,710,Rural,17,DK/missing information,0.0,Income and Expenditure of Households - IES11
+South Africa,ZA,ZAF,710,National,1,Flush and pour flush - to piped sewer system,0.0,Income and Expenditure of Households - IES11
+South Africa,ZA,ZAF,710,National,2,Flush and pour flush - to septic tank,0.0,Income and Expenditure of Households - IES11
+South Africa,ZA,ZAF,710,National,3,Flush and pour flush - to pit,0.0,Income and Expenditure of Households - IES11
+South Africa,ZA,ZAF,710,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Income and Expenditure of Households - IES11
+South Africa,ZA,ZAF,710,National,5,Flush and pour flush - to elsewhere,0.0,Income and Expenditure of Households - IES11
+South Africa,ZA,ZAF,710,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Income and Expenditure of Households - IES11
+South Africa,ZA,ZAF,710,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Income and Expenditure of Households - IES11
+South Africa,ZA,ZAF,710,National,8,Dry latrines - Traditional latrine,0.0,Income and Expenditure of Households - IES11
+South Africa,ZA,ZAF,710,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Income and Expenditure of Households - IES11
+South Africa,ZA,ZAF,710,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Income and Expenditure of Households - IES11
+South Africa,ZA,ZAF,710,National,11,Dry latrines - Bucket latrine,0.0,Income and Expenditure of Households - IES11
+South Africa,ZA,ZAF,710,National,12,Dry latrines - Other,0.0,Income and Expenditure of Households - IES11
+South Africa,ZA,ZAF,710,National,13,Composting toilets,0.0,Income and Expenditure of Households - IES11
+South Africa,ZA,ZAF,710,National,14,Other improved,0.0,Income and Expenditure of Households - IES11
+South Africa,ZA,ZAF,710,National,15,"No facility, bush, field",0.0,Income and Expenditure of Households - IES11
+South Africa,ZA,ZAF,710,National,16,Other unimproved,0.0,Income and Expenditure of Households - IES11
+South Africa,ZA,ZAF,710,National,17,DK/missing information,0.0,Income and Expenditure of Households - IES11
+South Africa,ZA,ZAF,710,Urban,1,Flush and pour flush - to piped sewer system,0.837,General Household Survey - GHS11
+South Africa,ZA,ZAF,710,Urban,2,Flush and pour flush - to septic tank,0.025,General Household Survey - GHS11
+South Africa,ZA,ZAF,710,Urban,3,Flush and pour flush - to pit,0.0,General Household Survey - GHS11
+South Africa,ZA,ZAF,710,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,General Household Survey - GHS11
+South Africa,ZA,ZAF,710,Urban,5,Flush and pour flush - to elsewhere,0.0,General Household Survey - GHS11
+South Africa,ZA,ZAF,710,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.04,General Household Survey - GHS11
+South Africa,ZA,ZAF,710,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,General Household Survey - GHS11
+South Africa,ZA,ZAF,710,Urban,8,Dry latrines - Traditional latrine,0.058,General Household Survey - GHS11
+South Africa,ZA,ZAF,710,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,General Household Survey - GHS11
+South Africa,ZA,ZAF,710,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,General Household Survey - GHS11
+South Africa,ZA,ZAF,710,Urban,11,Dry latrines - Bucket latrine,0.008,General Household Survey - GHS11
+South Africa,ZA,ZAF,710,Urban,12,Dry latrines - Other,0.0,General Household Survey - GHS11
+South Africa,ZA,ZAF,710,Urban,13,Composting toilets,0.0,General Household Survey - GHS11
+South Africa,ZA,ZAF,710,Urban,14,Other improved,0.002,General Household Survey - GHS11
+South Africa,ZA,ZAF,710,Urban,15,"No facility, bush, field",0.012,General Household Survey - GHS11
+South Africa,ZA,ZAF,710,Urban,16,Other unimproved,0.001,General Household Survey - GHS11
+South Africa,ZA,ZAF,710,Urban,17,DK/missing information,0.017,General Household Survey - GHS11
+South Africa,ZA,ZAF,710,Rural,1,Flush and pour flush - to piped sewer system,0.051,General Household Survey - GHS11
+South Africa,ZA,ZAF,710,Rural,2,Flush and pour flush - to septic tank,0.041,General Household Survey - GHS11
+South Africa,ZA,ZAF,710,Rural,3,Flush and pour flush - to pit,0.0,General Household Survey - GHS11
+South Africa,ZA,ZAF,710,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,General Household Survey - GHS11
+South Africa,ZA,ZAF,710,Rural,5,Flush and pour flush - to elsewhere,0.0,General Household Survey - GHS11
+South Africa,ZA,ZAF,710,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.346,General Household Survey - GHS11
+South Africa,ZA,ZAF,710,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,General Household Survey - GHS11
+South Africa,ZA,ZAF,710,Rural,8,Dry latrines - Traditional latrine,0.397,General Household Survey - GHS11
+South Africa,ZA,ZAF,710,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,General Household Survey - GHS11
+South Africa,ZA,ZAF,710,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,General Household Survey - GHS11
+South Africa,ZA,ZAF,710,Rural,11,Dry latrines - Bucket latrine,0.001,General Household Survey - GHS11
+South Africa,ZA,ZAF,710,Rural,12,Dry latrines - Other,0.0,General Household Survey - GHS11
+South Africa,ZA,ZAF,710,Rural,13,Composting toilets,0.0,General Household Survey - GHS11
+South Africa,ZA,ZAF,710,Rural,14,Other improved,0.017,General Household Survey - GHS11
+South Africa,ZA,ZAF,710,Rural,15,"No facility, bush, field",0.112,General Household Survey - GHS11
+South Africa,ZA,ZAF,710,Rural,16,Other unimproved,0.001,General Household Survey - GHS11
+South Africa,ZA,ZAF,710,Rural,17,DK/missing information,0.034,General Household Survey - GHS11
+South Africa,ZA,ZAF,710,National,1,Flush and pour flush - to piped sewer system,0.539,General Household Survey - GHS11
+South Africa,ZA,ZAF,710,National,2,Flush and pour flush - to septic tank,0.031,General Household Survey - GHS11
+South Africa,ZA,ZAF,710,National,3,Flush and pour flush - to pit,0.0,General Household Survey - GHS11
+South Africa,ZA,ZAF,710,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,General Household Survey - GHS11
+South Africa,ZA,ZAF,710,National,5,Flush and pour flush - to elsewhere,0.0,General Household Survey - GHS11
+South Africa,ZA,ZAF,710,National,6,Dry latrines - Ventilated Improved Pit latrine,0.156,General Household Survey - GHS11
+South Africa,ZA,ZAF,710,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,General Household Survey - GHS11
+South Africa,ZA,ZAF,710,National,8,Dry latrines - Traditional latrine,0.187,General Household Survey - GHS11
+South Africa,ZA,ZAF,710,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,General Household Survey - GHS11
+South Africa,ZA,ZAF,710,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,General Household Survey - GHS11
+South Africa,ZA,ZAF,710,National,11,Dry latrines - Bucket latrine,0.005,General Household Survey - GHS11
+South Africa,ZA,ZAF,710,National,12,Dry latrines - Other,0.0,General Household Survey - GHS11
+South Africa,ZA,ZAF,710,National,13,Composting toilets,0.0,General Household Survey - GHS11
+South Africa,ZA,ZAF,710,National,14,Other improved,0.008,General Household Survey - GHS11
+South Africa,ZA,ZAF,710,National,15,"No facility, bush, field",0.05,General Household Survey - GHS11
+South Africa,ZA,ZAF,710,National,16,Other unimproved,0.001,General Household Survey - GHS11
+South Africa,ZA,ZAF,710,National,17,DK/missing information,0.023,General Household Survey - GHS11
+South Africa,ZA,ZAF,710,Urban,1,Flush and pour flush - to piped sewer system,0.357,National Income Dynamics Study - NIDS12
+South Africa,ZA,ZAF,710,Urban,2,Flush and pour flush - to septic tank,0.507,National Income Dynamics Study - NIDS12
+South Africa,ZA,ZAF,710,Urban,3,Flush and pour flush - to pit,0.0,National Income Dynamics Study - NIDS12
+South Africa,ZA,ZAF,710,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Income Dynamics Study - NIDS12
+South Africa,ZA,ZAF,710,Urban,5,Flush and pour flush - to elsewhere,0.0,National Income Dynamics Study - NIDS12
+South Africa,ZA,ZAF,710,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.032,National Income Dynamics Study - NIDS12
+South Africa,ZA,ZAF,710,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Income Dynamics Study - NIDS12
+South Africa,ZA,ZAF,710,Urban,8,Dry latrines - Traditional latrine,0.054,National Income Dynamics Study - NIDS12
+South Africa,ZA,ZAF,710,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Income Dynamics Study - NIDS12
+South Africa,ZA,ZAF,710,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Income Dynamics Study - NIDS12
+South Africa,ZA,ZAF,710,Urban,11,Dry latrines - Bucket latrine,0.026,National Income Dynamics Study - NIDS12
+South Africa,ZA,ZAF,710,Urban,12,Dry latrines - Other,0.0,National Income Dynamics Study - NIDS12
+South Africa,ZA,ZAF,710,Urban,13,Composting toilets,0.0,National Income Dynamics Study - NIDS12
+South Africa,ZA,ZAF,710,Urban,14,Other improved,0.011,National Income Dynamics Study - NIDS12
+South Africa,ZA,ZAF,710,Urban,15,"No facility, bush, field",0.009,National Income Dynamics Study - NIDS12
+South Africa,ZA,ZAF,710,Urban,16,Other unimproved,0.001,National Income Dynamics Study - NIDS12
+South Africa,ZA,ZAF,710,Urban,17,DK/missing information,0.0,National Income Dynamics Study - NIDS12
+South Africa,ZA,ZAF,710,Rural,1,Flush and pour flush - to piped sewer system,0.052,National Income Dynamics Study - NIDS12
+South Africa,ZA,ZAF,710,Rural,2,Flush and pour flush - to septic tank,0.083,National Income Dynamics Study - NIDS12
+South Africa,ZA,ZAF,710,Rural,3,Flush and pour flush - to pit,0.0,National Income Dynamics Study - NIDS12
+South Africa,ZA,ZAF,710,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Income Dynamics Study - NIDS12
+South Africa,ZA,ZAF,710,Rural,5,Flush and pour flush - to elsewhere,0.0,National Income Dynamics Study - NIDS12
+South Africa,ZA,ZAF,710,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.255,National Income Dynamics Study - NIDS12
+South Africa,ZA,ZAF,710,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Income Dynamics Study - NIDS12
+South Africa,ZA,ZAF,710,Rural,8,Dry latrines - Traditional latrine,0.445,National Income Dynamics Study - NIDS12
+South Africa,ZA,ZAF,710,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Income Dynamics Study - NIDS12
+South Africa,ZA,ZAF,710,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Income Dynamics Study - NIDS12
+South Africa,ZA,ZAF,710,Rural,11,Dry latrines - Bucket latrine,0.025,National Income Dynamics Study - NIDS12
+South Africa,ZA,ZAF,710,Rural,12,Dry latrines - Other,0.0,National Income Dynamics Study - NIDS12
+South Africa,ZA,ZAF,710,Rural,13,Composting toilets,0.0,National Income Dynamics Study - NIDS12
+South Africa,ZA,ZAF,710,Rural,14,Other improved,0.071,National Income Dynamics Study - NIDS12
+South Africa,ZA,ZAF,710,Rural,15,"No facility, bush, field",0.065,National Income Dynamics Study - NIDS12
+South Africa,ZA,ZAF,710,Rural,16,Other unimproved,0.001,National Income Dynamics Study - NIDS12
+South Africa,ZA,ZAF,710,Rural,17,DK/missing information,0.0,National Income Dynamics Study - NIDS12
+South Africa,ZA,ZAF,710,National,1,Flush and pour flush - to piped sewer system,0.235,National Income Dynamics Study - NIDS12
+South Africa,ZA,ZAF,710,National,2,Flush and pour flush - to septic tank,0.338,National Income Dynamics Study - NIDS12
+South Africa,ZA,ZAF,710,National,3,Flush and pour flush - to pit,0.0,National Income Dynamics Study - NIDS12
+South Africa,ZA,ZAF,710,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Income Dynamics Study - NIDS12
+South Africa,ZA,ZAF,710,National,5,Flush and pour flush - to elsewhere,0.0,National Income Dynamics Study - NIDS12
+South Africa,ZA,ZAF,710,National,6,Dry latrines - Ventilated Improved Pit latrine,0.121,National Income Dynamics Study - NIDS12
+South Africa,ZA,ZAF,710,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Income Dynamics Study - NIDS12
+South Africa,ZA,ZAF,710,National,8,Dry latrines - Traditional latrine,0.211,National Income Dynamics Study - NIDS12
+South Africa,ZA,ZAF,710,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Income Dynamics Study - NIDS12
+South Africa,ZA,ZAF,710,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Income Dynamics Study - NIDS12
+South Africa,ZA,ZAF,710,National,11,Dry latrines - Bucket latrine,0.026,National Income Dynamics Study - NIDS12
+South Africa,ZA,ZAF,710,National,12,Dry latrines - Other,0.0,National Income Dynamics Study - NIDS12
+South Africa,ZA,ZAF,710,National,13,Composting toilets,0.0,National Income Dynamics Study - NIDS12
+South Africa,ZA,ZAF,710,National,14,Other improved,0.035,National Income Dynamics Study - NIDS12
+South Africa,ZA,ZAF,710,National,15,"No facility, bush, field",0.032,National Income Dynamics Study - NIDS12
+South Africa,ZA,ZAF,710,National,16,Other unimproved,0.001,National Income Dynamics Study - NIDS12
+South Africa,ZA,ZAF,710,National,17,DK/missing information,0.0,National Income Dynamics Study - NIDS12
+South Africa,ZA,ZAF,710,Urban,1,Flush and pour flush - to piped sewer system,0.836,General Household Survey - GHS12
+South Africa,ZA,ZAF,710,Urban,2,Flush and pour flush - to septic tank,0.015,General Household Survey - GHS12
+South Africa,ZA,ZAF,710,Urban,3,Flush and pour flush - to pit,0.0,General Household Survey - GHS12
+South Africa,ZA,ZAF,710,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,General Household Survey - GHS12
+South Africa,ZA,ZAF,710,Urban,5,Flush and pour flush - to elsewhere,0.0,General Household Survey - GHS12
+South Africa,ZA,ZAF,710,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.04,General Household Survey - GHS12
+South Africa,ZA,ZAF,710,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,General Household Survey - GHS12
+South Africa,ZA,ZAF,710,Urban,8,Dry latrines - Traditional latrine,0.056,General Household Survey - GHS12
+South Africa,ZA,ZAF,710,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,General Household Survey - GHS12
+South Africa,ZA,ZAF,710,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,General Household Survey - GHS12
+South Africa,ZA,ZAF,710,Urban,11,Dry latrines - Bucket latrine,0.012,General Household Survey - GHS12
+South Africa,ZA,ZAF,710,Urban,12,Dry latrines - Other,0.0,General Household Survey - GHS12
+South Africa,ZA,ZAF,710,Urban,13,Composting toilets,0.0,General Household Survey - GHS12
+South Africa,ZA,ZAF,710,Urban,14,Other improved,0.003,General Household Survey - GHS12
+South Africa,ZA,ZAF,710,Urban,15,"No facility, bush, field",0.015,General Household Survey - GHS12
+South Africa,ZA,ZAF,710,Urban,16,Other unimproved,0.001,General Household Survey - GHS12
+South Africa,ZA,ZAF,710,Urban,17,DK/missing information,0.022,General Household Survey - GHS12
+South Africa,ZA,ZAF,710,Rural,1,Flush and pour flush - to piped sewer system,0.043,General Household Survey - GHS12
+South Africa,ZA,ZAF,710,Rural,2,Flush and pour flush - to septic tank,0.044,General Household Survey - GHS12
+South Africa,ZA,ZAF,710,Rural,3,Flush and pour flush - to pit,0.0,General Household Survey - GHS12
+South Africa,ZA,ZAF,710,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,General Household Survey - GHS12
+South Africa,ZA,ZAF,710,Rural,5,Flush and pour flush - to elsewhere,0.0,General Household Survey - GHS12
+South Africa,ZA,ZAF,710,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.374,General Household Survey - GHS12
+South Africa,ZA,ZAF,710,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,General Household Survey - GHS12
+South Africa,ZA,ZAF,710,Rural,8,Dry latrines - Traditional latrine,0.395,General Household Survey - GHS12
+South Africa,ZA,ZAF,710,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,General Household Survey - GHS12
+South Africa,ZA,ZAF,710,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,General Household Survey - GHS12
+South Africa,ZA,ZAF,710,Rural,11,Dry latrines - Bucket latrine,0.002,General Household Survey - GHS12
+South Africa,ZA,ZAF,710,Rural,12,Dry latrines - Other,0.0,General Household Survey - GHS12
+South Africa,ZA,ZAF,710,Rural,13,Composting toilets,0.0,General Household Survey - GHS12
+South Africa,ZA,ZAF,710,Rural,14,Other improved,0.027,General Household Survey - GHS12
+South Africa,ZA,ZAF,710,Rural,15,"No facility, bush, field",0.091,General Household Survey - GHS12
+South Africa,ZA,ZAF,710,Rural,16,Other unimproved,0.001,General Household Survey - GHS12
+South Africa,ZA,ZAF,710,Rural,17,DK/missing information,0.024,General Household Survey - GHS12
+South Africa,ZA,ZAF,710,National,1,Flush and pour flush - to piped sewer system,0.55,General Household Survey - GHS12
+South Africa,ZA,ZAF,710,National,2,Flush and pour flush - to septic tank,0.025,General Household Survey - GHS12
+South Africa,ZA,ZAF,710,National,3,Flush and pour flush - to pit,0.0,General Household Survey - GHS12
+South Africa,ZA,ZAF,710,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,General Household Survey - GHS12
+South Africa,ZA,ZAF,710,National,5,Flush and pour flush - to elsewhere,0.0,General Household Survey - GHS12
+South Africa,ZA,ZAF,710,National,6,Dry latrines - Ventilated Improved Pit latrine,0.16,General Household Survey - GHS12
+South Africa,ZA,ZAF,710,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,General Household Survey - GHS12
+South Africa,ZA,ZAF,710,National,8,Dry latrines - Traditional latrine,0.178,General Household Survey - GHS12
+South Africa,ZA,ZAF,710,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,General Household Survey - GHS12
+South Africa,ZA,ZAF,710,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,General Household Survey - GHS12
+South Africa,ZA,ZAF,710,National,11,Dry latrines - Bucket latrine,0.008,General Household Survey - GHS12
+South Africa,ZA,ZAF,710,National,12,Dry latrines - Other,0.0,General Household Survey - GHS12
+South Africa,ZA,ZAF,710,National,13,Composting toilets,0.0,General Household Survey - GHS12
+South Africa,ZA,ZAF,710,National,14,Other improved,0.012,General Household Survey - GHS12
+South Africa,ZA,ZAF,710,National,15,"No facility, bush, field",0.042,General Household Survey - GHS12
+South Africa,ZA,ZAF,710,National,16,Other unimproved,0.001,General Household Survey - GHS12
+South Africa,ZA,ZAF,710,National,17,DK/missing information,0.023,General Household Survey - GHS12
+South Africa,ZA,ZAF,710,Urban,1,Flush and pour flush - to piped sewer system,0.843,General Household Survey - GHS13
+South Africa,ZA,ZAF,710,Urban,2,Flush and pour flush - to septic tank,0.021,General Household Survey - GHS13
+South Africa,ZA,ZAF,710,Urban,3,Flush and pour flush - to pit,0.0,General Household Survey - GHS13
+South Africa,ZA,ZAF,710,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,General Household Survey - GHS13
+South Africa,ZA,ZAF,710,Urban,5,Flush and pour flush - to elsewhere,0.0,General Household Survey - GHS13
+South Africa,ZA,ZAF,710,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.04,General Household Survey - GHS13
+South Africa,ZA,ZAF,710,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,General Household Survey - GHS13
+South Africa,ZA,ZAF,710,Urban,8,Dry latrines - Traditional latrine,0.064,General Household Survey - GHS13
+South Africa,ZA,ZAF,710,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,General Household Survey - GHS13
+South Africa,ZA,ZAF,710,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,General Household Survey - GHS13
+South Africa,ZA,ZAF,710,Urban,11,Dry latrines - Bucket latrine,0.013,General Household Survey - GHS13
+South Africa,ZA,ZAF,710,Urban,12,Dry latrines - Other,0.0,General Household Survey - GHS13
+South Africa,ZA,ZAF,710,Urban,13,Composting toilets,0.0,General Household Survey - GHS13
+South Africa,ZA,ZAF,710,Urban,14,Other improved,0.003,General Household Survey - GHS13
+South Africa,ZA,ZAF,710,Urban,15,"No facility, bush, field",0.01,General Household Survey - GHS13
+South Africa,ZA,ZAF,710,Urban,16,Other unimproved,0.002,General Household Survey - GHS13
+South Africa,ZA,ZAF,710,Urban,17,DK/missing information,0.003,General Household Survey - GHS13
+South Africa,ZA,ZAF,710,Rural,1,Flush and pour flush - to piped sewer system,0.044,General Household Survey - GHS13
+South Africa,ZA,ZAF,710,Rural,2,Flush and pour flush - to septic tank,0.044,General Household Survey - GHS13
+South Africa,ZA,ZAF,710,Rural,3,Flush and pour flush - to pit,0.0,General Household Survey - GHS13
+South Africa,ZA,ZAF,710,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,General Household Survey - GHS13
+South Africa,ZA,ZAF,710,Rural,5,Flush and pour flush - to elsewhere,0.0,General Household Survey - GHS13
+South Africa,ZA,ZAF,710,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.417,General Household Survey - GHS13
+South Africa,ZA,ZAF,710,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,General Household Survey - GHS13
+South Africa,ZA,ZAF,710,Rural,8,Dry latrines - Traditional latrine,0.383,General Household Survey - GHS13
+South Africa,ZA,ZAF,710,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,General Household Survey - GHS13
+South Africa,ZA,ZAF,710,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,General Household Survey - GHS13
+South Africa,ZA,ZAF,710,Rural,11,Dry latrines - Bucket latrine,0.003,General Household Survey - GHS13
+South Africa,ZA,ZAF,710,Rural,12,Dry latrines - Other,0.0,General Household Survey - GHS13
+South Africa,ZA,ZAF,710,Rural,13,Composting toilets,0.0,General Household Survey - GHS13
+South Africa,ZA,ZAF,710,Rural,14,Other improved,0.015,General Household Survey - GHS13
+South Africa,ZA,ZAF,710,Rural,15,"No facility, bush, field",0.087,General Household Survey - GHS13
+South Africa,ZA,ZAF,710,Rural,16,Other unimproved,0.001,General Household Survey - GHS13
+South Africa,ZA,ZAF,710,Rural,17,DK/missing information,0.006,General Household Survey - GHS13
+South Africa,ZA,ZAF,710,National,1,Flush and pour flush - to piped sewer system,0.555,General Household Survey - GHS13
+South Africa,ZA,ZAF,710,National,2,Flush and pour flush - to septic tank,0.03,General Household Survey - GHS13
+South Africa,ZA,ZAF,710,National,3,Flush and pour flush - to pit,0.0,General Household Survey - GHS13
+South Africa,ZA,ZAF,710,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,General Household Survey - GHS13
+South Africa,ZA,ZAF,710,National,5,Flush and pour flush - to elsewhere,0.0,General Household Survey - GHS13
+South Africa,ZA,ZAF,710,National,6,Dry latrines - Ventilated Improved Pit latrine,0.176,General Household Survey - GHS13
+South Africa,ZA,ZAF,710,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,General Household Survey - GHS13
+South Africa,ZA,ZAF,710,National,8,Dry latrines - Traditional latrine,0.179,General Household Survey - GHS13
+South Africa,ZA,ZAF,710,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,General Household Survey - GHS13
+South Africa,ZA,ZAF,710,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,General Household Survey - GHS13
+South Africa,ZA,ZAF,710,National,11,Dry latrines - Bucket latrine,0.01,General Household Survey - GHS13
+South Africa,ZA,ZAF,710,National,12,Dry latrines - Other,0.0,General Household Survey - GHS13
+South Africa,ZA,ZAF,710,National,13,Composting toilets,0.0,General Household Survey - GHS13
+South Africa,ZA,ZAF,710,National,14,Other improved,0.007,General Household Survey - GHS13
+South Africa,ZA,ZAF,710,National,15,"No facility, bush, field",0.038,General Household Survey - GHS13
+South Africa,ZA,ZAF,710,National,16,Other unimproved,0.002,General Household Survey - GHS13
+South Africa,ZA,ZAF,710,National,17,DK/missing information,0.004,General Household Survey - GHS13
+South Africa,ZA,ZAF,710,Urban,1,Flush and pour flush - to piped sewer system,0.852,"General Household Survey, 2014 - GHS14"
+South Africa,ZA,ZAF,710,Urban,2,Flush and pour flush - to septic tank,0.02,"General Household Survey, 2014 - GHS14"
+South Africa,ZA,ZAF,710,Urban,3,Flush and pour flush - to pit,0.0,"General Household Survey, 2014 - GHS14"
+South Africa,ZA,ZAF,710,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"General Household Survey, 2014 - GHS14"
+South Africa,ZA,ZAF,710,Urban,5,Flush and pour flush - to elsewhere,0.0,"General Household Survey, 2014 - GHS14"
+South Africa,ZA,ZAF,710,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.044,"General Household Survey, 2014 - GHS14"
+South Africa,ZA,ZAF,710,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"General Household Survey, 2014 - GHS14"
+South Africa,ZA,ZAF,710,Urban,8,Dry latrines - Traditional latrine,0.049,"General Household Survey, 2014 - GHS14"
+South Africa,ZA,ZAF,710,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,"General Household Survey, 2014 - GHS14"
+South Africa,ZA,ZAF,710,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"General Household Survey, 2014 - GHS14"
+South Africa,ZA,ZAF,710,Urban,11,Dry latrines - Bucket latrine,0.0,"General Household Survey, 2014 - GHS14"
+South Africa,ZA,ZAF,710,Urban,12,Dry latrines - Other,0.0,"General Household Survey, 2014 - GHS14"
+South Africa,ZA,ZAF,710,Urban,13,Composting toilets,0.0,"General Household Survey, 2014 - GHS14"
+South Africa,ZA,ZAF,710,Urban,14,Other improved,0.003,"General Household Survey, 2014 - GHS14"
+South Africa,ZA,ZAF,710,Urban,15,"No facility, bush, field",0.011,"General Household Survey, 2014 - GHS14"
+South Africa,ZA,ZAF,710,Urban,16,Other unimproved,0.003,"General Household Survey, 2014 - GHS14"
+South Africa,ZA,ZAF,710,Urban,17,DK/missing information,0.003,"General Household Survey, 2014 - GHS14"
+South Africa,ZA,ZAF,710,Rural,1,Flush and pour flush - to piped sewer system,0.041,"General Household Survey, 2014 - GHS14"
+South Africa,ZA,ZAF,710,Rural,2,Flush and pour flush - to septic tank,0.044,"General Household Survey, 2014 - GHS14"
+South Africa,ZA,ZAF,710,Rural,3,Flush and pour flush - to pit,0.0,"General Household Survey, 2014 - GHS14"
+South Africa,ZA,ZAF,710,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"General Household Survey, 2014 - GHS14"
+South Africa,ZA,ZAF,710,Rural,5,Flush and pour flush - to elsewhere,0.0,"General Household Survey, 2014 - GHS14"
+South Africa,ZA,ZAF,710,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.459,"General Household Survey, 2014 - GHS14"
+South Africa,ZA,ZAF,710,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"General Household Survey, 2014 - GHS14"
+South Africa,ZA,ZAF,710,Rural,8,Dry latrines - Traditional latrine,0.358,"General Household Survey, 2014 - GHS14"
+South Africa,ZA,ZAF,710,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,"General Household Survey, 2014 - GHS14"
+South Africa,ZA,ZAF,710,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"General Household Survey, 2014 - GHS14"
+South Africa,ZA,ZAF,710,Rural,11,Dry latrines - Bucket latrine,0.0,"General Household Survey, 2014 - GHS14"
+South Africa,ZA,ZAF,710,Rural,12,Dry latrines - Other,0.0,"General Household Survey, 2014 - GHS14"
+South Africa,ZA,ZAF,710,Rural,13,Composting toilets,0.002,"General Household Survey, 2014 - GHS14"
+South Africa,ZA,ZAF,710,Rural,14,Other improved,0.008,"General Household Survey, 2014 - GHS14"
+South Africa,ZA,ZAF,710,Rural,15,"No facility, bush, field",0.077,"General Household Survey, 2014 - GHS14"
+South Africa,ZA,ZAF,710,Rural,16,Other unimproved,0.002,"General Household Survey, 2014 - GHS14"
+South Africa,ZA,ZAF,710,Rural,17,DK/missing information,0.003,"General Household Survey, 2014 - GHS14"
+South Africa,ZA,ZAF,710,National,1,Flush and pour flush - to piped sewer system,0.564,"General Household Survey, 2014 - GHS14"
+South Africa,ZA,ZAF,710,National,2,Flush and pour flush - to septic tank,0.029,"General Household Survey, 2014 - GHS14"
+South Africa,ZA,ZAF,710,National,3,Flush and pour flush - to pit,0.0,"General Household Survey, 2014 - GHS14"
+South Africa,ZA,ZAF,710,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"General Household Survey, 2014 - GHS14"
+South Africa,ZA,ZAF,710,National,5,Flush and pour flush - to elsewhere,0.0,"General Household Survey, 2014 - GHS14"
+South Africa,ZA,ZAF,710,National,6,Dry latrines - Ventilated Improved Pit latrine,0.192,"General Household Survey, 2014 - GHS14"
+South Africa,ZA,ZAF,710,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"General Household Survey, 2014 - GHS14"
+South Africa,ZA,ZAF,710,National,8,Dry latrines - Traditional latrine,0.159,"General Household Survey, 2014 - GHS14"
+South Africa,ZA,ZAF,710,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,"General Household Survey, 2014 - GHS14"
+South Africa,ZA,ZAF,710,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"General Household Survey, 2014 - GHS14"
+South Africa,ZA,ZAF,710,National,11,Dry latrines - Bucket latrine,0.0,"General Household Survey, 2014 - GHS14"
+South Africa,ZA,ZAF,710,National,12,Dry latrines - Other,0.0,"General Household Survey, 2014 - GHS14"
+South Africa,ZA,ZAF,710,National,13,Composting toilets,0.001,"General Household Survey, 2014 - GHS14"
+South Africa,ZA,ZAF,710,National,14,Other improved,0.004,"General Household Survey, 2014 - GHS14"
+South Africa,ZA,ZAF,710,National,15,"No facility, bush, field",0.034,"General Household Survey, 2014 - GHS14"
+South Africa,ZA,ZAF,710,National,16,Other unimproved,0.003,"General Household Survey, 2014 - GHS14"
+South Africa,ZA,ZAF,710,National,17,DK/missing information,0.003,"General Household Survey, 2014 - GHS14"
+South Africa,ZA,ZAF,710,Urban,1,Flush and pour flush - to piped sewer system,0.497,National Income Dynamics Study - NIDS15
+South Africa,ZA,ZAF,710,Urban,2,Flush and pour flush - to septic tank,0.364,National Income Dynamics Study - NIDS15
+South Africa,ZA,ZAF,710,Urban,3,Flush and pour flush - to pit,0.0,National Income Dynamics Study - NIDS15
+South Africa,ZA,ZAF,710,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Income Dynamics Study - NIDS15
+South Africa,ZA,ZAF,710,Urban,5,Flush and pour flush - to elsewhere,0.0,National Income Dynamics Study - NIDS15
+South Africa,ZA,ZAF,710,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.044,National Income Dynamics Study - NIDS15
+South Africa,ZA,ZAF,710,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Income Dynamics Study - NIDS15
+South Africa,ZA,ZAF,710,Urban,8,Dry latrines - Traditional latrine,0.048,National Income Dynamics Study - NIDS15
+South Africa,ZA,ZAF,710,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Income Dynamics Study - NIDS15
+South Africa,ZA,ZAF,710,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Income Dynamics Study - NIDS15
+South Africa,ZA,ZAF,710,Urban,11,Dry latrines - Bucket latrine,0.016,National Income Dynamics Study - NIDS15
+South Africa,ZA,ZAF,710,Urban,12,Dry latrines - Other,0.0,National Income Dynamics Study - NIDS15
+South Africa,ZA,ZAF,710,Urban,13,Composting toilets,0.0,National Income Dynamics Study - NIDS15
+South Africa,ZA,ZAF,710,Urban,14,Other improved,0.017,National Income Dynamics Study - NIDS15
+South Africa,ZA,ZAF,710,Urban,15,"No facility, bush, field",0.012,National Income Dynamics Study - NIDS15
+South Africa,ZA,ZAF,710,Urban,16,Other unimproved,0.001,National Income Dynamics Study - NIDS15
+South Africa,ZA,ZAF,710,Urban,17,DK/missing information,0.0,National Income Dynamics Study - NIDS15
+South Africa,ZA,ZAF,710,Rural,1,Flush and pour flush - to piped sewer system,0.062,National Income Dynamics Study - NIDS15
+South Africa,ZA,ZAF,710,Rural,2,Flush and pour flush - to septic tank,0.066,National Income Dynamics Study - NIDS15
+South Africa,ZA,ZAF,710,Rural,3,Flush and pour flush - to pit,0.0,National Income Dynamics Study - NIDS15
+South Africa,ZA,ZAF,710,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Income Dynamics Study - NIDS15
+South Africa,ZA,ZAF,710,Rural,5,Flush and pour flush - to elsewhere,0.0,National Income Dynamics Study - NIDS15
+South Africa,ZA,ZAF,710,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.296,National Income Dynamics Study - NIDS15
+South Africa,ZA,ZAF,710,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Income Dynamics Study - NIDS15
+South Africa,ZA,ZAF,710,Rural,8,Dry latrines - Traditional latrine,0.449,National Income Dynamics Study - NIDS15
+South Africa,ZA,ZAF,710,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Income Dynamics Study - NIDS15
+South Africa,ZA,ZAF,710,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Income Dynamics Study - NIDS15
+South Africa,ZA,ZAF,710,Rural,11,Dry latrines - Bucket latrine,0.051,National Income Dynamics Study - NIDS15
+South Africa,ZA,ZAF,710,Rural,12,Dry latrines - Other,0.0,National Income Dynamics Study - NIDS15
+South Africa,ZA,ZAF,710,Rural,13,Composting toilets,0.0,National Income Dynamics Study - NIDS15
+South Africa,ZA,ZAF,710,Rural,14,Other improved,0.034,National Income Dynamics Study - NIDS15
+South Africa,ZA,ZAF,710,Rural,15,"No facility, bush, field",0.04,National Income Dynamics Study - NIDS15
+South Africa,ZA,ZAF,710,Rural,16,Other unimproved,0.002,National Income Dynamics Study - NIDS15
+South Africa,ZA,ZAF,710,Rural,17,DK/missing information,0.0,National Income Dynamics Study - NIDS15
+South Africa,ZA,ZAF,710,National,1,Flush and pour flush - to piped sewer system,0.321,National Income Dynamics Study - NIDS15
+South Africa,ZA,ZAF,710,National,2,Flush and pour flush - to septic tank,0.244,National Income Dynamics Study - NIDS15
+South Africa,ZA,ZAF,710,National,3,Flush and pour flush - to pit,0.0,National Income Dynamics Study - NIDS15
+South Africa,ZA,ZAF,710,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Income Dynamics Study - NIDS15
+South Africa,ZA,ZAF,710,National,5,Flush and pour flush - to elsewhere,0.0,National Income Dynamics Study - NIDS15
+South Africa,ZA,ZAF,710,National,6,Dry latrines - Ventilated Improved Pit latrine,0.146,National Income Dynamics Study - NIDS15
+South Africa,ZA,ZAF,710,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Income Dynamics Study - NIDS15
+South Africa,ZA,ZAF,710,National,8,Dry latrines - Traditional latrine,0.21,National Income Dynamics Study - NIDS15
+South Africa,ZA,ZAF,710,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Income Dynamics Study - NIDS15
+South Africa,ZA,ZAF,710,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Income Dynamics Study - NIDS15
+South Africa,ZA,ZAF,710,National,11,Dry latrines - Bucket latrine,0.03,National Income Dynamics Study - NIDS15
+South Africa,ZA,ZAF,710,National,12,Dry latrines - Other,0.0,National Income Dynamics Study - NIDS15
+South Africa,ZA,ZAF,710,National,13,Composting toilets,0.0,National Income Dynamics Study - NIDS15
+South Africa,ZA,ZAF,710,National,14,Other improved,0.024,National Income Dynamics Study - NIDS15
+South Africa,ZA,ZAF,710,National,15,"No facility, bush, field",0.024,National Income Dynamics Study - NIDS15
+South Africa,ZA,ZAF,710,National,16,Other unimproved,0.001,National Income Dynamics Study - NIDS15
+South Africa,ZA,ZAF,710,National,17,DK/missing information,0.0,National Income Dynamics Study - NIDS15
+South Africa,ZA,ZAF,710,Urban,1,Flush and pour flush - to piped sewer system,0.86,"General Household Survey, 2015 - GHS15"
+South Africa,ZA,ZAF,710,Urban,2,Flush and pour flush - to septic tank,0.015,"General Household Survey, 2015 - GHS15"
+South Africa,ZA,ZAF,710,Urban,3,Flush and pour flush - to pit,0.0,"General Household Survey, 2015 - GHS15"
+South Africa,ZA,ZAF,710,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"General Household Survey, 2015 - GHS15"
+South Africa,ZA,ZAF,710,Urban,5,Flush and pour flush - to elsewhere,0.0,"General Household Survey, 2015 - GHS15"
+South Africa,ZA,ZAF,710,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.036,"General Household Survey, 2015 - GHS15"
+South Africa,ZA,ZAF,710,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"General Household Survey, 2015 - GHS15"
+South Africa,ZA,ZAF,710,Urban,8,Dry latrines - Traditional latrine,0.052,"General Household Survey, 2015 - GHS15"
+South Africa,ZA,ZAF,710,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,"General Household Survey, 2015 - GHS15"
+South Africa,ZA,ZAF,710,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"General Household Survey, 2015 - GHS15"
+South Africa,ZA,ZAF,710,Urban,11,Dry latrines - Bucket latrine,0.012,"General Household Survey, 2015 - GHS15"
+South Africa,ZA,ZAF,710,Urban,11,Dry latrines - Bucket latrine,0.01,"General Household Survey, 2015 - GHS15"
+South Africa,ZA,ZAF,710,Urban,11,Dry latrines - Bucket latrine,0.002,"General Household Survey, 2015 - GHS15"
+South Africa,ZA,ZAF,710,Urban,12,Dry latrines - Other,0.0,"General Household Survey, 2015 - GHS15"
+South Africa,ZA,ZAF,710,Urban,13,Composting toilets,0.002,"General Household Survey, 2015 - GHS15"
+South Africa,ZA,ZAF,710,Urban,14,Other improved,0.003,"General Household Survey, 2015 - GHS15"
+South Africa,ZA,ZAF,710,Urban,15,"No facility, bush, field",0.014,"General Household Survey, 2015 - GHS15"
+South Africa,ZA,ZAF,710,Urban,16,Other unimproved,0.004,"General Household Survey, 2015 - GHS15"
+South Africa,ZA,ZAF,710,Urban,17,DK/missing information,0.002,"General Household Survey, 2015 - GHS15"
+South Africa,ZA,ZAF,710,Rural,1,Flush and pour flush - to piped sewer system,0.042,"General Household Survey, 2015 - GHS15"
+South Africa,ZA,ZAF,710,Rural,2,Flush and pour flush - to septic tank,0.052,"General Household Survey, 2015 - GHS15"
+South Africa,ZA,ZAF,710,Rural,3,Flush and pour flush - to pit,0.0,"General Household Survey, 2015 - GHS15"
+South Africa,ZA,ZAF,710,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"General Household Survey, 2015 - GHS15"
+South Africa,ZA,ZAF,710,Rural,5,Flush and pour flush - to elsewhere,0.0,"General Household Survey, 2015 - GHS15"
+South Africa,ZA,ZAF,710,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.492,"General Household Survey, 2015 - GHS15"
+South Africa,ZA,ZAF,710,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"General Household Survey, 2015 - GHS15"
+South Africa,ZA,ZAF,710,Rural,8,Dry latrines - Traditional latrine,0.332,"General Household Survey, 2015 - GHS15"
+South Africa,ZA,ZAF,710,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,"General Household Survey, 2015 - GHS15"
+South Africa,ZA,ZAF,710,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"General Household Survey, 2015 - GHS15"
+South Africa,ZA,ZAF,710,Rural,11,Dry latrines - Bucket latrine,0.003,"General Household Survey, 2015 - GHS15"
+South Africa,ZA,ZAF,710,Rural,11,Dry latrines - Bucket latrine,0.002,"General Household Survey, 2015 - GHS15"
+South Africa,ZA,ZAF,710,Rural,11,Dry latrines - Bucket latrine,0.001,"General Household Survey, 2015 - GHS15"
+South Africa,ZA,ZAF,710,Rural,12,Dry latrines - Other,0.0,"General Household Survey, 2015 - GHS15"
+South Africa,ZA,ZAF,710,Rural,13,Composting toilets,0.001,"General Household Survey, 2015 - GHS15"
+South Africa,ZA,ZAF,710,Rural,14,Other improved,0.001,"General Household Survey, 2015 - GHS15"
+South Africa,ZA,ZAF,710,Rural,15,"No facility, bush, field",0.069,"General Household Survey, 2015 - GHS15"
+South Africa,ZA,ZAF,710,Rural,16,Other unimproved,0.002,"General Household Survey, 2015 - GHS15"
+South Africa,ZA,ZAF,710,Rural,17,DK/missing information,0.005,"General Household Survey, 2015 - GHS15"
+South Africa,ZA,ZAF,710,National,1,Flush and pour flush - to piped sewer system,0.568,"General Household Survey, 2015 - GHS15"
+South Africa,ZA,ZAF,710,National,2,Flush and pour flush - to septic tank,0.028,"General Household Survey, 2015 - GHS15"
+South Africa,ZA,ZAF,710,National,3,Flush and pour flush - to pit,0.0,"General Household Survey, 2015 - GHS15"
+South Africa,ZA,ZAF,710,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"General Household Survey, 2015 - GHS15"
+South Africa,ZA,ZAF,710,National,5,Flush and pour flush - to elsewhere,0.0,"General Household Survey, 2015 - GHS15"
+South Africa,ZA,ZAF,710,National,6,Dry latrines - Ventilated Improved Pit latrine,0.199,"General Household Survey, 2015 - GHS15"
+South Africa,ZA,ZAF,710,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"General Household Survey, 2015 - GHS15"
+South Africa,ZA,ZAF,710,National,8,Dry latrines - Traditional latrine,0.152,"General Household Survey, 2015 - GHS15"
+South Africa,ZA,ZAF,710,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,"General Household Survey, 2015 - GHS15"
+South Africa,ZA,ZAF,710,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"General Household Survey, 2015 - GHS15"
+South Africa,ZA,ZAF,710,National,11,Dry latrines - Bucket latrine,0.009,"General Household Survey, 2015 - GHS15"
+South Africa,ZA,ZAF,710,National,11,Dry latrines - Bucket latrine,0.007,"General Household Survey, 2015 - GHS15"
+South Africa,ZA,ZAF,710,National,11,Dry latrines - Bucket latrine,0.002,"General Household Survey, 2015 - GHS15"
+South Africa,ZA,ZAF,710,National,12,Dry latrines - Other,0.0,"General Household Survey, 2015 - GHS15"
+South Africa,ZA,ZAF,710,National,13,Composting toilets,0.002,"General Household Survey, 2015 - GHS15"
+South Africa,ZA,ZAF,710,National,14,Other improved,0.002,"General Household Survey, 2015 - GHS15"
+South Africa,ZA,ZAF,710,National,15,"No facility, bush, field",0.033,"General Household Survey, 2015 - GHS15"
+South Africa,ZA,ZAF,710,National,16,Other unimproved,0.003,"General Household Survey, 2015 - GHS15"
+South Africa,ZA,ZAF,710,National,17,DK/missing information,0.003,"General Household Survey, 2015 - GHS15"
+South Africa,ZA,ZAF,710,Urban,1,Flush and pour flush - to piped sewer system,0.0,"Community Survey, 2016 - CS16"
+South Africa,ZA,ZAF,710,Urban,2,Flush and pour flush - to septic tank,0.0,"Community Survey, 2016 - CS16"
+South Africa,ZA,ZAF,710,Urban,3,Flush and pour flush - to pit,0.0,"Community Survey, 2016 - CS16"
+South Africa,ZA,ZAF,710,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Community Survey, 2016 - CS16"
+South Africa,ZA,ZAF,710,Urban,5,Flush and pour flush - to elsewhere,0.0,"Community Survey, 2016 - CS16"
+South Africa,ZA,ZAF,710,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.025,"Community Survey, 2016 - CS16"
+South Africa,ZA,ZAF,710,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Community Survey, 2016 - CS16"
+South Africa,ZA,ZAF,710,Urban,8,Dry latrines - Traditional latrine,0.048,"Community Survey, 2016 - CS16"
+South Africa,ZA,ZAF,710,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Community Survey, 2016 - CS16"
+South Africa,ZA,ZAF,710,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Community Survey, 2016 - CS16"
+South Africa,ZA,ZAF,710,Urban,11,Dry latrines - Bucket latrine,0.006,"Community Survey, 2016 - CS16"
+South Africa,ZA,ZAF,710,Urban,12,Dry latrines - Other,0.0,"Community Survey, 2016 - CS16"
+South Africa,ZA,ZAF,710,Urban,13,Composting toilets,0.001,"Community Survey, 2016 - CS16"
+South Africa,ZA,ZAF,710,Urban,14,Other improved,0.019,"Community Survey, 2016 - CS16"
+South Africa,ZA,ZAF,710,Urban,15,"No facility, bush, field",0.009,"Community Survey, 2016 - CS16"
+South Africa,ZA,ZAF,710,Urban,16,Other unimproved,0.026,"Community Survey, 2016 - CS16"
+South Africa,ZA,ZAF,710,Urban,17,DK/missing information,0.0,"Community Survey, 2016 - CS16"
+South Africa,ZA,ZAF,710,Rural,1,Flush and pour flush - to piped sewer system,0.0,"Community Survey, 2016 - CS16"
+South Africa,ZA,ZAF,710,Rural,2,Flush and pour flush - to septic tank,0.0,"Community Survey, 2016 - CS16"
+South Africa,ZA,ZAF,710,Rural,3,Flush and pour flush - to pit,0.0,"Community Survey, 2016 - CS16"
+South Africa,ZA,ZAF,710,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Community Survey, 2016 - CS16"
+South Africa,ZA,ZAF,710,Rural,5,Flush and pour flush - to elsewhere,0.0,"Community Survey, 2016 - CS16"
+South Africa,ZA,ZAF,710,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.365,"Community Survey, 2016 - CS16"
+South Africa,ZA,ZAF,710,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Community Survey, 2016 - CS16"
+South Africa,ZA,ZAF,710,Rural,8,Dry latrines - Traditional latrine,0.339,"Community Survey, 2016 - CS16"
+South Africa,ZA,ZAF,710,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Community Survey, 2016 - CS16"
+South Africa,ZA,ZAF,710,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Community Survey, 2016 - CS16"
+South Africa,ZA,ZAF,710,Rural,11,Dry latrines - Bucket latrine,0.012,"Community Survey, 2016 - CS16"
+South Africa,ZA,ZAF,710,Rural,12,Dry latrines - Other,0.0,"Community Survey, 2016 - CS16"
+South Africa,ZA,ZAF,710,Rural,13,Composting toilets,0.008,"Community Survey, 2016 - CS16"
+South Africa,ZA,ZAF,710,Rural,14,Other improved,0.1,"Community Survey, 2016 - CS16"
+South Africa,ZA,ZAF,710,Rural,15,"No facility, bush, field",0.05,"Community Survey, 2016 - CS16"
+South Africa,ZA,ZAF,710,Rural,16,Other unimproved,0.033,"Community Survey, 2016 - CS16"
+South Africa,ZA,ZAF,710,Rural,17,DK/missing information,0.0,"Community Survey, 2016 - CS16"
+South Africa,ZA,ZAF,710,National,1,Flush and pour flush - to piped sewer system,0.0,"Community Survey, 2016 - CS16"
+South Africa,ZA,ZAF,710,National,2,Flush and pour flush - to septic tank,0.0,"Community Survey, 2016 - CS16"
+South Africa,ZA,ZAF,710,National,3,Flush and pour flush - to pit,0.0,"Community Survey, 2016 - CS16"
+South Africa,ZA,ZAF,710,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Community Survey, 2016 - CS16"
+South Africa,ZA,ZAF,710,National,5,Flush and pour flush - to elsewhere,0.0,"Community Survey, 2016 - CS16"
+South Africa,ZA,ZAF,710,National,6,Dry latrines - Ventilated Improved Pit latrine,0.141,"Community Survey, 2016 - CS16"
+South Africa,ZA,ZAF,710,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Community Survey, 2016 - CS16"
+South Africa,ZA,ZAF,710,National,8,Dry latrines - Traditional latrine,0.147,"Community Survey, 2016 - CS16"
+South Africa,ZA,ZAF,710,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Community Survey, 2016 - CS16"
+South Africa,ZA,ZAF,710,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Community Survey, 2016 - CS16"
+South Africa,ZA,ZAF,710,National,11,Dry latrines - Bucket latrine,0.008,"Community Survey, 2016 - CS16"
+South Africa,ZA,ZAF,710,National,12,Dry latrines - Other,0.0,"Community Survey, 2016 - CS16"
+South Africa,ZA,ZAF,710,National,13,Composting toilets,0.003,"Community Survey, 2016 - CS16"
+South Africa,ZA,ZAF,710,National,14,Other improved,0.046,"Community Survey, 2016 - CS16"
+South Africa,ZA,ZAF,710,National,15,"No facility, bush, field",0.023,"Community Survey, 2016 - CS16"
+South Africa,ZA,ZAF,710,National,16,Other unimproved,0.028,"Community Survey, 2016 - CS16"
+South Africa,ZA,ZAF,710,National,17,DK/missing information,0.0,"Community Survey, 2016 - CS16"
+South Africa,ZA,ZAF,710,Urban,1,Flush and pour flush - to piped sewer system,0.862,"General Household Survey, 2016 - GHS16"
+South Africa,ZA,ZAF,710,Urban,2,Flush and pour flush - to septic tank,0.019,"General Household Survey, 2016 - GHS16"
+South Africa,ZA,ZAF,710,Urban,3,Flush and pour flush - to pit,0.0,"General Household Survey, 2016 - GHS16"
+South Africa,ZA,ZAF,710,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"General Household Survey, 2016 - GHS16"
+South Africa,ZA,ZAF,710,Urban,5,Flush and pour flush - to elsewhere,0.0,"General Household Survey, 2016 - GHS16"
+South Africa,ZA,ZAF,710,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.034,"General Household Survey, 2016 - GHS16"
+South Africa,ZA,ZAF,710,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"General Household Survey, 2016 - GHS16"
+South Africa,ZA,ZAF,710,Urban,8,Dry latrines - Traditional latrine,0.051,"General Household Survey, 2016 - GHS16"
+South Africa,ZA,ZAF,710,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,"General Household Survey, 2016 - GHS16"
+South Africa,ZA,ZAF,710,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"General Household Survey, 2016 - GHS16"
+South Africa,ZA,ZAF,710,Urban,11,Dry latrines - Bucket latrine,0.012,"General Household Survey, 2016 - GHS16"
+South Africa,ZA,ZAF,710,Urban,11,Dry latrines - Bucket latrine,0.011,"General Household Survey, 2016 - GHS16"
+South Africa,ZA,ZAF,710,Urban,11,Dry latrines - Bucket latrine,0.002,"General Household Survey, 2016 - GHS16"
+South Africa,ZA,ZAF,710,Urban,12,Dry latrines - Other,0.0,"General Household Survey, 2016 - GHS16"
+South Africa,ZA,ZAF,710,Urban,13,Composting toilets,0.002,"General Household Survey, 2016 - GHS16"
+South Africa,ZA,ZAF,710,Urban,14,Other improved,0.003,"General Household Survey, 2016 - GHS16"
+South Africa,ZA,ZAF,710,Urban,15,"No facility, bush, field",0.011,"General Household Survey, 2016 - GHS16"
+South Africa,ZA,ZAF,710,Urban,16,Other unimproved,0.002,"General Household Survey, 2016 - GHS16"
+South Africa,ZA,ZAF,710,Urban,17,DK/missing information,0.002,"General Household Survey, 2016 - GHS16"
+South Africa,ZA,ZAF,710,Rural,1,Flush and pour flush - to piped sewer system,0.042,"General Household Survey, 2016 - GHS16"
+South Africa,ZA,ZAF,710,Rural,2,Flush and pour flush - to septic tank,0.058,"General Household Survey, 2016 - GHS16"
+South Africa,ZA,ZAF,710,Rural,3,Flush and pour flush - to pit,0.0,"General Household Survey, 2016 - GHS16"
+South Africa,ZA,ZAF,710,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"General Household Survey, 2016 - GHS16"
+South Africa,ZA,ZAF,710,Rural,5,Flush and pour flush - to elsewhere,0.0,"General Household Survey, 2016 - GHS16"
+South Africa,ZA,ZAF,710,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.511,"General Household Survey, 2016 - GHS16"
+South Africa,ZA,ZAF,710,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"General Household Survey, 2016 - GHS16"
+South Africa,ZA,ZAF,710,Rural,8,Dry latrines - Traditional latrine,0.323,"General Household Survey, 2016 - GHS16"
+South Africa,ZA,ZAF,710,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,"General Household Survey, 2016 - GHS16"
+South Africa,ZA,ZAF,710,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"General Household Survey, 2016 - GHS16"
+South Africa,ZA,ZAF,710,Rural,11,Dry latrines - Bucket latrine,0.005,"General Household Survey, 2016 - GHS16"
+South Africa,ZA,ZAF,710,Rural,11,Dry latrines - Bucket latrine,0.003,"General Household Survey, 2016 - GHS16"
+South Africa,ZA,ZAF,710,Rural,11,Dry latrines - Bucket latrine,0.002,"General Household Survey, 2016 - GHS16"
+South Africa,ZA,ZAF,710,Rural,12,Dry latrines - Other,0.0,"General Household Survey, 2016 - GHS16"
+South Africa,ZA,ZAF,710,Rural,13,Composting toilets,0.0,"General Household Survey, 2016 - GHS16"
+South Africa,ZA,ZAF,710,Rural,14,Other improved,0.001,"General Household Survey, 2016 - GHS16"
+South Africa,ZA,ZAF,710,Rural,15,"No facility, bush, field",0.056,"General Household Survey, 2016 - GHS16"
+South Africa,ZA,ZAF,710,Rural,16,Other unimproved,0.0,"General Household Survey, 2016 - GHS16"
+South Africa,ZA,ZAF,710,Rural,17,DK/missing information,0.003,"General Household Survey, 2016 - GHS16"
+South Africa,ZA,ZAF,710,National,1,Flush and pour flush - to piped sewer system,0.577,"General Household Survey, 2016 - GHS16"
+South Africa,ZA,ZAF,710,National,2,Flush and pour flush - to septic tank,0.033,"General Household Survey, 2016 - GHS16"
+South Africa,ZA,ZAF,710,National,3,Flush and pour flush - to pit,0.0,"General Household Survey, 2016 - GHS16"
+South Africa,ZA,ZAF,710,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"General Household Survey, 2016 - GHS16"
+South Africa,ZA,ZAF,710,National,5,Flush and pour flush - to elsewhere,0.0,"General Household Survey, 2016 - GHS16"
+South Africa,ZA,ZAF,710,National,6,Dry latrines - Ventilated Improved Pit latrine,0.2,"General Household Survey, 2016 - GHS16"
+South Africa,ZA,ZAF,710,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"General Household Survey, 2016 - GHS16"
+South Africa,ZA,ZAF,710,National,8,Dry latrines - Traditional latrine,0.146,"General Household Survey, 2016 - GHS16"
+South Africa,ZA,ZAF,710,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,"General Household Survey, 2016 - GHS16"
+South Africa,ZA,ZAF,710,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"General Household Survey, 2016 - GHS16"
+South Africa,ZA,ZAF,710,National,11,Dry latrines - Bucket latrine,0.01,"General Household Survey, 2016 - GHS16"
+South Africa,ZA,ZAF,710,National,11,Dry latrines - Bucket latrine,0.008,"General Household Survey, 2016 - GHS16"
+South Africa,ZA,ZAF,710,National,11,Dry latrines - Bucket latrine,0.002,"General Household Survey, 2016 - GHS16"
+South Africa,ZA,ZAF,710,National,12,Dry latrines - Other,0.0,"General Household Survey, 2016 - GHS16"
+South Africa,ZA,ZAF,710,National,13,Composting toilets,0.001,"General Household Survey, 2016 - GHS16"
+South Africa,ZA,ZAF,710,National,14,Other improved,0.002,"General Household Survey, 2016 - GHS16"
+South Africa,ZA,ZAF,710,National,15,"No facility, bush, field",0.027,"General Household Survey, 2016 - GHS16"
+South Africa,ZA,ZAF,710,National,16,Other unimproved,0.002,"General Household Survey, 2016 - GHS16"
+South Africa,ZA,ZAF,710,National,17,DK/missing information,0.003,"General Household Survey, 2016 - GHS16"
+South Africa,ZA,ZAF,710,Urban,1,Flush and pour flush - to piped sewer system,0.815,Demographic and Health Survey - DHS16
+South Africa,ZA,ZAF,710,Urban,2,Flush and pour flush - to septic tank,0.014,Demographic and Health Survey - DHS16
+South Africa,ZA,ZAF,710,Urban,3,Flush and pour flush - to pit,0.011,Demographic and Health Survey - DHS16
+South Africa,ZA,ZAF,710,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.001,Demographic and Health Survey - DHS16
+South Africa,ZA,ZAF,710,Urban,5,Flush and pour flush - to elsewhere,0.004,Demographic and Health Survey - DHS16
+South Africa,ZA,ZAF,710,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.014,Demographic and Health Survey - DHS16
+South Africa,ZA,ZAF,710,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS16
+South Africa,ZA,ZAF,710,Urban,8,Dry latrines - Traditional latrine,0.018,Demographic and Health Survey - DHS16
+South Africa,ZA,ZAF,710,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.087,Demographic and Health Survey - DHS16
+South Africa,ZA,ZAF,710,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS16
+South Africa,ZA,ZAF,710,Urban,11,Dry latrines - Bucket latrine,0.016,Demographic and Health Survey - DHS16
+South Africa,ZA,ZAF,710,Urban,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS16
+South Africa,ZA,ZAF,710,Urban,13,Composting toilets,0.008,Demographic and Health Survey - DHS16
+South Africa,ZA,ZAF,710,Urban,14,Other improved,0.006,Demographic and Health Survey - DHS16
+South Africa,ZA,ZAF,710,Urban,15,"No facility, bush, field",0.007,Demographic and Health Survey - DHS16
+South Africa,ZA,ZAF,710,Urban,16,Other unimproved,0.0,Demographic and Health Survey - DHS16
+South Africa,ZA,ZAF,710,Urban,17,DK/missing information,0.0,Demographic and Health Survey - DHS16
+South Africa,ZA,ZAF,710,Rural,1,Flush and pour flush - to piped sewer system,0.068,Demographic and Health Survey - DHS16
+South Africa,ZA,ZAF,710,Rural,2,Flush and pour flush - to septic tank,0.014,Demographic and Health Survey - DHS16
+South Africa,ZA,ZAF,710,Rural,3,Flush and pour flush - to pit,0.007,Demographic and Health Survey - DHS16
+South Africa,ZA,ZAF,710,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.001,Demographic and Health Survey - DHS16
+South Africa,ZA,ZAF,710,Rural,5,Flush and pour flush - to elsewhere,0.003,Demographic and Health Survey - DHS16
+South Africa,ZA,ZAF,710,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.171,Demographic and Health Survey - DHS16
+South Africa,ZA,ZAF,710,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS16
+South Africa,ZA,ZAF,710,Rural,8,Dry latrines - Traditional latrine,0.24,Demographic and Health Survey - DHS16
+South Africa,ZA,ZAF,710,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.424,Demographic and Health Survey - DHS16
+South Africa,ZA,ZAF,710,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS16
+South Africa,ZA,ZAF,710,Rural,11,Dry latrines - Bucket latrine,0.009,Demographic and Health Survey - DHS16
+South Africa,ZA,ZAF,710,Rural,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS16
+South Africa,ZA,ZAF,710,Rural,13,Composting toilets,0.014,Demographic and Health Survey - DHS16
+South Africa,ZA,ZAF,710,Rural,14,Other improved,0.0,Demographic and Health Survey - DHS16
+South Africa,ZA,ZAF,710,Rural,15,"No facility, bush, field",0.049,Demographic and Health Survey - DHS16
+South Africa,ZA,ZAF,710,Rural,16,Other unimproved,0.0,Demographic and Health Survey - DHS16
+South Africa,ZA,ZAF,710,Rural,17,DK/missing information,0.0,Demographic and Health Survey - DHS16
+South Africa,ZA,ZAF,710,National,1,Flush and pour flush - to piped sewer system,0.543,Demographic and Health Survey - DHS16
+South Africa,ZA,ZAF,710,National,2,Flush and pour flush - to septic tank,0.014,Demographic and Health Survey - DHS16
+South Africa,ZA,ZAF,710,National,3,Flush and pour flush - to pit,0.009,Demographic and Health Survey - DHS16
+South Africa,ZA,ZAF,710,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.001,Demographic and Health Survey - DHS16
+South Africa,ZA,ZAF,710,National,5,Flush and pour flush - to elsewhere,0.004,Demographic and Health Survey - DHS16
+South Africa,ZA,ZAF,710,National,6,Dry latrines - Ventilated Improved Pit latrine,0.071,Demographic and Health Survey - DHS16
+South Africa,ZA,ZAF,710,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS16
+South Africa,ZA,ZAF,710,National,8,Dry latrines - Traditional latrine,0.099,Demographic and Health Survey - DHS16
+South Africa,ZA,ZAF,710,National,9,Dry latrines - Pit latrine without slab/open pit,0.21,Demographic and Health Survey - DHS16
+South Africa,ZA,ZAF,710,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS16
+South Africa,ZA,ZAF,710,National,11,Dry latrines - Bucket latrine,0.014,Demographic and Health Survey - DHS16
+South Africa,ZA,ZAF,710,National,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS16
+South Africa,ZA,ZAF,710,National,13,Composting toilets,0.01,Demographic and Health Survey - DHS16
+South Africa,ZA,ZAF,710,National,14,Other improved,0.004,Demographic and Health Survey - DHS16
+South Africa,ZA,ZAF,710,National,15,"No facility, bush, field",0.022,Demographic and Health Survey - DHS16
+South Africa,ZA,ZAF,710,National,16,Other unimproved,0.0,Demographic and Health Survey - DHS16
+South Africa,ZA,ZAF,710,National,17,DK/missing information,0.0,Demographic and Health Survey - DHS16
+South Africa,ZA,ZAF,710,Urban,1,Flush and pour flush - to piped sewer system,0.861,"General Household Survey, 2017 - GHS17"
+South Africa,ZA,ZAF,710,Urban,2,Flush and pour flush - to septic tank,0.02,"General Household Survey, 2017 - GHS17"
+South Africa,ZA,ZAF,710,Urban,3,Flush and pour flush - to pit,0.0,"General Household Survey, 2017 - GHS17"
+South Africa,ZA,ZAF,710,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"General Household Survey, 2017 - GHS17"
+South Africa,ZA,ZAF,710,Urban,5,Flush and pour flush - to elsewhere,0.0,"General Household Survey, 2017 - GHS17"
+South Africa,ZA,ZAF,710,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.035,"General Household Survey, 2017 - GHS17"
+South Africa,ZA,ZAF,710,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"General Household Survey, 2017 - GHS17"
+South Africa,ZA,ZAF,710,Urban,8,Dry latrines - Traditional latrine,0.049,"General Household Survey, 2017 - GHS17"
+South Africa,ZA,ZAF,710,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,"General Household Survey, 2017 - GHS17"
+South Africa,ZA,ZAF,710,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"General Household Survey, 2017 - GHS17"
+South Africa,ZA,ZAF,710,Urban,11,Dry latrines - Bucket latrine,0.016,"General Household Survey, 2017 - GHS17"
+South Africa,ZA,ZAF,710,Urban,11,Dry latrines - Bucket latrine,0.015,"General Household Survey, 2017 - GHS17"
+South Africa,ZA,ZAF,710,Urban,11,Dry latrines - Bucket latrine,0.001,"General Household Survey, 2017 - GHS17"
+South Africa,ZA,ZAF,710,Urban,12,Dry latrines - Other,0.0,"General Household Survey, 2017 - GHS17"
+South Africa,ZA,ZAF,710,Urban,13,Composting toilets,0.002,"General Household Survey, 2017 - GHS17"
+South Africa,ZA,ZAF,710,Urban,14,Other improved,0.004,"General Household Survey, 2017 - GHS17"
+South Africa,ZA,ZAF,710,Urban,15,"No facility, bush, field",0.007,"General Household Survey, 2017 - GHS17"
+South Africa,ZA,ZAF,710,Urban,16,Other unimproved,0.005,"General Household Survey, 2017 - GHS17"
+South Africa,ZA,ZAF,710,Urban,17,DK/missing information,0.002,"General Household Survey, 2017 - GHS17"
+South Africa,ZA,ZAF,710,Rural,1,Flush and pour flush - to piped sewer system,0.04,"General Household Survey, 2017 - GHS17"
+South Africa,ZA,ZAF,710,Rural,2,Flush and pour flush - to septic tank,0.066,"General Household Survey, 2017 - GHS17"
+South Africa,ZA,ZAF,710,Rural,3,Flush and pour flush - to pit,0.0,"General Household Survey, 2017 - GHS17"
+South Africa,ZA,ZAF,710,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"General Household Survey, 2017 - GHS17"
+South Africa,ZA,ZAF,710,Rural,5,Flush and pour flush - to elsewhere,0.0,"General Household Survey, 2017 - GHS17"
+South Africa,ZA,ZAF,710,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.53,"General Household Survey, 2017 - GHS17"
+South Africa,ZA,ZAF,710,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"General Household Survey, 2017 - GHS17"
+South Africa,ZA,ZAF,710,Rural,8,Dry latrines - Traditional latrine,0.298,"General Household Survey, 2017 - GHS17"
+South Africa,ZA,ZAF,710,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,"General Household Survey, 2017 - GHS17"
+South Africa,ZA,ZAF,710,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"General Household Survey, 2017 - GHS17"
+South Africa,ZA,ZAF,710,Rural,11,Dry latrines - Bucket latrine,0.005,"General Household Survey, 2017 - GHS17"
+South Africa,ZA,ZAF,710,Rural,11,Dry latrines - Bucket latrine,0.003,"General Household Survey, 2017 - GHS17"
+South Africa,ZA,ZAF,710,Rural,11,Dry latrines - Bucket latrine,0.001,"General Household Survey, 2017 - GHS17"
+South Africa,ZA,ZAF,710,Rural,12,Dry latrines - Other,0.0,"General Household Survey, 2017 - GHS17"
+South Africa,ZA,ZAF,710,Rural,13,Composting toilets,0.007,"General Household Survey, 2017 - GHS17"
+South Africa,ZA,ZAF,710,Rural,14,Other improved,0.013,"General Household Survey, 2017 - GHS17"
+South Africa,ZA,ZAF,710,Rural,15,"No facility, bush, field",0.035,"General Household Survey, 2017 - GHS17"
+South Africa,ZA,ZAF,710,Rural,16,Other unimproved,0.004,"General Household Survey, 2017 - GHS17"
+South Africa,ZA,ZAF,710,Rural,17,DK/missing information,0.002,"General Household Survey, 2017 - GHS17"
+South Africa,ZA,ZAF,710,National,1,Flush and pour flush - to piped sewer system,0.58,"General Household Survey, 2017 - GHS17"
+South Africa,ZA,ZAF,710,National,2,Flush and pour flush - to septic tank,0.036,"General Household Survey, 2017 - GHS17"
+South Africa,ZA,ZAF,710,National,3,Flush and pour flush - to pit,0.0,"General Household Survey, 2017 - GHS17"
+South Africa,ZA,ZAF,710,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"General Household Survey, 2017 - GHS17"
+South Africa,ZA,ZAF,710,National,5,Flush and pour flush - to elsewhere,0.0,"General Household Survey, 2017 - GHS17"
+South Africa,ZA,ZAF,710,National,6,Dry latrines - Ventilated Improved Pit latrine,0.205,"General Household Survey, 2017 - GHS17"
+South Africa,ZA,ZAF,710,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"General Household Survey, 2017 - GHS17"
+South Africa,ZA,ZAF,710,National,8,Dry latrines - Traditional latrine,0.134,"General Household Survey, 2017 - GHS17"
+South Africa,ZA,ZAF,710,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,"General Household Survey, 2017 - GHS17"
+South Africa,ZA,ZAF,710,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"General Household Survey, 2017 - GHS17"
+South Africa,ZA,ZAF,710,National,11,Dry latrines - Bucket latrine,0.012,"General Household Survey, 2017 - GHS17"
+South Africa,ZA,ZAF,710,National,11,Dry latrines - Bucket latrine,0.011,"General Household Survey, 2017 - GHS17"
+South Africa,ZA,ZAF,710,National,11,Dry latrines - Bucket latrine,0.001,"General Household Survey, 2017 - GHS17"
+South Africa,ZA,ZAF,710,National,12,Dry latrines - Other,0.0,"General Household Survey, 2017 - GHS17"
+South Africa,ZA,ZAF,710,National,13,Composting toilets,0.004,"General Household Survey, 2017 - GHS17"
+South Africa,ZA,ZAF,710,National,14,Other improved,0.007,"General Household Survey, 2017 - GHS17"
+South Africa,ZA,ZAF,710,National,15,"No facility, bush, field",0.016,"General Household Survey, 2017 - GHS17"
+South Africa,ZA,ZAF,710,National,16,Other unimproved,0.004,"General Household Survey, 2017 - GHS17"
+South Africa,ZA,ZAF,710,National,17,DK/missing information,0.002,"General Household Survey, 2017 - GHS17"
+South Africa,ZA,ZAF,710,Urban,1,Flush and pour flush - to piped sewer system,0.313,National Income Dynamics Study - NIDS17
+South Africa,ZA,ZAF,710,Urban,2,Flush and pour flush - to septic tank,0.557,National Income Dynamics Study - NIDS17
+South Africa,ZA,ZAF,710,Urban,3,Flush and pour flush - to pit,0.0,National Income Dynamics Study - NIDS17
+South Africa,ZA,ZAF,710,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Income Dynamics Study - NIDS17
+South Africa,ZA,ZAF,710,Urban,5,Flush and pour flush - to elsewhere,0.0,National Income Dynamics Study - NIDS17
+South Africa,ZA,ZAF,710,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.035,National Income Dynamics Study - NIDS17
+South Africa,ZA,ZAF,710,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Income Dynamics Study - NIDS17
+South Africa,ZA,ZAF,710,Urban,8,Dry latrines - Traditional latrine,0.047,National Income Dynamics Study - NIDS17
+South Africa,ZA,ZAF,710,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Income Dynamics Study - NIDS17
+South Africa,ZA,ZAF,710,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Income Dynamics Study - NIDS17
+South Africa,ZA,ZAF,710,Urban,11,Dry latrines - Bucket latrine,0.019,National Income Dynamics Study - NIDS17
+South Africa,ZA,ZAF,710,Urban,12,Dry latrines - Other,0.0,National Income Dynamics Study - NIDS17
+South Africa,ZA,ZAF,710,Urban,13,Composting toilets,0.0,National Income Dynamics Study - NIDS17
+South Africa,ZA,ZAF,710,Urban,14,Other improved,0.018,National Income Dynamics Study - NIDS17
+South Africa,ZA,ZAF,710,Urban,15,"No facility, bush, field",0.01,National Income Dynamics Study - NIDS17
+South Africa,ZA,ZAF,710,Urban,16,Other unimproved,0.001,National Income Dynamics Study - NIDS17
+South Africa,ZA,ZAF,710,Urban,17,DK/missing information,0.0,National Income Dynamics Study - NIDS17
+South Africa,ZA,ZAF,710,Rural,1,Flush and pour flush - to piped sewer system,0.052,National Income Dynamics Study - NIDS17
+South Africa,ZA,ZAF,710,Rural,2,Flush and pour flush - to septic tank,0.077,National Income Dynamics Study - NIDS17
+South Africa,ZA,ZAF,710,Rural,3,Flush and pour flush - to pit,0.0,National Income Dynamics Study - NIDS17
+South Africa,ZA,ZAF,710,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Income Dynamics Study - NIDS17
+South Africa,ZA,ZAF,710,Rural,5,Flush and pour flush - to elsewhere,0.0,National Income Dynamics Study - NIDS17
+South Africa,ZA,ZAF,710,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.324,National Income Dynamics Study - NIDS17
+South Africa,ZA,ZAF,710,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Income Dynamics Study - NIDS17
+South Africa,ZA,ZAF,710,Rural,8,Dry latrines - Traditional latrine,0.466,National Income Dynamics Study - NIDS17
+South Africa,ZA,ZAF,710,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Income Dynamics Study - NIDS17
+South Africa,ZA,ZAF,710,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Income Dynamics Study - NIDS17
+South Africa,ZA,ZAF,710,Rural,11,Dry latrines - Bucket latrine,0.023,National Income Dynamics Study - NIDS17
+South Africa,ZA,ZAF,710,Rural,12,Dry latrines - Other,0.0,National Income Dynamics Study - NIDS17
+South Africa,ZA,ZAF,710,Rural,13,Composting toilets,0.0,National Income Dynamics Study - NIDS17
+South Africa,ZA,ZAF,710,Rural,14,Other improved,0.025,National Income Dynamics Study - NIDS17
+South Africa,ZA,ZAF,710,Rural,15,"No facility, bush, field",0.031,National Income Dynamics Study - NIDS17
+South Africa,ZA,ZAF,710,Rural,16,Other unimproved,0.001,National Income Dynamics Study - NIDS17
+South Africa,ZA,ZAF,710,Rural,17,DK/missing information,0.0,National Income Dynamics Study - NIDS17
+South Africa,ZA,ZAF,710,National,1,Flush and pour flush - to piped sewer system,0.22,National Income Dynamics Study - NIDS17
+South Africa,ZA,ZAF,710,National,2,Flush and pour flush - to septic tank,0.386,National Income Dynamics Study - NIDS17
+South Africa,ZA,ZAF,710,National,3,Flush and pour flush - to pit,0.0,National Income Dynamics Study - NIDS17
+South Africa,ZA,ZAF,710,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Income Dynamics Study - NIDS17
+South Africa,ZA,ZAF,710,National,5,Flush and pour flush - to elsewhere,0.0,National Income Dynamics Study - NIDS17
+South Africa,ZA,ZAF,710,National,6,Dry latrines - Ventilated Improved Pit latrine,0.138,National Income Dynamics Study - NIDS17
+South Africa,ZA,ZAF,710,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Income Dynamics Study - NIDS17
+South Africa,ZA,ZAF,710,National,8,Dry latrines - Traditional latrine,0.197,National Income Dynamics Study - NIDS17
+South Africa,ZA,ZAF,710,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Income Dynamics Study - NIDS17
+South Africa,ZA,ZAF,710,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Income Dynamics Study - NIDS17
+South Africa,ZA,ZAF,710,National,11,Dry latrines - Bucket latrine,0.02,National Income Dynamics Study - NIDS17
+South Africa,ZA,ZAF,710,National,12,Dry latrines - Other,0.0,National Income Dynamics Study - NIDS17
+South Africa,ZA,ZAF,710,National,13,Composting toilets,0.0,National Income Dynamics Study - NIDS17
+South Africa,ZA,ZAF,710,National,14,Other improved,0.02,National Income Dynamics Study - NIDS17
+South Africa,ZA,ZAF,710,National,15,"No facility, bush, field",0.017,National Income Dynamics Study - NIDS17
+South Africa,ZA,ZAF,710,National,16,Other unimproved,0.001,National Income Dynamics Study - NIDS17
+South Africa,ZA,ZAF,710,National,17,DK/missing information,0.0,National Income Dynamics Study - NIDS17
+South Africa,ZA,ZAF,710,Urban,1,Flush and pour flush - to piped sewer system,0.929,World Health Survey - WHS03
+South Africa,ZA,ZAF,710,Urban,2,Flush and pour flush - to septic tank,0.007,World Health Survey - WHS03
+South Africa,ZA,ZAF,710,Urban,3,Flush and pour flush - to pit,0.0,World Health Survey - WHS03
+South Africa,ZA,ZAF,710,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,World Health Survey - WHS03
+South Africa,ZA,ZAF,710,Urban,5,Flush and pour flush - to elsewhere,0.0,World Health Survey - WHS03
+South Africa,ZA,ZAF,710,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,World Health Survey - WHS03
+South Africa,ZA,ZAF,710,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.044,World Health Survey - WHS03
+South Africa,ZA,ZAF,710,Urban,8,Dry latrines - Traditional latrine,0.0,World Health Survey - WHS03
+South Africa,ZA,ZAF,710,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.009,World Health Survey - WHS03
+South Africa,ZA,ZAF,710,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,World Health Survey - WHS03
+South Africa,ZA,ZAF,710,Urban,11,Dry latrines - Bucket latrine,0.004,World Health Survey - WHS03
+South Africa,ZA,ZAF,710,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.03,World Health Survey - WHS03
+South Africa,ZA,ZAF,710,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.014,World Health Survey - WHS03
+South Africa,ZA,ZAF,710,Urban,8,Dry latrines - Traditional latrine,0.0,World Health Survey - WHS03
+South Africa,ZA,ZAF,710,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,World Health Survey - WHS03
+South Africa,ZA,ZAF,710,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,World Health Survey - WHS03
+South Africa,ZA,ZAF,710,Urban,11,Dry latrines - Bucket latrine,0.0,World Health Survey - WHS03
+South Africa,ZA,ZAF,710,Urban,12,Dry latrines - Other,0.0,World Health Survey - WHS03
+South Africa,ZA,ZAF,710,Urban,13,Composting toilets,0.0,World Health Survey - WHS03
+South Africa,ZA,ZAF,710,Urban,14,Other improved,0.0,World Health Survey - WHS03
+South Africa,ZA,ZAF,710,Urban,15,"No facility, bush, field",0.003,World Health Survey - WHS03
+South Africa,ZA,ZAF,710,Urban,16,Other unimproved,0.002,World Health Survey - WHS03
+South Africa,ZA,ZAF,710,Urban,17,DK/missing information,0.0,World Health Survey - WHS03
+South Africa,ZA,ZAF,710,Rural,1,Flush and pour flush - to piped sewer system,0.306,World Health Survey - WHS03
+South Africa,ZA,ZAF,710,Rural,2,Flush and pour flush - to septic tank,0.005,World Health Survey - WHS03
+South Africa,ZA,ZAF,710,Rural,3,Flush and pour flush - to pit,0.0,World Health Survey - WHS03
+South Africa,ZA,ZAF,710,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,World Health Survey - WHS03
+South Africa,ZA,ZAF,710,Rural,5,Flush and pour flush - to elsewhere,0.0,World Health Survey - WHS03
+South Africa,ZA,ZAF,710,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,World Health Survey - WHS03
+South Africa,ZA,ZAF,710,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.419,World Health Survey - WHS03
+South Africa,ZA,ZAF,710,Rural,8,Dry latrines - Traditional latrine,0.0,World Health Survey - WHS03
+South Africa,ZA,ZAF,710,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.06,World Health Survey - WHS03
+South Africa,ZA,ZAF,710,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,World Health Survey - WHS03
+South Africa,ZA,ZAF,710,Rural,11,Dry latrines - Bucket latrine,0.003,World Health Survey - WHS03
+South Africa,ZA,ZAF,710,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.292,World Health Survey - WHS03
+South Africa,ZA,ZAF,710,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.127,World Health Survey - WHS03
+South Africa,ZA,ZAF,710,Rural,8,Dry latrines - Traditional latrine,0.0,World Health Survey - WHS03
+South Africa,ZA,ZAF,710,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,World Health Survey - WHS03
+South Africa,ZA,ZAF,710,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,World Health Survey - WHS03
+South Africa,ZA,ZAF,710,Rural,11,Dry latrines - Bucket latrine,0.0,World Health Survey - WHS03
+South Africa,ZA,ZAF,710,Rural,12,Dry latrines - Other,0.0,World Health Survey - WHS03
+South Africa,ZA,ZAF,710,Rural,13,Composting toilets,0.0,World Health Survey - WHS03
+South Africa,ZA,ZAF,710,Rural,14,Other improved,0.0,World Health Survey - WHS03
+South Africa,ZA,ZAF,710,Rural,15,"No facility, bush, field",0.13,World Health Survey - WHS03
+South Africa,ZA,ZAF,710,Rural,16,Other unimproved,0.066,World Health Survey - WHS03
+South Africa,ZA,ZAF,710,Rural,17,DK/missing information,0.0,World Health Survey - WHS03
+South Africa,ZA,ZAF,710,National,1,Flush and pour flush - to piped sewer system,0.0,World Health Survey - WHS03
+South Africa,ZA,ZAF,710,National,2,Flush and pour flush - to septic tank,0.0,World Health Survey - WHS03
+South Africa,ZA,ZAF,710,National,3,Flush and pour flush - to pit,0.0,World Health Survey - WHS03
+South Africa,ZA,ZAF,710,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,World Health Survey - WHS03
+South Africa,ZA,ZAF,710,National,5,Flush and pour flush - to elsewhere,0.0,World Health Survey - WHS03
+South Africa,ZA,ZAF,710,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,World Health Survey - WHS03
+South Africa,ZA,ZAF,710,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,World Health Survey - WHS03
+South Africa,ZA,ZAF,710,National,8,Dry latrines - Traditional latrine,0.0,World Health Survey - WHS03
+South Africa,ZA,ZAF,710,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,World Health Survey - WHS03
+South Africa,ZA,ZAF,710,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,World Health Survey - WHS03
+South Africa,ZA,ZAF,710,National,11,Dry latrines - Bucket latrine,0.0,World Health Survey - WHS03
+South Africa,ZA,ZAF,710,National,12,Dry latrines - Other,0.0,World Health Survey - WHS03
+South Africa,ZA,ZAF,710,National,13,Composting toilets,0.0,World Health Survey - WHS03
+South Africa,ZA,ZAF,710,National,14,Other improved,0.0,World Health Survey - WHS03
+South Africa,ZA,ZAF,710,National,15,"No facility, bush, field",0.0,World Health Survey - WHS03
+South Africa,ZA,ZAF,710,National,16,Other unimproved,0.0,World Health Survey - WHS03
+South Africa,ZA,ZAF,710,National,17,DK/missing information,0.0,World Health Survey - WHS03

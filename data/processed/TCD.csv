@@ -1,4 +1,63 @@
 country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+Chad,TD,TCD,148,Urban,1,Flush and pour flush - to piped sewer system,0.0,Enquete de grappes a indicateurs multiples - MICS00
+Chad,TD,TCD,148,Urban,2,Flush and pour flush - to septic tank,0.0,Enquete de grappes a indicateurs multiples - MICS00
+Chad,TD,TCD,148,Urban,3,Flush and pour flush - to pit,0.0,Enquete de grappes a indicateurs multiples - MICS00
+Chad,TD,TCD,148,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquete de grappes a indicateurs multiples - MICS00
+Chad,TD,TCD,148,Urban,5,Flush and pour flush - to elsewhere,0.0,Enquete de grappes a indicateurs multiples - MICS00
+Chad,TD,TCD,148,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.013,Enquete de grappes a indicateurs multiples - MICS00
+Chad,TD,TCD,148,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Enquete de grappes a indicateurs multiples - MICS00
+Chad,TD,TCD,148,Urban,8,Dry latrines - Traditional latrine,0.666,Enquete de grappes a indicateurs multiples - MICS00
+Chad,TD,TCD,148,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.1,Enquete de grappes a indicateurs multiples - MICS00
+Chad,TD,TCD,148,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.013,Enquete de grappes a indicateurs multiples - MICS00
+Chad,TD,TCD,148,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Enquete de grappes a indicateurs multiples - MICS00
+Chad,TD,TCD,148,Urban,8,Dry latrines - Traditional latrine,0.666,Enquete de grappes a indicateurs multiples - MICS00
+Chad,TD,TCD,148,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.1,Enquete de grappes a indicateurs multiples - MICS00
+Chad,TD,TCD,148,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquete de grappes a indicateurs multiples - MICS00
+Chad,TD,TCD,148,Urban,11,Dry latrines - Bucket latrine,0.0,Enquete de grappes a indicateurs multiples - MICS00
+Chad,TD,TCD,148,Urban,12,Dry latrines - Other,0.0,Enquete de grappes a indicateurs multiples - MICS00
+Chad,TD,TCD,148,Urban,13,Composting toilets,0.0,Enquete de grappes a indicateurs multiples - MICS00
+Chad,TD,TCD,148,Urban,14,Other improved,0.0,Enquete de grappes a indicateurs multiples - MICS00
+Chad,TD,TCD,148,Urban,15,"No facility, bush, field",0.173,Enquete de grappes a indicateurs multiples - MICS00
+Chad,TD,TCD,148,Urban,16,Other unimproved,0.0,Enquete de grappes a indicateurs multiples - MICS00
+Chad,TD,TCD,148,Urban,17,DK/missing information,0.002,Enquete de grappes a indicateurs multiples - MICS00
+Chad,TD,TCD,148,Rural,1,Flush and pour flush - to piped sewer system,0.0,Enquete de grappes a indicateurs multiples - MICS00
+Chad,TD,TCD,148,Rural,2,Flush and pour flush - to septic tank,0.0,Enquete de grappes a indicateurs multiples - MICS00
+Chad,TD,TCD,148,Rural,3,Flush and pour flush - to pit,0.0,Enquete de grappes a indicateurs multiples - MICS00
+Chad,TD,TCD,148,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquete de grappes a indicateurs multiples - MICS00
+Chad,TD,TCD,148,Rural,5,Flush and pour flush - to elsewhere,0.0,Enquete de grappes a indicateurs multiples - MICS00
+Chad,TD,TCD,148,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Enquete de grappes a indicateurs multiples - MICS00
+Chad,TD,TCD,148,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Enquete de grappes a indicateurs multiples - MICS00
+Chad,TD,TCD,148,Rural,8,Dry latrines - Traditional latrine,0.094,Enquete de grappes a indicateurs multiples - MICS00
+Chad,TD,TCD,148,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.021,Enquete de grappes a indicateurs multiples - MICS00
+Chad,TD,TCD,148,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Enquete de grappes a indicateurs multiples - MICS00
+Chad,TD,TCD,148,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Enquete de grappes a indicateurs multiples - MICS00
+Chad,TD,TCD,148,Rural,8,Dry latrines - Traditional latrine,0.094,Enquete de grappes a indicateurs multiples - MICS00
+Chad,TD,TCD,148,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.021,Enquete de grappes a indicateurs multiples - MICS00
+Chad,TD,TCD,148,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquete de grappes a indicateurs multiples - MICS00
+Chad,TD,TCD,148,Rural,11,Dry latrines - Bucket latrine,0.0,Enquete de grappes a indicateurs multiples - MICS00
+Chad,TD,TCD,148,Rural,12,Dry latrines - Other,0.0,Enquete de grappes a indicateurs multiples - MICS00
+Chad,TD,TCD,148,Rural,13,Composting toilets,0.0,Enquete de grappes a indicateurs multiples - MICS00
+Chad,TD,TCD,148,Rural,14,Other improved,0.0,Enquete de grappes a indicateurs multiples - MICS00
+Chad,TD,TCD,148,Rural,15,"No facility, bush, field",0.884,Enquete de grappes a indicateurs multiples - MICS00
+Chad,TD,TCD,148,Rural,16,Other unimproved,0.0,Enquete de grappes a indicateurs multiples - MICS00
+Chad,TD,TCD,148,Rural,17,DK/missing information,0.001,Enquete de grappes a indicateurs multiples - MICS00
+Chad,TD,TCD,148,National,1,Flush and pour flush - to piped sewer system,0.0,Enquete de grappes a indicateurs multiples - MICS00
+Chad,TD,TCD,148,National,2,Flush and pour flush - to septic tank,0.0,Enquete de grappes a indicateurs multiples - MICS00
+Chad,TD,TCD,148,National,3,Flush and pour flush - to pit,0.0,Enquete de grappes a indicateurs multiples - MICS00
+Chad,TD,TCD,148,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquete de grappes a indicateurs multiples - MICS00
+Chad,TD,TCD,148,National,5,Flush and pour flush - to elsewhere,0.0,Enquete de grappes a indicateurs multiples - MICS00
+Chad,TD,TCD,148,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Enquete de grappes a indicateurs multiples - MICS00
+Chad,TD,TCD,148,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Enquete de grappes a indicateurs multiples - MICS00
+Chad,TD,TCD,148,National,8,Dry latrines - Traditional latrine,0.0,Enquete de grappes a indicateurs multiples - MICS00
+Chad,TD,TCD,148,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Enquete de grappes a indicateurs multiples - MICS00
+Chad,TD,TCD,148,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquete de grappes a indicateurs multiples - MICS00
+Chad,TD,TCD,148,National,11,Dry latrines - Bucket latrine,0.0,Enquete de grappes a indicateurs multiples - MICS00
+Chad,TD,TCD,148,National,12,Dry latrines - Other,0.0,Enquete de grappes a indicateurs multiples - MICS00
+Chad,TD,TCD,148,National,13,Composting toilets,0.0,Enquete de grappes a indicateurs multiples - MICS00
+Chad,TD,TCD,148,National,14,Other improved,0.0,Enquete de grappes a indicateurs multiples - MICS00
+Chad,TD,TCD,148,National,15,"No facility, bush, field",0.0,Enquete de grappes a indicateurs multiples - MICS00
+Chad,TD,TCD,148,National,16,Other unimproved,0.0,Enquete de grappes a indicateurs multiples - MICS00
+Chad,TD,TCD,148,National,17,DK/missing information,0.0,Enquete de grappes a indicateurs multiples - MICS00
 Chad,TD,TCD,148,Urban,1,Flush and pour flush - to piped sewer system,0.028,World Health Survey - WHS03
 Chad,TD,TCD,148,Urban,2,Flush and pour flush - to septic tank,0.007,World Health Survey - WHS03
 Chad,TD,TCD,148,Urban,3,Flush and pour flush - to pit,0.0,World Health Survey - WHS03
@@ -45,6 +104,125 @@ Chad,TD,TCD,148,Rural,14,Other improved,0.0,World Health Survey - WHS03
 Chad,TD,TCD,148,Rural,15,"No facility, bush, field",0.821,World Health Survey - WHS03
 Chad,TD,TCD,148,Rural,16,Other unimproved,0.012,World Health Survey - WHS03
 Chad,TD,TCD,148,Rural,17,DK/missing information,0.0,World Health Survey - WHS03
+Chad,TD,TCD,148,National,1,Flush and pour flush - to piped sewer system,0.0,World Health Survey - WHS03
+Chad,TD,TCD,148,National,2,Flush and pour flush - to septic tank,0.0,World Health Survey - WHS03
+Chad,TD,TCD,148,National,3,Flush and pour flush - to pit,0.0,World Health Survey - WHS03
+Chad,TD,TCD,148,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,World Health Survey - WHS03
+Chad,TD,TCD,148,National,5,Flush and pour flush - to elsewhere,0.0,World Health Survey - WHS03
+Chad,TD,TCD,148,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,World Health Survey - WHS03
+Chad,TD,TCD,148,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,World Health Survey - WHS03
+Chad,TD,TCD,148,National,8,Dry latrines - Traditional latrine,0.0,World Health Survey - WHS03
+Chad,TD,TCD,148,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,World Health Survey - WHS03
+Chad,TD,TCD,148,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,World Health Survey - WHS03
+Chad,TD,TCD,148,National,11,Dry latrines - Bucket latrine,0.0,World Health Survey - WHS03
+Chad,TD,TCD,148,National,12,Dry latrines - Other,0.0,World Health Survey - WHS03
+Chad,TD,TCD,148,National,13,Composting toilets,0.0,World Health Survey - WHS03
+Chad,TD,TCD,148,National,14,Other improved,0.0,World Health Survey - WHS03
+Chad,TD,TCD,148,National,15,"No facility, bush, field",0.0,World Health Survey - WHS03
+Chad,TD,TCD,148,National,16,Other unimproved,0.0,World Health Survey - WHS03
+Chad,TD,TCD,148,National,17,DK/missing information,0.0,World Health Survey - WHS03
+Chad,TD,TCD,148,Urban,1,Flush and pour flush - to piped sewer system,0.0,Enquête sur la Consommation et le Secteur Informel - ECSI03
+Chad,TD,TCD,148,Urban,2,Flush and pour flush - to septic tank,0.0,Enquête sur la Consommation et le Secteur Informel - ECSI03
+Chad,TD,TCD,148,Urban,3,Flush and pour flush - to pit,0.0,Enquête sur la Consommation et le Secteur Informel - ECSI03
+Chad,TD,TCD,148,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquête sur la Consommation et le Secteur Informel - ECSI03
+Chad,TD,TCD,148,Urban,5,Flush and pour flush - to elsewhere,0.0,Enquête sur la Consommation et le Secteur Informel - ECSI03
+Chad,TD,TCD,148,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Enquête sur la Consommation et le Secteur Informel - ECSI03
+Chad,TD,TCD,148,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Enquête sur la Consommation et le Secteur Informel - ECSI03
+Chad,TD,TCD,148,Urban,8,Dry latrines - Traditional latrine,0.238,Enquête sur la Consommation et le Secteur Informel - ECSI03
+Chad,TD,TCD,148,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.479,Enquête sur la Consommation et le Secteur Informel - ECSI03
+Chad,TD,TCD,148,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquête sur la Consommation et le Secteur Informel - ECSI03
+Chad,TD,TCD,148,Urban,11,Dry latrines - Bucket latrine,0.0,Enquête sur la Consommation et le Secteur Informel - ECSI03
+Chad,TD,TCD,148,Urban,12,Dry latrines - Other,0.0,Enquête sur la Consommation et le Secteur Informel - ECSI03
+Chad,TD,TCD,148,Urban,13,Composting toilets,0.0,Enquête sur la Consommation et le Secteur Informel - ECSI03
+Chad,TD,TCD,148,Urban,14,Other improved,0.0,Enquête sur la Consommation et le Secteur Informel - ECSI03
+Chad,TD,TCD,148,Urban,15,"No facility, bush, field",0.228,Enquête sur la Consommation et le Secteur Informel - ECSI03
+Chad,TD,TCD,148,Urban,16,Other unimproved,0.0,Enquête sur la Consommation et le Secteur Informel - ECSI03
+Chad,TD,TCD,148,Urban,17,DK/missing information,0.0,Enquête sur la Consommation et le Secteur Informel - ECSI03
+Chad,TD,TCD,148,Rural,1,Flush and pour flush - to piped sewer system,0.0,Enquête sur la Consommation et le Secteur Informel - ECSI03
+Chad,TD,TCD,148,Rural,2,Flush and pour flush - to septic tank,0.0,Enquête sur la Consommation et le Secteur Informel - ECSI03
+Chad,TD,TCD,148,Rural,3,Flush and pour flush - to pit,0.0,Enquête sur la Consommation et le Secteur Informel - ECSI03
+Chad,TD,TCD,148,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquête sur la Consommation et le Secteur Informel - ECSI03
+Chad,TD,TCD,148,Rural,5,Flush and pour flush - to elsewhere,0.0,Enquête sur la Consommation et le Secteur Informel - ECSI03
+Chad,TD,TCD,148,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Enquête sur la Consommation et le Secteur Informel - ECSI03
+Chad,TD,TCD,148,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Enquête sur la Consommation et le Secteur Informel - ECSI03
+Chad,TD,TCD,148,Rural,8,Dry latrines - Traditional latrine,0.048,Enquête sur la Consommation et le Secteur Informel - ECSI03
+Chad,TD,TCD,148,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.114,Enquête sur la Consommation et le Secteur Informel - ECSI03
+Chad,TD,TCD,148,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquête sur la Consommation et le Secteur Informel - ECSI03
+Chad,TD,TCD,148,Rural,11,Dry latrines - Bucket latrine,0.0,Enquête sur la Consommation et le Secteur Informel - ECSI03
+Chad,TD,TCD,148,Rural,12,Dry latrines - Other,0.0,Enquête sur la Consommation et le Secteur Informel - ECSI03
+Chad,TD,TCD,148,Rural,13,Composting toilets,0.0,Enquête sur la Consommation et le Secteur Informel - ECSI03
+Chad,TD,TCD,148,Rural,14,Other improved,0.0,Enquête sur la Consommation et le Secteur Informel - ECSI03
+Chad,TD,TCD,148,Rural,15,"No facility, bush, field",0.811,Enquête sur la Consommation et le Secteur Informel - ECSI03
+Chad,TD,TCD,148,Rural,16,Other unimproved,0.0,Enquête sur la Consommation et le Secteur Informel - ECSI03
+Chad,TD,TCD,148,Rural,17,DK/missing information,0.0,Enquête sur la Consommation et le Secteur Informel - ECSI03
+Chad,TD,TCD,148,National,1,Flush and pour flush - to piped sewer system,0.0,Enquête sur la Consommation et le Secteur Informel - ECSI03
+Chad,TD,TCD,148,National,2,Flush and pour flush - to septic tank,0.0,Enquête sur la Consommation et le Secteur Informel - ECSI03
+Chad,TD,TCD,148,National,3,Flush and pour flush - to pit,0.0,Enquête sur la Consommation et le Secteur Informel - ECSI03
+Chad,TD,TCD,148,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquête sur la Consommation et le Secteur Informel - ECSI03
+Chad,TD,TCD,148,National,5,Flush and pour flush - to elsewhere,0.0,Enquête sur la Consommation et le Secteur Informel - ECSI03
+Chad,TD,TCD,148,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Enquête sur la Consommation et le Secteur Informel - ECSI03
+Chad,TD,TCD,148,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Enquête sur la Consommation et le Secteur Informel - ECSI03
+Chad,TD,TCD,148,National,8,Dry latrines - Traditional latrine,0.0,Enquête sur la Consommation et le Secteur Informel - ECSI03
+Chad,TD,TCD,148,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Enquête sur la Consommation et le Secteur Informel - ECSI03
+Chad,TD,TCD,148,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquête sur la Consommation et le Secteur Informel - ECSI03
+Chad,TD,TCD,148,National,11,Dry latrines - Bucket latrine,0.0,Enquête sur la Consommation et le Secteur Informel - ECSI03
+Chad,TD,TCD,148,National,12,Dry latrines - Other,0.0,Enquête sur la Consommation et le Secteur Informel - ECSI03
+Chad,TD,TCD,148,National,13,Composting toilets,0.0,Enquête sur la Consommation et le Secteur Informel - ECSI03
+Chad,TD,TCD,148,National,14,Other improved,0.0,Enquête sur la Consommation et le Secteur Informel - ECSI03
+Chad,TD,TCD,148,National,15,"No facility, bush, field",0.0,Enquête sur la Consommation et le Secteur Informel - ECSI03
+Chad,TD,TCD,148,National,16,Other unimproved,0.0,Enquête sur la Consommation et le Secteur Informel - ECSI03
+Chad,TD,TCD,148,National,17,DK/missing information,0.0,Enquête sur la Consommation et le Secteur Informel - ECSI03
+Chad,TD,TCD,148,Urban,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Household Survey - DHS04
+Chad,TD,TCD,148,Urban,2,Flush and pour flush - to septic tank,0.0,Demographic and Household Survey - DHS04
+Chad,TD,TCD,148,Urban,3,Flush and pour flush - to pit,0.0,Demographic and Household Survey - DHS04
+Chad,TD,TCD,148,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Household Survey - DHS04
+Chad,TD,TCD,148,Urban,5,Flush and pour flush - to elsewhere,0.0,Demographic and Household Survey - DHS04
+Chad,TD,TCD,148,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Household Survey - DHS04
+Chad,TD,TCD,148,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Household Survey - DHS04
+Chad,TD,TCD,148,Urban,8,Dry latrines - Traditional latrine,0.114,Demographic and Household Survey - DHS04
+Chad,TD,TCD,148,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.647,Demographic and Household Survey - DHS04
+Chad,TD,TCD,148,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Household Survey - DHS04
+Chad,TD,TCD,148,Urban,11,Dry latrines - Bucket latrine,0.0,Demographic and Household Survey - DHS04
+Chad,TD,TCD,148,Urban,12,Dry latrines - Other,0.0,Demographic and Household Survey - DHS04
+Chad,TD,TCD,148,Urban,13,Composting toilets,0.0,Demographic and Household Survey - DHS04
+Chad,TD,TCD,148,Urban,14,Other improved,0.0,Demographic and Household Survey - DHS04
+Chad,TD,TCD,148,Urban,15,"No facility, bush, field",0.18,Demographic and Household Survey - DHS04
+Chad,TD,TCD,148,Urban,16,Other unimproved,0.0,Demographic and Household Survey - DHS04
+Chad,TD,TCD,148,Urban,17,DK/missing information,0.003,Demographic and Household Survey - DHS04
+Chad,TD,TCD,148,Rural,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Household Survey - DHS04
+Chad,TD,TCD,148,Rural,2,Flush and pour flush - to septic tank,0.0,Demographic and Household Survey - DHS04
+Chad,TD,TCD,148,Rural,3,Flush and pour flush - to pit,0.0,Demographic and Household Survey - DHS04
+Chad,TD,TCD,148,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Household Survey - DHS04
+Chad,TD,TCD,148,Rural,5,Flush and pour flush - to elsewhere,0.0,Demographic and Household Survey - DHS04
+Chad,TD,TCD,148,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Household Survey - DHS04
+Chad,TD,TCD,148,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Household Survey - DHS04
+Chad,TD,TCD,148,Rural,8,Dry latrines - Traditional latrine,0.001,Demographic and Household Survey - DHS04
+Chad,TD,TCD,148,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.111,Demographic and Household Survey - DHS04
+Chad,TD,TCD,148,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Household Survey - DHS04
+Chad,TD,TCD,148,Rural,11,Dry latrines - Bucket latrine,0.0,Demographic and Household Survey - DHS04
+Chad,TD,TCD,148,Rural,12,Dry latrines - Other,0.0,Demographic and Household Survey - DHS04
+Chad,TD,TCD,148,Rural,13,Composting toilets,0.0,Demographic and Household Survey - DHS04
+Chad,TD,TCD,148,Rural,14,Other improved,0.0,Demographic and Household Survey - DHS04
+Chad,TD,TCD,148,Rural,15,"No facility, bush, field",0.881,Demographic and Household Survey - DHS04
+Chad,TD,TCD,148,Rural,16,Other unimproved,0.0,Demographic and Household Survey - DHS04
+Chad,TD,TCD,148,Rural,17,DK/missing information,0.002,Demographic and Household Survey - DHS04
+Chad,TD,TCD,148,National,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Household Survey - DHS04
+Chad,TD,TCD,148,National,2,Flush and pour flush - to septic tank,0.0,Demographic and Household Survey - DHS04
+Chad,TD,TCD,148,National,3,Flush and pour flush - to pit,0.0,Demographic and Household Survey - DHS04
+Chad,TD,TCD,148,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Household Survey - DHS04
+Chad,TD,TCD,148,National,5,Flush and pour flush - to elsewhere,0.0,Demographic and Household Survey - DHS04
+Chad,TD,TCD,148,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Household Survey - DHS04
+Chad,TD,TCD,148,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Household Survey - DHS04
+Chad,TD,TCD,148,National,8,Dry latrines - Traditional latrine,0.0,Demographic and Household Survey - DHS04
+Chad,TD,TCD,148,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Household Survey - DHS04
+Chad,TD,TCD,148,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Household Survey - DHS04
+Chad,TD,TCD,148,National,11,Dry latrines - Bucket latrine,0.0,Demographic and Household Survey - DHS04
+Chad,TD,TCD,148,National,12,Dry latrines - Other,0.0,Demographic and Household Survey - DHS04
+Chad,TD,TCD,148,National,13,Composting toilets,0.0,Demographic and Household Survey - DHS04
+Chad,TD,TCD,148,National,14,Other improved,0.0,Demographic and Household Survey - DHS04
+Chad,TD,TCD,148,National,15,"No facility, bush, field",0.0,Demographic and Household Survey - DHS04
+Chad,TD,TCD,148,National,16,Other unimproved,0.0,Demographic and Household Survey - DHS04
+Chad,TD,TCD,148,National,17,DK/missing information,0.0,Demographic and Household Survey - DHS04
 Chad,TD,TCD,148,Urban,1,Flush and pour flush - to piped sewer system,0.034,Multiple Indicator Cluster Survey - MICS10
 Chad,TD,TCD,148,Urban,2,Flush and pour flush - to septic tank,0.027,Multiple Indicator Cluster Survey - MICS10
 Chad,TD,TCD,148,Urban,3,Flush and pour flush - to pit,0.111,Multiple Indicator Cluster Survey - MICS10
@@ -79,6 +257,23 @@ Chad,TD,TCD,148,Rural,14,Other improved,0.0,Multiple Indicator Cluster Survey - 
 Chad,TD,TCD,148,Rural,15,"No facility, bush, field",0.807,Multiple Indicator Cluster Survey - MICS10
 Chad,TD,TCD,148,Rural,16,Other unimproved,0.004,Multiple Indicator Cluster Survey - MICS10
 Chad,TD,TCD,148,Rural,17,DK/missing information,0.005,Multiple Indicator Cluster Survey - MICS10
+Chad,TD,TCD,148,National,1,Flush and pour flush - to piped sewer system,0.008,Multiple Indicator Cluster Survey - MICS10
+Chad,TD,TCD,148,National,2,Flush and pour flush - to septic tank,0.007,Multiple Indicator Cluster Survey - MICS10
+Chad,TD,TCD,148,National,3,Flush and pour flush - to pit,0.03,Multiple Indicator Cluster Survey - MICS10
+Chad,TD,TCD,148,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.002,Multiple Indicator Cluster Survey - MICS10
+Chad,TD,TCD,148,National,5,Flush and pour flush - to elsewhere,0.007,Multiple Indicator Cluster Survey - MICS10
+Chad,TD,TCD,148,National,6,Dry latrines - Ventilated Improved Pit latrine,0.002,Multiple Indicator Cluster Survey - MICS10
+Chad,TD,TCD,148,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.091,Multiple Indicator Cluster Survey - MICS10
+Chad,TD,TCD,148,National,8,Dry latrines - Traditional latrine,0.0,Multiple Indicator Cluster Survey - MICS10
+Chad,TD,TCD,148,National,9,Dry latrines - Pit latrine without slab/open pit,0.137,Multiple Indicator Cluster Survey - MICS10
+Chad,TD,TCD,148,National,10,Dry latrines - Hanging toilet/hanging latrine,0.031,Multiple Indicator Cluster Survey - MICS10
+Chad,TD,TCD,148,National,11,Dry latrines - Bucket latrine,0.005,Multiple Indicator Cluster Survey - MICS10
+Chad,TD,TCD,148,National,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS10
+Chad,TD,TCD,148,National,13,Composting toilets,0.014,Multiple Indicator Cluster Survey - MICS10
+Chad,TD,TCD,148,National,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS10
+Chad,TD,TCD,148,National,15,"No facility, bush, field",0.656,Multiple Indicator Cluster Survey - MICS10
+Chad,TD,TCD,148,National,16,Other unimproved,0.004,Multiple Indicator Cluster Survey - MICS10
+Chad,TD,TCD,148,National,17,DK/missing information,0.005,Multiple Indicator Cluster Survey - MICS10
 Chad,TD,TCD,148,Urban,1,Flush and pour flush - to piped sewer system,0.0,"Enquête Démographique et de Santé et à Indicateurs Multiples au Tchad, 2014-2015 - EDS-MICS15"
 Chad,TD,TCD,148,Urban,2,Flush and pour flush - to septic tank,0.041,"Enquête Démographique et de Santé et à Indicateurs Multiples au Tchad, 2014-2015 - EDS-MICS15"
 Chad,TD,TCD,148,Urban,3,Flush and pour flush - to pit,0.012,"Enquête Démographique et de Santé et à Indicateurs Multiples au Tchad, 2014-2015 - EDS-MICS15"
@@ -113,3 +308,20 @@ Chad,TD,TCD,148,Rural,14,Other improved,0.0,"Enquête Démographique et de Sant�
 Chad,TD,TCD,148,Rural,15,"No facility, bush, field",0.844,"Enquête Démographique et de Santé et à Indicateurs Multiples au Tchad, 2014-2015 - EDS-MICS15"
 Chad,TD,TCD,148,Rural,16,Other unimproved,0.0,"Enquête Démographique et de Santé et à Indicateurs Multiples au Tchad, 2014-2015 - EDS-MICS15"
 Chad,TD,TCD,148,Rural,17,DK/missing information,0.0,"Enquête Démographique et de Santé et à Indicateurs Multiples au Tchad, 2014-2015 - EDS-MICS15"
+Chad,TD,TCD,148,National,1,Flush and pour flush - to piped sewer system,0.0,"Enquête Démographique et de Santé et à Indicateurs Multiples au Tchad, 2014-2015 - EDS-MICS15"
+Chad,TD,TCD,148,National,2,Flush and pour flush - to septic tank,0.01,"Enquête Démographique et de Santé et à Indicateurs Multiples au Tchad, 2014-2015 - EDS-MICS15"
+Chad,TD,TCD,148,National,3,Flush and pour flush - to pit,0.004,"Enquête Démographique et de Santé et à Indicateurs Multiples au Tchad, 2014-2015 - EDS-MICS15"
+Chad,TD,TCD,148,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Enquête Démographique et de Santé et à Indicateurs Multiples au Tchad, 2014-2015 - EDS-MICS15"
+Chad,TD,TCD,148,National,5,Flush and pour flush - to elsewhere,0.001,"Enquête Démographique et de Santé et à Indicateurs Multiples au Tchad, 2014-2015 - EDS-MICS15"
+Chad,TD,TCD,148,National,6,Dry latrines - Ventilated Improved Pit latrine,0.003,"Enquête Démographique et de Santé et à Indicateurs Multiples au Tchad, 2014-2015 - EDS-MICS15"
+Chad,TD,TCD,148,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.131,"Enquête Démographique et de Santé et à Indicateurs Multiples au Tchad, 2014-2015 - EDS-MICS15"
+Chad,TD,TCD,148,National,8,Dry latrines - Traditional latrine,0.0,"Enquête Démographique et de Santé et à Indicateurs Multiples au Tchad, 2014-2015 - EDS-MICS15"
+Chad,TD,TCD,148,National,9,Dry latrines - Pit latrine without slab/open pit,0.149,"Enquête Démographique et de Santé et à Indicateurs Multiples au Tchad, 2014-2015 - EDS-MICS15"
+Chad,TD,TCD,148,National,10,Dry latrines - Hanging toilet/hanging latrine,0.008,"Enquête Démographique et de Santé et à Indicateurs Multiples au Tchad, 2014-2015 - EDS-MICS15"
+Chad,TD,TCD,148,National,11,Dry latrines - Bucket latrine,0.001,"Enquête Démographique et de Santé et à Indicateurs Multiples au Tchad, 2014-2015 - EDS-MICS15"
+Chad,TD,TCD,148,National,12,Dry latrines - Other,0.0,"Enquête Démographique et de Santé et à Indicateurs Multiples au Tchad, 2014-2015 - EDS-MICS15"
+Chad,TD,TCD,148,National,13,Composting toilets,0.0,"Enquête Démographique et de Santé et à Indicateurs Multiples au Tchad, 2014-2015 - EDS-MICS15"
+Chad,TD,TCD,148,National,14,Other improved,0.0,"Enquête Démographique et de Santé et à Indicateurs Multiples au Tchad, 2014-2015 - EDS-MICS15"
+Chad,TD,TCD,148,National,15,"No facility, bush, field",0.692,"Enquête Démographique et de Santé et à Indicateurs Multiples au Tchad, 2014-2015 - EDS-MICS15"
+Chad,TD,TCD,148,National,16,Other unimproved,0.001,"Enquête Démographique et de Santé et à Indicateurs Multiples au Tchad, 2014-2015 - EDS-MICS15"
+Chad,TD,TCD,148,National,17,DK/missing information,0.0,"Enquête Démographique et de Santé et à Indicateurs Multiples au Tchad, 2014-2015 - EDS-MICS15"

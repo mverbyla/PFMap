@@ -1,4 +1,55 @@
 country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+Suriname,SR,SUR,740,Urban,1,Flush and pour flush - to piped sewer system,0.0,Multiple Indicator Cluster Survey - MICS00
+Suriname,SR,SUR,740,Urban,2,Flush and pour flush - to septic tank,0.0,Multiple Indicator Cluster Survey - MICS00
+Suriname,SR,SUR,740,Urban,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Suriname,SR,SUR,740,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS00
+Suriname,SR,SUR,740,Urban,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS00
+Suriname,SR,SUR,740,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Suriname,SR,SUR,740,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.001,Multiple Indicator Cluster Survey - MICS00
+Suriname,SR,SUR,740,Urban,8,Dry latrines - Traditional latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Suriname,SR,SUR,740,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Suriname,SR,SUR,740,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Suriname,SR,SUR,740,Urban,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Suriname,SR,SUR,740,Urban,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS00
+Suriname,SR,SUR,740,Urban,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS00
+Suriname,SR,SUR,740,Urban,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS00
+Suriname,SR,SUR,740,Urban,15,"No facility, bush, field",0.0,Multiple Indicator Cluster Survey - MICS00
+Suriname,SR,SUR,740,Urban,16,Other unimproved,0.005,Multiple Indicator Cluster Survey - MICS00
+Suriname,SR,SUR,740,Urban,17,DK/missing information,0.004,Multiple Indicator Cluster Survey - MICS00
+Suriname,SR,SUR,740,Rural,1,Flush and pour flush - to piped sewer system,0.0,Multiple Indicator Cluster Survey - MICS00
+Suriname,SR,SUR,740,Rural,2,Flush and pour flush - to septic tank,0.0,Multiple Indicator Cluster Survey - MICS00
+Suriname,SR,SUR,740,Rural,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Suriname,SR,SUR,740,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS00
+Suriname,SR,SUR,740,Rural,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS00
+Suriname,SR,SUR,740,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Suriname,SR,SUR,740,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.006,Multiple Indicator Cluster Survey - MICS00
+Suriname,SR,SUR,740,Rural,8,Dry latrines - Traditional latrine,0.008,Multiple Indicator Cluster Survey - MICS00
+Suriname,SR,SUR,740,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.01,Multiple Indicator Cluster Survey - MICS00
+Suriname,SR,SUR,740,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Suriname,SR,SUR,740,Rural,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Suriname,SR,SUR,740,Rural,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS00
+Suriname,SR,SUR,740,Rural,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS00
+Suriname,SR,SUR,740,Rural,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS00
+Suriname,SR,SUR,740,Rural,15,"No facility, bush, field",0.223,Multiple Indicator Cluster Survey - MICS00
+Suriname,SR,SUR,740,Rural,16,Other unimproved,0.004,Multiple Indicator Cluster Survey - MICS00
+Suriname,SR,SUR,740,Rural,17,DK/missing information,0.002,Multiple Indicator Cluster Survey - MICS00
+Suriname,SR,SUR,740,National,1,Flush and pour flush - to piped sewer system,0.0,Multiple Indicator Cluster Survey - MICS00
+Suriname,SR,SUR,740,National,2,Flush and pour flush - to septic tank,0.0,Multiple Indicator Cluster Survey - MICS00
+Suriname,SR,SUR,740,National,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Suriname,SR,SUR,740,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS00
+Suriname,SR,SUR,740,National,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS00
+Suriname,SR,SUR,740,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Suriname,SR,SUR,740,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.003,Multiple Indicator Cluster Survey - MICS00
+Suriname,SR,SUR,740,National,8,Dry latrines - Traditional latrine,0.004,Multiple Indicator Cluster Survey - MICS00
+Suriname,SR,SUR,740,National,9,Dry latrines - Pit latrine without slab/open pit,0.005,Multiple Indicator Cluster Survey - MICS00
+Suriname,SR,SUR,740,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Suriname,SR,SUR,740,National,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Suriname,SR,SUR,740,National,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS00
+Suriname,SR,SUR,740,National,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS00
+Suriname,SR,SUR,740,National,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS00
+Suriname,SR,SUR,740,National,15,"No facility, bush, field",0.108,Multiple Indicator Cluster Survey - MICS00
+Suriname,SR,SUR,740,National,16,Other unimproved,0.004,Multiple Indicator Cluster Survey - MICS00
+Suriname,SR,SUR,740,National,17,DK/missing information,0.003,Multiple Indicator Cluster Survey - MICS00
 Suriname,SR,SUR,740,Urban,1,Flush and pour flush - to piped sewer system,0.006,Multiple Indicator Cluster Survey - MICS06
 Suriname,SR,SUR,740,Urban,2,Flush and pour flush - to septic tank,0.853,Multiple Indicator Cluster Survey - MICS06
 Suriname,SR,SUR,740,Urban,3,Flush and pour flush - to pit,0.023,Multiple Indicator Cluster Survey - MICS06
@@ -33,6 +84,23 @@ Suriname,SR,SUR,740,Rural,14,Other improved,0.0,Multiple Indicator Cluster Surve
 Suriname,SR,SUR,740,Rural,15,"No facility, bush, field",0.208,Multiple Indicator Cluster Survey - MICS06
 Suriname,SR,SUR,740,Rural,16,Other unimproved,0.012,Multiple Indicator Cluster Survey - MICS06
 Suriname,SR,SUR,740,Rural,17,DK/missing information,0.001,Multiple Indicator Cluster Survey - MICS06
+Suriname,SR,SUR,740,National,1,Flush and pour flush - to piped sewer system,0.0,Multiple Indicator Cluster Survey - MICS06
+Suriname,SR,SUR,740,National,2,Flush and pour flush - to septic tank,0.0,Multiple Indicator Cluster Survey - MICS06
+Suriname,SR,SUR,740,National,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS06
+Suriname,SR,SUR,740,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS06
+Suriname,SR,SUR,740,National,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS06
+Suriname,SR,SUR,740,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Multiple Indicator Cluster Survey - MICS06
+Suriname,SR,SUR,740,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Multiple Indicator Cluster Survey - MICS06
+Suriname,SR,SUR,740,National,8,Dry latrines - Traditional latrine,0.0,Multiple Indicator Cluster Survey - MICS06
+Suriname,SR,SUR,740,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Multiple Indicator Cluster Survey - MICS06
+Suriname,SR,SUR,740,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS06
+Suriname,SR,SUR,740,National,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS06
+Suriname,SR,SUR,740,National,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS06
+Suriname,SR,SUR,740,National,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS06
+Suriname,SR,SUR,740,National,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS06
+Suriname,SR,SUR,740,National,15,"No facility, bush, field",0.0,Multiple Indicator Cluster Survey - MICS06
+Suriname,SR,SUR,740,National,16,Other unimproved,0.0,Multiple Indicator Cluster Survey - MICS06
+Suriname,SR,SUR,740,National,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS06
 Suriname,SR,SUR,740,Urban,1,Flush and pour flush - to piped sewer system,0.017,Multiple Indicator Cluster Survey - MICS10
 Suriname,SR,SUR,740,Urban,2,Flush and pour flush - to septic tank,0.894,Multiple Indicator Cluster Survey - MICS10
 Suriname,SR,SUR,740,Urban,3,Flush and pour flush - to pit,0.006,Multiple Indicator Cluster Survey - MICS10
@@ -67,3 +135,71 @@ Suriname,SR,SUR,740,Rural,14,Other improved,0.0,Multiple Indicator Cluster Surve
 Suriname,SR,SUR,740,Rural,15,"No facility, bush, field",0.185,Multiple Indicator Cluster Survey - MICS10
 Suriname,SR,SUR,740,Rural,16,Other unimproved,0.016,Multiple Indicator Cluster Survey - MICS10
 Suriname,SR,SUR,740,Rural,17,DK/missing information,0.002,Multiple Indicator Cluster Survey - MICS10
+Suriname,SR,SUR,740,National,1,Flush and pour flush - to piped sewer system,0.015,Multiple Indicator Cluster Survey - MICS10
+Suriname,SR,SUR,740,National,2,Flush and pour flush - to septic tank,0.765,Multiple Indicator Cluster Survey - MICS10
+Suriname,SR,SUR,740,National,3,Flush and pour flush - to pit,0.014,Multiple Indicator Cluster Survey - MICS10
+Suriname,SR,SUR,740,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.001,Multiple Indicator Cluster Survey - MICS10
+Suriname,SR,SUR,740,National,5,Flush and pour flush - to elsewhere,0.001,Multiple Indicator Cluster Survey - MICS10
+Suriname,SR,SUR,740,National,6,Dry latrines - Ventilated Improved Pit latrine,0.005,Multiple Indicator Cluster Survey - MICS10
+Suriname,SR,SUR,740,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.11,Multiple Indicator Cluster Survey - MICS10
+Suriname,SR,SUR,740,National,8,Dry latrines - Traditional latrine,0.0,Multiple Indicator Cluster Survey - MICS10
+Suriname,SR,SUR,740,National,9,Dry latrines - Pit latrine without slab/open pit,0.027,Multiple Indicator Cluster Survey - MICS10
+Suriname,SR,SUR,740,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS10
+Suriname,SR,SUR,740,National,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS10
+Suriname,SR,SUR,740,National,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS10
+Suriname,SR,SUR,740,National,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS10
+Suriname,SR,SUR,740,National,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS10
+Suriname,SR,SUR,740,National,15,"No facility, bush, field",0.056,Multiple Indicator Cluster Survey - MICS10
+Suriname,SR,SUR,740,National,16,Other unimproved,0.006,Multiple Indicator Cluster Survey - MICS10
+Suriname,SR,SUR,740,National,17,DK/missing information,0.001,Multiple Indicator Cluster Survey - MICS10
+Suriname,SR,SUR,740,Urban,1,Flush and pour flush - to piped sewer system,0.0,"Survey of Living Conditions, 2016-2017 - SLC17"
+Suriname,SR,SUR,740,Urban,2,Flush and pour flush - to septic tank,0.958,"Survey of Living Conditions, 2016-2017 - SLC17"
+Suriname,SR,SUR,740,Urban,3,Flush and pour flush - to pit,0.0,"Survey of Living Conditions, 2016-2017 - SLC17"
+Suriname,SR,SUR,740,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.033,"Survey of Living Conditions, 2016-2017 - SLC17"
+Suriname,SR,SUR,740,Urban,5,Flush and pour flush - to elsewhere,0.0,"Survey of Living Conditions, 2016-2017 - SLC17"
+Suriname,SR,SUR,740,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Survey of Living Conditions, 2016-2017 - SLC17"
+Suriname,SR,SUR,740,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Survey of Living Conditions, 2016-2017 - SLC17"
+Suriname,SR,SUR,740,Urban,8,Dry latrines - Traditional latrine,0.0,"Survey of Living Conditions, 2016-2017 - SLC17"
+Suriname,SR,SUR,740,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.001,"Survey of Living Conditions, 2016-2017 - SLC17"
+Suriname,SR,SUR,740,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Survey of Living Conditions, 2016-2017 - SLC17"
+Suriname,SR,SUR,740,Urban,11,Dry latrines - Bucket latrine,0.0,"Survey of Living Conditions, 2016-2017 - SLC17"
+Suriname,SR,SUR,740,Urban,12,Dry latrines - Other,0.0,"Survey of Living Conditions, 2016-2017 - SLC17"
+Suriname,SR,SUR,740,Urban,13,Composting toilets,0.0,"Survey of Living Conditions, 2016-2017 - SLC17"
+Suriname,SR,SUR,740,Urban,14,Other improved,0.0,"Survey of Living Conditions, 2016-2017 - SLC17"
+Suriname,SR,SUR,740,Urban,15,"No facility, bush, field",0.003,"Survey of Living Conditions, 2016-2017 - SLC17"
+Suriname,SR,SUR,740,Urban,16,Other unimproved,0.004,"Survey of Living Conditions, 2016-2017 - SLC17"
+Suriname,SR,SUR,740,Urban,17,DK/missing information,0.0,"Survey of Living Conditions, 2016-2017 - SLC17"
+Suriname,SR,SUR,740,Rural,1,Flush and pour flush - to piped sewer system,0.0,"Survey of Living Conditions, 2016-2017 - SLC17"
+Suriname,SR,SUR,740,Rural,2,Flush and pour flush - to septic tank,0.796,"Survey of Living Conditions, 2016-2017 - SLC17"
+Suriname,SR,SUR,740,Rural,3,Flush and pour flush - to pit,0.0,"Survey of Living Conditions, 2016-2017 - SLC17"
+Suriname,SR,SUR,740,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.141,"Survey of Living Conditions, 2016-2017 - SLC17"
+Suriname,SR,SUR,740,Rural,5,Flush and pour flush - to elsewhere,0.0,"Survey of Living Conditions, 2016-2017 - SLC17"
+Suriname,SR,SUR,740,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Survey of Living Conditions, 2016-2017 - SLC17"
+Suriname,SR,SUR,740,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Survey of Living Conditions, 2016-2017 - SLC17"
+Suriname,SR,SUR,740,Rural,8,Dry latrines - Traditional latrine,0.0,"Survey of Living Conditions, 2016-2017 - SLC17"
+Suriname,SR,SUR,740,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.014,"Survey of Living Conditions, 2016-2017 - SLC17"
+Suriname,SR,SUR,740,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Survey of Living Conditions, 2016-2017 - SLC17"
+Suriname,SR,SUR,740,Rural,11,Dry latrines - Bucket latrine,0.0,"Survey of Living Conditions, 2016-2017 - SLC17"
+Suriname,SR,SUR,740,Rural,12,Dry latrines - Other,0.0,"Survey of Living Conditions, 2016-2017 - SLC17"
+Suriname,SR,SUR,740,Rural,13,Composting toilets,0.0,"Survey of Living Conditions, 2016-2017 - SLC17"
+Suriname,SR,SUR,740,Rural,14,Other improved,0.0,"Survey of Living Conditions, 2016-2017 - SLC17"
+Suriname,SR,SUR,740,Rural,15,"No facility, bush, field",0.047,"Survey of Living Conditions, 2016-2017 - SLC17"
+Suriname,SR,SUR,740,Rural,16,Other unimproved,0.001,"Survey of Living Conditions, 2016-2017 - SLC17"
+Suriname,SR,SUR,740,Rural,17,DK/missing information,0.0,"Survey of Living Conditions, 2016-2017 - SLC17"
+Suriname,SR,SUR,740,National,1,Flush and pour flush - to piped sewer system,0.0,"Survey of Living Conditions, 2016-2017 - SLC17"
+Suriname,SR,SUR,740,National,2,Flush and pour flush - to septic tank,0.91,"Survey of Living Conditions, 2016-2017 - SLC17"
+Suriname,SR,SUR,740,National,3,Flush and pour flush - to pit,0.0,"Survey of Living Conditions, 2016-2017 - SLC17"
+Suriname,SR,SUR,740,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.065,"Survey of Living Conditions, 2016-2017 - SLC17"
+Suriname,SR,SUR,740,National,5,Flush and pour flush - to elsewhere,0.0,"Survey of Living Conditions, 2016-2017 - SLC17"
+Suriname,SR,SUR,740,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Survey of Living Conditions, 2016-2017 - SLC17"
+Suriname,SR,SUR,740,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Survey of Living Conditions, 2016-2017 - SLC17"
+Suriname,SR,SUR,740,National,8,Dry latrines - Traditional latrine,0.0,"Survey of Living Conditions, 2016-2017 - SLC17"
+Suriname,SR,SUR,740,National,9,Dry latrines - Pit latrine without slab/open pit,0.005,"Survey of Living Conditions, 2016-2017 - SLC17"
+Suriname,SR,SUR,740,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Survey of Living Conditions, 2016-2017 - SLC17"
+Suriname,SR,SUR,740,National,11,Dry latrines - Bucket latrine,0.0,"Survey of Living Conditions, 2016-2017 - SLC17"
+Suriname,SR,SUR,740,National,12,Dry latrines - Other,0.0,"Survey of Living Conditions, 2016-2017 - SLC17"
+Suriname,SR,SUR,740,National,13,Composting toilets,0.0,"Survey of Living Conditions, 2016-2017 - SLC17"
+Suriname,SR,SUR,740,National,14,Other improved,0.0,"Survey of Living Conditions, 2016-2017 - SLC17"
+Suriname,SR,SUR,740,National,15,"No facility, bush, field",0.016,"Survey of Living Conditions, 2016-2017 - SLC17"
+Suriname,SR,SUR,740,National,16,Other unimproved,0.003,"Survey of Living Conditions, 2016-2017 - SLC17"
+Suriname,SR,SUR,740,National,17,DK/missing information,0.0,"Survey of Living Conditions, 2016-2017 - SLC17"

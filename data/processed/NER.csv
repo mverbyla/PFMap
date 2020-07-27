@@ -1,4 +1,55 @@
 country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+Niger,NE,NER,562,Urban,1,Flush and pour flush - to piped sewer system,0.0,Multiple Indicator Cluster Survey - MICS00
+Niger,NE,NER,562,Urban,2,Flush and pour flush - to septic tank,0.0,Multiple Indicator Cluster Survey - MICS00
+Niger,NE,NER,562,Urban,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Niger,NE,NER,562,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.054,Multiple Indicator Cluster Survey - MICS00
+Niger,NE,NER,562,Urban,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS00
+Niger,NE,NER,562,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.024,Multiple Indicator Cluster Survey - MICS00
+Niger,NE,NER,562,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Niger,NE,NER,562,Urban,8,Dry latrines - Traditional latrine,0.633,Multiple Indicator Cluster Survey - MICS00
+Niger,NE,NER,562,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.051,Multiple Indicator Cluster Survey - MICS00
+Niger,NE,NER,562,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Niger,NE,NER,562,Urban,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Niger,NE,NER,562,Urban,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS00
+Niger,NE,NER,562,Urban,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS00
+Niger,NE,NER,562,Urban,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS00
+Niger,NE,NER,562,Urban,15,"No facility, bush, field",0.19,Multiple Indicator Cluster Survey - MICS00
+Niger,NE,NER,562,Urban,16,Other unimproved,0.0,Multiple Indicator Cluster Survey - MICS00
+Niger,NE,NER,562,Urban,17,DK/missing information,0.006,Multiple Indicator Cluster Survey - MICS00
+Niger,NE,NER,562,Rural,1,Flush and pour flush - to piped sewer system,0.0,Multiple Indicator Cluster Survey - MICS00
+Niger,NE,NER,562,Rural,2,Flush and pour flush - to septic tank,0.0,Multiple Indicator Cluster Survey - MICS00
+Niger,NE,NER,562,Rural,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Niger,NE,NER,562,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS00
+Niger,NE,NER,562,Rural,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS00
+Niger,NE,NER,562,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.001,Multiple Indicator Cluster Survey - MICS00
+Niger,NE,NER,562,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Niger,NE,NER,562,Rural,8,Dry latrines - Traditional latrine,0.073,Multiple Indicator Cluster Survey - MICS00
+Niger,NE,NER,562,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.01,Multiple Indicator Cluster Survey - MICS00
+Niger,NE,NER,562,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Niger,NE,NER,562,Rural,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Niger,NE,NER,562,Rural,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS00
+Niger,NE,NER,562,Rural,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS00
+Niger,NE,NER,562,Rural,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS00
+Niger,NE,NER,562,Rural,15,"No facility, bush, field",0.914,Multiple Indicator Cluster Survey - MICS00
+Niger,NE,NER,562,Rural,16,Other unimproved,0.0,Multiple Indicator Cluster Survey - MICS00
+Niger,NE,NER,562,Rural,17,DK/missing information,0.002,Multiple Indicator Cluster Survey - MICS00
+Niger,NE,NER,562,National,1,Flush and pour flush - to piped sewer system,0.0,Multiple Indicator Cluster Survey - MICS00
+Niger,NE,NER,562,National,2,Flush and pour flush - to septic tank,0.0,Multiple Indicator Cluster Survey - MICS00
+Niger,NE,NER,562,National,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Niger,NE,NER,562,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.009,Multiple Indicator Cluster Survey - MICS00
+Niger,NE,NER,562,National,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS00
+Niger,NE,NER,562,National,6,Dry latrines - Ventilated Improved Pit latrine,0.004,Multiple Indicator Cluster Survey - MICS00
+Niger,NE,NER,562,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Niger,NE,NER,562,National,8,Dry latrines - Traditional latrine,0.162,Multiple Indicator Cluster Survey - MICS00
+Niger,NE,NER,562,National,9,Dry latrines - Pit latrine without slab/open pit,0.017,Multiple Indicator Cluster Survey - MICS00
+Niger,NE,NER,562,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Niger,NE,NER,562,National,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Niger,NE,NER,562,National,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS00
+Niger,NE,NER,562,National,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS00
+Niger,NE,NER,562,National,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS00
+Niger,NE,NER,562,National,15,"No facility, bush, field",0.8,Multiple Indicator Cluster Survey - MICS00
+Niger,NE,NER,562,National,16,Other unimproved,0.0,Multiple Indicator Cluster Survey - MICS00
+Niger,NE,NER,562,National,17,DK/missing information,0.002,Multiple Indicator Cluster Survey - MICS00
 Niger,NE,NER,562,Urban,1,Flush and pour flush - to piped sewer system,0.04,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB05
 Niger,NE,NER,562,Urban,2,Flush and pour flush - to septic tank,0.037,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB05
 Niger,NE,NER,562,Urban,3,Flush and pour flush - to pit,0.0,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB05
@@ -33,6 +84,176 @@ Niger,NE,NER,562,Rural,14,Other improved,0.0,Questionnaire Unifié sur les Indic
 Niger,NE,NER,562,Rural,15,"No facility, bush, field",0.896,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB05
 Niger,NE,NER,562,Rural,16,Other unimproved,0.0,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB05
 Niger,NE,NER,562,Rural,17,DK/missing information,0.0,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB05
+Niger,NE,NER,562,National,1,Flush and pour flush - to piped sewer system,0.0,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB05
+Niger,NE,NER,562,National,2,Flush and pour flush - to septic tank,0.0,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB05
+Niger,NE,NER,562,National,3,Flush and pour flush - to pit,0.0,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB05
+Niger,NE,NER,562,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB05
+Niger,NE,NER,562,National,5,Flush and pour flush - to elsewhere,0.0,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB05
+Niger,NE,NER,562,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB05
+Niger,NE,NER,562,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB05
+Niger,NE,NER,562,National,8,Dry latrines - Traditional latrine,0.0,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB05
+Niger,NE,NER,562,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB05
+Niger,NE,NER,562,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB05
+Niger,NE,NER,562,National,11,Dry latrines - Bucket latrine,0.0,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB05
+Niger,NE,NER,562,National,12,Dry latrines - Other,0.0,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB05
+Niger,NE,NER,562,National,13,Composting toilets,0.0,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB05
+Niger,NE,NER,562,National,14,Other improved,0.0,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB05
+Niger,NE,NER,562,National,15,"No facility, bush, field",0.0,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB05
+Niger,NE,NER,562,National,16,Other unimproved,0.0,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB05
+Niger,NE,NER,562,National,17,DK/missing information,0.0,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB05
+Niger,NE,NER,562,Urban,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS06
+Niger,NE,NER,562,Urban,2,Flush and pour flush - to septic tank,0.0,Demographic and Health Survey - DHS06
+Niger,NE,NER,562,Urban,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS06
+Niger,NE,NER,562,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS06
+Niger,NE,NER,562,Urban,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS06
+Niger,NE,NER,562,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - DHS06
+Niger,NE,NER,562,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.323,Demographic and Health Survey - DHS06
+Niger,NE,NER,562,Urban,8,Dry latrines - Traditional latrine,0.404,Demographic and Health Survey - DHS06
+Niger,NE,NER,562,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Survey - DHS06
+Niger,NE,NER,562,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS06
+Niger,NE,NER,562,Urban,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS06
+Niger,NE,NER,562,Urban,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS06
+Niger,NE,NER,562,Urban,13,Composting toilets,0.0,Demographic and Health Survey - DHS06
+Niger,NE,NER,562,Urban,14,Other improved,0.0,Demographic and Health Survey - DHS06
+Niger,NE,NER,562,Urban,15,"No facility, bush, field",0.212,Demographic and Health Survey - DHS06
+Niger,NE,NER,562,Urban,16,Other unimproved,0.0,Demographic and Health Survey - DHS06
+Niger,NE,NER,562,Urban,17,DK/missing information,0.0,Demographic and Health Survey - DHS06
+Niger,NE,NER,562,Rural,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS06
+Niger,NE,NER,562,Rural,2,Flush and pour flush - to septic tank,0.0,Demographic and Health Survey - DHS06
+Niger,NE,NER,562,Rural,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS06
+Niger,NE,NER,562,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS06
+Niger,NE,NER,562,Rural,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS06
+Niger,NE,NER,562,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - DHS06
+Niger,NE,NER,562,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.022,Demographic and Health Survey - DHS06
+Niger,NE,NER,562,Rural,8,Dry latrines - Traditional latrine,0.045,Demographic and Health Survey - DHS06
+Niger,NE,NER,562,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Survey - DHS06
+Niger,NE,NER,562,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS06
+Niger,NE,NER,562,Rural,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS06
+Niger,NE,NER,562,Rural,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS06
+Niger,NE,NER,562,Rural,13,Composting toilets,0.0,Demographic and Health Survey - DHS06
+Niger,NE,NER,562,Rural,14,Other improved,0.0,Demographic and Health Survey - DHS06
+Niger,NE,NER,562,Rural,15,"No facility, bush, field",0.933,Demographic and Health Survey - DHS06
+Niger,NE,NER,562,Rural,16,Other unimproved,0.0,Demographic and Health Survey - DHS06
+Niger,NE,NER,562,Rural,17,DK/missing information,0.0,Demographic and Health Survey - DHS06
+Niger,NE,NER,562,National,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS06
+Niger,NE,NER,562,National,2,Flush and pour flush - to septic tank,0.0,Demographic and Health Survey - DHS06
+Niger,NE,NER,562,National,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS06
+Niger,NE,NER,562,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS06
+Niger,NE,NER,562,National,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS06
+Niger,NE,NER,562,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - DHS06
+Niger,NE,NER,562,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS06
+Niger,NE,NER,562,National,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS06
+Niger,NE,NER,562,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Survey - DHS06
+Niger,NE,NER,562,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS06
+Niger,NE,NER,562,National,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS06
+Niger,NE,NER,562,National,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS06
+Niger,NE,NER,562,National,13,Composting toilets,0.0,Demographic and Health Survey - DHS06
+Niger,NE,NER,562,National,14,Other improved,0.0,Demographic and Health Survey - DHS06
+Niger,NE,NER,562,National,15,"No facility, bush, field",0.0,Demographic and Health Survey - DHS06
+Niger,NE,NER,562,National,16,Other unimproved,0.0,Demographic and Health Survey - DHS06
+Niger,NE,NER,562,National,17,DK/missing information,0.0,Demographic and Health Survey - DHS06
+Niger,NE,NER,562,Urban,1,Flush and pour flush - to piped sewer system,0.0,NATIONAL SURVEY ON HOUSEHOLD LIVING  CONDITIONS AND AGRICULTURE 2011 - LSMS11
+Niger,NE,NER,562,Urban,2,Flush and pour flush - to septic tank,0.0,NATIONAL SURVEY ON HOUSEHOLD LIVING  CONDITIONS AND AGRICULTURE 2011 - LSMS11
+Niger,NE,NER,562,Urban,3,Flush and pour flush - to pit,0.0,NATIONAL SURVEY ON HOUSEHOLD LIVING  CONDITIONS AND AGRICULTURE 2011 - LSMS11
+Niger,NE,NER,562,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,NATIONAL SURVEY ON HOUSEHOLD LIVING  CONDITIONS AND AGRICULTURE 2011 - LSMS11
+Niger,NE,NER,562,Urban,5,Flush and pour flush - to elsewhere,0.0,NATIONAL SURVEY ON HOUSEHOLD LIVING  CONDITIONS AND AGRICULTURE 2011 - LSMS11
+Niger,NE,NER,562,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,NATIONAL SURVEY ON HOUSEHOLD LIVING  CONDITIONS AND AGRICULTURE 2011 - LSMS11
+Niger,NE,NER,562,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.29,NATIONAL SURVEY ON HOUSEHOLD LIVING  CONDITIONS AND AGRICULTURE 2011 - LSMS11
+Niger,NE,NER,562,Urban,8,Dry latrines - Traditional latrine,0.274,NATIONAL SURVEY ON HOUSEHOLD LIVING  CONDITIONS AND AGRICULTURE 2011 - LSMS11
+Niger,NE,NER,562,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.199,NATIONAL SURVEY ON HOUSEHOLD LIVING  CONDITIONS AND AGRICULTURE 2011 - LSMS11
+Niger,NE,NER,562,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,NATIONAL SURVEY ON HOUSEHOLD LIVING  CONDITIONS AND AGRICULTURE 2011 - LSMS11
+Niger,NE,NER,562,Urban,11,Dry latrines - Bucket latrine,0.0,NATIONAL SURVEY ON HOUSEHOLD LIVING  CONDITIONS AND AGRICULTURE 2011 - LSMS11
+Niger,NE,NER,562,Urban,12,Dry latrines - Other,0.0,NATIONAL SURVEY ON HOUSEHOLD LIVING  CONDITIONS AND AGRICULTURE 2011 - LSMS11
+Niger,NE,NER,562,Urban,13,Composting toilets,0.0,NATIONAL SURVEY ON HOUSEHOLD LIVING  CONDITIONS AND AGRICULTURE 2011 - LSMS11
+Niger,NE,NER,562,Urban,14,Other improved,0.0,NATIONAL SURVEY ON HOUSEHOLD LIVING  CONDITIONS AND AGRICULTURE 2011 - LSMS11
+Niger,NE,NER,562,Urban,15,"No facility, bush, field",0.153,NATIONAL SURVEY ON HOUSEHOLD LIVING  CONDITIONS AND AGRICULTURE 2011 - LSMS11
+Niger,NE,NER,562,Urban,16,Other unimproved,0.004,NATIONAL SURVEY ON HOUSEHOLD LIVING  CONDITIONS AND AGRICULTURE 2011 - LSMS11
+Niger,NE,NER,562,Urban,17,DK/missing information,0.001,NATIONAL SURVEY ON HOUSEHOLD LIVING  CONDITIONS AND AGRICULTURE 2011 - LSMS11
+Niger,NE,NER,562,Rural,1,Flush and pour flush - to piped sewer system,0.0,NATIONAL SURVEY ON HOUSEHOLD LIVING  CONDITIONS AND AGRICULTURE 2011 - LSMS11
+Niger,NE,NER,562,Rural,2,Flush and pour flush - to septic tank,0.0,NATIONAL SURVEY ON HOUSEHOLD LIVING  CONDITIONS AND AGRICULTURE 2011 - LSMS11
+Niger,NE,NER,562,Rural,3,Flush and pour flush - to pit,0.0,NATIONAL SURVEY ON HOUSEHOLD LIVING  CONDITIONS AND AGRICULTURE 2011 - LSMS11
+Niger,NE,NER,562,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,NATIONAL SURVEY ON HOUSEHOLD LIVING  CONDITIONS AND AGRICULTURE 2011 - LSMS11
+Niger,NE,NER,562,Rural,5,Flush and pour flush - to elsewhere,0.0,NATIONAL SURVEY ON HOUSEHOLD LIVING  CONDITIONS AND AGRICULTURE 2011 - LSMS11
+Niger,NE,NER,562,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,NATIONAL SURVEY ON HOUSEHOLD LIVING  CONDITIONS AND AGRICULTURE 2011 - LSMS11
+Niger,NE,NER,562,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.034,NATIONAL SURVEY ON HOUSEHOLD LIVING  CONDITIONS AND AGRICULTURE 2011 - LSMS11
+Niger,NE,NER,562,Rural,8,Dry latrines - Traditional latrine,0.04,NATIONAL SURVEY ON HOUSEHOLD LIVING  CONDITIONS AND AGRICULTURE 2011 - LSMS11
+Niger,NE,NER,562,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.035,NATIONAL SURVEY ON HOUSEHOLD LIVING  CONDITIONS AND AGRICULTURE 2011 - LSMS11
+Niger,NE,NER,562,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,NATIONAL SURVEY ON HOUSEHOLD LIVING  CONDITIONS AND AGRICULTURE 2011 - LSMS11
+Niger,NE,NER,562,Rural,11,Dry latrines - Bucket latrine,0.0,NATIONAL SURVEY ON HOUSEHOLD LIVING  CONDITIONS AND AGRICULTURE 2011 - LSMS11
+Niger,NE,NER,562,Rural,12,Dry latrines - Other,0.0,NATIONAL SURVEY ON HOUSEHOLD LIVING  CONDITIONS AND AGRICULTURE 2011 - LSMS11
+Niger,NE,NER,562,Rural,13,Composting toilets,0.0,NATIONAL SURVEY ON HOUSEHOLD LIVING  CONDITIONS AND AGRICULTURE 2011 - LSMS11
+Niger,NE,NER,562,Rural,14,Other improved,0.0,NATIONAL SURVEY ON HOUSEHOLD LIVING  CONDITIONS AND AGRICULTURE 2011 - LSMS11
+Niger,NE,NER,562,Rural,15,"No facility, bush, field",0.89,NATIONAL SURVEY ON HOUSEHOLD LIVING  CONDITIONS AND AGRICULTURE 2011 - LSMS11
+Niger,NE,NER,562,Rural,16,Other unimproved,0.002,NATIONAL SURVEY ON HOUSEHOLD LIVING  CONDITIONS AND AGRICULTURE 2011 - LSMS11
+Niger,NE,NER,562,Rural,17,DK/missing information,0.0,NATIONAL SURVEY ON HOUSEHOLD LIVING  CONDITIONS AND AGRICULTURE 2011 - LSMS11
+Niger,NE,NER,562,National,1,Flush and pour flush - to piped sewer system,0.0,NATIONAL SURVEY ON HOUSEHOLD LIVING  CONDITIONS AND AGRICULTURE 2011 - LSMS11
+Niger,NE,NER,562,National,2,Flush and pour flush - to septic tank,0.0,NATIONAL SURVEY ON HOUSEHOLD LIVING  CONDITIONS AND AGRICULTURE 2011 - LSMS11
+Niger,NE,NER,562,National,3,Flush and pour flush - to pit,0.0,NATIONAL SURVEY ON HOUSEHOLD LIVING  CONDITIONS AND AGRICULTURE 2011 - LSMS11
+Niger,NE,NER,562,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,NATIONAL SURVEY ON HOUSEHOLD LIVING  CONDITIONS AND AGRICULTURE 2011 - LSMS11
+Niger,NE,NER,562,National,5,Flush and pour flush - to elsewhere,0.0,NATIONAL SURVEY ON HOUSEHOLD LIVING  CONDITIONS AND AGRICULTURE 2011 - LSMS11
+Niger,NE,NER,562,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,NATIONAL SURVEY ON HOUSEHOLD LIVING  CONDITIONS AND AGRICULTURE 2011 - LSMS11
+Niger,NE,NER,562,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.09,NATIONAL SURVEY ON HOUSEHOLD LIVING  CONDITIONS AND AGRICULTURE 2011 - LSMS11
+Niger,NE,NER,562,National,8,Dry latrines - Traditional latrine,0.091,NATIONAL SURVEY ON HOUSEHOLD LIVING  CONDITIONS AND AGRICULTURE 2011 - LSMS11
+Niger,NE,NER,562,National,9,Dry latrines - Pit latrine without slab/open pit,0.071,NATIONAL SURVEY ON HOUSEHOLD LIVING  CONDITIONS AND AGRICULTURE 2011 - LSMS11
+Niger,NE,NER,562,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,NATIONAL SURVEY ON HOUSEHOLD LIVING  CONDITIONS AND AGRICULTURE 2011 - LSMS11
+Niger,NE,NER,562,National,11,Dry latrines - Bucket latrine,0.0,NATIONAL SURVEY ON HOUSEHOLD LIVING  CONDITIONS AND AGRICULTURE 2011 - LSMS11
+Niger,NE,NER,562,National,12,Dry latrines - Other,0.0,NATIONAL SURVEY ON HOUSEHOLD LIVING  CONDITIONS AND AGRICULTURE 2011 - LSMS11
+Niger,NE,NER,562,National,13,Composting toilets,0.0,NATIONAL SURVEY ON HOUSEHOLD LIVING  CONDITIONS AND AGRICULTURE 2011 - LSMS11
+Niger,NE,NER,562,National,14,Other improved,0.0,NATIONAL SURVEY ON HOUSEHOLD LIVING  CONDITIONS AND AGRICULTURE 2011 - LSMS11
+Niger,NE,NER,562,National,15,"No facility, bush, field",0.727,NATIONAL SURVEY ON HOUSEHOLD LIVING  CONDITIONS AND AGRICULTURE 2011 - LSMS11
+Niger,NE,NER,562,National,16,Other unimproved,0.002,NATIONAL SURVEY ON HOUSEHOLD LIVING  CONDITIONS AND AGRICULTURE 2011 - LSMS11
+Niger,NE,NER,562,National,17,DK/missing information,0.0,NATIONAL SURVEY ON HOUSEHOLD LIVING  CONDITIONS AND AGRICULTURE 2011 - LSMS11
+Niger,NE,NER,562,Urban,1,Flush and pour flush - to piped sewer system,0.0,"Recensement General de la Population et de l’Habitat, 2012 - CEN12"
+Niger,NE,NER,562,Urban,2,Flush and pour flush - to septic tank,0.0,"Recensement General de la Population et de l’Habitat, 2012 - CEN12"
+Niger,NE,NER,562,Urban,3,Flush and pour flush - to pit,0.0,"Recensement General de la Population et de l’Habitat, 2012 - CEN12"
+Niger,NE,NER,562,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Recensement General de la Population et de l’Habitat, 2012 - CEN12"
+Niger,NE,NER,562,Urban,5,Flush and pour flush - to elsewhere,0.0,"Recensement General de la Population et de l’Habitat, 2012 - CEN12"
+Niger,NE,NER,562,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Recensement General de la Population et de l’Habitat, 2012 - CEN12"
+Niger,NE,NER,562,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.24,"Recensement General de la Population et de l’Habitat, 2012 - CEN12"
+Niger,NE,NER,562,Urban,8,Dry latrines - Traditional latrine,0.26,"Recensement General de la Population et de l’Habitat, 2012 - CEN12"
+Niger,NE,NER,562,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Recensement General de la Population et de l’Habitat, 2012 - CEN12"
+Niger,NE,NER,562,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Recensement General de la Population et de l’Habitat, 2012 - CEN12"
+Niger,NE,NER,562,Urban,11,Dry latrines - Bucket latrine,0.0,"Recensement General de la Population et de l’Habitat, 2012 - CEN12"
+Niger,NE,NER,562,Urban,12,Dry latrines - Other,0.0,"Recensement General de la Population et de l’Habitat, 2012 - CEN12"
+Niger,NE,NER,562,Urban,13,Composting toilets,0.0,"Recensement General de la Population et de l’Habitat, 2012 - CEN12"
+Niger,NE,NER,562,Urban,14,Other improved,0.003,"Recensement General de la Population et de l’Habitat, 2012 - CEN12"
+Niger,NE,NER,562,Urban,15,"No facility, bush, field",0.142,"Recensement General de la Population et de l’Habitat, 2012 - CEN12"
+Niger,NE,NER,562,Urban,16,Other unimproved,0.005,"Recensement General de la Population et de l’Habitat, 2012 - CEN12"
+Niger,NE,NER,562,Urban,17,DK/missing information,0.032,"Recensement General de la Population et de l’Habitat, 2012 - CEN12"
+Niger,NE,NER,562,Rural,1,Flush and pour flush - to piped sewer system,0.0,"Recensement General de la Population et de l’Habitat, 2012 - CEN12"
+Niger,NE,NER,562,Rural,2,Flush and pour flush - to septic tank,0.0,"Recensement General de la Population et de l’Habitat, 2012 - CEN12"
+Niger,NE,NER,562,Rural,3,Flush and pour flush - to pit,0.0,"Recensement General de la Population et de l’Habitat, 2012 - CEN12"
+Niger,NE,NER,562,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Recensement General de la Population et de l’Habitat, 2012 - CEN12"
+Niger,NE,NER,562,Rural,5,Flush and pour flush - to elsewhere,0.0,"Recensement General de la Population et de l’Habitat, 2012 - CEN12"
+Niger,NE,NER,562,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Recensement General de la Population et de l’Habitat, 2012 - CEN12"
+Niger,NE,NER,562,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.015,"Recensement General de la Population et de l’Habitat, 2012 - CEN12"
+Niger,NE,NER,562,Rural,8,Dry latrines - Traditional latrine,0.049,"Recensement General de la Population et de l’Habitat, 2012 - CEN12"
+Niger,NE,NER,562,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Recensement General de la Population et de l’Habitat, 2012 - CEN12"
+Niger,NE,NER,562,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Recensement General de la Population et de l’Habitat, 2012 - CEN12"
+Niger,NE,NER,562,Rural,11,Dry latrines - Bucket latrine,0.0,"Recensement General de la Population et de l’Habitat, 2012 - CEN12"
+Niger,NE,NER,562,Rural,12,Dry latrines - Other,0.0,"Recensement General de la Population et de l’Habitat, 2012 - CEN12"
+Niger,NE,NER,562,Rural,13,Composting toilets,0.0,"Recensement General de la Population et de l’Habitat, 2012 - CEN12"
+Niger,NE,NER,562,Rural,14,Other improved,0.001,"Recensement General de la Population et de l’Habitat, 2012 - CEN12"
+Niger,NE,NER,562,Rural,15,"No facility, bush, field",0.853,"Recensement General de la Population et de l’Habitat, 2012 - CEN12"
+Niger,NE,NER,562,Rural,16,Other unimproved,0.002,"Recensement General de la Population et de l’Habitat, 2012 - CEN12"
+Niger,NE,NER,562,Rural,17,DK/missing information,0.023,"Recensement General de la Population et de l’Habitat, 2012 - CEN12"
+Niger,NE,NER,562,National,1,Flush and pour flush - to piped sewer system,0.0,"Recensement General de la Population et de l’Habitat, 2012 - CEN12"
+Niger,NE,NER,562,National,2,Flush and pour flush - to septic tank,0.0,"Recensement General de la Population et de l’Habitat, 2012 - CEN12"
+Niger,NE,NER,562,National,3,Flush and pour flush - to pit,0.0,"Recensement General de la Population et de l’Habitat, 2012 - CEN12"
+Niger,NE,NER,562,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Recensement General de la Population et de l’Habitat, 2012 - CEN12"
+Niger,NE,NER,562,National,5,Flush and pour flush - to elsewhere,0.0,"Recensement General de la Population et de l’Habitat, 2012 - CEN12"
+Niger,NE,NER,562,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Recensement General de la Population et de l’Habitat, 2012 - CEN12"
+Niger,NE,NER,562,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.055,"Recensement General de la Population et de l’Habitat, 2012 - CEN12"
+Niger,NE,NER,562,National,8,Dry latrines - Traditional latrine,0.087,"Recensement General de la Population et de l’Habitat, 2012 - CEN12"
+Niger,NE,NER,562,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Recensement General de la Population et de l’Habitat, 2012 - CEN12"
+Niger,NE,NER,562,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Recensement General de la Population et de l’Habitat, 2012 - CEN12"
+Niger,NE,NER,562,National,11,Dry latrines - Bucket latrine,0.0,"Recensement General de la Population et de l’Habitat, 2012 - CEN12"
+Niger,NE,NER,562,National,12,Dry latrines - Other,0.0,"Recensement General de la Population et de l’Habitat, 2012 - CEN12"
+Niger,NE,NER,562,National,13,Composting toilets,0.0,"Recensement General de la Population et de l’Habitat, 2012 - CEN12"
+Niger,NE,NER,562,National,14,Other improved,0.001,"Recensement General de la Population et de l’Habitat, 2012 - CEN12"
+Niger,NE,NER,562,National,15,"No facility, bush, field",0.726,"Recensement General de la Population et de l’Habitat, 2012 - CEN12"
+Niger,NE,NER,562,National,16,Other unimproved,0.003,"Recensement General de la Population et de l’Habitat, 2012 - CEN12"
+Niger,NE,NER,562,National,17,DK/missing information,0.025,"Recensement General de la Population et de l’Habitat, 2012 - CEN12"
 Niger,NE,NER,562,Urban,1,Flush and pour flush - to piped sewer system,0.028,Enquête Démographique et de Santé et à Indicateurs Multiples (EDSN-MICS IV) 2012 - EDSN-MICS12
 Niger,NE,NER,562,Urban,2,Flush and pour flush - to septic tank,0.113,Enquête Démographique et de Santé et à Indicateurs Multiples (EDSN-MICS IV) 2012 - EDSN-MICS12
 Niger,NE,NER,562,Urban,3,Flush and pour flush - to pit,0.0,Enquête Démographique et de Santé et à Indicateurs Multiples (EDSN-MICS IV) 2012 - EDSN-MICS12
@@ -67,6 +288,134 @@ Niger,NE,NER,562,Rural,14,Other improved,0.0,Enquête Démographique et de Sant�
 Niger,NE,NER,562,Rural,15,"No facility, bush, field",0.835,Enquête Démographique et de Santé et à Indicateurs Multiples (EDSN-MICS IV) 2012 - EDSN-MICS12
 Niger,NE,NER,562,Rural,16,Other unimproved,0.0,Enquête Démographique et de Santé et à Indicateurs Multiples (EDSN-MICS IV) 2012 - EDSN-MICS12
 Niger,NE,NER,562,Rural,17,DK/missing information,0.0,Enquête Démographique et de Santé et à Indicateurs Multiples (EDSN-MICS IV) 2012 - EDSN-MICS12
+Niger,NE,NER,562,National,1,Flush and pour flush - to piped sewer system,0.005,Enquête Démographique et de Santé et à Indicateurs Multiples (EDSN-MICS IV) 2012 - EDSN-MICS12
+Niger,NE,NER,562,National,2,Flush and pour flush - to septic tank,0.023,Enquête Démographique et de Santé et à Indicateurs Multiples (EDSN-MICS IV) 2012 - EDSN-MICS12
+Niger,NE,NER,562,National,3,Flush and pour flush - to pit,0.0,Enquête Démographique et de Santé et à Indicateurs Multiples (EDSN-MICS IV) 2012 - EDSN-MICS12
+Niger,NE,NER,562,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquête Démographique et de Santé et à Indicateurs Multiples (EDSN-MICS IV) 2012 - EDSN-MICS12
+Niger,NE,NER,562,National,5,Flush and pour flush - to elsewhere,0.0,Enquête Démographique et de Santé et à Indicateurs Multiples (EDSN-MICS IV) 2012 - EDSN-MICS12
+Niger,NE,NER,562,National,6,Dry latrines - Ventilated Improved Pit latrine,0.018,Enquête Démographique et de Santé et à Indicateurs Multiples (EDSN-MICS IV) 2012 - EDSN-MICS12
+Niger,NE,NER,562,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.153,Enquête Démographique et de Santé et à Indicateurs Multiples (EDSN-MICS IV) 2012 - EDSN-MICS12
+Niger,NE,NER,562,National,8,Dry latrines - Traditional latrine,0.0,Enquête Démographique et de Santé et à Indicateurs Multiples (EDSN-MICS IV) 2012 - EDSN-MICS12
+Niger,NE,NER,562,National,9,Dry latrines - Pit latrine without slab/open pit,0.076,Enquête Démographique et de Santé et à Indicateurs Multiples (EDSN-MICS IV) 2012 - EDSN-MICS12
+Niger,NE,NER,562,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquête Démographique et de Santé et à Indicateurs Multiples (EDSN-MICS IV) 2012 - EDSN-MICS12
+Niger,NE,NER,562,National,11,Dry latrines - Bucket latrine,0.005,Enquête Démographique et de Santé et à Indicateurs Multiples (EDSN-MICS IV) 2012 - EDSN-MICS12
+Niger,NE,NER,562,National,12,Dry latrines - Other,0.0,Enquête Démographique et de Santé et à Indicateurs Multiples (EDSN-MICS IV) 2012 - EDSN-MICS12
+Niger,NE,NER,562,National,13,Composting toilets,0.0,Enquête Démographique et de Santé et à Indicateurs Multiples (EDSN-MICS IV) 2012 - EDSN-MICS12
+Niger,NE,NER,562,National,14,Other improved,0.0,Enquête Démographique et de Santé et à Indicateurs Multiples (EDSN-MICS IV) 2012 - EDSN-MICS12
+Niger,NE,NER,562,National,15,"No facility, bush, field",0.719,Enquête Démographique et de Santé et à Indicateurs Multiples (EDSN-MICS IV) 2012 - EDSN-MICS12
+Niger,NE,NER,562,National,16,Other unimproved,0.001,Enquête Démographique et de Santé et à Indicateurs Multiples (EDSN-MICS IV) 2012 - EDSN-MICS12
+Niger,NE,NER,562,National,17,DK/missing information,0.0,Enquête Démographique et de Santé et à Indicateurs Multiples (EDSN-MICS IV) 2012 - EDSN-MICS12
+Niger,NE,NER,562,Urban,1,Flush and pour flush - to piped sewer system,0.0,"l'Enquête Nationale sur les Conditions de Vie des Ménages et l'Agriculture, 2014-2015 - LSMS15"
+Niger,NE,NER,562,Urban,2,Flush and pour flush - to septic tank,0.0,"l'Enquête Nationale sur les Conditions de Vie des Ménages et l'Agriculture, 2014-2015 - LSMS15"
+Niger,NE,NER,562,Urban,3,Flush and pour flush - to pit,0.0,"l'Enquête Nationale sur les Conditions de Vie des Ménages et l'Agriculture, 2014-2015 - LSMS15"
+Niger,NE,NER,562,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"l'Enquête Nationale sur les Conditions de Vie des Ménages et l'Agriculture, 2014-2015 - LSMS15"
+Niger,NE,NER,562,Urban,5,Flush and pour flush - to elsewhere,0.0,"l'Enquête Nationale sur les Conditions de Vie des Ménages et l'Agriculture, 2014-2015 - LSMS15"
+Niger,NE,NER,562,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.332,"l'Enquête Nationale sur les Conditions de Vie des Ménages et l'Agriculture, 2014-2015 - LSMS15"
+Niger,NE,NER,562,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.32,"l'Enquête Nationale sur les Conditions de Vie des Ménages et l'Agriculture, 2014-2015 - LSMS15"
+Niger,NE,NER,562,Urban,8,Dry latrines - Traditional latrine,0.0,"l'Enquête Nationale sur les Conditions de Vie des Ménages et l'Agriculture, 2014-2015 - LSMS15"
+Niger,NE,NER,562,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.151,"l'Enquête Nationale sur les Conditions de Vie des Ménages et l'Agriculture, 2014-2015 - LSMS15"
+Niger,NE,NER,562,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"l'Enquête Nationale sur les Conditions de Vie des Ménages et l'Agriculture, 2014-2015 - LSMS15"
+Niger,NE,NER,562,Urban,11,Dry latrines - Bucket latrine,0.0,"l'Enquête Nationale sur les Conditions de Vie des Ménages et l'Agriculture, 2014-2015 - LSMS15"
+Niger,NE,NER,562,Urban,12,Dry latrines - Other,0.0,"l'Enquête Nationale sur les Conditions de Vie des Ménages et l'Agriculture, 2014-2015 - LSMS15"
+Niger,NE,NER,562,Urban,13,Composting toilets,0.0,"l'Enquête Nationale sur les Conditions de Vie des Ménages et l'Agriculture, 2014-2015 - LSMS15"
+Niger,NE,NER,562,Urban,14,Other improved,0.0,"l'Enquête Nationale sur les Conditions de Vie des Ménages et l'Agriculture, 2014-2015 - LSMS15"
+Niger,NE,NER,562,Urban,15,"No facility, bush, field",0.108,"l'Enquête Nationale sur les Conditions de Vie des Ménages et l'Agriculture, 2014-2015 - LSMS15"
+Niger,NE,NER,562,Urban,16,Other unimproved,0.001,"l'Enquête Nationale sur les Conditions de Vie des Ménages et l'Agriculture, 2014-2015 - LSMS15"
+Niger,NE,NER,562,Urban,17,DK/missing information,0.0,"l'Enquête Nationale sur les Conditions de Vie des Ménages et l'Agriculture, 2014-2015 - LSMS15"
+Niger,NE,NER,562,Rural,1,Flush and pour flush - to piped sewer system,0.0,"l'Enquête Nationale sur les Conditions de Vie des Ménages et l'Agriculture, 2014-2015 - LSMS15"
+Niger,NE,NER,562,Rural,2,Flush and pour flush - to septic tank,0.0,"l'Enquête Nationale sur les Conditions de Vie des Ménages et l'Agriculture, 2014-2015 - LSMS15"
+Niger,NE,NER,562,Rural,3,Flush and pour flush - to pit,0.0,"l'Enquête Nationale sur les Conditions de Vie des Ménages et l'Agriculture, 2014-2015 - LSMS15"
+Niger,NE,NER,562,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"l'Enquête Nationale sur les Conditions de Vie des Ménages et l'Agriculture, 2014-2015 - LSMS15"
+Niger,NE,NER,562,Rural,5,Flush and pour flush - to elsewhere,0.0,"l'Enquête Nationale sur les Conditions de Vie des Ménages et l'Agriculture, 2014-2015 - LSMS15"
+Niger,NE,NER,562,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.026,"l'Enquête Nationale sur les Conditions de Vie des Ménages et l'Agriculture, 2014-2015 - LSMS15"
+Niger,NE,NER,562,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.019,"l'Enquête Nationale sur les Conditions de Vie des Ménages et l'Agriculture, 2014-2015 - LSMS15"
+Niger,NE,NER,562,Rural,8,Dry latrines - Traditional latrine,0.0,"l'Enquête Nationale sur les Conditions de Vie des Ménages et l'Agriculture, 2014-2015 - LSMS15"
+Niger,NE,NER,562,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.051,"l'Enquête Nationale sur les Conditions de Vie des Ménages et l'Agriculture, 2014-2015 - LSMS15"
+Niger,NE,NER,562,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"l'Enquête Nationale sur les Conditions de Vie des Ménages et l'Agriculture, 2014-2015 - LSMS15"
+Niger,NE,NER,562,Rural,11,Dry latrines - Bucket latrine,0.0,"l'Enquête Nationale sur les Conditions de Vie des Ménages et l'Agriculture, 2014-2015 - LSMS15"
+Niger,NE,NER,562,Rural,12,Dry latrines - Other,0.0,"l'Enquête Nationale sur les Conditions de Vie des Ménages et l'Agriculture, 2014-2015 - LSMS15"
+Niger,NE,NER,562,Rural,13,Composting toilets,0.0,"l'Enquête Nationale sur les Conditions de Vie des Ménages et l'Agriculture, 2014-2015 - LSMS15"
+Niger,NE,NER,562,Rural,14,Other improved,0.0,"l'Enquête Nationale sur les Conditions de Vie des Ménages et l'Agriculture, 2014-2015 - LSMS15"
+Niger,NE,NER,562,Rural,15,"No facility, bush, field",0.897,"l'Enquête Nationale sur les Conditions de Vie des Ménages et l'Agriculture, 2014-2015 - LSMS15"
+Niger,NE,NER,562,Rural,16,Other unimproved,0.0,"l'Enquête Nationale sur les Conditions de Vie des Ménages et l'Agriculture, 2014-2015 - LSMS15"
+Niger,NE,NER,562,Rural,17,DK/missing information,0.001,"l'Enquête Nationale sur les Conditions de Vie des Ménages et l'Agriculture, 2014-2015 - LSMS15"
+Niger,NE,NER,562,National,1,Flush and pour flush - to piped sewer system,0.0,"l'Enquête Nationale sur les Conditions de Vie des Ménages et l'Agriculture, 2014-2015 - LSMS15"
+Niger,NE,NER,562,National,2,Flush and pour flush - to septic tank,0.0,"l'Enquête Nationale sur les Conditions de Vie des Ménages et l'Agriculture, 2014-2015 - LSMS15"
+Niger,NE,NER,562,National,3,Flush and pour flush - to pit,0.0,"l'Enquête Nationale sur les Conditions de Vie des Ménages et l'Agriculture, 2014-2015 - LSMS15"
+Niger,NE,NER,562,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"l'Enquête Nationale sur les Conditions de Vie des Ménages et l'Agriculture, 2014-2015 - LSMS15"
+Niger,NE,NER,562,National,5,Flush and pour flush - to elsewhere,0.0,"l'Enquête Nationale sur les Conditions de Vie des Ménages et l'Agriculture, 2014-2015 - LSMS15"
+Niger,NE,NER,562,National,6,Dry latrines - Ventilated Improved Pit latrine,0.075,"l'Enquête Nationale sur les Conditions de Vie des Ménages et l'Agriculture, 2014-2015 - LSMS15"
+Niger,NE,NER,562,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.068,"l'Enquête Nationale sur les Conditions de Vie des Ménages et l'Agriculture, 2014-2015 - LSMS15"
+Niger,NE,NER,562,National,8,Dry latrines - Traditional latrine,0.0,"l'Enquête Nationale sur les Conditions de Vie des Ménages et l'Agriculture, 2014-2015 - LSMS15"
+Niger,NE,NER,562,National,9,Dry latrines - Pit latrine without slab/open pit,0.067,"l'Enquête Nationale sur les Conditions de Vie des Ménages et l'Agriculture, 2014-2015 - LSMS15"
+Niger,NE,NER,562,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"l'Enquête Nationale sur les Conditions de Vie des Ménages et l'Agriculture, 2014-2015 - LSMS15"
+Niger,NE,NER,562,National,11,Dry latrines - Bucket latrine,0.0,"l'Enquête Nationale sur les Conditions de Vie des Ménages et l'Agriculture, 2014-2015 - LSMS15"
+Niger,NE,NER,562,National,12,Dry latrines - Other,0.0,"l'Enquête Nationale sur les Conditions de Vie des Ménages et l'Agriculture, 2014-2015 - LSMS15"
+Niger,NE,NER,562,National,13,Composting toilets,0.0,"l'Enquête Nationale sur les Conditions de Vie des Ménages et l'Agriculture, 2014-2015 - LSMS15"
+Niger,NE,NER,562,National,14,Other improved,0.0,"l'Enquête Nationale sur les Conditions de Vie des Ménages et l'Agriculture, 2014-2015 - LSMS15"
+Niger,NE,NER,562,National,15,"No facility, bush, field",0.769,"l'Enquête Nationale sur les Conditions de Vie des Ménages et l'Agriculture, 2014-2015 - LSMS15"
+Niger,NE,NER,562,National,16,Other unimproved,0.0,"l'Enquête Nationale sur les Conditions de Vie des Ménages et l'Agriculture, 2014-2015 - LSMS15"
+Niger,NE,NER,562,National,17,DK/missing information,0.001,"l'Enquête Nationale sur les Conditions de Vie des Ménages et l'Agriculture, 2014-2015 - LSMS15"
+Niger,NE,NER,562,Urban,1,Flush and pour flush - to piped sewer system,0.0,Etude Nationale d'Evalulation d'Indicateurs Socio-economiques et Demographiques - ENISED15
+Niger,NE,NER,562,Urban,2,Flush and pour flush - to septic tank,0.0,Etude Nationale d'Evalulation d'Indicateurs Socio-economiques et Demographiques - ENISED15
+Niger,NE,NER,562,Urban,3,Flush and pour flush - to pit,0.0,Etude Nationale d'Evalulation d'Indicateurs Socio-economiques et Demographiques - ENISED15
+Niger,NE,NER,562,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Etude Nationale d'Evalulation d'Indicateurs Socio-economiques et Demographiques - ENISED15
+Niger,NE,NER,562,Urban,5,Flush and pour flush - to elsewhere,0.0,Etude Nationale d'Evalulation d'Indicateurs Socio-economiques et Demographiques - ENISED15
+Niger,NE,NER,562,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Etude Nationale d'Evalulation d'Indicateurs Socio-economiques et Demographiques - ENISED15
+Niger,NE,NER,562,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.354,Etude Nationale d'Evalulation d'Indicateurs Socio-economiques et Demographiques - ENISED15
+Niger,NE,NER,562,Urban,8,Dry latrines - Traditional latrine,0.357,Etude Nationale d'Evalulation d'Indicateurs Socio-economiques et Demographiques - ENISED15
+Niger,NE,NER,562,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.196,Etude Nationale d'Evalulation d'Indicateurs Socio-economiques et Demographiques - ENISED15
+Niger,NE,NER,562,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.158,Etude Nationale d'Evalulation d'Indicateurs Socio-economiques et Demographiques - ENISED15
+Niger,NE,NER,562,Urban,8,Dry latrines - Traditional latrine,0.0,Etude Nationale d'Evalulation d'Indicateurs Socio-economiques et Demographiques - ENISED15
+Niger,NE,NER,562,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Etude Nationale d'Evalulation d'Indicateurs Socio-economiques et Demographiques - ENISED15
+Niger,NE,NER,562,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Etude Nationale d'Evalulation d'Indicateurs Socio-economiques et Demographiques - ENISED15
+Niger,NE,NER,562,Urban,11,Dry latrines - Bucket latrine,0.0,Etude Nationale d'Evalulation d'Indicateurs Socio-economiques et Demographiques - ENISED15
+Niger,NE,NER,562,Urban,12,Dry latrines - Other,0.0,Etude Nationale d'Evalulation d'Indicateurs Socio-economiques et Demographiques - ENISED15
+Niger,NE,NER,562,Urban,13,Composting toilets,0.0,Etude Nationale d'Evalulation d'Indicateurs Socio-economiques et Demographiques - ENISED15
+Niger,NE,NER,562,Urban,14,Other improved,0.0,Etude Nationale d'Evalulation d'Indicateurs Socio-economiques et Demographiques - ENISED15
+Niger,NE,NER,562,Urban,15,"No facility, bush, field",0.138,Etude Nationale d'Evalulation d'Indicateurs Socio-economiques et Demographiques - ENISED15
+Niger,NE,NER,562,Urban,16,Other unimproved,0.004,Etude Nationale d'Evalulation d'Indicateurs Socio-economiques et Demographiques - ENISED15
+Niger,NE,NER,562,Urban,17,DK/missing information,0.0,Etude Nationale d'Evalulation d'Indicateurs Socio-economiques et Demographiques - ENISED15
+Niger,NE,NER,562,Rural,1,Flush and pour flush - to piped sewer system,0.0,Etude Nationale d'Evalulation d'Indicateurs Socio-economiques et Demographiques - ENISED15
+Niger,NE,NER,562,Rural,2,Flush and pour flush - to septic tank,0.0,Etude Nationale d'Evalulation d'Indicateurs Socio-economiques et Demographiques - ENISED15
+Niger,NE,NER,562,Rural,3,Flush and pour flush - to pit,0.0,Etude Nationale d'Evalulation d'Indicateurs Socio-economiques et Demographiques - ENISED15
+Niger,NE,NER,562,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Etude Nationale d'Evalulation d'Indicateurs Socio-economiques et Demographiques - ENISED15
+Niger,NE,NER,562,Rural,5,Flush and pour flush - to elsewhere,0.0,Etude Nationale d'Evalulation d'Indicateurs Socio-economiques et Demographiques - ENISED15
+Niger,NE,NER,562,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Etude Nationale d'Evalulation d'Indicateurs Socio-economiques et Demographiques - ENISED15
+Niger,NE,NER,562,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.048,Etude Nationale d'Evalulation d'Indicateurs Socio-economiques et Demographiques - ENISED15
+Niger,NE,NER,562,Rural,8,Dry latrines - Traditional latrine,0.131,Etude Nationale d'Evalulation d'Indicateurs Socio-economiques et Demographiques - ENISED15
+Niger,NE,NER,562,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.034,Etude Nationale d'Evalulation d'Indicateurs Socio-economiques et Demographiques - ENISED15
+Niger,NE,NER,562,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.014,Etude Nationale d'Evalulation d'Indicateurs Socio-economiques et Demographiques - ENISED15
+Niger,NE,NER,562,Rural,8,Dry latrines - Traditional latrine,0.0,Etude Nationale d'Evalulation d'Indicateurs Socio-economiques et Demographiques - ENISED15
+Niger,NE,NER,562,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Etude Nationale d'Evalulation d'Indicateurs Socio-economiques et Demographiques - ENISED15
+Niger,NE,NER,562,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Etude Nationale d'Evalulation d'Indicateurs Socio-economiques et Demographiques - ENISED15
+Niger,NE,NER,562,Rural,11,Dry latrines - Bucket latrine,0.0,Etude Nationale d'Evalulation d'Indicateurs Socio-economiques et Demographiques - ENISED15
+Niger,NE,NER,562,Rural,12,Dry latrines - Other,0.0,Etude Nationale d'Evalulation d'Indicateurs Socio-economiques et Demographiques - ENISED15
+Niger,NE,NER,562,Rural,13,Composting toilets,0.0,Etude Nationale d'Evalulation d'Indicateurs Socio-economiques et Demographiques - ENISED15
+Niger,NE,NER,562,Rural,14,Other improved,0.0,Etude Nationale d'Evalulation d'Indicateurs Socio-economiques et Demographiques - ENISED15
+Niger,NE,NER,562,Rural,15,"No facility, bush, field",0.806,Etude Nationale d'Evalulation d'Indicateurs Socio-economiques et Demographiques - ENISED15
+Niger,NE,NER,562,Rural,16,Other unimproved,0.004,Etude Nationale d'Evalulation d'Indicateurs Socio-economiques et Demographiques - ENISED15
+Niger,NE,NER,562,Rural,17,DK/missing information,0.0,Etude Nationale d'Evalulation d'Indicateurs Socio-economiques et Demographiques - ENISED15
+Niger,NE,NER,562,National,1,Flush and pour flush - to piped sewer system,0.0,Etude Nationale d'Evalulation d'Indicateurs Socio-economiques et Demographiques - ENISED15
+Niger,NE,NER,562,National,2,Flush and pour flush - to septic tank,0.0,Etude Nationale d'Evalulation d'Indicateurs Socio-economiques et Demographiques - ENISED15
+Niger,NE,NER,562,National,3,Flush and pour flush - to pit,0.0,Etude Nationale d'Evalulation d'Indicateurs Socio-economiques et Demographiques - ENISED15
+Niger,NE,NER,562,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Etude Nationale d'Evalulation d'Indicateurs Socio-economiques et Demographiques - ENISED15
+Niger,NE,NER,562,National,5,Flush and pour flush - to elsewhere,0.0,Etude Nationale d'Evalulation d'Indicateurs Socio-economiques et Demographiques - ENISED15
+Niger,NE,NER,562,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Etude Nationale d'Evalulation d'Indicateurs Socio-economiques et Demographiques - ENISED15
+Niger,NE,NER,562,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.102,Etude Nationale d'Evalulation d'Indicateurs Socio-economiques et Demographiques - ENISED15
+Niger,NE,NER,562,National,8,Dry latrines - Traditional latrine,0.171,Etude Nationale d'Evalulation d'Indicateurs Socio-economiques et Demographiques - ENISED15
+Niger,NE,NER,562,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.062,Etude Nationale d'Evalulation d'Indicateurs Socio-economiques et Demographiques - ENISED15
+Niger,NE,NER,562,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.04,Etude Nationale d'Evalulation d'Indicateurs Socio-economiques et Demographiques - ENISED15
+Niger,NE,NER,562,National,8,Dry latrines - Traditional latrine,0.0,Etude Nationale d'Evalulation d'Indicateurs Socio-economiques et Demographiques - ENISED15
+Niger,NE,NER,562,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Etude Nationale d'Evalulation d'Indicateurs Socio-economiques et Demographiques - ENISED15
+Niger,NE,NER,562,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Etude Nationale d'Evalulation d'Indicateurs Socio-economiques et Demographiques - ENISED15
+Niger,NE,NER,562,National,11,Dry latrines - Bucket latrine,0.0,Etude Nationale d'Evalulation d'Indicateurs Socio-economiques et Demographiques - ENISED15
+Niger,NE,NER,562,National,12,Dry latrines - Other,0.0,Etude Nationale d'Evalulation d'Indicateurs Socio-economiques et Demographiques - ENISED15
+Niger,NE,NER,562,National,13,Composting toilets,0.0,Etude Nationale d'Evalulation d'Indicateurs Socio-economiques et Demographiques - ENISED15
+Niger,NE,NER,562,National,14,Other improved,0.0,Etude Nationale d'Evalulation d'Indicateurs Socio-economiques et Demographiques - ENISED15
+Niger,NE,NER,562,National,15,"No facility, bush, field",0.687,Etude Nationale d'Evalulation d'Indicateurs Socio-economiques et Demographiques - ENISED15
+Niger,NE,NER,562,National,16,Other unimproved,0.004,Etude Nationale d'Evalulation d'Indicateurs Socio-economiques et Demographiques - ENISED15
+Niger,NE,NER,562,National,17,DK/missing information,0.0,Etude Nationale d'Evalulation d'Indicateurs Socio-economiques et Demographiques - ENISED15
 Niger,NE,NER,562,Urban,1,Flush and pour flush - to piped sewer system,0.045,Performance Monitoring and Accountability - PMA16
 Niger,NE,NER,562,Urban,2,Flush and pour flush - to septic tank,0.148,Performance Monitoring and Accountability - PMA16
 Niger,NE,NER,562,Urban,3,Flush and pour flush - to pit,0.0,Performance Monitoring and Accountability - PMA16
@@ -101,6 +450,23 @@ Niger,NE,NER,562,Rural,14,Other improved,0.0,Performance Monitoring and Accounta
 Niger,NE,NER,562,Rural,15,"No facility, bush, field",0.731,Performance Monitoring and Accountability - PMA16
 Niger,NE,NER,562,Rural,16,Other unimproved,0.008,Performance Monitoring and Accountability - PMA16
 Niger,NE,NER,562,Rural,17,DK/missing information,0.0,Performance Monitoring and Accountability - PMA16
+Niger,NE,NER,562,National,1,Flush and pour flush - to piped sewer system,0.011,Performance Monitoring and Accountability - PMA16
+Niger,NE,NER,562,National,2,Flush and pour flush - to septic tank,0.045,Performance Monitoring and Accountability - PMA16
+Niger,NE,NER,562,National,3,Flush and pour flush - to pit,0.0,Performance Monitoring and Accountability - PMA16
+Niger,NE,NER,562,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Performance Monitoring and Accountability - PMA16
+Niger,NE,NER,562,National,5,Flush and pour flush - to elsewhere,0.007,Performance Monitoring and Accountability - PMA16
+Niger,NE,NER,562,National,6,Dry latrines - Ventilated Improved Pit latrine,0.013,Performance Monitoring and Accountability - PMA16
+Niger,NE,NER,562,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.22,Performance Monitoring and Accountability - PMA16
+Niger,NE,NER,562,National,8,Dry latrines - Traditional latrine,0.0,Performance Monitoring and Accountability - PMA16
+Niger,NE,NER,562,National,9,Dry latrines - Pit latrine without slab/open pit,0.07,Performance Monitoring and Accountability - PMA16
+Niger,NE,NER,562,National,10,Dry latrines - Hanging toilet/hanging latrine,0.003,Performance Monitoring and Accountability - PMA16
+Niger,NE,NER,562,National,11,Dry latrines - Bucket latrine,0.0,Performance Monitoring and Accountability - PMA16
+Niger,NE,NER,562,National,12,Dry latrines - Other,0.0,Performance Monitoring and Accountability - PMA16
+Niger,NE,NER,562,National,13,Composting toilets,0.001,Performance Monitoring and Accountability - PMA16
+Niger,NE,NER,562,National,14,Other improved,0.0,Performance Monitoring and Accountability - PMA16
+Niger,NE,NER,562,National,15,"No facility, bush, field",0.622,Performance Monitoring and Accountability - PMA16
+Niger,NE,NER,562,National,16,Other unimproved,0.007,Performance Monitoring and Accountability - PMA16
+Niger,NE,NER,562,National,17,DK/missing information,0.0,Performance Monitoring and Accountability - PMA16
 Niger,NE,NER,562,Urban,1,Flush and pour flush - to piped sewer system,0.032,Performance Monitoring and Accountability - PMA17
 Niger,NE,NER,562,Urban,2,Flush and pour flush - to septic tank,0.106,Performance Monitoring and Accountability - PMA17
 Niger,NE,NER,562,Urban,3,Flush and pour flush - to pit,0.095,Performance Monitoring and Accountability - PMA17
@@ -135,3 +501,20 @@ Niger,NE,NER,562,Rural,14,Other improved,0.0,Performance Monitoring and Accounta
 Niger,NE,NER,562,Rural,15,"No facility, bush, field",0.734,Performance Monitoring and Accountability - PMA17
 Niger,NE,NER,562,Rural,16,Other unimproved,0.002,Performance Monitoring and Accountability - PMA17
 Niger,NE,NER,562,Rural,17,DK/missing information,0.005,Performance Monitoring and Accountability - PMA17
+Niger,NE,NER,562,National,1,Flush and pour flush - to piped sewer system,0.006,Performance Monitoring and Accountability - PMA17
+Niger,NE,NER,562,National,2,Flush and pour flush - to septic tank,0.02,Performance Monitoring and Accountability - PMA17
+Niger,NE,NER,562,National,3,Flush and pour flush - to pit,0.037,Performance Monitoring and Accountability - PMA17
+Niger,NE,NER,562,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.001,Performance Monitoring and Accountability - PMA17
+Niger,NE,NER,562,National,5,Flush and pour flush - to elsewhere,0.023,Performance Monitoring and Accountability - PMA17
+Niger,NE,NER,562,National,6,Dry latrines - Ventilated Improved Pit latrine,0.005,Performance Monitoring and Accountability - PMA17
+Niger,NE,NER,562,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.191,Performance Monitoring and Accountability - PMA17
+Niger,NE,NER,562,National,8,Dry latrines - Traditional latrine,0.0,Performance Monitoring and Accountability - PMA17
+Niger,NE,NER,562,National,9,Dry latrines - Pit latrine without slab/open pit,0.088,Performance Monitoring and Accountability - PMA17
+Niger,NE,NER,562,National,10,Dry latrines - Hanging toilet/hanging latrine,0.001,Performance Monitoring and Accountability - PMA17
+Niger,NE,NER,562,National,11,Dry latrines - Bucket latrine,0.0,Performance Monitoring and Accountability - PMA17
+Niger,NE,NER,562,National,12,Dry latrines - Other,0.0,Performance Monitoring and Accountability - PMA17
+Niger,NE,NER,562,National,13,Composting toilets,0.0,Performance Monitoring and Accountability - PMA17
+Niger,NE,NER,562,National,14,Other improved,0.0,Performance Monitoring and Accountability - PMA17
+Niger,NE,NER,562,National,15,"No facility, bush, field",0.621,Performance Monitoring and Accountability - PMA17
+Niger,NE,NER,562,National,16,Other unimproved,0.003,Performance Monitoring and Accountability - PMA17
+Niger,NE,NER,562,National,17,DK/missing information,0.004,Performance Monitoring and Accountability - PMA17

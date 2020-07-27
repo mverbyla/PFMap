@@ -1,4 +1,106 @@
 country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+Lesotho,LS,LSO,426,Urban,1,Flush and pour flush - to piped sewer system,0.0,Multiple Indicator Cluster Survey - MICS00
+Lesotho,LS,LSO,426,Urban,2,Flush and pour flush - to septic tank,0.0,Multiple Indicator Cluster Survey - MICS00
+Lesotho,LS,LSO,426,Urban,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Lesotho,LS,LSO,426,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS00
+Lesotho,LS,LSO,426,Urban,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS00
+Lesotho,LS,LSO,426,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.369,Multiple Indicator Cluster Survey - MICS00
+Lesotho,LS,LSO,426,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Lesotho,LS,LSO,426,Urban,8,Dry latrines - Traditional latrine,0.44,Multiple Indicator Cluster Survey - MICS00
+Lesotho,LS,LSO,426,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.012,Multiple Indicator Cluster Survey - MICS00
+Lesotho,LS,LSO,426,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Lesotho,LS,LSO,426,Urban,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Lesotho,LS,LSO,426,Urban,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS00
+Lesotho,LS,LSO,426,Urban,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS00
+Lesotho,LS,LSO,426,Urban,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS00
+Lesotho,LS,LSO,426,Urban,15,"No facility, bush, field",0.102,Multiple Indicator Cluster Survey - MICS00
+Lesotho,LS,LSO,426,Urban,16,Other unimproved,0.007,Multiple Indicator Cluster Survey - MICS00
+Lesotho,LS,LSO,426,Urban,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS00
+Lesotho,LS,LSO,426,Rural,1,Flush and pour flush - to piped sewer system,0.0,Multiple Indicator Cluster Survey - MICS00
+Lesotho,LS,LSO,426,Rural,2,Flush and pour flush - to septic tank,0.0,Multiple Indicator Cluster Survey - MICS00
+Lesotho,LS,LSO,426,Rural,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Lesotho,LS,LSO,426,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS00
+Lesotho,LS,LSO,426,Rural,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS00
+Lesotho,LS,LSO,426,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.125,Multiple Indicator Cluster Survey - MICS00
+Lesotho,LS,LSO,426,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Lesotho,LS,LSO,426,Rural,8,Dry latrines - Traditional latrine,0.312,Multiple Indicator Cluster Survey - MICS00
+Lesotho,LS,LSO,426,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.03,Multiple Indicator Cluster Survey - MICS00
+Lesotho,LS,LSO,426,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Lesotho,LS,LSO,426,Rural,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Lesotho,LS,LSO,426,Rural,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS00
+Lesotho,LS,LSO,426,Rural,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS00
+Lesotho,LS,LSO,426,Rural,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS00
+Lesotho,LS,LSO,426,Rural,15,"No facility, bush, field",0.484,Multiple Indicator Cluster Survey - MICS00
+Lesotho,LS,LSO,426,Rural,16,Other unimproved,0.044,Multiple Indicator Cluster Survey - MICS00
+Lesotho,LS,LSO,426,Rural,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS00
+Lesotho,LS,LSO,426,National,1,Flush and pour flush - to piped sewer system,0.0,Multiple Indicator Cluster Survey - MICS00
+Lesotho,LS,LSO,426,National,2,Flush and pour flush - to septic tank,0.0,Multiple Indicator Cluster Survey - MICS00
+Lesotho,LS,LSO,426,National,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Lesotho,LS,LSO,426,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS00
+Lesotho,LS,LSO,426,National,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS00
+Lesotho,LS,LSO,426,National,6,Dry latrines - Ventilated Improved Pit latrine,0.178,Multiple Indicator Cluster Survey - MICS00
+Lesotho,LS,LSO,426,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Lesotho,LS,LSO,426,National,8,Dry latrines - Traditional latrine,0.34,Multiple Indicator Cluster Survey - MICS00
+Lesotho,LS,LSO,426,National,9,Dry latrines - Pit latrine without slab/open pit,0.026,Multiple Indicator Cluster Survey - MICS00
+Lesotho,LS,LSO,426,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Lesotho,LS,LSO,426,National,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Lesotho,LS,LSO,426,National,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS00
+Lesotho,LS,LSO,426,National,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS00
+Lesotho,LS,LSO,426,National,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS00
+Lesotho,LS,LSO,426,National,15,"No facility, bush, field",0.401,Multiple Indicator Cluster Survey - MICS00
+Lesotho,LS,LSO,426,National,16,Other unimproved,0.036,Multiple Indicator Cluster Survey - MICS00
+Lesotho,LS,LSO,426,National,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS00
+Lesotho,LS,LSO,426,Urban,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS04
+Lesotho,LS,LSO,426,Urban,2,Flush and pour flush - to septic tank,0.0,Demographic and Health Survey - DHS04
+Lesotho,LS,LSO,426,Urban,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS04
+Lesotho,LS,LSO,426,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS04
+Lesotho,LS,LSO,426,Urban,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS04
+Lesotho,LS,LSO,426,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.407,Demographic and Health Survey - DHS04
+Lesotho,LS,LSO,426,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS04
+Lesotho,LS,LSO,426,Urban,8,Dry latrines - Traditional latrine,0.444,Demographic and Health Survey - DHS04
+Lesotho,LS,LSO,426,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Survey - DHS04
+Lesotho,LS,LSO,426,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS04
+Lesotho,LS,LSO,426,Urban,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS04
+Lesotho,LS,LSO,426,Urban,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS04
+Lesotho,LS,LSO,426,Urban,13,Composting toilets,0.0,Demographic and Health Survey - DHS04
+Lesotho,LS,LSO,426,Urban,14,Other improved,0.0,Demographic and Health Survey - DHS04
+Lesotho,LS,LSO,426,Urban,15,"No facility, bush, field",0.071,Demographic and Health Survey - DHS04
+Lesotho,LS,LSO,426,Urban,16,Other unimproved,0.0,Demographic and Health Survey - DHS04
+Lesotho,LS,LSO,426,Urban,17,DK/missing information,0.001,Demographic and Health Survey - DHS04
+Lesotho,LS,LSO,426,Rural,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS04
+Lesotho,LS,LSO,426,Rural,2,Flush and pour flush - to septic tank,0.0,Demographic and Health Survey - DHS04
+Lesotho,LS,LSO,426,Rural,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS04
+Lesotho,LS,LSO,426,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS04
+Lesotho,LS,LSO,426,Rural,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS04
+Lesotho,LS,LSO,426,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.157,Demographic and Health Survey - DHS04
+Lesotho,LS,LSO,426,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS04
+Lesotho,LS,LSO,426,Rural,8,Dry latrines - Traditional latrine,0.297,Demographic and Health Survey - DHS04
+Lesotho,LS,LSO,426,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Survey - DHS04
+Lesotho,LS,LSO,426,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS04
+Lesotho,LS,LSO,426,Rural,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS04
+Lesotho,LS,LSO,426,Rural,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS04
+Lesotho,LS,LSO,426,Rural,13,Composting toilets,0.0,Demographic and Health Survey - DHS04
+Lesotho,LS,LSO,426,Rural,14,Other improved,0.0,Demographic and Health Survey - DHS04
+Lesotho,LS,LSO,426,Rural,15,"No facility, bush, field",0.544,Demographic and Health Survey - DHS04
+Lesotho,LS,LSO,426,Rural,16,Other unimproved,0.0,Demographic and Health Survey - DHS04
+Lesotho,LS,LSO,426,Rural,17,DK/missing information,0.001,Demographic and Health Survey - DHS04
+Lesotho,LS,LSO,426,National,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS04
+Lesotho,LS,LSO,426,National,2,Flush and pour flush - to septic tank,0.0,Demographic and Health Survey - DHS04
+Lesotho,LS,LSO,426,National,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS04
+Lesotho,LS,LSO,426,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS04
+Lesotho,LS,LSO,426,National,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS04
+Lesotho,LS,LSO,426,National,6,Dry latrines - Ventilated Improved Pit latrine,0.216,Demographic and Health Survey - DHS04
+Lesotho,LS,LSO,426,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS04
+Lesotho,LS,LSO,426,National,8,Dry latrines - Traditional latrine,0.332,Demographic and Health Survey - DHS04
+Lesotho,LS,LSO,426,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Survey - DHS04
+Lesotho,LS,LSO,426,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS04
+Lesotho,LS,LSO,426,National,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS04
+Lesotho,LS,LSO,426,National,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS04
+Lesotho,LS,LSO,426,National,13,Composting toilets,0.0,Demographic and Health Survey - DHS04
+Lesotho,LS,LSO,426,National,14,Other improved,0.0,Demographic and Health Survey - DHS04
+Lesotho,LS,LSO,426,National,15,"No facility, bush, field",0.432,Demographic and Health Survey - DHS04
+Lesotho,LS,LSO,426,National,16,Other unimproved,0.0,Demographic and Health Survey - DHS04
+Lesotho,LS,LSO,426,National,17,DK/missing information,0.001,Demographic and Health Survey - DHS04
 Lesotho,LS,LSO,426,Urban,1,Flush and pour flush - to piped sewer system,0.058,"Census, 2006 - CEN06"
 Lesotho,LS,LSO,426,Urban,2,Flush and pour flush - to septic tank,0.026,"Census, 2006 - CEN06"
 Lesotho,LS,LSO,426,Urban,3,Flush and pour flush - to pit,0.008,"Census, 2006 - CEN06"
@@ -33,6 +135,23 @@ Lesotho,LS,LSO,426,Rural,14,Other improved,0.0,"Census, 2006 - CEN06"
 Lesotho,LS,LSO,426,Rural,15,"No facility, bush, field",0.545,"Census, 2006 - CEN06"
 Lesotho,LS,LSO,426,Rural,16,Other unimproved,0.0,"Census, 2006 - CEN06"
 Lesotho,LS,LSO,426,Rural,17,DK/missing information,0.0,"Census, 2006 - CEN06"
+Lesotho,LS,LSO,426,National,1,Flush and pour flush - to piped sewer system,0.021,"Census, 2006 - CEN06"
+Lesotho,LS,LSO,426,National,2,Flush and pour flush - to septic tank,0.01,"Census, 2006 - CEN06"
+Lesotho,LS,LSO,426,National,3,Flush and pour flush - to pit,0.006,"Census, 2006 - CEN06"
+Lesotho,LS,LSO,426,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Census, 2006 - CEN06"
+Lesotho,LS,LSO,426,National,5,Flush and pour flush - to elsewhere,0.0,"Census, 2006 - CEN06"
+Lesotho,LS,LSO,426,National,6,Dry latrines - Ventilated Improved Pit latrine,0.227,"Census, 2006 - CEN06"
+Lesotho,LS,LSO,426,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Census, 2006 - CEN06"
+Lesotho,LS,LSO,426,National,8,Dry latrines - Traditional latrine,0.319,"Census, 2006 - CEN06"
+Lesotho,LS,LSO,426,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Census, 2006 - CEN06"
+Lesotho,LS,LSO,426,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Census, 2006 - CEN06"
+Lesotho,LS,LSO,426,National,11,Dry latrines - Bucket latrine,0.0,"Census, 2006 - CEN06"
+Lesotho,LS,LSO,426,National,12,Dry latrines - Other,0.0,"Census, 2006 - CEN06"
+Lesotho,LS,LSO,426,National,13,Composting toilets,0.0,"Census, 2006 - CEN06"
+Lesotho,LS,LSO,426,National,14,Other improved,0.0,"Census, 2006 - CEN06"
+Lesotho,LS,LSO,426,National,15,"No facility, bush, field",0.419,"Census, 2006 - CEN06"
+Lesotho,LS,LSO,426,National,16,Other unimproved,0.0,"Census, 2006 - CEN06"
+Lesotho,LS,LSO,426,National,17,DK/missing information,0.0,"Census, 2006 - CEN06"
 Lesotho,LS,LSO,426,Urban,1,Flush and pour flush - to piped sewer system,0.035,Demographic and Health Survey - DHS09
 Lesotho,LS,LSO,426,Urban,2,Flush and pour flush - to septic tank,0.033,Demographic and Health Survey - DHS09
 Lesotho,LS,LSO,426,Urban,3,Flush and pour flush - to pit,0.003,Demographic and Health Survey - DHS09
@@ -69,6 +188,24 @@ Lesotho,LS,LSO,426,Rural,14,Other improved,0.0,Demographic and Health Survey - D
 Lesotho,LS,LSO,426,Rural,15,"No facility, bush, field",0.454,Demographic and Health Survey - DHS09
 Lesotho,LS,LSO,426,Rural,16,Other unimproved,0.004,Demographic and Health Survey - DHS09
 Lesotho,LS,LSO,426,Rural,17,DK/missing information,0.002,Demographic and Health Survey - DHS09
+Lesotho,LS,LSO,426,National,1,Flush and pour flush - to piped sewer system,0.009,Demographic and Health Survey - DHS09
+Lesotho,LS,LSO,426,National,2,Flush and pour flush - to septic tank,0.009,Demographic and Health Survey - DHS09
+Lesotho,LS,LSO,426,National,3,Flush and pour flush - to pit,0.001,Demographic and Health Survey - DHS09
+Lesotho,LS,LSO,426,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.001,Demographic and Health Survey - DHS09
+Lesotho,LS,LSO,426,National,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS09
+Lesotho,LS,LSO,426,National,6,Dry latrines - Ventilated Improved Pit latrine,0.114,Demographic and Health Survey - DHS09
+Lesotho,LS,LSO,426,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.197,Demographic and Health Survey - DHS09
+Lesotho,LS,LSO,426,National,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS09
+Lesotho,LS,LSO,426,National,9,Dry latrines - Pit latrine without slab/open pit,0.28,Demographic and Health Survey - DHS09
+Lesotho,LS,LSO,426,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS09
+Lesotho,LS,LSO,426,National,11,Dry latrines - Bucket latrine,0.001,Demographic and Health Survey - DHS09
+Lesotho,LS,LSO,426,National,11,Dry latrines - Bucket latrine,0.001,Demographic and Health Survey - DHS09
+Lesotho,LS,LSO,426,National,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS09
+Lesotho,LS,LSO,426,National,13,Composting toilets,0.027,Demographic and Health Survey - DHS09
+Lesotho,LS,LSO,426,National,14,Other improved,0.0,Demographic and Health Survey - DHS09
+Lesotho,LS,LSO,426,National,15,"No facility, bush, field",0.356,Demographic and Health Survey - DHS09
+Lesotho,LS,LSO,426,National,16,Other unimproved,0.004,Demographic and Health Survey - DHS09
+Lesotho,LS,LSO,426,National,17,DK/missing information,0.001,Demographic and Health Survey - DHS09
 Lesotho,LS,LSO,426,Urban,1,Flush and pour flush - to piped sewer system,0.069,Continuous Multi-Purpose Household Survey CMS 2011-2012 3rd quarter - CMS12
 Lesotho,LS,LSO,426,Urban,2,Flush and pour flush - to septic tank,0.019,Continuous Multi-Purpose Household Survey CMS 2011-2012 3rd quarter - CMS12
 Lesotho,LS,LSO,426,Urban,3,Flush and pour flush - to pit,0.023,Continuous Multi-Purpose Household Survey CMS 2011-2012 3rd quarter - CMS12
@@ -111,6 +248,23 @@ Lesotho,LS,LSO,426,Rural,14,Other improved,0.0,Continuous Multi-Purpose Househol
 Lesotho,LS,LSO,426,Rural,15,"No facility, bush, field",0.426,Continuous Multi-Purpose Household Survey CMS 2011-2012 3rd quarter - CMS12
 Lesotho,LS,LSO,426,Rural,16,Other unimproved,0.041,Continuous Multi-Purpose Household Survey CMS 2011-2012 3rd quarter - CMS12
 Lesotho,LS,LSO,426,Rural,17,DK/missing information,0.0,Continuous Multi-Purpose Household Survey CMS 2011-2012 3rd quarter - CMS12
+Lesotho,LS,LSO,426,National,1,Flush and pour flush - to piped sewer system,0.0,Continuous Multi-Purpose Household Survey CMS 2011-2012 3rd quarter - CMS12
+Lesotho,LS,LSO,426,National,2,Flush and pour flush - to septic tank,0.0,Continuous Multi-Purpose Household Survey CMS 2011-2012 3rd quarter - CMS12
+Lesotho,LS,LSO,426,National,3,Flush and pour flush - to pit,0.0,Continuous Multi-Purpose Household Survey CMS 2011-2012 3rd quarter - CMS12
+Lesotho,LS,LSO,426,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Continuous Multi-Purpose Household Survey CMS 2011-2012 3rd quarter - CMS12
+Lesotho,LS,LSO,426,National,5,Flush and pour flush - to elsewhere,0.0,Continuous Multi-Purpose Household Survey CMS 2011-2012 3rd quarter - CMS12
+Lesotho,LS,LSO,426,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Continuous Multi-Purpose Household Survey CMS 2011-2012 3rd quarter - CMS12
+Lesotho,LS,LSO,426,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Continuous Multi-Purpose Household Survey CMS 2011-2012 3rd quarter - CMS12
+Lesotho,LS,LSO,426,National,8,Dry latrines - Traditional latrine,0.0,Continuous Multi-Purpose Household Survey CMS 2011-2012 3rd quarter - CMS12
+Lesotho,LS,LSO,426,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Continuous Multi-Purpose Household Survey CMS 2011-2012 3rd quarter - CMS12
+Lesotho,LS,LSO,426,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Continuous Multi-Purpose Household Survey CMS 2011-2012 3rd quarter - CMS12
+Lesotho,LS,LSO,426,National,11,Dry latrines - Bucket latrine,0.0,Continuous Multi-Purpose Household Survey CMS 2011-2012 3rd quarter - CMS12
+Lesotho,LS,LSO,426,National,12,Dry latrines - Other,0.0,Continuous Multi-Purpose Household Survey CMS 2011-2012 3rd quarter - CMS12
+Lesotho,LS,LSO,426,National,13,Composting toilets,0.0,Continuous Multi-Purpose Household Survey CMS 2011-2012 3rd quarter - CMS12
+Lesotho,LS,LSO,426,National,14,Other improved,0.0,Continuous Multi-Purpose Household Survey CMS 2011-2012 3rd quarter - CMS12
+Lesotho,LS,LSO,426,National,15,"No facility, bush, field",0.0,Continuous Multi-Purpose Household Survey CMS 2011-2012 3rd quarter - CMS12
+Lesotho,LS,LSO,426,National,16,Other unimproved,0.0,Continuous Multi-Purpose Household Survey CMS 2011-2012 3rd quarter - CMS12
+Lesotho,LS,LSO,426,National,17,DK/missing information,0.0,Continuous Multi-Purpose Household Survey CMS 2011-2012 3rd quarter - CMS12
 Lesotho,LS,LSO,426,Urban,1,Flush and pour flush - to piped sewer system,0.04,"Demographic and Health Survey, 2014 - DHS14"
 Lesotho,LS,LSO,426,Urban,2,Flush and pour flush - to septic tank,0.032,"Demographic and Health Survey, 2014 - DHS14"
 Lesotho,LS,LSO,426,Urban,3,Flush and pour flush - to pit,0.0,"Demographic and Health Survey, 2014 - DHS14"
@@ -145,6 +299,23 @@ Lesotho,LS,LSO,426,Rural,14,Other improved,0.0,"Demographic and Health Survey, 2
 Lesotho,LS,LSO,426,Rural,15,"No facility, bush, field",0.376,"Demographic and Health Survey, 2014 - DHS14"
 Lesotho,LS,LSO,426,Rural,16,Other unimproved,0.0,"Demographic and Health Survey, 2014 - DHS14"
 Lesotho,LS,LSO,426,Rural,17,DK/missing information,0.0,"Demographic and Health Survey, 2014 - DHS14"
+Lesotho,LS,LSO,426,National,1,Flush and pour flush - to piped sewer system,0.011,"Demographic and Health Survey, 2014 - DHS14"
+Lesotho,LS,LSO,426,National,2,Flush and pour flush - to septic tank,0.01,"Demographic and Health Survey, 2014 - DHS14"
+Lesotho,LS,LSO,426,National,3,Flush and pour flush - to pit,0.0,"Demographic and Health Survey, 2014 - DHS14"
+Lesotho,LS,LSO,426,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Demographic and Health Survey, 2014 - DHS14"
+Lesotho,LS,LSO,426,National,5,Flush and pour flush - to elsewhere,0.001,"Demographic and Health Survey, 2014 - DHS14"
+Lesotho,LS,LSO,426,National,6,Dry latrines - Ventilated Improved Pit latrine,0.163,"Demographic and Health Survey, 2014 - DHS14"
+Lesotho,LS,LSO,426,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.516,"Demographic and Health Survey, 2014 - DHS14"
+Lesotho,LS,LSO,426,National,8,Dry latrines - Traditional latrine,0.0,"Demographic and Health Survey, 2014 - DHS14"
+Lesotho,LS,LSO,426,National,9,Dry latrines - Pit latrine without slab/open pit,0.012,"Demographic and Health Survey, 2014 - DHS14"
+Lesotho,LS,LSO,426,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Demographic and Health Survey, 2014 - DHS14"
+Lesotho,LS,LSO,426,National,11,Dry latrines - Bucket latrine,0.0,"Demographic and Health Survey, 2014 - DHS14"
+Lesotho,LS,LSO,426,National,12,Dry latrines - Other,0.0,"Demographic and Health Survey, 2014 - DHS14"
+Lesotho,LS,LSO,426,National,13,Composting toilets,0.0,"Demographic and Health Survey, 2014 - DHS14"
+Lesotho,LS,LSO,426,National,14,Other improved,0.0,"Demographic and Health Survey, 2014 - DHS14"
+Lesotho,LS,LSO,426,National,15,"No facility, bush, field",0.286,"Demographic and Health Survey, 2014 - DHS14"
+Lesotho,LS,LSO,426,National,16,Other unimproved,0.0,"Demographic and Health Survey, 2014 - DHS14"
+Lesotho,LS,LSO,426,National,17,DK/missing information,0.0,"Demographic and Health Survey, 2014 - DHS14"
 Lesotho,LS,LSO,426,Urban,1,Flush and pour flush - to piped sewer system,0.026,Continuous Multi-purpose Survey - CMS14
 Lesotho,LS,LSO,426,Urban,2,Flush and pour flush - to septic tank,0.035,Continuous Multi-purpose Survey - CMS14
 Lesotho,LS,LSO,426,Urban,3,Flush and pour flush - to pit,0.012,Continuous Multi-purpose Survey - CMS14
@@ -179,6 +350,23 @@ Lesotho,LS,LSO,426,Rural,14,Other improved,0.0,Continuous Multi-purpose Survey -
 Lesotho,LS,LSO,426,Rural,15,"No facility, bush, field",0.384,Continuous Multi-purpose Survey - CMS14
 Lesotho,LS,LSO,426,Rural,16,Other unimproved,0.0,Continuous Multi-purpose Survey - CMS14
 Lesotho,LS,LSO,426,Rural,17,DK/missing information,0.0,Continuous Multi-purpose Survey - CMS14
+Lesotho,LS,LSO,426,National,1,Flush and pour flush - to piped sewer system,0.01,Continuous Multi-purpose Survey - CMS14
+Lesotho,LS,LSO,426,National,2,Flush and pour flush - to septic tank,0.014,Continuous Multi-purpose Survey - CMS14
+Lesotho,LS,LSO,426,National,3,Flush and pour flush - to pit,0.013,Continuous Multi-purpose Survey - CMS14
+Lesotho,LS,LSO,426,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Continuous Multi-purpose Survey - CMS14
+Lesotho,LS,LSO,426,National,5,Flush and pour flush - to elsewhere,0.0,Continuous Multi-purpose Survey - CMS14
+Lesotho,LS,LSO,426,National,6,Dry latrines - Ventilated Improved Pit latrine,0.319,Continuous Multi-purpose Survey - CMS14
+Lesotho,LS,LSO,426,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.183,Continuous Multi-purpose Survey - CMS14
+Lesotho,LS,LSO,426,National,8,Dry latrines - Traditional latrine,0.0,Continuous Multi-purpose Survey - CMS14
+Lesotho,LS,LSO,426,National,9,Dry latrines - Pit latrine without slab/open pit,0.168,Continuous Multi-purpose Survey - CMS14
+Lesotho,LS,LSO,426,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Continuous Multi-purpose Survey - CMS14
+Lesotho,LS,LSO,426,National,11,Dry latrines - Bucket latrine,0.0,Continuous Multi-purpose Survey - CMS14
+Lesotho,LS,LSO,426,National,12,Dry latrines - Other,0.0,Continuous Multi-purpose Survey - CMS14
+Lesotho,LS,LSO,426,National,13,Composting toilets,0.0,Continuous Multi-purpose Survey - CMS14
+Lesotho,LS,LSO,426,National,14,Other improved,0.0,Continuous Multi-purpose Survey - CMS14
+Lesotho,LS,LSO,426,National,15,"No facility, bush, field",0.292,Continuous Multi-purpose Survey - CMS14
+Lesotho,LS,LSO,426,National,16,Other unimproved,0.0,Continuous Multi-purpose Survey - CMS14
+Lesotho,LS,LSO,426,National,17,DK/missing information,0.0,Continuous Multi-purpose Survey - CMS14
 Lesotho,LS,LSO,426,Urban,1,Flush and pour flush - to piped sewer system,0.019,Continuous Multi-purpose Survey - CMS15
 Lesotho,LS,LSO,426,Urban,2,Flush and pour flush - to septic tank,0.039,Continuous Multi-purpose Survey - CMS15
 Lesotho,LS,LSO,426,Urban,3,Flush and pour flush - to pit,0.009,Continuous Multi-purpose Survey - CMS15
@@ -213,3 +401,89 @@ Lesotho,LS,LSO,426,Rural,14,Other improved,0.0,Continuous Multi-purpose Survey -
 Lesotho,LS,LSO,426,Rural,15,"No facility, bush, field",0.344,Continuous Multi-purpose Survey - CMS15
 Lesotho,LS,LSO,426,Rural,16,Other unimproved,0.0,Continuous Multi-purpose Survey - CMS15
 Lesotho,LS,LSO,426,Rural,17,DK/missing information,0.0,Continuous Multi-purpose Survey - CMS15
+Lesotho,LS,LSO,426,National,1,Flush and pour flush - to piped sewer system,0.009,Continuous Multi-purpose Survey - CMS15
+Lesotho,LS,LSO,426,National,2,Flush and pour flush - to septic tank,0.014,Continuous Multi-purpose Survey - CMS15
+Lesotho,LS,LSO,426,National,3,Flush and pour flush - to pit,0.006,Continuous Multi-purpose Survey - CMS15
+Lesotho,LS,LSO,426,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.002,Continuous Multi-purpose Survey - CMS15
+Lesotho,LS,LSO,426,National,5,Flush and pour flush - to elsewhere,0.0,Continuous Multi-purpose Survey - CMS15
+Lesotho,LS,LSO,426,National,6,Dry latrines - Ventilated Improved Pit latrine,0.318,Continuous Multi-purpose Survey - CMS15
+Lesotho,LS,LSO,426,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.172,Continuous Multi-purpose Survey - CMS15
+Lesotho,LS,LSO,426,National,8,Dry latrines - Traditional latrine,0.0,Continuous Multi-purpose Survey - CMS15
+Lesotho,LS,LSO,426,National,9,Dry latrines - Pit latrine without slab/open pit,0.214,Continuous Multi-purpose Survey - CMS15
+Lesotho,LS,LSO,426,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Continuous Multi-purpose Survey - CMS15
+Lesotho,LS,LSO,426,National,11,Dry latrines - Bucket latrine,0.0,Continuous Multi-purpose Survey - CMS15
+Lesotho,LS,LSO,426,National,12,Dry latrines - Other,0.0,Continuous Multi-purpose Survey - CMS15
+Lesotho,LS,LSO,426,National,13,Composting toilets,0.0,Continuous Multi-purpose Survey - CMS15
+Lesotho,LS,LSO,426,National,14,Other improved,0.0,Continuous Multi-purpose Survey - CMS15
+Lesotho,LS,LSO,426,National,15,"No facility, bush, field",0.264,Continuous Multi-purpose Survey - CMS15
+Lesotho,LS,LSO,426,National,16,Other unimproved,0.0,Continuous Multi-purpose Survey - CMS15
+Lesotho,LS,LSO,426,National,17,DK/missing information,0.0,Continuous Multi-purpose Survey - CMS15
+Lesotho,LS,LSO,426,Urban,1,Flush and pour flush - to piped sewer system,0.082,Household Budget Survey - HBS03
+Lesotho,LS,LSO,426,Urban,2,Flush and pour flush - to septic tank,0.0,Household Budget Survey - HBS03
+Lesotho,LS,LSO,426,Urban,3,Flush and pour flush - to pit,0.0,Household Budget Survey - HBS03
+Lesotho,LS,LSO,426,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey - HBS03
+Lesotho,LS,LSO,426,Urban,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey - HBS03
+Lesotho,LS,LSO,426,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.399,Household Budget Survey - HBS03
+Lesotho,LS,LSO,426,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey - HBS03
+Lesotho,LS,LSO,426,Urban,8,Dry latrines - Traditional latrine,0.307,Household Budget Survey - HBS03
+Lesotho,LS,LSO,426,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey - HBS03
+Lesotho,LS,LSO,426,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey - HBS03
+Lesotho,LS,LSO,426,Urban,11,Dry latrines - Bucket latrine,0.002,Household Budget Survey - HBS03
+Lesotho,LS,LSO,426,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.399,Household Budget Survey - HBS03
+Lesotho,LS,LSO,426,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey - HBS03
+Lesotho,LS,LSO,426,Urban,8,Dry latrines - Traditional latrine,0.307,Household Budget Survey - HBS03
+Lesotho,LS,LSO,426,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey - HBS03
+Lesotho,LS,LSO,426,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey - HBS03
+Lesotho,LS,LSO,426,Urban,11,Dry latrines - Bucket latrine,0.002,Household Budget Survey - HBS03
+Lesotho,LS,LSO,426,Urban,12,Dry latrines - Other,0.0,Household Budget Survey - HBS03
+Lesotho,LS,LSO,426,Urban,13,Composting toilets,0.0,Household Budget Survey - HBS03
+Lesotho,LS,LSO,426,Urban,14,Other improved,0.0,Household Budget Survey - HBS03
+Lesotho,LS,LSO,426,Urban,15,"No facility, bush, field",0.106,Household Budget Survey - HBS03
+Lesotho,LS,LSO,426,Urban,16,Other unimproved,0.004,Household Budget Survey - HBS03
+Lesotho,LS,LSO,426,Urban,17,DK/missing information,0.0,Household Budget Survey - HBS03
+Lesotho,LS,LSO,426,Rural,1,Flush and pour flush - to piped sewer system,0.002,Household Budget Survey - HBS03
+Lesotho,LS,LSO,426,Rural,2,Flush and pour flush - to septic tank,0.0,Household Budget Survey - HBS03
+Lesotho,LS,LSO,426,Rural,3,Flush and pour flush - to pit,0.0,Household Budget Survey - HBS03
+Lesotho,LS,LSO,426,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey - HBS03
+Lesotho,LS,LSO,426,Rural,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey - HBS03
+Lesotho,LS,LSO,426,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.16,Household Budget Survey - HBS03
+Lesotho,LS,LSO,426,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey - HBS03
+Lesotho,LS,LSO,426,Rural,8,Dry latrines - Traditional latrine,0.277,Household Budget Survey - HBS03
+Lesotho,LS,LSO,426,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey - HBS03
+Lesotho,LS,LSO,426,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey - HBS03
+Lesotho,LS,LSO,426,Rural,11,Dry latrines - Bucket latrine,0.002,Household Budget Survey - HBS03
+Lesotho,LS,LSO,426,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.16,Household Budget Survey - HBS03
+Lesotho,LS,LSO,426,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey - HBS03
+Lesotho,LS,LSO,426,Rural,8,Dry latrines - Traditional latrine,0.277,Household Budget Survey - HBS03
+Lesotho,LS,LSO,426,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey - HBS03
+Lesotho,LS,LSO,426,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey - HBS03
+Lesotho,LS,LSO,426,Rural,11,Dry latrines - Bucket latrine,0.002,Household Budget Survey - HBS03
+Lesotho,LS,LSO,426,Rural,12,Dry latrines - Other,0.0,Household Budget Survey - HBS03
+Lesotho,LS,LSO,426,Rural,13,Composting toilets,0.0,Household Budget Survey - HBS03
+Lesotho,LS,LSO,426,Rural,14,Other improved,0.0,Household Budget Survey - HBS03
+Lesotho,LS,LSO,426,Rural,15,"No facility, bush, field",0.553,Household Budget Survey - HBS03
+Lesotho,LS,LSO,426,Rural,16,Other unimproved,0.004,Household Budget Survey - HBS03
+Lesotho,LS,LSO,426,Rural,17,DK/missing information,0.0,Household Budget Survey - HBS03
+Lesotho,LS,LSO,426,National,1,Flush and pour flush - to piped sewer system,0.039,Household Budget Survey - HBS03
+Lesotho,LS,LSO,426,National,2,Flush and pour flush - to septic tank,0.0,Household Budget Survey - HBS03
+Lesotho,LS,LSO,426,National,3,Flush and pour flush - to pit,0.0,Household Budget Survey - HBS03
+Lesotho,LS,LSO,426,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey - HBS03
+Lesotho,LS,LSO,426,National,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey - HBS03
+Lesotho,LS,LSO,426,National,6,Dry latrines - Ventilated Improved Pit latrine,0.272,Household Budget Survey - HBS03
+Lesotho,LS,LSO,426,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey - HBS03
+Lesotho,LS,LSO,426,National,8,Dry latrines - Traditional latrine,0.291,Household Budget Survey - HBS03
+Lesotho,LS,LSO,426,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey - HBS03
+Lesotho,LS,LSO,426,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey - HBS03
+Lesotho,LS,LSO,426,National,11,Dry latrines - Bucket latrine,0.002,Household Budget Survey - HBS03
+Lesotho,LS,LSO,426,National,6,Dry latrines - Ventilated Improved Pit latrine,0.272,Household Budget Survey - HBS03
+Lesotho,LS,LSO,426,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey - HBS03
+Lesotho,LS,LSO,426,National,8,Dry latrines - Traditional latrine,0.291,Household Budget Survey - HBS03
+Lesotho,LS,LSO,426,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey - HBS03
+Lesotho,LS,LSO,426,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey - HBS03
+Lesotho,LS,LSO,426,National,11,Dry latrines - Bucket latrine,0.002,Household Budget Survey - HBS03
+Lesotho,LS,LSO,426,National,12,Dry latrines - Other,0.0,Household Budget Survey - HBS03
+Lesotho,LS,LSO,426,National,13,Composting toilets,0.0,Household Budget Survey - HBS03
+Lesotho,LS,LSO,426,National,14,Other improved,0.0,Household Budget Survey - HBS03
+Lesotho,LS,LSO,426,National,15,"No facility, bush, field",0.344,Household Budget Survey - HBS03
+Lesotho,LS,LSO,426,National,16,Other unimproved,0.004,Household Budget Survey - HBS03
+Lesotho,LS,LSO,426,National,17,DK/missing information,0.0,Household Budget Survey - HBS03

@@ -78,4 +78,4 @@ pathEmPlot<-function(myLoadings){
   #  ggplot2::theme(axis.text.x = ggplot2::element_text(angle = 90, vjust = 0.5, hjust=1))
   return(jsonlite::toJSON(list(plotMe),pretty = T))
 }
-pathEmPlot(my)
+

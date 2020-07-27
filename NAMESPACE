@@ -2,4 +2,7 @@
 
 export(getLRV)
 export(getLoadings)
-export(t_JMP)
+export(pathEmPlot)
+export(slide)
+export(t_JMPnat)
+export(t_JMPsubnat)

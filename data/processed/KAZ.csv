@@ -1,4 +1,67 @@
 country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+Kazakhstan,KZ,KAZ,398,Urban,1,Flush and pour flush - to piped sewer system,0.775,World Health Survey - WHS03
+Kazakhstan,KZ,KAZ,398,Urban,2,Flush and pour flush - to septic tank,0.022,World Health Survey - WHS03
+Kazakhstan,KZ,KAZ,398,Urban,3,Flush and pour flush - to pit,0.0,World Health Survey - WHS03
+Kazakhstan,KZ,KAZ,398,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,World Health Survey - WHS03
+Kazakhstan,KZ,KAZ,398,Urban,5,Flush and pour flush - to elsewhere,0.0,World Health Survey - WHS03
+Kazakhstan,KZ,KAZ,398,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,World Health Survey - WHS03
+Kazakhstan,KZ,KAZ,398,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.196,World Health Survey - WHS03
+Kazakhstan,KZ,KAZ,398,Urban,8,Dry latrines - Traditional latrine,0.0,World Health Survey - WHS03
+Kazakhstan,KZ,KAZ,398,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.002,World Health Survey - WHS03
+Kazakhstan,KZ,KAZ,398,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,World Health Survey - WHS03
+Kazakhstan,KZ,KAZ,398,Urban,11,Dry latrines - Bucket latrine,0.0,World Health Survey - WHS03
+Kazakhstan,KZ,KAZ,398,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.18,World Health Survey - WHS03
+Kazakhstan,KZ,KAZ,398,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.016,World Health Survey - WHS03
+Kazakhstan,KZ,KAZ,398,Urban,8,Dry latrines - Traditional latrine,0.0,World Health Survey - WHS03
+Kazakhstan,KZ,KAZ,398,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,World Health Survey - WHS03
+Kazakhstan,KZ,KAZ,398,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,World Health Survey - WHS03
+Kazakhstan,KZ,KAZ,398,Urban,11,Dry latrines - Bucket latrine,0.0,World Health Survey - WHS03
+Kazakhstan,KZ,KAZ,398,Urban,12,Dry latrines - Other,0.0,World Health Survey - WHS03
+Kazakhstan,KZ,KAZ,398,Urban,13,Composting toilets,0.0,World Health Survey - WHS03
+Kazakhstan,KZ,KAZ,398,Urban,14,Other improved,0.0,World Health Survey - WHS03
+Kazakhstan,KZ,KAZ,398,Urban,15,"No facility, bush, field",0.0,World Health Survey - WHS03
+Kazakhstan,KZ,KAZ,398,Urban,16,Other unimproved,0.0,World Health Survey - WHS03
+Kazakhstan,KZ,KAZ,398,Urban,17,DK/missing information,0.0,World Health Survey - WHS03
+Kazakhstan,KZ,KAZ,398,Rural,1,Flush and pour flush - to piped sewer system,0.143,World Health Survey - WHS03
+Kazakhstan,KZ,KAZ,398,Rural,2,Flush and pour flush - to septic tank,0.087,World Health Survey - WHS03
+Kazakhstan,KZ,KAZ,398,Rural,3,Flush and pour flush - to pit,0.0,World Health Survey - WHS03
+Kazakhstan,KZ,KAZ,398,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,World Health Survey - WHS03
+Kazakhstan,KZ,KAZ,398,Rural,5,Flush and pour flush - to elsewhere,0.0,World Health Survey - WHS03
+Kazakhstan,KZ,KAZ,398,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,World Health Survey - WHS03
+Kazakhstan,KZ,KAZ,398,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.734,World Health Survey - WHS03
+Kazakhstan,KZ,KAZ,398,Rural,8,Dry latrines - Traditional latrine,0.0,World Health Survey - WHS03
+Kazakhstan,KZ,KAZ,398,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.01,World Health Survey - WHS03
+Kazakhstan,KZ,KAZ,398,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,World Health Survey - WHS03
+Kazakhstan,KZ,KAZ,398,Rural,11,Dry latrines - Bucket latrine,0.006,World Health Survey - WHS03
+Kazakhstan,KZ,KAZ,398,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.717,World Health Survey - WHS03
+Kazakhstan,KZ,KAZ,398,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.017,World Health Survey - WHS03
+Kazakhstan,KZ,KAZ,398,Rural,8,Dry latrines - Traditional latrine,0.0,World Health Survey - WHS03
+Kazakhstan,KZ,KAZ,398,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,World Health Survey - WHS03
+Kazakhstan,KZ,KAZ,398,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,World Health Survey - WHS03
+Kazakhstan,KZ,KAZ,398,Rural,11,Dry latrines - Bucket latrine,0.0,World Health Survey - WHS03
+Kazakhstan,KZ,KAZ,398,Rural,12,Dry latrines - Other,0.0,World Health Survey - WHS03
+Kazakhstan,KZ,KAZ,398,Rural,13,Composting toilets,0.0,World Health Survey - WHS03
+Kazakhstan,KZ,KAZ,398,Rural,14,Other improved,0.0,World Health Survey - WHS03
+Kazakhstan,KZ,KAZ,398,Rural,15,"No facility, bush, field",0.0,World Health Survey - WHS03
+Kazakhstan,KZ,KAZ,398,Rural,16,Other unimproved,0.0,World Health Survey - WHS03
+Kazakhstan,KZ,KAZ,398,Rural,17,DK/missing information,0.0,World Health Survey - WHS03
+Kazakhstan,KZ,KAZ,398,National,1,Flush and pour flush - to piped sewer system,0.0,World Health Survey - WHS03
+Kazakhstan,KZ,KAZ,398,National,2,Flush and pour flush - to septic tank,0.0,World Health Survey - WHS03
+Kazakhstan,KZ,KAZ,398,National,3,Flush and pour flush - to pit,0.0,World Health Survey - WHS03
+Kazakhstan,KZ,KAZ,398,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,World Health Survey - WHS03
+Kazakhstan,KZ,KAZ,398,National,5,Flush and pour flush - to elsewhere,0.0,World Health Survey - WHS03
+Kazakhstan,KZ,KAZ,398,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,World Health Survey - WHS03
+Kazakhstan,KZ,KAZ,398,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,World Health Survey - WHS03
+Kazakhstan,KZ,KAZ,398,National,8,Dry latrines - Traditional latrine,0.0,World Health Survey - WHS03
+Kazakhstan,KZ,KAZ,398,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,World Health Survey - WHS03
+Kazakhstan,KZ,KAZ,398,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,World Health Survey - WHS03
+Kazakhstan,KZ,KAZ,398,National,11,Dry latrines - Bucket latrine,0.0,World Health Survey - WHS03
+Kazakhstan,KZ,KAZ,398,National,12,Dry latrines - Other,0.0,World Health Survey - WHS03
+Kazakhstan,KZ,KAZ,398,National,13,Composting toilets,0.0,World Health Survey - WHS03
+Kazakhstan,KZ,KAZ,398,National,14,Other improved,0.0,World Health Survey - WHS03
+Kazakhstan,KZ,KAZ,398,National,15,"No facility, bush, field",0.0,World Health Survey - WHS03
+Kazakhstan,KZ,KAZ,398,National,16,Other unimproved,0.0,World Health Survey - WHS03
+Kazakhstan,KZ,KAZ,398,National,17,DK/missing information,0.0,World Health Survey - WHS03
 Kazakhstan,KZ,KAZ,398,Urban,1,Flush and pour flush - to piped sewer system,0.607,Multiple Cluster Indicator Survey - MICS06
 Kazakhstan,KZ,KAZ,398,Urban,2,Flush and pour flush - to septic tank,0.016,Multiple Cluster Indicator Survey - MICS06
 Kazakhstan,KZ,KAZ,398,Urban,3,Flush and pour flush - to pit,0.013,Multiple Cluster Indicator Survey - MICS06
@@ -33,6 +96,23 @@ Kazakhstan,KZ,KAZ,398,Rural,14,Other improved,0.0,Multiple Cluster Indicator Sur
 Kazakhstan,KZ,KAZ,398,Rural,15,"No facility, bush, field",0.001,Multiple Cluster Indicator Survey - MICS06
 Kazakhstan,KZ,KAZ,398,Rural,16,Other unimproved,0.0,Multiple Cluster Indicator Survey - MICS06
 Kazakhstan,KZ,KAZ,398,Rural,17,DK/missing information,0.0,Multiple Cluster Indicator Survey - MICS06
+Kazakhstan,KZ,KAZ,398,National,1,Flush and pour flush - to piped sewer system,0.0,Multiple Cluster Indicator Survey - MICS06
+Kazakhstan,KZ,KAZ,398,National,2,Flush and pour flush - to septic tank,0.0,Multiple Cluster Indicator Survey - MICS06
+Kazakhstan,KZ,KAZ,398,National,3,Flush and pour flush - to pit,0.0,Multiple Cluster Indicator Survey - MICS06
+Kazakhstan,KZ,KAZ,398,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Cluster Indicator Survey - MICS06
+Kazakhstan,KZ,KAZ,398,National,5,Flush and pour flush - to elsewhere,0.0,Multiple Cluster Indicator Survey - MICS06
+Kazakhstan,KZ,KAZ,398,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Multiple Cluster Indicator Survey - MICS06
+Kazakhstan,KZ,KAZ,398,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Multiple Cluster Indicator Survey - MICS06
+Kazakhstan,KZ,KAZ,398,National,8,Dry latrines - Traditional latrine,0.0,Multiple Cluster Indicator Survey - MICS06
+Kazakhstan,KZ,KAZ,398,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Multiple Cluster Indicator Survey - MICS06
+Kazakhstan,KZ,KAZ,398,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Cluster Indicator Survey - MICS06
+Kazakhstan,KZ,KAZ,398,National,11,Dry latrines - Bucket latrine,0.0,Multiple Cluster Indicator Survey - MICS06
+Kazakhstan,KZ,KAZ,398,National,12,Dry latrines - Other,0.0,Multiple Cluster Indicator Survey - MICS06
+Kazakhstan,KZ,KAZ,398,National,13,Composting toilets,0.0,Multiple Cluster Indicator Survey - MICS06
+Kazakhstan,KZ,KAZ,398,National,14,Other improved,0.0,Multiple Cluster Indicator Survey - MICS06
+Kazakhstan,KZ,KAZ,398,National,15,"No facility, bush, field",0.0,Multiple Cluster Indicator Survey - MICS06
+Kazakhstan,KZ,KAZ,398,National,16,Other unimproved,0.0,Multiple Cluster Indicator Survey - MICS06
+Kazakhstan,KZ,KAZ,398,National,17,DK/missing information,0.0,Multiple Cluster Indicator Survey - MICS06
 Kazakhstan,KZ,KAZ,398,Urban,1,Flush and pour flush - to piped sewer system,0.636,Multiple Indicator Cluster Survey (MICS) 2010-2011 - MICS11
 Kazakhstan,KZ,KAZ,398,Urban,2,Flush and pour flush - to septic tank,0.052,Multiple Indicator Cluster Survey (MICS) 2010-2011 - MICS11
 Kazakhstan,KZ,KAZ,398,Urban,3,Flush and pour flush - to pit,0.026,Multiple Indicator Cluster Survey (MICS) 2010-2011 - MICS11
@@ -67,6 +147,23 @@ Kazakhstan,KZ,KAZ,398,Rural,14,Other improved,0.0,Multiple Indicator Cluster Sur
 Kazakhstan,KZ,KAZ,398,Rural,15,"No facility, bush, field",0.001,Multiple Indicator Cluster Survey (MICS) 2010-2011 - MICS11
 Kazakhstan,KZ,KAZ,398,Rural,16,Other unimproved,0.002,Multiple Indicator Cluster Survey (MICS) 2010-2011 - MICS11
 Kazakhstan,KZ,KAZ,398,Rural,17,DK/missing information,0.0,Multiple Indicator Cluster Survey (MICS) 2010-2011 - MICS11
+Kazakhstan,KZ,KAZ,398,National,1,Flush and pour flush - to piped sewer system,0.369,Multiple Indicator Cluster Survey (MICS) 2010-2011 - MICS11
+Kazakhstan,KZ,KAZ,398,National,2,Flush and pour flush - to septic tank,0.05,Multiple Indicator Cluster Survey (MICS) 2010-2011 - MICS11
+Kazakhstan,KZ,KAZ,398,National,3,Flush and pour flush - to pit,0.021,Multiple Indicator Cluster Survey (MICS) 2010-2011 - MICS11
+Kazakhstan,KZ,KAZ,398,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey (MICS) 2010-2011 - MICS11
+Kazakhstan,KZ,KAZ,398,National,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey (MICS) 2010-2011 - MICS11
+Kazakhstan,KZ,KAZ,398,National,6,Dry latrines - Ventilated Improved Pit latrine,0.01,Multiple Indicator Cluster Survey (MICS) 2010-2011 - MICS11
+Kazakhstan,KZ,KAZ,398,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.542,Multiple Indicator Cluster Survey (MICS) 2010-2011 - MICS11
+Kazakhstan,KZ,KAZ,398,National,8,Dry latrines - Traditional latrine,0.0,Multiple Indicator Cluster Survey (MICS) 2010-2011 - MICS11
+Kazakhstan,KZ,KAZ,398,National,9,Dry latrines - Pit latrine without slab/open pit,0.005,Multiple Indicator Cluster Survey (MICS) 2010-2011 - MICS11
+Kazakhstan,KZ,KAZ,398,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey (MICS) 2010-2011 - MICS11
+Kazakhstan,KZ,KAZ,398,National,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey (MICS) 2010-2011 - MICS11
+Kazakhstan,KZ,KAZ,398,National,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey (MICS) 2010-2011 - MICS11
+Kazakhstan,KZ,KAZ,398,National,13,Composting toilets,0.0,Multiple Indicator Cluster Survey (MICS) 2010-2011 - MICS11
+Kazakhstan,KZ,KAZ,398,National,14,Other improved,0.0,Multiple Indicator Cluster Survey (MICS) 2010-2011 - MICS11
+Kazakhstan,KZ,KAZ,398,National,15,"No facility, bush, field",0.0,Multiple Indicator Cluster Survey (MICS) 2010-2011 - MICS11
+Kazakhstan,KZ,KAZ,398,National,16,Other unimproved,0.001,Multiple Indicator Cluster Survey (MICS) 2010-2011 - MICS11
+Kazakhstan,KZ,KAZ,398,National,17,DK/missing information,0.0,Multiple Indicator Cluster Survey (MICS) 2010-2011 - MICS11
 Kazakhstan,KZ,KAZ,398,Urban,1,Flush and pour flush - to piped sewer system,0.682,Multiple Indicators Cluster Survey - MICS15
 Kazakhstan,KZ,KAZ,398,Urban,2,Flush and pour flush - to septic tank,0.091,Multiple Indicators Cluster Survey - MICS15
 Kazakhstan,KZ,KAZ,398,Urban,3,Flush and pour flush - to pit,0.003,Multiple Indicators Cluster Survey - MICS15
@@ -101,3 +198,530 @@ Kazakhstan,KZ,KAZ,398,Rural,14,Other improved,0.0,Multiple Indicators Cluster Su
 Kazakhstan,KZ,KAZ,398,Rural,15,"No facility, bush, field",0.0,Multiple Indicators Cluster Survey - MICS15
 Kazakhstan,KZ,KAZ,398,Rural,16,Other unimproved,0.0,Multiple Indicators Cluster Survey - MICS15
 Kazakhstan,KZ,KAZ,398,Rural,17,DK/missing information,0.0,Multiple Indicators Cluster Survey - MICS15
+Kazakhstan,KZ,KAZ,398,National,1,Flush and pour flush - to piped sewer system,0.383,Multiple Indicators Cluster Survey - MICS15
+Kazakhstan,KZ,KAZ,398,National,2,Flush and pour flush - to septic tank,0.091,Multiple Indicators Cluster Survey - MICS15
+Kazakhstan,KZ,KAZ,398,National,3,Flush and pour flush - to pit,0.006,Multiple Indicators Cluster Survey - MICS15
+Kazakhstan,KZ,KAZ,398,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicators Cluster Survey - MICS15
+Kazakhstan,KZ,KAZ,398,National,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicators Cluster Survey - MICS15
+Kazakhstan,KZ,KAZ,398,National,6,Dry latrines - Ventilated Improved Pit latrine,0.059,Multiple Indicators Cluster Survey - MICS15
+Kazakhstan,KZ,KAZ,398,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.459,Multiple Indicators Cluster Survey - MICS15
+Kazakhstan,KZ,KAZ,398,National,8,Dry latrines - Traditional latrine,0.0,Multiple Indicators Cluster Survey - MICS15
+Kazakhstan,KZ,KAZ,398,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Multiple Indicators Cluster Survey - MICS15
+Kazakhstan,KZ,KAZ,398,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicators Cluster Survey - MICS15
+Kazakhstan,KZ,KAZ,398,National,11,Dry latrines - Bucket latrine,0.0,Multiple Indicators Cluster Survey - MICS15
+Kazakhstan,KZ,KAZ,398,National,12,Dry latrines - Other,0.0,Multiple Indicators Cluster Survey - MICS15
+Kazakhstan,KZ,KAZ,398,National,13,Composting toilets,0.0,Multiple Indicators Cluster Survey - MICS15
+Kazakhstan,KZ,KAZ,398,National,14,Other improved,0.0,Multiple Indicators Cluster Survey - MICS15
+Kazakhstan,KZ,KAZ,398,National,15,"No facility, bush, field",0.0,Multiple Indicators Cluster Survey - MICS15
+Kazakhstan,KZ,KAZ,398,National,16,Other unimproved,0.0,Multiple Indicators Cluster Survey - MICS15
+Kazakhstan,KZ,KAZ,398,National,17,DK/missing information,0.0,Multiple Indicators Cluster Survey - MICS15
+Kazakhstan,KZ,KAZ,398,Urban,1,Flush and pour flush - to piped sewer system,0.683,Household Budget Survey - HBS04
+Kazakhstan,KZ,KAZ,398,Urban,2,Flush and pour flush - to septic tank,0.0,Household Budget Survey - HBS04
+Kazakhstan,KZ,KAZ,398,Urban,3,Flush and pour flush - to pit,0.0,Household Budget Survey - HBS04
+Kazakhstan,KZ,KAZ,398,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey - HBS04
+Kazakhstan,KZ,KAZ,398,Urban,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey - HBS04
+Kazakhstan,KZ,KAZ,398,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey - HBS04
+Kazakhstan,KZ,KAZ,398,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey - HBS04
+Kazakhstan,KZ,KAZ,398,Urban,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey - HBS04
+Kazakhstan,KZ,KAZ,398,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey - HBS04
+Kazakhstan,KZ,KAZ,398,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey - HBS04
+Kazakhstan,KZ,KAZ,398,Urban,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey - HBS04
+Kazakhstan,KZ,KAZ,398,Urban,12,Dry latrines - Other,0.0,Household Budget Survey - HBS04
+Kazakhstan,KZ,KAZ,398,Urban,13,Composting toilets,0.0,Household Budget Survey - HBS04
+Kazakhstan,KZ,KAZ,398,Urban,14,Other improved,0.0,Household Budget Survey - HBS04
+Kazakhstan,KZ,KAZ,398,Urban,15,"No facility, bush, field",0.0,Household Budget Survey - HBS04
+Kazakhstan,KZ,KAZ,398,Urban,16,Other unimproved,0.0,Household Budget Survey - HBS04
+Kazakhstan,KZ,KAZ,398,Urban,17,DK/missing information,0.0,Household Budget Survey - HBS04
+Kazakhstan,KZ,KAZ,398,Rural,1,Flush and pour flush - to piped sewer system,0.059,Household Budget Survey - HBS04
+Kazakhstan,KZ,KAZ,398,Rural,2,Flush and pour flush - to septic tank,0.0,Household Budget Survey - HBS04
+Kazakhstan,KZ,KAZ,398,Rural,3,Flush and pour flush - to pit,0.0,Household Budget Survey - HBS04
+Kazakhstan,KZ,KAZ,398,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey - HBS04
+Kazakhstan,KZ,KAZ,398,Rural,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey - HBS04
+Kazakhstan,KZ,KAZ,398,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey - HBS04
+Kazakhstan,KZ,KAZ,398,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey - HBS04
+Kazakhstan,KZ,KAZ,398,Rural,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey - HBS04
+Kazakhstan,KZ,KAZ,398,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey - HBS04
+Kazakhstan,KZ,KAZ,398,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey - HBS04
+Kazakhstan,KZ,KAZ,398,Rural,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey - HBS04
+Kazakhstan,KZ,KAZ,398,Rural,12,Dry latrines - Other,0.0,Household Budget Survey - HBS04
+Kazakhstan,KZ,KAZ,398,Rural,13,Composting toilets,0.0,Household Budget Survey - HBS04
+Kazakhstan,KZ,KAZ,398,Rural,14,Other improved,0.0,Household Budget Survey - HBS04
+Kazakhstan,KZ,KAZ,398,Rural,15,"No facility, bush, field",0.0,Household Budget Survey - HBS04
+Kazakhstan,KZ,KAZ,398,Rural,16,Other unimproved,0.0,Household Budget Survey - HBS04
+Kazakhstan,KZ,KAZ,398,Rural,17,DK/missing information,0.0,Household Budget Survey - HBS04
+Kazakhstan,KZ,KAZ,398,National,1,Flush and pour flush - to piped sewer system,0.437,Household Budget Survey - HBS04
+Kazakhstan,KZ,KAZ,398,National,2,Flush and pour flush - to septic tank,0.0,Household Budget Survey - HBS04
+Kazakhstan,KZ,KAZ,398,National,3,Flush and pour flush - to pit,0.0,Household Budget Survey - HBS04
+Kazakhstan,KZ,KAZ,398,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey - HBS04
+Kazakhstan,KZ,KAZ,398,National,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey - HBS04
+Kazakhstan,KZ,KAZ,398,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey - HBS04
+Kazakhstan,KZ,KAZ,398,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey - HBS04
+Kazakhstan,KZ,KAZ,398,National,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey - HBS04
+Kazakhstan,KZ,KAZ,398,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey - HBS04
+Kazakhstan,KZ,KAZ,398,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey - HBS04
+Kazakhstan,KZ,KAZ,398,National,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey - HBS04
+Kazakhstan,KZ,KAZ,398,National,12,Dry latrines - Other,0.0,Household Budget Survey - HBS04
+Kazakhstan,KZ,KAZ,398,National,13,Composting toilets,0.0,Household Budget Survey - HBS04
+Kazakhstan,KZ,KAZ,398,National,14,Other improved,0.0,Household Budget Survey - HBS04
+Kazakhstan,KZ,KAZ,398,National,15,"No facility, bush, field",0.0,Household Budget Survey - HBS04
+Kazakhstan,KZ,KAZ,398,National,16,Other unimproved,0.0,Household Budget Survey - HBS04
+Kazakhstan,KZ,KAZ,398,National,17,DK/missing information,0.0,Household Budget Survey - HBS04
+Kazakhstan,KZ,KAZ,398,Urban,1,Flush and pour flush - to piped sewer system,0.692,Household Budget Survey - HBS05
+Kazakhstan,KZ,KAZ,398,Urban,2,Flush and pour flush - to septic tank,0.0,Household Budget Survey - HBS05
+Kazakhstan,KZ,KAZ,398,Urban,3,Flush and pour flush - to pit,0.0,Household Budget Survey - HBS05
+Kazakhstan,KZ,KAZ,398,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey - HBS05
+Kazakhstan,KZ,KAZ,398,Urban,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey - HBS05
+Kazakhstan,KZ,KAZ,398,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey - HBS05
+Kazakhstan,KZ,KAZ,398,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey - HBS05
+Kazakhstan,KZ,KAZ,398,Urban,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey - HBS05
+Kazakhstan,KZ,KAZ,398,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey - HBS05
+Kazakhstan,KZ,KAZ,398,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey - HBS05
+Kazakhstan,KZ,KAZ,398,Urban,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey - HBS05
+Kazakhstan,KZ,KAZ,398,Urban,12,Dry latrines - Other,0.0,Household Budget Survey - HBS05
+Kazakhstan,KZ,KAZ,398,Urban,13,Composting toilets,0.0,Household Budget Survey - HBS05
+Kazakhstan,KZ,KAZ,398,Urban,14,Other improved,0.0,Household Budget Survey - HBS05
+Kazakhstan,KZ,KAZ,398,Urban,15,"No facility, bush, field",0.0,Household Budget Survey - HBS05
+Kazakhstan,KZ,KAZ,398,Urban,16,Other unimproved,0.0,Household Budget Survey - HBS05
+Kazakhstan,KZ,KAZ,398,Urban,17,DK/missing information,0.0,Household Budget Survey - HBS05
+Kazakhstan,KZ,KAZ,398,Rural,1,Flush and pour flush - to piped sewer system,0.058,Household Budget Survey - HBS05
+Kazakhstan,KZ,KAZ,398,Rural,2,Flush and pour flush - to septic tank,0.0,Household Budget Survey - HBS05
+Kazakhstan,KZ,KAZ,398,Rural,3,Flush and pour flush - to pit,0.0,Household Budget Survey - HBS05
+Kazakhstan,KZ,KAZ,398,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey - HBS05
+Kazakhstan,KZ,KAZ,398,Rural,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey - HBS05
+Kazakhstan,KZ,KAZ,398,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey - HBS05
+Kazakhstan,KZ,KAZ,398,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey - HBS05
+Kazakhstan,KZ,KAZ,398,Rural,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey - HBS05
+Kazakhstan,KZ,KAZ,398,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey - HBS05
+Kazakhstan,KZ,KAZ,398,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey - HBS05
+Kazakhstan,KZ,KAZ,398,Rural,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey - HBS05
+Kazakhstan,KZ,KAZ,398,Rural,12,Dry latrines - Other,0.0,Household Budget Survey - HBS05
+Kazakhstan,KZ,KAZ,398,Rural,13,Composting toilets,0.0,Household Budget Survey - HBS05
+Kazakhstan,KZ,KAZ,398,Rural,14,Other improved,0.0,Household Budget Survey - HBS05
+Kazakhstan,KZ,KAZ,398,Rural,15,"No facility, bush, field",0.0,Household Budget Survey - HBS05
+Kazakhstan,KZ,KAZ,398,Rural,16,Other unimproved,0.0,Household Budget Survey - HBS05
+Kazakhstan,KZ,KAZ,398,Rural,17,DK/missing information,0.0,Household Budget Survey - HBS05
+Kazakhstan,KZ,KAZ,398,National,1,Flush and pour flush - to piped sewer system,0.446,Household Budget Survey - HBS05
+Kazakhstan,KZ,KAZ,398,National,2,Flush and pour flush - to septic tank,0.0,Household Budget Survey - HBS05
+Kazakhstan,KZ,KAZ,398,National,3,Flush and pour flush - to pit,0.0,Household Budget Survey - HBS05
+Kazakhstan,KZ,KAZ,398,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey - HBS05
+Kazakhstan,KZ,KAZ,398,National,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey - HBS05
+Kazakhstan,KZ,KAZ,398,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey - HBS05
+Kazakhstan,KZ,KAZ,398,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey - HBS05
+Kazakhstan,KZ,KAZ,398,National,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey - HBS05
+Kazakhstan,KZ,KAZ,398,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey - HBS05
+Kazakhstan,KZ,KAZ,398,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey - HBS05
+Kazakhstan,KZ,KAZ,398,National,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey - HBS05
+Kazakhstan,KZ,KAZ,398,National,12,Dry latrines - Other,0.0,Household Budget Survey - HBS05
+Kazakhstan,KZ,KAZ,398,National,13,Composting toilets,0.0,Household Budget Survey - HBS05
+Kazakhstan,KZ,KAZ,398,National,14,Other improved,0.0,Household Budget Survey - HBS05
+Kazakhstan,KZ,KAZ,398,National,15,"No facility, bush, field",0.0,Household Budget Survey - HBS05
+Kazakhstan,KZ,KAZ,398,National,16,Other unimproved,0.0,Household Budget Survey - HBS05
+Kazakhstan,KZ,KAZ,398,National,17,DK/missing information,0.0,Household Budget Survey - HBS05
+Kazakhstan,KZ,KAZ,398,Urban,1,Flush and pour flush - to piped sewer system,0.697,Household Budget Survey - HBS06
+Kazakhstan,KZ,KAZ,398,Urban,2,Flush and pour flush - to septic tank,0.0,Household Budget Survey - HBS06
+Kazakhstan,KZ,KAZ,398,Urban,3,Flush and pour flush - to pit,0.0,Household Budget Survey - HBS06
+Kazakhstan,KZ,KAZ,398,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey - HBS06
+Kazakhstan,KZ,KAZ,398,Urban,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey - HBS06
+Kazakhstan,KZ,KAZ,398,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey - HBS06
+Kazakhstan,KZ,KAZ,398,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey - HBS06
+Kazakhstan,KZ,KAZ,398,Urban,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey - HBS06
+Kazakhstan,KZ,KAZ,398,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey - HBS06
+Kazakhstan,KZ,KAZ,398,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey - HBS06
+Kazakhstan,KZ,KAZ,398,Urban,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey - HBS06
+Kazakhstan,KZ,KAZ,398,Urban,12,Dry latrines - Other,0.0,Household Budget Survey - HBS06
+Kazakhstan,KZ,KAZ,398,Urban,13,Composting toilets,0.0,Household Budget Survey - HBS06
+Kazakhstan,KZ,KAZ,398,Urban,14,Other improved,0.0,Household Budget Survey - HBS06
+Kazakhstan,KZ,KAZ,398,Urban,15,"No facility, bush, field",0.0,Household Budget Survey - HBS06
+Kazakhstan,KZ,KAZ,398,Urban,16,Other unimproved,0.0,Household Budget Survey - HBS06
+Kazakhstan,KZ,KAZ,398,Urban,17,DK/missing information,0.0,Household Budget Survey - HBS06
+Kazakhstan,KZ,KAZ,398,Rural,1,Flush and pour flush - to piped sewer system,0.058,Household Budget Survey - HBS06
+Kazakhstan,KZ,KAZ,398,Rural,2,Flush and pour flush - to septic tank,0.0,Household Budget Survey - HBS06
+Kazakhstan,KZ,KAZ,398,Rural,3,Flush and pour flush - to pit,0.0,Household Budget Survey - HBS06
+Kazakhstan,KZ,KAZ,398,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey - HBS06
+Kazakhstan,KZ,KAZ,398,Rural,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey - HBS06
+Kazakhstan,KZ,KAZ,398,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey - HBS06
+Kazakhstan,KZ,KAZ,398,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey - HBS06
+Kazakhstan,KZ,KAZ,398,Rural,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey - HBS06
+Kazakhstan,KZ,KAZ,398,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey - HBS06
+Kazakhstan,KZ,KAZ,398,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey - HBS06
+Kazakhstan,KZ,KAZ,398,Rural,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey - HBS06
+Kazakhstan,KZ,KAZ,398,Rural,12,Dry latrines - Other,0.0,Household Budget Survey - HBS06
+Kazakhstan,KZ,KAZ,398,Rural,13,Composting toilets,0.0,Household Budget Survey - HBS06
+Kazakhstan,KZ,KAZ,398,Rural,14,Other improved,0.0,Household Budget Survey - HBS06
+Kazakhstan,KZ,KAZ,398,Rural,15,"No facility, bush, field",0.0,Household Budget Survey - HBS06
+Kazakhstan,KZ,KAZ,398,Rural,16,Other unimproved,0.0,Household Budget Survey - HBS06
+Kazakhstan,KZ,KAZ,398,Rural,17,DK/missing information,0.0,Household Budget Survey - HBS06
+Kazakhstan,KZ,KAZ,398,National,1,Flush and pour flush - to piped sewer system,0.45,Household Budget Survey - HBS06
+Kazakhstan,KZ,KAZ,398,National,2,Flush and pour flush - to septic tank,0.0,Household Budget Survey - HBS06
+Kazakhstan,KZ,KAZ,398,National,3,Flush and pour flush - to pit,0.0,Household Budget Survey - HBS06
+Kazakhstan,KZ,KAZ,398,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey - HBS06
+Kazakhstan,KZ,KAZ,398,National,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey - HBS06
+Kazakhstan,KZ,KAZ,398,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey - HBS06
+Kazakhstan,KZ,KAZ,398,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey - HBS06
+Kazakhstan,KZ,KAZ,398,National,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey - HBS06
+Kazakhstan,KZ,KAZ,398,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey - HBS06
+Kazakhstan,KZ,KAZ,398,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey - HBS06
+Kazakhstan,KZ,KAZ,398,National,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey - HBS06
+Kazakhstan,KZ,KAZ,398,National,12,Dry latrines - Other,0.0,Household Budget Survey - HBS06
+Kazakhstan,KZ,KAZ,398,National,13,Composting toilets,0.0,Household Budget Survey - HBS06
+Kazakhstan,KZ,KAZ,398,National,14,Other improved,0.0,Household Budget Survey - HBS06
+Kazakhstan,KZ,KAZ,398,National,15,"No facility, bush, field",0.0,Household Budget Survey - HBS06
+Kazakhstan,KZ,KAZ,398,National,16,Other unimproved,0.0,Household Budget Survey - HBS06
+Kazakhstan,KZ,KAZ,398,National,17,DK/missing information,0.0,Household Budget Survey - HBS06
+Kazakhstan,KZ,KAZ,398,Urban,1,Flush and pour flush - to piped sewer system,0.73,Household Budget Survey - HBS07
+Kazakhstan,KZ,KAZ,398,Urban,2,Flush and pour flush - to septic tank,0.0,Household Budget Survey - HBS07
+Kazakhstan,KZ,KAZ,398,Urban,3,Flush and pour flush - to pit,0.0,Household Budget Survey - HBS07
+Kazakhstan,KZ,KAZ,398,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey - HBS07
+Kazakhstan,KZ,KAZ,398,Urban,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey - HBS07
+Kazakhstan,KZ,KAZ,398,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey - HBS07
+Kazakhstan,KZ,KAZ,398,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey - HBS07
+Kazakhstan,KZ,KAZ,398,Urban,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey - HBS07
+Kazakhstan,KZ,KAZ,398,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey - HBS07
+Kazakhstan,KZ,KAZ,398,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey - HBS07
+Kazakhstan,KZ,KAZ,398,Urban,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey - HBS07
+Kazakhstan,KZ,KAZ,398,Urban,12,Dry latrines - Other,0.0,Household Budget Survey - HBS07
+Kazakhstan,KZ,KAZ,398,Urban,13,Composting toilets,0.0,Household Budget Survey - HBS07
+Kazakhstan,KZ,KAZ,398,Urban,14,Other improved,0.0,Household Budget Survey - HBS07
+Kazakhstan,KZ,KAZ,398,Urban,15,"No facility, bush, field",0.0,Household Budget Survey - HBS07
+Kazakhstan,KZ,KAZ,398,Urban,16,Other unimproved,0.0,Household Budget Survey - HBS07
+Kazakhstan,KZ,KAZ,398,Urban,17,DK/missing information,0.0,Household Budget Survey - HBS07
+Kazakhstan,KZ,KAZ,398,Rural,1,Flush and pour flush - to piped sewer system,0.082,Household Budget Survey - HBS07
+Kazakhstan,KZ,KAZ,398,Rural,2,Flush and pour flush - to septic tank,0.0,Household Budget Survey - HBS07
+Kazakhstan,KZ,KAZ,398,Rural,3,Flush and pour flush - to pit,0.0,Household Budget Survey - HBS07
+Kazakhstan,KZ,KAZ,398,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey - HBS07
+Kazakhstan,KZ,KAZ,398,Rural,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey - HBS07
+Kazakhstan,KZ,KAZ,398,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey - HBS07
+Kazakhstan,KZ,KAZ,398,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey - HBS07
+Kazakhstan,KZ,KAZ,398,Rural,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey - HBS07
+Kazakhstan,KZ,KAZ,398,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey - HBS07
+Kazakhstan,KZ,KAZ,398,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey - HBS07
+Kazakhstan,KZ,KAZ,398,Rural,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey - HBS07
+Kazakhstan,KZ,KAZ,398,Rural,12,Dry latrines - Other,0.0,Household Budget Survey - HBS07
+Kazakhstan,KZ,KAZ,398,Rural,13,Composting toilets,0.0,Household Budget Survey - HBS07
+Kazakhstan,KZ,KAZ,398,Rural,14,Other improved,0.0,Household Budget Survey - HBS07
+Kazakhstan,KZ,KAZ,398,Rural,15,"No facility, bush, field",0.0,Household Budget Survey - HBS07
+Kazakhstan,KZ,KAZ,398,Rural,16,Other unimproved,0.0,Household Budget Survey - HBS07
+Kazakhstan,KZ,KAZ,398,Rural,17,DK/missing information,0.0,Household Budget Survey - HBS07
+Kazakhstan,KZ,KAZ,398,National,1,Flush and pour flush - to piped sewer system,0.456,Household Budget Survey - HBS07
+Kazakhstan,KZ,KAZ,398,National,2,Flush and pour flush - to septic tank,0.0,Household Budget Survey - HBS07
+Kazakhstan,KZ,KAZ,398,National,3,Flush and pour flush - to pit,0.0,Household Budget Survey - HBS07
+Kazakhstan,KZ,KAZ,398,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey - HBS07
+Kazakhstan,KZ,KAZ,398,National,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey - HBS07
+Kazakhstan,KZ,KAZ,398,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey - HBS07
+Kazakhstan,KZ,KAZ,398,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey - HBS07
+Kazakhstan,KZ,KAZ,398,National,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey - HBS07
+Kazakhstan,KZ,KAZ,398,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey - HBS07
+Kazakhstan,KZ,KAZ,398,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey - HBS07
+Kazakhstan,KZ,KAZ,398,National,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey - HBS07
+Kazakhstan,KZ,KAZ,398,National,12,Dry latrines - Other,0.0,Household Budget Survey - HBS07
+Kazakhstan,KZ,KAZ,398,National,13,Composting toilets,0.0,Household Budget Survey - HBS07
+Kazakhstan,KZ,KAZ,398,National,14,Other improved,0.0,Household Budget Survey - HBS07
+Kazakhstan,KZ,KAZ,398,National,15,"No facility, bush, field",0.0,Household Budget Survey - HBS07
+Kazakhstan,KZ,KAZ,398,National,16,Other unimproved,0.0,Household Budget Survey - HBS07
+Kazakhstan,KZ,KAZ,398,National,17,DK/missing information,0.0,Household Budget Survey - HBS07
+Kazakhstan,KZ,KAZ,398,Urban,1,Flush and pour flush - to piped sewer system,0.735,Household Budget Survey - HBS08
+Kazakhstan,KZ,KAZ,398,Urban,2,Flush and pour flush - to septic tank,0.0,Household Budget Survey - HBS08
+Kazakhstan,KZ,KAZ,398,Urban,3,Flush and pour flush - to pit,0.0,Household Budget Survey - HBS08
+Kazakhstan,KZ,KAZ,398,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey - HBS08
+Kazakhstan,KZ,KAZ,398,Urban,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey - HBS08
+Kazakhstan,KZ,KAZ,398,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey - HBS08
+Kazakhstan,KZ,KAZ,398,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey - HBS08
+Kazakhstan,KZ,KAZ,398,Urban,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey - HBS08
+Kazakhstan,KZ,KAZ,398,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey - HBS08
+Kazakhstan,KZ,KAZ,398,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey - HBS08
+Kazakhstan,KZ,KAZ,398,Urban,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey - HBS08
+Kazakhstan,KZ,KAZ,398,Urban,12,Dry latrines - Other,0.0,Household Budget Survey - HBS08
+Kazakhstan,KZ,KAZ,398,Urban,13,Composting toilets,0.0,Household Budget Survey - HBS08
+Kazakhstan,KZ,KAZ,398,Urban,14,Other improved,0.0,Household Budget Survey - HBS08
+Kazakhstan,KZ,KAZ,398,Urban,15,"No facility, bush, field",0.0,Household Budget Survey - HBS08
+Kazakhstan,KZ,KAZ,398,Urban,16,Other unimproved,0.0,Household Budget Survey - HBS08
+Kazakhstan,KZ,KAZ,398,Urban,17,DK/missing information,0.0,Household Budget Survey - HBS08
+Kazakhstan,KZ,KAZ,398,Rural,1,Flush and pour flush - to piped sewer system,0.089,Household Budget Survey - HBS08
+Kazakhstan,KZ,KAZ,398,Rural,2,Flush and pour flush - to septic tank,0.0,Household Budget Survey - HBS08
+Kazakhstan,KZ,KAZ,398,Rural,3,Flush and pour flush - to pit,0.0,Household Budget Survey - HBS08
+Kazakhstan,KZ,KAZ,398,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey - HBS08
+Kazakhstan,KZ,KAZ,398,Rural,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey - HBS08
+Kazakhstan,KZ,KAZ,398,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey - HBS08
+Kazakhstan,KZ,KAZ,398,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey - HBS08
+Kazakhstan,KZ,KAZ,398,Rural,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey - HBS08
+Kazakhstan,KZ,KAZ,398,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey - HBS08
+Kazakhstan,KZ,KAZ,398,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey - HBS08
+Kazakhstan,KZ,KAZ,398,Rural,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey - HBS08
+Kazakhstan,KZ,KAZ,398,Rural,12,Dry latrines - Other,0.0,Household Budget Survey - HBS08
+Kazakhstan,KZ,KAZ,398,Rural,13,Composting toilets,0.0,Household Budget Survey - HBS08
+Kazakhstan,KZ,KAZ,398,Rural,14,Other improved,0.0,Household Budget Survey - HBS08
+Kazakhstan,KZ,KAZ,398,Rural,15,"No facility, bush, field",0.0,Household Budget Survey - HBS08
+Kazakhstan,KZ,KAZ,398,Rural,16,Other unimproved,0.0,Household Budget Survey - HBS08
+Kazakhstan,KZ,KAZ,398,Rural,17,DK/missing information,0.0,Household Budget Survey - HBS08
+Kazakhstan,KZ,KAZ,398,National,1,Flush and pour flush - to piped sewer system,0.474,Household Budget Survey - HBS08
+Kazakhstan,KZ,KAZ,398,National,2,Flush and pour flush - to septic tank,0.0,Household Budget Survey - HBS08
+Kazakhstan,KZ,KAZ,398,National,3,Flush and pour flush - to pit,0.0,Household Budget Survey - HBS08
+Kazakhstan,KZ,KAZ,398,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey - HBS08
+Kazakhstan,KZ,KAZ,398,National,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey - HBS08
+Kazakhstan,KZ,KAZ,398,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey - HBS08
+Kazakhstan,KZ,KAZ,398,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey - HBS08
+Kazakhstan,KZ,KAZ,398,National,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey - HBS08
+Kazakhstan,KZ,KAZ,398,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey - HBS08
+Kazakhstan,KZ,KAZ,398,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey - HBS08
+Kazakhstan,KZ,KAZ,398,National,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey - HBS08
+Kazakhstan,KZ,KAZ,398,National,12,Dry latrines - Other,0.0,Household Budget Survey - HBS08
+Kazakhstan,KZ,KAZ,398,National,13,Composting toilets,0.0,Household Budget Survey - HBS08
+Kazakhstan,KZ,KAZ,398,National,14,Other improved,0.0,Household Budget Survey - HBS08
+Kazakhstan,KZ,KAZ,398,National,15,"No facility, bush, field",0.0,Household Budget Survey - HBS08
+Kazakhstan,KZ,KAZ,398,National,16,Other unimproved,0.0,Household Budget Survey - HBS08
+Kazakhstan,KZ,KAZ,398,National,17,DK/missing information,0.0,Household Budget Survey - HBS08
+Kazakhstan,KZ,KAZ,398,Urban,1,Flush and pour flush - to piped sewer system,0.668,National Population Census - CEN09
+Kazakhstan,KZ,KAZ,398,Urban,2,Flush and pour flush - to septic tank,0.0,National Population Census - CEN09
+Kazakhstan,KZ,KAZ,398,Urban,3,Flush and pour flush - to pit,0.0,National Population Census - CEN09
+Kazakhstan,KZ,KAZ,398,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Population Census - CEN09
+Kazakhstan,KZ,KAZ,398,Urban,5,Flush and pour flush - to elsewhere,0.0,National Population Census - CEN09
+Kazakhstan,KZ,KAZ,398,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,National Population Census - CEN09
+Kazakhstan,KZ,KAZ,398,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Population Census - CEN09
+Kazakhstan,KZ,KAZ,398,Urban,8,Dry latrines - Traditional latrine,0.0,National Population Census - CEN09
+Kazakhstan,KZ,KAZ,398,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Population Census - CEN09
+Kazakhstan,KZ,KAZ,398,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Population Census - CEN09
+Kazakhstan,KZ,KAZ,398,Urban,11,Dry latrines - Bucket latrine,0.0,National Population Census - CEN09
+Kazakhstan,KZ,KAZ,398,Urban,12,Dry latrines - Other,0.0,National Population Census - CEN09
+Kazakhstan,KZ,KAZ,398,Urban,13,Composting toilets,0.0,National Population Census - CEN09
+Kazakhstan,KZ,KAZ,398,Urban,14,Other improved,0.0,National Population Census - CEN09
+Kazakhstan,KZ,KAZ,398,Urban,15,"No facility, bush, field",0.0,National Population Census - CEN09
+Kazakhstan,KZ,KAZ,398,Urban,16,Other unimproved,0.0,National Population Census - CEN09
+Kazakhstan,KZ,KAZ,398,Urban,17,DK/missing information,0.0,National Population Census - CEN09
+Kazakhstan,KZ,KAZ,398,Rural,1,Flush and pour flush - to piped sewer system,0.083,National Population Census - CEN09
+Kazakhstan,KZ,KAZ,398,Rural,2,Flush and pour flush - to septic tank,0.0,National Population Census - CEN09
+Kazakhstan,KZ,KAZ,398,Rural,3,Flush and pour flush - to pit,0.0,National Population Census - CEN09
+Kazakhstan,KZ,KAZ,398,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Population Census - CEN09
+Kazakhstan,KZ,KAZ,398,Rural,5,Flush and pour flush - to elsewhere,0.0,National Population Census - CEN09
+Kazakhstan,KZ,KAZ,398,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,National Population Census - CEN09
+Kazakhstan,KZ,KAZ,398,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Population Census - CEN09
+Kazakhstan,KZ,KAZ,398,Rural,8,Dry latrines - Traditional latrine,0.0,National Population Census - CEN09
+Kazakhstan,KZ,KAZ,398,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Population Census - CEN09
+Kazakhstan,KZ,KAZ,398,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Population Census - CEN09
+Kazakhstan,KZ,KAZ,398,Rural,11,Dry latrines - Bucket latrine,0.0,National Population Census - CEN09
+Kazakhstan,KZ,KAZ,398,Rural,12,Dry latrines - Other,0.0,National Population Census - CEN09
+Kazakhstan,KZ,KAZ,398,Rural,13,Composting toilets,0.0,National Population Census - CEN09
+Kazakhstan,KZ,KAZ,398,Rural,14,Other improved,0.0,National Population Census - CEN09
+Kazakhstan,KZ,KAZ,398,Rural,15,"No facility, bush, field",0.0,National Population Census - CEN09
+Kazakhstan,KZ,KAZ,398,Rural,16,Other unimproved,0.0,National Population Census - CEN09
+Kazakhstan,KZ,KAZ,398,Rural,17,DK/missing information,0.0,National Population Census - CEN09
+Kazakhstan,KZ,KAZ,398,National,1,Flush and pour flush - to piped sewer system,0.0,National Population Census - CEN09
+Kazakhstan,KZ,KAZ,398,National,2,Flush and pour flush - to septic tank,0.0,National Population Census - CEN09
+Kazakhstan,KZ,KAZ,398,National,3,Flush and pour flush - to pit,0.0,National Population Census - CEN09
+Kazakhstan,KZ,KAZ,398,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Population Census - CEN09
+Kazakhstan,KZ,KAZ,398,National,5,Flush and pour flush - to elsewhere,0.0,National Population Census - CEN09
+Kazakhstan,KZ,KAZ,398,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,National Population Census - CEN09
+Kazakhstan,KZ,KAZ,398,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Population Census - CEN09
+Kazakhstan,KZ,KAZ,398,National,8,Dry latrines - Traditional latrine,0.0,National Population Census - CEN09
+Kazakhstan,KZ,KAZ,398,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Population Census - CEN09
+Kazakhstan,KZ,KAZ,398,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Population Census - CEN09
+Kazakhstan,KZ,KAZ,398,National,11,Dry latrines - Bucket latrine,0.0,National Population Census - CEN09
+Kazakhstan,KZ,KAZ,398,National,12,Dry latrines - Other,0.0,National Population Census - CEN09
+Kazakhstan,KZ,KAZ,398,National,13,Composting toilets,0.0,National Population Census - CEN09
+Kazakhstan,KZ,KAZ,398,National,14,Other improved,0.0,National Population Census - CEN09
+Kazakhstan,KZ,KAZ,398,National,15,"No facility, bush, field",0.0,National Population Census - CEN09
+Kazakhstan,KZ,KAZ,398,National,16,Other unimproved,0.0,National Population Census - CEN09
+Kazakhstan,KZ,KAZ,398,National,17,DK/missing information,0.0,National Population Census - CEN09
+Kazakhstan,KZ,KAZ,398,Urban,1,Flush and pour flush - to piped sewer system,0.734,Household Budget Survey - HBS09
+Kazakhstan,KZ,KAZ,398,Urban,2,Flush and pour flush - to septic tank,0.0,Household Budget Survey - HBS09
+Kazakhstan,KZ,KAZ,398,Urban,3,Flush and pour flush - to pit,0.0,Household Budget Survey - HBS09
+Kazakhstan,KZ,KAZ,398,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey - HBS09
+Kazakhstan,KZ,KAZ,398,Urban,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey - HBS09
+Kazakhstan,KZ,KAZ,398,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey - HBS09
+Kazakhstan,KZ,KAZ,398,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey - HBS09
+Kazakhstan,KZ,KAZ,398,Urban,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey - HBS09
+Kazakhstan,KZ,KAZ,398,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey - HBS09
+Kazakhstan,KZ,KAZ,398,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey - HBS09
+Kazakhstan,KZ,KAZ,398,Urban,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey - HBS09
+Kazakhstan,KZ,KAZ,398,Urban,12,Dry latrines - Other,0.0,Household Budget Survey - HBS09
+Kazakhstan,KZ,KAZ,398,Urban,13,Composting toilets,0.0,Household Budget Survey - HBS09
+Kazakhstan,KZ,KAZ,398,Urban,14,Other improved,0.0,Household Budget Survey - HBS09
+Kazakhstan,KZ,KAZ,398,Urban,15,"No facility, bush, field",0.0,Household Budget Survey - HBS09
+Kazakhstan,KZ,KAZ,398,Urban,16,Other unimproved,0.0,Household Budget Survey - HBS09
+Kazakhstan,KZ,KAZ,398,Urban,17,DK/missing information,0.0,Household Budget Survey - HBS09
+Kazakhstan,KZ,KAZ,398,Rural,1,Flush and pour flush - to piped sewer system,0.088,Household Budget Survey - HBS09
+Kazakhstan,KZ,KAZ,398,Rural,2,Flush and pour flush - to septic tank,0.0,Household Budget Survey - HBS09
+Kazakhstan,KZ,KAZ,398,Rural,3,Flush and pour flush - to pit,0.0,Household Budget Survey - HBS09
+Kazakhstan,KZ,KAZ,398,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey - HBS09
+Kazakhstan,KZ,KAZ,398,Rural,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey - HBS09
+Kazakhstan,KZ,KAZ,398,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey - HBS09
+Kazakhstan,KZ,KAZ,398,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey - HBS09
+Kazakhstan,KZ,KAZ,398,Rural,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey - HBS09
+Kazakhstan,KZ,KAZ,398,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey - HBS09
+Kazakhstan,KZ,KAZ,398,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey - HBS09
+Kazakhstan,KZ,KAZ,398,Rural,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey - HBS09
+Kazakhstan,KZ,KAZ,398,Rural,12,Dry latrines - Other,0.0,Household Budget Survey - HBS09
+Kazakhstan,KZ,KAZ,398,Rural,13,Composting toilets,0.0,Household Budget Survey - HBS09
+Kazakhstan,KZ,KAZ,398,Rural,14,Other improved,0.0,Household Budget Survey - HBS09
+Kazakhstan,KZ,KAZ,398,Rural,15,"No facility, bush, field",0.0,Household Budget Survey - HBS09
+Kazakhstan,KZ,KAZ,398,Rural,16,Other unimproved,0.0,Household Budget Survey - HBS09
+Kazakhstan,KZ,KAZ,398,Rural,17,DK/missing information,0.0,Household Budget Survey - HBS09
+Kazakhstan,KZ,KAZ,398,National,1,Flush and pour flush - to piped sewer system,0.471,Household Budget Survey - HBS09
+Kazakhstan,KZ,KAZ,398,National,2,Flush and pour flush - to septic tank,0.0,Household Budget Survey - HBS09
+Kazakhstan,KZ,KAZ,398,National,3,Flush and pour flush - to pit,0.0,Household Budget Survey - HBS09
+Kazakhstan,KZ,KAZ,398,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey - HBS09
+Kazakhstan,KZ,KAZ,398,National,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey - HBS09
+Kazakhstan,KZ,KAZ,398,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey - HBS09
+Kazakhstan,KZ,KAZ,398,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey - HBS09
+Kazakhstan,KZ,KAZ,398,National,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey - HBS09
+Kazakhstan,KZ,KAZ,398,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey - HBS09
+Kazakhstan,KZ,KAZ,398,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey - HBS09
+Kazakhstan,KZ,KAZ,398,National,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey - HBS09
+Kazakhstan,KZ,KAZ,398,National,12,Dry latrines - Other,0.0,Household Budget Survey - HBS09
+Kazakhstan,KZ,KAZ,398,National,13,Composting toilets,0.0,Household Budget Survey - HBS09
+Kazakhstan,KZ,KAZ,398,National,14,Other improved,0.0,Household Budget Survey - HBS09
+Kazakhstan,KZ,KAZ,398,National,15,"No facility, bush, field",0.0,Household Budget Survey - HBS09
+Kazakhstan,KZ,KAZ,398,National,16,Other unimproved,0.0,Household Budget Survey - HBS09
+Kazakhstan,KZ,KAZ,398,National,17,DK/missing information,0.0,Household Budget Survey - HBS09
+Kazakhstan,KZ,KAZ,398,Urban,1,Flush and pour flush - to piped sewer system,0.724,Household Budget Survey - HBS10
+Kazakhstan,KZ,KAZ,398,Urban,2,Flush and pour flush - to septic tank,0.0,Household Budget Survey - HBS10
+Kazakhstan,KZ,KAZ,398,Urban,3,Flush and pour flush - to pit,0.0,Household Budget Survey - HBS10
+Kazakhstan,KZ,KAZ,398,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey - HBS10
+Kazakhstan,KZ,KAZ,398,Urban,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey - HBS10
+Kazakhstan,KZ,KAZ,398,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey - HBS10
+Kazakhstan,KZ,KAZ,398,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey - HBS10
+Kazakhstan,KZ,KAZ,398,Urban,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey - HBS10
+Kazakhstan,KZ,KAZ,398,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey - HBS10
+Kazakhstan,KZ,KAZ,398,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey - HBS10
+Kazakhstan,KZ,KAZ,398,Urban,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey - HBS10
+Kazakhstan,KZ,KAZ,398,Urban,12,Dry latrines - Other,0.0,Household Budget Survey - HBS10
+Kazakhstan,KZ,KAZ,398,Urban,13,Composting toilets,0.0,Household Budget Survey - HBS10
+Kazakhstan,KZ,KAZ,398,Urban,14,Other improved,0.0,Household Budget Survey - HBS10
+Kazakhstan,KZ,KAZ,398,Urban,15,"No facility, bush, field",0.0,Household Budget Survey - HBS10
+Kazakhstan,KZ,KAZ,398,Urban,16,Other unimproved,0.0,Household Budget Survey - HBS10
+Kazakhstan,KZ,KAZ,398,Urban,17,DK/missing information,0.0,Household Budget Survey - HBS10
+Kazakhstan,KZ,KAZ,398,Rural,1,Flush and pour flush - to piped sewer system,0.084,Household Budget Survey - HBS10
+Kazakhstan,KZ,KAZ,398,Rural,2,Flush and pour flush - to septic tank,0.0,Household Budget Survey - HBS10
+Kazakhstan,KZ,KAZ,398,Rural,3,Flush and pour flush - to pit,0.0,Household Budget Survey - HBS10
+Kazakhstan,KZ,KAZ,398,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey - HBS10
+Kazakhstan,KZ,KAZ,398,Rural,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey - HBS10
+Kazakhstan,KZ,KAZ,398,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey - HBS10
+Kazakhstan,KZ,KAZ,398,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey - HBS10
+Kazakhstan,KZ,KAZ,398,Rural,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey - HBS10
+Kazakhstan,KZ,KAZ,398,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey - HBS10
+Kazakhstan,KZ,KAZ,398,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey - HBS10
+Kazakhstan,KZ,KAZ,398,Rural,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey - HBS10
+Kazakhstan,KZ,KAZ,398,Rural,12,Dry latrines - Other,0.0,Household Budget Survey - HBS10
+Kazakhstan,KZ,KAZ,398,Rural,13,Composting toilets,0.0,Household Budget Survey - HBS10
+Kazakhstan,KZ,KAZ,398,Rural,14,Other improved,0.0,Household Budget Survey - HBS10
+Kazakhstan,KZ,KAZ,398,Rural,15,"No facility, bush, field",0.0,Household Budget Survey - HBS10
+Kazakhstan,KZ,KAZ,398,Rural,16,Other unimproved,0.0,Household Budget Survey - HBS10
+Kazakhstan,KZ,KAZ,398,Rural,17,DK/missing information,0.0,Household Budget Survey - HBS10
+Kazakhstan,KZ,KAZ,398,National,1,Flush and pour flush - to piped sewer system,0.484,Household Budget Survey - HBS10
+Kazakhstan,KZ,KAZ,398,National,2,Flush and pour flush - to septic tank,0.0,Household Budget Survey - HBS10
+Kazakhstan,KZ,KAZ,398,National,3,Flush and pour flush - to pit,0.0,Household Budget Survey - HBS10
+Kazakhstan,KZ,KAZ,398,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey - HBS10
+Kazakhstan,KZ,KAZ,398,National,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey - HBS10
+Kazakhstan,KZ,KAZ,398,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey - HBS10
+Kazakhstan,KZ,KAZ,398,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey - HBS10
+Kazakhstan,KZ,KAZ,398,National,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey - HBS10
+Kazakhstan,KZ,KAZ,398,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey - HBS10
+Kazakhstan,KZ,KAZ,398,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey - HBS10
+Kazakhstan,KZ,KAZ,398,National,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey - HBS10
+Kazakhstan,KZ,KAZ,398,National,12,Dry latrines - Other,0.0,Household Budget Survey - HBS10
+Kazakhstan,KZ,KAZ,398,National,13,Composting toilets,0.0,Household Budget Survey - HBS10
+Kazakhstan,KZ,KAZ,398,National,14,Other improved,0.0,Household Budget Survey - HBS10
+Kazakhstan,KZ,KAZ,398,National,15,"No facility, bush, field",0.0,Household Budget Survey - HBS10
+Kazakhstan,KZ,KAZ,398,National,16,Other unimproved,0.0,Household Budget Survey - HBS10
+Kazakhstan,KZ,KAZ,398,National,17,DK/missing information,0.0,Household Budget Survey - HBS10
+Kazakhstan,KZ,KAZ,398,Urban,1,Flush and pour flush - to piped sewer system,0.695,Household Budget Survey - HBS11
+Kazakhstan,KZ,KAZ,398,Urban,2,Flush and pour flush - to septic tank,0.0,Household Budget Survey - HBS11
+Kazakhstan,KZ,KAZ,398,Urban,3,Flush and pour flush - to pit,0.0,Household Budget Survey - HBS11
+Kazakhstan,KZ,KAZ,398,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey - HBS11
+Kazakhstan,KZ,KAZ,398,Urban,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey - HBS11
+Kazakhstan,KZ,KAZ,398,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey - HBS11
+Kazakhstan,KZ,KAZ,398,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey - HBS11
+Kazakhstan,KZ,KAZ,398,Urban,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey - HBS11
+Kazakhstan,KZ,KAZ,398,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey - HBS11
+Kazakhstan,KZ,KAZ,398,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey - HBS11
+Kazakhstan,KZ,KAZ,398,Urban,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey - HBS11
+Kazakhstan,KZ,KAZ,398,Urban,12,Dry latrines - Other,0.0,Household Budget Survey - HBS11
+Kazakhstan,KZ,KAZ,398,Urban,13,Composting toilets,0.0,Household Budget Survey - HBS11
+Kazakhstan,KZ,KAZ,398,Urban,14,Other improved,0.0,Household Budget Survey - HBS11
+Kazakhstan,KZ,KAZ,398,Urban,15,"No facility, bush, field",0.0,Household Budget Survey - HBS11
+Kazakhstan,KZ,KAZ,398,Urban,16,Other unimproved,0.0,Household Budget Survey - HBS11
+Kazakhstan,KZ,KAZ,398,Urban,17,DK/missing information,0.0,Household Budget Survey - HBS11
+Kazakhstan,KZ,KAZ,398,Rural,1,Flush and pour flush - to piped sewer system,0.092,Household Budget Survey - HBS11
+Kazakhstan,KZ,KAZ,398,Rural,2,Flush and pour flush - to septic tank,0.0,Household Budget Survey - HBS11
+Kazakhstan,KZ,KAZ,398,Rural,3,Flush and pour flush - to pit,0.0,Household Budget Survey - HBS11
+Kazakhstan,KZ,KAZ,398,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey - HBS11
+Kazakhstan,KZ,KAZ,398,Rural,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey - HBS11
+Kazakhstan,KZ,KAZ,398,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey - HBS11
+Kazakhstan,KZ,KAZ,398,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey - HBS11
+Kazakhstan,KZ,KAZ,398,Rural,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey - HBS11
+Kazakhstan,KZ,KAZ,398,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey - HBS11
+Kazakhstan,KZ,KAZ,398,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey - HBS11
+Kazakhstan,KZ,KAZ,398,Rural,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey - HBS11
+Kazakhstan,KZ,KAZ,398,Rural,12,Dry latrines - Other,0.0,Household Budget Survey - HBS11
+Kazakhstan,KZ,KAZ,398,Rural,13,Composting toilets,0.0,Household Budget Survey - HBS11
+Kazakhstan,KZ,KAZ,398,Rural,14,Other improved,0.0,Household Budget Survey - HBS11
+Kazakhstan,KZ,KAZ,398,Rural,15,"No facility, bush, field",0.0,Household Budget Survey - HBS11
+Kazakhstan,KZ,KAZ,398,Rural,16,Other unimproved,0.0,Household Budget Survey - HBS11
+Kazakhstan,KZ,KAZ,398,Rural,17,DK/missing information,0.0,Household Budget Survey - HBS11
+Kazakhstan,KZ,KAZ,398,National,1,Flush and pour flush - to piped sewer system,0.447,Household Budget Survey - HBS11
+Kazakhstan,KZ,KAZ,398,National,2,Flush and pour flush - to septic tank,0.0,Household Budget Survey - HBS11
+Kazakhstan,KZ,KAZ,398,National,3,Flush and pour flush - to pit,0.0,Household Budget Survey - HBS11
+Kazakhstan,KZ,KAZ,398,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey - HBS11
+Kazakhstan,KZ,KAZ,398,National,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey - HBS11
+Kazakhstan,KZ,KAZ,398,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey - HBS11
+Kazakhstan,KZ,KAZ,398,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey - HBS11
+Kazakhstan,KZ,KAZ,398,National,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey - HBS11
+Kazakhstan,KZ,KAZ,398,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey - HBS11
+Kazakhstan,KZ,KAZ,398,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey - HBS11
+Kazakhstan,KZ,KAZ,398,National,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey - HBS11
+Kazakhstan,KZ,KAZ,398,National,12,Dry latrines - Other,0.0,Household Budget Survey - HBS11
+Kazakhstan,KZ,KAZ,398,National,13,Composting toilets,0.0,Household Budget Survey - HBS11
+Kazakhstan,KZ,KAZ,398,National,14,Other improved,0.0,Household Budget Survey - HBS11
+Kazakhstan,KZ,KAZ,398,National,15,"No facility, bush, field",0.0,Household Budget Survey - HBS11
+Kazakhstan,KZ,KAZ,398,National,16,Other unimproved,0.0,Household Budget Survey - HBS11
+Kazakhstan,KZ,KAZ,398,National,17,DK/missing information,0.0,Household Budget Survey - HBS11
+Kazakhstan,KZ,KAZ,398,Urban,1,Flush and pour flush - to piped sewer system,0.697,Household Budget Survey - HBS12
+Kazakhstan,KZ,KAZ,398,Urban,2,Flush and pour flush - to septic tank,0.0,Household Budget Survey - HBS12
+Kazakhstan,KZ,KAZ,398,Urban,3,Flush and pour flush - to pit,0.0,Household Budget Survey - HBS12
+Kazakhstan,KZ,KAZ,398,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey - HBS12
+Kazakhstan,KZ,KAZ,398,Urban,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey - HBS12
+Kazakhstan,KZ,KAZ,398,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey - HBS12
+Kazakhstan,KZ,KAZ,398,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey - HBS12
+Kazakhstan,KZ,KAZ,398,Urban,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey - HBS12
+Kazakhstan,KZ,KAZ,398,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey - HBS12
+Kazakhstan,KZ,KAZ,398,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey - HBS12
+Kazakhstan,KZ,KAZ,398,Urban,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey - HBS12
+Kazakhstan,KZ,KAZ,398,Urban,12,Dry latrines - Other,0.0,Household Budget Survey - HBS12
+Kazakhstan,KZ,KAZ,398,Urban,13,Composting toilets,0.0,Household Budget Survey - HBS12
+Kazakhstan,KZ,KAZ,398,Urban,14,Other improved,0.0,Household Budget Survey - HBS12
+Kazakhstan,KZ,KAZ,398,Urban,15,"No facility, bush, field",0.0,Household Budget Survey - HBS12
+Kazakhstan,KZ,KAZ,398,Urban,16,Other unimproved,0.0,Household Budget Survey - HBS12
+Kazakhstan,KZ,KAZ,398,Urban,17,DK/missing information,0.0,Household Budget Survey - HBS12
+Kazakhstan,KZ,KAZ,398,Rural,1,Flush and pour flush - to piped sewer system,0.112,Household Budget Survey - HBS12
+Kazakhstan,KZ,KAZ,398,Rural,2,Flush and pour flush - to septic tank,0.0,Household Budget Survey - HBS12
+Kazakhstan,KZ,KAZ,398,Rural,3,Flush and pour flush - to pit,0.0,Household Budget Survey - HBS12
+Kazakhstan,KZ,KAZ,398,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey - HBS12
+Kazakhstan,KZ,KAZ,398,Rural,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey - HBS12
+Kazakhstan,KZ,KAZ,398,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey - HBS12
+Kazakhstan,KZ,KAZ,398,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey - HBS12
+Kazakhstan,KZ,KAZ,398,Rural,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey - HBS12
+Kazakhstan,KZ,KAZ,398,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey - HBS12
+Kazakhstan,KZ,KAZ,398,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey - HBS12
+Kazakhstan,KZ,KAZ,398,Rural,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey - HBS12
+Kazakhstan,KZ,KAZ,398,Rural,12,Dry latrines - Other,0.0,Household Budget Survey - HBS12
+Kazakhstan,KZ,KAZ,398,Rural,13,Composting toilets,0.0,Household Budget Survey - HBS12
+Kazakhstan,KZ,KAZ,398,Rural,14,Other improved,0.0,Household Budget Survey - HBS12
+Kazakhstan,KZ,KAZ,398,Rural,15,"No facility, bush, field",0.0,Household Budget Survey - HBS12
+Kazakhstan,KZ,KAZ,398,Rural,16,Other unimproved,0.0,Household Budget Survey - HBS12
+Kazakhstan,KZ,KAZ,398,Rural,17,DK/missing information,0.0,Household Budget Survey - HBS12
+Kazakhstan,KZ,KAZ,398,National,1,Flush and pour flush - to piped sewer system,0.464,Household Budget Survey - HBS12
+Kazakhstan,KZ,KAZ,398,National,2,Flush and pour flush - to septic tank,0.0,Household Budget Survey - HBS12
+Kazakhstan,KZ,KAZ,398,National,3,Flush and pour flush - to pit,0.0,Household Budget Survey - HBS12
+Kazakhstan,KZ,KAZ,398,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey - HBS12
+Kazakhstan,KZ,KAZ,398,National,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey - HBS12
+Kazakhstan,KZ,KAZ,398,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey - HBS12
+Kazakhstan,KZ,KAZ,398,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey - HBS12
+Kazakhstan,KZ,KAZ,398,National,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey - HBS12
+Kazakhstan,KZ,KAZ,398,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey - HBS12
+Kazakhstan,KZ,KAZ,398,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey - HBS12
+Kazakhstan,KZ,KAZ,398,National,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey - HBS12
+Kazakhstan,KZ,KAZ,398,National,12,Dry latrines - Other,0.0,Household Budget Survey - HBS12
+Kazakhstan,KZ,KAZ,398,National,13,Composting toilets,0.0,Household Budget Survey - HBS12
+Kazakhstan,KZ,KAZ,398,National,14,Other improved,0.0,Household Budget Survey - HBS12
+Kazakhstan,KZ,KAZ,398,National,15,"No facility, bush, field",0.0,Household Budget Survey - HBS12
+Kazakhstan,KZ,KAZ,398,National,16,Other unimproved,0.0,Household Budget Survey - HBS12
+Kazakhstan,KZ,KAZ,398,National,17,DK/missing information,0.0,Household Budget Survey - HBS12

@@ -1,0 +1,715 @@
+country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+Belarus,BY,BLR,112,Urban,1,Flush and pour flush - to piped sewer system,0.856,Multiple Indicator Cluster Survey - MICS05
+Belarus,BY,BLR,112,Urban,2,Flush and pour flush - to septic tank,0.017,Multiple Indicator Cluster Survey - MICS05
+Belarus,BY,BLR,112,Urban,3,Flush and pour flush - to pit,0.016,Multiple Indicator Cluster Survey - MICS05
+Belarus,BY,BLR,112,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS05
+Belarus,BY,BLR,112,Urban,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS05
+Belarus,BY,BLR,112,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.004,Multiple Indicator Cluster Survey - MICS05
+Belarus,BY,BLR,112,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.102,Multiple Indicator Cluster Survey - MICS05
+Belarus,BY,BLR,112,Urban,8,Dry latrines - Traditional latrine,0.0,Multiple Indicator Cluster Survey - MICS05
+Belarus,BY,BLR,112,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.004,Multiple Indicator Cluster Survey - MICS05
+Belarus,BY,BLR,112,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS05
+Belarus,BY,BLR,112,Urban,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS05
+Belarus,BY,BLR,112,Urban,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS05
+Belarus,BY,BLR,112,Urban,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS05
+Belarus,BY,BLR,112,Urban,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS05
+Belarus,BY,BLR,112,Urban,15,"No facility, bush, field",0.0,Multiple Indicator Cluster Survey - MICS05
+Belarus,BY,BLR,112,Urban,16,Other unimproved,0.0,Multiple Indicator Cluster Survey - MICS05
+Belarus,BY,BLR,112,Urban,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS05
+Belarus,BY,BLR,112,Rural,1,Flush and pour flush - to piped sewer system,0.382,Multiple Indicator Cluster Survey - MICS05
+Belarus,BY,BLR,112,Rural,2,Flush and pour flush - to septic tank,0.052,Multiple Indicator Cluster Survey - MICS05
+Belarus,BY,BLR,112,Rural,3,Flush and pour flush - to pit,0.006,Multiple Indicator Cluster Survey - MICS05
+Belarus,BY,BLR,112,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS05
+Belarus,BY,BLR,112,Rural,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS05
+Belarus,BY,BLR,112,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.003,Multiple Indicator Cluster Survey - MICS05
+Belarus,BY,BLR,112,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.546,Multiple Indicator Cluster Survey - MICS05
+Belarus,BY,BLR,112,Rural,8,Dry latrines - Traditional latrine,0.0,Multiple Indicator Cluster Survey - MICS05
+Belarus,BY,BLR,112,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.01,Multiple Indicator Cluster Survey - MICS05
+Belarus,BY,BLR,112,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS05
+Belarus,BY,BLR,112,Rural,11,Dry latrines - Bucket latrine,0.001,Multiple Indicator Cluster Survey - MICS05
+Belarus,BY,BLR,112,Rural,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS05
+Belarus,BY,BLR,112,Rural,13,Composting toilets,0.001,Multiple Indicator Cluster Survey - MICS05
+Belarus,BY,BLR,112,Rural,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS05
+Belarus,BY,BLR,112,Rural,15,"No facility, bush, field",0.0,Multiple Indicator Cluster Survey - MICS05
+Belarus,BY,BLR,112,Rural,16,Other unimproved,0.0,Multiple Indicator Cluster Survey - MICS05
+Belarus,BY,BLR,112,Rural,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS05
+Belarus,BY,BLR,112,National,1,Flush and pour flush - to piped sewer system,0.696,Multiple Indicator Cluster Survey - MICS05
+Belarus,BY,BLR,112,National,2,Flush and pour flush - to septic tank,0.029,Multiple Indicator Cluster Survey - MICS05
+Belarus,BY,BLR,112,National,3,Flush and pour flush - to pit,0.013,Multiple Indicator Cluster Survey - MICS05
+Belarus,BY,BLR,112,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS05
+Belarus,BY,BLR,112,National,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS05
+Belarus,BY,BLR,112,National,6,Dry latrines - Ventilated Improved Pit latrine,0.004,Multiple Indicator Cluster Survey - MICS05
+Belarus,BY,BLR,112,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.252,Multiple Indicator Cluster Survey - MICS05
+Belarus,BY,BLR,112,National,8,Dry latrines - Traditional latrine,0.0,Multiple Indicator Cluster Survey - MICS05
+Belarus,BY,BLR,112,National,9,Dry latrines - Pit latrine without slab/open pit,0.006,Multiple Indicator Cluster Survey - MICS05
+Belarus,BY,BLR,112,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS05
+Belarus,BY,BLR,112,National,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS05
+Belarus,BY,BLR,112,National,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS05
+Belarus,BY,BLR,112,National,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS05
+Belarus,BY,BLR,112,National,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS05
+Belarus,BY,BLR,112,National,15,"No facility, bush, field",0.0,Multiple Indicator Cluster Survey - MICS05
+Belarus,BY,BLR,112,National,16,Other unimproved,0.0,Multiple Indicator Cluster Survey - MICS05
+Belarus,BY,BLR,112,National,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS05
+Belarus,BY,BLR,112,Urban,1,Flush and pour flush - to piped sewer system,0.941,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS07
+Belarus,BY,BLR,112,Urban,2,Flush and pour flush - to septic tank,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS07
+Belarus,BY,BLR,112,Urban,3,Flush and pour flush - to pit,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS07
+Belarus,BY,BLR,112,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS07
+Belarus,BY,BLR,112,Urban,5,Flush and pour flush - to elsewhere,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS07
+Belarus,BY,BLR,112,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS07
+Belarus,BY,BLR,112,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS07
+Belarus,BY,BLR,112,Urban,8,Dry latrines - Traditional latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS07
+Belarus,BY,BLR,112,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS07
+Belarus,BY,BLR,112,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS07
+Belarus,BY,BLR,112,Urban,11,Dry latrines - Bucket latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS07
+Belarus,BY,BLR,112,Urban,12,Dry latrines - Other,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS07
+Belarus,BY,BLR,112,Urban,13,Composting toilets,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS07
+Belarus,BY,BLR,112,Urban,14,Other improved,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS07
+Belarus,BY,BLR,112,Urban,15,"No facility, bush, field",0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS07
+Belarus,BY,BLR,112,Urban,16,Other unimproved,0.059,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS07
+Belarus,BY,BLR,112,Urban,17,DK/missing information,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS07
+Belarus,BY,BLR,112,Rural,1,Flush and pour flush - to piped sewer system,0.504,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS07
+Belarus,BY,BLR,112,Rural,2,Flush and pour flush - to septic tank,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS07
+Belarus,BY,BLR,112,Rural,3,Flush and pour flush - to pit,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS07
+Belarus,BY,BLR,112,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS07
+Belarus,BY,BLR,112,Rural,5,Flush and pour flush - to elsewhere,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS07
+Belarus,BY,BLR,112,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS07
+Belarus,BY,BLR,112,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS07
+Belarus,BY,BLR,112,Rural,8,Dry latrines - Traditional latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS07
+Belarus,BY,BLR,112,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS07
+Belarus,BY,BLR,112,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS07
+Belarus,BY,BLR,112,Rural,11,Dry latrines - Bucket latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS07
+Belarus,BY,BLR,112,Rural,12,Dry latrines - Other,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS07
+Belarus,BY,BLR,112,Rural,13,Composting toilets,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS07
+Belarus,BY,BLR,112,Rural,14,Other improved,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS07
+Belarus,BY,BLR,112,Rural,15,"No facility, bush, field",0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS07
+Belarus,BY,BLR,112,Rural,16,Other unimproved,0.496,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS07
+Belarus,BY,BLR,112,Rural,17,DK/missing information,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS07
+Belarus,BY,BLR,112,National,1,Flush and pour flush - to piped sewer system,0.794,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS07
+Belarus,BY,BLR,112,National,2,Flush and pour flush - to septic tank,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS07
+Belarus,BY,BLR,112,National,3,Flush and pour flush - to pit,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS07
+Belarus,BY,BLR,112,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS07
+Belarus,BY,BLR,112,National,5,Flush and pour flush - to elsewhere,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS07
+Belarus,BY,BLR,112,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS07
+Belarus,BY,BLR,112,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS07
+Belarus,BY,BLR,112,National,8,Dry latrines - Traditional latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS07
+Belarus,BY,BLR,112,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS07
+Belarus,BY,BLR,112,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS07
+Belarus,BY,BLR,112,National,11,Dry latrines - Bucket latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS07
+Belarus,BY,BLR,112,National,12,Dry latrines - Other,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS07
+Belarus,BY,BLR,112,National,13,Composting toilets,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS07
+Belarus,BY,BLR,112,National,14,Other improved,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS07
+Belarus,BY,BLR,112,National,15,"No facility, bush, field",0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS07
+Belarus,BY,BLR,112,National,16,Other unimproved,0.206,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS07
+Belarus,BY,BLR,112,National,17,DK/missing information,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS07
+Belarus,BY,BLR,112,Urban,1,Flush and pour flush - to piped sewer system,0.934,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS08
+Belarus,BY,BLR,112,Urban,2,Flush and pour flush - to septic tank,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS08
+Belarus,BY,BLR,112,Urban,3,Flush and pour flush - to pit,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS08
+Belarus,BY,BLR,112,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS08
+Belarus,BY,BLR,112,Urban,5,Flush and pour flush - to elsewhere,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS08
+Belarus,BY,BLR,112,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS08
+Belarus,BY,BLR,112,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS08
+Belarus,BY,BLR,112,Urban,8,Dry latrines - Traditional latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS08
+Belarus,BY,BLR,112,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS08
+Belarus,BY,BLR,112,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS08
+Belarus,BY,BLR,112,Urban,11,Dry latrines - Bucket latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS08
+Belarus,BY,BLR,112,Urban,12,Dry latrines - Other,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS08
+Belarus,BY,BLR,112,Urban,13,Composting toilets,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS08
+Belarus,BY,BLR,112,Urban,14,Other improved,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS08
+Belarus,BY,BLR,112,Urban,15,"No facility, bush, field",0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS08
+Belarus,BY,BLR,112,Urban,16,Other unimproved,0.066,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS08
+Belarus,BY,BLR,112,Urban,17,DK/missing information,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS08
+Belarus,BY,BLR,112,Rural,1,Flush and pour flush - to piped sewer system,0.528,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS08
+Belarus,BY,BLR,112,Rural,2,Flush and pour flush - to septic tank,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS08
+Belarus,BY,BLR,112,Rural,3,Flush and pour flush - to pit,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS08
+Belarus,BY,BLR,112,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS08
+Belarus,BY,BLR,112,Rural,5,Flush and pour flush - to elsewhere,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS08
+Belarus,BY,BLR,112,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS08
+Belarus,BY,BLR,112,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS08
+Belarus,BY,BLR,112,Rural,8,Dry latrines - Traditional latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS08
+Belarus,BY,BLR,112,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS08
+Belarus,BY,BLR,112,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS08
+Belarus,BY,BLR,112,Rural,11,Dry latrines - Bucket latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS08
+Belarus,BY,BLR,112,Rural,12,Dry latrines - Other,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS08
+Belarus,BY,BLR,112,Rural,13,Composting toilets,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS08
+Belarus,BY,BLR,112,Rural,14,Other improved,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS08
+Belarus,BY,BLR,112,Rural,15,"No facility, bush, field",0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS08
+Belarus,BY,BLR,112,Rural,16,Other unimproved,0.472,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS08
+Belarus,BY,BLR,112,Rural,17,DK/missing information,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS08
+Belarus,BY,BLR,112,National,1,Flush and pour flush - to piped sewer system,0.795,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS08
+Belarus,BY,BLR,112,National,2,Flush and pour flush - to septic tank,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS08
+Belarus,BY,BLR,112,National,3,Flush and pour flush - to pit,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS08
+Belarus,BY,BLR,112,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS08
+Belarus,BY,BLR,112,National,5,Flush and pour flush - to elsewhere,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS08
+Belarus,BY,BLR,112,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS08
+Belarus,BY,BLR,112,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS08
+Belarus,BY,BLR,112,National,8,Dry latrines - Traditional latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS08
+Belarus,BY,BLR,112,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS08
+Belarus,BY,BLR,112,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS08
+Belarus,BY,BLR,112,National,11,Dry latrines - Bucket latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS08
+Belarus,BY,BLR,112,National,12,Dry latrines - Other,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS08
+Belarus,BY,BLR,112,National,13,Composting toilets,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS08
+Belarus,BY,BLR,112,National,14,Other improved,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS08
+Belarus,BY,BLR,112,National,15,"No facility, bush, field",0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS08
+Belarus,BY,BLR,112,National,16,Other unimproved,0.205,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS08
+Belarus,BY,BLR,112,National,17,DK/missing information,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS08
+Belarus,BY,BLR,112,Urban,1,Flush and pour flush - to piped sewer system,0.929,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS09
+Belarus,BY,BLR,112,Urban,2,Flush and pour flush - to septic tank,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS09
+Belarus,BY,BLR,112,Urban,3,Flush and pour flush - to pit,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS09
+Belarus,BY,BLR,112,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS09
+Belarus,BY,BLR,112,Urban,5,Flush and pour flush - to elsewhere,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS09
+Belarus,BY,BLR,112,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS09
+Belarus,BY,BLR,112,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS09
+Belarus,BY,BLR,112,Urban,8,Dry latrines - Traditional latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS09
+Belarus,BY,BLR,112,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS09
+Belarus,BY,BLR,112,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS09
+Belarus,BY,BLR,112,Urban,11,Dry latrines - Bucket latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS09
+Belarus,BY,BLR,112,Urban,12,Dry latrines - Other,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS09
+Belarus,BY,BLR,112,Urban,13,Composting toilets,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS09
+Belarus,BY,BLR,112,Urban,14,Other improved,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS09
+Belarus,BY,BLR,112,Urban,15,"No facility, bush, field",0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS09
+Belarus,BY,BLR,112,Urban,16,Other unimproved,0.071,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS09
+Belarus,BY,BLR,112,Urban,17,DK/missing information,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS09
+Belarus,BY,BLR,112,Rural,1,Flush and pour flush - to piped sewer system,0.558,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS09
+Belarus,BY,BLR,112,Rural,2,Flush and pour flush - to septic tank,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS09
+Belarus,BY,BLR,112,Rural,3,Flush and pour flush - to pit,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS09
+Belarus,BY,BLR,112,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS09
+Belarus,BY,BLR,112,Rural,5,Flush and pour flush - to elsewhere,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS09
+Belarus,BY,BLR,112,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS09
+Belarus,BY,BLR,112,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS09
+Belarus,BY,BLR,112,Rural,8,Dry latrines - Traditional latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS09
+Belarus,BY,BLR,112,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS09
+Belarus,BY,BLR,112,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS09
+Belarus,BY,BLR,112,Rural,11,Dry latrines - Bucket latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS09
+Belarus,BY,BLR,112,Rural,12,Dry latrines - Other,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS09
+Belarus,BY,BLR,112,Rural,13,Composting toilets,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS09
+Belarus,BY,BLR,112,Rural,14,Other improved,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS09
+Belarus,BY,BLR,112,Rural,15,"No facility, bush, field",0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS09
+Belarus,BY,BLR,112,Rural,16,Other unimproved,0.444,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS09
+Belarus,BY,BLR,112,Rural,17,DK/missing information,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS09
+Belarus,BY,BLR,112,National,1,Flush and pour flush - to piped sewer system,0.812,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS09
+Belarus,BY,BLR,112,National,2,Flush and pour flush - to septic tank,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS09
+Belarus,BY,BLR,112,National,3,Flush and pour flush - to pit,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS09
+Belarus,BY,BLR,112,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS09
+Belarus,BY,BLR,112,National,5,Flush and pour flush - to elsewhere,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS09
+Belarus,BY,BLR,112,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS09
+Belarus,BY,BLR,112,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS09
+Belarus,BY,BLR,112,National,8,Dry latrines - Traditional latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS09
+Belarus,BY,BLR,112,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS09
+Belarus,BY,BLR,112,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS09
+Belarus,BY,BLR,112,National,11,Dry latrines - Bucket latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS09
+Belarus,BY,BLR,112,National,12,Dry latrines - Other,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS09
+Belarus,BY,BLR,112,National,13,Composting toilets,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS09
+Belarus,BY,BLR,112,National,14,Other improved,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS09
+Belarus,BY,BLR,112,National,15,"No facility, bush, field",0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS09
+Belarus,BY,BLR,112,National,16,Other unimproved,0.188,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS09
+Belarus,BY,BLR,112,National,17,DK/missing information,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS  - LSS09
+Belarus,BY,BLR,112,Urban,1,Flush and pour flush - to piped sewer system,0.947,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS10
+Belarus,BY,BLR,112,Urban,2,Flush and pour flush - to septic tank,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS10
+Belarus,BY,BLR,112,Urban,3,Flush and pour flush - to pit,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS10
+Belarus,BY,BLR,112,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS10
+Belarus,BY,BLR,112,Urban,5,Flush and pour flush - to elsewhere,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS10
+Belarus,BY,BLR,112,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS10
+Belarus,BY,BLR,112,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS10
+Belarus,BY,BLR,112,Urban,8,Dry latrines - Traditional latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS10
+Belarus,BY,BLR,112,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS10
+Belarus,BY,BLR,112,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS10
+Belarus,BY,BLR,112,Urban,11,Dry latrines - Bucket latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS10
+Belarus,BY,BLR,112,Urban,12,Dry latrines - Other,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS10
+Belarus,BY,BLR,112,Urban,13,Composting toilets,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS10
+Belarus,BY,BLR,112,Urban,14,Other improved,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS10
+Belarus,BY,BLR,112,Urban,15,"No facility, bush, field",0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS10
+Belarus,BY,BLR,112,Urban,16,Other unimproved,0.053,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS10
+Belarus,BY,BLR,112,Urban,17,DK/missing information,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS10
+Belarus,BY,BLR,112,Rural,1,Flush and pour flush - to piped sewer system,0.583,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS10
+Belarus,BY,BLR,112,Rural,2,Flush and pour flush - to septic tank,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS10
+Belarus,BY,BLR,112,Rural,3,Flush and pour flush - to pit,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS10
+Belarus,BY,BLR,112,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS10
+Belarus,BY,BLR,112,Rural,5,Flush and pour flush - to elsewhere,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS10
+Belarus,BY,BLR,112,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS10
+Belarus,BY,BLR,112,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS10
+Belarus,BY,BLR,112,Rural,8,Dry latrines - Traditional latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS10
+Belarus,BY,BLR,112,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS10
+Belarus,BY,BLR,112,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS10
+Belarus,BY,BLR,112,Rural,11,Dry latrines - Bucket latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS10
+Belarus,BY,BLR,112,Rural,12,Dry latrines - Other,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS10
+Belarus,BY,BLR,112,Rural,13,Composting toilets,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS10
+Belarus,BY,BLR,112,Rural,14,Other improved,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS10
+Belarus,BY,BLR,112,Rural,15,"No facility, bush, field",0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS10
+Belarus,BY,BLR,112,Rural,16,Other unimproved,0.417,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS10
+Belarus,BY,BLR,112,Rural,17,DK/missing information,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS10
+Belarus,BY,BLR,112,National,1,Flush and pour flush - to piped sewer system,0.831,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS10
+Belarus,BY,BLR,112,National,2,Flush and pour flush - to septic tank,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS10
+Belarus,BY,BLR,112,National,3,Flush and pour flush - to pit,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS10
+Belarus,BY,BLR,112,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS10
+Belarus,BY,BLR,112,National,5,Flush and pour flush - to elsewhere,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS10
+Belarus,BY,BLR,112,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS10
+Belarus,BY,BLR,112,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS10
+Belarus,BY,BLR,112,National,8,Dry latrines - Traditional latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS10
+Belarus,BY,BLR,112,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS10
+Belarus,BY,BLR,112,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS10
+Belarus,BY,BLR,112,National,11,Dry latrines - Bucket latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS10
+Belarus,BY,BLR,112,National,12,Dry latrines - Other,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS10
+Belarus,BY,BLR,112,National,13,Composting toilets,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS10
+Belarus,BY,BLR,112,National,14,Other improved,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS10
+Belarus,BY,BLR,112,National,15,"No facility, bush, field",0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS10
+Belarus,BY,BLR,112,National,16,Other unimproved,0.169,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS10
+Belarus,BY,BLR,112,National,17,DK/missing information,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS10
+Belarus,BY,BLR,112,Urban,1,Flush and pour flush - to piped sewer system,0.944,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS11
+Belarus,BY,BLR,112,Urban,2,Flush and pour flush - to septic tank,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS11
+Belarus,BY,BLR,112,Urban,3,Flush and pour flush - to pit,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS11
+Belarus,BY,BLR,112,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS11
+Belarus,BY,BLR,112,Urban,5,Flush and pour flush - to elsewhere,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS11
+Belarus,BY,BLR,112,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS11
+Belarus,BY,BLR,112,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS11
+Belarus,BY,BLR,112,Urban,8,Dry latrines - Traditional latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS11
+Belarus,BY,BLR,112,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS11
+Belarus,BY,BLR,112,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS11
+Belarus,BY,BLR,112,Urban,11,Dry latrines - Bucket latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS11
+Belarus,BY,BLR,112,Urban,12,Dry latrines - Other,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS11
+Belarus,BY,BLR,112,Urban,13,Composting toilets,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS11
+Belarus,BY,BLR,112,Urban,14,Other improved,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS11
+Belarus,BY,BLR,112,Urban,15,"No facility, bush, field",0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS11
+Belarus,BY,BLR,112,Urban,16,Other unimproved,0.056,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS11
+Belarus,BY,BLR,112,Urban,17,DK/missing information,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS11
+Belarus,BY,BLR,112,Rural,1,Flush and pour flush - to piped sewer system,0.588,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS11
+Belarus,BY,BLR,112,Rural,2,Flush and pour flush - to septic tank,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS11
+Belarus,BY,BLR,112,Rural,3,Flush and pour flush - to pit,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS11
+Belarus,BY,BLR,112,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS11
+Belarus,BY,BLR,112,Rural,5,Flush and pour flush - to elsewhere,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS11
+Belarus,BY,BLR,112,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS11
+Belarus,BY,BLR,112,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS11
+Belarus,BY,BLR,112,Rural,8,Dry latrines - Traditional latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS11
+Belarus,BY,BLR,112,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS11
+Belarus,BY,BLR,112,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS11
+Belarus,BY,BLR,112,Rural,11,Dry latrines - Bucket latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS11
+Belarus,BY,BLR,112,Rural,12,Dry latrines - Other,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS11
+Belarus,BY,BLR,112,Rural,13,Composting toilets,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS11
+Belarus,BY,BLR,112,Rural,14,Other improved,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS11
+Belarus,BY,BLR,112,Rural,15,"No facility, bush, field",0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS11
+Belarus,BY,BLR,112,Rural,16,Other unimproved,0.412,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS11
+Belarus,BY,BLR,112,Rural,17,DK/missing information,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS11
+Belarus,BY,BLR,112,National,1,Flush and pour flush - to piped sewer system,0.844,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS11
+Belarus,BY,BLR,112,National,2,Flush and pour flush - to septic tank,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS11
+Belarus,BY,BLR,112,National,3,Flush and pour flush - to pit,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS11
+Belarus,BY,BLR,112,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS11
+Belarus,BY,BLR,112,National,5,Flush and pour flush - to elsewhere,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS11
+Belarus,BY,BLR,112,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS11
+Belarus,BY,BLR,112,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS11
+Belarus,BY,BLR,112,National,8,Dry latrines - Traditional latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS11
+Belarus,BY,BLR,112,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS11
+Belarus,BY,BLR,112,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS11
+Belarus,BY,BLR,112,National,11,Dry latrines - Bucket latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS11
+Belarus,BY,BLR,112,National,12,Dry latrines - Other,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS11
+Belarus,BY,BLR,112,National,13,Composting toilets,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS11
+Belarus,BY,BLR,112,National,14,Other improved,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS11
+Belarus,BY,BLR,112,National,15,"No facility, bush, field",0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS11
+Belarus,BY,BLR,112,National,16,Other unimproved,0.156,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS11
+Belarus,BY,BLR,112,National,17,DK/missing information,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS11
+Belarus,BY,BLR,112,Urban,1,Flush and pour flush - to piped sewer system,0.938,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS12
+Belarus,BY,BLR,112,Urban,2,Flush and pour flush - to septic tank,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS12
+Belarus,BY,BLR,112,Urban,3,Flush and pour flush - to pit,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS12
+Belarus,BY,BLR,112,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS12
+Belarus,BY,BLR,112,Urban,5,Flush and pour flush - to elsewhere,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS12
+Belarus,BY,BLR,112,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS12
+Belarus,BY,BLR,112,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS12
+Belarus,BY,BLR,112,Urban,8,Dry latrines - Traditional latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS12
+Belarus,BY,BLR,112,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS12
+Belarus,BY,BLR,112,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS12
+Belarus,BY,BLR,112,Urban,11,Dry latrines - Bucket latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS12
+Belarus,BY,BLR,112,Urban,12,Dry latrines - Other,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS12
+Belarus,BY,BLR,112,Urban,13,Composting toilets,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS12
+Belarus,BY,BLR,112,Urban,14,Other improved,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS12
+Belarus,BY,BLR,112,Urban,15,"No facility, bush, field",0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS12
+Belarus,BY,BLR,112,Urban,16,Other unimproved,0.062,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS12
+Belarus,BY,BLR,112,Urban,17,DK/missing information,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS12
+Belarus,BY,BLR,112,Rural,1,Flush and pour flush - to piped sewer system,0.584,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS12
+Belarus,BY,BLR,112,Rural,2,Flush and pour flush - to septic tank,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS12
+Belarus,BY,BLR,112,Rural,3,Flush and pour flush - to pit,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS12
+Belarus,BY,BLR,112,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS12
+Belarus,BY,BLR,112,Rural,5,Flush and pour flush - to elsewhere,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS12
+Belarus,BY,BLR,112,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS12
+Belarus,BY,BLR,112,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS12
+Belarus,BY,BLR,112,Rural,8,Dry latrines - Traditional latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS12
+Belarus,BY,BLR,112,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS12
+Belarus,BY,BLR,112,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS12
+Belarus,BY,BLR,112,Rural,11,Dry latrines - Bucket latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS12
+Belarus,BY,BLR,112,Rural,12,Dry latrines - Other,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS12
+Belarus,BY,BLR,112,Rural,13,Composting toilets,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS12
+Belarus,BY,BLR,112,Rural,14,Other improved,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS12
+Belarus,BY,BLR,112,Rural,15,"No facility, bush, field",0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS12
+Belarus,BY,BLR,112,Rural,16,Other unimproved,0.416,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS12
+Belarus,BY,BLR,112,Rural,17,DK/missing information,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS12
+Belarus,BY,BLR,112,National,1,Flush and pour flush - to piped sewer system,0.837,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS12
+Belarus,BY,BLR,112,National,2,Flush and pour flush - to septic tank,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS12
+Belarus,BY,BLR,112,National,3,Flush and pour flush - to pit,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS12
+Belarus,BY,BLR,112,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS12
+Belarus,BY,BLR,112,National,5,Flush and pour flush - to elsewhere,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS12
+Belarus,BY,BLR,112,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS12
+Belarus,BY,BLR,112,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS12
+Belarus,BY,BLR,112,National,8,Dry latrines - Traditional latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS12
+Belarus,BY,BLR,112,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS12
+Belarus,BY,BLR,112,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS12
+Belarus,BY,BLR,112,National,11,Dry latrines - Bucket latrine,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS12
+Belarus,BY,BLR,112,National,12,Dry latrines - Other,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS12
+Belarus,BY,BLR,112,National,13,Composting toilets,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS12
+Belarus,BY,BLR,112,National,14,Other improved,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS12
+Belarus,BY,BLR,112,National,15,"No facility, bush, field",0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS12
+Belarus,BY,BLR,112,National,16,Other unimproved,0.163,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS12
+Belarus,BY,BLR,112,National,17,DK/missing information,0.0,SOCIAL CONDITIONS AND LIVING STANDARDS - LSS12
+Belarus,BY,BLR,112,Urban,1,Flush and pour flush - to piped sewer system,0.861,Multiple Indicator Cluster Survey - MICS12
+Belarus,BY,BLR,112,Urban,2,Flush and pour flush - to septic tank,0.027,Multiple Indicator Cluster Survey - MICS12
+Belarus,BY,BLR,112,Urban,3,Flush and pour flush - to pit,0.021,Multiple Indicator Cluster Survey - MICS12
+Belarus,BY,BLR,112,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS12
+Belarus,BY,BLR,112,Urban,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS12
+Belarus,BY,BLR,112,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.01,Multiple Indicator Cluster Survey - MICS12
+Belarus,BY,BLR,112,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.075,Multiple Indicator Cluster Survey - MICS12
+Belarus,BY,BLR,112,Urban,8,Dry latrines - Traditional latrine,0.0,Multiple Indicator Cluster Survey - MICS12
+Belarus,BY,BLR,112,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.005,Multiple Indicator Cluster Survey - MICS12
+Belarus,BY,BLR,112,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS12
+Belarus,BY,BLR,112,Urban,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS12
+Belarus,BY,BLR,112,Urban,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS12
+Belarus,BY,BLR,112,Urban,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS12
+Belarus,BY,BLR,112,Urban,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS12
+Belarus,BY,BLR,112,Urban,15,"No facility, bush, field",0.0,Multiple Indicator Cluster Survey - MICS12
+Belarus,BY,BLR,112,Urban,16,Other unimproved,0.001,Multiple Indicator Cluster Survey - MICS12
+Belarus,BY,BLR,112,Urban,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS12
+Belarus,BY,BLR,112,Rural,1,Flush and pour flush - to piped sewer system,0.327,Multiple Indicator Cluster Survey - MICS12
+Belarus,BY,BLR,112,Rural,2,Flush and pour flush - to septic tank,0.124,Multiple Indicator Cluster Survey - MICS12
+Belarus,BY,BLR,112,Rural,3,Flush and pour flush - to pit,0.062,Multiple Indicator Cluster Survey - MICS12
+Belarus,BY,BLR,112,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS12
+Belarus,BY,BLR,112,Rural,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS12
+Belarus,BY,BLR,112,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.063,Multiple Indicator Cluster Survey - MICS12
+Belarus,BY,BLR,112,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.383,Multiple Indicator Cluster Survey - MICS12
+Belarus,BY,BLR,112,Rural,8,Dry latrines - Traditional latrine,0.0,Multiple Indicator Cluster Survey - MICS12
+Belarus,BY,BLR,112,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.036,Multiple Indicator Cluster Survey - MICS12
+Belarus,BY,BLR,112,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS12
+Belarus,BY,BLR,112,Rural,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS12
+Belarus,BY,BLR,112,Rural,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS12
+Belarus,BY,BLR,112,Rural,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS12
+Belarus,BY,BLR,112,Rural,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS12
+Belarus,BY,BLR,112,Rural,15,"No facility, bush, field",0.0,Multiple Indicator Cluster Survey - MICS12
+Belarus,BY,BLR,112,Rural,16,Other unimproved,0.005,Multiple Indicator Cluster Survey - MICS12
+Belarus,BY,BLR,112,Rural,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS12
+Belarus,BY,BLR,112,National,1,Flush and pour flush - to piped sewer system,0.714,Multiple Indicator Cluster Survey - MICS12
+Belarus,BY,BLR,112,National,2,Flush and pour flush - to septic tank,0.053,Multiple Indicator Cluster Survey - MICS12
+Belarus,BY,BLR,112,National,3,Flush and pour flush - to pit,0.032,Multiple Indicator Cluster Survey - MICS12
+Belarus,BY,BLR,112,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS12
+Belarus,BY,BLR,112,National,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS12
+Belarus,BY,BLR,112,National,6,Dry latrines - Ventilated Improved Pit latrine,0.025,Multiple Indicator Cluster Survey - MICS12
+Belarus,BY,BLR,112,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.16,Multiple Indicator Cluster Survey - MICS12
+Belarus,BY,BLR,112,National,8,Dry latrines - Traditional latrine,0.0,Multiple Indicator Cluster Survey - MICS12
+Belarus,BY,BLR,112,National,9,Dry latrines - Pit latrine without slab/open pit,0.014,Multiple Indicator Cluster Survey - MICS12
+Belarus,BY,BLR,112,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS12
+Belarus,BY,BLR,112,National,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS12
+Belarus,BY,BLR,112,National,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS12
+Belarus,BY,BLR,112,National,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS12
+Belarus,BY,BLR,112,National,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS12
+Belarus,BY,BLR,112,National,15,"No facility, bush, field",0.0,Multiple Indicator Cluster Survey - MICS12
+Belarus,BY,BLR,112,National,16,Other unimproved,0.002,Multiple Indicator Cluster Survey - MICS12
+Belarus,BY,BLR,112,National,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS12
+Belarus,BY,BLR,112,Urban,1,Flush and pour flush - to piped sewer system,0.954,Living standards survey - LSS13
+Belarus,BY,BLR,112,Urban,2,Flush and pour flush - to septic tank,0.0,Living standards survey - LSS13
+Belarus,BY,BLR,112,Urban,3,Flush and pour flush - to pit,0.0,Living standards survey - LSS13
+Belarus,BY,BLR,112,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Living standards survey - LSS13
+Belarus,BY,BLR,112,Urban,5,Flush and pour flush - to elsewhere,0.0,Living standards survey - LSS13
+Belarus,BY,BLR,112,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Living standards survey - LSS13
+Belarus,BY,BLR,112,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Living standards survey - LSS13
+Belarus,BY,BLR,112,Urban,8,Dry latrines - Traditional latrine,0.0,Living standards survey - LSS13
+Belarus,BY,BLR,112,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Living standards survey - LSS13
+Belarus,BY,BLR,112,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Living standards survey - LSS13
+Belarus,BY,BLR,112,Urban,11,Dry latrines - Bucket latrine,0.0,Living standards survey - LSS13
+Belarus,BY,BLR,112,Urban,12,Dry latrines - Other,0.0,Living standards survey - LSS13
+Belarus,BY,BLR,112,Urban,13,Composting toilets,0.0,Living standards survey - LSS13
+Belarus,BY,BLR,112,Urban,14,Other improved,0.0,Living standards survey - LSS13
+Belarus,BY,BLR,112,Urban,15,"No facility, bush, field",0.0,Living standards survey - LSS13
+Belarus,BY,BLR,112,Urban,16,Other unimproved,0.046,Living standards survey - LSS13
+Belarus,BY,BLR,112,Urban,17,DK/missing information,0.0,Living standards survey - LSS13
+Belarus,BY,BLR,112,Rural,1,Flush and pour flush - to piped sewer system,0.64,Living standards survey - LSS13
+Belarus,BY,BLR,112,Rural,2,Flush and pour flush - to septic tank,0.0,Living standards survey - LSS13
+Belarus,BY,BLR,112,Rural,3,Flush and pour flush - to pit,0.0,Living standards survey - LSS13
+Belarus,BY,BLR,112,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Living standards survey - LSS13
+Belarus,BY,BLR,112,Rural,5,Flush and pour flush - to elsewhere,0.0,Living standards survey - LSS13
+Belarus,BY,BLR,112,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Living standards survey - LSS13
+Belarus,BY,BLR,112,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Living standards survey - LSS13
+Belarus,BY,BLR,112,Rural,8,Dry latrines - Traditional latrine,0.0,Living standards survey - LSS13
+Belarus,BY,BLR,112,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Living standards survey - LSS13
+Belarus,BY,BLR,112,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Living standards survey - LSS13
+Belarus,BY,BLR,112,Rural,11,Dry latrines - Bucket latrine,0.0,Living standards survey - LSS13
+Belarus,BY,BLR,112,Rural,12,Dry latrines - Other,0.0,Living standards survey - LSS13
+Belarus,BY,BLR,112,Rural,13,Composting toilets,0.0,Living standards survey - LSS13
+Belarus,BY,BLR,112,Rural,14,Other improved,0.0,Living standards survey - LSS13
+Belarus,BY,BLR,112,Rural,15,"No facility, bush, field",0.0,Living standards survey - LSS13
+Belarus,BY,BLR,112,Rural,16,Other unimproved,0.36,Living standards survey - LSS13
+Belarus,BY,BLR,112,Rural,17,DK/missing information,0.0,Living standards survey - LSS13
+Belarus,BY,BLR,112,National,1,Flush and pour flush - to piped sewer system,0.866,Living standards survey - LSS13
+Belarus,BY,BLR,112,National,2,Flush and pour flush - to septic tank,0.0,Living standards survey - LSS13
+Belarus,BY,BLR,112,National,3,Flush and pour flush - to pit,0.0,Living standards survey - LSS13
+Belarus,BY,BLR,112,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Living standards survey - LSS13
+Belarus,BY,BLR,112,National,5,Flush and pour flush - to elsewhere,0.0,Living standards survey - LSS13
+Belarus,BY,BLR,112,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Living standards survey - LSS13
+Belarus,BY,BLR,112,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Living standards survey - LSS13
+Belarus,BY,BLR,112,National,8,Dry latrines - Traditional latrine,0.0,Living standards survey - LSS13
+Belarus,BY,BLR,112,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Living standards survey - LSS13
+Belarus,BY,BLR,112,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Living standards survey - LSS13
+Belarus,BY,BLR,112,National,11,Dry latrines - Bucket latrine,0.0,Living standards survey - LSS13
+Belarus,BY,BLR,112,National,12,Dry latrines - Other,0.0,Living standards survey - LSS13
+Belarus,BY,BLR,112,National,13,Composting toilets,0.0,Living standards survey - LSS13
+Belarus,BY,BLR,112,National,14,Other improved,0.0,Living standards survey - LSS13
+Belarus,BY,BLR,112,National,15,"No facility, bush, field",0.0,Living standards survey - LSS13
+Belarus,BY,BLR,112,National,16,Other unimproved,0.134,Living standards survey - LSS13
+Belarus,BY,BLR,112,National,17,DK/missing information,0.0,Living standards survey - LSS13
+Belarus,BY,BLR,112,Urban,1,Flush and pour flush - to piped sewer system,0.96,Living standards survey - LSS14
+Belarus,BY,BLR,112,Urban,2,Flush and pour flush - to septic tank,0.0,Living standards survey - LSS14
+Belarus,BY,BLR,112,Urban,3,Flush and pour flush - to pit,0.0,Living standards survey - LSS14
+Belarus,BY,BLR,112,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Living standards survey - LSS14
+Belarus,BY,BLR,112,Urban,5,Flush and pour flush - to elsewhere,0.0,Living standards survey - LSS14
+Belarus,BY,BLR,112,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Living standards survey - LSS14
+Belarus,BY,BLR,112,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Living standards survey - LSS14
+Belarus,BY,BLR,112,Urban,8,Dry latrines - Traditional latrine,0.0,Living standards survey - LSS14
+Belarus,BY,BLR,112,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Living standards survey - LSS14
+Belarus,BY,BLR,112,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Living standards survey - LSS14
+Belarus,BY,BLR,112,Urban,11,Dry latrines - Bucket latrine,0.0,Living standards survey - LSS14
+Belarus,BY,BLR,112,Urban,12,Dry latrines - Other,0.0,Living standards survey - LSS14
+Belarus,BY,BLR,112,Urban,13,Composting toilets,0.0,Living standards survey - LSS14
+Belarus,BY,BLR,112,Urban,14,Other improved,0.0,Living standards survey - LSS14
+Belarus,BY,BLR,112,Urban,15,"No facility, bush, field",0.0,Living standards survey - LSS14
+Belarus,BY,BLR,112,Urban,16,Other unimproved,0.04,Living standards survey - LSS14
+Belarus,BY,BLR,112,Urban,17,DK/missing information,0.0,Living standards survey - LSS14
+Belarus,BY,BLR,112,Rural,1,Flush and pour flush - to piped sewer system,0.667,Living standards survey - LSS14
+Belarus,BY,BLR,112,Rural,2,Flush and pour flush - to septic tank,0.0,Living standards survey - LSS14
+Belarus,BY,BLR,112,Rural,3,Flush and pour flush - to pit,0.0,Living standards survey - LSS14
+Belarus,BY,BLR,112,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Living standards survey - LSS14
+Belarus,BY,BLR,112,Rural,5,Flush and pour flush - to elsewhere,0.0,Living standards survey - LSS14
+Belarus,BY,BLR,112,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Living standards survey - LSS14
+Belarus,BY,BLR,112,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Living standards survey - LSS14
+Belarus,BY,BLR,112,Rural,8,Dry latrines - Traditional latrine,0.0,Living standards survey - LSS14
+Belarus,BY,BLR,112,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Living standards survey - LSS14
+Belarus,BY,BLR,112,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Living standards survey - LSS14
+Belarus,BY,BLR,112,Rural,11,Dry latrines - Bucket latrine,0.0,Living standards survey - LSS14
+Belarus,BY,BLR,112,Rural,12,Dry latrines - Other,0.0,Living standards survey - LSS14
+Belarus,BY,BLR,112,Rural,13,Composting toilets,0.0,Living standards survey - LSS14
+Belarus,BY,BLR,112,Rural,14,Other improved,0.0,Living standards survey - LSS14
+Belarus,BY,BLR,112,Rural,15,"No facility, bush, field",0.0,Living standards survey - LSS14
+Belarus,BY,BLR,112,Rural,16,Other unimproved,0.333,Living standards survey - LSS14
+Belarus,BY,BLR,112,Rural,17,DK/missing information,0.0,Living standards survey - LSS14
+Belarus,BY,BLR,112,National,1,Flush and pour flush - to piped sewer system,0.878,Living standards survey - LSS14
+Belarus,BY,BLR,112,National,2,Flush and pour flush - to septic tank,0.0,Living standards survey - LSS14
+Belarus,BY,BLR,112,National,3,Flush and pour flush - to pit,0.0,Living standards survey - LSS14
+Belarus,BY,BLR,112,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Living standards survey - LSS14
+Belarus,BY,BLR,112,National,5,Flush and pour flush - to elsewhere,0.0,Living standards survey - LSS14
+Belarus,BY,BLR,112,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Living standards survey - LSS14
+Belarus,BY,BLR,112,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Living standards survey - LSS14
+Belarus,BY,BLR,112,National,8,Dry latrines - Traditional latrine,0.0,Living standards survey - LSS14
+Belarus,BY,BLR,112,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Living standards survey - LSS14
+Belarus,BY,BLR,112,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Living standards survey - LSS14
+Belarus,BY,BLR,112,National,11,Dry latrines - Bucket latrine,0.0,Living standards survey - LSS14
+Belarus,BY,BLR,112,National,12,Dry latrines - Other,0.0,Living standards survey - LSS14
+Belarus,BY,BLR,112,National,13,Composting toilets,0.0,Living standards survey - LSS14
+Belarus,BY,BLR,112,National,14,Other improved,0.0,Living standards survey - LSS14
+Belarus,BY,BLR,112,National,15,"No facility, bush, field",0.0,Living standards survey - LSS14
+Belarus,BY,BLR,112,National,16,Other unimproved,0.122,Living standards survey - LSS14
+Belarus,BY,BLR,112,National,17,DK/missing information,0.0,Living standards survey - LSS14
+Belarus,BY,BLR,112,Urban,1,Flush and pour flush - to piped sewer system,0.967,Living standard survey - LSS15
+Belarus,BY,BLR,112,Urban,2,Flush and pour flush - to septic tank,0.0,Living standard survey - LSS15
+Belarus,BY,BLR,112,Urban,3,Flush and pour flush - to pit,0.0,Living standard survey - LSS15
+Belarus,BY,BLR,112,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Living standard survey - LSS15
+Belarus,BY,BLR,112,Urban,5,Flush and pour flush - to elsewhere,0.0,Living standard survey - LSS15
+Belarus,BY,BLR,112,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Living standard survey - LSS15
+Belarus,BY,BLR,112,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Living standard survey - LSS15
+Belarus,BY,BLR,112,Urban,8,Dry latrines - Traditional latrine,0.0,Living standard survey - LSS15
+Belarus,BY,BLR,112,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Living standard survey - LSS15
+Belarus,BY,BLR,112,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Living standard survey - LSS15
+Belarus,BY,BLR,112,Urban,11,Dry latrines - Bucket latrine,0.0,Living standard survey - LSS15
+Belarus,BY,BLR,112,Urban,12,Dry latrines - Other,0.0,Living standard survey - LSS15
+Belarus,BY,BLR,112,Urban,13,Composting toilets,0.0,Living standard survey - LSS15
+Belarus,BY,BLR,112,Urban,14,Other improved,0.0,Living standard survey - LSS15
+Belarus,BY,BLR,112,Urban,15,"No facility, bush, field",0.0,Living standard survey - LSS15
+Belarus,BY,BLR,112,Urban,16,Other unimproved,0.033,Living standard survey - LSS15
+Belarus,BY,BLR,112,Urban,17,DK/missing information,0.0,Living standard survey - LSS15
+Belarus,BY,BLR,112,Rural,1,Flush and pour flush - to piped sewer system,0.67,Living standard survey - LSS15
+Belarus,BY,BLR,112,Rural,2,Flush and pour flush - to septic tank,0.0,Living standard survey - LSS15
+Belarus,BY,BLR,112,Rural,3,Flush and pour flush - to pit,0.0,Living standard survey - LSS15
+Belarus,BY,BLR,112,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Living standard survey - LSS15
+Belarus,BY,BLR,112,Rural,5,Flush and pour flush - to elsewhere,0.0,Living standard survey - LSS15
+Belarus,BY,BLR,112,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Living standard survey - LSS15
+Belarus,BY,BLR,112,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Living standard survey - LSS15
+Belarus,BY,BLR,112,Rural,8,Dry latrines - Traditional latrine,0.0,Living standard survey - LSS15
+Belarus,BY,BLR,112,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Living standard survey - LSS15
+Belarus,BY,BLR,112,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Living standard survey - LSS15
+Belarus,BY,BLR,112,Rural,11,Dry latrines - Bucket latrine,0.0,Living standard survey - LSS15
+Belarus,BY,BLR,112,Rural,12,Dry latrines - Other,0.0,Living standard survey - LSS15
+Belarus,BY,BLR,112,Rural,13,Composting toilets,0.0,Living standard survey - LSS15
+Belarus,BY,BLR,112,Rural,14,Other improved,0.0,Living standard survey - LSS15
+Belarus,BY,BLR,112,Rural,15,"No facility, bush, field",0.0,Living standard survey - LSS15
+Belarus,BY,BLR,112,Rural,16,Other unimproved,0.33,Living standard survey - LSS15
+Belarus,BY,BLR,112,Rural,17,DK/missing information,0.0,Living standard survey - LSS15
+Belarus,BY,BLR,112,National,1,Flush and pour flush - to piped sewer system,0.885,Living standard survey - LSS15
+Belarus,BY,BLR,112,National,2,Flush and pour flush - to septic tank,0.0,Living standard survey - LSS15
+Belarus,BY,BLR,112,National,3,Flush and pour flush - to pit,0.0,Living standard survey - LSS15
+Belarus,BY,BLR,112,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Living standard survey - LSS15
+Belarus,BY,BLR,112,National,5,Flush and pour flush - to elsewhere,0.0,Living standard survey - LSS15
+Belarus,BY,BLR,112,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Living standard survey - LSS15
+Belarus,BY,BLR,112,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Living standard survey - LSS15
+Belarus,BY,BLR,112,National,8,Dry latrines - Traditional latrine,0.0,Living standard survey - LSS15
+Belarus,BY,BLR,112,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Living standard survey - LSS15
+Belarus,BY,BLR,112,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Living standard survey - LSS15
+Belarus,BY,BLR,112,National,11,Dry latrines - Bucket latrine,0.0,Living standard survey - LSS15
+Belarus,BY,BLR,112,National,12,Dry latrines - Other,0.0,Living standard survey - LSS15
+Belarus,BY,BLR,112,National,13,Composting toilets,0.0,Living standard survey - LSS15
+Belarus,BY,BLR,112,National,14,Other improved,0.0,Living standard survey - LSS15
+Belarus,BY,BLR,112,National,15,"No facility, bush, field",0.0,Living standard survey - LSS15
+Belarus,BY,BLR,112,National,16,Other unimproved,0.115,Living standard survey - LSS15
+Belarus,BY,BLR,112,National,17,DK/missing information,0.0,Living standard survey - LSS15
+Belarus,BY,BLR,112,Urban,1,Flush and pour flush - to piped sewer system,0.976,Living standard survey - LSS16
+Belarus,BY,BLR,112,Urban,2,Flush and pour flush - to septic tank,0.0,Living standard survey - LSS16
+Belarus,BY,BLR,112,Urban,3,Flush and pour flush - to pit,0.0,Living standard survey - LSS16
+Belarus,BY,BLR,112,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Living standard survey - LSS16
+Belarus,BY,BLR,112,Urban,5,Flush and pour flush - to elsewhere,0.0,Living standard survey - LSS16
+Belarus,BY,BLR,112,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Living standard survey - LSS16
+Belarus,BY,BLR,112,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Living standard survey - LSS16
+Belarus,BY,BLR,112,Urban,8,Dry latrines - Traditional latrine,0.0,Living standard survey - LSS16
+Belarus,BY,BLR,112,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Living standard survey - LSS16
+Belarus,BY,BLR,112,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Living standard survey - LSS16
+Belarus,BY,BLR,112,Urban,11,Dry latrines - Bucket latrine,0.0,Living standard survey - LSS16
+Belarus,BY,BLR,112,Urban,12,Dry latrines - Other,0.0,Living standard survey - LSS16
+Belarus,BY,BLR,112,Urban,13,Composting toilets,0.0,Living standard survey - LSS16
+Belarus,BY,BLR,112,Urban,14,Other improved,0.0,Living standard survey - LSS16
+Belarus,BY,BLR,112,Urban,15,"No facility, bush, field",0.0,Living standard survey - LSS16
+Belarus,BY,BLR,112,Urban,16,Other unimproved,0.024,Living standard survey - LSS16
+Belarus,BY,BLR,112,Urban,17,DK/missing information,0.0,Living standard survey - LSS16
+Belarus,BY,BLR,112,Rural,1,Flush and pour flush - to piped sewer system,0.739,Living standard survey - LSS16
+Belarus,BY,BLR,112,Rural,2,Flush and pour flush - to septic tank,0.0,Living standard survey - LSS16
+Belarus,BY,BLR,112,Rural,3,Flush and pour flush - to pit,0.0,Living standard survey - LSS16
+Belarus,BY,BLR,112,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Living standard survey - LSS16
+Belarus,BY,BLR,112,Rural,5,Flush and pour flush - to elsewhere,0.0,Living standard survey - LSS16
+Belarus,BY,BLR,112,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Living standard survey - LSS16
+Belarus,BY,BLR,112,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Living standard survey - LSS16
+Belarus,BY,BLR,112,Rural,8,Dry latrines - Traditional latrine,0.0,Living standard survey - LSS16
+Belarus,BY,BLR,112,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Living standard survey - LSS16
+Belarus,BY,BLR,112,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Living standard survey - LSS16
+Belarus,BY,BLR,112,Rural,11,Dry latrines - Bucket latrine,0.0,Living standard survey - LSS16
+Belarus,BY,BLR,112,Rural,12,Dry latrines - Other,0.0,Living standard survey - LSS16
+Belarus,BY,BLR,112,Rural,13,Composting toilets,0.0,Living standard survey - LSS16
+Belarus,BY,BLR,112,Rural,14,Other improved,0.0,Living standard survey - LSS16
+Belarus,BY,BLR,112,Rural,15,"No facility, bush, field",0.0,Living standard survey - LSS16
+Belarus,BY,BLR,112,Rural,16,Other unimproved,0.261,Living standard survey - LSS16
+Belarus,BY,BLR,112,Rural,17,DK/missing information,0.0,Living standard survey - LSS16
+Belarus,BY,BLR,112,National,1,Flush and pour flush - to piped sewer system,0.911,Living standard survey - LSS16
+Belarus,BY,BLR,112,National,2,Flush and pour flush - to septic tank,0.0,Living standard survey - LSS16
+Belarus,BY,BLR,112,National,3,Flush and pour flush - to pit,0.0,Living standard survey - LSS16
+Belarus,BY,BLR,112,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Living standard survey - LSS16
+Belarus,BY,BLR,112,National,5,Flush and pour flush - to elsewhere,0.0,Living standard survey - LSS16
+Belarus,BY,BLR,112,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Living standard survey - LSS16
+Belarus,BY,BLR,112,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Living standard survey - LSS16
+Belarus,BY,BLR,112,National,8,Dry latrines - Traditional latrine,0.0,Living standard survey - LSS16
+Belarus,BY,BLR,112,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Living standard survey - LSS16
+Belarus,BY,BLR,112,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Living standard survey - LSS16
+Belarus,BY,BLR,112,National,11,Dry latrines - Bucket latrine,0.0,Living standard survey - LSS16
+Belarus,BY,BLR,112,National,12,Dry latrines - Other,0.0,Living standard survey - LSS16
+Belarus,BY,BLR,112,National,13,Composting toilets,0.0,Living standard survey - LSS16
+Belarus,BY,BLR,112,National,14,Other improved,0.0,Living standard survey - LSS16
+Belarus,BY,BLR,112,National,15,"No facility, bush, field",0.0,Living standard survey - LSS16
+Belarus,BY,BLR,112,National,16,Other unimproved,0.089,Living standard survey - LSS16
+Belarus,BY,BLR,112,National,17,DK/missing information,0.0,Living standard survey - LSS16
+Belarus,BY,BLR,112,Urban,1,Flush and pour flush - to piped sewer system,0.973,Living standard survey - LSS17
+Belarus,BY,BLR,112,Urban,2,Flush and pour flush - to septic tank,0.0,Living standard survey - LSS17
+Belarus,BY,BLR,112,Urban,3,Flush and pour flush - to pit,0.0,Living standard survey - LSS17
+Belarus,BY,BLR,112,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Living standard survey - LSS17
+Belarus,BY,BLR,112,Urban,5,Flush and pour flush - to elsewhere,0.0,Living standard survey - LSS17
+Belarus,BY,BLR,112,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Living standard survey - LSS17
+Belarus,BY,BLR,112,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Living standard survey - LSS17
+Belarus,BY,BLR,112,Urban,8,Dry latrines - Traditional latrine,0.0,Living standard survey - LSS17
+Belarus,BY,BLR,112,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Living standard survey - LSS17
+Belarus,BY,BLR,112,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Living standard survey - LSS17
+Belarus,BY,BLR,112,Urban,11,Dry latrines - Bucket latrine,0.0,Living standard survey - LSS17
+Belarus,BY,BLR,112,Urban,12,Dry latrines - Other,0.0,Living standard survey - LSS17
+Belarus,BY,BLR,112,Urban,13,Composting toilets,0.0,Living standard survey - LSS17
+Belarus,BY,BLR,112,Urban,14,Other improved,0.0,Living standard survey - LSS17
+Belarus,BY,BLR,112,Urban,15,"No facility, bush, field",0.0,Living standard survey - LSS17
+Belarus,BY,BLR,112,Urban,16,Other unimproved,0.027,Living standard survey - LSS17
+Belarus,BY,BLR,112,Urban,17,DK/missing information,0.0,Living standard survey - LSS17
+Belarus,BY,BLR,112,Rural,1,Flush and pour flush - to piped sewer system,0.777,Living standard survey - LSS17
+Belarus,BY,BLR,112,Rural,2,Flush and pour flush - to septic tank,0.0,Living standard survey - LSS17
+Belarus,BY,BLR,112,Rural,3,Flush and pour flush - to pit,0.0,Living standard survey - LSS17
+Belarus,BY,BLR,112,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Living standard survey - LSS17
+Belarus,BY,BLR,112,Rural,5,Flush and pour flush - to elsewhere,0.0,Living standard survey - LSS17
+Belarus,BY,BLR,112,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Living standard survey - LSS17
+Belarus,BY,BLR,112,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Living standard survey - LSS17
+Belarus,BY,BLR,112,Rural,8,Dry latrines - Traditional latrine,0.0,Living standard survey - LSS17
+Belarus,BY,BLR,112,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Living standard survey - LSS17
+Belarus,BY,BLR,112,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Living standard survey - LSS17
+Belarus,BY,BLR,112,Rural,11,Dry latrines - Bucket latrine,0.0,Living standard survey - LSS17
+Belarus,BY,BLR,112,Rural,12,Dry latrines - Other,0.0,Living standard survey - LSS17
+Belarus,BY,BLR,112,Rural,13,Composting toilets,0.0,Living standard survey - LSS17
+Belarus,BY,BLR,112,Rural,14,Other improved,0.0,Living standard survey - LSS17
+Belarus,BY,BLR,112,Rural,15,"No facility, bush, field",0.0,Living standard survey - LSS17
+Belarus,BY,BLR,112,Rural,16,Other unimproved,0.223,Living standard survey - LSS17
+Belarus,BY,BLR,112,Rural,17,DK/missing information,0.0,Living standard survey - LSS17
+Belarus,BY,BLR,112,National,1,Flush and pour flush - to piped sewer system,0.919,Living standard survey - LSS17
+Belarus,BY,BLR,112,National,2,Flush and pour flush - to septic tank,0.0,Living standard survey - LSS17
+Belarus,BY,BLR,112,National,3,Flush and pour flush - to pit,0.0,Living standard survey - LSS17
+Belarus,BY,BLR,112,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Living standard survey - LSS17
+Belarus,BY,BLR,112,National,5,Flush and pour flush - to elsewhere,0.0,Living standard survey - LSS17
+Belarus,BY,BLR,112,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Living standard survey - LSS17
+Belarus,BY,BLR,112,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Living standard survey - LSS17
+Belarus,BY,BLR,112,National,8,Dry latrines - Traditional latrine,0.0,Living standard survey - LSS17
+Belarus,BY,BLR,112,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Living standard survey - LSS17
+Belarus,BY,BLR,112,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Living standard survey - LSS17
+Belarus,BY,BLR,112,National,11,Dry latrines - Bucket latrine,0.0,Living standard survey - LSS17
+Belarus,BY,BLR,112,National,12,Dry latrines - Other,0.0,Living standard survey - LSS17
+Belarus,BY,BLR,112,National,13,Composting toilets,0.0,Living standard survey - LSS17
+Belarus,BY,BLR,112,National,14,Other improved,0.0,Living standard survey - LSS17
+Belarus,BY,BLR,112,National,15,"No facility, bush, field",0.0,Living standard survey - LSS17
+Belarus,BY,BLR,112,National,16,Other unimproved,0.081,Living standard survey - LSS17
+Belarus,BY,BLR,112,National,17,DK/missing information,0.0,Living standard survey - LSS17
+Belarus,BY,BLR,112,Urban,1,Flush and pour flush - to piped sewer system,0.9,Population Census - CEN09
+Belarus,BY,BLR,112,Urban,2,Flush and pour flush - to septic tank,0.0,Population Census - CEN09
+Belarus,BY,BLR,112,Urban,3,Flush and pour flush - to pit,0.0,Population Census - CEN09
+Belarus,BY,BLR,112,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Population Census - CEN09
+Belarus,BY,BLR,112,Urban,5,Flush and pour flush - to elsewhere,0.0,Population Census - CEN09
+Belarus,BY,BLR,112,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Population Census - CEN09
+Belarus,BY,BLR,112,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Population Census - CEN09
+Belarus,BY,BLR,112,Urban,8,Dry latrines - Traditional latrine,0.0,Population Census - CEN09
+Belarus,BY,BLR,112,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Population Census - CEN09
+Belarus,BY,BLR,112,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Population Census - CEN09
+Belarus,BY,BLR,112,Urban,11,Dry latrines - Bucket latrine,0.0,Population Census - CEN09
+Belarus,BY,BLR,112,Urban,12,Dry latrines - Other,0.0,Population Census - CEN09
+Belarus,BY,BLR,112,Urban,13,Composting toilets,0.0,Population Census - CEN09
+Belarus,BY,BLR,112,Urban,14,Other improved,0.0,Population Census - CEN09
+Belarus,BY,BLR,112,Urban,15,"No facility, bush, field",0.0,Population Census - CEN09
+Belarus,BY,BLR,112,Urban,16,Other unimproved,0.1,Population Census - CEN09
+Belarus,BY,BLR,112,Urban,17,DK/missing information,0.0,Population Census - CEN09
+Belarus,BY,BLR,112,Rural,1,Flush and pour flush - to piped sewer system,0.349,Population Census - CEN09
+Belarus,BY,BLR,112,Rural,2,Flush and pour flush - to septic tank,0.0,Population Census - CEN09
+Belarus,BY,BLR,112,Rural,3,Flush and pour flush - to pit,0.0,Population Census - CEN09
+Belarus,BY,BLR,112,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Population Census - CEN09
+Belarus,BY,BLR,112,Rural,5,Flush and pour flush - to elsewhere,0.0,Population Census - CEN09
+Belarus,BY,BLR,112,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Population Census - CEN09
+Belarus,BY,BLR,112,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Population Census - CEN09
+Belarus,BY,BLR,112,Rural,8,Dry latrines - Traditional latrine,0.0,Population Census - CEN09
+Belarus,BY,BLR,112,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Population Census - CEN09
+Belarus,BY,BLR,112,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Population Census - CEN09
+Belarus,BY,BLR,112,Rural,11,Dry latrines - Bucket latrine,0.0,Population Census - CEN09
+Belarus,BY,BLR,112,Rural,12,Dry latrines - Other,0.0,Population Census - CEN09
+Belarus,BY,BLR,112,Rural,13,Composting toilets,0.0,Population Census - CEN09
+Belarus,BY,BLR,112,Rural,14,Other improved,0.0,Population Census - CEN09
+Belarus,BY,BLR,112,Rural,15,"No facility, bush, field",0.0,Population Census - CEN09
+Belarus,BY,BLR,112,Rural,16,Other unimproved,0.651,Population Census - CEN09
+Belarus,BY,BLR,112,Rural,17,DK/missing information,0.0,Population Census - CEN09
+Belarus,BY,BLR,112,National,1,Flush and pour flush - to piped sewer system,0.74,Population Census - CEN09
+Belarus,BY,BLR,112,National,2,Flush and pour flush - to septic tank,0.0,Population Census - CEN09
+Belarus,BY,BLR,112,National,3,Flush and pour flush - to pit,0.0,Population Census - CEN09
+Belarus,BY,BLR,112,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Population Census - CEN09
+Belarus,BY,BLR,112,National,5,Flush and pour flush - to elsewhere,0.0,Population Census - CEN09
+Belarus,BY,BLR,112,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Population Census - CEN09
+Belarus,BY,BLR,112,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Population Census - CEN09
+Belarus,BY,BLR,112,National,8,Dry latrines - Traditional latrine,0.0,Population Census - CEN09
+Belarus,BY,BLR,112,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Population Census - CEN09
+Belarus,BY,BLR,112,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Population Census - CEN09
+Belarus,BY,BLR,112,National,11,Dry latrines - Bucket latrine,0.0,Population Census - CEN09
+Belarus,BY,BLR,112,National,12,Dry latrines - Other,0.0,Population Census - CEN09
+Belarus,BY,BLR,112,National,13,Composting toilets,0.0,Population Census - CEN09
+Belarus,BY,BLR,112,National,14,Other improved,0.0,Population Census - CEN09
+Belarus,BY,BLR,112,National,15,"No facility, bush, field",0.0,Population Census - CEN09
+Belarus,BY,BLR,112,National,16,Other unimproved,0.26,Population Census - CEN09
+Belarus,BY,BLR,112,National,17,DK/missing information,0.0,Population Census - CEN09

@@ -33,6 +33,23 @@ Kyrgyzstan,KG,KGZ,417,Rural,14,Other improved,0.0,Household Budget Survey - HBS0
 Kyrgyzstan,KG,KGZ,417,Rural,15,"No facility, bush, field",0.0,Household Budget Survey - HBS03
 Kyrgyzstan,KG,KGZ,417,Rural,16,Other unimproved,0.0,Household Budget Survey - HBS03
 Kyrgyzstan,KG,KGZ,417,Rural,17,DK/missing information,0.0,Household Budget Survey - HBS03
+Kyrgyzstan,KG,KGZ,417,National,1,Flush and pour flush - to piped sewer system,0.217,Household Budget Survey - HBS03
+Kyrgyzstan,KG,KGZ,417,National,2,Flush and pour flush - to septic tank,0.016,Household Budget Survey - HBS03
+Kyrgyzstan,KG,KGZ,417,National,3,Flush and pour flush - to pit,0.0,Household Budget Survey - HBS03
+Kyrgyzstan,KG,KGZ,417,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey - HBS03
+Kyrgyzstan,KG,KGZ,417,National,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey - HBS03
+Kyrgyzstan,KG,KGZ,417,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey - HBS03
+Kyrgyzstan,KG,KGZ,417,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey - HBS03
+Kyrgyzstan,KG,KGZ,417,National,8,Dry latrines - Traditional latrine,0.766,Household Budget Survey - HBS03
+Kyrgyzstan,KG,KGZ,417,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey - HBS03
+Kyrgyzstan,KG,KGZ,417,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey - HBS03
+Kyrgyzstan,KG,KGZ,417,National,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey - HBS03
+Kyrgyzstan,KG,KGZ,417,National,12,Dry latrines - Other,0.0,Household Budget Survey - HBS03
+Kyrgyzstan,KG,KGZ,417,National,13,Composting toilets,0.0,Household Budget Survey - HBS03
+Kyrgyzstan,KG,KGZ,417,National,14,Other improved,0.0,Household Budget Survey - HBS03
+Kyrgyzstan,KG,KGZ,417,National,15,"No facility, bush, field",0.001,Household Budget Survey - HBS03
+Kyrgyzstan,KG,KGZ,417,National,16,Other unimproved,0.0,Household Budget Survey - HBS03
+Kyrgyzstan,KG,KGZ,417,National,17,DK/missing information,0.0,Household Budget Survey - HBS03
 Kyrgyzstan,KG,KGZ,417,Urban,1,Flush and pour flush - to piped sewer system,0.421,Multiple Indicator Cluster Survey - MICS06
 Kyrgyzstan,KG,KGZ,417,Urban,2,Flush and pour flush - to septic tank,0.001,Multiple Indicator Cluster Survey - MICS06
 Kyrgyzstan,KG,KGZ,417,Urban,3,Flush and pour flush - to pit,0.148,Multiple Indicator Cluster Survey - MICS06
@@ -67,6 +84,74 @@ Kyrgyzstan,KG,KGZ,417,Rural,14,Other improved,0.0,Multiple Indicator Cluster Sur
 Kyrgyzstan,KG,KGZ,417,Rural,15,"No facility, bush, field",0.001,Multiple Indicator Cluster Survey - MICS06
 Kyrgyzstan,KG,KGZ,417,Rural,16,Other unimproved,0.002,Multiple Indicator Cluster Survey - MICS06
 Kyrgyzstan,KG,KGZ,417,Rural,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS06
+Kyrgyzstan,KG,KGZ,417,National,1,Flush and pour flush - to piped sewer system,0.0,Multiple Indicator Cluster Survey - MICS06
+Kyrgyzstan,KG,KGZ,417,National,2,Flush and pour flush - to septic tank,0.0,Multiple Indicator Cluster Survey - MICS06
+Kyrgyzstan,KG,KGZ,417,National,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS06
+Kyrgyzstan,KG,KGZ,417,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS06
+Kyrgyzstan,KG,KGZ,417,National,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS06
+Kyrgyzstan,KG,KGZ,417,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Multiple Indicator Cluster Survey - MICS06
+Kyrgyzstan,KG,KGZ,417,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Multiple Indicator Cluster Survey - MICS06
+Kyrgyzstan,KG,KGZ,417,National,8,Dry latrines - Traditional latrine,0.0,Multiple Indicator Cluster Survey - MICS06
+Kyrgyzstan,KG,KGZ,417,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Multiple Indicator Cluster Survey - MICS06
+Kyrgyzstan,KG,KGZ,417,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS06
+Kyrgyzstan,KG,KGZ,417,National,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS06
+Kyrgyzstan,KG,KGZ,417,National,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS06
+Kyrgyzstan,KG,KGZ,417,National,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS06
+Kyrgyzstan,KG,KGZ,417,National,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS06
+Kyrgyzstan,KG,KGZ,417,National,15,"No facility, bush, field",0.0,Multiple Indicator Cluster Survey - MICS06
+Kyrgyzstan,KG,KGZ,417,National,16,Other unimproved,0.0,Multiple Indicator Cluster Survey - MICS06
+Kyrgyzstan,KG,KGZ,417,National,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS06
+Kyrgyzstan,KG,KGZ,417,Urban,1,Flush and pour flush - to piped sewer system,0.0,Population and Housing census - CEN09
+Kyrgyzstan,KG,KGZ,417,Urban,2,Flush and pour flush - to septic tank,0.0,Population and Housing census - CEN09
+Kyrgyzstan,KG,KGZ,417,Urban,3,Flush and pour flush - to pit,0.0,Population and Housing census - CEN09
+Kyrgyzstan,KG,KGZ,417,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Population and Housing census - CEN09
+Kyrgyzstan,KG,KGZ,417,Urban,5,Flush and pour flush - to elsewhere,0.0,Population and Housing census - CEN09
+Kyrgyzstan,KG,KGZ,417,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Population and Housing census - CEN09
+Kyrgyzstan,KG,KGZ,417,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Population and Housing census - CEN09
+Kyrgyzstan,KG,KGZ,417,Urban,8,Dry latrines - Traditional latrine,0.0,Population and Housing census - CEN09
+Kyrgyzstan,KG,KGZ,417,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Population and Housing census - CEN09
+Kyrgyzstan,KG,KGZ,417,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Population and Housing census - CEN09
+Kyrgyzstan,KG,KGZ,417,Urban,11,Dry latrines - Bucket latrine,0.0,Population and Housing census - CEN09
+Kyrgyzstan,KG,KGZ,417,Urban,12,Dry latrines - Other,0.0,Population and Housing census - CEN09
+Kyrgyzstan,KG,KGZ,417,Urban,13,Composting toilets,0.0,Population and Housing census - CEN09
+Kyrgyzstan,KG,KGZ,417,Urban,14,Other improved,0.0,Population and Housing census - CEN09
+Kyrgyzstan,KG,KGZ,417,Urban,15,"No facility, bush, field",0.0,Population and Housing census - CEN09
+Kyrgyzstan,KG,KGZ,417,Urban,16,Other unimproved,0.0,Population and Housing census - CEN09
+Kyrgyzstan,KG,KGZ,417,Urban,17,DK/missing information,0.0,Population and Housing census - CEN09
+Kyrgyzstan,KG,KGZ,417,Rural,1,Flush and pour flush - to piped sewer system,0.0,Population and Housing census - CEN09
+Kyrgyzstan,KG,KGZ,417,Rural,2,Flush and pour flush - to septic tank,0.0,Population and Housing census - CEN09
+Kyrgyzstan,KG,KGZ,417,Rural,3,Flush and pour flush - to pit,0.0,Population and Housing census - CEN09
+Kyrgyzstan,KG,KGZ,417,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Population and Housing census - CEN09
+Kyrgyzstan,KG,KGZ,417,Rural,5,Flush and pour flush - to elsewhere,0.0,Population and Housing census - CEN09
+Kyrgyzstan,KG,KGZ,417,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Population and Housing census - CEN09
+Kyrgyzstan,KG,KGZ,417,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Population and Housing census - CEN09
+Kyrgyzstan,KG,KGZ,417,Rural,8,Dry latrines - Traditional latrine,0.0,Population and Housing census - CEN09
+Kyrgyzstan,KG,KGZ,417,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Population and Housing census - CEN09
+Kyrgyzstan,KG,KGZ,417,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Population and Housing census - CEN09
+Kyrgyzstan,KG,KGZ,417,Rural,11,Dry latrines - Bucket latrine,0.0,Population and Housing census - CEN09
+Kyrgyzstan,KG,KGZ,417,Rural,12,Dry latrines - Other,0.0,Population and Housing census - CEN09
+Kyrgyzstan,KG,KGZ,417,Rural,13,Composting toilets,0.0,Population and Housing census - CEN09
+Kyrgyzstan,KG,KGZ,417,Rural,14,Other improved,0.0,Population and Housing census - CEN09
+Kyrgyzstan,KG,KGZ,417,Rural,15,"No facility, bush, field",0.0,Population and Housing census - CEN09
+Kyrgyzstan,KG,KGZ,417,Rural,16,Other unimproved,0.0,Population and Housing census - CEN09
+Kyrgyzstan,KG,KGZ,417,Rural,17,DK/missing information,0.0,Population and Housing census - CEN09
+Kyrgyzstan,KG,KGZ,417,National,1,Flush and pour flush - to piped sewer system,0.066,Population and Housing census - CEN09
+Kyrgyzstan,KG,KGZ,417,National,2,Flush and pour flush - to septic tank,0.0,Population and Housing census - CEN09
+Kyrgyzstan,KG,KGZ,417,National,3,Flush and pour flush - to pit,0.0,Population and Housing census - CEN09
+Kyrgyzstan,KG,KGZ,417,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.729,Population and Housing census - CEN09
+Kyrgyzstan,KG,KGZ,417,National,5,Flush and pour flush - to elsewhere,0.204,Population and Housing census - CEN09
+Kyrgyzstan,KG,KGZ,417,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Population and Housing census - CEN09
+Kyrgyzstan,KG,KGZ,417,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Population and Housing census - CEN09
+Kyrgyzstan,KG,KGZ,417,National,8,Dry latrines - Traditional latrine,0.0,Population and Housing census - CEN09
+Kyrgyzstan,KG,KGZ,417,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Population and Housing census - CEN09
+Kyrgyzstan,KG,KGZ,417,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Population and Housing census - CEN09
+Kyrgyzstan,KG,KGZ,417,National,11,Dry latrines - Bucket latrine,0.0,Population and Housing census - CEN09
+Kyrgyzstan,KG,KGZ,417,National,12,Dry latrines - Other,0.0,Population and Housing census - CEN09
+Kyrgyzstan,KG,KGZ,417,National,13,Composting toilets,0.0,Population and Housing census - CEN09
+Kyrgyzstan,KG,KGZ,417,National,14,Other improved,0.0,Population and Housing census - CEN09
+Kyrgyzstan,KG,KGZ,417,National,15,"No facility, bush, field",0.0,Population and Housing census - CEN09
+Kyrgyzstan,KG,KGZ,417,National,16,Other unimproved,0.0,Population and Housing census - CEN09
+Kyrgyzstan,KG,KGZ,417,National,17,DK/missing information,0.0,Population and Housing census - CEN09
 Kyrgyzstan,KG,KGZ,417,Urban,1,Flush and pour flush - to piped sewer system,0.356,Demographic and Health Survey (KgDHS) - DHS12
 Kyrgyzstan,KG,KGZ,417,Urban,2,Flush and pour flush - to septic tank,0.009,Demographic and Health Survey (KgDHS) - DHS12
 Kyrgyzstan,KG,KGZ,417,Urban,3,Flush and pour flush - to pit,0.007,Demographic and Health Survey (KgDHS) - DHS12
@@ -101,6 +186,23 @@ Kyrgyzstan,KG,KGZ,417,Rural,14,Other improved,0.0,Demographic and Health Survey 
 Kyrgyzstan,KG,KGZ,417,Rural,15,"No facility, bush, field",0.0,Demographic and Health Survey (KgDHS) - DHS12
 Kyrgyzstan,KG,KGZ,417,Rural,16,Other unimproved,0.0,Demographic and Health Survey (KgDHS) - DHS12
 Kyrgyzstan,KG,KGZ,417,Rural,17,DK/missing information,0.0,Demographic and Health Survey (KgDHS) - DHS12
+Kyrgyzstan,KG,KGZ,417,National,1,Flush and pour flush - to piped sewer system,0.126,Demographic and Health Survey (KgDHS) - DHS12
+Kyrgyzstan,KG,KGZ,417,National,2,Flush and pour flush - to septic tank,0.003,Demographic and Health Survey (KgDHS) - DHS12
+Kyrgyzstan,KG,KGZ,417,National,3,Flush and pour flush - to pit,0.003,Demographic and Health Survey (KgDHS) - DHS12
+Kyrgyzstan,KG,KGZ,417,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey (KgDHS) - DHS12
+Kyrgyzstan,KG,KGZ,417,National,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey (KgDHS) - DHS12
+Kyrgyzstan,KG,KGZ,417,National,6,Dry latrines - Ventilated Improved Pit latrine,0.043,Demographic and Health Survey (KgDHS) - DHS12
+Kyrgyzstan,KG,KGZ,417,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.811,Demographic and Health Survey (KgDHS) - DHS12
+Kyrgyzstan,KG,KGZ,417,National,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey (KgDHS) - DHS12
+Kyrgyzstan,KG,KGZ,417,National,9,Dry latrines - Pit latrine without slab/open pit,0.014,Demographic and Health Survey (KgDHS) - DHS12
+Kyrgyzstan,KG,KGZ,417,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey (KgDHS) - DHS12
+Kyrgyzstan,KG,KGZ,417,National,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey (KgDHS) - DHS12
+Kyrgyzstan,KG,KGZ,417,National,12,Dry latrines - Other,0.0,Demographic and Health Survey (KgDHS) - DHS12
+Kyrgyzstan,KG,KGZ,417,National,13,Composting toilets,0.0,Demographic and Health Survey (KgDHS) - DHS12
+Kyrgyzstan,KG,KGZ,417,National,14,Other improved,0.0,Demographic and Health Survey (KgDHS) - DHS12
+Kyrgyzstan,KG,KGZ,417,National,15,"No facility, bush, field",0.0,Demographic and Health Survey (KgDHS) - DHS12
+Kyrgyzstan,KG,KGZ,417,National,16,Other unimproved,0.0,Demographic and Health Survey (KgDHS) - DHS12
+Kyrgyzstan,KG,KGZ,417,National,17,DK/missing information,0.0,Demographic and Health Survey (KgDHS) - DHS12
 Kyrgyzstan,KG,KGZ,417,Urban,1,Flush and pour flush - to piped sewer system,0.434,Multiple Indicator Cluster Surveys - MICS14
 Kyrgyzstan,KG,KGZ,417,Urban,2,Flush and pour flush - to septic tank,0.022,Multiple Indicator Cluster Surveys - MICS14
 Kyrgyzstan,KG,KGZ,417,Urban,3,Flush and pour flush - to pit,0.016,Multiple Indicator Cluster Surveys - MICS14
@@ -135,3 +237,20 @@ Kyrgyzstan,KG,KGZ,417,Rural,14,Other improved,0.0,Multiple Indicator Cluster Sur
 Kyrgyzstan,KG,KGZ,417,Rural,15,"No facility, bush, field",0.0,Multiple Indicator Cluster Surveys - MICS14
 Kyrgyzstan,KG,KGZ,417,Rural,16,Other unimproved,0.0,Multiple Indicator Cluster Surveys - MICS14
 Kyrgyzstan,KG,KGZ,417,Rural,17,DK/missing information,0.001,Multiple Indicator Cluster Surveys - MICS14
+Kyrgyzstan,KG,KGZ,417,National,1,Flush and pour flush - to piped sewer system,0.146,Multiple Indicator Cluster Surveys - MICS14
+Kyrgyzstan,KG,KGZ,417,National,2,Flush and pour flush - to septic tank,0.009,Multiple Indicator Cluster Surveys - MICS14
+Kyrgyzstan,KG,KGZ,417,National,3,Flush and pour flush - to pit,0.013,Multiple Indicator Cluster Surveys - MICS14
+Kyrgyzstan,KG,KGZ,417,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Surveys - MICS14
+Kyrgyzstan,KG,KGZ,417,National,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Surveys - MICS14
+Kyrgyzstan,KG,KGZ,417,National,6,Dry latrines - Ventilated Improved Pit latrine,0.017,Multiple Indicator Cluster Surveys - MICS14
+Kyrgyzstan,KG,KGZ,417,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.814,Multiple Indicator Cluster Surveys - MICS14
+Kyrgyzstan,KG,KGZ,417,National,8,Dry latrines - Traditional latrine,0.0,Multiple Indicator Cluster Surveys - MICS14
+Kyrgyzstan,KG,KGZ,417,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Multiple Indicator Cluster Surveys - MICS14
+Kyrgyzstan,KG,KGZ,417,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Surveys - MICS14
+Kyrgyzstan,KG,KGZ,417,National,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Surveys - MICS14
+Kyrgyzstan,KG,KGZ,417,National,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Surveys - MICS14
+Kyrgyzstan,KG,KGZ,417,National,13,Composting toilets,0.0,Multiple Indicator Cluster Surveys - MICS14
+Kyrgyzstan,KG,KGZ,417,National,14,Other improved,0.0,Multiple Indicator Cluster Surveys - MICS14
+Kyrgyzstan,KG,KGZ,417,National,15,"No facility, bush, field",0.0,Multiple Indicator Cluster Surveys - MICS14
+Kyrgyzstan,KG,KGZ,417,National,16,Other unimproved,0.0,Multiple Indicator Cluster Surveys - MICS14
+Kyrgyzstan,KG,KGZ,417,National,17,DK/missing information,0.001,Multiple Indicator Cluster Surveys - MICS14

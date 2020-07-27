@@ -1,0 +1,1072 @@
+country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+"Moldova, Republic of",MD,MDA,498,Urban,1,Flush and pour flush - to piped sewer system,0.807,Census - CEN14
+"Moldova, Republic of",MD,MDA,498,Urban,2,Flush and pour flush - to septic tank,0.087,Census - CEN14
+"Moldova, Republic of",MD,MDA,498,Urban,3,Flush and pour flush - to pit,0.0,Census - CEN14
+"Moldova, Republic of",MD,MDA,498,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN14
+"Moldova, Republic of",MD,MDA,498,Urban,5,Flush and pour flush - to elsewhere,0.0,Census - CEN14
+"Moldova, Republic of",MD,MDA,498,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN14
+"Moldova, Republic of",MD,MDA,498,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN14
+"Moldova, Republic of",MD,MDA,498,Urban,8,Dry latrines - Traditional latrine,0.106,Census - CEN14
+"Moldova, Republic of",MD,MDA,498,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN14
+"Moldova, Republic of",MD,MDA,498,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN14
+"Moldova, Republic of",MD,MDA,498,Urban,11,Dry latrines - Bucket latrine,0.0,Census - CEN14
+"Moldova, Republic of",MD,MDA,498,Urban,12,Dry latrines - Other,0.0,Census - CEN14
+"Moldova, Republic of",MD,MDA,498,Urban,13,Composting toilets,0.0,Census - CEN14
+"Moldova, Republic of",MD,MDA,498,Urban,14,Other improved,0.0,Census - CEN14
+"Moldova, Republic of",MD,MDA,498,Urban,15,"No facility, bush, field",0.0,Census - CEN14
+"Moldova, Republic of",MD,MDA,498,Urban,16,Other unimproved,0.0,Census - CEN14
+"Moldova, Republic of",MD,MDA,498,Urban,17,DK/missing information,0.0,Census - CEN14
+"Moldova, Republic of",MD,MDA,498,Rural,1,Flush and pour flush - to piped sewer system,0.13,Census - CEN14
+"Moldova, Republic of",MD,MDA,498,Rural,2,Flush and pour flush - to septic tank,0.162,Census - CEN14
+"Moldova, Republic of",MD,MDA,498,Rural,3,Flush and pour flush - to pit,0.0,Census - CEN14
+"Moldova, Republic of",MD,MDA,498,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN14
+"Moldova, Republic of",MD,MDA,498,Rural,5,Flush and pour flush - to elsewhere,0.0,Census - CEN14
+"Moldova, Republic of",MD,MDA,498,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN14
+"Moldova, Republic of",MD,MDA,498,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN14
+"Moldova, Republic of",MD,MDA,498,Rural,8,Dry latrines - Traditional latrine,0.708,Census - CEN14
+"Moldova, Republic of",MD,MDA,498,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN14
+"Moldova, Republic of",MD,MDA,498,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN14
+"Moldova, Republic of",MD,MDA,498,Rural,11,Dry latrines - Bucket latrine,0.0,Census - CEN14
+"Moldova, Republic of",MD,MDA,498,Rural,12,Dry latrines - Other,0.0,Census - CEN14
+"Moldova, Republic of",MD,MDA,498,Rural,13,Composting toilets,0.0,Census - CEN14
+"Moldova, Republic of",MD,MDA,498,Rural,14,Other improved,0.0,Census - CEN14
+"Moldova, Republic of",MD,MDA,498,Rural,15,"No facility, bush, field",0.0,Census - CEN14
+"Moldova, Republic of",MD,MDA,498,Rural,16,Other unimproved,0.0,Census - CEN14
+"Moldova, Republic of",MD,MDA,498,Rural,17,DK/missing information,0.0,Census - CEN14
+"Moldova, Republic of",MD,MDA,498,National,1,Flush and pour flush - to piped sewer system,0.397,Census - CEN14
+"Moldova, Republic of",MD,MDA,498,National,2,Flush and pour flush - to septic tank,0.133,Census - CEN14
+"Moldova, Republic of",MD,MDA,498,National,3,Flush and pour flush - to pit,0.0,Census - CEN14
+"Moldova, Republic of",MD,MDA,498,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN14
+"Moldova, Republic of",MD,MDA,498,National,5,Flush and pour flush - to elsewhere,0.0,Census - CEN14
+"Moldova, Republic of",MD,MDA,498,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN14
+"Moldova, Republic of",MD,MDA,498,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN14
+"Moldova, Republic of",MD,MDA,498,National,8,Dry latrines - Traditional latrine,0.471,Census - CEN14
+"Moldova, Republic of",MD,MDA,498,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN14
+"Moldova, Republic of",MD,MDA,498,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN14
+"Moldova, Republic of",MD,MDA,498,National,11,Dry latrines - Bucket latrine,0.0,Census - CEN14
+"Moldova, Republic of",MD,MDA,498,National,12,Dry latrines - Other,0.0,Census - CEN14
+"Moldova, Republic of",MD,MDA,498,National,13,Composting toilets,0.0,Census - CEN14
+"Moldova, Republic of",MD,MDA,498,National,14,Other improved,0.0,Census - CEN14
+"Moldova, Republic of",MD,MDA,498,National,15,"No facility, bush, field",0.0,Census - CEN14
+"Moldova, Republic of",MD,MDA,498,National,16,Other unimproved,0.0,Census - CEN14
+"Moldova, Republic of",MD,MDA,498,National,17,DK/missing information,0.0,Census - CEN14
+"Moldova, Republic of",MD,MDA,498,Urban,1,Flush and pour flush - to piped sewer system,0.785,Household Budget Survey  - HBS00
+"Moldova, Republic of",MD,MDA,498,Urban,2,Flush and pour flush - to septic tank,0.0,Household Budget Survey  - HBS00
+"Moldova, Republic of",MD,MDA,498,Urban,3,Flush and pour flush - to pit,0.0,Household Budget Survey  - HBS00
+"Moldova, Republic of",MD,MDA,498,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey  - HBS00
+"Moldova, Republic of",MD,MDA,498,Urban,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey  - HBS00
+"Moldova, Republic of",MD,MDA,498,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey  - HBS00
+"Moldova, Republic of",MD,MDA,498,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey  - HBS00
+"Moldova, Republic of",MD,MDA,498,Urban,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey  - HBS00
+"Moldova, Republic of",MD,MDA,498,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey  - HBS00
+"Moldova, Republic of",MD,MDA,498,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey  - HBS00
+"Moldova, Republic of",MD,MDA,498,Urban,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey  - HBS00
+"Moldova, Republic of",MD,MDA,498,Urban,12,Dry latrines - Other,0.0,Household Budget Survey  - HBS00
+"Moldova, Republic of",MD,MDA,498,Urban,13,Composting toilets,0.0,Household Budget Survey  - HBS00
+"Moldova, Republic of",MD,MDA,498,Urban,14,Other improved,0.0,Household Budget Survey  - HBS00
+"Moldova, Republic of",MD,MDA,498,Urban,15,"No facility, bush, field",0.0,Household Budget Survey  - HBS00
+"Moldova, Republic of",MD,MDA,498,Urban,16,Other unimproved,0.215,Household Budget Survey  - HBS00
+"Moldova, Republic of",MD,MDA,498,Urban,17,DK/missing information,0.0,Household Budget Survey  - HBS00
+"Moldova, Republic of",MD,MDA,498,Rural,1,Flush and pour flush - to piped sewer system,0.016,Household Budget Survey  - HBS00
+"Moldova, Republic of",MD,MDA,498,Rural,2,Flush and pour flush - to septic tank,0.0,Household Budget Survey  - HBS00
+"Moldova, Republic of",MD,MDA,498,Rural,3,Flush and pour flush - to pit,0.0,Household Budget Survey  - HBS00
+"Moldova, Republic of",MD,MDA,498,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey  - HBS00
+"Moldova, Republic of",MD,MDA,498,Rural,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey  - HBS00
+"Moldova, Republic of",MD,MDA,498,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey  - HBS00
+"Moldova, Republic of",MD,MDA,498,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey  - HBS00
+"Moldova, Republic of",MD,MDA,498,Rural,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey  - HBS00
+"Moldova, Republic of",MD,MDA,498,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey  - HBS00
+"Moldova, Republic of",MD,MDA,498,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey  - HBS00
+"Moldova, Republic of",MD,MDA,498,Rural,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey  - HBS00
+"Moldova, Republic of",MD,MDA,498,Rural,12,Dry latrines - Other,0.0,Household Budget Survey  - HBS00
+"Moldova, Republic of",MD,MDA,498,Rural,13,Composting toilets,0.0,Household Budget Survey  - HBS00
+"Moldova, Republic of",MD,MDA,498,Rural,14,Other improved,0.0,Household Budget Survey  - HBS00
+"Moldova, Republic of",MD,MDA,498,Rural,15,"No facility, bush, field",0.0,Household Budget Survey  - HBS00
+"Moldova, Republic of",MD,MDA,498,Rural,16,Other unimproved,0.984,Household Budget Survey  - HBS00
+"Moldova, Republic of",MD,MDA,498,Rural,17,DK/missing information,0.0,Household Budget Survey  - HBS00
+"Moldova, Republic of",MD,MDA,498,National,1,Flush and pour flush - to piped sewer system,0.323,Household Budget Survey  - HBS00
+"Moldova, Republic of",MD,MDA,498,National,2,Flush and pour flush - to septic tank,0.0,Household Budget Survey  - HBS00
+"Moldova, Republic of",MD,MDA,498,National,3,Flush and pour flush - to pit,0.0,Household Budget Survey  - HBS00
+"Moldova, Republic of",MD,MDA,498,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey  - HBS00
+"Moldova, Republic of",MD,MDA,498,National,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey  - HBS00
+"Moldova, Republic of",MD,MDA,498,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey  - HBS00
+"Moldova, Republic of",MD,MDA,498,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey  - HBS00
+"Moldova, Republic of",MD,MDA,498,National,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey  - HBS00
+"Moldova, Republic of",MD,MDA,498,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey  - HBS00
+"Moldova, Republic of",MD,MDA,498,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey  - HBS00
+"Moldova, Republic of",MD,MDA,498,National,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey  - HBS00
+"Moldova, Republic of",MD,MDA,498,National,12,Dry latrines - Other,0.0,Household Budget Survey  - HBS00
+"Moldova, Republic of",MD,MDA,498,National,13,Composting toilets,0.0,Household Budget Survey  - HBS00
+"Moldova, Republic of",MD,MDA,498,National,14,Other improved,0.0,Household Budget Survey  - HBS00
+"Moldova, Republic of",MD,MDA,498,National,15,"No facility, bush, field",0.0,Household Budget Survey  - HBS00
+"Moldova, Republic of",MD,MDA,498,National,16,Other unimproved,0.677,Household Budget Survey  - HBS00
+"Moldova, Republic of",MD,MDA,498,National,17,DK/missing information,0.0,Household Budget Survey  - HBS00
+"Moldova, Republic of",MD,MDA,498,Urban,1,Flush and pour flush - to piped sewer system,0.676,Multiple Indicator Cluster Survey - MICS00
+"Moldova, Republic of",MD,MDA,498,Urban,2,Flush and pour flush - to septic tank,0.0,Multiple Indicator Cluster Survey - MICS00
+"Moldova, Republic of",MD,MDA,498,Urban,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS00
+"Moldova, Republic of",MD,MDA,498,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS00
+"Moldova, Republic of",MD,MDA,498,Urban,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS00
+"Moldova, Republic of",MD,MDA,498,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+"Moldova, Republic of",MD,MDA,498,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.022,Multiple Indicator Cluster Survey - MICS00
+"Moldova, Republic of",MD,MDA,498,Urban,8,Dry latrines - Traditional latrine,0.265,Multiple Indicator Cluster Survey - MICS00
+"Moldova, Republic of",MD,MDA,498,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.002,Multiple Indicator Cluster Survey - MICS00
+"Moldova, Republic of",MD,MDA,498,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+"Moldova, Republic of",MD,MDA,498,Urban,11,Dry latrines - Bucket latrine,0.001,Multiple Indicator Cluster Survey - MICS00
+"Moldova, Republic of",MD,MDA,498,Urban,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS00
+"Moldova, Republic of",MD,MDA,498,Urban,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS00
+"Moldova, Republic of",MD,MDA,498,Urban,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS00
+"Moldova, Republic of",MD,MDA,498,Urban,15,"No facility, bush, field",0.0,Multiple Indicator Cluster Survey - MICS00
+"Moldova, Republic of",MD,MDA,498,Urban,16,Other unimproved,0.0,Multiple Indicator Cluster Survey - MICS00
+"Moldova, Republic of",MD,MDA,498,Urban,17,DK/missing information,0.001,Multiple Indicator Cluster Survey - MICS00
+"Moldova, Republic of",MD,MDA,498,Rural,1,Flush and pour flush - to piped sewer system,0.031,Multiple Indicator Cluster Survey - MICS00
+"Moldova, Republic of",MD,MDA,498,Rural,2,Flush and pour flush - to septic tank,0.0,Multiple Indicator Cluster Survey - MICS00
+"Moldova, Republic of",MD,MDA,498,Rural,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS00
+"Moldova, Republic of",MD,MDA,498,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS00
+"Moldova, Republic of",MD,MDA,498,Rural,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS00
+"Moldova, Republic of",MD,MDA,498,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+"Moldova, Republic of",MD,MDA,498,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.029,Multiple Indicator Cluster Survey - MICS00
+"Moldova, Republic of",MD,MDA,498,Rural,8,Dry latrines - Traditional latrine,0.917,Multiple Indicator Cluster Survey - MICS00
+"Moldova, Republic of",MD,MDA,498,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.009,Multiple Indicator Cluster Survey - MICS00
+"Moldova, Republic of",MD,MDA,498,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+"Moldova, Republic of",MD,MDA,498,Rural,11,Dry latrines - Bucket latrine,0.01,Multiple Indicator Cluster Survey - MICS00
+"Moldova, Republic of",MD,MDA,498,Rural,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS00
+"Moldova, Republic of",MD,MDA,498,Rural,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS00
+"Moldova, Republic of",MD,MDA,498,Rural,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS00
+"Moldova, Republic of",MD,MDA,498,Rural,15,"No facility, bush, field",0.0,Multiple Indicator Cluster Survey - MICS00
+"Moldova, Republic of",MD,MDA,498,Rural,16,Other unimproved,0.0,Multiple Indicator Cluster Survey - MICS00
+"Moldova, Republic of",MD,MDA,498,Rural,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS00
+"Moldova, Republic of",MD,MDA,498,National,1,Flush and pour flush - to piped sewer system,0.29,Multiple Indicator Cluster Survey - MICS00
+"Moldova, Republic of",MD,MDA,498,National,2,Flush and pour flush - to septic tank,0.0,Multiple Indicator Cluster Survey - MICS00
+"Moldova, Republic of",MD,MDA,498,National,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS00
+"Moldova, Republic of",MD,MDA,498,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS00
+"Moldova, Republic of",MD,MDA,498,National,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS00
+"Moldova, Republic of",MD,MDA,498,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+"Moldova, Republic of",MD,MDA,498,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.026,Multiple Indicator Cluster Survey - MICS00
+"Moldova, Republic of",MD,MDA,498,National,8,Dry latrines - Traditional latrine,0.655,Multiple Indicator Cluster Survey - MICS00
+"Moldova, Republic of",MD,MDA,498,National,9,Dry latrines - Pit latrine without slab/open pit,0.006,Multiple Indicator Cluster Survey - MICS00
+"Moldova, Republic of",MD,MDA,498,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+"Moldova, Republic of",MD,MDA,498,National,11,Dry latrines - Bucket latrine,0.006,Multiple Indicator Cluster Survey - MICS00
+"Moldova, Republic of",MD,MDA,498,National,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS00
+"Moldova, Republic of",MD,MDA,498,National,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS00
+"Moldova, Republic of",MD,MDA,498,National,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS00
+"Moldova, Republic of",MD,MDA,498,National,15,"No facility, bush, field",0.0,Multiple Indicator Cluster Survey - MICS00
+"Moldova, Republic of",MD,MDA,498,National,16,Other unimproved,0.0,Multiple Indicator Cluster Survey - MICS00
+"Moldova, Republic of",MD,MDA,498,National,17,DK/missing information,0.001,Multiple Indicator Cluster Survey - MICS00
+"Moldova, Republic of",MD,MDA,498,Urban,1,Flush and pour flush - to piped sewer system,0.785,Household Budget Survey  - HBS01
+"Moldova, Republic of",MD,MDA,498,Urban,2,Flush and pour flush - to septic tank,0.0,Household Budget Survey  - HBS01
+"Moldova, Republic of",MD,MDA,498,Urban,3,Flush and pour flush - to pit,0.0,Household Budget Survey  - HBS01
+"Moldova, Republic of",MD,MDA,498,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey  - HBS01
+"Moldova, Republic of",MD,MDA,498,Urban,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey  - HBS01
+"Moldova, Republic of",MD,MDA,498,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey  - HBS01
+"Moldova, Republic of",MD,MDA,498,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey  - HBS01
+"Moldova, Republic of",MD,MDA,498,Urban,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey  - HBS01
+"Moldova, Republic of",MD,MDA,498,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey  - HBS01
+"Moldova, Republic of",MD,MDA,498,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey  - HBS01
+"Moldova, Republic of",MD,MDA,498,Urban,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey  - HBS01
+"Moldova, Republic of",MD,MDA,498,Urban,12,Dry latrines - Other,0.0,Household Budget Survey  - HBS01
+"Moldova, Republic of",MD,MDA,498,Urban,13,Composting toilets,0.0,Household Budget Survey  - HBS01
+"Moldova, Republic of",MD,MDA,498,Urban,14,Other improved,0.0,Household Budget Survey  - HBS01
+"Moldova, Republic of",MD,MDA,498,Urban,15,"No facility, bush, field",0.0,Household Budget Survey  - HBS01
+"Moldova, Republic of",MD,MDA,498,Urban,16,Other unimproved,0.215,Household Budget Survey  - HBS01
+"Moldova, Republic of",MD,MDA,498,Urban,17,DK/missing information,0.0,Household Budget Survey  - HBS01
+"Moldova, Republic of",MD,MDA,498,Rural,1,Flush and pour flush - to piped sewer system,0.024,Household Budget Survey  - HBS01
+"Moldova, Republic of",MD,MDA,498,Rural,2,Flush and pour flush - to septic tank,0.0,Household Budget Survey  - HBS01
+"Moldova, Republic of",MD,MDA,498,Rural,3,Flush and pour flush - to pit,0.0,Household Budget Survey  - HBS01
+"Moldova, Republic of",MD,MDA,498,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey  - HBS01
+"Moldova, Republic of",MD,MDA,498,Rural,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey  - HBS01
+"Moldova, Republic of",MD,MDA,498,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey  - HBS01
+"Moldova, Republic of",MD,MDA,498,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey  - HBS01
+"Moldova, Republic of",MD,MDA,498,Rural,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey  - HBS01
+"Moldova, Republic of",MD,MDA,498,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey  - HBS01
+"Moldova, Republic of",MD,MDA,498,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey  - HBS01
+"Moldova, Republic of",MD,MDA,498,Rural,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey  - HBS01
+"Moldova, Republic of",MD,MDA,498,Rural,12,Dry latrines - Other,0.0,Household Budget Survey  - HBS01
+"Moldova, Republic of",MD,MDA,498,Rural,13,Composting toilets,0.0,Household Budget Survey  - HBS01
+"Moldova, Republic of",MD,MDA,498,Rural,14,Other improved,0.0,Household Budget Survey  - HBS01
+"Moldova, Republic of",MD,MDA,498,Rural,15,"No facility, bush, field",0.0,Household Budget Survey  - HBS01
+"Moldova, Republic of",MD,MDA,498,Rural,16,Other unimproved,0.976,Household Budget Survey  - HBS01
+"Moldova, Republic of",MD,MDA,498,Rural,17,DK/missing information,0.0,Household Budget Survey  - HBS01
+"Moldova, Republic of",MD,MDA,498,National,1,Flush and pour flush - to piped sewer system,0.328,Household Budget Survey  - HBS01
+"Moldova, Republic of",MD,MDA,498,National,2,Flush and pour flush - to septic tank,0.0,Household Budget Survey  - HBS01
+"Moldova, Republic of",MD,MDA,498,National,3,Flush and pour flush - to pit,0.0,Household Budget Survey  - HBS01
+"Moldova, Republic of",MD,MDA,498,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey  - HBS01
+"Moldova, Republic of",MD,MDA,498,National,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey  - HBS01
+"Moldova, Republic of",MD,MDA,498,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey  - HBS01
+"Moldova, Republic of",MD,MDA,498,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey  - HBS01
+"Moldova, Republic of",MD,MDA,498,National,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey  - HBS01
+"Moldova, Republic of",MD,MDA,498,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey  - HBS01
+"Moldova, Republic of",MD,MDA,498,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey  - HBS01
+"Moldova, Republic of",MD,MDA,498,National,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey  - HBS01
+"Moldova, Republic of",MD,MDA,498,National,12,Dry latrines - Other,0.0,Household Budget Survey  - HBS01
+"Moldova, Republic of",MD,MDA,498,National,13,Composting toilets,0.0,Household Budget Survey  - HBS01
+"Moldova, Republic of",MD,MDA,498,National,14,Other improved,0.0,Household Budget Survey  - HBS01
+"Moldova, Republic of",MD,MDA,498,National,15,"No facility, bush, field",0.0,Household Budget Survey  - HBS01
+"Moldova, Republic of",MD,MDA,498,National,16,Other unimproved,0.672,Household Budget Survey  - HBS01
+"Moldova, Republic of",MD,MDA,498,National,17,DK/missing information,0.0,Household Budget Survey  - HBS01
+"Moldova, Republic of",MD,MDA,498,Urban,1,Flush and pour flush - to piped sewer system,0.764,Household Budget Survey  - HBS02
+"Moldova, Republic of",MD,MDA,498,Urban,2,Flush and pour flush - to septic tank,0.0,Household Budget Survey  - HBS02
+"Moldova, Republic of",MD,MDA,498,Urban,3,Flush and pour flush - to pit,0.0,Household Budget Survey  - HBS02
+"Moldova, Republic of",MD,MDA,498,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey  - HBS02
+"Moldova, Republic of",MD,MDA,498,Urban,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey  - HBS02
+"Moldova, Republic of",MD,MDA,498,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey  - HBS02
+"Moldova, Republic of",MD,MDA,498,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey  - HBS02
+"Moldova, Republic of",MD,MDA,498,Urban,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey  - HBS02
+"Moldova, Republic of",MD,MDA,498,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey  - HBS02
+"Moldova, Republic of",MD,MDA,498,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey  - HBS02
+"Moldova, Republic of",MD,MDA,498,Urban,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey  - HBS02
+"Moldova, Republic of",MD,MDA,498,Urban,12,Dry latrines - Other,0.0,Household Budget Survey  - HBS02
+"Moldova, Republic of",MD,MDA,498,Urban,13,Composting toilets,0.0,Household Budget Survey  - HBS02
+"Moldova, Republic of",MD,MDA,498,Urban,14,Other improved,0.0,Household Budget Survey  - HBS02
+"Moldova, Republic of",MD,MDA,498,Urban,15,"No facility, bush, field",0.0,Household Budget Survey  - HBS02
+"Moldova, Republic of",MD,MDA,498,Urban,16,Other unimproved,0.236,Household Budget Survey  - HBS02
+"Moldova, Republic of",MD,MDA,498,Urban,17,DK/missing information,0.0,Household Budget Survey  - HBS02
+"Moldova, Republic of",MD,MDA,498,Rural,1,Flush and pour flush - to piped sewer system,0.023,Household Budget Survey  - HBS02
+"Moldova, Republic of",MD,MDA,498,Rural,2,Flush and pour flush - to septic tank,0.0,Household Budget Survey  - HBS02
+"Moldova, Republic of",MD,MDA,498,Rural,3,Flush and pour flush - to pit,0.0,Household Budget Survey  - HBS02
+"Moldova, Republic of",MD,MDA,498,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey  - HBS02
+"Moldova, Republic of",MD,MDA,498,Rural,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey  - HBS02
+"Moldova, Republic of",MD,MDA,498,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey  - HBS02
+"Moldova, Republic of",MD,MDA,498,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey  - HBS02
+"Moldova, Republic of",MD,MDA,498,Rural,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey  - HBS02
+"Moldova, Republic of",MD,MDA,498,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey  - HBS02
+"Moldova, Republic of",MD,MDA,498,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey  - HBS02
+"Moldova, Republic of",MD,MDA,498,Rural,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey  - HBS02
+"Moldova, Republic of",MD,MDA,498,Rural,12,Dry latrines - Other,0.0,Household Budget Survey  - HBS02
+"Moldova, Republic of",MD,MDA,498,Rural,13,Composting toilets,0.0,Household Budget Survey  - HBS02
+"Moldova, Republic of",MD,MDA,498,Rural,14,Other improved,0.0,Household Budget Survey  - HBS02
+"Moldova, Republic of",MD,MDA,498,Rural,15,"No facility, bush, field",0.0,Household Budget Survey  - HBS02
+"Moldova, Republic of",MD,MDA,498,Rural,16,Other unimproved,0.977,Household Budget Survey  - HBS02
+"Moldova, Republic of",MD,MDA,498,Rural,17,DK/missing information,0.0,Household Budget Survey  - HBS02
+"Moldova, Republic of",MD,MDA,498,National,1,Flush and pour flush - to piped sewer system,0.319,Household Budget Survey  - HBS02
+"Moldova, Republic of",MD,MDA,498,National,2,Flush and pour flush - to septic tank,0.0,Household Budget Survey  - HBS02
+"Moldova, Republic of",MD,MDA,498,National,3,Flush and pour flush - to pit,0.0,Household Budget Survey  - HBS02
+"Moldova, Republic of",MD,MDA,498,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey  - HBS02
+"Moldova, Republic of",MD,MDA,498,National,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey  - HBS02
+"Moldova, Republic of",MD,MDA,498,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey  - HBS02
+"Moldova, Republic of",MD,MDA,498,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey  - HBS02
+"Moldova, Republic of",MD,MDA,498,National,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey  - HBS02
+"Moldova, Republic of",MD,MDA,498,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey  - HBS02
+"Moldova, Republic of",MD,MDA,498,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey  - HBS02
+"Moldova, Republic of",MD,MDA,498,National,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey  - HBS02
+"Moldova, Republic of",MD,MDA,498,National,12,Dry latrines - Other,0.0,Household Budget Survey  - HBS02
+"Moldova, Republic of",MD,MDA,498,National,13,Composting toilets,0.0,Household Budget Survey  - HBS02
+"Moldova, Republic of",MD,MDA,498,National,14,Other improved,0.0,Household Budget Survey  - HBS02
+"Moldova, Republic of",MD,MDA,498,National,15,"No facility, bush, field",0.0,Household Budget Survey  - HBS02
+"Moldova, Republic of",MD,MDA,498,National,16,Other unimproved,0.681,Household Budget Survey  - HBS02
+"Moldova, Republic of",MD,MDA,498,National,17,DK/missing information,0.0,Household Budget Survey  - HBS02
+"Moldova, Republic of",MD,MDA,498,Urban,1,Flush and pour flush - to piped sewer system,0.779,Household Budget Survey  - HBS03
+"Moldova, Republic of",MD,MDA,498,Urban,2,Flush and pour flush - to septic tank,0.0,Household Budget Survey  - HBS03
+"Moldova, Republic of",MD,MDA,498,Urban,3,Flush and pour flush - to pit,0.0,Household Budget Survey  - HBS03
+"Moldova, Republic of",MD,MDA,498,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey  - HBS03
+"Moldova, Republic of",MD,MDA,498,Urban,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey  - HBS03
+"Moldova, Republic of",MD,MDA,498,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey  - HBS03
+"Moldova, Republic of",MD,MDA,498,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey  - HBS03
+"Moldova, Republic of",MD,MDA,498,Urban,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey  - HBS03
+"Moldova, Republic of",MD,MDA,498,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey  - HBS03
+"Moldova, Republic of",MD,MDA,498,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey  - HBS03
+"Moldova, Republic of",MD,MDA,498,Urban,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey  - HBS03
+"Moldova, Republic of",MD,MDA,498,Urban,12,Dry latrines - Other,0.0,Household Budget Survey  - HBS03
+"Moldova, Republic of",MD,MDA,498,Urban,13,Composting toilets,0.0,Household Budget Survey  - HBS03
+"Moldova, Republic of",MD,MDA,498,Urban,14,Other improved,0.0,Household Budget Survey  - HBS03
+"Moldova, Republic of",MD,MDA,498,Urban,15,"No facility, bush, field",0.0,Household Budget Survey  - HBS03
+"Moldova, Republic of",MD,MDA,498,Urban,16,Other unimproved,0.221,Household Budget Survey  - HBS03
+"Moldova, Republic of",MD,MDA,498,Urban,17,DK/missing information,0.0,Household Budget Survey  - HBS03
+"Moldova, Republic of",MD,MDA,498,Rural,1,Flush and pour flush - to piped sewer system,0.029,Household Budget Survey  - HBS03
+"Moldova, Republic of",MD,MDA,498,Rural,2,Flush and pour flush - to septic tank,0.0,Household Budget Survey  - HBS03
+"Moldova, Republic of",MD,MDA,498,Rural,3,Flush and pour flush - to pit,0.0,Household Budget Survey  - HBS03
+"Moldova, Republic of",MD,MDA,498,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey  - HBS03
+"Moldova, Republic of",MD,MDA,498,Rural,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey  - HBS03
+"Moldova, Republic of",MD,MDA,498,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey  - HBS03
+"Moldova, Republic of",MD,MDA,498,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey  - HBS03
+"Moldova, Republic of",MD,MDA,498,Rural,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey  - HBS03
+"Moldova, Republic of",MD,MDA,498,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey  - HBS03
+"Moldova, Republic of",MD,MDA,498,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey  - HBS03
+"Moldova, Republic of",MD,MDA,498,Rural,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey  - HBS03
+"Moldova, Republic of",MD,MDA,498,Rural,12,Dry latrines - Other,0.0,Household Budget Survey  - HBS03
+"Moldova, Republic of",MD,MDA,498,Rural,13,Composting toilets,0.0,Household Budget Survey  - HBS03
+"Moldova, Republic of",MD,MDA,498,Rural,14,Other improved,0.0,Household Budget Survey  - HBS03
+"Moldova, Republic of",MD,MDA,498,Rural,15,"No facility, bush, field",0.0,Household Budget Survey  - HBS03
+"Moldova, Republic of",MD,MDA,498,Rural,16,Other unimproved,0.971,Household Budget Survey  - HBS03
+"Moldova, Republic of",MD,MDA,498,Rural,17,DK/missing information,0.0,Household Budget Survey  - HBS03
+"Moldova, Republic of",MD,MDA,498,National,1,Flush and pour flush - to piped sewer system,0.329,Household Budget Survey  - HBS03
+"Moldova, Republic of",MD,MDA,498,National,2,Flush and pour flush - to septic tank,0.0,Household Budget Survey  - HBS03
+"Moldova, Republic of",MD,MDA,498,National,3,Flush and pour flush - to pit,0.0,Household Budget Survey  - HBS03
+"Moldova, Republic of",MD,MDA,498,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey  - HBS03
+"Moldova, Republic of",MD,MDA,498,National,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey  - HBS03
+"Moldova, Republic of",MD,MDA,498,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey  - HBS03
+"Moldova, Republic of",MD,MDA,498,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey  - HBS03
+"Moldova, Republic of",MD,MDA,498,National,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey  - HBS03
+"Moldova, Republic of",MD,MDA,498,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey  - HBS03
+"Moldova, Republic of",MD,MDA,498,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey  - HBS03
+"Moldova, Republic of",MD,MDA,498,National,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey  - HBS03
+"Moldova, Republic of",MD,MDA,498,National,12,Dry latrines - Other,0.0,Household Budget Survey  - HBS03
+"Moldova, Republic of",MD,MDA,498,National,13,Composting toilets,0.0,Household Budget Survey  - HBS03
+"Moldova, Republic of",MD,MDA,498,National,14,Other improved,0.0,Household Budget Survey  - HBS03
+"Moldova, Republic of",MD,MDA,498,National,15,"No facility, bush, field",0.0,Household Budget Survey  - HBS03
+"Moldova, Republic of",MD,MDA,498,National,16,Other unimproved,0.671,Household Budget Survey  - HBS03
+"Moldova, Republic of",MD,MDA,498,National,17,DK/missing information,0.0,Household Budget Survey  - HBS03
+"Moldova, Republic of",MD,MDA,498,Urban,1,Flush and pour flush - to piped sewer system,0.785,Household Budget Survey  - HBS04
+"Moldova, Republic of",MD,MDA,498,Urban,2,Flush and pour flush - to septic tank,0.0,Household Budget Survey  - HBS04
+"Moldova, Republic of",MD,MDA,498,Urban,3,Flush and pour flush - to pit,0.0,Household Budget Survey  - HBS04
+"Moldova, Republic of",MD,MDA,498,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey  - HBS04
+"Moldova, Republic of",MD,MDA,498,Urban,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey  - HBS04
+"Moldova, Republic of",MD,MDA,498,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey  - HBS04
+"Moldova, Republic of",MD,MDA,498,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey  - HBS04
+"Moldova, Republic of",MD,MDA,498,Urban,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey  - HBS04
+"Moldova, Republic of",MD,MDA,498,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey  - HBS04
+"Moldova, Republic of",MD,MDA,498,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey  - HBS04
+"Moldova, Republic of",MD,MDA,498,Urban,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey  - HBS04
+"Moldova, Republic of",MD,MDA,498,Urban,12,Dry latrines - Other,0.0,Household Budget Survey  - HBS04
+"Moldova, Republic of",MD,MDA,498,Urban,13,Composting toilets,0.0,Household Budget Survey  - HBS04
+"Moldova, Republic of",MD,MDA,498,Urban,14,Other improved,0.0,Household Budget Survey  - HBS04
+"Moldova, Republic of",MD,MDA,498,Urban,15,"No facility, bush, field",0.0,Household Budget Survey  - HBS04
+"Moldova, Republic of",MD,MDA,498,Urban,16,Other unimproved,0.215,Household Budget Survey  - HBS04
+"Moldova, Republic of",MD,MDA,498,Urban,17,DK/missing information,0.0,Household Budget Survey  - HBS04
+"Moldova, Republic of",MD,MDA,498,Rural,1,Flush and pour flush - to piped sewer system,0.042,Household Budget Survey  - HBS04
+"Moldova, Republic of",MD,MDA,498,Rural,2,Flush and pour flush - to septic tank,0.0,Household Budget Survey  - HBS04
+"Moldova, Republic of",MD,MDA,498,Rural,3,Flush and pour flush - to pit,0.0,Household Budget Survey  - HBS04
+"Moldova, Republic of",MD,MDA,498,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey  - HBS04
+"Moldova, Republic of",MD,MDA,498,Rural,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey  - HBS04
+"Moldova, Republic of",MD,MDA,498,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey  - HBS04
+"Moldova, Republic of",MD,MDA,498,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey  - HBS04
+"Moldova, Republic of",MD,MDA,498,Rural,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey  - HBS04
+"Moldova, Republic of",MD,MDA,498,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey  - HBS04
+"Moldova, Republic of",MD,MDA,498,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey  - HBS04
+"Moldova, Republic of",MD,MDA,498,Rural,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey  - HBS04
+"Moldova, Republic of",MD,MDA,498,Rural,12,Dry latrines - Other,0.0,Household Budget Survey  - HBS04
+"Moldova, Republic of",MD,MDA,498,Rural,13,Composting toilets,0.0,Household Budget Survey  - HBS04
+"Moldova, Republic of",MD,MDA,498,Rural,14,Other improved,0.0,Household Budget Survey  - HBS04
+"Moldova, Republic of",MD,MDA,498,Rural,15,"No facility, bush, field",0.0,Household Budget Survey  - HBS04
+"Moldova, Republic of",MD,MDA,498,Rural,16,Other unimproved,0.958,Household Budget Survey  - HBS04
+"Moldova, Republic of",MD,MDA,498,Rural,17,DK/missing information,0.0,Household Budget Survey  - HBS04
+"Moldova, Republic of",MD,MDA,498,National,1,Flush and pour flush - to piped sewer system,0.339,Household Budget Survey  - HBS04
+"Moldova, Republic of",MD,MDA,498,National,2,Flush and pour flush - to septic tank,0.0,Household Budget Survey  - HBS04
+"Moldova, Republic of",MD,MDA,498,National,3,Flush and pour flush - to pit,0.0,Household Budget Survey  - HBS04
+"Moldova, Republic of",MD,MDA,498,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey  - HBS04
+"Moldova, Republic of",MD,MDA,498,National,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey  - HBS04
+"Moldova, Republic of",MD,MDA,498,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey  - HBS04
+"Moldova, Republic of",MD,MDA,498,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey  - HBS04
+"Moldova, Republic of",MD,MDA,498,National,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey  - HBS04
+"Moldova, Republic of",MD,MDA,498,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey  - HBS04
+"Moldova, Republic of",MD,MDA,498,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey  - HBS04
+"Moldova, Republic of",MD,MDA,498,National,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey  - HBS04
+"Moldova, Republic of",MD,MDA,498,National,12,Dry latrines - Other,0.0,Household Budget Survey  - HBS04
+"Moldova, Republic of",MD,MDA,498,National,13,Composting toilets,0.0,Household Budget Survey  - HBS04
+"Moldova, Republic of",MD,MDA,498,National,14,Other improved,0.0,Household Budget Survey  - HBS04
+"Moldova, Republic of",MD,MDA,498,National,15,"No facility, bush, field",0.0,Household Budget Survey  - HBS04
+"Moldova, Republic of",MD,MDA,498,National,16,Other unimproved,0.661,Household Budget Survey  - HBS04
+"Moldova, Republic of",MD,MDA,498,National,17,DK/missing information,0.0,Household Budget Survey  - HBS04
+"Moldova, Republic of",MD,MDA,498,Urban,1,Flush and pour flush - to piped sewer system,0.703,Demographic and Health Survey - DHS05
+"Moldova, Republic of",MD,MDA,498,Urban,2,Flush and pour flush - to septic tank,0.0,Demographic and Health Survey - DHS05
+"Moldova, Republic of",MD,MDA,498,Urban,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS05
+"Moldova, Republic of",MD,MDA,498,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS05
+"Moldova, Republic of",MD,MDA,498,Urban,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS05
+"Moldova, Republic of",MD,MDA,498,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.113,Demographic and Health Survey - DHS05
+"Moldova, Republic of",MD,MDA,498,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.095,Demographic and Health Survey - DHS05
+"Moldova, Republic of",MD,MDA,498,Urban,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS05
+"Moldova, Republic of",MD,MDA,498,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.077,Demographic and Health Survey - DHS05
+"Moldova, Republic of",MD,MDA,498,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS05
+"Moldova, Republic of",MD,MDA,498,Urban,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS05
+"Moldova, Republic of",MD,MDA,498,Urban,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS05
+"Moldova, Republic of",MD,MDA,498,Urban,13,Composting toilets,0.008,Demographic and Health Survey - DHS05
+"Moldova, Republic of",MD,MDA,498,Urban,14,Other improved,0.004,Demographic and Health Survey - DHS05
+"Moldova, Republic of",MD,MDA,498,Urban,15,"No facility, bush, field",0.0,Demographic and Health Survey - DHS05
+"Moldova, Republic of",MD,MDA,498,Urban,16,Other unimproved,0.0,Demographic and Health Survey - DHS05
+"Moldova, Republic of",MD,MDA,498,Urban,17,DK/missing information,0.0,Demographic and Health Survey - DHS05
+"Moldova, Republic of",MD,MDA,498,Rural,1,Flush and pour flush - to piped sewer system,0.038,Demographic and Health Survey - DHS05
+"Moldova, Republic of",MD,MDA,498,Rural,2,Flush and pour flush - to septic tank,0.0,Demographic and Health Survey - DHS05
+"Moldova, Republic of",MD,MDA,498,Rural,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS05
+"Moldova, Republic of",MD,MDA,498,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS05
+"Moldova, Republic of",MD,MDA,498,Rural,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS05
+"Moldova, Republic of",MD,MDA,498,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.312,Demographic and Health Survey - DHS05
+"Moldova, Republic of",MD,MDA,498,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.324,Demographic and Health Survey - DHS05
+"Moldova, Republic of",MD,MDA,498,Rural,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS05
+"Moldova, Republic of",MD,MDA,498,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.218,Demographic and Health Survey - DHS05
+"Moldova, Republic of",MD,MDA,498,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS05
+"Moldova, Republic of",MD,MDA,498,Rural,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS05
+"Moldova, Republic of",MD,MDA,498,Rural,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS05
+"Moldova, Republic of",MD,MDA,498,Rural,13,Composting toilets,0.097,Demographic and Health Survey - DHS05
+"Moldova, Republic of",MD,MDA,498,Rural,14,Other improved,0.012,Demographic and Health Survey - DHS05
+"Moldova, Republic of",MD,MDA,498,Rural,15,"No facility, bush, field",0.0,Demographic and Health Survey - DHS05
+"Moldova, Republic of",MD,MDA,498,Rural,16,Other unimproved,0.0,Demographic and Health Survey - DHS05
+"Moldova, Republic of",MD,MDA,498,Rural,17,DK/missing information,0.0,Demographic and Health Survey - DHS05
+"Moldova, Republic of",MD,MDA,498,National,1,Flush and pour flush - to piped sewer system,0.304,Demographic and Health Survey - DHS05
+"Moldova, Republic of",MD,MDA,498,National,2,Flush and pour flush - to septic tank,0.0,Demographic and Health Survey - DHS05
+"Moldova, Republic of",MD,MDA,498,National,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS05
+"Moldova, Republic of",MD,MDA,498,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS05
+"Moldova, Republic of",MD,MDA,498,National,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS05
+"Moldova, Republic of",MD,MDA,498,National,6,Dry latrines - Ventilated Improved Pit latrine,0.232,Demographic and Health Survey - DHS05
+"Moldova, Republic of",MD,MDA,498,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.232,Demographic and Health Survey - DHS05
+"Moldova, Republic of",MD,MDA,498,National,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS05
+"Moldova, Republic of",MD,MDA,498,National,9,Dry latrines - Pit latrine without slab/open pit,0.161,Demographic and Health Survey - DHS05
+"Moldova, Republic of",MD,MDA,498,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS05
+"Moldova, Republic of",MD,MDA,498,National,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS05
+"Moldova, Republic of",MD,MDA,498,National,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS05
+"Moldova, Republic of",MD,MDA,498,National,13,Composting toilets,0.061,Demographic and Health Survey - DHS05
+"Moldova, Republic of",MD,MDA,498,National,14,Other improved,0.008,Demographic and Health Survey - DHS05
+"Moldova, Republic of",MD,MDA,498,National,15,"No facility, bush, field",0.0,Demographic and Health Survey - DHS05
+"Moldova, Republic of",MD,MDA,498,National,16,Other unimproved,0.0,Demographic and Health Survey - DHS05
+"Moldova, Republic of",MD,MDA,498,National,17,DK/missing information,0.0,Demographic and Health Survey - DHS05
+"Moldova, Republic of",MD,MDA,498,Urban,1,Flush and pour flush - to piped sewer system,0.815,Household Budget Survey  - HBS05
+"Moldova, Republic of",MD,MDA,498,Urban,2,Flush and pour flush - to septic tank,0.0,Household Budget Survey  - HBS05
+"Moldova, Republic of",MD,MDA,498,Urban,3,Flush and pour flush - to pit,0.0,Household Budget Survey  - HBS05
+"Moldova, Republic of",MD,MDA,498,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey  - HBS05
+"Moldova, Republic of",MD,MDA,498,Urban,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey  - HBS05
+"Moldova, Republic of",MD,MDA,498,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey  - HBS05
+"Moldova, Republic of",MD,MDA,498,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey  - HBS05
+"Moldova, Republic of",MD,MDA,498,Urban,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey  - HBS05
+"Moldova, Republic of",MD,MDA,498,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey  - HBS05
+"Moldova, Republic of",MD,MDA,498,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey  - HBS05
+"Moldova, Republic of",MD,MDA,498,Urban,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey  - HBS05
+"Moldova, Republic of",MD,MDA,498,Urban,12,Dry latrines - Other,0.0,Household Budget Survey  - HBS05
+"Moldova, Republic of",MD,MDA,498,Urban,13,Composting toilets,0.0,Household Budget Survey  - HBS05
+"Moldova, Republic of",MD,MDA,498,Urban,14,Other improved,0.0,Household Budget Survey  - HBS05
+"Moldova, Republic of",MD,MDA,498,Urban,15,"No facility, bush, field",0.0,Household Budget Survey  - HBS05
+"Moldova, Republic of",MD,MDA,498,Urban,16,Other unimproved,0.185,Household Budget Survey  - HBS05
+"Moldova, Republic of",MD,MDA,498,Urban,17,DK/missing information,0.0,Household Budget Survey  - HBS05
+"Moldova, Republic of",MD,MDA,498,Rural,1,Flush and pour flush - to piped sewer system,0.051,Household Budget Survey  - HBS05
+"Moldova, Republic of",MD,MDA,498,Rural,2,Flush and pour flush - to septic tank,0.0,Household Budget Survey  - HBS05
+"Moldova, Republic of",MD,MDA,498,Rural,3,Flush and pour flush - to pit,0.0,Household Budget Survey  - HBS05
+"Moldova, Republic of",MD,MDA,498,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey  - HBS05
+"Moldova, Republic of",MD,MDA,498,Rural,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey  - HBS05
+"Moldova, Republic of",MD,MDA,498,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey  - HBS05
+"Moldova, Republic of",MD,MDA,498,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey  - HBS05
+"Moldova, Republic of",MD,MDA,498,Rural,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey  - HBS05
+"Moldova, Republic of",MD,MDA,498,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey  - HBS05
+"Moldova, Republic of",MD,MDA,498,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey  - HBS05
+"Moldova, Republic of",MD,MDA,498,Rural,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey  - HBS05
+"Moldova, Republic of",MD,MDA,498,Rural,12,Dry latrines - Other,0.0,Household Budget Survey  - HBS05
+"Moldova, Republic of",MD,MDA,498,Rural,13,Composting toilets,0.0,Household Budget Survey  - HBS05
+"Moldova, Republic of",MD,MDA,498,Rural,14,Other improved,0.0,Household Budget Survey  - HBS05
+"Moldova, Republic of",MD,MDA,498,Rural,15,"No facility, bush, field",0.0,Household Budget Survey  - HBS05
+"Moldova, Republic of",MD,MDA,498,Rural,16,Other unimproved,0.949,Household Budget Survey  - HBS05
+"Moldova, Republic of",MD,MDA,498,Rural,17,DK/missing information,0.0,Household Budget Survey  - HBS05
+"Moldova, Republic of",MD,MDA,498,National,1,Flush and pour flush - to piped sewer system,0.356,Household Budget Survey  - HBS05
+"Moldova, Republic of",MD,MDA,498,National,2,Flush and pour flush - to septic tank,0.0,Household Budget Survey  - HBS05
+"Moldova, Republic of",MD,MDA,498,National,3,Flush and pour flush - to pit,0.0,Household Budget Survey  - HBS05
+"Moldova, Republic of",MD,MDA,498,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey  - HBS05
+"Moldova, Republic of",MD,MDA,498,National,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey  - HBS05
+"Moldova, Republic of",MD,MDA,498,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey  - HBS05
+"Moldova, Republic of",MD,MDA,498,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey  - HBS05
+"Moldova, Republic of",MD,MDA,498,National,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey  - HBS05
+"Moldova, Republic of",MD,MDA,498,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey  - HBS05
+"Moldova, Republic of",MD,MDA,498,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey  - HBS05
+"Moldova, Republic of",MD,MDA,498,National,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey  - HBS05
+"Moldova, Republic of",MD,MDA,498,National,12,Dry latrines - Other,0.0,Household Budget Survey  - HBS05
+"Moldova, Republic of",MD,MDA,498,National,13,Composting toilets,0.0,Household Budget Survey  - HBS05
+"Moldova, Republic of",MD,MDA,498,National,14,Other improved,0.0,Household Budget Survey  - HBS05
+"Moldova, Republic of",MD,MDA,498,National,15,"No facility, bush, field",0.0,Household Budget Survey  - HBS05
+"Moldova, Republic of",MD,MDA,498,National,16,Other unimproved,0.644,Household Budget Survey  - HBS05
+"Moldova, Republic of",MD,MDA,498,National,17,DK/missing information,0.0,Household Budget Survey  - HBS05
+"Moldova, Republic of",MD,MDA,498,Urban,1,Flush and pour flush - to piped sewer system,0.712,Household Budget Survey  - HBS06
+"Moldova, Republic of",MD,MDA,498,Urban,2,Flush and pour flush - to septic tank,0.131,Household Budget Survey  - HBS06
+"Moldova, Republic of",MD,MDA,498,Urban,3,Flush and pour flush - to pit,0.0,Household Budget Survey  - HBS06
+"Moldova, Republic of",MD,MDA,498,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey  - HBS06
+"Moldova, Republic of",MD,MDA,498,Urban,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey  - HBS06
+"Moldova, Republic of",MD,MDA,498,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey  - HBS06
+"Moldova, Republic of",MD,MDA,498,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey  - HBS06
+"Moldova, Republic of",MD,MDA,498,Urban,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey  - HBS06
+"Moldova, Republic of",MD,MDA,498,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey  - HBS06
+"Moldova, Republic of",MD,MDA,498,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey  - HBS06
+"Moldova, Republic of",MD,MDA,498,Urban,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey  - HBS06
+"Moldova, Republic of",MD,MDA,498,Urban,12,Dry latrines - Other,0.0,Household Budget Survey  - HBS06
+"Moldova, Republic of",MD,MDA,498,Urban,13,Composting toilets,0.0,Household Budget Survey  - HBS06
+"Moldova, Republic of",MD,MDA,498,Urban,14,Other improved,0.0,Household Budget Survey  - HBS06
+"Moldova, Republic of",MD,MDA,498,Urban,15,"No facility, bush, field",0.0,Household Budget Survey  - HBS06
+"Moldova, Republic of",MD,MDA,498,Urban,16,Other unimproved,0.157,Household Budget Survey  - HBS06
+"Moldova, Republic of",MD,MDA,498,Urban,17,DK/missing information,0.0,Household Budget Survey  - HBS06
+"Moldova, Republic of",MD,MDA,498,Rural,1,Flush and pour flush - to piped sewer system,0.027,Household Budget Survey  - HBS06
+"Moldova, Republic of",MD,MDA,498,Rural,2,Flush and pour flush - to septic tank,0.098,Household Budget Survey  - HBS06
+"Moldova, Republic of",MD,MDA,498,Rural,3,Flush and pour flush - to pit,0.0,Household Budget Survey  - HBS06
+"Moldova, Republic of",MD,MDA,498,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey  - HBS06
+"Moldova, Republic of",MD,MDA,498,Rural,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey  - HBS06
+"Moldova, Republic of",MD,MDA,498,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey  - HBS06
+"Moldova, Republic of",MD,MDA,498,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey  - HBS06
+"Moldova, Republic of",MD,MDA,498,Rural,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey  - HBS06
+"Moldova, Republic of",MD,MDA,498,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey  - HBS06
+"Moldova, Republic of",MD,MDA,498,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey  - HBS06
+"Moldova, Republic of",MD,MDA,498,Rural,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey  - HBS06
+"Moldova, Republic of",MD,MDA,498,Rural,12,Dry latrines - Other,0.0,Household Budget Survey  - HBS06
+"Moldova, Republic of",MD,MDA,498,Rural,13,Composting toilets,0.0,Household Budget Survey  - HBS06
+"Moldova, Republic of",MD,MDA,498,Rural,14,Other improved,0.0,Household Budget Survey  - HBS06
+"Moldova, Republic of",MD,MDA,498,Rural,15,"No facility, bush, field",0.0,Household Budget Survey  - HBS06
+"Moldova, Republic of",MD,MDA,498,Rural,16,Other unimproved,0.875,Household Budget Survey  - HBS06
+"Moldova, Republic of",MD,MDA,498,Rural,17,DK/missing information,0.0,Household Budget Survey  - HBS06
+"Moldova, Republic of",MD,MDA,498,National,1,Flush and pour flush - to piped sewer system,0.321,Household Budget Survey  - HBS06
+"Moldova, Republic of",MD,MDA,498,National,2,Flush and pour flush - to septic tank,0.112,Household Budget Survey  - HBS06
+"Moldova, Republic of",MD,MDA,498,National,3,Flush and pour flush - to pit,0.0,Household Budget Survey  - HBS06
+"Moldova, Republic of",MD,MDA,498,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey  - HBS06
+"Moldova, Republic of",MD,MDA,498,National,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey  - HBS06
+"Moldova, Republic of",MD,MDA,498,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey  - HBS06
+"Moldova, Republic of",MD,MDA,498,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey  - HBS06
+"Moldova, Republic of",MD,MDA,498,National,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey  - HBS06
+"Moldova, Republic of",MD,MDA,498,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey  - HBS06
+"Moldova, Republic of",MD,MDA,498,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey  - HBS06
+"Moldova, Republic of",MD,MDA,498,National,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey  - HBS06
+"Moldova, Republic of",MD,MDA,498,National,12,Dry latrines - Other,0.0,Household Budget Survey  - HBS06
+"Moldova, Republic of",MD,MDA,498,National,13,Composting toilets,0.0,Household Budget Survey  - HBS06
+"Moldova, Republic of",MD,MDA,498,National,14,Other improved,0.0,Household Budget Survey  - HBS06
+"Moldova, Republic of",MD,MDA,498,National,15,"No facility, bush, field",0.0,Household Budget Survey  - HBS06
+"Moldova, Republic of",MD,MDA,498,National,16,Other unimproved,0.566,Household Budget Survey  - HBS06
+"Moldova, Republic of",MD,MDA,498,National,17,DK/missing information,0.0,Household Budget Survey  - HBS06
+"Moldova, Republic of",MD,MDA,498,Urban,1,Flush and pour flush - to piped sewer system,0.715,Household Budget Survey  - HBS07
+"Moldova, Republic of",MD,MDA,498,Urban,2,Flush and pour flush - to septic tank,0.122,Household Budget Survey  - HBS07
+"Moldova, Republic of",MD,MDA,498,Urban,3,Flush and pour flush - to pit,0.0,Household Budget Survey  - HBS07
+"Moldova, Republic of",MD,MDA,498,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey  - HBS07
+"Moldova, Republic of",MD,MDA,498,Urban,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey  - HBS07
+"Moldova, Republic of",MD,MDA,498,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey  - HBS07
+"Moldova, Republic of",MD,MDA,498,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey  - HBS07
+"Moldova, Republic of",MD,MDA,498,Urban,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey  - HBS07
+"Moldova, Republic of",MD,MDA,498,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey  - HBS07
+"Moldova, Republic of",MD,MDA,498,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey  - HBS07
+"Moldova, Republic of",MD,MDA,498,Urban,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey  - HBS07
+"Moldova, Republic of",MD,MDA,498,Urban,12,Dry latrines - Other,0.0,Household Budget Survey  - HBS07
+"Moldova, Republic of",MD,MDA,498,Urban,13,Composting toilets,0.0,Household Budget Survey  - HBS07
+"Moldova, Republic of",MD,MDA,498,Urban,14,Other improved,0.0,Household Budget Survey  - HBS07
+"Moldova, Republic of",MD,MDA,498,Urban,15,"No facility, bush, field",0.0,Household Budget Survey  - HBS07
+"Moldova, Republic of",MD,MDA,498,Urban,16,Other unimproved,0.162,Household Budget Survey  - HBS07
+"Moldova, Republic of",MD,MDA,498,Urban,17,DK/missing information,0.0,Household Budget Survey  - HBS07
+"Moldova, Republic of",MD,MDA,498,Rural,1,Flush and pour flush - to piped sewer system,0.018,Household Budget Survey  - HBS07
+"Moldova, Republic of",MD,MDA,498,Rural,2,Flush and pour flush - to septic tank,0.117,Household Budget Survey  - HBS07
+"Moldova, Republic of",MD,MDA,498,Rural,3,Flush and pour flush - to pit,0.0,Household Budget Survey  - HBS07
+"Moldova, Republic of",MD,MDA,498,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey  - HBS07
+"Moldova, Republic of",MD,MDA,498,Rural,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey  - HBS07
+"Moldova, Republic of",MD,MDA,498,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey  - HBS07
+"Moldova, Republic of",MD,MDA,498,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey  - HBS07
+"Moldova, Republic of",MD,MDA,498,Rural,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey  - HBS07
+"Moldova, Republic of",MD,MDA,498,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey  - HBS07
+"Moldova, Republic of",MD,MDA,498,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey  - HBS07
+"Moldova, Republic of",MD,MDA,498,Rural,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey  - HBS07
+"Moldova, Republic of",MD,MDA,498,Rural,12,Dry latrines - Other,0.0,Household Budget Survey  - HBS07
+"Moldova, Republic of",MD,MDA,498,Rural,13,Composting toilets,0.0,Household Budget Survey  - HBS07
+"Moldova, Republic of",MD,MDA,498,Rural,14,Other improved,0.0,Household Budget Survey  - HBS07
+"Moldova, Republic of",MD,MDA,498,Rural,15,"No facility, bush, field",0.0,Household Budget Survey  - HBS07
+"Moldova, Republic of",MD,MDA,498,Rural,16,Other unimproved,0.865,Household Budget Survey  - HBS07
+"Moldova, Republic of",MD,MDA,498,Rural,17,DK/missing information,0.0,Household Budget Survey  - HBS07
+"Moldova, Republic of",MD,MDA,498,National,1,Flush and pour flush - to piped sewer system,0.32,Household Budget Survey  - HBS07
+"Moldova, Republic of",MD,MDA,498,National,2,Flush and pour flush - to septic tank,0.119,Household Budget Survey  - HBS07
+"Moldova, Republic of",MD,MDA,498,National,3,Flush and pour flush - to pit,0.0,Household Budget Survey  - HBS07
+"Moldova, Republic of",MD,MDA,498,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey  - HBS07
+"Moldova, Republic of",MD,MDA,498,National,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey  - HBS07
+"Moldova, Republic of",MD,MDA,498,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey  - HBS07
+"Moldova, Republic of",MD,MDA,498,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey  - HBS07
+"Moldova, Republic of",MD,MDA,498,National,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey  - HBS07
+"Moldova, Republic of",MD,MDA,498,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey  - HBS07
+"Moldova, Republic of",MD,MDA,498,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey  - HBS07
+"Moldova, Republic of",MD,MDA,498,National,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey  - HBS07
+"Moldova, Republic of",MD,MDA,498,National,12,Dry latrines - Other,0.0,Household Budget Survey  - HBS07
+"Moldova, Republic of",MD,MDA,498,National,13,Composting toilets,0.0,Household Budget Survey  - HBS07
+"Moldova, Republic of",MD,MDA,498,National,14,Other improved,0.0,Household Budget Survey  - HBS07
+"Moldova, Republic of",MD,MDA,498,National,15,"No facility, bush, field",0.0,Household Budget Survey  - HBS07
+"Moldova, Republic of",MD,MDA,498,National,16,Other unimproved,0.561,Household Budget Survey  - HBS07
+"Moldova, Republic of",MD,MDA,498,National,17,DK/missing information,0.0,Household Budget Survey  - HBS07
+"Moldova, Republic of",MD,MDA,498,Urban,1,Flush and pour flush - to piped sewer system,0.726,Household Budget Survey  - HBS08
+"Moldova, Republic of",MD,MDA,498,Urban,2,Flush and pour flush - to septic tank,0.125,Household Budget Survey  - HBS08
+"Moldova, Republic of",MD,MDA,498,Urban,3,Flush and pour flush - to pit,0.0,Household Budget Survey  - HBS08
+"Moldova, Republic of",MD,MDA,498,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey  - HBS08
+"Moldova, Republic of",MD,MDA,498,Urban,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey  - HBS08
+"Moldova, Republic of",MD,MDA,498,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey  - HBS08
+"Moldova, Republic of",MD,MDA,498,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey  - HBS08
+"Moldova, Republic of",MD,MDA,498,Urban,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey  - HBS08
+"Moldova, Republic of",MD,MDA,498,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey  - HBS08
+"Moldova, Republic of",MD,MDA,498,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey  - HBS08
+"Moldova, Republic of",MD,MDA,498,Urban,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey  - HBS08
+"Moldova, Republic of",MD,MDA,498,Urban,12,Dry latrines - Other,0.0,Household Budget Survey  - HBS08
+"Moldova, Republic of",MD,MDA,498,Urban,13,Composting toilets,0.0,Household Budget Survey  - HBS08
+"Moldova, Republic of",MD,MDA,498,Urban,14,Other improved,0.0,Household Budget Survey  - HBS08
+"Moldova, Republic of",MD,MDA,498,Urban,15,"No facility, bush, field",0.0,Household Budget Survey  - HBS08
+"Moldova, Republic of",MD,MDA,498,Urban,16,Other unimproved,0.148,Household Budget Survey  - HBS08
+"Moldova, Republic of",MD,MDA,498,Urban,17,DK/missing information,0.0,Household Budget Survey  - HBS08
+"Moldova, Republic of",MD,MDA,498,Rural,1,Flush and pour flush - to piped sewer system,0.026,Household Budget Survey  - HBS08
+"Moldova, Republic of",MD,MDA,498,Rural,2,Flush and pour flush - to septic tank,0.122,Household Budget Survey  - HBS08
+"Moldova, Republic of",MD,MDA,498,Rural,3,Flush and pour flush - to pit,0.0,Household Budget Survey  - HBS08
+"Moldova, Republic of",MD,MDA,498,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey  - HBS08
+"Moldova, Republic of",MD,MDA,498,Rural,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey  - HBS08
+"Moldova, Republic of",MD,MDA,498,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey  - HBS08
+"Moldova, Republic of",MD,MDA,498,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey  - HBS08
+"Moldova, Republic of",MD,MDA,498,Rural,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey  - HBS08
+"Moldova, Republic of",MD,MDA,498,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey  - HBS08
+"Moldova, Republic of",MD,MDA,498,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey  - HBS08
+"Moldova, Republic of",MD,MDA,498,Rural,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey  - HBS08
+"Moldova, Republic of",MD,MDA,498,Rural,12,Dry latrines - Other,0.0,Household Budget Survey  - HBS08
+"Moldova, Republic of",MD,MDA,498,Rural,13,Composting toilets,0.0,Household Budget Survey  - HBS08
+"Moldova, Republic of",MD,MDA,498,Rural,14,Other improved,0.0,Household Budget Survey  - HBS08
+"Moldova, Republic of",MD,MDA,498,Rural,15,"No facility, bush, field",0.0,Household Budget Survey  - HBS08
+"Moldova, Republic of",MD,MDA,498,Rural,16,Other unimproved,0.852,Household Budget Survey  - HBS08
+"Moldova, Republic of",MD,MDA,498,Rural,17,DK/missing information,0.0,Household Budget Survey  - HBS08
+"Moldova, Republic of",MD,MDA,498,National,1,Flush and pour flush - to piped sewer system,0.334,Household Budget Survey  - HBS08
+"Moldova, Republic of",MD,MDA,498,National,2,Flush and pour flush - to septic tank,0.123,Household Budget Survey  - HBS08
+"Moldova, Republic of",MD,MDA,498,National,3,Flush and pour flush - to pit,0.0,Household Budget Survey  - HBS08
+"Moldova, Republic of",MD,MDA,498,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey  - HBS08
+"Moldova, Republic of",MD,MDA,498,National,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey  - HBS08
+"Moldova, Republic of",MD,MDA,498,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey  - HBS08
+"Moldova, Republic of",MD,MDA,498,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey  - HBS08
+"Moldova, Republic of",MD,MDA,498,National,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey  - HBS08
+"Moldova, Republic of",MD,MDA,498,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey  - HBS08
+"Moldova, Republic of",MD,MDA,498,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey  - HBS08
+"Moldova, Republic of",MD,MDA,498,National,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey  - HBS08
+"Moldova, Republic of",MD,MDA,498,National,12,Dry latrines - Other,0.0,Household Budget Survey  - HBS08
+"Moldova, Republic of",MD,MDA,498,National,13,Composting toilets,0.0,Household Budget Survey  - HBS08
+"Moldova, Republic of",MD,MDA,498,National,14,Other improved,0.0,Household Budget Survey  - HBS08
+"Moldova, Republic of",MD,MDA,498,National,15,"No facility, bush, field",0.0,Household Budget Survey  - HBS08
+"Moldova, Republic of",MD,MDA,498,National,16,Other unimproved,0.543,Household Budget Survey  - HBS08
+"Moldova, Republic of",MD,MDA,498,National,17,DK/missing information,0.0,Household Budget Survey  - HBS08
+"Moldova, Republic of",MD,MDA,498,Urban,1,Flush and pour flush - to piped sewer system,0.718,Household Budget Survey  - HBS09
+"Moldova, Republic of",MD,MDA,498,Urban,2,Flush and pour flush - to septic tank,0.131,Household Budget Survey  - HBS09
+"Moldova, Republic of",MD,MDA,498,Urban,3,Flush and pour flush - to pit,0.0,Household Budget Survey  - HBS09
+"Moldova, Republic of",MD,MDA,498,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey  - HBS09
+"Moldova, Republic of",MD,MDA,498,Urban,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey  - HBS09
+"Moldova, Republic of",MD,MDA,498,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey  - HBS09
+"Moldova, Republic of",MD,MDA,498,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey  - HBS09
+"Moldova, Republic of",MD,MDA,498,Urban,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey  - HBS09
+"Moldova, Republic of",MD,MDA,498,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey  - HBS09
+"Moldova, Republic of",MD,MDA,498,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey  - HBS09
+"Moldova, Republic of",MD,MDA,498,Urban,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey  - HBS09
+"Moldova, Republic of",MD,MDA,498,Urban,12,Dry latrines - Other,0.0,Household Budget Survey  - HBS09
+"Moldova, Republic of",MD,MDA,498,Urban,13,Composting toilets,0.0,Household Budget Survey  - HBS09
+"Moldova, Republic of",MD,MDA,498,Urban,14,Other improved,0.0,Household Budget Survey  - HBS09
+"Moldova, Republic of",MD,MDA,498,Urban,15,"No facility, bush, field",0.0,Household Budget Survey  - HBS09
+"Moldova, Republic of",MD,MDA,498,Urban,16,Other unimproved,0.151,Household Budget Survey  - HBS09
+"Moldova, Republic of",MD,MDA,498,Urban,17,DK/missing information,0.0,Household Budget Survey  - HBS09
+"Moldova, Republic of",MD,MDA,498,Rural,1,Flush and pour flush - to piped sewer system,0.014,Household Budget Survey  - HBS09
+"Moldova, Republic of",MD,MDA,498,Rural,2,Flush and pour flush - to septic tank,0.171,Household Budget Survey  - HBS09
+"Moldova, Republic of",MD,MDA,498,Rural,3,Flush and pour flush - to pit,0.0,Household Budget Survey  - HBS09
+"Moldova, Republic of",MD,MDA,498,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey  - HBS09
+"Moldova, Republic of",MD,MDA,498,Rural,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey  - HBS09
+"Moldova, Republic of",MD,MDA,498,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey  - HBS09
+"Moldova, Republic of",MD,MDA,498,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey  - HBS09
+"Moldova, Republic of",MD,MDA,498,Rural,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey  - HBS09
+"Moldova, Republic of",MD,MDA,498,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey  - HBS09
+"Moldova, Republic of",MD,MDA,498,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey  - HBS09
+"Moldova, Republic of",MD,MDA,498,Rural,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey  - HBS09
+"Moldova, Republic of",MD,MDA,498,Rural,12,Dry latrines - Other,0.0,Household Budget Survey  - HBS09
+"Moldova, Republic of",MD,MDA,498,Rural,13,Composting toilets,0.0,Household Budget Survey  - HBS09
+"Moldova, Republic of",MD,MDA,498,Rural,14,Other improved,0.0,Household Budget Survey  - HBS09
+"Moldova, Republic of",MD,MDA,498,Rural,15,"No facility, bush, field",0.0,Household Budget Survey  - HBS09
+"Moldova, Republic of",MD,MDA,498,Rural,16,Other unimproved,0.815,Household Budget Survey  - HBS09
+"Moldova, Republic of",MD,MDA,498,Rural,17,DK/missing information,0.0,Household Budget Survey  - HBS09
+"Moldova, Republic of",MD,MDA,498,National,1,Flush and pour flush - to piped sewer system,0.325,Household Budget Survey  - HBS09
+"Moldova, Republic of",MD,MDA,498,National,2,Flush and pour flush - to septic tank,0.154,Household Budget Survey  - HBS09
+"Moldova, Republic of",MD,MDA,498,National,3,Flush and pour flush - to pit,0.0,Household Budget Survey  - HBS09
+"Moldova, Republic of",MD,MDA,498,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey  - HBS09
+"Moldova, Republic of",MD,MDA,498,National,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey  - HBS09
+"Moldova, Republic of",MD,MDA,498,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey  - HBS09
+"Moldova, Republic of",MD,MDA,498,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey  - HBS09
+"Moldova, Republic of",MD,MDA,498,National,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey  - HBS09
+"Moldova, Republic of",MD,MDA,498,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey  - HBS09
+"Moldova, Republic of",MD,MDA,498,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey  - HBS09
+"Moldova, Republic of",MD,MDA,498,National,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey  - HBS09
+"Moldova, Republic of",MD,MDA,498,National,12,Dry latrines - Other,0.0,Household Budget Survey  - HBS09
+"Moldova, Republic of",MD,MDA,498,National,13,Composting toilets,0.0,Household Budget Survey  - HBS09
+"Moldova, Republic of",MD,MDA,498,National,14,Other improved,0.0,Household Budget Survey  - HBS09
+"Moldova, Republic of",MD,MDA,498,National,15,"No facility, bush, field",0.0,Household Budget Survey  - HBS09
+"Moldova, Republic of",MD,MDA,498,National,16,Other unimproved,0.522,Household Budget Survey  - HBS09
+"Moldova, Republic of",MD,MDA,498,National,17,DK/missing information,0.0,Household Budget Survey  - HBS09
+"Moldova, Republic of",MD,MDA,498,Urban,1,Flush and pour flush - to piped sewer system,0.719,Household Budget Survey  - HBS10
+"Moldova, Republic of",MD,MDA,498,Urban,2,Flush and pour flush - to septic tank,0.155,Household Budget Survey  - HBS10
+"Moldova, Republic of",MD,MDA,498,Urban,3,Flush and pour flush - to pit,0.0,Household Budget Survey  - HBS10
+"Moldova, Republic of",MD,MDA,498,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey  - HBS10
+"Moldova, Republic of",MD,MDA,498,Urban,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey  - HBS10
+"Moldova, Republic of",MD,MDA,498,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey  - HBS10
+"Moldova, Republic of",MD,MDA,498,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey  - HBS10
+"Moldova, Republic of",MD,MDA,498,Urban,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey  - HBS10
+"Moldova, Republic of",MD,MDA,498,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey  - HBS10
+"Moldova, Republic of",MD,MDA,498,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey  - HBS10
+"Moldova, Republic of",MD,MDA,498,Urban,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey  - HBS10
+"Moldova, Republic of",MD,MDA,498,Urban,12,Dry latrines - Other,0.0,Household Budget Survey  - HBS10
+"Moldova, Republic of",MD,MDA,498,Urban,13,Composting toilets,0.0,Household Budget Survey  - HBS10
+"Moldova, Republic of",MD,MDA,498,Urban,14,Other improved,0.0,Household Budget Survey  - HBS10
+"Moldova, Republic of",MD,MDA,498,Urban,15,"No facility, bush, field",0.0,Household Budget Survey  - HBS10
+"Moldova, Republic of",MD,MDA,498,Urban,16,Other unimproved,0.126,Household Budget Survey  - HBS10
+"Moldova, Republic of",MD,MDA,498,Urban,17,DK/missing information,0.0,Household Budget Survey  - HBS10
+"Moldova, Republic of",MD,MDA,498,Rural,1,Flush and pour flush - to piped sewer system,0.016,Household Budget Survey  - HBS10
+"Moldova, Republic of",MD,MDA,498,Rural,2,Flush and pour flush - to septic tank,0.203,Household Budget Survey  - HBS10
+"Moldova, Republic of",MD,MDA,498,Rural,3,Flush and pour flush - to pit,0.0,Household Budget Survey  - HBS10
+"Moldova, Republic of",MD,MDA,498,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey  - HBS10
+"Moldova, Republic of",MD,MDA,498,Rural,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey  - HBS10
+"Moldova, Republic of",MD,MDA,498,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey  - HBS10
+"Moldova, Republic of",MD,MDA,498,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey  - HBS10
+"Moldova, Republic of",MD,MDA,498,Rural,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey  - HBS10
+"Moldova, Republic of",MD,MDA,498,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey  - HBS10
+"Moldova, Republic of",MD,MDA,498,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey  - HBS10
+"Moldova, Republic of",MD,MDA,498,Rural,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey  - HBS10
+"Moldova, Republic of",MD,MDA,498,Rural,12,Dry latrines - Other,0.0,Household Budget Survey  - HBS10
+"Moldova, Republic of",MD,MDA,498,Rural,13,Composting toilets,0.0,Household Budget Survey  - HBS10
+"Moldova, Republic of",MD,MDA,498,Rural,14,Other improved,0.0,Household Budget Survey  - HBS10
+"Moldova, Republic of",MD,MDA,498,Rural,15,"No facility, bush, field",0.0,Household Budget Survey  - HBS10
+"Moldova, Republic of",MD,MDA,498,Rural,16,Other unimproved,0.781,Household Budget Survey  - HBS10
+"Moldova, Republic of",MD,MDA,498,Rural,17,DK/missing information,0.0,Household Budget Survey  - HBS10
+"Moldova, Republic of",MD,MDA,498,National,1,Flush and pour flush - to piped sewer system,0.325,Household Budget Survey  - HBS10
+"Moldova, Republic of",MD,MDA,498,National,2,Flush and pour flush - to septic tank,0.182,Household Budget Survey  - HBS10
+"Moldova, Republic of",MD,MDA,498,National,3,Flush and pour flush - to pit,0.0,Household Budget Survey  - HBS10
+"Moldova, Republic of",MD,MDA,498,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey  - HBS10
+"Moldova, Republic of",MD,MDA,498,National,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey  - HBS10
+"Moldova, Republic of",MD,MDA,498,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey  - HBS10
+"Moldova, Republic of",MD,MDA,498,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey  - HBS10
+"Moldova, Republic of",MD,MDA,498,National,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey  - HBS10
+"Moldova, Republic of",MD,MDA,498,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey  - HBS10
+"Moldova, Republic of",MD,MDA,498,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey  - HBS10
+"Moldova, Republic of",MD,MDA,498,National,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey  - HBS10
+"Moldova, Republic of",MD,MDA,498,National,12,Dry latrines - Other,0.0,Household Budget Survey  - HBS10
+"Moldova, Republic of",MD,MDA,498,National,13,Composting toilets,0.0,Household Budget Survey  - HBS10
+"Moldova, Republic of",MD,MDA,498,National,14,Other improved,0.0,Household Budget Survey  - HBS10
+"Moldova, Republic of",MD,MDA,498,National,15,"No facility, bush, field",0.0,Household Budget Survey  - HBS10
+"Moldova, Republic of",MD,MDA,498,National,16,Other unimproved,0.493,Household Budget Survey  - HBS10
+"Moldova, Republic of",MD,MDA,498,National,17,DK/missing information,0.0,Household Budget Survey  - HBS10
+"Moldova, Republic of",MD,MDA,498,Urban,1,Flush and pour flush - to piped sewer system,0.664,Multiple indicator cluster survey - MICS12
+"Moldova, Republic of",MD,MDA,498,Urban,2,Flush and pour flush - to septic tank,0.065,Multiple indicator cluster survey - MICS12
+"Moldova, Republic of",MD,MDA,498,Urban,3,Flush and pour flush - to pit,0.018,Multiple indicator cluster survey - MICS12
+"Moldova, Republic of",MD,MDA,498,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple indicator cluster survey - MICS12
+"Moldova, Republic of",MD,MDA,498,Urban,5,Flush and pour flush - to elsewhere,0.0,Multiple indicator cluster survey - MICS12
+"Moldova, Republic of",MD,MDA,498,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.009,Multiple indicator cluster survey - MICS12
+"Moldova, Republic of",MD,MDA,498,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.194,Multiple indicator cluster survey - MICS12
+"Moldova, Republic of",MD,MDA,498,Urban,8,Dry latrines - Traditional latrine,0.0,Multiple indicator cluster survey - MICS12
+"Moldova, Republic of",MD,MDA,498,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.044,Multiple indicator cluster survey - MICS12
+"Moldova, Republic of",MD,MDA,498,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple indicator cluster survey - MICS12
+"Moldova, Republic of",MD,MDA,498,Urban,11,Dry latrines - Bucket latrine,0.002,Multiple indicator cluster survey - MICS12
+"Moldova, Republic of",MD,MDA,498,Urban,12,Dry latrines - Other,0.0,Multiple indicator cluster survey - MICS12
+"Moldova, Republic of",MD,MDA,498,Urban,13,Composting toilets,0.001,Multiple indicator cluster survey - MICS12
+"Moldova, Republic of",MD,MDA,498,Urban,14,Other improved,0.0,Multiple indicator cluster survey - MICS12
+"Moldova, Republic of",MD,MDA,498,Urban,15,"No facility, bush, field",0.0,Multiple indicator cluster survey - MICS12
+"Moldova, Republic of",MD,MDA,498,Urban,16,Other unimproved,0.001,Multiple indicator cluster survey - MICS12
+"Moldova, Republic of",MD,MDA,498,Urban,17,DK/missing information,0.0,Multiple indicator cluster survey - MICS12
+"Moldova, Republic of",MD,MDA,498,Rural,1,Flush and pour flush - to piped sewer system,0.038,Multiple indicator cluster survey - MICS12
+"Moldova, Republic of",MD,MDA,498,Rural,2,Flush and pour flush - to septic tank,0.042,Multiple indicator cluster survey - MICS12
+"Moldova, Republic of",MD,MDA,498,Rural,3,Flush and pour flush - to pit,0.011,Multiple indicator cluster survey - MICS12
+"Moldova, Republic of",MD,MDA,498,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.001,Multiple indicator cluster survey - MICS12
+"Moldova, Republic of",MD,MDA,498,Rural,5,Flush and pour flush - to elsewhere,0.0,Multiple indicator cluster survey - MICS12
+"Moldova, Republic of",MD,MDA,498,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.017,Multiple indicator cluster survey - MICS12
+"Moldova, Republic of",MD,MDA,498,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.574,Multiple indicator cluster survey - MICS12
+"Moldova, Republic of",MD,MDA,498,Rural,8,Dry latrines - Traditional latrine,0.0,Multiple indicator cluster survey - MICS12
+"Moldova, Republic of",MD,MDA,498,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.295,Multiple indicator cluster survey - MICS12
+"Moldova, Republic of",MD,MDA,498,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple indicator cluster survey - MICS12
+"Moldova, Republic of",MD,MDA,498,Rural,11,Dry latrines - Bucket latrine,0.019,Multiple indicator cluster survey - MICS12
+"Moldova, Republic of",MD,MDA,498,Rural,12,Dry latrines - Other,0.0,Multiple indicator cluster survey - MICS12
+"Moldova, Republic of",MD,MDA,498,Rural,13,Composting toilets,0.001,Multiple indicator cluster survey - MICS12
+"Moldova, Republic of",MD,MDA,498,Rural,14,Other improved,0.0,Multiple indicator cluster survey - MICS12
+"Moldova, Republic of",MD,MDA,498,Rural,15,"No facility, bush, field",0.002,Multiple indicator cluster survey - MICS12
+"Moldova, Republic of",MD,MDA,498,Rural,16,Other unimproved,0.0,Multiple indicator cluster survey - MICS12
+"Moldova, Republic of",MD,MDA,498,Rural,17,DK/missing information,0.0,Multiple indicator cluster survey - MICS12
+"Moldova, Republic of",MD,MDA,498,National,1,Flush and pour flush - to piped sewer system,0.271,Multiple indicator cluster survey - MICS12
+"Moldova, Republic of",MD,MDA,498,National,2,Flush and pour flush - to septic tank,0.051,Multiple indicator cluster survey - MICS12
+"Moldova, Republic of",MD,MDA,498,National,3,Flush and pour flush - to pit,0.014,Multiple indicator cluster survey - MICS12
+"Moldova, Republic of",MD,MDA,498,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.001,Multiple indicator cluster survey - MICS12
+"Moldova, Republic of",MD,MDA,498,National,5,Flush and pour flush - to elsewhere,0.0,Multiple indicator cluster survey - MICS12
+"Moldova, Republic of",MD,MDA,498,National,6,Dry latrines - Ventilated Improved Pit latrine,0.014,Multiple indicator cluster survey - MICS12
+"Moldova, Republic of",MD,MDA,498,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.433,Multiple indicator cluster survey - MICS12
+"Moldova, Republic of",MD,MDA,498,National,8,Dry latrines - Traditional latrine,0.0,Multiple indicator cluster survey - MICS12
+"Moldova, Republic of",MD,MDA,498,National,9,Dry latrines - Pit latrine without slab/open pit,0.202,Multiple indicator cluster survey - MICS12
+"Moldova, Republic of",MD,MDA,498,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple indicator cluster survey - MICS12
+"Moldova, Republic of",MD,MDA,498,National,11,Dry latrines - Bucket latrine,0.012,Multiple indicator cluster survey - MICS12
+"Moldova, Republic of",MD,MDA,498,National,12,Dry latrines - Other,0.0,Multiple indicator cluster survey - MICS12
+"Moldova, Republic of",MD,MDA,498,National,13,Composting toilets,0.001,Multiple indicator cluster survey - MICS12
+"Moldova, Republic of",MD,MDA,498,National,14,Other improved,0.0,Multiple indicator cluster survey - MICS12
+"Moldova, Republic of",MD,MDA,498,National,15,"No facility, bush, field",0.001,Multiple indicator cluster survey - MICS12
+"Moldova, Republic of",MD,MDA,498,National,16,Other unimproved,0.0,Multiple indicator cluster survey - MICS12
+"Moldova, Republic of",MD,MDA,498,National,17,DK/missing information,0.0,Multiple indicator cluster survey - MICS12
+"Moldova, Republic of",MD,MDA,498,Urban,1,Flush and pour flush - to piped sewer system,0.756,Household Budget Survey - HBS12
+"Moldova, Republic of",MD,MDA,498,Urban,2,Flush and pour flush - to septic tank,0.143,Household Budget Survey - HBS12
+"Moldova, Republic of",MD,MDA,498,Urban,3,Flush and pour flush - to pit,0.0,Household Budget Survey - HBS12
+"Moldova, Republic of",MD,MDA,498,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey - HBS12
+"Moldova, Republic of",MD,MDA,498,Urban,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey - HBS12
+"Moldova, Republic of",MD,MDA,498,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey - HBS12
+"Moldova, Republic of",MD,MDA,498,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey - HBS12
+"Moldova, Republic of",MD,MDA,498,Urban,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey - HBS12
+"Moldova, Republic of",MD,MDA,498,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey - HBS12
+"Moldova, Republic of",MD,MDA,498,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey - HBS12
+"Moldova, Republic of",MD,MDA,498,Urban,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey - HBS12
+"Moldova, Republic of",MD,MDA,498,Urban,12,Dry latrines - Other,0.0,Household Budget Survey - HBS12
+"Moldova, Republic of",MD,MDA,498,Urban,13,Composting toilets,0.0,Household Budget Survey - HBS12
+"Moldova, Republic of",MD,MDA,498,Urban,14,Other improved,0.0,Household Budget Survey - HBS12
+"Moldova, Republic of",MD,MDA,498,Urban,15,"No facility, bush, field",0.0,Household Budget Survey - HBS12
+"Moldova, Republic of",MD,MDA,498,Urban,16,Other unimproved,0.101,Household Budget Survey - HBS12
+"Moldova, Republic of",MD,MDA,498,Urban,17,DK/missing information,0.0,Household Budget Survey - HBS12
+"Moldova, Republic of",MD,MDA,498,Rural,1,Flush and pour flush - to piped sewer system,0.015,Household Budget Survey - HBS12
+"Moldova, Republic of",MD,MDA,498,Rural,2,Flush and pour flush - to septic tank,0.282,Household Budget Survey - HBS12
+"Moldova, Republic of",MD,MDA,498,Rural,3,Flush and pour flush - to pit,0.0,Household Budget Survey - HBS12
+"Moldova, Republic of",MD,MDA,498,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey - HBS12
+"Moldova, Republic of",MD,MDA,498,Rural,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey - HBS12
+"Moldova, Republic of",MD,MDA,498,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey - HBS12
+"Moldova, Republic of",MD,MDA,498,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey - HBS12
+"Moldova, Republic of",MD,MDA,498,Rural,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey - HBS12
+"Moldova, Republic of",MD,MDA,498,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey - HBS12
+"Moldova, Republic of",MD,MDA,498,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey - HBS12
+"Moldova, Republic of",MD,MDA,498,Rural,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey - HBS12
+"Moldova, Republic of",MD,MDA,498,Rural,12,Dry latrines - Other,0.0,Household Budget Survey - HBS12
+"Moldova, Republic of",MD,MDA,498,Rural,13,Composting toilets,0.0,Household Budget Survey - HBS12
+"Moldova, Republic of",MD,MDA,498,Rural,14,Other improved,0.0,Household Budget Survey - HBS12
+"Moldova, Republic of",MD,MDA,498,Rural,15,"No facility, bush, field",0.0,Household Budget Survey - HBS12
+"Moldova, Republic of",MD,MDA,498,Rural,16,Other unimproved,0.703,Household Budget Survey - HBS12
+"Moldova, Republic of",MD,MDA,498,Rural,17,DK/missing information,0.0,Household Budget Survey - HBS12
+"Moldova, Republic of",MD,MDA,498,National,1,Flush and pour flush - to piped sewer system,0.347,Household Budget Survey - HBS12
+"Moldova, Republic of",MD,MDA,498,National,2,Flush and pour flush - to septic tank,0.22,Household Budget Survey - HBS12
+"Moldova, Republic of",MD,MDA,498,National,3,Flush and pour flush - to pit,0.0,Household Budget Survey - HBS12
+"Moldova, Republic of",MD,MDA,498,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey - HBS12
+"Moldova, Republic of",MD,MDA,498,National,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey - HBS12
+"Moldova, Republic of",MD,MDA,498,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey - HBS12
+"Moldova, Republic of",MD,MDA,498,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey - HBS12
+"Moldova, Republic of",MD,MDA,498,National,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey - HBS12
+"Moldova, Republic of",MD,MDA,498,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey - HBS12
+"Moldova, Republic of",MD,MDA,498,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey - HBS12
+"Moldova, Republic of",MD,MDA,498,National,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey - HBS12
+"Moldova, Republic of",MD,MDA,498,National,12,Dry latrines - Other,0.0,Household Budget Survey - HBS12
+"Moldova, Republic of",MD,MDA,498,National,13,Composting toilets,0.0,Household Budget Survey - HBS12
+"Moldova, Republic of",MD,MDA,498,National,14,Other improved,0.0,Household Budget Survey - HBS12
+"Moldova, Republic of",MD,MDA,498,National,15,"No facility, bush, field",0.0,Household Budget Survey - HBS12
+"Moldova, Republic of",MD,MDA,498,National,16,Other unimproved,0.433,Household Budget Survey - HBS12
+"Moldova, Republic of",MD,MDA,498,National,17,DK/missing information,0.0,Household Budget Survey - HBS12
+"Moldova, Republic of",MD,MDA,498,Urban,1,Flush and pour flush - to piped sewer system,0.715,Household Budget Survey - HBS13
+"Moldova, Republic of",MD,MDA,498,Urban,2,Flush and pour flush - to septic tank,0.166,Household Budget Survey - HBS13
+"Moldova, Republic of",MD,MDA,498,Urban,3,Flush and pour flush - to pit,0.0,Household Budget Survey - HBS13
+"Moldova, Republic of",MD,MDA,498,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey - HBS13
+"Moldova, Republic of",MD,MDA,498,Urban,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey - HBS13
+"Moldova, Republic of",MD,MDA,498,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey - HBS13
+"Moldova, Republic of",MD,MDA,498,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey - HBS13
+"Moldova, Republic of",MD,MDA,498,Urban,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey - HBS13
+"Moldova, Republic of",MD,MDA,498,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey - HBS13
+"Moldova, Republic of",MD,MDA,498,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey - HBS13
+"Moldova, Republic of",MD,MDA,498,Urban,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey - HBS13
+"Moldova, Republic of",MD,MDA,498,Urban,12,Dry latrines - Other,0.0,Household Budget Survey - HBS13
+"Moldova, Republic of",MD,MDA,498,Urban,13,Composting toilets,0.0,Household Budget Survey - HBS13
+"Moldova, Republic of",MD,MDA,498,Urban,14,Other improved,0.0,Household Budget Survey - HBS13
+"Moldova, Republic of",MD,MDA,498,Urban,15,"No facility, bush, field",0.0,Household Budget Survey - HBS13
+"Moldova, Republic of",MD,MDA,498,Urban,16,Other unimproved,0.119,Household Budget Survey - HBS13
+"Moldova, Republic of",MD,MDA,498,Urban,17,DK/missing information,0.0,Household Budget Survey - HBS13
+"Moldova, Republic of",MD,MDA,498,Rural,1,Flush and pour flush - to piped sewer system,0.016,Household Budget Survey - HBS13
+"Moldova, Republic of",MD,MDA,498,Rural,2,Flush and pour flush - to septic tank,0.317,Household Budget Survey - HBS13
+"Moldova, Republic of",MD,MDA,498,Rural,3,Flush and pour flush - to pit,0.0,Household Budget Survey - HBS13
+"Moldova, Republic of",MD,MDA,498,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey - HBS13
+"Moldova, Republic of",MD,MDA,498,Rural,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey - HBS13
+"Moldova, Republic of",MD,MDA,498,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey - HBS13
+"Moldova, Republic of",MD,MDA,498,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey - HBS13
+"Moldova, Republic of",MD,MDA,498,Rural,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey - HBS13
+"Moldova, Republic of",MD,MDA,498,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey - HBS13
+"Moldova, Republic of",MD,MDA,498,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey - HBS13
+"Moldova, Republic of",MD,MDA,498,Rural,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey - HBS13
+"Moldova, Republic of",MD,MDA,498,Rural,12,Dry latrines - Other,0.0,Household Budget Survey - HBS13
+"Moldova, Republic of",MD,MDA,498,Rural,13,Composting toilets,0.0,Household Budget Survey - HBS13
+"Moldova, Republic of",MD,MDA,498,Rural,14,Other improved,0.0,Household Budget Survey - HBS13
+"Moldova, Republic of",MD,MDA,498,Rural,15,"No facility, bush, field",0.0,Household Budget Survey - HBS13
+"Moldova, Republic of",MD,MDA,498,Rural,16,Other unimproved,0.667,Household Budget Survey - HBS13
+"Moldova, Republic of",MD,MDA,498,Rural,17,DK/missing information,0.0,Household Budget Survey - HBS13
+"Moldova, Republic of",MD,MDA,498,National,1,Flush and pour flush - to piped sewer system,0.334,Household Budget Survey - HBS13
+"Moldova, Republic of",MD,MDA,498,National,2,Flush and pour flush - to septic tank,0.248,Household Budget Survey - HBS13
+"Moldova, Republic of",MD,MDA,498,National,3,Flush and pour flush - to pit,0.0,Household Budget Survey - HBS13
+"Moldova, Republic of",MD,MDA,498,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey - HBS13
+"Moldova, Republic of",MD,MDA,498,National,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey - HBS13
+"Moldova, Republic of",MD,MDA,498,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey - HBS13
+"Moldova, Republic of",MD,MDA,498,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey - HBS13
+"Moldova, Republic of",MD,MDA,498,National,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey - HBS13
+"Moldova, Republic of",MD,MDA,498,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey - HBS13
+"Moldova, Republic of",MD,MDA,498,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey - HBS13
+"Moldova, Republic of",MD,MDA,498,National,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey - HBS13
+"Moldova, Republic of",MD,MDA,498,National,12,Dry latrines - Other,0.0,Household Budget Survey - HBS13
+"Moldova, Republic of",MD,MDA,498,National,13,Composting toilets,0.0,Household Budget Survey - HBS13
+"Moldova, Republic of",MD,MDA,498,National,14,Other improved,0.0,Household Budget Survey - HBS13
+"Moldova, Republic of",MD,MDA,498,National,15,"No facility, bush, field",0.0,Household Budget Survey - HBS13
+"Moldova, Republic of",MD,MDA,498,National,16,Other unimproved,0.418,Household Budget Survey - HBS13
+"Moldova, Republic of",MD,MDA,498,National,17,DK/missing information,0.0,Household Budget Survey - HBS13
+"Moldova, Republic of",MD,MDA,498,Urban,1,Flush and pour flush - to piped sewer system,0.719,Household Budget Survey - HBS14
+"Moldova, Republic of",MD,MDA,498,Urban,2,Flush and pour flush - to septic tank,0.178,Household Budget Survey - HBS14
+"Moldova, Republic of",MD,MDA,498,Urban,3,Flush and pour flush - to pit,0.0,Household Budget Survey - HBS14
+"Moldova, Republic of",MD,MDA,498,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey - HBS14
+"Moldova, Republic of",MD,MDA,498,Urban,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey - HBS14
+"Moldova, Republic of",MD,MDA,498,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey - HBS14
+"Moldova, Republic of",MD,MDA,498,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey - HBS14
+"Moldova, Republic of",MD,MDA,498,Urban,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey - HBS14
+"Moldova, Republic of",MD,MDA,498,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey - HBS14
+"Moldova, Republic of",MD,MDA,498,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey - HBS14
+"Moldova, Republic of",MD,MDA,498,Urban,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey - HBS14
+"Moldova, Republic of",MD,MDA,498,Urban,12,Dry latrines - Other,0.0,Household Budget Survey - HBS14
+"Moldova, Republic of",MD,MDA,498,Urban,13,Composting toilets,0.0,Household Budget Survey - HBS14
+"Moldova, Republic of",MD,MDA,498,Urban,14,Other improved,0.0,Household Budget Survey - HBS14
+"Moldova, Republic of",MD,MDA,498,Urban,15,"No facility, bush, field",0.0,Household Budget Survey - HBS14
+"Moldova, Republic of",MD,MDA,498,Urban,16,Other unimproved,0.103,Household Budget Survey - HBS14
+"Moldova, Republic of",MD,MDA,498,Urban,17,DK/missing information,0.0,Household Budget Survey - HBS14
+"Moldova, Republic of",MD,MDA,498,Rural,1,Flush and pour flush - to piped sewer system,0.017,Household Budget Survey - HBS14
+"Moldova, Republic of",MD,MDA,498,Rural,2,Flush and pour flush - to septic tank,0.344,Household Budget Survey - HBS14
+"Moldova, Republic of",MD,MDA,498,Rural,3,Flush and pour flush - to pit,0.0,Household Budget Survey - HBS14
+"Moldova, Republic of",MD,MDA,498,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey - HBS14
+"Moldova, Republic of",MD,MDA,498,Rural,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey - HBS14
+"Moldova, Republic of",MD,MDA,498,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey - HBS14
+"Moldova, Republic of",MD,MDA,498,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey - HBS14
+"Moldova, Republic of",MD,MDA,498,Rural,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey - HBS14
+"Moldova, Republic of",MD,MDA,498,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey - HBS14
+"Moldova, Republic of",MD,MDA,498,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey - HBS14
+"Moldova, Republic of",MD,MDA,498,Rural,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey - HBS14
+"Moldova, Republic of",MD,MDA,498,Rural,12,Dry latrines - Other,0.0,Household Budget Survey - HBS14
+"Moldova, Republic of",MD,MDA,498,Rural,13,Composting toilets,0.0,Household Budget Survey - HBS14
+"Moldova, Republic of",MD,MDA,498,Rural,14,Other improved,0.0,Household Budget Survey - HBS14
+"Moldova, Republic of",MD,MDA,498,Rural,15,"No facility, bush, field",0.0,Household Budget Survey - HBS14
+"Moldova, Republic of",MD,MDA,498,Rural,16,Other unimproved,0.639,Household Budget Survey - HBS14
+"Moldova, Republic of",MD,MDA,498,Rural,17,DK/missing information,0.0,Household Budget Survey - HBS14
+"Moldova, Republic of",MD,MDA,498,National,1,Flush and pour flush - to piped sewer system,0.332,Household Budget Survey - HBS14
+"Moldova, Republic of",MD,MDA,498,National,2,Flush and pour flush - to septic tank,0.269,Household Budget Survey - HBS14
+"Moldova, Republic of",MD,MDA,498,National,3,Flush and pour flush - to pit,0.0,Household Budget Survey - HBS14
+"Moldova, Republic of",MD,MDA,498,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey - HBS14
+"Moldova, Republic of",MD,MDA,498,National,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey - HBS14
+"Moldova, Republic of",MD,MDA,498,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey - HBS14
+"Moldova, Republic of",MD,MDA,498,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey - HBS14
+"Moldova, Republic of",MD,MDA,498,National,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey - HBS14
+"Moldova, Republic of",MD,MDA,498,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey - HBS14
+"Moldova, Republic of",MD,MDA,498,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey - HBS14
+"Moldova, Republic of",MD,MDA,498,National,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey - HBS14
+"Moldova, Republic of",MD,MDA,498,National,12,Dry latrines - Other,0.0,Household Budget Survey - HBS14
+"Moldova, Republic of",MD,MDA,498,National,13,Composting toilets,0.0,Household Budget Survey - HBS14
+"Moldova, Republic of",MD,MDA,498,National,14,Other improved,0.0,Household Budget Survey - HBS14
+"Moldova, Republic of",MD,MDA,498,National,15,"No facility, bush, field",0.0,Household Budget Survey - HBS14
+"Moldova, Republic of",MD,MDA,498,National,16,Other unimproved,0.399,Household Budget Survey - HBS14
+"Moldova, Republic of",MD,MDA,498,National,17,DK/missing information,0.0,Household Budget Survey - HBS14
+"Moldova, Republic of",MD,MDA,498,Urban,1,Flush and pour flush - to piped sewer system,0.721,Household Budget Survey - HBS15
+"Moldova, Republic of",MD,MDA,498,Urban,2,Flush and pour flush - to septic tank,0.192,Household Budget Survey - HBS15
+"Moldova, Republic of",MD,MDA,498,Urban,3,Flush and pour flush - to pit,0.0,Household Budget Survey - HBS15
+"Moldova, Republic of",MD,MDA,498,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey - HBS15
+"Moldova, Republic of",MD,MDA,498,Urban,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey - HBS15
+"Moldova, Republic of",MD,MDA,498,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey - HBS15
+"Moldova, Republic of",MD,MDA,498,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey - HBS15
+"Moldova, Republic of",MD,MDA,498,Urban,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey - HBS15
+"Moldova, Republic of",MD,MDA,498,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey - HBS15
+"Moldova, Republic of",MD,MDA,498,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey - HBS15
+"Moldova, Republic of",MD,MDA,498,Urban,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey - HBS15
+"Moldova, Republic of",MD,MDA,498,Urban,12,Dry latrines - Other,0.0,Household Budget Survey - HBS15
+"Moldova, Republic of",MD,MDA,498,Urban,13,Composting toilets,0.0,Household Budget Survey - HBS15
+"Moldova, Republic of",MD,MDA,498,Urban,14,Other improved,0.0,Household Budget Survey - HBS15
+"Moldova, Republic of",MD,MDA,498,Urban,15,"No facility, bush, field",0.0,Household Budget Survey - HBS15
+"Moldova, Republic of",MD,MDA,498,Urban,16,Other unimproved,0.087,Household Budget Survey - HBS15
+"Moldova, Republic of",MD,MDA,498,Urban,17,DK/missing information,0.0,Household Budget Survey - HBS15
+"Moldova, Republic of",MD,MDA,498,Rural,1,Flush and pour flush - to piped sewer system,0.017,Household Budget Survey - HBS15
+"Moldova, Republic of",MD,MDA,498,Rural,2,Flush and pour flush - to septic tank,0.402,Household Budget Survey - HBS15
+"Moldova, Republic of",MD,MDA,498,Rural,3,Flush and pour flush - to pit,0.0,Household Budget Survey - HBS15
+"Moldova, Republic of",MD,MDA,498,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey - HBS15
+"Moldova, Republic of",MD,MDA,498,Rural,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey - HBS15
+"Moldova, Republic of",MD,MDA,498,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey - HBS15
+"Moldova, Republic of",MD,MDA,498,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey - HBS15
+"Moldova, Republic of",MD,MDA,498,Rural,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey - HBS15
+"Moldova, Republic of",MD,MDA,498,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey - HBS15
+"Moldova, Republic of",MD,MDA,498,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey - HBS15
+"Moldova, Republic of",MD,MDA,498,Rural,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey - HBS15
+"Moldova, Republic of",MD,MDA,498,Rural,12,Dry latrines - Other,0.0,Household Budget Survey - HBS15
+"Moldova, Republic of",MD,MDA,498,Rural,13,Composting toilets,0.0,Household Budget Survey - HBS15
+"Moldova, Republic of",MD,MDA,498,Rural,14,Other improved,0.0,Household Budget Survey - HBS15
+"Moldova, Republic of",MD,MDA,498,Rural,15,"No facility, bush, field",0.0,Household Budget Survey - HBS15
+"Moldova, Republic of",MD,MDA,498,Rural,16,Other unimproved,0.581,Household Budget Survey - HBS15
+"Moldova, Republic of",MD,MDA,498,Rural,17,DK/missing information,0.0,Household Budget Survey - HBS15
+"Moldova, Republic of",MD,MDA,498,National,1,Flush and pour flush - to piped sewer system,0.33,Household Budget Survey - HBS15
+"Moldova, Republic of",MD,MDA,498,National,2,Flush and pour flush - to septic tank,0.308,Household Budget Survey - HBS15
+"Moldova, Republic of",MD,MDA,498,National,3,Flush and pour flush - to pit,0.0,Household Budget Survey - HBS15
+"Moldova, Republic of",MD,MDA,498,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey - HBS15
+"Moldova, Republic of",MD,MDA,498,National,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey - HBS15
+"Moldova, Republic of",MD,MDA,498,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey - HBS15
+"Moldova, Republic of",MD,MDA,498,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey - HBS15
+"Moldova, Republic of",MD,MDA,498,National,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey - HBS15
+"Moldova, Republic of",MD,MDA,498,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey - HBS15
+"Moldova, Republic of",MD,MDA,498,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey - HBS15
+"Moldova, Republic of",MD,MDA,498,National,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey - HBS15
+"Moldova, Republic of",MD,MDA,498,National,12,Dry latrines - Other,0.0,Household Budget Survey - HBS15
+"Moldova, Republic of",MD,MDA,498,National,13,Composting toilets,0.0,Household Budget Survey - HBS15
+"Moldova, Republic of",MD,MDA,498,National,14,Other improved,0.0,Household Budget Survey - HBS15
+"Moldova, Republic of",MD,MDA,498,National,15,"No facility, bush, field",0.0,Household Budget Survey - HBS15
+"Moldova, Republic of",MD,MDA,498,National,16,Other unimproved,0.362,Household Budget Survey - HBS15
+"Moldova, Republic of",MD,MDA,498,National,17,DK/missing information,0.0,Household Budget Survey - HBS15
+"Moldova, Republic of",MD,MDA,498,Urban,1,Flush and pour flush - to piped sewer system,0.732,Household Budget Survey - HBS16
+"Moldova, Republic of",MD,MDA,498,Urban,2,Flush and pour flush - to septic tank,0.173,Household Budget Survey - HBS16
+"Moldova, Republic of",MD,MDA,498,Urban,3,Flush and pour flush - to pit,0.0,Household Budget Survey - HBS16
+"Moldova, Republic of",MD,MDA,498,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey - HBS16
+"Moldova, Republic of",MD,MDA,498,Urban,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey - HBS16
+"Moldova, Republic of",MD,MDA,498,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey - HBS16
+"Moldova, Republic of",MD,MDA,498,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey - HBS16
+"Moldova, Republic of",MD,MDA,498,Urban,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey - HBS16
+"Moldova, Republic of",MD,MDA,498,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey - HBS16
+"Moldova, Republic of",MD,MDA,498,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey - HBS16
+"Moldova, Republic of",MD,MDA,498,Urban,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey - HBS16
+"Moldova, Republic of",MD,MDA,498,Urban,12,Dry latrines - Other,0.0,Household Budget Survey - HBS16
+"Moldova, Republic of",MD,MDA,498,Urban,13,Composting toilets,0.0,Household Budget Survey - HBS16
+"Moldova, Republic of",MD,MDA,498,Urban,14,Other improved,0.0,Household Budget Survey - HBS16
+"Moldova, Republic of",MD,MDA,498,Urban,15,"No facility, bush, field",0.0,Household Budget Survey - HBS16
+"Moldova, Republic of",MD,MDA,498,Urban,16,Other unimproved,0.095,Household Budget Survey - HBS16
+"Moldova, Republic of",MD,MDA,498,Urban,17,DK/missing information,0.0,Household Budget Survey - HBS16
+"Moldova, Republic of",MD,MDA,498,Rural,1,Flush and pour flush - to piped sewer system,0.023,Household Budget Survey - HBS16
+"Moldova, Republic of",MD,MDA,498,Rural,2,Flush and pour flush - to septic tank,0.419,Household Budget Survey - HBS16
+"Moldova, Republic of",MD,MDA,498,Rural,3,Flush and pour flush - to pit,0.0,Household Budget Survey - HBS16
+"Moldova, Republic of",MD,MDA,498,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey - HBS16
+"Moldova, Republic of",MD,MDA,498,Rural,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey - HBS16
+"Moldova, Republic of",MD,MDA,498,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey - HBS16
+"Moldova, Republic of",MD,MDA,498,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey - HBS16
+"Moldova, Republic of",MD,MDA,498,Rural,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey - HBS16
+"Moldova, Republic of",MD,MDA,498,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey - HBS16
+"Moldova, Republic of",MD,MDA,498,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey - HBS16
+"Moldova, Republic of",MD,MDA,498,Rural,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey - HBS16
+"Moldova, Republic of",MD,MDA,498,Rural,12,Dry latrines - Other,0.0,Household Budget Survey - HBS16
+"Moldova, Republic of",MD,MDA,498,Rural,13,Composting toilets,0.0,Household Budget Survey - HBS16
+"Moldova, Republic of",MD,MDA,498,Rural,14,Other improved,0.0,Household Budget Survey - HBS16
+"Moldova, Republic of",MD,MDA,498,Rural,15,"No facility, bush, field",0.0,Household Budget Survey - HBS16
+"Moldova, Republic of",MD,MDA,498,Rural,16,Other unimproved,0.558,Household Budget Survey - HBS16
+"Moldova, Republic of",MD,MDA,498,Rural,17,DK/missing information,0.0,Household Budget Survey - HBS16
+"Moldova, Republic of",MD,MDA,498,National,1,Flush and pour flush - to piped sewer system,0.339,Household Budget Survey - HBS16
+"Moldova, Republic of",MD,MDA,498,National,2,Flush and pour flush - to septic tank,0.31,Household Budget Survey - HBS16
+"Moldova, Republic of",MD,MDA,498,National,3,Flush and pour flush - to pit,0.0,Household Budget Survey - HBS16
+"Moldova, Republic of",MD,MDA,498,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey - HBS16
+"Moldova, Republic of",MD,MDA,498,National,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey - HBS16
+"Moldova, Republic of",MD,MDA,498,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey - HBS16
+"Moldova, Republic of",MD,MDA,498,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey - HBS16
+"Moldova, Republic of",MD,MDA,498,National,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey - HBS16
+"Moldova, Republic of",MD,MDA,498,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey - HBS16
+"Moldova, Republic of",MD,MDA,498,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey - HBS16
+"Moldova, Republic of",MD,MDA,498,National,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey - HBS16
+"Moldova, Republic of",MD,MDA,498,National,12,Dry latrines - Other,0.0,Household Budget Survey - HBS16
+"Moldova, Republic of",MD,MDA,498,National,13,Composting toilets,0.0,Household Budget Survey - HBS16
+"Moldova, Republic of",MD,MDA,498,National,14,Other improved,0.0,Household Budget Survey - HBS16
+"Moldova, Republic of",MD,MDA,498,National,15,"No facility, bush, field",0.0,Household Budget Survey - HBS16
+"Moldova, Republic of",MD,MDA,498,National,16,Other unimproved,0.351,Household Budget Survey - HBS16
+"Moldova, Republic of",MD,MDA,498,National,17,DK/missing information,0.0,Household Budget Survey - HBS16
+"Moldova, Republic of",MD,MDA,498,Urban,1,Flush and pour flush - to piped sewer system,0.652,Census - CEN04
+"Moldova, Republic of",MD,MDA,498,Urban,2,Flush and pour flush - to septic tank,0.0,Census - CEN04
+"Moldova, Republic of",MD,MDA,498,Urban,3,Flush and pour flush - to pit,0.0,Census - CEN04
+"Moldova, Republic of",MD,MDA,498,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN04
+"Moldova, Republic of",MD,MDA,498,Urban,5,Flush and pour flush - to elsewhere,0.0,Census - CEN04
+"Moldova, Republic of",MD,MDA,498,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN04
+"Moldova, Republic of",MD,MDA,498,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN04
+"Moldova, Republic of",MD,MDA,498,Urban,8,Dry latrines - Traditional latrine,0.0,Census - CEN04
+"Moldova, Republic of",MD,MDA,498,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN04
+"Moldova, Republic of",MD,MDA,498,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN04
+"Moldova, Republic of",MD,MDA,498,Urban,11,Dry latrines - Bucket latrine,0.0,Census - CEN04
+"Moldova, Republic of",MD,MDA,498,Urban,12,Dry latrines - Other,0.0,Census - CEN04
+"Moldova, Republic of",MD,MDA,498,Urban,13,Composting toilets,0.0,Census - CEN04
+"Moldova, Republic of",MD,MDA,498,Urban,14,Other improved,0.0,Census - CEN04
+"Moldova, Republic of",MD,MDA,498,Urban,15,"No facility, bush, field",0.0,Census - CEN04
+"Moldova, Republic of",MD,MDA,498,Urban,16,Other unimproved,0.0,Census - CEN04
+"Moldova, Republic of",MD,MDA,498,Urban,17,DK/missing information,0.0,Census - CEN04
+"Moldova, Republic of",MD,MDA,498,Rural,1,Flush and pour flush - to piped sewer system,0.054,Census - CEN04
+"Moldova, Republic of",MD,MDA,498,Rural,2,Flush and pour flush - to septic tank,0.0,Census - CEN04
+"Moldova, Republic of",MD,MDA,498,Rural,3,Flush and pour flush - to pit,0.0,Census - CEN04
+"Moldova, Republic of",MD,MDA,498,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN04
+"Moldova, Republic of",MD,MDA,498,Rural,5,Flush and pour flush - to elsewhere,0.0,Census - CEN04
+"Moldova, Republic of",MD,MDA,498,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN04
+"Moldova, Republic of",MD,MDA,498,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN04
+"Moldova, Republic of",MD,MDA,498,Rural,8,Dry latrines - Traditional latrine,0.0,Census - CEN04
+"Moldova, Republic of",MD,MDA,498,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN04
+"Moldova, Republic of",MD,MDA,498,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN04
+"Moldova, Republic of",MD,MDA,498,Rural,11,Dry latrines - Bucket latrine,0.0,Census - CEN04
+"Moldova, Republic of",MD,MDA,498,Rural,12,Dry latrines - Other,0.0,Census - CEN04
+"Moldova, Republic of",MD,MDA,498,Rural,13,Composting toilets,0.0,Census - CEN04
+"Moldova, Republic of",MD,MDA,498,Rural,14,Other improved,0.0,Census - CEN04
+"Moldova, Republic of",MD,MDA,498,Rural,15,"No facility, bush, field",0.0,Census - CEN04
+"Moldova, Republic of",MD,MDA,498,Rural,16,Other unimproved,0.0,Census - CEN04
+"Moldova, Republic of",MD,MDA,498,Rural,17,DK/missing information,0.0,Census - CEN04
+"Moldova, Republic of",MD,MDA,498,National,1,Flush and pour flush - to piped sewer system,0.283,Census - CEN04
+"Moldova, Republic of",MD,MDA,498,National,2,Flush and pour flush - to septic tank,0.0,Census - CEN04
+"Moldova, Republic of",MD,MDA,498,National,3,Flush and pour flush - to pit,0.0,Census - CEN04
+"Moldova, Republic of",MD,MDA,498,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN04
+"Moldova, Republic of",MD,MDA,498,National,5,Flush and pour flush - to elsewhere,0.0,Census - CEN04
+"Moldova, Republic of",MD,MDA,498,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN04
+"Moldova, Republic of",MD,MDA,498,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN04
+"Moldova, Republic of",MD,MDA,498,National,8,Dry latrines - Traditional latrine,0.0,Census - CEN04
+"Moldova, Republic of",MD,MDA,498,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN04
+"Moldova, Republic of",MD,MDA,498,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN04
+"Moldova, Republic of",MD,MDA,498,National,11,Dry latrines - Bucket latrine,0.0,Census - CEN04
+"Moldova, Republic of",MD,MDA,498,National,12,Dry latrines - Other,0.0,Census - CEN04
+"Moldova, Republic of",MD,MDA,498,National,13,Composting toilets,0.0,Census - CEN04
+"Moldova, Republic of",MD,MDA,498,National,14,Other improved,0.0,Census - CEN04
+"Moldova, Republic of",MD,MDA,498,National,15,"No facility, bush, field",0.0,Census - CEN04
+"Moldova, Republic of",MD,MDA,498,National,16,Other unimproved,0.0,Census - CEN04
+"Moldova, Republic of",MD,MDA,498,National,17,DK/missing information,0.0,Census - CEN04

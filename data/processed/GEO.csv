@@ -1,4 +1,106 @@
 country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+Georgia,GE,GEO,268,Urban,1,Flush and pour flush - to piped sewer system,0.157,Multiple Indicator Cluster Survey - MICS00
+Georgia,GE,GEO,268,Urban,2,Flush and pour flush - to septic tank,0.0,Multiple Indicator Cluster Survey - MICS00
+Georgia,GE,GEO,268,Urban,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Georgia,GE,GEO,268,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS00
+Georgia,GE,GEO,268,Urban,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS00
+Georgia,GE,GEO,268,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Georgia,GE,GEO,268,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Georgia,GE,GEO,268,Urban,8,Dry latrines - Traditional latrine,0.093,Multiple Indicator Cluster Survey - MICS00
+Georgia,GE,GEO,268,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Georgia,GE,GEO,268,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Georgia,GE,GEO,268,Urban,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Georgia,GE,GEO,268,Urban,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS00
+Georgia,GE,GEO,268,Urban,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS00
+Georgia,GE,GEO,268,Urban,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS00
+Georgia,GE,GEO,268,Urban,15,"No facility, bush, field",0.0,Multiple Indicator Cluster Survey - MICS00
+Georgia,GE,GEO,268,Urban,16,Other unimproved,0.0,Multiple Indicator Cluster Survey - MICS00
+Georgia,GE,GEO,268,Urban,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS00
+Georgia,GE,GEO,268,Rural,1,Flush and pour flush - to piped sewer system,0.103,Multiple Indicator Cluster Survey - MICS00
+Georgia,GE,GEO,268,Rural,2,Flush and pour flush - to septic tank,0.0,Multiple Indicator Cluster Survey - MICS00
+Georgia,GE,GEO,268,Rural,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Georgia,GE,GEO,268,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS00
+Georgia,GE,GEO,268,Rural,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS00
+Georgia,GE,GEO,268,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Georgia,GE,GEO,268,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Georgia,GE,GEO,268,Rural,8,Dry latrines - Traditional latrine,0.833,Multiple Indicator Cluster Survey - MICS00
+Georgia,GE,GEO,268,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Georgia,GE,GEO,268,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Georgia,GE,GEO,268,Rural,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Georgia,GE,GEO,268,Rural,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS00
+Georgia,GE,GEO,268,Rural,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS00
+Georgia,GE,GEO,268,Rural,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS00
+Georgia,GE,GEO,268,Rural,15,"No facility, bush, field",0.0,Multiple Indicator Cluster Survey - MICS00
+Georgia,GE,GEO,268,Rural,16,Other unimproved,0.0,Multiple Indicator Cluster Survey - MICS00
+Georgia,GE,GEO,268,Rural,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS00
+Georgia,GE,GEO,268,National,1,Flush and pour flush - to piped sewer system,0.0,Multiple Indicator Cluster Survey - MICS00
+Georgia,GE,GEO,268,National,2,Flush and pour flush - to septic tank,0.0,Multiple Indicator Cluster Survey - MICS00
+Georgia,GE,GEO,268,National,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Georgia,GE,GEO,268,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS00
+Georgia,GE,GEO,268,National,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS00
+Georgia,GE,GEO,268,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Georgia,GE,GEO,268,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Georgia,GE,GEO,268,National,8,Dry latrines - Traditional latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Georgia,GE,GEO,268,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Georgia,GE,GEO,268,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Georgia,GE,GEO,268,National,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Georgia,GE,GEO,268,National,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS00
+Georgia,GE,GEO,268,National,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS00
+Georgia,GE,GEO,268,National,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS00
+Georgia,GE,GEO,268,National,15,"No facility, bush, field",0.0,Multiple Indicator Cluster Survey - MICS00
+Georgia,GE,GEO,268,National,16,Other unimproved,0.0,Multiple Indicator Cluster Survey - MICS00
+Georgia,GE,GEO,268,National,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS00
+Georgia,GE,GEO,268,Urban,1,Flush and pour flush - to piped sewer system,0.161,"Living Conditions, Energy, Environment - LCEE02"
+Georgia,GE,GEO,268,Urban,2,Flush and pour flush - to septic tank,0.0,"Living Conditions, Energy, Environment - LCEE02"
+Georgia,GE,GEO,268,Urban,3,Flush and pour flush - to pit,0.0,"Living Conditions, Energy, Environment - LCEE02"
+Georgia,GE,GEO,268,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Living Conditions, Energy, Environment - LCEE02"
+Georgia,GE,GEO,268,Urban,5,Flush and pour flush - to elsewhere,0.0,"Living Conditions, Energy, Environment - LCEE02"
+Georgia,GE,GEO,268,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Living Conditions, Energy, Environment - LCEE02"
+Georgia,GE,GEO,268,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Living Conditions, Energy, Environment - LCEE02"
+Georgia,GE,GEO,268,Urban,8,Dry latrines - Traditional latrine,0.158,"Living Conditions, Energy, Environment - LCEE02"
+Georgia,GE,GEO,268,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Living Conditions, Energy, Environment - LCEE02"
+Georgia,GE,GEO,268,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Living Conditions, Energy, Environment - LCEE02"
+Georgia,GE,GEO,268,Urban,11,Dry latrines - Bucket latrine,0.0,"Living Conditions, Energy, Environment - LCEE02"
+Georgia,GE,GEO,268,Urban,12,Dry latrines - Other,0.0,"Living Conditions, Energy, Environment - LCEE02"
+Georgia,GE,GEO,268,Urban,13,Composting toilets,0.0,"Living Conditions, Energy, Environment - LCEE02"
+Georgia,GE,GEO,268,Urban,14,Other improved,0.0,"Living Conditions, Energy, Environment - LCEE02"
+Georgia,GE,GEO,268,Urban,15,"No facility, bush, field",0.0,"Living Conditions, Energy, Environment - LCEE02"
+Georgia,GE,GEO,268,Urban,16,Other unimproved,0.0,"Living Conditions, Energy, Environment - LCEE02"
+Georgia,GE,GEO,268,Urban,17,DK/missing information,0.0,"Living Conditions, Energy, Environment - LCEE02"
+Georgia,GE,GEO,268,Rural,1,Flush and pour flush - to piped sewer system,0.072,"Living Conditions, Energy, Environment - LCEE02"
+Georgia,GE,GEO,268,Rural,2,Flush and pour flush - to septic tank,0.0,"Living Conditions, Energy, Environment - LCEE02"
+Georgia,GE,GEO,268,Rural,3,Flush and pour flush - to pit,0.0,"Living Conditions, Energy, Environment - LCEE02"
+Georgia,GE,GEO,268,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Living Conditions, Energy, Environment - LCEE02"
+Georgia,GE,GEO,268,Rural,5,Flush and pour flush - to elsewhere,0.0,"Living Conditions, Energy, Environment - LCEE02"
+Georgia,GE,GEO,268,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Living Conditions, Energy, Environment - LCEE02"
+Georgia,GE,GEO,268,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Living Conditions, Energy, Environment - LCEE02"
+Georgia,GE,GEO,268,Rural,8,Dry latrines - Traditional latrine,0.826,"Living Conditions, Energy, Environment - LCEE02"
+Georgia,GE,GEO,268,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Living Conditions, Energy, Environment - LCEE02"
+Georgia,GE,GEO,268,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Living Conditions, Energy, Environment - LCEE02"
+Georgia,GE,GEO,268,Rural,11,Dry latrines - Bucket latrine,0.0,"Living Conditions, Energy, Environment - LCEE02"
+Georgia,GE,GEO,268,Rural,12,Dry latrines - Other,0.0,"Living Conditions, Energy, Environment - LCEE02"
+Georgia,GE,GEO,268,Rural,13,Composting toilets,0.0,"Living Conditions, Energy, Environment - LCEE02"
+Georgia,GE,GEO,268,Rural,14,Other improved,0.0,"Living Conditions, Energy, Environment - LCEE02"
+Georgia,GE,GEO,268,Rural,15,"No facility, bush, field",0.0,"Living Conditions, Energy, Environment - LCEE02"
+Georgia,GE,GEO,268,Rural,16,Other unimproved,0.003,"Living Conditions, Energy, Environment - LCEE02"
+Georgia,GE,GEO,268,Rural,17,DK/missing information,0.0,"Living Conditions, Energy, Environment - LCEE02"
+Georgia,GE,GEO,268,National,1,Flush and pour flush - to piped sewer system,0.0,"Living Conditions, Energy, Environment - LCEE02"
+Georgia,GE,GEO,268,National,2,Flush and pour flush - to septic tank,0.0,"Living Conditions, Energy, Environment - LCEE02"
+Georgia,GE,GEO,268,National,3,Flush and pour flush - to pit,0.0,"Living Conditions, Energy, Environment - LCEE02"
+Georgia,GE,GEO,268,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Living Conditions, Energy, Environment - LCEE02"
+Georgia,GE,GEO,268,National,5,Flush and pour flush - to elsewhere,0.0,"Living Conditions, Energy, Environment - LCEE02"
+Georgia,GE,GEO,268,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Living Conditions, Energy, Environment - LCEE02"
+Georgia,GE,GEO,268,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Living Conditions, Energy, Environment - LCEE02"
+Georgia,GE,GEO,268,National,8,Dry latrines - Traditional latrine,0.0,"Living Conditions, Energy, Environment - LCEE02"
+Georgia,GE,GEO,268,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Living Conditions, Energy, Environment - LCEE02"
+Georgia,GE,GEO,268,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Living Conditions, Energy, Environment - LCEE02"
+Georgia,GE,GEO,268,National,11,Dry latrines - Bucket latrine,0.0,"Living Conditions, Energy, Environment - LCEE02"
+Georgia,GE,GEO,268,National,12,Dry latrines - Other,0.0,"Living Conditions, Energy, Environment - LCEE02"
+Georgia,GE,GEO,268,National,13,Composting toilets,0.0,"Living Conditions, Energy, Environment - LCEE02"
+Georgia,GE,GEO,268,National,14,Other improved,0.0,"Living Conditions, Energy, Environment - LCEE02"
+Georgia,GE,GEO,268,National,15,"No facility, bush, field",0.0,"Living Conditions, Energy, Environment - LCEE02"
+Georgia,GE,GEO,268,National,16,Other unimproved,0.0,"Living Conditions, Energy, Environment - LCEE02"
+Georgia,GE,GEO,268,National,17,DK/missing information,0.0,"Living Conditions, Energy, Environment - LCEE02"
 Georgia,GE,GEO,268,Urban,1,Flush and pour flush - to piped sewer system,0.842,World Health Survey - WHS03
 Georgia,GE,GEO,268,Urban,2,Flush and pour flush - to septic tank,0.01,World Health Survey - WHS03
 Georgia,GE,GEO,268,Urban,3,Flush and pour flush - to pit,0.0,World Health Survey - WHS03
@@ -45,6 +147,227 @@ Georgia,GE,GEO,268,Rural,14,Other improved,0.0,World Health Survey - WHS03
 Georgia,GE,GEO,268,Rural,15,"No facility, bush, field",0.023,World Health Survey - WHS03
 Georgia,GE,GEO,268,Rural,16,Other unimproved,0.0,World Health Survey - WHS03
 Georgia,GE,GEO,268,Rural,17,DK/missing information,0.0,World Health Survey - WHS03
+Georgia,GE,GEO,268,National,1,Flush and pour flush - to piped sewer system,0.0,World Health Survey - WHS03
+Georgia,GE,GEO,268,National,2,Flush and pour flush - to septic tank,0.0,World Health Survey - WHS03
+Georgia,GE,GEO,268,National,3,Flush and pour flush - to pit,0.0,World Health Survey - WHS03
+Georgia,GE,GEO,268,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,World Health Survey - WHS03
+Georgia,GE,GEO,268,National,5,Flush and pour flush - to elsewhere,0.0,World Health Survey - WHS03
+Georgia,GE,GEO,268,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,World Health Survey - WHS03
+Georgia,GE,GEO,268,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,World Health Survey - WHS03
+Georgia,GE,GEO,268,National,8,Dry latrines - Traditional latrine,0.0,World Health Survey - WHS03
+Georgia,GE,GEO,268,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,World Health Survey - WHS03
+Georgia,GE,GEO,268,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,World Health Survey - WHS03
+Georgia,GE,GEO,268,National,11,Dry latrines - Bucket latrine,0.0,World Health Survey - WHS03
+Georgia,GE,GEO,268,National,12,Dry latrines - Other,0.0,World Health Survey - WHS03
+Georgia,GE,GEO,268,National,13,Composting toilets,0.0,World Health Survey - WHS03
+Georgia,GE,GEO,268,National,14,Other improved,0.0,World Health Survey - WHS03
+Georgia,GE,GEO,268,National,15,"No facility, bush, field",0.0,World Health Survey - WHS03
+Georgia,GE,GEO,268,National,16,Other unimproved,0.0,World Health Survey - WHS03
+Georgia,GE,GEO,268,National,17,DK/missing information,0.0,World Health Survey - WHS03
+Georgia,GE,GEO,268,Urban,1,Flush and pour flush - to piped sewer system,0.804,Multiple Indicator Cluster Survey - MICS05
+Georgia,GE,GEO,268,Urban,2,Flush and pour flush - to septic tank,0.004,Multiple Indicator Cluster Survey - MICS05
+Georgia,GE,GEO,268,Urban,3,Flush and pour flush - to pit,0.017,Multiple Indicator Cluster Survey - MICS05
+Georgia,GE,GEO,268,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS05
+Georgia,GE,GEO,268,Urban,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS05
+Georgia,GE,GEO,268,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.002,Multiple Indicator Cluster Survey - MICS05
+Georgia,GE,GEO,268,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.161,Multiple Indicator Cluster Survey - MICS05
+Georgia,GE,GEO,268,Urban,8,Dry latrines - Traditional latrine,0.0,Multiple Indicator Cluster Survey - MICS05
+Georgia,GE,GEO,268,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.011,Multiple Indicator Cluster Survey - MICS05
+Georgia,GE,GEO,268,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS05
+Georgia,GE,GEO,268,Urban,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS05
+Georgia,GE,GEO,268,Urban,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS05
+Georgia,GE,GEO,268,Urban,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS05
+Georgia,GE,GEO,268,Urban,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS05
+Georgia,GE,GEO,268,Urban,15,"No facility, bush, field",0.0,Multiple Indicator Cluster Survey - MICS05
+Georgia,GE,GEO,268,Urban,16,Other unimproved,0.0,Multiple Indicator Cluster Survey - MICS05
+Georgia,GE,GEO,268,Urban,17,DK/missing information,0.001,Multiple Indicator Cluster Survey - MICS05
+Georgia,GE,GEO,268,Rural,1,Flush and pour flush - to piped sewer system,0.037,Multiple Indicator Cluster Survey - MICS05
+Georgia,GE,GEO,268,Rural,2,Flush and pour flush - to septic tank,0.006,Multiple Indicator Cluster Survey - MICS05
+Georgia,GE,GEO,268,Rural,3,Flush and pour flush - to pit,0.076,Multiple Indicator Cluster Survey - MICS05
+Georgia,GE,GEO,268,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.002,Multiple Indicator Cluster Survey - MICS05
+Georgia,GE,GEO,268,Rural,5,Flush and pour flush - to elsewhere,0.001,Multiple Indicator Cluster Survey - MICS05
+Georgia,GE,GEO,268,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.008,Multiple Indicator Cluster Survey - MICS05
+Georgia,GE,GEO,268,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.812,Multiple Indicator Cluster Survey - MICS05
+Georgia,GE,GEO,268,Rural,8,Dry latrines - Traditional latrine,0.0,Multiple Indicator Cluster Survey - MICS05
+Georgia,GE,GEO,268,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.045,Multiple Indicator Cluster Survey - MICS05
+Georgia,GE,GEO,268,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS05
+Georgia,GE,GEO,268,Rural,11,Dry latrines - Bucket latrine,0.001,Multiple Indicator Cluster Survey - MICS05
+Georgia,GE,GEO,268,Rural,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS05
+Georgia,GE,GEO,268,Rural,13,Composting toilets,0.011,Multiple Indicator Cluster Survey - MICS05
+Georgia,GE,GEO,268,Rural,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS05
+Georgia,GE,GEO,268,Rural,15,"No facility, bush, field",0.0,Multiple Indicator Cluster Survey - MICS05
+Georgia,GE,GEO,268,Rural,16,Other unimproved,0.0,Multiple Indicator Cluster Survey - MICS05
+Georgia,GE,GEO,268,Rural,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS05
+Georgia,GE,GEO,268,National,1,Flush and pour flush - to piped sewer system,0.0,Multiple Indicator Cluster Survey - MICS05
+Georgia,GE,GEO,268,National,2,Flush and pour flush - to septic tank,0.0,Multiple Indicator Cluster Survey - MICS05
+Georgia,GE,GEO,268,National,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS05
+Georgia,GE,GEO,268,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS05
+Georgia,GE,GEO,268,National,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS05
+Georgia,GE,GEO,268,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Multiple Indicator Cluster Survey - MICS05
+Georgia,GE,GEO,268,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Multiple Indicator Cluster Survey - MICS05
+Georgia,GE,GEO,268,National,8,Dry latrines - Traditional latrine,0.0,Multiple Indicator Cluster Survey - MICS05
+Georgia,GE,GEO,268,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Multiple Indicator Cluster Survey - MICS05
+Georgia,GE,GEO,268,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS05
+Georgia,GE,GEO,268,National,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS05
+Georgia,GE,GEO,268,National,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS05
+Georgia,GE,GEO,268,National,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS05
+Georgia,GE,GEO,268,National,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS05
+Georgia,GE,GEO,268,National,15,"No facility, bush, field",0.0,Multiple Indicator Cluster Survey - MICS05
+Georgia,GE,GEO,268,National,16,Other unimproved,0.0,Multiple Indicator Cluster Survey - MICS05
+Georgia,GE,GEO,268,National,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS05
+Georgia,GE,GEO,268,Urban,1,Flush and pour flush - to piped sewer system,0.0,REPRODUCTIVE HEALTH SURVEY  - RHS05
+Georgia,GE,GEO,268,Urban,2,Flush and pour flush - to septic tank,0.0,REPRODUCTIVE HEALTH SURVEY  - RHS05
+Georgia,GE,GEO,268,Urban,3,Flush and pour flush - to pit,0.0,REPRODUCTIVE HEALTH SURVEY  - RHS05
+Georgia,GE,GEO,268,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,REPRODUCTIVE HEALTH SURVEY  - RHS05
+Georgia,GE,GEO,268,Urban,5,Flush and pour flush - to elsewhere,0.0,REPRODUCTIVE HEALTH SURVEY  - RHS05
+Georgia,GE,GEO,268,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,REPRODUCTIVE HEALTH SURVEY  - RHS05
+Georgia,GE,GEO,268,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,REPRODUCTIVE HEALTH SURVEY  - RHS05
+Georgia,GE,GEO,268,Urban,8,Dry latrines - Traditional latrine,0.216,REPRODUCTIVE HEALTH SURVEY  - RHS05
+Georgia,GE,GEO,268,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,REPRODUCTIVE HEALTH SURVEY  - RHS05
+Georgia,GE,GEO,268,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,REPRODUCTIVE HEALTH SURVEY  - RHS05
+Georgia,GE,GEO,268,Urban,11,Dry latrines - Bucket latrine,0.001,REPRODUCTIVE HEALTH SURVEY  - RHS05
+Georgia,GE,GEO,268,Urban,12,Dry latrines - Other,0.0,REPRODUCTIVE HEALTH SURVEY  - RHS05
+Georgia,GE,GEO,268,Urban,13,Composting toilets,0.0,REPRODUCTIVE HEALTH SURVEY  - RHS05
+Georgia,GE,GEO,268,Urban,14,Other improved,0.0,REPRODUCTIVE HEALTH SURVEY  - RHS05
+Georgia,GE,GEO,268,Urban,15,"No facility, bush, field",0.0,REPRODUCTIVE HEALTH SURVEY  - RHS05
+Georgia,GE,GEO,268,Urban,16,Other unimproved,0.0,REPRODUCTIVE HEALTH SURVEY  - RHS05
+Georgia,GE,GEO,268,Urban,17,DK/missing information,0.0,REPRODUCTIVE HEALTH SURVEY  - RHS05
+Georgia,GE,GEO,268,Rural,1,Flush and pour flush - to piped sewer system,0.0,REPRODUCTIVE HEALTH SURVEY  - RHS05
+Georgia,GE,GEO,268,Rural,2,Flush and pour flush - to septic tank,0.0,REPRODUCTIVE HEALTH SURVEY  - RHS05
+Georgia,GE,GEO,268,Rural,3,Flush and pour flush - to pit,0.0,REPRODUCTIVE HEALTH SURVEY  - RHS05
+Georgia,GE,GEO,268,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,REPRODUCTIVE HEALTH SURVEY  - RHS05
+Georgia,GE,GEO,268,Rural,5,Flush and pour flush - to elsewhere,0.0,REPRODUCTIVE HEALTH SURVEY  - RHS05
+Georgia,GE,GEO,268,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,REPRODUCTIVE HEALTH SURVEY  - RHS05
+Georgia,GE,GEO,268,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,REPRODUCTIVE HEALTH SURVEY  - RHS05
+Georgia,GE,GEO,268,Rural,8,Dry latrines - Traditional latrine,0.957,REPRODUCTIVE HEALTH SURVEY  - RHS05
+Georgia,GE,GEO,268,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,REPRODUCTIVE HEALTH SURVEY  - RHS05
+Georgia,GE,GEO,268,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,REPRODUCTIVE HEALTH SURVEY  - RHS05
+Georgia,GE,GEO,268,Rural,11,Dry latrines - Bucket latrine,0.002,REPRODUCTIVE HEALTH SURVEY  - RHS05
+Georgia,GE,GEO,268,Rural,12,Dry latrines - Other,0.0,REPRODUCTIVE HEALTH SURVEY  - RHS05
+Georgia,GE,GEO,268,Rural,13,Composting toilets,0.0,REPRODUCTIVE HEALTH SURVEY  - RHS05
+Georgia,GE,GEO,268,Rural,14,Other improved,0.0,REPRODUCTIVE HEALTH SURVEY  - RHS05
+Georgia,GE,GEO,268,Rural,15,"No facility, bush, field",0.0,REPRODUCTIVE HEALTH SURVEY  - RHS05
+Georgia,GE,GEO,268,Rural,16,Other unimproved,0.0,REPRODUCTIVE HEALTH SURVEY  - RHS05
+Georgia,GE,GEO,268,Rural,17,DK/missing information,0.0,REPRODUCTIVE HEALTH SURVEY  - RHS05
+Georgia,GE,GEO,268,National,1,Flush and pour flush - to piped sewer system,0.0,REPRODUCTIVE HEALTH SURVEY  - RHS05
+Georgia,GE,GEO,268,National,2,Flush and pour flush - to septic tank,0.0,REPRODUCTIVE HEALTH SURVEY  - RHS05
+Georgia,GE,GEO,268,National,3,Flush and pour flush - to pit,0.0,REPRODUCTIVE HEALTH SURVEY  - RHS05
+Georgia,GE,GEO,268,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,REPRODUCTIVE HEALTH SURVEY  - RHS05
+Georgia,GE,GEO,268,National,5,Flush and pour flush - to elsewhere,0.0,REPRODUCTIVE HEALTH SURVEY  - RHS05
+Georgia,GE,GEO,268,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,REPRODUCTIVE HEALTH SURVEY  - RHS05
+Georgia,GE,GEO,268,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,REPRODUCTIVE HEALTH SURVEY  - RHS05
+Georgia,GE,GEO,268,National,8,Dry latrines - Traditional latrine,0.0,REPRODUCTIVE HEALTH SURVEY  - RHS05
+Georgia,GE,GEO,268,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,REPRODUCTIVE HEALTH SURVEY  - RHS05
+Georgia,GE,GEO,268,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,REPRODUCTIVE HEALTH SURVEY  - RHS05
+Georgia,GE,GEO,268,National,11,Dry latrines - Bucket latrine,0.0,REPRODUCTIVE HEALTH SURVEY  - RHS05
+Georgia,GE,GEO,268,National,12,Dry latrines - Other,0.0,REPRODUCTIVE HEALTH SURVEY  - RHS05
+Georgia,GE,GEO,268,National,13,Composting toilets,0.0,REPRODUCTIVE HEALTH SURVEY  - RHS05
+Georgia,GE,GEO,268,National,14,Other improved,0.0,REPRODUCTIVE HEALTH SURVEY  - RHS05
+Georgia,GE,GEO,268,National,15,"No facility, bush, field",0.0,REPRODUCTIVE HEALTH SURVEY  - RHS05
+Georgia,GE,GEO,268,National,16,Other unimproved,0.0,REPRODUCTIVE HEALTH SURVEY  - RHS05
+Georgia,GE,GEO,268,National,17,DK/missing information,0.0,REPRODUCTIVE HEALTH SURVEY  - RHS05
+Georgia,GE,GEO,268,Urban,1,Flush and pour flush - to piped sewer system,0.847,Integrated Household survey - IHS09
+Georgia,GE,GEO,268,Urban,2,Flush and pour flush - to septic tank,0.0,Integrated Household survey - IHS09
+Georgia,GE,GEO,268,Urban,3,Flush and pour flush - to pit,0.0,Integrated Household survey - IHS09
+Georgia,GE,GEO,268,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Integrated Household survey - IHS09
+Georgia,GE,GEO,268,Urban,5,Flush and pour flush - to elsewhere,0.023,Integrated Household survey - IHS09
+Georgia,GE,GEO,268,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Integrated Household survey - IHS09
+Georgia,GE,GEO,268,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Integrated Household survey - IHS09
+Georgia,GE,GEO,268,Urban,8,Dry latrines - Traditional latrine,0.13,Integrated Household survey - IHS09
+Georgia,GE,GEO,268,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Integrated Household survey - IHS09
+Georgia,GE,GEO,268,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Integrated Household survey - IHS09
+Georgia,GE,GEO,268,Urban,11,Dry latrines - Bucket latrine,0.0,Integrated Household survey - IHS09
+Georgia,GE,GEO,268,Urban,12,Dry latrines - Other,0.0,Integrated Household survey - IHS09
+Georgia,GE,GEO,268,Urban,13,Composting toilets,0.0,Integrated Household survey - IHS09
+Georgia,GE,GEO,268,Urban,14,Other improved,0.0,Integrated Household survey - IHS09
+Georgia,GE,GEO,268,Urban,15,"No facility, bush, field",0.0,Integrated Household survey - IHS09
+Georgia,GE,GEO,268,Urban,16,Other unimproved,0.0,Integrated Household survey - IHS09
+Georgia,GE,GEO,268,Urban,17,DK/missing information,0.0,Integrated Household survey - IHS09
+Georgia,GE,GEO,268,Rural,1,Flush and pour flush - to piped sewer system,0.058,Integrated Household survey - IHS09
+Georgia,GE,GEO,268,Rural,2,Flush and pour flush - to septic tank,0.0,Integrated Household survey - IHS09
+Georgia,GE,GEO,268,Rural,3,Flush and pour flush - to pit,0.0,Integrated Household survey - IHS09
+Georgia,GE,GEO,268,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Integrated Household survey - IHS09
+Georgia,GE,GEO,268,Rural,5,Flush and pour flush - to elsewhere,0.073,Integrated Household survey - IHS09
+Georgia,GE,GEO,268,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Integrated Household survey - IHS09
+Georgia,GE,GEO,268,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Integrated Household survey - IHS09
+Georgia,GE,GEO,268,Rural,8,Dry latrines - Traditional latrine,0.865,Integrated Household survey - IHS09
+Georgia,GE,GEO,268,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Integrated Household survey - IHS09
+Georgia,GE,GEO,268,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Integrated Household survey - IHS09
+Georgia,GE,GEO,268,Rural,11,Dry latrines - Bucket latrine,0.0,Integrated Household survey - IHS09
+Georgia,GE,GEO,268,Rural,12,Dry latrines - Other,0.0,Integrated Household survey - IHS09
+Georgia,GE,GEO,268,Rural,13,Composting toilets,0.0,Integrated Household survey - IHS09
+Georgia,GE,GEO,268,Rural,14,Other improved,0.0,Integrated Household survey - IHS09
+Georgia,GE,GEO,268,Rural,15,"No facility, bush, field",0.0,Integrated Household survey - IHS09
+Georgia,GE,GEO,268,Rural,16,Other unimproved,0.003,Integrated Household survey - IHS09
+Georgia,GE,GEO,268,Rural,17,DK/missing information,0.0,Integrated Household survey - IHS09
+Georgia,GE,GEO,268,National,1,Flush and pour flush - to piped sewer system,0.507,Integrated Household survey - IHS09
+Georgia,GE,GEO,268,National,2,Flush and pour flush - to septic tank,0.0,Integrated Household survey - IHS09
+Georgia,GE,GEO,268,National,3,Flush and pour flush - to pit,0.0,Integrated Household survey - IHS09
+Georgia,GE,GEO,268,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Integrated Household survey - IHS09
+Georgia,GE,GEO,268,National,5,Flush and pour flush - to elsewhere,0.045,Integrated Household survey - IHS09
+Georgia,GE,GEO,268,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Integrated Household survey - IHS09
+Georgia,GE,GEO,268,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Integrated Household survey - IHS09
+Georgia,GE,GEO,268,National,8,Dry latrines - Traditional latrine,0.447,Integrated Household survey - IHS09
+Georgia,GE,GEO,268,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Integrated Household survey - IHS09
+Georgia,GE,GEO,268,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Integrated Household survey - IHS09
+Georgia,GE,GEO,268,National,11,Dry latrines - Bucket latrine,0.0,Integrated Household survey - IHS09
+Georgia,GE,GEO,268,National,12,Dry latrines - Other,0.0,Integrated Household survey - IHS09
+Georgia,GE,GEO,268,National,13,Composting toilets,0.0,Integrated Household survey - IHS09
+Georgia,GE,GEO,268,National,14,Other improved,0.0,Integrated Household survey - IHS09
+Georgia,GE,GEO,268,National,15,"No facility, bush, field",0.0,Integrated Household survey - IHS09
+Georgia,GE,GEO,268,National,16,Other unimproved,0.001,Integrated Household survey - IHS09
+Georgia,GE,GEO,268,National,17,DK/missing information,0.0,Integrated Household survey - IHS09
+Georgia,GE,GEO,268,Urban,1,Flush and pour flush - to piped sewer system,0.839,Integrated Household Survey - IHS10
+Georgia,GE,GEO,268,Urban,2,Flush and pour flush - to septic tank,0.0,Integrated Household Survey - IHS10
+Georgia,GE,GEO,268,Urban,3,Flush and pour flush - to pit,0.0,Integrated Household Survey - IHS10
+Georgia,GE,GEO,268,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Integrated Household Survey - IHS10
+Georgia,GE,GEO,268,Urban,5,Flush and pour flush - to elsewhere,0.024,Integrated Household Survey - IHS10
+Georgia,GE,GEO,268,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Integrated Household Survey - IHS10
+Georgia,GE,GEO,268,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Integrated Household Survey - IHS10
+Georgia,GE,GEO,268,Urban,8,Dry latrines - Traditional latrine,0.137,Integrated Household Survey - IHS10
+Georgia,GE,GEO,268,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Integrated Household Survey - IHS10
+Georgia,GE,GEO,268,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Integrated Household Survey - IHS10
+Georgia,GE,GEO,268,Urban,11,Dry latrines - Bucket latrine,0.0,Integrated Household Survey - IHS10
+Georgia,GE,GEO,268,Urban,12,Dry latrines - Other,0.0,Integrated Household Survey - IHS10
+Georgia,GE,GEO,268,Urban,13,Composting toilets,0.0,Integrated Household Survey - IHS10
+Georgia,GE,GEO,268,Urban,14,Other improved,0.0,Integrated Household Survey - IHS10
+Georgia,GE,GEO,268,Urban,15,"No facility, bush, field",0.0,Integrated Household Survey - IHS10
+Georgia,GE,GEO,268,Urban,16,Other unimproved,0.001,Integrated Household Survey - IHS10
+Georgia,GE,GEO,268,Urban,17,DK/missing information,0.0,Integrated Household Survey - IHS10
+Georgia,GE,GEO,268,Rural,1,Flush and pour flush - to piped sewer system,0.067,Integrated Household Survey - IHS10
+Georgia,GE,GEO,268,Rural,2,Flush and pour flush - to septic tank,0.0,Integrated Household Survey - IHS10
+Georgia,GE,GEO,268,Rural,3,Flush and pour flush - to pit,0.0,Integrated Household Survey - IHS10
+Georgia,GE,GEO,268,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Integrated Household Survey - IHS10
+Georgia,GE,GEO,268,Rural,5,Flush and pour flush - to elsewhere,0.07,Integrated Household Survey - IHS10
+Georgia,GE,GEO,268,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Integrated Household Survey - IHS10
+Georgia,GE,GEO,268,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Integrated Household Survey - IHS10
+Georgia,GE,GEO,268,Rural,8,Dry latrines - Traditional latrine,0.855,Integrated Household Survey - IHS10
+Georgia,GE,GEO,268,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Integrated Household Survey - IHS10
+Georgia,GE,GEO,268,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Integrated Household Survey - IHS10
+Georgia,GE,GEO,268,Rural,11,Dry latrines - Bucket latrine,0.0,Integrated Household Survey - IHS10
+Georgia,GE,GEO,268,Rural,12,Dry latrines - Other,0.0,Integrated Household Survey - IHS10
+Georgia,GE,GEO,268,Rural,13,Composting toilets,0.0,Integrated Household Survey - IHS10
+Georgia,GE,GEO,268,Rural,14,Other improved,0.0,Integrated Household Survey - IHS10
+Georgia,GE,GEO,268,Rural,15,"No facility, bush, field",0.0,Integrated Household Survey - IHS10
+Georgia,GE,GEO,268,Rural,16,Other unimproved,0.008,Integrated Household Survey - IHS10
+Georgia,GE,GEO,268,Rural,17,DK/missing information,0.0,Integrated Household Survey - IHS10
+Georgia,GE,GEO,268,National,1,Flush and pour flush - to piped sewer system,0.508,Integrated Household Survey - IHS10
+Georgia,GE,GEO,268,National,2,Flush and pour flush - to septic tank,0.0,Integrated Household Survey - IHS10
+Georgia,GE,GEO,268,National,3,Flush and pour flush - to pit,0.0,Integrated Household Survey - IHS10
+Georgia,GE,GEO,268,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Integrated Household Survey - IHS10
+Georgia,GE,GEO,268,National,5,Flush and pour flush - to elsewhere,0.044,Integrated Household Survey - IHS10
+Georgia,GE,GEO,268,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Integrated Household Survey - IHS10
+Georgia,GE,GEO,268,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Integrated Household Survey - IHS10
+Georgia,GE,GEO,268,National,8,Dry latrines - Traditional latrine,0.445,Integrated Household Survey - IHS10
+Georgia,GE,GEO,268,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Integrated Household Survey - IHS10
+Georgia,GE,GEO,268,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Integrated Household Survey - IHS10
+Georgia,GE,GEO,268,National,11,Dry latrines - Bucket latrine,0.0,Integrated Household Survey - IHS10
+Georgia,GE,GEO,268,National,12,Dry latrines - Other,0.0,Integrated Household Survey - IHS10
+Georgia,GE,GEO,268,National,13,Composting toilets,0.0,Integrated Household Survey - IHS10
+Georgia,GE,GEO,268,National,14,Other improved,0.0,Integrated Household Survey - IHS10
+Georgia,GE,GEO,268,National,15,"No facility, bush, field",0.0,Integrated Household Survey - IHS10
+Georgia,GE,GEO,268,National,16,Other unimproved,0.004,Integrated Household Survey - IHS10
+Georgia,GE,GEO,268,National,17,DK/missing information,0.0,Integrated Household Survey - IHS10
 Georgia,GE,GEO,268,Urban,1,Flush and pour flush - to piped sewer system,0.819,REPRODUCTIVE HEALTH SURVEY  - RHS10
 Georgia,GE,GEO,268,Urban,2,Flush and pour flush - to septic tank,0.01,REPRODUCTIVE HEALTH SURVEY  - RHS10
 Georgia,GE,GEO,268,Urban,3,Flush and pour flush - to pit,0.009,REPRODUCTIVE HEALTH SURVEY  - RHS10
@@ -79,3 +402,479 @@ Georgia,GE,GEO,268,Rural,14,Other improved,0.0,REPRODUCTIVE HEALTH SURVEY  - RHS
 Georgia,GE,GEO,268,Rural,15,"No facility, bush, field",0.0,REPRODUCTIVE HEALTH SURVEY  - RHS10
 Georgia,GE,GEO,268,Rural,16,Other unimproved,0.0,REPRODUCTIVE HEALTH SURVEY  - RHS10
 Georgia,GE,GEO,268,Rural,17,DK/missing information,0.0,REPRODUCTIVE HEALTH SURVEY  - RHS10
+Georgia,GE,GEO,268,National,1,Flush and pour flush - to piped sewer system,0.425,REPRODUCTIVE HEALTH SURVEY  - RHS10
+Georgia,GE,GEO,268,National,2,Flush and pour flush - to septic tank,0.016,REPRODUCTIVE HEALTH SURVEY  - RHS10
+Georgia,GE,GEO,268,National,3,Flush and pour flush - to pit,0.013,REPRODUCTIVE HEALTH SURVEY  - RHS10
+Georgia,GE,GEO,268,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.004,REPRODUCTIVE HEALTH SURVEY  - RHS10
+Georgia,GE,GEO,268,National,5,Flush and pour flush - to elsewhere,0.006,REPRODUCTIVE HEALTH SURVEY  - RHS10
+Georgia,GE,GEO,268,National,6,Dry latrines - Ventilated Improved Pit latrine,0.019,REPRODUCTIVE HEALTH SURVEY  - RHS10
+Georgia,GE,GEO,268,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,REPRODUCTIVE HEALTH SURVEY  - RHS10
+Georgia,GE,GEO,268,National,8,Dry latrines - Traditional latrine,0.355,REPRODUCTIVE HEALTH SURVEY  - RHS10
+Georgia,GE,GEO,268,National,9,Dry latrines - Pit latrine without slab/open pit,0.14,REPRODUCTIVE HEALTH SURVEY  - RHS10
+Georgia,GE,GEO,268,National,10,Dry latrines - Hanging toilet/hanging latrine,0.017,REPRODUCTIVE HEALTH SURVEY  - RHS10
+Georgia,GE,GEO,268,National,11,Dry latrines - Bucket latrine,0.0,REPRODUCTIVE HEALTH SURVEY  - RHS10
+Georgia,GE,GEO,268,National,12,Dry latrines - Other,0.0,REPRODUCTIVE HEALTH SURVEY  - RHS10
+Georgia,GE,GEO,268,National,13,Composting toilets,0.003,REPRODUCTIVE HEALTH SURVEY  - RHS10
+Georgia,GE,GEO,268,National,14,Other improved,0.0,REPRODUCTIVE HEALTH SURVEY  - RHS10
+Georgia,GE,GEO,268,National,15,"No facility, bush, field",0.0,REPRODUCTIVE HEALTH SURVEY  - RHS10
+Georgia,GE,GEO,268,National,16,Other unimproved,0.001,REPRODUCTIVE HEALTH SURVEY  - RHS10
+Georgia,GE,GEO,268,National,17,DK/missing information,0.0,REPRODUCTIVE HEALTH SURVEY  - RHS10
+Georgia,GE,GEO,268,Urban,1,Flush and pour flush - to piped sewer system,0.845,Integrated Household Survey - IHS11
+Georgia,GE,GEO,268,Urban,2,Flush and pour flush - to septic tank,0.0,Integrated Household Survey - IHS11
+Georgia,GE,GEO,268,Urban,3,Flush and pour flush - to pit,0.0,Integrated Household Survey - IHS11
+Georgia,GE,GEO,268,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Integrated Household Survey - IHS11
+Georgia,GE,GEO,268,Urban,5,Flush and pour flush - to elsewhere,0.031,Integrated Household Survey - IHS11
+Georgia,GE,GEO,268,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Integrated Household Survey - IHS11
+Georgia,GE,GEO,268,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Integrated Household Survey - IHS11
+Georgia,GE,GEO,268,Urban,8,Dry latrines - Traditional latrine,0.124,Integrated Household Survey - IHS11
+Georgia,GE,GEO,268,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Integrated Household Survey - IHS11
+Georgia,GE,GEO,268,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Integrated Household Survey - IHS11
+Georgia,GE,GEO,268,Urban,11,Dry latrines - Bucket latrine,0.0,Integrated Household Survey - IHS11
+Georgia,GE,GEO,268,Urban,12,Dry latrines - Other,0.0,Integrated Household Survey - IHS11
+Georgia,GE,GEO,268,Urban,13,Composting toilets,0.0,Integrated Household Survey - IHS11
+Georgia,GE,GEO,268,Urban,14,Other improved,0.0,Integrated Household Survey - IHS11
+Georgia,GE,GEO,268,Urban,15,"No facility, bush, field",0.0,Integrated Household Survey - IHS11
+Georgia,GE,GEO,268,Urban,16,Other unimproved,0.001,Integrated Household Survey - IHS11
+Georgia,GE,GEO,268,Urban,17,DK/missing information,0.0,Integrated Household Survey - IHS11
+Georgia,GE,GEO,268,Rural,1,Flush and pour flush - to piped sewer system,0.083,Integrated Household Survey - IHS11
+Georgia,GE,GEO,268,Rural,2,Flush and pour flush - to septic tank,0.0,Integrated Household Survey - IHS11
+Georgia,GE,GEO,268,Rural,3,Flush and pour flush - to pit,0.0,Integrated Household Survey - IHS11
+Georgia,GE,GEO,268,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Integrated Household Survey - IHS11
+Georgia,GE,GEO,268,Rural,5,Flush and pour flush - to elsewhere,0.048,Integrated Household Survey - IHS11
+Georgia,GE,GEO,268,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Integrated Household Survey - IHS11
+Georgia,GE,GEO,268,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Integrated Household Survey - IHS11
+Georgia,GE,GEO,268,Rural,8,Dry latrines - Traditional latrine,0.856,Integrated Household Survey - IHS11
+Georgia,GE,GEO,268,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Integrated Household Survey - IHS11
+Georgia,GE,GEO,268,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Integrated Household Survey - IHS11
+Georgia,GE,GEO,268,Rural,11,Dry latrines - Bucket latrine,0.0,Integrated Household Survey - IHS11
+Georgia,GE,GEO,268,Rural,12,Dry latrines - Other,0.0,Integrated Household Survey - IHS11
+Georgia,GE,GEO,268,Rural,13,Composting toilets,0.0,Integrated Household Survey - IHS11
+Georgia,GE,GEO,268,Rural,14,Other improved,0.0,Integrated Household Survey - IHS11
+Georgia,GE,GEO,268,Rural,15,"No facility, bush, field",0.0,Integrated Household Survey - IHS11
+Georgia,GE,GEO,268,Rural,16,Other unimproved,0.013,Integrated Household Survey - IHS11
+Georgia,GE,GEO,268,Rural,17,DK/missing information,0.0,Integrated Household Survey - IHS11
+Georgia,GE,GEO,268,National,1,Flush and pour flush - to piped sewer system,0.524,Integrated Household Survey - IHS11
+Georgia,GE,GEO,268,National,2,Flush and pour flush - to septic tank,0.0,Integrated Household Survey - IHS11
+Georgia,GE,GEO,268,National,3,Flush and pour flush - to pit,0.0,Integrated Household Survey - IHS11
+Georgia,GE,GEO,268,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Integrated Household Survey - IHS11
+Georgia,GE,GEO,268,National,5,Flush and pour flush - to elsewhere,0.038,Integrated Household Survey - IHS11
+Georgia,GE,GEO,268,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Integrated Household Survey - IHS11
+Georgia,GE,GEO,268,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Integrated Household Survey - IHS11
+Georgia,GE,GEO,268,National,8,Dry latrines - Traditional latrine,0.432,Integrated Household Survey - IHS11
+Georgia,GE,GEO,268,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Integrated Household Survey - IHS11
+Georgia,GE,GEO,268,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Integrated Household Survey - IHS11
+Georgia,GE,GEO,268,National,11,Dry latrines - Bucket latrine,0.0,Integrated Household Survey - IHS11
+Georgia,GE,GEO,268,National,12,Dry latrines - Other,0.0,Integrated Household Survey - IHS11
+Georgia,GE,GEO,268,National,13,Composting toilets,0.0,Integrated Household Survey - IHS11
+Georgia,GE,GEO,268,National,14,Other improved,0.0,Integrated Household Survey - IHS11
+Georgia,GE,GEO,268,National,15,"No facility, bush, field",0.0,Integrated Household Survey - IHS11
+Georgia,GE,GEO,268,National,16,Other unimproved,0.006,Integrated Household Survey - IHS11
+Georgia,GE,GEO,268,National,17,DK/missing information,0.0,Integrated Household Survey - IHS11
+Georgia,GE,GEO,268,Urban,1,Flush and pour flush - to piped sewer system,0.853,Integrated Household Survey - IHS12
+Georgia,GE,GEO,268,Urban,2,Flush and pour flush - to septic tank,0.0,Integrated Household Survey - IHS12
+Georgia,GE,GEO,268,Urban,3,Flush and pour flush - to pit,0.0,Integrated Household Survey - IHS12
+Georgia,GE,GEO,268,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Integrated Household Survey - IHS12
+Georgia,GE,GEO,268,Urban,5,Flush and pour flush - to elsewhere,0.016,Integrated Household Survey - IHS12
+Georgia,GE,GEO,268,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Integrated Household Survey - IHS12
+Georgia,GE,GEO,268,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Integrated Household Survey - IHS12
+Georgia,GE,GEO,268,Urban,8,Dry latrines - Traditional latrine,0.131,Integrated Household Survey - IHS12
+Georgia,GE,GEO,268,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Integrated Household Survey - IHS12
+Georgia,GE,GEO,268,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Integrated Household Survey - IHS12
+Georgia,GE,GEO,268,Urban,11,Dry latrines - Bucket latrine,0.0,Integrated Household Survey - IHS12
+Georgia,GE,GEO,268,Urban,12,Dry latrines - Other,0.0,Integrated Household Survey - IHS12
+Georgia,GE,GEO,268,Urban,13,Composting toilets,0.0,Integrated Household Survey - IHS12
+Georgia,GE,GEO,268,Urban,14,Other improved,0.0,Integrated Household Survey - IHS12
+Georgia,GE,GEO,268,Urban,15,"No facility, bush, field",0.0,Integrated Household Survey - IHS12
+Georgia,GE,GEO,268,Urban,16,Other unimproved,0.0,Integrated Household Survey - IHS12
+Georgia,GE,GEO,268,Urban,17,DK/missing information,0.0,Integrated Household Survey - IHS12
+Georgia,GE,GEO,268,Rural,1,Flush and pour flush - to piped sewer system,0.085,Integrated Household Survey - IHS12
+Georgia,GE,GEO,268,Rural,2,Flush and pour flush - to septic tank,0.0,Integrated Household Survey - IHS12
+Georgia,GE,GEO,268,Rural,3,Flush and pour flush - to pit,0.0,Integrated Household Survey - IHS12
+Georgia,GE,GEO,268,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Integrated Household Survey - IHS12
+Georgia,GE,GEO,268,Rural,5,Flush and pour flush - to elsewhere,0.07,Integrated Household Survey - IHS12
+Georgia,GE,GEO,268,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Integrated Household Survey - IHS12
+Georgia,GE,GEO,268,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Integrated Household Survey - IHS12
+Georgia,GE,GEO,268,Rural,8,Dry latrines - Traditional latrine,0.842,Integrated Household Survey - IHS12
+Georgia,GE,GEO,268,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Integrated Household Survey - IHS12
+Georgia,GE,GEO,268,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Integrated Household Survey - IHS12
+Georgia,GE,GEO,268,Rural,11,Dry latrines - Bucket latrine,0.0,Integrated Household Survey - IHS12
+Georgia,GE,GEO,268,Rural,12,Dry latrines - Other,0.0,Integrated Household Survey - IHS12
+Georgia,GE,GEO,268,Rural,13,Composting toilets,0.0,Integrated Household Survey - IHS12
+Georgia,GE,GEO,268,Rural,14,Other improved,0.0,Integrated Household Survey - IHS12
+Georgia,GE,GEO,268,Rural,15,"No facility, bush, field",0.0,Integrated Household Survey - IHS12
+Georgia,GE,GEO,268,Rural,16,Other unimproved,0.003,Integrated Household Survey - IHS12
+Georgia,GE,GEO,268,Rural,17,DK/missing information,0.0,Integrated Household Survey - IHS12
+Georgia,GE,GEO,268,National,1,Flush and pour flush - to piped sewer system,0.536,Integrated Household Survey - IHS12
+Georgia,GE,GEO,268,National,2,Flush and pour flush - to septic tank,0.0,Integrated Household Survey - IHS12
+Georgia,GE,GEO,268,National,3,Flush and pour flush - to pit,0.0,Integrated Household Survey - IHS12
+Georgia,GE,GEO,268,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Integrated Household Survey - IHS12
+Georgia,GE,GEO,268,National,5,Flush and pour flush - to elsewhere,0.038,Integrated Household Survey - IHS12
+Georgia,GE,GEO,268,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Integrated Household Survey - IHS12
+Georgia,GE,GEO,268,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Integrated Household Survey - IHS12
+Georgia,GE,GEO,268,National,8,Dry latrines - Traditional latrine,0.425,Integrated Household Survey - IHS12
+Georgia,GE,GEO,268,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Integrated Household Survey - IHS12
+Georgia,GE,GEO,268,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Integrated Household Survey - IHS12
+Georgia,GE,GEO,268,National,11,Dry latrines - Bucket latrine,0.0,Integrated Household Survey - IHS12
+Georgia,GE,GEO,268,National,12,Dry latrines - Other,0.0,Integrated Household Survey - IHS12
+Georgia,GE,GEO,268,National,13,Composting toilets,0.0,Integrated Household Survey - IHS12
+Georgia,GE,GEO,268,National,14,Other improved,0.0,Integrated Household Survey - IHS12
+Georgia,GE,GEO,268,National,15,"No facility, bush, field",0.0,Integrated Household Survey - IHS12
+Georgia,GE,GEO,268,National,16,Other unimproved,0.001,Integrated Household Survey - IHS12
+Georgia,GE,GEO,268,National,17,DK/missing information,0.0,Integrated Household Survey - IHS12
+Georgia,GE,GEO,268,Urban,1,Flush and pour flush - to piped sewer system,0.863,Integrated Household Survey - IHS13
+Georgia,GE,GEO,268,Urban,2,Flush and pour flush - to septic tank,0.0,Integrated Household Survey - IHS13
+Georgia,GE,GEO,268,Urban,3,Flush and pour flush - to pit,0.0,Integrated Household Survey - IHS13
+Georgia,GE,GEO,268,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Integrated Household Survey - IHS13
+Georgia,GE,GEO,268,Urban,5,Flush and pour flush - to elsewhere,0.021,Integrated Household Survey - IHS13
+Georgia,GE,GEO,268,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Integrated Household Survey - IHS13
+Georgia,GE,GEO,268,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Integrated Household Survey - IHS13
+Georgia,GE,GEO,268,Urban,8,Dry latrines - Traditional latrine,0.116,Integrated Household Survey - IHS13
+Georgia,GE,GEO,268,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Integrated Household Survey - IHS13
+Georgia,GE,GEO,268,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Integrated Household Survey - IHS13
+Georgia,GE,GEO,268,Urban,11,Dry latrines - Bucket latrine,0.0,Integrated Household Survey - IHS13
+Georgia,GE,GEO,268,Urban,12,Dry latrines - Other,0.0,Integrated Household Survey - IHS13
+Georgia,GE,GEO,268,Urban,13,Composting toilets,0.0,Integrated Household Survey - IHS13
+Georgia,GE,GEO,268,Urban,14,Other improved,0.0,Integrated Household Survey - IHS13
+Georgia,GE,GEO,268,Urban,15,"No facility, bush, field",0.0,Integrated Household Survey - IHS13
+Georgia,GE,GEO,268,Urban,16,Other unimproved,0.0,Integrated Household Survey - IHS13
+Georgia,GE,GEO,268,Urban,17,DK/missing information,0.0,Integrated Household Survey - IHS13
+Georgia,GE,GEO,268,Rural,1,Flush and pour flush - to piped sewer system,0.071,Integrated Household Survey - IHS13
+Georgia,GE,GEO,268,Rural,2,Flush and pour flush - to septic tank,0.0,Integrated Household Survey - IHS13
+Georgia,GE,GEO,268,Rural,3,Flush and pour flush - to pit,0.0,Integrated Household Survey - IHS13
+Georgia,GE,GEO,268,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Integrated Household Survey - IHS13
+Georgia,GE,GEO,268,Rural,5,Flush and pour flush - to elsewhere,0.079,Integrated Household Survey - IHS13
+Georgia,GE,GEO,268,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Integrated Household Survey - IHS13
+Georgia,GE,GEO,268,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Integrated Household Survey - IHS13
+Georgia,GE,GEO,268,Rural,8,Dry latrines - Traditional latrine,0.849,Integrated Household Survey - IHS13
+Georgia,GE,GEO,268,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Integrated Household Survey - IHS13
+Georgia,GE,GEO,268,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Integrated Household Survey - IHS13
+Georgia,GE,GEO,268,Rural,11,Dry latrines - Bucket latrine,0.0,Integrated Household Survey - IHS13
+Georgia,GE,GEO,268,Rural,12,Dry latrines - Other,0.0,Integrated Household Survey - IHS13
+Georgia,GE,GEO,268,Rural,13,Composting toilets,0.0,Integrated Household Survey - IHS13
+Georgia,GE,GEO,268,Rural,14,Other improved,0.0,Integrated Household Survey - IHS13
+Georgia,GE,GEO,268,Rural,15,"No facility, bush, field",0.0,Integrated Household Survey - IHS13
+Georgia,GE,GEO,268,Rural,16,Other unimproved,0.0,Integrated Household Survey - IHS13
+Georgia,GE,GEO,268,Rural,17,DK/missing information,0.0,Integrated Household Survey - IHS13
+Georgia,GE,GEO,268,National,1,Flush and pour flush - to piped sewer system,0.53,Integrated Household Survey - IHS13
+Georgia,GE,GEO,268,National,2,Flush and pour flush - to septic tank,0.0,Integrated Household Survey - IHS13
+Georgia,GE,GEO,268,National,3,Flush and pour flush - to pit,0.0,Integrated Household Survey - IHS13
+Georgia,GE,GEO,268,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Integrated Household Survey - IHS13
+Georgia,GE,GEO,268,National,5,Flush and pour flush - to elsewhere,0.045,Integrated Household Survey - IHS13
+Georgia,GE,GEO,268,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Integrated Household Survey - IHS13
+Georgia,GE,GEO,268,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Integrated Household Survey - IHS13
+Georgia,GE,GEO,268,National,8,Dry latrines - Traditional latrine,0.424,Integrated Household Survey - IHS13
+Georgia,GE,GEO,268,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Integrated Household Survey - IHS13
+Georgia,GE,GEO,268,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Integrated Household Survey - IHS13
+Georgia,GE,GEO,268,National,11,Dry latrines - Bucket latrine,0.0,Integrated Household Survey - IHS13
+Georgia,GE,GEO,268,National,12,Dry latrines - Other,0.0,Integrated Household Survey - IHS13
+Georgia,GE,GEO,268,National,13,Composting toilets,0.0,Integrated Household Survey - IHS13
+Georgia,GE,GEO,268,National,14,Other improved,0.0,Integrated Household Survey - IHS13
+Georgia,GE,GEO,268,National,15,"No facility, bush, field",0.0,Integrated Household Survey - IHS13
+Georgia,GE,GEO,268,National,16,Other unimproved,0.0,Integrated Household Survey - IHS13
+Georgia,GE,GEO,268,National,17,DK/missing information,0.0,Integrated Household Survey - IHS13
+Georgia,GE,GEO,268,Urban,1,Flush and pour flush - to piped sewer system,0.838,Welfare Monitoring Survey - WMS13
+Georgia,GE,GEO,268,Urban,2,Flush and pour flush - to septic tank,0.006,Welfare Monitoring Survey - WMS13
+Georgia,GE,GEO,268,Urban,3,Flush and pour flush - to pit,0.007,Welfare Monitoring Survey - WMS13
+Georgia,GE,GEO,268,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.001,Welfare Monitoring Survey - WMS13
+Georgia,GE,GEO,268,Urban,5,Flush and pour flush - to elsewhere,0.0,Welfare Monitoring Survey - WMS13
+Georgia,GE,GEO,268,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Welfare Monitoring Survey - WMS13
+Georgia,GE,GEO,268,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.13,Welfare Monitoring Survey - WMS13
+Georgia,GE,GEO,268,Urban,8,Dry latrines - Traditional latrine,0.0,Welfare Monitoring Survey - WMS13
+Georgia,GE,GEO,268,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.016,Welfare Monitoring Survey - WMS13
+Georgia,GE,GEO,268,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Welfare Monitoring Survey - WMS13
+Georgia,GE,GEO,268,Urban,11,Dry latrines - Bucket latrine,0.0,Welfare Monitoring Survey - WMS13
+Georgia,GE,GEO,268,Urban,12,Dry latrines - Other,0.0,Welfare Monitoring Survey - WMS13
+Georgia,GE,GEO,268,Urban,13,Composting toilets,0.001,Welfare Monitoring Survey - WMS13
+Georgia,GE,GEO,268,Urban,14,Other improved,0.0,Welfare Monitoring Survey - WMS13
+Georgia,GE,GEO,268,Urban,15,"No facility, bush, field",0.0,Welfare Monitoring Survey - WMS13
+Georgia,GE,GEO,268,Urban,16,Other unimproved,0.0,Welfare Monitoring Survey - WMS13
+Georgia,GE,GEO,268,Urban,17,DK/missing information,0.0,Welfare Monitoring Survey - WMS13
+Georgia,GE,GEO,268,Rural,1,Flush and pour flush - to piped sewer system,0.05,Welfare Monitoring Survey - WMS13
+Georgia,GE,GEO,268,Rural,2,Flush and pour flush - to septic tank,0.04,Welfare Monitoring Survey - WMS13
+Georgia,GE,GEO,268,Rural,3,Flush and pour flush - to pit,0.045,Welfare Monitoring Survey - WMS13
+Georgia,GE,GEO,268,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.005,Welfare Monitoring Survey - WMS13
+Georgia,GE,GEO,268,Rural,5,Flush and pour flush - to elsewhere,0.0,Welfare Monitoring Survey - WMS13
+Georgia,GE,GEO,268,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.003,Welfare Monitoring Survey - WMS13
+Georgia,GE,GEO,268,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.643,Welfare Monitoring Survey - WMS13
+Georgia,GE,GEO,268,Rural,8,Dry latrines - Traditional latrine,0.0,Welfare Monitoring Survey - WMS13
+Georgia,GE,GEO,268,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.203,Welfare Monitoring Survey - WMS13
+Georgia,GE,GEO,268,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.008,Welfare Monitoring Survey - WMS13
+Georgia,GE,GEO,268,Rural,11,Dry latrines - Bucket latrine,0.001,Welfare Monitoring Survey - WMS13
+Georgia,GE,GEO,268,Rural,12,Dry latrines - Other,0.0,Welfare Monitoring Survey - WMS13
+Georgia,GE,GEO,268,Rural,13,Composting toilets,0.003,Welfare Monitoring Survey - WMS13
+Georgia,GE,GEO,268,Rural,14,Other improved,0.0,Welfare Monitoring Survey - WMS13
+Georgia,GE,GEO,268,Rural,15,"No facility, bush, field",0.0,Welfare Monitoring Survey - WMS13
+Georgia,GE,GEO,268,Rural,16,Other unimproved,0.001,Welfare Monitoring Survey - WMS13
+Georgia,GE,GEO,268,Rural,17,DK/missing information,0.0,Welfare Monitoring Survey - WMS13
+Georgia,GE,GEO,268,National,1,Flush and pour flush - to piped sewer system,0.449,Welfare Monitoring Survey - WMS13
+Georgia,GE,GEO,268,National,2,Flush and pour flush - to septic tank,0.023,Welfare Monitoring Survey - WMS13
+Georgia,GE,GEO,268,National,3,Flush and pour flush - to pit,0.026,Welfare Monitoring Survey - WMS13
+Georgia,GE,GEO,268,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.003,Welfare Monitoring Survey - WMS13
+Georgia,GE,GEO,268,National,5,Flush and pour flush - to elsewhere,0.0,Welfare Monitoring Survey - WMS13
+Georgia,GE,GEO,268,National,6,Dry latrines - Ventilated Improved Pit latrine,0.001,Welfare Monitoring Survey - WMS13
+Georgia,GE,GEO,268,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.383,Welfare Monitoring Survey - WMS13
+Georgia,GE,GEO,268,National,8,Dry latrines - Traditional latrine,0.0,Welfare Monitoring Survey - WMS13
+Georgia,GE,GEO,268,National,9,Dry latrines - Pit latrine without slab/open pit,0.108,Welfare Monitoring Survey - WMS13
+Georgia,GE,GEO,268,National,10,Dry latrines - Hanging toilet/hanging latrine,0.004,Welfare Monitoring Survey - WMS13
+Georgia,GE,GEO,268,National,11,Dry latrines - Bucket latrine,0.0,Welfare Monitoring Survey - WMS13
+Georgia,GE,GEO,268,National,12,Dry latrines - Other,0.0,Welfare Monitoring Survey - WMS13
+Georgia,GE,GEO,268,National,13,Composting toilets,0.002,Welfare Monitoring Survey - WMS13
+Georgia,GE,GEO,268,National,14,Other improved,0.0,Welfare Monitoring Survey - WMS13
+Georgia,GE,GEO,268,National,15,"No facility, bush, field",0.0,Welfare Monitoring Survey - WMS13
+Georgia,GE,GEO,268,National,16,Other unimproved,0.0,Welfare Monitoring Survey - WMS13
+Georgia,GE,GEO,268,National,17,DK/missing information,0.0,Welfare Monitoring Survey - WMS13
+Georgia,GE,GEO,268,Urban,1,Flush and pour flush - to piped sewer system,0.872,Integrated Household Survey - IHS14
+Georgia,GE,GEO,268,Urban,2,Flush and pour flush - to septic tank,0.0,Integrated Household Survey - IHS14
+Georgia,GE,GEO,268,Urban,3,Flush and pour flush - to pit,0.0,Integrated Household Survey - IHS14
+Georgia,GE,GEO,268,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Integrated Household Survey - IHS14
+Georgia,GE,GEO,268,Urban,5,Flush and pour flush - to elsewhere,0.024,Integrated Household Survey - IHS14
+Georgia,GE,GEO,268,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Integrated Household Survey - IHS14
+Georgia,GE,GEO,268,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Integrated Household Survey - IHS14
+Georgia,GE,GEO,268,Urban,8,Dry latrines - Traditional latrine,0.104,Integrated Household Survey - IHS14
+Georgia,GE,GEO,268,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Integrated Household Survey - IHS14
+Georgia,GE,GEO,268,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Integrated Household Survey - IHS14
+Georgia,GE,GEO,268,Urban,11,Dry latrines - Bucket latrine,0.0,Integrated Household Survey - IHS14
+Georgia,GE,GEO,268,Urban,12,Dry latrines - Other,0.0,Integrated Household Survey - IHS14
+Georgia,GE,GEO,268,Urban,13,Composting toilets,0.0,Integrated Household Survey - IHS14
+Georgia,GE,GEO,268,Urban,14,Other improved,0.0,Integrated Household Survey - IHS14
+Georgia,GE,GEO,268,Urban,15,"No facility, bush, field",0.0,Integrated Household Survey - IHS14
+Georgia,GE,GEO,268,Urban,16,Other unimproved,0.0,Integrated Household Survey - IHS14
+Georgia,GE,GEO,268,Urban,17,DK/missing information,0.0,Integrated Household Survey - IHS14
+Georgia,GE,GEO,268,Rural,1,Flush and pour flush - to piped sewer system,0.056,Integrated Household Survey - IHS14
+Georgia,GE,GEO,268,Rural,2,Flush and pour flush - to septic tank,0.0,Integrated Household Survey - IHS14
+Georgia,GE,GEO,268,Rural,3,Flush and pour flush - to pit,0.0,Integrated Household Survey - IHS14
+Georgia,GE,GEO,268,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Integrated Household Survey - IHS14
+Georgia,GE,GEO,268,Rural,5,Flush and pour flush - to elsewhere,0.071,Integrated Household Survey - IHS14
+Georgia,GE,GEO,268,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Integrated Household Survey - IHS14
+Georgia,GE,GEO,268,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Integrated Household Survey - IHS14
+Georgia,GE,GEO,268,Rural,8,Dry latrines - Traditional latrine,0.873,Integrated Household Survey - IHS14
+Georgia,GE,GEO,268,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Integrated Household Survey - IHS14
+Georgia,GE,GEO,268,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Integrated Household Survey - IHS14
+Georgia,GE,GEO,268,Rural,11,Dry latrines - Bucket latrine,0.0,Integrated Household Survey - IHS14
+Georgia,GE,GEO,268,Rural,12,Dry latrines - Other,0.0,Integrated Household Survey - IHS14
+Georgia,GE,GEO,268,Rural,13,Composting toilets,0.0,Integrated Household Survey - IHS14
+Georgia,GE,GEO,268,Rural,14,Other improved,0.0,Integrated Household Survey - IHS14
+Georgia,GE,GEO,268,Rural,15,"No facility, bush, field",0.0,Integrated Household Survey - IHS14
+Georgia,GE,GEO,268,Rural,16,Other unimproved,0.0,Integrated Household Survey - IHS14
+Georgia,GE,GEO,268,Rural,17,DK/missing information,0.0,Integrated Household Survey - IHS14
+Georgia,GE,GEO,268,National,1,Flush and pour flush - to piped sewer system,0.529,Integrated Household Survey - IHS14
+Georgia,GE,GEO,268,National,2,Flush and pour flush - to septic tank,0.0,Integrated Household Survey - IHS14
+Georgia,GE,GEO,268,National,3,Flush and pour flush - to pit,0.0,Integrated Household Survey - IHS14
+Georgia,GE,GEO,268,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Integrated Household Survey - IHS14
+Georgia,GE,GEO,268,National,5,Flush and pour flush - to elsewhere,0.044,Integrated Household Survey - IHS14
+Georgia,GE,GEO,268,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Integrated Household Survey - IHS14
+Georgia,GE,GEO,268,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Integrated Household Survey - IHS14
+Georgia,GE,GEO,268,National,8,Dry latrines - Traditional latrine,0.427,Integrated Household Survey - IHS14
+Georgia,GE,GEO,268,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Integrated Household Survey - IHS14
+Georgia,GE,GEO,268,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Integrated Household Survey - IHS14
+Georgia,GE,GEO,268,National,11,Dry latrines - Bucket latrine,0.0,Integrated Household Survey - IHS14
+Georgia,GE,GEO,268,National,12,Dry latrines - Other,0.0,Integrated Household Survey - IHS14
+Georgia,GE,GEO,268,National,13,Composting toilets,0.0,Integrated Household Survey - IHS14
+Georgia,GE,GEO,268,National,14,Other improved,0.0,Integrated Household Survey - IHS14
+Georgia,GE,GEO,268,National,15,"No facility, bush, field",0.0,Integrated Household Survey - IHS14
+Georgia,GE,GEO,268,National,16,Other unimproved,0.0,Integrated Household Survey - IHS14
+Georgia,GE,GEO,268,National,17,DK/missing information,0.0,Integrated Household Survey - IHS14
+Georgia,GE,GEO,268,Urban,1,Flush and pour flush - to piped sewer system,0.0,Census - CEN14
+Georgia,GE,GEO,268,Urban,2,Flush and pour flush - to septic tank,0.0,Census - CEN14
+Georgia,GE,GEO,268,Urban,3,Flush and pour flush - to pit,0.0,Census - CEN14
+Georgia,GE,GEO,268,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN14
+Georgia,GE,GEO,268,Urban,5,Flush and pour flush - to elsewhere,0.0,Census - CEN14
+Georgia,GE,GEO,268,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN14
+Georgia,GE,GEO,268,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN14
+Georgia,GE,GEO,268,Urban,8,Dry latrines - Traditional latrine,0.0,Census - CEN14
+Georgia,GE,GEO,268,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN14
+Georgia,GE,GEO,268,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN14
+Georgia,GE,GEO,268,Urban,11,Dry latrines - Bucket latrine,0.0,Census - CEN14
+Georgia,GE,GEO,268,Urban,12,Dry latrines - Other,0.0,Census - CEN14
+Georgia,GE,GEO,268,Urban,13,Composting toilets,0.0,Census - CEN14
+Georgia,GE,GEO,268,Urban,14,Other improved,0.0,Census - CEN14
+Georgia,GE,GEO,268,Urban,15,"No facility, bush, field",0.0,Census - CEN14
+Georgia,GE,GEO,268,Urban,16,Other unimproved,0.158,Census - CEN14
+Georgia,GE,GEO,268,Urban,17,DK/missing information,0.0,Census - CEN14
+Georgia,GE,GEO,268,Rural,1,Flush and pour flush - to piped sewer system,0.0,Census - CEN14
+Georgia,GE,GEO,268,Rural,2,Flush and pour flush - to septic tank,0.0,Census - CEN14
+Georgia,GE,GEO,268,Rural,3,Flush and pour flush - to pit,0.0,Census - CEN14
+Georgia,GE,GEO,268,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN14
+Georgia,GE,GEO,268,Rural,5,Flush and pour flush - to elsewhere,0.0,Census - CEN14
+Georgia,GE,GEO,268,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN14
+Georgia,GE,GEO,268,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN14
+Georgia,GE,GEO,268,Rural,8,Dry latrines - Traditional latrine,0.0,Census - CEN14
+Georgia,GE,GEO,268,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN14
+Georgia,GE,GEO,268,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN14
+Georgia,GE,GEO,268,Rural,11,Dry latrines - Bucket latrine,0.0,Census - CEN14
+Georgia,GE,GEO,268,Rural,12,Dry latrines - Other,0.0,Census - CEN14
+Georgia,GE,GEO,268,Rural,13,Composting toilets,0.0,Census - CEN14
+Georgia,GE,GEO,268,Rural,14,Other improved,0.0,Census - CEN14
+Georgia,GE,GEO,268,Rural,15,"No facility, bush, field",0.0,Census - CEN14
+Georgia,GE,GEO,268,Rural,16,Other unimproved,0.844,Census - CEN14
+Georgia,GE,GEO,268,Rural,17,DK/missing information,0.0,Census - CEN14
+Georgia,GE,GEO,268,National,1,Flush and pour flush - to piped sewer system,0.0,Census - CEN14
+Georgia,GE,GEO,268,National,2,Flush and pour flush - to septic tank,0.0,Census - CEN14
+Georgia,GE,GEO,268,National,3,Flush and pour flush - to pit,0.0,Census - CEN14
+Georgia,GE,GEO,268,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN14
+Georgia,GE,GEO,268,National,5,Flush and pour flush - to elsewhere,0.0,Census - CEN14
+Georgia,GE,GEO,268,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN14
+Georgia,GE,GEO,268,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN14
+Georgia,GE,GEO,268,National,8,Dry latrines - Traditional latrine,0.0,Census - CEN14
+Georgia,GE,GEO,268,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN14
+Georgia,GE,GEO,268,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN14
+Georgia,GE,GEO,268,National,11,Dry latrines - Bucket latrine,0.0,Census - CEN14
+Georgia,GE,GEO,268,National,12,Dry latrines - Other,0.0,Census - CEN14
+Georgia,GE,GEO,268,National,13,Composting toilets,0.0,Census - CEN14
+Georgia,GE,GEO,268,National,14,Other improved,0.0,Census - CEN14
+Georgia,GE,GEO,268,National,15,"No facility, bush, field",0.0,Census - CEN14
+Georgia,GE,GEO,268,National,16,Other unimproved,0.452,Census - CEN14
+Georgia,GE,GEO,268,National,17,DK/missing information,0.0,Census - CEN14
+Georgia,GE,GEO,268,Urban,1,Flush and pour flush - to piped sewer system,0.884,Integrated Household Survey - IHS15
+Georgia,GE,GEO,268,Urban,2,Flush and pour flush - to septic tank,0.0,Integrated Household Survey - IHS15
+Georgia,GE,GEO,268,Urban,3,Flush and pour flush - to pit,0.0,Integrated Household Survey - IHS15
+Georgia,GE,GEO,268,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Integrated Household Survey - IHS15
+Georgia,GE,GEO,268,Urban,5,Flush and pour flush - to elsewhere,0.022,Integrated Household Survey - IHS15
+Georgia,GE,GEO,268,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Integrated Household Survey - IHS15
+Georgia,GE,GEO,268,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Integrated Household Survey - IHS15
+Georgia,GE,GEO,268,Urban,8,Dry latrines - Traditional latrine,0.094,Integrated Household Survey - IHS15
+Georgia,GE,GEO,268,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Integrated Household Survey - IHS15
+Georgia,GE,GEO,268,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Integrated Household Survey - IHS15
+Georgia,GE,GEO,268,Urban,11,Dry latrines - Bucket latrine,0.0,Integrated Household Survey - IHS15
+Georgia,GE,GEO,268,Urban,12,Dry latrines - Other,0.0,Integrated Household Survey - IHS15
+Georgia,GE,GEO,268,Urban,13,Composting toilets,0.0,Integrated Household Survey - IHS15
+Georgia,GE,GEO,268,Urban,14,Other improved,0.0,Integrated Household Survey - IHS15
+Georgia,GE,GEO,268,Urban,15,"No facility, bush, field",0.0,Integrated Household Survey - IHS15
+Georgia,GE,GEO,268,Urban,16,Other unimproved,0.0,Integrated Household Survey - IHS15
+Georgia,GE,GEO,268,Urban,17,DK/missing information,0.0,Integrated Household Survey - IHS15
+Georgia,GE,GEO,268,Rural,1,Flush and pour flush - to piped sewer system,0.063,Integrated Household Survey - IHS15
+Georgia,GE,GEO,268,Rural,2,Flush and pour flush - to septic tank,0.0,Integrated Household Survey - IHS15
+Georgia,GE,GEO,268,Rural,3,Flush and pour flush - to pit,0.0,Integrated Household Survey - IHS15
+Georgia,GE,GEO,268,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Integrated Household Survey - IHS15
+Georgia,GE,GEO,268,Rural,5,Flush and pour flush - to elsewhere,0.091,Integrated Household Survey - IHS15
+Georgia,GE,GEO,268,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Integrated Household Survey - IHS15
+Georgia,GE,GEO,268,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Integrated Household Survey - IHS15
+Georgia,GE,GEO,268,Rural,8,Dry latrines - Traditional latrine,0.845,Integrated Household Survey - IHS15
+Georgia,GE,GEO,268,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Integrated Household Survey - IHS15
+Georgia,GE,GEO,268,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Integrated Household Survey - IHS15
+Georgia,GE,GEO,268,Rural,11,Dry latrines - Bucket latrine,0.0,Integrated Household Survey - IHS15
+Georgia,GE,GEO,268,Rural,12,Dry latrines - Other,0.0,Integrated Household Survey - IHS15
+Georgia,GE,GEO,268,Rural,13,Composting toilets,0.0,Integrated Household Survey - IHS15
+Georgia,GE,GEO,268,Rural,14,Other improved,0.0,Integrated Household Survey - IHS15
+Georgia,GE,GEO,268,Rural,15,"No facility, bush, field",0.0,Integrated Household Survey - IHS15
+Georgia,GE,GEO,268,Rural,16,Other unimproved,0.001,Integrated Household Survey - IHS15
+Georgia,GE,GEO,268,Rural,17,DK/missing information,0.0,Integrated Household Survey - IHS15
+Georgia,GE,GEO,268,National,1,Flush and pour flush - to piped sewer system,0.541,Integrated Household Survey - IHS15
+Georgia,GE,GEO,268,National,2,Flush and pour flush - to septic tank,0.0,Integrated Household Survey - IHS15
+Georgia,GE,GEO,268,National,3,Flush and pour flush - to pit,0.0,Integrated Household Survey - IHS15
+Georgia,GE,GEO,268,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Integrated Household Survey - IHS15
+Georgia,GE,GEO,268,National,5,Flush and pour flush - to elsewhere,0.051,Integrated Household Survey - IHS15
+Georgia,GE,GEO,268,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Integrated Household Survey - IHS15
+Georgia,GE,GEO,268,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Integrated Household Survey - IHS15
+Georgia,GE,GEO,268,National,8,Dry latrines - Traditional latrine,0.408,Integrated Household Survey - IHS15
+Georgia,GE,GEO,268,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Integrated Household Survey - IHS15
+Georgia,GE,GEO,268,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Integrated Household Survey - IHS15
+Georgia,GE,GEO,268,National,11,Dry latrines - Bucket latrine,0.0,Integrated Household Survey - IHS15
+Georgia,GE,GEO,268,National,12,Dry latrines - Other,0.0,Integrated Household Survey - IHS15
+Georgia,GE,GEO,268,National,13,Composting toilets,0.0,Integrated Household Survey - IHS15
+Georgia,GE,GEO,268,National,14,Other improved,0.0,Integrated Household Survey - IHS15
+Georgia,GE,GEO,268,National,15,"No facility, bush, field",0.0,Integrated Household Survey - IHS15
+Georgia,GE,GEO,268,National,16,Other unimproved,0.0,Integrated Household Survey - IHS15
+Georgia,GE,GEO,268,National,17,DK/missing information,0.0,Integrated Household Survey - IHS15
+Georgia,GE,GEO,268,Urban,1,Flush and pour flush - to piped sewer system,0.905,Integrated Household Survey - IHS16
+Georgia,GE,GEO,268,Urban,2,Flush and pour flush - to septic tank,0.0,Integrated Household Survey - IHS16
+Georgia,GE,GEO,268,Urban,3,Flush and pour flush - to pit,0.0,Integrated Household Survey - IHS16
+Georgia,GE,GEO,268,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Integrated Household Survey - IHS16
+Georgia,GE,GEO,268,Urban,5,Flush and pour flush - to elsewhere,0.02,Integrated Household Survey - IHS16
+Georgia,GE,GEO,268,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Integrated Household Survey - IHS16
+Georgia,GE,GEO,268,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Integrated Household Survey - IHS16
+Georgia,GE,GEO,268,Urban,8,Dry latrines - Traditional latrine,0.075,Integrated Household Survey - IHS16
+Georgia,GE,GEO,268,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Integrated Household Survey - IHS16
+Georgia,GE,GEO,268,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Integrated Household Survey - IHS16
+Georgia,GE,GEO,268,Urban,11,Dry latrines - Bucket latrine,0.0,Integrated Household Survey - IHS16
+Georgia,GE,GEO,268,Urban,12,Dry latrines - Other,0.0,Integrated Household Survey - IHS16
+Georgia,GE,GEO,268,Urban,13,Composting toilets,0.0,Integrated Household Survey - IHS16
+Georgia,GE,GEO,268,Urban,14,Other improved,0.0,Integrated Household Survey - IHS16
+Georgia,GE,GEO,268,Urban,15,"No facility, bush, field",0.0,Integrated Household Survey - IHS16
+Georgia,GE,GEO,268,Urban,16,Other unimproved,0.0,Integrated Household Survey - IHS16
+Georgia,GE,GEO,268,Urban,17,DK/missing information,0.0,Integrated Household Survey - IHS16
+Georgia,GE,GEO,268,Rural,1,Flush and pour flush - to piped sewer system,0.054,Integrated Household Survey - IHS16
+Georgia,GE,GEO,268,Rural,2,Flush and pour flush - to septic tank,0.0,Integrated Household Survey - IHS16
+Georgia,GE,GEO,268,Rural,3,Flush and pour flush - to pit,0.0,Integrated Household Survey - IHS16
+Georgia,GE,GEO,268,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Integrated Household Survey - IHS16
+Georgia,GE,GEO,268,Rural,5,Flush and pour flush - to elsewhere,0.102,Integrated Household Survey - IHS16
+Georgia,GE,GEO,268,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Integrated Household Survey - IHS16
+Georgia,GE,GEO,268,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Integrated Household Survey - IHS16
+Georgia,GE,GEO,268,Rural,8,Dry latrines - Traditional latrine,0.843,Integrated Household Survey - IHS16
+Georgia,GE,GEO,268,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Integrated Household Survey - IHS16
+Georgia,GE,GEO,268,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Integrated Household Survey - IHS16
+Georgia,GE,GEO,268,Rural,11,Dry latrines - Bucket latrine,0.0,Integrated Household Survey - IHS16
+Georgia,GE,GEO,268,Rural,12,Dry latrines - Other,0.0,Integrated Household Survey - IHS16
+Georgia,GE,GEO,268,Rural,13,Composting toilets,0.0,Integrated Household Survey - IHS16
+Georgia,GE,GEO,268,Rural,14,Other improved,0.0,Integrated Household Survey - IHS16
+Georgia,GE,GEO,268,Rural,15,"No facility, bush, field",0.0,Integrated Household Survey - IHS16
+Georgia,GE,GEO,268,Rural,16,Other unimproved,0.001,Integrated Household Survey - IHS16
+Georgia,GE,GEO,268,Rural,17,DK/missing information,0.0,Integrated Household Survey - IHS16
+Georgia,GE,GEO,268,National,1,Flush and pour flush - to piped sewer system,0.555,Integrated Household Survey - IHS16
+Georgia,GE,GEO,268,National,2,Flush and pour flush - to septic tank,0.0,Integrated Household Survey - IHS16
+Georgia,GE,GEO,268,National,3,Flush and pour flush - to pit,0.0,Integrated Household Survey - IHS16
+Georgia,GE,GEO,268,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Integrated Household Survey - IHS16
+Georgia,GE,GEO,268,National,5,Flush and pour flush - to elsewhere,0.054,Integrated Household Survey - IHS16
+Georgia,GE,GEO,268,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Integrated Household Survey - IHS16
+Georgia,GE,GEO,268,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Integrated Household Survey - IHS16
+Georgia,GE,GEO,268,National,8,Dry latrines - Traditional latrine,0.392,Integrated Household Survey - IHS16
+Georgia,GE,GEO,268,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Integrated Household Survey - IHS16
+Georgia,GE,GEO,268,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Integrated Household Survey - IHS16
+Georgia,GE,GEO,268,National,11,Dry latrines - Bucket latrine,0.0,Integrated Household Survey - IHS16
+Georgia,GE,GEO,268,National,12,Dry latrines - Other,0.0,Integrated Household Survey - IHS16
+Georgia,GE,GEO,268,National,13,Composting toilets,0.0,Integrated Household Survey - IHS16
+Georgia,GE,GEO,268,National,14,Other improved,0.0,Integrated Household Survey - IHS16
+Georgia,GE,GEO,268,National,15,"No facility, bush, field",0.0,Integrated Household Survey - IHS16
+Georgia,GE,GEO,268,National,16,Other unimproved,0.0,Integrated Household Survey - IHS16
+Georgia,GE,GEO,268,National,17,DK/missing information,0.0,Integrated Household Survey - IHS16
+Georgia,GE,GEO,268,Urban,1,Flush and pour flush - to piped sewer system,0.872,Household Income Expenditure Survey - IHS17
+Georgia,GE,GEO,268,Urban,2,Flush and pour flush - to septic tank,0.0,Household Income Expenditure Survey - IHS17
+Georgia,GE,GEO,268,Urban,3,Flush and pour flush - to pit,0.0,Household Income Expenditure Survey - IHS17
+Georgia,GE,GEO,268,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Income Expenditure Survey - IHS17
+Georgia,GE,GEO,268,Urban,5,Flush and pour flush - to elsewhere,0.021,Household Income Expenditure Survey - IHS17
+Georgia,GE,GEO,268,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Income Expenditure Survey - IHS17
+Georgia,GE,GEO,268,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Income Expenditure Survey - IHS17
+Georgia,GE,GEO,268,Urban,8,Dry latrines - Traditional latrine,0.107,Household Income Expenditure Survey - IHS17
+Georgia,GE,GEO,268,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Income Expenditure Survey - IHS17
+Georgia,GE,GEO,268,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Income Expenditure Survey - IHS17
+Georgia,GE,GEO,268,Urban,11,Dry latrines - Bucket latrine,0.0,Household Income Expenditure Survey - IHS17
+Georgia,GE,GEO,268,Urban,12,Dry latrines - Other,0.0,Household Income Expenditure Survey - IHS17
+Georgia,GE,GEO,268,Urban,13,Composting toilets,0.0,Household Income Expenditure Survey - IHS17
+Georgia,GE,GEO,268,Urban,14,Other improved,0.0,Household Income Expenditure Survey - IHS17
+Georgia,GE,GEO,268,Urban,15,"No facility, bush, field",0.0,Household Income Expenditure Survey - IHS17
+Georgia,GE,GEO,268,Urban,16,Other unimproved,0.0,Household Income Expenditure Survey - IHS17
+Georgia,GE,GEO,268,Urban,17,DK/missing information,0.0,Household Income Expenditure Survey - IHS17
+Georgia,GE,GEO,268,Rural,1,Flush and pour flush - to piped sewer system,0.071,Household Income Expenditure Survey - IHS17
+Georgia,GE,GEO,268,Rural,2,Flush and pour flush - to septic tank,0.0,Household Income Expenditure Survey - IHS17
+Georgia,GE,GEO,268,Rural,3,Flush and pour flush - to pit,0.0,Household Income Expenditure Survey - IHS17
+Georgia,GE,GEO,268,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Income Expenditure Survey - IHS17
+Georgia,GE,GEO,268,Rural,5,Flush and pour flush - to elsewhere,0.139,Household Income Expenditure Survey - IHS17
+Georgia,GE,GEO,268,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Income Expenditure Survey - IHS17
+Georgia,GE,GEO,268,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Income Expenditure Survey - IHS17
+Georgia,GE,GEO,268,Rural,8,Dry latrines - Traditional latrine,0.789,Household Income Expenditure Survey - IHS17
+Georgia,GE,GEO,268,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Income Expenditure Survey - IHS17
+Georgia,GE,GEO,268,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Income Expenditure Survey - IHS17
+Georgia,GE,GEO,268,Rural,11,Dry latrines - Bucket latrine,0.0,Household Income Expenditure Survey - IHS17
+Georgia,GE,GEO,268,Rural,12,Dry latrines - Other,0.0,Household Income Expenditure Survey - IHS17
+Georgia,GE,GEO,268,Rural,13,Composting toilets,0.0,Household Income Expenditure Survey - IHS17
+Georgia,GE,GEO,268,Rural,14,Other improved,0.0,Household Income Expenditure Survey - IHS17
+Georgia,GE,GEO,268,Rural,15,"No facility, bush, field",0.0,Household Income Expenditure Survey - IHS17
+Georgia,GE,GEO,268,Rural,16,Other unimproved,0.0,Household Income Expenditure Survey - IHS17
+Georgia,GE,GEO,268,Rural,17,DK/missing information,0.0,Household Income Expenditure Survey - IHS17
+Georgia,GE,GEO,268,National,1,Flush and pour flush - to piped sewer system,0.542,Household Income Expenditure Survey - IHS17
+Georgia,GE,GEO,268,National,2,Flush and pour flush - to septic tank,0.0,Household Income Expenditure Survey - IHS17
+Georgia,GE,GEO,268,National,3,Flush and pour flush - to pit,0.0,Household Income Expenditure Survey - IHS17
+Georgia,GE,GEO,268,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Income Expenditure Survey - IHS17
+Georgia,GE,GEO,268,National,5,Flush and pour flush - to elsewhere,0.069,Household Income Expenditure Survey - IHS17
+Georgia,GE,GEO,268,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Income Expenditure Survey - IHS17
+Georgia,GE,GEO,268,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Income Expenditure Survey - IHS17
+Georgia,GE,GEO,268,National,8,Dry latrines - Traditional latrine,0.388,Household Income Expenditure Survey - IHS17
+Georgia,GE,GEO,268,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Income Expenditure Survey - IHS17
+Georgia,GE,GEO,268,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Income Expenditure Survey - IHS17
+Georgia,GE,GEO,268,National,11,Dry latrines - Bucket latrine,0.0,Household Income Expenditure Survey - IHS17
+Georgia,GE,GEO,268,National,12,Dry latrines - Other,0.0,Household Income Expenditure Survey - IHS17
+Georgia,GE,GEO,268,National,13,Composting toilets,0.0,Household Income Expenditure Survey - IHS17
+Georgia,GE,GEO,268,National,14,Other improved,0.0,Household Income Expenditure Survey - IHS17
+Georgia,GE,GEO,268,National,15,"No facility, bush, field",0.0,Household Income Expenditure Survey - IHS17
+Georgia,GE,GEO,268,National,16,Other unimproved,0.0,Household Income Expenditure Survey - IHS17
+Georgia,GE,GEO,268,National,17,DK/missing information,0.0,Household Income Expenditure Survey - IHS17

@@ -1,4 +1,978 @@
 country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+Uganda,UG,UGA,800,Urban,1,Flush and pour flush - to piped sewer system,0.0,National Household Survey - NHS00
+Uganda,UG,UGA,800,Urban,2,Flush and pour flush - to septic tank,0.0,National Household Survey - NHS00
+Uganda,UG,UGA,800,Urban,3,Flush and pour flush - to pit,0.0,National Household Survey - NHS00
+Uganda,UG,UGA,800,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Household Survey - NHS00
+Uganda,UG,UGA,800,Urban,5,Flush and pour flush - to elsewhere,0.0,National Household Survey - NHS00
+Uganda,UG,UGA,800,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,National Household Survey - NHS00
+Uganda,UG,UGA,800,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Household Survey - NHS00
+Uganda,UG,UGA,800,Urban,8,Dry latrines - Traditional latrine,0.0,National Household Survey - NHS00
+Uganda,UG,UGA,800,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Household Survey - NHS00
+Uganda,UG,UGA,800,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Household Survey - NHS00
+Uganda,UG,UGA,800,Urban,11,Dry latrines - Bucket latrine,0.0,National Household Survey - NHS00
+Uganda,UG,UGA,800,Urban,12,Dry latrines - Other,0.0,National Household Survey - NHS00
+Uganda,UG,UGA,800,Urban,13,Composting toilets,0.0,National Household Survey - NHS00
+Uganda,UG,UGA,800,Urban,14,Other improved,0.0,National Household Survey - NHS00
+Uganda,UG,UGA,800,Urban,15,"No facility, bush, field",0.02,National Household Survey - NHS00
+Uganda,UG,UGA,800,Urban,16,Other unimproved,0.01,National Household Survey - NHS00
+Uganda,UG,UGA,800,Urban,17,DK/missing information,0.0,National Household Survey - NHS00
+Uganda,UG,UGA,800,Rural,1,Flush and pour flush - to piped sewer system,0.0,National Household Survey - NHS00
+Uganda,UG,UGA,800,Rural,2,Flush and pour flush - to septic tank,0.0,National Household Survey - NHS00
+Uganda,UG,UGA,800,Rural,3,Flush and pour flush - to pit,0.0,National Household Survey - NHS00
+Uganda,UG,UGA,800,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Household Survey - NHS00
+Uganda,UG,UGA,800,Rural,5,Flush and pour flush - to elsewhere,0.0,National Household Survey - NHS00
+Uganda,UG,UGA,800,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,National Household Survey - NHS00
+Uganda,UG,UGA,800,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Household Survey - NHS00
+Uganda,UG,UGA,800,Rural,8,Dry latrines - Traditional latrine,0.0,National Household Survey - NHS00
+Uganda,UG,UGA,800,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Household Survey - NHS00
+Uganda,UG,UGA,800,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Household Survey - NHS00
+Uganda,UG,UGA,800,Rural,11,Dry latrines - Bucket latrine,0.0,National Household Survey - NHS00
+Uganda,UG,UGA,800,Rural,12,Dry latrines - Other,0.0,National Household Survey - NHS00
+Uganda,UG,UGA,800,Rural,13,Composting toilets,0.0,National Household Survey - NHS00
+Uganda,UG,UGA,800,Rural,14,Other improved,0.0,National Household Survey - NHS00
+Uganda,UG,UGA,800,Rural,15,"No facility, bush, field",0.17,National Household Survey - NHS00
+Uganda,UG,UGA,800,Rural,16,Other unimproved,0.01,National Household Survey - NHS00
+Uganda,UG,UGA,800,Rural,17,DK/missing information,0.0,National Household Survey - NHS00
+Uganda,UG,UGA,800,National,1,Flush and pour flush - to piped sewer system,0.0,National Household Survey - NHS00
+Uganda,UG,UGA,800,National,2,Flush and pour flush - to septic tank,0.0,National Household Survey - NHS00
+Uganda,UG,UGA,800,National,3,Flush and pour flush - to pit,0.0,National Household Survey - NHS00
+Uganda,UG,UGA,800,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Household Survey - NHS00
+Uganda,UG,UGA,800,National,5,Flush and pour flush - to elsewhere,0.0,National Household Survey - NHS00
+Uganda,UG,UGA,800,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,National Household Survey - NHS00
+Uganda,UG,UGA,800,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Household Survey - NHS00
+Uganda,UG,UGA,800,National,8,Dry latrines - Traditional latrine,0.0,National Household Survey - NHS00
+Uganda,UG,UGA,800,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Household Survey - NHS00
+Uganda,UG,UGA,800,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Household Survey - NHS00
+Uganda,UG,UGA,800,National,11,Dry latrines - Bucket latrine,0.0,National Household Survey - NHS00
+Uganda,UG,UGA,800,National,12,Dry latrines - Other,0.0,National Household Survey - NHS00
+Uganda,UG,UGA,800,National,13,Composting toilets,0.0,National Household Survey - NHS00
+Uganda,UG,UGA,800,National,14,Other improved,0.0,National Household Survey - NHS00
+Uganda,UG,UGA,800,National,15,"No facility, bush, field",0.14,National Household Survey - NHS00
+Uganda,UG,UGA,800,National,16,Other unimproved,0.01,National Household Survey - NHS00
+Uganda,UG,UGA,800,National,17,DK/missing information,0.0,National Household Survey - NHS00
+Uganda,UG,UGA,800,Urban,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Household Survey - DHS01
+Uganda,UG,UGA,800,Urban,2,Flush and pour flush - to septic tank,0.0,Demographic and Household Survey - DHS01
+Uganda,UG,UGA,800,Urban,3,Flush and pour flush - to pit,0.0,Demographic and Household Survey - DHS01
+Uganda,UG,UGA,800,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Household Survey - DHS01
+Uganda,UG,UGA,800,Urban,5,Flush and pour flush - to elsewhere,0.0,Demographic and Household Survey - DHS01
+Uganda,UG,UGA,800,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.079,Demographic and Household Survey - DHS01
+Uganda,UG,UGA,800,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Household Survey - DHS01
+Uganda,UG,UGA,800,Urban,8,Dry latrines - Traditional latrine,0.799,Demographic and Household Survey - DHS01
+Uganda,UG,UGA,800,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Household Survey - DHS01
+Uganda,UG,UGA,800,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Household Survey - DHS01
+Uganda,UG,UGA,800,Urban,11,Dry latrines - Bucket latrine,0.0,Demographic and Household Survey - DHS01
+Uganda,UG,UGA,800,Urban,12,Dry latrines - Other,0.0,Demographic and Household Survey - DHS01
+Uganda,UG,UGA,800,Urban,13,Composting toilets,0.0,Demographic and Household Survey - DHS01
+Uganda,UG,UGA,800,Urban,14,Other improved,0.0,Demographic and Household Survey - DHS01
+Uganda,UG,UGA,800,Urban,15,"No facility, bush, field",0.027,Demographic and Household Survey - DHS01
+Uganda,UG,UGA,800,Urban,16,Other unimproved,0.002,Demographic and Household Survey - DHS01
+Uganda,UG,UGA,800,Urban,17,DK/missing information,0.001,Demographic and Household Survey - DHS01
+Uganda,UG,UGA,800,Rural,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Household Survey - DHS01
+Uganda,UG,UGA,800,Rural,2,Flush and pour flush - to septic tank,0.0,Demographic and Household Survey - DHS01
+Uganda,UG,UGA,800,Rural,3,Flush and pour flush - to pit,0.0,Demographic and Household Survey - DHS01
+Uganda,UG,UGA,800,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Household Survey - DHS01
+Uganda,UG,UGA,800,Rural,5,Flush and pour flush - to elsewhere,0.0,Demographic and Household Survey - DHS01
+Uganda,UG,UGA,800,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.011,Demographic and Household Survey - DHS01
+Uganda,UG,UGA,800,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Household Survey - DHS01
+Uganda,UG,UGA,800,Rural,8,Dry latrines - Traditional latrine,0.783,Demographic and Household Survey - DHS01
+Uganda,UG,UGA,800,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Household Survey - DHS01
+Uganda,UG,UGA,800,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Household Survey - DHS01
+Uganda,UG,UGA,800,Rural,11,Dry latrines - Bucket latrine,0.0,Demographic and Household Survey - DHS01
+Uganda,UG,UGA,800,Rural,12,Dry latrines - Other,0.0,Demographic and Household Survey - DHS01
+Uganda,UG,UGA,800,Rural,13,Composting toilets,0.0,Demographic and Household Survey - DHS01
+Uganda,UG,UGA,800,Rural,14,Other improved,0.0,Demographic and Household Survey - DHS01
+Uganda,UG,UGA,800,Rural,15,"No facility, bush, field",0.191,Demographic and Household Survey - DHS01
+Uganda,UG,UGA,800,Rural,16,Other unimproved,0.008,Demographic and Household Survey - DHS01
+Uganda,UG,UGA,800,Rural,17,DK/missing information,0.002,Demographic and Household Survey - DHS01
+Uganda,UG,UGA,800,National,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Household Survey - DHS01
+Uganda,UG,UGA,800,National,2,Flush and pour flush - to septic tank,0.0,Demographic and Household Survey - DHS01
+Uganda,UG,UGA,800,National,3,Flush and pour flush - to pit,0.0,Demographic and Household Survey - DHS01
+Uganda,UG,UGA,800,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Household Survey - DHS01
+Uganda,UG,UGA,800,National,5,Flush and pour flush - to elsewhere,0.0,Demographic and Household Survey - DHS01
+Uganda,UG,UGA,800,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Household Survey - DHS01
+Uganda,UG,UGA,800,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Household Survey - DHS01
+Uganda,UG,UGA,800,National,8,Dry latrines - Traditional latrine,0.0,Demographic and Household Survey - DHS01
+Uganda,UG,UGA,800,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Household Survey - DHS01
+Uganda,UG,UGA,800,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Household Survey - DHS01
+Uganda,UG,UGA,800,National,11,Dry latrines - Bucket latrine,0.0,Demographic and Household Survey - DHS01
+Uganda,UG,UGA,800,National,12,Dry latrines - Other,0.0,Demographic and Household Survey - DHS01
+Uganda,UG,UGA,800,National,13,Composting toilets,0.0,Demographic and Household Survey - DHS01
+Uganda,UG,UGA,800,National,14,Other improved,0.0,Demographic and Household Survey - DHS01
+Uganda,UG,UGA,800,National,15,"No facility, bush, field",0.0,Demographic and Household Survey - DHS01
+Uganda,UG,UGA,800,National,16,Other unimproved,0.0,Demographic and Household Survey - DHS01
+Uganda,UG,UGA,800,National,17,DK/missing information,0.0,Demographic and Household Survey - DHS01
+Uganda,UG,UGA,800,Urban,1,Flush and pour flush - to piped sewer system,0.0,Census - CEN02
+Uganda,UG,UGA,800,Urban,2,Flush and pour flush - to septic tank,0.0,Census - CEN02
+Uganda,UG,UGA,800,Urban,3,Flush and pour flush - to pit,0.0,Census - CEN02
+Uganda,UG,UGA,800,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN02
+Uganda,UG,UGA,800,Urban,5,Flush and pour flush - to elsewhere,0.0,Census - CEN02
+Uganda,UG,UGA,800,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.097,Census - CEN02
+Uganda,UG,UGA,800,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN02
+Uganda,UG,UGA,800,Urban,8,Dry latrines - Traditional latrine,0.69,Census - CEN02
+Uganda,UG,UGA,800,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.063,Census - CEN02
+Uganda,UG,UGA,800,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.041,Census - CEN02
+Uganda,UG,UGA,800,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN02
+Uganda,UG,UGA,800,Urban,8,Dry latrines - Traditional latrine,0.218,Census - CEN02
+Uganda,UG,UGA,800,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.056,Census - CEN02
+Uganda,UG,UGA,800,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN02
+Uganda,UG,UGA,800,Urban,8,Dry latrines - Traditional latrine,0.472,Census - CEN02
+Uganda,UG,UGA,800,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN02
+Uganda,UG,UGA,800,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN02
+Uganda,UG,UGA,800,Urban,11,Dry latrines - Bucket latrine,0.0,Census - CEN02
+Uganda,UG,UGA,800,Urban,12,Dry latrines - Other,0.0,Census - CEN02
+Uganda,UG,UGA,800,Urban,13,Composting toilets,0.0,Census - CEN02
+Uganda,UG,UGA,800,Urban,14,Other improved,0.0,Census - CEN02
+Uganda,UG,UGA,800,Urban,15,"No facility, bush, field",0.024,Census - CEN02
+Uganda,UG,UGA,800,Urban,16,Other unimproved,0.031,Census - CEN02
+Uganda,UG,UGA,800,Urban,17,DK/missing information,0.0,Census - CEN02
+Uganda,UG,UGA,800,Rural,1,Flush and pour flush - to piped sewer system,0.0,Census - CEN02
+Uganda,UG,UGA,800,Rural,2,Flush and pour flush - to septic tank,0.0,Census - CEN02
+Uganda,UG,UGA,800,Rural,3,Flush and pour flush - to pit,0.0,Census - CEN02
+Uganda,UG,UGA,800,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN02
+Uganda,UG,UGA,800,Rural,5,Flush and pour flush - to elsewhere,0.0,Census - CEN02
+Uganda,UG,UGA,800,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.022,Census - CEN02
+Uganda,UG,UGA,800,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN02
+Uganda,UG,UGA,800,Rural,8,Dry latrines - Traditional latrine,0.634,Census - CEN02
+Uganda,UG,UGA,800,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.143,Census - CEN02
+Uganda,UG,UGA,800,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.012,Census - CEN02
+Uganda,UG,UGA,800,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN02
+Uganda,UG,UGA,800,Rural,8,Dry latrines - Traditional latrine,0.392,Census - CEN02
+Uganda,UG,UGA,800,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.01,Census - CEN02
+Uganda,UG,UGA,800,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN02
+Uganda,UG,UGA,800,Rural,8,Dry latrines - Traditional latrine,0.242,Census - CEN02
+Uganda,UG,UGA,800,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN02
+Uganda,UG,UGA,800,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN02
+Uganda,UG,UGA,800,Rural,11,Dry latrines - Bucket latrine,0.0,Census - CEN02
+Uganda,UG,UGA,800,Rural,12,Dry latrines - Other,0.0,Census - CEN02
+Uganda,UG,UGA,800,Rural,13,Composting toilets,0.0,Census - CEN02
+Uganda,UG,UGA,800,Rural,14,Other improved,0.0,Census - CEN02
+Uganda,UG,UGA,800,Rural,15,"No facility, bush, field",0.184,Census - CEN02
+Uganda,UG,UGA,800,Rural,16,Other unimproved,0.011,Census - CEN02
+Uganda,UG,UGA,800,Rural,17,DK/missing information,0.0,Census - CEN02
+Uganda,UG,UGA,800,National,1,Flush and pour flush - to piped sewer system,0.0,Census - CEN02
+Uganda,UG,UGA,800,National,2,Flush and pour flush - to septic tank,0.0,Census - CEN02
+Uganda,UG,UGA,800,National,3,Flush and pour flush - to pit,0.0,Census - CEN02
+Uganda,UG,UGA,800,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN02
+Uganda,UG,UGA,800,National,5,Flush and pour flush - to elsewhere,0.0,Census - CEN02
+Uganda,UG,UGA,800,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN02
+Uganda,UG,UGA,800,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN02
+Uganda,UG,UGA,800,National,8,Dry latrines - Traditional latrine,0.0,Census - CEN02
+Uganda,UG,UGA,800,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN02
+Uganda,UG,UGA,800,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN02
+Uganda,UG,UGA,800,National,11,Dry latrines - Bucket latrine,0.0,Census - CEN02
+Uganda,UG,UGA,800,National,12,Dry latrines - Other,0.0,Census - CEN02
+Uganda,UG,UGA,800,National,13,Composting toilets,0.0,Census - CEN02
+Uganda,UG,UGA,800,National,14,Other improved,0.0,Census - CEN02
+Uganda,UG,UGA,800,National,15,"No facility, bush, field",0.0,Census - CEN02
+Uganda,UG,UGA,800,National,16,Other unimproved,0.0,Census - CEN02
+Uganda,UG,UGA,800,National,17,DK/missing information,0.0,Census - CEN02
+Uganda,UG,UGA,800,Urban,1,Flush and pour flush - to piped sewer system,0.0,Uganda National Household Survey II (UNHS) - NHS02
+Uganda,UG,UGA,800,Urban,2,Flush and pour flush - to septic tank,0.0,Uganda National Household Survey II (UNHS) - NHS02
+Uganda,UG,UGA,800,Urban,3,Flush and pour flush - to pit,0.0,Uganda National Household Survey II (UNHS) - NHS02
+Uganda,UG,UGA,800,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Uganda National Household Survey II (UNHS) - NHS02
+Uganda,UG,UGA,800,Urban,5,Flush and pour flush - to elsewhere,0.0,Uganda National Household Survey II (UNHS) - NHS02
+Uganda,UG,UGA,800,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.066,Uganda National Household Survey II (UNHS) - NHS02
+Uganda,UG,UGA,800,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Uganda National Household Survey II (UNHS) - NHS02
+Uganda,UG,UGA,800,Urban,8,Dry latrines - Traditional latrine,0.811,Uganda National Household Survey II (UNHS) - NHS02
+Uganda,UG,UGA,800,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.031,Uganda National Household Survey II (UNHS) - NHS02
+Uganda,UG,UGA,800,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.022,Uganda National Household Survey II (UNHS) - NHS02
+Uganda,UG,UGA,800,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Uganda National Household Survey II (UNHS) - NHS02
+Uganda,UG,UGA,800,Urban,8,Dry latrines - Traditional latrine,0.33,Uganda National Household Survey II (UNHS) - NHS02
+Uganda,UG,UGA,800,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.044,Uganda National Household Survey II (UNHS) - NHS02
+Uganda,UG,UGA,800,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Uganda National Household Survey II (UNHS) - NHS02
+Uganda,UG,UGA,800,Urban,8,Dry latrines - Traditional latrine,0.481,Uganda National Household Survey II (UNHS) - NHS02
+Uganda,UG,UGA,800,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Uganda National Household Survey II (UNHS) - NHS02
+Uganda,UG,UGA,800,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Uganda National Household Survey II (UNHS) - NHS02
+Uganda,UG,UGA,800,Urban,11,Dry latrines - Bucket latrine,0.0,Uganda National Household Survey II (UNHS) - NHS02
+Uganda,UG,UGA,800,Urban,12,Dry latrines - Other,0.0,Uganda National Household Survey II (UNHS) - NHS02
+Uganda,UG,UGA,800,Urban,13,Composting toilets,0.0,Uganda National Household Survey II (UNHS) - NHS02
+Uganda,UG,UGA,800,Urban,14,Other improved,0.0,Uganda National Household Survey II (UNHS) - NHS02
+Uganda,UG,UGA,800,Urban,15,"No facility, bush, field",0.014,Uganda National Household Survey II (UNHS) - NHS02
+Uganda,UG,UGA,800,Urban,16,Other unimproved,0.003,Uganda National Household Survey II (UNHS) - NHS02
+Uganda,UG,UGA,800,Urban,17,DK/missing information,0.0,Uganda National Household Survey II (UNHS) - NHS02
+Uganda,UG,UGA,800,Rural,1,Flush and pour flush - to piped sewer system,0.0,Uganda National Household Survey II (UNHS) - NHS02
+Uganda,UG,UGA,800,Rural,2,Flush and pour flush - to septic tank,0.0,Uganda National Household Survey II (UNHS) - NHS02
+Uganda,UG,UGA,800,Rural,3,Flush and pour flush - to pit,0.0,Uganda National Household Survey II (UNHS) - NHS02
+Uganda,UG,UGA,800,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Uganda National Household Survey II (UNHS) - NHS02
+Uganda,UG,UGA,800,Rural,5,Flush and pour flush - to elsewhere,0.0,Uganda National Household Survey II (UNHS) - NHS02
+Uganda,UG,UGA,800,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.02,Uganda National Household Survey II (UNHS) - NHS02
+Uganda,UG,UGA,800,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Uganda National Household Survey II (UNHS) - NHS02
+Uganda,UG,UGA,800,Rural,8,Dry latrines - Traditional latrine,0.721,Uganda National Household Survey II (UNHS) - NHS02
+Uganda,UG,UGA,800,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.121,Uganda National Household Survey II (UNHS) - NHS02
+Uganda,UG,UGA,800,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.016,Uganda National Household Survey II (UNHS) - NHS02
+Uganda,UG,UGA,800,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Uganda National Household Survey II (UNHS) - NHS02
+Uganda,UG,UGA,800,Rural,8,Dry latrines - Traditional latrine,0.547,Uganda National Household Survey II (UNHS) - NHS02
+Uganda,UG,UGA,800,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.004,Uganda National Household Survey II (UNHS) - NHS02
+Uganda,UG,UGA,800,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Uganda National Household Survey II (UNHS) - NHS02
+Uganda,UG,UGA,800,Rural,8,Dry latrines - Traditional latrine,0.174,Uganda National Household Survey II (UNHS) - NHS02
+Uganda,UG,UGA,800,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Uganda National Household Survey II (UNHS) - NHS02
+Uganda,UG,UGA,800,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Uganda National Household Survey II (UNHS) - NHS02
+Uganda,UG,UGA,800,Rural,11,Dry latrines - Bucket latrine,0.0,Uganda National Household Survey II (UNHS) - NHS02
+Uganda,UG,UGA,800,Rural,12,Dry latrines - Other,0.0,Uganda National Household Survey II (UNHS) - NHS02
+Uganda,UG,UGA,800,Rural,13,Composting toilets,0.0,Uganda National Household Survey II (UNHS) - NHS02
+Uganda,UG,UGA,800,Rural,14,Other improved,0.0,Uganda National Household Survey II (UNHS) - NHS02
+Uganda,UG,UGA,800,Rural,15,"No facility, bush, field",0.133,Uganda National Household Survey II (UNHS) - NHS02
+Uganda,UG,UGA,800,Rural,16,Other unimproved,0.004,Uganda National Household Survey II (UNHS) - NHS02
+Uganda,UG,UGA,800,Rural,17,DK/missing information,0.0,Uganda National Household Survey II (UNHS) - NHS02
+Uganda,UG,UGA,800,National,1,Flush and pour flush - to piped sewer system,0.0,Uganda National Household Survey II (UNHS) - NHS02
+Uganda,UG,UGA,800,National,2,Flush and pour flush - to septic tank,0.0,Uganda National Household Survey II (UNHS) - NHS02
+Uganda,UG,UGA,800,National,3,Flush and pour flush - to pit,0.0,Uganda National Household Survey II (UNHS) - NHS02
+Uganda,UG,UGA,800,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Uganda National Household Survey II (UNHS) - NHS02
+Uganda,UG,UGA,800,National,5,Flush and pour flush - to elsewhere,0.0,Uganda National Household Survey II (UNHS) - NHS02
+Uganda,UG,UGA,800,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Uganda National Household Survey II (UNHS) - NHS02
+Uganda,UG,UGA,800,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Uganda National Household Survey II (UNHS) - NHS02
+Uganda,UG,UGA,800,National,8,Dry latrines - Traditional latrine,0.0,Uganda National Household Survey II (UNHS) - NHS02
+Uganda,UG,UGA,800,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Uganda National Household Survey II (UNHS) - NHS02
+Uganda,UG,UGA,800,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Uganda National Household Survey II (UNHS) - NHS02
+Uganda,UG,UGA,800,National,11,Dry latrines - Bucket latrine,0.0,Uganda National Household Survey II (UNHS) - NHS02
+Uganda,UG,UGA,800,National,12,Dry latrines - Other,0.0,Uganda National Household Survey II (UNHS) - NHS02
+Uganda,UG,UGA,800,National,13,Composting toilets,0.0,Uganda National Household Survey II (UNHS) - NHS02
+Uganda,UG,UGA,800,National,14,Other improved,0.0,Uganda National Household Survey II (UNHS) - NHS02
+Uganda,UG,UGA,800,National,15,"No facility, bush, field",0.0,Uganda National Household Survey II (UNHS) - NHS02
+Uganda,UG,UGA,800,National,16,Other unimproved,0.0,Uganda National Household Survey II (UNHS) - NHS02
+Uganda,UG,UGA,800,National,17,DK/missing information,0.0,Uganda National Household Survey II (UNHS) - NHS02
+Uganda,UG,UGA,800,Urban,1,Flush and pour flush - to piped sewer system,0.0,National Household Survey - NHS03
+Uganda,UG,UGA,800,Urban,2,Flush and pour flush - to septic tank,0.0,National Household Survey - NHS03
+Uganda,UG,UGA,800,Urban,3,Flush and pour flush - to pit,0.0,National Household Survey - NHS03
+Uganda,UG,UGA,800,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Household Survey - NHS03
+Uganda,UG,UGA,800,Urban,5,Flush and pour flush - to elsewhere,0.0,National Household Survey - NHS03
+Uganda,UG,UGA,800,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,National Household Survey - NHS03
+Uganda,UG,UGA,800,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Household Survey - NHS03
+Uganda,UG,UGA,800,Urban,8,Dry latrines - Traditional latrine,0.0,National Household Survey - NHS03
+Uganda,UG,UGA,800,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Household Survey - NHS03
+Uganda,UG,UGA,800,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Household Survey - NHS03
+Uganda,UG,UGA,800,Urban,11,Dry latrines - Bucket latrine,0.0,National Household Survey - NHS03
+Uganda,UG,UGA,800,Urban,12,Dry latrines - Other,0.0,National Household Survey - NHS03
+Uganda,UG,UGA,800,Urban,13,Composting toilets,0.0,National Household Survey - NHS03
+Uganda,UG,UGA,800,Urban,14,Other improved,0.0,National Household Survey - NHS03
+Uganda,UG,UGA,800,Urban,15,"No facility, bush, field",0.01,National Household Survey - NHS03
+Uganda,UG,UGA,800,Urban,16,Other unimproved,0.01,National Household Survey - NHS03
+Uganda,UG,UGA,800,Urban,17,DK/missing information,0.0,National Household Survey - NHS03
+Uganda,UG,UGA,800,Rural,1,Flush and pour flush - to piped sewer system,0.0,National Household Survey - NHS03
+Uganda,UG,UGA,800,Rural,2,Flush and pour flush - to septic tank,0.0,National Household Survey - NHS03
+Uganda,UG,UGA,800,Rural,3,Flush and pour flush - to pit,0.0,National Household Survey - NHS03
+Uganda,UG,UGA,800,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Household Survey - NHS03
+Uganda,UG,UGA,800,Rural,5,Flush and pour flush - to elsewhere,0.0,National Household Survey - NHS03
+Uganda,UG,UGA,800,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,National Household Survey - NHS03
+Uganda,UG,UGA,800,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Household Survey - NHS03
+Uganda,UG,UGA,800,Rural,8,Dry latrines - Traditional latrine,0.0,National Household Survey - NHS03
+Uganda,UG,UGA,800,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Household Survey - NHS03
+Uganda,UG,UGA,800,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Household Survey - NHS03
+Uganda,UG,UGA,800,Rural,11,Dry latrines - Bucket latrine,0.0,National Household Survey - NHS03
+Uganda,UG,UGA,800,Rural,12,Dry latrines - Other,0.0,National Household Survey - NHS03
+Uganda,UG,UGA,800,Rural,13,Composting toilets,0.0,National Household Survey - NHS03
+Uganda,UG,UGA,800,Rural,14,Other improved,0.0,National Household Survey - NHS03
+Uganda,UG,UGA,800,Rural,15,"No facility, bush, field",0.15,National Household Survey - NHS03
+Uganda,UG,UGA,800,Rural,16,Other unimproved,0.01,National Household Survey - NHS03
+Uganda,UG,UGA,800,Rural,17,DK/missing information,0.0,National Household Survey - NHS03
+Uganda,UG,UGA,800,National,1,Flush and pour flush - to piped sewer system,0.0,National Household Survey - NHS03
+Uganda,UG,UGA,800,National,2,Flush and pour flush - to septic tank,0.0,National Household Survey - NHS03
+Uganda,UG,UGA,800,National,3,Flush and pour flush - to pit,0.0,National Household Survey - NHS03
+Uganda,UG,UGA,800,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Household Survey - NHS03
+Uganda,UG,UGA,800,National,5,Flush and pour flush - to elsewhere,0.0,National Household Survey - NHS03
+Uganda,UG,UGA,800,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,National Household Survey - NHS03
+Uganda,UG,UGA,800,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Household Survey - NHS03
+Uganda,UG,UGA,800,National,8,Dry latrines - Traditional latrine,0.0,National Household Survey - NHS03
+Uganda,UG,UGA,800,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Household Survey - NHS03
+Uganda,UG,UGA,800,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Household Survey - NHS03
+Uganda,UG,UGA,800,National,11,Dry latrines - Bucket latrine,0.0,National Household Survey - NHS03
+Uganda,UG,UGA,800,National,12,Dry latrines - Other,0.0,National Household Survey - NHS03
+Uganda,UG,UGA,800,National,13,Composting toilets,0.0,National Household Survey - NHS03
+Uganda,UG,UGA,800,National,14,Other improved,0.0,National Household Survey - NHS03
+Uganda,UG,UGA,800,National,15,"No facility, bush, field",0.13,National Household Survey - NHS03
+Uganda,UG,UGA,800,National,16,Other unimproved,0.0,National Household Survey - NHS03
+Uganda,UG,UGA,800,National,17,DK/missing information,0.0,National Household Survey - NHS03
+Uganda,UG,UGA,800,Urban,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS05
+Uganda,UG,UGA,800,Urban,2,Flush and pour flush - to septic tank,0.0,Demographic and Health Survey - DHS05
+Uganda,UG,UGA,800,Urban,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS05
+Uganda,UG,UGA,800,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS05
+Uganda,UG,UGA,800,Urban,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS05
+Uganda,UG,UGA,800,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.237,Demographic and Health Survey - DHS05
+Uganda,UG,UGA,800,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS05
+Uganda,UG,UGA,800,Urban,8,Dry latrines - Traditional latrine,0.631,Demographic and Health Survey - DHS05
+Uganda,UG,UGA,800,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.018,Demographic and Health Survey - DHS05
+Uganda,UG,UGA,800,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS05
+Uganda,UG,UGA,800,Urban,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS05
+Uganda,UG,UGA,800,Urban,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS05
+Uganda,UG,UGA,800,Urban,13,Composting toilets,0.0,Demographic and Health Survey - DHS05
+Uganda,UG,UGA,800,Urban,14,Other improved,0.0,Demographic and Health Survey - DHS05
+Uganda,UG,UGA,800,Urban,15,"No facility, bush, field",0.01,Demographic and Health Survey - DHS05
+Uganda,UG,UGA,800,Urban,16,Other unimproved,0.006,Demographic and Health Survey - DHS05
+Uganda,UG,UGA,800,Urban,17,DK/missing information,0.0,Demographic and Health Survey - DHS05
+Uganda,UG,UGA,800,Rural,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS05
+Uganda,UG,UGA,800,Rural,2,Flush and pour flush - to septic tank,0.0,Demographic and Health Survey - DHS05
+Uganda,UG,UGA,800,Rural,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS05
+Uganda,UG,UGA,800,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS05
+Uganda,UG,UGA,800,Rural,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS05
+Uganda,UG,UGA,800,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.108,Demographic and Health Survey - DHS05
+Uganda,UG,UGA,800,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS05
+Uganda,UG,UGA,800,Rural,8,Dry latrines - Traditional latrine,0.631,Demographic and Health Survey - DHS05
+Uganda,UG,UGA,800,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.108,Demographic and Health Survey - DHS05
+Uganda,UG,UGA,800,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS05
+Uganda,UG,UGA,800,Rural,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS05
+Uganda,UG,UGA,800,Rural,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS05
+Uganda,UG,UGA,800,Rural,13,Composting toilets,0.0,Demographic and Health Survey - DHS05
+Uganda,UG,UGA,800,Rural,14,Other improved,0.0,Demographic and Health Survey - DHS05
+Uganda,UG,UGA,800,Rural,15,"No facility, bush, field",0.144,Demographic and Health Survey - DHS05
+Uganda,UG,UGA,800,Rural,16,Other unimproved,0.005,Demographic and Health Survey - DHS05
+Uganda,UG,UGA,800,Rural,17,DK/missing information,0.0,Demographic and Health Survey - DHS05
+Uganda,UG,UGA,800,National,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS05
+Uganda,UG,UGA,800,National,2,Flush and pour flush - to septic tank,0.0,Demographic and Health Survey - DHS05
+Uganda,UG,UGA,800,National,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS05
+Uganda,UG,UGA,800,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS05
+Uganda,UG,UGA,800,National,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS05
+Uganda,UG,UGA,800,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - DHS05
+Uganda,UG,UGA,800,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS05
+Uganda,UG,UGA,800,National,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS05
+Uganda,UG,UGA,800,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Survey - DHS05
+Uganda,UG,UGA,800,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS05
+Uganda,UG,UGA,800,National,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS05
+Uganda,UG,UGA,800,National,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS05
+Uganda,UG,UGA,800,National,13,Composting toilets,0.0,Demographic and Health Survey - DHS05
+Uganda,UG,UGA,800,National,14,Other improved,0.0,Demographic and Health Survey - DHS05
+Uganda,UG,UGA,800,National,15,"No facility, bush, field",0.0,Demographic and Health Survey - DHS05
+Uganda,UG,UGA,800,National,16,Other unimproved,0.0,Demographic and Health Survey - DHS05
+Uganda,UG,UGA,800,National,17,DK/missing information,0.0,Demographic and Health Survey - DHS05
+Uganda,UG,UGA,800,Urban,1,Flush and pour flush - to piped sewer system,0.0,National Household Survey - NHS06
+Uganda,UG,UGA,800,Urban,2,Flush and pour flush - to septic tank,0.0,National Household Survey - NHS06
+Uganda,UG,UGA,800,Urban,3,Flush and pour flush - to pit,0.0,National Household Survey - NHS06
+Uganda,UG,UGA,800,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Household Survey - NHS06
+Uganda,UG,UGA,800,Urban,5,Flush and pour flush - to elsewhere,0.0,National Household Survey - NHS06
+Uganda,UG,UGA,800,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.054,National Household Survey - NHS06
+Uganda,UG,UGA,800,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Household Survey - NHS06
+Uganda,UG,UGA,800,Urban,8,Dry latrines - Traditional latrine,0.861,National Household Survey - NHS06
+Uganda,UG,UGA,800,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Household Survey - NHS06
+Uganda,UG,UGA,800,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Household Survey - NHS06
+Uganda,UG,UGA,800,Urban,11,Dry latrines - Bucket latrine,0.0,National Household Survey - NHS06
+Uganda,UG,UGA,800,Urban,12,Dry latrines - Other,0.0,National Household Survey - NHS06
+Uganda,UG,UGA,800,Urban,13,Composting toilets,0.0,National Household Survey - NHS06
+Uganda,UG,UGA,800,Urban,14,Other improved,0.0,National Household Survey - NHS06
+Uganda,UG,UGA,800,Urban,15,"No facility, bush, field",0.027,National Household Survey - NHS06
+Uganda,UG,UGA,800,Urban,16,Other unimproved,0.0,National Household Survey - NHS06
+Uganda,UG,UGA,800,Urban,17,DK/missing information,0.0,National Household Survey - NHS06
+Uganda,UG,UGA,800,Rural,1,Flush and pour flush - to piped sewer system,0.0,National Household Survey - NHS06
+Uganda,UG,UGA,800,Rural,2,Flush and pour flush - to septic tank,0.0,National Household Survey - NHS06
+Uganda,UG,UGA,800,Rural,3,Flush and pour flush - to pit,0.0,National Household Survey - NHS06
+Uganda,UG,UGA,800,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Household Survey - NHS06
+Uganda,UG,UGA,800,Rural,5,Flush and pour flush - to elsewhere,0.0,National Household Survey - NHS06
+Uganda,UG,UGA,800,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.019,National Household Survey - NHS06
+Uganda,UG,UGA,800,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Household Survey - NHS06
+Uganda,UG,UGA,800,Rural,8,Dry latrines - Traditional latrine,0.857,National Household Survey - NHS06
+Uganda,UG,UGA,800,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Household Survey - NHS06
+Uganda,UG,UGA,800,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Household Survey - NHS06
+Uganda,UG,UGA,800,Rural,11,Dry latrines - Bucket latrine,0.0,National Household Survey - NHS06
+Uganda,UG,UGA,800,Rural,12,Dry latrines - Other,0.0,National Household Survey - NHS06
+Uganda,UG,UGA,800,Rural,13,Composting toilets,0.0,National Household Survey - NHS06
+Uganda,UG,UGA,800,Rural,14,Other improved,0.0,National Household Survey - NHS06
+Uganda,UG,UGA,800,Rural,15,"No facility, bush, field",0.122,National Household Survey - NHS06
+Uganda,UG,UGA,800,Rural,16,Other unimproved,0.0,National Household Survey - NHS06
+Uganda,UG,UGA,800,Rural,17,DK/missing information,0.0,National Household Survey - NHS06
+Uganda,UG,UGA,800,National,1,Flush and pour flush - to piped sewer system,0.0,National Household Survey - NHS06
+Uganda,UG,UGA,800,National,2,Flush and pour flush - to septic tank,0.0,National Household Survey - NHS06
+Uganda,UG,UGA,800,National,3,Flush and pour flush - to pit,0.0,National Household Survey - NHS06
+Uganda,UG,UGA,800,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Household Survey - NHS06
+Uganda,UG,UGA,800,National,5,Flush and pour flush - to elsewhere,0.0,National Household Survey - NHS06
+Uganda,UG,UGA,800,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,National Household Survey - NHS06
+Uganda,UG,UGA,800,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Household Survey - NHS06
+Uganda,UG,UGA,800,National,8,Dry latrines - Traditional latrine,0.0,National Household Survey - NHS06
+Uganda,UG,UGA,800,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Household Survey - NHS06
+Uganda,UG,UGA,800,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Household Survey - NHS06
+Uganda,UG,UGA,800,National,11,Dry latrines - Bucket latrine,0.0,National Household Survey - NHS06
+Uganda,UG,UGA,800,National,12,Dry latrines - Other,0.0,National Household Survey - NHS06
+Uganda,UG,UGA,800,National,13,Composting toilets,0.0,National Household Survey - NHS06
+Uganda,UG,UGA,800,National,14,Other improved,0.0,National Household Survey - NHS06
+Uganda,UG,UGA,800,National,15,"No facility, bush, field",0.0,National Household Survey - NHS06
+Uganda,UG,UGA,800,National,16,Other unimproved,0.0,National Household Survey - NHS06
+Uganda,UG,UGA,800,National,17,DK/missing information,0.0,National Household Survey - NHS06
+Uganda,UG,UGA,800,Urban,1,Flush and pour flush - to piped sewer system,0.0,Demagraphic and Health Survey - DHS06
+Uganda,UG,UGA,800,Urban,2,Flush and pour flush - to septic tank,0.0,Demagraphic and Health Survey - DHS06
+Uganda,UG,UGA,800,Urban,3,Flush and pour flush - to pit,0.0,Demagraphic and Health Survey - DHS06
+Uganda,UG,UGA,800,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demagraphic and Health Survey - DHS06
+Uganda,UG,UGA,800,Urban,5,Flush and pour flush - to elsewhere,0.0,Demagraphic and Health Survey - DHS06
+Uganda,UG,UGA,800,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.13,Demagraphic and Health Survey - DHS06
+Uganda,UG,UGA,800,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demagraphic and Health Survey - DHS06
+Uganda,UG,UGA,800,Urban,8,Dry latrines - Traditional latrine,0.712,Demagraphic and Health Survey - DHS06
+Uganda,UG,UGA,800,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.049,Demagraphic and Health Survey - DHS06
+Uganda,UG,UGA,800,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demagraphic and Health Survey - DHS06
+Uganda,UG,UGA,800,Urban,11,Dry latrines - Bucket latrine,0.0,Demagraphic and Health Survey - DHS06
+Uganda,UG,UGA,800,Urban,12,Dry latrines - Other,0.0,Demagraphic and Health Survey - DHS06
+Uganda,UG,UGA,800,Urban,13,Composting toilets,0.0,Demagraphic and Health Survey - DHS06
+Uganda,UG,UGA,800,Urban,14,Other improved,0.0,Demagraphic and Health Survey - DHS06
+Uganda,UG,UGA,800,Urban,15,"No facility, bush, field",0.025,Demagraphic and Health Survey - DHS06
+Uganda,UG,UGA,800,Urban,16,Other unimproved,0.001,Demagraphic and Health Survey - DHS06
+Uganda,UG,UGA,800,Urban,17,DK/missing information,0.0,Demagraphic and Health Survey - DHS06
+Uganda,UG,UGA,800,Rural,1,Flush and pour flush - to piped sewer system,0.0,Demagraphic and Health Survey - DHS06
+Uganda,UG,UGA,800,Rural,2,Flush and pour flush - to septic tank,0.0,Demagraphic and Health Survey - DHS06
+Uganda,UG,UGA,800,Rural,3,Flush and pour flush - to pit,0.0,Demagraphic and Health Survey - DHS06
+Uganda,UG,UGA,800,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demagraphic and Health Survey - DHS06
+Uganda,UG,UGA,800,Rural,5,Flush and pour flush - to elsewhere,0.0,Demagraphic and Health Survey - DHS06
+Uganda,UG,UGA,800,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.023,Demagraphic and Health Survey - DHS06
+Uganda,UG,UGA,800,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demagraphic and Health Survey - DHS06
+Uganda,UG,UGA,800,Rural,8,Dry latrines - Traditional latrine,0.647,Demagraphic and Health Survey - DHS06
+Uganda,UG,UGA,800,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.192,Demagraphic and Health Survey - DHS06
+Uganda,UG,UGA,800,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demagraphic and Health Survey - DHS06
+Uganda,UG,UGA,800,Rural,11,Dry latrines - Bucket latrine,0.0,Demagraphic and Health Survey - DHS06
+Uganda,UG,UGA,800,Rural,12,Dry latrines - Other,0.0,Demagraphic and Health Survey - DHS06
+Uganda,UG,UGA,800,Rural,13,Composting toilets,0.004,Demagraphic and Health Survey - DHS06
+Uganda,UG,UGA,800,Rural,14,Other improved,0.0,Demagraphic and Health Survey - DHS06
+Uganda,UG,UGA,800,Rural,15,"No facility, bush, field",0.131,Demagraphic and Health Survey - DHS06
+Uganda,UG,UGA,800,Rural,16,Other unimproved,0.001,Demagraphic and Health Survey - DHS06
+Uganda,UG,UGA,800,Rural,17,DK/missing information,0.0,Demagraphic and Health Survey - DHS06
+Uganda,UG,UGA,800,National,1,Flush and pour flush - to piped sewer system,0.0,Demagraphic and Health Survey - DHS06
+Uganda,UG,UGA,800,National,2,Flush and pour flush - to septic tank,0.0,Demagraphic and Health Survey - DHS06
+Uganda,UG,UGA,800,National,3,Flush and pour flush - to pit,0.0,Demagraphic and Health Survey - DHS06
+Uganda,UG,UGA,800,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demagraphic and Health Survey - DHS06
+Uganda,UG,UGA,800,National,5,Flush and pour flush - to elsewhere,0.0,Demagraphic and Health Survey - DHS06
+Uganda,UG,UGA,800,National,6,Dry latrines - Ventilated Improved Pit latrine,0.036,Demagraphic and Health Survey - DHS06
+Uganda,UG,UGA,800,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demagraphic and Health Survey - DHS06
+Uganda,UG,UGA,800,National,8,Dry latrines - Traditional latrine,0.655,Demagraphic and Health Survey - DHS06
+Uganda,UG,UGA,800,National,9,Dry latrines - Pit latrine without slab/open pit,0.174,Demagraphic and Health Survey - DHS06
+Uganda,UG,UGA,800,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demagraphic and Health Survey - DHS06
+Uganda,UG,UGA,800,National,11,Dry latrines - Bucket latrine,0.0,Demagraphic and Health Survey - DHS06
+Uganda,UG,UGA,800,National,12,Dry latrines - Other,0.0,Demagraphic and Health Survey - DHS06
+Uganda,UG,UGA,800,National,13,Composting toilets,0.004,Demagraphic and Health Survey - DHS06
+Uganda,UG,UGA,800,National,14,Other improved,0.0,Demagraphic and Health Survey - DHS06
+Uganda,UG,UGA,800,National,15,"No facility, bush, field",0.118,Demagraphic and Health Survey - DHS06
+Uganda,UG,UGA,800,National,16,Other unimproved,0.001,Demagraphic and Health Survey - DHS06
+Uganda,UG,UGA,800,National,17,DK/missing information,0.0,Demagraphic and Health Survey - DHS06
+Uganda,UG,UGA,800,Urban,1,Flush and pour flush - to piped sewer system,0.0,National Household Survey - NHS09
+Uganda,UG,UGA,800,Urban,2,Flush and pour flush - to septic tank,0.0,National Household Survey - NHS09
+Uganda,UG,UGA,800,Urban,3,Flush and pour flush - to pit,0.0,National Household Survey - NHS09
+Uganda,UG,UGA,800,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Household Survey - NHS09
+Uganda,UG,UGA,800,Urban,5,Flush and pour flush - to elsewhere,0.0,National Household Survey - NHS09
+Uganda,UG,UGA,800,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.076,National Household Survey - NHS09
+Uganda,UG,UGA,800,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Household Survey - NHS09
+Uganda,UG,UGA,800,Urban,8,Dry latrines - Traditional latrine,0.758,National Household Survey - NHS09
+Uganda,UG,UGA,800,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.047,National Household Survey - NHS09
+Uganda,UG,UGA,800,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.023,National Household Survey - NHS09
+Uganda,UG,UGA,800,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Household Survey - NHS09
+Uganda,UG,UGA,800,Urban,8,Dry latrines - Traditional latrine,0.216,National Household Survey - NHS09
+Uganda,UG,UGA,800,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.053,National Household Survey - NHS09
+Uganda,UG,UGA,800,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Household Survey - NHS09
+Uganda,UG,UGA,800,Urban,8,Dry latrines - Traditional latrine,0.541,National Household Survey - NHS09
+Uganda,UG,UGA,800,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Household Survey - NHS09
+Uganda,UG,UGA,800,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Household Survey - NHS09
+Uganda,UG,UGA,800,Urban,11,Dry latrines - Bucket latrine,0.0,National Household Survey - NHS09
+Uganda,UG,UGA,800,Urban,12,Dry latrines - Other,0.0,National Household Survey - NHS09
+Uganda,UG,UGA,800,Urban,13,Composting toilets,0.0,National Household Survey - NHS09
+Uganda,UG,UGA,800,Urban,14,Other improved,0.0,National Household Survey - NHS09
+Uganda,UG,UGA,800,Urban,15,"No facility, bush, field",0.01,National Household Survey - NHS09
+Uganda,UG,UGA,800,Urban,16,Other unimproved,0.007,National Household Survey - NHS09
+Uganda,UG,UGA,800,Urban,17,DK/missing information,0.0,National Household Survey - NHS09
+Uganda,UG,UGA,800,Rural,1,Flush and pour flush - to piped sewer system,0.0,National Household Survey - NHS09
+Uganda,UG,UGA,800,Rural,2,Flush and pour flush - to septic tank,0.0,National Household Survey - NHS09
+Uganda,UG,UGA,800,Rural,3,Flush and pour flush - to pit,0.0,National Household Survey - NHS09
+Uganda,UG,UGA,800,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Household Survey - NHS09
+Uganda,UG,UGA,800,Rural,5,Flush and pour flush - to elsewhere,0.0,National Household Survey - NHS09
+Uganda,UG,UGA,800,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.02,National Household Survey - NHS09
+Uganda,UG,UGA,800,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Household Survey - NHS09
+Uganda,UG,UGA,800,Rural,8,Dry latrines - Traditional latrine,0.688,National Household Survey - NHS09
+Uganda,UG,UGA,800,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.184,National Household Survey - NHS09
+Uganda,UG,UGA,800,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.012,National Household Survey - NHS09
+Uganda,UG,UGA,800,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Household Survey - NHS09
+Uganda,UG,UGA,800,Rural,8,Dry latrines - Traditional latrine,0.471,National Household Survey - NHS09
+Uganda,UG,UGA,800,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.008,National Household Survey - NHS09
+Uganda,UG,UGA,800,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Household Survey - NHS09
+Uganda,UG,UGA,800,Rural,8,Dry latrines - Traditional latrine,0.217,National Household Survey - NHS09
+Uganda,UG,UGA,800,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Household Survey - NHS09
+Uganda,UG,UGA,800,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Household Survey - NHS09
+Uganda,UG,UGA,800,Rural,11,Dry latrines - Bucket latrine,0.0,National Household Survey - NHS09
+Uganda,UG,UGA,800,Rural,12,Dry latrines - Other,0.0,National Household Survey - NHS09
+Uganda,UG,UGA,800,Rural,13,Composting toilets,0.0,National Household Survey - NHS09
+Uganda,UG,UGA,800,Rural,14,Other improved,0.0,National Household Survey - NHS09
+Uganda,UG,UGA,800,Rural,15,"No facility, bush, field",0.099,National Household Survey - NHS09
+Uganda,UG,UGA,800,Rural,16,Other unimproved,0.004,National Household Survey - NHS09
+Uganda,UG,UGA,800,Rural,17,DK/missing information,0.0,National Household Survey - NHS09
+Uganda,UG,UGA,800,National,1,Flush and pour flush - to piped sewer system,0.0,National Household Survey - NHS09
+Uganda,UG,UGA,800,National,2,Flush and pour flush - to septic tank,0.0,National Household Survey - NHS09
+Uganda,UG,UGA,800,National,3,Flush and pour flush - to pit,0.0,National Household Survey - NHS09
+Uganda,UG,UGA,800,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Household Survey - NHS09
+Uganda,UG,UGA,800,National,5,Flush and pour flush - to elsewhere,0.0,National Household Survey - NHS09
+Uganda,UG,UGA,800,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,National Household Survey - NHS09
+Uganda,UG,UGA,800,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Household Survey - NHS09
+Uganda,UG,UGA,800,National,8,Dry latrines - Traditional latrine,0.0,National Household Survey - NHS09
+Uganda,UG,UGA,800,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Household Survey - NHS09
+Uganda,UG,UGA,800,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Household Survey - NHS09
+Uganda,UG,UGA,800,National,11,Dry latrines - Bucket latrine,0.0,National Household Survey - NHS09
+Uganda,UG,UGA,800,National,12,Dry latrines - Other,0.0,National Household Survey - NHS09
+Uganda,UG,UGA,800,National,13,Composting toilets,0.0,National Household Survey - NHS09
+Uganda,UG,UGA,800,National,14,Other improved,0.0,National Household Survey - NHS09
+Uganda,UG,UGA,800,National,15,"No facility, bush, field",0.0,National Household Survey - NHS09
+Uganda,UG,UGA,800,National,16,Other unimproved,0.0,National Household Survey - NHS09
+Uganda,UG,UGA,800,National,17,DK/missing information,0.0,National Household Survey - NHS09
+Uganda,UG,UGA,800,Urban,1,Flush and pour flush - to piped sewer system,0.0,Malaria Indicator Survey - MIS09
+Uganda,UG,UGA,800,Urban,2,Flush and pour flush - to septic tank,0.0,Malaria Indicator Survey - MIS09
+Uganda,UG,UGA,800,Urban,3,Flush and pour flush - to pit,0.0,Malaria Indicator Survey - MIS09
+Uganda,UG,UGA,800,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Malaria Indicator Survey - MIS09
+Uganda,UG,UGA,800,Urban,5,Flush and pour flush - to elsewhere,0.0,Malaria Indicator Survey - MIS09
+Uganda,UG,UGA,800,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.109,Malaria Indicator Survey - MIS09
+Uganda,UG,UGA,800,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.533,Malaria Indicator Survey - MIS09
+Uganda,UG,UGA,800,Urban,8,Dry latrines - Traditional latrine,0.218,Malaria Indicator Survey - MIS09
+Uganda,UG,UGA,800,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.031,Malaria Indicator Survey - MIS09
+Uganda,UG,UGA,800,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Malaria Indicator Survey - MIS09
+Uganda,UG,UGA,800,Urban,11,Dry latrines - Bucket latrine,0.0,Malaria Indicator Survey - MIS09
+Uganda,UG,UGA,800,Urban,12,Dry latrines - Other,0.017,Malaria Indicator Survey - MIS09
+Uganda,UG,UGA,800,Urban,13,Composting toilets,0.0,Malaria Indicator Survey - MIS09
+Uganda,UG,UGA,800,Urban,14,Other improved,0.0,Malaria Indicator Survey - MIS09
+Uganda,UG,UGA,800,Urban,15,"No facility, bush, field",0.0,Malaria Indicator Survey - MIS09
+Uganda,UG,UGA,800,Urban,16,Other unimproved,0.0,Malaria Indicator Survey - MIS09
+Uganda,UG,UGA,800,Urban,17,DK/missing information,0.0,Malaria Indicator Survey - MIS09
+Uganda,UG,UGA,800,Rural,1,Flush and pour flush - to piped sewer system,0.0,Malaria Indicator Survey - MIS09
+Uganda,UG,UGA,800,Rural,2,Flush and pour flush - to septic tank,0.0,Malaria Indicator Survey - MIS09
+Uganda,UG,UGA,800,Rural,3,Flush and pour flush - to pit,0.0,Malaria Indicator Survey - MIS09
+Uganda,UG,UGA,800,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Malaria Indicator Survey - MIS09
+Uganda,UG,UGA,800,Rural,5,Flush and pour flush - to elsewhere,0.0,Malaria Indicator Survey - MIS09
+Uganda,UG,UGA,800,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.048,Malaria Indicator Survey - MIS09
+Uganda,UG,UGA,800,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.162,Malaria Indicator Survey - MIS09
+Uganda,UG,UGA,800,Rural,8,Dry latrines - Traditional latrine,0.467,Malaria Indicator Survey - MIS09
+Uganda,UG,UGA,800,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.198,Malaria Indicator Survey - MIS09
+Uganda,UG,UGA,800,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Malaria Indicator Survey - MIS09
+Uganda,UG,UGA,800,Rural,11,Dry latrines - Bucket latrine,0.0,Malaria Indicator Survey - MIS09
+Uganda,UG,UGA,800,Rural,12,Dry latrines - Other,0.03,Malaria Indicator Survey - MIS09
+Uganda,UG,UGA,800,Rural,13,Composting toilets,0.002,Malaria Indicator Survey - MIS09
+Uganda,UG,UGA,800,Rural,14,Other improved,0.0,Malaria Indicator Survey - MIS09
+Uganda,UG,UGA,800,Rural,15,"No facility, bush, field",0.09,Malaria Indicator Survey - MIS09
+Uganda,UG,UGA,800,Rural,16,Other unimproved,0.001,Malaria Indicator Survey - MIS09
+Uganda,UG,UGA,800,Rural,17,DK/missing information,0.0,Malaria Indicator Survey - MIS09
+Uganda,UG,UGA,800,National,1,Flush and pour flush - to piped sewer system,0.0,Malaria Indicator Survey - MIS09
+Uganda,UG,UGA,800,National,2,Flush and pour flush - to septic tank,0.0,Malaria Indicator Survey - MIS09
+Uganda,UG,UGA,800,National,3,Flush and pour flush - to pit,0.0,Malaria Indicator Survey - MIS09
+Uganda,UG,UGA,800,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Malaria Indicator Survey - MIS09
+Uganda,UG,UGA,800,National,5,Flush and pour flush - to elsewhere,0.0,Malaria Indicator Survey - MIS09
+Uganda,UG,UGA,800,National,6,Dry latrines - Ventilated Improved Pit latrine,0.057,Malaria Indicator Survey - MIS09
+Uganda,UG,UGA,800,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.222,Malaria Indicator Survey - MIS09
+Uganda,UG,UGA,800,National,8,Dry latrines - Traditional latrine,0.427,Malaria Indicator Survey - MIS09
+Uganda,UG,UGA,800,National,9,Dry latrines - Pit latrine without slab/open pit,0.171,Malaria Indicator Survey - MIS09
+Uganda,UG,UGA,800,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Malaria Indicator Survey - MIS09
+Uganda,UG,UGA,800,National,11,Dry latrines - Bucket latrine,0.0,Malaria Indicator Survey - MIS09
+Uganda,UG,UGA,800,National,12,Dry latrines - Other,0.028,Malaria Indicator Survey - MIS09
+Uganda,UG,UGA,800,National,13,Composting toilets,0.002,Malaria Indicator Survey - MIS09
+Uganda,UG,UGA,800,National,14,Other improved,0.0,Malaria Indicator Survey - MIS09
+Uganda,UG,UGA,800,National,15,"No facility, bush, field",0.076,Malaria Indicator Survey - MIS09
+Uganda,UG,UGA,800,National,16,Other unimproved,0.001,Malaria Indicator Survey - MIS09
+Uganda,UG,UGA,800,National,17,DK/missing information,0.0,Malaria Indicator Survey - MIS09
+Uganda,UG,UGA,800,Urban,1,Flush and pour flush - to piped sewer system,0.0,Living Standards Measurement Study (LSMS) - LSMS10
+Uganda,UG,UGA,800,Urban,2,Flush and pour flush - to septic tank,0.0,Living Standards Measurement Study (LSMS) - LSMS10
+Uganda,UG,UGA,800,Urban,3,Flush and pour flush - to pit,0.0,Living Standards Measurement Study (LSMS) - LSMS10
+Uganda,UG,UGA,800,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Living Standards Measurement Study (LSMS) - LSMS10
+Uganda,UG,UGA,800,Urban,5,Flush and pour flush - to elsewhere,0.0,Living Standards Measurement Study (LSMS) - LSMS10
+Uganda,UG,UGA,800,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.058,Living Standards Measurement Study (LSMS) - LSMS10
+Uganda,UG,UGA,800,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Living Standards Measurement Study (LSMS) - LSMS10
+Uganda,UG,UGA,800,Urban,8,Dry latrines - Traditional latrine,0.796,Living Standards Measurement Study (LSMS) - LSMS10
+Uganda,UG,UGA,800,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.073,Living Standards Measurement Study (LSMS) - LSMS10
+Uganda,UG,UGA,800,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.018,Living Standards Measurement Study (LSMS) - LSMS10
+Uganda,UG,UGA,800,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Living Standards Measurement Study (LSMS) - LSMS10
+Uganda,UG,UGA,800,Urban,8,Dry latrines - Traditional latrine,0.461,Living Standards Measurement Study (LSMS) - LSMS10
+Uganda,UG,UGA,800,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.073,Living Standards Measurement Study (LSMS) - LSMS10
+Uganda,UG,UGA,800,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.04,Living Standards Measurement Study (LSMS) - LSMS10
+Uganda,UG,UGA,800,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Living Standards Measurement Study (LSMS) - LSMS10
+Uganda,UG,UGA,800,Urban,8,Dry latrines - Traditional latrine,0.335,Living Standards Measurement Study (LSMS) - LSMS10
+Uganda,UG,UGA,800,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Living Standards Measurement Study (LSMS) - LSMS10
+Uganda,UG,UGA,800,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Living Standards Measurement Study (LSMS) - LSMS10
+Uganda,UG,UGA,800,Urban,11,Dry latrines - Bucket latrine,0.0,Living Standards Measurement Study (LSMS) - LSMS10
+Uganda,UG,UGA,800,Urban,12,Dry latrines - Other,0.0,Living Standards Measurement Study (LSMS) - LSMS10
+Uganda,UG,UGA,800,Urban,13,Composting toilets,0.0,Living Standards Measurement Study (LSMS) - LSMS10
+Uganda,UG,UGA,800,Urban,14,Other improved,0.0,Living Standards Measurement Study (LSMS) - LSMS10
+Uganda,UG,UGA,800,Urban,15,"No facility, bush, field",0.026,Living Standards Measurement Study (LSMS) - LSMS10
+Uganda,UG,UGA,800,Urban,16,Other unimproved,0.005,Living Standards Measurement Study (LSMS) - LSMS10
+Uganda,UG,UGA,800,Urban,17,DK/missing information,0.0,Living Standards Measurement Study (LSMS) - LSMS10
+Uganda,UG,UGA,800,Rural,1,Flush and pour flush - to piped sewer system,0.0,Living Standards Measurement Study (LSMS) - LSMS10
+Uganda,UG,UGA,800,Rural,2,Flush and pour flush - to septic tank,0.0,Living Standards Measurement Study (LSMS) - LSMS10
+Uganda,UG,UGA,800,Rural,3,Flush and pour flush - to pit,0.0,Living Standards Measurement Study (LSMS) - LSMS10
+Uganda,UG,UGA,800,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Living Standards Measurement Study (LSMS) - LSMS10
+Uganda,UG,UGA,800,Rural,5,Flush and pour flush - to elsewhere,0.0,Living Standards Measurement Study (LSMS) - LSMS10
+Uganda,UG,UGA,800,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.039,Living Standards Measurement Study (LSMS) - LSMS10
+Uganda,UG,UGA,800,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Living Standards Measurement Study (LSMS) - LSMS10
+Uganda,UG,UGA,800,Rural,8,Dry latrines - Traditional latrine,0.751,Living Standards Measurement Study (LSMS) - LSMS10
+Uganda,UG,UGA,800,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.099,Living Standards Measurement Study (LSMS) - LSMS10
+Uganda,UG,UGA,800,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.012,Living Standards Measurement Study (LSMS) - LSMS10
+Uganda,UG,UGA,800,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Living Standards Measurement Study (LSMS) - LSMS10
+Uganda,UG,UGA,800,Rural,8,Dry latrines - Traditional latrine,0.445,Living Standards Measurement Study (LSMS) - LSMS10
+Uganda,UG,UGA,800,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.099,Living Standards Measurement Study (LSMS) - LSMS10
+Uganda,UG,UGA,800,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.027,Living Standards Measurement Study (LSMS) - LSMS10
+Uganda,UG,UGA,800,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Living Standards Measurement Study (LSMS) - LSMS10
+Uganda,UG,UGA,800,Rural,8,Dry latrines - Traditional latrine,0.306,Living Standards Measurement Study (LSMS) - LSMS10
+Uganda,UG,UGA,800,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Living Standards Measurement Study (LSMS) - LSMS10
+Uganda,UG,UGA,800,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Living Standards Measurement Study (LSMS) - LSMS10
+Uganda,UG,UGA,800,Rural,11,Dry latrines - Bucket latrine,0.0,Living Standards Measurement Study (LSMS) - LSMS10
+Uganda,UG,UGA,800,Rural,12,Dry latrines - Other,0.0,Living Standards Measurement Study (LSMS) - LSMS10
+Uganda,UG,UGA,800,Rural,13,Composting toilets,0.0,Living Standards Measurement Study (LSMS) - LSMS10
+Uganda,UG,UGA,800,Rural,14,Other improved,0.0,Living Standards Measurement Study (LSMS) - LSMS10
+Uganda,UG,UGA,800,Rural,15,"No facility, bush, field",0.091,Living Standards Measurement Study (LSMS) - LSMS10
+Uganda,UG,UGA,800,Rural,16,Other unimproved,0.003,Living Standards Measurement Study (LSMS) - LSMS10
+Uganda,UG,UGA,800,Rural,17,DK/missing information,0.0,Living Standards Measurement Study (LSMS) - LSMS10
+Uganda,UG,UGA,800,National,1,Flush and pour flush - to piped sewer system,0.0,Living Standards Measurement Study (LSMS) - LSMS10
+Uganda,UG,UGA,800,National,2,Flush and pour flush - to septic tank,0.0,Living Standards Measurement Study (LSMS) - LSMS10
+Uganda,UG,UGA,800,National,3,Flush and pour flush - to pit,0.0,Living Standards Measurement Study (LSMS) - LSMS10
+Uganda,UG,UGA,800,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Living Standards Measurement Study (LSMS) - LSMS10
+Uganda,UG,UGA,800,National,5,Flush and pour flush - to elsewhere,0.0,Living Standards Measurement Study (LSMS) - LSMS10
+Uganda,UG,UGA,800,National,6,Dry latrines - Ventilated Improved Pit latrine,0.043,Living Standards Measurement Study (LSMS) - LSMS10
+Uganda,UG,UGA,800,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Living Standards Measurement Study (LSMS) - LSMS10
+Uganda,UG,UGA,800,National,8,Dry latrines - Traditional latrine,0.763,Living Standards Measurement Study (LSMS) - LSMS10
+Uganda,UG,UGA,800,National,9,Dry latrines - Pit latrine without slab/open pit,0.093,Living Standards Measurement Study (LSMS) - LSMS10
+Uganda,UG,UGA,800,National,6,Dry latrines - Ventilated Improved Pit latrine,0.013,Living Standards Measurement Study (LSMS) - LSMS10
+Uganda,UG,UGA,800,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Living Standards Measurement Study (LSMS) - LSMS10
+Uganda,UG,UGA,800,National,8,Dry latrines - Traditional latrine,0.449,Living Standards Measurement Study (LSMS) - LSMS10
+Uganda,UG,UGA,800,National,9,Dry latrines - Pit latrine without slab/open pit,0.093,Living Standards Measurement Study (LSMS) - LSMS10
+Uganda,UG,UGA,800,National,6,Dry latrines - Ventilated Improved Pit latrine,0.03,Living Standards Measurement Study (LSMS) - LSMS10
+Uganda,UG,UGA,800,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Living Standards Measurement Study (LSMS) - LSMS10
+Uganda,UG,UGA,800,National,8,Dry latrines - Traditional latrine,0.314,Living Standards Measurement Study (LSMS) - LSMS10
+Uganda,UG,UGA,800,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Living Standards Measurement Study (LSMS) - LSMS10
+Uganda,UG,UGA,800,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Living Standards Measurement Study (LSMS) - LSMS10
+Uganda,UG,UGA,800,National,11,Dry latrines - Bucket latrine,0.0,Living Standards Measurement Study (LSMS) - LSMS10
+Uganda,UG,UGA,800,National,12,Dry latrines - Other,0.0,Living Standards Measurement Study (LSMS) - LSMS10
+Uganda,UG,UGA,800,National,13,Composting toilets,0.0,Living Standards Measurement Study (LSMS) - LSMS10
+Uganda,UG,UGA,800,National,14,Other improved,0.0,Living Standards Measurement Study (LSMS) - LSMS10
+Uganda,UG,UGA,800,National,15,"No facility, bush, field",0.075,Living Standards Measurement Study (LSMS) - LSMS10
+Uganda,UG,UGA,800,National,16,Other unimproved,0.004,Living Standards Measurement Study (LSMS) - LSMS10
+Uganda,UG,UGA,800,National,17,DK/missing information,0.0,Living Standards Measurement Study (LSMS) - LSMS10
+Uganda,UG,UGA,800,Urban,1,Flush and pour flush - to piped sewer system,0.099,Uganda AIDS Indicator Survey (UAIS) - AIS11
+Uganda,UG,UGA,800,Urban,2,Flush and pour flush - to septic tank,0.0,Uganda AIDS Indicator Survey (UAIS) - AIS11
+Uganda,UG,UGA,800,Urban,3,Flush and pour flush - to pit,0.0,Uganda AIDS Indicator Survey (UAIS) - AIS11
+Uganda,UG,UGA,800,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Uganda AIDS Indicator Survey (UAIS) - AIS11
+Uganda,UG,UGA,800,Urban,5,Flush and pour flush - to elsewhere,0.0,Uganda AIDS Indicator Survey (UAIS) - AIS11
+Uganda,UG,UGA,800,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.116,Uganda AIDS Indicator Survey (UAIS) - AIS11
+Uganda,UG,UGA,800,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.578,Uganda AIDS Indicator Survey (UAIS) - AIS11
+Uganda,UG,UGA,800,Urban,8,Dry latrines - Traditional latrine,0.0,Uganda AIDS Indicator Survey (UAIS) - AIS11
+Uganda,UG,UGA,800,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.181,Uganda AIDS Indicator Survey (UAIS) - AIS11
+Uganda,UG,UGA,800,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Uganda AIDS Indicator Survey (UAIS) - AIS11
+Uganda,UG,UGA,800,Urban,11,Dry latrines - Bucket latrine,0.0,Uganda AIDS Indicator Survey (UAIS) - AIS11
+Uganda,UG,UGA,800,Urban,12,Dry latrines - Other,0.0,Uganda AIDS Indicator Survey (UAIS) - AIS11
+Uganda,UG,UGA,800,Urban,13,Composting toilets,0.008,Uganda AIDS Indicator Survey (UAIS) - AIS11
+Uganda,UG,UGA,800,Urban,14,Other improved,0.0,Uganda AIDS Indicator Survey (UAIS) - AIS11
+Uganda,UG,UGA,800,Urban,15,"No facility, bush, field",0.017,Uganda AIDS Indicator Survey (UAIS) - AIS11
+Uganda,UG,UGA,800,Urban,16,Other unimproved,0.001,Uganda AIDS Indicator Survey (UAIS) - AIS11
+Uganda,UG,UGA,800,Urban,17,DK/missing information,0.0,Uganda AIDS Indicator Survey (UAIS) - AIS11
+Uganda,UG,UGA,800,Rural,1,Flush and pour flush - to piped sewer system,0.001,Uganda AIDS Indicator Survey (UAIS) - AIS11
+Uganda,UG,UGA,800,Rural,2,Flush and pour flush - to septic tank,0.0,Uganda AIDS Indicator Survey (UAIS) - AIS11
+Uganda,UG,UGA,800,Rural,3,Flush and pour flush - to pit,0.0,Uganda AIDS Indicator Survey (UAIS) - AIS11
+Uganda,UG,UGA,800,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Uganda AIDS Indicator Survey (UAIS) - AIS11
+Uganda,UG,UGA,800,Rural,5,Flush and pour flush - to elsewhere,0.0,Uganda AIDS Indicator Survey (UAIS) - AIS11
+Uganda,UG,UGA,800,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.025,Uganda AIDS Indicator Survey (UAIS) - AIS11
+Uganda,UG,UGA,800,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.232,Uganda AIDS Indicator Survey (UAIS) - AIS11
+Uganda,UG,UGA,800,Rural,8,Dry latrines - Traditional latrine,0.0,Uganda AIDS Indicator Survey (UAIS) - AIS11
+Uganda,UG,UGA,800,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.622,Uganda AIDS Indicator Survey (UAIS) - AIS11
+Uganda,UG,UGA,800,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Uganda AIDS Indicator Survey (UAIS) - AIS11
+Uganda,UG,UGA,800,Rural,11,Dry latrines - Bucket latrine,0.0,Uganda AIDS Indicator Survey (UAIS) - AIS11
+Uganda,UG,UGA,800,Rural,12,Dry latrines - Other,0.0,Uganda AIDS Indicator Survey (UAIS) - AIS11
+Uganda,UG,UGA,800,Rural,13,Composting toilets,0.002,Uganda AIDS Indicator Survey (UAIS) - AIS11
+Uganda,UG,UGA,800,Rural,14,Other improved,0.0,Uganda AIDS Indicator Survey (UAIS) - AIS11
+Uganda,UG,UGA,800,Rural,15,"No facility, bush, field",0.112,Uganda AIDS Indicator Survey (UAIS) - AIS11
+Uganda,UG,UGA,800,Rural,16,Other unimproved,0.005,Uganda AIDS Indicator Survey (UAIS) - AIS11
+Uganda,UG,UGA,800,Rural,17,DK/missing information,0.0,Uganda AIDS Indicator Survey (UAIS) - AIS11
+Uganda,UG,UGA,800,National,1,Flush and pour flush - to piped sewer system,0.02,Uganda AIDS Indicator Survey (UAIS) - AIS11
+Uganda,UG,UGA,800,National,2,Flush and pour flush - to septic tank,0.0,Uganda AIDS Indicator Survey (UAIS) - AIS11
+Uganda,UG,UGA,800,National,3,Flush and pour flush - to pit,0.0,Uganda AIDS Indicator Survey (UAIS) - AIS11
+Uganda,UG,UGA,800,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Uganda AIDS Indicator Survey (UAIS) - AIS11
+Uganda,UG,UGA,800,National,5,Flush and pour flush - to elsewhere,0.0,Uganda AIDS Indicator Survey (UAIS) - AIS11
+Uganda,UG,UGA,800,National,6,Dry latrines - Ventilated Improved Pit latrine,0.043,Uganda AIDS Indicator Survey (UAIS) - AIS11
+Uganda,UG,UGA,800,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.301,Uganda AIDS Indicator Survey (UAIS) - AIS11
+Uganda,UG,UGA,800,National,8,Dry latrines - Traditional latrine,0.0,Uganda AIDS Indicator Survey (UAIS) - AIS11
+Uganda,UG,UGA,800,National,9,Dry latrines - Pit latrine without slab/open pit,0.535,Uganda AIDS Indicator Survey (UAIS) - AIS11
+Uganda,UG,UGA,800,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Uganda AIDS Indicator Survey (UAIS) - AIS11
+Uganda,UG,UGA,800,National,11,Dry latrines - Bucket latrine,0.0,Uganda AIDS Indicator Survey (UAIS) - AIS11
+Uganda,UG,UGA,800,National,12,Dry latrines - Other,0.0,Uganda AIDS Indicator Survey (UAIS) - AIS11
+Uganda,UG,UGA,800,National,13,Composting toilets,0.003,Uganda AIDS Indicator Survey (UAIS) - AIS11
+Uganda,UG,UGA,800,National,14,Other improved,0.0,Uganda AIDS Indicator Survey (UAIS) - AIS11
+Uganda,UG,UGA,800,National,15,"No facility, bush, field",0.094,Uganda AIDS Indicator Survey (UAIS) - AIS11
+Uganda,UG,UGA,800,National,16,Other unimproved,0.004,Uganda AIDS Indicator Survey (UAIS) - AIS11
+Uganda,UG,UGA,800,National,17,DK/missing information,0.0,Uganda AIDS Indicator Survey (UAIS) - AIS11
+Uganda,UG,UGA,800,Urban,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS11
+Uganda,UG,UGA,800,Urban,2,Flush and pour flush - to septic tank,0.0,Demographic and Health Survey - DHS11
+Uganda,UG,UGA,800,Urban,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS11
+Uganda,UG,UGA,800,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS11
+Uganda,UG,UGA,800,Urban,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS11
+Uganda,UG,UGA,800,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.172,Demographic and Health Survey - DHS11
+Uganda,UG,UGA,800,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.391,Demographic and Health Survey - DHS11
+Uganda,UG,UGA,800,Urban,8,Dry latrines - Traditional latrine,0.019,Demographic and Health Survey - DHS11
+Uganda,UG,UGA,800,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.055,Demographic and Health Survey - DHS11
+Uganda,UG,UGA,800,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS11
+Uganda,UG,UGA,800,Urban,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS11
+Uganda,UG,UGA,800,Urban,12,Dry latrines - Other,0.226,Demographic and Health Survey - DHS11
+Uganda,UG,UGA,800,Urban,13,Composting toilets,0.001,Demographic and Health Survey - DHS11
+Uganda,UG,UGA,800,Urban,14,Other improved,0.002,Demographic and Health Survey - DHS11
+Uganda,UG,UGA,800,Urban,15,"No facility, bush, field",0.017,Demographic and Health Survey - DHS11
+Uganda,UG,UGA,800,Urban,16,Other unimproved,0.002,Demographic and Health Survey - DHS11
+Uganda,UG,UGA,800,Urban,17,DK/missing information,0.0,Demographic and Health Survey - DHS11
+Uganda,UG,UGA,800,Rural,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS11
+Uganda,UG,UGA,800,Rural,2,Flush and pour flush - to septic tank,0.0,Demographic and Health Survey - DHS11
+Uganda,UG,UGA,800,Rural,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS11
+Uganda,UG,UGA,800,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS11
+Uganda,UG,UGA,800,Rural,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS11
+Uganda,UG,UGA,800,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.036,Demographic and Health Survey - DHS11
+Uganda,UG,UGA,800,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.18,Demographic and Health Survey - DHS11
+Uganda,UG,UGA,800,Rural,8,Dry latrines - Traditional latrine,0.033,Demographic and Health Survey - DHS11
+Uganda,UG,UGA,800,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.161,Demographic and Health Survey - DHS11
+Uganda,UG,UGA,800,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS11
+Uganda,UG,UGA,800,Rural,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS11
+Uganda,UG,UGA,800,Rural,12,Dry latrines - Other,0.475,Demographic and Health Survey - DHS11
+Uganda,UG,UGA,800,Rural,13,Composting toilets,0.004,Demographic and Health Survey - DHS11
+Uganda,UG,UGA,800,Rural,14,Other improved,0.0,Demographic and Health Survey - DHS11
+Uganda,UG,UGA,800,Rural,15,"No facility, bush, field",0.107,Demographic and Health Survey - DHS11
+Uganda,UG,UGA,800,Rural,16,Other unimproved,0.001,Demographic and Health Survey - DHS11
+Uganda,UG,UGA,800,Rural,17,DK/missing information,0.0,Demographic and Health Survey - DHS11
+Uganda,UG,UGA,800,National,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS11
+Uganda,UG,UGA,800,National,2,Flush and pour flush - to septic tank,0.0,Demographic and Health Survey - DHS11
+Uganda,UG,UGA,800,National,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS11
+Uganda,UG,UGA,800,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS11
+Uganda,UG,UGA,800,National,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS11
+Uganda,UG,UGA,800,National,6,Dry latrines - Ventilated Improved Pit latrine,0.056,Demographic and Health Survey - DHS11
+Uganda,UG,UGA,800,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.211,Demographic and Health Survey - DHS11
+Uganda,UG,UGA,800,National,8,Dry latrines - Traditional latrine,0.03,Demographic and Health Survey - DHS11
+Uganda,UG,UGA,800,National,9,Dry latrines - Pit latrine without slab/open pit,0.145,Demographic and Health Survey - DHS11
+Uganda,UG,UGA,800,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS11
+Uganda,UG,UGA,800,National,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS11
+Uganda,UG,UGA,800,National,12,Dry latrines - Other,0.438,Demographic and Health Survey - DHS11
+Uganda,UG,UGA,800,National,13,Composting toilets,0.004,Demographic and Health Survey - DHS11
+Uganda,UG,UGA,800,National,14,Other improved,0.001,Demographic and Health Survey - DHS11
+Uganda,UG,UGA,800,National,15,"No facility, bush, field",0.094,Demographic and Health Survey - DHS11
+Uganda,UG,UGA,800,National,16,Other unimproved,0.002,Demographic and Health Survey - DHS11
+Uganda,UG,UGA,800,National,17,DK/missing information,0.0,Demographic and Health Survey - DHS11
+Uganda,UG,UGA,800,Urban,1,Flush and pour flush - to piped sewer system,0.0,National Panel Survey Data 2010-2011 - LSMS11
+Uganda,UG,UGA,800,Urban,2,Flush and pour flush - to septic tank,0.0,National Panel Survey Data 2010-2011 - LSMS11
+Uganda,UG,UGA,800,Urban,3,Flush and pour flush - to pit,0.0,National Panel Survey Data 2010-2011 - LSMS11
+Uganda,UG,UGA,800,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Panel Survey Data 2010-2011 - LSMS11
+Uganda,UG,UGA,800,Urban,5,Flush and pour flush - to elsewhere,0.0,National Panel Survey Data 2010-2011 - LSMS11
+Uganda,UG,UGA,800,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.059,National Panel Survey Data 2010-2011 - LSMS11
+Uganda,UG,UGA,800,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Panel Survey Data 2010-2011 - LSMS11
+Uganda,UG,UGA,800,Urban,8,Dry latrines - Traditional latrine,0.718,National Panel Survey Data 2010-2011 - LSMS11
+Uganda,UG,UGA,800,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.099,National Panel Survey Data 2010-2011 - LSMS11
+Uganda,UG,UGA,800,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.015,National Panel Survey Data 2010-2011 - LSMS11
+Uganda,UG,UGA,800,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Panel Survey Data 2010-2011 - LSMS11
+Uganda,UG,UGA,800,Urban,8,Dry latrines - Traditional latrine,0.379,National Panel Survey Data 2010-2011 - LSMS11
+Uganda,UG,UGA,800,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.044,National Panel Survey Data 2010-2011 - LSMS11
+Uganda,UG,UGA,800,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Panel Survey Data 2010-2011 - LSMS11
+Uganda,UG,UGA,800,Urban,8,Dry latrines - Traditional latrine,0.339,National Panel Survey Data 2010-2011 - LSMS11
+Uganda,UG,UGA,800,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Panel Survey Data 2010-2011 - LSMS11
+Uganda,UG,UGA,800,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Panel Survey Data 2010-2011 - LSMS11
+Uganda,UG,UGA,800,Urban,11,Dry latrines - Bucket latrine,0.0,National Panel Survey Data 2010-2011 - LSMS11
+Uganda,UG,UGA,800,Urban,12,Dry latrines - Other,0.0,National Panel Survey Data 2010-2011 - LSMS11
+Uganda,UG,UGA,800,Urban,13,Composting toilets,0.0,National Panel Survey Data 2010-2011 - LSMS11
+Uganda,UG,UGA,800,Urban,14,Other improved,0.0,National Panel Survey Data 2010-2011 - LSMS11
+Uganda,UG,UGA,800,Urban,15,"No facility, bush, field",0.059,National Panel Survey Data 2010-2011 - LSMS11
+Uganda,UG,UGA,800,Urban,16,Other unimproved,0.001,National Panel Survey Data 2010-2011 - LSMS11
+Uganda,UG,UGA,800,Urban,17,DK/missing information,0.0,National Panel Survey Data 2010-2011 - LSMS11
+Uganda,UG,UGA,800,Rural,1,Flush and pour flush - to piped sewer system,0.0,National Panel Survey Data 2010-2011 - LSMS11
+Uganda,UG,UGA,800,Rural,2,Flush and pour flush - to septic tank,0.0,National Panel Survey Data 2010-2011 - LSMS11
+Uganda,UG,UGA,800,Rural,3,Flush and pour flush - to pit,0.0,National Panel Survey Data 2010-2011 - LSMS11
+Uganda,UG,UGA,800,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Panel Survey Data 2010-2011 - LSMS11
+Uganda,UG,UGA,800,Rural,5,Flush and pour flush - to elsewhere,0.0,National Panel Survey Data 2010-2011 - LSMS11
+Uganda,UG,UGA,800,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.029,National Panel Survey Data 2010-2011 - LSMS11
+Uganda,UG,UGA,800,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Panel Survey Data 2010-2011 - LSMS11
+Uganda,UG,UGA,800,Rural,8,Dry latrines - Traditional latrine,0.766,National Panel Survey Data 2010-2011 - LSMS11
+Uganda,UG,UGA,800,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.105,National Panel Survey Data 2010-2011 - LSMS11
+Uganda,UG,UGA,800,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.017,National Panel Survey Data 2010-2011 - LSMS11
+Uganda,UG,UGA,800,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Panel Survey Data 2010-2011 - LSMS11
+Uganda,UG,UGA,800,Rural,8,Dry latrines - Traditional latrine,0.487,National Panel Survey Data 2010-2011 - LSMS11
+Uganda,UG,UGA,800,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.013,National Panel Survey Data 2010-2011 - LSMS11
+Uganda,UG,UGA,800,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Panel Survey Data 2010-2011 - LSMS11
+Uganda,UG,UGA,800,Rural,8,Dry latrines - Traditional latrine,0.279,National Panel Survey Data 2010-2011 - LSMS11
+Uganda,UG,UGA,800,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Panel Survey Data 2010-2011 - LSMS11
+Uganda,UG,UGA,800,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Panel Survey Data 2010-2011 - LSMS11
+Uganda,UG,UGA,800,Rural,11,Dry latrines - Bucket latrine,0.0,National Panel Survey Data 2010-2011 - LSMS11
+Uganda,UG,UGA,800,Rural,12,Dry latrines - Other,0.0,National Panel Survey Data 2010-2011 - LSMS11
+Uganda,UG,UGA,800,Rural,13,Composting toilets,0.0,National Panel Survey Data 2010-2011 - LSMS11
+Uganda,UG,UGA,800,Rural,14,Other improved,0.0,National Panel Survey Data 2010-2011 - LSMS11
+Uganda,UG,UGA,800,Rural,15,"No facility, bush, field",0.09,National Panel Survey Data 2010-2011 - LSMS11
+Uganda,UG,UGA,800,Rural,16,Other unimproved,0.001,National Panel Survey Data 2010-2011 - LSMS11
+Uganda,UG,UGA,800,Rural,17,DK/missing information,0.0,National Panel Survey Data 2010-2011 - LSMS11
+Uganda,UG,UGA,800,National,1,Flush and pour flush - to piped sewer system,0.0,National Panel Survey Data 2010-2011 - LSMS11
+Uganda,UG,UGA,800,National,2,Flush and pour flush - to septic tank,0.0,National Panel Survey Data 2010-2011 - LSMS11
+Uganda,UG,UGA,800,National,3,Flush and pour flush - to pit,0.0,National Panel Survey Data 2010-2011 - LSMS11
+Uganda,UG,UGA,800,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Panel Survey Data 2010-2011 - LSMS11
+Uganda,UG,UGA,800,National,5,Flush and pour flush - to elsewhere,0.0,National Panel Survey Data 2010-2011 - LSMS11
+Uganda,UG,UGA,800,National,6,Dry latrines - Ventilated Improved Pit latrine,0.034,National Panel Survey Data 2010-2011 - LSMS11
+Uganda,UG,UGA,800,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Panel Survey Data 2010-2011 - LSMS11
+Uganda,UG,UGA,800,National,8,Dry latrines - Traditional latrine,0.758,National Panel Survey Data 2010-2011 - LSMS11
+Uganda,UG,UGA,800,National,9,Dry latrines - Pit latrine without slab/open pit,0.104,National Panel Survey Data 2010-2011 - LSMS11
+Uganda,UG,UGA,800,National,6,Dry latrines - Ventilated Improved Pit latrine,0.016,National Panel Survey Data 2010-2011 - LSMS11
+Uganda,UG,UGA,800,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Panel Survey Data 2010-2011 - LSMS11
+Uganda,UG,UGA,800,National,8,Dry latrines - Traditional latrine,0.469,National Panel Survey Data 2010-2011 - LSMS11
+Uganda,UG,UGA,800,National,6,Dry latrines - Ventilated Improved Pit latrine,0.018,National Panel Survey Data 2010-2011 - LSMS11
+Uganda,UG,UGA,800,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Panel Survey Data 2010-2011 - LSMS11
+Uganda,UG,UGA,800,National,8,Dry latrines - Traditional latrine,0.289,National Panel Survey Data 2010-2011 - LSMS11
+Uganda,UG,UGA,800,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Panel Survey Data 2010-2011 - LSMS11
+Uganda,UG,UGA,800,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Panel Survey Data 2010-2011 - LSMS11
+Uganda,UG,UGA,800,National,11,Dry latrines - Bucket latrine,0.0,National Panel Survey Data 2010-2011 - LSMS11
+Uganda,UG,UGA,800,National,12,Dry latrines - Other,0.0,National Panel Survey Data 2010-2011 - LSMS11
+Uganda,UG,UGA,800,National,13,Composting toilets,0.0,National Panel Survey Data 2010-2011 - LSMS11
+Uganda,UG,UGA,800,National,14,Other improved,0.0,National Panel Survey Data 2010-2011 - LSMS11
+Uganda,UG,UGA,800,National,15,"No facility, bush, field",0.085,National Panel Survey Data 2010-2011 - LSMS11
+Uganda,UG,UGA,800,National,16,Other unimproved,0.001,National Panel Survey Data 2010-2011 - LSMS11
+Uganda,UG,UGA,800,National,17,DK/missing information,0.0,National Panel Survey Data 2010-2011 - LSMS11
+Uganda,UG,UGA,800,Urban,1,Flush and pour flush - to piped sewer system,0.0,Living standards measurement survey - LSMS12
+Uganda,UG,UGA,800,Urban,2,Flush and pour flush - to septic tank,0.0,Living standards measurement survey - LSMS12
+Uganda,UG,UGA,800,Urban,3,Flush and pour flush - to pit,0.0,Living standards measurement survey - LSMS12
+Uganda,UG,UGA,800,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Living standards measurement survey - LSMS12
+Uganda,UG,UGA,800,Urban,5,Flush and pour flush - to elsewhere,0.0,Living standards measurement survey - LSMS12
+Uganda,UG,UGA,800,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.057,Living standards measurement survey - LSMS12
+Uganda,UG,UGA,800,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Living standards measurement survey - LSMS12
+Uganda,UG,UGA,800,Urban,8,Dry latrines - Traditional latrine,0.702,Living standards measurement survey - LSMS12
+Uganda,UG,UGA,800,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.109,Living standards measurement survey - LSMS12
+Uganda,UG,UGA,800,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.017,Living standards measurement survey - LSMS12
+Uganda,UG,UGA,800,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Living standards measurement survey - LSMS12
+Uganda,UG,UGA,800,Urban,8,Dry latrines - Traditional latrine,0.258,Living standards measurement survey - LSMS12
+Uganda,UG,UGA,800,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.04,Living standards measurement survey - LSMS12
+Uganda,UG,UGA,800,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Living standards measurement survey - LSMS12
+Uganda,UG,UGA,800,Urban,8,Dry latrines - Traditional latrine,0.444,Living standards measurement survey - LSMS12
+Uganda,UG,UGA,800,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Living standards measurement survey - LSMS12
+Uganda,UG,UGA,800,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Living standards measurement survey - LSMS12
+Uganda,UG,UGA,800,Urban,11,Dry latrines - Bucket latrine,0.0,Living standards measurement survey - LSMS12
+Uganda,UG,UGA,800,Urban,12,Dry latrines - Other,0.0,Living standards measurement survey - LSMS12
+Uganda,UG,UGA,800,Urban,13,Composting toilets,0.0,Living standards measurement survey - LSMS12
+Uganda,UG,UGA,800,Urban,14,Other improved,0.0,Living standards measurement survey - LSMS12
+Uganda,UG,UGA,800,Urban,15,"No facility, bush, field",0.032,Living standards measurement survey - LSMS12
+Uganda,UG,UGA,800,Urban,16,Other unimproved,0.001,Living standards measurement survey - LSMS12
+Uganda,UG,UGA,800,Urban,17,DK/missing information,0.0,Living standards measurement survey - LSMS12
+Uganda,UG,UGA,800,Rural,1,Flush and pour flush - to piped sewer system,0.0,Living standards measurement survey - LSMS12
+Uganda,UG,UGA,800,Rural,2,Flush and pour flush - to septic tank,0.0,Living standards measurement survey - LSMS12
+Uganda,UG,UGA,800,Rural,3,Flush and pour flush - to pit,0.0,Living standards measurement survey - LSMS12
+Uganda,UG,UGA,800,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Living standards measurement survey - LSMS12
+Uganda,UG,UGA,800,Rural,5,Flush and pour flush - to elsewhere,0.0,Living standards measurement survey - LSMS12
+Uganda,UG,UGA,800,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.028,Living standards measurement survey - LSMS12
+Uganda,UG,UGA,800,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Living standards measurement survey - LSMS12
+Uganda,UG,UGA,800,Rural,8,Dry latrines - Traditional latrine,0.699,Living standards measurement survey - LSMS12
+Uganda,UG,UGA,800,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.183,Living standards measurement survey - LSMS12
+Uganda,UG,UGA,800,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.011,Living standards measurement survey - LSMS12
+Uganda,UG,UGA,800,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Living standards measurement survey - LSMS12
+Uganda,UG,UGA,800,Rural,8,Dry latrines - Traditional latrine,0.411,Living standards measurement survey - LSMS12
+Uganda,UG,UGA,800,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.017,Living standards measurement survey - LSMS12
+Uganda,UG,UGA,800,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Living standards measurement survey - LSMS12
+Uganda,UG,UGA,800,Rural,8,Dry latrines - Traditional latrine,0.288,Living standards measurement survey - LSMS12
+Uganda,UG,UGA,800,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Living standards measurement survey - LSMS12
+Uganda,UG,UGA,800,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Living standards measurement survey - LSMS12
+Uganda,UG,UGA,800,Rural,11,Dry latrines - Bucket latrine,0.0,Living standards measurement survey - LSMS12
+Uganda,UG,UGA,800,Rural,12,Dry latrines - Other,0.0,Living standards measurement survey - LSMS12
+Uganda,UG,UGA,800,Rural,13,Composting toilets,0.0,Living standards measurement survey - LSMS12
+Uganda,UG,UGA,800,Rural,14,Other improved,0.0,Living standards measurement survey - LSMS12
+Uganda,UG,UGA,800,Rural,15,"No facility, bush, field",0.079,Living standards measurement survey - LSMS12
+Uganda,UG,UGA,800,Rural,16,Other unimproved,0.004,Living standards measurement survey - LSMS12
+Uganda,UG,UGA,800,Rural,17,DK/missing information,0.0,Living standards measurement survey - LSMS12
+Uganda,UG,UGA,800,National,1,Flush and pour flush - to piped sewer system,0.0,Living standards measurement survey - LSMS12
+Uganda,UG,UGA,800,National,2,Flush and pour flush - to septic tank,0.0,Living standards measurement survey - LSMS12
+Uganda,UG,UGA,800,National,3,Flush and pour flush - to pit,0.0,Living standards measurement survey - LSMS12
+Uganda,UG,UGA,800,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Living standards measurement survey - LSMS12
+Uganda,UG,UGA,800,National,5,Flush and pour flush - to elsewhere,0.0,Living standards measurement survey - LSMS12
+Uganda,UG,UGA,800,National,6,Dry latrines - Ventilated Improved Pit latrine,0.033,Living standards measurement survey - LSMS12
+Uganda,UG,UGA,800,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Living standards measurement survey - LSMS12
+Uganda,UG,UGA,800,National,8,Dry latrines - Traditional latrine,0.699,Living standards measurement survey - LSMS12
+Uganda,UG,UGA,800,National,6,Dry latrines - Ventilated Improved Pit latrine,0.012,Living standards measurement survey - LSMS12
+Uganda,UG,UGA,800,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Living standards measurement survey - LSMS12
+Uganda,UG,UGA,800,National,8,Dry latrines - Traditional latrine,0.382,Living standards measurement survey - LSMS12
+Uganda,UG,UGA,800,National,6,Dry latrines - Ventilated Improved Pit latrine,0.021,Living standards measurement survey - LSMS12
+Uganda,UG,UGA,800,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Living standards measurement survey - LSMS12
+Uganda,UG,UGA,800,National,8,Dry latrines - Traditional latrine,0.317,Living standards measurement survey - LSMS12
+Uganda,UG,UGA,800,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Living standards measurement survey - LSMS12
+Uganda,UG,UGA,800,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Living standards measurement survey - LSMS12
+Uganda,UG,UGA,800,National,11,Dry latrines - Bucket latrine,0.0,Living standards measurement survey - LSMS12
+Uganda,UG,UGA,800,National,12,Dry latrines - Other,0.0,Living standards measurement survey - LSMS12
+Uganda,UG,UGA,800,National,13,Composting toilets,0.0,Living standards measurement survey - LSMS12
+Uganda,UG,UGA,800,National,14,Other improved,0.0,Living standards measurement survey - LSMS12
+Uganda,UG,UGA,800,National,15,"No facility, bush, field",0.07,Living standards measurement survey - LSMS12
+Uganda,UG,UGA,800,National,16,Other unimproved,0.004,Living standards measurement survey - LSMS12
+Uganda,UG,UGA,800,National,17,DK/missing information,0.0,Living standards measurement survey - LSMS12
+Uganda,UG,UGA,800,Urban,1,Flush and pour flush - to piped sewer system,0.0,"Uganda National Panel Survey, 2013-2014 - UNPS14"
+Uganda,UG,UGA,800,Urban,2,Flush and pour flush - to septic tank,0.0,"Uganda National Panel Survey, 2013-2014 - UNPS14"
+Uganda,UG,UGA,800,Urban,3,Flush and pour flush - to pit,0.0,"Uganda National Panel Survey, 2013-2014 - UNPS14"
+Uganda,UG,UGA,800,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Uganda National Panel Survey, 2013-2014 - UNPS14"
+Uganda,UG,UGA,800,Urban,5,Flush and pour flush - to elsewhere,0.0,"Uganda National Panel Survey, 2013-2014 - UNPS14"
+Uganda,UG,UGA,800,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.114,"Uganda National Panel Survey, 2013-2014 - UNPS14"
+Uganda,UG,UGA,800,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.501,"Uganda National Panel Survey, 2013-2014 - UNPS14"
+Uganda,UG,UGA,800,Urban,8,Dry latrines - Traditional latrine,0.0,"Uganda National Panel Survey, 2013-2014 - UNPS14"
+Uganda,UG,UGA,800,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.218,"Uganda National Panel Survey, 2013-2014 - UNPS14"
+Uganda,UG,UGA,800,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Uganda National Panel Survey, 2013-2014 - UNPS14"
+Uganda,UG,UGA,800,Urban,11,Dry latrines - Bucket latrine,0.0,"Uganda National Panel Survey, 2013-2014 - UNPS14"
+Uganda,UG,UGA,800,Urban,12,Dry latrines - Other,0.0,"Uganda National Panel Survey, 2013-2014 - UNPS14"
+Uganda,UG,UGA,800,Urban,13,Composting toilets,0.002,"Uganda National Panel Survey, 2013-2014 - UNPS14"
+Uganda,UG,UGA,800,Urban,14,Other improved,0.027,"Uganda National Panel Survey, 2013-2014 - UNPS14"
+Uganda,UG,UGA,800,Urban,15,"No facility, bush, field",0.012,"Uganda National Panel Survey, 2013-2014 - UNPS14"
+Uganda,UG,UGA,800,Urban,16,Other unimproved,0.065,"Uganda National Panel Survey, 2013-2014 - UNPS14"
+Uganda,UG,UGA,800,Urban,17,DK/missing information,0.0,"Uganda National Panel Survey, 2013-2014 - UNPS14"
+Uganda,UG,UGA,800,Rural,1,Flush and pour flush - to piped sewer system,0.0,"Uganda National Panel Survey, 2013-2014 - UNPS14"
+Uganda,UG,UGA,800,Rural,2,Flush and pour flush - to septic tank,0.0,"Uganda National Panel Survey, 2013-2014 - UNPS14"
+Uganda,UG,UGA,800,Rural,3,Flush and pour flush - to pit,0.0,"Uganda National Panel Survey, 2013-2014 - UNPS14"
+Uganda,UG,UGA,800,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Uganda National Panel Survey, 2013-2014 - UNPS14"
+Uganda,UG,UGA,800,Rural,5,Flush and pour flush - to elsewhere,0.0,"Uganda National Panel Survey, 2013-2014 - UNPS14"
+Uganda,UG,UGA,800,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.015,"Uganda National Panel Survey, 2013-2014 - UNPS14"
+Uganda,UG,UGA,800,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.19,"Uganda National Panel Survey, 2013-2014 - UNPS14"
+Uganda,UG,UGA,800,Rural,8,Dry latrines - Traditional latrine,0.0,"Uganda National Panel Survey, 2013-2014 - UNPS14"
+Uganda,UG,UGA,800,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.526,"Uganda National Panel Survey, 2013-2014 - UNPS14"
+Uganda,UG,UGA,800,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Uganda National Panel Survey, 2013-2014 - UNPS14"
+Uganda,UG,UGA,800,Rural,11,Dry latrines - Bucket latrine,0.0,"Uganda National Panel Survey, 2013-2014 - UNPS14"
+Uganda,UG,UGA,800,Rural,12,Dry latrines - Other,0.0,"Uganda National Panel Survey, 2013-2014 - UNPS14"
+Uganda,UG,UGA,800,Rural,13,Composting toilets,0.002,"Uganda National Panel Survey, 2013-2014 - UNPS14"
+Uganda,UG,UGA,800,Rural,14,Other improved,0.022,"Uganda National Panel Survey, 2013-2014 - UNPS14"
+Uganda,UG,UGA,800,Rural,15,"No facility, bush, field",0.085,"Uganda National Panel Survey, 2013-2014 - UNPS14"
+Uganda,UG,UGA,800,Rural,16,Other unimproved,0.16,"Uganda National Panel Survey, 2013-2014 - UNPS14"
+Uganda,UG,UGA,800,Rural,17,DK/missing information,0.0,"Uganda National Panel Survey, 2013-2014 - UNPS14"
+Uganda,UG,UGA,800,National,1,Flush and pour flush - to piped sewer system,0.0,"Uganda National Panel Survey, 2013-2014 - UNPS14"
+Uganda,UG,UGA,800,National,2,Flush and pour flush - to septic tank,0.0,"Uganda National Panel Survey, 2013-2014 - UNPS14"
+Uganda,UG,UGA,800,National,3,Flush and pour flush - to pit,0.0,"Uganda National Panel Survey, 2013-2014 - UNPS14"
+Uganda,UG,UGA,800,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Uganda National Panel Survey, 2013-2014 - UNPS14"
+Uganda,UG,UGA,800,National,5,Flush and pour flush - to elsewhere,0.0,"Uganda National Panel Survey, 2013-2014 - UNPS14"
+Uganda,UG,UGA,800,National,6,Dry latrines - Ventilated Improved Pit latrine,0.038,"Uganda National Panel Survey, 2013-2014 - UNPS14"
+Uganda,UG,UGA,800,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.263,"Uganda National Panel Survey, 2013-2014 - UNPS14"
+Uganda,UG,UGA,800,National,8,Dry latrines - Traditional latrine,0.0,"Uganda National Panel Survey, 2013-2014 - UNPS14"
+Uganda,UG,UGA,800,National,9,Dry latrines - Pit latrine without slab/open pit,0.454,"Uganda National Panel Survey, 2013-2014 - UNPS14"
+Uganda,UG,UGA,800,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Uganda National Panel Survey, 2013-2014 - UNPS14"
+Uganda,UG,UGA,800,National,11,Dry latrines - Bucket latrine,0.0,"Uganda National Panel Survey, 2013-2014 - UNPS14"
+Uganda,UG,UGA,800,National,12,Dry latrines - Other,0.0,"Uganda National Panel Survey, 2013-2014 - UNPS14"
+Uganda,UG,UGA,800,National,13,Composting toilets,0.002,"Uganda National Panel Survey, 2013-2014 - UNPS14"
+Uganda,UG,UGA,800,National,14,Other improved,0.023,"Uganda National Panel Survey, 2013-2014 - UNPS14"
+Uganda,UG,UGA,800,National,15,"No facility, bush, field",0.068,"Uganda National Panel Survey, 2013-2014 - UNPS14"
+Uganda,UG,UGA,800,National,16,Other unimproved,0.138,"Uganda National Panel Survey, 2013-2014 - UNPS14"
+Uganda,UG,UGA,800,National,17,DK/missing information,0.0,"Uganda National Panel Survey, 2013-2014 - UNPS14"
+Uganda,UG,UGA,800,Urban,1,Flush and pour flush - to piped sewer system,0.0,"National Population and Housing Census, 2014 - CEN14"
+Uganda,UG,UGA,800,Urban,2,Flush and pour flush - to septic tank,0.0,"National Population and Housing Census, 2014 - CEN14"
+Uganda,UG,UGA,800,Urban,3,Flush and pour flush - to pit,0.0,"National Population and Housing Census, 2014 - CEN14"
+Uganda,UG,UGA,800,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"National Population and Housing Census, 2014 - CEN14"
+Uganda,UG,UGA,800,Urban,5,Flush and pour flush - to elsewhere,0.0,"National Population and Housing Census, 2014 - CEN14"
+Uganda,UG,UGA,800,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.219,"National Population and Housing Census, 2014 - CEN14"
+Uganda,UG,UGA,800,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.317,"National Population and Housing Census, 2014 - CEN14"
+Uganda,UG,UGA,800,Urban,8,Dry latrines - Traditional latrine,0.083,"National Population and Housing Census, 2014 - CEN14"
+Uganda,UG,UGA,800,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.202,"National Population and Housing Census, 2014 - CEN14"
+Uganda,UG,UGA,800,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"National Population and Housing Census, 2014 - CEN14"
+Uganda,UG,UGA,800,Urban,11,Dry latrines - Bucket latrine,0.0,"National Population and Housing Census, 2014 - CEN14"
+Uganda,UG,UGA,800,Urban,12,Dry latrines - Other,0.0,"National Population and Housing Census, 2014 - CEN14"
+Uganda,UG,UGA,800,Urban,13,Composting toilets,0.006,"National Population and Housing Census, 2014 - CEN14"
+Uganda,UG,UGA,800,Urban,14,Other improved,0.052,"National Population and Housing Census, 2014 - CEN14"
+Uganda,UG,UGA,800,Urban,15,"No facility, bush, field",0.025,"National Population and Housing Census, 2014 - CEN14"
+Uganda,UG,UGA,800,Urban,16,Other unimproved,0.005,"National Population and Housing Census, 2014 - CEN14"
+Uganda,UG,UGA,800,Urban,17,DK/missing information,0.0,"National Population and Housing Census, 2014 - CEN14"
+Uganda,UG,UGA,800,Rural,1,Flush and pour flush - to piped sewer system,0.0,"National Population and Housing Census, 2014 - CEN14"
+Uganda,UG,UGA,800,Rural,2,Flush and pour flush - to septic tank,0.0,"National Population and Housing Census, 2014 - CEN14"
+Uganda,UG,UGA,800,Rural,3,Flush and pour flush - to pit,0.0,"National Population and Housing Census, 2014 - CEN14"
+Uganda,UG,UGA,800,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"National Population and Housing Census, 2014 - CEN14"
+Uganda,UG,UGA,800,Rural,5,Flush and pour flush - to elsewhere,0.0,"National Population and Housing Census, 2014 - CEN14"
+Uganda,UG,UGA,800,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.053,"National Population and Housing Census, 2014 - CEN14"
+Uganda,UG,UGA,800,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.173,"National Population and Housing Census, 2014 - CEN14"
+Uganda,UG,UGA,800,Rural,8,Dry latrines - Traditional latrine,0.211,"National Population and Housing Census, 2014 - CEN14"
+Uganda,UG,UGA,800,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.369,"National Population and Housing Census, 2014 - CEN14"
+Uganda,UG,UGA,800,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"National Population and Housing Census, 2014 - CEN14"
+Uganda,UG,UGA,800,Rural,11,Dry latrines - Bucket latrine,0.0,"National Population and Housing Census, 2014 - CEN14"
+Uganda,UG,UGA,800,Rural,12,Dry latrines - Other,0.0,"National Population and Housing Census, 2014 - CEN14"
+Uganda,UG,UGA,800,Rural,13,Composting toilets,0.01,"National Population and Housing Census, 2014 - CEN14"
+Uganda,UG,UGA,800,Rural,14,Other improved,0.067,"National Population and Housing Census, 2014 - CEN14"
+Uganda,UG,UGA,800,Rural,15,"No facility, bush, field",0.101,"National Population and Housing Census, 2014 - CEN14"
+Uganda,UG,UGA,800,Rural,16,Other unimproved,0.013,"National Population and Housing Census, 2014 - CEN14"
+Uganda,UG,UGA,800,Rural,17,DK/missing information,0.0,"National Population and Housing Census, 2014 - CEN14"
+Uganda,UG,UGA,800,National,1,Flush and pour flush - to piped sewer system,0.0,"National Population and Housing Census, 2014 - CEN14"
+Uganda,UG,UGA,800,National,2,Flush and pour flush - to septic tank,0.0,"National Population and Housing Census, 2014 - CEN14"
+Uganda,UG,UGA,800,National,3,Flush and pour flush - to pit,0.0,"National Population and Housing Census, 2014 - CEN14"
+Uganda,UG,UGA,800,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"National Population and Housing Census, 2014 - CEN14"
+Uganda,UG,UGA,800,National,5,Flush and pour flush - to elsewhere,0.0,"National Population and Housing Census, 2014 - CEN14"
+Uganda,UG,UGA,800,National,6,Dry latrines - Ventilated Improved Pit latrine,0.093,"National Population and Housing Census, 2014 - CEN14"
+Uganda,UG,UGA,800,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.208,"National Population and Housing Census, 2014 - CEN14"
+Uganda,UG,UGA,800,National,8,Dry latrines - Traditional latrine,0.179,"National Population and Housing Census, 2014 - CEN14"
+Uganda,UG,UGA,800,National,9,Dry latrines - Pit latrine without slab/open pit,0.328,"National Population and Housing Census, 2014 - CEN14"
+Uganda,UG,UGA,800,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"National Population and Housing Census, 2014 - CEN14"
+Uganda,UG,UGA,800,National,11,Dry latrines - Bucket latrine,0.0,"National Population and Housing Census, 2014 - CEN14"
+Uganda,UG,UGA,800,National,12,Dry latrines - Other,0.0,"National Population and Housing Census, 2014 - CEN14"
+Uganda,UG,UGA,800,National,13,Composting toilets,0.009,"National Population and Housing Census, 2014 - CEN14"
+Uganda,UG,UGA,800,National,14,Other improved,0.063,"National Population and Housing Census, 2014 - CEN14"
+Uganda,UG,UGA,800,National,15,"No facility, bush, field",0.083,"National Population and Housing Census, 2014 - CEN14"
+Uganda,UG,UGA,800,National,16,Other unimproved,0.011,"National Population and Housing Census, 2014 - CEN14"
+Uganda,UG,UGA,800,National,17,DK/missing information,0.0,"National Population and Housing Census, 2014 - CEN14"
 Uganda,UG,UGA,800,Urban,1,Flush and pour flush - to piped sewer system,0.028,"Malaria Indicator Survey, 2014-2015 - MIS15"
 Uganda,UG,UGA,800,Urban,2,Flush and pour flush - to septic tank,0.054,"Malaria Indicator Survey, 2014-2015 - MIS15"
 Uganda,UG,UGA,800,Urban,3,Flush and pour flush - to pit,0.003,"Malaria Indicator Survey, 2014-2015 - MIS15"
@@ -33,6 +1007,74 @@ Uganda,UG,UGA,800,Rural,14,Other improved,0.031,"Malaria Indicator Survey, 2014-
 Uganda,UG,UGA,800,Rural,15,"No facility, bush, field",0.067,"Malaria Indicator Survey, 2014-2015 - MIS15"
 Uganda,UG,UGA,800,Rural,16,Other unimproved,0.172,"Malaria Indicator Survey, 2014-2015 - MIS15"
 Uganda,UG,UGA,800,Rural,17,DK/missing information,0.0,"Malaria Indicator Survey, 2014-2015 - MIS15"
+Uganda,UG,UGA,800,National,1,Flush and pour flush - to piped sewer system,0.007,"Malaria Indicator Survey, 2014-2015 - MIS15"
+Uganda,UG,UGA,800,National,2,Flush and pour flush - to septic tank,0.012,"Malaria Indicator Survey, 2014-2015 - MIS15"
+Uganda,UG,UGA,800,National,3,Flush and pour flush - to pit,0.001,"Malaria Indicator Survey, 2014-2015 - MIS15"
+Uganda,UG,UGA,800,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Malaria Indicator Survey, 2014-2015 - MIS15"
+Uganda,UG,UGA,800,National,5,Flush and pour flush - to elsewhere,0.0,"Malaria Indicator Survey, 2014-2015 - MIS15"
+Uganda,UG,UGA,800,National,6,Dry latrines - Ventilated Improved Pit latrine,0.1,"Malaria Indicator Survey, 2014-2015 - MIS15"
+Uganda,UG,UGA,800,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.169,"Malaria Indicator Survey, 2014-2015 - MIS15"
+Uganda,UG,UGA,800,National,8,Dry latrines - Traditional latrine,0.0,"Malaria Indicator Survey, 2014-2015 - MIS15"
+Uganda,UG,UGA,800,National,9,Dry latrines - Pit latrine without slab/open pit,0.467,"Malaria Indicator Survey, 2014-2015 - MIS15"
+Uganda,UG,UGA,800,National,10,Dry latrines - Hanging toilet/hanging latrine,0.009,"Malaria Indicator Survey, 2014-2015 - MIS15"
+Uganda,UG,UGA,800,National,11,Dry latrines - Bucket latrine,0.0,"Malaria Indicator Survey, 2014-2015 - MIS15"
+Uganda,UG,UGA,800,National,12,Dry latrines - Other,0.0,"Malaria Indicator Survey, 2014-2015 - MIS15"
+Uganda,UG,UGA,800,National,13,Composting toilets,0.001,"Malaria Indicator Survey, 2014-2015 - MIS15"
+Uganda,UG,UGA,800,National,14,Other improved,0.031,"Malaria Indicator Survey, 2014-2015 - MIS15"
+Uganda,UG,UGA,800,National,15,"No facility, bush, field",0.056,"Malaria Indicator Survey, 2014-2015 - MIS15"
+Uganda,UG,UGA,800,National,16,Other unimproved,0.147,"Malaria Indicator Survey, 2014-2015 - MIS15"
+Uganda,UG,UGA,800,National,17,DK/missing information,0.0,"Malaria Indicator Survey, 2014-2015 - MIS15"
+Uganda,UG,UGA,800,Urban,1,Flush and pour flush - to piped sewer system,0.0,National Service Delivery Survey - NSDS15
+Uganda,UG,UGA,800,Urban,2,Flush and pour flush - to septic tank,0.0,National Service Delivery Survey - NSDS15
+Uganda,UG,UGA,800,Urban,3,Flush and pour flush - to pit,0.0,National Service Delivery Survey - NSDS15
+Uganda,UG,UGA,800,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Service Delivery Survey - NSDS15
+Uganda,UG,UGA,800,Urban,5,Flush and pour flush - to elsewhere,0.0,National Service Delivery Survey - NSDS15
+Uganda,UG,UGA,800,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.14,National Service Delivery Survey - NSDS15
+Uganda,UG,UGA,800,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.47,National Service Delivery Survey - NSDS15
+Uganda,UG,UGA,800,Urban,8,Dry latrines - Traditional latrine,0.0,National Service Delivery Survey - NSDS15
+Uganda,UG,UGA,800,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.22,National Service Delivery Survey - NSDS15
+Uganda,UG,UGA,800,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Service Delivery Survey - NSDS15
+Uganda,UG,UGA,800,Urban,11,Dry latrines - Bucket latrine,0.0,National Service Delivery Survey - NSDS15
+Uganda,UG,UGA,800,Urban,12,Dry latrines - Other,0.03,National Service Delivery Survey - NSDS15
+Uganda,UG,UGA,800,Urban,13,Composting toilets,0.0,National Service Delivery Survey - NSDS15
+Uganda,UG,UGA,800,Urban,14,Other improved,0.03,National Service Delivery Survey - NSDS15
+Uganda,UG,UGA,800,Urban,15,"No facility, bush, field",0.02,National Service Delivery Survey - NSDS15
+Uganda,UG,UGA,800,Urban,16,Other unimproved,0.0,National Service Delivery Survey - NSDS15
+Uganda,UG,UGA,800,Urban,17,DK/missing information,0.0,National Service Delivery Survey - NSDS15
+Uganda,UG,UGA,800,Rural,1,Flush and pour flush - to piped sewer system,0.0,National Service Delivery Survey - NSDS15
+Uganda,UG,UGA,800,Rural,2,Flush and pour flush - to septic tank,0.0,National Service Delivery Survey - NSDS15
+Uganda,UG,UGA,800,Rural,3,Flush and pour flush - to pit,0.0,National Service Delivery Survey - NSDS15
+Uganda,UG,UGA,800,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Service Delivery Survey - NSDS15
+Uganda,UG,UGA,800,Rural,5,Flush and pour flush - to elsewhere,0.0,National Service Delivery Survey - NSDS15
+Uganda,UG,UGA,800,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.04,National Service Delivery Survey - NSDS15
+Uganda,UG,UGA,800,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.25,National Service Delivery Survey - NSDS15
+Uganda,UG,UGA,800,Rural,8,Dry latrines - Traditional latrine,0.0,National Service Delivery Survey - NSDS15
+Uganda,UG,UGA,800,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.45,National Service Delivery Survey - NSDS15
+Uganda,UG,UGA,800,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Service Delivery Survey - NSDS15
+Uganda,UG,UGA,800,Rural,11,Dry latrines - Bucket latrine,0.0,National Service Delivery Survey - NSDS15
+Uganda,UG,UGA,800,Rural,12,Dry latrines - Other,0.11,National Service Delivery Survey - NSDS15
+Uganda,UG,UGA,800,Rural,13,Composting toilets,0.0,National Service Delivery Survey - NSDS15
+Uganda,UG,UGA,800,Rural,14,Other improved,0.06,National Service Delivery Survey - NSDS15
+Uganda,UG,UGA,800,Rural,15,"No facility, bush, field",0.08,National Service Delivery Survey - NSDS15
+Uganda,UG,UGA,800,Rural,16,Other unimproved,0.0,National Service Delivery Survey - NSDS15
+Uganda,UG,UGA,800,Rural,17,DK/missing information,0.0,National Service Delivery Survey - NSDS15
+Uganda,UG,UGA,800,National,1,Flush and pour flush - to piped sewer system,0.0,National Service Delivery Survey - NSDS15
+Uganda,UG,UGA,800,National,2,Flush and pour flush - to septic tank,0.0,National Service Delivery Survey - NSDS15
+Uganda,UG,UGA,800,National,3,Flush and pour flush - to pit,0.0,National Service Delivery Survey - NSDS15
+Uganda,UG,UGA,800,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Service Delivery Survey - NSDS15
+Uganda,UG,UGA,800,National,5,Flush and pour flush - to elsewhere,0.0,National Service Delivery Survey - NSDS15
+Uganda,UG,UGA,800,National,6,Dry latrines - Ventilated Improved Pit latrine,0.06,National Service Delivery Survey - NSDS15
+Uganda,UG,UGA,800,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.3,National Service Delivery Survey - NSDS15
+Uganda,UG,UGA,800,National,8,Dry latrines - Traditional latrine,0.0,National Service Delivery Survey - NSDS15
+Uganda,UG,UGA,800,National,9,Dry latrines - Pit latrine without slab/open pit,0.4,National Service Delivery Survey - NSDS15
+Uganda,UG,UGA,800,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Service Delivery Survey - NSDS15
+Uganda,UG,UGA,800,National,11,Dry latrines - Bucket latrine,0.0,National Service Delivery Survey - NSDS15
+Uganda,UG,UGA,800,National,12,Dry latrines - Other,0.09,National Service Delivery Survey - NSDS15
+Uganda,UG,UGA,800,National,13,Composting toilets,0.0,National Service Delivery Survey - NSDS15
+Uganda,UG,UGA,800,National,14,Other improved,0.05,National Service Delivery Survey - NSDS15
+Uganda,UG,UGA,800,National,15,"No facility, bush, field",0.06,National Service Delivery Survey - NSDS15
+Uganda,UG,UGA,800,National,16,Other unimproved,0.0,National Service Delivery Survey - NSDS15
+Uganda,UG,UGA,800,National,17,DK/missing information,0.0,National Service Delivery Survey - NSDS15
 Uganda,UG,UGA,800,Urban,1,Flush and pour flush - to piped sewer system,0.027,Demographic and Health Survey - DHS16
 Uganda,UG,UGA,800,Urban,2,Flush and pour flush - to septic tank,0.072,Demographic and Health Survey - DHS16
 Uganda,UG,UGA,800,Urban,3,Flush and pour flush - to pit,0.016,Demographic and Health Survey - DHS16
@@ -67,6 +1109,23 @@ Uganda,UG,UGA,800,Rural,14,Other improved,0.0,Demographic and Health Survey - DH
 Uganda,UG,UGA,800,Rural,15,"No facility, bush, field",0.071,Demographic and Health Survey - DHS16
 Uganda,UG,UGA,800,Rural,16,Other unimproved,0.003,Demographic and Health Survey - DHS16
 Uganda,UG,UGA,800,Rural,17,DK/missing information,0.0,Demographic and Health Survey - DHS16
+Uganda,UG,UGA,800,National,1,Flush and pour flush - to piped sewer system,0.006,Demographic and Health Survey - DHS16
+Uganda,UG,UGA,800,National,2,Flush and pour flush - to septic tank,0.019,Demographic and Health Survey - DHS16
+Uganda,UG,UGA,800,National,3,Flush and pour flush - to pit,0.004,Demographic and Health Survey - DHS16
+Uganda,UG,UGA,800,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS16
+Uganda,UG,UGA,800,National,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS16
+Uganda,UG,UGA,800,National,6,Dry latrines - Ventilated Improved Pit latrine,0.058,Demographic and Health Survey - DHS16
+Uganda,UG,UGA,800,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.266,Demographic and Health Survey - DHS16
+Uganda,UG,UGA,800,National,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS16
+Uganda,UG,UGA,800,National,9,Dry latrines - Pit latrine without slab/open pit,0.577,Demographic and Health Survey - DHS16
+Uganda,UG,UGA,800,National,10,Dry latrines - Hanging toilet/hanging latrine,0.003,Demographic and Health Survey - DHS16
+Uganda,UG,UGA,800,National,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS16
+Uganda,UG,UGA,800,National,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS16
+Uganda,UG,UGA,800,National,13,Composting toilets,0.001,Demographic and Health Survey - DHS16
+Uganda,UG,UGA,800,National,14,Other improved,0.0,Demographic and Health Survey - DHS16
+Uganda,UG,UGA,800,National,15,"No facility, bush, field",0.061,Demographic and Health Survey - DHS16
+Uganda,UG,UGA,800,National,16,Other unimproved,0.003,Demographic and Health Survey - DHS16
+Uganda,UG,UGA,800,National,17,DK/missing information,0.0,Demographic and Health Survey - DHS16
 Uganda,UG,UGA,800,Urban,1,Flush and pour flush - to piped sewer system,0.014,Performance Monitoring and Accountability - PMA16
 Uganda,UG,UGA,800,Urban,2,Flush and pour flush - to septic tank,0.074,Performance Monitoring and Accountability - PMA16
 Uganda,UG,UGA,800,Urban,3,Flush and pour flush - to pit,0.0,Performance Monitoring and Accountability - PMA16
@@ -101,6 +1160,23 @@ Uganda,UG,UGA,800,Rural,14,Other improved,0.0,Performance Monitoring and Account
 Uganda,UG,UGA,800,Rural,15,"No facility, bush, field",0.104,Performance Monitoring and Accountability - PMA16
 Uganda,UG,UGA,800,Rural,16,Other unimproved,0.015,Performance Monitoring and Accountability - PMA16
 Uganda,UG,UGA,800,Rural,17,DK/missing information,0.0,Performance Monitoring and Accountability - PMA16
+Uganda,UG,UGA,800,National,1,Flush and pour flush - to piped sewer system,0.003,Performance Monitoring and Accountability - PMA16
+Uganda,UG,UGA,800,National,2,Flush and pour flush - to septic tank,0.014,Performance Monitoring and Accountability - PMA16
+Uganda,UG,UGA,800,National,3,Flush and pour flush - to pit,0.0,Performance Monitoring and Accountability - PMA16
+Uganda,UG,UGA,800,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.001,Performance Monitoring and Accountability - PMA16
+Uganda,UG,UGA,800,National,5,Flush and pour flush - to elsewhere,0.001,Performance Monitoring and Accountability - PMA16
+Uganda,UG,UGA,800,National,6,Dry latrines - Ventilated Improved Pit latrine,0.066,Performance Monitoring and Accountability - PMA16
+Uganda,UG,UGA,800,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.174,Performance Monitoring and Accountability - PMA16
+Uganda,UG,UGA,800,National,8,Dry latrines - Traditional latrine,0.0,Performance Monitoring and Accountability - PMA16
+Uganda,UG,UGA,800,National,9,Dry latrines - Pit latrine without slab/open pit,0.629,Performance Monitoring and Accountability - PMA16
+Uganda,UG,UGA,800,National,10,Dry latrines - Hanging toilet/hanging latrine,0.008,Performance Monitoring and Accountability - PMA16
+Uganda,UG,UGA,800,National,11,Dry latrines - Bucket latrine,0.0,Performance Monitoring and Accountability - PMA16
+Uganda,UG,UGA,800,National,12,Dry latrines - Other,0.0,Performance Monitoring and Accountability - PMA16
+Uganda,UG,UGA,800,National,13,Composting toilets,0.001,Performance Monitoring and Accountability - PMA16
+Uganda,UG,UGA,800,National,14,Other improved,0.0,Performance Monitoring and Accountability - PMA16
+Uganda,UG,UGA,800,National,15,"No facility, bush, field",0.09,Performance Monitoring and Accountability - PMA16
+Uganda,UG,UGA,800,National,16,Other unimproved,0.012,Performance Monitoring and Accountability - PMA16
+Uganda,UG,UGA,800,National,17,DK/missing information,0.0,Performance Monitoring and Accountability - PMA16
 Uganda,UG,UGA,800,Urban,1,Flush and pour flush - to piped sewer system,0.014,Performance Monitoring and Accountability - PMA17
 Uganda,UG,UGA,800,Urban,2,Flush and pour flush - to septic tank,0.062,Performance Monitoring and Accountability - PMA17
 Uganda,UG,UGA,800,Urban,3,Flush and pour flush - to pit,0.039,Performance Monitoring and Accountability - PMA17
@@ -135,3 +1211,20 @@ Uganda,UG,UGA,800,Rural,14,Other improved,0.0,Performance Monitoring and Account
 Uganda,UG,UGA,800,Rural,15,"No facility, bush, field",0.081,Performance Monitoring and Accountability - PMA17
 Uganda,UG,UGA,800,Rural,16,Other unimproved,0.009,Performance Monitoring and Accountability - PMA17
 Uganda,UG,UGA,800,Rural,17,DK/missing information,0.001,Performance Monitoring and Accountability - PMA17
+Uganda,UG,UGA,800,National,1,Flush and pour flush - to piped sewer system,0.004,Performance Monitoring and Accountability - PMA17
+Uganda,UG,UGA,800,National,2,Flush and pour flush - to septic tank,0.012,Performance Monitoring and Accountability - PMA17
+Uganda,UG,UGA,800,National,3,Flush and pour flush - to pit,0.007,Performance Monitoring and Accountability - PMA17
+Uganda,UG,UGA,800,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.001,Performance Monitoring and Accountability - PMA17
+Uganda,UG,UGA,800,National,5,Flush and pour flush - to elsewhere,0.0,Performance Monitoring and Accountability - PMA17
+Uganda,UG,UGA,800,National,6,Dry latrines - Ventilated Improved Pit latrine,0.088,Performance Monitoring and Accountability - PMA17
+Uganda,UG,UGA,800,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.187,Performance Monitoring and Accountability - PMA17
+Uganda,UG,UGA,800,National,8,Dry latrines - Traditional latrine,0.0,Performance Monitoring and Accountability - PMA17
+Uganda,UG,UGA,800,National,9,Dry latrines - Pit latrine without slab/open pit,0.618,Performance Monitoring and Accountability - PMA17
+Uganda,UG,UGA,800,National,10,Dry latrines - Hanging toilet/hanging latrine,0.002,Performance Monitoring and Accountability - PMA17
+Uganda,UG,UGA,800,National,11,Dry latrines - Bucket latrine,0.001,Performance Monitoring and Accountability - PMA17
+Uganda,UG,UGA,800,National,12,Dry latrines - Other,0.0,Performance Monitoring and Accountability - PMA17
+Uganda,UG,UGA,800,National,13,Composting toilets,0.002,Performance Monitoring and Accountability - PMA17
+Uganda,UG,UGA,800,National,14,Other improved,0.0,Performance Monitoring and Accountability - PMA17
+Uganda,UG,UGA,800,National,15,"No facility, bush, field",0.069,Performance Monitoring and Accountability - PMA17
+Uganda,UG,UGA,800,National,16,Other unimproved,0.007,Performance Monitoring and Accountability - PMA17
+Uganda,UG,UGA,800,National,17,DK/missing information,0.001,Performance Monitoring and Accountability - PMA17

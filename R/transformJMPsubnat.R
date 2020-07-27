@@ -73,4 +73,4 @@ t_JMPsubnat<-function(contx,myRegions="all"){
   head(out)
   return(out)
 }
-t_JMPsubnat(contx="urban",myRegions="HND")
+#t_JMPsubnat(contx="urban",myRegions="HND")

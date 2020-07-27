@@ -1,0 +1,715 @@
+country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+Greece,GR,GRC,300,Urban,1,Flush and pour flush - to piped sewer system,0.0,Census - CEN11
+Greece,GR,GRC,300,Urban,2,Flush and pour flush - to septic tank,0.0,Census - CEN11
+Greece,GR,GRC,300,Urban,3,Flush and pour flush - to pit,0.0,Census - CEN11
+Greece,GR,GRC,300,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN11
+Greece,GR,GRC,300,Urban,5,Flush and pour flush - to elsewhere,0.0,Census - CEN11
+Greece,GR,GRC,300,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN11
+Greece,GR,GRC,300,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN11
+Greece,GR,GRC,300,Urban,8,Dry latrines - Traditional latrine,0.0,Census - CEN11
+Greece,GR,GRC,300,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN11
+Greece,GR,GRC,300,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN11
+Greece,GR,GRC,300,Urban,11,Dry latrines - Bucket latrine,0.0,Census - CEN11
+Greece,GR,GRC,300,Urban,12,Dry latrines - Other,0.0,Census - CEN11
+Greece,GR,GRC,300,Urban,13,Composting toilets,0.0,Census - CEN11
+Greece,GR,GRC,300,Urban,14,Other improved,0.0,Census - CEN11
+Greece,GR,GRC,300,Urban,15,"No facility, bush, field",0.0,Census - CEN11
+Greece,GR,GRC,300,Urban,16,Other unimproved,0.0,Census - CEN11
+Greece,GR,GRC,300,Urban,17,DK/missing information,0.0,Census - CEN11
+Greece,GR,GRC,300,Rural,1,Flush and pour flush - to piped sewer system,0.0,Census - CEN11
+Greece,GR,GRC,300,Rural,2,Flush and pour flush - to septic tank,0.0,Census - CEN11
+Greece,GR,GRC,300,Rural,3,Flush and pour flush - to pit,0.0,Census - CEN11
+Greece,GR,GRC,300,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN11
+Greece,GR,GRC,300,Rural,5,Flush and pour flush - to elsewhere,0.0,Census - CEN11
+Greece,GR,GRC,300,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN11
+Greece,GR,GRC,300,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN11
+Greece,GR,GRC,300,Rural,8,Dry latrines - Traditional latrine,0.0,Census - CEN11
+Greece,GR,GRC,300,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN11
+Greece,GR,GRC,300,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN11
+Greece,GR,GRC,300,Rural,11,Dry latrines - Bucket latrine,0.0,Census - CEN11
+Greece,GR,GRC,300,Rural,12,Dry latrines - Other,0.0,Census - CEN11
+Greece,GR,GRC,300,Rural,13,Composting toilets,0.0,Census - CEN11
+Greece,GR,GRC,300,Rural,14,Other improved,0.0,Census - CEN11
+Greece,GR,GRC,300,Rural,15,"No facility, bush, field",0.0,Census - CEN11
+Greece,GR,GRC,300,Rural,16,Other unimproved,0.0,Census - CEN11
+Greece,GR,GRC,300,Rural,17,DK/missing information,0.0,Census - CEN11
+Greece,GR,GRC,300,National,1,Flush and pour flush - to piped sewer system,0.0,Census - CEN11
+Greece,GR,GRC,300,National,2,Flush and pour flush - to septic tank,0.0,Census - CEN11
+Greece,GR,GRC,300,National,3,Flush and pour flush - to pit,0.0,Census - CEN11
+Greece,GR,GRC,300,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN11
+Greece,GR,GRC,300,National,5,Flush and pour flush - to elsewhere,0.0,Census - CEN11
+Greece,GR,GRC,300,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN11
+Greece,GR,GRC,300,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN11
+Greece,GR,GRC,300,National,8,Dry latrines - Traditional latrine,0.0,Census - CEN11
+Greece,GR,GRC,300,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN11
+Greece,GR,GRC,300,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN11
+Greece,GR,GRC,300,National,11,Dry latrines - Bucket latrine,0.0,Census - CEN11
+Greece,GR,GRC,300,National,12,Dry latrines - Other,0.0,Census - CEN11
+Greece,GR,GRC,300,National,13,Composting toilets,0.0,Census - CEN11
+Greece,GR,GRC,300,National,14,Other improved,0.0,Census - CEN11
+Greece,GR,GRC,300,National,15,"No facility, bush, field",0.0,Census - CEN11
+Greece,GR,GRC,300,National,16,Other unimproved,0.0,Census - CEN11
+Greece,GR,GRC,300,National,17,DK/missing information,0.0,Census - CEN11
+Greece,GR,GRC,300,Urban,1,Flush and pour flush - to piped sewer system,0.634,National Census  - CEN01
+Greece,GR,GRC,300,Urban,2,Flush and pour flush - to septic tank,0.322,National Census  - CEN01
+Greece,GR,GRC,300,Urban,3,Flush and pour flush - to pit,0.0,National Census  - CEN01
+Greece,GR,GRC,300,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.03,National Census  - CEN01
+Greece,GR,GRC,300,Urban,5,Flush and pour flush - to elsewhere,0.0,National Census  - CEN01
+Greece,GR,GRC,300,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,National Census  - CEN01
+Greece,GR,GRC,300,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Census  - CEN01
+Greece,GR,GRC,300,Urban,8,Dry latrines - Traditional latrine,0.009,National Census  - CEN01
+Greece,GR,GRC,300,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Census  - CEN01
+Greece,GR,GRC,300,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Census  - CEN01
+Greece,GR,GRC,300,Urban,11,Dry latrines - Bucket latrine,0.0,National Census  - CEN01
+Greece,GR,GRC,300,Urban,12,Dry latrines - Other,0.0,National Census  - CEN01
+Greece,GR,GRC,300,Urban,13,Composting toilets,0.0,National Census  - CEN01
+Greece,GR,GRC,300,Urban,14,Other improved,0.0,National Census  - CEN01
+Greece,GR,GRC,300,Urban,15,"No facility, bush, field",0.004,National Census  - CEN01
+Greece,GR,GRC,300,Urban,16,Other unimproved,0.0,National Census  - CEN01
+Greece,GR,GRC,300,Urban,17,DK/missing information,0.0,National Census  - CEN01
+Greece,GR,GRC,300,Rural,1,Flush and pour flush - to piped sewer system,0.12,National Census  - CEN01
+Greece,GR,GRC,300,Rural,2,Flush and pour flush - to septic tank,0.715,National Census  - CEN01
+Greece,GR,GRC,300,Rural,3,Flush and pour flush - to pit,0.0,National Census  - CEN01
+Greece,GR,GRC,300,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.086,National Census  - CEN01
+Greece,GR,GRC,300,Rural,5,Flush and pour flush - to elsewhere,0.0,National Census  - CEN01
+Greece,GR,GRC,300,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,National Census  - CEN01
+Greece,GR,GRC,300,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Census  - CEN01
+Greece,GR,GRC,300,Rural,8,Dry latrines - Traditional latrine,0.046,National Census  - CEN01
+Greece,GR,GRC,300,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Census  - CEN01
+Greece,GR,GRC,300,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Census  - CEN01
+Greece,GR,GRC,300,Rural,11,Dry latrines - Bucket latrine,0.0,National Census  - CEN01
+Greece,GR,GRC,300,Rural,12,Dry latrines - Other,0.0,National Census  - CEN01
+Greece,GR,GRC,300,Rural,13,Composting toilets,0.0,National Census  - CEN01
+Greece,GR,GRC,300,Rural,14,Other improved,0.0,National Census  - CEN01
+Greece,GR,GRC,300,Rural,15,"No facility, bush, field",0.031,National Census  - CEN01
+Greece,GR,GRC,300,Rural,16,Other unimproved,0.0,National Census  - CEN01
+Greece,GR,GRC,300,Rural,17,DK/missing information,0.0,National Census  - CEN01
+Greece,GR,GRC,300,National,1,Flush and pour flush - to piped sewer system,0.0,National Census  - CEN01
+Greece,GR,GRC,300,National,2,Flush and pour flush - to septic tank,0.0,National Census  - CEN01
+Greece,GR,GRC,300,National,3,Flush and pour flush - to pit,0.0,National Census  - CEN01
+Greece,GR,GRC,300,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Census  - CEN01
+Greece,GR,GRC,300,National,5,Flush and pour flush - to elsewhere,0.0,National Census  - CEN01
+Greece,GR,GRC,300,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,National Census  - CEN01
+Greece,GR,GRC,300,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Census  - CEN01
+Greece,GR,GRC,300,National,8,Dry latrines - Traditional latrine,0.0,National Census  - CEN01
+Greece,GR,GRC,300,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Census  - CEN01
+Greece,GR,GRC,300,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Census  - CEN01
+Greece,GR,GRC,300,National,11,Dry latrines - Bucket latrine,0.0,National Census  - CEN01
+Greece,GR,GRC,300,National,12,Dry latrines - Other,0.0,National Census  - CEN01
+Greece,GR,GRC,300,National,13,Composting toilets,0.0,National Census  - CEN01
+Greece,GR,GRC,300,National,14,Other improved,0.0,National Census  - CEN01
+Greece,GR,GRC,300,National,15,"No facility, bush, field",0.0,National Census  - CEN01
+Greece,GR,GRC,300,National,16,Other unimproved,0.0,National Census  - CEN01
+Greece,GR,GRC,300,National,17,DK/missing information,0.0,National Census  - CEN01
+Greece,GR,GRC,300,Urban,1,Flush and pour flush - to piped sewer system,0.836,Household Budget Survey - HBS08
+Greece,GR,GRC,300,Urban,2,Flush and pour flush - to septic tank,0.164,Household Budget Survey - HBS08
+Greece,GR,GRC,300,Urban,3,Flush and pour flush - to pit,0.0,Household Budget Survey - HBS08
+Greece,GR,GRC,300,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey - HBS08
+Greece,GR,GRC,300,Urban,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey - HBS08
+Greece,GR,GRC,300,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey - HBS08
+Greece,GR,GRC,300,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey - HBS08
+Greece,GR,GRC,300,Urban,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey - HBS08
+Greece,GR,GRC,300,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey - HBS08
+Greece,GR,GRC,300,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey - HBS08
+Greece,GR,GRC,300,Urban,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey - HBS08
+Greece,GR,GRC,300,Urban,12,Dry latrines - Other,0.0,Household Budget Survey - HBS08
+Greece,GR,GRC,300,Urban,13,Composting toilets,0.0,Household Budget Survey - HBS08
+Greece,GR,GRC,300,Urban,14,Other improved,0.0,Household Budget Survey - HBS08
+Greece,GR,GRC,300,Urban,15,"No facility, bush, field",0.0,Household Budget Survey - HBS08
+Greece,GR,GRC,300,Urban,16,Other unimproved,0.0,Household Budget Survey - HBS08
+Greece,GR,GRC,300,Urban,17,DK/missing information,0.0,Household Budget Survey - HBS08
+Greece,GR,GRC,300,Rural,1,Flush and pour flush - to piped sewer system,0.231,Household Budget Survey - HBS08
+Greece,GR,GRC,300,Rural,2,Flush and pour flush - to septic tank,0.769,Household Budget Survey - HBS08
+Greece,GR,GRC,300,Rural,3,Flush and pour flush - to pit,0.0,Household Budget Survey - HBS08
+Greece,GR,GRC,300,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey - HBS08
+Greece,GR,GRC,300,Rural,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey - HBS08
+Greece,GR,GRC,300,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey - HBS08
+Greece,GR,GRC,300,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey - HBS08
+Greece,GR,GRC,300,Rural,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey - HBS08
+Greece,GR,GRC,300,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey - HBS08
+Greece,GR,GRC,300,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey - HBS08
+Greece,GR,GRC,300,Rural,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey - HBS08
+Greece,GR,GRC,300,Rural,12,Dry latrines - Other,0.0,Household Budget Survey - HBS08
+Greece,GR,GRC,300,Rural,13,Composting toilets,0.0,Household Budget Survey - HBS08
+Greece,GR,GRC,300,Rural,14,Other improved,0.0,Household Budget Survey - HBS08
+Greece,GR,GRC,300,Rural,15,"No facility, bush, field",0.0,Household Budget Survey - HBS08
+Greece,GR,GRC,300,Rural,16,Other unimproved,0.0,Household Budget Survey - HBS08
+Greece,GR,GRC,300,Rural,17,DK/missing information,0.0,Household Budget Survey - HBS08
+Greece,GR,GRC,300,National,1,Flush and pour flush - to piped sewer system,0.724,Household Budget Survey - HBS08
+Greece,GR,GRC,300,National,2,Flush and pour flush - to septic tank,0.276,Household Budget Survey - HBS08
+Greece,GR,GRC,300,National,3,Flush and pour flush - to pit,0.0,Household Budget Survey - HBS08
+Greece,GR,GRC,300,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey - HBS08
+Greece,GR,GRC,300,National,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey - HBS08
+Greece,GR,GRC,300,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey - HBS08
+Greece,GR,GRC,300,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey - HBS08
+Greece,GR,GRC,300,National,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey - HBS08
+Greece,GR,GRC,300,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey - HBS08
+Greece,GR,GRC,300,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey - HBS08
+Greece,GR,GRC,300,National,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey - HBS08
+Greece,GR,GRC,300,National,12,Dry latrines - Other,0.0,Household Budget Survey - HBS08
+Greece,GR,GRC,300,National,13,Composting toilets,0.0,Household Budget Survey - HBS08
+Greece,GR,GRC,300,National,14,Other improved,0.0,Household Budget Survey - HBS08
+Greece,GR,GRC,300,National,15,"No facility, bush, field",0.0,Household Budget Survey - HBS08
+Greece,GR,GRC,300,National,16,Other unimproved,0.0,Household Budget Survey - HBS08
+Greece,GR,GRC,300,National,17,DK/missing information,0.0,Household Budget Survey - HBS08
+Greece,GR,GRC,300,Urban,1,Flush and pour flush - to piped sewer system,0.85,Household Budget Survey - HBS09
+Greece,GR,GRC,300,Urban,2,Flush and pour flush - to septic tank,0.15,Household Budget Survey - HBS09
+Greece,GR,GRC,300,Urban,3,Flush and pour flush - to pit,0.0,Household Budget Survey - HBS09
+Greece,GR,GRC,300,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey - HBS09
+Greece,GR,GRC,300,Urban,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey - HBS09
+Greece,GR,GRC,300,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey - HBS09
+Greece,GR,GRC,300,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey - HBS09
+Greece,GR,GRC,300,Urban,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey - HBS09
+Greece,GR,GRC,300,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey - HBS09
+Greece,GR,GRC,300,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey - HBS09
+Greece,GR,GRC,300,Urban,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey - HBS09
+Greece,GR,GRC,300,Urban,12,Dry latrines - Other,0.0,Household Budget Survey - HBS09
+Greece,GR,GRC,300,Urban,13,Composting toilets,0.0,Household Budget Survey - HBS09
+Greece,GR,GRC,300,Urban,14,Other improved,0.0,Household Budget Survey - HBS09
+Greece,GR,GRC,300,Urban,15,"No facility, bush, field",0.0,Household Budget Survey - HBS09
+Greece,GR,GRC,300,Urban,16,Other unimproved,0.0,Household Budget Survey - HBS09
+Greece,GR,GRC,300,Urban,17,DK/missing information,0.0,Household Budget Survey - HBS09
+Greece,GR,GRC,300,Rural,1,Flush and pour flush - to piped sewer system,0.27,Household Budget Survey - HBS09
+Greece,GR,GRC,300,Rural,2,Flush and pour flush - to septic tank,0.73,Household Budget Survey - HBS09
+Greece,GR,GRC,300,Rural,3,Flush and pour flush - to pit,0.0,Household Budget Survey - HBS09
+Greece,GR,GRC,300,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey - HBS09
+Greece,GR,GRC,300,Rural,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey - HBS09
+Greece,GR,GRC,300,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey - HBS09
+Greece,GR,GRC,300,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey - HBS09
+Greece,GR,GRC,300,Rural,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey - HBS09
+Greece,GR,GRC,300,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey - HBS09
+Greece,GR,GRC,300,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey - HBS09
+Greece,GR,GRC,300,Rural,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey - HBS09
+Greece,GR,GRC,300,Rural,12,Dry latrines - Other,0.0,Household Budget Survey - HBS09
+Greece,GR,GRC,300,Rural,13,Composting toilets,0.0,Household Budget Survey - HBS09
+Greece,GR,GRC,300,Rural,14,Other improved,0.0,Household Budget Survey - HBS09
+Greece,GR,GRC,300,Rural,15,"No facility, bush, field",0.0,Household Budget Survey - HBS09
+Greece,GR,GRC,300,Rural,16,Other unimproved,0.0,Household Budget Survey - HBS09
+Greece,GR,GRC,300,Rural,17,DK/missing information,0.0,Household Budget Survey - HBS09
+Greece,GR,GRC,300,National,1,Flush and pour flush - to piped sewer system,0.754,Household Budget Survey - HBS09
+Greece,GR,GRC,300,National,2,Flush and pour flush - to septic tank,0.246,Household Budget Survey - HBS09
+Greece,GR,GRC,300,National,3,Flush and pour flush - to pit,0.0,Household Budget Survey - HBS09
+Greece,GR,GRC,300,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey - HBS09
+Greece,GR,GRC,300,National,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey - HBS09
+Greece,GR,GRC,300,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey - HBS09
+Greece,GR,GRC,300,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey - HBS09
+Greece,GR,GRC,300,National,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey - HBS09
+Greece,GR,GRC,300,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey - HBS09
+Greece,GR,GRC,300,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey - HBS09
+Greece,GR,GRC,300,National,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey - HBS09
+Greece,GR,GRC,300,National,12,Dry latrines - Other,0.0,Household Budget Survey - HBS09
+Greece,GR,GRC,300,National,13,Composting toilets,0.0,Household Budget Survey - HBS09
+Greece,GR,GRC,300,National,14,Other improved,0.0,Household Budget Survey - HBS09
+Greece,GR,GRC,300,National,15,"No facility, bush, field",0.0,Household Budget Survey - HBS09
+Greece,GR,GRC,300,National,16,Other unimproved,0.0,Household Budget Survey - HBS09
+Greece,GR,GRC,300,National,17,DK/missing information,0.0,Household Budget Survey - HBS09
+Greece,GR,GRC,300,Urban,1,Flush and pour flush - to piped sewer system,0.867,Household Budget Survey - HBS10
+Greece,GR,GRC,300,Urban,2,Flush and pour flush - to septic tank,0.133,Household Budget Survey - HBS10
+Greece,GR,GRC,300,Urban,3,Flush and pour flush - to pit,0.0,Household Budget Survey - HBS10
+Greece,GR,GRC,300,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey - HBS10
+Greece,GR,GRC,300,Urban,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey - HBS10
+Greece,GR,GRC,300,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey - HBS10
+Greece,GR,GRC,300,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey - HBS10
+Greece,GR,GRC,300,Urban,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey - HBS10
+Greece,GR,GRC,300,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey - HBS10
+Greece,GR,GRC,300,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey - HBS10
+Greece,GR,GRC,300,Urban,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey - HBS10
+Greece,GR,GRC,300,Urban,12,Dry latrines - Other,0.0,Household Budget Survey - HBS10
+Greece,GR,GRC,300,Urban,13,Composting toilets,0.0,Household Budget Survey - HBS10
+Greece,GR,GRC,300,Urban,14,Other improved,0.0,Household Budget Survey - HBS10
+Greece,GR,GRC,300,Urban,15,"No facility, bush, field",0.0,Household Budget Survey - HBS10
+Greece,GR,GRC,300,Urban,16,Other unimproved,0.0,Household Budget Survey - HBS10
+Greece,GR,GRC,300,Urban,17,DK/missing information,0.0,Household Budget Survey - HBS10
+Greece,GR,GRC,300,Rural,1,Flush and pour flush - to piped sewer system,0.256,Household Budget Survey - HBS10
+Greece,GR,GRC,300,Rural,2,Flush and pour flush - to septic tank,0.744,Household Budget Survey - HBS10
+Greece,GR,GRC,300,Rural,3,Flush and pour flush - to pit,0.0,Household Budget Survey - HBS10
+Greece,GR,GRC,300,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey - HBS10
+Greece,GR,GRC,300,Rural,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey - HBS10
+Greece,GR,GRC,300,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey - HBS10
+Greece,GR,GRC,300,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey - HBS10
+Greece,GR,GRC,300,Rural,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey - HBS10
+Greece,GR,GRC,300,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey - HBS10
+Greece,GR,GRC,300,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey - HBS10
+Greece,GR,GRC,300,Rural,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey - HBS10
+Greece,GR,GRC,300,Rural,12,Dry latrines - Other,0.0,Household Budget Survey - HBS10
+Greece,GR,GRC,300,Rural,13,Composting toilets,0.0,Household Budget Survey - HBS10
+Greece,GR,GRC,300,Rural,14,Other improved,0.0,Household Budget Survey - HBS10
+Greece,GR,GRC,300,Rural,15,"No facility, bush, field",0.0,Household Budget Survey - HBS10
+Greece,GR,GRC,300,Rural,16,Other unimproved,0.0,Household Budget Survey - HBS10
+Greece,GR,GRC,300,Rural,17,DK/missing information,0.0,Household Budget Survey - HBS10
+Greece,GR,GRC,300,National,1,Flush and pour flush - to piped sewer system,0.775,Household Budget Survey - HBS10
+Greece,GR,GRC,300,National,2,Flush and pour flush - to septic tank,0.225,Household Budget Survey - HBS10
+Greece,GR,GRC,300,National,3,Flush and pour flush - to pit,0.0,Household Budget Survey - HBS10
+Greece,GR,GRC,300,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey - HBS10
+Greece,GR,GRC,300,National,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey - HBS10
+Greece,GR,GRC,300,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey - HBS10
+Greece,GR,GRC,300,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey - HBS10
+Greece,GR,GRC,300,National,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey - HBS10
+Greece,GR,GRC,300,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey - HBS10
+Greece,GR,GRC,300,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey - HBS10
+Greece,GR,GRC,300,National,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey - HBS10
+Greece,GR,GRC,300,National,12,Dry latrines - Other,0.0,Household Budget Survey - HBS10
+Greece,GR,GRC,300,National,13,Composting toilets,0.0,Household Budget Survey - HBS10
+Greece,GR,GRC,300,National,14,Other improved,0.0,Household Budget Survey - HBS10
+Greece,GR,GRC,300,National,15,"No facility, bush, field",0.0,Household Budget Survey - HBS10
+Greece,GR,GRC,300,National,16,Other unimproved,0.0,Household Budget Survey - HBS10
+Greece,GR,GRC,300,National,17,DK/missing information,0.0,Household Budget Survey - HBS10
+Greece,GR,GRC,300,Urban,1,Flush and pour flush - to piped sewer system,0.875,Household Budget Survey - HBS11
+Greece,GR,GRC,300,Urban,2,Flush and pour flush - to septic tank,0.125,Household Budget Survey - HBS11
+Greece,GR,GRC,300,Urban,3,Flush and pour flush - to pit,0.0,Household Budget Survey - HBS11
+Greece,GR,GRC,300,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey - HBS11
+Greece,GR,GRC,300,Urban,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey - HBS11
+Greece,GR,GRC,300,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey - HBS11
+Greece,GR,GRC,300,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey - HBS11
+Greece,GR,GRC,300,Urban,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey - HBS11
+Greece,GR,GRC,300,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey - HBS11
+Greece,GR,GRC,300,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey - HBS11
+Greece,GR,GRC,300,Urban,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey - HBS11
+Greece,GR,GRC,300,Urban,12,Dry latrines - Other,0.0,Household Budget Survey - HBS11
+Greece,GR,GRC,300,Urban,13,Composting toilets,0.0,Household Budget Survey - HBS11
+Greece,GR,GRC,300,Urban,14,Other improved,0.0,Household Budget Survey - HBS11
+Greece,GR,GRC,300,Urban,15,"No facility, bush, field",0.0,Household Budget Survey - HBS11
+Greece,GR,GRC,300,Urban,16,Other unimproved,0.0,Household Budget Survey - HBS11
+Greece,GR,GRC,300,Urban,17,DK/missing information,0.0,Household Budget Survey - HBS11
+Greece,GR,GRC,300,Rural,1,Flush and pour flush - to piped sewer system,0.276,Household Budget Survey - HBS11
+Greece,GR,GRC,300,Rural,2,Flush and pour flush - to septic tank,0.724,Household Budget Survey - HBS11
+Greece,GR,GRC,300,Rural,3,Flush and pour flush - to pit,0.0,Household Budget Survey - HBS11
+Greece,GR,GRC,300,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey - HBS11
+Greece,GR,GRC,300,Rural,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey - HBS11
+Greece,GR,GRC,300,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey - HBS11
+Greece,GR,GRC,300,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey - HBS11
+Greece,GR,GRC,300,Rural,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey - HBS11
+Greece,GR,GRC,300,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey - HBS11
+Greece,GR,GRC,300,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey - HBS11
+Greece,GR,GRC,300,Rural,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey - HBS11
+Greece,GR,GRC,300,Rural,12,Dry latrines - Other,0.0,Household Budget Survey - HBS11
+Greece,GR,GRC,300,Rural,13,Composting toilets,0.0,Household Budget Survey - HBS11
+Greece,GR,GRC,300,Rural,14,Other improved,0.0,Household Budget Survey - HBS11
+Greece,GR,GRC,300,Rural,15,"No facility, bush, field",0.0,Household Budget Survey - HBS11
+Greece,GR,GRC,300,Rural,16,Other unimproved,0.0,Household Budget Survey - HBS11
+Greece,GR,GRC,300,Rural,17,DK/missing information,0.0,Household Budget Survey - HBS11
+Greece,GR,GRC,300,National,1,Flush and pour flush - to piped sewer system,0.764,Household Budget Survey - HBS11
+Greece,GR,GRC,300,National,2,Flush and pour flush - to septic tank,0.236,Household Budget Survey - HBS11
+Greece,GR,GRC,300,National,3,Flush and pour flush - to pit,0.0,Household Budget Survey - HBS11
+Greece,GR,GRC,300,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey - HBS11
+Greece,GR,GRC,300,National,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey - HBS11
+Greece,GR,GRC,300,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey - HBS11
+Greece,GR,GRC,300,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey - HBS11
+Greece,GR,GRC,300,National,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey - HBS11
+Greece,GR,GRC,300,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey - HBS11
+Greece,GR,GRC,300,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey - HBS11
+Greece,GR,GRC,300,National,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey - HBS11
+Greece,GR,GRC,300,National,12,Dry latrines - Other,0.0,Household Budget Survey - HBS11
+Greece,GR,GRC,300,National,13,Composting toilets,0.0,Household Budget Survey - HBS11
+Greece,GR,GRC,300,National,14,Other improved,0.0,Household Budget Survey - HBS11
+Greece,GR,GRC,300,National,15,"No facility, bush, field",0.0,Household Budget Survey - HBS11
+Greece,GR,GRC,300,National,16,Other unimproved,0.0,Household Budget Survey - HBS11
+Greece,GR,GRC,300,National,17,DK/missing information,0.0,Household Budget Survey - HBS11
+Greece,GR,GRC,300,Urban,1,Flush and pour flush - to piped sewer system,0.882,Household Budget Survey - HBS12
+Greece,GR,GRC,300,Urban,2,Flush and pour flush - to septic tank,0.118,Household Budget Survey - HBS12
+Greece,GR,GRC,300,Urban,3,Flush and pour flush - to pit,0.0,Household Budget Survey - HBS12
+Greece,GR,GRC,300,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey - HBS12
+Greece,GR,GRC,300,Urban,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey - HBS12
+Greece,GR,GRC,300,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey - HBS12
+Greece,GR,GRC,300,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey - HBS12
+Greece,GR,GRC,300,Urban,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey - HBS12
+Greece,GR,GRC,300,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey - HBS12
+Greece,GR,GRC,300,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey - HBS12
+Greece,GR,GRC,300,Urban,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey - HBS12
+Greece,GR,GRC,300,Urban,12,Dry latrines - Other,0.0,Household Budget Survey - HBS12
+Greece,GR,GRC,300,Urban,13,Composting toilets,0.0,Household Budget Survey - HBS12
+Greece,GR,GRC,300,Urban,14,Other improved,0.0,Household Budget Survey - HBS12
+Greece,GR,GRC,300,Urban,15,"No facility, bush, field",0.0,Household Budget Survey - HBS12
+Greece,GR,GRC,300,Urban,16,Other unimproved,0.0,Household Budget Survey - HBS12
+Greece,GR,GRC,300,Urban,17,DK/missing information,0.0,Household Budget Survey - HBS12
+Greece,GR,GRC,300,Rural,1,Flush and pour flush - to piped sewer system,0.254,Household Budget Survey - HBS12
+Greece,GR,GRC,300,Rural,2,Flush and pour flush - to septic tank,0.746,Household Budget Survey - HBS12
+Greece,GR,GRC,300,Rural,3,Flush and pour flush - to pit,0.0,Household Budget Survey - HBS12
+Greece,GR,GRC,300,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey - HBS12
+Greece,GR,GRC,300,Rural,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey - HBS12
+Greece,GR,GRC,300,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey - HBS12
+Greece,GR,GRC,300,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey - HBS12
+Greece,GR,GRC,300,Rural,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey - HBS12
+Greece,GR,GRC,300,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey - HBS12
+Greece,GR,GRC,300,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey - HBS12
+Greece,GR,GRC,300,Rural,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey - HBS12
+Greece,GR,GRC,300,Rural,12,Dry latrines - Other,0.0,Household Budget Survey - HBS12
+Greece,GR,GRC,300,Rural,13,Composting toilets,0.0,Household Budget Survey - HBS12
+Greece,GR,GRC,300,Rural,14,Other improved,0.0,Household Budget Survey - HBS12
+Greece,GR,GRC,300,Rural,15,"No facility, bush, field",0.0,Household Budget Survey - HBS12
+Greece,GR,GRC,300,Rural,16,Other unimproved,0.0,Household Budget Survey - HBS12
+Greece,GR,GRC,300,Rural,17,DK/missing information,0.0,Household Budget Survey - HBS12
+Greece,GR,GRC,300,National,1,Flush and pour flush - to piped sewer system,0.762,Household Budget Survey - HBS12
+Greece,GR,GRC,300,National,2,Flush and pour flush - to septic tank,0.238,Household Budget Survey - HBS12
+Greece,GR,GRC,300,National,3,Flush and pour flush - to pit,0.0,Household Budget Survey - HBS12
+Greece,GR,GRC,300,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey - HBS12
+Greece,GR,GRC,300,National,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey - HBS12
+Greece,GR,GRC,300,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey - HBS12
+Greece,GR,GRC,300,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey - HBS12
+Greece,GR,GRC,300,National,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey - HBS12
+Greece,GR,GRC,300,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey - HBS12
+Greece,GR,GRC,300,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey - HBS12
+Greece,GR,GRC,300,National,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey - HBS12
+Greece,GR,GRC,300,National,12,Dry latrines - Other,0.0,Household Budget Survey - HBS12
+Greece,GR,GRC,300,National,13,Composting toilets,0.0,Household Budget Survey - HBS12
+Greece,GR,GRC,300,National,14,Other improved,0.0,Household Budget Survey - HBS12
+Greece,GR,GRC,300,National,15,"No facility, bush, field",0.0,Household Budget Survey - HBS12
+Greece,GR,GRC,300,National,16,Other unimproved,0.0,Household Budget Survey - HBS12
+Greece,GR,GRC,300,National,17,DK/missing information,0.0,Household Budget Survey - HBS12
+Greece,GR,GRC,300,Urban,1,Flush and pour flush - to piped sewer system,0.996,Eurostat SILC database - EUSILC12
+Greece,GR,GRC,300,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC12
+Greece,GR,GRC,300,Urban,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC12
+Greece,GR,GRC,300,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC12
+Greece,GR,GRC,300,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC12
+Greece,GR,GRC,300,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC12
+Greece,GR,GRC,300,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC12
+Greece,GR,GRC,300,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC12
+Greece,GR,GRC,300,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC12
+Greece,GR,GRC,300,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC12
+Greece,GR,GRC,300,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC12
+Greece,GR,GRC,300,Urban,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC12
+Greece,GR,GRC,300,Urban,13,Composting toilets,0.0,Eurostat SILC database - EUSILC12
+Greece,GR,GRC,300,Urban,14,Other improved,0.0,Eurostat SILC database - EUSILC12
+Greece,GR,GRC,300,Urban,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC12
+Greece,GR,GRC,300,Urban,16,Other unimproved,0.004,Eurostat SILC database - EUSILC12
+Greece,GR,GRC,300,Urban,17,DK/missing information,0.0,Eurostat SILC database - EUSILC12
+Greece,GR,GRC,300,Rural,1,Flush and pour flush - to piped sewer system,0.99,Eurostat SILC database - EUSILC12
+Greece,GR,GRC,300,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC12
+Greece,GR,GRC,300,Rural,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC12
+Greece,GR,GRC,300,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC12
+Greece,GR,GRC,300,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC12
+Greece,GR,GRC,300,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC12
+Greece,GR,GRC,300,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC12
+Greece,GR,GRC,300,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC12
+Greece,GR,GRC,300,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC12
+Greece,GR,GRC,300,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC12
+Greece,GR,GRC,300,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC12
+Greece,GR,GRC,300,Rural,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC12
+Greece,GR,GRC,300,Rural,13,Composting toilets,0.0,Eurostat SILC database - EUSILC12
+Greece,GR,GRC,300,Rural,14,Other improved,0.0,Eurostat SILC database - EUSILC12
+Greece,GR,GRC,300,Rural,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC12
+Greece,GR,GRC,300,Rural,16,Other unimproved,0.01,Eurostat SILC database - EUSILC12
+Greece,GR,GRC,300,Rural,17,DK/missing information,0.0,Eurostat SILC database - EUSILC12
+Greece,GR,GRC,300,National,1,Flush and pour flush - to piped sewer system,0.994,Eurostat SILC database - EUSILC12
+Greece,GR,GRC,300,National,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC12
+Greece,GR,GRC,300,National,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC12
+Greece,GR,GRC,300,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC12
+Greece,GR,GRC,300,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC12
+Greece,GR,GRC,300,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC12
+Greece,GR,GRC,300,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC12
+Greece,GR,GRC,300,National,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC12
+Greece,GR,GRC,300,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC12
+Greece,GR,GRC,300,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC12
+Greece,GR,GRC,300,National,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC12
+Greece,GR,GRC,300,National,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC12
+Greece,GR,GRC,300,National,13,Composting toilets,0.0,Eurostat SILC database - EUSILC12
+Greece,GR,GRC,300,National,14,Other improved,0.0,Eurostat SILC database - EUSILC12
+Greece,GR,GRC,300,National,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC12
+Greece,GR,GRC,300,National,16,Other unimproved,0.006,Eurostat SILC database - EUSILC12
+Greece,GR,GRC,300,National,17,DK/missing information,0.0,Eurostat SILC database - EUSILC12
+Greece,GR,GRC,300,Urban,1,Flush and pour flush - to piped sewer system,0.889,Household Budget Survey - HBS13
+Greece,GR,GRC,300,Urban,2,Flush and pour flush - to septic tank,0.111,Household Budget Survey - HBS13
+Greece,GR,GRC,300,Urban,3,Flush and pour flush - to pit,0.0,Household Budget Survey - HBS13
+Greece,GR,GRC,300,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey - HBS13
+Greece,GR,GRC,300,Urban,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey - HBS13
+Greece,GR,GRC,300,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey - HBS13
+Greece,GR,GRC,300,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey - HBS13
+Greece,GR,GRC,300,Urban,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey - HBS13
+Greece,GR,GRC,300,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey - HBS13
+Greece,GR,GRC,300,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey - HBS13
+Greece,GR,GRC,300,Urban,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey - HBS13
+Greece,GR,GRC,300,Urban,12,Dry latrines - Other,0.0,Household Budget Survey - HBS13
+Greece,GR,GRC,300,Urban,13,Composting toilets,0.0,Household Budget Survey - HBS13
+Greece,GR,GRC,300,Urban,14,Other improved,0.0,Household Budget Survey - HBS13
+Greece,GR,GRC,300,Urban,15,"No facility, bush, field",0.0,Household Budget Survey - HBS13
+Greece,GR,GRC,300,Urban,16,Other unimproved,0.0,Household Budget Survey - HBS13
+Greece,GR,GRC,300,Urban,17,DK/missing information,0.0,Household Budget Survey - HBS13
+Greece,GR,GRC,300,Rural,1,Flush and pour flush - to piped sewer system,0.299,Household Budget Survey - HBS13
+Greece,GR,GRC,300,Rural,2,Flush and pour flush - to septic tank,0.701,Household Budget Survey - HBS13
+Greece,GR,GRC,300,Rural,3,Flush and pour flush - to pit,0.0,Household Budget Survey - HBS13
+Greece,GR,GRC,300,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey - HBS13
+Greece,GR,GRC,300,Rural,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey - HBS13
+Greece,GR,GRC,300,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey - HBS13
+Greece,GR,GRC,300,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey - HBS13
+Greece,GR,GRC,300,Rural,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey - HBS13
+Greece,GR,GRC,300,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey - HBS13
+Greece,GR,GRC,300,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey - HBS13
+Greece,GR,GRC,300,Rural,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey - HBS13
+Greece,GR,GRC,300,Rural,12,Dry latrines - Other,0.0,Household Budget Survey - HBS13
+Greece,GR,GRC,300,Rural,13,Composting toilets,0.0,Household Budget Survey - HBS13
+Greece,GR,GRC,300,Rural,14,Other improved,0.0,Household Budget Survey - HBS13
+Greece,GR,GRC,300,Rural,15,"No facility, bush, field",0.0,Household Budget Survey - HBS13
+Greece,GR,GRC,300,Rural,16,Other unimproved,0.0,Household Budget Survey - HBS13
+Greece,GR,GRC,300,Rural,17,DK/missing information,0.0,Household Budget Survey - HBS13
+Greece,GR,GRC,300,National,1,Flush and pour flush - to piped sewer system,0.766,Household Budget Survey - HBS13
+Greece,GR,GRC,300,National,2,Flush and pour flush - to septic tank,0.234,Household Budget Survey - HBS13
+Greece,GR,GRC,300,National,3,Flush and pour flush - to pit,0.0,Household Budget Survey - HBS13
+Greece,GR,GRC,300,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey - HBS13
+Greece,GR,GRC,300,National,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey - HBS13
+Greece,GR,GRC,300,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey - HBS13
+Greece,GR,GRC,300,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey - HBS13
+Greece,GR,GRC,300,National,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey - HBS13
+Greece,GR,GRC,300,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey - HBS13
+Greece,GR,GRC,300,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey - HBS13
+Greece,GR,GRC,300,National,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey - HBS13
+Greece,GR,GRC,300,National,12,Dry latrines - Other,0.0,Household Budget Survey - HBS13
+Greece,GR,GRC,300,National,13,Composting toilets,0.0,Household Budget Survey - HBS13
+Greece,GR,GRC,300,National,14,Other improved,0.0,Household Budget Survey - HBS13
+Greece,GR,GRC,300,National,15,"No facility, bush, field",0.0,Household Budget Survey - HBS13
+Greece,GR,GRC,300,National,16,Other unimproved,0.0,Household Budget Survey - HBS13
+Greece,GR,GRC,300,National,17,DK/missing information,0.0,Household Budget Survey - HBS13
+Greece,GR,GRC,300,Urban,1,Flush and pour flush - to piped sewer system,0.899,Household Budget Survey - HBS14
+Greece,GR,GRC,300,Urban,2,Flush and pour flush - to septic tank,0.101,Household Budget Survey - HBS14
+Greece,GR,GRC,300,Urban,3,Flush and pour flush - to pit,0.0,Household Budget Survey - HBS14
+Greece,GR,GRC,300,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey - HBS14
+Greece,GR,GRC,300,Urban,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey - HBS14
+Greece,GR,GRC,300,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey - HBS14
+Greece,GR,GRC,300,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey - HBS14
+Greece,GR,GRC,300,Urban,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey - HBS14
+Greece,GR,GRC,300,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey - HBS14
+Greece,GR,GRC,300,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey - HBS14
+Greece,GR,GRC,300,Urban,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey - HBS14
+Greece,GR,GRC,300,Urban,12,Dry latrines - Other,0.0,Household Budget Survey - HBS14
+Greece,GR,GRC,300,Urban,13,Composting toilets,0.0,Household Budget Survey - HBS14
+Greece,GR,GRC,300,Urban,14,Other improved,0.0,Household Budget Survey - HBS14
+Greece,GR,GRC,300,Urban,15,"No facility, bush, field",0.0,Household Budget Survey - HBS14
+Greece,GR,GRC,300,Urban,16,Other unimproved,0.0,Household Budget Survey - HBS14
+Greece,GR,GRC,300,Urban,17,DK/missing information,0.0,Household Budget Survey - HBS14
+Greece,GR,GRC,300,Rural,1,Flush and pour flush - to piped sewer system,0.353,Household Budget Survey - HBS14
+Greece,GR,GRC,300,Rural,2,Flush and pour flush - to septic tank,0.647,Household Budget Survey - HBS14
+Greece,GR,GRC,300,Rural,3,Flush and pour flush - to pit,0.0,Household Budget Survey - HBS14
+Greece,GR,GRC,300,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey - HBS14
+Greece,GR,GRC,300,Rural,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey - HBS14
+Greece,GR,GRC,300,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey - HBS14
+Greece,GR,GRC,300,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey - HBS14
+Greece,GR,GRC,300,Rural,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey - HBS14
+Greece,GR,GRC,300,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey - HBS14
+Greece,GR,GRC,300,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey - HBS14
+Greece,GR,GRC,300,Rural,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey - HBS14
+Greece,GR,GRC,300,Rural,12,Dry latrines - Other,0.0,Household Budget Survey - HBS14
+Greece,GR,GRC,300,Rural,13,Composting toilets,0.0,Household Budget Survey - HBS14
+Greece,GR,GRC,300,Rural,14,Other improved,0.0,Household Budget Survey - HBS14
+Greece,GR,GRC,300,Rural,15,"No facility, bush, field",0.0,Household Budget Survey - HBS14
+Greece,GR,GRC,300,Rural,16,Other unimproved,0.0,Household Budget Survey - HBS14
+Greece,GR,GRC,300,Rural,17,DK/missing information,0.0,Household Budget Survey - HBS14
+Greece,GR,GRC,300,National,1,Flush and pour flush - to piped sewer system,0.791,Household Budget Survey - HBS14
+Greece,GR,GRC,300,National,2,Flush and pour flush - to septic tank,0.209,Household Budget Survey - HBS14
+Greece,GR,GRC,300,National,3,Flush and pour flush - to pit,0.0,Household Budget Survey - HBS14
+Greece,GR,GRC,300,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey - HBS14
+Greece,GR,GRC,300,National,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey - HBS14
+Greece,GR,GRC,300,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey - HBS14
+Greece,GR,GRC,300,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey - HBS14
+Greece,GR,GRC,300,National,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey - HBS14
+Greece,GR,GRC,300,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey - HBS14
+Greece,GR,GRC,300,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey - HBS14
+Greece,GR,GRC,300,National,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey - HBS14
+Greece,GR,GRC,300,National,12,Dry latrines - Other,0.0,Household Budget Survey - HBS14
+Greece,GR,GRC,300,National,13,Composting toilets,0.0,Household Budget Survey - HBS14
+Greece,GR,GRC,300,National,14,Other improved,0.0,Household Budget Survey - HBS14
+Greece,GR,GRC,300,National,15,"No facility, bush, field",0.0,Household Budget Survey - HBS14
+Greece,GR,GRC,300,National,16,Other unimproved,0.0,Household Budget Survey - HBS14
+Greece,GR,GRC,300,National,17,DK/missing information,0.0,Household Budget Survey - HBS14
+Greece,GR,GRC,300,Urban,1,Flush and pour flush - to piped sewer system,0.999,Eurostat SILC database - EUSILC14
+Greece,GR,GRC,300,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC14
+Greece,GR,GRC,300,Urban,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC14
+Greece,GR,GRC,300,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC14
+Greece,GR,GRC,300,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC14
+Greece,GR,GRC,300,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC14
+Greece,GR,GRC,300,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC14
+Greece,GR,GRC,300,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC14
+Greece,GR,GRC,300,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC14
+Greece,GR,GRC,300,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC14
+Greece,GR,GRC,300,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC14
+Greece,GR,GRC,300,Urban,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC14
+Greece,GR,GRC,300,Urban,13,Composting toilets,0.0,Eurostat SILC database - EUSILC14
+Greece,GR,GRC,300,Urban,14,Other improved,0.0,Eurostat SILC database - EUSILC14
+Greece,GR,GRC,300,Urban,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC14
+Greece,GR,GRC,300,Urban,16,Other unimproved,0.001,Eurostat SILC database - EUSILC14
+Greece,GR,GRC,300,Urban,17,DK/missing information,0.0,Eurostat SILC database - EUSILC14
+Greece,GR,GRC,300,Rural,1,Flush and pour flush - to piped sewer system,0.992,Eurostat SILC database - EUSILC14
+Greece,GR,GRC,300,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC14
+Greece,GR,GRC,300,Rural,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC14
+Greece,GR,GRC,300,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC14
+Greece,GR,GRC,300,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC14
+Greece,GR,GRC,300,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC14
+Greece,GR,GRC,300,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC14
+Greece,GR,GRC,300,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC14
+Greece,GR,GRC,300,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC14
+Greece,GR,GRC,300,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC14
+Greece,GR,GRC,300,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC14
+Greece,GR,GRC,300,Rural,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC14
+Greece,GR,GRC,300,Rural,13,Composting toilets,0.0,Eurostat SILC database - EUSILC14
+Greece,GR,GRC,300,Rural,14,Other improved,0.0,Eurostat SILC database - EUSILC14
+Greece,GR,GRC,300,Rural,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC14
+Greece,GR,GRC,300,Rural,16,Other unimproved,0.008,Eurostat SILC database - EUSILC14
+Greece,GR,GRC,300,Rural,17,DK/missing information,0.0,Eurostat SILC database - EUSILC14
+Greece,GR,GRC,300,National,1,Flush and pour flush - to piped sewer system,0.995,Eurostat SILC database - EUSILC14
+Greece,GR,GRC,300,National,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC14
+Greece,GR,GRC,300,National,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC14
+Greece,GR,GRC,300,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC14
+Greece,GR,GRC,300,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC14
+Greece,GR,GRC,300,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC14
+Greece,GR,GRC,300,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC14
+Greece,GR,GRC,300,National,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC14
+Greece,GR,GRC,300,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC14
+Greece,GR,GRC,300,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC14
+Greece,GR,GRC,300,National,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC14
+Greece,GR,GRC,300,National,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC14
+Greece,GR,GRC,300,National,13,Composting toilets,0.0,Eurostat SILC database - EUSILC14
+Greece,GR,GRC,300,National,14,Other improved,0.0,Eurostat SILC database - EUSILC14
+Greece,GR,GRC,300,National,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC14
+Greece,GR,GRC,300,National,16,Other unimproved,0.005,Eurostat SILC database - EUSILC14
+Greece,GR,GRC,300,National,17,DK/missing information,0.0,Eurostat SILC database - EUSILC14
+Greece,GR,GRC,300,Urban,1,Flush and pour flush - to piped sewer system,1.0,Eurostat SILC database - EUSILC15
+Greece,GR,GRC,300,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC15
+Greece,GR,GRC,300,Urban,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC15
+Greece,GR,GRC,300,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC15
+Greece,GR,GRC,300,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC15
+Greece,GR,GRC,300,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC15
+Greece,GR,GRC,300,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC15
+Greece,GR,GRC,300,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC15
+Greece,GR,GRC,300,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC15
+Greece,GR,GRC,300,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC15
+Greece,GR,GRC,300,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC15
+Greece,GR,GRC,300,Urban,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC15
+Greece,GR,GRC,300,Urban,13,Composting toilets,0.0,Eurostat SILC database - EUSILC15
+Greece,GR,GRC,300,Urban,14,Other improved,0.0,Eurostat SILC database - EUSILC15
+Greece,GR,GRC,300,Urban,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC15
+Greece,GR,GRC,300,Urban,16,Other unimproved,0.0,Eurostat SILC database - EUSILC15
+Greece,GR,GRC,300,Urban,17,DK/missing information,0.0,Eurostat SILC database - EUSILC15
+Greece,GR,GRC,300,Rural,1,Flush and pour flush - to piped sewer system,0.987,Eurostat SILC database - EUSILC15
+Greece,GR,GRC,300,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC15
+Greece,GR,GRC,300,Rural,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC15
+Greece,GR,GRC,300,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC15
+Greece,GR,GRC,300,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC15
+Greece,GR,GRC,300,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC15
+Greece,GR,GRC,300,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC15
+Greece,GR,GRC,300,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC15
+Greece,GR,GRC,300,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC15
+Greece,GR,GRC,300,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC15
+Greece,GR,GRC,300,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC15
+Greece,GR,GRC,300,Rural,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC15
+Greece,GR,GRC,300,Rural,13,Composting toilets,0.0,Eurostat SILC database - EUSILC15
+Greece,GR,GRC,300,Rural,14,Other improved,0.0,Eurostat SILC database - EUSILC15
+Greece,GR,GRC,300,Rural,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC15
+Greece,GR,GRC,300,Rural,16,Other unimproved,0.013,Eurostat SILC database - EUSILC15
+Greece,GR,GRC,300,Rural,17,DK/missing information,0.0,Eurostat SILC database - EUSILC15
+Greece,GR,GRC,300,National,1,Flush and pour flush - to piped sewer system,0.995,Eurostat SILC database - EUSILC15
+Greece,GR,GRC,300,National,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC15
+Greece,GR,GRC,300,National,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC15
+Greece,GR,GRC,300,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC15
+Greece,GR,GRC,300,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC15
+Greece,GR,GRC,300,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC15
+Greece,GR,GRC,300,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC15
+Greece,GR,GRC,300,National,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC15
+Greece,GR,GRC,300,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC15
+Greece,GR,GRC,300,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC15
+Greece,GR,GRC,300,National,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC15
+Greece,GR,GRC,300,National,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC15
+Greece,GR,GRC,300,National,13,Composting toilets,0.0,Eurostat SILC database - EUSILC15
+Greece,GR,GRC,300,National,14,Other improved,0.0,Eurostat SILC database - EUSILC15
+Greece,GR,GRC,300,National,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC15
+Greece,GR,GRC,300,National,16,Other unimproved,0.005,Eurostat SILC database - EUSILC15
+Greece,GR,GRC,300,National,17,DK/missing information,0.0,Eurostat SILC database - EUSILC15
+Greece,GR,GRC,300,Urban,1,Flush and pour flush - to piped sewer system,0.882,Household Budget Survey - HBS15
+Greece,GR,GRC,300,Urban,2,Flush and pour flush - to septic tank,0.118,Household Budget Survey - HBS15
+Greece,GR,GRC,300,Urban,3,Flush and pour flush - to pit,0.0,Household Budget Survey - HBS15
+Greece,GR,GRC,300,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey - HBS15
+Greece,GR,GRC,300,Urban,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey - HBS15
+Greece,GR,GRC,300,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey - HBS15
+Greece,GR,GRC,300,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey - HBS15
+Greece,GR,GRC,300,Urban,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey - HBS15
+Greece,GR,GRC,300,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey - HBS15
+Greece,GR,GRC,300,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey - HBS15
+Greece,GR,GRC,300,Urban,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey - HBS15
+Greece,GR,GRC,300,Urban,12,Dry latrines - Other,0.0,Household Budget Survey - HBS15
+Greece,GR,GRC,300,Urban,13,Composting toilets,0.0,Household Budget Survey - HBS15
+Greece,GR,GRC,300,Urban,14,Other improved,0.0,Household Budget Survey - HBS15
+Greece,GR,GRC,300,Urban,15,"No facility, bush, field",0.0,Household Budget Survey - HBS15
+Greece,GR,GRC,300,Urban,16,Other unimproved,0.0,Household Budget Survey - HBS15
+Greece,GR,GRC,300,Urban,17,DK/missing information,0.0,Household Budget Survey - HBS15
+Greece,GR,GRC,300,Rural,1,Flush and pour flush - to piped sewer system,0.328,Household Budget Survey - HBS15
+Greece,GR,GRC,300,Rural,2,Flush and pour flush - to septic tank,0.672,Household Budget Survey - HBS15
+Greece,GR,GRC,300,Rural,3,Flush and pour flush - to pit,0.0,Household Budget Survey - HBS15
+Greece,GR,GRC,300,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey - HBS15
+Greece,GR,GRC,300,Rural,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey - HBS15
+Greece,GR,GRC,300,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey - HBS15
+Greece,GR,GRC,300,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey - HBS15
+Greece,GR,GRC,300,Rural,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey - HBS15
+Greece,GR,GRC,300,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey - HBS15
+Greece,GR,GRC,300,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey - HBS15
+Greece,GR,GRC,300,Rural,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey - HBS15
+Greece,GR,GRC,300,Rural,12,Dry latrines - Other,0.0,Household Budget Survey - HBS15
+Greece,GR,GRC,300,Rural,13,Composting toilets,0.0,Household Budget Survey - HBS15
+Greece,GR,GRC,300,Rural,14,Other improved,0.0,Household Budget Survey - HBS15
+Greece,GR,GRC,300,Rural,15,"No facility, bush, field",0.0,Household Budget Survey - HBS15
+Greece,GR,GRC,300,Rural,16,Other unimproved,0.0,Household Budget Survey - HBS15
+Greece,GR,GRC,300,Rural,17,DK/missing information,0.0,Household Budget Survey - HBS15
+Greece,GR,GRC,300,National,1,Flush and pour flush - to piped sewer system,0.772,Household Budget Survey - HBS15
+Greece,GR,GRC,300,National,2,Flush and pour flush - to septic tank,0.228,Household Budget Survey - HBS15
+Greece,GR,GRC,300,National,3,Flush and pour flush - to pit,0.0,Household Budget Survey - HBS15
+Greece,GR,GRC,300,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey - HBS15
+Greece,GR,GRC,300,National,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey - HBS15
+Greece,GR,GRC,300,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey - HBS15
+Greece,GR,GRC,300,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey - HBS15
+Greece,GR,GRC,300,National,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey - HBS15
+Greece,GR,GRC,300,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey - HBS15
+Greece,GR,GRC,300,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey - HBS15
+Greece,GR,GRC,300,National,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey - HBS15
+Greece,GR,GRC,300,National,12,Dry latrines - Other,0.0,Household Budget Survey - HBS15
+Greece,GR,GRC,300,National,13,Composting toilets,0.0,Household Budget Survey - HBS15
+Greece,GR,GRC,300,National,14,Other improved,0.0,Household Budget Survey - HBS15
+Greece,GR,GRC,300,National,15,"No facility, bush, field",0.0,Household Budget Survey - HBS15
+Greece,GR,GRC,300,National,16,Other unimproved,0.0,Household Budget Survey - HBS15
+Greece,GR,GRC,300,National,17,DK/missing information,0.0,Household Budget Survey - HBS15
+Greece,GR,GRC,300,Urban,1,Flush and pour flush - to piped sewer system,0.881,Household Budget Survey - HBS16
+Greece,GR,GRC,300,Urban,2,Flush and pour flush - to septic tank,0.119,Household Budget Survey - HBS16
+Greece,GR,GRC,300,Urban,3,Flush and pour flush - to pit,0.0,Household Budget Survey - HBS16
+Greece,GR,GRC,300,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey - HBS16
+Greece,GR,GRC,300,Urban,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey - HBS16
+Greece,GR,GRC,300,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey - HBS16
+Greece,GR,GRC,300,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey - HBS16
+Greece,GR,GRC,300,Urban,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey - HBS16
+Greece,GR,GRC,300,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey - HBS16
+Greece,GR,GRC,300,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey - HBS16
+Greece,GR,GRC,300,Urban,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey - HBS16
+Greece,GR,GRC,300,Urban,12,Dry latrines - Other,0.0,Household Budget Survey - HBS16
+Greece,GR,GRC,300,Urban,13,Composting toilets,0.0,Household Budget Survey - HBS16
+Greece,GR,GRC,300,Urban,14,Other improved,0.0,Household Budget Survey - HBS16
+Greece,GR,GRC,300,Urban,15,"No facility, bush, field",0.0,Household Budget Survey - HBS16
+Greece,GR,GRC,300,Urban,16,Other unimproved,0.0,Household Budget Survey - HBS16
+Greece,GR,GRC,300,Urban,17,DK/missing information,0.0,Household Budget Survey - HBS16
+Greece,GR,GRC,300,Rural,1,Flush and pour flush - to piped sewer system,0.385,Household Budget Survey - HBS16
+Greece,GR,GRC,300,Rural,2,Flush and pour flush - to septic tank,0.615,Household Budget Survey - HBS16
+Greece,GR,GRC,300,Rural,3,Flush and pour flush - to pit,0.0,Household Budget Survey - HBS16
+Greece,GR,GRC,300,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey - HBS16
+Greece,GR,GRC,300,Rural,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey - HBS16
+Greece,GR,GRC,300,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey - HBS16
+Greece,GR,GRC,300,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey - HBS16
+Greece,GR,GRC,300,Rural,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey - HBS16
+Greece,GR,GRC,300,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey - HBS16
+Greece,GR,GRC,300,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey - HBS16
+Greece,GR,GRC,300,Rural,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey - HBS16
+Greece,GR,GRC,300,Rural,12,Dry latrines - Other,0.0,Household Budget Survey - HBS16
+Greece,GR,GRC,300,Rural,13,Composting toilets,0.0,Household Budget Survey - HBS16
+Greece,GR,GRC,300,Rural,14,Other improved,0.0,Household Budget Survey - HBS16
+Greece,GR,GRC,300,Rural,15,"No facility, bush, field",0.0,Household Budget Survey - HBS16
+Greece,GR,GRC,300,Rural,16,Other unimproved,0.0,Household Budget Survey - HBS16
+Greece,GR,GRC,300,Rural,17,DK/missing information,0.0,Household Budget Survey - HBS16
+Greece,GR,GRC,300,National,1,Flush and pour flush - to piped sewer system,0.787,Household Budget Survey - HBS16
+Greece,GR,GRC,300,National,2,Flush and pour flush - to septic tank,0.213,Household Budget Survey - HBS16
+Greece,GR,GRC,300,National,3,Flush and pour flush - to pit,0.0,Household Budget Survey - HBS16
+Greece,GR,GRC,300,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Budget Survey - HBS16
+Greece,GR,GRC,300,National,5,Flush and pour flush - to elsewhere,0.0,Household Budget Survey - HBS16
+Greece,GR,GRC,300,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Budget Survey - HBS16
+Greece,GR,GRC,300,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Budget Survey - HBS16
+Greece,GR,GRC,300,National,8,Dry latrines - Traditional latrine,0.0,Household Budget Survey - HBS16
+Greece,GR,GRC,300,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Budget Survey - HBS16
+Greece,GR,GRC,300,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Budget Survey - HBS16
+Greece,GR,GRC,300,National,11,Dry latrines - Bucket latrine,0.0,Household Budget Survey - HBS16
+Greece,GR,GRC,300,National,12,Dry latrines - Other,0.0,Household Budget Survey - HBS16
+Greece,GR,GRC,300,National,13,Composting toilets,0.0,Household Budget Survey - HBS16
+Greece,GR,GRC,300,National,14,Other improved,0.0,Household Budget Survey - HBS16
+Greece,GR,GRC,300,National,15,"No facility, bush, field",0.0,Household Budget Survey - HBS16
+Greece,GR,GRC,300,National,16,Other unimproved,0.0,Household Budget Survey - HBS16
+Greece,GR,GRC,300,National,17,DK/missing information,0.0,Household Budget Survey - HBS16

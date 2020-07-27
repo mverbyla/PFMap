@@ -1,4 +1,55 @@
 country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+Cuba,CU,CUB,192,Urban,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - MICS00
+Cuba,CU,CUB,192,Urban,2,Flush and pour flush - to septic tank,0.0,Demographic and Health Survey - MICS00
+Cuba,CU,CUB,192,Urban,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - MICS00
+Cuba,CU,CUB,192,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - MICS00
+Cuba,CU,CUB,192,Urban,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - MICS00
+Cuba,CU,CUB,192,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - MICS00
+Cuba,CU,CUB,192,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - MICS00
+Cuba,CU,CUB,192,Urban,8,Dry latrines - Traditional latrine,0.075,Demographic and Health Survey - MICS00
+Cuba,CU,CUB,192,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Survey - MICS00
+Cuba,CU,CUB,192,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - MICS00
+Cuba,CU,CUB,192,Urban,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - MICS00
+Cuba,CU,CUB,192,Urban,12,Dry latrines - Other,0.0,Demographic and Health Survey - MICS00
+Cuba,CU,CUB,192,Urban,13,Composting toilets,0.0,Demographic and Health Survey - MICS00
+Cuba,CU,CUB,192,Urban,14,Other improved,0.0,Demographic and Health Survey - MICS00
+Cuba,CU,CUB,192,Urban,15,"No facility, bush, field",0.009,Demographic and Health Survey - MICS00
+Cuba,CU,CUB,192,Urban,16,Other unimproved,0.0,Demographic and Health Survey - MICS00
+Cuba,CU,CUB,192,Urban,17,DK/missing information,0.0,Demographic and Health Survey - MICS00
+Cuba,CU,CUB,192,Rural,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - MICS00
+Cuba,CU,CUB,192,Rural,2,Flush and pour flush - to septic tank,0.0,Demographic and Health Survey - MICS00
+Cuba,CU,CUB,192,Rural,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - MICS00
+Cuba,CU,CUB,192,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - MICS00
+Cuba,CU,CUB,192,Rural,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - MICS00
+Cuba,CU,CUB,192,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - MICS00
+Cuba,CU,CUB,192,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - MICS00
+Cuba,CU,CUB,192,Rural,8,Dry latrines - Traditional latrine,0.339,Demographic and Health Survey - MICS00
+Cuba,CU,CUB,192,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Survey - MICS00
+Cuba,CU,CUB,192,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - MICS00
+Cuba,CU,CUB,192,Rural,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - MICS00
+Cuba,CU,CUB,192,Rural,12,Dry latrines - Other,0.0,Demographic and Health Survey - MICS00
+Cuba,CU,CUB,192,Rural,13,Composting toilets,0.0,Demographic and Health Survey - MICS00
+Cuba,CU,CUB,192,Rural,14,Other improved,0.0,Demographic and Health Survey - MICS00
+Cuba,CU,CUB,192,Rural,15,"No facility, bush, field",0.049,Demographic and Health Survey - MICS00
+Cuba,CU,CUB,192,Rural,16,Other unimproved,0.0,Demographic and Health Survey - MICS00
+Cuba,CU,CUB,192,Rural,17,DK/missing information,0.0,Demographic and Health Survey - MICS00
+Cuba,CU,CUB,192,National,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - MICS00
+Cuba,CU,CUB,192,National,2,Flush and pour flush - to septic tank,0.0,Demographic and Health Survey - MICS00
+Cuba,CU,CUB,192,National,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - MICS00
+Cuba,CU,CUB,192,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - MICS00
+Cuba,CU,CUB,192,National,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - MICS00
+Cuba,CU,CUB,192,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - MICS00
+Cuba,CU,CUB,192,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - MICS00
+Cuba,CU,CUB,192,National,8,Dry latrines - Traditional latrine,0.142,Demographic and Health Survey - MICS00
+Cuba,CU,CUB,192,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Survey - MICS00
+Cuba,CU,CUB,192,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - MICS00
+Cuba,CU,CUB,192,National,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - MICS00
+Cuba,CU,CUB,192,National,12,Dry latrines - Other,0.0,Demographic and Health Survey - MICS00
+Cuba,CU,CUB,192,National,13,Composting toilets,0.0,Demographic and Health Survey - MICS00
+Cuba,CU,CUB,192,National,14,Other improved,0.0,Demographic and Health Survey - MICS00
+Cuba,CU,CUB,192,National,15,"No facility, bush, field",0.019,Demographic and Health Survey - MICS00
+Cuba,CU,CUB,192,National,16,Other unimproved,0.0,Demographic and Health Survey - MICS00
+Cuba,CU,CUB,192,National,17,DK/missing information,0.0,Demographic and Health Survey - MICS00
 Cuba,CU,CUB,192,Urban,1,Flush and pour flush - to piped sewer system,0.528,Multiple Indicator Cluster Survey - MICS06
 Cuba,CU,CUB,192,Urban,2,Flush and pour flush - to septic tank,0.294,Multiple Indicator Cluster Survey - MICS06
 Cuba,CU,CUB,192,Urban,3,Flush and pour flush - to pit,0.087,Multiple Indicator Cluster Survey - MICS06
@@ -33,6 +84,23 @@ Cuba,CU,CUB,192,Rural,14,Other improved,0.0,Multiple Indicator Cluster Survey - 
 Cuba,CU,CUB,192,Rural,15,"No facility, bush, field",0.029,Multiple Indicator Cluster Survey - MICS06
 Cuba,CU,CUB,192,Rural,16,Other unimproved,0.003,Multiple Indicator Cluster Survey - MICS06
 Cuba,CU,CUB,192,Rural,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS06
+Cuba,CU,CUB,192,National,1,Flush and pour flush - to piped sewer system,0.428,Multiple Indicator Cluster Survey - MICS06
+Cuba,CU,CUB,192,National,2,Flush and pour flush - to septic tank,0.275,Multiple Indicator Cluster Survey - MICS06
+Cuba,CU,CUB,192,National,3,Flush and pour flush - to pit,0.161,Multiple Indicator Cluster Survey - MICS06
+Cuba,CU,CUB,192,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS06
+Cuba,CU,CUB,192,National,5,Flush and pour flush - to elsewhere,0.015,Multiple Indicator Cluster Survey - MICS06
+Cuba,CU,CUB,192,National,6,Dry latrines - Ventilated Improved Pit latrine,0.022,Multiple Indicator Cluster Survey - MICS06
+Cuba,CU,CUB,192,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.064,Multiple Indicator Cluster Survey - MICS06
+Cuba,CU,CUB,192,National,8,Dry latrines - Traditional latrine,0.0,Multiple Indicator Cluster Survey - MICS06
+Cuba,CU,CUB,192,National,9,Dry latrines - Pit latrine without slab/open pit,0.007,Multiple Indicator Cluster Survey - MICS06
+Cuba,CU,CUB,192,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS06
+Cuba,CU,CUB,192,National,11,Dry latrines - Bucket latrine,0.005,Multiple Indicator Cluster Survey - MICS06
+Cuba,CU,CUB,192,National,12,Dry latrines - Other,0.001,Multiple Indicator Cluster Survey - MICS06
+Cuba,CU,CUB,192,National,13,Composting toilets,0.01,Multiple Indicator Cluster Survey - MICS06
+Cuba,CU,CUB,192,National,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS06
+Cuba,CU,CUB,192,National,15,"No facility, bush, field",0.011,Multiple Indicator Cluster Survey - MICS06
+Cuba,CU,CUB,192,National,16,Other unimproved,0.001,Multiple Indicator Cluster Survey - MICS06
+Cuba,CU,CUB,192,National,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS06
 Cuba,CU,CUB,192,Urban,1,Flush and pour flush - to piped sewer system,0.567,Multiple Indicator Cluster Survey - MICS11
 Cuba,CU,CUB,192,Urban,2,Flush and pour flush - to septic tank,0.248,Multiple Indicator Cluster Survey - MICS11
 Cuba,CU,CUB,192,Urban,3,Flush and pour flush - to pit,0.102,Multiple Indicator Cluster Survey - MICS11
@@ -67,6 +135,23 @@ Cuba,CU,CUB,192,Rural,14,Other improved,0.0,Multiple Indicator Cluster Survey - 
 Cuba,CU,CUB,192,Rural,15,"No facility, bush, field",0.023,Multiple Indicator Cluster Survey - MICS11
 Cuba,CU,CUB,192,Rural,16,Other unimproved,0.0,Multiple Indicator Cluster Survey - MICS11
 Cuba,CU,CUB,192,Rural,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS11
+Cuba,CU,CUB,192,National,1,Flush and pour flush - to piped sewer system,0.46,Multiple Indicator Cluster Survey - MICS11
+Cuba,CU,CUB,192,National,2,Flush and pour flush - to septic tank,0.247,Multiple Indicator Cluster Survey - MICS11
+Cuba,CU,CUB,192,National,3,Flush and pour flush - to pit,0.163,Multiple Indicator Cluster Survey - MICS11
+Cuba,CU,CUB,192,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.002,Multiple Indicator Cluster Survey - MICS11
+Cuba,CU,CUB,192,National,5,Flush and pour flush - to elsewhere,0.022,Multiple Indicator Cluster Survey - MICS11
+Cuba,CU,CUB,192,National,6,Dry latrines - Ventilated Improved Pit latrine,0.017,Multiple Indicator Cluster Survey - MICS11
+Cuba,CU,CUB,192,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.059,Multiple Indicator Cluster Survey - MICS11
+Cuba,CU,CUB,192,National,8,Dry latrines - Traditional latrine,0.0,Multiple Indicator Cluster Survey - MICS11
+Cuba,CU,CUB,192,National,9,Dry latrines - Pit latrine without slab/open pit,0.018,Multiple Indicator Cluster Survey - MICS11
+Cuba,CU,CUB,192,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS11
+Cuba,CU,CUB,192,National,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS11
+Cuba,CU,CUB,192,National,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS11
+Cuba,CU,CUB,192,National,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS11
+Cuba,CU,CUB,192,National,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS11
+Cuba,CU,CUB,192,National,15,"No facility, bush, field",0.01,Multiple Indicator Cluster Survey - MICS11
+Cuba,CU,CUB,192,National,16,Other unimproved,0.003,Multiple Indicator Cluster Survey - MICS11
+Cuba,CU,CUB,192,National,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS11
 Cuba,CU,CUB,192,Urban,1,Flush and pour flush - to piped sewer system,0.588,"Multiple Indicator Cluster Survey, 2014 - MICS14"
 Cuba,CU,CUB,192,Urban,2,Flush and pour flush - to septic tank,0.254,"Multiple Indicator Cluster Survey, 2014 - MICS14"
 Cuba,CU,CUB,192,Urban,3,Flush and pour flush - to pit,0.054,"Multiple Indicator Cluster Survey, 2014 - MICS14"
@@ -101,3 +186,173 @@ Cuba,CU,CUB,192,Rural,14,Other improved,0.0,"Multiple Indicator Cluster Survey, 
 Cuba,CU,CUB,192,Rural,15,"No facility, bush, field",0.01,"Multiple Indicator Cluster Survey, 2014 - MICS14"
 Cuba,CU,CUB,192,Rural,16,Other unimproved,0.011,"Multiple Indicator Cluster Survey, 2014 - MICS14"
 Cuba,CU,CUB,192,Rural,17,DK/missing information,0.0,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Cuba,CU,CUB,192,National,1,Flush and pour flush - to piped sewer system,0.491,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Cuba,CU,CUB,192,National,2,Flush and pour flush - to septic tank,0.263,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Cuba,CU,CUB,192,National,3,Flush and pour flush - to pit,0.099,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Cuba,CU,CUB,192,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.001,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Cuba,CU,CUB,192,National,5,Flush and pour flush - to elsewhere,0.031,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Cuba,CU,CUB,192,National,6,Dry latrines - Ventilated Improved Pit latrine,0.02,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Cuba,CU,CUB,192,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.078,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Cuba,CU,CUB,192,National,8,Dry latrines - Traditional latrine,0.007,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Cuba,CU,CUB,192,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Cuba,CU,CUB,192,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Cuba,CU,CUB,192,National,11,Dry latrines - Bucket latrine,0.001,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Cuba,CU,CUB,192,National,12,Dry latrines - Other,0.0,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Cuba,CU,CUB,192,National,13,Composting toilets,0.001,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Cuba,CU,CUB,192,National,14,Other improved,0.0,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Cuba,CU,CUB,192,National,15,"No facility, bush, field",0.004,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Cuba,CU,CUB,192,National,16,Other unimproved,0.003,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Cuba,CU,CUB,192,National,17,DK/missing information,0.0,"Multiple Indicator Cluster Survey, 2014 - MICS14"
+Cuba,CU,CUB,192,Urban,1,Flush and pour flush - to piped sewer system,0.476,Instituto Nacional de Recurso Hidraulicos - INRH07
+Cuba,CU,CUB,192,Urban,2,Flush and pour flush - to septic tank,0.0,Instituto Nacional de Recurso Hidraulicos - INRH07
+Cuba,CU,CUB,192,Urban,3,Flush and pour flush - to pit,0.505,Instituto Nacional de Recurso Hidraulicos - INRH07
+Cuba,CU,CUB,192,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Instituto Nacional de Recurso Hidraulicos - INRH07
+Cuba,CU,CUB,192,Urban,5,Flush and pour flush - to elsewhere,0.0,Instituto Nacional de Recurso Hidraulicos - INRH07
+Cuba,CU,CUB,192,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Instituto Nacional de Recurso Hidraulicos - INRH07
+Cuba,CU,CUB,192,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Instituto Nacional de Recurso Hidraulicos - INRH07
+Cuba,CU,CUB,192,Urban,8,Dry latrines - Traditional latrine,0.0,Instituto Nacional de Recurso Hidraulicos - INRH07
+Cuba,CU,CUB,192,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Instituto Nacional de Recurso Hidraulicos - INRH07
+Cuba,CU,CUB,192,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Instituto Nacional de Recurso Hidraulicos - INRH07
+Cuba,CU,CUB,192,Urban,11,Dry latrines - Bucket latrine,0.0,Instituto Nacional de Recurso Hidraulicos - INRH07
+Cuba,CU,CUB,192,Urban,12,Dry latrines - Other,0.0,Instituto Nacional de Recurso Hidraulicos - INRH07
+Cuba,CU,CUB,192,Urban,13,Composting toilets,0.0,Instituto Nacional de Recurso Hidraulicos - INRH07
+Cuba,CU,CUB,192,Urban,14,Other improved,0.0,Instituto Nacional de Recurso Hidraulicos - INRH07
+Cuba,CU,CUB,192,Urban,15,"No facility, bush, field",0.0,Instituto Nacional de Recurso Hidraulicos - INRH07
+Cuba,CU,CUB,192,Urban,16,Other unimproved,0.0,Instituto Nacional de Recurso Hidraulicos - INRH07
+Cuba,CU,CUB,192,Urban,17,DK/missing information,0.0,Instituto Nacional de Recurso Hidraulicos - INRH07
+Cuba,CU,CUB,192,Rural,1,Flush and pour flush - to piped sewer system,0.048,Instituto Nacional de Recurso Hidraulicos - INRH07
+Cuba,CU,CUB,192,Rural,2,Flush and pour flush - to septic tank,0.0,Instituto Nacional de Recurso Hidraulicos - INRH07
+Cuba,CU,CUB,192,Rural,3,Flush and pour flush - to pit,0.85,Instituto Nacional de Recurso Hidraulicos - INRH07
+Cuba,CU,CUB,192,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Instituto Nacional de Recurso Hidraulicos - INRH07
+Cuba,CU,CUB,192,Rural,5,Flush and pour flush - to elsewhere,0.0,Instituto Nacional de Recurso Hidraulicos - INRH07
+Cuba,CU,CUB,192,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Instituto Nacional de Recurso Hidraulicos - INRH07
+Cuba,CU,CUB,192,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Instituto Nacional de Recurso Hidraulicos - INRH07
+Cuba,CU,CUB,192,Rural,8,Dry latrines - Traditional latrine,0.0,Instituto Nacional de Recurso Hidraulicos - INRH07
+Cuba,CU,CUB,192,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Instituto Nacional de Recurso Hidraulicos - INRH07
+Cuba,CU,CUB,192,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Instituto Nacional de Recurso Hidraulicos - INRH07
+Cuba,CU,CUB,192,Rural,11,Dry latrines - Bucket latrine,0.0,Instituto Nacional de Recurso Hidraulicos - INRH07
+Cuba,CU,CUB,192,Rural,12,Dry latrines - Other,0.0,Instituto Nacional de Recurso Hidraulicos - INRH07
+Cuba,CU,CUB,192,Rural,13,Composting toilets,0.0,Instituto Nacional de Recurso Hidraulicos - INRH07
+Cuba,CU,CUB,192,Rural,14,Other improved,0.0,Instituto Nacional de Recurso Hidraulicos - INRH07
+Cuba,CU,CUB,192,Rural,15,"No facility, bush, field",0.0,Instituto Nacional de Recurso Hidraulicos - INRH07
+Cuba,CU,CUB,192,Rural,16,Other unimproved,0.0,Instituto Nacional de Recurso Hidraulicos - INRH07
+Cuba,CU,CUB,192,Rural,17,DK/missing information,0.0,Instituto Nacional de Recurso Hidraulicos - INRH07
+Cuba,CU,CUB,192,National,1,Flush and pour flush - to piped sewer system,0.0,Instituto Nacional de Recurso Hidraulicos - INRH07
+Cuba,CU,CUB,192,National,2,Flush and pour flush - to septic tank,0.0,Instituto Nacional de Recurso Hidraulicos - INRH07
+Cuba,CU,CUB,192,National,3,Flush and pour flush - to pit,0.0,Instituto Nacional de Recurso Hidraulicos - INRH07
+Cuba,CU,CUB,192,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Instituto Nacional de Recurso Hidraulicos - INRH07
+Cuba,CU,CUB,192,National,5,Flush and pour flush - to elsewhere,0.0,Instituto Nacional de Recurso Hidraulicos - INRH07
+Cuba,CU,CUB,192,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Instituto Nacional de Recurso Hidraulicos - INRH07
+Cuba,CU,CUB,192,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Instituto Nacional de Recurso Hidraulicos - INRH07
+Cuba,CU,CUB,192,National,8,Dry latrines - Traditional latrine,0.0,Instituto Nacional de Recurso Hidraulicos - INRH07
+Cuba,CU,CUB,192,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Instituto Nacional de Recurso Hidraulicos - INRH07
+Cuba,CU,CUB,192,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Instituto Nacional de Recurso Hidraulicos - INRH07
+Cuba,CU,CUB,192,National,11,Dry latrines - Bucket latrine,0.0,Instituto Nacional de Recurso Hidraulicos - INRH07
+Cuba,CU,CUB,192,National,12,Dry latrines - Other,0.0,Instituto Nacional de Recurso Hidraulicos - INRH07
+Cuba,CU,CUB,192,National,13,Composting toilets,0.0,Instituto Nacional de Recurso Hidraulicos - INRH07
+Cuba,CU,CUB,192,National,14,Other improved,0.0,Instituto Nacional de Recurso Hidraulicos - INRH07
+Cuba,CU,CUB,192,National,15,"No facility, bush, field",0.0,Instituto Nacional de Recurso Hidraulicos - INRH07
+Cuba,CU,CUB,192,National,16,Other unimproved,0.0,Instituto Nacional de Recurso Hidraulicos - INRH07
+Cuba,CU,CUB,192,National,17,DK/missing information,0.0,Instituto Nacional de Recurso Hidraulicos - INRH07
+Cuba,CU,CUB,192,Urban,1,Flush and pour flush - to piped sewer system,0.462,Instituto Nacional de Recurso Hidraulicos - INRH09
+Cuba,CU,CUB,192,Urban,2,Flush and pour flush - to septic tank,0.0,Instituto Nacional de Recurso Hidraulicos - INRH09
+Cuba,CU,CUB,192,Urban,3,Flush and pour flush - to pit,0.515,Instituto Nacional de Recurso Hidraulicos - INRH09
+Cuba,CU,CUB,192,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Instituto Nacional de Recurso Hidraulicos - INRH09
+Cuba,CU,CUB,192,Urban,5,Flush and pour flush - to elsewhere,0.0,Instituto Nacional de Recurso Hidraulicos - INRH09
+Cuba,CU,CUB,192,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Instituto Nacional de Recurso Hidraulicos - INRH09
+Cuba,CU,CUB,192,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Instituto Nacional de Recurso Hidraulicos - INRH09
+Cuba,CU,CUB,192,Urban,8,Dry latrines - Traditional latrine,0.0,Instituto Nacional de Recurso Hidraulicos - INRH09
+Cuba,CU,CUB,192,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Instituto Nacional de Recurso Hidraulicos - INRH09
+Cuba,CU,CUB,192,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Instituto Nacional de Recurso Hidraulicos - INRH09
+Cuba,CU,CUB,192,Urban,11,Dry latrines - Bucket latrine,0.0,Instituto Nacional de Recurso Hidraulicos - INRH09
+Cuba,CU,CUB,192,Urban,12,Dry latrines - Other,0.0,Instituto Nacional de Recurso Hidraulicos - INRH09
+Cuba,CU,CUB,192,Urban,13,Composting toilets,0.0,Instituto Nacional de Recurso Hidraulicos - INRH09
+Cuba,CU,CUB,192,Urban,14,Other improved,0.0,Instituto Nacional de Recurso Hidraulicos - INRH09
+Cuba,CU,CUB,192,Urban,15,"No facility, bush, field",0.0,Instituto Nacional de Recurso Hidraulicos - INRH09
+Cuba,CU,CUB,192,Urban,16,Other unimproved,0.0,Instituto Nacional de Recurso Hidraulicos - INRH09
+Cuba,CU,CUB,192,Urban,17,DK/missing information,0.0,Instituto Nacional de Recurso Hidraulicos - INRH09
+Cuba,CU,CUB,192,Rural,1,Flush and pour flush - to piped sewer system,0.043,Instituto Nacional de Recurso Hidraulicos - INRH09
+Cuba,CU,CUB,192,Rural,2,Flush and pour flush - to septic tank,0.0,Instituto Nacional de Recurso Hidraulicos - INRH09
+Cuba,CU,CUB,192,Rural,3,Flush and pour flush - to pit,0.858,Instituto Nacional de Recurso Hidraulicos - INRH09
+Cuba,CU,CUB,192,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Instituto Nacional de Recurso Hidraulicos - INRH09
+Cuba,CU,CUB,192,Rural,5,Flush and pour flush - to elsewhere,0.0,Instituto Nacional de Recurso Hidraulicos - INRH09
+Cuba,CU,CUB,192,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Instituto Nacional de Recurso Hidraulicos - INRH09
+Cuba,CU,CUB,192,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Instituto Nacional de Recurso Hidraulicos - INRH09
+Cuba,CU,CUB,192,Rural,8,Dry latrines - Traditional latrine,0.0,Instituto Nacional de Recurso Hidraulicos - INRH09
+Cuba,CU,CUB,192,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Instituto Nacional de Recurso Hidraulicos - INRH09
+Cuba,CU,CUB,192,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Instituto Nacional de Recurso Hidraulicos - INRH09
+Cuba,CU,CUB,192,Rural,11,Dry latrines - Bucket latrine,0.0,Instituto Nacional de Recurso Hidraulicos - INRH09
+Cuba,CU,CUB,192,Rural,12,Dry latrines - Other,0.0,Instituto Nacional de Recurso Hidraulicos - INRH09
+Cuba,CU,CUB,192,Rural,13,Composting toilets,0.0,Instituto Nacional de Recurso Hidraulicos - INRH09
+Cuba,CU,CUB,192,Rural,14,Other improved,0.0,Instituto Nacional de Recurso Hidraulicos - INRH09
+Cuba,CU,CUB,192,Rural,15,"No facility, bush, field",0.0,Instituto Nacional de Recurso Hidraulicos - INRH09
+Cuba,CU,CUB,192,Rural,16,Other unimproved,0.0,Instituto Nacional de Recurso Hidraulicos - INRH09
+Cuba,CU,CUB,192,Rural,17,DK/missing information,0.0,Instituto Nacional de Recurso Hidraulicos - INRH09
+Cuba,CU,CUB,192,National,1,Flush and pour flush - to piped sewer system,0.359,Instituto Nacional de Recurso Hidraulicos - INRH09
+Cuba,CU,CUB,192,National,2,Flush and pour flush - to septic tank,0.0,Instituto Nacional de Recurso Hidraulicos - INRH09
+Cuba,CU,CUB,192,National,3,Flush and pour flush - to pit,0.6,Instituto Nacional de Recurso Hidraulicos - INRH09
+Cuba,CU,CUB,192,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Instituto Nacional de Recurso Hidraulicos - INRH09
+Cuba,CU,CUB,192,National,5,Flush and pour flush - to elsewhere,0.0,Instituto Nacional de Recurso Hidraulicos - INRH09
+Cuba,CU,CUB,192,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Instituto Nacional de Recurso Hidraulicos - INRH09
+Cuba,CU,CUB,192,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Instituto Nacional de Recurso Hidraulicos - INRH09
+Cuba,CU,CUB,192,National,8,Dry latrines - Traditional latrine,0.0,Instituto Nacional de Recurso Hidraulicos - INRH09
+Cuba,CU,CUB,192,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Instituto Nacional de Recurso Hidraulicos - INRH09
+Cuba,CU,CUB,192,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Instituto Nacional de Recurso Hidraulicos - INRH09
+Cuba,CU,CUB,192,National,11,Dry latrines - Bucket latrine,0.0,Instituto Nacional de Recurso Hidraulicos - INRH09
+Cuba,CU,CUB,192,National,12,Dry latrines - Other,0.0,Instituto Nacional de Recurso Hidraulicos - INRH09
+Cuba,CU,CUB,192,National,13,Composting toilets,0.0,Instituto Nacional de Recurso Hidraulicos - INRH09
+Cuba,CU,CUB,192,National,14,Other improved,0.0,Instituto Nacional de Recurso Hidraulicos - INRH09
+Cuba,CU,CUB,192,National,15,"No facility, bush, field",0.0,Instituto Nacional de Recurso Hidraulicos - INRH09
+Cuba,CU,CUB,192,National,16,Other unimproved,0.0,Instituto Nacional de Recurso Hidraulicos - INRH09
+Cuba,CU,CUB,192,National,17,DK/missing information,0.0,Instituto Nacional de Recurso Hidraulicos - INRH09
+Cuba,CU,CUB,192,Urban,1,Flush and pour flush - to piped sewer system,0.508,Censo de Población y Viviendas - CEN12
+Cuba,CU,CUB,192,Urban,2,Flush and pour flush - to septic tank,0.38,Censo de Población y Viviendas - CEN12
+Cuba,CU,CUB,192,Urban,3,Flush and pour flush - to pit,0.0,Censo de Población y Viviendas - CEN12
+Cuba,CU,CUB,192,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Censo de Población y Viviendas - CEN12
+Cuba,CU,CUB,192,Urban,5,Flush and pour flush - to elsewhere,0.0,Censo de Población y Viviendas - CEN12
+Cuba,CU,CUB,192,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Censo de Población y Viviendas - CEN12
+Cuba,CU,CUB,192,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Censo de Población y Viviendas - CEN12
+Cuba,CU,CUB,192,Urban,8,Dry latrines - Traditional latrine,0.0,Censo de Población y Viviendas - CEN12
+Cuba,CU,CUB,192,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Censo de Población y Viviendas - CEN12
+Cuba,CU,CUB,192,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Censo de Población y Viviendas - CEN12
+Cuba,CU,CUB,192,Urban,11,Dry latrines - Bucket latrine,0.0,Censo de Población y Viviendas - CEN12
+Cuba,CU,CUB,192,Urban,12,Dry latrines - Other,0.0,Censo de Población y Viviendas - CEN12
+Cuba,CU,CUB,192,Urban,13,Composting toilets,0.0,Censo de Población y Viviendas - CEN12
+Cuba,CU,CUB,192,Urban,14,Other improved,0.0,Censo de Población y Viviendas - CEN12
+Cuba,CU,CUB,192,Urban,15,"No facility, bush, field",0.0,Censo de Población y Viviendas - CEN12
+Cuba,CU,CUB,192,Urban,16,Other unimproved,0.112,Censo de Población y Viviendas - CEN12
+Cuba,CU,CUB,192,Urban,17,DK/missing information,0.0,Censo de Población y Viviendas - CEN12
+Cuba,CU,CUB,192,Rural,1,Flush and pour flush - to piped sewer system,0.001,Censo de Población y Viviendas - CEN12
+Cuba,CU,CUB,192,Rural,2,Flush and pour flush - to septic tank,0.391,Censo de Población y Viviendas - CEN12
+Cuba,CU,CUB,192,Rural,3,Flush and pour flush - to pit,0.0,Censo de Población y Viviendas - CEN12
+Cuba,CU,CUB,192,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Censo de Población y Viviendas - CEN12
+Cuba,CU,CUB,192,Rural,5,Flush and pour flush - to elsewhere,0.0,Censo de Población y Viviendas - CEN12
+Cuba,CU,CUB,192,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Censo de Población y Viviendas - CEN12
+Cuba,CU,CUB,192,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Censo de Población y Viviendas - CEN12
+Cuba,CU,CUB,192,Rural,8,Dry latrines - Traditional latrine,0.0,Censo de Población y Viviendas - CEN12
+Cuba,CU,CUB,192,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Censo de Población y Viviendas - CEN12
+Cuba,CU,CUB,192,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Censo de Población y Viviendas - CEN12
+Cuba,CU,CUB,192,Rural,11,Dry latrines - Bucket latrine,0.0,Censo de Población y Viviendas - CEN12
+Cuba,CU,CUB,192,Rural,12,Dry latrines - Other,0.0,Censo de Población y Viviendas - CEN12
+Cuba,CU,CUB,192,Rural,13,Composting toilets,0.0,Censo de Población y Viviendas - CEN12
+Cuba,CU,CUB,192,Rural,14,Other improved,0.0,Censo de Población y Viviendas - CEN12
+Cuba,CU,CUB,192,Rural,15,"No facility, bush, field",0.0,Censo de Población y Viviendas - CEN12
+Cuba,CU,CUB,192,Rural,16,Other unimproved,0.608,Censo de Población y Viviendas - CEN12
+Cuba,CU,CUB,192,Rural,17,DK/missing information,0.0,Censo de Población y Viviendas - CEN12
+Cuba,CU,CUB,192,National,1,Flush and pour flush - to piped sewer system,0.004,Censo de Población y Viviendas - CEN12
+Cuba,CU,CUB,192,National,2,Flush and pour flush - to septic tank,0.383,Censo de Población y Viviendas - CEN12
+Cuba,CU,CUB,192,National,3,Flush and pour flush - to pit,0.0,Censo de Población y Viviendas - CEN12
+Cuba,CU,CUB,192,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Censo de Población y Viviendas - CEN12
+Cuba,CU,CUB,192,National,5,Flush and pour flush - to elsewhere,0.0,Censo de Población y Viviendas - CEN12
+Cuba,CU,CUB,192,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Censo de Población y Viviendas - CEN12
+Cuba,CU,CUB,192,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Censo de Población y Viviendas - CEN12
+Cuba,CU,CUB,192,National,8,Dry latrines - Traditional latrine,0.0,Censo de Población y Viviendas - CEN12
+Cuba,CU,CUB,192,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Censo de Población y Viviendas - CEN12
+Cuba,CU,CUB,192,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Censo de Población y Viviendas - CEN12
+Cuba,CU,CUB,192,National,11,Dry latrines - Bucket latrine,0.0,Censo de Población y Viviendas - CEN12
+Cuba,CU,CUB,192,National,12,Dry latrines - Other,0.0,Censo de Población y Viviendas - CEN12
+Cuba,CU,CUB,192,National,13,Composting toilets,0.0,Censo de Población y Viviendas - CEN12
+Cuba,CU,CUB,192,National,14,Other improved,0.0,Censo de Población y Viviendas - CEN12
+Cuba,CU,CUB,192,National,15,"No facility, bush, field",0.0,Censo de Población y Viviendas - CEN12
+Cuba,CU,CUB,192,National,16,Other unimproved,0.613,Censo de Población y Viviendas - CEN12
+Cuba,CU,CUB,192,National,17,DK/missing information,0.0,Censo de Población y Viviendas - CEN12

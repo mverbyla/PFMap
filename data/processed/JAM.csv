@@ -1,4 +1,565 @@
 country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+Jamaica,JM,JAM,388,Urban,1,Flush and pour flush - to piped sewer system,0.327,Multiple Indicator Cluster Survey - MICS00
+Jamaica,JM,JAM,388,Urban,2,Flush and pour flush - to septic tank,0.467,Multiple Indicator Cluster Survey - MICS00
+Jamaica,JM,JAM,388,Urban,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Jamaica,JM,JAM,388,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS00
+Jamaica,JM,JAM,388,Urban,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS00
+Jamaica,JM,JAM,388,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Jamaica,JM,JAM,388,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Jamaica,JM,JAM,388,Urban,8,Dry latrines - Traditional latrine,0.201,Multiple Indicator Cluster Survey - MICS00
+Jamaica,JM,JAM,388,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Jamaica,JM,JAM,388,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Jamaica,JM,JAM,388,Urban,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Jamaica,JM,JAM,388,Urban,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS00
+Jamaica,JM,JAM,388,Urban,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS00
+Jamaica,JM,JAM,388,Urban,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS00
+Jamaica,JM,JAM,388,Urban,15,"No facility, bush, field",0.0,Multiple Indicator Cluster Survey - MICS00
+Jamaica,JM,JAM,388,Urban,16,Other unimproved,0.005,Multiple Indicator Cluster Survey - MICS00
+Jamaica,JM,JAM,388,Urban,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS00
+Jamaica,JM,JAM,388,Rural,1,Flush and pour flush - to piped sewer system,0.016,Multiple Indicator Cluster Survey - MICS00
+Jamaica,JM,JAM,388,Rural,2,Flush and pour flush - to septic tank,0.342,Multiple Indicator Cluster Survey - MICS00
+Jamaica,JM,JAM,388,Rural,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Jamaica,JM,JAM,388,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS00
+Jamaica,JM,JAM,388,Rural,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS00
+Jamaica,JM,JAM,388,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Jamaica,JM,JAM,388,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Jamaica,JM,JAM,388,Rural,8,Dry latrines - Traditional latrine,0.636,Multiple Indicator Cluster Survey - MICS00
+Jamaica,JM,JAM,388,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Jamaica,JM,JAM,388,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Jamaica,JM,JAM,388,Rural,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Jamaica,JM,JAM,388,Rural,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS00
+Jamaica,JM,JAM,388,Rural,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS00
+Jamaica,JM,JAM,388,Rural,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS00
+Jamaica,JM,JAM,388,Rural,15,"No facility, bush, field",0.0,Multiple Indicator Cluster Survey - MICS00
+Jamaica,JM,JAM,388,Rural,16,Other unimproved,0.006,Multiple Indicator Cluster Survey - MICS00
+Jamaica,JM,JAM,388,Rural,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS00
+Jamaica,JM,JAM,388,National,1,Flush and pour flush - to piped sewer system,0.0,Multiple Indicator Cluster Survey - MICS00
+Jamaica,JM,JAM,388,National,2,Flush and pour flush - to septic tank,0.0,Multiple Indicator Cluster Survey - MICS00
+Jamaica,JM,JAM,388,National,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Jamaica,JM,JAM,388,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS00
+Jamaica,JM,JAM,388,National,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS00
+Jamaica,JM,JAM,388,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Jamaica,JM,JAM,388,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Jamaica,JM,JAM,388,National,8,Dry latrines - Traditional latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Jamaica,JM,JAM,388,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Jamaica,JM,JAM,388,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Jamaica,JM,JAM,388,National,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Jamaica,JM,JAM,388,National,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS00
+Jamaica,JM,JAM,388,National,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS00
+Jamaica,JM,JAM,388,National,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS00
+Jamaica,JM,JAM,388,National,15,"No facility, bush, field",0.0,Multiple Indicator Cluster Survey - MICS00
+Jamaica,JM,JAM,388,National,16,Other unimproved,0.0,Multiple Indicator Cluster Survey - MICS00
+Jamaica,JM,JAM,388,National,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS00
+Jamaica,JM,JAM,388,Urban,1,Flush and pour flush - to piped sewer system,0.0,SLC - SLC00
+Jamaica,JM,JAM,388,Urban,2,Flush and pour flush - to septic tank,0.0,SLC - SLC00
+Jamaica,JM,JAM,388,Urban,3,Flush and pour flush - to pit,0.0,SLC - SLC00
+Jamaica,JM,JAM,388,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,SLC - SLC00
+Jamaica,JM,JAM,388,Urban,5,Flush and pour flush - to elsewhere,0.0,SLC - SLC00
+Jamaica,JM,JAM,388,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,SLC - SLC00
+Jamaica,JM,JAM,388,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,SLC - SLC00
+Jamaica,JM,JAM,388,Urban,8,Dry latrines - Traditional latrine,0.189,SLC - SLC00
+Jamaica,JM,JAM,388,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,SLC - SLC00
+Jamaica,JM,JAM,388,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,SLC - SLC00
+Jamaica,JM,JAM,388,Urban,11,Dry latrines - Bucket latrine,0.0,SLC - SLC00
+Jamaica,JM,JAM,388,Urban,12,Dry latrines - Other,0.0,SLC - SLC00
+Jamaica,JM,JAM,388,Urban,13,Composting toilets,0.0,SLC - SLC00
+Jamaica,JM,JAM,388,Urban,14,Other improved,0.0,SLC - SLC00
+Jamaica,JM,JAM,388,Urban,15,"No facility, bush, field",0.006,SLC - SLC00
+Jamaica,JM,JAM,388,Urban,16,Other unimproved,0.003,SLC - SLC00
+Jamaica,JM,JAM,388,Urban,17,DK/missing information,0.0,SLC - SLC00
+Jamaica,JM,JAM,388,Rural,1,Flush and pour flush - to piped sewer system,0.0,SLC - SLC00
+Jamaica,JM,JAM,388,Rural,2,Flush and pour flush - to septic tank,0.0,SLC - SLC00
+Jamaica,JM,JAM,388,Rural,3,Flush and pour flush - to pit,0.0,SLC - SLC00
+Jamaica,JM,JAM,388,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,SLC - SLC00
+Jamaica,JM,JAM,388,Rural,5,Flush and pour flush - to elsewhere,0.0,SLC - SLC00
+Jamaica,JM,JAM,388,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,SLC - SLC00
+Jamaica,JM,JAM,388,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,SLC - SLC00
+Jamaica,JM,JAM,388,Rural,8,Dry latrines - Traditional latrine,0.587,SLC - SLC00
+Jamaica,JM,JAM,388,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,SLC - SLC00
+Jamaica,JM,JAM,388,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,SLC - SLC00
+Jamaica,JM,JAM,388,Rural,11,Dry latrines - Bucket latrine,0.0,SLC - SLC00
+Jamaica,JM,JAM,388,Rural,12,Dry latrines - Other,0.0,SLC - SLC00
+Jamaica,JM,JAM,388,Rural,13,Composting toilets,0.0,SLC - SLC00
+Jamaica,JM,JAM,388,Rural,14,Other improved,0.0,SLC - SLC00
+Jamaica,JM,JAM,388,Rural,15,"No facility, bush, field",0.015,SLC - SLC00
+Jamaica,JM,JAM,388,Rural,16,Other unimproved,0.001,SLC - SLC00
+Jamaica,JM,JAM,388,Rural,17,DK/missing information,0.0,SLC - SLC00
+Jamaica,JM,JAM,388,National,1,Flush and pour flush - to piped sewer system,0.0,SLC - SLC00
+Jamaica,JM,JAM,388,National,2,Flush and pour flush - to septic tank,0.0,SLC - SLC00
+Jamaica,JM,JAM,388,National,3,Flush and pour flush - to pit,0.0,SLC - SLC00
+Jamaica,JM,JAM,388,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,SLC - SLC00
+Jamaica,JM,JAM,388,National,5,Flush and pour flush - to elsewhere,0.0,SLC - SLC00
+Jamaica,JM,JAM,388,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,SLC - SLC00
+Jamaica,JM,JAM,388,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,SLC - SLC00
+Jamaica,JM,JAM,388,National,8,Dry latrines - Traditional latrine,0.376,SLC - SLC00
+Jamaica,JM,JAM,388,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,SLC - SLC00
+Jamaica,JM,JAM,388,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,SLC - SLC00
+Jamaica,JM,JAM,388,National,11,Dry latrines - Bucket latrine,0.0,SLC - SLC00
+Jamaica,JM,JAM,388,National,12,Dry latrines - Other,0.0,SLC - SLC00
+Jamaica,JM,JAM,388,National,13,Composting toilets,0.0,SLC - SLC00
+Jamaica,JM,JAM,388,National,14,Other improved,0.0,SLC - SLC00
+Jamaica,JM,JAM,388,National,15,"No facility, bush, field",0.0,SLC - SLC00
+Jamaica,JM,JAM,388,National,16,Other unimproved,0.002,SLC - SLC00
+Jamaica,JM,JAM,388,National,17,DK/missing information,0.0,SLC - SLC00
+Jamaica,JM,JAM,388,Urban,1,Flush and pour flush - to piped sewer system,0.306,Survey of Living Conditions - SLC01
+Jamaica,JM,JAM,388,Urban,2,Flush and pour flush - to septic tank,0.0,Survey of Living Conditions - SLC01
+Jamaica,JM,JAM,388,Urban,3,Flush and pour flush - to pit,0.509,Survey of Living Conditions - SLC01
+Jamaica,JM,JAM,388,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Survey of Living Conditions - SLC01
+Jamaica,JM,JAM,388,Urban,5,Flush and pour flush - to elsewhere,0.0,Survey of Living Conditions - SLC01
+Jamaica,JM,JAM,388,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Survey of Living Conditions - SLC01
+Jamaica,JM,JAM,388,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Survey of Living Conditions - SLC01
+Jamaica,JM,JAM,388,Urban,8,Dry latrines - Traditional latrine,0.173,Survey of Living Conditions - SLC01
+Jamaica,JM,JAM,388,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Survey of Living Conditions - SLC01
+Jamaica,JM,JAM,388,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Survey of Living Conditions - SLC01
+Jamaica,JM,JAM,388,Urban,11,Dry latrines - Bucket latrine,0.0,Survey of Living Conditions - SLC01
+Jamaica,JM,JAM,388,Urban,12,Dry latrines - Other,0.0,Survey of Living Conditions - SLC01
+Jamaica,JM,JAM,388,Urban,13,Composting toilets,0.0,Survey of Living Conditions - SLC01
+Jamaica,JM,JAM,388,Urban,14,Other improved,0.0,Survey of Living Conditions - SLC01
+Jamaica,JM,JAM,388,Urban,15,"No facility, bush, field",0.009,Survey of Living Conditions - SLC01
+Jamaica,JM,JAM,388,Urban,16,Other unimproved,0.003,Survey of Living Conditions - SLC01
+Jamaica,JM,JAM,388,Urban,17,DK/missing information,0.0,Survey of Living Conditions - SLC01
+Jamaica,JM,JAM,388,Rural,1,Flush and pour flush - to piped sewer system,0.031,Survey of Living Conditions - SLC01
+Jamaica,JM,JAM,388,Rural,2,Flush and pour flush - to septic tank,0.0,Survey of Living Conditions - SLC01
+Jamaica,JM,JAM,388,Rural,3,Flush and pour flush - to pit,0.354,Survey of Living Conditions - SLC01
+Jamaica,JM,JAM,388,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Survey of Living Conditions - SLC01
+Jamaica,JM,JAM,388,Rural,5,Flush and pour flush - to elsewhere,0.0,Survey of Living Conditions - SLC01
+Jamaica,JM,JAM,388,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Survey of Living Conditions - SLC01
+Jamaica,JM,JAM,388,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Survey of Living Conditions - SLC01
+Jamaica,JM,JAM,388,Rural,8,Dry latrines - Traditional latrine,0.593,Survey of Living Conditions - SLC01
+Jamaica,JM,JAM,388,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Survey of Living Conditions - SLC01
+Jamaica,JM,JAM,388,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Survey of Living Conditions - SLC01
+Jamaica,JM,JAM,388,Rural,11,Dry latrines - Bucket latrine,0.0,Survey of Living Conditions - SLC01
+Jamaica,JM,JAM,388,Rural,12,Dry latrines - Other,0.0,Survey of Living Conditions - SLC01
+Jamaica,JM,JAM,388,Rural,13,Composting toilets,0.0,Survey of Living Conditions - SLC01
+Jamaica,JM,JAM,388,Rural,14,Other improved,0.0,Survey of Living Conditions - SLC01
+Jamaica,JM,JAM,388,Rural,15,"No facility, bush, field",0.017,Survey of Living Conditions - SLC01
+Jamaica,JM,JAM,388,Rural,16,Other unimproved,0.005,Survey of Living Conditions - SLC01
+Jamaica,JM,JAM,388,Rural,17,DK/missing information,0.0,Survey of Living Conditions - SLC01
+Jamaica,JM,JAM,388,National,1,Flush and pour flush - to piped sewer system,0.0,Survey of Living Conditions - SLC01
+Jamaica,JM,JAM,388,National,2,Flush and pour flush - to septic tank,0.0,Survey of Living Conditions - SLC01
+Jamaica,JM,JAM,388,National,3,Flush and pour flush - to pit,0.0,Survey of Living Conditions - SLC01
+Jamaica,JM,JAM,388,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Survey of Living Conditions - SLC01
+Jamaica,JM,JAM,388,National,5,Flush and pour flush - to elsewhere,0.0,Survey of Living Conditions - SLC01
+Jamaica,JM,JAM,388,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Survey of Living Conditions - SLC01
+Jamaica,JM,JAM,388,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Survey of Living Conditions - SLC01
+Jamaica,JM,JAM,388,National,8,Dry latrines - Traditional latrine,0.0,Survey of Living Conditions - SLC01
+Jamaica,JM,JAM,388,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Survey of Living Conditions - SLC01
+Jamaica,JM,JAM,388,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Survey of Living Conditions - SLC01
+Jamaica,JM,JAM,388,National,11,Dry latrines - Bucket latrine,0.0,Survey of Living Conditions - SLC01
+Jamaica,JM,JAM,388,National,12,Dry latrines - Other,0.0,Survey of Living Conditions - SLC01
+Jamaica,JM,JAM,388,National,13,Composting toilets,0.0,Survey of Living Conditions - SLC01
+Jamaica,JM,JAM,388,National,14,Other improved,0.0,Survey of Living Conditions - SLC01
+Jamaica,JM,JAM,388,National,15,"No facility, bush, field",0.0,Survey of Living Conditions - SLC01
+Jamaica,JM,JAM,388,National,16,Other unimproved,0.0,Survey of Living Conditions - SLC01
+Jamaica,JM,JAM,388,National,17,DK/missing information,0.0,Survey of Living Conditions - SLC01
+Jamaica,JM,JAM,388,Urban,1,Flush and pour flush - to piped sewer system,0.326,Survey of Living Conditions - SLC02
+Jamaica,JM,JAM,388,Urban,2,Flush and pour flush - to septic tank,0.0,Survey of Living Conditions - SLC02
+Jamaica,JM,JAM,388,Urban,3,Flush and pour flush - to pit,0.453,Survey of Living Conditions - SLC02
+Jamaica,JM,JAM,388,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Survey of Living Conditions - SLC02
+Jamaica,JM,JAM,388,Urban,5,Flush and pour flush - to elsewhere,0.0,Survey of Living Conditions - SLC02
+Jamaica,JM,JAM,388,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Survey of Living Conditions - SLC02
+Jamaica,JM,JAM,388,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Survey of Living Conditions - SLC02
+Jamaica,JM,JAM,388,Urban,8,Dry latrines - Traditional latrine,0.219,Survey of Living Conditions - SLC02
+Jamaica,JM,JAM,388,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Survey of Living Conditions - SLC02
+Jamaica,JM,JAM,388,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Survey of Living Conditions - SLC02
+Jamaica,JM,JAM,388,Urban,11,Dry latrines - Bucket latrine,0.0,Survey of Living Conditions - SLC02
+Jamaica,JM,JAM,388,Urban,12,Dry latrines - Other,0.0,Survey of Living Conditions - SLC02
+Jamaica,JM,JAM,388,Urban,13,Composting toilets,0.0,Survey of Living Conditions - SLC02
+Jamaica,JM,JAM,388,Urban,14,Other improved,0.0,Survey of Living Conditions - SLC02
+Jamaica,JM,JAM,388,Urban,15,"No facility, bush, field",0.0,Survey of Living Conditions - SLC02
+Jamaica,JM,JAM,388,Urban,16,Other unimproved,0.002,Survey of Living Conditions - SLC02
+Jamaica,JM,JAM,388,Urban,17,DK/missing information,0.0,Survey of Living Conditions - SLC02
+Jamaica,JM,JAM,388,Rural,1,Flush and pour flush - to piped sewer system,0.044,Survey of Living Conditions - SLC02
+Jamaica,JM,JAM,388,Rural,2,Flush and pour flush - to septic tank,0.0,Survey of Living Conditions - SLC02
+Jamaica,JM,JAM,388,Rural,3,Flush and pour flush - to pit,0.321,Survey of Living Conditions - SLC02
+Jamaica,JM,JAM,388,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Survey of Living Conditions - SLC02
+Jamaica,JM,JAM,388,Rural,5,Flush and pour flush - to elsewhere,0.0,Survey of Living Conditions - SLC02
+Jamaica,JM,JAM,388,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Survey of Living Conditions - SLC02
+Jamaica,JM,JAM,388,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Survey of Living Conditions - SLC02
+Jamaica,JM,JAM,388,Rural,8,Dry latrines - Traditional latrine,0.634,Survey of Living Conditions - SLC02
+Jamaica,JM,JAM,388,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Survey of Living Conditions - SLC02
+Jamaica,JM,JAM,388,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Survey of Living Conditions - SLC02
+Jamaica,JM,JAM,388,Rural,11,Dry latrines - Bucket latrine,0.0,Survey of Living Conditions - SLC02
+Jamaica,JM,JAM,388,Rural,12,Dry latrines - Other,0.0,Survey of Living Conditions - SLC02
+Jamaica,JM,JAM,388,Rural,13,Composting toilets,0.0,Survey of Living Conditions - SLC02
+Jamaica,JM,JAM,388,Rural,14,Other improved,0.0,Survey of Living Conditions - SLC02
+Jamaica,JM,JAM,388,Rural,15,"No facility, bush, field",0.0,Survey of Living Conditions - SLC02
+Jamaica,JM,JAM,388,Rural,16,Other unimproved,0.001,Survey of Living Conditions - SLC02
+Jamaica,JM,JAM,388,Rural,17,DK/missing information,0.0,Survey of Living Conditions - SLC02
+Jamaica,JM,JAM,388,National,1,Flush and pour flush - to piped sewer system,0.0,Survey of Living Conditions - SLC02
+Jamaica,JM,JAM,388,National,2,Flush and pour flush - to septic tank,0.0,Survey of Living Conditions - SLC02
+Jamaica,JM,JAM,388,National,3,Flush and pour flush - to pit,0.0,Survey of Living Conditions - SLC02
+Jamaica,JM,JAM,388,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Survey of Living Conditions - SLC02
+Jamaica,JM,JAM,388,National,5,Flush and pour flush - to elsewhere,0.0,Survey of Living Conditions - SLC02
+Jamaica,JM,JAM,388,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Survey of Living Conditions - SLC02
+Jamaica,JM,JAM,388,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Survey of Living Conditions - SLC02
+Jamaica,JM,JAM,388,National,8,Dry latrines - Traditional latrine,0.0,Survey of Living Conditions - SLC02
+Jamaica,JM,JAM,388,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Survey of Living Conditions - SLC02
+Jamaica,JM,JAM,388,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Survey of Living Conditions - SLC02
+Jamaica,JM,JAM,388,National,11,Dry latrines - Bucket latrine,0.0,Survey of Living Conditions - SLC02
+Jamaica,JM,JAM,388,National,12,Dry latrines - Other,0.0,Survey of Living Conditions - SLC02
+Jamaica,JM,JAM,388,National,13,Composting toilets,0.0,Survey of Living Conditions - SLC02
+Jamaica,JM,JAM,388,National,14,Other improved,0.0,Survey of Living Conditions - SLC02
+Jamaica,JM,JAM,388,National,15,"No facility, bush, field",0.0,Survey of Living Conditions - SLC02
+Jamaica,JM,JAM,388,National,16,Other unimproved,0.0,Survey of Living Conditions - SLC02
+Jamaica,JM,JAM,388,National,17,DK/missing information,0.0,Survey of Living Conditions - SLC02
+Jamaica,JM,JAM,388,Urban,1,Flush and pour flush - to piped sewer system,0.0,SLC - SLC04
+Jamaica,JM,JAM,388,Urban,2,Flush and pour flush - to septic tank,0.0,SLC - SLC04
+Jamaica,JM,JAM,388,Urban,3,Flush and pour flush - to pit,0.0,SLC - SLC04
+Jamaica,JM,JAM,388,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,SLC - SLC04
+Jamaica,JM,JAM,388,Urban,5,Flush and pour flush - to elsewhere,0.0,SLC - SLC04
+Jamaica,JM,JAM,388,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,SLC - SLC04
+Jamaica,JM,JAM,388,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,SLC - SLC04
+Jamaica,JM,JAM,388,Urban,8,Dry latrines - Traditional latrine,0.187,SLC - SLC04
+Jamaica,JM,JAM,388,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,SLC - SLC04
+Jamaica,JM,JAM,388,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,SLC - SLC04
+Jamaica,JM,JAM,388,Urban,11,Dry latrines - Bucket latrine,0.0,SLC - SLC04
+Jamaica,JM,JAM,388,Urban,12,Dry latrines - Other,0.0,SLC - SLC04
+Jamaica,JM,JAM,388,Urban,13,Composting toilets,0.0,SLC - SLC04
+Jamaica,JM,JAM,388,Urban,14,Other improved,0.0,SLC - SLC04
+Jamaica,JM,JAM,388,Urban,15,"No facility, bush, field",0.003,SLC - SLC04
+Jamaica,JM,JAM,388,Urban,16,Other unimproved,0.002,SLC - SLC04
+Jamaica,JM,JAM,388,Urban,17,DK/missing information,0.0,SLC - SLC04
+Jamaica,JM,JAM,388,Rural,1,Flush and pour flush - to piped sewer system,0.0,SLC - SLC04
+Jamaica,JM,JAM,388,Rural,2,Flush and pour flush - to septic tank,0.0,SLC - SLC04
+Jamaica,JM,JAM,388,Rural,3,Flush and pour flush - to pit,0.0,SLC - SLC04
+Jamaica,JM,JAM,388,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,SLC - SLC04
+Jamaica,JM,JAM,388,Rural,5,Flush and pour flush - to elsewhere,0.0,SLC - SLC04
+Jamaica,JM,JAM,388,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,SLC - SLC04
+Jamaica,JM,JAM,388,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,SLC - SLC04
+Jamaica,JM,JAM,388,Rural,8,Dry latrines - Traditional latrine,0.555,SLC - SLC04
+Jamaica,JM,JAM,388,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,SLC - SLC04
+Jamaica,JM,JAM,388,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,SLC - SLC04
+Jamaica,JM,JAM,388,Rural,11,Dry latrines - Bucket latrine,0.0,SLC - SLC04
+Jamaica,JM,JAM,388,Rural,12,Dry latrines - Other,0.0,SLC - SLC04
+Jamaica,JM,JAM,388,Rural,13,Composting toilets,0.0,SLC - SLC04
+Jamaica,JM,JAM,388,Rural,14,Other improved,0.0,SLC - SLC04
+Jamaica,JM,JAM,388,Rural,15,"No facility, bush, field",0.016,SLC - SLC04
+Jamaica,JM,JAM,388,Rural,16,Other unimproved,0.002,SLC - SLC04
+Jamaica,JM,JAM,388,Rural,17,DK/missing information,0.0,SLC - SLC04
+Jamaica,JM,JAM,388,National,1,Flush and pour flush - to piped sewer system,0.0,SLC - SLC04
+Jamaica,JM,JAM,388,National,2,Flush and pour flush - to septic tank,0.0,SLC - SLC04
+Jamaica,JM,JAM,388,National,3,Flush and pour flush - to pit,0.0,SLC - SLC04
+Jamaica,JM,JAM,388,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,SLC - SLC04
+Jamaica,JM,JAM,388,National,5,Flush and pour flush - to elsewhere,0.0,SLC - SLC04
+Jamaica,JM,JAM,388,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,SLC - SLC04
+Jamaica,JM,JAM,388,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,SLC - SLC04
+Jamaica,JM,JAM,388,National,8,Dry latrines - Traditional latrine,0.361,SLC - SLC04
+Jamaica,JM,JAM,388,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,SLC - SLC04
+Jamaica,JM,JAM,388,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,SLC - SLC04
+Jamaica,JM,JAM,388,National,11,Dry latrines - Bucket latrine,0.0,SLC - SLC04
+Jamaica,JM,JAM,388,National,12,Dry latrines - Other,0.0,SLC - SLC04
+Jamaica,JM,JAM,388,National,13,Composting toilets,0.0,SLC - SLC04
+Jamaica,JM,JAM,388,National,14,Other improved,0.0,SLC - SLC04
+Jamaica,JM,JAM,388,National,15,"No facility, bush, field",0.0,SLC - SLC04
+Jamaica,JM,JAM,388,National,16,Other unimproved,0.001,SLC - SLC04
+Jamaica,JM,JAM,388,National,17,DK/missing information,0.0,SLC - SLC04
+Jamaica,JM,JAM,388,Urban,1,Flush and pour flush - to piped sewer system,0.298,Multiple Indicator Cluster Survey - MICS05
+Jamaica,JM,JAM,388,Urban,2,Flush and pour flush - to septic tank,0.051,Multiple Indicator Cluster Survey - MICS05
+Jamaica,JM,JAM,388,Urban,3,Flush and pour flush - to pit,0.453,Multiple Indicator Cluster Survey - MICS05
+Jamaica,JM,JAM,388,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.005,Multiple Indicator Cluster Survey - MICS05
+Jamaica,JM,JAM,388,Urban,5,Flush and pour flush - to elsewhere,0.002,Multiple Indicator Cluster Survey - MICS05
+Jamaica,JM,JAM,388,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.003,Multiple Indicator Cluster Survey - MICS05
+Jamaica,JM,JAM,388,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.173,Multiple Indicator Cluster Survey - MICS05
+Jamaica,JM,JAM,388,Urban,8,Dry latrines - Traditional latrine,0.0,Multiple Indicator Cluster Survey - MICS05
+Jamaica,JM,JAM,388,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.009,Multiple Indicator Cluster Survey - MICS05
+Jamaica,JM,JAM,388,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS05
+Jamaica,JM,JAM,388,Urban,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS05
+Jamaica,JM,JAM,388,Urban,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS05
+Jamaica,JM,JAM,388,Urban,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS05
+Jamaica,JM,JAM,388,Urban,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS05
+Jamaica,JM,JAM,388,Urban,15,"No facility, bush, field",0.005,Multiple Indicator Cluster Survey - MICS05
+Jamaica,JM,JAM,388,Urban,16,Other unimproved,0.001,Multiple Indicator Cluster Survey - MICS05
+Jamaica,JM,JAM,388,Urban,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS05
+Jamaica,JM,JAM,388,Rural,1,Flush and pour flush - to piped sewer system,0.018,Multiple Indicator Cluster Survey - MICS05
+Jamaica,JM,JAM,388,Rural,2,Flush and pour flush - to septic tank,0.017,Multiple Indicator Cluster Survey - MICS05
+Jamaica,JM,JAM,388,Rural,3,Flush and pour flush - to pit,0.422,Multiple Indicator Cluster Survey - MICS05
+Jamaica,JM,JAM,388,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.001,Multiple Indicator Cluster Survey - MICS05
+Jamaica,JM,JAM,388,Rural,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS05
+Jamaica,JM,JAM,388,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.002,Multiple Indicator Cluster Survey - MICS05
+Jamaica,JM,JAM,388,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.503,Multiple Indicator Cluster Survey - MICS05
+Jamaica,JM,JAM,388,Rural,8,Dry latrines - Traditional latrine,0.0,Multiple Indicator Cluster Survey - MICS05
+Jamaica,JM,JAM,388,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.029,Multiple Indicator Cluster Survey - MICS05
+Jamaica,JM,JAM,388,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS05
+Jamaica,JM,JAM,388,Rural,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS05
+Jamaica,JM,JAM,388,Rural,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS05
+Jamaica,JM,JAM,388,Rural,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS05
+Jamaica,JM,JAM,388,Rural,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS05
+Jamaica,JM,JAM,388,Rural,15,"No facility, bush, field",0.007,Multiple Indicator Cluster Survey - MICS05
+Jamaica,JM,JAM,388,Rural,16,Other unimproved,0.001,Multiple Indicator Cluster Survey - MICS05
+Jamaica,JM,JAM,388,Rural,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS05
+Jamaica,JM,JAM,388,National,1,Flush and pour flush - to piped sewer system,0.18,Multiple Indicator Cluster Survey - MICS05
+Jamaica,JM,JAM,388,National,2,Flush and pour flush - to septic tank,0.036,Multiple Indicator Cluster Survey - MICS05
+Jamaica,JM,JAM,388,National,3,Flush and pour flush - to pit,0.44,Multiple Indicator Cluster Survey - MICS05
+Jamaica,JM,JAM,388,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.003,Multiple Indicator Cluster Survey - MICS05
+Jamaica,JM,JAM,388,National,5,Flush and pour flush - to elsewhere,0.001,Multiple Indicator Cluster Survey - MICS05
+Jamaica,JM,JAM,388,National,6,Dry latrines - Ventilated Improved Pit latrine,0.003,Multiple Indicator Cluster Survey - MICS05
+Jamaica,JM,JAM,388,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.312,Multiple Indicator Cluster Survey - MICS05
+Jamaica,JM,JAM,388,National,8,Dry latrines - Traditional latrine,0.0,Multiple Indicator Cluster Survey - MICS05
+Jamaica,JM,JAM,388,National,9,Dry latrines - Pit latrine without slab/open pit,0.017,Multiple Indicator Cluster Survey - MICS05
+Jamaica,JM,JAM,388,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS05
+Jamaica,JM,JAM,388,National,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS05
+Jamaica,JM,JAM,388,National,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS05
+Jamaica,JM,JAM,388,National,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS05
+Jamaica,JM,JAM,388,National,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS05
+Jamaica,JM,JAM,388,National,15,"No facility, bush, field",0.006,Multiple Indicator Cluster Survey - MICS05
+Jamaica,JM,JAM,388,National,16,Other unimproved,0.001,Multiple Indicator Cluster Survey - MICS05
+Jamaica,JM,JAM,388,National,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS05
+Jamaica,JM,JAM,388,Urban,1,Flush and pour flush - to piped sewer system,0.0,SLC - SLC06
+Jamaica,JM,JAM,388,Urban,2,Flush and pour flush - to septic tank,0.0,SLC - SLC06
+Jamaica,JM,JAM,388,Urban,3,Flush and pour flush - to pit,0.0,SLC - SLC06
+Jamaica,JM,JAM,388,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,SLC - SLC06
+Jamaica,JM,JAM,388,Urban,5,Flush and pour flush - to elsewhere,0.0,SLC - SLC06
+Jamaica,JM,JAM,388,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,SLC - SLC06
+Jamaica,JM,JAM,388,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,SLC - SLC06
+Jamaica,JM,JAM,388,Urban,8,Dry latrines - Traditional latrine,0.17,SLC - SLC06
+Jamaica,JM,JAM,388,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,SLC - SLC06
+Jamaica,JM,JAM,388,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,SLC - SLC06
+Jamaica,JM,JAM,388,Urban,11,Dry latrines - Bucket latrine,0.0,SLC - SLC06
+Jamaica,JM,JAM,388,Urban,12,Dry latrines - Other,0.0,SLC - SLC06
+Jamaica,JM,JAM,388,Urban,13,Composting toilets,0.0,SLC - SLC06
+Jamaica,JM,JAM,388,Urban,14,Other improved,0.0,SLC - SLC06
+Jamaica,JM,JAM,388,Urban,15,"No facility, bush, field",0.0,SLC - SLC06
+Jamaica,JM,JAM,388,Urban,16,Other unimproved,0.007,SLC - SLC06
+Jamaica,JM,JAM,388,Urban,17,DK/missing information,0.0,SLC - SLC06
+Jamaica,JM,JAM,388,Rural,1,Flush and pour flush - to piped sewer system,0.0,SLC - SLC06
+Jamaica,JM,JAM,388,Rural,2,Flush and pour flush - to septic tank,0.0,SLC - SLC06
+Jamaica,JM,JAM,388,Rural,3,Flush and pour flush - to pit,0.0,SLC - SLC06
+Jamaica,JM,JAM,388,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,SLC - SLC06
+Jamaica,JM,JAM,388,Rural,5,Flush and pour flush - to elsewhere,0.0,SLC - SLC06
+Jamaica,JM,JAM,388,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,SLC - SLC06
+Jamaica,JM,JAM,388,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,SLC - SLC06
+Jamaica,JM,JAM,388,Rural,8,Dry latrines - Traditional latrine,0.536,SLC - SLC06
+Jamaica,JM,JAM,388,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,SLC - SLC06
+Jamaica,JM,JAM,388,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,SLC - SLC06
+Jamaica,JM,JAM,388,Rural,11,Dry latrines - Bucket latrine,0.0,SLC - SLC06
+Jamaica,JM,JAM,388,Rural,12,Dry latrines - Other,0.0,SLC - SLC06
+Jamaica,JM,JAM,388,Rural,13,Composting toilets,0.0,SLC - SLC06
+Jamaica,JM,JAM,388,Rural,14,Other improved,0.0,SLC - SLC06
+Jamaica,JM,JAM,388,Rural,15,"No facility, bush, field",0.0,SLC - SLC06
+Jamaica,JM,JAM,388,Rural,16,Other unimproved,0.008,SLC - SLC06
+Jamaica,JM,JAM,388,Rural,17,DK/missing information,0.0,SLC - SLC06
+Jamaica,JM,JAM,388,National,1,Flush and pour flush - to piped sewer system,0.0,SLC - SLC06
+Jamaica,JM,JAM,388,National,2,Flush and pour flush - to septic tank,0.0,SLC - SLC06
+Jamaica,JM,JAM,388,National,3,Flush and pour flush - to pit,0.0,SLC - SLC06
+Jamaica,JM,JAM,388,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,SLC - SLC06
+Jamaica,JM,JAM,388,National,5,Flush and pour flush - to elsewhere,0.0,SLC - SLC06
+Jamaica,JM,JAM,388,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,SLC - SLC06
+Jamaica,JM,JAM,388,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,SLC - SLC06
+Jamaica,JM,JAM,388,National,8,Dry latrines - Traditional latrine,0.346,SLC - SLC06
+Jamaica,JM,JAM,388,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,SLC - SLC06
+Jamaica,JM,JAM,388,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,SLC - SLC06
+Jamaica,JM,JAM,388,National,11,Dry latrines - Bucket latrine,0.0,SLC - SLC06
+Jamaica,JM,JAM,388,National,12,Dry latrines - Other,0.0,SLC - SLC06
+Jamaica,JM,JAM,388,National,13,Composting toilets,0.0,SLC - SLC06
+Jamaica,JM,JAM,388,National,14,Other improved,0.0,SLC - SLC06
+Jamaica,JM,JAM,388,National,15,"No facility, bush, field",0.0,SLC - SLC06
+Jamaica,JM,JAM,388,National,16,Other unimproved,0.011,SLC - SLC06
+Jamaica,JM,JAM,388,National,17,DK/missing information,0.0,SLC - SLC06
+Jamaica,JM,JAM,388,Urban,1,Flush and pour flush - to piped sewer system,0.0,SLC - SLC07
+Jamaica,JM,JAM,388,Urban,2,Flush and pour flush - to septic tank,0.0,SLC - SLC07
+Jamaica,JM,JAM,388,Urban,3,Flush and pour flush - to pit,0.0,SLC - SLC07
+Jamaica,JM,JAM,388,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,SLC - SLC07
+Jamaica,JM,JAM,388,Urban,5,Flush and pour flush - to elsewhere,0.0,SLC - SLC07
+Jamaica,JM,JAM,388,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,SLC - SLC07
+Jamaica,JM,JAM,388,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,SLC - SLC07
+Jamaica,JM,JAM,388,Urban,8,Dry latrines - Traditional latrine,0.16,SLC - SLC07
+Jamaica,JM,JAM,388,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,SLC - SLC07
+Jamaica,JM,JAM,388,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,SLC - SLC07
+Jamaica,JM,JAM,388,Urban,11,Dry latrines - Bucket latrine,0.0,SLC - SLC07
+Jamaica,JM,JAM,388,Urban,12,Dry latrines - Other,0.0,SLC - SLC07
+Jamaica,JM,JAM,388,Urban,13,Composting toilets,0.0,SLC - SLC07
+Jamaica,JM,JAM,388,Urban,14,Other improved,0.0,SLC - SLC07
+Jamaica,JM,JAM,388,Urban,15,"No facility, bush, field",0.015,SLC - SLC07
+Jamaica,JM,JAM,388,Urban,16,Other unimproved,0.005,SLC - SLC07
+Jamaica,JM,JAM,388,Urban,17,DK/missing information,0.0,SLC - SLC07
+Jamaica,JM,JAM,388,Rural,1,Flush and pour flush - to piped sewer system,0.0,SLC - SLC07
+Jamaica,JM,JAM,388,Rural,2,Flush and pour flush - to septic tank,0.0,SLC - SLC07
+Jamaica,JM,JAM,388,Rural,3,Flush and pour flush - to pit,0.0,SLC - SLC07
+Jamaica,JM,JAM,388,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,SLC - SLC07
+Jamaica,JM,JAM,388,Rural,5,Flush and pour flush - to elsewhere,0.0,SLC - SLC07
+Jamaica,JM,JAM,388,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,SLC - SLC07
+Jamaica,JM,JAM,388,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,SLC - SLC07
+Jamaica,JM,JAM,388,Rural,8,Dry latrines - Traditional latrine,0.572,SLC - SLC07
+Jamaica,JM,JAM,388,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,SLC - SLC07
+Jamaica,JM,JAM,388,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,SLC - SLC07
+Jamaica,JM,JAM,388,Rural,11,Dry latrines - Bucket latrine,0.0,SLC - SLC07
+Jamaica,JM,JAM,388,Rural,12,Dry latrines - Other,0.0,SLC - SLC07
+Jamaica,JM,JAM,388,Rural,13,Composting toilets,0.0,SLC - SLC07
+Jamaica,JM,JAM,388,Rural,14,Other improved,0.0,SLC - SLC07
+Jamaica,JM,JAM,388,Rural,15,"No facility, bush, field",0.017,SLC - SLC07
+Jamaica,JM,JAM,388,Rural,16,Other unimproved,0.001,SLC - SLC07
+Jamaica,JM,JAM,388,Rural,17,DK/missing information,0.0,SLC - SLC07
+Jamaica,JM,JAM,388,National,1,Flush and pour flush - to piped sewer system,0.0,SLC - SLC07
+Jamaica,JM,JAM,388,National,2,Flush and pour flush - to septic tank,0.0,SLC - SLC07
+Jamaica,JM,JAM,388,National,3,Flush and pour flush - to pit,0.0,SLC - SLC07
+Jamaica,JM,JAM,388,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,SLC - SLC07
+Jamaica,JM,JAM,388,National,5,Flush and pour flush - to elsewhere,0.0,SLC - SLC07
+Jamaica,JM,JAM,388,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,SLC - SLC07
+Jamaica,JM,JAM,388,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,SLC - SLC07
+Jamaica,JM,JAM,388,National,8,Dry latrines - Traditional latrine,0.346,SLC - SLC07
+Jamaica,JM,JAM,388,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,SLC - SLC07
+Jamaica,JM,JAM,388,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,SLC - SLC07
+Jamaica,JM,JAM,388,National,11,Dry latrines - Bucket latrine,0.0,SLC - SLC07
+Jamaica,JM,JAM,388,National,12,Dry latrines - Other,0.0,SLC - SLC07
+Jamaica,JM,JAM,388,National,13,Composting toilets,0.0,SLC - SLC07
+Jamaica,JM,JAM,388,National,14,Other improved,0.0,SLC - SLC07
+Jamaica,JM,JAM,388,National,15,"No facility, bush, field",0.0,SLC - SLC07
+Jamaica,JM,JAM,388,National,16,Other unimproved,0.011,SLC - SLC07
+Jamaica,JM,JAM,388,National,17,DK/missing information,0.0,SLC - SLC07
+Jamaica,JM,JAM,388,Urban,1,Flush and pour flush - to piped sewer system,0.0,SLC - SLC08
+Jamaica,JM,JAM,388,Urban,2,Flush and pour flush - to septic tank,0.0,SLC - SLC08
+Jamaica,JM,JAM,388,Urban,3,Flush and pour flush - to pit,0.0,SLC - SLC08
+Jamaica,JM,JAM,388,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,SLC - SLC08
+Jamaica,JM,JAM,388,Urban,5,Flush and pour flush - to elsewhere,0.0,SLC - SLC08
+Jamaica,JM,JAM,388,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,SLC - SLC08
+Jamaica,JM,JAM,388,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,SLC - SLC08
+Jamaica,JM,JAM,388,Urban,8,Dry latrines - Traditional latrine,0.154,SLC - SLC08
+Jamaica,JM,JAM,388,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,SLC - SLC08
+Jamaica,JM,JAM,388,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,SLC - SLC08
+Jamaica,JM,JAM,388,Urban,11,Dry latrines - Bucket latrine,0.0,SLC - SLC08
+Jamaica,JM,JAM,388,Urban,12,Dry latrines - Other,0.0,SLC - SLC08
+Jamaica,JM,JAM,388,Urban,13,Composting toilets,0.0,SLC - SLC08
+Jamaica,JM,JAM,388,Urban,14,Other improved,0.0,SLC - SLC08
+Jamaica,JM,JAM,388,Urban,15,"No facility, bush, field",0.011,SLC - SLC08
+Jamaica,JM,JAM,388,Urban,16,Other unimproved,0.003,SLC - SLC08
+Jamaica,JM,JAM,388,Urban,17,DK/missing information,0.0,SLC - SLC08
+Jamaica,JM,JAM,388,Rural,1,Flush and pour flush - to piped sewer system,0.0,SLC - SLC08
+Jamaica,JM,JAM,388,Rural,2,Flush and pour flush - to septic tank,0.0,SLC - SLC08
+Jamaica,JM,JAM,388,Rural,3,Flush and pour flush - to pit,0.0,SLC - SLC08
+Jamaica,JM,JAM,388,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,SLC - SLC08
+Jamaica,JM,JAM,388,Rural,5,Flush and pour flush - to elsewhere,0.0,SLC - SLC08
+Jamaica,JM,JAM,388,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,SLC - SLC08
+Jamaica,JM,JAM,388,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,SLC - SLC08
+Jamaica,JM,JAM,388,Rural,8,Dry latrines - Traditional latrine,0.457,SLC - SLC08
+Jamaica,JM,JAM,388,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,SLC - SLC08
+Jamaica,JM,JAM,388,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,SLC - SLC08
+Jamaica,JM,JAM,388,Rural,11,Dry latrines - Bucket latrine,0.0,SLC - SLC08
+Jamaica,JM,JAM,388,Rural,12,Dry latrines - Other,0.0,SLC - SLC08
+Jamaica,JM,JAM,388,Rural,13,Composting toilets,0.0,SLC - SLC08
+Jamaica,JM,JAM,388,Rural,14,Other improved,0.0,SLC - SLC08
+Jamaica,JM,JAM,388,Rural,15,"No facility, bush, field",0.019,SLC - SLC08
+Jamaica,JM,JAM,388,Rural,16,Other unimproved,0.003,SLC - SLC08
+Jamaica,JM,JAM,388,Rural,17,DK/missing information,0.0,SLC - SLC08
+Jamaica,JM,JAM,388,National,1,Flush and pour flush - to piped sewer system,0.0,SLC - SLC08
+Jamaica,JM,JAM,388,National,2,Flush and pour flush - to septic tank,0.0,SLC - SLC08
+Jamaica,JM,JAM,388,National,3,Flush and pour flush - to pit,0.0,SLC - SLC08
+Jamaica,JM,JAM,388,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,SLC - SLC08
+Jamaica,JM,JAM,388,National,5,Flush and pour flush - to elsewhere,0.0,SLC - SLC08
+Jamaica,JM,JAM,388,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,SLC - SLC08
+Jamaica,JM,JAM,388,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,SLC - SLC08
+Jamaica,JM,JAM,388,National,8,Dry latrines - Traditional latrine,0.283,SLC - SLC08
+Jamaica,JM,JAM,388,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,SLC - SLC08
+Jamaica,JM,JAM,388,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,SLC - SLC08
+Jamaica,JM,JAM,388,National,11,Dry latrines - Bucket latrine,0.0,SLC - SLC08
+Jamaica,JM,JAM,388,National,12,Dry latrines - Other,0.0,SLC - SLC08
+Jamaica,JM,JAM,388,National,13,Composting toilets,0.0,SLC - SLC08
+Jamaica,JM,JAM,388,National,14,Other improved,0.0,SLC - SLC08
+Jamaica,JM,JAM,388,National,15,"No facility, bush, field",0.0,SLC - SLC08
+Jamaica,JM,JAM,388,National,16,Other unimproved,0.003,SLC - SLC08
+Jamaica,JM,JAM,388,National,17,DK/missing information,0.0,SLC - SLC08
+Jamaica,JM,JAM,388,Urban,1,Flush and pour flush - to piped sewer system,0.371,Survey of Living Conditions - SLC09
+Jamaica,JM,JAM,388,Urban,2,Flush and pour flush - to septic tank,0.0,Survey of Living Conditions - SLC09
+Jamaica,JM,JAM,388,Urban,3,Flush and pour flush - to pit,0.47,Survey of Living Conditions - SLC09
+Jamaica,JM,JAM,388,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Survey of Living Conditions - SLC09
+Jamaica,JM,JAM,388,Urban,5,Flush and pour flush - to elsewhere,0.0,Survey of Living Conditions - SLC09
+Jamaica,JM,JAM,388,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Survey of Living Conditions - SLC09
+Jamaica,JM,JAM,388,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Survey of Living Conditions - SLC09
+Jamaica,JM,JAM,388,Urban,8,Dry latrines - Traditional latrine,0.16,Survey of Living Conditions - SLC09
+Jamaica,JM,JAM,388,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Survey of Living Conditions - SLC09
+Jamaica,JM,JAM,388,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Survey of Living Conditions - SLC09
+Jamaica,JM,JAM,388,Urban,11,Dry latrines - Bucket latrine,0.0,Survey of Living Conditions - SLC09
+Jamaica,JM,JAM,388,Urban,12,Dry latrines - Other,0.0,Survey of Living Conditions - SLC09
+Jamaica,JM,JAM,388,Urban,13,Composting toilets,0.0,Survey of Living Conditions - SLC09
+Jamaica,JM,JAM,388,Urban,14,Other improved,0.0,Survey of Living Conditions - SLC09
+Jamaica,JM,JAM,388,Urban,15,"No facility, bush, field",0.0,Survey of Living Conditions - SLC09
+Jamaica,JM,JAM,388,Urban,16,Other unimproved,0.0,Survey of Living Conditions - SLC09
+Jamaica,JM,JAM,388,Urban,17,DK/missing information,0.0,Survey of Living Conditions - SLC09
+Jamaica,JM,JAM,388,Rural,1,Flush and pour flush - to piped sewer system,0.056,Survey of Living Conditions - SLC09
+Jamaica,JM,JAM,388,Rural,2,Flush and pour flush - to septic tank,0.0,Survey of Living Conditions - SLC09
+Jamaica,JM,JAM,388,Rural,3,Flush and pour flush - to pit,0.43,Survey of Living Conditions - SLC09
+Jamaica,JM,JAM,388,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Survey of Living Conditions - SLC09
+Jamaica,JM,JAM,388,Rural,5,Flush and pour flush - to elsewhere,0.0,Survey of Living Conditions - SLC09
+Jamaica,JM,JAM,388,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Survey of Living Conditions - SLC09
+Jamaica,JM,JAM,388,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Survey of Living Conditions - SLC09
+Jamaica,JM,JAM,388,Rural,8,Dry latrines - Traditional latrine,0.511,Survey of Living Conditions - SLC09
+Jamaica,JM,JAM,388,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Survey of Living Conditions - SLC09
+Jamaica,JM,JAM,388,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Survey of Living Conditions - SLC09
+Jamaica,JM,JAM,388,Rural,11,Dry latrines - Bucket latrine,0.0,Survey of Living Conditions - SLC09
+Jamaica,JM,JAM,388,Rural,12,Dry latrines - Other,0.0,Survey of Living Conditions - SLC09
+Jamaica,JM,JAM,388,Rural,13,Composting toilets,0.0,Survey of Living Conditions - SLC09
+Jamaica,JM,JAM,388,Rural,14,Other improved,0.0,Survey of Living Conditions - SLC09
+Jamaica,JM,JAM,388,Rural,15,"No facility, bush, field",0.0,Survey of Living Conditions - SLC09
+Jamaica,JM,JAM,388,Rural,16,Other unimproved,0.002,Survey of Living Conditions - SLC09
+Jamaica,JM,JAM,388,Rural,17,DK/missing information,0.0,Survey of Living Conditions - SLC09
+Jamaica,JM,JAM,388,National,1,Flush and pour flush - to piped sewer system,0.23,Survey of Living Conditions - SLC09
+Jamaica,JM,JAM,388,National,2,Flush and pour flush - to septic tank,0.0,Survey of Living Conditions - SLC09
+Jamaica,JM,JAM,388,National,3,Flush and pour flush - to pit,0.452,Survey of Living Conditions - SLC09
+Jamaica,JM,JAM,388,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Survey of Living Conditions - SLC09
+Jamaica,JM,JAM,388,National,5,Flush and pour flush - to elsewhere,0.0,Survey of Living Conditions - SLC09
+Jamaica,JM,JAM,388,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Survey of Living Conditions - SLC09
+Jamaica,JM,JAM,388,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Survey of Living Conditions - SLC09
+Jamaica,JM,JAM,388,National,8,Dry latrines - Traditional latrine,0.317,Survey of Living Conditions - SLC09
+Jamaica,JM,JAM,388,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Survey of Living Conditions - SLC09
+Jamaica,JM,JAM,388,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Survey of Living Conditions - SLC09
+Jamaica,JM,JAM,388,National,11,Dry latrines - Bucket latrine,0.0,Survey of Living Conditions - SLC09
+Jamaica,JM,JAM,388,National,12,Dry latrines - Other,0.0,Survey of Living Conditions - SLC09
+Jamaica,JM,JAM,388,National,13,Composting toilets,0.0,Survey of Living Conditions - SLC09
+Jamaica,JM,JAM,388,National,14,Other improved,0.0,Survey of Living Conditions - SLC09
+Jamaica,JM,JAM,388,National,15,"No facility, bush, field",0.0,Survey of Living Conditions - SLC09
+Jamaica,JM,JAM,388,National,16,Other unimproved,0.001,Survey of Living Conditions - SLC09
+Jamaica,JM,JAM,388,National,17,DK/missing information,0.0,Survey of Living Conditions - SLC09
+Jamaica,JM,JAM,388,Urban,1,Flush and pour flush - to piped sewer system,0.313,Survey of Living Conditions - SLC10
+Jamaica,JM,JAM,388,Urban,2,Flush and pour flush - to septic tank,0.0,Survey of Living Conditions - SLC10
+Jamaica,JM,JAM,388,Urban,3,Flush and pour flush - to pit,0.531,Survey of Living Conditions - SLC10
+Jamaica,JM,JAM,388,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Survey of Living Conditions - SLC10
+Jamaica,JM,JAM,388,Urban,5,Flush and pour flush - to elsewhere,0.0,Survey of Living Conditions - SLC10
+Jamaica,JM,JAM,388,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Survey of Living Conditions - SLC10
+Jamaica,JM,JAM,388,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Survey of Living Conditions - SLC10
+Jamaica,JM,JAM,388,Urban,8,Dry latrines - Traditional latrine,0.146,Survey of Living Conditions - SLC10
+Jamaica,JM,JAM,388,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Survey of Living Conditions - SLC10
+Jamaica,JM,JAM,388,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Survey of Living Conditions - SLC10
+Jamaica,JM,JAM,388,Urban,11,Dry latrines - Bucket latrine,0.0,Survey of Living Conditions - SLC10
+Jamaica,JM,JAM,388,Urban,12,Dry latrines - Other,0.0,Survey of Living Conditions - SLC10
+Jamaica,JM,JAM,388,Urban,13,Composting toilets,0.0,Survey of Living Conditions - SLC10
+Jamaica,JM,JAM,388,Urban,14,Other improved,0.0,Survey of Living Conditions - SLC10
+Jamaica,JM,JAM,388,Urban,15,"No facility, bush, field",0.007,Survey of Living Conditions - SLC10
+Jamaica,JM,JAM,388,Urban,16,Other unimproved,0.003,Survey of Living Conditions - SLC10
+Jamaica,JM,JAM,388,Urban,17,DK/missing information,0.0,Survey of Living Conditions - SLC10
+Jamaica,JM,JAM,388,Rural,1,Flush and pour flush - to piped sewer system,0.056,Survey of Living Conditions - SLC10
+Jamaica,JM,JAM,388,Rural,2,Flush and pour flush - to septic tank,0.0,Survey of Living Conditions - SLC10
+Jamaica,JM,JAM,388,Rural,3,Flush and pour flush - to pit,0.461,Survey of Living Conditions - SLC10
+Jamaica,JM,JAM,388,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Survey of Living Conditions - SLC10
+Jamaica,JM,JAM,388,Rural,5,Flush and pour flush - to elsewhere,0.0,Survey of Living Conditions - SLC10
+Jamaica,JM,JAM,388,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Survey of Living Conditions - SLC10
+Jamaica,JM,JAM,388,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Survey of Living Conditions - SLC10
+Jamaica,JM,JAM,388,Rural,8,Dry latrines - Traditional latrine,0.474,Survey of Living Conditions - SLC10
+Jamaica,JM,JAM,388,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Survey of Living Conditions - SLC10
+Jamaica,JM,JAM,388,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Survey of Living Conditions - SLC10
+Jamaica,JM,JAM,388,Rural,11,Dry latrines - Bucket latrine,0.0,Survey of Living Conditions - SLC10
+Jamaica,JM,JAM,388,Rural,12,Dry latrines - Other,0.0,Survey of Living Conditions - SLC10
+Jamaica,JM,JAM,388,Rural,13,Composting toilets,0.0,Survey of Living Conditions - SLC10
+Jamaica,JM,JAM,388,Rural,14,Other improved,0.0,Survey of Living Conditions - SLC10
+Jamaica,JM,JAM,388,Rural,15,"No facility, bush, field",0.003,Survey of Living Conditions - SLC10
+Jamaica,JM,JAM,388,Rural,16,Other unimproved,0.005,Survey of Living Conditions - SLC10
+Jamaica,JM,JAM,388,Rural,17,DK/missing information,0.002,Survey of Living Conditions - SLC10
+Jamaica,JM,JAM,388,National,1,Flush and pour flush - to piped sewer system,0.201,Survey of Living Conditions - SLC10
+Jamaica,JM,JAM,388,National,2,Flush and pour flush - to septic tank,0.0,Survey of Living Conditions - SLC10
+Jamaica,JM,JAM,388,National,3,Flush and pour flush - to pit,0.5,Survey of Living Conditions - SLC10
+Jamaica,JM,JAM,388,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Survey of Living Conditions - SLC10
+Jamaica,JM,JAM,388,National,5,Flush and pour flush - to elsewhere,0.0,Survey of Living Conditions - SLC10
+Jamaica,JM,JAM,388,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Survey of Living Conditions - SLC10
+Jamaica,JM,JAM,388,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Survey of Living Conditions - SLC10
+Jamaica,JM,JAM,388,National,8,Dry latrines - Traditional latrine,0.289,Survey of Living Conditions - SLC10
+Jamaica,JM,JAM,388,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Survey of Living Conditions - SLC10
+Jamaica,JM,JAM,388,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Survey of Living Conditions - SLC10
+Jamaica,JM,JAM,388,National,11,Dry latrines - Bucket latrine,0.0,Survey of Living Conditions - SLC10
+Jamaica,JM,JAM,388,National,12,Dry latrines - Other,0.0,Survey of Living Conditions - SLC10
+Jamaica,JM,JAM,388,National,13,Composting toilets,0.0,Survey of Living Conditions - SLC10
+Jamaica,JM,JAM,388,National,14,Other improved,0.0,Survey of Living Conditions - SLC10
+Jamaica,JM,JAM,388,National,15,"No facility, bush, field",0.005,Survey of Living Conditions - SLC10
+Jamaica,JM,JAM,388,National,16,Other unimproved,0.004,Survey of Living Conditions - SLC10
+Jamaica,JM,JAM,388,National,17,DK/missing information,0.001,Survey of Living Conditions - SLC10
 Jamaica,JM,JAM,388,Urban,1,Flush and pour flush - to piped sewer system,0.344,Multiple Indicator Cluster Survey - MICS11
 Jamaica,JM,JAM,388,Urban,2,Flush and pour flush - to septic tank,0.318,Multiple Indicator Cluster Survey - MICS11
 Jamaica,JM,JAM,388,Urban,3,Flush and pour flush - to pit,0.246,Multiple Indicator Cluster Survey - MICS11
@@ -33,3 +594,224 @@ Jamaica,JM,JAM,388,Rural,14,Other improved,0.0,Multiple Indicator Cluster Survey
 Jamaica,JM,JAM,388,Rural,15,"No facility, bush, field",0.004,Multiple Indicator Cluster Survey - MICS11
 Jamaica,JM,JAM,388,Rural,16,Other unimproved,0.001,Multiple Indicator Cluster Survey - MICS11
 Jamaica,JM,JAM,388,Rural,17,DK/missing information,0.002,Multiple Indicator Cluster Survey - MICS11
+Jamaica,JM,JAM,388,National,1,Flush and pour flush - to piped sewer system,0.221,Multiple Indicator Cluster Survey - MICS11
+Jamaica,JM,JAM,388,National,2,Flush and pour flush - to septic tank,0.273,Multiple Indicator Cluster Survey - MICS11
+Jamaica,JM,JAM,388,National,3,Flush and pour flush - to pit,0.285,Multiple Indicator Cluster Survey - MICS11
+Jamaica,JM,JAM,388,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.002,Multiple Indicator Cluster Survey - MICS11
+Jamaica,JM,JAM,388,National,5,Flush and pour flush - to elsewhere,0.002,Multiple Indicator Cluster Survey - MICS11
+Jamaica,JM,JAM,388,National,6,Dry latrines - Ventilated Improved Pit latrine,0.013,Multiple Indicator Cluster Survey - MICS11
+Jamaica,JM,JAM,388,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.195,Multiple Indicator Cluster Survey - MICS11
+Jamaica,JM,JAM,388,National,8,Dry latrines - Traditional latrine,0.0,Multiple Indicator Cluster Survey - MICS11
+Jamaica,JM,JAM,388,National,9,Dry latrines - Pit latrine without slab/open pit,0.003,Multiple Indicator Cluster Survey - MICS11
+Jamaica,JM,JAM,388,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS11
+Jamaica,JM,JAM,388,National,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS11
+Jamaica,JM,JAM,388,National,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS11
+Jamaica,JM,JAM,388,National,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS11
+Jamaica,JM,JAM,388,National,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS11
+Jamaica,JM,JAM,388,National,15,"No facility, bush, field",0.003,Multiple Indicator Cluster Survey - MICS11
+Jamaica,JM,JAM,388,National,16,Other unimproved,0.001,Multiple Indicator Cluster Survey - MICS11
+Jamaica,JM,JAM,388,National,17,DK/missing information,0.002,Multiple Indicator Cluster Survey - MICS11
+Jamaica,JM,JAM,388,Urban,1,Flush and pour flush - to piped sewer system,0.0,Census 2011 - CEN11
+Jamaica,JM,JAM,388,Urban,2,Flush and pour flush - to septic tank,0.0,Census 2011 - CEN11
+Jamaica,JM,JAM,388,Urban,3,Flush and pour flush - to pit,0.0,Census 2011 - CEN11
+Jamaica,JM,JAM,388,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census 2011 - CEN11
+Jamaica,JM,JAM,388,Urban,5,Flush and pour flush - to elsewhere,0.0,Census 2011 - CEN11
+Jamaica,JM,JAM,388,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census 2011 - CEN11
+Jamaica,JM,JAM,388,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census 2011 - CEN11
+Jamaica,JM,JAM,388,Urban,8,Dry latrines - Traditional latrine,0.104,Census 2011 - CEN11
+Jamaica,JM,JAM,388,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census 2011 - CEN11
+Jamaica,JM,JAM,388,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census 2011 - CEN11
+Jamaica,JM,JAM,388,Urban,11,Dry latrines - Bucket latrine,0.0,Census 2011 - CEN11
+Jamaica,JM,JAM,388,Urban,12,Dry latrines - Other,0.0,Census 2011 - CEN11
+Jamaica,JM,JAM,388,Urban,13,Composting toilets,0.0,Census 2011 - CEN11
+Jamaica,JM,JAM,388,Urban,14,Other improved,0.0,Census 2011 - CEN11
+Jamaica,JM,JAM,388,Urban,15,"No facility, bush, field",0.011,Census 2011 - CEN11
+Jamaica,JM,JAM,388,Urban,16,Other unimproved,0.001,Census 2011 - CEN11
+Jamaica,JM,JAM,388,Urban,17,DK/missing information,0.012,Census 2011 - CEN11
+Jamaica,JM,JAM,388,Rural,1,Flush and pour flush - to piped sewer system,0.0,Census 2011 - CEN11
+Jamaica,JM,JAM,388,Rural,2,Flush and pour flush - to septic tank,0.0,Census 2011 - CEN11
+Jamaica,JM,JAM,388,Rural,3,Flush and pour flush - to pit,0.0,Census 2011 - CEN11
+Jamaica,JM,JAM,388,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census 2011 - CEN11
+Jamaica,JM,JAM,388,Rural,5,Flush and pour flush - to elsewhere,0.0,Census 2011 - CEN11
+Jamaica,JM,JAM,388,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census 2011 - CEN11
+Jamaica,JM,JAM,388,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census 2011 - CEN11
+Jamaica,JM,JAM,388,Rural,8,Dry latrines - Traditional latrine,0.382,Census 2011 - CEN11
+Jamaica,JM,JAM,388,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census 2011 - CEN11
+Jamaica,JM,JAM,388,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census 2011 - CEN11
+Jamaica,JM,JAM,388,Rural,11,Dry latrines - Bucket latrine,0.0,Census 2011 - CEN11
+Jamaica,JM,JAM,388,Rural,12,Dry latrines - Other,0.0,Census 2011 - CEN11
+Jamaica,JM,JAM,388,Rural,13,Composting toilets,0.0,Census 2011 - CEN11
+Jamaica,JM,JAM,388,Rural,14,Other improved,0.0,Census 2011 - CEN11
+Jamaica,JM,JAM,388,Rural,15,"No facility, bush, field",0.017,Census 2011 - CEN11
+Jamaica,JM,JAM,388,Rural,16,Other unimproved,0.001,Census 2011 - CEN11
+Jamaica,JM,JAM,388,Rural,17,DK/missing information,0.009,Census 2011 - CEN11
+Jamaica,JM,JAM,388,National,1,Flush and pour flush - to piped sewer system,0.0,Census 2011 - CEN11
+Jamaica,JM,JAM,388,National,2,Flush and pour flush - to septic tank,0.0,Census 2011 - CEN11
+Jamaica,JM,JAM,388,National,3,Flush and pour flush - to pit,0.0,Census 2011 - CEN11
+Jamaica,JM,JAM,388,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census 2011 - CEN11
+Jamaica,JM,JAM,388,National,5,Flush and pour flush - to elsewhere,0.0,Census 2011 - CEN11
+Jamaica,JM,JAM,388,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census 2011 - CEN11
+Jamaica,JM,JAM,388,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census 2011 - CEN11
+Jamaica,JM,JAM,388,National,8,Dry latrines - Traditional latrine,0.234,Census 2011 - CEN11
+Jamaica,JM,JAM,388,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census 2011 - CEN11
+Jamaica,JM,JAM,388,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census 2011 - CEN11
+Jamaica,JM,JAM,388,National,11,Dry latrines - Bucket latrine,0.0,Census 2011 - CEN11
+Jamaica,JM,JAM,388,National,12,Dry latrines - Other,0.0,Census 2011 - CEN11
+Jamaica,JM,JAM,388,National,13,Composting toilets,0.0,Census 2011 - CEN11
+Jamaica,JM,JAM,388,National,14,Other improved,0.0,Census 2011 - CEN11
+Jamaica,JM,JAM,388,National,15,"No facility, bush, field",0.014,Census 2011 - CEN11
+Jamaica,JM,JAM,388,National,16,Other unimproved,0.001,Census 2011 - CEN11
+Jamaica,JM,JAM,388,National,17,DK/missing information,0.01,Census 2011 - CEN11
+Jamaica,JM,JAM,388,Urban,1,Flush and pour flush - to piped sewer system,0.346,Survey of Living Conditions - SLC12
+Jamaica,JM,JAM,388,Urban,2,Flush and pour flush - to septic tank,0.0,Survey of Living Conditions - SLC12
+Jamaica,JM,JAM,388,Urban,3,Flush and pour flush - to pit,0.501,Survey of Living Conditions - SLC12
+Jamaica,JM,JAM,388,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Survey of Living Conditions - SLC12
+Jamaica,JM,JAM,388,Urban,5,Flush and pour flush - to elsewhere,0.0,Survey of Living Conditions - SLC12
+Jamaica,JM,JAM,388,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Survey of Living Conditions - SLC12
+Jamaica,JM,JAM,388,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Survey of Living Conditions - SLC12
+Jamaica,JM,JAM,388,Urban,8,Dry latrines - Traditional latrine,0.14,Survey of Living Conditions - SLC12
+Jamaica,JM,JAM,388,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Survey of Living Conditions - SLC12
+Jamaica,JM,JAM,388,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Survey of Living Conditions - SLC12
+Jamaica,JM,JAM,388,Urban,11,Dry latrines - Bucket latrine,0.0,Survey of Living Conditions - SLC12
+Jamaica,JM,JAM,388,Urban,12,Dry latrines - Other,0.0,Survey of Living Conditions - SLC12
+Jamaica,JM,JAM,388,Urban,13,Composting toilets,0.0,Survey of Living Conditions - SLC12
+Jamaica,JM,JAM,388,Urban,14,Other improved,0.0,Survey of Living Conditions - SLC12
+Jamaica,JM,JAM,388,Urban,15,"No facility, bush, field",0.008,Survey of Living Conditions - SLC12
+Jamaica,JM,JAM,388,Urban,16,Other unimproved,0.002,Survey of Living Conditions - SLC12
+Jamaica,JM,JAM,388,Urban,17,DK/missing information,0.004,Survey of Living Conditions - SLC12
+Jamaica,JM,JAM,388,Rural,1,Flush and pour flush - to piped sewer system,0.054,Survey of Living Conditions - SLC12
+Jamaica,JM,JAM,388,Rural,2,Flush and pour flush - to septic tank,0.0,Survey of Living Conditions - SLC12
+Jamaica,JM,JAM,388,Rural,3,Flush and pour flush - to pit,0.553,Survey of Living Conditions - SLC12
+Jamaica,JM,JAM,388,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Survey of Living Conditions - SLC12
+Jamaica,JM,JAM,388,Rural,5,Flush and pour flush - to elsewhere,0.0,Survey of Living Conditions - SLC12
+Jamaica,JM,JAM,388,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Survey of Living Conditions - SLC12
+Jamaica,JM,JAM,388,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Survey of Living Conditions - SLC12
+Jamaica,JM,JAM,388,Rural,8,Dry latrines - Traditional latrine,0.384,Survey of Living Conditions - SLC12
+Jamaica,JM,JAM,388,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Survey of Living Conditions - SLC12
+Jamaica,JM,JAM,388,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Survey of Living Conditions - SLC12
+Jamaica,JM,JAM,388,Rural,11,Dry latrines - Bucket latrine,0.0,Survey of Living Conditions - SLC12
+Jamaica,JM,JAM,388,Rural,12,Dry latrines - Other,0.0,Survey of Living Conditions - SLC12
+Jamaica,JM,JAM,388,Rural,13,Composting toilets,0.0,Survey of Living Conditions - SLC12
+Jamaica,JM,JAM,388,Rural,14,Other improved,0.0,Survey of Living Conditions - SLC12
+Jamaica,JM,JAM,388,Rural,15,"No facility, bush, field",0.007,Survey of Living Conditions - SLC12
+Jamaica,JM,JAM,388,Rural,16,Other unimproved,0.001,Survey of Living Conditions - SLC12
+Jamaica,JM,JAM,388,Rural,17,DK/missing information,0.001,Survey of Living Conditions - SLC12
+Jamaica,JM,JAM,388,National,1,Flush and pour flush - to piped sewer system,0.202,Survey of Living Conditions - SLC12
+Jamaica,JM,JAM,388,National,2,Flush and pour flush - to septic tank,0.0,Survey of Living Conditions - SLC12
+Jamaica,JM,JAM,388,National,3,Flush and pour flush - to pit,0.527,Survey of Living Conditions - SLC12
+Jamaica,JM,JAM,388,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Survey of Living Conditions - SLC12
+Jamaica,JM,JAM,388,National,5,Flush and pour flush - to elsewhere,0.0,Survey of Living Conditions - SLC12
+Jamaica,JM,JAM,388,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Survey of Living Conditions - SLC12
+Jamaica,JM,JAM,388,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Survey of Living Conditions - SLC12
+Jamaica,JM,JAM,388,National,8,Dry latrines - Traditional latrine,0.26,Survey of Living Conditions - SLC12
+Jamaica,JM,JAM,388,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Survey of Living Conditions - SLC12
+Jamaica,JM,JAM,388,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Survey of Living Conditions - SLC12
+Jamaica,JM,JAM,388,National,11,Dry latrines - Bucket latrine,0.0,Survey of Living Conditions - SLC12
+Jamaica,JM,JAM,388,National,12,Dry latrines - Other,0.0,Survey of Living Conditions - SLC12
+Jamaica,JM,JAM,388,National,13,Composting toilets,0.0,Survey of Living Conditions - SLC12
+Jamaica,JM,JAM,388,National,14,Other improved,0.0,Survey of Living Conditions - SLC12
+Jamaica,JM,JAM,388,National,15,"No facility, bush, field",0.007,Survey of Living Conditions - SLC12
+Jamaica,JM,JAM,388,National,16,Other unimproved,0.001,Survey of Living Conditions - SLC12
+Jamaica,JM,JAM,388,National,17,DK/missing information,0.003,Survey of Living Conditions - SLC12
+Jamaica,JM,JAM,388,Urban,1,Flush and pour flush - to piped sewer system,0.307,Survey of Living Conditions - SLC13
+Jamaica,JM,JAM,388,Urban,2,Flush and pour flush - to septic tank,0.0,Survey of Living Conditions - SLC13
+Jamaica,JM,JAM,388,Urban,3,Flush and pour flush - to pit,0.596,Survey of Living Conditions - SLC13
+Jamaica,JM,JAM,388,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Survey of Living Conditions - SLC13
+Jamaica,JM,JAM,388,Urban,5,Flush and pour flush - to elsewhere,0.0,Survey of Living Conditions - SLC13
+Jamaica,JM,JAM,388,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Survey of Living Conditions - SLC13
+Jamaica,JM,JAM,388,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Survey of Living Conditions - SLC13
+Jamaica,JM,JAM,388,Urban,8,Dry latrines - Traditional latrine,0.085,Survey of Living Conditions - SLC13
+Jamaica,JM,JAM,388,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Survey of Living Conditions - SLC13
+Jamaica,JM,JAM,388,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Survey of Living Conditions - SLC13
+Jamaica,JM,JAM,388,Urban,11,Dry latrines - Bucket latrine,0.0,Survey of Living Conditions - SLC13
+Jamaica,JM,JAM,388,Urban,12,Dry latrines - Other,0.0,Survey of Living Conditions - SLC13
+Jamaica,JM,JAM,388,Urban,13,Composting toilets,0.0,Survey of Living Conditions - SLC13
+Jamaica,JM,JAM,388,Urban,14,Other improved,0.0,Survey of Living Conditions - SLC13
+Jamaica,JM,JAM,388,Urban,15,"No facility, bush, field",0.01,Survey of Living Conditions - SLC13
+Jamaica,JM,JAM,388,Urban,16,Other unimproved,0.002,Survey of Living Conditions - SLC13
+Jamaica,JM,JAM,388,Urban,17,DK/missing information,0.0,Survey of Living Conditions - SLC13
+Jamaica,JM,JAM,388,Rural,1,Flush and pour flush - to piped sewer system,0.092,Survey of Living Conditions - SLC13
+Jamaica,JM,JAM,388,Rural,2,Flush and pour flush - to septic tank,0.0,Survey of Living Conditions - SLC13
+Jamaica,JM,JAM,388,Rural,3,Flush and pour flush - to pit,0.536,Survey of Living Conditions - SLC13
+Jamaica,JM,JAM,388,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Survey of Living Conditions - SLC13
+Jamaica,JM,JAM,388,Rural,5,Flush and pour flush - to elsewhere,0.0,Survey of Living Conditions - SLC13
+Jamaica,JM,JAM,388,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Survey of Living Conditions - SLC13
+Jamaica,JM,JAM,388,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Survey of Living Conditions - SLC13
+Jamaica,JM,JAM,388,Rural,8,Dry latrines - Traditional latrine,0.367,Survey of Living Conditions - SLC13
+Jamaica,JM,JAM,388,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Survey of Living Conditions - SLC13
+Jamaica,JM,JAM,388,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Survey of Living Conditions - SLC13
+Jamaica,JM,JAM,388,Rural,11,Dry latrines - Bucket latrine,0.0,Survey of Living Conditions - SLC13
+Jamaica,JM,JAM,388,Rural,12,Dry latrines - Other,0.0,Survey of Living Conditions - SLC13
+Jamaica,JM,JAM,388,Rural,13,Composting toilets,0.0,Survey of Living Conditions - SLC13
+Jamaica,JM,JAM,388,Rural,14,Other improved,0.0,Survey of Living Conditions - SLC13
+Jamaica,JM,JAM,388,Rural,15,"No facility, bush, field",0.004,Survey of Living Conditions - SLC13
+Jamaica,JM,JAM,388,Rural,16,Other unimproved,0.0,Survey of Living Conditions - SLC13
+Jamaica,JM,JAM,388,Rural,17,DK/missing information,0.0,Survey of Living Conditions - SLC13
+Jamaica,JM,JAM,388,National,1,Flush and pour flush - to piped sewer system,0.205,Survey of Living Conditions - SLC13
+Jamaica,JM,JAM,388,National,2,Flush and pour flush - to septic tank,0.0,Survey of Living Conditions - SLC13
+Jamaica,JM,JAM,388,National,3,Flush and pour flush - to pit,0.568,Survey of Living Conditions - SLC13
+Jamaica,JM,JAM,388,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Survey of Living Conditions - SLC13
+Jamaica,JM,JAM,388,National,5,Flush and pour flush - to elsewhere,0.0,Survey of Living Conditions - SLC13
+Jamaica,JM,JAM,388,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Survey of Living Conditions - SLC13
+Jamaica,JM,JAM,388,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Survey of Living Conditions - SLC13
+Jamaica,JM,JAM,388,National,8,Dry latrines - Traditional latrine,0.219,Survey of Living Conditions - SLC13
+Jamaica,JM,JAM,388,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Survey of Living Conditions - SLC13
+Jamaica,JM,JAM,388,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Survey of Living Conditions - SLC13
+Jamaica,JM,JAM,388,National,11,Dry latrines - Bucket latrine,0.0,Survey of Living Conditions - SLC13
+Jamaica,JM,JAM,388,National,12,Dry latrines - Other,0.0,Survey of Living Conditions - SLC13
+Jamaica,JM,JAM,388,National,13,Composting toilets,0.0,Survey of Living Conditions - SLC13
+Jamaica,JM,JAM,388,National,14,Other improved,0.0,Survey of Living Conditions - SLC13
+Jamaica,JM,JAM,388,National,15,"No facility, bush, field",0.007,Survey of Living Conditions - SLC13
+Jamaica,JM,JAM,388,National,16,Other unimproved,0.001,Survey of Living Conditions - SLC13
+Jamaica,JM,JAM,388,National,17,DK/missing information,0.0,Survey of Living Conditions - SLC13
+Jamaica,JM,JAM,388,Urban,1,Flush and pour flush - to piped sewer system,0.388,Survey of Living Conditions - SLC14
+Jamaica,JM,JAM,388,Urban,2,Flush and pour flush - to septic tank,0.0,Survey of Living Conditions - SLC14
+Jamaica,JM,JAM,388,Urban,3,Flush and pour flush - to pit,0.502,Survey of Living Conditions - SLC14
+Jamaica,JM,JAM,388,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Survey of Living Conditions - SLC14
+Jamaica,JM,JAM,388,Urban,5,Flush and pour flush - to elsewhere,0.0,Survey of Living Conditions - SLC14
+Jamaica,JM,JAM,388,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Survey of Living Conditions - SLC14
+Jamaica,JM,JAM,388,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Survey of Living Conditions - SLC14
+Jamaica,JM,JAM,388,Urban,8,Dry latrines - Traditional latrine,0.099,Survey of Living Conditions - SLC14
+Jamaica,JM,JAM,388,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Survey of Living Conditions - SLC14
+Jamaica,JM,JAM,388,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Survey of Living Conditions - SLC14
+Jamaica,JM,JAM,388,Urban,11,Dry latrines - Bucket latrine,0.0,Survey of Living Conditions - SLC14
+Jamaica,JM,JAM,388,Urban,12,Dry latrines - Other,0.0,Survey of Living Conditions - SLC14
+Jamaica,JM,JAM,388,Urban,13,Composting toilets,0.0,Survey of Living Conditions - SLC14
+Jamaica,JM,JAM,388,Urban,14,Other improved,0.0,Survey of Living Conditions - SLC14
+Jamaica,JM,JAM,388,Urban,15,"No facility, bush, field",0.011,Survey of Living Conditions - SLC14
+Jamaica,JM,JAM,388,Urban,16,Other unimproved,0.0,Survey of Living Conditions - SLC14
+Jamaica,JM,JAM,388,Urban,17,DK/missing information,0.001,Survey of Living Conditions - SLC14
+Jamaica,JM,JAM,388,Rural,1,Flush and pour flush - to piped sewer system,0.021,Survey of Living Conditions - SLC14
+Jamaica,JM,JAM,388,Rural,2,Flush and pour flush - to septic tank,0.0,Survey of Living Conditions - SLC14
+Jamaica,JM,JAM,388,Rural,3,Flush and pour flush - to pit,0.588,Survey of Living Conditions - SLC14
+Jamaica,JM,JAM,388,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Survey of Living Conditions - SLC14
+Jamaica,JM,JAM,388,Rural,5,Flush and pour flush - to elsewhere,0.0,Survey of Living Conditions - SLC14
+Jamaica,JM,JAM,388,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Survey of Living Conditions - SLC14
+Jamaica,JM,JAM,388,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Survey of Living Conditions - SLC14
+Jamaica,JM,JAM,388,Rural,8,Dry latrines - Traditional latrine,0.379,Survey of Living Conditions - SLC14
+Jamaica,JM,JAM,388,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Survey of Living Conditions - SLC14
+Jamaica,JM,JAM,388,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Survey of Living Conditions - SLC14
+Jamaica,JM,JAM,388,Rural,11,Dry latrines - Bucket latrine,0.0,Survey of Living Conditions - SLC14
+Jamaica,JM,JAM,388,Rural,12,Dry latrines - Other,0.0,Survey of Living Conditions - SLC14
+Jamaica,JM,JAM,388,Rural,13,Composting toilets,0.0,Survey of Living Conditions - SLC14
+Jamaica,JM,JAM,388,Rural,14,Other improved,0.0,Survey of Living Conditions - SLC14
+Jamaica,JM,JAM,388,Rural,15,"No facility, bush, field",0.005,Survey of Living Conditions - SLC14
+Jamaica,JM,JAM,388,Rural,16,Other unimproved,0.004,Survey of Living Conditions - SLC14
+Jamaica,JM,JAM,388,Rural,17,DK/missing information,0.003,Survey of Living Conditions - SLC14
+Jamaica,JM,JAM,388,National,1,Flush and pour flush - to piped sewer system,0.216,Survey of Living Conditions - SLC14
+Jamaica,JM,JAM,388,National,2,Flush and pour flush - to septic tank,0.0,Survey of Living Conditions - SLC14
+Jamaica,JM,JAM,388,National,3,Flush and pour flush - to pit,0.542,Survey of Living Conditions - SLC14
+Jamaica,JM,JAM,388,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Survey of Living Conditions - SLC14
+Jamaica,JM,JAM,388,National,5,Flush and pour flush - to elsewhere,0.0,Survey of Living Conditions - SLC14
+Jamaica,JM,JAM,388,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Survey of Living Conditions - SLC14
+Jamaica,JM,JAM,388,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Survey of Living Conditions - SLC14
+Jamaica,JM,JAM,388,National,8,Dry latrines - Traditional latrine,0.23,Survey of Living Conditions - SLC14
+Jamaica,JM,JAM,388,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Survey of Living Conditions - SLC14
+Jamaica,JM,JAM,388,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Survey of Living Conditions - SLC14
+Jamaica,JM,JAM,388,National,11,Dry latrines - Bucket latrine,0.0,Survey of Living Conditions - SLC14
+Jamaica,JM,JAM,388,National,12,Dry latrines - Other,0.0,Survey of Living Conditions - SLC14
+Jamaica,JM,JAM,388,National,13,Composting toilets,0.0,Survey of Living Conditions - SLC14
+Jamaica,JM,JAM,388,National,14,Other improved,0.0,Survey of Living Conditions - SLC14
+Jamaica,JM,JAM,388,National,15,"No facility, bush, field",0.008,Survey of Living Conditions - SLC14
+Jamaica,JM,JAM,388,National,16,Other unimproved,0.002,Survey of Living Conditions - SLC14
+Jamaica,JM,JAM,388,National,17,DK/missing information,0.002,Survey of Living Conditions - SLC14

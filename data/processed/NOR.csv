@@ -1,0 +1,1837 @@
+country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+Norway,NO,NOR,578,Urban,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES00
+Norway,NO,NOR,578,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES00
+Norway,NO,NOR,578,Urban,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES00
+Norway,NO,NOR,578,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES00
+Norway,NO,NOR,578,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES00
+Norway,NO,NOR,578,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES00
+Norway,NO,NOR,578,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES00
+Norway,NO,NOR,578,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES00
+Norway,NO,NOR,578,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES00
+Norway,NO,NOR,578,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES00
+Norway,NO,NOR,578,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES00
+Norway,NO,NOR,578,Urban,12,Dry latrines - Other,0.0,Eurostat environmental database - ES00
+Norway,NO,NOR,578,Urban,13,Composting toilets,0.0,Eurostat environmental database - ES00
+Norway,NO,NOR,578,Urban,14,Other improved,0.0,Eurostat environmental database - ES00
+Norway,NO,NOR,578,Urban,15,"No facility, bush, field",0.0,Eurostat environmental database - ES00
+Norway,NO,NOR,578,Urban,16,Other unimproved,0.0,Eurostat environmental database - ES00
+Norway,NO,NOR,578,Urban,17,DK/missing information,0.0,Eurostat environmental database - ES00
+Norway,NO,NOR,578,Rural,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES00
+Norway,NO,NOR,578,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES00
+Norway,NO,NOR,578,Rural,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES00
+Norway,NO,NOR,578,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES00
+Norway,NO,NOR,578,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES00
+Norway,NO,NOR,578,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES00
+Norway,NO,NOR,578,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES00
+Norway,NO,NOR,578,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES00
+Norway,NO,NOR,578,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES00
+Norway,NO,NOR,578,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES00
+Norway,NO,NOR,578,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES00
+Norway,NO,NOR,578,Rural,12,Dry latrines - Other,0.0,Eurostat environmental database - ES00
+Norway,NO,NOR,578,Rural,13,Composting toilets,0.0,Eurostat environmental database - ES00
+Norway,NO,NOR,578,Rural,14,Other improved,0.0,Eurostat environmental database - ES00
+Norway,NO,NOR,578,Rural,15,"No facility, bush, field",0.0,Eurostat environmental database - ES00
+Norway,NO,NOR,578,Rural,16,Other unimproved,0.0,Eurostat environmental database - ES00
+Norway,NO,NOR,578,Rural,17,DK/missing information,0.0,Eurostat environmental database - ES00
+Norway,NO,NOR,578,National,1,Flush and pour flush - to piped sewer system,0.8,Eurostat environmental database - ES00
+Norway,NO,NOR,578,National,2,Flush and pour flush - to septic tank,0.2,Eurostat environmental database - ES00
+Norway,NO,NOR,578,National,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES00
+Norway,NO,NOR,578,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES00
+Norway,NO,NOR,578,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES00
+Norway,NO,NOR,578,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES00
+Norway,NO,NOR,578,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES00
+Norway,NO,NOR,578,National,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES00
+Norway,NO,NOR,578,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES00
+Norway,NO,NOR,578,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES00
+Norway,NO,NOR,578,National,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES00
+Norway,NO,NOR,578,National,12,Dry latrines - Other,0.0,Eurostat environmental database - ES00
+Norway,NO,NOR,578,National,13,Composting toilets,0.0,Eurostat environmental database - ES00
+Norway,NO,NOR,578,National,14,Other improved,0.0,Eurostat environmental database - ES00
+Norway,NO,NOR,578,National,15,"No facility, bush, field",0.0,Eurostat environmental database - ES00
+Norway,NO,NOR,578,National,16,Other unimproved,0.0,Eurostat environmental database - ES00
+Norway,NO,NOR,578,National,17,DK/missing information,0.0,Eurostat environmental database - ES00
+Norway,NO,NOR,578,Urban,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES01
+Norway,NO,NOR,578,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES01
+Norway,NO,NOR,578,Urban,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES01
+Norway,NO,NOR,578,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES01
+Norway,NO,NOR,578,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES01
+Norway,NO,NOR,578,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES01
+Norway,NO,NOR,578,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES01
+Norway,NO,NOR,578,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES01
+Norway,NO,NOR,578,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES01
+Norway,NO,NOR,578,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES01
+Norway,NO,NOR,578,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES01
+Norway,NO,NOR,578,Urban,12,Dry latrines - Other,0.0,Eurostat environmental database - ES01
+Norway,NO,NOR,578,Urban,13,Composting toilets,0.0,Eurostat environmental database - ES01
+Norway,NO,NOR,578,Urban,14,Other improved,0.0,Eurostat environmental database - ES01
+Norway,NO,NOR,578,Urban,15,"No facility, bush, field",0.0,Eurostat environmental database - ES01
+Norway,NO,NOR,578,Urban,16,Other unimproved,0.0,Eurostat environmental database - ES01
+Norway,NO,NOR,578,Urban,17,DK/missing information,0.0,Eurostat environmental database - ES01
+Norway,NO,NOR,578,Rural,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES01
+Norway,NO,NOR,578,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES01
+Norway,NO,NOR,578,Rural,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES01
+Norway,NO,NOR,578,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES01
+Norway,NO,NOR,578,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES01
+Norway,NO,NOR,578,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES01
+Norway,NO,NOR,578,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES01
+Norway,NO,NOR,578,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES01
+Norway,NO,NOR,578,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES01
+Norway,NO,NOR,578,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES01
+Norway,NO,NOR,578,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES01
+Norway,NO,NOR,578,Rural,12,Dry latrines - Other,0.0,Eurostat environmental database - ES01
+Norway,NO,NOR,578,Rural,13,Composting toilets,0.0,Eurostat environmental database - ES01
+Norway,NO,NOR,578,Rural,14,Other improved,0.0,Eurostat environmental database - ES01
+Norway,NO,NOR,578,Rural,15,"No facility, bush, field",0.0,Eurostat environmental database - ES01
+Norway,NO,NOR,578,Rural,16,Other unimproved,0.0,Eurostat environmental database - ES01
+Norway,NO,NOR,578,Rural,17,DK/missing information,0.0,Eurostat environmental database - ES01
+Norway,NO,NOR,578,National,1,Flush and pour flush - to piped sewer system,0.81,Eurostat environmental database - ES01
+Norway,NO,NOR,578,National,2,Flush and pour flush - to septic tank,0.21,Eurostat environmental database - ES01
+Norway,NO,NOR,578,National,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES01
+Norway,NO,NOR,578,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES01
+Norway,NO,NOR,578,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES01
+Norway,NO,NOR,578,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES01
+Norway,NO,NOR,578,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES01
+Norway,NO,NOR,578,National,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES01
+Norway,NO,NOR,578,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES01
+Norway,NO,NOR,578,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES01
+Norway,NO,NOR,578,National,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES01
+Norway,NO,NOR,578,National,12,Dry latrines - Other,0.0,Eurostat environmental database - ES01
+Norway,NO,NOR,578,National,13,Composting toilets,0.0,Eurostat environmental database - ES01
+Norway,NO,NOR,578,National,14,Other improved,0.0,Eurostat environmental database - ES01
+Norway,NO,NOR,578,National,15,"No facility, bush, field",0.0,Eurostat environmental database - ES01
+Norway,NO,NOR,578,National,16,Other unimproved,0.0,Eurostat environmental database - ES01
+Norway,NO,NOR,578,National,17,DK/missing information,0.0,Eurostat environmental database - ES01
+Norway,NO,NOR,578,Urban,1,Flush and pour flush - to piped sewer system,0.0,Statistics Norway - SN02
+Norway,NO,NOR,578,Urban,2,Flush and pour flush - to septic tank,0.0,Statistics Norway - SN02
+Norway,NO,NOR,578,Urban,3,Flush and pour flush - to pit,0.0,Statistics Norway - SN02
+Norway,NO,NOR,578,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Statistics Norway - SN02
+Norway,NO,NOR,578,Urban,5,Flush and pour flush - to elsewhere,0.0,Statistics Norway - SN02
+Norway,NO,NOR,578,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Statistics Norway - SN02
+Norway,NO,NOR,578,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Statistics Norway - SN02
+Norway,NO,NOR,578,Urban,8,Dry latrines - Traditional latrine,0.0,Statistics Norway - SN02
+Norway,NO,NOR,578,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Statistics Norway - SN02
+Norway,NO,NOR,578,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Statistics Norway - SN02
+Norway,NO,NOR,578,Urban,11,Dry latrines - Bucket latrine,0.0,Statistics Norway - SN02
+Norway,NO,NOR,578,Urban,12,Dry latrines - Other,0.0,Statistics Norway - SN02
+Norway,NO,NOR,578,Urban,13,Composting toilets,0.0,Statistics Norway - SN02
+Norway,NO,NOR,578,Urban,14,Other improved,0.0,Statistics Norway - SN02
+Norway,NO,NOR,578,Urban,15,"No facility, bush, field",0.0,Statistics Norway - SN02
+Norway,NO,NOR,578,Urban,16,Other unimproved,0.0,Statistics Norway - SN02
+Norway,NO,NOR,578,Urban,17,DK/missing information,0.0,Statistics Norway - SN02
+Norway,NO,NOR,578,Rural,1,Flush and pour flush - to piped sewer system,0.0,Statistics Norway - SN02
+Norway,NO,NOR,578,Rural,2,Flush and pour flush - to septic tank,0.0,Statistics Norway - SN02
+Norway,NO,NOR,578,Rural,3,Flush and pour flush - to pit,0.0,Statistics Norway - SN02
+Norway,NO,NOR,578,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Statistics Norway - SN02
+Norway,NO,NOR,578,Rural,5,Flush and pour flush - to elsewhere,0.0,Statistics Norway - SN02
+Norway,NO,NOR,578,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Statistics Norway - SN02
+Norway,NO,NOR,578,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Statistics Norway - SN02
+Norway,NO,NOR,578,Rural,8,Dry latrines - Traditional latrine,0.0,Statistics Norway - SN02
+Norway,NO,NOR,578,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Statistics Norway - SN02
+Norway,NO,NOR,578,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Statistics Norway - SN02
+Norway,NO,NOR,578,Rural,11,Dry latrines - Bucket latrine,0.0,Statistics Norway - SN02
+Norway,NO,NOR,578,Rural,12,Dry latrines - Other,0.0,Statistics Norway - SN02
+Norway,NO,NOR,578,Rural,13,Composting toilets,0.0,Statistics Norway - SN02
+Norway,NO,NOR,578,Rural,14,Other improved,0.0,Statistics Norway - SN02
+Norway,NO,NOR,578,Rural,15,"No facility, bush, field",0.0,Statistics Norway - SN02
+Norway,NO,NOR,578,Rural,16,Other unimproved,0.0,Statistics Norway - SN02
+Norway,NO,NOR,578,Rural,17,DK/missing information,0.0,Statistics Norway - SN02
+Norway,NO,NOR,578,National,1,Flush and pour flush - to piped sewer system,0.812,Statistics Norway - SN02
+Norway,NO,NOR,578,National,2,Flush and pour flush - to septic tank,0.179,Statistics Norway - SN02
+Norway,NO,NOR,578,National,3,Flush and pour flush - to pit,0.0,Statistics Norway - SN02
+Norway,NO,NOR,578,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Statistics Norway - SN02
+Norway,NO,NOR,578,National,5,Flush and pour flush - to elsewhere,0.0,Statistics Norway - SN02
+Norway,NO,NOR,578,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Statistics Norway - SN02
+Norway,NO,NOR,578,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Statistics Norway - SN02
+Norway,NO,NOR,578,National,8,Dry latrines - Traditional latrine,0.0,Statistics Norway - SN02
+Norway,NO,NOR,578,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Statistics Norway - SN02
+Norway,NO,NOR,578,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Statistics Norway - SN02
+Norway,NO,NOR,578,National,11,Dry latrines - Bucket latrine,0.0,Statistics Norway - SN02
+Norway,NO,NOR,578,National,12,Dry latrines - Other,0.0,Statistics Norway - SN02
+Norway,NO,NOR,578,National,13,Composting toilets,0.0,Statistics Norway - SN02
+Norway,NO,NOR,578,National,14,Other improved,0.0,Statistics Norway - SN02
+Norway,NO,NOR,578,National,15,"No facility, bush, field",0.0,Statistics Norway - SN02
+Norway,NO,NOR,578,National,16,Other unimproved,0.009,Statistics Norway - SN02
+Norway,NO,NOR,578,National,17,DK/missing information,0.0,Statistics Norway - SN02
+Norway,NO,NOR,578,Urban,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES02
+Norway,NO,NOR,578,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES02
+Norway,NO,NOR,578,Urban,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES02
+Norway,NO,NOR,578,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES02
+Norway,NO,NOR,578,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES02
+Norway,NO,NOR,578,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES02
+Norway,NO,NOR,578,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES02
+Norway,NO,NOR,578,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES02
+Norway,NO,NOR,578,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES02
+Norway,NO,NOR,578,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES02
+Norway,NO,NOR,578,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES02
+Norway,NO,NOR,578,Urban,12,Dry latrines - Other,0.0,Eurostat environmental database - ES02
+Norway,NO,NOR,578,Urban,13,Composting toilets,0.0,Eurostat environmental database - ES02
+Norway,NO,NOR,578,Urban,14,Other improved,0.0,Eurostat environmental database - ES02
+Norway,NO,NOR,578,Urban,15,"No facility, bush, field",0.0,Eurostat environmental database - ES02
+Norway,NO,NOR,578,Urban,16,Other unimproved,0.0,Eurostat environmental database - ES02
+Norway,NO,NOR,578,Urban,17,DK/missing information,0.0,Eurostat environmental database - ES02
+Norway,NO,NOR,578,Rural,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES02
+Norway,NO,NOR,578,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES02
+Norway,NO,NOR,578,Rural,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES02
+Norway,NO,NOR,578,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES02
+Norway,NO,NOR,578,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES02
+Norway,NO,NOR,578,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES02
+Norway,NO,NOR,578,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES02
+Norway,NO,NOR,578,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES02
+Norway,NO,NOR,578,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES02
+Norway,NO,NOR,578,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES02
+Norway,NO,NOR,578,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES02
+Norway,NO,NOR,578,Rural,12,Dry latrines - Other,0.0,Eurostat environmental database - ES02
+Norway,NO,NOR,578,Rural,13,Composting toilets,0.0,Eurostat environmental database - ES02
+Norway,NO,NOR,578,Rural,14,Other improved,0.0,Eurostat environmental database - ES02
+Norway,NO,NOR,578,Rural,15,"No facility, bush, field",0.0,Eurostat environmental database - ES02
+Norway,NO,NOR,578,Rural,16,Other unimproved,0.0,Eurostat environmental database - ES02
+Norway,NO,NOR,578,Rural,17,DK/missing information,0.0,Eurostat environmental database - ES02
+Norway,NO,NOR,578,National,1,Flush and pour flush - to piped sewer system,0.8,Eurostat environmental database - ES02
+Norway,NO,NOR,578,National,2,Flush and pour flush - to septic tank,0.19,Eurostat environmental database - ES02
+Norway,NO,NOR,578,National,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES02
+Norway,NO,NOR,578,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES02
+Norway,NO,NOR,578,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES02
+Norway,NO,NOR,578,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES02
+Norway,NO,NOR,578,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES02
+Norway,NO,NOR,578,National,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES02
+Norway,NO,NOR,578,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES02
+Norway,NO,NOR,578,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES02
+Norway,NO,NOR,578,National,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES02
+Norway,NO,NOR,578,National,12,Dry latrines - Other,0.0,Eurostat environmental database - ES02
+Norway,NO,NOR,578,National,13,Composting toilets,0.0,Eurostat environmental database - ES02
+Norway,NO,NOR,578,National,14,Other improved,0.0,Eurostat environmental database - ES02
+Norway,NO,NOR,578,National,15,"No facility, bush, field",0.0,Eurostat environmental database - ES02
+Norway,NO,NOR,578,National,16,Other unimproved,0.0,Eurostat environmental database - ES02
+Norway,NO,NOR,578,National,17,DK/missing information,0.0,Eurostat environmental database - ES02
+Norway,NO,NOR,578,Urban,1,Flush and pour flush - to piped sewer system,0.0,Statistics Norway - SN03
+Norway,NO,NOR,578,Urban,2,Flush and pour flush - to septic tank,0.0,Statistics Norway - SN03
+Norway,NO,NOR,578,Urban,3,Flush and pour flush - to pit,0.0,Statistics Norway - SN03
+Norway,NO,NOR,578,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Statistics Norway - SN03
+Norway,NO,NOR,578,Urban,5,Flush and pour flush - to elsewhere,0.0,Statistics Norway - SN03
+Norway,NO,NOR,578,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Statistics Norway - SN03
+Norway,NO,NOR,578,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Statistics Norway - SN03
+Norway,NO,NOR,578,Urban,8,Dry latrines - Traditional latrine,0.0,Statistics Norway - SN03
+Norway,NO,NOR,578,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Statistics Norway - SN03
+Norway,NO,NOR,578,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Statistics Norway - SN03
+Norway,NO,NOR,578,Urban,11,Dry latrines - Bucket latrine,0.0,Statistics Norway - SN03
+Norway,NO,NOR,578,Urban,12,Dry latrines - Other,0.0,Statistics Norway - SN03
+Norway,NO,NOR,578,Urban,13,Composting toilets,0.0,Statistics Norway - SN03
+Norway,NO,NOR,578,Urban,14,Other improved,0.0,Statistics Norway - SN03
+Norway,NO,NOR,578,Urban,15,"No facility, bush, field",0.0,Statistics Norway - SN03
+Norway,NO,NOR,578,Urban,16,Other unimproved,0.0,Statistics Norway - SN03
+Norway,NO,NOR,578,Urban,17,DK/missing information,0.0,Statistics Norway - SN03
+Norway,NO,NOR,578,Rural,1,Flush and pour flush - to piped sewer system,0.0,Statistics Norway - SN03
+Norway,NO,NOR,578,Rural,2,Flush and pour flush - to septic tank,0.0,Statistics Norway - SN03
+Norway,NO,NOR,578,Rural,3,Flush and pour flush - to pit,0.0,Statistics Norway - SN03
+Norway,NO,NOR,578,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Statistics Norway - SN03
+Norway,NO,NOR,578,Rural,5,Flush and pour flush - to elsewhere,0.0,Statistics Norway - SN03
+Norway,NO,NOR,578,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Statistics Norway - SN03
+Norway,NO,NOR,578,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Statistics Norway - SN03
+Norway,NO,NOR,578,Rural,8,Dry latrines - Traditional latrine,0.0,Statistics Norway - SN03
+Norway,NO,NOR,578,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Statistics Norway - SN03
+Norway,NO,NOR,578,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Statistics Norway - SN03
+Norway,NO,NOR,578,Rural,11,Dry latrines - Bucket latrine,0.0,Statistics Norway - SN03
+Norway,NO,NOR,578,Rural,12,Dry latrines - Other,0.0,Statistics Norway - SN03
+Norway,NO,NOR,578,Rural,13,Composting toilets,0.0,Statistics Norway - SN03
+Norway,NO,NOR,578,Rural,14,Other improved,0.0,Statistics Norway - SN03
+Norway,NO,NOR,578,Rural,15,"No facility, bush, field",0.0,Statistics Norway - SN03
+Norway,NO,NOR,578,Rural,16,Other unimproved,0.0,Statistics Norway - SN03
+Norway,NO,NOR,578,Rural,17,DK/missing information,0.0,Statistics Norway - SN03
+Norway,NO,NOR,578,National,1,Flush and pour flush - to piped sewer system,0.813,Statistics Norway - SN03
+Norway,NO,NOR,578,National,2,Flush and pour flush - to septic tank,0.177,Statistics Norway - SN03
+Norway,NO,NOR,578,National,3,Flush and pour flush - to pit,0.0,Statistics Norway - SN03
+Norway,NO,NOR,578,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Statistics Norway - SN03
+Norway,NO,NOR,578,National,5,Flush and pour flush - to elsewhere,0.0,Statistics Norway - SN03
+Norway,NO,NOR,578,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Statistics Norway - SN03
+Norway,NO,NOR,578,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Statistics Norway - SN03
+Norway,NO,NOR,578,National,8,Dry latrines - Traditional latrine,0.0,Statistics Norway - SN03
+Norway,NO,NOR,578,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Statistics Norway - SN03
+Norway,NO,NOR,578,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Statistics Norway - SN03
+Norway,NO,NOR,578,National,11,Dry latrines - Bucket latrine,0.0,Statistics Norway - SN03
+Norway,NO,NOR,578,National,12,Dry latrines - Other,0.0,Statistics Norway - SN03
+Norway,NO,NOR,578,National,13,Composting toilets,0.0,Statistics Norway - SN03
+Norway,NO,NOR,578,National,14,Other improved,0.0,Statistics Norway - SN03
+Norway,NO,NOR,578,National,15,"No facility, bush, field",0.0,Statistics Norway - SN03
+Norway,NO,NOR,578,National,16,Other unimproved,0.009,Statistics Norway - SN03
+Norway,NO,NOR,578,National,17,DK/missing information,0.0,Statistics Norway - SN03
+Norway,NO,NOR,578,Urban,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES03
+Norway,NO,NOR,578,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES03
+Norway,NO,NOR,578,Urban,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES03
+Norway,NO,NOR,578,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES03
+Norway,NO,NOR,578,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES03
+Norway,NO,NOR,578,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES03
+Norway,NO,NOR,578,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES03
+Norway,NO,NOR,578,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES03
+Norway,NO,NOR,578,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES03
+Norway,NO,NOR,578,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES03
+Norway,NO,NOR,578,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES03
+Norway,NO,NOR,578,Urban,12,Dry latrines - Other,0.0,Eurostat environmental database - ES03
+Norway,NO,NOR,578,Urban,13,Composting toilets,0.0,Eurostat environmental database - ES03
+Norway,NO,NOR,578,Urban,14,Other improved,0.0,Eurostat environmental database - ES03
+Norway,NO,NOR,578,Urban,15,"No facility, bush, field",0.0,Eurostat environmental database - ES03
+Norway,NO,NOR,578,Urban,16,Other unimproved,0.0,Eurostat environmental database - ES03
+Norway,NO,NOR,578,Urban,17,DK/missing information,0.0,Eurostat environmental database - ES03
+Norway,NO,NOR,578,Rural,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES03
+Norway,NO,NOR,578,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES03
+Norway,NO,NOR,578,Rural,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES03
+Norway,NO,NOR,578,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES03
+Norway,NO,NOR,578,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES03
+Norway,NO,NOR,578,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES03
+Norway,NO,NOR,578,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES03
+Norway,NO,NOR,578,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES03
+Norway,NO,NOR,578,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES03
+Norway,NO,NOR,578,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES03
+Norway,NO,NOR,578,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES03
+Norway,NO,NOR,578,Rural,12,Dry latrines - Other,0.0,Eurostat environmental database - ES03
+Norway,NO,NOR,578,Rural,13,Composting toilets,0.0,Eurostat environmental database - ES03
+Norway,NO,NOR,578,Rural,14,Other improved,0.0,Eurostat environmental database - ES03
+Norway,NO,NOR,578,Rural,15,"No facility, bush, field",0.0,Eurostat environmental database - ES03
+Norway,NO,NOR,578,Rural,16,Other unimproved,0.0,Eurostat environmental database - ES03
+Norway,NO,NOR,578,Rural,17,DK/missing information,0.0,Eurostat environmental database - ES03
+Norway,NO,NOR,578,National,1,Flush and pour flush - to piped sewer system,0.81,Eurostat environmental database - ES03
+Norway,NO,NOR,578,National,2,Flush and pour flush - to septic tank,0.19,Eurostat environmental database - ES03
+Norway,NO,NOR,578,National,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES03
+Norway,NO,NOR,578,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES03
+Norway,NO,NOR,578,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES03
+Norway,NO,NOR,578,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES03
+Norway,NO,NOR,578,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES03
+Norway,NO,NOR,578,National,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES03
+Norway,NO,NOR,578,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES03
+Norway,NO,NOR,578,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES03
+Norway,NO,NOR,578,National,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES03
+Norway,NO,NOR,578,National,12,Dry latrines - Other,0.0,Eurostat environmental database - ES03
+Norway,NO,NOR,578,National,13,Composting toilets,0.0,Eurostat environmental database - ES03
+Norway,NO,NOR,578,National,14,Other improved,0.0,Eurostat environmental database - ES03
+Norway,NO,NOR,578,National,15,"No facility, bush, field",0.0,Eurostat environmental database - ES03
+Norway,NO,NOR,578,National,16,Other unimproved,0.0,Eurostat environmental database - ES03
+Norway,NO,NOR,578,National,17,DK/missing information,0.0,Eurostat environmental database - ES03
+Norway,NO,NOR,578,Urban,1,Flush and pour flush - to piped sewer system,0.0,Statistics Norway - SN04
+Norway,NO,NOR,578,Urban,2,Flush and pour flush - to septic tank,0.0,Statistics Norway - SN04
+Norway,NO,NOR,578,Urban,3,Flush and pour flush - to pit,0.0,Statistics Norway - SN04
+Norway,NO,NOR,578,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Statistics Norway - SN04
+Norway,NO,NOR,578,Urban,5,Flush and pour flush - to elsewhere,0.0,Statistics Norway - SN04
+Norway,NO,NOR,578,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Statistics Norway - SN04
+Norway,NO,NOR,578,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Statistics Norway - SN04
+Norway,NO,NOR,578,Urban,8,Dry latrines - Traditional latrine,0.0,Statistics Norway - SN04
+Norway,NO,NOR,578,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Statistics Norway - SN04
+Norway,NO,NOR,578,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Statistics Norway - SN04
+Norway,NO,NOR,578,Urban,11,Dry latrines - Bucket latrine,0.0,Statistics Norway - SN04
+Norway,NO,NOR,578,Urban,12,Dry latrines - Other,0.0,Statistics Norway - SN04
+Norway,NO,NOR,578,Urban,13,Composting toilets,0.0,Statistics Norway - SN04
+Norway,NO,NOR,578,Urban,14,Other improved,0.0,Statistics Norway - SN04
+Norway,NO,NOR,578,Urban,15,"No facility, bush, field",0.0,Statistics Norway - SN04
+Norway,NO,NOR,578,Urban,16,Other unimproved,0.0,Statistics Norway - SN04
+Norway,NO,NOR,578,Urban,17,DK/missing information,0.0,Statistics Norway - SN04
+Norway,NO,NOR,578,Rural,1,Flush and pour flush - to piped sewer system,0.0,Statistics Norway - SN04
+Norway,NO,NOR,578,Rural,2,Flush and pour flush - to septic tank,0.0,Statistics Norway - SN04
+Norway,NO,NOR,578,Rural,3,Flush and pour flush - to pit,0.0,Statistics Norway - SN04
+Norway,NO,NOR,578,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Statistics Norway - SN04
+Norway,NO,NOR,578,Rural,5,Flush and pour flush - to elsewhere,0.0,Statistics Norway - SN04
+Norway,NO,NOR,578,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Statistics Norway - SN04
+Norway,NO,NOR,578,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Statistics Norway - SN04
+Norway,NO,NOR,578,Rural,8,Dry latrines - Traditional latrine,0.0,Statistics Norway - SN04
+Norway,NO,NOR,578,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Statistics Norway - SN04
+Norway,NO,NOR,578,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Statistics Norway - SN04
+Norway,NO,NOR,578,Rural,11,Dry latrines - Bucket latrine,0.0,Statistics Norway - SN04
+Norway,NO,NOR,578,Rural,12,Dry latrines - Other,0.0,Statistics Norway - SN04
+Norway,NO,NOR,578,Rural,13,Composting toilets,0.0,Statistics Norway - SN04
+Norway,NO,NOR,578,Rural,14,Other improved,0.0,Statistics Norway - SN04
+Norway,NO,NOR,578,Rural,15,"No facility, bush, field",0.0,Statistics Norway - SN04
+Norway,NO,NOR,578,Rural,16,Other unimproved,0.0,Statistics Norway - SN04
+Norway,NO,NOR,578,Rural,17,DK/missing information,0.0,Statistics Norway - SN04
+Norway,NO,NOR,578,National,1,Flush and pour flush - to piped sewer system,0.814,Statistics Norway - SN04
+Norway,NO,NOR,578,National,2,Flush and pour flush - to septic tank,0.177,Statistics Norway - SN04
+Norway,NO,NOR,578,National,3,Flush and pour flush - to pit,0.0,Statistics Norway - SN04
+Norway,NO,NOR,578,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Statistics Norway - SN04
+Norway,NO,NOR,578,National,5,Flush and pour flush - to elsewhere,0.0,Statistics Norway - SN04
+Norway,NO,NOR,578,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Statistics Norway - SN04
+Norway,NO,NOR,578,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Statistics Norway - SN04
+Norway,NO,NOR,578,National,8,Dry latrines - Traditional latrine,0.0,Statistics Norway - SN04
+Norway,NO,NOR,578,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Statistics Norway - SN04
+Norway,NO,NOR,578,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Statistics Norway - SN04
+Norway,NO,NOR,578,National,11,Dry latrines - Bucket latrine,0.0,Statistics Norway - SN04
+Norway,NO,NOR,578,National,12,Dry latrines - Other,0.0,Statistics Norway - SN04
+Norway,NO,NOR,578,National,13,Composting toilets,0.0,Statistics Norway - SN04
+Norway,NO,NOR,578,National,14,Other improved,0.0,Statistics Norway - SN04
+Norway,NO,NOR,578,National,15,"No facility, bush, field",0.0,Statistics Norway - SN04
+Norway,NO,NOR,578,National,16,Other unimproved,0.009,Statistics Norway - SN04
+Norway,NO,NOR,578,National,17,DK/missing information,0.0,Statistics Norway - SN04
+Norway,NO,NOR,578,Urban,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES04
+Norway,NO,NOR,578,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES04
+Norway,NO,NOR,578,Urban,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES04
+Norway,NO,NOR,578,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES04
+Norway,NO,NOR,578,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES04
+Norway,NO,NOR,578,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES04
+Norway,NO,NOR,578,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES04
+Norway,NO,NOR,578,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES04
+Norway,NO,NOR,578,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES04
+Norway,NO,NOR,578,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES04
+Norway,NO,NOR,578,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES04
+Norway,NO,NOR,578,Urban,12,Dry latrines - Other,0.0,Eurostat environmental database - ES04
+Norway,NO,NOR,578,Urban,13,Composting toilets,0.0,Eurostat environmental database - ES04
+Norway,NO,NOR,578,Urban,14,Other improved,0.0,Eurostat environmental database - ES04
+Norway,NO,NOR,578,Urban,15,"No facility, bush, field",0.0,Eurostat environmental database - ES04
+Norway,NO,NOR,578,Urban,16,Other unimproved,0.0,Eurostat environmental database - ES04
+Norway,NO,NOR,578,Urban,17,DK/missing information,0.0,Eurostat environmental database - ES04
+Norway,NO,NOR,578,Rural,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES04
+Norway,NO,NOR,578,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES04
+Norway,NO,NOR,578,Rural,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES04
+Norway,NO,NOR,578,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES04
+Norway,NO,NOR,578,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES04
+Norway,NO,NOR,578,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES04
+Norway,NO,NOR,578,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES04
+Norway,NO,NOR,578,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES04
+Norway,NO,NOR,578,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES04
+Norway,NO,NOR,578,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES04
+Norway,NO,NOR,578,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES04
+Norway,NO,NOR,578,Rural,12,Dry latrines - Other,0.0,Eurostat environmental database - ES04
+Norway,NO,NOR,578,Rural,13,Composting toilets,0.0,Eurostat environmental database - ES04
+Norway,NO,NOR,578,Rural,14,Other improved,0.0,Eurostat environmental database - ES04
+Norway,NO,NOR,578,Rural,15,"No facility, bush, field",0.0,Eurostat environmental database - ES04
+Norway,NO,NOR,578,Rural,16,Other unimproved,0.0,Eurostat environmental database - ES04
+Norway,NO,NOR,578,Rural,17,DK/missing information,0.0,Eurostat environmental database - ES04
+Norway,NO,NOR,578,National,1,Flush and pour flush - to piped sewer system,0.81,Eurostat environmental database - ES04
+Norway,NO,NOR,578,National,2,Flush and pour flush - to septic tank,0.19,Eurostat environmental database - ES04
+Norway,NO,NOR,578,National,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES04
+Norway,NO,NOR,578,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES04
+Norway,NO,NOR,578,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES04
+Norway,NO,NOR,578,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES04
+Norway,NO,NOR,578,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES04
+Norway,NO,NOR,578,National,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES04
+Norway,NO,NOR,578,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES04
+Norway,NO,NOR,578,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES04
+Norway,NO,NOR,578,National,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES04
+Norway,NO,NOR,578,National,12,Dry latrines - Other,0.0,Eurostat environmental database - ES04
+Norway,NO,NOR,578,National,13,Composting toilets,0.0,Eurostat environmental database - ES04
+Norway,NO,NOR,578,National,14,Other improved,0.0,Eurostat environmental database - ES04
+Norway,NO,NOR,578,National,15,"No facility, bush, field",0.0,Eurostat environmental database - ES04
+Norway,NO,NOR,578,National,16,Other unimproved,0.0,Eurostat environmental database - ES04
+Norway,NO,NOR,578,National,17,DK/missing information,0.0,Eurostat environmental database - ES04
+Norway,NO,NOR,578,Urban,1,Flush and pour flush - to piped sewer system,0.0,Statistics Norway - SN05
+Norway,NO,NOR,578,Urban,2,Flush and pour flush - to septic tank,0.0,Statistics Norway - SN05
+Norway,NO,NOR,578,Urban,3,Flush and pour flush - to pit,0.0,Statistics Norway - SN05
+Norway,NO,NOR,578,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Statistics Norway - SN05
+Norway,NO,NOR,578,Urban,5,Flush and pour flush - to elsewhere,0.0,Statistics Norway - SN05
+Norway,NO,NOR,578,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Statistics Norway - SN05
+Norway,NO,NOR,578,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Statistics Norway - SN05
+Norway,NO,NOR,578,Urban,8,Dry latrines - Traditional latrine,0.0,Statistics Norway - SN05
+Norway,NO,NOR,578,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Statistics Norway - SN05
+Norway,NO,NOR,578,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Statistics Norway - SN05
+Norway,NO,NOR,578,Urban,11,Dry latrines - Bucket latrine,0.0,Statistics Norway - SN05
+Norway,NO,NOR,578,Urban,12,Dry latrines - Other,0.0,Statistics Norway - SN05
+Norway,NO,NOR,578,Urban,13,Composting toilets,0.0,Statistics Norway - SN05
+Norway,NO,NOR,578,Urban,14,Other improved,0.0,Statistics Norway - SN05
+Norway,NO,NOR,578,Urban,15,"No facility, bush, field",0.0,Statistics Norway - SN05
+Norway,NO,NOR,578,Urban,16,Other unimproved,0.0,Statistics Norway - SN05
+Norway,NO,NOR,578,Urban,17,DK/missing information,0.0,Statistics Norway - SN05
+Norway,NO,NOR,578,Rural,1,Flush and pour flush - to piped sewer system,0.0,Statistics Norway - SN05
+Norway,NO,NOR,578,Rural,2,Flush and pour flush - to septic tank,0.0,Statistics Norway - SN05
+Norway,NO,NOR,578,Rural,3,Flush and pour flush - to pit,0.0,Statistics Norway - SN05
+Norway,NO,NOR,578,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Statistics Norway - SN05
+Norway,NO,NOR,578,Rural,5,Flush and pour flush - to elsewhere,0.0,Statistics Norway - SN05
+Norway,NO,NOR,578,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Statistics Norway - SN05
+Norway,NO,NOR,578,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Statistics Norway - SN05
+Norway,NO,NOR,578,Rural,8,Dry latrines - Traditional latrine,0.0,Statistics Norway - SN05
+Norway,NO,NOR,578,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Statistics Norway - SN05
+Norway,NO,NOR,578,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Statistics Norway - SN05
+Norway,NO,NOR,578,Rural,11,Dry latrines - Bucket latrine,0.0,Statistics Norway - SN05
+Norway,NO,NOR,578,Rural,12,Dry latrines - Other,0.0,Statistics Norway - SN05
+Norway,NO,NOR,578,Rural,13,Composting toilets,0.0,Statistics Norway - SN05
+Norway,NO,NOR,578,Rural,14,Other improved,0.0,Statistics Norway - SN05
+Norway,NO,NOR,578,Rural,15,"No facility, bush, field",0.0,Statistics Norway - SN05
+Norway,NO,NOR,578,Rural,16,Other unimproved,0.0,Statistics Norway - SN05
+Norway,NO,NOR,578,Rural,17,DK/missing information,0.0,Statistics Norway - SN05
+Norway,NO,NOR,578,National,1,Flush and pour flush - to piped sewer system,0.819,Statistics Norway - SN05
+Norway,NO,NOR,578,National,2,Flush and pour flush - to septic tank,0.171,Statistics Norway - SN05
+Norway,NO,NOR,578,National,3,Flush and pour flush - to pit,0.0,Statistics Norway - SN05
+Norway,NO,NOR,578,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Statistics Norway - SN05
+Norway,NO,NOR,578,National,5,Flush and pour flush - to elsewhere,0.0,Statistics Norway - SN05
+Norway,NO,NOR,578,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Statistics Norway - SN05
+Norway,NO,NOR,578,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Statistics Norway - SN05
+Norway,NO,NOR,578,National,8,Dry latrines - Traditional latrine,0.0,Statistics Norway - SN05
+Norway,NO,NOR,578,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Statistics Norway - SN05
+Norway,NO,NOR,578,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Statistics Norway - SN05
+Norway,NO,NOR,578,National,11,Dry latrines - Bucket latrine,0.0,Statistics Norway - SN05
+Norway,NO,NOR,578,National,12,Dry latrines - Other,0.0,Statistics Norway - SN05
+Norway,NO,NOR,578,National,13,Composting toilets,0.0,Statistics Norway - SN05
+Norway,NO,NOR,578,National,14,Other improved,0.0,Statistics Norway - SN05
+Norway,NO,NOR,578,National,15,"No facility, bush, field",0.0,Statistics Norway - SN05
+Norway,NO,NOR,578,National,16,Other unimproved,0.009,Statistics Norway - SN05
+Norway,NO,NOR,578,National,17,DK/missing information,0.0,Statistics Norway - SN05
+Norway,NO,NOR,578,Urban,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES05
+Norway,NO,NOR,578,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES05
+Norway,NO,NOR,578,Urban,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES05
+Norway,NO,NOR,578,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES05
+Norway,NO,NOR,578,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES05
+Norway,NO,NOR,578,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES05
+Norway,NO,NOR,578,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES05
+Norway,NO,NOR,578,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES05
+Norway,NO,NOR,578,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES05
+Norway,NO,NOR,578,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES05
+Norway,NO,NOR,578,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES05
+Norway,NO,NOR,578,Urban,12,Dry latrines - Other,0.0,Eurostat environmental database - ES05
+Norway,NO,NOR,578,Urban,13,Composting toilets,0.0,Eurostat environmental database - ES05
+Norway,NO,NOR,578,Urban,14,Other improved,0.0,Eurostat environmental database - ES05
+Norway,NO,NOR,578,Urban,15,"No facility, bush, field",0.0,Eurostat environmental database - ES05
+Norway,NO,NOR,578,Urban,16,Other unimproved,0.0,Eurostat environmental database - ES05
+Norway,NO,NOR,578,Urban,17,DK/missing information,0.0,Eurostat environmental database - ES05
+Norway,NO,NOR,578,Rural,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES05
+Norway,NO,NOR,578,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES05
+Norway,NO,NOR,578,Rural,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES05
+Norway,NO,NOR,578,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES05
+Norway,NO,NOR,578,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES05
+Norway,NO,NOR,578,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES05
+Norway,NO,NOR,578,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES05
+Norway,NO,NOR,578,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES05
+Norway,NO,NOR,578,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES05
+Norway,NO,NOR,578,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES05
+Norway,NO,NOR,578,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES05
+Norway,NO,NOR,578,Rural,12,Dry latrines - Other,0.0,Eurostat environmental database - ES05
+Norway,NO,NOR,578,Rural,13,Composting toilets,0.0,Eurostat environmental database - ES05
+Norway,NO,NOR,578,Rural,14,Other improved,0.0,Eurostat environmental database - ES05
+Norway,NO,NOR,578,Rural,15,"No facility, bush, field",0.0,Eurostat environmental database - ES05
+Norway,NO,NOR,578,Rural,16,Other unimproved,0.0,Eurostat environmental database - ES05
+Norway,NO,NOR,578,Rural,17,DK/missing information,0.0,Eurostat environmental database - ES05
+Norway,NO,NOR,578,National,1,Flush and pour flush - to piped sewer system,0.781,Eurostat environmental database - ES05
+Norway,NO,NOR,578,National,2,Flush and pour flush - to septic tank,0.17,Eurostat environmental database - ES05
+Norway,NO,NOR,578,National,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES05
+Norway,NO,NOR,578,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES05
+Norway,NO,NOR,578,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES05
+Norway,NO,NOR,578,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES05
+Norway,NO,NOR,578,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES05
+Norway,NO,NOR,578,National,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES05
+Norway,NO,NOR,578,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES05
+Norway,NO,NOR,578,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES05
+Norway,NO,NOR,578,National,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES05
+Norway,NO,NOR,578,National,12,Dry latrines - Other,0.0,Eurostat environmental database - ES05
+Norway,NO,NOR,578,National,13,Composting toilets,0.0,Eurostat environmental database - ES05
+Norway,NO,NOR,578,National,14,Other improved,0.0,Eurostat environmental database - ES05
+Norway,NO,NOR,578,National,15,"No facility, bush, field",0.0,Eurostat environmental database - ES05
+Norway,NO,NOR,578,National,16,Other unimproved,0.05,Eurostat environmental database - ES05
+Norway,NO,NOR,578,National,17,DK/missing information,0.0,Eurostat environmental database - ES05
+Norway,NO,NOR,578,Urban,1,Flush and pour flush - to piped sewer system,0.0,Statistics Norway - SN06
+Norway,NO,NOR,578,Urban,2,Flush and pour flush - to septic tank,0.0,Statistics Norway - SN06
+Norway,NO,NOR,578,Urban,3,Flush and pour flush - to pit,0.0,Statistics Norway - SN06
+Norway,NO,NOR,578,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Statistics Norway - SN06
+Norway,NO,NOR,578,Urban,5,Flush and pour flush - to elsewhere,0.0,Statistics Norway - SN06
+Norway,NO,NOR,578,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Statistics Norway - SN06
+Norway,NO,NOR,578,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Statistics Norway - SN06
+Norway,NO,NOR,578,Urban,8,Dry latrines - Traditional latrine,0.0,Statistics Norway - SN06
+Norway,NO,NOR,578,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Statistics Norway - SN06
+Norway,NO,NOR,578,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Statistics Norway - SN06
+Norway,NO,NOR,578,Urban,11,Dry latrines - Bucket latrine,0.0,Statistics Norway - SN06
+Norway,NO,NOR,578,Urban,12,Dry latrines - Other,0.0,Statistics Norway - SN06
+Norway,NO,NOR,578,Urban,13,Composting toilets,0.0,Statistics Norway - SN06
+Norway,NO,NOR,578,Urban,14,Other improved,0.0,Statistics Norway - SN06
+Norway,NO,NOR,578,Urban,15,"No facility, bush, field",0.0,Statistics Norway - SN06
+Norway,NO,NOR,578,Urban,16,Other unimproved,0.0,Statistics Norway - SN06
+Norway,NO,NOR,578,Urban,17,DK/missing information,0.0,Statistics Norway - SN06
+Norway,NO,NOR,578,Rural,1,Flush and pour flush - to piped sewer system,0.0,Statistics Norway - SN06
+Norway,NO,NOR,578,Rural,2,Flush and pour flush - to septic tank,0.0,Statistics Norway - SN06
+Norway,NO,NOR,578,Rural,3,Flush and pour flush - to pit,0.0,Statistics Norway - SN06
+Norway,NO,NOR,578,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Statistics Norway - SN06
+Norway,NO,NOR,578,Rural,5,Flush and pour flush - to elsewhere,0.0,Statistics Norway - SN06
+Norway,NO,NOR,578,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Statistics Norway - SN06
+Norway,NO,NOR,578,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Statistics Norway - SN06
+Norway,NO,NOR,578,Rural,8,Dry latrines - Traditional latrine,0.0,Statistics Norway - SN06
+Norway,NO,NOR,578,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Statistics Norway - SN06
+Norway,NO,NOR,578,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Statistics Norway - SN06
+Norway,NO,NOR,578,Rural,11,Dry latrines - Bucket latrine,0.0,Statistics Norway - SN06
+Norway,NO,NOR,578,Rural,12,Dry latrines - Other,0.0,Statistics Norway - SN06
+Norway,NO,NOR,578,Rural,13,Composting toilets,0.0,Statistics Norway - SN06
+Norway,NO,NOR,578,Rural,14,Other improved,0.0,Statistics Norway - SN06
+Norway,NO,NOR,578,Rural,15,"No facility, bush, field",0.0,Statistics Norway - SN06
+Norway,NO,NOR,578,Rural,16,Other unimproved,0.0,Statistics Norway - SN06
+Norway,NO,NOR,578,Rural,17,DK/missing information,0.0,Statistics Norway - SN06
+Norway,NO,NOR,578,National,1,Flush and pour flush - to piped sewer system,0.823,Statistics Norway - SN06
+Norway,NO,NOR,578,National,2,Flush and pour flush - to septic tank,0.17,Statistics Norway - SN06
+Norway,NO,NOR,578,National,3,Flush and pour flush - to pit,0.0,Statistics Norway - SN06
+Norway,NO,NOR,578,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Statistics Norway - SN06
+Norway,NO,NOR,578,National,5,Flush and pour flush - to elsewhere,0.0,Statistics Norway - SN06
+Norway,NO,NOR,578,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Statistics Norway - SN06
+Norway,NO,NOR,578,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Statistics Norway - SN06
+Norway,NO,NOR,578,National,8,Dry latrines - Traditional latrine,0.0,Statistics Norway - SN06
+Norway,NO,NOR,578,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Statistics Norway - SN06
+Norway,NO,NOR,578,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Statistics Norway - SN06
+Norway,NO,NOR,578,National,11,Dry latrines - Bucket latrine,0.0,Statistics Norway - SN06
+Norway,NO,NOR,578,National,12,Dry latrines - Other,0.0,Statistics Norway - SN06
+Norway,NO,NOR,578,National,13,Composting toilets,0.0,Statistics Norway - SN06
+Norway,NO,NOR,578,National,14,Other improved,0.0,Statistics Norway - SN06
+Norway,NO,NOR,578,National,15,"No facility, bush, field",0.0,Statistics Norway - SN06
+Norway,NO,NOR,578,National,16,Other unimproved,0.007,Statistics Norway - SN06
+Norway,NO,NOR,578,National,17,DK/missing information,0.0,Statistics Norway - SN06
+Norway,NO,NOR,578,Urban,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES06
+Norway,NO,NOR,578,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES06
+Norway,NO,NOR,578,Urban,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES06
+Norway,NO,NOR,578,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES06
+Norway,NO,NOR,578,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES06
+Norway,NO,NOR,578,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES06
+Norway,NO,NOR,578,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES06
+Norway,NO,NOR,578,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES06
+Norway,NO,NOR,578,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES06
+Norway,NO,NOR,578,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES06
+Norway,NO,NOR,578,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES06
+Norway,NO,NOR,578,Urban,12,Dry latrines - Other,0.0,Eurostat environmental database - ES06
+Norway,NO,NOR,578,Urban,13,Composting toilets,0.0,Eurostat environmental database - ES06
+Norway,NO,NOR,578,Urban,14,Other improved,0.0,Eurostat environmental database - ES06
+Norway,NO,NOR,578,Urban,15,"No facility, bush, field",0.0,Eurostat environmental database - ES06
+Norway,NO,NOR,578,Urban,16,Other unimproved,0.0,Eurostat environmental database - ES06
+Norway,NO,NOR,578,Urban,17,DK/missing information,0.0,Eurostat environmental database - ES06
+Norway,NO,NOR,578,Rural,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES06
+Norway,NO,NOR,578,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES06
+Norway,NO,NOR,578,Rural,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES06
+Norway,NO,NOR,578,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES06
+Norway,NO,NOR,578,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES06
+Norway,NO,NOR,578,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES06
+Norway,NO,NOR,578,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES06
+Norway,NO,NOR,578,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES06
+Norway,NO,NOR,578,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES06
+Norway,NO,NOR,578,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES06
+Norway,NO,NOR,578,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES06
+Norway,NO,NOR,578,Rural,12,Dry latrines - Other,0.0,Eurostat environmental database - ES06
+Norway,NO,NOR,578,Rural,13,Composting toilets,0.0,Eurostat environmental database - ES06
+Norway,NO,NOR,578,Rural,14,Other improved,0.0,Eurostat environmental database - ES06
+Norway,NO,NOR,578,Rural,15,"No facility, bush, field",0.0,Eurostat environmental database - ES06
+Norway,NO,NOR,578,Rural,16,Other unimproved,0.0,Eurostat environmental database - ES06
+Norway,NO,NOR,578,Rural,17,DK/missing information,0.0,Eurostat environmental database - ES06
+Norway,NO,NOR,578,National,1,Flush and pour flush - to piped sewer system,0.78,Eurostat environmental database - ES06
+Norway,NO,NOR,578,National,2,Flush and pour flush - to septic tank,0.17,Eurostat environmental database - ES06
+Norway,NO,NOR,578,National,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES06
+Norway,NO,NOR,578,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES06
+Norway,NO,NOR,578,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES06
+Norway,NO,NOR,578,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES06
+Norway,NO,NOR,578,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES06
+Norway,NO,NOR,578,National,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES06
+Norway,NO,NOR,578,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES06
+Norway,NO,NOR,578,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES06
+Norway,NO,NOR,578,National,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES06
+Norway,NO,NOR,578,National,12,Dry latrines - Other,0.0,Eurostat environmental database - ES06
+Norway,NO,NOR,578,National,13,Composting toilets,0.0,Eurostat environmental database - ES06
+Norway,NO,NOR,578,National,14,Other improved,0.0,Eurostat environmental database - ES06
+Norway,NO,NOR,578,National,15,"No facility, bush, field",0.0,Eurostat environmental database - ES06
+Norway,NO,NOR,578,National,16,Other unimproved,0.05,Eurostat environmental database - ES06
+Norway,NO,NOR,578,National,17,DK/missing information,0.0,Eurostat environmental database - ES06
+Norway,NO,NOR,578,Urban,1,Flush and pour flush - to piped sewer system,0.0,Statistics Norway - SN07
+Norway,NO,NOR,578,Urban,2,Flush and pour flush - to septic tank,0.0,Statistics Norway - SN07
+Norway,NO,NOR,578,Urban,3,Flush and pour flush - to pit,0.0,Statistics Norway - SN07
+Norway,NO,NOR,578,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Statistics Norway - SN07
+Norway,NO,NOR,578,Urban,5,Flush and pour flush - to elsewhere,0.0,Statistics Norway - SN07
+Norway,NO,NOR,578,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Statistics Norway - SN07
+Norway,NO,NOR,578,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Statistics Norway - SN07
+Norway,NO,NOR,578,Urban,8,Dry latrines - Traditional latrine,0.0,Statistics Norway - SN07
+Norway,NO,NOR,578,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Statistics Norway - SN07
+Norway,NO,NOR,578,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Statistics Norway - SN07
+Norway,NO,NOR,578,Urban,11,Dry latrines - Bucket latrine,0.0,Statistics Norway - SN07
+Norway,NO,NOR,578,Urban,12,Dry latrines - Other,0.0,Statistics Norway - SN07
+Norway,NO,NOR,578,Urban,13,Composting toilets,0.0,Statistics Norway - SN07
+Norway,NO,NOR,578,Urban,14,Other improved,0.0,Statistics Norway - SN07
+Norway,NO,NOR,578,Urban,15,"No facility, bush, field",0.0,Statistics Norway - SN07
+Norway,NO,NOR,578,Urban,16,Other unimproved,0.0,Statistics Norway - SN07
+Norway,NO,NOR,578,Urban,17,DK/missing information,0.0,Statistics Norway - SN07
+Norway,NO,NOR,578,Rural,1,Flush and pour flush - to piped sewer system,0.0,Statistics Norway - SN07
+Norway,NO,NOR,578,Rural,2,Flush and pour flush - to septic tank,0.0,Statistics Norway - SN07
+Norway,NO,NOR,578,Rural,3,Flush and pour flush - to pit,0.0,Statistics Norway - SN07
+Norway,NO,NOR,578,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Statistics Norway - SN07
+Norway,NO,NOR,578,Rural,5,Flush and pour flush - to elsewhere,0.0,Statistics Norway - SN07
+Norway,NO,NOR,578,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Statistics Norway - SN07
+Norway,NO,NOR,578,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Statistics Norway - SN07
+Norway,NO,NOR,578,Rural,8,Dry latrines - Traditional latrine,0.0,Statistics Norway - SN07
+Norway,NO,NOR,578,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Statistics Norway - SN07
+Norway,NO,NOR,578,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Statistics Norway - SN07
+Norway,NO,NOR,578,Rural,11,Dry latrines - Bucket latrine,0.0,Statistics Norway - SN07
+Norway,NO,NOR,578,Rural,12,Dry latrines - Other,0.0,Statistics Norway - SN07
+Norway,NO,NOR,578,Rural,13,Composting toilets,0.0,Statistics Norway - SN07
+Norway,NO,NOR,578,Rural,14,Other improved,0.0,Statistics Norway - SN07
+Norway,NO,NOR,578,Rural,15,"No facility, bush, field",0.0,Statistics Norway - SN07
+Norway,NO,NOR,578,Rural,16,Other unimproved,0.0,Statistics Norway - SN07
+Norway,NO,NOR,578,Rural,17,DK/missing information,0.0,Statistics Norway - SN07
+Norway,NO,NOR,578,National,1,Flush and pour flush - to piped sewer system,0.825,Statistics Norway - SN07
+Norway,NO,NOR,578,National,2,Flush and pour flush - to septic tank,0.168,Statistics Norway - SN07
+Norway,NO,NOR,578,National,3,Flush and pour flush - to pit,0.0,Statistics Norway - SN07
+Norway,NO,NOR,578,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Statistics Norway - SN07
+Norway,NO,NOR,578,National,5,Flush and pour flush - to elsewhere,0.0,Statistics Norway - SN07
+Norway,NO,NOR,578,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Statistics Norway - SN07
+Norway,NO,NOR,578,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Statistics Norway - SN07
+Norway,NO,NOR,578,National,8,Dry latrines - Traditional latrine,0.0,Statistics Norway - SN07
+Norway,NO,NOR,578,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Statistics Norway - SN07
+Norway,NO,NOR,578,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Statistics Norway - SN07
+Norway,NO,NOR,578,National,11,Dry latrines - Bucket latrine,0.0,Statistics Norway - SN07
+Norway,NO,NOR,578,National,12,Dry latrines - Other,0.0,Statistics Norway - SN07
+Norway,NO,NOR,578,National,13,Composting toilets,0.0,Statistics Norway - SN07
+Norway,NO,NOR,578,National,14,Other improved,0.0,Statistics Norway - SN07
+Norway,NO,NOR,578,National,15,"No facility, bush, field",0.0,Statistics Norway - SN07
+Norway,NO,NOR,578,National,16,Other unimproved,0.008,Statistics Norway - SN07
+Norway,NO,NOR,578,National,17,DK/missing information,0.0,Statistics Norway - SN07
+Norway,NO,NOR,578,Urban,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES07
+Norway,NO,NOR,578,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES07
+Norway,NO,NOR,578,Urban,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES07
+Norway,NO,NOR,578,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES07
+Norway,NO,NOR,578,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES07
+Norway,NO,NOR,578,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES07
+Norway,NO,NOR,578,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES07
+Norway,NO,NOR,578,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES07
+Norway,NO,NOR,578,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES07
+Norway,NO,NOR,578,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES07
+Norway,NO,NOR,578,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES07
+Norway,NO,NOR,578,Urban,12,Dry latrines - Other,0.0,Eurostat environmental database - ES07
+Norway,NO,NOR,578,Urban,13,Composting toilets,0.0,Eurostat environmental database - ES07
+Norway,NO,NOR,578,Urban,14,Other improved,0.0,Eurostat environmental database - ES07
+Norway,NO,NOR,578,Urban,15,"No facility, bush, field",0.0,Eurostat environmental database - ES07
+Norway,NO,NOR,578,Urban,16,Other unimproved,0.0,Eurostat environmental database - ES07
+Norway,NO,NOR,578,Urban,17,DK/missing information,0.0,Eurostat environmental database - ES07
+Norway,NO,NOR,578,Rural,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES07
+Norway,NO,NOR,578,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES07
+Norway,NO,NOR,578,Rural,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES07
+Norway,NO,NOR,578,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES07
+Norway,NO,NOR,578,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES07
+Norway,NO,NOR,578,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES07
+Norway,NO,NOR,578,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES07
+Norway,NO,NOR,578,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES07
+Norway,NO,NOR,578,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES07
+Norway,NO,NOR,578,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES07
+Norway,NO,NOR,578,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES07
+Norway,NO,NOR,578,Rural,12,Dry latrines - Other,0.0,Eurostat environmental database - ES07
+Norway,NO,NOR,578,Rural,13,Composting toilets,0.0,Eurostat environmental database - ES07
+Norway,NO,NOR,578,Rural,14,Other improved,0.0,Eurostat environmental database - ES07
+Norway,NO,NOR,578,Rural,15,"No facility, bush, field",0.0,Eurostat environmental database - ES07
+Norway,NO,NOR,578,Rural,16,Other unimproved,0.0,Eurostat environmental database - ES07
+Norway,NO,NOR,578,Rural,17,DK/missing information,0.0,Eurostat environmental database - ES07
+Norway,NO,NOR,578,National,1,Flush and pour flush - to piped sewer system,0.783,Eurostat environmental database - ES07
+Norway,NO,NOR,578,National,2,Flush and pour flush - to septic tank,0.168,Eurostat environmental database - ES07
+Norway,NO,NOR,578,National,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES07
+Norway,NO,NOR,578,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES07
+Norway,NO,NOR,578,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES07
+Norway,NO,NOR,578,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES07
+Norway,NO,NOR,578,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES07
+Norway,NO,NOR,578,National,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES07
+Norway,NO,NOR,578,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES07
+Norway,NO,NOR,578,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES07
+Norway,NO,NOR,578,National,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES07
+Norway,NO,NOR,578,National,12,Dry latrines - Other,0.0,Eurostat environmental database - ES07
+Norway,NO,NOR,578,National,13,Composting toilets,0.0,Eurostat environmental database - ES07
+Norway,NO,NOR,578,National,14,Other improved,0.0,Eurostat environmental database - ES07
+Norway,NO,NOR,578,National,15,"No facility, bush, field",0.0,Eurostat environmental database - ES07
+Norway,NO,NOR,578,National,16,Other unimproved,0.049,Eurostat environmental database - ES07
+Norway,NO,NOR,578,National,17,DK/missing information,0.0,Eurostat environmental database - ES07
+Norway,NO,NOR,578,Urban,1,Flush and pour flush - to piped sewer system,0.0,Statistics Norway - SN08
+Norway,NO,NOR,578,Urban,2,Flush and pour flush - to septic tank,0.0,Statistics Norway - SN08
+Norway,NO,NOR,578,Urban,3,Flush and pour flush - to pit,0.0,Statistics Norway - SN08
+Norway,NO,NOR,578,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Statistics Norway - SN08
+Norway,NO,NOR,578,Urban,5,Flush and pour flush - to elsewhere,0.0,Statistics Norway - SN08
+Norway,NO,NOR,578,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Statistics Norway - SN08
+Norway,NO,NOR,578,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Statistics Norway - SN08
+Norway,NO,NOR,578,Urban,8,Dry latrines - Traditional latrine,0.0,Statistics Norway - SN08
+Norway,NO,NOR,578,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Statistics Norway - SN08
+Norway,NO,NOR,578,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Statistics Norway - SN08
+Norway,NO,NOR,578,Urban,11,Dry latrines - Bucket latrine,0.0,Statistics Norway - SN08
+Norway,NO,NOR,578,Urban,12,Dry latrines - Other,0.0,Statistics Norway - SN08
+Norway,NO,NOR,578,Urban,13,Composting toilets,0.0,Statistics Norway - SN08
+Norway,NO,NOR,578,Urban,14,Other improved,0.0,Statistics Norway - SN08
+Norway,NO,NOR,578,Urban,15,"No facility, bush, field",0.0,Statistics Norway - SN08
+Norway,NO,NOR,578,Urban,16,Other unimproved,0.0,Statistics Norway - SN08
+Norway,NO,NOR,578,Urban,17,DK/missing information,0.0,Statistics Norway - SN08
+Norway,NO,NOR,578,Rural,1,Flush and pour flush - to piped sewer system,0.0,Statistics Norway - SN08
+Norway,NO,NOR,578,Rural,2,Flush and pour flush - to septic tank,0.0,Statistics Norway - SN08
+Norway,NO,NOR,578,Rural,3,Flush and pour flush - to pit,0.0,Statistics Norway - SN08
+Norway,NO,NOR,578,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Statistics Norway - SN08
+Norway,NO,NOR,578,Rural,5,Flush and pour flush - to elsewhere,0.0,Statistics Norway - SN08
+Norway,NO,NOR,578,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Statistics Norway - SN08
+Norway,NO,NOR,578,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Statistics Norway - SN08
+Norway,NO,NOR,578,Rural,8,Dry latrines - Traditional latrine,0.0,Statistics Norway - SN08
+Norway,NO,NOR,578,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Statistics Norway - SN08
+Norway,NO,NOR,578,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Statistics Norway - SN08
+Norway,NO,NOR,578,Rural,11,Dry latrines - Bucket latrine,0.0,Statistics Norway - SN08
+Norway,NO,NOR,578,Rural,12,Dry latrines - Other,0.0,Statistics Norway - SN08
+Norway,NO,NOR,578,Rural,13,Composting toilets,0.0,Statistics Norway - SN08
+Norway,NO,NOR,578,Rural,14,Other improved,0.0,Statistics Norway - SN08
+Norway,NO,NOR,578,Rural,15,"No facility, bush, field",0.0,Statistics Norway - SN08
+Norway,NO,NOR,578,Rural,16,Other unimproved,0.0,Statistics Norway - SN08
+Norway,NO,NOR,578,Rural,17,DK/missing information,0.0,Statistics Norway - SN08
+Norway,NO,NOR,578,National,1,Flush and pour flush - to piped sewer system,0.828,Statistics Norway - SN08
+Norway,NO,NOR,578,National,2,Flush and pour flush - to septic tank,0.165,Statistics Norway - SN08
+Norway,NO,NOR,578,National,3,Flush and pour flush - to pit,0.0,Statistics Norway - SN08
+Norway,NO,NOR,578,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Statistics Norway - SN08
+Norway,NO,NOR,578,National,5,Flush and pour flush - to elsewhere,0.0,Statistics Norway - SN08
+Norway,NO,NOR,578,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Statistics Norway - SN08
+Norway,NO,NOR,578,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Statistics Norway - SN08
+Norway,NO,NOR,578,National,8,Dry latrines - Traditional latrine,0.0,Statistics Norway - SN08
+Norway,NO,NOR,578,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Statistics Norway - SN08
+Norway,NO,NOR,578,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Statistics Norway - SN08
+Norway,NO,NOR,578,National,11,Dry latrines - Bucket latrine,0.0,Statistics Norway - SN08
+Norway,NO,NOR,578,National,12,Dry latrines - Other,0.0,Statistics Norway - SN08
+Norway,NO,NOR,578,National,13,Composting toilets,0.0,Statistics Norway - SN08
+Norway,NO,NOR,578,National,14,Other improved,0.0,Statistics Norway - SN08
+Norway,NO,NOR,578,National,15,"No facility, bush, field",0.0,Statistics Norway - SN08
+Norway,NO,NOR,578,National,16,Other unimproved,0.007,Statistics Norway - SN08
+Norway,NO,NOR,578,National,17,DK/missing information,0.0,Statistics Norway - SN08
+Norway,NO,NOR,578,Urban,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES08
+Norway,NO,NOR,578,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES08
+Norway,NO,NOR,578,Urban,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES08
+Norway,NO,NOR,578,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES08
+Norway,NO,NOR,578,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES08
+Norway,NO,NOR,578,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES08
+Norway,NO,NOR,578,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES08
+Norway,NO,NOR,578,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES08
+Norway,NO,NOR,578,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES08
+Norway,NO,NOR,578,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES08
+Norway,NO,NOR,578,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES08
+Norway,NO,NOR,578,Urban,12,Dry latrines - Other,0.0,Eurostat environmental database - ES08
+Norway,NO,NOR,578,Urban,13,Composting toilets,0.0,Eurostat environmental database - ES08
+Norway,NO,NOR,578,Urban,14,Other improved,0.0,Eurostat environmental database - ES08
+Norway,NO,NOR,578,Urban,15,"No facility, bush, field",0.0,Eurostat environmental database - ES08
+Norway,NO,NOR,578,Urban,16,Other unimproved,0.0,Eurostat environmental database - ES08
+Norway,NO,NOR,578,Urban,17,DK/missing information,0.0,Eurostat environmental database - ES08
+Norway,NO,NOR,578,Rural,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES08
+Norway,NO,NOR,578,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES08
+Norway,NO,NOR,578,Rural,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES08
+Norway,NO,NOR,578,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES08
+Norway,NO,NOR,578,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES08
+Norway,NO,NOR,578,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES08
+Norway,NO,NOR,578,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES08
+Norway,NO,NOR,578,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES08
+Norway,NO,NOR,578,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES08
+Norway,NO,NOR,578,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES08
+Norway,NO,NOR,578,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES08
+Norway,NO,NOR,578,Rural,12,Dry latrines - Other,0.0,Eurostat environmental database - ES08
+Norway,NO,NOR,578,Rural,13,Composting toilets,0.0,Eurostat environmental database - ES08
+Norway,NO,NOR,578,Rural,14,Other improved,0.0,Eurostat environmental database - ES08
+Norway,NO,NOR,578,Rural,15,"No facility, bush, field",0.0,Eurostat environmental database - ES08
+Norway,NO,NOR,578,Rural,16,Other unimproved,0.0,Eurostat environmental database - ES08
+Norway,NO,NOR,578,Rural,17,DK/missing information,0.0,Eurostat environmental database - ES08
+Norway,NO,NOR,578,National,1,Flush and pour flush - to piped sewer system,0.787,Eurostat environmental database - ES08
+Norway,NO,NOR,578,National,2,Flush and pour flush - to septic tank,0.166,Eurostat environmental database - ES08
+Norway,NO,NOR,578,National,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES08
+Norway,NO,NOR,578,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES08
+Norway,NO,NOR,578,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES08
+Norway,NO,NOR,578,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES08
+Norway,NO,NOR,578,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES08
+Norway,NO,NOR,578,National,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES08
+Norway,NO,NOR,578,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES08
+Norway,NO,NOR,578,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES08
+Norway,NO,NOR,578,National,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES08
+Norway,NO,NOR,578,National,12,Dry latrines - Other,0.0,Eurostat environmental database - ES08
+Norway,NO,NOR,578,National,13,Composting toilets,0.0,Eurostat environmental database - ES08
+Norway,NO,NOR,578,National,14,Other improved,0.0,Eurostat environmental database - ES08
+Norway,NO,NOR,578,National,15,"No facility, bush, field",0.0,Eurostat environmental database - ES08
+Norway,NO,NOR,578,National,16,Other unimproved,0.048,Eurostat environmental database - ES08
+Norway,NO,NOR,578,National,17,DK/missing information,0.0,Eurostat environmental database - ES08
+Norway,NO,NOR,578,Urban,1,Flush and pour flush - to piped sewer system,0.0,Statistics Norway - SN09
+Norway,NO,NOR,578,Urban,2,Flush and pour flush - to septic tank,0.0,Statistics Norway - SN09
+Norway,NO,NOR,578,Urban,3,Flush and pour flush - to pit,0.0,Statistics Norway - SN09
+Norway,NO,NOR,578,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Statistics Norway - SN09
+Norway,NO,NOR,578,Urban,5,Flush and pour flush - to elsewhere,0.0,Statistics Norway - SN09
+Norway,NO,NOR,578,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Statistics Norway - SN09
+Norway,NO,NOR,578,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Statistics Norway - SN09
+Norway,NO,NOR,578,Urban,8,Dry latrines - Traditional latrine,0.0,Statistics Norway - SN09
+Norway,NO,NOR,578,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Statistics Norway - SN09
+Norway,NO,NOR,578,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Statistics Norway - SN09
+Norway,NO,NOR,578,Urban,11,Dry latrines - Bucket latrine,0.0,Statistics Norway - SN09
+Norway,NO,NOR,578,Urban,12,Dry latrines - Other,0.0,Statistics Norway - SN09
+Norway,NO,NOR,578,Urban,13,Composting toilets,0.0,Statistics Norway - SN09
+Norway,NO,NOR,578,Urban,14,Other improved,0.0,Statistics Norway - SN09
+Norway,NO,NOR,578,Urban,15,"No facility, bush, field",0.0,Statistics Norway - SN09
+Norway,NO,NOR,578,Urban,16,Other unimproved,0.0,Statistics Norway - SN09
+Norway,NO,NOR,578,Urban,17,DK/missing information,0.0,Statistics Norway - SN09
+Norway,NO,NOR,578,Rural,1,Flush and pour flush - to piped sewer system,0.0,Statistics Norway - SN09
+Norway,NO,NOR,578,Rural,2,Flush and pour flush - to septic tank,0.0,Statistics Norway - SN09
+Norway,NO,NOR,578,Rural,3,Flush and pour flush - to pit,0.0,Statistics Norway - SN09
+Norway,NO,NOR,578,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Statistics Norway - SN09
+Norway,NO,NOR,578,Rural,5,Flush and pour flush - to elsewhere,0.0,Statistics Norway - SN09
+Norway,NO,NOR,578,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Statistics Norway - SN09
+Norway,NO,NOR,578,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Statistics Norway - SN09
+Norway,NO,NOR,578,Rural,8,Dry latrines - Traditional latrine,0.0,Statistics Norway - SN09
+Norway,NO,NOR,578,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Statistics Norway - SN09
+Norway,NO,NOR,578,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Statistics Norway - SN09
+Norway,NO,NOR,578,Rural,11,Dry latrines - Bucket latrine,0.0,Statistics Norway - SN09
+Norway,NO,NOR,578,Rural,12,Dry latrines - Other,0.0,Statistics Norway - SN09
+Norway,NO,NOR,578,Rural,13,Composting toilets,0.0,Statistics Norway - SN09
+Norway,NO,NOR,578,Rural,14,Other improved,0.0,Statistics Norway - SN09
+Norway,NO,NOR,578,Rural,15,"No facility, bush, field",0.0,Statistics Norway - SN09
+Norway,NO,NOR,578,Rural,16,Other unimproved,0.0,Statistics Norway - SN09
+Norway,NO,NOR,578,Rural,17,DK/missing information,0.0,Statistics Norway - SN09
+Norway,NO,NOR,578,National,1,Flush and pour flush - to piped sewer system,0.832,Statistics Norway - SN09
+Norway,NO,NOR,578,National,2,Flush and pour flush - to septic tank,0.16,Statistics Norway - SN09
+Norway,NO,NOR,578,National,3,Flush and pour flush - to pit,0.0,Statistics Norway - SN09
+Norway,NO,NOR,578,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Statistics Norway - SN09
+Norway,NO,NOR,578,National,5,Flush and pour flush - to elsewhere,0.0,Statistics Norway - SN09
+Norway,NO,NOR,578,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Statistics Norway - SN09
+Norway,NO,NOR,578,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Statistics Norway - SN09
+Norway,NO,NOR,578,National,8,Dry latrines - Traditional latrine,0.0,Statistics Norway - SN09
+Norway,NO,NOR,578,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Statistics Norway - SN09
+Norway,NO,NOR,578,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Statistics Norway - SN09
+Norway,NO,NOR,578,National,11,Dry latrines - Bucket latrine,0.0,Statistics Norway - SN09
+Norway,NO,NOR,578,National,12,Dry latrines - Other,0.0,Statistics Norway - SN09
+Norway,NO,NOR,578,National,13,Composting toilets,0.0,Statistics Norway - SN09
+Norway,NO,NOR,578,National,14,Other improved,0.0,Statistics Norway - SN09
+Norway,NO,NOR,578,National,15,"No facility, bush, field",0.0,Statistics Norway - SN09
+Norway,NO,NOR,578,National,16,Other unimproved,0.007,Statistics Norway - SN09
+Norway,NO,NOR,578,National,17,DK/missing information,0.0,Statistics Norway - SN09
+Norway,NO,NOR,578,Urban,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES09
+Norway,NO,NOR,578,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES09
+Norway,NO,NOR,578,Urban,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES09
+Norway,NO,NOR,578,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES09
+Norway,NO,NOR,578,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES09
+Norway,NO,NOR,578,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES09
+Norway,NO,NOR,578,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES09
+Norway,NO,NOR,578,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES09
+Norway,NO,NOR,578,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES09
+Norway,NO,NOR,578,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES09
+Norway,NO,NOR,578,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES09
+Norway,NO,NOR,578,Urban,12,Dry latrines - Other,0.0,Eurostat environmental database - ES09
+Norway,NO,NOR,578,Urban,13,Composting toilets,0.0,Eurostat environmental database - ES09
+Norway,NO,NOR,578,Urban,14,Other improved,0.0,Eurostat environmental database - ES09
+Norway,NO,NOR,578,Urban,15,"No facility, bush, field",0.0,Eurostat environmental database - ES09
+Norway,NO,NOR,578,Urban,16,Other unimproved,0.0,Eurostat environmental database - ES09
+Norway,NO,NOR,578,Urban,17,DK/missing information,0.0,Eurostat environmental database - ES09
+Norway,NO,NOR,578,Rural,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES09
+Norway,NO,NOR,578,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES09
+Norway,NO,NOR,578,Rural,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES09
+Norway,NO,NOR,578,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES09
+Norway,NO,NOR,578,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES09
+Norway,NO,NOR,578,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES09
+Norway,NO,NOR,578,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES09
+Norway,NO,NOR,578,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES09
+Norway,NO,NOR,578,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES09
+Norway,NO,NOR,578,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES09
+Norway,NO,NOR,578,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES09
+Norway,NO,NOR,578,Rural,12,Dry latrines - Other,0.0,Eurostat environmental database - ES09
+Norway,NO,NOR,578,Rural,13,Composting toilets,0.0,Eurostat environmental database - ES09
+Norway,NO,NOR,578,Rural,14,Other improved,0.0,Eurostat environmental database - ES09
+Norway,NO,NOR,578,Rural,15,"No facility, bush, field",0.0,Eurostat environmental database - ES09
+Norway,NO,NOR,578,Rural,16,Other unimproved,0.0,Eurostat environmental database - ES09
+Norway,NO,NOR,578,Rural,17,DK/missing information,0.0,Eurostat environmental database - ES09
+Norway,NO,NOR,578,National,1,Flush and pour flush - to piped sewer system,0.797,Eurostat environmental database - ES09
+Norway,NO,NOR,578,National,2,Flush and pour flush - to septic tank,0.157,Eurostat environmental database - ES09
+Norway,NO,NOR,578,National,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES09
+Norway,NO,NOR,578,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES09
+Norway,NO,NOR,578,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES09
+Norway,NO,NOR,578,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES09
+Norway,NO,NOR,578,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES09
+Norway,NO,NOR,578,National,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES09
+Norway,NO,NOR,578,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES09
+Norway,NO,NOR,578,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES09
+Norway,NO,NOR,578,National,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES09
+Norway,NO,NOR,578,National,12,Dry latrines - Other,0.0,Eurostat environmental database - ES09
+Norway,NO,NOR,578,National,13,Composting toilets,0.0,Eurostat environmental database - ES09
+Norway,NO,NOR,578,National,14,Other improved,0.0,Eurostat environmental database - ES09
+Norway,NO,NOR,578,National,15,"No facility, bush, field",0.0,Eurostat environmental database - ES09
+Norway,NO,NOR,578,National,16,Other unimproved,0.045,Eurostat environmental database - ES09
+Norway,NO,NOR,578,National,17,DK/missing information,0.0,Eurostat environmental database - ES09
+Norway,NO,NOR,578,Urban,1,Flush and pour flush - to piped sewer system,0.0,Statistics Norway - SN10
+Norway,NO,NOR,578,Urban,2,Flush and pour flush - to septic tank,0.0,Statistics Norway - SN10
+Norway,NO,NOR,578,Urban,3,Flush and pour flush - to pit,0.0,Statistics Norway - SN10
+Norway,NO,NOR,578,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Statistics Norway - SN10
+Norway,NO,NOR,578,Urban,5,Flush and pour flush - to elsewhere,0.0,Statistics Norway - SN10
+Norway,NO,NOR,578,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Statistics Norway - SN10
+Norway,NO,NOR,578,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Statistics Norway - SN10
+Norway,NO,NOR,578,Urban,8,Dry latrines - Traditional latrine,0.0,Statistics Norway - SN10
+Norway,NO,NOR,578,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Statistics Norway - SN10
+Norway,NO,NOR,578,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Statistics Norway - SN10
+Norway,NO,NOR,578,Urban,11,Dry latrines - Bucket latrine,0.0,Statistics Norway - SN10
+Norway,NO,NOR,578,Urban,12,Dry latrines - Other,0.0,Statistics Norway - SN10
+Norway,NO,NOR,578,Urban,13,Composting toilets,0.0,Statistics Norway - SN10
+Norway,NO,NOR,578,Urban,14,Other improved,0.0,Statistics Norway - SN10
+Norway,NO,NOR,578,Urban,15,"No facility, bush, field",0.0,Statistics Norway - SN10
+Norway,NO,NOR,578,Urban,16,Other unimproved,0.0,Statistics Norway - SN10
+Norway,NO,NOR,578,Urban,17,DK/missing information,0.0,Statistics Norway - SN10
+Norway,NO,NOR,578,Rural,1,Flush and pour flush - to piped sewer system,0.0,Statistics Norway - SN10
+Norway,NO,NOR,578,Rural,2,Flush and pour flush - to septic tank,0.0,Statistics Norway - SN10
+Norway,NO,NOR,578,Rural,3,Flush and pour flush - to pit,0.0,Statistics Norway - SN10
+Norway,NO,NOR,578,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Statistics Norway - SN10
+Norway,NO,NOR,578,Rural,5,Flush and pour flush - to elsewhere,0.0,Statistics Norway - SN10
+Norway,NO,NOR,578,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Statistics Norway - SN10
+Norway,NO,NOR,578,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Statistics Norway - SN10
+Norway,NO,NOR,578,Rural,8,Dry latrines - Traditional latrine,0.0,Statistics Norway - SN10
+Norway,NO,NOR,578,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Statistics Norway - SN10
+Norway,NO,NOR,578,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Statistics Norway - SN10
+Norway,NO,NOR,578,Rural,11,Dry latrines - Bucket latrine,0.0,Statistics Norway - SN10
+Norway,NO,NOR,578,Rural,12,Dry latrines - Other,0.0,Statistics Norway - SN10
+Norway,NO,NOR,578,Rural,13,Composting toilets,0.0,Statistics Norway - SN10
+Norway,NO,NOR,578,Rural,14,Other improved,0.0,Statistics Norway - SN10
+Norway,NO,NOR,578,Rural,15,"No facility, bush, field",0.0,Statistics Norway - SN10
+Norway,NO,NOR,578,Rural,16,Other unimproved,0.0,Statistics Norway - SN10
+Norway,NO,NOR,578,Rural,17,DK/missing information,0.0,Statistics Norway - SN10
+Norway,NO,NOR,578,National,1,Flush and pour flush - to piped sewer system,0.833,Statistics Norway - SN10
+Norway,NO,NOR,578,National,2,Flush and pour flush - to septic tank,0.159,Statistics Norway - SN10
+Norway,NO,NOR,578,National,3,Flush and pour flush - to pit,0.0,Statistics Norway - SN10
+Norway,NO,NOR,578,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Statistics Norway - SN10
+Norway,NO,NOR,578,National,5,Flush and pour flush - to elsewhere,0.0,Statistics Norway - SN10
+Norway,NO,NOR,578,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Statistics Norway - SN10
+Norway,NO,NOR,578,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Statistics Norway - SN10
+Norway,NO,NOR,578,National,8,Dry latrines - Traditional latrine,0.0,Statistics Norway - SN10
+Norway,NO,NOR,578,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Statistics Norway - SN10
+Norway,NO,NOR,578,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Statistics Norway - SN10
+Norway,NO,NOR,578,National,11,Dry latrines - Bucket latrine,0.0,Statistics Norway - SN10
+Norway,NO,NOR,578,National,12,Dry latrines - Other,0.0,Statistics Norway - SN10
+Norway,NO,NOR,578,National,13,Composting toilets,0.0,Statistics Norway - SN10
+Norway,NO,NOR,578,National,14,Other improved,0.0,Statistics Norway - SN10
+Norway,NO,NOR,578,National,15,"No facility, bush, field",0.0,Statistics Norway - SN10
+Norway,NO,NOR,578,National,16,Other unimproved,0.007,Statistics Norway - SN10
+Norway,NO,NOR,578,National,17,DK/missing information,0.0,Statistics Norway - SN10
+Norway,NO,NOR,578,Urban,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES10
+Norway,NO,NOR,578,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES10
+Norway,NO,NOR,578,Urban,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES10
+Norway,NO,NOR,578,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES10
+Norway,NO,NOR,578,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES10
+Norway,NO,NOR,578,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES10
+Norway,NO,NOR,578,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES10
+Norway,NO,NOR,578,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES10
+Norway,NO,NOR,578,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES10
+Norway,NO,NOR,578,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES10
+Norway,NO,NOR,578,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES10
+Norway,NO,NOR,578,Urban,12,Dry latrines - Other,0.0,Eurostat environmental database - ES10
+Norway,NO,NOR,578,Urban,13,Composting toilets,0.0,Eurostat environmental database - ES10
+Norway,NO,NOR,578,Urban,14,Other improved,0.0,Eurostat environmental database - ES10
+Norway,NO,NOR,578,Urban,15,"No facility, bush, field",0.0,Eurostat environmental database - ES10
+Norway,NO,NOR,578,Urban,16,Other unimproved,0.0,Eurostat environmental database - ES10
+Norway,NO,NOR,578,Urban,17,DK/missing information,0.0,Eurostat environmental database - ES10
+Norway,NO,NOR,578,Rural,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES10
+Norway,NO,NOR,578,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES10
+Norway,NO,NOR,578,Rural,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES10
+Norway,NO,NOR,578,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES10
+Norway,NO,NOR,578,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES10
+Norway,NO,NOR,578,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES10
+Norway,NO,NOR,578,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES10
+Norway,NO,NOR,578,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES10
+Norway,NO,NOR,578,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES10
+Norway,NO,NOR,578,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES10
+Norway,NO,NOR,578,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES10
+Norway,NO,NOR,578,Rural,12,Dry latrines - Other,0.0,Eurostat environmental database - ES10
+Norway,NO,NOR,578,Rural,13,Composting toilets,0.0,Eurostat environmental database - ES10
+Norway,NO,NOR,578,Rural,14,Other improved,0.0,Eurostat environmental database - ES10
+Norway,NO,NOR,578,Rural,15,"No facility, bush, field",0.0,Eurostat environmental database - ES10
+Norway,NO,NOR,578,Rural,16,Other unimproved,0.0,Eurostat environmental database - ES10
+Norway,NO,NOR,578,Rural,17,DK/missing information,0.0,Eurostat environmental database - ES10
+Norway,NO,NOR,578,National,1,Flush and pour flush - to piped sewer system,0.805,Eurostat environmental database - ES10
+Norway,NO,NOR,578,National,2,Flush and pour flush - to septic tank,0.155,Eurostat environmental database - ES10
+Norway,NO,NOR,578,National,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES10
+Norway,NO,NOR,578,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES10
+Norway,NO,NOR,578,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES10
+Norway,NO,NOR,578,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES10
+Norway,NO,NOR,578,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES10
+Norway,NO,NOR,578,National,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES10
+Norway,NO,NOR,578,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES10
+Norway,NO,NOR,578,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES10
+Norway,NO,NOR,578,National,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES10
+Norway,NO,NOR,578,National,12,Dry latrines - Other,0.0,Eurostat environmental database - ES10
+Norway,NO,NOR,578,National,13,Composting toilets,0.0,Eurostat environmental database - ES10
+Norway,NO,NOR,578,National,14,Other improved,0.0,Eurostat environmental database - ES10
+Norway,NO,NOR,578,National,15,"No facility, bush, field",0.0,Eurostat environmental database - ES10
+Norway,NO,NOR,578,National,16,Other unimproved,0.04,Eurostat environmental database - ES10
+Norway,NO,NOR,578,National,17,DK/missing information,0.0,Eurostat environmental database - ES10
+Norway,NO,NOR,578,Urban,1,Flush and pour flush - to piped sewer system,0.0,Statistics Norway - SN11
+Norway,NO,NOR,578,Urban,2,Flush and pour flush - to septic tank,0.0,Statistics Norway - SN11
+Norway,NO,NOR,578,Urban,3,Flush and pour flush - to pit,0.0,Statistics Norway - SN11
+Norway,NO,NOR,578,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Statistics Norway - SN11
+Norway,NO,NOR,578,Urban,5,Flush and pour flush - to elsewhere,0.0,Statistics Norway - SN11
+Norway,NO,NOR,578,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Statistics Norway - SN11
+Norway,NO,NOR,578,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Statistics Norway - SN11
+Norway,NO,NOR,578,Urban,8,Dry latrines - Traditional latrine,0.0,Statistics Norway - SN11
+Norway,NO,NOR,578,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Statistics Norway - SN11
+Norway,NO,NOR,578,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Statistics Norway - SN11
+Norway,NO,NOR,578,Urban,11,Dry latrines - Bucket latrine,0.0,Statistics Norway - SN11
+Norway,NO,NOR,578,Urban,12,Dry latrines - Other,0.0,Statistics Norway - SN11
+Norway,NO,NOR,578,Urban,13,Composting toilets,0.0,Statistics Norway - SN11
+Norway,NO,NOR,578,Urban,14,Other improved,0.0,Statistics Norway - SN11
+Norway,NO,NOR,578,Urban,15,"No facility, bush, field",0.0,Statistics Norway - SN11
+Norway,NO,NOR,578,Urban,16,Other unimproved,0.0,Statistics Norway - SN11
+Norway,NO,NOR,578,Urban,17,DK/missing information,0.0,Statistics Norway - SN11
+Norway,NO,NOR,578,Rural,1,Flush and pour flush - to piped sewer system,0.0,Statistics Norway - SN11
+Norway,NO,NOR,578,Rural,2,Flush and pour flush - to septic tank,0.0,Statistics Norway - SN11
+Norway,NO,NOR,578,Rural,3,Flush and pour flush - to pit,0.0,Statistics Norway - SN11
+Norway,NO,NOR,578,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Statistics Norway - SN11
+Norway,NO,NOR,578,Rural,5,Flush and pour flush - to elsewhere,0.0,Statistics Norway - SN11
+Norway,NO,NOR,578,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Statistics Norway - SN11
+Norway,NO,NOR,578,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Statistics Norway - SN11
+Norway,NO,NOR,578,Rural,8,Dry latrines - Traditional latrine,0.0,Statistics Norway - SN11
+Norway,NO,NOR,578,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Statistics Norway - SN11
+Norway,NO,NOR,578,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Statistics Norway - SN11
+Norway,NO,NOR,578,Rural,11,Dry latrines - Bucket latrine,0.0,Statistics Norway - SN11
+Norway,NO,NOR,578,Rural,12,Dry latrines - Other,0.0,Statistics Norway - SN11
+Norway,NO,NOR,578,Rural,13,Composting toilets,0.0,Statistics Norway - SN11
+Norway,NO,NOR,578,Rural,14,Other improved,0.0,Statistics Norway - SN11
+Norway,NO,NOR,578,Rural,15,"No facility, bush, field",0.0,Statistics Norway - SN11
+Norway,NO,NOR,578,Rural,16,Other unimproved,0.0,Statistics Norway - SN11
+Norway,NO,NOR,578,Rural,17,DK/missing information,0.0,Statistics Norway - SN11
+Norway,NO,NOR,578,National,1,Flush and pour flush - to piped sewer system,0.835,Statistics Norway - SN11
+Norway,NO,NOR,578,National,2,Flush and pour flush - to septic tank,0.158,Statistics Norway - SN11
+Norway,NO,NOR,578,National,3,Flush and pour flush - to pit,0.0,Statistics Norway - SN11
+Norway,NO,NOR,578,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Statistics Norway - SN11
+Norway,NO,NOR,578,National,5,Flush and pour flush - to elsewhere,0.0,Statistics Norway - SN11
+Norway,NO,NOR,578,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Statistics Norway - SN11
+Norway,NO,NOR,578,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Statistics Norway - SN11
+Norway,NO,NOR,578,National,8,Dry latrines - Traditional latrine,0.0,Statistics Norway - SN11
+Norway,NO,NOR,578,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Statistics Norway - SN11
+Norway,NO,NOR,578,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Statistics Norway - SN11
+Norway,NO,NOR,578,National,11,Dry latrines - Bucket latrine,0.0,Statistics Norway - SN11
+Norway,NO,NOR,578,National,12,Dry latrines - Other,0.0,Statistics Norway - SN11
+Norway,NO,NOR,578,National,13,Composting toilets,0.0,Statistics Norway - SN11
+Norway,NO,NOR,578,National,14,Other improved,0.0,Statistics Norway - SN11
+Norway,NO,NOR,578,National,15,"No facility, bush, field",0.0,Statistics Norway - SN11
+Norway,NO,NOR,578,National,16,Other unimproved,0.007,Statistics Norway - SN11
+Norway,NO,NOR,578,National,17,DK/missing information,0.0,Statistics Norway - SN11
+Norway,NO,NOR,578,Urban,1,Flush and pour flush - to piped sewer system,0.0,WHO/UNECE Protocol for Water and Health - PWH11
+Norway,NO,NOR,578,Urban,2,Flush and pour flush - to septic tank,0.0,WHO/UNECE Protocol for Water and Health - PWH11
+Norway,NO,NOR,578,Urban,3,Flush and pour flush - to pit,0.0,WHO/UNECE Protocol for Water and Health - PWH11
+Norway,NO,NOR,578,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,WHO/UNECE Protocol for Water and Health - PWH11
+Norway,NO,NOR,578,Urban,5,Flush and pour flush - to elsewhere,0.0,WHO/UNECE Protocol for Water and Health - PWH11
+Norway,NO,NOR,578,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,WHO/UNECE Protocol for Water and Health - PWH11
+Norway,NO,NOR,578,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,WHO/UNECE Protocol for Water and Health - PWH11
+Norway,NO,NOR,578,Urban,8,Dry latrines - Traditional latrine,0.0,WHO/UNECE Protocol for Water and Health - PWH11
+Norway,NO,NOR,578,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,WHO/UNECE Protocol for Water and Health - PWH11
+Norway,NO,NOR,578,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,WHO/UNECE Protocol for Water and Health - PWH11
+Norway,NO,NOR,578,Urban,11,Dry latrines - Bucket latrine,0.0,WHO/UNECE Protocol for Water and Health - PWH11
+Norway,NO,NOR,578,Urban,12,Dry latrines - Other,0.0,WHO/UNECE Protocol for Water and Health - PWH11
+Norway,NO,NOR,578,Urban,13,Composting toilets,0.0,WHO/UNECE Protocol for Water and Health - PWH11
+Norway,NO,NOR,578,Urban,14,Other improved,0.0,WHO/UNECE Protocol for Water and Health - PWH11
+Norway,NO,NOR,578,Urban,15,"No facility, bush, field",0.0,WHO/UNECE Protocol for Water and Health - PWH11
+Norway,NO,NOR,578,Urban,16,Other unimproved,0.0,WHO/UNECE Protocol for Water and Health - PWH11
+Norway,NO,NOR,578,Urban,17,DK/missing information,0.0,WHO/UNECE Protocol for Water and Health - PWH11
+Norway,NO,NOR,578,Rural,1,Flush and pour flush - to piped sewer system,0.0,WHO/UNECE Protocol for Water and Health - PWH11
+Norway,NO,NOR,578,Rural,2,Flush and pour flush - to septic tank,0.0,WHO/UNECE Protocol for Water and Health - PWH11
+Norway,NO,NOR,578,Rural,3,Flush and pour flush - to pit,0.0,WHO/UNECE Protocol for Water and Health - PWH11
+Norway,NO,NOR,578,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,WHO/UNECE Protocol for Water and Health - PWH11
+Norway,NO,NOR,578,Rural,5,Flush and pour flush - to elsewhere,0.0,WHO/UNECE Protocol for Water and Health - PWH11
+Norway,NO,NOR,578,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,WHO/UNECE Protocol for Water and Health - PWH11
+Norway,NO,NOR,578,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,WHO/UNECE Protocol for Water and Health - PWH11
+Norway,NO,NOR,578,Rural,8,Dry latrines - Traditional latrine,0.0,WHO/UNECE Protocol for Water and Health - PWH11
+Norway,NO,NOR,578,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,WHO/UNECE Protocol for Water and Health - PWH11
+Norway,NO,NOR,578,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,WHO/UNECE Protocol for Water and Health - PWH11
+Norway,NO,NOR,578,Rural,11,Dry latrines - Bucket latrine,0.0,WHO/UNECE Protocol for Water and Health - PWH11
+Norway,NO,NOR,578,Rural,12,Dry latrines - Other,0.0,WHO/UNECE Protocol for Water and Health - PWH11
+Norway,NO,NOR,578,Rural,13,Composting toilets,0.0,WHO/UNECE Protocol for Water and Health - PWH11
+Norway,NO,NOR,578,Rural,14,Other improved,0.0,WHO/UNECE Protocol for Water and Health - PWH11
+Norway,NO,NOR,578,Rural,15,"No facility, bush, field",0.0,WHO/UNECE Protocol for Water and Health - PWH11
+Norway,NO,NOR,578,Rural,16,Other unimproved,0.0,WHO/UNECE Protocol for Water and Health - PWH11
+Norway,NO,NOR,578,Rural,17,DK/missing information,0.0,WHO/UNECE Protocol for Water and Health - PWH11
+Norway,NO,NOR,578,National,1,Flush and pour flush - to piped sewer system,0.83,WHO/UNECE Protocol for Water and Health - PWH11
+Norway,NO,NOR,578,National,2,Flush and pour flush - to septic tank,0.17,WHO/UNECE Protocol for Water and Health - PWH11
+Norway,NO,NOR,578,National,3,Flush and pour flush - to pit,0.0,WHO/UNECE Protocol for Water and Health - PWH11
+Norway,NO,NOR,578,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,WHO/UNECE Protocol for Water and Health - PWH11
+Norway,NO,NOR,578,National,5,Flush and pour flush - to elsewhere,0.0,WHO/UNECE Protocol for Water and Health - PWH11
+Norway,NO,NOR,578,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,WHO/UNECE Protocol for Water and Health - PWH11
+Norway,NO,NOR,578,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,WHO/UNECE Protocol for Water and Health - PWH11
+Norway,NO,NOR,578,National,8,Dry latrines - Traditional latrine,0.0,WHO/UNECE Protocol for Water and Health - PWH11
+Norway,NO,NOR,578,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,WHO/UNECE Protocol for Water and Health - PWH11
+Norway,NO,NOR,578,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,WHO/UNECE Protocol for Water and Health - PWH11
+Norway,NO,NOR,578,National,11,Dry latrines - Bucket latrine,0.0,WHO/UNECE Protocol for Water and Health - PWH11
+Norway,NO,NOR,578,National,12,Dry latrines - Other,0.0,WHO/UNECE Protocol for Water and Health - PWH11
+Norway,NO,NOR,578,National,13,Composting toilets,0.0,WHO/UNECE Protocol for Water and Health - PWH11
+Norway,NO,NOR,578,National,14,Other improved,0.0,WHO/UNECE Protocol for Water and Health - PWH11
+Norway,NO,NOR,578,National,15,"No facility, bush, field",0.0,WHO/UNECE Protocol for Water and Health - PWH11
+Norway,NO,NOR,578,National,16,Other unimproved,0.0,WHO/UNECE Protocol for Water and Health - PWH11
+Norway,NO,NOR,578,National,17,DK/missing information,0.0,WHO/UNECE Protocol for Water and Health - PWH11
+Norway,NO,NOR,578,Urban,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES11
+Norway,NO,NOR,578,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES11
+Norway,NO,NOR,578,Urban,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES11
+Norway,NO,NOR,578,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES11
+Norway,NO,NOR,578,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES11
+Norway,NO,NOR,578,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES11
+Norway,NO,NOR,578,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES11
+Norway,NO,NOR,578,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES11
+Norway,NO,NOR,578,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES11
+Norway,NO,NOR,578,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES11
+Norway,NO,NOR,578,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES11
+Norway,NO,NOR,578,Urban,12,Dry latrines - Other,0.0,Eurostat environmental database - ES11
+Norway,NO,NOR,578,Urban,13,Composting toilets,0.0,Eurostat environmental database - ES11
+Norway,NO,NOR,578,Urban,14,Other improved,0.0,Eurostat environmental database - ES11
+Norway,NO,NOR,578,Urban,15,"No facility, bush, field",0.0,Eurostat environmental database - ES11
+Norway,NO,NOR,578,Urban,16,Other unimproved,0.0,Eurostat environmental database - ES11
+Norway,NO,NOR,578,Urban,17,DK/missing information,0.0,Eurostat environmental database - ES11
+Norway,NO,NOR,578,Rural,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES11
+Norway,NO,NOR,578,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES11
+Norway,NO,NOR,578,Rural,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES11
+Norway,NO,NOR,578,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES11
+Norway,NO,NOR,578,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES11
+Norway,NO,NOR,578,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES11
+Norway,NO,NOR,578,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES11
+Norway,NO,NOR,578,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES11
+Norway,NO,NOR,578,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES11
+Norway,NO,NOR,578,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES11
+Norway,NO,NOR,578,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES11
+Norway,NO,NOR,578,Rural,12,Dry latrines - Other,0.0,Eurostat environmental database - ES11
+Norway,NO,NOR,578,Rural,13,Composting toilets,0.0,Eurostat environmental database - ES11
+Norway,NO,NOR,578,Rural,14,Other improved,0.0,Eurostat environmental database - ES11
+Norway,NO,NOR,578,Rural,15,"No facility, bush, field",0.0,Eurostat environmental database - ES11
+Norway,NO,NOR,578,Rural,16,Other unimproved,0.0,Eurostat environmental database - ES11
+Norway,NO,NOR,578,Rural,17,DK/missing information,0.0,Eurostat environmental database - ES11
+Norway,NO,NOR,578,National,1,Flush and pour flush - to piped sewer system,0.81,Eurostat environmental database - ES11
+Norway,NO,NOR,578,National,2,Flush and pour flush - to septic tank,0.153,Eurostat environmental database - ES11
+Norway,NO,NOR,578,National,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES11
+Norway,NO,NOR,578,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES11
+Norway,NO,NOR,578,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES11
+Norway,NO,NOR,578,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES11
+Norway,NO,NOR,578,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES11
+Norway,NO,NOR,578,National,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES11
+Norway,NO,NOR,578,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES11
+Norway,NO,NOR,578,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES11
+Norway,NO,NOR,578,National,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES11
+Norway,NO,NOR,578,National,12,Dry latrines - Other,0.0,Eurostat environmental database - ES11
+Norway,NO,NOR,578,National,13,Composting toilets,0.0,Eurostat environmental database - ES11
+Norway,NO,NOR,578,National,14,Other improved,0.0,Eurostat environmental database - ES11
+Norway,NO,NOR,578,National,15,"No facility, bush, field",0.0,Eurostat environmental database - ES11
+Norway,NO,NOR,578,National,16,Other unimproved,0.037,Eurostat environmental database - ES11
+Norway,NO,NOR,578,National,17,DK/missing information,0.0,Eurostat environmental database - ES11
+Norway,NO,NOR,578,Urban,1,Flush and pour flush - to piped sewer system,0.0,Statistics Norway - SN12
+Norway,NO,NOR,578,Urban,2,Flush and pour flush - to septic tank,0.0,Statistics Norway - SN12
+Norway,NO,NOR,578,Urban,3,Flush and pour flush - to pit,0.0,Statistics Norway - SN12
+Norway,NO,NOR,578,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Statistics Norway - SN12
+Norway,NO,NOR,578,Urban,5,Flush and pour flush - to elsewhere,0.0,Statistics Norway - SN12
+Norway,NO,NOR,578,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Statistics Norway - SN12
+Norway,NO,NOR,578,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Statistics Norway - SN12
+Norway,NO,NOR,578,Urban,8,Dry latrines - Traditional latrine,0.0,Statistics Norway - SN12
+Norway,NO,NOR,578,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Statistics Norway - SN12
+Norway,NO,NOR,578,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Statistics Norway - SN12
+Norway,NO,NOR,578,Urban,11,Dry latrines - Bucket latrine,0.0,Statistics Norway - SN12
+Norway,NO,NOR,578,Urban,12,Dry latrines - Other,0.0,Statistics Norway - SN12
+Norway,NO,NOR,578,Urban,13,Composting toilets,0.0,Statistics Norway - SN12
+Norway,NO,NOR,578,Urban,14,Other improved,0.0,Statistics Norway - SN12
+Norway,NO,NOR,578,Urban,15,"No facility, bush, field",0.0,Statistics Norway - SN12
+Norway,NO,NOR,578,Urban,16,Other unimproved,0.0,Statistics Norway - SN12
+Norway,NO,NOR,578,Urban,17,DK/missing information,0.0,Statistics Norway - SN12
+Norway,NO,NOR,578,Rural,1,Flush and pour flush - to piped sewer system,0.0,Statistics Norway - SN12
+Norway,NO,NOR,578,Rural,2,Flush and pour flush - to septic tank,0.0,Statistics Norway - SN12
+Norway,NO,NOR,578,Rural,3,Flush and pour flush - to pit,0.0,Statistics Norway - SN12
+Norway,NO,NOR,578,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Statistics Norway - SN12
+Norway,NO,NOR,578,Rural,5,Flush and pour flush - to elsewhere,0.0,Statistics Norway - SN12
+Norway,NO,NOR,578,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Statistics Norway - SN12
+Norway,NO,NOR,578,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Statistics Norway - SN12
+Norway,NO,NOR,578,Rural,8,Dry latrines - Traditional latrine,0.0,Statistics Norway - SN12
+Norway,NO,NOR,578,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Statistics Norway - SN12
+Norway,NO,NOR,578,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Statistics Norway - SN12
+Norway,NO,NOR,578,Rural,11,Dry latrines - Bucket latrine,0.0,Statistics Norway - SN12
+Norway,NO,NOR,578,Rural,12,Dry latrines - Other,0.0,Statistics Norway - SN12
+Norway,NO,NOR,578,Rural,13,Composting toilets,0.0,Statistics Norway - SN12
+Norway,NO,NOR,578,Rural,14,Other improved,0.0,Statistics Norway - SN12
+Norway,NO,NOR,578,Rural,15,"No facility, bush, field",0.0,Statistics Norway - SN12
+Norway,NO,NOR,578,Rural,16,Other unimproved,0.0,Statistics Norway - SN12
+Norway,NO,NOR,578,Rural,17,DK/missing information,0.0,Statistics Norway - SN12
+Norway,NO,NOR,578,National,1,Flush and pour flush - to piped sewer system,0.837,Statistics Norway - SN12
+Norway,NO,NOR,578,National,2,Flush and pour flush - to septic tank,0.154,Statistics Norway - SN12
+Norway,NO,NOR,578,National,3,Flush and pour flush - to pit,0.0,Statistics Norway - SN12
+Norway,NO,NOR,578,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Statistics Norway - SN12
+Norway,NO,NOR,578,National,5,Flush and pour flush - to elsewhere,0.0,Statistics Norway - SN12
+Norway,NO,NOR,578,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Statistics Norway - SN12
+Norway,NO,NOR,578,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Statistics Norway - SN12
+Norway,NO,NOR,578,National,8,Dry latrines - Traditional latrine,0.0,Statistics Norway - SN12
+Norway,NO,NOR,578,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Statistics Norway - SN12
+Norway,NO,NOR,578,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Statistics Norway - SN12
+Norway,NO,NOR,578,National,11,Dry latrines - Bucket latrine,0.0,Statistics Norway - SN12
+Norway,NO,NOR,578,National,12,Dry latrines - Other,0.0,Statistics Norway - SN12
+Norway,NO,NOR,578,National,13,Composting toilets,0.0,Statistics Norway - SN12
+Norway,NO,NOR,578,National,14,Other improved,0.0,Statistics Norway - SN12
+Norway,NO,NOR,578,National,15,"No facility, bush, field",0.0,Statistics Norway - SN12
+Norway,NO,NOR,578,National,16,Other unimproved,0.009,Statistics Norway - SN12
+Norway,NO,NOR,578,National,17,DK/missing information,0.0,Statistics Norway - SN12
+Norway,NO,NOR,578,Urban,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES12
+Norway,NO,NOR,578,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES12
+Norway,NO,NOR,578,Urban,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES12
+Norway,NO,NOR,578,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES12
+Norway,NO,NOR,578,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES12
+Norway,NO,NOR,578,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES12
+Norway,NO,NOR,578,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES12
+Norway,NO,NOR,578,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES12
+Norway,NO,NOR,578,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES12
+Norway,NO,NOR,578,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES12
+Norway,NO,NOR,578,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES12
+Norway,NO,NOR,578,Urban,12,Dry latrines - Other,0.0,Eurostat environmental database - ES12
+Norway,NO,NOR,578,Urban,13,Composting toilets,0.0,Eurostat environmental database - ES12
+Norway,NO,NOR,578,Urban,14,Other improved,0.0,Eurostat environmental database - ES12
+Norway,NO,NOR,578,Urban,15,"No facility, bush, field",0.0,Eurostat environmental database - ES12
+Norway,NO,NOR,578,Urban,16,Other unimproved,0.0,Eurostat environmental database - ES12
+Norway,NO,NOR,578,Urban,17,DK/missing information,0.0,Eurostat environmental database - ES12
+Norway,NO,NOR,578,Rural,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES12
+Norway,NO,NOR,578,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES12
+Norway,NO,NOR,578,Rural,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES12
+Norway,NO,NOR,578,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES12
+Norway,NO,NOR,578,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES12
+Norway,NO,NOR,578,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES12
+Norway,NO,NOR,578,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES12
+Norway,NO,NOR,578,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES12
+Norway,NO,NOR,578,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES12
+Norway,NO,NOR,578,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES12
+Norway,NO,NOR,578,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES12
+Norway,NO,NOR,578,Rural,12,Dry latrines - Other,0.0,Eurostat environmental database - ES12
+Norway,NO,NOR,578,Rural,13,Composting toilets,0.0,Eurostat environmental database - ES12
+Norway,NO,NOR,578,Rural,14,Other improved,0.0,Eurostat environmental database - ES12
+Norway,NO,NOR,578,Rural,15,"No facility, bush, field",0.0,Eurostat environmental database - ES12
+Norway,NO,NOR,578,Rural,16,Other unimproved,0.0,Eurostat environmental database - ES12
+Norway,NO,NOR,578,Rural,17,DK/missing information,0.0,Eurostat environmental database - ES12
+Norway,NO,NOR,578,National,1,Flush and pour flush - to piped sewer system,0.812,Eurostat environmental database - ES12
+Norway,NO,NOR,578,National,2,Flush and pour flush - to septic tank,0.153,Eurostat environmental database - ES12
+Norway,NO,NOR,578,National,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES12
+Norway,NO,NOR,578,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES12
+Norway,NO,NOR,578,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES12
+Norway,NO,NOR,578,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES12
+Norway,NO,NOR,578,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES12
+Norway,NO,NOR,578,National,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES12
+Norway,NO,NOR,578,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES12
+Norway,NO,NOR,578,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES12
+Norway,NO,NOR,578,National,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES12
+Norway,NO,NOR,578,National,12,Dry latrines - Other,0.0,Eurostat environmental database - ES12
+Norway,NO,NOR,578,National,13,Composting toilets,0.0,Eurostat environmental database - ES12
+Norway,NO,NOR,578,National,14,Other improved,0.0,Eurostat environmental database - ES12
+Norway,NO,NOR,578,National,15,"No facility, bush, field",0.0,Eurostat environmental database - ES12
+Norway,NO,NOR,578,National,16,Other unimproved,0.035,Eurostat environmental database - ES12
+Norway,NO,NOR,578,National,17,DK/missing information,0.0,Eurostat environmental database - ES12
+Norway,NO,NOR,578,Urban,1,Flush and pour flush - to piped sewer system,0.0,Statistics Norway - SN13
+Norway,NO,NOR,578,Urban,2,Flush and pour flush - to septic tank,0.0,Statistics Norway - SN13
+Norway,NO,NOR,578,Urban,3,Flush and pour flush - to pit,0.0,Statistics Norway - SN13
+Norway,NO,NOR,578,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Statistics Norway - SN13
+Norway,NO,NOR,578,Urban,5,Flush and pour flush - to elsewhere,0.0,Statistics Norway - SN13
+Norway,NO,NOR,578,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Statistics Norway - SN13
+Norway,NO,NOR,578,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Statistics Norway - SN13
+Norway,NO,NOR,578,Urban,8,Dry latrines - Traditional latrine,0.0,Statistics Norway - SN13
+Norway,NO,NOR,578,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Statistics Norway - SN13
+Norway,NO,NOR,578,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Statistics Norway - SN13
+Norway,NO,NOR,578,Urban,11,Dry latrines - Bucket latrine,0.0,Statistics Norway - SN13
+Norway,NO,NOR,578,Urban,12,Dry latrines - Other,0.0,Statistics Norway - SN13
+Norway,NO,NOR,578,Urban,13,Composting toilets,0.0,Statistics Norway - SN13
+Norway,NO,NOR,578,Urban,14,Other improved,0.0,Statistics Norway - SN13
+Norway,NO,NOR,578,Urban,15,"No facility, bush, field",0.0,Statistics Norway - SN13
+Norway,NO,NOR,578,Urban,16,Other unimproved,0.0,Statistics Norway - SN13
+Norway,NO,NOR,578,Urban,17,DK/missing information,0.0,Statistics Norway - SN13
+Norway,NO,NOR,578,Rural,1,Flush and pour flush - to piped sewer system,0.0,Statistics Norway - SN13
+Norway,NO,NOR,578,Rural,2,Flush and pour flush - to septic tank,0.0,Statistics Norway - SN13
+Norway,NO,NOR,578,Rural,3,Flush and pour flush - to pit,0.0,Statistics Norway - SN13
+Norway,NO,NOR,578,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Statistics Norway - SN13
+Norway,NO,NOR,578,Rural,5,Flush and pour flush - to elsewhere,0.0,Statistics Norway - SN13
+Norway,NO,NOR,578,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Statistics Norway - SN13
+Norway,NO,NOR,578,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Statistics Norway - SN13
+Norway,NO,NOR,578,Rural,8,Dry latrines - Traditional latrine,0.0,Statistics Norway - SN13
+Norway,NO,NOR,578,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Statistics Norway - SN13
+Norway,NO,NOR,578,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Statistics Norway - SN13
+Norway,NO,NOR,578,Rural,11,Dry latrines - Bucket latrine,0.0,Statistics Norway - SN13
+Norway,NO,NOR,578,Rural,12,Dry latrines - Other,0.0,Statistics Norway - SN13
+Norway,NO,NOR,578,Rural,13,Composting toilets,0.0,Statistics Norway - SN13
+Norway,NO,NOR,578,Rural,14,Other improved,0.0,Statistics Norway - SN13
+Norway,NO,NOR,578,Rural,15,"No facility, bush, field",0.0,Statistics Norway - SN13
+Norway,NO,NOR,578,Rural,16,Other unimproved,0.0,Statistics Norway - SN13
+Norway,NO,NOR,578,Rural,17,DK/missing information,0.0,Statistics Norway - SN13
+Norway,NO,NOR,578,National,1,Flush and pour flush - to piped sewer system,0.839,Statistics Norway - SN13
+Norway,NO,NOR,578,National,2,Flush and pour flush - to septic tank,0.151,Statistics Norway - SN13
+Norway,NO,NOR,578,National,3,Flush and pour flush - to pit,0.0,Statistics Norway - SN13
+Norway,NO,NOR,578,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Statistics Norway - SN13
+Norway,NO,NOR,578,National,5,Flush and pour flush - to elsewhere,0.0,Statistics Norway - SN13
+Norway,NO,NOR,578,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Statistics Norway - SN13
+Norway,NO,NOR,578,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Statistics Norway - SN13
+Norway,NO,NOR,578,National,8,Dry latrines - Traditional latrine,0.0,Statistics Norway - SN13
+Norway,NO,NOR,578,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Statistics Norway - SN13
+Norway,NO,NOR,578,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Statistics Norway - SN13
+Norway,NO,NOR,578,National,11,Dry latrines - Bucket latrine,0.0,Statistics Norway - SN13
+Norway,NO,NOR,578,National,12,Dry latrines - Other,0.0,Statistics Norway - SN13
+Norway,NO,NOR,578,National,13,Composting toilets,0.001,Statistics Norway - SN13
+Norway,NO,NOR,578,National,14,Other improved,0.0,Statistics Norway - SN13
+Norway,NO,NOR,578,National,15,"No facility, bush, field",0.0,Statistics Norway - SN13
+Norway,NO,NOR,578,National,16,Other unimproved,0.008,Statistics Norway - SN13
+Norway,NO,NOR,578,National,17,DK/missing information,0.0,Statistics Norway - SN13
+Norway,NO,NOR,578,Urban,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES13
+Norway,NO,NOR,578,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES13
+Norway,NO,NOR,578,Urban,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES13
+Norway,NO,NOR,578,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES13
+Norway,NO,NOR,578,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES13
+Norway,NO,NOR,578,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES13
+Norway,NO,NOR,578,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES13
+Norway,NO,NOR,578,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES13
+Norway,NO,NOR,578,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES13
+Norway,NO,NOR,578,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES13
+Norway,NO,NOR,578,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES13
+Norway,NO,NOR,578,Urban,12,Dry latrines - Other,0.0,Eurostat environmental database - ES13
+Norway,NO,NOR,578,Urban,13,Composting toilets,0.0,Eurostat environmental database - ES13
+Norway,NO,NOR,578,Urban,14,Other improved,0.0,Eurostat environmental database - ES13
+Norway,NO,NOR,578,Urban,15,"No facility, bush, field",0.0,Eurostat environmental database - ES13
+Norway,NO,NOR,578,Urban,16,Other unimproved,0.0,Eurostat environmental database - ES13
+Norway,NO,NOR,578,Urban,17,DK/missing information,0.0,Eurostat environmental database - ES13
+Norway,NO,NOR,578,Rural,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES13
+Norway,NO,NOR,578,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES13
+Norway,NO,NOR,578,Rural,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES13
+Norway,NO,NOR,578,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES13
+Norway,NO,NOR,578,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES13
+Norway,NO,NOR,578,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES13
+Norway,NO,NOR,578,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES13
+Norway,NO,NOR,578,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES13
+Norway,NO,NOR,578,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES13
+Norway,NO,NOR,578,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES13
+Norway,NO,NOR,578,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES13
+Norway,NO,NOR,578,Rural,12,Dry latrines - Other,0.0,Eurostat environmental database - ES13
+Norway,NO,NOR,578,Rural,13,Composting toilets,0.0,Eurostat environmental database - ES13
+Norway,NO,NOR,578,Rural,14,Other improved,0.0,Eurostat environmental database - ES13
+Norway,NO,NOR,578,Rural,15,"No facility, bush, field",0.0,Eurostat environmental database - ES13
+Norway,NO,NOR,578,Rural,16,Other unimproved,0.0,Eurostat environmental database - ES13
+Norway,NO,NOR,578,Rural,17,DK/missing information,0.0,Eurostat environmental database - ES13
+Norway,NO,NOR,578,National,1,Flush and pour flush - to piped sewer system,0.816,Eurostat environmental database - ES13
+Norway,NO,NOR,578,National,2,Flush and pour flush - to septic tank,0.15,Eurostat environmental database - ES13
+Norway,NO,NOR,578,National,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES13
+Norway,NO,NOR,578,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES13
+Norway,NO,NOR,578,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES13
+Norway,NO,NOR,578,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES13
+Norway,NO,NOR,578,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES13
+Norway,NO,NOR,578,National,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES13
+Norway,NO,NOR,578,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES13
+Norway,NO,NOR,578,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES13
+Norway,NO,NOR,578,National,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES13
+Norway,NO,NOR,578,National,12,Dry latrines - Other,0.0,Eurostat environmental database - ES13
+Norway,NO,NOR,578,National,13,Composting toilets,0.0,Eurostat environmental database - ES13
+Norway,NO,NOR,578,National,14,Other improved,0.0,Eurostat environmental database - ES13
+Norway,NO,NOR,578,National,15,"No facility, bush, field",0.0,Eurostat environmental database - ES13
+Norway,NO,NOR,578,National,16,Other unimproved,0.034,Eurostat environmental database - ES13
+Norway,NO,NOR,578,National,17,DK/missing information,0.0,Eurostat environmental database - ES13
+Norway,NO,NOR,578,Urban,1,Flush and pour flush - to piped sewer system,0.0,Eurostat - ES14
+Norway,NO,NOR,578,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat - ES14
+Norway,NO,NOR,578,Urban,3,Flush and pour flush - to pit,0.0,Eurostat - ES14
+Norway,NO,NOR,578,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat - ES14
+Norway,NO,NOR,578,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat - ES14
+Norway,NO,NOR,578,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat - ES14
+Norway,NO,NOR,578,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat - ES14
+Norway,NO,NOR,578,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat - ES14
+Norway,NO,NOR,578,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat - ES14
+Norway,NO,NOR,578,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat - ES14
+Norway,NO,NOR,578,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat - ES14
+Norway,NO,NOR,578,Urban,12,Dry latrines - Other,0.0,Eurostat - ES14
+Norway,NO,NOR,578,Urban,13,Composting toilets,0.0,Eurostat - ES14
+Norway,NO,NOR,578,Urban,14,Other improved,0.0,Eurostat - ES14
+Norway,NO,NOR,578,Urban,15,"No facility, bush, field",0.0,Eurostat - ES14
+Norway,NO,NOR,578,Urban,16,Other unimproved,0.0,Eurostat - ES14
+Norway,NO,NOR,578,Urban,17,DK/missing information,0.0,Eurostat - ES14
+Norway,NO,NOR,578,Rural,1,Flush and pour flush - to piped sewer system,0.0,Eurostat - ES14
+Norway,NO,NOR,578,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat - ES14
+Norway,NO,NOR,578,Rural,3,Flush and pour flush - to pit,0.0,Eurostat - ES14
+Norway,NO,NOR,578,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat - ES14
+Norway,NO,NOR,578,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat - ES14
+Norway,NO,NOR,578,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat - ES14
+Norway,NO,NOR,578,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat - ES14
+Norway,NO,NOR,578,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat - ES14
+Norway,NO,NOR,578,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat - ES14
+Norway,NO,NOR,578,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat - ES14
+Norway,NO,NOR,578,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat - ES14
+Norway,NO,NOR,578,Rural,12,Dry latrines - Other,0.0,Eurostat - ES14
+Norway,NO,NOR,578,Rural,13,Composting toilets,0.0,Eurostat - ES14
+Norway,NO,NOR,578,Rural,14,Other improved,0.0,Eurostat - ES14
+Norway,NO,NOR,578,Rural,15,"No facility, bush, field",0.0,Eurostat - ES14
+Norway,NO,NOR,578,Rural,16,Other unimproved,0.0,Eurostat - ES14
+Norway,NO,NOR,578,Rural,17,DK/missing information,0.0,Eurostat - ES14
+Norway,NO,NOR,578,National,1,Flush and pour flush - to piped sewer system,0.818,Eurostat - ES14
+Norway,NO,NOR,578,National,2,Flush and pour flush - to septic tank,0.152,Eurostat - ES14
+Norway,NO,NOR,578,National,3,Flush and pour flush - to pit,0.0,Eurostat - ES14
+Norway,NO,NOR,578,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat - ES14
+Norway,NO,NOR,578,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat - ES14
+Norway,NO,NOR,578,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat - ES14
+Norway,NO,NOR,578,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat - ES14
+Norway,NO,NOR,578,National,8,Dry latrines - Traditional latrine,0.0,Eurostat - ES14
+Norway,NO,NOR,578,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat - ES14
+Norway,NO,NOR,578,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat - ES14
+Norway,NO,NOR,578,National,11,Dry latrines - Bucket latrine,0.0,Eurostat - ES14
+Norway,NO,NOR,578,National,12,Dry latrines - Other,0.0,Eurostat - ES14
+Norway,NO,NOR,578,National,13,Composting toilets,0.0,Eurostat - ES14
+Norway,NO,NOR,578,National,14,Other improved,0.0,Eurostat - ES14
+Norway,NO,NOR,578,National,15,"No facility, bush, field",0.0,Eurostat - ES14
+Norway,NO,NOR,578,National,16,Other unimproved,0.03,Eurostat - ES14
+Norway,NO,NOR,578,National,17,DK/missing information,0.0,Eurostat - ES14
+Norway,NO,NOR,578,Urban,1,Flush and pour flush - to piped sewer system,0.0,Statistics Norway - SN14
+Norway,NO,NOR,578,Urban,2,Flush and pour flush - to septic tank,0.0,Statistics Norway - SN14
+Norway,NO,NOR,578,Urban,3,Flush and pour flush - to pit,0.0,Statistics Norway - SN14
+Norway,NO,NOR,578,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Statistics Norway - SN14
+Norway,NO,NOR,578,Urban,5,Flush and pour flush - to elsewhere,0.0,Statistics Norway - SN14
+Norway,NO,NOR,578,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Statistics Norway - SN14
+Norway,NO,NOR,578,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Statistics Norway - SN14
+Norway,NO,NOR,578,Urban,8,Dry latrines - Traditional latrine,0.0,Statistics Norway - SN14
+Norway,NO,NOR,578,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Statistics Norway - SN14
+Norway,NO,NOR,578,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Statistics Norway - SN14
+Norway,NO,NOR,578,Urban,11,Dry latrines - Bucket latrine,0.0,Statistics Norway - SN14
+Norway,NO,NOR,578,Urban,12,Dry latrines - Other,0.0,Statistics Norway - SN14
+Norway,NO,NOR,578,Urban,13,Composting toilets,0.0,Statistics Norway - SN14
+Norway,NO,NOR,578,Urban,14,Other improved,0.0,Statistics Norway - SN14
+Norway,NO,NOR,578,Urban,15,"No facility, bush, field",0.0,Statistics Norway - SN14
+Norway,NO,NOR,578,Urban,16,Other unimproved,0.0,Statistics Norway - SN14
+Norway,NO,NOR,578,Urban,17,DK/missing information,0.0,Statistics Norway - SN14
+Norway,NO,NOR,578,Rural,1,Flush and pour flush - to piped sewer system,0.0,Statistics Norway - SN14
+Norway,NO,NOR,578,Rural,2,Flush and pour flush - to septic tank,0.0,Statistics Norway - SN14
+Norway,NO,NOR,578,Rural,3,Flush and pour flush - to pit,0.0,Statistics Norway - SN14
+Norway,NO,NOR,578,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Statistics Norway - SN14
+Norway,NO,NOR,578,Rural,5,Flush and pour flush - to elsewhere,0.0,Statistics Norway - SN14
+Norway,NO,NOR,578,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Statistics Norway - SN14
+Norway,NO,NOR,578,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Statistics Norway - SN14
+Norway,NO,NOR,578,Rural,8,Dry latrines - Traditional latrine,0.0,Statistics Norway - SN14
+Norway,NO,NOR,578,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Statistics Norway - SN14
+Norway,NO,NOR,578,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Statistics Norway - SN14
+Norway,NO,NOR,578,Rural,11,Dry latrines - Bucket latrine,0.0,Statistics Norway - SN14
+Norway,NO,NOR,578,Rural,12,Dry latrines - Other,0.0,Statistics Norway - SN14
+Norway,NO,NOR,578,Rural,13,Composting toilets,0.0,Statistics Norway - SN14
+Norway,NO,NOR,578,Rural,14,Other improved,0.0,Statistics Norway - SN14
+Norway,NO,NOR,578,Rural,15,"No facility, bush, field",0.0,Statistics Norway - SN14
+Norway,NO,NOR,578,Rural,16,Other unimproved,0.0,Statistics Norway - SN14
+Norway,NO,NOR,578,Rural,17,DK/missing information,0.0,Statistics Norway - SN14
+Norway,NO,NOR,578,National,1,Flush and pour flush - to piped sewer system,0.843,Statistics Norway - SN14
+Norway,NO,NOR,578,National,2,Flush and pour flush - to septic tank,0.148,Statistics Norway - SN14
+Norway,NO,NOR,578,National,3,Flush and pour flush - to pit,0.0,Statistics Norway - SN14
+Norway,NO,NOR,578,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Statistics Norway - SN14
+Norway,NO,NOR,578,National,5,Flush and pour flush - to elsewhere,0.0,Statistics Norway - SN14
+Norway,NO,NOR,578,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Statistics Norway - SN14
+Norway,NO,NOR,578,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Statistics Norway - SN14
+Norway,NO,NOR,578,National,8,Dry latrines - Traditional latrine,0.0,Statistics Norway - SN14
+Norway,NO,NOR,578,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Statistics Norway - SN14
+Norway,NO,NOR,578,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Statistics Norway - SN14
+Norway,NO,NOR,578,National,11,Dry latrines - Bucket latrine,0.0,Statistics Norway - SN14
+Norway,NO,NOR,578,National,12,Dry latrines - Other,0.0,Statistics Norway - SN14
+Norway,NO,NOR,578,National,13,Composting toilets,0.001,Statistics Norway - SN14
+Norway,NO,NOR,578,National,14,Other improved,0.0,Statistics Norway - SN14
+Norway,NO,NOR,578,National,15,"No facility, bush, field",0.0,Statistics Norway - SN14
+Norway,NO,NOR,578,National,16,Other unimproved,0.008,Statistics Norway - SN14
+Norway,NO,NOR,578,National,17,DK/missing information,0.0,Statistics Norway - SN14
+Norway,NO,NOR,578,Urban,1,Flush and pour flush - to piped sewer system,0.0,Eurostat - ES15
+Norway,NO,NOR,578,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat - ES15
+Norway,NO,NOR,578,Urban,3,Flush and pour flush - to pit,0.0,Eurostat - ES15
+Norway,NO,NOR,578,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat - ES15
+Norway,NO,NOR,578,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat - ES15
+Norway,NO,NOR,578,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat - ES15
+Norway,NO,NOR,578,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat - ES15
+Norway,NO,NOR,578,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat - ES15
+Norway,NO,NOR,578,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat - ES15
+Norway,NO,NOR,578,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat - ES15
+Norway,NO,NOR,578,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat - ES15
+Norway,NO,NOR,578,Urban,12,Dry latrines - Other,0.0,Eurostat - ES15
+Norway,NO,NOR,578,Urban,13,Composting toilets,0.0,Eurostat - ES15
+Norway,NO,NOR,578,Urban,14,Other improved,0.0,Eurostat - ES15
+Norway,NO,NOR,578,Urban,15,"No facility, bush, field",0.0,Eurostat - ES15
+Norway,NO,NOR,578,Urban,16,Other unimproved,0.0,Eurostat - ES15
+Norway,NO,NOR,578,Urban,17,DK/missing information,0.0,Eurostat - ES15
+Norway,NO,NOR,578,Rural,1,Flush and pour flush - to piped sewer system,0.0,Eurostat - ES15
+Norway,NO,NOR,578,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat - ES15
+Norway,NO,NOR,578,Rural,3,Flush and pour flush - to pit,0.0,Eurostat - ES15
+Norway,NO,NOR,578,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat - ES15
+Norway,NO,NOR,578,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat - ES15
+Norway,NO,NOR,578,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat - ES15
+Norway,NO,NOR,578,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat - ES15
+Norway,NO,NOR,578,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat - ES15
+Norway,NO,NOR,578,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat - ES15
+Norway,NO,NOR,578,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat - ES15
+Norway,NO,NOR,578,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat - ES15
+Norway,NO,NOR,578,Rural,12,Dry latrines - Other,0.0,Eurostat - ES15
+Norway,NO,NOR,578,Rural,13,Composting toilets,0.0,Eurostat - ES15
+Norway,NO,NOR,578,Rural,14,Other improved,0.0,Eurostat - ES15
+Norway,NO,NOR,578,Rural,15,"No facility, bush, field",0.0,Eurostat - ES15
+Norway,NO,NOR,578,Rural,16,Other unimproved,0.0,Eurostat - ES15
+Norway,NO,NOR,578,Rural,17,DK/missing information,0.0,Eurostat - ES15
+Norway,NO,NOR,578,National,1,Flush and pour flush - to piped sewer system,0.827,Eurostat - ES15
+Norway,NO,NOR,578,National,2,Flush and pour flush - to septic tank,0.149,Eurostat - ES15
+Norway,NO,NOR,578,National,3,Flush and pour flush - to pit,0.0,Eurostat - ES15
+Norway,NO,NOR,578,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat - ES15
+Norway,NO,NOR,578,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat - ES15
+Norway,NO,NOR,578,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat - ES15
+Norway,NO,NOR,578,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat - ES15
+Norway,NO,NOR,578,National,8,Dry latrines - Traditional latrine,0.0,Eurostat - ES15
+Norway,NO,NOR,578,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat - ES15
+Norway,NO,NOR,578,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat - ES15
+Norway,NO,NOR,578,National,11,Dry latrines - Bucket latrine,0.0,Eurostat - ES15
+Norway,NO,NOR,578,National,12,Dry latrines - Other,0.0,Eurostat - ES15
+Norway,NO,NOR,578,National,13,Composting toilets,0.0,Eurostat - ES15
+Norway,NO,NOR,578,National,14,Other improved,0.0,Eurostat - ES15
+Norway,NO,NOR,578,National,15,"No facility, bush, field",0.0,Eurostat - ES15
+Norway,NO,NOR,578,National,16,Other unimproved,0.024,Eurostat - ES15
+Norway,NO,NOR,578,National,17,DK/missing information,0.0,Eurostat - ES15
+Norway,NO,NOR,578,Urban,1,Flush and pour flush - to piped sewer system,0.0,Statistics Norway - SN15
+Norway,NO,NOR,578,Urban,2,Flush and pour flush - to septic tank,0.0,Statistics Norway - SN15
+Norway,NO,NOR,578,Urban,3,Flush and pour flush - to pit,0.0,Statistics Norway - SN15
+Norway,NO,NOR,578,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Statistics Norway - SN15
+Norway,NO,NOR,578,Urban,5,Flush and pour flush - to elsewhere,0.0,Statistics Norway - SN15
+Norway,NO,NOR,578,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Statistics Norway - SN15
+Norway,NO,NOR,578,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Statistics Norway - SN15
+Norway,NO,NOR,578,Urban,8,Dry latrines - Traditional latrine,0.0,Statistics Norway - SN15
+Norway,NO,NOR,578,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Statistics Norway - SN15
+Norway,NO,NOR,578,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Statistics Norway - SN15
+Norway,NO,NOR,578,Urban,11,Dry latrines - Bucket latrine,0.0,Statistics Norway - SN15
+Norway,NO,NOR,578,Urban,12,Dry latrines - Other,0.0,Statistics Norway - SN15
+Norway,NO,NOR,578,Urban,13,Composting toilets,0.0,Statistics Norway - SN15
+Norway,NO,NOR,578,Urban,14,Other improved,0.0,Statistics Norway - SN15
+Norway,NO,NOR,578,Urban,15,"No facility, bush, field",0.0,Statistics Norway - SN15
+Norway,NO,NOR,578,Urban,16,Other unimproved,0.0,Statistics Norway - SN15
+Norway,NO,NOR,578,Urban,17,DK/missing information,0.0,Statistics Norway - SN15
+Norway,NO,NOR,578,Rural,1,Flush and pour flush - to piped sewer system,0.0,Statistics Norway - SN15
+Norway,NO,NOR,578,Rural,2,Flush and pour flush - to septic tank,0.0,Statistics Norway - SN15
+Norway,NO,NOR,578,Rural,3,Flush and pour flush - to pit,0.0,Statistics Norway - SN15
+Norway,NO,NOR,578,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Statistics Norway - SN15
+Norway,NO,NOR,578,Rural,5,Flush and pour flush - to elsewhere,0.0,Statistics Norway - SN15
+Norway,NO,NOR,578,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Statistics Norway - SN15
+Norway,NO,NOR,578,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Statistics Norway - SN15
+Norway,NO,NOR,578,Rural,8,Dry latrines - Traditional latrine,0.0,Statistics Norway - SN15
+Norway,NO,NOR,578,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Statistics Norway - SN15
+Norway,NO,NOR,578,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Statistics Norway - SN15
+Norway,NO,NOR,578,Rural,11,Dry latrines - Bucket latrine,0.0,Statistics Norway - SN15
+Norway,NO,NOR,578,Rural,12,Dry latrines - Other,0.0,Statistics Norway - SN15
+Norway,NO,NOR,578,Rural,13,Composting toilets,0.0,Statistics Norway - SN15
+Norway,NO,NOR,578,Rural,14,Other improved,0.0,Statistics Norway - SN15
+Norway,NO,NOR,578,Rural,15,"No facility, bush, field",0.0,Statistics Norway - SN15
+Norway,NO,NOR,578,Rural,16,Other unimproved,0.0,Statistics Norway - SN15
+Norway,NO,NOR,578,Rural,17,DK/missing information,0.0,Statistics Norway - SN15
+Norway,NO,NOR,578,National,1,Flush and pour flush - to piped sewer system,0.846,Statistics Norway - SN15
+Norway,NO,NOR,578,National,2,Flush and pour flush - to septic tank,0.146,Statistics Norway - SN15
+Norway,NO,NOR,578,National,3,Flush and pour flush - to pit,0.0,Statistics Norway - SN15
+Norway,NO,NOR,578,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Statistics Norway - SN15
+Norway,NO,NOR,578,National,5,Flush and pour flush - to elsewhere,0.0,Statistics Norway - SN15
+Norway,NO,NOR,578,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Statistics Norway - SN15
+Norway,NO,NOR,578,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Statistics Norway - SN15
+Norway,NO,NOR,578,National,8,Dry latrines - Traditional latrine,0.0,Statistics Norway - SN15
+Norway,NO,NOR,578,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Statistics Norway - SN15
+Norway,NO,NOR,578,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Statistics Norway - SN15
+Norway,NO,NOR,578,National,11,Dry latrines - Bucket latrine,0.0,Statistics Norway - SN15
+Norway,NO,NOR,578,National,12,Dry latrines - Other,0.0,Statistics Norway - SN15
+Norway,NO,NOR,578,National,13,Composting toilets,0.001,Statistics Norway - SN15
+Norway,NO,NOR,578,National,14,Other improved,0.0,Statistics Norway - SN15
+Norway,NO,NOR,578,National,15,"No facility, bush, field",0.0,Statistics Norway - SN15
+Norway,NO,NOR,578,National,16,Other unimproved,0.007,Statistics Norway - SN15
+Norway,NO,NOR,578,National,17,DK/missing information,0.0,Statistics Norway - SN15
+Norway,NO,NOR,578,Urban,1,Flush and pour flush - to piped sewer system,0.0,Statistics Norway - SN16
+Norway,NO,NOR,578,Urban,2,Flush and pour flush - to septic tank,0.0,Statistics Norway - SN16
+Norway,NO,NOR,578,Urban,3,Flush and pour flush - to pit,0.0,Statistics Norway - SN16
+Norway,NO,NOR,578,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Statistics Norway - SN16
+Norway,NO,NOR,578,Urban,5,Flush and pour flush - to elsewhere,0.0,Statistics Norway - SN16
+Norway,NO,NOR,578,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Statistics Norway - SN16
+Norway,NO,NOR,578,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Statistics Norway - SN16
+Norway,NO,NOR,578,Urban,8,Dry latrines - Traditional latrine,0.0,Statistics Norway - SN16
+Norway,NO,NOR,578,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Statistics Norway - SN16
+Norway,NO,NOR,578,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Statistics Norway - SN16
+Norway,NO,NOR,578,Urban,11,Dry latrines - Bucket latrine,0.0,Statistics Norway - SN16
+Norway,NO,NOR,578,Urban,12,Dry latrines - Other,0.0,Statistics Norway - SN16
+Norway,NO,NOR,578,Urban,13,Composting toilets,0.0,Statistics Norway - SN16
+Norway,NO,NOR,578,Urban,14,Other improved,0.0,Statistics Norway - SN16
+Norway,NO,NOR,578,Urban,15,"No facility, bush, field",0.0,Statistics Norway - SN16
+Norway,NO,NOR,578,Urban,16,Other unimproved,0.0,Statistics Norway - SN16
+Norway,NO,NOR,578,Urban,17,DK/missing information,0.0,Statistics Norway - SN16
+Norway,NO,NOR,578,Rural,1,Flush and pour flush - to piped sewer system,0.0,Statistics Norway - SN16
+Norway,NO,NOR,578,Rural,2,Flush and pour flush - to septic tank,0.0,Statistics Norway - SN16
+Norway,NO,NOR,578,Rural,3,Flush and pour flush - to pit,0.0,Statistics Norway - SN16
+Norway,NO,NOR,578,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Statistics Norway - SN16
+Norway,NO,NOR,578,Rural,5,Flush and pour flush - to elsewhere,0.0,Statistics Norway - SN16
+Norway,NO,NOR,578,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Statistics Norway - SN16
+Norway,NO,NOR,578,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Statistics Norway - SN16
+Norway,NO,NOR,578,Rural,8,Dry latrines - Traditional latrine,0.0,Statistics Norway - SN16
+Norway,NO,NOR,578,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Statistics Norway - SN16
+Norway,NO,NOR,578,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Statistics Norway - SN16
+Norway,NO,NOR,578,Rural,11,Dry latrines - Bucket latrine,0.0,Statistics Norway - SN16
+Norway,NO,NOR,578,Rural,12,Dry latrines - Other,0.0,Statistics Norway - SN16
+Norway,NO,NOR,578,Rural,13,Composting toilets,0.0,Statistics Norway - SN16
+Norway,NO,NOR,578,Rural,14,Other improved,0.0,Statistics Norway - SN16
+Norway,NO,NOR,578,Rural,15,"No facility, bush, field",0.0,Statistics Norway - SN16
+Norway,NO,NOR,578,Rural,16,Other unimproved,0.0,Statistics Norway - SN16
+Norway,NO,NOR,578,Rural,17,DK/missing information,0.0,Statistics Norway - SN16
+Norway,NO,NOR,578,National,1,Flush and pour flush - to piped sewer system,0.847,Statistics Norway - SN16
+Norway,NO,NOR,578,National,2,Flush and pour flush - to septic tank,0.145,Statistics Norway - SN16
+Norway,NO,NOR,578,National,3,Flush and pour flush - to pit,0.0,Statistics Norway - SN16
+Norway,NO,NOR,578,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Statistics Norway - SN16
+Norway,NO,NOR,578,National,5,Flush and pour flush - to elsewhere,0.0,Statistics Norway - SN16
+Norway,NO,NOR,578,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Statistics Norway - SN16
+Norway,NO,NOR,578,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Statistics Norway - SN16
+Norway,NO,NOR,578,National,8,Dry latrines - Traditional latrine,0.0,Statistics Norway - SN16
+Norway,NO,NOR,578,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Statistics Norway - SN16
+Norway,NO,NOR,578,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Statistics Norway - SN16
+Norway,NO,NOR,578,National,11,Dry latrines - Bucket latrine,0.0,Statistics Norway - SN16
+Norway,NO,NOR,578,National,12,Dry latrines - Other,0.0,Statistics Norway - SN16
+Norway,NO,NOR,578,National,13,Composting toilets,0.001,Statistics Norway - SN16
+Norway,NO,NOR,578,National,14,Other improved,0.0,Statistics Norway - SN16
+Norway,NO,NOR,578,National,15,"No facility, bush, field",0.0,Statistics Norway - SN16
+Norway,NO,NOR,578,National,16,Other unimproved,0.007,Statistics Norway - SN16
+Norway,NO,NOR,578,National,17,DK/missing information,0.0,Statistics Norway - SN16
+Norway,NO,NOR,578,Urban,1,Flush and pour flush - to piped sewer system,0.0,Statistics Norway - SN17
+Norway,NO,NOR,578,Urban,2,Flush and pour flush - to septic tank,0.0,Statistics Norway - SN17
+Norway,NO,NOR,578,Urban,3,Flush and pour flush - to pit,0.0,Statistics Norway - SN17
+Norway,NO,NOR,578,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Statistics Norway - SN17
+Norway,NO,NOR,578,Urban,5,Flush and pour flush - to elsewhere,0.0,Statistics Norway - SN17
+Norway,NO,NOR,578,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Statistics Norway - SN17
+Norway,NO,NOR,578,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Statistics Norway - SN17
+Norway,NO,NOR,578,Urban,8,Dry latrines - Traditional latrine,0.0,Statistics Norway - SN17
+Norway,NO,NOR,578,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Statistics Norway - SN17
+Norway,NO,NOR,578,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Statistics Norway - SN17
+Norway,NO,NOR,578,Urban,11,Dry latrines - Bucket latrine,0.0,Statistics Norway - SN17
+Norway,NO,NOR,578,Urban,12,Dry latrines - Other,0.0,Statistics Norway - SN17
+Norway,NO,NOR,578,Urban,13,Composting toilets,0.0,Statistics Norway - SN17
+Norway,NO,NOR,578,Urban,14,Other improved,0.0,Statistics Norway - SN17
+Norway,NO,NOR,578,Urban,15,"No facility, bush, field",0.0,Statistics Norway - SN17
+Norway,NO,NOR,578,Urban,16,Other unimproved,0.0,Statistics Norway - SN17
+Norway,NO,NOR,578,Urban,17,DK/missing information,0.0,Statistics Norway - SN17
+Norway,NO,NOR,578,Rural,1,Flush and pour flush - to piped sewer system,0.0,Statistics Norway - SN17
+Norway,NO,NOR,578,Rural,2,Flush and pour flush - to septic tank,0.0,Statistics Norway - SN17
+Norway,NO,NOR,578,Rural,3,Flush and pour flush - to pit,0.0,Statistics Norway - SN17
+Norway,NO,NOR,578,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Statistics Norway - SN17
+Norway,NO,NOR,578,Rural,5,Flush and pour flush - to elsewhere,0.0,Statistics Norway - SN17
+Norway,NO,NOR,578,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Statistics Norway - SN17
+Norway,NO,NOR,578,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Statistics Norway - SN17
+Norway,NO,NOR,578,Rural,8,Dry latrines - Traditional latrine,0.0,Statistics Norway - SN17
+Norway,NO,NOR,578,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Statistics Norway - SN17
+Norway,NO,NOR,578,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Statistics Norway - SN17
+Norway,NO,NOR,578,Rural,11,Dry latrines - Bucket latrine,0.0,Statistics Norway - SN17
+Norway,NO,NOR,578,Rural,12,Dry latrines - Other,0.0,Statistics Norway - SN17
+Norway,NO,NOR,578,Rural,13,Composting toilets,0.0,Statistics Norway - SN17
+Norway,NO,NOR,578,Rural,14,Other improved,0.0,Statistics Norway - SN17
+Norway,NO,NOR,578,Rural,15,"No facility, bush, field",0.0,Statistics Norway - SN17
+Norway,NO,NOR,578,Rural,16,Other unimproved,0.0,Statistics Norway - SN17
+Norway,NO,NOR,578,Rural,17,DK/missing information,0.0,Statistics Norway - SN17
+Norway,NO,NOR,578,National,1,Flush and pour flush - to piped sewer system,0.849,Statistics Norway - SN17
+Norway,NO,NOR,578,National,2,Flush and pour flush - to septic tank,0.144,Statistics Norway - SN17
+Norway,NO,NOR,578,National,3,Flush and pour flush - to pit,0.0,Statistics Norway - SN17
+Norway,NO,NOR,578,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Statistics Norway - SN17
+Norway,NO,NOR,578,National,5,Flush and pour flush - to elsewhere,0.0,Statistics Norway - SN17
+Norway,NO,NOR,578,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Statistics Norway - SN17
+Norway,NO,NOR,578,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Statistics Norway - SN17
+Norway,NO,NOR,578,National,8,Dry latrines - Traditional latrine,0.0,Statistics Norway - SN17
+Norway,NO,NOR,578,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Statistics Norway - SN17
+Norway,NO,NOR,578,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Statistics Norway - SN17
+Norway,NO,NOR,578,National,11,Dry latrines - Bucket latrine,0.0,Statistics Norway - SN17
+Norway,NO,NOR,578,National,12,Dry latrines - Other,0.0,Statistics Norway - SN17
+Norway,NO,NOR,578,National,13,Composting toilets,0.001,Statistics Norway - SN17
+Norway,NO,NOR,578,National,14,Other improved,0.0,Statistics Norway - SN17
+Norway,NO,NOR,578,National,15,"No facility, bush, field",0.0,Statistics Norway - SN17
+Norway,NO,NOR,578,National,16,Other unimproved,0.006,Statistics Norway - SN17
+Norway,NO,NOR,578,National,17,DK/missing information,0.0,Statistics Norway - SN17
+Norway,NO,NOR,578,Urban,1,Flush and pour flush - to piped sewer system,1.0,Eurostat SILC database - EUSILC13
+Norway,NO,NOR,578,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC13
+Norway,NO,NOR,578,Urban,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC13
+Norway,NO,NOR,578,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC13
+Norway,NO,NOR,578,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC13
+Norway,NO,NOR,578,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC13
+Norway,NO,NOR,578,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC13
+Norway,NO,NOR,578,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC13
+Norway,NO,NOR,578,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC13
+Norway,NO,NOR,578,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC13
+Norway,NO,NOR,578,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC13
+Norway,NO,NOR,578,Urban,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC13
+Norway,NO,NOR,578,Urban,13,Composting toilets,0.0,Eurostat SILC database - EUSILC13
+Norway,NO,NOR,578,Urban,14,Other improved,0.0,Eurostat SILC database - EUSILC13
+Norway,NO,NOR,578,Urban,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC13
+Norway,NO,NOR,578,Urban,16,Other unimproved,0.0,Eurostat SILC database - EUSILC13
+Norway,NO,NOR,578,Urban,17,DK/missing information,0.0,Eurostat SILC database - EUSILC13
+Norway,NO,NOR,578,Rural,1,Flush and pour flush - to piped sewer system,1.0,Eurostat SILC database - EUSILC13
+Norway,NO,NOR,578,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC13
+Norway,NO,NOR,578,Rural,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC13
+Norway,NO,NOR,578,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC13
+Norway,NO,NOR,578,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC13
+Norway,NO,NOR,578,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC13
+Norway,NO,NOR,578,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC13
+Norway,NO,NOR,578,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC13
+Norway,NO,NOR,578,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC13
+Norway,NO,NOR,578,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC13
+Norway,NO,NOR,578,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC13
+Norway,NO,NOR,578,Rural,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC13
+Norway,NO,NOR,578,Rural,13,Composting toilets,0.0,Eurostat SILC database - EUSILC13
+Norway,NO,NOR,578,Rural,14,Other improved,0.0,Eurostat SILC database - EUSILC13
+Norway,NO,NOR,578,Rural,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC13
+Norway,NO,NOR,578,Rural,16,Other unimproved,0.0,Eurostat SILC database - EUSILC13
+Norway,NO,NOR,578,Rural,17,DK/missing information,0.0,Eurostat SILC database - EUSILC13
+Norway,NO,NOR,578,National,1,Flush and pour flush - to piped sewer system,1.0,Eurostat SILC database - EUSILC13
+Norway,NO,NOR,578,National,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC13
+Norway,NO,NOR,578,National,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC13
+Norway,NO,NOR,578,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC13
+Norway,NO,NOR,578,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC13
+Norway,NO,NOR,578,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC13
+Norway,NO,NOR,578,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC13
+Norway,NO,NOR,578,National,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC13
+Norway,NO,NOR,578,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC13
+Norway,NO,NOR,578,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC13
+Norway,NO,NOR,578,National,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC13
+Norway,NO,NOR,578,National,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC13
+Norway,NO,NOR,578,National,13,Composting toilets,0.0,Eurostat SILC database - EUSILC13
+Norway,NO,NOR,578,National,14,Other improved,0.0,Eurostat SILC database - EUSILC13
+Norway,NO,NOR,578,National,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC13
+Norway,NO,NOR,578,National,16,Other unimproved,0.0,Eurostat SILC database - EUSILC13
+Norway,NO,NOR,578,National,17,DK/missing information,0.0,Eurostat SILC database - EUSILC13
+Norway,NO,NOR,578,Urban,1,Flush and pour flush - to piped sewer system,1.0,Eurostat SILC database - EUSILC14
+Norway,NO,NOR,578,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC14
+Norway,NO,NOR,578,Urban,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC14
+Norway,NO,NOR,578,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC14
+Norway,NO,NOR,578,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC14
+Norway,NO,NOR,578,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC14
+Norway,NO,NOR,578,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC14
+Norway,NO,NOR,578,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC14
+Norway,NO,NOR,578,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC14
+Norway,NO,NOR,578,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC14
+Norway,NO,NOR,578,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC14
+Norway,NO,NOR,578,Urban,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC14
+Norway,NO,NOR,578,Urban,13,Composting toilets,0.0,Eurostat SILC database - EUSILC14
+Norway,NO,NOR,578,Urban,14,Other improved,0.0,Eurostat SILC database - EUSILC14
+Norway,NO,NOR,578,Urban,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC14
+Norway,NO,NOR,578,Urban,16,Other unimproved,0.0,Eurostat SILC database - EUSILC14
+Norway,NO,NOR,578,Urban,17,DK/missing information,0.0,Eurostat SILC database - EUSILC14
+Norway,NO,NOR,578,Rural,1,Flush and pour flush - to piped sewer system,1.0,Eurostat SILC database - EUSILC14
+Norway,NO,NOR,578,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC14
+Norway,NO,NOR,578,Rural,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC14
+Norway,NO,NOR,578,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC14
+Norway,NO,NOR,578,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC14
+Norway,NO,NOR,578,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC14
+Norway,NO,NOR,578,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC14
+Norway,NO,NOR,578,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC14
+Norway,NO,NOR,578,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC14
+Norway,NO,NOR,578,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC14
+Norway,NO,NOR,578,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC14
+Norway,NO,NOR,578,Rural,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC14
+Norway,NO,NOR,578,Rural,13,Composting toilets,0.0,Eurostat SILC database - EUSILC14
+Norway,NO,NOR,578,Rural,14,Other improved,0.0,Eurostat SILC database - EUSILC14
+Norway,NO,NOR,578,Rural,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC14
+Norway,NO,NOR,578,Rural,16,Other unimproved,0.0,Eurostat SILC database - EUSILC14
+Norway,NO,NOR,578,Rural,17,DK/missing information,0.0,Eurostat SILC database - EUSILC14
+Norway,NO,NOR,578,National,1,Flush and pour flush - to piped sewer system,1.0,Eurostat SILC database - EUSILC14
+Norway,NO,NOR,578,National,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC14
+Norway,NO,NOR,578,National,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC14
+Norway,NO,NOR,578,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC14
+Norway,NO,NOR,578,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC14
+Norway,NO,NOR,578,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC14
+Norway,NO,NOR,578,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC14
+Norway,NO,NOR,578,National,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC14
+Norway,NO,NOR,578,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC14
+Norway,NO,NOR,578,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC14
+Norway,NO,NOR,578,National,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC14
+Norway,NO,NOR,578,National,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC14
+Norway,NO,NOR,578,National,13,Composting toilets,0.0,Eurostat SILC database - EUSILC14
+Norway,NO,NOR,578,National,14,Other improved,0.0,Eurostat SILC database - EUSILC14
+Norway,NO,NOR,578,National,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC14
+Norway,NO,NOR,578,National,16,Other unimproved,0.0,Eurostat SILC database - EUSILC14
+Norway,NO,NOR,578,National,17,DK/missing information,0.0,Eurostat SILC database - EUSILC14
+Norway,NO,NOR,578,Urban,1,Flush and pour flush - to piped sewer system,1.0,Eurostat SILC database - EUSILC15
+Norway,NO,NOR,578,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC15
+Norway,NO,NOR,578,Urban,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC15
+Norway,NO,NOR,578,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC15
+Norway,NO,NOR,578,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC15
+Norway,NO,NOR,578,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC15
+Norway,NO,NOR,578,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC15
+Norway,NO,NOR,578,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC15
+Norway,NO,NOR,578,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC15
+Norway,NO,NOR,578,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC15
+Norway,NO,NOR,578,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC15
+Norway,NO,NOR,578,Urban,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC15
+Norway,NO,NOR,578,Urban,13,Composting toilets,0.0,Eurostat SILC database - EUSILC15
+Norway,NO,NOR,578,Urban,14,Other improved,0.0,Eurostat SILC database - EUSILC15
+Norway,NO,NOR,578,Urban,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC15
+Norway,NO,NOR,578,Urban,16,Other unimproved,0.0,Eurostat SILC database - EUSILC15
+Norway,NO,NOR,578,Urban,17,DK/missing information,0.0,Eurostat SILC database - EUSILC15
+Norway,NO,NOR,578,Rural,1,Flush and pour flush - to piped sewer system,1.0,Eurostat SILC database - EUSILC15
+Norway,NO,NOR,578,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC15
+Norway,NO,NOR,578,Rural,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC15
+Norway,NO,NOR,578,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC15
+Norway,NO,NOR,578,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC15
+Norway,NO,NOR,578,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC15
+Norway,NO,NOR,578,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC15
+Norway,NO,NOR,578,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC15
+Norway,NO,NOR,578,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC15
+Norway,NO,NOR,578,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC15
+Norway,NO,NOR,578,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC15
+Norway,NO,NOR,578,Rural,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC15
+Norway,NO,NOR,578,Rural,13,Composting toilets,0.0,Eurostat SILC database - EUSILC15
+Norway,NO,NOR,578,Rural,14,Other improved,0.0,Eurostat SILC database - EUSILC15
+Norway,NO,NOR,578,Rural,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC15
+Norway,NO,NOR,578,Rural,16,Other unimproved,0.0,Eurostat SILC database - EUSILC15
+Norway,NO,NOR,578,Rural,17,DK/missing information,0.0,Eurostat SILC database - EUSILC15
+Norway,NO,NOR,578,National,1,Flush and pour flush - to piped sewer system,1.0,Eurostat SILC database - EUSILC15
+Norway,NO,NOR,578,National,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC15
+Norway,NO,NOR,578,National,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC15
+Norway,NO,NOR,578,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC15
+Norway,NO,NOR,578,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC15
+Norway,NO,NOR,578,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC15
+Norway,NO,NOR,578,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC15
+Norway,NO,NOR,578,National,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC15
+Norway,NO,NOR,578,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC15
+Norway,NO,NOR,578,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC15
+Norway,NO,NOR,578,National,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC15
+Norway,NO,NOR,578,National,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC15
+Norway,NO,NOR,578,National,13,Composting toilets,0.0,Eurostat SILC database - EUSILC15
+Norway,NO,NOR,578,National,14,Other improved,0.0,Eurostat SILC database - EUSILC15
+Norway,NO,NOR,578,National,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC15
+Norway,NO,NOR,578,National,16,Other unimproved,0.0,Eurostat SILC database - EUSILC15
+Norway,NO,NOR,578,National,17,DK/missing information,0.0,Eurostat SILC database - EUSILC15

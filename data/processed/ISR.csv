@@ -1,0 +1,970 @@
+country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+Israel,IL,ISR,376,Urban,1,Flush and pour flush - to piped sewer system,0.0,OECD - OECD00
+Israel,IL,ISR,376,Urban,2,Flush and pour flush - to septic tank,0.0,OECD - OECD00
+Israel,IL,ISR,376,Urban,3,Flush and pour flush - to pit,0.0,OECD - OECD00
+Israel,IL,ISR,376,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD00
+Israel,IL,ISR,376,Urban,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD00
+Israel,IL,ISR,376,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD00
+Israel,IL,ISR,376,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD00
+Israel,IL,ISR,376,Urban,8,Dry latrines - Traditional latrine,0.0,OECD - OECD00
+Israel,IL,ISR,376,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD00
+Israel,IL,ISR,376,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD00
+Israel,IL,ISR,376,Urban,11,Dry latrines - Bucket latrine,0.0,OECD - OECD00
+Israel,IL,ISR,376,Urban,12,Dry latrines - Other,0.0,OECD - OECD00
+Israel,IL,ISR,376,Urban,13,Composting toilets,0.0,OECD - OECD00
+Israel,IL,ISR,376,Urban,14,Other improved,0.0,OECD - OECD00
+Israel,IL,ISR,376,Urban,15,"No facility, bush, field",0.0,OECD - OECD00
+Israel,IL,ISR,376,Urban,16,Other unimproved,0.0,OECD - OECD00
+Israel,IL,ISR,376,Urban,17,DK/missing information,0.0,OECD - OECD00
+Israel,IL,ISR,376,Rural,1,Flush and pour flush - to piped sewer system,0.0,OECD - OECD00
+Israel,IL,ISR,376,Rural,2,Flush and pour flush - to septic tank,0.0,OECD - OECD00
+Israel,IL,ISR,376,Rural,3,Flush and pour flush - to pit,0.0,OECD - OECD00
+Israel,IL,ISR,376,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD00
+Israel,IL,ISR,376,Rural,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD00
+Israel,IL,ISR,376,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD00
+Israel,IL,ISR,376,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD00
+Israel,IL,ISR,376,Rural,8,Dry latrines - Traditional latrine,0.0,OECD - OECD00
+Israel,IL,ISR,376,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD00
+Israel,IL,ISR,376,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD00
+Israel,IL,ISR,376,Rural,11,Dry latrines - Bucket latrine,0.0,OECD - OECD00
+Israel,IL,ISR,376,Rural,12,Dry latrines - Other,0.0,OECD - OECD00
+Israel,IL,ISR,376,Rural,13,Composting toilets,0.0,OECD - OECD00
+Israel,IL,ISR,376,Rural,14,Other improved,0.0,OECD - OECD00
+Israel,IL,ISR,376,Rural,15,"No facility, bush, field",0.0,OECD - OECD00
+Israel,IL,ISR,376,Rural,16,Other unimproved,0.0,OECD - OECD00
+Israel,IL,ISR,376,Rural,17,DK/missing information,0.0,OECD - OECD00
+Israel,IL,ISR,376,National,1,Flush and pour flush - to piped sewer system,0.943,OECD - OECD00
+Israel,IL,ISR,376,National,2,Flush and pour flush - to septic tank,0.048,OECD - OECD00
+Israel,IL,ISR,376,National,3,Flush and pour flush - to pit,0.0,OECD - OECD00
+Israel,IL,ISR,376,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD00
+Israel,IL,ISR,376,National,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD00
+Israel,IL,ISR,376,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD00
+Israel,IL,ISR,376,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD00
+Israel,IL,ISR,376,National,8,Dry latrines - Traditional latrine,0.0,OECD - OECD00
+Israel,IL,ISR,376,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD00
+Israel,IL,ISR,376,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD00
+Israel,IL,ISR,376,National,11,Dry latrines - Bucket latrine,0.0,OECD - OECD00
+Israel,IL,ISR,376,National,12,Dry latrines - Other,0.0,OECD - OECD00
+Israel,IL,ISR,376,National,13,Composting toilets,0.0,OECD - OECD00
+Israel,IL,ISR,376,National,14,Other improved,0.0,OECD - OECD00
+Israel,IL,ISR,376,National,15,"No facility, bush, field",0.0,OECD - OECD00
+Israel,IL,ISR,376,National,16,Other unimproved,0.0,OECD - OECD00
+Israel,IL,ISR,376,National,17,DK/missing information,0.0,OECD - OECD00
+Israel,IL,ISR,376,Urban,1,Flush and pour flush - to piped sewer system,0.0,OECD - OECD01
+Israel,IL,ISR,376,Urban,2,Flush and pour flush - to septic tank,0.0,OECD - OECD01
+Israel,IL,ISR,376,Urban,3,Flush and pour flush - to pit,0.0,OECD - OECD01
+Israel,IL,ISR,376,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD01
+Israel,IL,ISR,376,Urban,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD01
+Israel,IL,ISR,376,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD01
+Israel,IL,ISR,376,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD01
+Israel,IL,ISR,376,Urban,8,Dry latrines - Traditional latrine,0.0,OECD - OECD01
+Israel,IL,ISR,376,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD01
+Israel,IL,ISR,376,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD01
+Israel,IL,ISR,376,Urban,11,Dry latrines - Bucket latrine,0.0,OECD - OECD01
+Israel,IL,ISR,376,Urban,12,Dry latrines - Other,0.0,OECD - OECD01
+Israel,IL,ISR,376,Urban,13,Composting toilets,0.0,OECD - OECD01
+Israel,IL,ISR,376,Urban,14,Other improved,0.0,OECD - OECD01
+Israel,IL,ISR,376,Urban,15,"No facility, bush, field",0.0,OECD - OECD01
+Israel,IL,ISR,376,Urban,16,Other unimproved,0.0,OECD - OECD01
+Israel,IL,ISR,376,Urban,17,DK/missing information,0.0,OECD - OECD01
+Israel,IL,ISR,376,Rural,1,Flush and pour flush - to piped sewer system,0.0,OECD - OECD01
+Israel,IL,ISR,376,Rural,2,Flush and pour flush - to septic tank,0.0,OECD - OECD01
+Israel,IL,ISR,376,Rural,3,Flush and pour flush - to pit,0.0,OECD - OECD01
+Israel,IL,ISR,376,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD01
+Israel,IL,ISR,376,Rural,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD01
+Israel,IL,ISR,376,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD01
+Israel,IL,ISR,376,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD01
+Israel,IL,ISR,376,Rural,8,Dry latrines - Traditional latrine,0.0,OECD - OECD01
+Israel,IL,ISR,376,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD01
+Israel,IL,ISR,376,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD01
+Israel,IL,ISR,376,Rural,11,Dry latrines - Bucket latrine,0.0,OECD - OECD01
+Israel,IL,ISR,376,Rural,12,Dry latrines - Other,0.0,OECD - OECD01
+Israel,IL,ISR,376,Rural,13,Composting toilets,0.0,OECD - OECD01
+Israel,IL,ISR,376,Rural,14,Other improved,0.0,OECD - OECD01
+Israel,IL,ISR,376,Rural,15,"No facility, bush, field",0.0,OECD - OECD01
+Israel,IL,ISR,376,Rural,16,Other unimproved,0.0,OECD - OECD01
+Israel,IL,ISR,376,Rural,17,DK/missing information,0.0,OECD - OECD01
+Israel,IL,ISR,376,National,1,Flush and pour flush - to piped sewer system,0.95,OECD - OECD01
+Israel,IL,ISR,376,National,2,Flush and pour flush - to septic tank,0.041,OECD - OECD01
+Israel,IL,ISR,376,National,3,Flush and pour flush - to pit,0.0,OECD - OECD01
+Israel,IL,ISR,376,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD01
+Israel,IL,ISR,376,National,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD01
+Israel,IL,ISR,376,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD01
+Israel,IL,ISR,376,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD01
+Israel,IL,ISR,376,National,8,Dry latrines - Traditional latrine,0.0,OECD - OECD01
+Israel,IL,ISR,376,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD01
+Israel,IL,ISR,376,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD01
+Israel,IL,ISR,376,National,11,Dry latrines - Bucket latrine,0.0,OECD - OECD01
+Israel,IL,ISR,376,National,12,Dry latrines - Other,0.0,OECD - OECD01
+Israel,IL,ISR,376,National,13,Composting toilets,0.0,OECD - OECD01
+Israel,IL,ISR,376,National,14,Other improved,0.0,OECD - OECD01
+Israel,IL,ISR,376,National,15,"No facility, bush, field",0.0,OECD - OECD01
+Israel,IL,ISR,376,National,16,Other unimproved,0.0,OECD - OECD01
+Israel,IL,ISR,376,National,17,DK/missing information,0.0,OECD - OECD01
+Israel,IL,ISR,376,Urban,1,Flush and pour flush - to piped sewer system,0.0,OECD - OECD02
+Israel,IL,ISR,376,Urban,2,Flush and pour flush - to septic tank,0.0,OECD - OECD02
+Israel,IL,ISR,376,Urban,3,Flush and pour flush - to pit,0.0,OECD - OECD02
+Israel,IL,ISR,376,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD02
+Israel,IL,ISR,376,Urban,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD02
+Israel,IL,ISR,376,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD02
+Israel,IL,ISR,376,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD02
+Israel,IL,ISR,376,Urban,8,Dry latrines - Traditional latrine,0.0,OECD - OECD02
+Israel,IL,ISR,376,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD02
+Israel,IL,ISR,376,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD02
+Israel,IL,ISR,376,Urban,11,Dry latrines - Bucket latrine,0.0,OECD - OECD02
+Israel,IL,ISR,376,Urban,12,Dry latrines - Other,0.0,OECD - OECD02
+Israel,IL,ISR,376,Urban,13,Composting toilets,0.0,OECD - OECD02
+Israel,IL,ISR,376,Urban,14,Other improved,0.0,OECD - OECD02
+Israel,IL,ISR,376,Urban,15,"No facility, bush, field",0.0,OECD - OECD02
+Israel,IL,ISR,376,Urban,16,Other unimproved,0.0,OECD - OECD02
+Israel,IL,ISR,376,Urban,17,DK/missing information,0.0,OECD - OECD02
+Israel,IL,ISR,376,Rural,1,Flush and pour flush - to piped sewer system,0.0,OECD - OECD02
+Israel,IL,ISR,376,Rural,2,Flush and pour flush - to septic tank,0.0,OECD - OECD02
+Israel,IL,ISR,376,Rural,3,Flush and pour flush - to pit,0.0,OECD - OECD02
+Israel,IL,ISR,376,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD02
+Israel,IL,ISR,376,Rural,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD02
+Israel,IL,ISR,376,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD02
+Israel,IL,ISR,376,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD02
+Israel,IL,ISR,376,Rural,8,Dry latrines - Traditional latrine,0.0,OECD - OECD02
+Israel,IL,ISR,376,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD02
+Israel,IL,ISR,376,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD02
+Israel,IL,ISR,376,Rural,11,Dry latrines - Bucket latrine,0.0,OECD - OECD02
+Israel,IL,ISR,376,Rural,12,Dry latrines - Other,0.0,OECD - OECD02
+Israel,IL,ISR,376,Rural,13,Composting toilets,0.0,OECD - OECD02
+Israel,IL,ISR,376,Rural,14,Other improved,0.0,OECD - OECD02
+Israel,IL,ISR,376,Rural,15,"No facility, bush, field",0.0,OECD - OECD02
+Israel,IL,ISR,376,Rural,16,Other unimproved,0.0,OECD - OECD02
+Israel,IL,ISR,376,Rural,17,DK/missing information,0.0,OECD - OECD02
+Israel,IL,ISR,376,National,1,Flush and pour flush - to piped sewer system,0.954,OECD - OECD02
+Israel,IL,ISR,376,National,2,Flush and pour flush - to septic tank,0.037,OECD - OECD02
+Israel,IL,ISR,376,National,3,Flush and pour flush - to pit,0.0,OECD - OECD02
+Israel,IL,ISR,376,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD02
+Israel,IL,ISR,376,National,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD02
+Israel,IL,ISR,376,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD02
+Israel,IL,ISR,376,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD02
+Israel,IL,ISR,376,National,8,Dry latrines - Traditional latrine,0.0,OECD - OECD02
+Israel,IL,ISR,376,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD02
+Israel,IL,ISR,376,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD02
+Israel,IL,ISR,376,National,11,Dry latrines - Bucket latrine,0.0,OECD - OECD02
+Israel,IL,ISR,376,National,12,Dry latrines - Other,0.0,OECD - OECD02
+Israel,IL,ISR,376,National,13,Composting toilets,0.0,OECD - OECD02
+Israel,IL,ISR,376,National,14,Other improved,0.0,OECD - OECD02
+Israel,IL,ISR,376,National,15,"No facility, bush, field",0.0,OECD - OECD02
+Israel,IL,ISR,376,National,16,Other unimproved,0.0,OECD - OECD02
+Israel,IL,ISR,376,National,17,DK/missing information,0.0,OECD - OECD02
+Israel,IL,ISR,376,Urban,1,Flush and pour flush - to piped sewer system,0.0,OECD - OECD03
+Israel,IL,ISR,376,Urban,2,Flush and pour flush - to septic tank,0.0,OECD - OECD03
+Israel,IL,ISR,376,Urban,3,Flush and pour flush - to pit,0.0,OECD - OECD03
+Israel,IL,ISR,376,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD03
+Israel,IL,ISR,376,Urban,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD03
+Israel,IL,ISR,376,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD03
+Israel,IL,ISR,376,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD03
+Israel,IL,ISR,376,Urban,8,Dry latrines - Traditional latrine,0.0,OECD - OECD03
+Israel,IL,ISR,376,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD03
+Israel,IL,ISR,376,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD03
+Israel,IL,ISR,376,Urban,11,Dry latrines - Bucket latrine,0.0,OECD - OECD03
+Israel,IL,ISR,376,Urban,12,Dry latrines - Other,0.0,OECD - OECD03
+Israel,IL,ISR,376,Urban,13,Composting toilets,0.0,OECD - OECD03
+Israel,IL,ISR,376,Urban,14,Other improved,0.0,OECD - OECD03
+Israel,IL,ISR,376,Urban,15,"No facility, bush, field",0.0,OECD - OECD03
+Israel,IL,ISR,376,Urban,16,Other unimproved,0.0,OECD - OECD03
+Israel,IL,ISR,376,Urban,17,DK/missing information,0.0,OECD - OECD03
+Israel,IL,ISR,376,Rural,1,Flush and pour flush - to piped sewer system,0.0,OECD - OECD03
+Israel,IL,ISR,376,Rural,2,Flush and pour flush - to septic tank,0.0,OECD - OECD03
+Israel,IL,ISR,376,Rural,3,Flush and pour flush - to pit,0.0,OECD - OECD03
+Israel,IL,ISR,376,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD03
+Israel,IL,ISR,376,Rural,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD03
+Israel,IL,ISR,376,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD03
+Israel,IL,ISR,376,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD03
+Israel,IL,ISR,376,Rural,8,Dry latrines - Traditional latrine,0.0,OECD - OECD03
+Israel,IL,ISR,376,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD03
+Israel,IL,ISR,376,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD03
+Israel,IL,ISR,376,Rural,11,Dry latrines - Bucket latrine,0.0,OECD - OECD03
+Israel,IL,ISR,376,Rural,12,Dry latrines - Other,0.0,OECD - OECD03
+Israel,IL,ISR,376,Rural,13,Composting toilets,0.0,OECD - OECD03
+Israel,IL,ISR,376,Rural,14,Other improved,0.0,OECD - OECD03
+Israel,IL,ISR,376,Rural,15,"No facility, bush, field",0.0,OECD - OECD03
+Israel,IL,ISR,376,Rural,16,Other unimproved,0.0,OECD - OECD03
+Israel,IL,ISR,376,Rural,17,DK/missing information,0.0,OECD - OECD03
+Israel,IL,ISR,376,National,1,Flush and pour flush - to piped sewer system,0.96,OECD - OECD03
+Israel,IL,ISR,376,National,2,Flush and pour flush - to septic tank,0.031,OECD - OECD03
+Israel,IL,ISR,376,National,3,Flush and pour flush - to pit,0.0,OECD - OECD03
+Israel,IL,ISR,376,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD03
+Israel,IL,ISR,376,National,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD03
+Israel,IL,ISR,376,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD03
+Israel,IL,ISR,376,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD03
+Israel,IL,ISR,376,National,8,Dry latrines - Traditional latrine,0.0,OECD - OECD03
+Israel,IL,ISR,376,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD03
+Israel,IL,ISR,376,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD03
+Israel,IL,ISR,376,National,11,Dry latrines - Bucket latrine,0.0,OECD - OECD03
+Israel,IL,ISR,376,National,12,Dry latrines - Other,0.0,OECD - OECD03
+Israel,IL,ISR,376,National,13,Composting toilets,0.0,OECD - OECD03
+Israel,IL,ISR,376,National,14,Other improved,0.0,OECD - OECD03
+Israel,IL,ISR,376,National,15,"No facility, bush, field",0.0,OECD - OECD03
+Israel,IL,ISR,376,National,16,Other unimproved,0.0,OECD - OECD03
+Israel,IL,ISR,376,National,17,DK/missing information,0.0,OECD - OECD03
+Israel,IL,ISR,376,Urban,1,Flush and pour flush - to piped sewer system,0.0,OECD - OECD04
+Israel,IL,ISR,376,Urban,2,Flush and pour flush - to septic tank,0.0,OECD - OECD04
+Israel,IL,ISR,376,Urban,3,Flush and pour flush - to pit,0.0,OECD - OECD04
+Israel,IL,ISR,376,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD04
+Israel,IL,ISR,376,Urban,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD04
+Israel,IL,ISR,376,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD04
+Israel,IL,ISR,376,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD04
+Israel,IL,ISR,376,Urban,8,Dry latrines - Traditional latrine,0.0,OECD - OECD04
+Israel,IL,ISR,376,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD04
+Israel,IL,ISR,376,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD04
+Israel,IL,ISR,376,Urban,11,Dry latrines - Bucket latrine,0.0,OECD - OECD04
+Israel,IL,ISR,376,Urban,12,Dry latrines - Other,0.0,OECD - OECD04
+Israel,IL,ISR,376,Urban,13,Composting toilets,0.0,OECD - OECD04
+Israel,IL,ISR,376,Urban,14,Other improved,0.0,OECD - OECD04
+Israel,IL,ISR,376,Urban,15,"No facility, bush, field",0.0,OECD - OECD04
+Israel,IL,ISR,376,Urban,16,Other unimproved,0.0,OECD - OECD04
+Israel,IL,ISR,376,Urban,17,DK/missing information,0.0,OECD - OECD04
+Israel,IL,ISR,376,Rural,1,Flush and pour flush - to piped sewer system,0.0,OECD - OECD04
+Israel,IL,ISR,376,Rural,2,Flush and pour flush - to septic tank,0.0,OECD - OECD04
+Israel,IL,ISR,376,Rural,3,Flush and pour flush - to pit,0.0,OECD - OECD04
+Israel,IL,ISR,376,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD04
+Israel,IL,ISR,376,Rural,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD04
+Israel,IL,ISR,376,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD04
+Israel,IL,ISR,376,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD04
+Israel,IL,ISR,376,Rural,8,Dry latrines - Traditional latrine,0.0,OECD - OECD04
+Israel,IL,ISR,376,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD04
+Israel,IL,ISR,376,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD04
+Israel,IL,ISR,376,Rural,11,Dry latrines - Bucket latrine,0.0,OECD - OECD04
+Israel,IL,ISR,376,Rural,12,Dry latrines - Other,0.0,OECD - OECD04
+Israel,IL,ISR,376,Rural,13,Composting toilets,0.0,OECD - OECD04
+Israel,IL,ISR,376,Rural,14,Other improved,0.0,OECD - OECD04
+Israel,IL,ISR,376,Rural,15,"No facility, bush, field",0.0,OECD - OECD04
+Israel,IL,ISR,376,Rural,16,Other unimproved,0.0,OECD - OECD04
+Israel,IL,ISR,376,Rural,17,DK/missing information,0.0,OECD - OECD04
+Israel,IL,ISR,376,National,1,Flush and pour flush - to piped sewer system,0.965,OECD - OECD04
+Israel,IL,ISR,376,National,2,Flush and pour flush - to septic tank,0.026,OECD - OECD04
+Israel,IL,ISR,376,National,3,Flush and pour flush - to pit,0.0,OECD - OECD04
+Israel,IL,ISR,376,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD04
+Israel,IL,ISR,376,National,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD04
+Israel,IL,ISR,376,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD04
+Israel,IL,ISR,376,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD04
+Israel,IL,ISR,376,National,8,Dry latrines - Traditional latrine,0.0,OECD - OECD04
+Israel,IL,ISR,376,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD04
+Israel,IL,ISR,376,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD04
+Israel,IL,ISR,376,National,11,Dry latrines - Bucket latrine,0.0,OECD - OECD04
+Israel,IL,ISR,376,National,12,Dry latrines - Other,0.0,OECD - OECD04
+Israel,IL,ISR,376,National,13,Composting toilets,0.0,OECD - OECD04
+Israel,IL,ISR,376,National,14,Other improved,0.0,OECD - OECD04
+Israel,IL,ISR,376,National,15,"No facility, bush, field",0.0,OECD - OECD04
+Israel,IL,ISR,376,National,16,Other unimproved,0.0,OECD - OECD04
+Israel,IL,ISR,376,National,17,DK/missing information,0.0,OECD - OECD04
+Israel,IL,ISR,376,Urban,1,Flush and pour flush - to piped sewer system,0.0,OECD - OECD05
+Israel,IL,ISR,376,Urban,2,Flush and pour flush - to septic tank,0.0,OECD - OECD05
+Israel,IL,ISR,376,Urban,3,Flush and pour flush - to pit,0.0,OECD - OECD05
+Israel,IL,ISR,376,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD05
+Israel,IL,ISR,376,Urban,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD05
+Israel,IL,ISR,376,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD05
+Israel,IL,ISR,376,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD05
+Israel,IL,ISR,376,Urban,8,Dry latrines - Traditional latrine,0.0,OECD - OECD05
+Israel,IL,ISR,376,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD05
+Israel,IL,ISR,376,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD05
+Israel,IL,ISR,376,Urban,11,Dry latrines - Bucket latrine,0.0,OECD - OECD05
+Israel,IL,ISR,376,Urban,12,Dry latrines - Other,0.0,OECD - OECD05
+Israel,IL,ISR,376,Urban,13,Composting toilets,0.0,OECD - OECD05
+Israel,IL,ISR,376,Urban,14,Other improved,0.0,OECD - OECD05
+Israel,IL,ISR,376,Urban,15,"No facility, bush, field",0.0,OECD - OECD05
+Israel,IL,ISR,376,Urban,16,Other unimproved,0.0,OECD - OECD05
+Israel,IL,ISR,376,Urban,17,DK/missing information,0.0,OECD - OECD05
+Israel,IL,ISR,376,Rural,1,Flush and pour flush - to piped sewer system,0.0,OECD - OECD05
+Israel,IL,ISR,376,Rural,2,Flush and pour flush - to septic tank,0.0,OECD - OECD05
+Israel,IL,ISR,376,Rural,3,Flush and pour flush - to pit,0.0,OECD - OECD05
+Israel,IL,ISR,376,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD05
+Israel,IL,ISR,376,Rural,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD05
+Israel,IL,ISR,376,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD05
+Israel,IL,ISR,376,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD05
+Israel,IL,ISR,376,Rural,8,Dry latrines - Traditional latrine,0.0,OECD - OECD05
+Israel,IL,ISR,376,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD05
+Israel,IL,ISR,376,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD05
+Israel,IL,ISR,376,Rural,11,Dry latrines - Bucket latrine,0.0,OECD - OECD05
+Israel,IL,ISR,376,Rural,12,Dry latrines - Other,0.0,OECD - OECD05
+Israel,IL,ISR,376,Rural,13,Composting toilets,0.0,OECD - OECD05
+Israel,IL,ISR,376,Rural,14,Other improved,0.0,OECD - OECD05
+Israel,IL,ISR,376,Rural,15,"No facility, bush, field",0.0,OECD - OECD05
+Israel,IL,ISR,376,Rural,16,Other unimproved,0.0,OECD - OECD05
+Israel,IL,ISR,376,Rural,17,DK/missing information,0.0,OECD - OECD05
+Israel,IL,ISR,376,National,1,Flush and pour flush - to piped sewer system,0.97,OECD - OECD05
+Israel,IL,ISR,376,National,2,Flush and pour flush - to septic tank,0.021,OECD - OECD05
+Israel,IL,ISR,376,National,3,Flush and pour flush - to pit,0.0,OECD - OECD05
+Israel,IL,ISR,376,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD05
+Israel,IL,ISR,376,National,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD05
+Israel,IL,ISR,376,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD05
+Israel,IL,ISR,376,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD05
+Israel,IL,ISR,376,National,8,Dry latrines - Traditional latrine,0.0,OECD - OECD05
+Israel,IL,ISR,376,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD05
+Israel,IL,ISR,376,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD05
+Israel,IL,ISR,376,National,11,Dry latrines - Bucket latrine,0.0,OECD - OECD05
+Israel,IL,ISR,376,National,12,Dry latrines - Other,0.0,OECD - OECD05
+Israel,IL,ISR,376,National,13,Composting toilets,0.0,OECD - OECD05
+Israel,IL,ISR,376,National,14,Other improved,0.0,OECD - OECD05
+Israel,IL,ISR,376,National,15,"No facility, bush, field",0.0,OECD - OECD05
+Israel,IL,ISR,376,National,16,Other unimproved,0.0,OECD - OECD05
+Israel,IL,ISR,376,National,17,DK/missing information,0.0,OECD - OECD05
+Israel,IL,ISR,376,Urban,1,Flush and pour flush - to piped sewer system,0.0,OECD - OECD06
+Israel,IL,ISR,376,Urban,2,Flush and pour flush - to septic tank,0.0,OECD - OECD06
+Israel,IL,ISR,376,Urban,3,Flush and pour flush - to pit,0.0,OECD - OECD06
+Israel,IL,ISR,376,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD06
+Israel,IL,ISR,376,Urban,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD06
+Israel,IL,ISR,376,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD06
+Israel,IL,ISR,376,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD06
+Israel,IL,ISR,376,Urban,8,Dry latrines - Traditional latrine,0.0,OECD - OECD06
+Israel,IL,ISR,376,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD06
+Israel,IL,ISR,376,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD06
+Israel,IL,ISR,376,Urban,11,Dry latrines - Bucket latrine,0.0,OECD - OECD06
+Israel,IL,ISR,376,Urban,12,Dry latrines - Other,0.0,OECD - OECD06
+Israel,IL,ISR,376,Urban,13,Composting toilets,0.0,OECD - OECD06
+Israel,IL,ISR,376,Urban,14,Other improved,0.0,OECD - OECD06
+Israel,IL,ISR,376,Urban,15,"No facility, bush, field",0.0,OECD - OECD06
+Israel,IL,ISR,376,Urban,16,Other unimproved,0.0,OECD - OECD06
+Israel,IL,ISR,376,Urban,17,DK/missing information,0.0,OECD - OECD06
+Israel,IL,ISR,376,Rural,1,Flush and pour flush - to piped sewer system,0.0,OECD - OECD06
+Israel,IL,ISR,376,Rural,2,Flush and pour flush - to septic tank,0.0,OECD - OECD06
+Israel,IL,ISR,376,Rural,3,Flush and pour flush - to pit,0.0,OECD - OECD06
+Israel,IL,ISR,376,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD06
+Israel,IL,ISR,376,Rural,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD06
+Israel,IL,ISR,376,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD06
+Israel,IL,ISR,376,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD06
+Israel,IL,ISR,376,Rural,8,Dry latrines - Traditional latrine,0.0,OECD - OECD06
+Israel,IL,ISR,376,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD06
+Israel,IL,ISR,376,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD06
+Israel,IL,ISR,376,Rural,11,Dry latrines - Bucket latrine,0.0,OECD - OECD06
+Israel,IL,ISR,376,Rural,12,Dry latrines - Other,0.0,OECD - OECD06
+Israel,IL,ISR,376,Rural,13,Composting toilets,0.0,OECD - OECD06
+Israel,IL,ISR,376,Rural,14,Other improved,0.0,OECD - OECD06
+Israel,IL,ISR,376,Rural,15,"No facility, bush, field",0.0,OECD - OECD06
+Israel,IL,ISR,376,Rural,16,Other unimproved,0.0,OECD - OECD06
+Israel,IL,ISR,376,Rural,17,DK/missing information,0.0,OECD - OECD06
+Israel,IL,ISR,376,National,1,Flush and pour flush - to piped sewer system,0.973,OECD - OECD06
+Israel,IL,ISR,376,National,2,Flush and pour flush - to septic tank,0.018,OECD - OECD06
+Israel,IL,ISR,376,National,3,Flush and pour flush - to pit,0.0,OECD - OECD06
+Israel,IL,ISR,376,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD06
+Israel,IL,ISR,376,National,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD06
+Israel,IL,ISR,376,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD06
+Israel,IL,ISR,376,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD06
+Israel,IL,ISR,376,National,8,Dry latrines - Traditional latrine,0.0,OECD - OECD06
+Israel,IL,ISR,376,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD06
+Israel,IL,ISR,376,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD06
+Israel,IL,ISR,376,National,11,Dry latrines - Bucket latrine,0.0,OECD - OECD06
+Israel,IL,ISR,376,National,12,Dry latrines - Other,0.0,OECD - OECD06
+Israel,IL,ISR,376,National,13,Composting toilets,0.0,OECD - OECD06
+Israel,IL,ISR,376,National,14,Other improved,0.0,OECD - OECD06
+Israel,IL,ISR,376,National,15,"No facility, bush, field",0.0,OECD - OECD06
+Israel,IL,ISR,376,National,16,Other unimproved,0.0,OECD - OECD06
+Israel,IL,ISR,376,National,17,DK/missing information,0.0,OECD - OECD06
+Israel,IL,ISR,376,Urban,1,Flush and pour flush - to piped sewer system,0.0,OECD - OECD07
+Israel,IL,ISR,376,Urban,2,Flush and pour flush - to septic tank,0.0,OECD - OECD07
+Israel,IL,ISR,376,Urban,3,Flush and pour flush - to pit,0.0,OECD - OECD07
+Israel,IL,ISR,376,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD07
+Israel,IL,ISR,376,Urban,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD07
+Israel,IL,ISR,376,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD07
+Israel,IL,ISR,376,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD07
+Israel,IL,ISR,376,Urban,8,Dry latrines - Traditional latrine,0.0,OECD - OECD07
+Israel,IL,ISR,376,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD07
+Israel,IL,ISR,376,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD07
+Israel,IL,ISR,376,Urban,11,Dry latrines - Bucket latrine,0.0,OECD - OECD07
+Israel,IL,ISR,376,Urban,12,Dry latrines - Other,0.0,OECD - OECD07
+Israel,IL,ISR,376,Urban,13,Composting toilets,0.0,OECD - OECD07
+Israel,IL,ISR,376,Urban,14,Other improved,0.0,OECD - OECD07
+Israel,IL,ISR,376,Urban,15,"No facility, bush, field",0.0,OECD - OECD07
+Israel,IL,ISR,376,Urban,16,Other unimproved,0.0,OECD - OECD07
+Israel,IL,ISR,376,Urban,17,DK/missing information,0.0,OECD - OECD07
+Israel,IL,ISR,376,Rural,1,Flush and pour flush - to piped sewer system,0.0,OECD - OECD07
+Israel,IL,ISR,376,Rural,2,Flush and pour flush - to septic tank,0.0,OECD - OECD07
+Israel,IL,ISR,376,Rural,3,Flush and pour flush - to pit,0.0,OECD - OECD07
+Israel,IL,ISR,376,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD07
+Israel,IL,ISR,376,Rural,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD07
+Israel,IL,ISR,376,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD07
+Israel,IL,ISR,376,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD07
+Israel,IL,ISR,376,Rural,8,Dry latrines - Traditional latrine,0.0,OECD - OECD07
+Israel,IL,ISR,376,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD07
+Israel,IL,ISR,376,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD07
+Israel,IL,ISR,376,Rural,11,Dry latrines - Bucket latrine,0.0,OECD - OECD07
+Israel,IL,ISR,376,Rural,12,Dry latrines - Other,0.0,OECD - OECD07
+Israel,IL,ISR,376,Rural,13,Composting toilets,0.0,OECD - OECD07
+Israel,IL,ISR,376,Rural,14,Other improved,0.0,OECD - OECD07
+Israel,IL,ISR,376,Rural,15,"No facility, bush, field",0.0,OECD - OECD07
+Israel,IL,ISR,376,Rural,16,Other unimproved,0.0,OECD - OECD07
+Israel,IL,ISR,376,Rural,17,DK/missing information,0.0,OECD - OECD07
+Israel,IL,ISR,376,National,1,Flush and pour flush - to piped sewer system,0.976,OECD - OECD07
+Israel,IL,ISR,376,National,2,Flush and pour flush - to septic tank,0.015,OECD - OECD07
+Israel,IL,ISR,376,National,3,Flush and pour flush - to pit,0.0,OECD - OECD07
+Israel,IL,ISR,376,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD07
+Israel,IL,ISR,376,National,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD07
+Israel,IL,ISR,376,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD07
+Israel,IL,ISR,376,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD07
+Israel,IL,ISR,376,National,8,Dry latrines - Traditional latrine,0.0,OECD - OECD07
+Israel,IL,ISR,376,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD07
+Israel,IL,ISR,376,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD07
+Israel,IL,ISR,376,National,11,Dry latrines - Bucket latrine,0.0,OECD - OECD07
+Israel,IL,ISR,376,National,12,Dry latrines - Other,0.0,OECD - OECD07
+Israel,IL,ISR,376,National,13,Composting toilets,0.0,OECD - OECD07
+Israel,IL,ISR,376,National,14,Other improved,0.0,OECD - OECD07
+Israel,IL,ISR,376,National,15,"No facility, bush, field",0.0,OECD - OECD07
+Israel,IL,ISR,376,National,16,Other unimproved,0.0,OECD - OECD07
+Israel,IL,ISR,376,National,17,DK/missing information,0.0,OECD - OECD07
+Israel,IL,ISR,376,Urban,1,Flush and pour flush - to piped sewer system,0.0,OECD - OECD08
+Israel,IL,ISR,376,Urban,2,Flush and pour flush - to septic tank,0.0,OECD - OECD08
+Israel,IL,ISR,376,Urban,3,Flush and pour flush - to pit,0.0,OECD - OECD08
+Israel,IL,ISR,376,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD08
+Israel,IL,ISR,376,Urban,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD08
+Israel,IL,ISR,376,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD08
+Israel,IL,ISR,376,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD08
+Israel,IL,ISR,376,Urban,8,Dry latrines - Traditional latrine,0.0,OECD - OECD08
+Israel,IL,ISR,376,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD08
+Israel,IL,ISR,376,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD08
+Israel,IL,ISR,376,Urban,11,Dry latrines - Bucket latrine,0.0,OECD - OECD08
+Israel,IL,ISR,376,Urban,12,Dry latrines - Other,0.0,OECD - OECD08
+Israel,IL,ISR,376,Urban,13,Composting toilets,0.0,OECD - OECD08
+Israel,IL,ISR,376,Urban,14,Other improved,0.0,OECD - OECD08
+Israel,IL,ISR,376,Urban,15,"No facility, bush, field",0.0,OECD - OECD08
+Israel,IL,ISR,376,Urban,16,Other unimproved,0.0,OECD - OECD08
+Israel,IL,ISR,376,Urban,17,DK/missing information,0.0,OECD - OECD08
+Israel,IL,ISR,376,Rural,1,Flush and pour flush - to piped sewer system,0.0,OECD - OECD08
+Israel,IL,ISR,376,Rural,2,Flush and pour flush - to septic tank,0.0,OECD - OECD08
+Israel,IL,ISR,376,Rural,3,Flush and pour flush - to pit,0.0,OECD - OECD08
+Israel,IL,ISR,376,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD08
+Israel,IL,ISR,376,Rural,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD08
+Israel,IL,ISR,376,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD08
+Israel,IL,ISR,376,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD08
+Israel,IL,ISR,376,Rural,8,Dry latrines - Traditional latrine,0.0,OECD - OECD08
+Israel,IL,ISR,376,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD08
+Israel,IL,ISR,376,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD08
+Israel,IL,ISR,376,Rural,11,Dry latrines - Bucket latrine,0.0,OECD - OECD08
+Israel,IL,ISR,376,Rural,12,Dry latrines - Other,0.0,OECD - OECD08
+Israel,IL,ISR,376,Rural,13,Composting toilets,0.0,OECD - OECD08
+Israel,IL,ISR,376,Rural,14,Other improved,0.0,OECD - OECD08
+Israel,IL,ISR,376,Rural,15,"No facility, bush, field",0.0,OECD - OECD08
+Israel,IL,ISR,376,Rural,16,Other unimproved,0.0,OECD - OECD08
+Israel,IL,ISR,376,Rural,17,DK/missing information,0.0,OECD - OECD08
+Israel,IL,ISR,376,National,1,Flush and pour flush - to piped sewer system,0.977,OECD - OECD08
+Israel,IL,ISR,376,National,2,Flush and pour flush - to septic tank,0.014,OECD - OECD08
+Israel,IL,ISR,376,National,3,Flush and pour flush - to pit,0.0,OECD - OECD08
+Israel,IL,ISR,376,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD08
+Israel,IL,ISR,376,National,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD08
+Israel,IL,ISR,376,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD08
+Israel,IL,ISR,376,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD08
+Israel,IL,ISR,376,National,8,Dry latrines - Traditional latrine,0.0,OECD - OECD08
+Israel,IL,ISR,376,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD08
+Israel,IL,ISR,376,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD08
+Israel,IL,ISR,376,National,11,Dry latrines - Bucket latrine,0.0,OECD - OECD08
+Israel,IL,ISR,376,National,12,Dry latrines - Other,0.0,OECD - OECD08
+Israel,IL,ISR,376,National,13,Composting toilets,0.0,OECD - OECD08
+Israel,IL,ISR,376,National,14,Other improved,0.0,OECD - OECD08
+Israel,IL,ISR,376,National,15,"No facility, bush, field",0.0,OECD - OECD08
+Israel,IL,ISR,376,National,16,Other unimproved,0.0,OECD - OECD08
+Israel,IL,ISR,376,National,17,DK/missing information,0.0,OECD - OECD08
+Israel,IL,ISR,376,Urban,1,Flush and pour flush - to piped sewer system,0.0,OECD - OECD09
+Israel,IL,ISR,376,Urban,2,Flush and pour flush - to septic tank,0.0,OECD - OECD09
+Israel,IL,ISR,376,Urban,3,Flush and pour flush - to pit,0.0,OECD - OECD09
+Israel,IL,ISR,376,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD09
+Israel,IL,ISR,376,Urban,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD09
+Israel,IL,ISR,376,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD09
+Israel,IL,ISR,376,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD09
+Israel,IL,ISR,376,Urban,8,Dry latrines - Traditional latrine,0.0,OECD - OECD09
+Israel,IL,ISR,376,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD09
+Israel,IL,ISR,376,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD09
+Israel,IL,ISR,376,Urban,11,Dry latrines - Bucket latrine,0.0,OECD - OECD09
+Israel,IL,ISR,376,Urban,12,Dry latrines - Other,0.0,OECD - OECD09
+Israel,IL,ISR,376,Urban,13,Composting toilets,0.0,OECD - OECD09
+Israel,IL,ISR,376,Urban,14,Other improved,0.0,OECD - OECD09
+Israel,IL,ISR,376,Urban,15,"No facility, bush, field",0.0,OECD - OECD09
+Israel,IL,ISR,376,Urban,16,Other unimproved,0.0,OECD - OECD09
+Israel,IL,ISR,376,Urban,17,DK/missing information,0.0,OECD - OECD09
+Israel,IL,ISR,376,Rural,1,Flush and pour flush - to piped sewer system,0.0,OECD - OECD09
+Israel,IL,ISR,376,Rural,2,Flush and pour flush - to septic tank,0.0,OECD - OECD09
+Israel,IL,ISR,376,Rural,3,Flush and pour flush - to pit,0.0,OECD - OECD09
+Israel,IL,ISR,376,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD09
+Israel,IL,ISR,376,Rural,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD09
+Israel,IL,ISR,376,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD09
+Israel,IL,ISR,376,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD09
+Israel,IL,ISR,376,Rural,8,Dry latrines - Traditional latrine,0.0,OECD - OECD09
+Israel,IL,ISR,376,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD09
+Israel,IL,ISR,376,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD09
+Israel,IL,ISR,376,Rural,11,Dry latrines - Bucket latrine,0.0,OECD - OECD09
+Israel,IL,ISR,376,Rural,12,Dry latrines - Other,0.0,OECD - OECD09
+Israel,IL,ISR,376,Rural,13,Composting toilets,0.0,OECD - OECD09
+Israel,IL,ISR,376,Rural,14,Other improved,0.0,OECD - OECD09
+Israel,IL,ISR,376,Rural,15,"No facility, bush, field",0.0,OECD - OECD09
+Israel,IL,ISR,376,Rural,16,Other unimproved,0.0,OECD - OECD09
+Israel,IL,ISR,376,Rural,17,DK/missing information,0.0,OECD - OECD09
+Israel,IL,ISR,376,National,1,Flush and pour flush - to piped sewer system,0.98,OECD - OECD09
+Israel,IL,ISR,376,National,2,Flush and pour flush - to septic tank,0.013,OECD - OECD09
+Israel,IL,ISR,376,National,3,Flush and pour flush - to pit,0.0,OECD - OECD09
+Israel,IL,ISR,376,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD09
+Israel,IL,ISR,376,National,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD09
+Israel,IL,ISR,376,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD09
+Israel,IL,ISR,376,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD09
+Israel,IL,ISR,376,National,8,Dry latrines - Traditional latrine,0.0,OECD - OECD09
+Israel,IL,ISR,376,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD09
+Israel,IL,ISR,376,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD09
+Israel,IL,ISR,376,National,11,Dry latrines - Bucket latrine,0.0,OECD - OECD09
+Israel,IL,ISR,376,National,12,Dry latrines - Other,0.0,OECD - OECD09
+Israel,IL,ISR,376,National,13,Composting toilets,0.0,OECD - OECD09
+Israel,IL,ISR,376,National,14,Other improved,0.0,OECD - OECD09
+Israel,IL,ISR,376,National,15,"No facility, bush, field",0.0,OECD - OECD09
+Israel,IL,ISR,376,National,16,Other unimproved,0.0,OECD - OECD09
+Israel,IL,ISR,376,National,17,DK/missing information,0.0,OECD - OECD09
+Israel,IL,ISR,376,Urban,1,Flush and pour flush - to piped sewer system,0.0,OECD - OECD10
+Israel,IL,ISR,376,Urban,2,Flush and pour flush - to septic tank,0.0,OECD - OECD10
+Israel,IL,ISR,376,Urban,3,Flush and pour flush - to pit,0.0,OECD - OECD10
+Israel,IL,ISR,376,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD10
+Israel,IL,ISR,376,Urban,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD10
+Israel,IL,ISR,376,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD10
+Israel,IL,ISR,376,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD10
+Israel,IL,ISR,376,Urban,8,Dry latrines - Traditional latrine,0.0,OECD - OECD10
+Israel,IL,ISR,376,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD10
+Israel,IL,ISR,376,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD10
+Israel,IL,ISR,376,Urban,11,Dry latrines - Bucket latrine,0.0,OECD - OECD10
+Israel,IL,ISR,376,Urban,12,Dry latrines - Other,0.0,OECD - OECD10
+Israel,IL,ISR,376,Urban,13,Composting toilets,0.0,OECD - OECD10
+Israel,IL,ISR,376,Urban,14,Other improved,0.0,OECD - OECD10
+Israel,IL,ISR,376,Urban,15,"No facility, bush, field",0.0,OECD - OECD10
+Israel,IL,ISR,376,Urban,16,Other unimproved,0.0,OECD - OECD10
+Israel,IL,ISR,376,Urban,17,DK/missing information,0.0,OECD - OECD10
+Israel,IL,ISR,376,Rural,1,Flush and pour flush - to piped sewer system,0.0,OECD - OECD10
+Israel,IL,ISR,376,Rural,2,Flush and pour flush - to septic tank,0.0,OECD - OECD10
+Israel,IL,ISR,376,Rural,3,Flush and pour flush - to pit,0.0,OECD - OECD10
+Israel,IL,ISR,376,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD10
+Israel,IL,ISR,376,Rural,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD10
+Israel,IL,ISR,376,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD10
+Israel,IL,ISR,376,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD10
+Israel,IL,ISR,376,Rural,8,Dry latrines - Traditional latrine,0.0,OECD - OECD10
+Israel,IL,ISR,376,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD10
+Israel,IL,ISR,376,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD10
+Israel,IL,ISR,376,Rural,11,Dry latrines - Bucket latrine,0.0,OECD - OECD10
+Israel,IL,ISR,376,Rural,12,Dry latrines - Other,0.0,OECD - OECD10
+Israel,IL,ISR,376,Rural,13,Composting toilets,0.0,OECD - OECD10
+Israel,IL,ISR,376,Rural,14,Other improved,0.0,OECD - OECD10
+Israel,IL,ISR,376,Rural,15,"No facility, bush, field",0.0,OECD - OECD10
+Israel,IL,ISR,376,Rural,16,Other unimproved,0.0,OECD - OECD10
+Israel,IL,ISR,376,Rural,17,DK/missing information,0.0,OECD - OECD10
+Israel,IL,ISR,376,National,1,Flush and pour flush - to piped sewer system,0.981,OECD - OECD10
+Israel,IL,ISR,376,National,2,Flush and pour flush - to septic tank,0.012,OECD - OECD10
+Israel,IL,ISR,376,National,3,Flush and pour flush - to pit,0.0,OECD - OECD10
+Israel,IL,ISR,376,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD10
+Israel,IL,ISR,376,National,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD10
+Israel,IL,ISR,376,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD10
+Israel,IL,ISR,376,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD10
+Israel,IL,ISR,376,National,8,Dry latrines - Traditional latrine,0.0,OECD - OECD10
+Israel,IL,ISR,376,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD10
+Israel,IL,ISR,376,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD10
+Israel,IL,ISR,376,National,11,Dry latrines - Bucket latrine,0.0,OECD - OECD10
+Israel,IL,ISR,376,National,12,Dry latrines - Other,0.0,OECD - OECD10
+Israel,IL,ISR,376,National,13,Composting toilets,0.0,OECD - OECD10
+Israel,IL,ISR,376,National,14,Other improved,0.0,OECD - OECD10
+Israel,IL,ISR,376,National,15,"No facility, bush, field",0.0,OECD - OECD10
+Israel,IL,ISR,376,National,16,Other unimproved,0.0,OECD - OECD10
+Israel,IL,ISR,376,National,17,DK/missing information,0.0,OECD - OECD10
+Israel,IL,ISR,376,Urban,1,Flush and pour flush - to piped sewer system,0.0,OECD - OECD11
+Israel,IL,ISR,376,Urban,2,Flush and pour flush - to septic tank,0.0,OECD - OECD11
+Israel,IL,ISR,376,Urban,3,Flush and pour flush - to pit,0.0,OECD - OECD11
+Israel,IL,ISR,376,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD11
+Israel,IL,ISR,376,Urban,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD11
+Israel,IL,ISR,376,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD11
+Israel,IL,ISR,376,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD11
+Israel,IL,ISR,376,Urban,8,Dry latrines - Traditional latrine,0.0,OECD - OECD11
+Israel,IL,ISR,376,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD11
+Israel,IL,ISR,376,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD11
+Israel,IL,ISR,376,Urban,11,Dry latrines - Bucket latrine,0.0,OECD - OECD11
+Israel,IL,ISR,376,Urban,12,Dry latrines - Other,0.0,OECD - OECD11
+Israel,IL,ISR,376,Urban,13,Composting toilets,0.0,OECD - OECD11
+Israel,IL,ISR,376,Urban,14,Other improved,0.0,OECD - OECD11
+Israel,IL,ISR,376,Urban,15,"No facility, bush, field",0.0,OECD - OECD11
+Israel,IL,ISR,376,Urban,16,Other unimproved,0.0,OECD - OECD11
+Israel,IL,ISR,376,Urban,17,DK/missing information,0.0,OECD - OECD11
+Israel,IL,ISR,376,Rural,1,Flush and pour flush - to piped sewer system,0.0,OECD - OECD11
+Israel,IL,ISR,376,Rural,2,Flush and pour flush - to septic tank,0.0,OECD - OECD11
+Israel,IL,ISR,376,Rural,3,Flush and pour flush - to pit,0.0,OECD - OECD11
+Israel,IL,ISR,376,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD11
+Israel,IL,ISR,376,Rural,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD11
+Israel,IL,ISR,376,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD11
+Israel,IL,ISR,376,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD11
+Israel,IL,ISR,376,Rural,8,Dry latrines - Traditional latrine,0.0,OECD - OECD11
+Israel,IL,ISR,376,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD11
+Israel,IL,ISR,376,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD11
+Israel,IL,ISR,376,Rural,11,Dry latrines - Bucket latrine,0.0,OECD - OECD11
+Israel,IL,ISR,376,Rural,12,Dry latrines - Other,0.0,OECD - OECD11
+Israel,IL,ISR,376,Rural,13,Composting toilets,0.0,OECD - OECD11
+Israel,IL,ISR,376,Rural,14,Other improved,0.0,OECD - OECD11
+Israel,IL,ISR,376,Rural,15,"No facility, bush, field",0.0,OECD - OECD11
+Israel,IL,ISR,376,Rural,16,Other unimproved,0.0,OECD - OECD11
+Israel,IL,ISR,376,Rural,17,DK/missing information,0.0,OECD - OECD11
+Israel,IL,ISR,376,National,1,Flush and pour flush - to piped sewer system,0.982,OECD - OECD11
+Israel,IL,ISR,376,National,2,Flush and pour flush - to septic tank,0.012,OECD - OECD11
+Israel,IL,ISR,376,National,3,Flush and pour flush - to pit,0.0,OECD - OECD11
+Israel,IL,ISR,376,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD11
+Israel,IL,ISR,376,National,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD11
+Israel,IL,ISR,376,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD11
+Israel,IL,ISR,376,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD11
+Israel,IL,ISR,376,National,8,Dry latrines - Traditional latrine,0.0,OECD - OECD11
+Israel,IL,ISR,376,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD11
+Israel,IL,ISR,376,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD11
+Israel,IL,ISR,376,National,11,Dry latrines - Bucket latrine,0.0,OECD - OECD11
+Israel,IL,ISR,376,National,12,Dry latrines - Other,0.0,OECD - OECD11
+Israel,IL,ISR,376,National,13,Composting toilets,0.0,OECD - OECD11
+Israel,IL,ISR,376,National,14,Other improved,0.0,OECD - OECD11
+Israel,IL,ISR,376,National,15,"No facility, bush, field",0.0,OECD - OECD11
+Israel,IL,ISR,376,National,16,Other unimproved,0.0,OECD - OECD11
+Israel,IL,ISR,376,National,17,DK/missing information,0.0,OECD - OECD11
+Israel,IL,ISR,376,Urban,1,Flush and pour flush - to piped sewer system,0.0,OECD - OECD12
+Israel,IL,ISR,376,Urban,2,Flush and pour flush - to septic tank,0.0,OECD - OECD12
+Israel,IL,ISR,376,Urban,3,Flush and pour flush - to pit,0.0,OECD - OECD12
+Israel,IL,ISR,376,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD12
+Israel,IL,ISR,376,Urban,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD12
+Israel,IL,ISR,376,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD12
+Israel,IL,ISR,376,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD12
+Israel,IL,ISR,376,Urban,8,Dry latrines - Traditional latrine,0.0,OECD - OECD12
+Israel,IL,ISR,376,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD12
+Israel,IL,ISR,376,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD12
+Israel,IL,ISR,376,Urban,11,Dry latrines - Bucket latrine,0.0,OECD - OECD12
+Israel,IL,ISR,376,Urban,12,Dry latrines - Other,0.0,OECD - OECD12
+Israel,IL,ISR,376,Urban,13,Composting toilets,0.0,OECD - OECD12
+Israel,IL,ISR,376,Urban,14,Other improved,0.0,OECD - OECD12
+Israel,IL,ISR,376,Urban,15,"No facility, bush, field",0.0,OECD - OECD12
+Israel,IL,ISR,376,Urban,16,Other unimproved,0.0,OECD - OECD12
+Israel,IL,ISR,376,Urban,17,DK/missing information,0.0,OECD - OECD12
+Israel,IL,ISR,376,Rural,1,Flush and pour flush - to piped sewer system,0.0,OECD - OECD12
+Israel,IL,ISR,376,Rural,2,Flush and pour flush - to septic tank,0.0,OECD - OECD12
+Israel,IL,ISR,376,Rural,3,Flush and pour flush - to pit,0.0,OECD - OECD12
+Israel,IL,ISR,376,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD12
+Israel,IL,ISR,376,Rural,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD12
+Israel,IL,ISR,376,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD12
+Israel,IL,ISR,376,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD12
+Israel,IL,ISR,376,Rural,8,Dry latrines - Traditional latrine,0.0,OECD - OECD12
+Israel,IL,ISR,376,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD12
+Israel,IL,ISR,376,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD12
+Israel,IL,ISR,376,Rural,11,Dry latrines - Bucket latrine,0.0,OECD - OECD12
+Israel,IL,ISR,376,Rural,12,Dry latrines - Other,0.0,OECD - OECD12
+Israel,IL,ISR,376,Rural,13,Composting toilets,0.0,OECD - OECD12
+Israel,IL,ISR,376,Rural,14,Other improved,0.0,OECD - OECD12
+Israel,IL,ISR,376,Rural,15,"No facility, bush, field",0.0,OECD - OECD12
+Israel,IL,ISR,376,Rural,16,Other unimproved,0.0,OECD - OECD12
+Israel,IL,ISR,376,Rural,17,DK/missing information,0.0,OECD - OECD12
+Israel,IL,ISR,376,National,1,Flush and pour flush - to piped sewer system,0.985,OECD - OECD12
+Israel,IL,ISR,376,National,2,Flush and pour flush - to septic tank,0.011,OECD - OECD12
+Israel,IL,ISR,376,National,3,Flush and pour flush - to pit,0.0,OECD - OECD12
+Israel,IL,ISR,376,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD12
+Israel,IL,ISR,376,National,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD12
+Israel,IL,ISR,376,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD12
+Israel,IL,ISR,376,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD12
+Israel,IL,ISR,376,National,8,Dry latrines - Traditional latrine,0.0,OECD - OECD12
+Israel,IL,ISR,376,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD12
+Israel,IL,ISR,376,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD12
+Israel,IL,ISR,376,National,11,Dry latrines - Bucket latrine,0.0,OECD - OECD12
+Israel,IL,ISR,376,National,12,Dry latrines - Other,0.0,OECD - OECD12
+Israel,IL,ISR,376,National,13,Composting toilets,0.0,OECD - OECD12
+Israel,IL,ISR,376,National,14,Other improved,0.0,OECD - OECD12
+Israel,IL,ISR,376,National,15,"No facility, bush, field",0.0,OECD - OECD12
+Israel,IL,ISR,376,National,16,Other unimproved,0.0,OECD - OECD12
+Israel,IL,ISR,376,National,17,DK/missing information,0.0,OECD - OECD12
+Israel,IL,ISR,376,Urban,1,Flush and pour flush - to piped sewer system,0.0,OECD - OECD13
+Israel,IL,ISR,376,Urban,2,Flush and pour flush - to septic tank,0.0,OECD - OECD13
+Israel,IL,ISR,376,Urban,3,Flush and pour flush - to pit,0.0,OECD - OECD13
+Israel,IL,ISR,376,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD13
+Israel,IL,ISR,376,Urban,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD13
+Israel,IL,ISR,376,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD13
+Israel,IL,ISR,376,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD13
+Israel,IL,ISR,376,Urban,8,Dry latrines - Traditional latrine,0.0,OECD - OECD13
+Israel,IL,ISR,376,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD13
+Israel,IL,ISR,376,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD13
+Israel,IL,ISR,376,Urban,11,Dry latrines - Bucket latrine,0.0,OECD - OECD13
+Israel,IL,ISR,376,Urban,12,Dry latrines - Other,0.0,OECD - OECD13
+Israel,IL,ISR,376,Urban,13,Composting toilets,0.0,OECD - OECD13
+Israel,IL,ISR,376,Urban,14,Other improved,0.0,OECD - OECD13
+Israel,IL,ISR,376,Urban,15,"No facility, bush, field",0.0,OECD - OECD13
+Israel,IL,ISR,376,Urban,16,Other unimproved,0.0,OECD - OECD13
+Israel,IL,ISR,376,Urban,17,DK/missing information,0.0,OECD - OECD13
+Israel,IL,ISR,376,Rural,1,Flush and pour flush - to piped sewer system,0.0,OECD - OECD13
+Israel,IL,ISR,376,Rural,2,Flush and pour flush - to septic tank,0.0,OECD - OECD13
+Israel,IL,ISR,376,Rural,3,Flush and pour flush - to pit,0.0,OECD - OECD13
+Israel,IL,ISR,376,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD13
+Israel,IL,ISR,376,Rural,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD13
+Israel,IL,ISR,376,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD13
+Israel,IL,ISR,376,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD13
+Israel,IL,ISR,376,Rural,8,Dry latrines - Traditional latrine,0.0,OECD - OECD13
+Israel,IL,ISR,376,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD13
+Israel,IL,ISR,376,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD13
+Israel,IL,ISR,376,Rural,11,Dry latrines - Bucket latrine,0.0,OECD - OECD13
+Israel,IL,ISR,376,Rural,12,Dry latrines - Other,0.0,OECD - OECD13
+Israel,IL,ISR,376,Rural,13,Composting toilets,0.0,OECD - OECD13
+Israel,IL,ISR,376,Rural,14,Other improved,0.0,OECD - OECD13
+Israel,IL,ISR,376,Rural,15,"No facility, bush, field",0.0,OECD - OECD13
+Israel,IL,ISR,376,Rural,16,Other unimproved,0.0,OECD - OECD13
+Israel,IL,ISR,376,Rural,17,DK/missing information,0.0,OECD - OECD13
+Israel,IL,ISR,376,National,1,Flush and pour flush - to piped sewer system,0.988,OECD - OECD13
+Israel,IL,ISR,376,National,2,Flush and pour flush - to septic tank,0.011,OECD - OECD13
+Israel,IL,ISR,376,National,3,Flush and pour flush - to pit,0.0,OECD - OECD13
+Israel,IL,ISR,376,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD13
+Israel,IL,ISR,376,National,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD13
+Israel,IL,ISR,376,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD13
+Israel,IL,ISR,376,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD13
+Israel,IL,ISR,376,National,8,Dry latrines - Traditional latrine,0.0,OECD - OECD13
+Israel,IL,ISR,376,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD13
+Israel,IL,ISR,376,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD13
+Israel,IL,ISR,376,National,11,Dry latrines - Bucket latrine,0.0,OECD - OECD13
+Israel,IL,ISR,376,National,12,Dry latrines - Other,0.0,OECD - OECD13
+Israel,IL,ISR,376,National,13,Composting toilets,0.0,OECD - OECD13
+Israel,IL,ISR,376,National,14,Other improved,0.0,OECD - OECD13
+Israel,IL,ISR,376,National,15,"No facility, bush, field",0.0,OECD - OECD13
+Israel,IL,ISR,376,National,16,Other unimproved,0.0,OECD - OECD13
+Israel,IL,ISR,376,National,17,DK/missing information,0.0,OECD - OECD13
+Israel,IL,ISR,376,Urban,1,Flush and pour flush - to piped sewer system,0.0,OECD - OECD14
+Israel,IL,ISR,376,Urban,2,Flush and pour flush - to septic tank,0.0,OECD - OECD14
+Israel,IL,ISR,376,Urban,3,Flush and pour flush - to pit,0.0,OECD - OECD14
+Israel,IL,ISR,376,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD14
+Israel,IL,ISR,376,Urban,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD14
+Israel,IL,ISR,376,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD14
+Israel,IL,ISR,376,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD14
+Israel,IL,ISR,376,Urban,8,Dry latrines - Traditional latrine,0.0,OECD - OECD14
+Israel,IL,ISR,376,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD14
+Israel,IL,ISR,376,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD14
+Israel,IL,ISR,376,Urban,11,Dry latrines - Bucket latrine,0.0,OECD - OECD14
+Israel,IL,ISR,376,Urban,12,Dry latrines - Other,0.0,OECD - OECD14
+Israel,IL,ISR,376,Urban,13,Composting toilets,0.0,OECD - OECD14
+Israel,IL,ISR,376,Urban,14,Other improved,0.0,OECD - OECD14
+Israel,IL,ISR,376,Urban,15,"No facility, bush, field",0.0,OECD - OECD14
+Israel,IL,ISR,376,Urban,16,Other unimproved,0.0,OECD - OECD14
+Israel,IL,ISR,376,Urban,17,DK/missing information,0.0,OECD - OECD14
+Israel,IL,ISR,376,Rural,1,Flush and pour flush - to piped sewer system,0.0,OECD - OECD14
+Israel,IL,ISR,376,Rural,2,Flush and pour flush - to septic tank,0.0,OECD - OECD14
+Israel,IL,ISR,376,Rural,3,Flush and pour flush - to pit,0.0,OECD - OECD14
+Israel,IL,ISR,376,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD14
+Israel,IL,ISR,376,Rural,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD14
+Israel,IL,ISR,376,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD14
+Israel,IL,ISR,376,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD14
+Israel,IL,ISR,376,Rural,8,Dry latrines - Traditional latrine,0.0,OECD - OECD14
+Israel,IL,ISR,376,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD14
+Israel,IL,ISR,376,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD14
+Israel,IL,ISR,376,Rural,11,Dry latrines - Bucket latrine,0.0,OECD - OECD14
+Israel,IL,ISR,376,Rural,12,Dry latrines - Other,0.0,OECD - OECD14
+Israel,IL,ISR,376,Rural,13,Composting toilets,0.0,OECD - OECD14
+Israel,IL,ISR,376,Rural,14,Other improved,0.0,OECD - OECD14
+Israel,IL,ISR,376,Rural,15,"No facility, bush, field",0.0,OECD - OECD14
+Israel,IL,ISR,376,Rural,16,Other unimproved,0.0,OECD - OECD14
+Israel,IL,ISR,376,Rural,17,DK/missing information,0.0,OECD - OECD14
+Israel,IL,ISR,376,National,1,Flush and pour flush - to piped sewer system,0.989,OECD - OECD14
+Israel,IL,ISR,376,National,2,Flush and pour flush - to septic tank,0.01,OECD - OECD14
+Israel,IL,ISR,376,National,3,Flush and pour flush - to pit,0.0,OECD - OECD14
+Israel,IL,ISR,376,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD14
+Israel,IL,ISR,376,National,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD14
+Israel,IL,ISR,376,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD14
+Israel,IL,ISR,376,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD14
+Israel,IL,ISR,376,National,8,Dry latrines - Traditional latrine,0.0,OECD - OECD14
+Israel,IL,ISR,376,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD14
+Israel,IL,ISR,376,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD14
+Israel,IL,ISR,376,National,11,Dry latrines - Bucket latrine,0.0,OECD - OECD14
+Israel,IL,ISR,376,National,12,Dry latrines - Other,0.0,OECD - OECD14
+Israel,IL,ISR,376,National,13,Composting toilets,0.0,OECD - OECD14
+Israel,IL,ISR,376,National,14,Other improved,0.0,OECD - OECD14
+Israel,IL,ISR,376,National,15,"No facility, bush, field",0.0,OECD - OECD14
+Israel,IL,ISR,376,National,16,Other unimproved,0.0,OECD - OECD14
+Israel,IL,ISR,376,National,17,DK/missing information,0.0,OECD - OECD14
+Israel,IL,ISR,376,Urban,1,Flush and pour flush - to piped sewer system,0.0,OECD - OECD15
+Israel,IL,ISR,376,Urban,2,Flush and pour flush - to septic tank,0.0,OECD - OECD15
+Israel,IL,ISR,376,Urban,3,Flush and pour flush - to pit,0.0,OECD - OECD15
+Israel,IL,ISR,376,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD15
+Israel,IL,ISR,376,Urban,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD15
+Israel,IL,ISR,376,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD15
+Israel,IL,ISR,376,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD15
+Israel,IL,ISR,376,Urban,8,Dry latrines - Traditional latrine,0.0,OECD - OECD15
+Israel,IL,ISR,376,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD15
+Israel,IL,ISR,376,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD15
+Israel,IL,ISR,376,Urban,11,Dry latrines - Bucket latrine,0.0,OECD - OECD15
+Israel,IL,ISR,376,Urban,12,Dry latrines - Other,0.0,OECD - OECD15
+Israel,IL,ISR,376,Urban,13,Composting toilets,0.0,OECD - OECD15
+Israel,IL,ISR,376,Urban,14,Other improved,0.0,OECD - OECD15
+Israel,IL,ISR,376,Urban,15,"No facility, bush, field",0.0,OECD - OECD15
+Israel,IL,ISR,376,Urban,16,Other unimproved,0.0,OECD - OECD15
+Israel,IL,ISR,376,Urban,17,DK/missing information,0.0,OECD - OECD15
+Israel,IL,ISR,376,Rural,1,Flush and pour flush - to piped sewer system,0.0,OECD - OECD15
+Israel,IL,ISR,376,Rural,2,Flush and pour flush - to septic tank,0.0,OECD - OECD15
+Israel,IL,ISR,376,Rural,3,Flush and pour flush - to pit,0.0,OECD - OECD15
+Israel,IL,ISR,376,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD15
+Israel,IL,ISR,376,Rural,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD15
+Israel,IL,ISR,376,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD15
+Israel,IL,ISR,376,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD15
+Israel,IL,ISR,376,Rural,8,Dry latrines - Traditional latrine,0.0,OECD - OECD15
+Israel,IL,ISR,376,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD15
+Israel,IL,ISR,376,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD15
+Israel,IL,ISR,376,Rural,11,Dry latrines - Bucket latrine,0.0,OECD - OECD15
+Israel,IL,ISR,376,Rural,12,Dry latrines - Other,0.0,OECD - OECD15
+Israel,IL,ISR,376,Rural,13,Composting toilets,0.0,OECD - OECD15
+Israel,IL,ISR,376,Rural,14,Other improved,0.0,OECD - OECD15
+Israel,IL,ISR,376,Rural,15,"No facility, bush, field",0.0,OECD - OECD15
+Israel,IL,ISR,376,Rural,16,Other unimproved,0.0,OECD - OECD15
+Israel,IL,ISR,376,Rural,17,DK/missing information,0.0,OECD - OECD15
+Israel,IL,ISR,376,National,1,Flush and pour flush - to piped sewer system,0.99,OECD - OECD15
+Israel,IL,ISR,376,National,2,Flush and pour flush - to septic tank,0.009,OECD - OECD15
+Israel,IL,ISR,376,National,3,Flush and pour flush - to pit,0.0,OECD - OECD15
+Israel,IL,ISR,376,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD15
+Israel,IL,ISR,376,National,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD15
+Israel,IL,ISR,376,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD15
+Israel,IL,ISR,376,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD15
+Israel,IL,ISR,376,National,8,Dry latrines - Traditional latrine,0.0,OECD - OECD15
+Israel,IL,ISR,376,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD15
+Israel,IL,ISR,376,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD15
+Israel,IL,ISR,376,National,11,Dry latrines - Bucket latrine,0.0,OECD - OECD15
+Israel,IL,ISR,376,National,12,Dry latrines - Other,0.0,OECD - OECD15
+Israel,IL,ISR,376,National,13,Composting toilets,0.0,OECD - OECD15
+Israel,IL,ISR,376,National,14,Other improved,0.0,OECD - OECD15
+Israel,IL,ISR,376,National,15,"No facility, bush, field",0.0,OECD - OECD15
+Israel,IL,ISR,376,National,16,Other unimproved,0.0,OECD - OECD15
+Israel,IL,ISR,376,National,17,DK/missing information,0.0,OECD - OECD15
+Israel,IL,ISR,376,Urban,1,Flush and pour flush - to piped sewer system,0.0,OECD - OECD16
+Israel,IL,ISR,376,Urban,2,Flush and pour flush - to septic tank,0.0,OECD - OECD16
+Israel,IL,ISR,376,Urban,3,Flush and pour flush - to pit,0.0,OECD - OECD16
+Israel,IL,ISR,376,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD16
+Israel,IL,ISR,376,Urban,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD16
+Israel,IL,ISR,376,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD16
+Israel,IL,ISR,376,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD16
+Israel,IL,ISR,376,Urban,8,Dry latrines - Traditional latrine,0.0,OECD - OECD16
+Israel,IL,ISR,376,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD16
+Israel,IL,ISR,376,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD16
+Israel,IL,ISR,376,Urban,11,Dry latrines - Bucket latrine,0.0,OECD - OECD16
+Israel,IL,ISR,376,Urban,12,Dry latrines - Other,0.0,OECD - OECD16
+Israel,IL,ISR,376,Urban,13,Composting toilets,0.0,OECD - OECD16
+Israel,IL,ISR,376,Urban,14,Other improved,0.0,OECD - OECD16
+Israel,IL,ISR,376,Urban,15,"No facility, bush, field",0.0,OECD - OECD16
+Israel,IL,ISR,376,Urban,16,Other unimproved,0.0,OECD - OECD16
+Israel,IL,ISR,376,Urban,17,DK/missing information,0.0,OECD - OECD16
+Israel,IL,ISR,376,Rural,1,Flush and pour flush - to piped sewer system,0.0,OECD - OECD16
+Israel,IL,ISR,376,Rural,2,Flush and pour flush - to septic tank,0.0,OECD - OECD16
+Israel,IL,ISR,376,Rural,3,Flush and pour flush - to pit,0.0,OECD - OECD16
+Israel,IL,ISR,376,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD16
+Israel,IL,ISR,376,Rural,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD16
+Israel,IL,ISR,376,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD16
+Israel,IL,ISR,376,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD16
+Israel,IL,ISR,376,Rural,8,Dry latrines - Traditional latrine,0.0,OECD - OECD16
+Israel,IL,ISR,376,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD16
+Israel,IL,ISR,376,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD16
+Israel,IL,ISR,376,Rural,11,Dry latrines - Bucket latrine,0.0,OECD - OECD16
+Israel,IL,ISR,376,Rural,12,Dry latrines - Other,0.0,OECD - OECD16
+Israel,IL,ISR,376,Rural,13,Composting toilets,0.0,OECD - OECD16
+Israel,IL,ISR,376,Rural,14,Other improved,0.0,OECD - OECD16
+Israel,IL,ISR,376,Rural,15,"No facility, bush, field",0.0,OECD - OECD16
+Israel,IL,ISR,376,Rural,16,Other unimproved,0.0,OECD - OECD16
+Israel,IL,ISR,376,Rural,17,DK/missing information,0.0,OECD - OECD16
+Israel,IL,ISR,376,National,1,Flush and pour flush - to piped sewer system,0.99,OECD - OECD16
+Israel,IL,ISR,376,National,2,Flush and pour flush - to septic tank,0.009,OECD - OECD16
+Israel,IL,ISR,376,National,3,Flush and pour flush - to pit,0.0,OECD - OECD16
+Israel,IL,ISR,376,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD16
+Israel,IL,ISR,376,National,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD16
+Israel,IL,ISR,376,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD16
+Israel,IL,ISR,376,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD16
+Israel,IL,ISR,376,National,8,Dry latrines - Traditional latrine,0.0,OECD - OECD16
+Israel,IL,ISR,376,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD16
+Israel,IL,ISR,376,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD16
+Israel,IL,ISR,376,National,11,Dry latrines - Bucket latrine,0.0,OECD - OECD16
+Israel,IL,ISR,376,National,12,Dry latrines - Other,0.0,OECD - OECD16
+Israel,IL,ISR,376,National,13,Composting toilets,0.0,OECD - OECD16
+Israel,IL,ISR,376,National,14,Other improved,0.0,OECD - OECD16
+Israel,IL,ISR,376,National,15,"No facility, bush, field",0.0,OECD - OECD16
+Israel,IL,ISR,376,National,16,Other unimproved,0.0,OECD - OECD16
+Israel,IL,ISR,376,National,17,DK/missing information,0.0,OECD - OECD16
+Israel,IL,ISR,376,Urban,1,Flush and pour flush - to piped sewer system,0.0,OECD - OECD17
+Israel,IL,ISR,376,Urban,2,Flush and pour flush - to septic tank,0.0,OECD - OECD17
+Israel,IL,ISR,376,Urban,3,Flush and pour flush - to pit,0.0,OECD - OECD17
+Israel,IL,ISR,376,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD17
+Israel,IL,ISR,376,Urban,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD17
+Israel,IL,ISR,376,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD17
+Israel,IL,ISR,376,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD17
+Israel,IL,ISR,376,Urban,8,Dry latrines - Traditional latrine,0.0,OECD - OECD17
+Israel,IL,ISR,376,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD17
+Israel,IL,ISR,376,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD17
+Israel,IL,ISR,376,Urban,11,Dry latrines - Bucket latrine,0.0,OECD - OECD17
+Israel,IL,ISR,376,Urban,12,Dry latrines - Other,0.0,OECD - OECD17
+Israel,IL,ISR,376,Urban,13,Composting toilets,0.0,OECD - OECD17
+Israel,IL,ISR,376,Urban,14,Other improved,0.0,OECD - OECD17
+Israel,IL,ISR,376,Urban,15,"No facility, bush, field",0.0,OECD - OECD17
+Israel,IL,ISR,376,Urban,16,Other unimproved,0.0,OECD - OECD17
+Israel,IL,ISR,376,Urban,17,DK/missing information,0.0,OECD - OECD17
+Israel,IL,ISR,376,Rural,1,Flush and pour flush - to piped sewer system,0.0,OECD - OECD17
+Israel,IL,ISR,376,Rural,2,Flush and pour flush - to septic tank,0.0,OECD - OECD17
+Israel,IL,ISR,376,Rural,3,Flush and pour flush - to pit,0.0,OECD - OECD17
+Israel,IL,ISR,376,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD17
+Israel,IL,ISR,376,Rural,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD17
+Israel,IL,ISR,376,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD17
+Israel,IL,ISR,376,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD17
+Israel,IL,ISR,376,Rural,8,Dry latrines - Traditional latrine,0.0,OECD - OECD17
+Israel,IL,ISR,376,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD17
+Israel,IL,ISR,376,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD17
+Israel,IL,ISR,376,Rural,11,Dry latrines - Bucket latrine,0.0,OECD - OECD17
+Israel,IL,ISR,376,Rural,12,Dry latrines - Other,0.0,OECD - OECD17
+Israel,IL,ISR,376,Rural,13,Composting toilets,0.0,OECD - OECD17
+Israel,IL,ISR,376,Rural,14,Other improved,0.0,OECD - OECD17
+Israel,IL,ISR,376,Rural,15,"No facility, bush, field",0.0,OECD - OECD17
+Israel,IL,ISR,376,Rural,16,Other unimproved,0.0,OECD - OECD17
+Israel,IL,ISR,376,Rural,17,DK/missing information,0.0,OECD - OECD17
+Israel,IL,ISR,376,National,1,Flush and pour flush - to piped sewer system,0.99,OECD - OECD17
+Israel,IL,ISR,376,National,2,Flush and pour flush - to septic tank,0.009,OECD - OECD17
+Israel,IL,ISR,376,National,3,Flush and pour flush - to pit,0.0,OECD - OECD17
+Israel,IL,ISR,376,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD17
+Israel,IL,ISR,376,National,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD17
+Israel,IL,ISR,376,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD17
+Israel,IL,ISR,376,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD17
+Israel,IL,ISR,376,National,8,Dry latrines - Traditional latrine,0.0,OECD - OECD17
+Israel,IL,ISR,376,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD17
+Israel,IL,ISR,376,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD17
+Israel,IL,ISR,376,National,11,Dry latrines - Bucket latrine,0.0,OECD - OECD17
+Israel,IL,ISR,376,National,12,Dry latrines - Other,0.0,OECD - OECD17
+Israel,IL,ISR,376,National,13,Composting toilets,0.0,OECD - OECD17
+Israel,IL,ISR,376,National,14,Other improved,0.0,OECD - OECD17
+Israel,IL,ISR,376,National,15,"No facility, bush, field",0.0,OECD - OECD17
+Israel,IL,ISR,376,National,16,Other unimproved,0.0,OECD - OECD17
+Israel,IL,ISR,376,National,17,DK/missing information,0.0,OECD - OECD17
+Israel,IL,ISR,376,Urban,1,Flush and pour flush - to piped sewer system,0.995,Country Communication  - IWAS10
+Israel,IL,ISR,376,Urban,2,Flush and pour flush - to septic tank,0.005,Country Communication  - IWAS10
+Israel,IL,ISR,376,Urban,3,Flush and pour flush - to pit,0.0,Country Communication  - IWAS10
+Israel,IL,ISR,376,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Country Communication  - IWAS10
+Israel,IL,ISR,376,Urban,5,Flush and pour flush - to elsewhere,0.0,Country Communication  - IWAS10
+Israel,IL,ISR,376,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Country Communication  - IWAS10
+Israel,IL,ISR,376,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Country Communication  - IWAS10
+Israel,IL,ISR,376,Urban,8,Dry latrines - Traditional latrine,0.0,Country Communication  - IWAS10
+Israel,IL,ISR,376,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Country Communication  - IWAS10
+Israel,IL,ISR,376,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Country Communication  - IWAS10
+Israel,IL,ISR,376,Urban,11,Dry latrines - Bucket latrine,0.0,Country Communication  - IWAS10
+Israel,IL,ISR,376,Urban,12,Dry latrines - Other,0.0,Country Communication  - IWAS10
+Israel,IL,ISR,376,Urban,13,Composting toilets,0.0,Country Communication  - IWAS10
+Israel,IL,ISR,376,Urban,14,Other improved,0.0,Country Communication  - IWAS10
+Israel,IL,ISR,376,Urban,15,"No facility, bush, field",0.0,Country Communication  - IWAS10
+Israel,IL,ISR,376,Urban,16,Other unimproved,0.0,Country Communication  - IWAS10
+Israel,IL,ISR,376,Urban,17,DK/missing information,0.0,Country Communication  - IWAS10
+Israel,IL,ISR,376,Rural,1,Flush and pour flush - to piped sewer system,0.95,Country Communication  - IWAS10
+Israel,IL,ISR,376,Rural,2,Flush and pour flush - to septic tank,0.05,Country Communication  - IWAS10
+Israel,IL,ISR,376,Rural,3,Flush and pour flush - to pit,0.0,Country Communication  - IWAS10
+Israel,IL,ISR,376,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Country Communication  - IWAS10
+Israel,IL,ISR,376,Rural,5,Flush and pour flush - to elsewhere,0.0,Country Communication  - IWAS10
+Israel,IL,ISR,376,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Country Communication  - IWAS10
+Israel,IL,ISR,376,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Country Communication  - IWAS10
+Israel,IL,ISR,376,Rural,8,Dry latrines - Traditional latrine,0.0,Country Communication  - IWAS10
+Israel,IL,ISR,376,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Country Communication  - IWAS10
+Israel,IL,ISR,376,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Country Communication  - IWAS10
+Israel,IL,ISR,376,Rural,11,Dry latrines - Bucket latrine,0.0,Country Communication  - IWAS10
+Israel,IL,ISR,376,Rural,12,Dry latrines - Other,0.0,Country Communication  - IWAS10
+Israel,IL,ISR,376,Rural,13,Composting toilets,0.0,Country Communication  - IWAS10
+Israel,IL,ISR,376,Rural,14,Other improved,0.0,Country Communication  - IWAS10
+Israel,IL,ISR,376,Rural,15,"No facility, bush, field",0.0,Country Communication  - IWAS10
+Israel,IL,ISR,376,Rural,16,Other unimproved,0.0,Country Communication  - IWAS10
+Israel,IL,ISR,376,Rural,17,DK/missing information,0.0,Country Communication  - IWAS10
+Israel,IL,ISR,376,National,1,Flush and pour flush - to piped sewer system,0.0,Country Communication  - IWAS10
+Israel,IL,ISR,376,National,2,Flush and pour flush - to septic tank,0.0,Country Communication  - IWAS10
+Israel,IL,ISR,376,National,3,Flush and pour flush - to pit,0.0,Country Communication  - IWAS10
+Israel,IL,ISR,376,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Country Communication  - IWAS10
+Israel,IL,ISR,376,National,5,Flush and pour flush - to elsewhere,0.0,Country Communication  - IWAS10
+Israel,IL,ISR,376,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Country Communication  - IWAS10
+Israel,IL,ISR,376,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Country Communication  - IWAS10
+Israel,IL,ISR,376,National,8,Dry latrines - Traditional latrine,0.0,Country Communication  - IWAS10
+Israel,IL,ISR,376,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Country Communication  - IWAS10
+Israel,IL,ISR,376,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Country Communication  - IWAS10
+Israel,IL,ISR,376,National,11,Dry latrines - Bucket latrine,0.0,Country Communication  - IWAS10
+Israel,IL,ISR,376,National,12,Dry latrines - Other,0.0,Country Communication  - IWAS10
+Israel,IL,ISR,376,National,13,Composting toilets,0.0,Country Communication  - IWAS10
+Israel,IL,ISR,376,National,14,Other improved,0.0,Country Communication  - IWAS10
+Israel,IL,ISR,376,National,15,"No facility, bush, field",0.0,Country Communication  - IWAS10
+Israel,IL,ISR,376,National,16,Other unimproved,0.0,Country Communication  - IWAS10
+Israel,IL,ISR,376,National,17,DK/missing information,0.0,Country Communication  - IWAS10

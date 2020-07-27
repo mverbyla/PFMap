@@ -1,4 +1,58 @@
 country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+Pakistan,PK,PAK,586,Urban,1,Flush and pour flush - to piped sewer system,0.0,Integrated Household Survey - PIHS02
+Pakistan,PK,PAK,586,Urban,2,Flush and pour flush - to septic tank,0.0,Integrated Household Survey - PIHS02
+Pakistan,PK,PAK,586,Urban,3,Flush and pour flush - to pit,0.0,Integrated Household Survey - PIHS02
+Pakistan,PK,PAK,586,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Integrated Household Survey - PIHS02
+Pakistan,PK,PAK,586,Urban,5,Flush and pour flush - to elsewhere,0.0,Integrated Household Survey - PIHS02
+Pakistan,PK,PAK,586,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Integrated Household Survey - PIHS02
+Pakistan,PK,PAK,586,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Integrated Household Survey - PIHS02
+Pakistan,PK,PAK,586,Urban,8,Dry latrines - Traditional latrine,0.05,Integrated Household Survey - PIHS02
+Pakistan,PK,PAK,586,Urban,8,Dry latrines - Traditional latrine,0.05,Integrated Household Survey - PIHS02
+Pakistan,PK,PAK,586,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Integrated Household Survey - PIHS02
+Pakistan,PK,PAK,586,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Integrated Household Survey - PIHS02
+Pakistan,PK,PAK,586,Urban,11,Dry latrines - Bucket latrine,0.0,Integrated Household Survey - PIHS02
+Pakistan,PK,PAK,586,Urban,12,Dry latrines - Other,0.0,Integrated Household Survey - PIHS02
+Pakistan,PK,PAK,586,Urban,13,Composting toilets,0.0,Integrated Household Survey - PIHS02
+Pakistan,PK,PAK,586,Urban,14,Other improved,0.0,Integrated Household Survey - PIHS02
+Pakistan,PK,PAK,586,Urban,15,"No facility, bush, field",0.05,Integrated Household Survey - PIHS02
+Pakistan,PK,PAK,586,Urban,16,Other unimproved,0.0,Integrated Household Survey - PIHS02
+Pakistan,PK,PAK,586,Urban,17,DK/missing information,0.0,Integrated Household Survey - PIHS02
+Pakistan,PK,PAK,586,Rural,1,Flush and pour flush - to piped sewer system,0.0,Integrated Household Survey - PIHS02
+Pakistan,PK,PAK,586,Rural,2,Flush and pour flush - to septic tank,0.0,Integrated Household Survey - PIHS02
+Pakistan,PK,PAK,586,Rural,3,Flush and pour flush - to pit,0.0,Integrated Household Survey - PIHS02
+Pakistan,PK,PAK,586,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Integrated Household Survey - PIHS02
+Pakistan,PK,PAK,586,Rural,5,Flush and pour flush - to elsewhere,0.0,Integrated Household Survey - PIHS02
+Pakistan,PK,PAK,586,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Integrated Household Survey - PIHS02
+Pakistan,PK,PAK,586,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Integrated Household Survey - PIHS02
+Pakistan,PK,PAK,586,Rural,8,Dry latrines - Traditional latrine,0.15,Integrated Household Survey - PIHS02
+Pakistan,PK,PAK,586,Rural,8,Dry latrines - Traditional latrine,0.15,Integrated Household Survey - PIHS02
+Pakistan,PK,PAK,586,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Integrated Household Survey - PIHS02
+Pakistan,PK,PAK,586,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Integrated Household Survey - PIHS02
+Pakistan,PK,PAK,586,Rural,11,Dry latrines - Bucket latrine,0.0,Integrated Household Survey - PIHS02
+Pakistan,PK,PAK,586,Rural,12,Dry latrines - Other,0.0,Integrated Household Survey - PIHS02
+Pakistan,PK,PAK,586,Rural,13,Composting toilets,0.0,Integrated Household Survey - PIHS02
+Pakistan,PK,PAK,586,Rural,14,Other improved,0.0,Integrated Household Survey - PIHS02
+Pakistan,PK,PAK,586,Rural,15,"No facility, bush, field",0.59,Integrated Household Survey - PIHS02
+Pakistan,PK,PAK,586,Rural,16,Other unimproved,0.0,Integrated Household Survey - PIHS02
+Pakistan,PK,PAK,586,Rural,17,DK/missing information,0.0,Integrated Household Survey - PIHS02
+Pakistan,PK,PAK,586,National,1,Flush and pour flush - to piped sewer system,0.0,Integrated Household Survey - PIHS02
+Pakistan,PK,PAK,586,National,2,Flush and pour flush - to septic tank,0.0,Integrated Household Survey - PIHS02
+Pakistan,PK,PAK,586,National,3,Flush and pour flush - to pit,0.0,Integrated Household Survey - PIHS02
+Pakistan,PK,PAK,586,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Integrated Household Survey - PIHS02
+Pakistan,PK,PAK,586,National,5,Flush and pour flush - to elsewhere,0.0,Integrated Household Survey - PIHS02
+Pakistan,PK,PAK,586,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Integrated Household Survey - PIHS02
+Pakistan,PK,PAK,586,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Integrated Household Survey - PIHS02
+Pakistan,PK,PAK,586,National,8,Dry latrines - Traditional latrine,0.12,Integrated Household Survey - PIHS02
+Pakistan,PK,PAK,586,National,8,Dry latrines - Traditional latrine,0.12,Integrated Household Survey - PIHS02
+Pakistan,PK,PAK,586,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Integrated Household Survey - PIHS02
+Pakistan,PK,PAK,586,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Integrated Household Survey - PIHS02
+Pakistan,PK,PAK,586,National,11,Dry latrines - Bucket latrine,0.0,Integrated Household Survey - PIHS02
+Pakistan,PK,PAK,586,National,12,Dry latrines - Other,0.0,Integrated Household Survey - PIHS02
+Pakistan,PK,PAK,586,National,13,Composting toilets,0.0,Integrated Household Survey - PIHS02
+Pakistan,PK,PAK,586,National,14,Other improved,0.0,Integrated Household Survey - PIHS02
+Pakistan,PK,PAK,586,National,15,"No facility, bush, field",0.43,Integrated Household Survey - PIHS02
+Pakistan,PK,PAK,586,National,16,Other unimproved,0.0,Integrated Household Survey - PIHS02
+Pakistan,PK,PAK,586,National,17,DK/missing information,0.0,Integrated Household Survey - PIHS02
 Pakistan,PK,PAK,586,Urban,1,Flush and pour flush - to piped sewer system,0.517,Core Welfare Indicators Questionnaire - CWIQ05
 Pakistan,PK,PAK,586,Urban,2,Flush and pour flush - to septic tank,0.231,Core Welfare Indicators Questionnaire - CWIQ05
 Pakistan,PK,PAK,586,Urban,3,Flush and pour flush - to pit,0.0,Core Welfare Indicators Questionnaire - CWIQ05
@@ -33,6 +87,23 @@ Pakistan,PK,PAK,586,Rural,14,Other improved,0.0,Core Welfare Indicators Question
 Pakistan,PK,PAK,586,Rural,15,"No facility, bush, field",0.406,Core Welfare Indicators Questionnaire - CWIQ05
 Pakistan,PK,PAK,586,Rural,16,Other unimproved,0.087,Core Welfare Indicators Questionnaire - CWIQ05
 Pakistan,PK,PAK,586,Rural,17,DK/missing information,0.0,Core Welfare Indicators Questionnaire - CWIQ05
+Pakistan,PK,PAK,586,National,1,Flush and pour flush - to piped sewer system,0.185,Core Welfare Indicators Questionnaire - CWIQ05
+Pakistan,PK,PAK,586,National,2,Flush and pour flush - to septic tank,0.237,Core Welfare Indicators Questionnaire - CWIQ05
+Pakistan,PK,PAK,586,National,3,Flush and pour flush - to pit,0.0,Core Welfare Indicators Questionnaire - CWIQ05
+Pakistan,PK,PAK,586,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Core Welfare Indicators Questionnaire - CWIQ05
+Pakistan,PK,PAK,586,National,5,Flush and pour flush - to elsewhere,0.106,Core Welfare Indicators Questionnaire - CWIQ05
+Pakistan,PK,PAK,586,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Core Welfare Indicators Questionnaire - CWIQ05
+Pakistan,PK,PAK,586,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Core Welfare Indicators Questionnaire - CWIQ05
+Pakistan,PK,PAK,586,National,8,Dry latrines - Traditional latrine,0.074,Core Welfare Indicators Questionnaire - CWIQ05
+Pakistan,PK,PAK,586,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Core Welfare Indicators Questionnaire - CWIQ05
+Pakistan,PK,PAK,586,National,10,Dry latrines - Hanging toilet/hanging latrine,0.044,Core Welfare Indicators Questionnaire - CWIQ05
+Pakistan,PK,PAK,586,National,11,Dry latrines - Bucket latrine,0.0,Core Welfare Indicators Questionnaire - CWIQ05
+Pakistan,PK,PAK,586,National,12,Dry latrines - Other,0.0,Core Welfare Indicators Questionnaire - CWIQ05
+Pakistan,PK,PAK,586,National,13,Composting toilets,0.0,Core Welfare Indicators Questionnaire - CWIQ05
+Pakistan,PK,PAK,586,National,14,Other improved,0.0,Core Welfare Indicators Questionnaire - CWIQ05
+Pakistan,PK,PAK,586,National,15,"No facility, bush, field",0.294,Core Welfare Indicators Questionnaire - CWIQ05
+Pakistan,PK,PAK,586,National,16,Other unimproved,0.061,Core Welfare Indicators Questionnaire - CWIQ05
+Pakistan,PK,PAK,586,National,17,DK/missing information,0.0,Core Welfare Indicators Questionnaire - CWIQ05
 Pakistan,PK,PAK,586,Urban,1,Flush and pour flush - to piped sewer system,0.531,Pakistan Social & Living Standards Measurement Survey 05-06 - PSLM06
 Pakistan,PK,PAK,586,Urban,2,Flush and pour flush - to septic tank,0.242,Pakistan Social & Living Standards Measurement Survey 05-06 - PSLM06
 Pakistan,PK,PAK,586,Urban,3,Flush and pour flush - to pit,0.0,Pakistan Social & Living Standards Measurement Survey 05-06 - PSLM06
@@ -67,6 +138,23 @@ Pakistan,PK,PAK,586,Rural,14,Other improved,0.0,Pakistan Social & Living Standar
 Pakistan,PK,PAK,586,Rural,15,"No facility, bush, field",0.438,Pakistan Social & Living Standards Measurement Survey 05-06 - PSLM06
 Pakistan,PK,PAK,586,Rural,16,Other unimproved,0.0,Pakistan Social & Living Standards Measurement Survey 05-06 - PSLM06
 Pakistan,PK,PAK,586,Rural,17,DK/missing information,0.0,Pakistan Social & Living Standards Measurement Survey 05-06 - PSLM06
+Pakistan,PK,PAK,586,National,1,Flush and pour flush - to piped sewer system,0.196,Pakistan Social & Living Standards Measurement Survey 05-06 - PSLM06
+Pakistan,PK,PAK,586,National,2,Flush and pour flush - to septic tank,0.29,Pakistan Social & Living Standards Measurement Survey 05-06 - PSLM06
+Pakistan,PK,PAK,586,National,3,Flush and pour flush - to pit,0.0,Pakistan Social & Living Standards Measurement Survey 05-06 - PSLM06
+Pakistan,PK,PAK,586,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Pakistan Social & Living Standards Measurement Survey 05-06 - PSLM06
+Pakistan,PK,PAK,586,National,5,Flush and pour flush - to elsewhere,0.109,Pakistan Social & Living Standards Measurement Survey 05-06 - PSLM06
+Pakistan,PK,PAK,586,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Pakistan Social & Living Standards Measurement Survey 05-06 - PSLM06
+Pakistan,PK,PAK,586,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Pakistan Social & Living Standards Measurement Survey 05-06 - PSLM06
+Pakistan,PK,PAK,586,National,8,Dry latrines - Traditional latrine,0.045,Pakistan Social & Living Standards Measurement Survey 05-06 - PSLM06
+Pakistan,PK,PAK,586,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Pakistan Social & Living Standards Measurement Survey 05-06 - PSLM06
+Pakistan,PK,PAK,586,National,10,Dry latrines - Hanging toilet/hanging latrine,0.063,Pakistan Social & Living Standards Measurement Survey 05-06 - PSLM06
+Pakistan,PK,PAK,586,National,11,Dry latrines - Bucket latrine,0.0,Pakistan Social & Living Standards Measurement Survey 05-06 - PSLM06
+Pakistan,PK,PAK,586,National,12,Dry latrines - Other,0.0,Pakistan Social & Living Standards Measurement Survey 05-06 - PSLM06
+Pakistan,PK,PAK,586,National,13,Composting toilets,0.0,Pakistan Social & Living Standards Measurement Survey 05-06 - PSLM06
+Pakistan,PK,PAK,586,National,14,Other improved,0.0,Pakistan Social & Living Standards Measurement Survey 05-06 - PSLM06
+Pakistan,PK,PAK,586,National,15,"No facility, bush, field",0.296,Pakistan Social & Living Standards Measurement Survey 05-06 - PSLM06
+Pakistan,PK,PAK,586,National,16,Other unimproved,0.0,Pakistan Social & Living Standards Measurement Survey 05-06 - PSLM06
+Pakistan,PK,PAK,586,National,17,DK/missing information,0.0,Pakistan Social & Living Standards Measurement Survey 05-06 - PSLM06
 Pakistan,PK,PAK,586,Urban,1,Flush and pour flush - to piped sewer system,0.669,Demographic and Health Survey - DHS07
 Pakistan,PK,PAK,586,Urban,2,Flush and pour flush - to septic tank,0.131,Demographic and Health Survey - DHS07
 Pakistan,PK,PAK,586,Urban,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS07
@@ -101,6 +189,23 @@ Pakistan,PK,PAK,586,Rural,14,Other improved,0.0,Demographic and Health Survey - 
 Pakistan,PK,PAK,586,Rural,15,"No facility, bush, field",0.412,Demographic and Health Survey - DHS07
 Pakistan,PK,PAK,586,Rural,16,Other unimproved,0.002,Demographic and Health Survey - DHS07
 Pakistan,PK,PAK,586,Rural,17,DK/missing information,0.0,Demographic and Health Survey - DHS07
+Pakistan,PK,PAK,586,National,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS07
+Pakistan,PK,PAK,586,National,2,Flush and pour flush - to septic tank,0.0,Demographic and Health Survey - DHS07
+Pakistan,PK,PAK,586,National,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS07
+Pakistan,PK,PAK,586,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS07
+Pakistan,PK,PAK,586,National,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS07
+Pakistan,PK,PAK,586,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - DHS07
+Pakistan,PK,PAK,586,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS07
+Pakistan,PK,PAK,586,National,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS07
+Pakistan,PK,PAK,586,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Survey - DHS07
+Pakistan,PK,PAK,586,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS07
+Pakistan,PK,PAK,586,National,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS07
+Pakistan,PK,PAK,586,National,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS07
+Pakistan,PK,PAK,586,National,13,Composting toilets,0.0,Demographic and Health Survey - DHS07
+Pakistan,PK,PAK,586,National,14,Other improved,0.0,Demographic and Health Survey - DHS07
+Pakistan,PK,PAK,586,National,15,"No facility, bush, field",0.0,Demographic and Health Survey - DHS07
+Pakistan,PK,PAK,586,National,16,Other unimproved,0.0,Demographic and Health Survey - DHS07
+Pakistan,PK,PAK,586,National,17,DK/missing information,0.0,Demographic and Health Survey - DHS07
 Pakistan,PK,PAK,586,Urban,1,Flush and pour flush - to piped sewer system,0.557,Pakistan Social & Living Standards Measurement Survey 06-07 - PSLM07
 Pakistan,PK,PAK,586,Urban,2,Flush and pour flush - to septic tank,0.189,Pakistan Social & Living Standards Measurement Survey 06-07 - PSLM07
 Pakistan,PK,PAK,586,Urban,3,Flush and pour flush - to pit,0.0,Pakistan Social & Living Standards Measurement Survey 06-07 - PSLM07
@@ -141,6 +246,26 @@ Pakistan,PK,PAK,586,Rural,14,Other improved,0.0,Pakistan Social & Living Standar
 Pakistan,PK,PAK,586,Rural,15,"No facility, bush, field",0.387,Pakistan Social & Living Standards Measurement Survey 06-07 - PSLM07
 Pakistan,PK,PAK,586,Rural,16,Other unimproved,0.059,Pakistan Social & Living Standards Measurement Survey 06-07 - PSLM07
 Pakistan,PK,PAK,586,Rural,17,DK/missing information,0.0,Pakistan Social & Living Standards Measurement Survey 06-07 - PSLM07
+Pakistan,PK,PAK,586,National,1,Flush and pour flush - to piped sewer system,0.219,Pakistan Social & Living Standards Measurement Survey 06-07 - PSLM07
+Pakistan,PK,PAK,586,National,2,Flush and pour flush - to septic tank,0.231,Pakistan Social & Living Standards Measurement Survey 06-07 - PSLM07
+Pakistan,PK,PAK,586,National,3,Flush and pour flush - to pit,0.0,Pakistan Social & Living Standards Measurement Survey 06-07 - PSLM07
+Pakistan,PK,PAK,586,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Pakistan Social & Living Standards Measurement Survey 06-07 - PSLM07
+Pakistan,PK,PAK,586,National,5,Flush and pour flush - to elsewhere,0.134,Pakistan Social & Living Standards Measurement Survey 06-07 - PSLM07
+Pakistan,PK,PAK,586,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Pakistan Social & Living Standards Measurement Survey 06-07 - PSLM07
+Pakistan,PK,PAK,586,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Pakistan Social & Living Standards Measurement Survey 06-07 - PSLM07
+Pakistan,PK,PAK,586,National,8,Dry latrines - Traditional latrine,0.065,Pakistan Social & Living Standards Measurement Survey 06-07 - PSLM07
+Pakistan,PK,PAK,586,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Pakistan Social & Living Standards Measurement Survey 06-07 - PSLM07
+Pakistan,PK,PAK,586,National,10,Dry latrines - Hanging toilet/hanging latrine,0.042,Pakistan Social & Living Standards Measurement Survey 06-07 - PSLM07
+Pakistan,PK,PAK,586,National,8,Dry latrines - Traditional latrine,0.065,Pakistan Social & Living Standards Measurement Survey 06-07 - PSLM07
+Pakistan,PK,PAK,586,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Pakistan Social & Living Standards Measurement Survey 06-07 - PSLM07
+Pakistan,PK,PAK,586,National,10,Dry latrines - Hanging toilet/hanging latrine,0.042,Pakistan Social & Living Standards Measurement Survey 06-07 - PSLM07
+Pakistan,PK,PAK,586,National,11,Dry latrines - Bucket latrine,0.0,Pakistan Social & Living Standards Measurement Survey 06-07 - PSLM07
+Pakistan,PK,PAK,586,National,12,Dry latrines - Other,0.0,Pakistan Social & Living Standards Measurement Survey 06-07 - PSLM07
+Pakistan,PK,PAK,586,National,13,Composting toilets,0.0,Pakistan Social & Living Standards Measurement Survey 06-07 - PSLM07
+Pakistan,PK,PAK,586,National,14,Other improved,0.0,Pakistan Social & Living Standards Measurement Survey 06-07 - PSLM07
+Pakistan,PK,PAK,586,National,15,"No facility, bush, field",0.268,Pakistan Social & Living Standards Measurement Survey 06-07 - PSLM07
+Pakistan,PK,PAK,586,National,16,Other unimproved,0.041,Pakistan Social & Living Standards Measurement Survey 06-07 - PSLM07
+Pakistan,PK,PAK,586,National,17,DK/missing information,0.0,Pakistan Social & Living Standards Measurement Survey 06-07 - PSLM07
 Pakistan,PK,PAK,586,Urban,1,Flush and pour flush - to piped sewer system,0.549,Pakistan Social & Living Standards Measurement Survey 07-08 - PSLM08
 Pakistan,PK,PAK,586,Urban,2,Flush and pour flush - to septic tank,0.245,Pakistan Social & Living Standards Measurement Survey 07-08 - PSLM08
 Pakistan,PK,PAK,586,Urban,3,Flush and pour flush - to pit,0.0,Pakistan Social & Living Standards Measurement Survey 07-08 - PSLM08
@@ -175,6 +300,23 @@ Pakistan,PK,PAK,586,Rural,14,Other improved,0.0,Pakistan Social & Living Standar
 Pakistan,PK,PAK,586,Rural,15,"No facility, bush, field",0.346,Pakistan Social & Living Standards Measurement Survey 07-08 - PSLM08
 Pakistan,PK,PAK,586,Rural,16,Other unimproved,0.0,Pakistan Social & Living Standards Measurement Survey 07-08 - PSLM08
 Pakistan,PK,PAK,586,Rural,17,DK/missing information,0.0,Pakistan Social & Living Standards Measurement Survey 07-08 - PSLM08
+Pakistan,PK,PAK,586,National,1,Flush and pour flush - to piped sewer system,0.222,Pakistan Social & Living Standards Measurement Survey 07-08 - PSLM08
+Pakistan,PK,PAK,586,National,2,Flush and pour flush - to septic tank,0.321,Pakistan Social & Living Standards Measurement Survey 07-08 - PSLM08
+Pakistan,PK,PAK,586,National,3,Flush and pour flush - to pit,0.0,Pakistan Social & Living Standards Measurement Survey 07-08 - PSLM08
+Pakistan,PK,PAK,586,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Pakistan Social & Living Standards Measurement Survey 07-08 - PSLM08
+Pakistan,PK,PAK,586,National,5,Flush and pour flush - to elsewhere,0.118,Pakistan Social & Living Standards Measurement Survey 07-08 - PSLM08
+Pakistan,PK,PAK,586,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Pakistan Social & Living Standards Measurement Survey 07-08 - PSLM08
+Pakistan,PK,PAK,586,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Pakistan Social & Living Standards Measurement Survey 07-08 - PSLM08
+Pakistan,PK,PAK,586,National,8,Dry latrines - Traditional latrine,0.039,Pakistan Social & Living Standards Measurement Survey 07-08 - PSLM08
+Pakistan,PK,PAK,586,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Pakistan Social & Living Standards Measurement Survey 07-08 - PSLM08
+Pakistan,PK,PAK,586,National,10,Dry latrines - Hanging toilet/hanging latrine,0.063,Pakistan Social & Living Standards Measurement Survey 07-08 - PSLM08
+Pakistan,PK,PAK,586,National,11,Dry latrines - Bucket latrine,0.0,Pakistan Social & Living Standards Measurement Survey 07-08 - PSLM08
+Pakistan,PK,PAK,586,National,12,Dry latrines - Other,0.0,Pakistan Social & Living Standards Measurement Survey 07-08 - PSLM08
+Pakistan,PK,PAK,586,National,13,Composting toilets,0.0,Pakistan Social & Living Standards Measurement Survey 07-08 - PSLM08
+Pakistan,PK,PAK,586,National,14,Other improved,0.0,Pakistan Social & Living Standards Measurement Survey 07-08 - PSLM08
+Pakistan,PK,PAK,586,National,15,"No facility, bush, field",0.237,Pakistan Social & Living Standards Measurement Survey 07-08 - PSLM08
+Pakistan,PK,PAK,586,National,16,Other unimproved,0.0,Pakistan Social & Living Standards Measurement Survey 07-08 - PSLM08
+Pakistan,PK,PAK,586,National,17,DK/missing information,0.0,Pakistan Social & Living Standards Measurement Survey 07-08 - PSLM08
 Pakistan,PK,PAK,586,Urban,1,Flush and pour flush - to piped sewer system,0.548,Pakistan Social & Living Standards Measurement Survey 08-09 - PSLM09
 Pakistan,PK,PAK,586,Urban,2,Flush and pour flush - to septic tank,0.194,Pakistan Social & Living Standards Measurement Survey 08-09 - PSLM09
 Pakistan,PK,PAK,586,Urban,3,Flush and pour flush - to pit,0.0,Pakistan Social & Living Standards Measurement Survey 08-09 - PSLM09
@@ -209,6 +351,125 @@ Pakistan,PK,PAK,586,Rural,14,Other improved,0.0,Pakistan Social & Living Standar
 Pakistan,PK,PAK,586,Rural,15,"No facility, bush, field",0.326,Pakistan Social & Living Standards Measurement Survey 08-09 - PSLM09
 Pakistan,PK,PAK,586,Rural,16,Other unimproved,0.031,Pakistan Social & Living Standards Measurement Survey 08-09 - PSLM09
 Pakistan,PK,PAK,586,Rural,17,DK/missing information,0.0,Pakistan Social & Living Standards Measurement Survey 08-09 - PSLM09
+Pakistan,PK,PAK,586,National,1,Flush and pour flush - to piped sewer system,0.206,Pakistan Social & Living Standards Measurement Survey 08-09 - PSLM09
+Pakistan,PK,PAK,586,National,2,Flush and pour flush - to septic tank,0.253,Pakistan Social & Living Standards Measurement Survey 08-09 - PSLM09
+Pakistan,PK,PAK,586,National,3,Flush and pour flush - to pit,0.0,Pakistan Social & Living Standards Measurement Survey 08-09 - PSLM09
+Pakistan,PK,PAK,586,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Pakistan Social & Living Standards Measurement Survey 08-09 - PSLM09
+Pakistan,PK,PAK,586,National,5,Flush and pour flush - to elsewhere,0.172,Pakistan Social & Living Standards Measurement Survey 08-09 - PSLM09
+Pakistan,PK,PAK,586,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Pakistan Social & Living Standards Measurement Survey 08-09 - PSLM09
+Pakistan,PK,PAK,586,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Pakistan Social & Living Standards Measurement Survey 08-09 - PSLM09
+Pakistan,PK,PAK,586,National,8,Dry latrines - Traditional latrine,0.078,Pakistan Social & Living Standards Measurement Survey 08-09 - PSLM09
+Pakistan,PK,PAK,586,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Pakistan Social & Living Standards Measurement Survey 08-09 - PSLM09
+Pakistan,PK,PAK,586,National,10,Dry latrines - Hanging toilet/hanging latrine,0.046,Pakistan Social & Living Standards Measurement Survey 08-09 - PSLM09
+Pakistan,PK,PAK,586,National,11,Dry latrines - Bucket latrine,0.0,Pakistan Social & Living Standards Measurement Survey 08-09 - PSLM09
+Pakistan,PK,PAK,586,National,12,Dry latrines - Other,0.0,Pakistan Social & Living Standards Measurement Survey 08-09 - PSLM09
+Pakistan,PK,PAK,586,National,13,Composting toilets,0.0,Pakistan Social & Living Standards Measurement Survey 08-09 - PSLM09
+Pakistan,PK,PAK,586,National,14,Other improved,0.0,Pakistan Social & Living Standards Measurement Survey 08-09 - PSLM09
+Pakistan,PK,PAK,586,National,15,"No facility, bush, field",0.223,Pakistan Social & Living Standards Measurement Survey 08-09 - PSLM09
+Pakistan,PK,PAK,586,National,16,Other unimproved,0.022,Pakistan Social & Living Standards Measurement Survey 08-09 - PSLM09
+Pakistan,PK,PAK,586,National,17,DK/missing information,0.0,Pakistan Social & Living Standards Measurement Survey 08-09 - PSLM09
+Pakistan,PK,PAK,586,Urban,1,Flush and pour flush - to piped sewer system,0.543,Pakistan Social and Living Standards Measurement Survey 2010-11 - PSLM11
+Pakistan,PK,PAK,586,Urban,2,Flush and pour flush - to septic tank,0.212,Pakistan Social and Living Standards Measurement Survey 2010-11 - PSLM11
+Pakistan,PK,PAK,586,Urban,3,Flush and pour flush - to pit,0.0,Pakistan Social and Living Standards Measurement Survey 2010-11 - PSLM11
+Pakistan,PK,PAK,586,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Pakistan Social and Living Standards Measurement Survey 2010-11 - PSLM11
+Pakistan,PK,PAK,586,Urban,5,Flush and pour flush - to elsewhere,0.193,Pakistan Social and Living Standards Measurement Survey 2010-11 - PSLM11
+Pakistan,PK,PAK,586,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Pakistan Social and Living Standards Measurement Survey 2010-11 - PSLM11
+Pakistan,PK,PAK,586,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Pakistan Social and Living Standards Measurement Survey 2010-11 - PSLM11
+Pakistan,PK,PAK,586,Urban,8,Dry latrines - Traditional latrine,0.022,Pakistan Social and Living Standards Measurement Survey 2010-11 - PSLM11
+Pakistan,PK,PAK,586,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Pakistan Social and Living Standards Measurement Survey 2010-11 - PSLM11
+Pakistan,PK,PAK,586,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.009,Pakistan Social and Living Standards Measurement Survey 2010-11 - PSLM11
+Pakistan,PK,PAK,586,Urban,11,Dry latrines - Bucket latrine,0.0,Pakistan Social and Living Standards Measurement Survey 2010-11 - PSLM11
+Pakistan,PK,PAK,586,Urban,12,Dry latrines - Other,0.0,Pakistan Social and Living Standards Measurement Survey 2010-11 - PSLM11
+Pakistan,PK,PAK,586,Urban,13,Composting toilets,0.0,Pakistan Social and Living Standards Measurement Survey 2010-11 - PSLM11
+Pakistan,PK,PAK,586,Urban,14,Other improved,0.0,Pakistan Social and Living Standards Measurement Survey 2010-11 - PSLM11
+Pakistan,PK,PAK,586,Urban,15,"No facility, bush, field",0.019,Pakistan Social and Living Standards Measurement Survey 2010-11 - PSLM11
+Pakistan,PK,PAK,586,Urban,16,Other unimproved,0.003,Pakistan Social and Living Standards Measurement Survey 2010-11 - PSLM11
+Pakistan,PK,PAK,586,Urban,17,DK/missing information,0.0,Pakistan Social and Living Standards Measurement Survey 2010-11 - PSLM11
+Pakistan,PK,PAK,586,Rural,1,Flush and pour flush - to piped sewer system,0.029,Pakistan Social and Living Standards Measurement Survey 2010-11 - PSLM11
+Pakistan,PK,PAK,586,Rural,2,Flush and pour flush - to septic tank,0.352,Pakistan Social and Living Standards Measurement Survey 2010-11 - PSLM11
+Pakistan,PK,PAK,586,Rural,3,Flush and pour flush - to pit,0.0,Pakistan Social and Living Standards Measurement Survey 2010-11 - PSLM11
+Pakistan,PK,PAK,586,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Pakistan Social and Living Standards Measurement Survey 2010-11 - PSLM11
+Pakistan,PK,PAK,586,Rural,5,Flush and pour flush - to elsewhere,0.164,Pakistan Social and Living Standards Measurement Survey 2010-11 - PSLM11
+Pakistan,PK,PAK,586,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Pakistan Social and Living Standards Measurement Survey 2010-11 - PSLM11
+Pakistan,PK,PAK,586,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Pakistan Social and Living Standards Measurement Survey 2010-11 - PSLM11
+Pakistan,PK,PAK,586,Rural,8,Dry latrines - Traditional latrine,0.11,Pakistan Social and Living Standards Measurement Survey 2010-11 - PSLM11
+Pakistan,PK,PAK,586,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Pakistan Social and Living Standards Measurement Survey 2010-11 - PSLM11
+Pakistan,PK,PAK,586,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.065,Pakistan Social and Living Standards Measurement Survey 2010-11 - PSLM11
+Pakistan,PK,PAK,586,Rural,11,Dry latrines - Bucket latrine,0.0,Pakistan Social and Living Standards Measurement Survey 2010-11 - PSLM11
+Pakistan,PK,PAK,586,Rural,12,Dry latrines - Other,0.0,Pakistan Social and Living Standards Measurement Survey 2010-11 - PSLM11
+Pakistan,PK,PAK,586,Rural,13,Composting toilets,0.0,Pakistan Social and Living Standards Measurement Survey 2010-11 - PSLM11
+Pakistan,PK,PAK,586,Rural,14,Other improved,0.0,Pakistan Social and Living Standards Measurement Survey 2010-11 - PSLM11
+Pakistan,PK,PAK,586,Rural,15,"No facility, bush, field",0.241,Pakistan Social and Living Standards Measurement Survey 2010-11 - PSLM11
+Pakistan,PK,PAK,586,Rural,16,Other unimproved,0.039,Pakistan Social and Living Standards Measurement Survey 2010-11 - PSLM11
+Pakistan,PK,PAK,586,Rural,17,DK/missing information,0.0,Pakistan Social and Living Standards Measurement Survey 2010-11 - PSLM11
+Pakistan,PK,PAK,586,National,1,Flush and pour flush - to piped sewer system,0.2,Pakistan Social and Living Standards Measurement Survey 2010-11 - PSLM11
+Pakistan,PK,PAK,586,National,2,Flush and pour flush - to septic tank,0.305,Pakistan Social and Living Standards Measurement Survey 2010-11 - PSLM11
+Pakistan,PK,PAK,586,National,3,Flush and pour flush - to pit,0.0,Pakistan Social and Living Standards Measurement Survey 2010-11 - PSLM11
+Pakistan,PK,PAK,586,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Pakistan Social and Living Standards Measurement Survey 2010-11 - PSLM11
+Pakistan,PK,PAK,586,National,5,Flush and pour flush - to elsewhere,0.174,Pakistan Social and Living Standards Measurement Survey 2010-11 - PSLM11
+Pakistan,PK,PAK,586,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Pakistan Social and Living Standards Measurement Survey 2010-11 - PSLM11
+Pakistan,PK,PAK,586,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Pakistan Social and Living Standards Measurement Survey 2010-11 - PSLM11
+Pakistan,PK,PAK,586,National,8,Dry latrines - Traditional latrine,0.081,Pakistan Social and Living Standards Measurement Survey 2010-11 - PSLM11
+Pakistan,PK,PAK,586,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Pakistan Social and Living Standards Measurement Survey 2010-11 - PSLM11
+Pakistan,PK,PAK,586,National,10,Dry latrines - Hanging toilet/hanging latrine,0.047,Pakistan Social and Living Standards Measurement Survey 2010-11 - PSLM11
+Pakistan,PK,PAK,586,National,11,Dry latrines - Bucket latrine,0.0,Pakistan Social and Living Standards Measurement Survey 2010-11 - PSLM11
+Pakistan,PK,PAK,586,National,12,Dry latrines - Other,0.0,Pakistan Social and Living Standards Measurement Survey 2010-11 - PSLM11
+Pakistan,PK,PAK,586,National,13,Composting toilets,0.0,Pakistan Social and Living Standards Measurement Survey 2010-11 - PSLM11
+Pakistan,PK,PAK,586,National,14,Other improved,0.0,Pakistan Social and Living Standards Measurement Survey 2010-11 - PSLM11
+Pakistan,PK,PAK,586,National,15,"No facility, bush, field",0.167,Pakistan Social and Living Standards Measurement Survey 2010-11 - PSLM11
+Pakistan,PK,PAK,586,National,16,Other unimproved,0.027,Pakistan Social and Living Standards Measurement Survey 2010-11 - PSLM11
+Pakistan,PK,PAK,586,National,17,DK/missing information,0.0,Pakistan Social and Living Standards Measurement Survey 2010-11 - PSLM11
+Pakistan,PK,PAK,586,Urban,1,Flush and pour flush - to piped sewer system,0.567,"Pakistan Social And Living Standards Measurement Survey, 2011-12 - PSLM12"
+Pakistan,PK,PAK,586,Urban,2,Flush and pour flush - to septic tank,0.0,"Pakistan Social And Living Standards Measurement Survey, 2011-12 - PSLM12"
+Pakistan,PK,PAK,586,Urban,3,Flush and pour flush - to pit,0.216,"Pakistan Social And Living Standards Measurement Survey, 2011-12 - PSLM12"
+Pakistan,PK,PAK,586,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Pakistan Social And Living Standards Measurement Survey, 2011-12 - PSLM12"
+Pakistan,PK,PAK,586,Urban,5,Flush and pour flush - to elsewhere,0.19,"Pakistan Social And Living Standards Measurement Survey, 2011-12 - PSLM12"
+Pakistan,PK,PAK,586,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Pakistan Social And Living Standards Measurement Survey, 2011-12 - PSLM12"
+Pakistan,PK,PAK,586,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Pakistan Social And Living Standards Measurement Survey, 2011-12 - PSLM12"
+Pakistan,PK,PAK,586,Urban,8,Dry latrines - Traditional latrine,0.013,"Pakistan Social And Living Standards Measurement Survey, 2011-12 - PSLM12"
+Pakistan,PK,PAK,586,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Pakistan Social And Living Standards Measurement Survey, 2011-12 - PSLM12"
+Pakistan,PK,PAK,586,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.006,"Pakistan Social And Living Standards Measurement Survey, 2011-12 - PSLM12"
+Pakistan,PK,PAK,586,Urban,11,Dry latrines - Bucket latrine,0.0,"Pakistan Social And Living Standards Measurement Survey, 2011-12 - PSLM12"
+Pakistan,PK,PAK,586,Urban,12,Dry latrines - Other,0.0,"Pakistan Social And Living Standards Measurement Survey, 2011-12 - PSLM12"
+Pakistan,PK,PAK,586,Urban,13,Composting toilets,0.0,"Pakistan Social And Living Standards Measurement Survey, 2011-12 - PSLM12"
+Pakistan,PK,PAK,586,Urban,14,Other improved,0.0,"Pakistan Social And Living Standards Measurement Survey, 2011-12 - PSLM12"
+Pakistan,PK,PAK,586,Urban,15,"No facility, bush, field",0.008,"Pakistan Social And Living Standards Measurement Survey, 2011-12 - PSLM12"
+Pakistan,PK,PAK,586,Urban,16,Other unimproved,0.0,"Pakistan Social And Living Standards Measurement Survey, 2011-12 - PSLM12"
+Pakistan,PK,PAK,586,Urban,17,DK/missing information,0.0,"Pakistan Social And Living Standards Measurement Survey, 2011-12 - PSLM12"
+Pakistan,PK,PAK,586,Rural,1,Flush and pour flush - to piped sewer system,0.035,"Pakistan Social And Living Standards Measurement Survey, 2011-12 - PSLM12"
+Pakistan,PK,PAK,586,Rural,2,Flush and pour flush - to septic tank,0.0,"Pakistan Social And Living Standards Measurement Survey, 2011-12 - PSLM12"
+Pakistan,PK,PAK,586,Rural,3,Flush and pour flush - to pit,0.396,"Pakistan Social And Living Standards Measurement Survey, 2011-12 - PSLM12"
+Pakistan,PK,PAK,586,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Pakistan Social And Living Standards Measurement Survey, 2011-12 - PSLM12"
+Pakistan,PK,PAK,586,Rural,5,Flush and pour flush - to elsewhere,0.154,"Pakistan Social And Living Standards Measurement Survey, 2011-12 - PSLM12"
+Pakistan,PK,PAK,586,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Pakistan Social And Living Standards Measurement Survey, 2011-12 - PSLM12"
+Pakistan,PK,PAK,586,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Pakistan Social And Living Standards Measurement Survey, 2011-12 - PSLM12"
+Pakistan,PK,PAK,586,Rural,8,Dry latrines - Traditional latrine,0.096,"Pakistan Social And Living Standards Measurement Survey, 2011-12 - PSLM12"
+Pakistan,PK,PAK,586,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Pakistan Social And Living Standards Measurement Survey, 2011-12 - PSLM12"
+Pakistan,PK,PAK,586,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.048,"Pakistan Social And Living Standards Measurement Survey, 2011-12 - PSLM12"
+Pakistan,PK,PAK,586,Rural,11,Dry latrines - Bucket latrine,0.0,"Pakistan Social And Living Standards Measurement Survey, 2011-12 - PSLM12"
+Pakistan,PK,PAK,586,Rural,12,Dry latrines - Other,0.0,"Pakistan Social And Living Standards Measurement Survey, 2011-12 - PSLM12"
+Pakistan,PK,PAK,586,Rural,13,Composting toilets,0.0,"Pakistan Social And Living Standards Measurement Survey, 2011-12 - PSLM12"
+Pakistan,PK,PAK,586,Rural,14,Other improved,0.0,"Pakistan Social And Living Standards Measurement Survey, 2011-12 - PSLM12"
+Pakistan,PK,PAK,586,Rural,15,"No facility, bush, field",0.272,"Pakistan Social And Living Standards Measurement Survey, 2011-12 - PSLM12"
+Pakistan,PK,PAK,586,Rural,16,Other unimproved,0.0,"Pakistan Social And Living Standards Measurement Survey, 2011-12 - PSLM12"
+Pakistan,PK,PAK,586,Rural,17,DK/missing information,0.0,"Pakistan Social And Living Standards Measurement Survey, 2011-12 - PSLM12"
+Pakistan,PK,PAK,586,National,1,Flush and pour flush - to piped sewer system,0.218,"Pakistan Social And Living Standards Measurement Survey, 2011-12 - PSLM12"
+Pakistan,PK,PAK,586,National,2,Flush and pour flush - to septic tank,0.0,"Pakistan Social And Living Standards Measurement Survey, 2011-12 - PSLM12"
+Pakistan,PK,PAK,586,National,3,Flush and pour flush - to pit,0.334,"Pakistan Social And Living Standards Measurement Survey, 2011-12 - PSLM12"
+Pakistan,PK,PAK,586,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Pakistan Social And Living Standards Measurement Survey, 2011-12 - PSLM12"
+Pakistan,PK,PAK,586,National,5,Flush and pour flush - to elsewhere,0.166,"Pakistan Social And Living Standards Measurement Survey, 2011-12 - PSLM12"
+Pakistan,PK,PAK,586,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Pakistan Social And Living Standards Measurement Survey, 2011-12 - PSLM12"
+Pakistan,PK,PAK,586,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Pakistan Social And Living Standards Measurement Survey, 2011-12 - PSLM12"
+Pakistan,PK,PAK,586,National,8,Dry latrines - Traditional latrine,0.067,"Pakistan Social And Living Standards Measurement Survey, 2011-12 - PSLM12"
+Pakistan,PK,PAK,586,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Pakistan Social And Living Standards Measurement Survey, 2011-12 - PSLM12"
+Pakistan,PK,PAK,586,National,10,Dry latrines - Hanging toilet/hanging latrine,0.033,"Pakistan Social And Living Standards Measurement Survey, 2011-12 - PSLM12"
+Pakistan,PK,PAK,586,National,11,Dry latrines - Bucket latrine,0.0,"Pakistan Social And Living Standards Measurement Survey, 2011-12 - PSLM12"
+Pakistan,PK,PAK,586,National,12,Dry latrines - Other,0.0,"Pakistan Social And Living Standards Measurement Survey, 2011-12 - PSLM12"
+Pakistan,PK,PAK,586,National,13,Composting toilets,0.0,"Pakistan Social And Living Standards Measurement Survey, 2011-12 - PSLM12"
+Pakistan,PK,PAK,586,National,14,Other improved,0.0,"Pakistan Social And Living Standards Measurement Survey, 2011-12 - PSLM12"
+Pakistan,PK,PAK,586,National,15,"No facility, bush, field",0.181,"Pakistan Social And Living Standards Measurement Survey, 2011-12 - PSLM12"
+Pakistan,PK,PAK,586,National,16,Other unimproved,0.0,"Pakistan Social And Living Standards Measurement Survey, 2011-12 - PSLM12"
+Pakistan,PK,PAK,586,National,17,DK/missing information,0.0,"Pakistan Social And Living Standards Measurement Survey, 2011-12 - PSLM12"
 Pakistan,PK,PAK,586,Urban,1,Flush and pour flush - to piped sewer system,0.543,Pakistan Social and Living Standards Measurement Survey 2012-13 - PSLM13
 Pakistan,PK,PAK,586,Urban,2,Flush and pour flush - to septic tank,0.209,Pakistan Social and Living Standards Measurement Survey 2012-13 - PSLM13
 Pakistan,PK,PAK,586,Urban,3,Flush and pour flush - to pit,0.0,Pakistan Social and Living Standards Measurement Survey 2012-13 - PSLM13
@@ -243,6 +504,23 @@ Pakistan,PK,PAK,586,Rural,14,Other improved,0.0,Pakistan Social and Living Stand
 Pakistan,PK,PAK,586,Rural,15,"No facility, bush, field",0.208,Pakistan Social and Living Standards Measurement Survey 2012-13 - PSLM13
 Pakistan,PK,PAK,586,Rural,16,Other unimproved,0.032,Pakistan Social and Living Standards Measurement Survey 2012-13 - PSLM13
 Pakistan,PK,PAK,586,Rural,17,DK/missing information,0.0,Pakistan Social and Living Standards Measurement Survey 2012-13 - PSLM13
+Pakistan,PK,PAK,586,National,1,Flush and pour flush - to piped sewer system,0.204,Pakistan Social and Living Standards Measurement Survey 2012-13 - PSLM13
+Pakistan,PK,PAK,586,National,2,Flush and pour flush - to septic tank,0.33,Pakistan Social and Living Standards Measurement Survey 2012-13 - PSLM13
+Pakistan,PK,PAK,586,National,3,Flush and pour flush - to pit,0.0,Pakistan Social and Living Standards Measurement Survey 2012-13 - PSLM13
+Pakistan,PK,PAK,586,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Pakistan Social and Living Standards Measurement Survey 2012-13 - PSLM13
+Pakistan,PK,PAK,586,National,5,Flush and pour flush - to elsewhere,0.175,Pakistan Social and Living Standards Measurement Survey 2012-13 - PSLM13
+Pakistan,PK,PAK,586,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Pakistan Social and Living Standards Measurement Survey 2012-13 - PSLM13
+Pakistan,PK,PAK,586,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Pakistan Social and Living Standards Measurement Survey 2012-13 - PSLM13
+Pakistan,PK,PAK,586,National,8,Dry latrines - Traditional latrine,0.073,Pakistan Social and Living Standards Measurement Survey 2012-13 - PSLM13
+Pakistan,PK,PAK,586,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Pakistan Social and Living Standards Measurement Survey 2012-13 - PSLM13
+Pakistan,PK,PAK,586,National,10,Dry latrines - Hanging toilet/hanging latrine,0.053,Pakistan Social and Living Standards Measurement Survey 2012-13 - PSLM13
+Pakistan,PK,PAK,586,National,11,Dry latrines - Bucket latrine,0.0,Pakistan Social and Living Standards Measurement Survey 2012-13 - PSLM13
+Pakistan,PK,PAK,586,National,12,Dry latrines - Other,0.0,Pakistan Social and Living Standards Measurement Survey 2012-13 - PSLM13
+Pakistan,PK,PAK,586,National,13,Composting toilets,0.0,Pakistan Social and Living Standards Measurement Survey 2012-13 - PSLM13
+Pakistan,PK,PAK,586,National,14,Other improved,0.0,Pakistan Social and Living Standards Measurement Survey 2012-13 - PSLM13
+Pakistan,PK,PAK,586,National,15,"No facility, bush, field",0.143,Pakistan Social and Living Standards Measurement Survey 2012-13 - PSLM13
+Pakistan,PK,PAK,586,National,16,Other unimproved,0.022,Pakistan Social and Living Standards Measurement Survey 2012-13 - PSLM13
+Pakistan,PK,PAK,586,National,17,DK/missing information,0.0,Pakistan Social and Living Standards Measurement Survey 2012-13 - PSLM13
 Pakistan,PK,PAK,586,Urban,1,Flush and pour flush - to piped sewer system,0.688,Demographic and Health Survey (PDHS) - DHS13
 Pakistan,PK,PAK,586,Urban,2,Flush and pour flush - to septic tank,0.154,Demographic and Health Survey (PDHS) - DHS13
 Pakistan,PK,PAK,586,Urban,3,Flush and pour flush - to pit,0.085,Demographic and Health Survey (PDHS) - DHS13
@@ -277,3 +555,140 @@ Pakistan,PK,PAK,586,Rural,14,Other improved,0.0,Demographic and Health Survey (P
 Pakistan,PK,PAK,586,Rural,15,"No facility, bush, field",0.315,Demographic and Health Survey (PDHS) - DHS13
 Pakistan,PK,PAK,586,Rural,16,Other unimproved,0.002,Demographic and Health Survey (PDHS) - DHS13
 Pakistan,PK,PAK,586,Rural,17,DK/missing information,0.0,Demographic and Health Survey (PDHS) - DHS13
+Pakistan,PK,PAK,586,National,1,Flush and pour flush - to piped sewer system,0.287,Demographic and Health Survey (PDHS) - DHS13
+Pakistan,PK,PAK,586,National,2,Flush and pour flush - to septic tank,0.198,Demographic and Health Survey (PDHS) - DHS13
+Pakistan,PK,PAK,586,National,3,Flush and pour flush - to pit,0.171,Demographic and Health Survey (PDHS) - DHS13
+Pakistan,PK,PAK,586,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.014,Demographic and Health Survey (PDHS) - DHS13
+Pakistan,PK,PAK,586,National,5,Flush and pour flush - to elsewhere,0.044,Demographic and Health Survey (PDHS) - DHS13
+Pakistan,PK,PAK,586,National,6,Dry latrines - Ventilated Improved Pit latrine,0.01,Demographic and Health Survey (PDHS) - DHS13
+Pakistan,PK,PAK,586,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.027,Demographic and Health Survey (PDHS) - DHS13
+Pakistan,PK,PAK,586,National,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey (PDHS) - DHS13
+Pakistan,PK,PAK,586,National,9,Dry latrines - Pit latrine without slab/open pit,0.027,Demographic and Health Survey (PDHS) - DHS13
+Pakistan,PK,PAK,586,National,10,Dry latrines - Hanging toilet/hanging latrine,0.002,Demographic and Health Survey (PDHS) - DHS13
+Pakistan,PK,PAK,586,National,11,Dry latrines - Bucket latrine,0.005,Demographic and Health Survey (PDHS) - DHS13
+Pakistan,PK,PAK,586,National,12,Dry latrines - Other,0.0,Demographic and Health Survey (PDHS) - DHS13
+Pakistan,PK,PAK,586,National,13,Composting toilets,0.0,Demographic and Health Survey (PDHS) - DHS13
+Pakistan,PK,PAK,586,National,14,Other improved,0.0,Demographic and Health Survey (PDHS) - DHS13
+Pakistan,PK,PAK,586,National,15,"No facility, bush, field",0.214,Demographic and Health Survey (PDHS) - DHS13
+Pakistan,PK,PAK,586,National,16,Other unimproved,0.002,Demographic and Health Survey (PDHS) - DHS13
+Pakistan,PK,PAK,586,National,17,DK/missing information,0.0,Demographic and Health Survey (PDHS) - DHS13
+Pakistan,PK,PAK,586,Urban,1,Flush and pour flush - to piped sewer system,0.582,Pakistan Social and Living Standards Measurement Survey 2014-15 - PSLM15
+Pakistan,PK,PAK,586,Urban,2,Flush and pour flush - to septic tank,0.185,Pakistan Social and Living Standards Measurement Survey 2014-15 - PSLM15
+Pakistan,PK,PAK,586,Urban,3,Flush and pour flush - to pit,0.0,Pakistan Social and Living Standards Measurement Survey 2014-15 - PSLM15
+Pakistan,PK,PAK,586,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Pakistan Social and Living Standards Measurement Survey 2014-15 - PSLM15
+Pakistan,PK,PAK,586,Urban,5,Flush and pour flush - to elsewhere,0.202,Pakistan Social and Living Standards Measurement Survey 2014-15 - PSLM15
+Pakistan,PK,PAK,586,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Pakistan Social and Living Standards Measurement Survey 2014-15 - PSLM15
+Pakistan,PK,PAK,586,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Pakistan Social and Living Standards Measurement Survey 2014-15 - PSLM15
+Pakistan,PK,PAK,586,Urban,8,Dry latrines - Traditional latrine,0.012,Pakistan Social and Living Standards Measurement Survey 2014-15 - PSLM15
+Pakistan,PK,PAK,586,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Pakistan Social and Living Standards Measurement Survey 2014-15 - PSLM15
+Pakistan,PK,PAK,586,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Pakistan Social and Living Standards Measurement Survey 2014-15 - PSLM15
+Pakistan,PK,PAK,586,Urban,11,Dry latrines - Bucket latrine,0.0,Pakistan Social and Living Standards Measurement Survey 2014-15 - PSLM15
+Pakistan,PK,PAK,586,Urban,12,Dry latrines - Other,0.008,Pakistan Social and Living Standards Measurement Survey 2014-15 - PSLM15
+Pakistan,PK,PAK,586,Urban,13,Composting toilets,0.0,Pakistan Social and Living Standards Measurement Survey 2014-15 - PSLM15
+Pakistan,PK,PAK,586,Urban,14,Other improved,0.0,Pakistan Social and Living Standards Measurement Survey 2014-15 - PSLM15
+Pakistan,PK,PAK,586,Urban,15,"No facility, bush, field",0.008,Pakistan Social and Living Standards Measurement Survey 2014-15 - PSLM15
+Pakistan,PK,PAK,586,Urban,16,Other unimproved,0.003,Pakistan Social and Living Standards Measurement Survey 2014-15 - PSLM15
+Pakistan,PK,PAK,586,Urban,17,DK/missing information,0.0,Pakistan Social and Living Standards Measurement Survey 2014-15 - PSLM15
+Pakistan,PK,PAK,586,Rural,1,Flush and pour flush - to piped sewer system,0.05,Pakistan Social and Living Standards Measurement Survey 2014-15 - PSLM15
+Pakistan,PK,PAK,586,Rural,2,Flush and pour flush - to septic tank,0.411,Pakistan Social and Living Standards Measurement Survey 2014-15 - PSLM15
+Pakistan,PK,PAK,586,Rural,3,Flush and pour flush - to pit,0.0,Pakistan Social and Living Standards Measurement Survey 2014-15 - PSLM15
+Pakistan,PK,PAK,586,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Pakistan Social and Living Standards Measurement Survey 2014-15 - PSLM15
+Pakistan,PK,PAK,586,Rural,5,Flush and pour flush - to elsewhere,0.136,Pakistan Social and Living Standards Measurement Survey 2014-15 - PSLM15
+Pakistan,PK,PAK,586,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Pakistan Social and Living Standards Measurement Survey 2014-15 - PSLM15
+Pakistan,PK,PAK,586,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Pakistan Social and Living Standards Measurement Survey 2014-15 - PSLM15
+Pakistan,PK,PAK,586,Rural,8,Dry latrines - Traditional latrine,0.106,Pakistan Social and Living Standards Measurement Survey 2014-15 - PSLM15
+Pakistan,PK,PAK,586,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Pakistan Social and Living Standards Measurement Survey 2014-15 - PSLM15
+Pakistan,PK,PAK,586,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Pakistan Social and Living Standards Measurement Survey 2014-15 - PSLM15
+Pakistan,PK,PAK,586,Rural,11,Dry latrines - Bucket latrine,0.0,Pakistan Social and Living Standards Measurement Survey 2014-15 - PSLM15
+Pakistan,PK,PAK,586,Rural,12,Dry latrines - Other,0.073,Pakistan Social and Living Standards Measurement Survey 2014-15 - PSLM15
+Pakistan,PK,PAK,586,Rural,13,Composting toilets,0.0,Pakistan Social and Living Standards Measurement Survey 2014-15 - PSLM15
+Pakistan,PK,PAK,586,Rural,14,Other improved,0.0,Pakistan Social and Living Standards Measurement Survey 2014-15 - PSLM15
+Pakistan,PK,PAK,586,Rural,15,"No facility, bush, field",0.206,Pakistan Social and Living Standards Measurement Survey 2014-15 - PSLM15
+Pakistan,PK,PAK,586,Rural,16,Other unimproved,0.018,Pakistan Social and Living Standards Measurement Survey 2014-15 - PSLM15
+Pakistan,PK,PAK,586,Rural,17,DK/missing information,0.0,Pakistan Social and Living Standards Measurement Survey 2014-15 - PSLM15
+Pakistan,PK,PAK,586,National,1,Flush and pour flush - to piped sewer system,0.247,Pakistan Social and Living Standards Measurement Survey 2014-15 - PSLM15
+Pakistan,PK,PAK,586,National,2,Flush and pour flush - to septic tank,0.327,Pakistan Social and Living Standards Measurement Survey 2014-15 - PSLM15
+Pakistan,PK,PAK,586,National,3,Flush and pour flush - to pit,0.0,Pakistan Social and Living Standards Measurement Survey 2014-15 - PSLM15
+Pakistan,PK,PAK,586,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Pakistan Social and Living Standards Measurement Survey 2014-15 - PSLM15
+Pakistan,PK,PAK,586,National,5,Flush and pour flush - to elsewhere,0.16,Pakistan Social and Living Standards Measurement Survey 2014-15 - PSLM15
+Pakistan,PK,PAK,586,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Pakistan Social and Living Standards Measurement Survey 2014-15 - PSLM15
+Pakistan,PK,PAK,586,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Pakistan Social and Living Standards Measurement Survey 2014-15 - PSLM15
+Pakistan,PK,PAK,586,National,8,Dry latrines - Traditional latrine,0.071,Pakistan Social and Living Standards Measurement Survey 2014-15 - PSLM15
+Pakistan,PK,PAK,586,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Pakistan Social and Living Standards Measurement Survey 2014-15 - PSLM15
+Pakistan,PK,PAK,586,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Pakistan Social and Living Standards Measurement Survey 2014-15 - PSLM15
+Pakistan,PK,PAK,586,National,11,Dry latrines - Bucket latrine,0.0,Pakistan Social and Living Standards Measurement Survey 2014-15 - PSLM15
+Pakistan,PK,PAK,586,National,12,Dry latrines - Other,0.049,Pakistan Social and Living Standards Measurement Survey 2014-15 - PSLM15
+Pakistan,PK,PAK,586,National,13,Composting toilets,0.0,Pakistan Social and Living Standards Measurement Survey 2014-15 - PSLM15
+Pakistan,PK,PAK,586,National,14,Other improved,0.0,Pakistan Social and Living Standards Measurement Survey 2014-15 - PSLM15
+Pakistan,PK,PAK,586,National,15,"No facility, bush, field",0.133,Pakistan Social and Living Standards Measurement Survey 2014-15 - PSLM15
+Pakistan,PK,PAK,586,National,16,Other unimproved,0.012,Pakistan Social and Living Standards Measurement Survey 2014-15 - PSLM15
+Pakistan,PK,PAK,586,National,17,DK/missing information,0.0,Pakistan Social and Living Standards Measurement Survey 2014-15 - PSLM15
+Pakistan,PK,PAK,586,Urban,1,Flush and pour flush - to piped sewer system,0.554,Household Expenditure Income Survey - HIES16
+Pakistan,PK,PAK,586,Urban,2,Flush and pour flush - to septic tank,0.0,Household Expenditure Income Survey - HIES16
+Pakistan,PK,PAK,586,Urban,3,Flush and pour flush - to pit,0.237,Household Expenditure Income Survey - HIES16
+Pakistan,PK,PAK,586,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Expenditure Income Survey - HIES16
+Pakistan,PK,PAK,586,Urban,5,Flush and pour flush - to elsewhere,0.187,Household Expenditure Income Survey - HIES16
+Pakistan,PK,PAK,586,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Expenditure Income Survey - HIES16
+Pakistan,PK,PAK,586,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.001,Household Expenditure Income Survey - HIES16
+Pakistan,PK,PAK,586,Urban,8,Dry latrines - Traditional latrine,0.01,Household Expenditure Income Survey - HIES16
+Pakistan,PK,PAK,586,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Expenditure Income Survey - HIES16
+Pakistan,PK,PAK,586,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Expenditure Income Survey - HIES16
+Pakistan,PK,PAK,586,Urban,11,Dry latrines - Bucket latrine,0.0,Household Expenditure Income Survey - HIES16
+Pakistan,PK,PAK,586,Urban,12,Dry latrines - Other,0.002,Household Expenditure Income Survey - HIES16
+Pakistan,PK,PAK,586,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.001,Household Expenditure Income Survey - HIES16
+Pakistan,PK,PAK,586,Urban,8,Dry latrines - Traditional latrine,0.0,Household Expenditure Income Survey - HIES16
+Pakistan,PK,PAK,586,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Expenditure Income Survey - HIES16
+Pakistan,PK,PAK,586,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Expenditure Income Survey - HIES16
+Pakistan,PK,PAK,586,Urban,11,Dry latrines - Bucket latrine,0.0,Household Expenditure Income Survey - HIES16
+Pakistan,PK,PAK,586,Urban,12,Dry latrines - Other,0.0,Household Expenditure Income Survey - HIES16
+Pakistan,PK,PAK,586,Urban,13,Composting toilets,0.0,Household Expenditure Income Survey - HIES16
+Pakistan,PK,PAK,586,Urban,14,Other improved,0.0,Household Expenditure Income Survey - HIES16
+Pakistan,PK,PAK,586,Urban,15,"No facility, bush, field",0.008,Household Expenditure Income Survey - HIES16
+Pakistan,PK,PAK,586,Urban,16,Other unimproved,0.002,Household Expenditure Income Survey - HIES16
+Pakistan,PK,PAK,586,Urban,17,DK/missing information,0.0,Household Expenditure Income Survey - HIES16
+Pakistan,PK,PAK,586,Rural,1,Flush and pour flush - to piped sewer system,0.053,Household Expenditure Income Survey - HIES16
+Pakistan,PK,PAK,586,Rural,2,Flush and pour flush - to septic tank,0.0,Household Expenditure Income Survey - HIES16
+Pakistan,PK,PAK,586,Rural,3,Flush and pour flush - to pit,0.501,Household Expenditure Income Survey - HIES16
+Pakistan,PK,PAK,586,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Expenditure Income Survey - HIES16
+Pakistan,PK,PAK,586,Rural,5,Flush and pour flush - to elsewhere,0.076,Household Expenditure Income Survey - HIES16
+Pakistan,PK,PAK,586,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Expenditure Income Survey - HIES16
+Pakistan,PK,PAK,586,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.002,Household Expenditure Income Survey - HIES16
+Pakistan,PK,PAK,586,Rural,8,Dry latrines - Traditional latrine,0.095,Household Expenditure Income Survey - HIES16
+Pakistan,PK,PAK,586,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Expenditure Income Survey - HIES16
+Pakistan,PK,PAK,586,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Expenditure Income Survey - HIES16
+Pakistan,PK,PAK,586,Rural,11,Dry latrines - Bucket latrine,0.0,Household Expenditure Income Survey - HIES16
+Pakistan,PK,PAK,586,Rural,12,Dry latrines - Other,0.034,Household Expenditure Income Survey - HIES16
+Pakistan,PK,PAK,586,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.002,Household Expenditure Income Survey - HIES16
+Pakistan,PK,PAK,586,Rural,8,Dry latrines - Traditional latrine,0.0,Household Expenditure Income Survey - HIES16
+Pakistan,PK,PAK,586,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Expenditure Income Survey - HIES16
+Pakistan,PK,PAK,586,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Expenditure Income Survey - HIES16
+Pakistan,PK,PAK,586,Rural,11,Dry latrines - Bucket latrine,0.0,Household Expenditure Income Survey - HIES16
+Pakistan,PK,PAK,586,Rural,12,Dry latrines - Other,0.0,Household Expenditure Income Survey - HIES16
+Pakistan,PK,PAK,586,Rural,13,Composting toilets,0.0,Household Expenditure Income Survey - HIES16
+Pakistan,PK,PAK,586,Rural,14,Other improved,0.0,Household Expenditure Income Survey - HIES16
+Pakistan,PK,PAK,586,Rural,15,"No facility, bush, field",0.23,Household Expenditure Income Survey - HIES16
+Pakistan,PK,PAK,586,Rural,16,Other unimproved,0.009,Household Expenditure Income Survey - HIES16
+Pakistan,PK,PAK,586,Rural,17,DK/missing information,0.0,Household Expenditure Income Survey - HIES16
+Pakistan,PK,PAK,586,National,1,Flush and pour flush - to piped sewer system,0.236,Household Expenditure Income Survey - HIES16
+Pakistan,PK,PAK,586,National,2,Flush and pour flush - to septic tank,0.0,Household Expenditure Income Survey - HIES16
+Pakistan,PK,PAK,586,National,3,Flush and pour flush - to pit,0.404,Household Expenditure Income Survey - HIES16
+Pakistan,PK,PAK,586,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Expenditure Income Survey - HIES16
+Pakistan,PK,PAK,586,National,5,Flush and pour flush - to elsewhere,0.117,Household Expenditure Income Survey - HIES16
+Pakistan,PK,PAK,586,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Expenditure Income Survey - HIES16
+Pakistan,PK,PAK,586,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.002,Household Expenditure Income Survey - HIES16
+Pakistan,PK,PAK,586,National,8,Dry latrines - Traditional latrine,0.064,Household Expenditure Income Survey - HIES16
+Pakistan,PK,PAK,586,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Expenditure Income Survey - HIES16
+Pakistan,PK,PAK,586,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Expenditure Income Survey - HIES16
+Pakistan,PK,PAK,586,National,11,Dry latrines - Bucket latrine,0.0,Household Expenditure Income Survey - HIES16
+Pakistan,PK,PAK,586,National,12,Dry latrines - Other,0.022,Household Expenditure Income Survey - HIES16
+Pakistan,PK,PAK,586,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.002,Household Expenditure Income Survey - HIES16
+Pakistan,PK,PAK,586,National,8,Dry latrines - Traditional latrine,0.0,Household Expenditure Income Survey - HIES16
+Pakistan,PK,PAK,586,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Expenditure Income Survey - HIES16
+Pakistan,PK,PAK,586,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Expenditure Income Survey - HIES16
+Pakistan,PK,PAK,586,National,11,Dry latrines - Bucket latrine,0.0,Household Expenditure Income Survey - HIES16
+Pakistan,PK,PAK,586,National,12,Dry latrines - Other,0.0,Household Expenditure Income Survey - HIES16
+Pakistan,PK,PAK,586,National,13,Composting toilets,0.0,Household Expenditure Income Survey - HIES16
+Pakistan,PK,PAK,586,National,14,Other improved,0.0,Household Expenditure Income Survey - HIES16
+Pakistan,PK,PAK,586,National,15,"No facility, bush, field",0.149,Household Expenditure Income Survey - HIES16
+Pakistan,PK,PAK,586,National,16,Other unimproved,0.006,Household Expenditure Income Survey - HIES16
+Pakistan,PK,PAK,586,National,17,DK/missing information,0.0,Household Expenditure Income Survey - HIES16

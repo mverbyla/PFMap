@@ -1,0 +1,970 @@
+country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+New Zealand,NZ,NZL,554,Urban,1,Flush and pour flush - to piped sewer system,0.0,OECD - OECD00
+New Zealand,NZ,NZL,554,Urban,2,Flush and pour flush - to septic tank,0.0,OECD - OECD00
+New Zealand,NZ,NZL,554,Urban,3,Flush and pour flush - to pit,0.0,OECD - OECD00
+New Zealand,NZ,NZL,554,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD00
+New Zealand,NZ,NZL,554,Urban,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD00
+New Zealand,NZ,NZL,554,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD00
+New Zealand,NZ,NZL,554,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD00
+New Zealand,NZ,NZL,554,Urban,8,Dry latrines - Traditional latrine,0.0,OECD - OECD00
+New Zealand,NZ,NZL,554,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD00
+New Zealand,NZ,NZL,554,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD00
+New Zealand,NZ,NZL,554,Urban,11,Dry latrines - Bucket latrine,0.0,OECD - OECD00
+New Zealand,NZ,NZL,554,Urban,12,Dry latrines - Other,0.0,OECD - OECD00
+New Zealand,NZ,NZL,554,Urban,13,Composting toilets,0.0,OECD - OECD00
+New Zealand,NZ,NZL,554,Urban,14,Other improved,0.0,OECD - OECD00
+New Zealand,NZ,NZL,554,Urban,15,"No facility, bush, field",0.0,OECD - OECD00
+New Zealand,NZ,NZL,554,Urban,16,Other unimproved,0.0,OECD - OECD00
+New Zealand,NZ,NZL,554,Urban,17,DK/missing information,0.0,OECD - OECD00
+New Zealand,NZ,NZL,554,Rural,1,Flush and pour flush - to piped sewer system,0.0,OECD - OECD00
+New Zealand,NZ,NZL,554,Rural,2,Flush and pour flush - to septic tank,0.0,OECD - OECD00
+New Zealand,NZ,NZL,554,Rural,3,Flush and pour flush - to pit,0.0,OECD - OECD00
+New Zealand,NZ,NZL,554,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD00
+New Zealand,NZ,NZL,554,Rural,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD00
+New Zealand,NZ,NZL,554,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD00
+New Zealand,NZ,NZL,554,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD00
+New Zealand,NZ,NZL,554,Rural,8,Dry latrines - Traditional latrine,0.0,OECD - OECD00
+New Zealand,NZ,NZL,554,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD00
+New Zealand,NZ,NZL,554,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD00
+New Zealand,NZ,NZL,554,Rural,11,Dry latrines - Bucket latrine,0.0,OECD - OECD00
+New Zealand,NZ,NZL,554,Rural,12,Dry latrines - Other,0.0,OECD - OECD00
+New Zealand,NZ,NZL,554,Rural,13,Composting toilets,0.0,OECD - OECD00
+New Zealand,NZ,NZL,554,Rural,14,Other improved,0.0,OECD - OECD00
+New Zealand,NZ,NZL,554,Rural,15,"No facility, bush, field",0.0,OECD - OECD00
+New Zealand,NZ,NZL,554,Rural,16,Other unimproved,0.0,OECD - OECD00
+New Zealand,NZ,NZL,554,Rural,17,DK/missing information,0.0,OECD - OECD00
+New Zealand,NZ,NZL,554,National,1,Flush and pour flush - to piped sewer system,0.81,OECD - OECD00
+New Zealand,NZ,NZL,554,National,2,Flush and pour flush - to septic tank,0.0,OECD - OECD00
+New Zealand,NZ,NZL,554,National,3,Flush and pour flush - to pit,0.0,OECD - OECD00
+New Zealand,NZ,NZL,554,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD00
+New Zealand,NZ,NZL,554,National,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD00
+New Zealand,NZ,NZL,554,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD00
+New Zealand,NZ,NZL,554,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD00
+New Zealand,NZ,NZL,554,National,8,Dry latrines - Traditional latrine,0.0,OECD - OECD00
+New Zealand,NZ,NZL,554,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD00
+New Zealand,NZ,NZL,554,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD00
+New Zealand,NZ,NZL,554,National,11,Dry latrines - Bucket latrine,0.0,OECD - OECD00
+New Zealand,NZ,NZL,554,National,12,Dry latrines - Other,0.0,OECD - OECD00
+New Zealand,NZ,NZL,554,National,13,Composting toilets,0.0,OECD - OECD00
+New Zealand,NZ,NZL,554,National,14,Other improved,0.0,OECD - OECD00
+New Zealand,NZ,NZL,554,National,15,"No facility, bush, field",0.0,OECD - OECD00
+New Zealand,NZ,NZL,554,National,16,Other unimproved,0.19,OECD - OECD00
+New Zealand,NZ,NZL,554,National,17,DK/missing information,0.0,OECD - OECD00
+New Zealand,NZ,NZL,554,Urban,1,Flush and pour flush - to piped sewer system,0.0,OECD - OECD01
+New Zealand,NZ,NZL,554,Urban,2,Flush and pour flush - to septic tank,0.0,OECD - OECD01
+New Zealand,NZ,NZL,554,Urban,3,Flush and pour flush - to pit,0.0,OECD - OECD01
+New Zealand,NZ,NZL,554,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD01
+New Zealand,NZ,NZL,554,Urban,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD01
+New Zealand,NZ,NZL,554,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD01
+New Zealand,NZ,NZL,554,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD01
+New Zealand,NZ,NZL,554,Urban,8,Dry latrines - Traditional latrine,0.0,OECD - OECD01
+New Zealand,NZ,NZL,554,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD01
+New Zealand,NZ,NZL,554,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD01
+New Zealand,NZ,NZL,554,Urban,11,Dry latrines - Bucket latrine,0.0,OECD - OECD01
+New Zealand,NZ,NZL,554,Urban,12,Dry latrines - Other,0.0,OECD - OECD01
+New Zealand,NZ,NZL,554,Urban,13,Composting toilets,0.0,OECD - OECD01
+New Zealand,NZ,NZL,554,Urban,14,Other improved,0.0,OECD - OECD01
+New Zealand,NZ,NZL,554,Urban,15,"No facility, bush, field",0.0,OECD - OECD01
+New Zealand,NZ,NZL,554,Urban,16,Other unimproved,0.0,OECD - OECD01
+New Zealand,NZ,NZL,554,Urban,17,DK/missing information,0.0,OECD - OECD01
+New Zealand,NZ,NZL,554,Rural,1,Flush and pour flush - to piped sewer system,0.0,OECD - OECD01
+New Zealand,NZ,NZL,554,Rural,2,Flush and pour flush - to septic tank,0.0,OECD - OECD01
+New Zealand,NZ,NZL,554,Rural,3,Flush and pour flush - to pit,0.0,OECD - OECD01
+New Zealand,NZ,NZL,554,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD01
+New Zealand,NZ,NZL,554,Rural,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD01
+New Zealand,NZ,NZL,554,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD01
+New Zealand,NZ,NZL,554,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD01
+New Zealand,NZ,NZL,554,Rural,8,Dry latrines - Traditional latrine,0.0,OECD - OECD01
+New Zealand,NZ,NZL,554,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD01
+New Zealand,NZ,NZL,554,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD01
+New Zealand,NZ,NZL,554,Rural,11,Dry latrines - Bucket latrine,0.0,OECD - OECD01
+New Zealand,NZ,NZL,554,Rural,12,Dry latrines - Other,0.0,OECD - OECD01
+New Zealand,NZ,NZL,554,Rural,13,Composting toilets,0.0,OECD - OECD01
+New Zealand,NZ,NZL,554,Rural,14,Other improved,0.0,OECD - OECD01
+New Zealand,NZ,NZL,554,Rural,15,"No facility, bush, field",0.0,OECD - OECD01
+New Zealand,NZ,NZL,554,Rural,16,Other unimproved,0.0,OECD - OECD01
+New Zealand,NZ,NZL,554,Rural,17,DK/missing information,0.0,OECD - OECD01
+New Zealand,NZ,NZL,554,National,1,Flush and pour flush - to piped sewer system,0.81,OECD - OECD01
+New Zealand,NZ,NZL,554,National,2,Flush and pour flush - to septic tank,0.0,OECD - OECD01
+New Zealand,NZ,NZL,554,National,3,Flush and pour flush - to pit,0.0,OECD - OECD01
+New Zealand,NZ,NZL,554,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD01
+New Zealand,NZ,NZL,554,National,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD01
+New Zealand,NZ,NZL,554,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD01
+New Zealand,NZ,NZL,554,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD01
+New Zealand,NZ,NZL,554,National,8,Dry latrines - Traditional latrine,0.0,OECD - OECD01
+New Zealand,NZ,NZL,554,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD01
+New Zealand,NZ,NZL,554,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD01
+New Zealand,NZ,NZL,554,National,11,Dry latrines - Bucket latrine,0.0,OECD - OECD01
+New Zealand,NZ,NZL,554,National,12,Dry latrines - Other,0.0,OECD - OECD01
+New Zealand,NZ,NZL,554,National,13,Composting toilets,0.0,OECD - OECD01
+New Zealand,NZ,NZL,554,National,14,Other improved,0.0,OECD - OECD01
+New Zealand,NZ,NZL,554,National,15,"No facility, bush, field",0.0,OECD - OECD01
+New Zealand,NZ,NZL,554,National,16,Other unimproved,0.19,OECD - OECD01
+New Zealand,NZ,NZL,554,National,17,DK/missing information,0.0,OECD - OECD01
+New Zealand,NZ,NZL,554,Urban,1,Flush and pour flush - to piped sewer system,0.0,OECD - OECD02
+New Zealand,NZ,NZL,554,Urban,2,Flush and pour flush - to septic tank,0.0,OECD - OECD02
+New Zealand,NZ,NZL,554,Urban,3,Flush and pour flush - to pit,0.0,OECD - OECD02
+New Zealand,NZ,NZL,554,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD02
+New Zealand,NZ,NZL,554,Urban,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD02
+New Zealand,NZ,NZL,554,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD02
+New Zealand,NZ,NZL,554,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD02
+New Zealand,NZ,NZL,554,Urban,8,Dry latrines - Traditional latrine,0.0,OECD - OECD02
+New Zealand,NZ,NZL,554,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD02
+New Zealand,NZ,NZL,554,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD02
+New Zealand,NZ,NZL,554,Urban,11,Dry latrines - Bucket latrine,0.0,OECD - OECD02
+New Zealand,NZ,NZL,554,Urban,12,Dry latrines - Other,0.0,OECD - OECD02
+New Zealand,NZ,NZL,554,Urban,13,Composting toilets,0.0,OECD - OECD02
+New Zealand,NZ,NZL,554,Urban,14,Other improved,0.0,OECD - OECD02
+New Zealand,NZ,NZL,554,Urban,15,"No facility, bush, field",0.0,OECD - OECD02
+New Zealand,NZ,NZL,554,Urban,16,Other unimproved,0.0,OECD - OECD02
+New Zealand,NZ,NZL,554,Urban,17,DK/missing information,0.0,OECD - OECD02
+New Zealand,NZ,NZL,554,Rural,1,Flush and pour flush - to piped sewer system,0.0,OECD - OECD02
+New Zealand,NZ,NZL,554,Rural,2,Flush and pour flush - to septic tank,0.0,OECD - OECD02
+New Zealand,NZ,NZL,554,Rural,3,Flush and pour flush - to pit,0.0,OECD - OECD02
+New Zealand,NZ,NZL,554,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD02
+New Zealand,NZ,NZL,554,Rural,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD02
+New Zealand,NZ,NZL,554,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD02
+New Zealand,NZ,NZL,554,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD02
+New Zealand,NZ,NZL,554,Rural,8,Dry latrines - Traditional latrine,0.0,OECD - OECD02
+New Zealand,NZ,NZL,554,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD02
+New Zealand,NZ,NZL,554,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD02
+New Zealand,NZ,NZL,554,Rural,11,Dry latrines - Bucket latrine,0.0,OECD - OECD02
+New Zealand,NZ,NZL,554,Rural,12,Dry latrines - Other,0.0,OECD - OECD02
+New Zealand,NZ,NZL,554,Rural,13,Composting toilets,0.0,OECD - OECD02
+New Zealand,NZ,NZL,554,Rural,14,Other improved,0.0,OECD - OECD02
+New Zealand,NZ,NZL,554,Rural,15,"No facility, bush, field",0.0,OECD - OECD02
+New Zealand,NZ,NZL,554,Rural,16,Other unimproved,0.0,OECD - OECD02
+New Zealand,NZ,NZL,554,Rural,17,DK/missing information,0.0,OECD - OECD02
+New Zealand,NZ,NZL,554,National,1,Flush and pour flush - to piped sewer system,0.81,OECD - OECD02
+New Zealand,NZ,NZL,554,National,2,Flush and pour flush - to septic tank,0.0,OECD - OECD02
+New Zealand,NZ,NZL,554,National,3,Flush and pour flush - to pit,0.0,OECD - OECD02
+New Zealand,NZ,NZL,554,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD02
+New Zealand,NZ,NZL,554,National,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD02
+New Zealand,NZ,NZL,554,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD02
+New Zealand,NZ,NZL,554,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD02
+New Zealand,NZ,NZL,554,National,8,Dry latrines - Traditional latrine,0.0,OECD - OECD02
+New Zealand,NZ,NZL,554,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD02
+New Zealand,NZ,NZL,554,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD02
+New Zealand,NZ,NZL,554,National,11,Dry latrines - Bucket latrine,0.0,OECD - OECD02
+New Zealand,NZ,NZL,554,National,12,Dry latrines - Other,0.0,OECD - OECD02
+New Zealand,NZ,NZL,554,National,13,Composting toilets,0.0,OECD - OECD02
+New Zealand,NZ,NZL,554,National,14,Other improved,0.0,OECD - OECD02
+New Zealand,NZ,NZL,554,National,15,"No facility, bush, field",0.0,OECD - OECD02
+New Zealand,NZ,NZL,554,National,16,Other unimproved,0.19,OECD - OECD02
+New Zealand,NZ,NZL,554,National,17,DK/missing information,0.0,OECD - OECD02
+New Zealand,NZ,NZL,554,Urban,1,Flush and pour flush - to piped sewer system,0.0,OECD - OECD03
+New Zealand,NZ,NZL,554,Urban,2,Flush and pour flush - to septic tank,0.0,OECD - OECD03
+New Zealand,NZ,NZL,554,Urban,3,Flush and pour flush - to pit,0.0,OECD - OECD03
+New Zealand,NZ,NZL,554,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD03
+New Zealand,NZ,NZL,554,Urban,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD03
+New Zealand,NZ,NZL,554,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD03
+New Zealand,NZ,NZL,554,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD03
+New Zealand,NZ,NZL,554,Urban,8,Dry latrines - Traditional latrine,0.0,OECD - OECD03
+New Zealand,NZ,NZL,554,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD03
+New Zealand,NZ,NZL,554,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD03
+New Zealand,NZ,NZL,554,Urban,11,Dry latrines - Bucket latrine,0.0,OECD - OECD03
+New Zealand,NZ,NZL,554,Urban,12,Dry latrines - Other,0.0,OECD - OECD03
+New Zealand,NZ,NZL,554,Urban,13,Composting toilets,0.0,OECD - OECD03
+New Zealand,NZ,NZL,554,Urban,14,Other improved,0.0,OECD - OECD03
+New Zealand,NZ,NZL,554,Urban,15,"No facility, bush, field",0.0,OECD - OECD03
+New Zealand,NZ,NZL,554,Urban,16,Other unimproved,0.0,OECD - OECD03
+New Zealand,NZ,NZL,554,Urban,17,DK/missing information,0.0,OECD - OECD03
+New Zealand,NZ,NZL,554,Rural,1,Flush and pour flush - to piped sewer system,0.0,OECD - OECD03
+New Zealand,NZ,NZL,554,Rural,2,Flush and pour flush - to septic tank,0.0,OECD - OECD03
+New Zealand,NZ,NZL,554,Rural,3,Flush and pour flush - to pit,0.0,OECD - OECD03
+New Zealand,NZ,NZL,554,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD03
+New Zealand,NZ,NZL,554,Rural,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD03
+New Zealand,NZ,NZL,554,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD03
+New Zealand,NZ,NZL,554,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD03
+New Zealand,NZ,NZL,554,Rural,8,Dry latrines - Traditional latrine,0.0,OECD - OECD03
+New Zealand,NZ,NZL,554,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD03
+New Zealand,NZ,NZL,554,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD03
+New Zealand,NZ,NZL,554,Rural,11,Dry latrines - Bucket latrine,0.0,OECD - OECD03
+New Zealand,NZ,NZL,554,Rural,12,Dry latrines - Other,0.0,OECD - OECD03
+New Zealand,NZ,NZL,554,Rural,13,Composting toilets,0.0,OECD - OECD03
+New Zealand,NZ,NZL,554,Rural,14,Other improved,0.0,OECD - OECD03
+New Zealand,NZ,NZL,554,Rural,15,"No facility, bush, field",0.0,OECD - OECD03
+New Zealand,NZ,NZL,554,Rural,16,Other unimproved,0.0,OECD - OECD03
+New Zealand,NZ,NZL,554,Rural,17,DK/missing information,0.0,OECD - OECD03
+New Zealand,NZ,NZL,554,National,1,Flush and pour flush - to piped sewer system,0.81,OECD - OECD03
+New Zealand,NZ,NZL,554,National,2,Flush and pour flush - to septic tank,0.0,OECD - OECD03
+New Zealand,NZ,NZL,554,National,3,Flush and pour flush - to pit,0.0,OECD - OECD03
+New Zealand,NZ,NZL,554,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD03
+New Zealand,NZ,NZL,554,National,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD03
+New Zealand,NZ,NZL,554,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD03
+New Zealand,NZ,NZL,554,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD03
+New Zealand,NZ,NZL,554,National,8,Dry latrines - Traditional latrine,0.0,OECD - OECD03
+New Zealand,NZ,NZL,554,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD03
+New Zealand,NZ,NZL,554,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD03
+New Zealand,NZ,NZL,554,National,11,Dry latrines - Bucket latrine,0.0,OECD - OECD03
+New Zealand,NZ,NZL,554,National,12,Dry latrines - Other,0.0,OECD - OECD03
+New Zealand,NZ,NZL,554,National,13,Composting toilets,0.0,OECD - OECD03
+New Zealand,NZ,NZL,554,National,14,Other improved,0.0,OECD - OECD03
+New Zealand,NZ,NZL,554,National,15,"No facility, bush, field",0.0,OECD - OECD03
+New Zealand,NZ,NZL,554,National,16,Other unimproved,0.19,OECD - OECD03
+New Zealand,NZ,NZL,554,National,17,DK/missing information,0.0,OECD - OECD03
+New Zealand,NZ,NZL,554,Urban,1,Flush and pour flush - to piped sewer system,0.0,OECD - OECD04
+New Zealand,NZ,NZL,554,Urban,2,Flush and pour flush - to septic tank,0.0,OECD - OECD04
+New Zealand,NZ,NZL,554,Urban,3,Flush and pour flush - to pit,0.0,OECD - OECD04
+New Zealand,NZ,NZL,554,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD04
+New Zealand,NZ,NZL,554,Urban,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD04
+New Zealand,NZ,NZL,554,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD04
+New Zealand,NZ,NZL,554,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD04
+New Zealand,NZ,NZL,554,Urban,8,Dry latrines - Traditional latrine,0.0,OECD - OECD04
+New Zealand,NZ,NZL,554,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD04
+New Zealand,NZ,NZL,554,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD04
+New Zealand,NZ,NZL,554,Urban,11,Dry latrines - Bucket latrine,0.0,OECD - OECD04
+New Zealand,NZ,NZL,554,Urban,12,Dry latrines - Other,0.0,OECD - OECD04
+New Zealand,NZ,NZL,554,Urban,13,Composting toilets,0.0,OECD - OECD04
+New Zealand,NZ,NZL,554,Urban,14,Other improved,0.0,OECD - OECD04
+New Zealand,NZ,NZL,554,Urban,15,"No facility, bush, field",0.0,OECD - OECD04
+New Zealand,NZ,NZL,554,Urban,16,Other unimproved,0.0,OECD - OECD04
+New Zealand,NZ,NZL,554,Urban,17,DK/missing information,0.0,OECD - OECD04
+New Zealand,NZ,NZL,554,Rural,1,Flush and pour flush - to piped sewer system,0.0,OECD - OECD04
+New Zealand,NZ,NZL,554,Rural,2,Flush and pour flush - to septic tank,0.0,OECD - OECD04
+New Zealand,NZ,NZL,554,Rural,3,Flush and pour flush - to pit,0.0,OECD - OECD04
+New Zealand,NZ,NZL,554,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD04
+New Zealand,NZ,NZL,554,Rural,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD04
+New Zealand,NZ,NZL,554,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD04
+New Zealand,NZ,NZL,554,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD04
+New Zealand,NZ,NZL,554,Rural,8,Dry latrines - Traditional latrine,0.0,OECD - OECD04
+New Zealand,NZ,NZL,554,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD04
+New Zealand,NZ,NZL,554,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD04
+New Zealand,NZ,NZL,554,Rural,11,Dry latrines - Bucket latrine,0.0,OECD - OECD04
+New Zealand,NZ,NZL,554,Rural,12,Dry latrines - Other,0.0,OECD - OECD04
+New Zealand,NZ,NZL,554,Rural,13,Composting toilets,0.0,OECD - OECD04
+New Zealand,NZ,NZL,554,Rural,14,Other improved,0.0,OECD - OECD04
+New Zealand,NZ,NZL,554,Rural,15,"No facility, bush, field",0.0,OECD - OECD04
+New Zealand,NZ,NZL,554,Rural,16,Other unimproved,0.0,OECD - OECD04
+New Zealand,NZ,NZL,554,Rural,17,DK/missing information,0.0,OECD - OECD04
+New Zealand,NZ,NZL,554,National,1,Flush and pour flush - to piped sewer system,0.81,OECD - OECD04
+New Zealand,NZ,NZL,554,National,2,Flush and pour flush - to septic tank,0.0,OECD - OECD04
+New Zealand,NZ,NZL,554,National,3,Flush and pour flush - to pit,0.0,OECD - OECD04
+New Zealand,NZ,NZL,554,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD04
+New Zealand,NZ,NZL,554,National,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD04
+New Zealand,NZ,NZL,554,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD04
+New Zealand,NZ,NZL,554,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD04
+New Zealand,NZ,NZL,554,National,8,Dry latrines - Traditional latrine,0.0,OECD - OECD04
+New Zealand,NZ,NZL,554,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD04
+New Zealand,NZ,NZL,554,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD04
+New Zealand,NZ,NZL,554,National,11,Dry latrines - Bucket latrine,0.0,OECD - OECD04
+New Zealand,NZ,NZL,554,National,12,Dry latrines - Other,0.0,OECD - OECD04
+New Zealand,NZ,NZL,554,National,13,Composting toilets,0.0,OECD - OECD04
+New Zealand,NZ,NZL,554,National,14,Other improved,0.0,OECD - OECD04
+New Zealand,NZ,NZL,554,National,15,"No facility, bush, field",0.0,OECD - OECD04
+New Zealand,NZ,NZL,554,National,16,Other unimproved,0.19,OECD - OECD04
+New Zealand,NZ,NZL,554,National,17,DK/missing information,0.0,OECD - OECD04
+New Zealand,NZ,NZL,554,Urban,1,Flush and pour flush - to piped sewer system,0.0,OECD - OECD05
+New Zealand,NZ,NZL,554,Urban,2,Flush and pour flush - to septic tank,0.0,OECD - OECD05
+New Zealand,NZ,NZL,554,Urban,3,Flush and pour flush - to pit,0.0,OECD - OECD05
+New Zealand,NZ,NZL,554,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD05
+New Zealand,NZ,NZL,554,Urban,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD05
+New Zealand,NZ,NZL,554,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD05
+New Zealand,NZ,NZL,554,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD05
+New Zealand,NZ,NZL,554,Urban,8,Dry latrines - Traditional latrine,0.0,OECD - OECD05
+New Zealand,NZ,NZL,554,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD05
+New Zealand,NZ,NZL,554,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD05
+New Zealand,NZ,NZL,554,Urban,11,Dry latrines - Bucket latrine,0.0,OECD - OECD05
+New Zealand,NZ,NZL,554,Urban,12,Dry latrines - Other,0.0,OECD - OECD05
+New Zealand,NZ,NZL,554,Urban,13,Composting toilets,0.0,OECD - OECD05
+New Zealand,NZ,NZL,554,Urban,14,Other improved,0.0,OECD - OECD05
+New Zealand,NZ,NZL,554,Urban,15,"No facility, bush, field",0.0,OECD - OECD05
+New Zealand,NZ,NZL,554,Urban,16,Other unimproved,0.0,OECD - OECD05
+New Zealand,NZ,NZL,554,Urban,17,DK/missing information,0.0,OECD - OECD05
+New Zealand,NZ,NZL,554,Rural,1,Flush and pour flush - to piped sewer system,0.0,OECD - OECD05
+New Zealand,NZ,NZL,554,Rural,2,Flush and pour flush - to septic tank,0.0,OECD - OECD05
+New Zealand,NZ,NZL,554,Rural,3,Flush and pour flush - to pit,0.0,OECD - OECD05
+New Zealand,NZ,NZL,554,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD05
+New Zealand,NZ,NZL,554,Rural,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD05
+New Zealand,NZ,NZL,554,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD05
+New Zealand,NZ,NZL,554,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD05
+New Zealand,NZ,NZL,554,Rural,8,Dry latrines - Traditional latrine,0.0,OECD - OECD05
+New Zealand,NZ,NZL,554,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD05
+New Zealand,NZ,NZL,554,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD05
+New Zealand,NZ,NZL,554,Rural,11,Dry latrines - Bucket latrine,0.0,OECD - OECD05
+New Zealand,NZ,NZL,554,Rural,12,Dry latrines - Other,0.0,OECD - OECD05
+New Zealand,NZ,NZL,554,Rural,13,Composting toilets,0.0,OECD - OECD05
+New Zealand,NZ,NZL,554,Rural,14,Other improved,0.0,OECD - OECD05
+New Zealand,NZ,NZL,554,Rural,15,"No facility, bush, field",0.0,OECD - OECD05
+New Zealand,NZ,NZL,554,Rural,16,Other unimproved,0.0,OECD - OECD05
+New Zealand,NZ,NZL,554,Rural,17,DK/missing information,0.0,OECD - OECD05
+New Zealand,NZ,NZL,554,National,1,Flush and pour flush - to piped sewer system,0.81,OECD - OECD05
+New Zealand,NZ,NZL,554,National,2,Flush and pour flush - to septic tank,0.0,OECD - OECD05
+New Zealand,NZ,NZL,554,National,3,Flush and pour flush - to pit,0.0,OECD - OECD05
+New Zealand,NZ,NZL,554,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD05
+New Zealand,NZ,NZL,554,National,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD05
+New Zealand,NZ,NZL,554,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD05
+New Zealand,NZ,NZL,554,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD05
+New Zealand,NZ,NZL,554,National,8,Dry latrines - Traditional latrine,0.0,OECD - OECD05
+New Zealand,NZ,NZL,554,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD05
+New Zealand,NZ,NZL,554,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD05
+New Zealand,NZ,NZL,554,National,11,Dry latrines - Bucket latrine,0.0,OECD - OECD05
+New Zealand,NZ,NZL,554,National,12,Dry latrines - Other,0.0,OECD - OECD05
+New Zealand,NZ,NZL,554,National,13,Composting toilets,0.0,OECD - OECD05
+New Zealand,NZ,NZL,554,National,14,Other improved,0.0,OECD - OECD05
+New Zealand,NZ,NZL,554,National,15,"No facility, bush, field",0.0,OECD - OECD05
+New Zealand,NZ,NZL,554,National,16,Other unimproved,0.19,OECD - OECD05
+New Zealand,NZ,NZL,554,National,17,DK/missing information,0.0,OECD - OECD05
+New Zealand,NZ,NZL,554,Urban,1,Flush and pour flush - to piped sewer system,0.0,OECD - OECD06
+New Zealand,NZ,NZL,554,Urban,2,Flush and pour flush - to septic tank,0.0,OECD - OECD06
+New Zealand,NZ,NZL,554,Urban,3,Flush and pour flush - to pit,0.0,OECD - OECD06
+New Zealand,NZ,NZL,554,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD06
+New Zealand,NZ,NZL,554,Urban,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD06
+New Zealand,NZ,NZL,554,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD06
+New Zealand,NZ,NZL,554,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD06
+New Zealand,NZ,NZL,554,Urban,8,Dry latrines - Traditional latrine,0.0,OECD - OECD06
+New Zealand,NZ,NZL,554,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD06
+New Zealand,NZ,NZL,554,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD06
+New Zealand,NZ,NZL,554,Urban,11,Dry latrines - Bucket latrine,0.0,OECD - OECD06
+New Zealand,NZ,NZL,554,Urban,12,Dry latrines - Other,0.0,OECD - OECD06
+New Zealand,NZ,NZL,554,Urban,13,Composting toilets,0.0,OECD - OECD06
+New Zealand,NZ,NZL,554,Urban,14,Other improved,0.0,OECD - OECD06
+New Zealand,NZ,NZL,554,Urban,15,"No facility, bush, field",0.0,OECD - OECD06
+New Zealand,NZ,NZL,554,Urban,16,Other unimproved,0.0,OECD - OECD06
+New Zealand,NZ,NZL,554,Urban,17,DK/missing information,0.0,OECD - OECD06
+New Zealand,NZ,NZL,554,Rural,1,Flush and pour flush - to piped sewer system,0.0,OECD - OECD06
+New Zealand,NZ,NZL,554,Rural,2,Flush and pour flush - to septic tank,0.0,OECD - OECD06
+New Zealand,NZ,NZL,554,Rural,3,Flush and pour flush - to pit,0.0,OECD - OECD06
+New Zealand,NZ,NZL,554,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD06
+New Zealand,NZ,NZL,554,Rural,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD06
+New Zealand,NZ,NZL,554,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD06
+New Zealand,NZ,NZL,554,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD06
+New Zealand,NZ,NZL,554,Rural,8,Dry latrines - Traditional latrine,0.0,OECD - OECD06
+New Zealand,NZ,NZL,554,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD06
+New Zealand,NZ,NZL,554,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD06
+New Zealand,NZ,NZL,554,Rural,11,Dry latrines - Bucket latrine,0.0,OECD - OECD06
+New Zealand,NZ,NZL,554,Rural,12,Dry latrines - Other,0.0,OECD - OECD06
+New Zealand,NZ,NZL,554,Rural,13,Composting toilets,0.0,OECD - OECD06
+New Zealand,NZ,NZL,554,Rural,14,Other improved,0.0,OECD - OECD06
+New Zealand,NZ,NZL,554,Rural,15,"No facility, bush, field",0.0,OECD - OECD06
+New Zealand,NZ,NZL,554,Rural,16,Other unimproved,0.0,OECD - OECD06
+New Zealand,NZ,NZL,554,Rural,17,DK/missing information,0.0,OECD - OECD06
+New Zealand,NZ,NZL,554,National,1,Flush and pour flush - to piped sewer system,0.82,OECD - OECD06
+New Zealand,NZ,NZL,554,National,2,Flush and pour flush - to septic tank,0.0,OECD - OECD06
+New Zealand,NZ,NZL,554,National,3,Flush and pour flush - to pit,0.0,OECD - OECD06
+New Zealand,NZ,NZL,554,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD06
+New Zealand,NZ,NZL,554,National,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD06
+New Zealand,NZ,NZL,554,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD06
+New Zealand,NZ,NZL,554,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD06
+New Zealand,NZ,NZL,554,National,8,Dry latrines - Traditional latrine,0.0,OECD - OECD06
+New Zealand,NZ,NZL,554,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD06
+New Zealand,NZ,NZL,554,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD06
+New Zealand,NZ,NZL,554,National,11,Dry latrines - Bucket latrine,0.0,OECD - OECD06
+New Zealand,NZ,NZL,554,National,12,Dry latrines - Other,0.0,OECD - OECD06
+New Zealand,NZ,NZL,554,National,13,Composting toilets,0.0,OECD - OECD06
+New Zealand,NZ,NZL,554,National,14,Other improved,0.0,OECD - OECD06
+New Zealand,NZ,NZL,554,National,15,"No facility, bush, field",0.0,OECD - OECD06
+New Zealand,NZ,NZL,554,National,16,Other unimproved,0.18,OECD - OECD06
+New Zealand,NZ,NZL,554,National,17,DK/missing information,0.0,OECD - OECD06
+New Zealand,NZ,NZL,554,Urban,1,Flush and pour flush - to piped sewer system,0.0,OECD - OECD07
+New Zealand,NZ,NZL,554,Urban,2,Flush and pour flush - to septic tank,0.0,OECD - OECD07
+New Zealand,NZ,NZL,554,Urban,3,Flush and pour flush - to pit,0.0,OECD - OECD07
+New Zealand,NZ,NZL,554,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD07
+New Zealand,NZ,NZL,554,Urban,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD07
+New Zealand,NZ,NZL,554,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD07
+New Zealand,NZ,NZL,554,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD07
+New Zealand,NZ,NZL,554,Urban,8,Dry latrines - Traditional latrine,0.0,OECD - OECD07
+New Zealand,NZ,NZL,554,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD07
+New Zealand,NZ,NZL,554,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD07
+New Zealand,NZ,NZL,554,Urban,11,Dry latrines - Bucket latrine,0.0,OECD - OECD07
+New Zealand,NZ,NZL,554,Urban,12,Dry latrines - Other,0.0,OECD - OECD07
+New Zealand,NZ,NZL,554,Urban,13,Composting toilets,0.0,OECD - OECD07
+New Zealand,NZ,NZL,554,Urban,14,Other improved,0.0,OECD - OECD07
+New Zealand,NZ,NZL,554,Urban,15,"No facility, bush, field",0.0,OECD - OECD07
+New Zealand,NZ,NZL,554,Urban,16,Other unimproved,0.0,OECD - OECD07
+New Zealand,NZ,NZL,554,Urban,17,DK/missing information,0.0,OECD - OECD07
+New Zealand,NZ,NZL,554,Rural,1,Flush and pour flush - to piped sewer system,0.0,OECD - OECD07
+New Zealand,NZ,NZL,554,Rural,2,Flush and pour flush - to septic tank,0.0,OECD - OECD07
+New Zealand,NZ,NZL,554,Rural,3,Flush and pour flush - to pit,0.0,OECD - OECD07
+New Zealand,NZ,NZL,554,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD07
+New Zealand,NZ,NZL,554,Rural,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD07
+New Zealand,NZ,NZL,554,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD07
+New Zealand,NZ,NZL,554,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD07
+New Zealand,NZ,NZL,554,Rural,8,Dry latrines - Traditional latrine,0.0,OECD - OECD07
+New Zealand,NZ,NZL,554,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD07
+New Zealand,NZ,NZL,554,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD07
+New Zealand,NZ,NZL,554,Rural,11,Dry latrines - Bucket latrine,0.0,OECD - OECD07
+New Zealand,NZ,NZL,554,Rural,12,Dry latrines - Other,0.0,OECD - OECD07
+New Zealand,NZ,NZL,554,Rural,13,Composting toilets,0.0,OECD - OECD07
+New Zealand,NZ,NZL,554,Rural,14,Other improved,0.0,OECD - OECD07
+New Zealand,NZ,NZL,554,Rural,15,"No facility, bush, field",0.0,OECD - OECD07
+New Zealand,NZ,NZL,554,Rural,16,Other unimproved,0.0,OECD - OECD07
+New Zealand,NZ,NZL,554,Rural,17,DK/missing information,0.0,OECD - OECD07
+New Zealand,NZ,NZL,554,National,1,Flush and pour flush - to piped sewer system,0.82,OECD - OECD07
+New Zealand,NZ,NZL,554,National,2,Flush and pour flush - to septic tank,0.0,OECD - OECD07
+New Zealand,NZ,NZL,554,National,3,Flush and pour flush - to pit,0.0,OECD - OECD07
+New Zealand,NZ,NZL,554,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD07
+New Zealand,NZ,NZL,554,National,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD07
+New Zealand,NZ,NZL,554,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD07
+New Zealand,NZ,NZL,554,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD07
+New Zealand,NZ,NZL,554,National,8,Dry latrines - Traditional latrine,0.0,OECD - OECD07
+New Zealand,NZ,NZL,554,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD07
+New Zealand,NZ,NZL,554,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD07
+New Zealand,NZ,NZL,554,National,11,Dry latrines - Bucket latrine,0.0,OECD - OECD07
+New Zealand,NZ,NZL,554,National,12,Dry latrines - Other,0.0,OECD - OECD07
+New Zealand,NZ,NZL,554,National,13,Composting toilets,0.0,OECD - OECD07
+New Zealand,NZ,NZL,554,National,14,Other improved,0.0,OECD - OECD07
+New Zealand,NZ,NZL,554,National,15,"No facility, bush, field",0.0,OECD - OECD07
+New Zealand,NZ,NZL,554,National,16,Other unimproved,0.18,OECD - OECD07
+New Zealand,NZ,NZL,554,National,17,DK/missing information,0.0,OECD - OECD07
+New Zealand,NZ,NZL,554,Urban,1,Flush and pour flush - to piped sewer system,0.0,OECD - OECD08
+New Zealand,NZ,NZL,554,Urban,2,Flush and pour flush - to septic tank,0.0,OECD - OECD08
+New Zealand,NZ,NZL,554,Urban,3,Flush and pour flush - to pit,0.0,OECD - OECD08
+New Zealand,NZ,NZL,554,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD08
+New Zealand,NZ,NZL,554,Urban,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD08
+New Zealand,NZ,NZL,554,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD08
+New Zealand,NZ,NZL,554,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD08
+New Zealand,NZ,NZL,554,Urban,8,Dry latrines - Traditional latrine,0.0,OECD - OECD08
+New Zealand,NZ,NZL,554,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD08
+New Zealand,NZ,NZL,554,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD08
+New Zealand,NZ,NZL,554,Urban,11,Dry latrines - Bucket latrine,0.0,OECD - OECD08
+New Zealand,NZ,NZL,554,Urban,12,Dry latrines - Other,0.0,OECD - OECD08
+New Zealand,NZ,NZL,554,Urban,13,Composting toilets,0.0,OECD - OECD08
+New Zealand,NZ,NZL,554,Urban,14,Other improved,0.0,OECD - OECD08
+New Zealand,NZ,NZL,554,Urban,15,"No facility, bush, field",0.0,OECD - OECD08
+New Zealand,NZ,NZL,554,Urban,16,Other unimproved,0.0,OECD - OECD08
+New Zealand,NZ,NZL,554,Urban,17,DK/missing information,0.0,OECD - OECD08
+New Zealand,NZ,NZL,554,Rural,1,Flush and pour flush - to piped sewer system,0.0,OECD - OECD08
+New Zealand,NZ,NZL,554,Rural,2,Flush and pour flush - to septic tank,0.0,OECD - OECD08
+New Zealand,NZ,NZL,554,Rural,3,Flush and pour flush - to pit,0.0,OECD - OECD08
+New Zealand,NZ,NZL,554,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD08
+New Zealand,NZ,NZL,554,Rural,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD08
+New Zealand,NZ,NZL,554,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD08
+New Zealand,NZ,NZL,554,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD08
+New Zealand,NZ,NZL,554,Rural,8,Dry latrines - Traditional latrine,0.0,OECD - OECD08
+New Zealand,NZ,NZL,554,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD08
+New Zealand,NZ,NZL,554,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD08
+New Zealand,NZ,NZL,554,Rural,11,Dry latrines - Bucket latrine,0.0,OECD - OECD08
+New Zealand,NZ,NZL,554,Rural,12,Dry latrines - Other,0.0,OECD - OECD08
+New Zealand,NZ,NZL,554,Rural,13,Composting toilets,0.0,OECD - OECD08
+New Zealand,NZ,NZL,554,Rural,14,Other improved,0.0,OECD - OECD08
+New Zealand,NZ,NZL,554,Rural,15,"No facility, bush, field",0.0,OECD - OECD08
+New Zealand,NZ,NZL,554,Rural,16,Other unimproved,0.0,OECD - OECD08
+New Zealand,NZ,NZL,554,Rural,17,DK/missing information,0.0,OECD - OECD08
+New Zealand,NZ,NZL,554,National,1,Flush and pour flush - to piped sewer system,0.82,OECD - OECD08
+New Zealand,NZ,NZL,554,National,2,Flush and pour flush - to septic tank,0.0,OECD - OECD08
+New Zealand,NZ,NZL,554,National,3,Flush and pour flush - to pit,0.0,OECD - OECD08
+New Zealand,NZ,NZL,554,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD08
+New Zealand,NZ,NZL,554,National,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD08
+New Zealand,NZ,NZL,554,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD08
+New Zealand,NZ,NZL,554,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD08
+New Zealand,NZ,NZL,554,National,8,Dry latrines - Traditional latrine,0.0,OECD - OECD08
+New Zealand,NZ,NZL,554,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD08
+New Zealand,NZ,NZL,554,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD08
+New Zealand,NZ,NZL,554,National,11,Dry latrines - Bucket latrine,0.0,OECD - OECD08
+New Zealand,NZ,NZL,554,National,12,Dry latrines - Other,0.0,OECD - OECD08
+New Zealand,NZ,NZL,554,National,13,Composting toilets,0.0,OECD - OECD08
+New Zealand,NZ,NZL,554,National,14,Other improved,0.0,OECD - OECD08
+New Zealand,NZ,NZL,554,National,15,"No facility, bush, field",0.0,OECD - OECD08
+New Zealand,NZ,NZL,554,National,16,Other unimproved,0.18,OECD - OECD08
+New Zealand,NZ,NZL,554,National,17,DK/missing information,0.0,OECD - OECD08
+New Zealand,NZ,NZL,554,Urban,1,Flush and pour flush - to piped sewer system,0.0,OECD - OECD09
+New Zealand,NZ,NZL,554,Urban,2,Flush and pour flush - to septic tank,0.0,OECD - OECD09
+New Zealand,NZ,NZL,554,Urban,3,Flush and pour flush - to pit,0.0,OECD - OECD09
+New Zealand,NZ,NZL,554,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD09
+New Zealand,NZ,NZL,554,Urban,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD09
+New Zealand,NZ,NZL,554,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD09
+New Zealand,NZ,NZL,554,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD09
+New Zealand,NZ,NZL,554,Urban,8,Dry latrines - Traditional latrine,0.0,OECD - OECD09
+New Zealand,NZ,NZL,554,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD09
+New Zealand,NZ,NZL,554,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD09
+New Zealand,NZ,NZL,554,Urban,11,Dry latrines - Bucket latrine,0.0,OECD - OECD09
+New Zealand,NZ,NZL,554,Urban,12,Dry latrines - Other,0.0,OECD - OECD09
+New Zealand,NZ,NZL,554,Urban,13,Composting toilets,0.0,OECD - OECD09
+New Zealand,NZ,NZL,554,Urban,14,Other improved,0.0,OECD - OECD09
+New Zealand,NZ,NZL,554,Urban,15,"No facility, bush, field",0.0,OECD - OECD09
+New Zealand,NZ,NZL,554,Urban,16,Other unimproved,0.0,OECD - OECD09
+New Zealand,NZ,NZL,554,Urban,17,DK/missing information,0.0,OECD - OECD09
+New Zealand,NZ,NZL,554,Rural,1,Flush and pour flush - to piped sewer system,0.0,OECD - OECD09
+New Zealand,NZ,NZL,554,Rural,2,Flush and pour flush - to septic tank,0.0,OECD - OECD09
+New Zealand,NZ,NZL,554,Rural,3,Flush and pour flush - to pit,0.0,OECD - OECD09
+New Zealand,NZ,NZL,554,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD09
+New Zealand,NZ,NZL,554,Rural,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD09
+New Zealand,NZ,NZL,554,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD09
+New Zealand,NZ,NZL,554,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD09
+New Zealand,NZ,NZL,554,Rural,8,Dry latrines - Traditional latrine,0.0,OECD - OECD09
+New Zealand,NZ,NZL,554,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD09
+New Zealand,NZ,NZL,554,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD09
+New Zealand,NZ,NZL,554,Rural,11,Dry latrines - Bucket latrine,0.0,OECD - OECD09
+New Zealand,NZ,NZL,554,Rural,12,Dry latrines - Other,0.0,OECD - OECD09
+New Zealand,NZ,NZL,554,Rural,13,Composting toilets,0.0,OECD - OECD09
+New Zealand,NZ,NZL,554,Rural,14,Other improved,0.0,OECD - OECD09
+New Zealand,NZ,NZL,554,Rural,15,"No facility, bush, field",0.0,OECD - OECD09
+New Zealand,NZ,NZL,554,Rural,16,Other unimproved,0.0,OECD - OECD09
+New Zealand,NZ,NZL,554,Rural,17,DK/missing information,0.0,OECD - OECD09
+New Zealand,NZ,NZL,554,National,1,Flush and pour flush - to piped sewer system,0.82,OECD - OECD09
+New Zealand,NZ,NZL,554,National,2,Flush and pour flush - to septic tank,0.0,OECD - OECD09
+New Zealand,NZ,NZL,554,National,3,Flush and pour flush - to pit,0.0,OECD - OECD09
+New Zealand,NZ,NZL,554,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD09
+New Zealand,NZ,NZL,554,National,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD09
+New Zealand,NZ,NZL,554,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD09
+New Zealand,NZ,NZL,554,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD09
+New Zealand,NZ,NZL,554,National,8,Dry latrines - Traditional latrine,0.0,OECD - OECD09
+New Zealand,NZ,NZL,554,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD09
+New Zealand,NZ,NZL,554,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD09
+New Zealand,NZ,NZL,554,National,11,Dry latrines - Bucket latrine,0.0,OECD - OECD09
+New Zealand,NZ,NZL,554,National,12,Dry latrines - Other,0.0,OECD - OECD09
+New Zealand,NZ,NZL,554,National,13,Composting toilets,0.0,OECD - OECD09
+New Zealand,NZ,NZL,554,National,14,Other improved,0.0,OECD - OECD09
+New Zealand,NZ,NZL,554,National,15,"No facility, bush, field",0.0,OECD - OECD09
+New Zealand,NZ,NZL,554,National,16,Other unimproved,0.18,OECD - OECD09
+New Zealand,NZ,NZL,554,National,17,DK/missing information,0.0,OECD - OECD09
+New Zealand,NZ,NZL,554,Urban,1,Flush and pour flush - to piped sewer system,0.0,OECD - OECD10
+New Zealand,NZ,NZL,554,Urban,2,Flush and pour flush - to septic tank,0.0,OECD - OECD10
+New Zealand,NZ,NZL,554,Urban,3,Flush and pour flush - to pit,0.0,OECD - OECD10
+New Zealand,NZ,NZL,554,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD10
+New Zealand,NZ,NZL,554,Urban,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD10
+New Zealand,NZ,NZL,554,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD10
+New Zealand,NZ,NZL,554,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD10
+New Zealand,NZ,NZL,554,Urban,8,Dry latrines - Traditional latrine,0.0,OECD - OECD10
+New Zealand,NZ,NZL,554,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD10
+New Zealand,NZ,NZL,554,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD10
+New Zealand,NZ,NZL,554,Urban,11,Dry latrines - Bucket latrine,0.0,OECD - OECD10
+New Zealand,NZ,NZL,554,Urban,12,Dry latrines - Other,0.0,OECD - OECD10
+New Zealand,NZ,NZL,554,Urban,13,Composting toilets,0.0,OECD - OECD10
+New Zealand,NZ,NZL,554,Urban,14,Other improved,0.0,OECD - OECD10
+New Zealand,NZ,NZL,554,Urban,15,"No facility, bush, field",0.0,OECD - OECD10
+New Zealand,NZ,NZL,554,Urban,16,Other unimproved,0.0,OECD - OECD10
+New Zealand,NZ,NZL,554,Urban,17,DK/missing information,0.0,OECD - OECD10
+New Zealand,NZ,NZL,554,Rural,1,Flush and pour flush - to piped sewer system,0.0,OECD - OECD10
+New Zealand,NZ,NZL,554,Rural,2,Flush and pour flush - to septic tank,0.0,OECD - OECD10
+New Zealand,NZ,NZL,554,Rural,3,Flush and pour flush - to pit,0.0,OECD - OECD10
+New Zealand,NZ,NZL,554,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD10
+New Zealand,NZ,NZL,554,Rural,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD10
+New Zealand,NZ,NZL,554,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD10
+New Zealand,NZ,NZL,554,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD10
+New Zealand,NZ,NZL,554,Rural,8,Dry latrines - Traditional latrine,0.0,OECD - OECD10
+New Zealand,NZ,NZL,554,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD10
+New Zealand,NZ,NZL,554,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD10
+New Zealand,NZ,NZL,554,Rural,11,Dry latrines - Bucket latrine,0.0,OECD - OECD10
+New Zealand,NZ,NZL,554,Rural,12,Dry latrines - Other,0.0,OECD - OECD10
+New Zealand,NZ,NZL,554,Rural,13,Composting toilets,0.0,OECD - OECD10
+New Zealand,NZ,NZL,554,Rural,14,Other improved,0.0,OECD - OECD10
+New Zealand,NZ,NZL,554,Rural,15,"No facility, bush, field",0.0,OECD - OECD10
+New Zealand,NZ,NZL,554,Rural,16,Other unimproved,0.0,OECD - OECD10
+New Zealand,NZ,NZL,554,Rural,17,DK/missing information,0.0,OECD - OECD10
+New Zealand,NZ,NZL,554,National,1,Flush and pour flush - to piped sewer system,0.82,OECD - OECD10
+New Zealand,NZ,NZL,554,National,2,Flush and pour flush - to septic tank,0.0,OECD - OECD10
+New Zealand,NZ,NZL,554,National,3,Flush and pour flush - to pit,0.0,OECD - OECD10
+New Zealand,NZ,NZL,554,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD10
+New Zealand,NZ,NZL,554,National,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD10
+New Zealand,NZ,NZL,554,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD10
+New Zealand,NZ,NZL,554,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD10
+New Zealand,NZ,NZL,554,National,8,Dry latrines - Traditional latrine,0.0,OECD - OECD10
+New Zealand,NZ,NZL,554,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD10
+New Zealand,NZ,NZL,554,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD10
+New Zealand,NZ,NZL,554,National,11,Dry latrines - Bucket latrine,0.0,OECD - OECD10
+New Zealand,NZ,NZL,554,National,12,Dry latrines - Other,0.0,OECD - OECD10
+New Zealand,NZ,NZL,554,National,13,Composting toilets,0.0,OECD - OECD10
+New Zealand,NZ,NZL,554,National,14,Other improved,0.0,OECD - OECD10
+New Zealand,NZ,NZL,554,National,15,"No facility, bush, field",0.0,OECD - OECD10
+New Zealand,NZ,NZL,554,National,16,Other unimproved,0.18,OECD - OECD10
+New Zealand,NZ,NZL,554,National,17,DK/missing information,0.0,OECD - OECD10
+New Zealand,NZ,NZL,554,Urban,1,Flush and pour flush - to piped sewer system,0.0,OECD - OECD11
+New Zealand,NZ,NZL,554,Urban,2,Flush and pour flush - to septic tank,0.0,OECD - OECD11
+New Zealand,NZ,NZL,554,Urban,3,Flush and pour flush - to pit,0.0,OECD - OECD11
+New Zealand,NZ,NZL,554,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD11
+New Zealand,NZ,NZL,554,Urban,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD11
+New Zealand,NZ,NZL,554,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD11
+New Zealand,NZ,NZL,554,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD11
+New Zealand,NZ,NZL,554,Urban,8,Dry latrines - Traditional latrine,0.0,OECD - OECD11
+New Zealand,NZ,NZL,554,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD11
+New Zealand,NZ,NZL,554,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD11
+New Zealand,NZ,NZL,554,Urban,11,Dry latrines - Bucket latrine,0.0,OECD - OECD11
+New Zealand,NZ,NZL,554,Urban,12,Dry latrines - Other,0.0,OECD - OECD11
+New Zealand,NZ,NZL,554,Urban,13,Composting toilets,0.0,OECD - OECD11
+New Zealand,NZ,NZL,554,Urban,14,Other improved,0.0,OECD - OECD11
+New Zealand,NZ,NZL,554,Urban,15,"No facility, bush, field",0.0,OECD - OECD11
+New Zealand,NZ,NZL,554,Urban,16,Other unimproved,0.0,OECD - OECD11
+New Zealand,NZ,NZL,554,Urban,17,DK/missing information,0.0,OECD - OECD11
+New Zealand,NZ,NZL,554,Rural,1,Flush and pour flush - to piped sewer system,0.0,OECD - OECD11
+New Zealand,NZ,NZL,554,Rural,2,Flush and pour flush - to septic tank,0.0,OECD - OECD11
+New Zealand,NZ,NZL,554,Rural,3,Flush and pour flush - to pit,0.0,OECD - OECD11
+New Zealand,NZ,NZL,554,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD11
+New Zealand,NZ,NZL,554,Rural,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD11
+New Zealand,NZ,NZL,554,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD11
+New Zealand,NZ,NZL,554,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD11
+New Zealand,NZ,NZL,554,Rural,8,Dry latrines - Traditional latrine,0.0,OECD - OECD11
+New Zealand,NZ,NZL,554,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD11
+New Zealand,NZ,NZL,554,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD11
+New Zealand,NZ,NZL,554,Rural,11,Dry latrines - Bucket latrine,0.0,OECD - OECD11
+New Zealand,NZ,NZL,554,Rural,12,Dry latrines - Other,0.0,OECD - OECD11
+New Zealand,NZ,NZL,554,Rural,13,Composting toilets,0.0,OECD - OECD11
+New Zealand,NZ,NZL,554,Rural,14,Other improved,0.0,OECD - OECD11
+New Zealand,NZ,NZL,554,Rural,15,"No facility, bush, field",0.0,OECD - OECD11
+New Zealand,NZ,NZL,554,Rural,16,Other unimproved,0.0,OECD - OECD11
+New Zealand,NZ,NZL,554,Rural,17,DK/missing information,0.0,OECD - OECD11
+New Zealand,NZ,NZL,554,National,1,Flush and pour flush - to piped sewer system,0.82,OECD - OECD11
+New Zealand,NZ,NZL,554,National,2,Flush and pour flush - to septic tank,0.0,OECD - OECD11
+New Zealand,NZ,NZL,554,National,3,Flush and pour flush - to pit,0.0,OECD - OECD11
+New Zealand,NZ,NZL,554,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD11
+New Zealand,NZ,NZL,554,National,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD11
+New Zealand,NZ,NZL,554,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD11
+New Zealand,NZ,NZL,554,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD11
+New Zealand,NZ,NZL,554,National,8,Dry latrines - Traditional latrine,0.0,OECD - OECD11
+New Zealand,NZ,NZL,554,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD11
+New Zealand,NZ,NZL,554,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD11
+New Zealand,NZ,NZL,554,National,11,Dry latrines - Bucket latrine,0.0,OECD - OECD11
+New Zealand,NZ,NZL,554,National,12,Dry latrines - Other,0.0,OECD - OECD11
+New Zealand,NZ,NZL,554,National,13,Composting toilets,0.0,OECD - OECD11
+New Zealand,NZ,NZL,554,National,14,Other improved,0.0,OECD - OECD11
+New Zealand,NZ,NZL,554,National,15,"No facility, bush, field",0.0,OECD - OECD11
+New Zealand,NZ,NZL,554,National,16,Other unimproved,0.18,OECD - OECD11
+New Zealand,NZ,NZL,554,National,17,DK/missing information,0.0,OECD - OECD11
+New Zealand,NZ,NZL,554,Urban,1,Flush and pour flush - to piped sewer system,0.0,OECD - OECD12
+New Zealand,NZ,NZL,554,Urban,2,Flush and pour flush - to septic tank,0.0,OECD - OECD12
+New Zealand,NZ,NZL,554,Urban,3,Flush and pour flush - to pit,0.0,OECD - OECD12
+New Zealand,NZ,NZL,554,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD12
+New Zealand,NZ,NZL,554,Urban,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD12
+New Zealand,NZ,NZL,554,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD12
+New Zealand,NZ,NZL,554,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD12
+New Zealand,NZ,NZL,554,Urban,8,Dry latrines - Traditional latrine,0.0,OECD - OECD12
+New Zealand,NZ,NZL,554,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD12
+New Zealand,NZ,NZL,554,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD12
+New Zealand,NZ,NZL,554,Urban,11,Dry latrines - Bucket latrine,0.0,OECD - OECD12
+New Zealand,NZ,NZL,554,Urban,12,Dry latrines - Other,0.0,OECD - OECD12
+New Zealand,NZ,NZL,554,Urban,13,Composting toilets,0.0,OECD - OECD12
+New Zealand,NZ,NZL,554,Urban,14,Other improved,0.0,OECD - OECD12
+New Zealand,NZ,NZL,554,Urban,15,"No facility, bush, field",0.0,OECD - OECD12
+New Zealand,NZ,NZL,554,Urban,16,Other unimproved,0.0,OECD - OECD12
+New Zealand,NZ,NZL,554,Urban,17,DK/missing information,0.0,OECD - OECD12
+New Zealand,NZ,NZL,554,Rural,1,Flush and pour flush - to piped sewer system,0.0,OECD - OECD12
+New Zealand,NZ,NZL,554,Rural,2,Flush and pour flush - to septic tank,0.0,OECD - OECD12
+New Zealand,NZ,NZL,554,Rural,3,Flush and pour flush - to pit,0.0,OECD - OECD12
+New Zealand,NZ,NZL,554,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD12
+New Zealand,NZ,NZL,554,Rural,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD12
+New Zealand,NZ,NZL,554,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD12
+New Zealand,NZ,NZL,554,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD12
+New Zealand,NZ,NZL,554,Rural,8,Dry latrines - Traditional latrine,0.0,OECD - OECD12
+New Zealand,NZ,NZL,554,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD12
+New Zealand,NZ,NZL,554,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD12
+New Zealand,NZ,NZL,554,Rural,11,Dry latrines - Bucket latrine,0.0,OECD - OECD12
+New Zealand,NZ,NZL,554,Rural,12,Dry latrines - Other,0.0,OECD - OECD12
+New Zealand,NZ,NZL,554,Rural,13,Composting toilets,0.0,OECD - OECD12
+New Zealand,NZ,NZL,554,Rural,14,Other improved,0.0,OECD - OECD12
+New Zealand,NZ,NZL,554,Rural,15,"No facility, bush, field",0.0,OECD - OECD12
+New Zealand,NZ,NZL,554,Rural,16,Other unimproved,0.0,OECD - OECD12
+New Zealand,NZ,NZL,554,Rural,17,DK/missing information,0.0,OECD - OECD12
+New Zealand,NZ,NZL,554,National,1,Flush and pour flush - to piped sewer system,0.82,OECD - OECD12
+New Zealand,NZ,NZL,554,National,2,Flush and pour flush - to septic tank,0.0,OECD - OECD12
+New Zealand,NZ,NZL,554,National,3,Flush and pour flush - to pit,0.0,OECD - OECD12
+New Zealand,NZ,NZL,554,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD12
+New Zealand,NZ,NZL,554,National,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD12
+New Zealand,NZ,NZL,554,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD12
+New Zealand,NZ,NZL,554,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD12
+New Zealand,NZ,NZL,554,National,8,Dry latrines - Traditional latrine,0.0,OECD - OECD12
+New Zealand,NZ,NZL,554,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD12
+New Zealand,NZ,NZL,554,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD12
+New Zealand,NZ,NZL,554,National,11,Dry latrines - Bucket latrine,0.0,OECD - OECD12
+New Zealand,NZ,NZL,554,National,12,Dry latrines - Other,0.0,OECD - OECD12
+New Zealand,NZ,NZL,554,National,13,Composting toilets,0.0,OECD - OECD12
+New Zealand,NZ,NZL,554,National,14,Other improved,0.0,OECD - OECD12
+New Zealand,NZ,NZL,554,National,15,"No facility, bush, field",0.0,OECD - OECD12
+New Zealand,NZ,NZL,554,National,16,Other unimproved,0.18,OECD - OECD12
+New Zealand,NZ,NZL,554,National,17,DK/missing information,0.0,OECD - OECD12
+New Zealand,NZ,NZL,554,Urban,1,Flush and pour flush - to piped sewer system,0.0,OECD - OECD13
+New Zealand,NZ,NZL,554,Urban,2,Flush and pour flush - to septic tank,0.0,OECD - OECD13
+New Zealand,NZ,NZL,554,Urban,3,Flush and pour flush - to pit,0.0,OECD - OECD13
+New Zealand,NZ,NZL,554,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD13
+New Zealand,NZ,NZL,554,Urban,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD13
+New Zealand,NZ,NZL,554,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD13
+New Zealand,NZ,NZL,554,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD13
+New Zealand,NZ,NZL,554,Urban,8,Dry latrines - Traditional latrine,0.0,OECD - OECD13
+New Zealand,NZ,NZL,554,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD13
+New Zealand,NZ,NZL,554,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD13
+New Zealand,NZ,NZL,554,Urban,11,Dry latrines - Bucket latrine,0.0,OECD - OECD13
+New Zealand,NZ,NZL,554,Urban,12,Dry latrines - Other,0.0,OECD - OECD13
+New Zealand,NZ,NZL,554,Urban,13,Composting toilets,0.0,OECD - OECD13
+New Zealand,NZ,NZL,554,Urban,14,Other improved,0.0,OECD - OECD13
+New Zealand,NZ,NZL,554,Urban,15,"No facility, bush, field",0.0,OECD - OECD13
+New Zealand,NZ,NZL,554,Urban,16,Other unimproved,0.0,OECD - OECD13
+New Zealand,NZ,NZL,554,Urban,17,DK/missing information,0.0,OECD - OECD13
+New Zealand,NZ,NZL,554,Rural,1,Flush and pour flush - to piped sewer system,0.0,OECD - OECD13
+New Zealand,NZ,NZL,554,Rural,2,Flush and pour flush - to septic tank,0.0,OECD - OECD13
+New Zealand,NZ,NZL,554,Rural,3,Flush and pour flush - to pit,0.0,OECD - OECD13
+New Zealand,NZ,NZL,554,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD13
+New Zealand,NZ,NZL,554,Rural,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD13
+New Zealand,NZ,NZL,554,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD13
+New Zealand,NZ,NZL,554,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD13
+New Zealand,NZ,NZL,554,Rural,8,Dry latrines - Traditional latrine,0.0,OECD - OECD13
+New Zealand,NZ,NZL,554,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD13
+New Zealand,NZ,NZL,554,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD13
+New Zealand,NZ,NZL,554,Rural,11,Dry latrines - Bucket latrine,0.0,OECD - OECD13
+New Zealand,NZ,NZL,554,Rural,12,Dry latrines - Other,0.0,OECD - OECD13
+New Zealand,NZ,NZL,554,Rural,13,Composting toilets,0.0,OECD - OECD13
+New Zealand,NZ,NZL,554,Rural,14,Other improved,0.0,OECD - OECD13
+New Zealand,NZ,NZL,554,Rural,15,"No facility, bush, field",0.0,OECD - OECD13
+New Zealand,NZ,NZL,554,Rural,16,Other unimproved,0.0,OECD - OECD13
+New Zealand,NZ,NZL,554,Rural,17,DK/missing information,0.0,OECD - OECD13
+New Zealand,NZ,NZL,554,National,1,Flush and pour flush - to piped sewer system,0.82,OECD - OECD13
+New Zealand,NZ,NZL,554,National,2,Flush and pour flush - to septic tank,0.0,OECD - OECD13
+New Zealand,NZ,NZL,554,National,3,Flush and pour flush - to pit,0.0,OECD - OECD13
+New Zealand,NZ,NZL,554,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD13
+New Zealand,NZ,NZL,554,National,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD13
+New Zealand,NZ,NZL,554,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD13
+New Zealand,NZ,NZL,554,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD13
+New Zealand,NZ,NZL,554,National,8,Dry latrines - Traditional latrine,0.0,OECD - OECD13
+New Zealand,NZ,NZL,554,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD13
+New Zealand,NZ,NZL,554,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD13
+New Zealand,NZ,NZL,554,National,11,Dry latrines - Bucket latrine,0.0,OECD - OECD13
+New Zealand,NZ,NZL,554,National,12,Dry latrines - Other,0.0,OECD - OECD13
+New Zealand,NZ,NZL,554,National,13,Composting toilets,0.0,OECD - OECD13
+New Zealand,NZ,NZL,554,National,14,Other improved,0.0,OECD - OECD13
+New Zealand,NZ,NZL,554,National,15,"No facility, bush, field",0.0,OECD - OECD13
+New Zealand,NZ,NZL,554,National,16,Other unimproved,0.18,OECD - OECD13
+New Zealand,NZ,NZL,554,National,17,DK/missing information,0.0,OECD - OECD13
+New Zealand,NZ,NZL,554,Urban,1,Flush and pour flush - to piped sewer system,0.0,OECD - OECD14
+New Zealand,NZ,NZL,554,Urban,2,Flush and pour flush - to septic tank,0.0,OECD - OECD14
+New Zealand,NZ,NZL,554,Urban,3,Flush and pour flush - to pit,0.0,OECD - OECD14
+New Zealand,NZ,NZL,554,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD14
+New Zealand,NZ,NZL,554,Urban,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD14
+New Zealand,NZ,NZL,554,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD14
+New Zealand,NZ,NZL,554,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD14
+New Zealand,NZ,NZL,554,Urban,8,Dry latrines - Traditional latrine,0.0,OECD - OECD14
+New Zealand,NZ,NZL,554,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD14
+New Zealand,NZ,NZL,554,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD14
+New Zealand,NZ,NZL,554,Urban,11,Dry latrines - Bucket latrine,0.0,OECD - OECD14
+New Zealand,NZ,NZL,554,Urban,12,Dry latrines - Other,0.0,OECD - OECD14
+New Zealand,NZ,NZL,554,Urban,13,Composting toilets,0.0,OECD - OECD14
+New Zealand,NZ,NZL,554,Urban,14,Other improved,0.0,OECD - OECD14
+New Zealand,NZ,NZL,554,Urban,15,"No facility, bush, field",0.0,OECD - OECD14
+New Zealand,NZ,NZL,554,Urban,16,Other unimproved,0.0,OECD - OECD14
+New Zealand,NZ,NZL,554,Urban,17,DK/missing information,0.0,OECD - OECD14
+New Zealand,NZ,NZL,554,Rural,1,Flush and pour flush - to piped sewer system,0.0,OECD - OECD14
+New Zealand,NZ,NZL,554,Rural,2,Flush and pour flush - to septic tank,0.0,OECD - OECD14
+New Zealand,NZ,NZL,554,Rural,3,Flush and pour flush - to pit,0.0,OECD - OECD14
+New Zealand,NZ,NZL,554,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD14
+New Zealand,NZ,NZL,554,Rural,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD14
+New Zealand,NZ,NZL,554,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD14
+New Zealand,NZ,NZL,554,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD14
+New Zealand,NZ,NZL,554,Rural,8,Dry latrines - Traditional latrine,0.0,OECD - OECD14
+New Zealand,NZ,NZL,554,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD14
+New Zealand,NZ,NZL,554,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD14
+New Zealand,NZ,NZL,554,Rural,11,Dry latrines - Bucket latrine,0.0,OECD - OECD14
+New Zealand,NZ,NZL,554,Rural,12,Dry latrines - Other,0.0,OECD - OECD14
+New Zealand,NZ,NZL,554,Rural,13,Composting toilets,0.0,OECD - OECD14
+New Zealand,NZ,NZL,554,Rural,14,Other improved,0.0,OECD - OECD14
+New Zealand,NZ,NZL,554,Rural,15,"No facility, bush, field",0.0,OECD - OECD14
+New Zealand,NZ,NZL,554,Rural,16,Other unimproved,0.0,OECD - OECD14
+New Zealand,NZ,NZL,554,Rural,17,DK/missing information,0.0,OECD - OECD14
+New Zealand,NZ,NZL,554,National,1,Flush and pour flush - to piped sewer system,0.82,OECD - OECD14
+New Zealand,NZ,NZL,554,National,2,Flush and pour flush - to septic tank,0.12,OECD - OECD14
+New Zealand,NZ,NZL,554,National,3,Flush and pour flush - to pit,0.0,OECD - OECD14
+New Zealand,NZ,NZL,554,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD - OECD14
+New Zealand,NZ,NZL,554,National,5,Flush and pour flush - to elsewhere,0.0,OECD - OECD14
+New Zealand,NZ,NZL,554,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD - OECD14
+New Zealand,NZ,NZL,554,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD - OECD14
+New Zealand,NZ,NZL,554,National,8,Dry latrines - Traditional latrine,0.0,OECD - OECD14
+New Zealand,NZ,NZL,554,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD - OECD14
+New Zealand,NZ,NZL,554,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD - OECD14
+New Zealand,NZ,NZL,554,National,11,Dry latrines - Bucket latrine,0.0,OECD - OECD14
+New Zealand,NZ,NZL,554,National,12,Dry latrines - Other,0.0,OECD - OECD14
+New Zealand,NZ,NZL,554,National,13,Composting toilets,0.0,OECD - OECD14
+New Zealand,NZ,NZL,554,National,14,Other improved,0.0,OECD - OECD14
+New Zealand,NZ,NZL,554,National,15,"No facility, bush, field",0.0,OECD - OECD14
+New Zealand,NZ,NZL,554,National,16,Other unimproved,0.06,OECD - OECD14
+New Zealand,NZ,NZL,554,National,17,DK/missing information,0.0,OECD - OECD14
+New Zealand,NZ,NZL,554,Urban,1,Flush and pour flush - to piped sewer system,0.0,Wastewater utilites data - WW16
+New Zealand,NZ,NZL,554,Urban,2,Flush and pour flush - to septic tank,0.0,Wastewater utilites data - WW16
+New Zealand,NZ,NZL,554,Urban,3,Flush and pour flush - to pit,0.0,Wastewater utilites data - WW16
+New Zealand,NZ,NZL,554,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Wastewater utilites data - WW16
+New Zealand,NZ,NZL,554,Urban,5,Flush and pour flush - to elsewhere,0.0,Wastewater utilites data - WW16
+New Zealand,NZ,NZL,554,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Wastewater utilites data - WW16
+New Zealand,NZ,NZL,554,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Wastewater utilites data - WW16
+New Zealand,NZ,NZL,554,Urban,8,Dry latrines - Traditional latrine,0.0,Wastewater utilites data - WW16
+New Zealand,NZ,NZL,554,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Wastewater utilites data - WW16
+New Zealand,NZ,NZL,554,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Wastewater utilites data - WW16
+New Zealand,NZ,NZL,554,Urban,11,Dry latrines - Bucket latrine,0.0,Wastewater utilites data - WW16
+New Zealand,NZ,NZL,554,Urban,12,Dry latrines - Other,0.0,Wastewater utilites data - WW16
+New Zealand,NZ,NZL,554,Urban,13,Composting toilets,0.0,Wastewater utilites data - WW16
+New Zealand,NZ,NZL,554,Urban,14,Other improved,0.0,Wastewater utilites data - WW16
+New Zealand,NZ,NZL,554,Urban,15,"No facility, bush, field",0.0,Wastewater utilites data - WW16
+New Zealand,NZ,NZL,554,Urban,16,Other unimproved,0.0,Wastewater utilites data - WW16
+New Zealand,NZ,NZL,554,Urban,17,DK/missing information,0.0,Wastewater utilites data - WW16
+New Zealand,NZ,NZL,554,Rural,1,Flush and pour flush - to piped sewer system,0.0,Wastewater utilites data - WW16
+New Zealand,NZ,NZL,554,Rural,2,Flush and pour flush - to septic tank,0.0,Wastewater utilites data - WW16
+New Zealand,NZ,NZL,554,Rural,3,Flush and pour flush - to pit,0.0,Wastewater utilites data - WW16
+New Zealand,NZ,NZL,554,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Wastewater utilites data - WW16
+New Zealand,NZ,NZL,554,Rural,5,Flush and pour flush - to elsewhere,0.0,Wastewater utilites data - WW16
+New Zealand,NZ,NZL,554,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Wastewater utilites data - WW16
+New Zealand,NZ,NZL,554,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Wastewater utilites data - WW16
+New Zealand,NZ,NZL,554,Rural,8,Dry latrines - Traditional latrine,0.0,Wastewater utilites data - WW16
+New Zealand,NZ,NZL,554,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Wastewater utilites data - WW16
+New Zealand,NZ,NZL,554,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Wastewater utilites data - WW16
+New Zealand,NZ,NZL,554,Rural,11,Dry latrines - Bucket latrine,0.0,Wastewater utilites data - WW16
+New Zealand,NZ,NZL,554,Rural,12,Dry latrines - Other,0.0,Wastewater utilites data - WW16
+New Zealand,NZ,NZL,554,Rural,13,Composting toilets,0.0,Wastewater utilites data - WW16
+New Zealand,NZ,NZL,554,Rural,14,Other improved,0.0,Wastewater utilites data - WW16
+New Zealand,NZ,NZL,554,Rural,15,"No facility, bush, field",0.0,Wastewater utilites data - WW16
+New Zealand,NZ,NZL,554,Rural,16,Other unimproved,0.0,Wastewater utilites data - WW16
+New Zealand,NZ,NZL,554,Rural,17,DK/missing information,0.0,Wastewater utilites data - WW16
+New Zealand,NZ,NZL,554,National,1,Flush and pour flush - to piped sewer system,0.866,Wastewater utilites data - WW16
+New Zealand,NZ,NZL,554,National,2,Flush and pour flush - to septic tank,0.134,Wastewater utilites data - WW16
+New Zealand,NZ,NZL,554,National,3,Flush and pour flush - to pit,0.0,Wastewater utilites data - WW16
+New Zealand,NZ,NZL,554,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Wastewater utilites data - WW16
+New Zealand,NZ,NZL,554,National,5,Flush and pour flush - to elsewhere,0.0,Wastewater utilites data - WW16
+New Zealand,NZ,NZL,554,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Wastewater utilites data - WW16
+New Zealand,NZ,NZL,554,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Wastewater utilites data - WW16
+New Zealand,NZ,NZL,554,National,8,Dry latrines - Traditional latrine,0.0,Wastewater utilites data - WW16
+New Zealand,NZ,NZL,554,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Wastewater utilites data - WW16
+New Zealand,NZ,NZL,554,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Wastewater utilites data - WW16
+New Zealand,NZ,NZL,554,National,11,Dry latrines - Bucket latrine,0.0,Wastewater utilites data - WW16
+New Zealand,NZ,NZL,554,National,12,Dry latrines - Other,0.0,Wastewater utilites data - WW16
+New Zealand,NZ,NZL,554,National,13,Composting toilets,0.0,Wastewater utilites data - WW16
+New Zealand,NZ,NZL,554,National,14,Other improved,0.0,Wastewater utilites data - WW16
+New Zealand,NZ,NZL,554,National,15,"No facility, bush, field",0.0,Wastewater utilites data - WW16
+New Zealand,NZ,NZL,554,National,16,Other unimproved,0.0,Wastewater utilites data - WW16
+New Zealand,NZ,NZL,554,National,17,DK/missing information,0.0,Wastewater utilites data - WW16
+New Zealand,NZ,NZL,554,Urban,1,Flush and pour flush - to piped sewer system,0.0,Administrative records - ADM10
+New Zealand,NZ,NZL,554,Urban,2,Flush and pour flush - to septic tank,0.0,Administrative records - ADM10
+New Zealand,NZ,NZL,554,Urban,3,Flush and pour flush - to pit,0.0,Administrative records - ADM10
+New Zealand,NZ,NZL,554,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Administrative records - ADM10
+New Zealand,NZ,NZL,554,Urban,5,Flush and pour flush - to elsewhere,0.0,Administrative records - ADM10
+New Zealand,NZ,NZL,554,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Administrative records - ADM10
+New Zealand,NZ,NZL,554,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Administrative records - ADM10
+New Zealand,NZ,NZL,554,Urban,8,Dry latrines - Traditional latrine,0.0,Administrative records - ADM10
+New Zealand,NZ,NZL,554,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Administrative records - ADM10
+New Zealand,NZ,NZL,554,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Administrative records - ADM10
+New Zealand,NZ,NZL,554,Urban,11,Dry latrines - Bucket latrine,0.0,Administrative records - ADM10
+New Zealand,NZ,NZL,554,Urban,12,Dry latrines - Other,0.0,Administrative records - ADM10
+New Zealand,NZ,NZL,554,Urban,13,Composting toilets,0.0,Administrative records - ADM10
+New Zealand,NZ,NZL,554,Urban,14,Other improved,1.0,Administrative records - ADM10
+New Zealand,NZ,NZL,554,Urban,15,"No facility, bush, field",0.0,Administrative records - ADM10
+New Zealand,NZ,NZL,554,Urban,16,Other unimproved,0.0,Administrative records - ADM10
+New Zealand,NZ,NZL,554,Urban,17,DK/missing information,0.0,Administrative records - ADM10
+New Zealand,NZ,NZL,554,Rural,1,Flush and pour flush - to piped sewer system,0.0,Administrative records - ADM10
+New Zealand,NZ,NZL,554,Rural,2,Flush and pour flush - to septic tank,0.0,Administrative records - ADM10
+New Zealand,NZ,NZL,554,Rural,3,Flush and pour flush - to pit,0.0,Administrative records - ADM10
+New Zealand,NZ,NZL,554,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Administrative records - ADM10
+New Zealand,NZ,NZL,554,Rural,5,Flush and pour flush - to elsewhere,0.0,Administrative records - ADM10
+New Zealand,NZ,NZL,554,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Administrative records - ADM10
+New Zealand,NZ,NZL,554,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Administrative records - ADM10
+New Zealand,NZ,NZL,554,Rural,8,Dry latrines - Traditional latrine,0.0,Administrative records - ADM10
+New Zealand,NZ,NZL,554,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Administrative records - ADM10
+New Zealand,NZ,NZL,554,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Administrative records - ADM10
+New Zealand,NZ,NZL,554,Rural,11,Dry latrines - Bucket latrine,0.0,Administrative records - ADM10
+New Zealand,NZ,NZL,554,Rural,12,Dry latrines - Other,0.0,Administrative records - ADM10
+New Zealand,NZ,NZL,554,Rural,13,Composting toilets,0.0,Administrative records - ADM10
+New Zealand,NZ,NZL,554,Rural,14,Other improved,1.0,Administrative records - ADM10
+New Zealand,NZ,NZL,554,Rural,15,"No facility, bush, field",0.0,Administrative records - ADM10
+New Zealand,NZ,NZL,554,Rural,16,Other unimproved,0.0,Administrative records - ADM10
+New Zealand,NZ,NZL,554,Rural,17,DK/missing information,0.0,Administrative records - ADM10
+New Zealand,NZ,NZL,554,National,1,Flush and pour flush - to piped sewer system,0.0,Administrative records - ADM10
+New Zealand,NZ,NZL,554,National,2,Flush and pour flush - to septic tank,0.0,Administrative records - ADM10
+New Zealand,NZ,NZL,554,National,3,Flush and pour flush - to pit,0.0,Administrative records - ADM10
+New Zealand,NZ,NZL,554,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Administrative records - ADM10
+New Zealand,NZ,NZL,554,National,5,Flush and pour flush - to elsewhere,0.0,Administrative records - ADM10
+New Zealand,NZ,NZL,554,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Administrative records - ADM10
+New Zealand,NZ,NZL,554,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Administrative records - ADM10
+New Zealand,NZ,NZL,554,National,8,Dry latrines - Traditional latrine,0.0,Administrative records - ADM10
+New Zealand,NZ,NZL,554,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Administrative records - ADM10
+New Zealand,NZ,NZL,554,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Administrative records - ADM10
+New Zealand,NZ,NZL,554,National,11,Dry latrines - Bucket latrine,0.0,Administrative records - ADM10
+New Zealand,NZ,NZL,554,National,12,Dry latrines - Other,0.0,Administrative records - ADM10
+New Zealand,NZ,NZL,554,National,13,Composting toilets,0.0,Administrative records - ADM10
+New Zealand,NZ,NZL,554,National,14,Other improved,1.0,Administrative records - ADM10
+New Zealand,NZ,NZL,554,National,15,"No facility, bush, field",0.0,Administrative records - ADM10
+New Zealand,NZ,NZL,554,National,16,Other unimproved,0.0,Administrative records - ADM10
+New Zealand,NZ,NZL,554,National,17,DK/missing information,0.0,Administrative records - ADM10
+New Zealand,NZ,NZL,554,Urban,1,Flush and pour flush - to piped sewer system,0.0,Administrative records - ADM11
+New Zealand,NZ,NZL,554,Urban,2,Flush and pour flush - to septic tank,0.0,Administrative records - ADM11
+New Zealand,NZ,NZL,554,Urban,3,Flush and pour flush - to pit,0.0,Administrative records - ADM11
+New Zealand,NZ,NZL,554,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Administrative records - ADM11
+New Zealand,NZ,NZL,554,Urban,5,Flush and pour flush - to elsewhere,0.0,Administrative records - ADM11
+New Zealand,NZ,NZL,554,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Administrative records - ADM11
+New Zealand,NZ,NZL,554,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Administrative records - ADM11
+New Zealand,NZ,NZL,554,Urban,8,Dry latrines - Traditional latrine,0.0,Administrative records - ADM11
+New Zealand,NZ,NZL,554,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Administrative records - ADM11
+New Zealand,NZ,NZL,554,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Administrative records - ADM11
+New Zealand,NZ,NZL,554,Urban,11,Dry latrines - Bucket latrine,0.0,Administrative records - ADM11
+New Zealand,NZ,NZL,554,Urban,12,Dry latrines - Other,0.0,Administrative records - ADM11
+New Zealand,NZ,NZL,554,Urban,13,Composting toilets,0.0,Administrative records - ADM11
+New Zealand,NZ,NZL,554,Urban,14,Other improved,1.0,Administrative records - ADM11
+New Zealand,NZ,NZL,554,Urban,15,"No facility, bush, field",0.0,Administrative records - ADM11
+New Zealand,NZ,NZL,554,Urban,16,Other unimproved,0.0,Administrative records - ADM11
+New Zealand,NZ,NZL,554,Urban,17,DK/missing information,0.0,Administrative records - ADM11
+New Zealand,NZ,NZL,554,Rural,1,Flush and pour flush - to piped sewer system,0.0,Administrative records - ADM11
+New Zealand,NZ,NZL,554,Rural,2,Flush and pour flush - to septic tank,0.0,Administrative records - ADM11
+New Zealand,NZ,NZL,554,Rural,3,Flush and pour flush - to pit,0.0,Administrative records - ADM11
+New Zealand,NZ,NZL,554,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Administrative records - ADM11
+New Zealand,NZ,NZL,554,Rural,5,Flush and pour flush - to elsewhere,0.0,Administrative records - ADM11
+New Zealand,NZ,NZL,554,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Administrative records - ADM11
+New Zealand,NZ,NZL,554,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Administrative records - ADM11
+New Zealand,NZ,NZL,554,Rural,8,Dry latrines - Traditional latrine,0.0,Administrative records - ADM11
+New Zealand,NZ,NZL,554,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Administrative records - ADM11
+New Zealand,NZ,NZL,554,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Administrative records - ADM11
+New Zealand,NZ,NZL,554,Rural,11,Dry latrines - Bucket latrine,0.0,Administrative records - ADM11
+New Zealand,NZ,NZL,554,Rural,12,Dry latrines - Other,0.0,Administrative records - ADM11
+New Zealand,NZ,NZL,554,Rural,13,Composting toilets,0.0,Administrative records - ADM11
+New Zealand,NZ,NZL,554,Rural,14,Other improved,1.0,Administrative records - ADM11
+New Zealand,NZ,NZL,554,Rural,15,"No facility, bush, field",0.0,Administrative records - ADM11
+New Zealand,NZ,NZL,554,Rural,16,Other unimproved,0.0,Administrative records - ADM11
+New Zealand,NZ,NZL,554,Rural,17,DK/missing information,0.0,Administrative records - ADM11
+New Zealand,NZ,NZL,554,National,1,Flush and pour flush - to piped sewer system,0.0,Administrative records - ADM11
+New Zealand,NZ,NZL,554,National,2,Flush and pour flush - to septic tank,0.0,Administrative records - ADM11
+New Zealand,NZ,NZL,554,National,3,Flush and pour flush - to pit,0.0,Administrative records - ADM11
+New Zealand,NZ,NZL,554,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Administrative records - ADM11
+New Zealand,NZ,NZL,554,National,5,Flush and pour flush - to elsewhere,0.0,Administrative records - ADM11
+New Zealand,NZ,NZL,554,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Administrative records - ADM11
+New Zealand,NZ,NZL,554,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Administrative records - ADM11
+New Zealand,NZ,NZL,554,National,8,Dry latrines - Traditional latrine,0.0,Administrative records - ADM11
+New Zealand,NZ,NZL,554,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Administrative records - ADM11
+New Zealand,NZ,NZL,554,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Administrative records - ADM11
+New Zealand,NZ,NZL,554,National,11,Dry latrines - Bucket latrine,0.0,Administrative records - ADM11
+New Zealand,NZ,NZL,554,National,12,Dry latrines - Other,0.0,Administrative records - ADM11
+New Zealand,NZ,NZL,554,National,13,Composting toilets,0.0,Administrative records - ADM11
+New Zealand,NZ,NZL,554,National,14,Other improved,1.0,Administrative records - ADM11
+New Zealand,NZ,NZL,554,National,15,"No facility, bush, field",0.0,Administrative records - ADM11
+New Zealand,NZ,NZL,554,National,16,Other unimproved,0.0,Administrative records - ADM11
+New Zealand,NZ,NZL,554,National,17,DK/missing information,0.0,Administrative records - ADM11
+New Zealand,NZ,NZL,554,Urban,1,Flush and pour flush - to piped sewer system,0.0,Administrative records - ADM12
+New Zealand,NZ,NZL,554,Urban,2,Flush and pour flush - to septic tank,0.0,Administrative records - ADM12
+New Zealand,NZ,NZL,554,Urban,3,Flush and pour flush - to pit,0.0,Administrative records - ADM12
+New Zealand,NZ,NZL,554,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Administrative records - ADM12
+New Zealand,NZ,NZL,554,Urban,5,Flush and pour flush - to elsewhere,0.0,Administrative records - ADM12
+New Zealand,NZ,NZL,554,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Administrative records - ADM12
+New Zealand,NZ,NZL,554,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Administrative records - ADM12
+New Zealand,NZ,NZL,554,Urban,8,Dry latrines - Traditional latrine,0.0,Administrative records - ADM12
+New Zealand,NZ,NZL,554,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Administrative records - ADM12
+New Zealand,NZ,NZL,554,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Administrative records - ADM12
+New Zealand,NZ,NZL,554,Urban,11,Dry latrines - Bucket latrine,0.0,Administrative records - ADM12
+New Zealand,NZ,NZL,554,Urban,12,Dry latrines - Other,0.0,Administrative records - ADM12
+New Zealand,NZ,NZL,554,Urban,13,Composting toilets,0.0,Administrative records - ADM12
+New Zealand,NZ,NZL,554,Urban,14,Other improved,1.0,Administrative records - ADM12
+New Zealand,NZ,NZL,554,Urban,15,"No facility, bush, field",0.0,Administrative records - ADM12
+New Zealand,NZ,NZL,554,Urban,16,Other unimproved,0.0,Administrative records - ADM12
+New Zealand,NZ,NZL,554,Urban,17,DK/missing information,0.0,Administrative records - ADM12
+New Zealand,NZ,NZL,554,Rural,1,Flush and pour flush - to piped sewer system,0.0,Administrative records - ADM12
+New Zealand,NZ,NZL,554,Rural,2,Flush and pour flush - to septic tank,0.0,Administrative records - ADM12
+New Zealand,NZ,NZL,554,Rural,3,Flush and pour flush - to pit,0.0,Administrative records - ADM12
+New Zealand,NZ,NZL,554,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Administrative records - ADM12
+New Zealand,NZ,NZL,554,Rural,5,Flush and pour flush - to elsewhere,0.0,Administrative records - ADM12
+New Zealand,NZ,NZL,554,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Administrative records - ADM12
+New Zealand,NZ,NZL,554,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Administrative records - ADM12
+New Zealand,NZ,NZL,554,Rural,8,Dry latrines - Traditional latrine,0.0,Administrative records - ADM12
+New Zealand,NZ,NZL,554,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Administrative records - ADM12
+New Zealand,NZ,NZL,554,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Administrative records - ADM12
+New Zealand,NZ,NZL,554,Rural,11,Dry latrines - Bucket latrine,0.0,Administrative records - ADM12
+New Zealand,NZ,NZL,554,Rural,12,Dry latrines - Other,0.0,Administrative records - ADM12
+New Zealand,NZ,NZL,554,Rural,13,Composting toilets,0.0,Administrative records - ADM12
+New Zealand,NZ,NZL,554,Rural,14,Other improved,1.0,Administrative records - ADM12
+New Zealand,NZ,NZL,554,Rural,15,"No facility, bush, field",0.0,Administrative records - ADM12
+New Zealand,NZ,NZL,554,Rural,16,Other unimproved,0.0,Administrative records - ADM12
+New Zealand,NZ,NZL,554,Rural,17,DK/missing information,0.0,Administrative records - ADM12
+New Zealand,NZ,NZL,554,National,1,Flush and pour flush - to piped sewer system,0.0,Administrative records - ADM12
+New Zealand,NZ,NZL,554,National,2,Flush and pour flush - to septic tank,0.0,Administrative records - ADM12
+New Zealand,NZ,NZL,554,National,3,Flush and pour flush - to pit,0.0,Administrative records - ADM12
+New Zealand,NZ,NZL,554,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Administrative records - ADM12
+New Zealand,NZ,NZL,554,National,5,Flush and pour flush - to elsewhere,0.0,Administrative records - ADM12
+New Zealand,NZ,NZL,554,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Administrative records - ADM12
+New Zealand,NZ,NZL,554,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Administrative records - ADM12
+New Zealand,NZ,NZL,554,National,8,Dry latrines - Traditional latrine,0.0,Administrative records - ADM12
+New Zealand,NZ,NZL,554,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Administrative records - ADM12
+New Zealand,NZ,NZL,554,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Administrative records - ADM12
+New Zealand,NZ,NZL,554,National,11,Dry latrines - Bucket latrine,0.0,Administrative records - ADM12
+New Zealand,NZ,NZL,554,National,12,Dry latrines - Other,0.0,Administrative records - ADM12
+New Zealand,NZ,NZL,554,National,13,Composting toilets,0.0,Administrative records - ADM12
+New Zealand,NZ,NZL,554,National,14,Other improved,1.0,Administrative records - ADM12
+New Zealand,NZ,NZL,554,National,15,"No facility, bush, field",0.0,Administrative records - ADM12
+New Zealand,NZ,NZL,554,National,16,Other unimproved,0.0,Administrative records - ADM12
+New Zealand,NZ,NZL,554,National,17,DK/missing information,0.0,Administrative records - ADM12

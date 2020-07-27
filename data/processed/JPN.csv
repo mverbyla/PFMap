@@ -1,0 +1,868 @@
+country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+Japan,JP,JPN,392,Urban,1,Flush and pour flush - to piped sewer system,0.0,Survey on the Disposal of general Waste - SDGW00
+Japan,JP,JPN,392,Urban,2,Flush and pour flush - to septic tank,0.0,Survey on the Disposal of general Waste - SDGW00
+Japan,JP,JPN,392,Urban,3,Flush and pour flush - to pit,0.0,Survey on the Disposal of general Waste - SDGW00
+Japan,JP,JPN,392,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Survey on the Disposal of general Waste - SDGW00
+Japan,JP,JPN,392,Urban,5,Flush and pour flush - to elsewhere,0.0,Survey on the Disposal of general Waste - SDGW00
+Japan,JP,JPN,392,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Survey on the Disposal of general Waste - SDGW00
+Japan,JP,JPN,392,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Survey on the Disposal of general Waste - SDGW00
+Japan,JP,JPN,392,Urban,8,Dry latrines - Traditional latrine,0.0,Survey on the Disposal of general Waste - SDGW00
+Japan,JP,JPN,392,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Survey on the Disposal of general Waste - SDGW00
+Japan,JP,JPN,392,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Survey on the Disposal of general Waste - SDGW00
+Japan,JP,JPN,392,Urban,11,Dry latrines - Bucket latrine,0.0,Survey on the Disposal of general Waste - SDGW00
+Japan,JP,JPN,392,Urban,12,Dry latrines - Other,0.0,Survey on the Disposal of general Waste - SDGW00
+Japan,JP,JPN,392,Urban,13,Composting toilets,0.0,Survey on the Disposal of general Waste - SDGW00
+Japan,JP,JPN,392,Urban,14,Other improved,0.0,Survey on the Disposal of general Waste - SDGW00
+Japan,JP,JPN,392,Urban,15,"No facility, bush, field",0.0,Survey on the Disposal of general Waste - SDGW00
+Japan,JP,JPN,392,Urban,16,Other unimproved,0.0,Survey on the Disposal of general Waste - SDGW00
+Japan,JP,JPN,392,Urban,17,DK/missing information,0.0,Survey on the Disposal of general Waste - SDGW00
+Japan,JP,JPN,392,Rural,1,Flush and pour flush - to piped sewer system,0.0,Survey on the Disposal of general Waste - SDGW00
+Japan,JP,JPN,392,Rural,2,Flush and pour flush - to septic tank,0.0,Survey on the Disposal of general Waste - SDGW00
+Japan,JP,JPN,392,Rural,3,Flush and pour flush - to pit,0.0,Survey on the Disposal of general Waste - SDGW00
+Japan,JP,JPN,392,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Survey on the Disposal of general Waste - SDGW00
+Japan,JP,JPN,392,Rural,5,Flush and pour flush - to elsewhere,0.0,Survey on the Disposal of general Waste - SDGW00
+Japan,JP,JPN,392,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Survey on the Disposal of general Waste - SDGW00
+Japan,JP,JPN,392,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Survey on the Disposal of general Waste - SDGW00
+Japan,JP,JPN,392,Rural,8,Dry latrines - Traditional latrine,0.0,Survey on the Disposal of general Waste - SDGW00
+Japan,JP,JPN,392,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Survey on the Disposal of general Waste - SDGW00
+Japan,JP,JPN,392,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Survey on the Disposal of general Waste - SDGW00
+Japan,JP,JPN,392,Rural,11,Dry latrines - Bucket latrine,0.0,Survey on the Disposal of general Waste - SDGW00
+Japan,JP,JPN,392,Rural,12,Dry latrines - Other,0.0,Survey on the Disposal of general Waste - SDGW00
+Japan,JP,JPN,392,Rural,13,Composting toilets,0.0,Survey on the Disposal of general Waste - SDGW00
+Japan,JP,JPN,392,Rural,14,Other improved,0.0,Survey on the Disposal of general Waste - SDGW00
+Japan,JP,JPN,392,Rural,15,"No facility, bush, field",0.0,Survey on the Disposal of general Waste - SDGW00
+Japan,JP,JPN,392,Rural,16,Other unimproved,0.0,Survey on the Disposal of general Waste - SDGW00
+Japan,JP,JPN,392,Rural,17,DK/missing information,0.0,Survey on the Disposal of general Waste - SDGW00
+Japan,JP,JPN,392,National,1,Flush and pour flush - to piped sewer system,0.565,Survey on the Disposal of general Waste - SDGW00
+Japan,JP,JPN,392,National,2,Flush and pour flush - to septic tank,0.269,Survey on the Disposal of general Waste - SDGW00
+Japan,JP,JPN,392,National,3,Flush and pour flush - to pit,0.0,Survey on the Disposal of general Waste - SDGW00
+Japan,JP,JPN,392,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Survey on the Disposal of general Waste - SDGW00
+Japan,JP,JPN,392,National,5,Flush and pour flush - to elsewhere,0.0,Survey on the Disposal of general Waste - SDGW00
+Japan,JP,JPN,392,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Survey on the Disposal of general Waste - SDGW00
+Japan,JP,JPN,392,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Survey on the Disposal of general Waste - SDGW00
+Japan,JP,JPN,392,National,8,Dry latrines - Traditional latrine,0.166,Survey on the Disposal of general Waste - SDGW00
+Japan,JP,JPN,392,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Survey on the Disposal of general Waste - SDGW00
+Japan,JP,JPN,392,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Survey on the Disposal of general Waste - SDGW00
+Japan,JP,JPN,392,National,11,Dry latrines - Bucket latrine,0.0,Survey on the Disposal of general Waste - SDGW00
+Japan,JP,JPN,392,National,12,Dry latrines - Other,0.0,Survey on the Disposal of general Waste - SDGW00
+Japan,JP,JPN,392,National,13,Composting toilets,0.0,Survey on the Disposal of general Waste - SDGW00
+Japan,JP,JPN,392,National,14,Other improved,0.0,Survey on the Disposal of general Waste - SDGW00
+Japan,JP,JPN,392,National,15,"No facility, bush, field",0.0,Survey on the Disposal of general Waste - SDGW00
+Japan,JP,JPN,392,National,16,Other unimproved,0.0,Survey on the Disposal of general Waste - SDGW00
+Japan,JP,JPN,392,National,17,DK/missing information,0.0,Survey on the Disposal of general Waste - SDGW00
+Japan,JP,JPN,392,Urban,1,Flush and pour flush - to piped sewer system,0.0,Survey on the Disposal of general Waste - SDGW01
+Japan,JP,JPN,392,Urban,2,Flush and pour flush - to septic tank,0.0,Survey on the Disposal of general Waste - SDGW01
+Japan,JP,JPN,392,Urban,3,Flush and pour flush - to pit,0.0,Survey on the Disposal of general Waste - SDGW01
+Japan,JP,JPN,392,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Survey on the Disposal of general Waste - SDGW01
+Japan,JP,JPN,392,Urban,5,Flush and pour flush - to elsewhere,0.0,Survey on the Disposal of general Waste - SDGW01
+Japan,JP,JPN,392,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Survey on the Disposal of general Waste - SDGW01
+Japan,JP,JPN,392,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Survey on the Disposal of general Waste - SDGW01
+Japan,JP,JPN,392,Urban,8,Dry latrines - Traditional latrine,0.0,Survey on the Disposal of general Waste - SDGW01
+Japan,JP,JPN,392,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Survey on the Disposal of general Waste - SDGW01
+Japan,JP,JPN,392,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Survey on the Disposal of general Waste - SDGW01
+Japan,JP,JPN,392,Urban,11,Dry latrines - Bucket latrine,0.0,Survey on the Disposal of general Waste - SDGW01
+Japan,JP,JPN,392,Urban,12,Dry latrines - Other,0.0,Survey on the Disposal of general Waste - SDGW01
+Japan,JP,JPN,392,Urban,13,Composting toilets,0.0,Survey on the Disposal of general Waste - SDGW01
+Japan,JP,JPN,392,Urban,14,Other improved,0.0,Survey on the Disposal of general Waste - SDGW01
+Japan,JP,JPN,392,Urban,15,"No facility, bush, field",0.0,Survey on the Disposal of general Waste - SDGW01
+Japan,JP,JPN,392,Urban,16,Other unimproved,0.0,Survey on the Disposal of general Waste - SDGW01
+Japan,JP,JPN,392,Urban,17,DK/missing information,0.0,Survey on the Disposal of general Waste - SDGW01
+Japan,JP,JPN,392,Rural,1,Flush and pour flush - to piped sewer system,0.0,Survey on the Disposal of general Waste - SDGW01
+Japan,JP,JPN,392,Rural,2,Flush and pour flush - to septic tank,0.0,Survey on the Disposal of general Waste - SDGW01
+Japan,JP,JPN,392,Rural,3,Flush and pour flush - to pit,0.0,Survey on the Disposal of general Waste - SDGW01
+Japan,JP,JPN,392,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Survey on the Disposal of general Waste - SDGW01
+Japan,JP,JPN,392,Rural,5,Flush and pour flush - to elsewhere,0.0,Survey on the Disposal of general Waste - SDGW01
+Japan,JP,JPN,392,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Survey on the Disposal of general Waste - SDGW01
+Japan,JP,JPN,392,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Survey on the Disposal of general Waste - SDGW01
+Japan,JP,JPN,392,Rural,8,Dry latrines - Traditional latrine,0.0,Survey on the Disposal of general Waste - SDGW01
+Japan,JP,JPN,392,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Survey on the Disposal of general Waste - SDGW01
+Japan,JP,JPN,392,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Survey on the Disposal of general Waste - SDGW01
+Japan,JP,JPN,392,Rural,11,Dry latrines - Bucket latrine,0.0,Survey on the Disposal of general Waste - SDGW01
+Japan,JP,JPN,392,Rural,12,Dry latrines - Other,0.0,Survey on the Disposal of general Waste - SDGW01
+Japan,JP,JPN,392,Rural,13,Composting toilets,0.0,Survey on the Disposal of general Waste - SDGW01
+Japan,JP,JPN,392,Rural,14,Other improved,0.0,Survey on the Disposal of general Waste - SDGW01
+Japan,JP,JPN,392,Rural,15,"No facility, bush, field",0.0,Survey on the Disposal of general Waste - SDGW01
+Japan,JP,JPN,392,Rural,16,Other unimproved,0.0,Survey on the Disposal of general Waste - SDGW01
+Japan,JP,JPN,392,Rural,17,DK/missing information,0.0,Survey on the Disposal of general Waste - SDGW01
+Japan,JP,JPN,392,National,1,Flush and pour flush - to piped sewer system,0.583,Survey on the Disposal of general Waste - SDGW01
+Japan,JP,JPN,392,National,2,Flush and pour flush - to septic tank,0.264,Survey on the Disposal of general Waste - SDGW01
+Japan,JP,JPN,392,National,3,Flush and pour flush - to pit,0.0,Survey on the Disposal of general Waste - SDGW01
+Japan,JP,JPN,392,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Survey on the Disposal of general Waste - SDGW01
+Japan,JP,JPN,392,National,5,Flush and pour flush - to elsewhere,0.0,Survey on the Disposal of general Waste - SDGW01
+Japan,JP,JPN,392,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Survey on the Disposal of general Waste - SDGW01
+Japan,JP,JPN,392,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Survey on the Disposal of general Waste - SDGW01
+Japan,JP,JPN,392,National,8,Dry latrines - Traditional latrine,0.153,Survey on the Disposal of general Waste - SDGW01
+Japan,JP,JPN,392,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Survey on the Disposal of general Waste - SDGW01
+Japan,JP,JPN,392,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Survey on the Disposal of general Waste - SDGW01
+Japan,JP,JPN,392,National,11,Dry latrines - Bucket latrine,0.0,Survey on the Disposal of general Waste - SDGW01
+Japan,JP,JPN,392,National,12,Dry latrines - Other,0.0,Survey on the Disposal of general Waste - SDGW01
+Japan,JP,JPN,392,National,13,Composting toilets,0.0,Survey on the Disposal of general Waste - SDGW01
+Japan,JP,JPN,392,National,14,Other improved,0.0,Survey on the Disposal of general Waste - SDGW01
+Japan,JP,JPN,392,National,15,"No facility, bush, field",0.0,Survey on the Disposal of general Waste - SDGW01
+Japan,JP,JPN,392,National,16,Other unimproved,0.0,Survey on the Disposal of general Waste - SDGW01
+Japan,JP,JPN,392,National,17,DK/missing information,0.0,Survey on the Disposal of general Waste - SDGW01
+Japan,JP,JPN,392,Urban,1,Flush and pour flush - to piped sewer system,0.0,Survey on the Disposal of general Waste - SDGW02
+Japan,JP,JPN,392,Urban,2,Flush and pour flush - to septic tank,0.0,Survey on the Disposal of general Waste - SDGW02
+Japan,JP,JPN,392,Urban,3,Flush and pour flush - to pit,0.0,Survey on the Disposal of general Waste - SDGW02
+Japan,JP,JPN,392,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Survey on the Disposal of general Waste - SDGW02
+Japan,JP,JPN,392,Urban,5,Flush and pour flush - to elsewhere,0.0,Survey on the Disposal of general Waste - SDGW02
+Japan,JP,JPN,392,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Survey on the Disposal of general Waste - SDGW02
+Japan,JP,JPN,392,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Survey on the Disposal of general Waste - SDGW02
+Japan,JP,JPN,392,Urban,8,Dry latrines - Traditional latrine,0.0,Survey on the Disposal of general Waste - SDGW02
+Japan,JP,JPN,392,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Survey on the Disposal of general Waste - SDGW02
+Japan,JP,JPN,392,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Survey on the Disposal of general Waste - SDGW02
+Japan,JP,JPN,392,Urban,11,Dry latrines - Bucket latrine,0.0,Survey on the Disposal of general Waste - SDGW02
+Japan,JP,JPN,392,Urban,12,Dry latrines - Other,0.0,Survey on the Disposal of general Waste - SDGW02
+Japan,JP,JPN,392,Urban,13,Composting toilets,0.0,Survey on the Disposal of general Waste - SDGW02
+Japan,JP,JPN,392,Urban,14,Other improved,0.0,Survey on the Disposal of general Waste - SDGW02
+Japan,JP,JPN,392,Urban,15,"No facility, bush, field",0.0,Survey on the Disposal of general Waste - SDGW02
+Japan,JP,JPN,392,Urban,16,Other unimproved,0.0,Survey on the Disposal of general Waste - SDGW02
+Japan,JP,JPN,392,Urban,17,DK/missing information,0.0,Survey on the Disposal of general Waste - SDGW02
+Japan,JP,JPN,392,Rural,1,Flush and pour flush - to piped sewer system,0.0,Survey on the Disposal of general Waste - SDGW02
+Japan,JP,JPN,392,Rural,2,Flush and pour flush - to septic tank,0.0,Survey on the Disposal of general Waste - SDGW02
+Japan,JP,JPN,392,Rural,3,Flush and pour flush - to pit,0.0,Survey on the Disposal of general Waste - SDGW02
+Japan,JP,JPN,392,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Survey on the Disposal of general Waste - SDGW02
+Japan,JP,JPN,392,Rural,5,Flush and pour flush - to elsewhere,0.0,Survey on the Disposal of general Waste - SDGW02
+Japan,JP,JPN,392,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Survey on the Disposal of general Waste - SDGW02
+Japan,JP,JPN,392,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Survey on the Disposal of general Waste - SDGW02
+Japan,JP,JPN,392,Rural,8,Dry latrines - Traditional latrine,0.0,Survey on the Disposal of general Waste - SDGW02
+Japan,JP,JPN,392,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Survey on the Disposal of general Waste - SDGW02
+Japan,JP,JPN,392,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Survey on the Disposal of general Waste - SDGW02
+Japan,JP,JPN,392,Rural,11,Dry latrines - Bucket latrine,0.0,Survey on the Disposal of general Waste - SDGW02
+Japan,JP,JPN,392,Rural,12,Dry latrines - Other,0.0,Survey on the Disposal of general Waste - SDGW02
+Japan,JP,JPN,392,Rural,13,Composting toilets,0.0,Survey on the Disposal of general Waste - SDGW02
+Japan,JP,JPN,392,Rural,14,Other improved,0.0,Survey on the Disposal of general Waste - SDGW02
+Japan,JP,JPN,392,Rural,15,"No facility, bush, field",0.0,Survey on the Disposal of general Waste - SDGW02
+Japan,JP,JPN,392,Rural,16,Other unimproved,0.0,Survey on the Disposal of general Waste - SDGW02
+Japan,JP,JPN,392,Rural,17,DK/missing information,0.0,Survey on the Disposal of general Waste - SDGW02
+Japan,JP,JPN,392,National,1,Flush and pour flush - to piped sewer system,0.6,Survey on the Disposal of general Waste - SDGW02
+Japan,JP,JPN,392,National,2,Flush and pour flush - to septic tank,0.26,Survey on the Disposal of general Waste - SDGW02
+Japan,JP,JPN,392,National,3,Flush and pour flush - to pit,0.0,Survey on the Disposal of general Waste - SDGW02
+Japan,JP,JPN,392,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Survey on the Disposal of general Waste - SDGW02
+Japan,JP,JPN,392,National,5,Flush and pour flush - to elsewhere,0.0,Survey on the Disposal of general Waste - SDGW02
+Japan,JP,JPN,392,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Survey on the Disposal of general Waste - SDGW02
+Japan,JP,JPN,392,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Survey on the Disposal of general Waste - SDGW02
+Japan,JP,JPN,392,National,8,Dry latrines - Traditional latrine,0.14,Survey on the Disposal of general Waste - SDGW02
+Japan,JP,JPN,392,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Survey on the Disposal of general Waste - SDGW02
+Japan,JP,JPN,392,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Survey on the Disposal of general Waste - SDGW02
+Japan,JP,JPN,392,National,11,Dry latrines - Bucket latrine,0.0,Survey on the Disposal of general Waste - SDGW02
+Japan,JP,JPN,392,National,12,Dry latrines - Other,0.0,Survey on the Disposal of general Waste - SDGW02
+Japan,JP,JPN,392,National,13,Composting toilets,0.0,Survey on the Disposal of general Waste - SDGW02
+Japan,JP,JPN,392,National,14,Other improved,0.0,Survey on the Disposal of general Waste - SDGW02
+Japan,JP,JPN,392,National,15,"No facility, bush, field",0.0,Survey on the Disposal of general Waste - SDGW02
+Japan,JP,JPN,392,National,16,Other unimproved,0.0,Survey on the Disposal of general Waste - SDGW02
+Japan,JP,JPN,392,National,17,DK/missing information,0.0,Survey on the Disposal of general Waste - SDGW02
+Japan,JP,JPN,392,Urban,1,Flush and pour flush - to piped sewer system,0.0,Survey on the Disposal of general Waste - SDGW03
+Japan,JP,JPN,392,Urban,2,Flush and pour flush - to septic tank,0.0,Survey on the Disposal of general Waste - SDGW03
+Japan,JP,JPN,392,Urban,3,Flush and pour flush - to pit,0.0,Survey on the Disposal of general Waste - SDGW03
+Japan,JP,JPN,392,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Survey on the Disposal of general Waste - SDGW03
+Japan,JP,JPN,392,Urban,5,Flush and pour flush - to elsewhere,0.0,Survey on the Disposal of general Waste - SDGW03
+Japan,JP,JPN,392,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Survey on the Disposal of general Waste - SDGW03
+Japan,JP,JPN,392,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Survey on the Disposal of general Waste - SDGW03
+Japan,JP,JPN,392,Urban,8,Dry latrines - Traditional latrine,0.0,Survey on the Disposal of general Waste - SDGW03
+Japan,JP,JPN,392,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Survey on the Disposal of general Waste - SDGW03
+Japan,JP,JPN,392,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Survey on the Disposal of general Waste - SDGW03
+Japan,JP,JPN,392,Urban,11,Dry latrines - Bucket latrine,0.0,Survey on the Disposal of general Waste - SDGW03
+Japan,JP,JPN,392,Urban,12,Dry latrines - Other,0.0,Survey on the Disposal of general Waste - SDGW03
+Japan,JP,JPN,392,Urban,13,Composting toilets,0.0,Survey on the Disposal of general Waste - SDGW03
+Japan,JP,JPN,392,Urban,14,Other improved,0.0,Survey on the Disposal of general Waste - SDGW03
+Japan,JP,JPN,392,Urban,15,"No facility, bush, field",0.0,Survey on the Disposal of general Waste - SDGW03
+Japan,JP,JPN,392,Urban,16,Other unimproved,0.0,Survey on the Disposal of general Waste - SDGW03
+Japan,JP,JPN,392,Urban,17,DK/missing information,0.0,Survey on the Disposal of general Waste - SDGW03
+Japan,JP,JPN,392,Rural,1,Flush and pour flush - to piped sewer system,0.0,Survey on the Disposal of general Waste - SDGW03
+Japan,JP,JPN,392,Rural,2,Flush and pour flush - to septic tank,0.0,Survey on the Disposal of general Waste - SDGW03
+Japan,JP,JPN,392,Rural,3,Flush and pour flush - to pit,0.0,Survey on the Disposal of general Waste - SDGW03
+Japan,JP,JPN,392,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Survey on the Disposal of general Waste - SDGW03
+Japan,JP,JPN,392,Rural,5,Flush and pour flush - to elsewhere,0.0,Survey on the Disposal of general Waste - SDGW03
+Japan,JP,JPN,392,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Survey on the Disposal of general Waste - SDGW03
+Japan,JP,JPN,392,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Survey on the Disposal of general Waste - SDGW03
+Japan,JP,JPN,392,Rural,8,Dry latrines - Traditional latrine,0.0,Survey on the Disposal of general Waste - SDGW03
+Japan,JP,JPN,392,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Survey on the Disposal of general Waste - SDGW03
+Japan,JP,JPN,392,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Survey on the Disposal of general Waste - SDGW03
+Japan,JP,JPN,392,Rural,11,Dry latrines - Bucket latrine,0.0,Survey on the Disposal of general Waste - SDGW03
+Japan,JP,JPN,392,Rural,12,Dry latrines - Other,0.0,Survey on the Disposal of general Waste - SDGW03
+Japan,JP,JPN,392,Rural,13,Composting toilets,0.0,Survey on the Disposal of general Waste - SDGW03
+Japan,JP,JPN,392,Rural,14,Other improved,0.0,Survey on the Disposal of general Waste - SDGW03
+Japan,JP,JPN,392,Rural,15,"No facility, bush, field",0.0,Survey on the Disposal of general Waste - SDGW03
+Japan,JP,JPN,392,Rural,16,Other unimproved,0.0,Survey on the Disposal of general Waste - SDGW03
+Japan,JP,JPN,392,Rural,17,DK/missing information,0.0,Survey on the Disposal of general Waste - SDGW03
+Japan,JP,JPN,392,National,1,Flush and pour flush - to piped sewer system,0.616,Survey on the Disposal of general Waste - SDGW03
+Japan,JP,JPN,392,National,2,Flush and pour flush - to septic tank,0.255,Survey on the Disposal of general Waste - SDGW03
+Japan,JP,JPN,392,National,3,Flush and pour flush - to pit,0.0,Survey on the Disposal of general Waste - SDGW03
+Japan,JP,JPN,392,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Survey on the Disposal of general Waste - SDGW03
+Japan,JP,JPN,392,National,5,Flush and pour flush - to elsewhere,0.0,Survey on the Disposal of general Waste - SDGW03
+Japan,JP,JPN,392,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Survey on the Disposal of general Waste - SDGW03
+Japan,JP,JPN,392,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Survey on the Disposal of general Waste - SDGW03
+Japan,JP,JPN,392,National,8,Dry latrines - Traditional latrine,0.129,Survey on the Disposal of general Waste - SDGW03
+Japan,JP,JPN,392,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Survey on the Disposal of general Waste - SDGW03
+Japan,JP,JPN,392,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Survey on the Disposal of general Waste - SDGW03
+Japan,JP,JPN,392,National,11,Dry latrines - Bucket latrine,0.0,Survey on the Disposal of general Waste - SDGW03
+Japan,JP,JPN,392,National,12,Dry latrines - Other,0.0,Survey on the Disposal of general Waste - SDGW03
+Japan,JP,JPN,392,National,13,Composting toilets,0.0,Survey on the Disposal of general Waste - SDGW03
+Japan,JP,JPN,392,National,14,Other improved,0.0,Survey on the Disposal of general Waste - SDGW03
+Japan,JP,JPN,392,National,15,"No facility, bush, field",0.0,Survey on the Disposal of general Waste - SDGW03
+Japan,JP,JPN,392,National,16,Other unimproved,0.0,Survey on the Disposal of general Waste - SDGW03
+Japan,JP,JPN,392,National,17,DK/missing information,0.0,Survey on the Disposal of general Waste - SDGW03
+Japan,JP,JPN,392,Urban,1,Flush and pour flush - to piped sewer system,0.0,Survey on the Disposal of general Waste - SDGW04
+Japan,JP,JPN,392,Urban,2,Flush and pour flush - to septic tank,0.0,Survey on the Disposal of general Waste - SDGW04
+Japan,JP,JPN,392,Urban,3,Flush and pour flush - to pit,0.0,Survey on the Disposal of general Waste - SDGW04
+Japan,JP,JPN,392,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Survey on the Disposal of general Waste - SDGW04
+Japan,JP,JPN,392,Urban,5,Flush and pour flush - to elsewhere,0.0,Survey on the Disposal of general Waste - SDGW04
+Japan,JP,JPN,392,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Survey on the Disposal of general Waste - SDGW04
+Japan,JP,JPN,392,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Survey on the Disposal of general Waste - SDGW04
+Japan,JP,JPN,392,Urban,8,Dry latrines - Traditional latrine,0.0,Survey on the Disposal of general Waste - SDGW04
+Japan,JP,JPN,392,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Survey on the Disposal of general Waste - SDGW04
+Japan,JP,JPN,392,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Survey on the Disposal of general Waste - SDGW04
+Japan,JP,JPN,392,Urban,11,Dry latrines - Bucket latrine,0.0,Survey on the Disposal of general Waste - SDGW04
+Japan,JP,JPN,392,Urban,12,Dry latrines - Other,0.0,Survey on the Disposal of general Waste - SDGW04
+Japan,JP,JPN,392,Urban,13,Composting toilets,0.0,Survey on the Disposal of general Waste - SDGW04
+Japan,JP,JPN,392,Urban,14,Other improved,0.0,Survey on the Disposal of general Waste - SDGW04
+Japan,JP,JPN,392,Urban,15,"No facility, bush, field",0.0,Survey on the Disposal of general Waste - SDGW04
+Japan,JP,JPN,392,Urban,16,Other unimproved,0.0,Survey on the Disposal of general Waste - SDGW04
+Japan,JP,JPN,392,Urban,17,DK/missing information,0.0,Survey on the Disposal of general Waste - SDGW04
+Japan,JP,JPN,392,Rural,1,Flush and pour flush - to piped sewer system,0.0,Survey on the Disposal of general Waste - SDGW04
+Japan,JP,JPN,392,Rural,2,Flush and pour flush - to septic tank,0.0,Survey on the Disposal of general Waste - SDGW04
+Japan,JP,JPN,392,Rural,3,Flush and pour flush - to pit,0.0,Survey on the Disposal of general Waste - SDGW04
+Japan,JP,JPN,392,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Survey on the Disposal of general Waste - SDGW04
+Japan,JP,JPN,392,Rural,5,Flush and pour flush - to elsewhere,0.0,Survey on the Disposal of general Waste - SDGW04
+Japan,JP,JPN,392,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Survey on the Disposal of general Waste - SDGW04
+Japan,JP,JPN,392,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Survey on the Disposal of general Waste - SDGW04
+Japan,JP,JPN,392,Rural,8,Dry latrines - Traditional latrine,0.0,Survey on the Disposal of general Waste - SDGW04
+Japan,JP,JPN,392,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Survey on the Disposal of general Waste - SDGW04
+Japan,JP,JPN,392,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Survey on the Disposal of general Waste - SDGW04
+Japan,JP,JPN,392,Rural,11,Dry latrines - Bucket latrine,0.0,Survey on the Disposal of general Waste - SDGW04
+Japan,JP,JPN,392,Rural,12,Dry latrines - Other,0.0,Survey on the Disposal of general Waste - SDGW04
+Japan,JP,JPN,392,Rural,13,Composting toilets,0.0,Survey on the Disposal of general Waste - SDGW04
+Japan,JP,JPN,392,Rural,14,Other improved,0.0,Survey on the Disposal of general Waste - SDGW04
+Japan,JP,JPN,392,Rural,15,"No facility, bush, field",0.0,Survey on the Disposal of general Waste - SDGW04
+Japan,JP,JPN,392,Rural,16,Other unimproved,0.0,Survey on the Disposal of general Waste - SDGW04
+Japan,JP,JPN,392,Rural,17,DK/missing information,0.0,Survey on the Disposal of general Waste - SDGW04
+Japan,JP,JPN,392,National,1,Flush and pour flush - to piped sewer system,0.629,Survey on the Disposal of general Waste - SDGW04
+Japan,JP,JPN,392,National,2,Flush and pour flush - to septic tank,0.25,Survey on the Disposal of general Waste - SDGW04
+Japan,JP,JPN,392,National,3,Flush and pour flush - to pit,0.0,Survey on the Disposal of general Waste - SDGW04
+Japan,JP,JPN,392,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Survey on the Disposal of general Waste - SDGW04
+Japan,JP,JPN,392,National,5,Flush and pour flush - to elsewhere,0.0,Survey on the Disposal of general Waste - SDGW04
+Japan,JP,JPN,392,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Survey on the Disposal of general Waste - SDGW04
+Japan,JP,JPN,392,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Survey on the Disposal of general Waste - SDGW04
+Japan,JP,JPN,392,National,8,Dry latrines - Traditional latrine,0.119,Survey on the Disposal of general Waste - SDGW04
+Japan,JP,JPN,392,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Survey on the Disposal of general Waste - SDGW04
+Japan,JP,JPN,392,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Survey on the Disposal of general Waste - SDGW04
+Japan,JP,JPN,392,National,11,Dry latrines - Bucket latrine,0.0,Survey on the Disposal of general Waste - SDGW04
+Japan,JP,JPN,392,National,12,Dry latrines - Other,0.0,Survey on the Disposal of general Waste - SDGW04
+Japan,JP,JPN,392,National,13,Composting toilets,0.0,Survey on the Disposal of general Waste - SDGW04
+Japan,JP,JPN,392,National,14,Other improved,0.0,Survey on the Disposal of general Waste - SDGW04
+Japan,JP,JPN,392,National,15,"No facility, bush, field",0.0,Survey on the Disposal of general Waste - SDGW04
+Japan,JP,JPN,392,National,16,Other unimproved,0.0,Survey on the Disposal of general Waste - SDGW04
+Japan,JP,JPN,392,National,17,DK/missing information,0.0,Survey on the Disposal of general Waste - SDGW04
+Japan,JP,JPN,392,Urban,1,Flush and pour flush - to piped sewer system,0.0,Survey on the Disposal of general Waste - SDGW05
+Japan,JP,JPN,392,Urban,2,Flush and pour flush - to septic tank,0.0,Survey on the Disposal of general Waste - SDGW05
+Japan,JP,JPN,392,Urban,3,Flush and pour flush - to pit,0.0,Survey on the Disposal of general Waste - SDGW05
+Japan,JP,JPN,392,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Survey on the Disposal of general Waste - SDGW05
+Japan,JP,JPN,392,Urban,5,Flush and pour flush - to elsewhere,0.0,Survey on the Disposal of general Waste - SDGW05
+Japan,JP,JPN,392,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Survey on the Disposal of general Waste - SDGW05
+Japan,JP,JPN,392,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Survey on the Disposal of general Waste - SDGW05
+Japan,JP,JPN,392,Urban,8,Dry latrines - Traditional latrine,0.0,Survey on the Disposal of general Waste - SDGW05
+Japan,JP,JPN,392,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Survey on the Disposal of general Waste - SDGW05
+Japan,JP,JPN,392,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Survey on the Disposal of general Waste - SDGW05
+Japan,JP,JPN,392,Urban,11,Dry latrines - Bucket latrine,0.0,Survey on the Disposal of general Waste - SDGW05
+Japan,JP,JPN,392,Urban,12,Dry latrines - Other,0.0,Survey on the Disposal of general Waste - SDGW05
+Japan,JP,JPN,392,Urban,13,Composting toilets,0.0,Survey on the Disposal of general Waste - SDGW05
+Japan,JP,JPN,392,Urban,14,Other improved,0.0,Survey on the Disposal of general Waste - SDGW05
+Japan,JP,JPN,392,Urban,15,"No facility, bush, field",0.0,Survey on the Disposal of general Waste - SDGW05
+Japan,JP,JPN,392,Urban,16,Other unimproved,0.0,Survey on the Disposal of general Waste - SDGW05
+Japan,JP,JPN,392,Urban,17,DK/missing information,0.0,Survey on the Disposal of general Waste - SDGW05
+Japan,JP,JPN,392,Rural,1,Flush and pour flush - to piped sewer system,0.0,Survey on the Disposal of general Waste - SDGW05
+Japan,JP,JPN,392,Rural,2,Flush and pour flush - to septic tank,0.0,Survey on the Disposal of general Waste - SDGW05
+Japan,JP,JPN,392,Rural,3,Flush and pour flush - to pit,0.0,Survey on the Disposal of general Waste - SDGW05
+Japan,JP,JPN,392,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Survey on the Disposal of general Waste - SDGW05
+Japan,JP,JPN,392,Rural,5,Flush and pour flush - to elsewhere,0.0,Survey on the Disposal of general Waste - SDGW05
+Japan,JP,JPN,392,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Survey on the Disposal of general Waste - SDGW05
+Japan,JP,JPN,392,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Survey on the Disposal of general Waste - SDGW05
+Japan,JP,JPN,392,Rural,8,Dry latrines - Traditional latrine,0.0,Survey on the Disposal of general Waste - SDGW05
+Japan,JP,JPN,392,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Survey on the Disposal of general Waste - SDGW05
+Japan,JP,JPN,392,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Survey on the Disposal of general Waste - SDGW05
+Japan,JP,JPN,392,Rural,11,Dry latrines - Bucket latrine,0.0,Survey on the Disposal of general Waste - SDGW05
+Japan,JP,JPN,392,Rural,12,Dry latrines - Other,0.0,Survey on the Disposal of general Waste - SDGW05
+Japan,JP,JPN,392,Rural,13,Composting toilets,0.0,Survey on the Disposal of general Waste - SDGW05
+Japan,JP,JPN,392,Rural,14,Other improved,0.0,Survey on the Disposal of general Waste - SDGW05
+Japan,JP,JPN,392,Rural,15,"No facility, bush, field",0.0,Survey on the Disposal of general Waste - SDGW05
+Japan,JP,JPN,392,Rural,16,Other unimproved,0.0,Survey on the Disposal of general Waste - SDGW05
+Japan,JP,JPN,392,Rural,17,DK/missing information,0.0,Survey on the Disposal of general Waste - SDGW05
+Japan,JP,JPN,392,National,1,Flush and pour flush - to piped sewer system,0.645,Survey on the Disposal of general Waste - SDGW05
+Japan,JP,JPN,392,National,2,Flush and pour flush - to septic tank,0.243,Survey on the Disposal of general Waste - SDGW05
+Japan,JP,JPN,392,National,3,Flush and pour flush - to pit,0.0,Survey on the Disposal of general Waste - SDGW05
+Japan,JP,JPN,392,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Survey on the Disposal of general Waste - SDGW05
+Japan,JP,JPN,392,National,5,Flush and pour flush - to elsewhere,0.0,Survey on the Disposal of general Waste - SDGW05
+Japan,JP,JPN,392,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Survey on the Disposal of general Waste - SDGW05
+Japan,JP,JPN,392,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Survey on the Disposal of general Waste - SDGW05
+Japan,JP,JPN,392,National,8,Dry latrines - Traditional latrine,0.111,Survey on the Disposal of general Waste - SDGW05
+Japan,JP,JPN,392,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Survey on the Disposal of general Waste - SDGW05
+Japan,JP,JPN,392,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Survey on the Disposal of general Waste - SDGW05
+Japan,JP,JPN,392,National,11,Dry latrines - Bucket latrine,0.0,Survey on the Disposal of general Waste - SDGW05
+Japan,JP,JPN,392,National,12,Dry latrines - Other,0.0,Survey on the Disposal of general Waste - SDGW05
+Japan,JP,JPN,392,National,13,Composting toilets,0.0,Survey on the Disposal of general Waste - SDGW05
+Japan,JP,JPN,392,National,14,Other improved,0.0,Survey on the Disposal of general Waste - SDGW05
+Japan,JP,JPN,392,National,15,"No facility, bush, field",0.0,Survey on the Disposal of general Waste - SDGW05
+Japan,JP,JPN,392,National,16,Other unimproved,0.0,Survey on the Disposal of general Waste - SDGW05
+Japan,JP,JPN,392,National,17,DK/missing information,0.0,Survey on the Disposal of general Waste - SDGW05
+Japan,JP,JPN,392,Urban,1,Flush and pour flush - to piped sewer system,0.0,Survey on the Disposal of general Waste - SDGW06
+Japan,JP,JPN,392,Urban,2,Flush and pour flush - to septic tank,0.0,Survey on the Disposal of general Waste - SDGW06
+Japan,JP,JPN,392,Urban,3,Flush and pour flush - to pit,0.0,Survey on the Disposal of general Waste - SDGW06
+Japan,JP,JPN,392,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Survey on the Disposal of general Waste - SDGW06
+Japan,JP,JPN,392,Urban,5,Flush and pour flush - to elsewhere,0.0,Survey on the Disposal of general Waste - SDGW06
+Japan,JP,JPN,392,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Survey on the Disposal of general Waste - SDGW06
+Japan,JP,JPN,392,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Survey on the Disposal of general Waste - SDGW06
+Japan,JP,JPN,392,Urban,8,Dry latrines - Traditional latrine,0.0,Survey on the Disposal of general Waste - SDGW06
+Japan,JP,JPN,392,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Survey on the Disposal of general Waste - SDGW06
+Japan,JP,JPN,392,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Survey on the Disposal of general Waste - SDGW06
+Japan,JP,JPN,392,Urban,11,Dry latrines - Bucket latrine,0.0,Survey on the Disposal of general Waste - SDGW06
+Japan,JP,JPN,392,Urban,12,Dry latrines - Other,0.0,Survey on the Disposal of general Waste - SDGW06
+Japan,JP,JPN,392,Urban,13,Composting toilets,0.0,Survey on the Disposal of general Waste - SDGW06
+Japan,JP,JPN,392,Urban,14,Other improved,0.0,Survey on the Disposal of general Waste - SDGW06
+Japan,JP,JPN,392,Urban,15,"No facility, bush, field",0.0,Survey on the Disposal of general Waste - SDGW06
+Japan,JP,JPN,392,Urban,16,Other unimproved,0.0,Survey on the Disposal of general Waste - SDGW06
+Japan,JP,JPN,392,Urban,17,DK/missing information,0.0,Survey on the Disposal of general Waste - SDGW06
+Japan,JP,JPN,392,Rural,1,Flush and pour flush - to piped sewer system,0.0,Survey on the Disposal of general Waste - SDGW06
+Japan,JP,JPN,392,Rural,2,Flush and pour flush - to septic tank,0.0,Survey on the Disposal of general Waste - SDGW06
+Japan,JP,JPN,392,Rural,3,Flush and pour flush - to pit,0.0,Survey on the Disposal of general Waste - SDGW06
+Japan,JP,JPN,392,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Survey on the Disposal of general Waste - SDGW06
+Japan,JP,JPN,392,Rural,5,Flush and pour flush - to elsewhere,0.0,Survey on the Disposal of general Waste - SDGW06
+Japan,JP,JPN,392,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Survey on the Disposal of general Waste - SDGW06
+Japan,JP,JPN,392,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Survey on the Disposal of general Waste - SDGW06
+Japan,JP,JPN,392,Rural,8,Dry latrines - Traditional latrine,0.0,Survey on the Disposal of general Waste - SDGW06
+Japan,JP,JPN,392,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Survey on the Disposal of general Waste - SDGW06
+Japan,JP,JPN,392,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Survey on the Disposal of general Waste - SDGW06
+Japan,JP,JPN,392,Rural,11,Dry latrines - Bucket latrine,0.0,Survey on the Disposal of general Waste - SDGW06
+Japan,JP,JPN,392,Rural,12,Dry latrines - Other,0.0,Survey on the Disposal of general Waste - SDGW06
+Japan,JP,JPN,392,Rural,13,Composting toilets,0.0,Survey on the Disposal of general Waste - SDGW06
+Japan,JP,JPN,392,Rural,14,Other improved,0.0,Survey on the Disposal of general Waste - SDGW06
+Japan,JP,JPN,392,Rural,15,"No facility, bush, field",0.0,Survey on the Disposal of general Waste - SDGW06
+Japan,JP,JPN,392,Rural,16,Other unimproved,0.0,Survey on the Disposal of general Waste - SDGW06
+Japan,JP,JPN,392,Rural,17,DK/missing information,0.0,Survey on the Disposal of general Waste - SDGW06
+Japan,JP,JPN,392,National,1,Flush and pour flush - to piped sewer system,0.658,Survey on the Disposal of general Waste - SDGW06
+Japan,JP,JPN,392,National,2,Flush and pour flush - to septic tank,0.238,Survey on the Disposal of general Waste - SDGW06
+Japan,JP,JPN,392,National,3,Flush and pour flush - to pit,0.0,Survey on the Disposal of general Waste - SDGW06
+Japan,JP,JPN,392,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Survey on the Disposal of general Waste - SDGW06
+Japan,JP,JPN,392,National,5,Flush and pour flush - to elsewhere,0.0,Survey on the Disposal of general Waste - SDGW06
+Japan,JP,JPN,392,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Survey on the Disposal of general Waste - SDGW06
+Japan,JP,JPN,392,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Survey on the Disposal of general Waste - SDGW06
+Japan,JP,JPN,392,National,8,Dry latrines - Traditional latrine,0.103,Survey on the Disposal of general Waste - SDGW06
+Japan,JP,JPN,392,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Survey on the Disposal of general Waste - SDGW06
+Japan,JP,JPN,392,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Survey on the Disposal of general Waste - SDGW06
+Japan,JP,JPN,392,National,11,Dry latrines - Bucket latrine,0.0,Survey on the Disposal of general Waste - SDGW06
+Japan,JP,JPN,392,National,12,Dry latrines - Other,0.0,Survey on the Disposal of general Waste - SDGW06
+Japan,JP,JPN,392,National,13,Composting toilets,0.0,Survey on the Disposal of general Waste - SDGW06
+Japan,JP,JPN,392,National,14,Other improved,0.0,Survey on the Disposal of general Waste - SDGW06
+Japan,JP,JPN,392,National,15,"No facility, bush, field",0.0,Survey on the Disposal of general Waste - SDGW06
+Japan,JP,JPN,392,National,16,Other unimproved,0.0,Survey on the Disposal of general Waste - SDGW06
+Japan,JP,JPN,392,National,17,DK/missing information,0.0,Survey on the Disposal of general Waste - SDGW06
+Japan,JP,JPN,392,Urban,1,Flush and pour flush - to piped sewer system,0.0,Survey on the Disposal of general Waste - SDGW08
+Japan,JP,JPN,392,Urban,2,Flush and pour flush - to septic tank,0.0,Survey on the Disposal of general Waste - SDGW08
+Japan,JP,JPN,392,Urban,3,Flush and pour flush - to pit,0.0,Survey on the Disposal of general Waste - SDGW08
+Japan,JP,JPN,392,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Survey on the Disposal of general Waste - SDGW08
+Japan,JP,JPN,392,Urban,5,Flush and pour flush - to elsewhere,0.0,Survey on the Disposal of general Waste - SDGW08
+Japan,JP,JPN,392,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Survey on the Disposal of general Waste - SDGW08
+Japan,JP,JPN,392,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Survey on the Disposal of general Waste - SDGW08
+Japan,JP,JPN,392,Urban,8,Dry latrines - Traditional latrine,0.0,Survey on the Disposal of general Waste - SDGW08
+Japan,JP,JPN,392,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Survey on the Disposal of general Waste - SDGW08
+Japan,JP,JPN,392,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Survey on the Disposal of general Waste - SDGW08
+Japan,JP,JPN,392,Urban,11,Dry latrines - Bucket latrine,0.0,Survey on the Disposal of general Waste - SDGW08
+Japan,JP,JPN,392,Urban,12,Dry latrines - Other,0.0,Survey on the Disposal of general Waste - SDGW08
+Japan,JP,JPN,392,Urban,13,Composting toilets,0.0,Survey on the Disposal of general Waste - SDGW08
+Japan,JP,JPN,392,Urban,14,Other improved,0.0,Survey on the Disposal of general Waste - SDGW08
+Japan,JP,JPN,392,Urban,15,"No facility, bush, field",0.0,Survey on the Disposal of general Waste - SDGW08
+Japan,JP,JPN,392,Urban,16,Other unimproved,0.0,Survey on the Disposal of general Waste - SDGW08
+Japan,JP,JPN,392,Urban,17,DK/missing information,0.0,Survey on the Disposal of general Waste - SDGW08
+Japan,JP,JPN,392,Rural,1,Flush and pour flush - to piped sewer system,0.0,Survey on the Disposal of general Waste - SDGW08
+Japan,JP,JPN,392,Rural,2,Flush and pour flush - to septic tank,0.0,Survey on the Disposal of general Waste - SDGW08
+Japan,JP,JPN,392,Rural,3,Flush and pour flush - to pit,0.0,Survey on the Disposal of general Waste - SDGW08
+Japan,JP,JPN,392,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Survey on the Disposal of general Waste - SDGW08
+Japan,JP,JPN,392,Rural,5,Flush and pour flush - to elsewhere,0.0,Survey on the Disposal of general Waste - SDGW08
+Japan,JP,JPN,392,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Survey on the Disposal of general Waste - SDGW08
+Japan,JP,JPN,392,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Survey on the Disposal of general Waste - SDGW08
+Japan,JP,JPN,392,Rural,8,Dry latrines - Traditional latrine,0.0,Survey on the Disposal of general Waste - SDGW08
+Japan,JP,JPN,392,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Survey on the Disposal of general Waste - SDGW08
+Japan,JP,JPN,392,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Survey on the Disposal of general Waste - SDGW08
+Japan,JP,JPN,392,Rural,11,Dry latrines - Bucket latrine,0.0,Survey on the Disposal of general Waste - SDGW08
+Japan,JP,JPN,392,Rural,12,Dry latrines - Other,0.0,Survey on the Disposal of general Waste - SDGW08
+Japan,JP,JPN,392,Rural,13,Composting toilets,0.0,Survey on the Disposal of general Waste - SDGW08
+Japan,JP,JPN,392,Rural,14,Other improved,0.0,Survey on the Disposal of general Waste - SDGW08
+Japan,JP,JPN,392,Rural,15,"No facility, bush, field",0.0,Survey on the Disposal of general Waste - SDGW08
+Japan,JP,JPN,392,Rural,16,Other unimproved,0.0,Survey on the Disposal of general Waste - SDGW08
+Japan,JP,JPN,392,Rural,17,DK/missing information,0.0,Survey on the Disposal of general Waste - SDGW08
+Japan,JP,JPN,392,National,1,Flush and pour flush - to piped sewer system,0.681,Survey on the Disposal of general Waste - SDGW08
+Japan,JP,JPN,392,National,2,Flush and pour flush - to septic tank,0.229,Survey on the Disposal of general Waste - SDGW08
+Japan,JP,JPN,392,National,3,Flush and pour flush - to pit,0.0,Survey on the Disposal of general Waste - SDGW08
+Japan,JP,JPN,392,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Survey on the Disposal of general Waste - SDGW08
+Japan,JP,JPN,392,National,5,Flush and pour flush - to elsewhere,0.0,Survey on the Disposal of general Waste - SDGW08
+Japan,JP,JPN,392,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Survey on the Disposal of general Waste - SDGW08
+Japan,JP,JPN,392,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Survey on the Disposal of general Waste - SDGW08
+Japan,JP,JPN,392,National,8,Dry latrines - Traditional latrine,0.09,Survey on the Disposal of general Waste - SDGW08
+Japan,JP,JPN,392,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Survey on the Disposal of general Waste - SDGW08
+Japan,JP,JPN,392,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Survey on the Disposal of general Waste - SDGW08
+Japan,JP,JPN,392,National,11,Dry latrines - Bucket latrine,0.0,Survey on the Disposal of general Waste - SDGW08
+Japan,JP,JPN,392,National,12,Dry latrines - Other,0.0,Survey on the Disposal of general Waste - SDGW08
+Japan,JP,JPN,392,National,13,Composting toilets,0.0,Survey on the Disposal of general Waste - SDGW08
+Japan,JP,JPN,392,National,14,Other improved,0.0,Survey on the Disposal of general Waste - SDGW08
+Japan,JP,JPN,392,National,15,"No facility, bush, field",0.0,Survey on the Disposal of general Waste - SDGW08
+Japan,JP,JPN,392,National,16,Other unimproved,0.0,Survey on the Disposal of general Waste - SDGW08
+Japan,JP,JPN,392,National,17,DK/missing information,0.0,Survey on the Disposal of general Waste - SDGW08
+Japan,JP,JPN,392,Urban,1,Flush and pour flush - to piped sewer system,0.0,Survey on the Disposal of general Waste - SDGW09
+Japan,JP,JPN,392,Urban,2,Flush and pour flush - to septic tank,0.0,Survey on the Disposal of general Waste - SDGW09
+Japan,JP,JPN,392,Urban,3,Flush and pour flush - to pit,0.0,Survey on the Disposal of general Waste - SDGW09
+Japan,JP,JPN,392,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Survey on the Disposal of general Waste - SDGW09
+Japan,JP,JPN,392,Urban,5,Flush and pour flush - to elsewhere,0.0,Survey on the Disposal of general Waste - SDGW09
+Japan,JP,JPN,392,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Survey on the Disposal of general Waste - SDGW09
+Japan,JP,JPN,392,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Survey on the Disposal of general Waste - SDGW09
+Japan,JP,JPN,392,Urban,8,Dry latrines - Traditional latrine,0.0,Survey on the Disposal of general Waste - SDGW09
+Japan,JP,JPN,392,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Survey on the Disposal of general Waste - SDGW09
+Japan,JP,JPN,392,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Survey on the Disposal of general Waste - SDGW09
+Japan,JP,JPN,392,Urban,11,Dry latrines - Bucket latrine,0.0,Survey on the Disposal of general Waste - SDGW09
+Japan,JP,JPN,392,Urban,12,Dry latrines - Other,0.0,Survey on the Disposal of general Waste - SDGW09
+Japan,JP,JPN,392,Urban,13,Composting toilets,0.0,Survey on the Disposal of general Waste - SDGW09
+Japan,JP,JPN,392,Urban,14,Other improved,0.0,Survey on the Disposal of general Waste - SDGW09
+Japan,JP,JPN,392,Urban,15,"No facility, bush, field",0.0,Survey on the Disposal of general Waste - SDGW09
+Japan,JP,JPN,392,Urban,16,Other unimproved,0.0,Survey on the Disposal of general Waste - SDGW09
+Japan,JP,JPN,392,Urban,17,DK/missing information,0.0,Survey on the Disposal of general Waste - SDGW09
+Japan,JP,JPN,392,Rural,1,Flush and pour flush - to piped sewer system,0.0,Survey on the Disposal of general Waste - SDGW09
+Japan,JP,JPN,392,Rural,2,Flush and pour flush - to septic tank,0.0,Survey on the Disposal of general Waste - SDGW09
+Japan,JP,JPN,392,Rural,3,Flush and pour flush - to pit,0.0,Survey on the Disposal of general Waste - SDGW09
+Japan,JP,JPN,392,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Survey on the Disposal of general Waste - SDGW09
+Japan,JP,JPN,392,Rural,5,Flush and pour flush - to elsewhere,0.0,Survey on the Disposal of general Waste - SDGW09
+Japan,JP,JPN,392,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Survey on the Disposal of general Waste - SDGW09
+Japan,JP,JPN,392,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Survey on the Disposal of general Waste - SDGW09
+Japan,JP,JPN,392,Rural,8,Dry latrines - Traditional latrine,0.0,Survey on the Disposal of general Waste - SDGW09
+Japan,JP,JPN,392,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Survey on the Disposal of general Waste - SDGW09
+Japan,JP,JPN,392,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Survey on the Disposal of general Waste - SDGW09
+Japan,JP,JPN,392,Rural,11,Dry latrines - Bucket latrine,0.0,Survey on the Disposal of general Waste - SDGW09
+Japan,JP,JPN,392,Rural,12,Dry latrines - Other,0.0,Survey on the Disposal of general Waste - SDGW09
+Japan,JP,JPN,392,Rural,13,Composting toilets,0.0,Survey on the Disposal of general Waste - SDGW09
+Japan,JP,JPN,392,Rural,14,Other improved,0.0,Survey on the Disposal of general Waste - SDGW09
+Japan,JP,JPN,392,Rural,15,"No facility, bush, field",0.0,Survey on the Disposal of general Waste - SDGW09
+Japan,JP,JPN,392,Rural,16,Other unimproved,0.0,Survey on the Disposal of general Waste - SDGW09
+Japan,JP,JPN,392,Rural,17,DK/missing information,0.0,Survey on the Disposal of general Waste - SDGW09
+Japan,JP,JPN,392,National,1,Flush and pour flush - to piped sewer system,0.691,Survey on the Disposal of general Waste - SDGW09
+Japan,JP,JPN,392,National,2,Flush and pour flush - to septic tank,0.224,Survey on the Disposal of general Waste - SDGW09
+Japan,JP,JPN,392,National,3,Flush and pour flush - to pit,0.0,Survey on the Disposal of general Waste - SDGW09
+Japan,JP,JPN,392,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Survey on the Disposal of general Waste - SDGW09
+Japan,JP,JPN,392,National,5,Flush and pour flush - to elsewhere,0.0,Survey on the Disposal of general Waste - SDGW09
+Japan,JP,JPN,392,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Survey on the Disposal of general Waste - SDGW09
+Japan,JP,JPN,392,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Survey on the Disposal of general Waste - SDGW09
+Japan,JP,JPN,392,National,8,Dry latrines - Traditional latrine,0.085,Survey on the Disposal of general Waste - SDGW09
+Japan,JP,JPN,392,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Survey on the Disposal of general Waste - SDGW09
+Japan,JP,JPN,392,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Survey on the Disposal of general Waste - SDGW09
+Japan,JP,JPN,392,National,11,Dry latrines - Bucket latrine,0.0,Survey on the Disposal of general Waste - SDGW09
+Japan,JP,JPN,392,National,12,Dry latrines - Other,0.0,Survey on the Disposal of general Waste - SDGW09
+Japan,JP,JPN,392,National,13,Composting toilets,0.0,Survey on the Disposal of general Waste - SDGW09
+Japan,JP,JPN,392,National,14,Other improved,0.0,Survey on the Disposal of general Waste - SDGW09
+Japan,JP,JPN,392,National,15,"No facility, bush, field",0.0,Survey on the Disposal of general Waste - SDGW09
+Japan,JP,JPN,392,National,16,Other unimproved,0.0,Survey on the Disposal of general Waste - SDGW09
+Japan,JP,JPN,392,National,17,DK/missing information,0.0,Survey on the Disposal of general Waste - SDGW09
+Japan,JP,JPN,392,Urban,1,Flush and pour flush - to piped sewer system,0.0,Survey on the Disposal of general Waste - SDGW10
+Japan,JP,JPN,392,Urban,2,Flush and pour flush - to septic tank,0.0,Survey on the Disposal of general Waste - SDGW10
+Japan,JP,JPN,392,Urban,3,Flush and pour flush - to pit,0.0,Survey on the Disposal of general Waste - SDGW10
+Japan,JP,JPN,392,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Survey on the Disposal of general Waste - SDGW10
+Japan,JP,JPN,392,Urban,5,Flush and pour flush - to elsewhere,0.0,Survey on the Disposal of general Waste - SDGW10
+Japan,JP,JPN,392,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Survey on the Disposal of general Waste - SDGW10
+Japan,JP,JPN,392,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Survey on the Disposal of general Waste - SDGW10
+Japan,JP,JPN,392,Urban,8,Dry latrines - Traditional latrine,0.0,Survey on the Disposal of general Waste - SDGW10
+Japan,JP,JPN,392,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Survey on the Disposal of general Waste - SDGW10
+Japan,JP,JPN,392,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Survey on the Disposal of general Waste - SDGW10
+Japan,JP,JPN,392,Urban,11,Dry latrines - Bucket latrine,0.0,Survey on the Disposal of general Waste - SDGW10
+Japan,JP,JPN,392,Urban,12,Dry latrines - Other,0.0,Survey on the Disposal of general Waste - SDGW10
+Japan,JP,JPN,392,Urban,13,Composting toilets,0.0,Survey on the Disposal of general Waste - SDGW10
+Japan,JP,JPN,392,Urban,14,Other improved,0.0,Survey on the Disposal of general Waste - SDGW10
+Japan,JP,JPN,392,Urban,15,"No facility, bush, field",0.0,Survey on the Disposal of general Waste - SDGW10
+Japan,JP,JPN,392,Urban,16,Other unimproved,0.0,Survey on the Disposal of general Waste - SDGW10
+Japan,JP,JPN,392,Urban,17,DK/missing information,0.0,Survey on the Disposal of general Waste - SDGW10
+Japan,JP,JPN,392,Rural,1,Flush and pour flush - to piped sewer system,0.0,Survey on the Disposal of general Waste - SDGW10
+Japan,JP,JPN,392,Rural,2,Flush and pour flush - to septic tank,0.0,Survey on the Disposal of general Waste - SDGW10
+Japan,JP,JPN,392,Rural,3,Flush and pour flush - to pit,0.0,Survey on the Disposal of general Waste - SDGW10
+Japan,JP,JPN,392,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Survey on the Disposal of general Waste - SDGW10
+Japan,JP,JPN,392,Rural,5,Flush and pour flush - to elsewhere,0.0,Survey on the Disposal of general Waste - SDGW10
+Japan,JP,JPN,392,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Survey on the Disposal of general Waste - SDGW10
+Japan,JP,JPN,392,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Survey on the Disposal of general Waste - SDGW10
+Japan,JP,JPN,392,Rural,8,Dry latrines - Traditional latrine,0.0,Survey on the Disposal of general Waste - SDGW10
+Japan,JP,JPN,392,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Survey on the Disposal of general Waste - SDGW10
+Japan,JP,JPN,392,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Survey on the Disposal of general Waste - SDGW10
+Japan,JP,JPN,392,Rural,11,Dry latrines - Bucket latrine,0.0,Survey on the Disposal of general Waste - SDGW10
+Japan,JP,JPN,392,Rural,12,Dry latrines - Other,0.0,Survey on the Disposal of general Waste - SDGW10
+Japan,JP,JPN,392,Rural,13,Composting toilets,0.0,Survey on the Disposal of general Waste - SDGW10
+Japan,JP,JPN,392,Rural,14,Other improved,0.0,Survey on the Disposal of general Waste - SDGW10
+Japan,JP,JPN,392,Rural,15,"No facility, bush, field",0.0,Survey on the Disposal of general Waste - SDGW10
+Japan,JP,JPN,392,Rural,16,Other unimproved,0.0,Survey on the Disposal of general Waste - SDGW10
+Japan,JP,JPN,392,Rural,17,DK/missing information,0.0,Survey on the Disposal of general Waste - SDGW10
+Japan,JP,JPN,392,National,1,Flush and pour flush - to piped sewer system,0.7,Survey on the Disposal of general Waste - SDGW10
+Japan,JP,JPN,392,National,2,Flush and pour flush - to septic tank,0.22,Survey on the Disposal of general Waste - SDGW10
+Japan,JP,JPN,392,National,3,Flush and pour flush - to pit,0.0,Survey on the Disposal of general Waste - SDGW10
+Japan,JP,JPN,392,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Survey on the Disposal of general Waste - SDGW10
+Japan,JP,JPN,392,National,5,Flush and pour flush - to elsewhere,0.0,Survey on the Disposal of general Waste - SDGW10
+Japan,JP,JPN,392,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Survey on the Disposal of general Waste - SDGW10
+Japan,JP,JPN,392,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Survey on the Disposal of general Waste - SDGW10
+Japan,JP,JPN,392,National,8,Dry latrines - Traditional latrine,0.079,Survey on the Disposal of general Waste - SDGW10
+Japan,JP,JPN,392,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Survey on the Disposal of general Waste - SDGW10
+Japan,JP,JPN,392,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Survey on the Disposal of general Waste - SDGW10
+Japan,JP,JPN,392,National,11,Dry latrines - Bucket latrine,0.0,Survey on the Disposal of general Waste - SDGW10
+Japan,JP,JPN,392,National,12,Dry latrines - Other,0.0,Survey on the Disposal of general Waste - SDGW10
+Japan,JP,JPN,392,National,13,Composting toilets,0.0,Survey on the Disposal of general Waste - SDGW10
+Japan,JP,JPN,392,National,14,Other improved,0.0,Survey on the Disposal of general Waste - SDGW10
+Japan,JP,JPN,392,National,15,"No facility, bush, field",0.0,Survey on the Disposal of general Waste - SDGW10
+Japan,JP,JPN,392,National,16,Other unimproved,0.0,Survey on the Disposal of general Waste - SDGW10
+Japan,JP,JPN,392,National,17,DK/missing information,0.0,Survey on the Disposal of general Waste - SDGW10
+Japan,JP,JPN,392,Urban,1,Flush and pour flush - to piped sewer system,0.0,Survey on the Disposal of general Waste - SDGW11
+Japan,JP,JPN,392,Urban,2,Flush and pour flush - to septic tank,0.0,Survey on the Disposal of general Waste - SDGW11
+Japan,JP,JPN,392,Urban,3,Flush and pour flush - to pit,0.0,Survey on the Disposal of general Waste - SDGW11
+Japan,JP,JPN,392,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Survey on the Disposal of general Waste - SDGW11
+Japan,JP,JPN,392,Urban,5,Flush and pour flush - to elsewhere,0.0,Survey on the Disposal of general Waste - SDGW11
+Japan,JP,JPN,392,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Survey on the Disposal of general Waste - SDGW11
+Japan,JP,JPN,392,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Survey on the Disposal of general Waste - SDGW11
+Japan,JP,JPN,392,Urban,8,Dry latrines - Traditional latrine,0.0,Survey on the Disposal of general Waste - SDGW11
+Japan,JP,JPN,392,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Survey on the Disposal of general Waste - SDGW11
+Japan,JP,JPN,392,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Survey on the Disposal of general Waste - SDGW11
+Japan,JP,JPN,392,Urban,11,Dry latrines - Bucket latrine,0.0,Survey on the Disposal of general Waste - SDGW11
+Japan,JP,JPN,392,Urban,12,Dry latrines - Other,0.0,Survey on the Disposal of general Waste - SDGW11
+Japan,JP,JPN,392,Urban,13,Composting toilets,0.0,Survey on the Disposal of general Waste - SDGW11
+Japan,JP,JPN,392,Urban,14,Other improved,0.0,Survey on the Disposal of general Waste - SDGW11
+Japan,JP,JPN,392,Urban,15,"No facility, bush, field",0.0,Survey on the Disposal of general Waste - SDGW11
+Japan,JP,JPN,392,Urban,16,Other unimproved,0.0,Survey on the Disposal of general Waste - SDGW11
+Japan,JP,JPN,392,Urban,17,DK/missing information,0.0,Survey on the Disposal of general Waste - SDGW11
+Japan,JP,JPN,392,Rural,1,Flush and pour flush - to piped sewer system,0.0,Survey on the Disposal of general Waste - SDGW11
+Japan,JP,JPN,392,Rural,2,Flush and pour flush - to septic tank,0.0,Survey on the Disposal of general Waste - SDGW11
+Japan,JP,JPN,392,Rural,3,Flush and pour flush - to pit,0.0,Survey on the Disposal of general Waste - SDGW11
+Japan,JP,JPN,392,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Survey on the Disposal of general Waste - SDGW11
+Japan,JP,JPN,392,Rural,5,Flush and pour flush - to elsewhere,0.0,Survey on the Disposal of general Waste - SDGW11
+Japan,JP,JPN,392,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Survey on the Disposal of general Waste - SDGW11
+Japan,JP,JPN,392,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Survey on the Disposal of general Waste - SDGW11
+Japan,JP,JPN,392,Rural,8,Dry latrines - Traditional latrine,0.0,Survey on the Disposal of general Waste - SDGW11
+Japan,JP,JPN,392,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Survey on the Disposal of general Waste - SDGW11
+Japan,JP,JPN,392,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Survey on the Disposal of general Waste - SDGW11
+Japan,JP,JPN,392,Rural,11,Dry latrines - Bucket latrine,0.0,Survey on the Disposal of general Waste - SDGW11
+Japan,JP,JPN,392,Rural,12,Dry latrines - Other,0.0,Survey on the Disposal of general Waste - SDGW11
+Japan,JP,JPN,392,Rural,13,Composting toilets,0.0,Survey on the Disposal of general Waste - SDGW11
+Japan,JP,JPN,392,Rural,14,Other improved,0.0,Survey on the Disposal of general Waste - SDGW11
+Japan,JP,JPN,392,Rural,15,"No facility, bush, field",0.0,Survey on the Disposal of general Waste - SDGW11
+Japan,JP,JPN,392,Rural,16,Other unimproved,0.0,Survey on the Disposal of general Waste - SDGW11
+Japan,JP,JPN,392,Rural,17,DK/missing information,0.0,Survey on the Disposal of general Waste - SDGW11
+Japan,JP,JPN,392,National,1,Flush and pour flush - to piped sewer system,0.709,Survey on the Disposal of general Waste - SDGW11
+Japan,JP,JPN,392,National,2,Flush and pour flush - to septic tank,0.217,Survey on the Disposal of general Waste - SDGW11
+Japan,JP,JPN,392,National,3,Flush and pour flush - to pit,0.0,Survey on the Disposal of general Waste - SDGW11
+Japan,JP,JPN,392,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Survey on the Disposal of general Waste - SDGW11
+Japan,JP,JPN,392,National,5,Flush and pour flush - to elsewhere,0.0,Survey on the Disposal of general Waste - SDGW11
+Japan,JP,JPN,392,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Survey on the Disposal of general Waste - SDGW11
+Japan,JP,JPN,392,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Survey on the Disposal of general Waste - SDGW11
+Japan,JP,JPN,392,National,8,Dry latrines - Traditional latrine,0.074,Survey on the Disposal of general Waste - SDGW11
+Japan,JP,JPN,392,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Survey on the Disposal of general Waste - SDGW11
+Japan,JP,JPN,392,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Survey on the Disposal of general Waste - SDGW11
+Japan,JP,JPN,392,National,11,Dry latrines - Bucket latrine,0.0,Survey on the Disposal of general Waste - SDGW11
+Japan,JP,JPN,392,National,12,Dry latrines - Other,0.0,Survey on the Disposal of general Waste - SDGW11
+Japan,JP,JPN,392,National,13,Composting toilets,0.0,Survey on the Disposal of general Waste - SDGW11
+Japan,JP,JPN,392,National,14,Other improved,0.0,Survey on the Disposal of general Waste - SDGW11
+Japan,JP,JPN,392,National,15,"No facility, bush, field",0.0,Survey on the Disposal of general Waste - SDGW11
+Japan,JP,JPN,392,National,16,Other unimproved,0.0,Survey on the Disposal of general Waste - SDGW11
+Japan,JP,JPN,392,National,17,DK/missing information,0.0,Survey on the Disposal of general Waste - SDGW11
+Japan,JP,JPN,392,Urban,1,Flush and pour flush - to piped sewer system,0.0,Survey on the Disposal of general Waste - SDGW12
+Japan,JP,JPN,392,Urban,2,Flush and pour flush - to septic tank,0.0,Survey on the Disposal of general Waste - SDGW12
+Japan,JP,JPN,392,Urban,3,Flush and pour flush - to pit,0.0,Survey on the Disposal of general Waste - SDGW12
+Japan,JP,JPN,392,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Survey on the Disposal of general Waste - SDGW12
+Japan,JP,JPN,392,Urban,5,Flush and pour flush - to elsewhere,0.0,Survey on the Disposal of general Waste - SDGW12
+Japan,JP,JPN,392,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Survey on the Disposal of general Waste - SDGW12
+Japan,JP,JPN,392,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Survey on the Disposal of general Waste - SDGW12
+Japan,JP,JPN,392,Urban,8,Dry latrines - Traditional latrine,0.0,Survey on the Disposal of general Waste - SDGW12
+Japan,JP,JPN,392,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Survey on the Disposal of general Waste - SDGW12
+Japan,JP,JPN,392,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Survey on the Disposal of general Waste - SDGW12
+Japan,JP,JPN,392,Urban,11,Dry latrines - Bucket latrine,0.0,Survey on the Disposal of general Waste - SDGW12
+Japan,JP,JPN,392,Urban,12,Dry latrines - Other,0.0,Survey on the Disposal of general Waste - SDGW12
+Japan,JP,JPN,392,Urban,13,Composting toilets,0.0,Survey on the Disposal of general Waste - SDGW12
+Japan,JP,JPN,392,Urban,14,Other improved,0.0,Survey on the Disposal of general Waste - SDGW12
+Japan,JP,JPN,392,Urban,15,"No facility, bush, field",0.0,Survey on the Disposal of general Waste - SDGW12
+Japan,JP,JPN,392,Urban,16,Other unimproved,0.0,Survey on the Disposal of general Waste - SDGW12
+Japan,JP,JPN,392,Urban,17,DK/missing information,0.0,Survey on the Disposal of general Waste - SDGW12
+Japan,JP,JPN,392,Rural,1,Flush and pour flush - to piped sewer system,0.0,Survey on the Disposal of general Waste - SDGW12
+Japan,JP,JPN,392,Rural,2,Flush and pour flush - to septic tank,0.0,Survey on the Disposal of general Waste - SDGW12
+Japan,JP,JPN,392,Rural,3,Flush and pour flush - to pit,0.0,Survey on the Disposal of general Waste - SDGW12
+Japan,JP,JPN,392,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Survey on the Disposal of general Waste - SDGW12
+Japan,JP,JPN,392,Rural,5,Flush and pour flush - to elsewhere,0.0,Survey on the Disposal of general Waste - SDGW12
+Japan,JP,JPN,392,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Survey on the Disposal of general Waste - SDGW12
+Japan,JP,JPN,392,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Survey on the Disposal of general Waste - SDGW12
+Japan,JP,JPN,392,Rural,8,Dry latrines - Traditional latrine,0.0,Survey on the Disposal of general Waste - SDGW12
+Japan,JP,JPN,392,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Survey on the Disposal of general Waste - SDGW12
+Japan,JP,JPN,392,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Survey on the Disposal of general Waste - SDGW12
+Japan,JP,JPN,392,Rural,11,Dry latrines - Bucket latrine,0.0,Survey on the Disposal of general Waste - SDGW12
+Japan,JP,JPN,392,Rural,12,Dry latrines - Other,0.0,Survey on the Disposal of general Waste - SDGW12
+Japan,JP,JPN,392,Rural,13,Composting toilets,0.0,Survey on the Disposal of general Waste - SDGW12
+Japan,JP,JPN,392,Rural,14,Other improved,0.0,Survey on the Disposal of general Waste - SDGW12
+Japan,JP,JPN,392,Rural,15,"No facility, bush, field",0.0,Survey on the Disposal of general Waste - SDGW12
+Japan,JP,JPN,392,Rural,16,Other unimproved,0.0,Survey on the Disposal of general Waste - SDGW12
+Japan,JP,JPN,392,Rural,17,DK/missing information,0.0,Survey on the Disposal of general Waste - SDGW12
+Japan,JP,JPN,392,National,1,Flush and pour flush - to piped sewer system,0.717,Survey on the Disposal of general Waste - SDGW12
+Japan,JP,JPN,392,National,2,Flush and pour flush - to septic tank,0.213,Survey on the Disposal of general Waste - SDGW12
+Japan,JP,JPN,392,National,3,Flush and pour flush - to pit,0.0,Survey on the Disposal of general Waste - SDGW12
+Japan,JP,JPN,392,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Survey on the Disposal of general Waste - SDGW12
+Japan,JP,JPN,392,National,5,Flush and pour flush - to elsewhere,0.0,Survey on the Disposal of general Waste - SDGW12
+Japan,JP,JPN,392,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Survey on the Disposal of general Waste - SDGW12
+Japan,JP,JPN,392,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Survey on the Disposal of general Waste - SDGW12
+Japan,JP,JPN,392,National,8,Dry latrines - Traditional latrine,0.07,Survey on the Disposal of general Waste - SDGW12
+Japan,JP,JPN,392,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Survey on the Disposal of general Waste - SDGW12
+Japan,JP,JPN,392,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Survey on the Disposal of general Waste - SDGW12
+Japan,JP,JPN,392,National,11,Dry latrines - Bucket latrine,0.0,Survey on the Disposal of general Waste - SDGW12
+Japan,JP,JPN,392,National,12,Dry latrines - Other,0.0,Survey on the Disposal of general Waste - SDGW12
+Japan,JP,JPN,392,National,13,Composting toilets,0.0,Survey on the Disposal of general Waste - SDGW12
+Japan,JP,JPN,392,National,14,Other improved,0.0,Survey on the Disposal of general Waste - SDGW12
+Japan,JP,JPN,392,National,15,"No facility, bush, field",0.0,Survey on the Disposal of general Waste - SDGW12
+Japan,JP,JPN,392,National,16,Other unimproved,0.0,Survey on the Disposal of general Waste - SDGW12
+Japan,JP,JPN,392,National,17,DK/missing information,0.0,Survey on the Disposal of general Waste - SDGW12
+Japan,JP,JPN,392,Urban,1,Flush and pour flush - to piped sewer system,0.0,Survey on the Disposal of general Waste - SDGW13
+Japan,JP,JPN,392,Urban,2,Flush and pour flush - to septic tank,0.0,Survey on the Disposal of general Waste - SDGW13
+Japan,JP,JPN,392,Urban,3,Flush and pour flush - to pit,0.0,Survey on the Disposal of general Waste - SDGW13
+Japan,JP,JPN,392,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Survey on the Disposal of general Waste - SDGW13
+Japan,JP,JPN,392,Urban,5,Flush and pour flush - to elsewhere,0.0,Survey on the Disposal of general Waste - SDGW13
+Japan,JP,JPN,392,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Survey on the Disposal of general Waste - SDGW13
+Japan,JP,JPN,392,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Survey on the Disposal of general Waste - SDGW13
+Japan,JP,JPN,392,Urban,8,Dry latrines - Traditional latrine,0.0,Survey on the Disposal of general Waste - SDGW13
+Japan,JP,JPN,392,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Survey on the Disposal of general Waste - SDGW13
+Japan,JP,JPN,392,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Survey on the Disposal of general Waste - SDGW13
+Japan,JP,JPN,392,Urban,11,Dry latrines - Bucket latrine,0.0,Survey on the Disposal of general Waste - SDGW13
+Japan,JP,JPN,392,Urban,12,Dry latrines - Other,0.0,Survey on the Disposal of general Waste - SDGW13
+Japan,JP,JPN,392,Urban,13,Composting toilets,0.0,Survey on the Disposal of general Waste - SDGW13
+Japan,JP,JPN,392,Urban,14,Other improved,0.0,Survey on the Disposal of general Waste - SDGW13
+Japan,JP,JPN,392,Urban,15,"No facility, bush, field",0.0,Survey on the Disposal of general Waste - SDGW13
+Japan,JP,JPN,392,Urban,16,Other unimproved,0.0,Survey on the Disposal of general Waste - SDGW13
+Japan,JP,JPN,392,Urban,17,DK/missing information,0.0,Survey on the Disposal of general Waste - SDGW13
+Japan,JP,JPN,392,Rural,1,Flush and pour flush - to piped sewer system,0.0,Survey on the Disposal of general Waste - SDGW13
+Japan,JP,JPN,392,Rural,2,Flush and pour flush - to septic tank,0.0,Survey on the Disposal of general Waste - SDGW13
+Japan,JP,JPN,392,Rural,3,Flush and pour flush - to pit,0.0,Survey on the Disposal of general Waste - SDGW13
+Japan,JP,JPN,392,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Survey on the Disposal of general Waste - SDGW13
+Japan,JP,JPN,392,Rural,5,Flush and pour flush - to elsewhere,0.0,Survey on the Disposal of general Waste - SDGW13
+Japan,JP,JPN,392,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Survey on the Disposal of general Waste - SDGW13
+Japan,JP,JPN,392,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Survey on the Disposal of general Waste - SDGW13
+Japan,JP,JPN,392,Rural,8,Dry latrines - Traditional latrine,0.0,Survey on the Disposal of general Waste - SDGW13
+Japan,JP,JPN,392,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Survey on the Disposal of general Waste - SDGW13
+Japan,JP,JPN,392,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Survey on the Disposal of general Waste - SDGW13
+Japan,JP,JPN,392,Rural,11,Dry latrines - Bucket latrine,0.0,Survey on the Disposal of general Waste - SDGW13
+Japan,JP,JPN,392,Rural,12,Dry latrines - Other,0.0,Survey on the Disposal of general Waste - SDGW13
+Japan,JP,JPN,392,Rural,13,Composting toilets,0.0,Survey on the Disposal of general Waste - SDGW13
+Japan,JP,JPN,392,Rural,14,Other improved,0.0,Survey on the Disposal of general Waste - SDGW13
+Japan,JP,JPN,392,Rural,15,"No facility, bush, field",0.0,Survey on the Disposal of general Waste - SDGW13
+Japan,JP,JPN,392,Rural,16,Other unimproved,0.0,Survey on the Disposal of general Waste - SDGW13
+Japan,JP,JPN,392,Rural,17,DK/missing information,0.0,Survey on the Disposal of general Waste - SDGW13
+Japan,JP,JPN,392,National,1,Flush and pour flush - to piped sewer system,0.726,Survey on the Disposal of general Waste - SDGW13
+Japan,JP,JPN,392,National,2,Flush and pour flush - to septic tank,0.209,Survey on the Disposal of general Waste - SDGW13
+Japan,JP,JPN,392,National,3,Flush and pour flush - to pit,0.0,Survey on the Disposal of general Waste - SDGW13
+Japan,JP,JPN,392,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Survey on the Disposal of general Waste - SDGW13
+Japan,JP,JPN,392,National,5,Flush and pour flush - to elsewhere,0.0,Survey on the Disposal of general Waste - SDGW13
+Japan,JP,JPN,392,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Survey on the Disposal of general Waste - SDGW13
+Japan,JP,JPN,392,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Survey on the Disposal of general Waste - SDGW13
+Japan,JP,JPN,392,National,8,Dry latrines - Traditional latrine,0.065,Survey on the Disposal of general Waste - SDGW13
+Japan,JP,JPN,392,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Survey on the Disposal of general Waste - SDGW13
+Japan,JP,JPN,392,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Survey on the Disposal of general Waste - SDGW13
+Japan,JP,JPN,392,National,11,Dry latrines - Bucket latrine,0.0,Survey on the Disposal of general Waste - SDGW13
+Japan,JP,JPN,392,National,12,Dry latrines - Other,0.0,Survey on the Disposal of general Waste - SDGW13
+Japan,JP,JPN,392,National,13,Composting toilets,0.0,Survey on the Disposal of general Waste - SDGW13
+Japan,JP,JPN,392,National,14,Other improved,0.0,Survey on the Disposal of general Waste - SDGW13
+Japan,JP,JPN,392,National,15,"No facility, bush, field",0.0,Survey on the Disposal of general Waste - SDGW13
+Japan,JP,JPN,392,National,16,Other unimproved,0.0,Survey on the Disposal of general Waste - SDGW13
+Japan,JP,JPN,392,National,17,DK/missing information,0.0,Survey on the Disposal of general Waste - SDGW13
+Japan,JP,JPN,392,Urban,1,Flush and pour flush - to piped sewer system,0.0,Survey on the Disposal of general Waste - SDGW14
+Japan,JP,JPN,392,Urban,2,Flush and pour flush - to septic tank,0.0,Survey on the Disposal of general Waste - SDGW14
+Japan,JP,JPN,392,Urban,3,Flush and pour flush - to pit,0.0,Survey on the Disposal of general Waste - SDGW14
+Japan,JP,JPN,392,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Survey on the Disposal of general Waste - SDGW14
+Japan,JP,JPN,392,Urban,5,Flush and pour flush - to elsewhere,0.0,Survey on the Disposal of general Waste - SDGW14
+Japan,JP,JPN,392,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Survey on the Disposal of general Waste - SDGW14
+Japan,JP,JPN,392,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Survey on the Disposal of general Waste - SDGW14
+Japan,JP,JPN,392,Urban,8,Dry latrines - Traditional latrine,0.0,Survey on the Disposal of general Waste - SDGW14
+Japan,JP,JPN,392,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Survey on the Disposal of general Waste - SDGW14
+Japan,JP,JPN,392,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Survey on the Disposal of general Waste - SDGW14
+Japan,JP,JPN,392,Urban,11,Dry latrines - Bucket latrine,0.0,Survey on the Disposal of general Waste - SDGW14
+Japan,JP,JPN,392,Urban,12,Dry latrines - Other,0.0,Survey on the Disposal of general Waste - SDGW14
+Japan,JP,JPN,392,Urban,13,Composting toilets,0.0,Survey on the Disposal of general Waste - SDGW14
+Japan,JP,JPN,392,Urban,14,Other improved,0.0,Survey on the Disposal of general Waste - SDGW14
+Japan,JP,JPN,392,Urban,15,"No facility, bush, field",0.0,Survey on the Disposal of general Waste - SDGW14
+Japan,JP,JPN,392,Urban,16,Other unimproved,0.0,Survey on the Disposal of general Waste - SDGW14
+Japan,JP,JPN,392,Urban,17,DK/missing information,0.0,Survey on the Disposal of general Waste - SDGW14
+Japan,JP,JPN,392,Rural,1,Flush and pour flush - to piped sewer system,0.0,Survey on the Disposal of general Waste - SDGW14
+Japan,JP,JPN,392,Rural,2,Flush and pour flush - to septic tank,0.0,Survey on the Disposal of general Waste - SDGW14
+Japan,JP,JPN,392,Rural,3,Flush and pour flush - to pit,0.0,Survey on the Disposal of general Waste - SDGW14
+Japan,JP,JPN,392,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Survey on the Disposal of general Waste - SDGW14
+Japan,JP,JPN,392,Rural,5,Flush and pour flush - to elsewhere,0.0,Survey on the Disposal of general Waste - SDGW14
+Japan,JP,JPN,392,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Survey on the Disposal of general Waste - SDGW14
+Japan,JP,JPN,392,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Survey on the Disposal of general Waste - SDGW14
+Japan,JP,JPN,392,Rural,8,Dry latrines - Traditional latrine,0.0,Survey on the Disposal of general Waste - SDGW14
+Japan,JP,JPN,392,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Survey on the Disposal of general Waste - SDGW14
+Japan,JP,JPN,392,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Survey on the Disposal of general Waste - SDGW14
+Japan,JP,JPN,392,Rural,11,Dry latrines - Bucket latrine,0.0,Survey on the Disposal of general Waste - SDGW14
+Japan,JP,JPN,392,Rural,12,Dry latrines - Other,0.0,Survey on the Disposal of general Waste - SDGW14
+Japan,JP,JPN,392,Rural,13,Composting toilets,0.0,Survey on the Disposal of general Waste - SDGW14
+Japan,JP,JPN,392,Rural,14,Other improved,0.0,Survey on the Disposal of general Waste - SDGW14
+Japan,JP,JPN,392,Rural,15,"No facility, bush, field",0.0,Survey on the Disposal of general Waste - SDGW14
+Japan,JP,JPN,392,Rural,16,Other unimproved,0.0,Survey on the Disposal of general Waste - SDGW14
+Japan,JP,JPN,392,Rural,17,DK/missing information,0.0,Survey on the Disposal of general Waste - SDGW14
+Japan,JP,JPN,392,National,1,Flush and pour flush - to piped sewer system,0.733,Survey on the Disposal of general Waste - SDGW14
+Japan,JP,JPN,392,National,2,Flush and pour flush - to septic tank,0.206,Survey on the Disposal of general Waste - SDGW14
+Japan,JP,JPN,392,National,3,Flush and pour flush - to pit,0.0,Survey on the Disposal of general Waste - SDGW14
+Japan,JP,JPN,392,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Survey on the Disposal of general Waste - SDGW14
+Japan,JP,JPN,392,National,5,Flush and pour flush - to elsewhere,0.0,Survey on the Disposal of general Waste - SDGW14
+Japan,JP,JPN,392,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Survey on the Disposal of general Waste - SDGW14
+Japan,JP,JPN,392,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Survey on the Disposal of general Waste - SDGW14
+Japan,JP,JPN,392,National,8,Dry latrines - Traditional latrine,0.061,Survey on the Disposal of general Waste - SDGW14
+Japan,JP,JPN,392,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Survey on the Disposal of general Waste - SDGW14
+Japan,JP,JPN,392,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Survey on the Disposal of general Waste - SDGW14
+Japan,JP,JPN,392,National,11,Dry latrines - Bucket latrine,0.0,Survey on the Disposal of general Waste - SDGW14
+Japan,JP,JPN,392,National,12,Dry latrines - Other,0.0,Survey on the Disposal of general Waste - SDGW14
+Japan,JP,JPN,392,National,13,Composting toilets,0.0,Survey on the Disposal of general Waste - SDGW14
+Japan,JP,JPN,392,National,14,Other improved,0.0,Survey on the Disposal of general Waste - SDGW14
+Japan,JP,JPN,392,National,15,"No facility, bush, field",0.0,Survey on the Disposal of general Waste - SDGW14
+Japan,JP,JPN,392,National,16,Other unimproved,0.0,Survey on the Disposal of general Waste - SDGW14
+Japan,JP,JPN,392,National,17,DK/missing information,0.0,Survey on the Disposal of general Waste - SDGW14
+Japan,JP,JPN,392,Urban,1,Flush and pour flush - to piped sewer system,0.0,Survey on the disposal of general waste - SDGW15
+Japan,JP,JPN,392,Urban,2,Flush and pour flush - to septic tank,0.0,Survey on the disposal of general waste - SDGW15
+Japan,JP,JPN,392,Urban,3,Flush and pour flush - to pit,0.0,Survey on the disposal of general waste - SDGW15
+Japan,JP,JPN,392,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Survey on the disposal of general waste - SDGW15
+Japan,JP,JPN,392,Urban,5,Flush and pour flush - to elsewhere,0.0,Survey on the disposal of general waste - SDGW15
+Japan,JP,JPN,392,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Survey on the disposal of general waste - SDGW15
+Japan,JP,JPN,392,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Survey on the disposal of general waste - SDGW15
+Japan,JP,JPN,392,Urban,8,Dry latrines - Traditional latrine,0.0,Survey on the disposal of general waste - SDGW15
+Japan,JP,JPN,392,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Survey on the disposal of general waste - SDGW15
+Japan,JP,JPN,392,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Survey on the disposal of general waste - SDGW15
+Japan,JP,JPN,392,Urban,11,Dry latrines - Bucket latrine,0.0,Survey on the disposal of general waste - SDGW15
+Japan,JP,JPN,392,Urban,12,Dry latrines - Other,0.0,Survey on the disposal of general waste - SDGW15
+Japan,JP,JPN,392,Urban,13,Composting toilets,0.0,Survey on the disposal of general waste - SDGW15
+Japan,JP,JPN,392,Urban,14,Other improved,0.0,Survey on the disposal of general waste - SDGW15
+Japan,JP,JPN,392,Urban,15,"No facility, bush, field",0.0,Survey on the disposal of general waste - SDGW15
+Japan,JP,JPN,392,Urban,16,Other unimproved,0.0,Survey on the disposal of general waste - SDGW15
+Japan,JP,JPN,392,Urban,17,DK/missing information,0.0,Survey on the disposal of general waste - SDGW15
+Japan,JP,JPN,392,Rural,1,Flush and pour flush - to piped sewer system,0.0,Survey on the disposal of general waste - SDGW15
+Japan,JP,JPN,392,Rural,2,Flush and pour flush - to septic tank,0.0,Survey on the disposal of general waste - SDGW15
+Japan,JP,JPN,392,Rural,3,Flush and pour flush - to pit,0.0,Survey on the disposal of general waste - SDGW15
+Japan,JP,JPN,392,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Survey on the disposal of general waste - SDGW15
+Japan,JP,JPN,392,Rural,5,Flush and pour flush - to elsewhere,0.0,Survey on the disposal of general waste - SDGW15
+Japan,JP,JPN,392,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Survey on the disposal of general waste - SDGW15
+Japan,JP,JPN,392,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Survey on the disposal of general waste - SDGW15
+Japan,JP,JPN,392,Rural,8,Dry latrines - Traditional latrine,0.0,Survey on the disposal of general waste - SDGW15
+Japan,JP,JPN,392,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Survey on the disposal of general waste - SDGW15
+Japan,JP,JPN,392,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Survey on the disposal of general waste - SDGW15
+Japan,JP,JPN,392,Rural,11,Dry latrines - Bucket latrine,0.0,Survey on the disposal of general waste - SDGW15
+Japan,JP,JPN,392,Rural,12,Dry latrines - Other,0.0,Survey on the disposal of general waste - SDGW15
+Japan,JP,JPN,392,Rural,13,Composting toilets,0.0,Survey on the disposal of general waste - SDGW15
+Japan,JP,JPN,392,Rural,14,Other improved,0.0,Survey on the disposal of general waste - SDGW15
+Japan,JP,JPN,392,Rural,15,"No facility, bush, field",0.0,Survey on the disposal of general waste - SDGW15
+Japan,JP,JPN,392,Rural,16,Other unimproved,0.0,Survey on the disposal of general waste - SDGW15
+Japan,JP,JPN,392,Rural,17,DK/missing information,0.0,Survey on the disposal of general waste - SDGW15
+Japan,JP,JPN,392,National,1,Flush and pour flush - to piped sewer system,0.74,Survey on the disposal of general waste - SDGW15
+Japan,JP,JPN,392,National,2,Flush and pour flush - to septic tank,0.203,Survey on the disposal of general waste - SDGW15
+Japan,JP,JPN,392,National,3,Flush and pour flush - to pit,0.0,Survey on the disposal of general waste - SDGW15
+Japan,JP,JPN,392,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Survey on the disposal of general waste - SDGW15
+Japan,JP,JPN,392,National,5,Flush and pour flush - to elsewhere,0.0,Survey on the disposal of general waste - SDGW15
+Japan,JP,JPN,392,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Survey on the disposal of general waste - SDGW15
+Japan,JP,JPN,392,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Survey on the disposal of general waste - SDGW15
+Japan,JP,JPN,392,National,8,Dry latrines - Traditional latrine,0.057,Survey on the disposal of general waste - SDGW15
+Japan,JP,JPN,392,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Survey on the disposal of general waste - SDGW15
+Japan,JP,JPN,392,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Survey on the disposal of general waste - SDGW15
+Japan,JP,JPN,392,National,11,Dry latrines - Bucket latrine,0.0,Survey on the disposal of general waste - SDGW15
+Japan,JP,JPN,392,National,12,Dry latrines - Other,0.0,Survey on the disposal of general waste - SDGW15
+Japan,JP,JPN,392,National,13,Composting toilets,0.0,Survey on the disposal of general waste - SDGW15
+Japan,JP,JPN,392,National,14,Other improved,0.0,Survey on the disposal of general waste - SDGW15
+Japan,JP,JPN,392,National,15,"No facility, bush, field",0.0,Survey on the disposal of general waste - SDGW15
+Japan,JP,JPN,392,National,16,Other unimproved,0.0,Survey on the disposal of general waste - SDGW15
+Japan,JP,JPN,392,National,17,DK/missing information,0.0,Survey on the disposal of general waste - SDGW15
+Japan,JP,JPN,392,Urban,1,Flush and pour flush - to piped sewer system,0.0,Survey on the disposal of general waste - SDGW16
+Japan,JP,JPN,392,Urban,2,Flush and pour flush - to septic tank,0.0,Survey on the disposal of general waste - SDGW16
+Japan,JP,JPN,392,Urban,3,Flush and pour flush - to pit,0.0,Survey on the disposal of general waste - SDGW16
+Japan,JP,JPN,392,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Survey on the disposal of general waste - SDGW16
+Japan,JP,JPN,392,Urban,5,Flush and pour flush - to elsewhere,0.0,Survey on the disposal of general waste - SDGW16
+Japan,JP,JPN,392,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Survey on the disposal of general waste - SDGW16
+Japan,JP,JPN,392,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Survey on the disposal of general waste - SDGW16
+Japan,JP,JPN,392,Urban,8,Dry latrines - Traditional latrine,0.0,Survey on the disposal of general waste - SDGW16
+Japan,JP,JPN,392,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Survey on the disposal of general waste - SDGW16
+Japan,JP,JPN,392,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Survey on the disposal of general waste - SDGW16
+Japan,JP,JPN,392,Urban,11,Dry latrines - Bucket latrine,0.0,Survey on the disposal of general waste - SDGW16
+Japan,JP,JPN,392,Urban,12,Dry latrines - Other,0.0,Survey on the disposal of general waste - SDGW16
+Japan,JP,JPN,392,Urban,13,Composting toilets,0.0,Survey on the disposal of general waste - SDGW16
+Japan,JP,JPN,392,Urban,14,Other improved,0.0,Survey on the disposal of general waste - SDGW16
+Japan,JP,JPN,392,Urban,15,"No facility, bush, field",0.0,Survey on the disposal of general waste - SDGW16
+Japan,JP,JPN,392,Urban,16,Other unimproved,0.0,Survey on the disposal of general waste - SDGW16
+Japan,JP,JPN,392,Urban,17,DK/missing information,0.0,Survey on the disposal of general waste - SDGW16
+Japan,JP,JPN,392,Rural,1,Flush and pour flush - to piped sewer system,0.0,Survey on the disposal of general waste - SDGW16
+Japan,JP,JPN,392,Rural,2,Flush and pour flush - to septic tank,0.0,Survey on the disposal of general waste - SDGW16
+Japan,JP,JPN,392,Rural,3,Flush and pour flush - to pit,0.0,Survey on the disposal of general waste - SDGW16
+Japan,JP,JPN,392,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Survey on the disposal of general waste - SDGW16
+Japan,JP,JPN,392,Rural,5,Flush and pour flush - to elsewhere,0.0,Survey on the disposal of general waste - SDGW16
+Japan,JP,JPN,392,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Survey on the disposal of general waste - SDGW16
+Japan,JP,JPN,392,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Survey on the disposal of general waste - SDGW16
+Japan,JP,JPN,392,Rural,8,Dry latrines - Traditional latrine,0.0,Survey on the disposal of general waste - SDGW16
+Japan,JP,JPN,392,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Survey on the disposal of general waste - SDGW16
+Japan,JP,JPN,392,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Survey on the disposal of general waste - SDGW16
+Japan,JP,JPN,392,Rural,11,Dry latrines - Bucket latrine,0.0,Survey on the disposal of general waste - SDGW16
+Japan,JP,JPN,392,Rural,12,Dry latrines - Other,0.0,Survey on the disposal of general waste - SDGW16
+Japan,JP,JPN,392,Rural,13,Composting toilets,0.0,Survey on the disposal of general waste - SDGW16
+Japan,JP,JPN,392,Rural,14,Other improved,0.0,Survey on the disposal of general waste - SDGW16
+Japan,JP,JPN,392,Rural,15,"No facility, bush, field",0.0,Survey on the disposal of general waste - SDGW16
+Japan,JP,JPN,392,Rural,16,Other unimproved,0.0,Survey on the disposal of general waste - SDGW16
+Japan,JP,JPN,392,Rural,17,DK/missing information,0.0,Survey on the disposal of general waste - SDGW16
+Japan,JP,JPN,392,National,1,Flush and pour flush - to piped sewer system,0.74,Survey on the disposal of general waste - SDGW16
+Japan,JP,JPN,392,National,2,Flush and pour flush - to septic tank,0.2,Survey on the disposal of general waste - SDGW16
+Japan,JP,JPN,392,National,3,Flush and pour flush - to pit,0.0,Survey on the disposal of general waste - SDGW16
+Japan,JP,JPN,392,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Survey on the disposal of general waste - SDGW16
+Japan,JP,JPN,392,National,5,Flush and pour flush - to elsewhere,0.0,Survey on the disposal of general waste - SDGW16
+Japan,JP,JPN,392,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Survey on the disposal of general waste - SDGW16
+Japan,JP,JPN,392,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Survey on the disposal of general waste - SDGW16
+Japan,JP,JPN,392,National,8,Dry latrines - Traditional latrine,0.054,Survey on the disposal of general waste - SDGW16
+Japan,JP,JPN,392,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Survey on the disposal of general waste - SDGW16
+Japan,JP,JPN,392,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Survey on the disposal of general waste - SDGW16
+Japan,JP,JPN,392,National,11,Dry latrines - Bucket latrine,0.0,Survey on the disposal of general waste - SDGW16
+Japan,JP,JPN,392,National,12,Dry latrines - Other,0.0,Survey on the disposal of general waste - SDGW16
+Japan,JP,JPN,392,National,13,Composting toilets,0.0,Survey on the disposal of general waste - SDGW16
+Japan,JP,JPN,392,National,14,Other improved,0.0,Survey on the disposal of general waste - SDGW16
+Japan,JP,JPN,392,National,15,"No facility, bush, field",0.0,Survey on the disposal of general waste - SDGW16
+Japan,JP,JPN,392,National,16,Other unimproved,0.0,Survey on the disposal of general waste - SDGW16
+Japan,JP,JPN,392,National,17,DK/missing information,0.0,Survey on the disposal of general waste - SDGW16
+Japan,JP,JPN,392,Urban,1,Flush and pour flush - to piped sewer system,0.0,Survey on the disposal of general waste - SDGW17
+Japan,JP,JPN,392,Urban,2,Flush and pour flush - to septic tank,0.0,Survey on the disposal of general waste - SDGW17
+Japan,JP,JPN,392,Urban,3,Flush and pour flush - to pit,0.0,Survey on the disposal of general waste - SDGW17
+Japan,JP,JPN,392,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Survey on the disposal of general waste - SDGW17
+Japan,JP,JPN,392,Urban,5,Flush and pour flush - to elsewhere,0.0,Survey on the disposal of general waste - SDGW17
+Japan,JP,JPN,392,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Survey on the disposal of general waste - SDGW17
+Japan,JP,JPN,392,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Survey on the disposal of general waste - SDGW17
+Japan,JP,JPN,392,Urban,8,Dry latrines - Traditional latrine,0.0,Survey on the disposal of general waste - SDGW17
+Japan,JP,JPN,392,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Survey on the disposal of general waste - SDGW17
+Japan,JP,JPN,392,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Survey on the disposal of general waste - SDGW17
+Japan,JP,JPN,392,Urban,11,Dry latrines - Bucket latrine,0.0,Survey on the disposal of general waste - SDGW17
+Japan,JP,JPN,392,Urban,12,Dry latrines - Other,0.0,Survey on the disposal of general waste - SDGW17
+Japan,JP,JPN,392,Urban,13,Composting toilets,0.0,Survey on the disposal of general waste - SDGW17
+Japan,JP,JPN,392,Urban,14,Other improved,0.0,Survey on the disposal of general waste - SDGW17
+Japan,JP,JPN,392,Urban,15,"No facility, bush, field",0.0,Survey on the disposal of general waste - SDGW17
+Japan,JP,JPN,392,Urban,16,Other unimproved,0.0,Survey on the disposal of general waste - SDGW17
+Japan,JP,JPN,392,Urban,17,DK/missing information,0.0,Survey on the disposal of general waste - SDGW17
+Japan,JP,JPN,392,Rural,1,Flush and pour flush - to piped sewer system,0.0,Survey on the disposal of general waste - SDGW17
+Japan,JP,JPN,392,Rural,2,Flush and pour flush - to septic tank,0.0,Survey on the disposal of general waste - SDGW17
+Japan,JP,JPN,392,Rural,3,Flush and pour flush - to pit,0.0,Survey on the disposal of general waste - SDGW17
+Japan,JP,JPN,392,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Survey on the disposal of general waste - SDGW17
+Japan,JP,JPN,392,Rural,5,Flush and pour flush - to elsewhere,0.0,Survey on the disposal of general waste - SDGW17
+Japan,JP,JPN,392,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Survey on the disposal of general waste - SDGW17
+Japan,JP,JPN,392,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Survey on the disposal of general waste - SDGW17
+Japan,JP,JPN,392,Rural,8,Dry latrines - Traditional latrine,0.0,Survey on the disposal of general waste - SDGW17
+Japan,JP,JPN,392,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Survey on the disposal of general waste - SDGW17
+Japan,JP,JPN,392,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Survey on the disposal of general waste - SDGW17
+Japan,JP,JPN,392,Rural,11,Dry latrines - Bucket latrine,0.0,Survey on the disposal of general waste - SDGW17
+Japan,JP,JPN,392,Rural,12,Dry latrines - Other,0.0,Survey on the disposal of general waste - SDGW17
+Japan,JP,JPN,392,Rural,13,Composting toilets,0.0,Survey on the disposal of general waste - SDGW17
+Japan,JP,JPN,392,Rural,14,Other improved,0.0,Survey on the disposal of general waste - SDGW17
+Japan,JP,JPN,392,Rural,15,"No facility, bush, field",0.0,Survey on the disposal of general waste - SDGW17
+Japan,JP,JPN,392,Rural,16,Other unimproved,0.0,Survey on the disposal of general waste - SDGW17
+Japan,JP,JPN,392,Rural,17,DK/missing information,0.0,Survey on the disposal of general waste - SDGW17
+Japan,JP,JPN,392,National,1,Flush and pour flush - to piped sewer system,0.745,Survey on the disposal of general waste - SDGW17
+Japan,JP,JPN,392,National,2,Flush and pour flush - to septic tank,0.2,Survey on the disposal of general waste - SDGW17
+Japan,JP,JPN,392,National,3,Flush and pour flush - to pit,0.0,Survey on the disposal of general waste - SDGW17
+Japan,JP,JPN,392,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Survey on the disposal of general waste - SDGW17
+Japan,JP,JPN,392,National,5,Flush and pour flush - to elsewhere,0.0,Survey on the disposal of general waste - SDGW17
+Japan,JP,JPN,392,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Survey on the disposal of general waste - SDGW17
+Japan,JP,JPN,392,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Survey on the disposal of general waste - SDGW17
+Japan,JP,JPN,392,National,8,Dry latrines - Traditional latrine,0.054,Survey on the disposal of general waste - SDGW17
+Japan,JP,JPN,392,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Survey on the disposal of general waste - SDGW17
+Japan,JP,JPN,392,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Survey on the disposal of general waste - SDGW17
+Japan,JP,JPN,392,National,11,Dry latrines - Bucket latrine,0.0,Survey on the disposal of general waste - SDGW17
+Japan,JP,JPN,392,National,12,Dry latrines - Other,0.0,Survey on the disposal of general waste - SDGW17
+Japan,JP,JPN,392,National,13,Composting toilets,0.0,Survey on the disposal of general waste - SDGW17
+Japan,JP,JPN,392,National,14,Other improved,0.0,Survey on the disposal of general waste - SDGW17
+Japan,JP,JPN,392,National,15,"No facility, bush, field",0.0,Survey on the disposal of general waste - SDGW17
+Japan,JP,JPN,392,National,16,Other unimproved,0.0,Survey on the disposal of general waste - SDGW17
+Japan,JP,JPN,392,National,17,DK/missing information,0.0,Survey on the disposal of general waste - SDGW17

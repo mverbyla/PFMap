@@ -1,4 +1,55 @@
 country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+Liberia,LR,LBR,430,Urban,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS00
+Liberia,LR,LBR,430,Urban,2,Flush and pour flush - to septic tank,0.0,Demographic and Health Survey - DHS00
+Liberia,LR,LBR,430,Urban,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS00
+Liberia,LR,LBR,430,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS00
+Liberia,LR,LBR,430,Urban,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS00
+Liberia,LR,LBR,430,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - DHS00
+Liberia,LR,LBR,430,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS00
+Liberia,LR,LBR,430,Urban,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS00
+Liberia,LR,LBR,430,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Survey - DHS00
+Liberia,LR,LBR,430,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS00
+Liberia,LR,LBR,430,Urban,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS00
+Liberia,LR,LBR,430,Urban,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS00
+Liberia,LR,LBR,430,Urban,13,Composting toilets,0.0,Demographic and Health Survey - DHS00
+Liberia,LR,LBR,430,Urban,14,Other improved,0.0,Demographic and Health Survey - DHS00
+Liberia,LR,LBR,430,Urban,15,"No facility, bush, field",0.244,Demographic and Health Survey - DHS00
+Liberia,LR,LBR,430,Urban,16,Other unimproved,0.043,Demographic and Health Survey - DHS00
+Liberia,LR,LBR,430,Urban,17,DK/missing information,0.0,Demographic and Health Survey - DHS00
+Liberia,LR,LBR,430,Rural,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS00
+Liberia,LR,LBR,430,Rural,2,Flush and pour flush - to septic tank,0.0,Demographic and Health Survey - DHS00
+Liberia,LR,LBR,430,Rural,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS00
+Liberia,LR,LBR,430,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS00
+Liberia,LR,LBR,430,Rural,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS00
+Liberia,LR,LBR,430,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - DHS00
+Liberia,LR,LBR,430,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS00
+Liberia,LR,LBR,430,Rural,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS00
+Liberia,LR,LBR,430,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Survey - DHS00
+Liberia,LR,LBR,430,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS00
+Liberia,LR,LBR,430,Rural,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS00
+Liberia,LR,LBR,430,Rural,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS00
+Liberia,LR,LBR,430,Rural,13,Composting toilets,0.0,Demographic and Health Survey - DHS00
+Liberia,LR,LBR,430,Rural,14,Other improved,0.0,Demographic and Health Survey - DHS00
+Liberia,LR,LBR,430,Rural,15,"No facility, bush, field",0.812,Demographic and Health Survey - DHS00
+Liberia,LR,LBR,430,Rural,16,Other unimproved,0.011,Demographic and Health Survey - DHS00
+Liberia,LR,LBR,430,Rural,17,DK/missing information,0.0,Demographic and Health Survey - DHS00
+Liberia,LR,LBR,430,National,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS00
+Liberia,LR,LBR,430,National,2,Flush and pour flush - to septic tank,0.0,Demographic and Health Survey - DHS00
+Liberia,LR,LBR,430,National,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS00
+Liberia,LR,LBR,430,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS00
+Liberia,LR,LBR,430,National,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS00
+Liberia,LR,LBR,430,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - DHS00
+Liberia,LR,LBR,430,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS00
+Liberia,LR,LBR,430,National,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS00
+Liberia,LR,LBR,430,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Survey - DHS00
+Liberia,LR,LBR,430,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS00
+Liberia,LR,LBR,430,National,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS00
+Liberia,LR,LBR,430,National,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS00
+Liberia,LR,LBR,430,National,13,Composting toilets,0.0,Demographic and Health Survey - DHS00
+Liberia,LR,LBR,430,National,14,Other improved,0.0,Demographic and Health Survey - DHS00
+Liberia,LR,LBR,430,National,15,"No facility, bush, field",0.0,Demographic and Health Survey - DHS00
+Liberia,LR,LBR,430,National,16,Other unimproved,0.0,Demographic and Health Survey - DHS00
+Liberia,LR,LBR,430,National,17,DK/missing information,0.0,Demographic and Health Survey - DHS00
 Liberia,LR,LBR,430,Urban,1,Flush and pour flush - to piped sewer system,0.075,Demographic and Health Survey - DHS07
 Liberia,LR,LBR,430,Urban,2,Flush and pour flush - to septic tank,0.206,Demographic and Health Survey - DHS07
 Liberia,LR,LBR,430,Urban,3,Flush and pour flush - to pit,0.022,Demographic and Health Survey - DHS07
@@ -33,6 +84,23 @@ Liberia,LR,LBR,430,Rural,14,Other improved,0.0,Demographic and Health Survey - D
 Liberia,LR,LBR,430,Rural,15,"No facility, bush, field",0.706,Demographic and Health Survey - DHS07
 Liberia,LR,LBR,430,Rural,16,Other unimproved,0.003,Demographic and Health Survey - DHS07
 Liberia,LR,LBR,430,Rural,17,DK/missing information,0.0,Demographic and Health Survey - DHS07
+Liberia,LR,LBR,430,National,1,Flush and pour flush - to piped sewer system,0.032,Demographic and Health Survey - DHS07
+Liberia,LR,LBR,430,National,2,Flush and pour flush - to septic tank,0.087,Demographic and Health Survey - DHS07
+Liberia,LR,LBR,430,National,3,Flush and pour flush - to pit,0.009,Demographic and Health Survey - DHS07
+Liberia,LR,LBR,430,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.002,Demographic and Health Survey - DHS07
+Liberia,LR,LBR,430,National,5,Flush and pour flush - to elsewhere,0.004,Demographic and Health Survey - DHS07
+Liberia,LR,LBR,430,National,6,Dry latrines - Ventilated Improved Pit latrine,0.064,Demographic and Health Survey - DHS07
+Liberia,LR,LBR,430,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.085,Demographic and Health Survey - DHS07
+Liberia,LR,LBR,430,National,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS07
+Liberia,LR,LBR,430,National,9,Dry latrines - Pit latrine without slab/open pit,0.104,Demographic and Health Survey - DHS07
+Liberia,LR,LBR,430,National,10,Dry latrines - Hanging toilet/hanging latrine,0.048,Demographic and Health Survey - DHS07
+Liberia,LR,LBR,430,National,11,Dry latrines - Bucket latrine,0.003,Demographic and Health Survey - DHS07
+Liberia,LR,LBR,430,National,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS07
+Liberia,LR,LBR,430,National,13,Composting toilets,0.003,Demographic and Health Survey - DHS07
+Liberia,LR,LBR,430,National,14,Other improved,0.0,Demographic and Health Survey - DHS07
+Liberia,LR,LBR,430,National,15,"No facility, bush, field",0.548,Demographic and Health Survey - DHS07
+Liberia,LR,LBR,430,National,16,Other unimproved,0.01,Demographic and Health Survey - DHS07
+Liberia,LR,LBR,430,National,17,DK/missing information,0.0,Demographic and Health Survey - DHS07
 Liberia,LR,LBR,430,Urban,1,Flush and pour flush - to piped sewer system,0.082,Core Welfare Indicator Questionnaire - CWIQ07
 Liberia,LR,LBR,430,Urban,2,Flush and pour flush - to septic tank,0.239,Core Welfare Indicator Questionnaire - CWIQ07
 Liberia,LR,LBR,430,Urban,3,Flush and pour flush - to pit,0.0,Core Welfare Indicator Questionnaire - CWIQ07
@@ -67,6 +135,74 @@ Liberia,LR,LBR,430,Rural,14,Other improved,0.0,Core Welfare Indicator Questionna
 Liberia,LR,LBR,430,Rural,15,"No facility, bush, field",0.57,Core Welfare Indicator Questionnaire - CWIQ07
 Liberia,LR,LBR,430,Rural,16,Other unimproved,0.021,Core Welfare Indicator Questionnaire - CWIQ07
 Liberia,LR,LBR,430,Rural,17,DK/missing information,0.0,Core Welfare Indicator Questionnaire - CWIQ07
+Liberia,LR,LBR,430,National,1,Flush and pour flush - to piped sewer system,0.039,Core Welfare Indicator Questionnaire - CWIQ07
+Liberia,LR,LBR,430,National,2,Flush and pour flush - to septic tank,0.082,Core Welfare Indicator Questionnaire - CWIQ07
+Liberia,LR,LBR,430,National,3,Flush and pour flush - to pit,0.0,Core Welfare Indicator Questionnaire - CWIQ07
+Liberia,LR,LBR,430,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Core Welfare Indicator Questionnaire - CWIQ07
+Liberia,LR,LBR,430,National,5,Flush and pour flush - to elsewhere,0.0,Core Welfare Indicator Questionnaire - CWIQ07
+Liberia,LR,LBR,430,National,6,Dry latrines - Ventilated Improved Pit latrine,0.115,Core Welfare Indicator Questionnaire - CWIQ07
+Liberia,LR,LBR,430,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.169,Core Welfare Indicator Questionnaire - CWIQ07
+Liberia,LR,LBR,430,National,8,Dry latrines - Traditional latrine,0.0,Core Welfare Indicator Questionnaire - CWIQ07
+Liberia,LR,LBR,430,National,9,Dry latrines - Pit latrine without slab/open pit,0.062,Core Welfare Indicator Questionnaire - CWIQ07
+Liberia,LR,LBR,430,National,10,Dry latrines - Hanging toilet/hanging latrine,0.038,Core Welfare Indicator Questionnaire - CWIQ07
+Liberia,LR,LBR,430,National,11,Dry latrines - Bucket latrine,0.004,Core Welfare Indicator Questionnaire - CWIQ07
+Liberia,LR,LBR,430,National,12,Dry latrines - Other,0.0,Core Welfare Indicator Questionnaire - CWIQ07
+Liberia,LR,LBR,430,National,13,Composting toilets,0.0,Core Welfare Indicator Questionnaire - CWIQ07
+Liberia,LR,LBR,430,National,14,Other improved,0.0,Core Welfare Indicator Questionnaire - CWIQ07
+Liberia,LR,LBR,430,National,15,"No facility, bush, field",0.473,Core Welfare Indicator Questionnaire - CWIQ07
+Liberia,LR,LBR,430,National,16,Other unimproved,0.019,Core Welfare Indicator Questionnaire - CWIQ07
+Liberia,LR,LBR,430,National,17,DK/missing information,0.0,Core Welfare Indicator Questionnaire - CWIQ07
+Liberia,LR,LBR,430,Urban,1,Flush and pour flush - to piped sewer system,0.0,Liberia National Population and Housing Census 2008 - CEN08
+Liberia,LR,LBR,430,Urban,2,Flush and pour flush - to septic tank,0.0,Liberia National Population and Housing Census 2008 - CEN08
+Liberia,LR,LBR,430,Urban,3,Flush and pour flush - to pit,0.0,Liberia National Population and Housing Census 2008 - CEN08
+Liberia,LR,LBR,430,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.25,Liberia National Population and Housing Census 2008 - CEN08
+Liberia,LR,LBR,430,Urban,5,Flush and pour flush - to elsewhere,0.0,Liberia National Population and Housing Census 2008 - CEN08
+Liberia,LR,LBR,430,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Liberia National Population and Housing Census 2008 - CEN08
+Liberia,LR,LBR,430,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.282,Liberia National Population and Housing Census 2008 - CEN08
+Liberia,LR,LBR,430,Urban,8,Dry latrines - Traditional latrine,0.0,Liberia National Population and Housing Census 2008 - CEN08
+Liberia,LR,LBR,430,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.128,Liberia National Population and Housing Census 2008 - CEN08
+Liberia,LR,LBR,430,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Liberia National Population and Housing Census 2008 - CEN08
+Liberia,LR,LBR,430,Urban,11,Dry latrines - Bucket latrine,0.0,Liberia National Population and Housing Census 2008 - CEN08
+Liberia,LR,LBR,430,Urban,12,Dry latrines - Other,0.0,Liberia National Population and Housing Census 2008 - CEN08
+Liberia,LR,LBR,430,Urban,13,Composting toilets,0.0,Liberia National Population and Housing Census 2008 - CEN08
+Liberia,LR,LBR,430,Urban,14,Other improved,0.0,Liberia National Population and Housing Census 2008 - CEN08
+Liberia,LR,LBR,430,Urban,15,"No facility, bush, field",0.295,Liberia National Population and Housing Census 2008 - CEN08
+Liberia,LR,LBR,430,Urban,16,Other unimproved,0.046,Liberia National Population and Housing Census 2008 - CEN08
+Liberia,LR,LBR,430,Urban,17,DK/missing information,0.0,Liberia National Population and Housing Census 2008 - CEN08
+Liberia,LR,LBR,430,Rural,1,Flush and pour flush - to piped sewer system,0.0,Liberia National Population and Housing Census 2008 - CEN08
+Liberia,LR,LBR,430,Rural,2,Flush and pour flush - to septic tank,0.0,Liberia National Population and Housing Census 2008 - CEN08
+Liberia,LR,LBR,430,Rural,3,Flush and pour flush - to pit,0.0,Liberia National Population and Housing Census 2008 - CEN08
+Liberia,LR,LBR,430,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.027,Liberia National Population and Housing Census 2008 - CEN08
+Liberia,LR,LBR,430,Rural,5,Flush and pour flush - to elsewhere,0.0,Liberia National Population and Housing Census 2008 - CEN08
+Liberia,LR,LBR,430,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Liberia National Population and Housing Census 2008 - CEN08
+Liberia,LR,LBR,430,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.143,Liberia National Population and Housing Census 2008 - CEN08
+Liberia,LR,LBR,430,Rural,8,Dry latrines - Traditional latrine,0.0,Liberia National Population and Housing Census 2008 - CEN08
+Liberia,LR,LBR,430,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.042,Liberia National Population and Housing Census 2008 - CEN08
+Liberia,LR,LBR,430,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Liberia National Population and Housing Census 2008 - CEN08
+Liberia,LR,LBR,430,Rural,11,Dry latrines - Bucket latrine,0.0,Liberia National Population and Housing Census 2008 - CEN08
+Liberia,LR,LBR,430,Rural,12,Dry latrines - Other,0.0,Liberia National Population and Housing Census 2008 - CEN08
+Liberia,LR,LBR,430,Rural,13,Composting toilets,0.0,Liberia National Population and Housing Census 2008 - CEN08
+Liberia,LR,LBR,430,Rural,14,Other improved,0.0,Liberia National Population and Housing Census 2008 - CEN08
+Liberia,LR,LBR,430,Rural,15,"No facility, bush, field",0.779,Liberia National Population and Housing Census 2008 - CEN08
+Liberia,LR,LBR,430,Rural,16,Other unimproved,0.01,Liberia National Population and Housing Census 2008 - CEN08
+Liberia,LR,LBR,430,Rural,17,DK/missing information,0.0,Liberia National Population and Housing Census 2008 - CEN08
+Liberia,LR,LBR,430,National,1,Flush and pour flush - to piped sewer system,0.0,Liberia National Population and Housing Census 2008 - CEN08
+Liberia,LR,LBR,430,National,2,Flush and pour flush - to septic tank,0.0,Liberia National Population and Housing Census 2008 - CEN08
+Liberia,LR,LBR,430,National,3,Flush and pour flush - to pit,0.0,Liberia National Population and Housing Census 2008 - CEN08
+Liberia,LR,LBR,430,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.135,Liberia National Population and Housing Census 2008 - CEN08
+Liberia,LR,LBR,430,National,5,Flush and pour flush - to elsewhere,0.0,Liberia National Population and Housing Census 2008 - CEN08
+Liberia,LR,LBR,430,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Liberia National Population and Housing Census 2008 - CEN08
+Liberia,LR,LBR,430,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.211,Liberia National Population and Housing Census 2008 - CEN08
+Liberia,LR,LBR,430,National,8,Dry latrines - Traditional latrine,0.0,Liberia National Population and Housing Census 2008 - CEN08
+Liberia,LR,LBR,430,National,9,Dry latrines - Pit latrine without slab/open pit,0.084,Liberia National Population and Housing Census 2008 - CEN08
+Liberia,LR,LBR,430,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Liberia National Population and Housing Census 2008 - CEN08
+Liberia,LR,LBR,430,National,11,Dry latrines - Bucket latrine,0.0,Liberia National Population and Housing Census 2008 - CEN08
+Liberia,LR,LBR,430,National,12,Dry latrines - Other,0.0,Liberia National Population and Housing Census 2008 - CEN08
+Liberia,LR,LBR,430,National,13,Composting toilets,0.0,Liberia National Population and Housing Census 2008 - CEN08
+Liberia,LR,LBR,430,National,14,Other improved,0.0,Liberia National Population and Housing Census 2008 - CEN08
+Liberia,LR,LBR,430,National,15,"No facility, bush, field",0.543,Liberia National Population and Housing Census 2008 - CEN08
+Liberia,LR,LBR,430,National,16,Other unimproved,0.028,Liberia National Population and Housing Census 2008 - CEN08
+Liberia,LR,LBR,430,National,17,DK/missing information,0.0,Liberia National Population and Housing Census 2008 - CEN08
 Liberia,LR,LBR,430,Urban,1,Flush and pour flush - to piped sewer system,0.048,Liberia Malaria Indicator Survey - MIS09
 Liberia,LR,LBR,430,Urban,2,Flush and pour flush - to septic tank,0.151,Liberia Malaria Indicator Survey - MIS09
 Liberia,LR,LBR,430,Urban,3,Flush and pour flush - to pit,0.037,Liberia Malaria Indicator Survey - MIS09
@@ -101,6 +237,23 @@ Liberia,LR,LBR,430,Rural,14,Other improved,0.0,Liberia Malaria Indicator Survey 
 Liberia,LR,LBR,430,Rural,15,"No facility, bush, field",0.631,Liberia Malaria Indicator Survey - MIS09
 Liberia,LR,LBR,430,Rural,16,Other unimproved,0.0,Liberia Malaria Indicator Survey - MIS09
 Liberia,LR,LBR,430,Rural,17,DK/missing information,0.0,Liberia Malaria Indicator Survey - MIS09
+Liberia,LR,LBR,430,National,1,Flush and pour flush - to piped sewer system,0.022,Liberia Malaria Indicator Survey - MIS09
+Liberia,LR,LBR,430,National,2,Flush and pour flush - to septic tank,0.073,Liberia Malaria Indicator Survey - MIS09
+Liberia,LR,LBR,430,National,3,Flush and pour flush - to pit,0.017,Liberia Malaria Indicator Survey - MIS09
+Liberia,LR,LBR,430,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Liberia Malaria Indicator Survey - MIS09
+Liberia,LR,LBR,430,National,5,Flush and pour flush - to elsewhere,0.005,Liberia Malaria Indicator Survey - MIS09
+Liberia,LR,LBR,430,National,6,Dry latrines - Ventilated Improved Pit latrine,0.086,Liberia Malaria Indicator Survey - MIS09
+Liberia,LR,LBR,430,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.247,Liberia Malaria Indicator Survey - MIS09
+Liberia,LR,LBR,430,National,8,Dry latrines - Traditional latrine,0.0,Liberia Malaria Indicator Survey - MIS09
+Liberia,LR,LBR,430,National,9,Dry latrines - Pit latrine without slab/open pit,0.074,Liberia Malaria Indicator Survey - MIS09
+Liberia,LR,LBR,430,National,10,Dry latrines - Hanging toilet/hanging latrine,0.024,Liberia Malaria Indicator Survey - MIS09
+Liberia,LR,LBR,430,National,11,Dry latrines - Bucket latrine,0.003,Liberia Malaria Indicator Survey - MIS09
+Liberia,LR,LBR,430,National,12,Dry latrines - Other,0.0,Liberia Malaria Indicator Survey - MIS09
+Liberia,LR,LBR,430,National,13,Composting toilets,0.009,Liberia Malaria Indicator Survey - MIS09
+Liberia,LR,LBR,430,National,14,Other improved,0.0,Liberia Malaria Indicator Survey - MIS09
+Liberia,LR,LBR,430,National,15,"No facility, bush, field",0.432,Liberia Malaria Indicator Survey - MIS09
+Liberia,LR,LBR,430,National,16,Other unimproved,0.006,Liberia Malaria Indicator Survey - MIS09
+Liberia,LR,LBR,430,National,17,DK/missing information,0.001,Liberia Malaria Indicator Survey - MIS09
 Liberia,LR,LBR,430,Urban,1,Flush and pour flush - to piped sewer system,0.011,Measure DHS - MIS11
 Liberia,LR,LBR,430,Urban,2,Flush and pour flush - to septic tank,0.294,Measure DHS - MIS11
 Liberia,LR,LBR,430,Urban,3,Flush and pour flush - to pit,0.071,Measure DHS - MIS11
@@ -135,6 +288,23 @@ Liberia,LR,LBR,430,Rural,14,Other improved,0.0,Measure DHS - MIS11
 Liberia,LR,LBR,430,Rural,15,"No facility, bush, field",0.613,Measure DHS - MIS11
 Liberia,LR,LBR,430,Rural,16,Other unimproved,0.002,Measure DHS - MIS11
 Liberia,LR,LBR,430,Rural,17,DK/missing information,0.0,Measure DHS - MIS11
+Liberia,LR,LBR,430,National,1,Flush and pour flush - to piped sewer system,0.006,Measure DHS - MIS11
+Liberia,LR,LBR,430,National,2,Flush and pour flush - to septic tank,0.151,Measure DHS - MIS11
+Liberia,LR,LBR,430,National,3,Flush and pour flush - to pit,0.044,Measure DHS - MIS11
+Liberia,LR,LBR,430,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.016,Measure DHS - MIS11
+Liberia,LR,LBR,430,National,5,Flush and pour flush - to elsewhere,0.001,Measure DHS - MIS11
+Liberia,LR,LBR,430,National,6,Dry latrines - Ventilated Improved Pit latrine,0.047,Measure DHS - MIS11
+Liberia,LR,LBR,430,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.078,Measure DHS - MIS11
+Liberia,LR,LBR,430,National,8,Dry latrines - Traditional latrine,0.0,Measure DHS - MIS11
+Liberia,LR,LBR,430,National,9,Dry latrines - Pit latrine without slab/open pit,0.179,Measure DHS - MIS11
+Liberia,LR,LBR,430,National,10,Dry latrines - Hanging toilet/hanging latrine,0.062,Measure DHS - MIS11
+Liberia,LR,LBR,430,National,11,Dry latrines - Bucket latrine,0.001,Measure DHS - MIS11
+Liberia,LR,LBR,430,National,12,Dry latrines - Other,0.0,Measure DHS - MIS11
+Liberia,LR,LBR,430,National,13,Composting toilets,0.002,Measure DHS - MIS11
+Liberia,LR,LBR,430,National,14,Other improved,0.0,Measure DHS - MIS11
+Liberia,LR,LBR,430,National,15,"No facility, bush, field",0.408,Measure DHS - MIS11
+Liberia,LR,LBR,430,National,16,Other unimproved,0.004,Measure DHS - MIS11
+Liberia,LR,LBR,430,National,17,DK/missing information,0.0,Measure DHS - MIS11
 Liberia,LR,LBR,430,Urban,1,Flush and pour flush - to piped sewer system,0.017,Liberia Demographic and Health Survey (LDHS) - DHS13
 Liberia,LR,LBR,430,Urban,2,Flush and pour flush - to septic tank,0.253,Liberia Demographic and Health Survey (LDHS) - DHS13
 Liberia,LR,LBR,430,Urban,3,Flush and pour flush - to pit,0.024,Liberia Demographic and Health Survey (LDHS) - DHS13
@@ -169,6 +339,74 @@ Liberia,LR,LBR,430,Rural,14,Other improved,0.0,Liberia Demographic and Health Su
 Liberia,LR,LBR,430,Rural,15,"No facility, bush, field",0.709,Liberia Demographic and Health Survey (LDHS) - DHS13
 Liberia,LR,LBR,430,Rural,16,Other unimproved,0.0,Liberia Demographic and Health Survey (LDHS) - DHS13
 Liberia,LR,LBR,430,Rural,17,DK/missing information,0.0,Liberia Demographic and Health Survey (LDHS) - DHS13
+Liberia,LR,LBR,430,National,1,Flush and pour flush - to piped sewer system,0.01,Liberia Demographic and Health Survey (LDHS) - DHS13
+Liberia,LR,LBR,430,National,2,Flush and pour flush - to septic tank,0.151,Liberia Demographic and Health Survey (LDHS) - DHS13
+Liberia,LR,LBR,430,National,3,Flush and pour flush - to pit,0.015,Liberia Demographic and Health Survey (LDHS) - DHS13
+Liberia,LR,LBR,430,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.005,Liberia Demographic and Health Survey (LDHS) - DHS13
+Liberia,LR,LBR,430,National,5,Flush and pour flush - to elsewhere,0.0,Liberia Demographic and Health Survey (LDHS) - DHS13
+Liberia,LR,LBR,430,National,6,Dry latrines - Ventilated Improved Pit latrine,0.188,Liberia Demographic and Health Survey (LDHS) - DHS13
+Liberia,LR,LBR,430,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.057,Liberia Demographic and Health Survey (LDHS) - DHS13
+Liberia,LR,LBR,430,National,8,Dry latrines - Traditional latrine,0.0,Liberia Demographic and Health Survey (LDHS) - DHS13
+Liberia,LR,LBR,430,National,9,Dry latrines - Pit latrine without slab/open pit,0.063,Liberia Demographic and Health Survey (LDHS) - DHS13
+Liberia,LR,LBR,430,National,10,Dry latrines - Hanging toilet/hanging latrine,0.055,Liberia Demographic and Health Survey (LDHS) - DHS13
+Liberia,LR,LBR,430,National,11,Dry latrines - Bucket latrine,0.002,Liberia Demographic and Health Survey (LDHS) - DHS13
+Liberia,LR,LBR,430,National,12,Dry latrines - Other,0.0,Liberia Demographic and Health Survey (LDHS) - DHS13
+Liberia,LR,LBR,430,National,13,Composting toilets,0.0,Liberia Demographic and Health Survey (LDHS) - DHS13
+Liberia,LR,LBR,430,National,14,Other improved,0.0,Liberia Demographic and Health Survey (LDHS) - DHS13
+Liberia,LR,LBR,430,National,15,"No facility, bush, field",0.45,Liberia Demographic and Health Survey (LDHS) - DHS13
+Liberia,LR,LBR,430,National,16,Other unimproved,0.003,Liberia Demographic and Health Survey (LDHS) - DHS13
+Liberia,LR,LBR,430,National,17,DK/missing information,0.0,Liberia Demographic and Health Survey (LDHS) - DHS13
+Liberia,LR,LBR,430,Urban,1,Flush and pour flush - to piped sewer system,0.0,Household Income and Expenditure Survey - HIES15
+Liberia,LR,LBR,430,Urban,2,Flush and pour flush - to septic tank,0.0,Household Income and Expenditure Survey - HIES15
+Liberia,LR,LBR,430,Urban,3,Flush and pour flush - to pit,0.0,Household Income and Expenditure Survey - HIES15
+Liberia,LR,LBR,430,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Income and Expenditure Survey - HIES15
+Liberia,LR,LBR,430,Urban,5,Flush and pour flush - to elsewhere,0.0,Household Income and Expenditure Survey - HIES15
+Liberia,LR,LBR,430,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.073,Household Income and Expenditure Survey - HIES15
+Liberia,LR,LBR,430,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.186,Household Income and Expenditure Survey - HIES15
+Liberia,LR,LBR,430,Urban,8,Dry latrines - Traditional latrine,0.0,Household Income and Expenditure Survey - HIES15
+Liberia,LR,LBR,430,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.162,Household Income and Expenditure Survey - HIES15
+Liberia,LR,LBR,430,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Income and Expenditure Survey - HIES15
+Liberia,LR,LBR,430,Urban,11,Dry latrines - Bucket latrine,0.0,Household Income and Expenditure Survey - HIES15
+Liberia,LR,LBR,430,Urban,12,Dry latrines - Other,0.0,Household Income and Expenditure Survey - HIES15
+Liberia,LR,LBR,430,Urban,13,Composting toilets,0.0,Household Income and Expenditure Survey - HIES15
+Liberia,LR,LBR,430,Urban,14,Other improved,0.0,Household Income and Expenditure Survey - HIES15
+Liberia,LR,LBR,430,Urban,15,"No facility, bush, field",0.184,Household Income and Expenditure Survey - HIES15
+Liberia,LR,LBR,430,Urban,16,Other unimproved,0.025,Household Income and Expenditure Survey - HIES15
+Liberia,LR,LBR,430,Urban,17,DK/missing information,0.0,Household Income and Expenditure Survey - HIES15
+Liberia,LR,LBR,430,Rural,1,Flush and pour flush - to piped sewer system,0.0,Household Income and Expenditure Survey - HIES15
+Liberia,LR,LBR,430,Rural,2,Flush and pour flush - to septic tank,0.0,Household Income and Expenditure Survey - HIES15
+Liberia,LR,LBR,430,Rural,3,Flush and pour flush - to pit,0.0,Household Income and Expenditure Survey - HIES15
+Liberia,LR,LBR,430,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Income and Expenditure Survey - HIES15
+Liberia,LR,LBR,430,Rural,5,Flush and pour flush - to elsewhere,0.0,Household Income and Expenditure Survey - HIES15
+Liberia,LR,LBR,430,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.026,Household Income and Expenditure Survey - HIES15
+Liberia,LR,LBR,430,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.169,Household Income and Expenditure Survey - HIES15
+Liberia,LR,LBR,430,Rural,8,Dry latrines - Traditional latrine,0.0,Household Income and Expenditure Survey - HIES15
+Liberia,LR,LBR,430,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.109,Household Income and Expenditure Survey - HIES15
+Liberia,LR,LBR,430,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Income and Expenditure Survey - HIES15
+Liberia,LR,LBR,430,Rural,11,Dry latrines - Bucket latrine,0.0,Household Income and Expenditure Survey - HIES15
+Liberia,LR,LBR,430,Rural,12,Dry latrines - Other,0.0,Household Income and Expenditure Survey - HIES15
+Liberia,LR,LBR,430,Rural,13,Composting toilets,0.0,Household Income and Expenditure Survey - HIES15
+Liberia,LR,LBR,430,Rural,14,Other improved,0.0,Household Income and Expenditure Survey - HIES15
+Liberia,LR,LBR,430,Rural,15,"No facility, bush, field",0.657,Household Income and Expenditure Survey - HIES15
+Liberia,LR,LBR,430,Rural,16,Other unimproved,0.006,Household Income and Expenditure Survey - HIES15
+Liberia,LR,LBR,430,Rural,17,DK/missing information,0.0,Household Income and Expenditure Survey - HIES15
+Liberia,LR,LBR,430,National,1,Flush and pour flush - to piped sewer system,0.0,Household Income and Expenditure Survey - HIES15
+Liberia,LR,LBR,430,National,2,Flush and pour flush - to septic tank,0.0,Household Income and Expenditure Survey - HIES15
+Liberia,LR,LBR,430,National,3,Flush and pour flush - to pit,0.0,Household Income and Expenditure Survey - HIES15
+Liberia,LR,LBR,430,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Income and Expenditure Survey - HIES15
+Liberia,LR,LBR,430,National,5,Flush and pour flush - to elsewhere,0.0,Household Income and Expenditure Survey - HIES15
+Liberia,LR,LBR,430,National,6,Dry latrines - Ventilated Improved Pit latrine,0.054,Household Income and Expenditure Survey - HIES15
+Liberia,LR,LBR,430,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.179,Household Income and Expenditure Survey - HIES15
+Liberia,LR,LBR,430,National,8,Dry latrines - Traditional latrine,0.0,Household Income and Expenditure Survey - HIES15
+Liberia,LR,LBR,430,National,9,Dry latrines - Pit latrine without slab/open pit,0.14,Household Income and Expenditure Survey - HIES15
+Liberia,LR,LBR,430,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Income and Expenditure Survey - HIES15
+Liberia,LR,LBR,430,National,11,Dry latrines - Bucket latrine,0.0,Household Income and Expenditure Survey - HIES15
+Liberia,LR,LBR,430,National,12,Dry latrines - Other,0.0,Household Income and Expenditure Survey - HIES15
+Liberia,LR,LBR,430,National,13,Composting toilets,0.0,Household Income and Expenditure Survey - HIES15
+Liberia,LR,LBR,430,National,14,Other improved,0.0,Household Income and Expenditure Survey - HIES15
+Liberia,LR,LBR,430,National,15,"No facility, bush, field",0.376,Household Income and Expenditure Survey - HIES15
+Liberia,LR,LBR,430,National,16,Other unimproved,0.018,Household Income and Expenditure Survey - HIES15
+Liberia,LR,LBR,430,National,17,DK/missing information,0.0,Household Income and Expenditure Survey - HIES15
 Liberia,LR,LBR,430,Urban,1,Flush and pour flush - to piped sewer system,0.02,Malaria Indicator Survey - MIS16
 Liberia,LR,LBR,430,Urban,2,Flush and pour flush - to septic tank,0.444,Malaria Indicator Survey - MIS16
 Liberia,LR,LBR,430,Urban,3,Flush and pour flush - to pit,0.09,Malaria Indicator Survey - MIS16
@@ -203,3 +441,20 @@ Liberia,LR,LBR,430,Rural,14,Other improved,0.0,Malaria Indicator Survey - MIS16
 Liberia,LR,LBR,430,Rural,15,"No facility, bush, field",0.598,Malaria Indicator Survey - MIS16
 Liberia,LR,LBR,430,Rural,16,Other unimproved,0.001,Malaria Indicator Survey - MIS16
 Liberia,LR,LBR,430,Rural,17,DK/missing information,0.0,Malaria Indicator Survey - MIS16
+Liberia,LR,LBR,430,National,1,Flush and pour flush - to piped sewer system,0.012,Malaria Indicator Survey - MIS16
+Liberia,LR,LBR,430,National,2,Flush and pour flush - to septic tank,0.272,Malaria Indicator Survey - MIS16
+Liberia,LR,LBR,430,National,3,Flush and pour flush - to pit,0.072,Malaria Indicator Survey - MIS16
+Liberia,LR,LBR,430,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.001,Malaria Indicator Survey - MIS16
+Liberia,LR,LBR,430,National,5,Flush and pour flush - to elsewhere,0.001,Malaria Indicator Survey - MIS16
+Liberia,LR,LBR,430,National,6,Dry latrines - Ventilated Improved Pit latrine,0.051,Malaria Indicator Survey - MIS16
+Liberia,LR,LBR,430,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.07,Malaria Indicator Survey - MIS16
+Liberia,LR,LBR,430,National,8,Dry latrines - Traditional latrine,0.0,Malaria Indicator Survey - MIS16
+Liberia,LR,LBR,430,National,9,Dry latrines - Pit latrine without slab/open pit,0.109,Malaria Indicator Survey - MIS16
+Liberia,LR,LBR,430,National,10,Dry latrines - Hanging toilet/hanging latrine,0.052,Malaria Indicator Survey - MIS16
+Liberia,LR,LBR,430,National,11,Dry latrines - Bucket latrine,0.004,Malaria Indicator Survey - MIS16
+Liberia,LR,LBR,430,National,12,Dry latrines - Other,0.0,Malaria Indicator Survey - MIS16
+Liberia,LR,LBR,430,National,13,Composting toilets,0.003,Malaria Indicator Survey - MIS16
+Liberia,LR,LBR,430,National,14,Other improved,0.0,Malaria Indicator Survey - MIS16
+Liberia,LR,LBR,430,National,15,"No facility, bush, field",0.352,Malaria Indicator Survey - MIS16
+Liberia,LR,LBR,430,National,16,Other unimproved,0.002,Malaria Indicator Survey - MIS16
+Liberia,LR,LBR,430,National,17,DK/missing information,0.0,Malaria Indicator Survey - MIS16

@@ -1,4 +1,160 @@
 country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+Egypt,EG,EGY,818,Urban,1,Flush and pour flush - to piped sewer system,0.686,Household Income Expenditure and Consumption Survey - HIECS00
+Egypt,EG,EGY,818,Urban,2,Flush and pour flush - to septic tank,0.268,Household Income Expenditure and Consumption Survey - HIECS00
+Egypt,EG,EGY,818,Urban,3,Flush and pour flush - to pit,0.0,Household Income Expenditure and Consumption Survey - HIECS00
+Egypt,EG,EGY,818,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.038,Household Income Expenditure and Consumption Survey - HIECS00
+Egypt,EG,EGY,818,Urban,5,Flush and pour flush - to elsewhere,0.0,Household Income Expenditure and Consumption Survey - HIECS00
+Egypt,EG,EGY,818,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Income Expenditure and Consumption Survey - HIECS00
+Egypt,EG,EGY,818,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Income Expenditure and Consumption Survey - HIECS00
+Egypt,EG,EGY,818,Urban,8,Dry latrines - Traditional latrine,0.0,Household Income Expenditure and Consumption Survey - HIECS00
+Egypt,EG,EGY,818,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Income Expenditure and Consumption Survey - HIECS00
+Egypt,EG,EGY,818,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Income Expenditure and Consumption Survey - HIECS00
+Egypt,EG,EGY,818,Urban,11,Dry latrines - Bucket latrine,0.0,Household Income Expenditure and Consumption Survey - HIECS00
+Egypt,EG,EGY,818,Urban,12,Dry latrines - Other,0.0,Household Income Expenditure and Consumption Survey - HIECS00
+Egypt,EG,EGY,818,Urban,13,Composting toilets,0.0,Household Income Expenditure and Consumption Survey - HIECS00
+Egypt,EG,EGY,818,Urban,14,Other improved,0.0,Household Income Expenditure and Consumption Survey - HIECS00
+Egypt,EG,EGY,818,Urban,15,"No facility, bush, field",0.008,Household Income Expenditure and Consumption Survey - HIECS00
+Egypt,EG,EGY,818,Urban,16,Other unimproved,0.0,Household Income Expenditure and Consumption Survey - HIECS00
+Egypt,EG,EGY,818,Urban,17,DK/missing information,0.0,Household Income Expenditure and Consumption Survey - HIECS00
+Egypt,EG,EGY,818,Rural,1,Flush and pour flush - to piped sewer system,0.098,Household Income Expenditure and Consumption Survey - HIECS00
+Egypt,EG,EGY,818,Rural,2,Flush and pour flush - to septic tank,0.81,Household Income Expenditure and Consumption Survey - HIECS00
+Egypt,EG,EGY,818,Rural,3,Flush and pour flush - to pit,0.0,Household Income Expenditure and Consumption Survey - HIECS00
+Egypt,EG,EGY,818,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.076,Household Income Expenditure and Consumption Survey - HIECS00
+Egypt,EG,EGY,818,Rural,5,Flush and pour flush - to elsewhere,0.0,Household Income Expenditure and Consumption Survey - HIECS00
+Egypt,EG,EGY,818,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Income Expenditure and Consumption Survey - HIECS00
+Egypt,EG,EGY,818,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Income Expenditure and Consumption Survey - HIECS00
+Egypt,EG,EGY,818,Rural,8,Dry latrines - Traditional latrine,0.0,Household Income Expenditure and Consumption Survey - HIECS00
+Egypt,EG,EGY,818,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Income Expenditure and Consumption Survey - HIECS00
+Egypt,EG,EGY,818,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Income Expenditure and Consumption Survey - HIECS00
+Egypt,EG,EGY,818,Rural,11,Dry latrines - Bucket latrine,0.0,Household Income Expenditure and Consumption Survey - HIECS00
+Egypt,EG,EGY,818,Rural,12,Dry latrines - Other,0.0,Household Income Expenditure and Consumption Survey - HIECS00
+Egypt,EG,EGY,818,Rural,13,Composting toilets,0.0,Household Income Expenditure and Consumption Survey - HIECS00
+Egypt,EG,EGY,818,Rural,14,Other improved,0.0,Household Income Expenditure and Consumption Survey - HIECS00
+Egypt,EG,EGY,818,Rural,15,"No facility, bush, field",0.016,Household Income Expenditure and Consumption Survey - HIECS00
+Egypt,EG,EGY,818,Rural,16,Other unimproved,0.0,Household Income Expenditure and Consumption Survey - HIECS00
+Egypt,EG,EGY,818,Rural,17,DK/missing information,0.0,Household Income Expenditure and Consumption Survey - HIECS00
+Egypt,EG,EGY,818,National,1,Flush and pour flush - to piped sewer system,0.34,Household Income Expenditure and Consumption Survey - HIECS00
+Egypt,EG,EGY,818,National,2,Flush and pour flush - to septic tank,0.587,Household Income Expenditure and Consumption Survey - HIECS00
+Egypt,EG,EGY,818,National,3,Flush and pour flush - to pit,0.0,Household Income Expenditure and Consumption Survey - HIECS00
+Egypt,EG,EGY,818,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.06,Household Income Expenditure and Consumption Survey - HIECS00
+Egypt,EG,EGY,818,National,5,Flush and pour flush - to elsewhere,0.0,Household Income Expenditure and Consumption Survey - HIECS00
+Egypt,EG,EGY,818,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Income Expenditure and Consumption Survey - HIECS00
+Egypt,EG,EGY,818,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Income Expenditure and Consumption Survey - HIECS00
+Egypt,EG,EGY,818,National,8,Dry latrines - Traditional latrine,0.0,Household Income Expenditure and Consumption Survey - HIECS00
+Egypt,EG,EGY,818,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Income Expenditure and Consumption Survey - HIECS00
+Egypt,EG,EGY,818,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Income Expenditure and Consumption Survey - HIECS00
+Egypt,EG,EGY,818,National,11,Dry latrines - Bucket latrine,0.0,Household Income Expenditure and Consumption Survey - HIECS00
+Egypt,EG,EGY,818,National,12,Dry latrines - Other,0.0,Household Income Expenditure and Consumption Survey - HIECS00
+Egypt,EG,EGY,818,National,13,Composting toilets,0.0,Household Income Expenditure and Consumption Survey - HIECS00
+Egypt,EG,EGY,818,National,14,Other improved,0.0,Household Income Expenditure and Consumption Survey - HIECS00
+Egypt,EG,EGY,818,National,15,"No facility, bush, field",0.013,Household Income Expenditure and Consumption Survey - HIECS00
+Egypt,EG,EGY,818,National,16,Other unimproved,0.0,Household Income Expenditure and Consumption Survey - HIECS00
+Egypt,EG,EGY,818,National,17,DK/missing information,0.0,Household Income Expenditure and Consumption Survey - HIECS00
+Egypt,EG,EGY,818,Urban,1,Flush and pour flush - to piped sewer system,0.592,Demographic and Health Survey - DHS00
+Egypt,EG,EGY,818,Urban,2,Flush and pour flush - to septic tank,0.034,Demographic and Health Survey - DHS00
+Egypt,EG,EGY,818,Urban,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS00
+Egypt,EG,EGY,818,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS00
+Egypt,EG,EGY,818,Urban,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS00
+Egypt,EG,EGY,818,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - DHS00
+Egypt,EG,EGY,818,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS00
+Egypt,EG,EGY,818,Urban,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS00
+Egypt,EG,EGY,818,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.005,Demographic and Health Survey - DHS00
+Egypt,EG,EGY,818,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.005,Demographic and Health Survey - DHS00
+Egypt,EG,EGY,818,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS00
+Egypt,EG,EGY,818,Urban,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS00
+Egypt,EG,EGY,818,Urban,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS00
+Egypt,EG,EGY,818,Urban,13,Composting toilets,0.0,Demographic and Health Survey - DHS00
+Egypt,EG,EGY,818,Urban,14,Other improved,0.0,Demographic and Health Survey - DHS00
+Egypt,EG,EGY,818,Urban,15,"No facility, bush, field",0.003,Demographic and Health Survey - DHS00
+Egypt,EG,EGY,818,Urban,16,Other unimproved,0.0,Demographic and Health Survey - DHS00
+Egypt,EG,EGY,818,Urban,17,DK/missing information,0.0,Demographic and Health Survey - DHS00
+Egypt,EG,EGY,818,Rural,1,Flush and pour flush - to piped sewer system,0.078,Demographic and Health Survey - DHS00
+Egypt,EG,EGY,818,Rural,2,Flush and pour flush - to septic tank,0.037,Demographic and Health Survey - DHS00
+Egypt,EG,EGY,818,Rural,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS00
+Egypt,EG,EGY,818,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS00
+Egypt,EG,EGY,818,Rural,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS00
+Egypt,EG,EGY,818,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - DHS00
+Egypt,EG,EGY,818,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS00
+Egypt,EG,EGY,818,Rural,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS00
+Egypt,EG,EGY,818,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.054,Demographic and Health Survey - DHS00
+Egypt,EG,EGY,818,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.054,Demographic and Health Survey - DHS00
+Egypt,EG,EGY,818,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS00
+Egypt,EG,EGY,818,Rural,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS00
+Egypt,EG,EGY,818,Rural,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS00
+Egypt,EG,EGY,818,Rural,13,Composting toilets,0.0,Demographic and Health Survey - DHS00
+Egypt,EG,EGY,818,Rural,14,Other improved,0.0,Demographic and Health Survey - DHS00
+Egypt,EG,EGY,818,Rural,15,"No facility, bush, field",0.049,Demographic and Health Survey - DHS00
+Egypt,EG,EGY,818,Rural,16,Other unimproved,0.0,Demographic and Health Survey - DHS00
+Egypt,EG,EGY,818,Rural,17,DK/missing information,0.0,Demographic and Health Survey - DHS00
+Egypt,EG,EGY,818,National,1,Flush and pour flush - to piped sewer system,0.334,Demographic and Health Survey - DHS00
+Egypt,EG,EGY,818,National,2,Flush and pour flush - to septic tank,0.036,Demographic and Health Survey - DHS00
+Egypt,EG,EGY,818,National,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS00
+Egypt,EG,EGY,818,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS00
+Egypt,EG,EGY,818,National,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS00
+Egypt,EG,EGY,818,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - DHS00
+Egypt,EG,EGY,818,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS00
+Egypt,EG,EGY,818,National,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS00
+Egypt,EG,EGY,818,National,9,Dry latrines - Pit latrine without slab/open pit,0.03,Demographic and Health Survey - DHS00
+Egypt,EG,EGY,818,National,9,Dry latrines - Pit latrine without slab/open pit,0.03,Demographic and Health Survey - DHS00
+Egypt,EG,EGY,818,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS00
+Egypt,EG,EGY,818,National,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS00
+Egypt,EG,EGY,818,National,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS00
+Egypt,EG,EGY,818,National,13,Composting toilets,0.0,Demographic and Health Survey - DHS00
+Egypt,EG,EGY,818,National,14,Other improved,0.0,Demographic and Health Survey - DHS00
+Egypt,EG,EGY,818,National,15,"No facility, bush, field",0.026,Demographic and Health Survey - DHS00
+Egypt,EG,EGY,818,National,16,Other unimproved,0.0,Demographic and Health Survey - DHS00
+Egypt,EG,EGY,818,National,17,DK/missing information,0.0,Demographic and Health Survey - DHS00
+Egypt,EG,EGY,818,Urban,1,Flush and pour flush - to piped sewer system,0.678,Demographic and Health Survey - DHS03
+Egypt,EG,EGY,818,Urban,2,Flush and pour flush - to septic tank,0.01,Demographic and Health Survey - DHS03
+Egypt,EG,EGY,818,Urban,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS03
+Egypt,EG,EGY,818,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS03
+Egypt,EG,EGY,818,Urban,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS03
+Egypt,EG,EGY,818,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - DHS03
+Egypt,EG,EGY,818,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS03
+Egypt,EG,EGY,818,Urban,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS03
+Egypt,EG,EGY,818,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.004,Demographic and Health Survey - DHS03
+Egypt,EG,EGY,818,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS03
+Egypt,EG,EGY,818,Urban,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS03
+Egypt,EG,EGY,818,Urban,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS03
+Egypt,EG,EGY,818,Urban,13,Composting toilets,0.0,Demographic and Health Survey - DHS03
+Egypt,EG,EGY,818,Urban,14,Other improved,0.0,Demographic and Health Survey - DHS03
+Egypt,EG,EGY,818,Urban,15,"No facility, bush, field",0.002,Demographic and Health Survey - DHS03
+Egypt,EG,EGY,818,Urban,16,Other unimproved,0.0,Demographic and Health Survey - DHS03
+Egypt,EG,EGY,818,Urban,17,DK/missing information,0.0,Demographic and Health Survey - DHS03
+Egypt,EG,EGY,818,Rural,1,Flush and pour flush - to piped sewer system,0.13,Demographic and Health Survey - DHS03
+Egypt,EG,EGY,818,Rural,2,Flush and pour flush - to septic tank,0.02,Demographic and Health Survey - DHS03
+Egypt,EG,EGY,818,Rural,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS03
+Egypt,EG,EGY,818,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS03
+Egypt,EG,EGY,818,Rural,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS03
+Egypt,EG,EGY,818,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - DHS03
+Egypt,EG,EGY,818,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS03
+Egypt,EG,EGY,818,Rural,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS03
+Egypt,EG,EGY,818,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.035,Demographic and Health Survey - DHS03
+Egypt,EG,EGY,818,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS03
+Egypt,EG,EGY,818,Rural,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS03
+Egypt,EG,EGY,818,Rural,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS03
+Egypt,EG,EGY,818,Rural,13,Composting toilets,0.0,Demographic and Health Survey - DHS03
+Egypt,EG,EGY,818,Rural,14,Other improved,0.0,Demographic and Health Survey - DHS03
+Egypt,EG,EGY,818,Rural,15,"No facility, bush, field",0.027,Demographic and Health Survey - DHS03
+Egypt,EG,EGY,818,Rural,16,Other unimproved,0.0,Demographic and Health Survey - DHS03
+Egypt,EG,EGY,818,Rural,17,DK/missing information,0.0,Demographic and Health Survey - DHS03
+Egypt,EG,EGY,818,National,1,Flush and pour flush - to piped sewer system,0.404,Demographic and Health Survey - DHS03
+Egypt,EG,EGY,818,National,2,Flush and pour flush - to septic tank,0.015,Demographic and Health Survey - DHS03
+Egypt,EG,EGY,818,National,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS03
+Egypt,EG,EGY,818,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS03
+Egypt,EG,EGY,818,National,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS03
+Egypt,EG,EGY,818,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - DHS03
+Egypt,EG,EGY,818,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS03
+Egypt,EG,EGY,818,National,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS03
+Egypt,EG,EGY,818,National,9,Dry latrines - Pit latrine without slab/open pit,0.019,Demographic and Health Survey - DHS03
+Egypt,EG,EGY,818,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS03
+Egypt,EG,EGY,818,National,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS03
+Egypt,EG,EGY,818,National,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS03
+Egypt,EG,EGY,818,National,13,Composting toilets,0.0,Demographic and Health Survey - DHS03
+Egypt,EG,EGY,818,National,14,Other improved,0.0,Demographic and Health Survey - DHS03
+Egypt,EG,EGY,818,National,15,"No facility, bush, field",0.015,Demographic and Health Survey - DHS03
+Egypt,EG,EGY,818,National,16,Other unimproved,0.0,Demographic and Health Survey - DHS03
+Egypt,EG,EGY,818,National,17,DK/missing information,0.0,Demographic and Health Survey - DHS03
 Egypt,EG,EGY,818,Urban,1,Flush and pour flush - to piped sewer system,0.745,Household Income Expenditure and Consumption Survey - HIECS05
 Egypt,EG,EGY,818,Urban,2,Flush and pour flush - to septic tank,0.204,Household Income Expenditure and Consumption Survey - HIECS05
 Egypt,EG,EGY,818,Urban,3,Flush and pour flush - to pit,0.0,Household Income Expenditure and Consumption Survey - HIECS05
@@ -33,6 +189,125 @@ Egypt,EG,EGY,818,Rural,14,Other improved,0.0,Household Income Expenditure and Co
 Egypt,EG,EGY,818,Rural,15,"No facility, bush, field",0.015,Household Income Expenditure and Consumption Survey - HIECS05
 Egypt,EG,EGY,818,Rural,16,Other unimproved,0.0,Household Income Expenditure and Consumption Survey - HIECS05
 Egypt,EG,EGY,818,Rural,17,DK/missing information,0.0,Household Income Expenditure and Consumption Survey - HIECS05
+Egypt,EG,EGY,818,National,1,Flush and pour flush - to piped sewer system,0.445,Household Income Expenditure and Consumption Survey - HIECS05
+Egypt,EG,EGY,818,National,2,Flush and pour flush - to septic tank,0.464,Household Income Expenditure and Consumption Survey - HIECS05
+Egypt,EG,EGY,818,National,3,Flush and pour flush - to pit,0.0,Household Income Expenditure and Consumption Survey - HIECS05
+Egypt,EG,EGY,818,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.073,Household Income Expenditure and Consumption Survey - HIECS05
+Egypt,EG,EGY,818,National,5,Flush and pour flush - to elsewhere,0.0,Household Income Expenditure and Consumption Survey - HIECS05
+Egypt,EG,EGY,818,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Income Expenditure and Consumption Survey - HIECS05
+Egypt,EG,EGY,818,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Income Expenditure and Consumption Survey - HIECS05
+Egypt,EG,EGY,818,National,8,Dry latrines - Traditional latrine,0.0,Household Income Expenditure and Consumption Survey - HIECS05
+Egypt,EG,EGY,818,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Income Expenditure and Consumption Survey - HIECS05
+Egypt,EG,EGY,818,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Income Expenditure and Consumption Survey - HIECS05
+Egypt,EG,EGY,818,National,11,Dry latrines - Bucket latrine,0.0,Household Income Expenditure and Consumption Survey - HIECS05
+Egypt,EG,EGY,818,National,12,Dry latrines - Other,0.0,Household Income Expenditure and Consumption Survey - HIECS05
+Egypt,EG,EGY,818,National,13,Composting toilets,0.0,Household Income Expenditure and Consumption Survey - HIECS05
+Egypt,EG,EGY,818,National,14,Other improved,0.0,Household Income Expenditure and Consumption Survey - HIECS05
+Egypt,EG,EGY,818,National,15,"No facility, bush, field",0.018,Household Income Expenditure and Consumption Survey - HIECS05
+Egypt,EG,EGY,818,National,16,Other unimproved,0.0,Household Income Expenditure and Consumption Survey - HIECS05
+Egypt,EG,EGY,818,National,17,DK/missing information,0.0,Household Income Expenditure and Consumption Survey - HIECS05
+Egypt,EG,EGY,818,Urban,1,Flush and pour flush - to piped sewer system,0.712,Demographic and Health Survey - DHS05
+Egypt,EG,EGY,818,Urban,2,Flush and pour flush - to septic tank,0.015,Demographic and Health Survey - DHS05
+Egypt,EG,EGY,818,Urban,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS05
+Egypt,EG,EGY,818,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS05
+Egypt,EG,EGY,818,Urban,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS05
+Egypt,EG,EGY,818,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - DHS05
+Egypt,EG,EGY,818,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS05
+Egypt,EG,EGY,818,Urban,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS05
+Egypt,EG,EGY,818,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.001,Demographic and Health Survey - DHS05
+Egypt,EG,EGY,818,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS05
+Egypt,EG,EGY,818,Urban,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS05
+Egypt,EG,EGY,818,Urban,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS05
+Egypt,EG,EGY,818,Urban,13,Composting toilets,0.0,Demographic and Health Survey - DHS05
+Egypt,EG,EGY,818,Urban,14,Other improved,0.0,Demographic and Health Survey - DHS05
+Egypt,EG,EGY,818,Urban,15,"No facility, bush, field",0.001,Demographic and Health Survey - DHS05
+Egypt,EG,EGY,818,Urban,16,Other unimproved,0.0,Demographic and Health Survey - DHS05
+Egypt,EG,EGY,818,Urban,17,DK/missing information,0.001,Demographic and Health Survey - DHS05
+Egypt,EG,EGY,818,Rural,1,Flush and pour flush - to piped sewer system,0.171,Demographic and Health Survey - DHS05
+Egypt,EG,EGY,818,Rural,2,Flush and pour flush - to septic tank,0.023,Demographic and Health Survey - DHS05
+Egypt,EG,EGY,818,Rural,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS05
+Egypt,EG,EGY,818,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS05
+Egypt,EG,EGY,818,Rural,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS05
+Egypt,EG,EGY,818,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - DHS05
+Egypt,EG,EGY,818,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS05
+Egypt,EG,EGY,818,Rural,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS05
+Egypt,EG,EGY,818,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.018,Demographic and Health Survey - DHS05
+Egypt,EG,EGY,818,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS05
+Egypt,EG,EGY,818,Rural,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS05
+Egypt,EG,EGY,818,Rural,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS05
+Egypt,EG,EGY,818,Rural,13,Composting toilets,0.0,Demographic and Health Survey - DHS05
+Egypt,EG,EGY,818,Rural,14,Other improved,0.0,Demographic and Health Survey - DHS05
+Egypt,EG,EGY,818,Rural,15,"No facility, bush, field",0.002,Demographic and Health Survey - DHS05
+Egypt,EG,EGY,818,Rural,16,Other unimproved,0.0,Demographic and Health Survey - DHS05
+Egypt,EG,EGY,818,Rural,17,DK/missing information,0.02,Demographic and Health Survey - DHS05
+Egypt,EG,EGY,818,National,1,Flush and pour flush - to piped sewer system,0.43,Demographic and Health Survey - DHS05
+Egypt,EG,EGY,818,National,2,Flush and pour flush - to septic tank,0.019,Demographic and Health Survey - DHS05
+Egypt,EG,EGY,818,National,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS05
+Egypt,EG,EGY,818,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS05
+Egypt,EG,EGY,818,National,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS05
+Egypt,EG,EGY,818,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - DHS05
+Egypt,EG,EGY,818,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS05
+Egypt,EG,EGY,818,National,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS05
+Egypt,EG,EGY,818,National,9,Dry latrines - Pit latrine without slab/open pit,0.01,Demographic and Health Survey - DHS05
+Egypt,EG,EGY,818,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS05
+Egypt,EG,EGY,818,National,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS05
+Egypt,EG,EGY,818,National,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS05
+Egypt,EG,EGY,818,National,13,Composting toilets,0.0,Demographic and Health Survey - DHS05
+Egypt,EG,EGY,818,National,14,Other improved,0.0,Demographic and Health Survey - DHS05
+Egypt,EG,EGY,818,National,15,"No facility, bush, field",0.001,Demographic and Health Survey - DHS05
+Egypt,EG,EGY,818,National,16,Other unimproved,0.0,Demographic and Health Survey - DHS05
+Egypt,EG,EGY,818,National,17,DK/missing information,0.011,Demographic and Health Survey - DHS05
+Egypt,EG,EGY,818,Urban,1,Flush and pour flush - to piped sewer system,0.799,"Census of Population, Housing and Establishments - CEN06"
+Egypt,EG,EGY,818,Urban,2,Flush and pour flush - to septic tank,0.02,"Census of Population, Housing and Establishments - CEN06"
+Egypt,EG,EGY,818,Urban,3,Flush and pour flush - to pit,0.0,"Census of Population, Housing and Establishments - CEN06"
+Egypt,EG,EGY,818,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Census of Population, Housing and Establishments - CEN06"
+Egypt,EG,EGY,818,Urban,5,Flush and pour flush - to elsewhere,0.0,"Census of Population, Housing and Establishments - CEN06"
+Egypt,EG,EGY,818,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Census of Population, Housing and Establishments - CEN06"
+Egypt,EG,EGY,818,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Census of Population, Housing and Establishments - CEN06"
+Egypt,EG,EGY,818,Urban,8,Dry latrines - Traditional latrine,0.168,"Census of Population, Housing and Establishments - CEN06"
+Egypt,EG,EGY,818,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Census of Population, Housing and Establishments - CEN06"
+Egypt,EG,EGY,818,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Census of Population, Housing and Establishments - CEN06"
+Egypt,EG,EGY,818,Urban,11,Dry latrines - Bucket latrine,0.0,"Census of Population, Housing and Establishments - CEN06"
+Egypt,EG,EGY,818,Urban,12,Dry latrines - Other,0.0,"Census of Population, Housing and Establishments - CEN06"
+Egypt,EG,EGY,818,Urban,13,Composting toilets,0.0,"Census of Population, Housing and Establishments - CEN06"
+Egypt,EG,EGY,818,Urban,14,Other improved,0.0,"Census of Population, Housing and Establishments - CEN06"
+Egypt,EG,EGY,818,Urban,15,"No facility, bush, field",0.0,"Census of Population, Housing and Establishments - CEN06"
+Egypt,EG,EGY,818,Urban,16,Other unimproved,0.0,"Census of Population, Housing and Establishments - CEN06"
+Egypt,EG,EGY,818,Urban,17,DK/missing information,0.013,"Census of Population, Housing and Establishments - CEN06"
+Egypt,EG,EGY,818,Rural,1,Flush and pour flush - to piped sewer system,0.161,"Census of Population, Housing and Establishments - CEN06"
+Egypt,EG,EGY,818,Rural,2,Flush and pour flush - to septic tank,0.136,"Census of Population, Housing and Establishments - CEN06"
+Egypt,EG,EGY,818,Rural,3,Flush and pour flush - to pit,0.0,"Census of Population, Housing and Establishments - CEN06"
+Egypt,EG,EGY,818,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Census of Population, Housing and Establishments - CEN06"
+Egypt,EG,EGY,818,Rural,5,Flush and pour flush - to elsewhere,0.0,"Census of Population, Housing and Establishments - CEN06"
+Egypt,EG,EGY,818,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Census of Population, Housing and Establishments - CEN06"
+Egypt,EG,EGY,818,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Census of Population, Housing and Establishments - CEN06"
+Egypt,EG,EGY,818,Rural,8,Dry latrines - Traditional latrine,0.702,"Census of Population, Housing and Establishments - CEN06"
+Egypt,EG,EGY,818,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Census of Population, Housing and Establishments - CEN06"
+Egypt,EG,EGY,818,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Census of Population, Housing and Establishments - CEN06"
+Egypt,EG,EGY,818,Rural,11,Dry latrines - Bucket latrine,0.0,"Census of Population, Housing and Establishments - CEN06"
+Egypt,EG,EGY,818,Rural,12,Dry latrines - Other,0.0,"Census of Population, Housing and Establishments - CEN06"
+Egypt,EG,EGY,818,Rural,13,Composting toilets,0.0,"Census of Population, Housing and Establishments - CEN06"
+Egypt,EG,EGY,818,Rural,14,Other improved,0.0,"Census of Population, Housing and Establishments - CEN06"
+Egypt,EG,EGY,818,Rural,15,"No facility, bush, field",0.0,"Census of Population, Housing and Establishments - CEN06"
+Egypt,EG,EGY,818,Rural,16,Other unimproved,0.0,"Census of Population, Housing and Establishments - CEN06"
+Egypt,EG,EGY,818,Rural,17,DK/missing information,0.001,"Census of Population, Housing and Establishments - CEN06"
+Egypt,EG,EGY,818,National,1,Flush and pour flush - to piped sewer system,0.0,"Census of Population, Housing and Establishments - CEN06"
+Egypt,EG,EGY,818,National,2,Flush and pour flush - to septic tank,0.0,"Census of Population, Housing and Establishments - CEN06"
+Egypt,EG,EGY,818,National,3,Flush and pour flush - to pit,0.0,"Census of Population, Housing and Establishments - CEN06"
+Egypt,EG,EGY,818,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Census of Population, Housing and Establishments - CEN06"
+Egypt,EG,EGY,818,National,5,Flush and pour flush - to elsewhere,0.0,"Census of Population, Housing and Establishments - CEN06"
+Egypt,EG,EGY,818,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Census of Population, Housing and Establishments - CEN06"
+Egypt,EG,EGY,818,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Census of Population, Housing and Establishments - CEN06"
+Egypt,EG,EGY,818,National,8,Dry latrines - Traditional latrine,0.0,"Census of Population, Housing and Establishments - CEN06"
+Egypt,EG,EGY,818,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Census of Population, Housing and Establishments - CEN06"
+Egypt,EG,EGY,818,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Census of Population, Housing and Establishments - CEN06"
+Egypt,EG,EGY,818,National,11,Dry latrines - Bucket latrine,0.0,"Census of Population, Housing and Establishments - CEN06"
+Egypt,EG,EGY,818,National,12,Dry latrines - Other,0.0,"Census of Population, Housing and Establishments - CEN06"
+Egypt,EG,EGY,818,National,13,Composting toilets,0.0,"Census of Population, Housing and Establishments - CEN06"
+Egypt,EG,EGY,818,National,14,Other improved,0.0,"Census of Population, Housing and Establishments - CEN06"
+Egypt,EG,EGY,818,National,15,"No facility, bush, field",0.0,"Census of Population, Housing and Establishments - CEN06"
+Egypt,EG,EGY,818,National,16,Other unimproved,0.0,"Census of Population, Housing and Establishments - CEN06"
+Egypt,EG,EGY,818,National,17,DK/missing information,0.0,"Census of Population, Housing and Establishments - CEN06"
 Egypt,EG,EGY,818,Urban,1,Flush and pour flush - to piped sewer system,0.874,Eqypt Labor Market Panel Survey - ELMPS06
 Egypt,EG,EGY,818,Urban,2,Flush and pour flush - to septic tank,0.124,Eqypt Labor Market Panel Survey - ELMPS06
 Egypt,EG,EGY,818,Urban,3,Flush and pour flush - to pit,0.0,Eqypt Labor Market Panel Survey - ELMPS06
@@ -67,6 +342,77 @@ Egypt,EG,EGY,818,Rural,14,Other improved,0.0,Eqypt Labor Market Panel Survey - E
 Egypt,EG,EGY,818,Rural,15,"No facility, bush, field",0.007,Eqypt Labor Market Panel Survey - ELMPS06
 Egypt,EG,EGY,818,Rural,16,Other unimproved,0.0,Eqypt Labor Market Panel Survey - ELMPS06
 Egypt,EG,EGY,818,Rural,17,DK/missing information,0.0,Eqypt Labor Market Panel Survey - ELMPS06
+Egypt,EG,EGY,818,National,1,Flush and pour flush - to piped sewer system,0.551,Eqypt Labor Market Panel Survey - ELMPS06
+Egypt,EG,EGY,818,National,2,Flush and pour flush - to septic tank,0.444,Eqypt Labor Market Panel Survey - ELMPS06
+Egypt,EG,EGY,818,National,3,Flush and pour flush - to pit,0.0,Eqypt Labor Market Panel Survey - ELMPS06
+Egypt,EG,EGY,818,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eqypt Labor Market Panel Survey - ELMPS06
+Egypt,EG,EGY,818,National,5,Flush and pour flush - to elsewhere,0.0,Eqypt Labor Market Panel Survey - ELMPS06
+Egypt,EG,EGY,818,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eqypt Labor Market Panel Survey - ELMPS06
+Egypt,EG,EGY,818,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eqypt Labor Market Panel Survey - ELMPS06
+Egypt,EG,EGY,818,National,8,Dry latrines - Traditional latrine,0.0,Eqypt Labor Market Panel Survey - ELMPS06
+Egypt,EG,EGY,818,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eqypt Labor Market Panel Survey - ELMPS06
+Egypt,EG,EGY,818,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eqypt Labor Market Panel Survey - ELMPS06
+Egypt,EG,EGY,818,National,11,Dry latrines - Bucket latrine,0.0,Eqypt Labor Market Panel Survey - ELMPS06
+Egypt,EG,EGY,818,National,12,Dry latrines - Other,0.0,Eqypt Labor Market Panel Survey - ELMPS06
+Egypt,EG,EGY,818,National,13,Composting toilets,0.0,Eqypt Labor Market Panel Survey - ELMPS06
+Egypt,EG,EGY,818,National,14,Other improved,0.0,Eqypt Labor Market Panel Survey - ELMPS06
+Egypt,EG,EGY,818,National,15,"No facility, bush, field",0.005,Eqypt Labor Market Panel Survey - ELMPS06
+Egypt,EG,EGY,818,National,16,Other unimproved,0.0,Eqypt Labor Market Panel Survey - ELMPS06
+Egypt,EG,EGY,818,National,17,DK/missing information,0.0,Eqypt Labor Market Panel Survey - ELMPS06
+Egypt,EG,EGY,818,Urban,1,Flush and pour flush - to piped sewer system,0.744,Demographic and Health Survey - DHS08
+Egypt,EG,EGY,818,Urban,2,Flush and pour flush - to septic tank,0.013,Demographic and Health Survey - DHS08
+Egypt,EG,EGY,818,Urban,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS08
+Egypt,EG,EGY,818,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS08
+Egypt,EG,EGY,818,Urban,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS08
+Egypt,EG,EGY,818,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.001,Demographic and Health Survey - DHS08
+Egypt,EG,EGY,818,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS08
+Egypt,EG,EGY,818,Urban,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS08
+Egypt,EG,EGY,818,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Survey - DHS08
+Egypt,EG,EGY,818,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS08
+Egypt,EG,EGY,818,Urban,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS08
+Egypt,EG,EGY,818,Urban,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS08
+Egypt,EG,EGY,818,Urban,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS08
+Egypt,EG,EGY,818,Urban,13,Composting toilets,0.0,Demographic and Health Survey - DHS08
+Egypt,EG,EGY,818,Urban,14,Other improved,0.0,Demographic and Health Survey - DHS08
+Egypt,EG,EGY,818,Urban,15,"No facility, bush, field",0.001,Demographic and Health Survey - DHS08
+Egypt,EG,EGY,818,Urban,16,Other unimproved,0.0,Demographic and Health Survey - DHS08
+Egypt,EG,EGY,818,Urban,17,DK/missing information,0.0,Demographic and Health Survey - DHS08
+Egypt,EG,EGY,818,Rural,1,Flush and pour flush - to piped sewer system,0.183,Demographic and Health Survey - DHS08
+Egypt,EG,EGY,818,Rural,2,Flush and pour flush - to septic tank,0.029,Demographic and Health Survey - DHS08
+Egypt,EG,EGY,818,Rural,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS08
+Egypt,EG,EGY,818,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS08
+Egypt,EG,EGY,818,Rural,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS08
+Egypt,EG,EGY,818,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.004,Demographic and Health Survey - DHS08
+Egypt,EG,EGY,818,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS08
+Egypt,EG,EGY,818,Rural,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS08
+Egypt,EG,EGY,818,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Survey - DHS08
+Egypt,EG,EGY,818,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS08
+Egypt,EG,EGY,818,Rural,11,Dry latrines - Bucket latrine,0.001,Demographic and Health Survey - DHS08
+Egypt,EG,EGY,818,Rural,11,Dry latrines - Bucket latrine,0.001,Demographic and Health Survey - DHS08
+Egypt,EG,EGY,818,Rural,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS08
+Egypt,EG,EGY,818,Rural,13,Composting toilets,0.0,Demographic and Health Survey - DHS08
+Egypt,EG,EGY,818,Rural,14,Other improved,0.0,Demographic and Health Survey - DHS08
+Egypt,EG,EGY,818,Rural,15,"No facility, bush, field",0.006,Demographic and Health Survey - DHS08
+Egypt,EG,EGY,818,Rural,16,Other unimproved,0.0,Demographic and Health Survey - DHS08
+Egypt,EG,EGY,818,Rural,17,DK/missing information,0.0,Demographic and Health Survey - DHS08
+Egypt,EG,EGY,818,National,1,Flush and pour flush - to piped sewer system,0.422,Demographic and Health Survey - DHS08
+Egypt,EG,EGY,818,National,2,Flush and pour flush - to septic tank,0.023,Demographic and Health Survey - DHS08
+Egypt,EG,EGY,818,National,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS08
+Egypt,EG,EGY,818,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS08
+Egypt,EG,EGY,818,National,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS08
+Egypt,EG,EGY,818,National,6,Dry latrines - Ventilated Improved Pit latrine,0.003,Demographic and Health Survey - DHS08
+Egypt,EG,EGY,818,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS08
+Egypt,EG,EGY,818,National,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS08
+Egypt,EG,EGY,818,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Survey - DHS08
+Egypt,EG,EGY,818,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS08
+Egypt,EG,EGY,818,National,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS08
+Egypt,EG,EGY,818,National,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS08
+Egypt,EG,EGY,818,National,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS08
+Egypt,EG,EGY,818,National,13,Composting toilets,0.0,Demographic and Health Survey - DHS08
+Egypt,EG,EGY,818,National,14,Other improved,0.0,Demographic and Health Survey - DHS08
+Egypt,EG,EGY,818,National,15,"No facility, bush, field",0.004,Demographic and Health Survey - DHS08
+Egypt,EG,EGY,818,National,16,Other unimproved,0.0,Demographic and Health Survey - DHS08
+Egypt,EG,EGY,818,National,17,DK/missing information,0.0,Demographic and Health Survey - DHS08
 Egypt,EG,EGY,818,Urban,1,Flush and pour flush - to piped sewer system,0.725,Household Income Expenditure and Consumption Survey - HIECS09
 Egypt,EG,EGY,818,Urban,2,Flush and pour flush - to septic tank,0.238,Household Income Expenditure and Consumption Survey - HIECS09
 Egypt,EG,EGY,818,Urban,3,Flush and pour flush - to pit,0.0,Household Income Expenditure and Consumption Survey - HIECS09
@@ -101,6 +447,23 @@ Egypt,EG,EGY,818,Rural,14,Other improved,0.0,Household Income Expenditure and Co
 Egypt,EG,EGY,818,Rural,15,"No facility, bush, field",0.006,Household Income Expenditure and Consumption Survey - HIECS09
 Egypt,EG,EGY,818,Rural,16,Other unimproved,0.0,Household Income Expenditure and Consumption Survey - HIECS09
 Egypt,EG,EGY,818,Rural,17,DK/missing information,0.0,Household Income Expenditure and Consumption Survey - HIECS09
+Egypt,EG,EGY,818,National,1,Flush and pour flush - to piped sewer system,0.421,Household Income Expenditure and Consumption Survey - HIECS09
+Egypt,EG,EGY,818,National,2,Flush and pour flush - to septic tank,0.516,Household Income Expenditure and Consumption Survey - HIECS09
+Egypt,EG,EGY,818,National,3,Flush and pour flush - to pit,0.0,Household Income Expenditure and Consumption Survey - HIECS09
+Egypt,EG,EGY,818,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.053,Household Income Expenditure and Consumption Survey - HIECS09
+Egypt,EG,EGY,818,National,5,Flush and pour flush - to elsewhere,0.0,Household Income Expenditure and Consumption Survey - HIECS09
+Egypt,EG,EGY,818,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Income Expenditure and Consumption Survey - HIECS09
+Egypt,EG,EGY,818,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Income Expenditure and Consumption Survey - HIECS09
+Egypt,EG,EGY,818,National,8,Dry latrines - Traditional latrine,0.0,Household Income Expenditure and Consumption Survey - HIECS09
+Egypt,EG,EGY,818,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Income Expenditure and Consumption Survey - HIECS09
+Egypt,EG,EGY,818,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Income Expenditure and Consumption Survey - HIECS09
+Egypt,EG,EGY,818,National,11,Dry latrines - Bucket latrine,0.0,Household Income Expenditure and Consumption Survey - HIECS09
+Egypt,EG,EGY,818,National,12,Dry latrines - Other,0.0,Household Income Expenditure and Consumption Survey - HIECS09
+Egypt,EG,EGY,818,National,13,Composting toilets,0.0,Household Income Expenditure and Consumption Survey - HIECS09
+Egypt,EG,EGY,818,National,14,Other improved,0.0,Household Income Expenditure and Consumption Survey - HIECS09
+Egypt,EG,EGY,818,National,15,"No facility, bush, field",0.01,Household Income Expenditure and Consumption Survey - HIECS09
+Egypt,EG,EGY,818,National,16,Other unimproved,0.0,Household Income Expenditure and Consumption Survey - HIECS09
+Egypt,EG,EGY,818,National,17,DK/missing information,0.0,Household Income Expenditure and Consumption Survey - HIECS09
 Egypt,EG,EGY,818,Urban,1,Flush and pour flush - to piped sewer system,0.794,"Income, Expenditure and Consumption Survey 2010-2011 - HIECS11"
 Egypt,EG,EGY,818,Urban,2,Flush and pour flush - to septic tank,0.199,"Income, Expenditure and Consumption Survey 2010-2011 - HIECS11"
 Egypt,EG,EGY,818,Urban,3,Flush and pour flush - to pit,0.0,"Income, Expenditure and Consumption Survey 2010-2011 - HIECS11"
@@ -135,6 +498,23 @@ Egypt,EG,EGY,818,Rural,14,Other improved,0.0,"Income, Expenditure and Consumptio
 Egypt,EG,EGY,818,Rural,15,"No facility, bush, field",0.01,"Income, Expenditure and Consumption Survey 2010-2011 - HIECS11"
 Egypt,EG,EGY,818,Rural,16,Other unimproved,0.0,"Income, Expenditure and Consumption Survey 2010-2011 - HIECS11"
 Egypt,EG,EGY,818,Rural,17,DK/missing information,0.0,"Income, Expenditure and Consumption Survey 2010-2011 - HIECS11"
+Egypt,EG,EGY,818,National,1,Flush and pour flush - to piped sewer system,0.522,"Income, Expenditure and Consumption Survey 2010-2011 - HIECS11"
+Egypt,EG,EGY,818,National,2,Flush and pour flush - to septic tank,0.469,"Income, Expenditure and Consumption Survey 2010-2011 - HIECS11"
+Egypt,EG,EGY,818,National,3,Flush and pour flush - to pit,0.0,"Income, Expenditure and Consumption Survey 2010-2011 - HIECS11"
+Egypt,EG,EGY,818,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Income, Expenditure and Consumption Survey 2010-2011 - HIECS11"
+Egypt,EG,EGY,818,National,5,Flush and pour flush - to elsewhere,0.0,"Income, Expenditure and Consumption Survey 2010-2011 - HIECS11"
+Egypt,EG,EGY,818,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Income, Expenditure and Consumption Survey 2010-2011 - HIECS11"
+Egypt,EG,EGY,818,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Income, Expenditure and Consumption Survey 2010-2011 - HIECS11"
+Egypt,EG,EGY,818,National,8,Dry latrines - Traditional latrine,0.0,"Income, Expenditure and Consumption Survey 2010-2011 - HIECS11"
+Egypt,EG,EGY,818,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Income, Expenditure and Consumption Survey 2010-2011 - HIECS11"
+Egypt,EG,EGY,818,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Income, Expenditure and Consumption Survey 2010-2011 - HIECS11"
+Egypt,EG,EGY,818,National,11,Dry latrines - Bucket latrine,0.0,"Income, Expenditure and Consumption Survey 2010-2011 - HIECS11"
+Egypt,EG,EGY,818,National,12,Dry latrines - Other,0.0,"Income, Expenditure and Consumption Survey 2010-2011 - HIECS11"
+Egypt,EG,EGY,818,National,13,Composting toilets,0.0,"Income, Expenditure and Consumption Survey 2010-2011 - HIECS11"
+Egypt,EG,EGY,818,National,14,Other improved,0.0,"Income, Expenditure and Consumption Survey 2010-2011 - HIECS11"
+Egypt,EG,EGY,818,National,15,"No facility, bush, field",0.009,"Income, Expenditure and Consumption Survey 2010-2011 - HIECS11"
+Egypt,EG,EGY,818,National,16,Other unimproved,0.0,"Income, Expenditure and Consumption Survey 2010-2011 - HIECS11"
+Egypt,EG,EGY,818,National,17,DK/missing information,0.0,"Income, Expenditure and Consumption Survey 2010-2011 - HIECS11"
 Egypt,EG,EGY,818,Urban,1,Flush and pour flush - to piped sewer system,0.899,Eqypt Labor Market Panel Survey - ELMPS12
 Egypt,EG,EGY,818,Urban,2,Flush and pour flush - to septic tank,0.1,Eqypt Labor Market Panel Survey - ELMPS12
 Egypt,EG,EGY,818,Urban,3,Flush and pour flush - to pit,0.0,Eqypt Labor Market Panel Survey - ELMPS12
@@ -169,6 +549,23 @@ Egypt,EG,EGY,818,Rural,14,Other improved,0.002,Eqypt Labor Market Panel Survey -
 Egypt,EG,EGY,818,Rural,15,"No facility, bush, field",0.003,Eqypt Labor Market Panel Survey - ELMPS12
 Egypt,EG,EGY,818,Rural,16,Other unimproved,0.0,Eqypt Labor Market Panel Survey - ELMPS12
 Egypt,EG,EGY,818,Rural,17,DK/missing information,0.0,Eqypt Labor Market Panel Survey - ELMPS12
+Egypt,EG,EGY,818,National,1,Flush and pour flush - to piped sewer system,0.641,Eqypt Labor Market Panel Survey - ELMPS12
+Egypt,EG,EGY,818,National,2,Flush and pour flush - to septic tank,0.356,Eqypt Labor Market Panel Survey - ELMPS12
+Egypt,EG,EGY,818,National,3,Flush and pour flush - to pit,0.0,Eqypt Labor Market Panel Survey - ELMPS12
+Egypt,EG,EGY,818,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eqypt Labor Market Panel Survey - ELMPS12
+Egypt,EG,EGY,818,National,5,Flush and pour flush - to elsewhere,0.0,Eqypt Labor Market Panel Survey - ELMPS12
+Egypt,EG,EGY,818,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eqypt Labor Market Panel Survey - ELMPS12
+Egypt,EG,EGY,818,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eqypt Labor Market Panel Survey - ELMPS12
+Egypt,EG,EGY,818,National,8,Dry latrines - Traditional latrine,0.0,Eqypt Labor Market Panel Survey - ELMPS12
+Egypt,EG,EGY,818,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eqypt Labor Market Panel Survey - ELMPS12
+Egypt,EG,EGY,818,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eqypt Labor Market Panel Survey - ELMPS12
+Egypt,EG,EGY,818,National,11,Dry latrines - Bucket latrine,0.0,Eqypt Labor Market Panel Survey - ELMPS12
+Egypt,EG,EGY,818,National,12,Dry latrines - Other,0.0,Eqypt Labor Market Panel Survey - ELMPS12
+Egypt,EG,EGY,818,National,13,Composting toilets,0.0,Eqypt Labor Market Panel Survey - ELMPS12
+Egypt,EG,EGY,818,National,14,Other improved,0.001,Eqypt Labor Market Panel Survey - ELMPS12
+Egypt,EG,EGY,818,National,15,"No facility, bush, field",0.002,Eqypt Labor Market Panel Survey - ELMPS12
+Egypt,EG,EGY,818,National,16,Other unimproved,0.0,Eqypt Labor Market Panel Survey - ELMPS12
+Egypt,EG,EGY,818,National,17,DK/missing information,0.0,Eqypt Labor Market Panel Survey - ELMPS12
 Egypt,EG,EGY,818,Urban,1,Flush and pour flush - to piped sewer system,0.924,"Income, Expenditure and Consumption Survey, 2012-2013 - HIEC13"
 Egypt,EG,EGY,818,Urban,2,Flush and pour flush - to septic tank,0.052,"Income, Expenditure and Consumption Survey, 2012-2013 - HIEC13"
 Egypt,EG,EGY,818,Urban,3,Flush and pour flush - to pit,0.0,"Income, Expenditure and Consumption Survey, 2012-2013 - HIEC13"
@@ -203,6 +600,23 @@ Egypt,EG,EGY,818,Rural,14,Other improved,0.144,"Income, Expenditure and Consumpt
 Egypt,EG,EGY,818,Rural,15,"No facility, bush, field",0.005,"Income, Expenditure and Consumption Survey, 2012-2013 - HIEC13"
 Egypt,EG,EGY,818,Rural,16,Other unimproved,0.0,"Income, Expenditure and Consumption Survey, 2012-2013 - HIEC13"
 Egypt,EG,EGY,818,Rural,17,DK/missing information,0.01,"Income, Expenditure and Consumption Survey, 2012-2013 - HIEC13"
+Egypt,EG,EGY,818,National,1,Flush and pour flush - to piped sewer system,0.647,"Income, Expenditure and Consumption Survey, 2012-2013 - HIEC13"
+Egypt,EG,EGY,818,National,2,Flush and pour flush - to septic tank,0.255,"Income, Expenditure and Consumption Survey, 2012-2013 - HIEC13"
+Egypt,EG,EGY,818,National,3,Flush and pour flush - to pit,0.0,"Income, Expenditure and Consumption Survey, 2012-2013 - HIEC13"
+Egypt,EG,EGY,818,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Income, Expenditure and Consumption Survey, 2012-2013 - HIEC13"
+Egypt,EG,EGY,818,National,5,Flush and pour flush - to elsewhere,0.0,"Income, Expenditure and Consumption Survey, 2012-2013 - HIEC13"
+Egypt,EG,EGY,818,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Income, Expenditure and Consumption Survey, 2012-2013 - HIEC13"
+Egypt,EG,EGY,818,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Income, Expenditure and Consumption Survey, 2012-2013 - HIEC13"
+Egypt,EG,EGY,818,National,8,Dry latrines - Traditional latrine,0.0,"Income, Expenditure and Consumption Survey, 2012-2013 - HIEC13"
+Egypt,EG,EGY,818,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Income, Expenditure and Consumption Survey, 2012-2013 - HIEC13"
+Egypt,EG,EGY,818,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Income, Expenditure and Consumption Survey, 2012-2013 - HIEC13"
+Egypt,EG,EGY,818,National,11,Dry latrines - Bucket latrine,0.0,"Income, Expenditure and Consumption Survey, 2012-2013 - HIEC13"
+Egypt,EG,EGY,818,National,12,Dry latrines - Other,0.0,"Income, Expenditure and Consumption Survey, 2012-2013 - HIEC13"
+Egypt,EG,EGY,818,National,13,Composting toilets,0.0,"Income, Expenditure and Consumption Survey, 2012-2013 - HIEC13"
+Egypt,EG,EGY,818,National,14,Other improved,0.089,"Income, Expenditure and Consumption Survey, 2012-2013 - HIEC13"
+Egypt,EG,EGY,818,National,15,"No facility, bush, field",0.003,"Income, Expenditure and Consumption Survey, 2012-2013 - HIEC13"
+Egypt,EG,EGY,818,National,16,Other unimproved,0.0,"Income, Expenditure and Consumption Survey, 2012-2013 - HIEC13"
+Egypt,EG,EGY,818,National,17,DK/missing information,0.006,"Income, Expenditure and Consumption Survey, 2012-2013 - HIEC13"
 Egypt,EG,EGY,818,Urban,1,Flush and pour flush - to piped sewer system,0.917,"Demographic and Health Survey, 2014 - DHS14"
 Egypt,EG,EGY,818,Urban,2,Flush and pour flush - to septic tank,0.082,"Demographic and Health Survey, 2014 - DHS14"
 Egypt,EG,EGY,818,Urban,3,Flush and pour flush - to pit,0.0,"Demographic and Health Survey, 2014 - DHS14"
@@ -237,3 +651,173 @@ Egypt,EG,EGY,818,Rural,14,Other improved,0.0,"Demographic and Health Survey, 201
 Egypt,EG,EGY,818,Rural,15,"No facility, bush, field",0.001,"Demographic and Health Survey, 2014 - DHS14"
 Egypt,EG,EGY,818,Rural,16,Other unimproved,0.118,"Demographic and Health Survey, 2014 - DHS14"
 Egypt,EG,EGY,818,Rural,17,DK/missing information,0.0,"Demographic and Health Survey, 2014 - DHS14"
+Egypt,EG,EGY,818,National,1,Flush and pour flush - to piped sewer system,0.561,"Demographic and Health Survey, 2014 - DHS14"
+Egypt,EG,EGY,818,National,2,Flush and pour flush - to septic tank,0.362,"Demographic and Health Survey, 2014 - DHS14"
+Egypt,EG,EGY,818,National,3,Flush and pour flush - to pit,0.0,"Demographic and Health Survey, 2014 - DHS14"
+Egypt,EG,EGY,818,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Demographic and Health Survey, 2014 - DHS14"
+Egypt,EG,EGY,818,National,5,Flush and pour flush - to elsewhere,0.001,"Demographic and Health Survey, 2014 - DHS14"
+Egypt,EG,EGY,818,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Demographic and Health Survey, 2014 - DHS14"
+Egypt,EG,EGY,818,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Demographic and Health Survey, 2014 - DHS14"
+Egypt,EG,EGY,818,National,8,Dry latrines - Traditional latrine,0.0,"Demographic and Health Survey, 2014 - DHS14"
+Egypt,EG,EGY,818,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Demographic and Health Survey, 2014 - DHS14"
+Egypt,EG,EGY,818,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Demographic and Health Survey, 2014 - DHS14"
+Egypt,EG,EGY,818,National,11,Dry latrines - Bucket latrine,0.0,"Demographic and Health Survey, 2014 - DHS14"
+Egypt,EG,EGY,818,National,12,Dry latrines - Other,0.0,"Demographic and Health Survey, 2014 - DHS14"
+Egypt,EG,EGY,818,National,13,Composting toilets,0.0,"Demographic and Health Survey, 2014 - DHS14"
+Egypt,EG,EGY,818,National,14,Other improved,0.0,"Demographic and Health Survey, 2014 - DHS14"
+Egypt,EG,EGY,818,National,15,"No facility, bush, field",0.001,"Demographic and Health Survey, 2014 - DHS14"
+Egypt,EG,EGY,818,National,16,Other unimproved,0.074,"Demographic and Health Survey, 2014 - DHS14"
+Egypt,EG,EGY,818,National,17,DK/missing information,0.0,"Demographic and Health Survey, 2014 - DHS14"
+Egypt,EG,EGY,818,Urban,1,Flush and pour flush - to piped sewer system,0.907,Household Income Expenditure and Consumption Survey - HIECS15
+Egypt,EG,EGY,818,Urban,2,Flush and pour flush - to septic tank,0.089,Household Income Expenditure and Consumption Survey - HIECS15
+Egypt,EG,EGY,818,Urban,3,Flush and pour flush - to pit,0.0,Household Income Expenditure and Consumption Survey - HIECS15
+Egypt,EG,EGY,818,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.004,Household Income Expenditure and Consumption Survey - HIECS15
+Egypt,EG,EGY,818,Urban,5,Flush and pour flush - to elsewhere,0.0,Household Income Expenditure and Consumption Survey - HIECS15
+Egypt,EG,EGY,818,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Income Expenditure and Consumption Survey - HIECS15
+Egypt,EG,EGY,818,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Income Expenditure and Consumption Survey - HIECS15
+Egypt,EG,EGY,818,Urban,8,Dry latrines - Traditional latrine,0.0,Household Income Expenditure and Consumption Survey - HIECS15
+Egypt,EG,EGY,818,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Income Expenditure and Consumption Survey - HIECS15
+Egypt,EG,EGY,818,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Income Expenditure and Consumption Survey - HIECS15
+Egypt,EG,EGY,818,Urban,11,Dry latrines - Bucket latrine,0.0,Household Income Expenditure and Consumption Survey - HIECS15
+Egypt,EG,EGY,818,Urban,12,Dry latrines - Other,0.0,Household Income Expenditure and Consumption Survey - HIECS15
+Egypt,EG,EGY,818,Urban,13,Composting toilets,0.0,Household Income Expenditure and Consumption Survey - HIECS15
+Egypt,EG,EGY,818,Urban,14,Other improved,0.0,Household Income Expenditure and Consumption Survey - HIECS15
+Egypt,EG,EGY,818,Urban,15,"No facility, bush, field",0.0,Household Income Expenditure and Consumption Survey - HIECS15
+Egypt,EG,EGY,818,Urban,16,Other unimproved,0.0,Household Income Expenditure and Consumption Survey - HIECS15
+Egypt,EG,EGY,818,Urban,17,DK/missing information,0.0,Household Income Expenditure and Consumption Survey - HIECS15
+Egypt,EG,EGY,818,Rural,1,Flush and pour flush - to piped sewer system,0.44,Household Income Expenditure and Consumption Survey - HIECS15
+Egypt,EG,EGY,818,Rural,2,Flush and pour flush - to septic tank,0.514,Household Income Expenditure and Consumption Survey - HIECS15
+Egypt,EG,EGY,818,Rural,3,Flush and pour flush - to pit,0.0,Household Income Expenditure and Consumption Survey - HIECS15
+Egypt,EG,EGY,818,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.043,Household Income Expenditure and Consumption Survey - HIECS15
+Egypt,EG,EGY,818,Rural,5,Flush and pour flush - to elsewhere,0.002,Household Income Expenditure and Consumption Survey - HIECS15
+Egypt,EG,EGY,818,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Income Expenditure and Consumption Survey - HIECS15
+Egypt,EG,EGY,818,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Income Expenditure and Consumption Survey - HIECS15
+Egypt,EG,EGY,818,Rural,8,Dry latrines - Traditional latrine,0.0,Household Income Expenditure and Consumption Survey - HIECS15
+Egypt,EG,EGY,818,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Income Expenditure and Consumption Survey - HIECS15
+Egypt,EG,EGY,818,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Income Expenditure and Consumption Survey - HIECS15
+Egypt,EG,EGY,818,Rural,11,Dry latrines - Bucket latrine,0.0,Household Income Expenditure and Consumption Survey - HIECS15
+Egypt,EG,EGY,818,Rural,12,Dry latrines - Other,0.0,Household Income Expenditure and Consumption Survey - HIECS15
+Egypt,EG,EGY,818,Rural,13,Composting toilets,0.0,Household Income Expenditure and Consumption Survey - HIECS15
+Egypt,EG,EGY,818,Rural,14,Other improved,0.0,Household Income Expenditure and Consumption Survey - HIECS15
+Egypt,EG,EGY,818,Rural,15,"No facility, bush, field",0.002,Household Income Expenditure and Consumption Survey - HIECS15
+Egypt,EG,EGY,818,Rural,16,Other unimproved,0.002,Household Income Expenditure and Consumption Survey - HIECS15
+Egypt,EG,EGY,818,Rural,17,DK/missing information,0.0,Household Income Expenditure and Consumption Survey - HIECS15
+Egypt,EG,EGY,818,National,1,Flush and pour flush - to piped sewer system,0.641,Household Income Expenditure and Consumption Survey - HIECS15
+Egypt,EG,EGY,818,National,2,Flush and pour flush - to septic tank,0.33,Household Income Expenditure and Consumption Survey - HIECS15
+Egypt,EG,EGY,818,National,3,Flush and pour flush - to pit,0.0,Household Income Expenditure and Consumption Survey - HIECS15
+Egypt,EG,EGY,818,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.026,Household Income Expenditure and Consumption Survey - HIECS15
+Egypt,EG,EGY,818,National,5,Flush and pour flush - to elsewhere,0.001,Household Income Expenditure and Consumption Survey - HIECS15
+Egypt,EG,EGY,818,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Income Expenditure and Consumption Survey - HIECS15
+Egypt,EG,EGY,818,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Income Expenditure and Consumption Survey - HIECS15
+Egypt,EG,EGY,818,National,8,Dry latrines - Traditional latrine,0.0,Household Income Expenditure and Consumption Survey - HIECS15
+Egypt,EG,EGY,818,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Income Expenditure and Consumption Survey - HIECS15
+Egypt,EG,EGY,818,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Income Expenditure and Consumption Survey - HIECS15
+Egypt,EG,EGY,818,National,11,Dry latrines - Bucket latrine,0.0,Household Income Expenditure and Consumption Survey - HIECS15
+Egypt,EG,EGY,818,National,12,Dry latrines - Other,0.0,Household Income Expenditure and Consumption Survey - HIECS15
+Egypt,EG,EGY,818,National,13,Composting toilets,0.0,Household Income Expenditure and Consumption Survey - HIECS15
+Egypt,EG,EGY,818,National,14,Other improved,0.0,Household Income Expenditure and Consumption Survey - HIECS15
+Egypt,EG,EGY,818,National,15,"No facility, bush, field",0.001,Household Income Expenditure and Consumption Survey - HIECS15
+Egypt,EG,EGY,818,National,16,Other unimproved,0.001,Household Income Expenditure and Consumption Survey - HIECS15
+Egypt,EG,EGY,818,National,17,DK/missing information,0.0,Household Income Expenditure and Consumption Survey - HIECS15
+Egypt,EG,EGY,818,Urban,1,Flush and pour flush - to piped sewer system,0.937,"Demographic and Health Survey (special), 2015  - DHS15"
+Egypt,EG,EGY,818,Urban,2,Flush and pour flush - to septic tank,0.062,"Demographic and Health Survey (special), 2015  - DHS15"
+Egypt,EG,EGY,818,Urban,3,Flush and pour flush - to pit,0.0,"Demographic and Health Survey (special), 2015  - DHS15"
+Egypt,EG,EGY,818,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Demographic and Health Survey (special), 2015  - DHS15"
+Egypt,EG,EGY,818,Urban,5,Flush and pour flush - to elsewhere,0.0,"Demographic and Health Survey (special), 2015  - DHS15"
+Egypt,EG,EGY,818,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Demographic and Health Survey (special), 2015  - DHS15"
+Egypt,EG,EGY,818,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Demographic and Health Survey (special), 2015  - DHS15"
+Egypt,EG,EGY,818,Urban,8,Dry latrines - Traditional latrine,0.0,"Demographic and Health Survey (special), 2015  - DHS15"
+Egypt,EG,EGY,818,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Demographic and Health Survey (special), 2015  - DHS15"
+Egypt,EG,EGY,818,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Demographic and Health Survey (special), 2015  - DHS15"
+Egypt,EG,EGY,818,Urban,11,Dry latrines - Bucket latrine,0.0,"Demographic and Health Survey (special), 2015  - DHS15"
+Egypt,EG,EGY,818,Urban,12,Dry latrines - Other,0.0,"Demographic and Health Survey (special), 2015  - DHS15"
+Egypt,EG,EGY,818,Urban,13,Composting toilets,0.0,"Demographic and Health Survey (special), 2015  - DHS15"
+Egypt,EG,EGY,818,Urban,14,Other improved,0.0,"Demographic and Health Survey (special), 2015  - DHS15"
+Egypt,EG,EGY,818,Urban,15,"No facility, bush, field",0.0,"Demographic and Health Survey (special), 2015  - DHS15"
+Egypt,EG,EGY,818,Urban,16,Other unimproved,0.001,"Demographic and Health Survey (special), 2015  - DHS15"
+Egypt,EG,EGY,818,Urban,17,DK/missing information,0.0,"Demographic and Health Survey (special), 2015  - DHS15"
+Egypt,EG,EGY,818,Rural,1,Flush and pour flush - to piped sewer system,0.347,"Demographic and Health Survey (special), 2015  - DHS15"
+Egypt,EG,EGY,818,Rural,2,Flush and pour flush - to septic tank,0.583,"Demographic and Health Survey (special), 2015  - DHS15"
+Egypt,EG,EGY,818,Rural,3,Flush and pour flush - to pit,0.0,"Demographic and Health Survey (special), 2015  - DHS15"
+Egypt,EG,EGY,818,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Demographic and Health Survey (special), 2015  - DHS15"
+Egypt,EG,EGY,818,Rural,5,Flush and pour flush - to elsewhere,0.0,"Demographic and Health Survey (special), 2015  - DHS15"
+Egypt,EG,EGY,818,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Demographic and Health Survey (special), 2015  - DHS15"
+Egypt,EG,EGY,818,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Demographic and Health Survey (special), 2015  - DHS15"
+Egypt,EG,EGY,818,Rural,8,Dry latrines - Traditional latrine,0.0,"Demographic and Health Survey (special), 2015  - DHS15"
+Egypt,EG,EGY,818,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Demographic and Health Survey (special), 2015  - DHS15"
+Egypt,EG,EGY,818,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Demographic and Health Survey (special), 2015  - DHS15"
+Egypt,EG,EGY,818,Rural,11,Dry latrines - Bucket latrine,0.0,"Demographic and Health Survey (special), 2015  - DHS15"
+Egypt,EG,EGY,818,Rural,12,Dry latrines - Other,0.0,"Demographic and Health Survey (special), 2015  - DHS15"
+Egypt,EG,EGY,818,Rural,13,Composting toilets,0.0,"Demographic and Health Survey (special), 2015  - DHS15"
+Egypt,EG,EGY,818,Rural,14,Other improved,0.0,"Demographic and Health Survey (special), 2015  - DHS15"
+Egypt,EG,EGY,818,Rural,15,"No facility, bush, field",0.001,"Demographic and Health Survey (special), 2015  - DHS15"
+Egypt,EG,EGY,818,Rural,16,Other unimproved,0.069,"Demographic and Health Survey (special), 2015  - DHS15"
+Egypt,EG,EGY,818,Rural,17,DK/missing information,0.0,"Demographic and Health Survey (special), 2015  - DHS15"
+Egypt,EG,EGY,818,National,1,Flush and pour flush - to piped sewer system,0.559,"Demographic and Health Survey (special), 2015  - DHS15"
+Egypt,EG,EGY,818,National,2,Flush and pour flush - to septic tank,0.395,"Demographic and Health Survey (special), 2015  - DHS15"
+Egypt,EG,EGY,818,National,3,Flush and pour flush - to pit,0.0,"Demographic and Health Survey (special), 2015  - DHS15"
+Egypt,EG,EGY,818,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Demographic and Health Survey (special), 2015  - DHS15"
+Egypt,EG,EGY,818,National,5,Flush and pour flush - to elsewhere,0.0,"Demographic and Health Survey (special), 2015  - DHS15"
+Egypt,EG,EGY,818,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Demographic and Health Survey (special), 2015  - DHS15"
+Egypt,EG,EGY,818,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Demographic and Health Survey (special), 2015  - DHS15"
+Egypt,EG,EGY,818,National,8,Dry latrines - Traditional latrine,0.0,"Demographic and Health Survey (special), 2015  - DHS15"
+Egypt,EG,EGY,818,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Demographic and Health Survey (special), 2015  - DHS15"
+Egypt,EG,EGY,818,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Demographic and Health Survey (special), 2015  - DHS15"
+Egypt,EG,EGY,818,National,11,Dry latrines - Bucket latrine,0.0,"Demographic and Health Survey (special), 2015  - DHS15"
+Egypt,EG,EGY,818,National,12,Dry latrines - Other,0.0,"Demographic and Health Survey (special), 2015  - DHS15"
+Egypt,EG,EGY,818,National,13,Composting toilets,0.0,"Demographic and Health Survey (special), 2015  - DHS15"
+Egypt,EG,EGY,818,National,14,Other improved,0.0,"Demographic and Health Survey (special), 2015  - DHS15"
+Egypt,EG,EGY,818,National,15,"No facility, bush, field",0.001,"Demographic and Health Survey (special), 2015  - DHS15"
+Egypt,EG,EGY,818,National,16,Other unimproved,0.045,"Demographic and Health Survey (special), 2015  - DHS15"
+Egypt,EG,EGY,818,National,17,DK/missing information,0.0,"Demographic and Health Survey (special), 2015  - DHS15"
+Egypt,EG,EGY,818,Urban,1,Flush and pour flush - to piped sewer system,0.898,Census - CEN17
+Egypt,EG,EGY,818,Urban,2,Flush and pour flush - to septic tank,0.074,Census - CEN17
+Egypt,EG,EGY,818,Urban,3,Flush and pour flush - to pit,0.0,Census - CEN17
+Egypt,EG,EGY,818,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.025,Census - CEN17
+Egypt,EG,EGY,818,Urban,5,Flush and pour flush - to elsewhere,0.003,Census - CEN17
+Egypt,EG,EGY,818,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN17
+Egypt,EG,EGY,818,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN17
+Egypt,EG,EGY,818,Urban,8,Dry latrines - Traditional latrine,0.0,Census - CEN17
+Egypt,EG,EGY,818,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN17
+Egypt,EG,EGY,818,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN17
+Egypt,EG,EGY,818,Urban,11,Dry latrines - Bucket latrine,0.0,Census - CEN17
+Egypt,EG,EGY,818,Urban,12,Dry latrines - Other,0.0,Census - CEN17
+Egypt,EG,EGY,818,Urban,13,Composting toilets,0.0,Census - CEN17
+Egypt,EG,EGY,818,Urban,14,Other improved,0.0,Census - CEN17
+Egypt,EG,EGY,818,Urban,15,"No facility, bush, field",0.001,Census - CEN17
+Egypt,EG,EGY,818,Urban,16,Other unimproved,0.0,Census - CEN17
+Egypt,EG,EGY,818,Urban,17,DK/missing information,0.0,Census - CEN17
+Egypt,EG,EGY,818,Rural,1,Flush and pour flush - to piped sewer system,0.279,Census - CEN17
+Egypt,EG,EGY,818,Rural,2,Flush and pour flush - to septic tank,0.528,Census - CEN17
+Egypt,EG,EGY,818,Rural,3,Flush and pour flush - to pit,0.0,Census - CEN17
+Egypt,EG,EGY,818,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.185,Census - CEN17
+Egypt,EG,EGY,818,Rural,5,Flush and pour flush - to elsewhere,0.004,Census - CEN17
+Egypt,EG,EGY,818,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN17
+Egypt,EG,EGY,818,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN17
+Egypt,EG,EGY,818,Rural,8,Dry latrines - Traditional latrine,0.0,Census - CEN17
+Egypt,EG,EGY,818,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN17
+Egypt,EG,EGY,818,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN17
+Egypt,EG,EGY,818,Rural,11,Dry latrines - Bucket latrine,0.0,Census - CEN17
+Egypt,EG,EGY,818,Rural,12,Dry latrines - Other,0.0,Census - CEN17
+Egypt,EG,EGY,818,Rural,13,Composting toilets,0.0,Census - CEN17
+Egypt,EG,EGY,818,Rural,14,Other improved,0.0,Census - CEN17
+Egypt,EG,EGY,818,Rural,15,"No facility, bush, field",0.002,Census - CEN17
+Egypt,EG,EGY,818,Rural,16,Other unimproved,0.0,Census - CEN17
+Egypt,EG,EGY,818,Rural,17,DK/missing information,0.0,Census - CEN17
+Egypt,EG,EGY,818,National,1,Flush and pour flush - to piped sewer system,0.541,Census - CEN17
+Egypt,EG,EGY,818,National,2,Flush and pour flush - to septic tank,0.336,Census - CEN17
+Egypt,EG,EGY,818,National,3,Flush and pour flush - to pit,0.0,Census - CEN17
+Egypt,EG,EGY,818,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.118,Census - CEN17
+Egypt,EG,EGY,818,National,5,Flush and pour flush - to elsewhere,0.004,Census - CEN17
+Egypt,EG,EGY,818,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN17
+Egypt,EG,EGY,818,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN17
+Egypt,EG,EGY,818,National,8,Dry latrines - Traditional latrine,0.0,Census - CEN17
+Egypt,EG,EGY,818,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN17
+Egypt,EG,EGY,818,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN17
+Egypt,EG,EGY,818,National,11,Dry latrines - Bucket latrine,0.0,Census - CEN17
+Egypt,EG,EGY,818,National,12,Dry latrines - Other,0.0,Census - CEN17
+Egypt,EG,EGY,818,National,13,Composting toilets,0.0,Census - CEN17
+Egypt,EG,EGY,818,National,14,Other improved,0.0,Census - CEN17
+Egypt,EG,EGY,818,National,15,"No facility, bush, field",0.001,Census - CEN17
+Egypt,EG,EGY,818,National,16,Other unimproved,0.0,Census - CEN17
+Egypt,EG,EGY,818,National,17,DK/missing information,0.0,Census - CEN17

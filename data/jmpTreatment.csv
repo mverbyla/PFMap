@@ -1,416 +1,721 @@
 ISO3,Country,Residence Type,Service Type,Year,Coverage,Population,Safely managed element
+ALB,Albania,total,Sanitation,2017,0.18177,5326.08715,Faecal sludge treated
 ALB,Albania,rural,Sanitation,2017,0.39846,4742.27131,Faecal sludge treated
 ALB,Albania,urban,Sanitation,2017,0.03355,583.81592,Faecal sludge treated
+ALB,Albania,total,Sanitation,2017,0.44453,13025.67193,Disposed insitu
 ALB,Albania,rural,Sanitation,2017,0.97448,11597.87074,Disposed insitu
 ALB,Albania,urban,Sanitation,2017,0.08206,1427.80139,Disposed insitu
+ALB,Albania,total,Sanitation,2017,39.22915,1149487.46385,Sewage treated
 ALB,Albania,rural,Sanitation,2017,38.02184,452518.48746,Sewage treated
 ALB,Albania,urban,Sanitation,2017,40.05493,696968.97593,Sewage treated
+AND,Andorra,total,Sanitation,2017,0,0,Faecal sludge treated
 AND,Andorra,rural,Sanitation,2017,0,0,Faecal sludge treated
 AND,Andorra,urban,Sanitation,2017,0,0,Faecal sludge treated
+AND,Andorra,total,Sanitation,2017,0,0,Disposed insitu
 AND,Andorra,rural,Sanitation,2017,0,0,Disposed insitu
 AND,Andorra,urban,Sanitation,2017,0,0,Disposed insitu
+AND,Andorra,total,Sanitation,2017,100,76964.99714,Sewage treated
 AND,Andorra,rural,Sanitation,2017,100,9120.35133,Sewage treated
 AND,Andorra,urban,Sanitation,2017,100,67844.64867,Sewage treated
+ARE,United Arab Emirates,total,Sanitation,2017,3.03191,285004.18082,Faecal sludge treated
+ARE,United Arab Emirates,total,Sanitation,2017,3.03244,285053.84958,Disposed insitu
+ARE,United Arab Emirates,total,Sanitation,2017,90.21567,8480403.91908,Sewage treated
+ARM,Armenia,total,Sanitation,2017,5.23292,153347.9906,Faecal sludge treated
 ARM,Armenia,urban,Sanitation,2017,0.1195,2209.70994,Faecal sludge treated
+ARM,Armenia,total,Sanitation,2017,11.55283,338549.89137,Disposed insitu
 ARM,Armenia,urban,Sanitation,2017,0.26381,4878.42755,Disposed insitu
+ARM,Armenia,total,Sanitation,2017,31.55089,924583.01796,Sewage treated
 ARM,Armenia,rural,Sanitation,2017,8.7567,94681.63131,Sewage treated
 ARM,Armenia,urban,Sanitation,2017,44.87889,829901.36757,Sewage treated
+ASM,American Samoa,total,Sanitation,2017,22.8417,12709.34956,Sewage treated
+AUS,Australia,total,Sanitation,2017,2.28782,559384.58533,Faecal sludge treated
+AUS,Australia,total,Sanitation,2017,2.87279,702412.77698,Disposed insitu
+AUS,Australia,total,Sanitation,2017,70.47926,17232574.821,Sewage treated
+AUT,Austria,total,Sanitation,2017,2.13207,186245.68649,Faecal sludge treated
 AUT,Austria,rural,Sanitation,2017,3.98666,145938.81342,Faecal sludge treated
 AUT,Austria,urban,Sanitation,2017,0.79426,40306.87693,Faecal sludge treated
+AUT,Austria,total,Sanitation,2017,2.13207,186245.68649,Disposed insitu
 AUT,Austria,rural,Sanitation,2017,3.98666,145938.81342,Disposed insitu
 AUT,Austria,urban,Sanitation,2017,0.79426,40306.87693,Disposed insitu
+AUT,Austria,total,Sanitation,2017,92.4826,8078774.47854,Sewage treated
 AUT,Austria,rural,Sanitation,2017,84.32809,3086980.463,Sewage treated
 AUT,Austria,urban,Sanitation,2017,98.36485,4991793.99855,Sewage treated
 AZE,Azerbaijan,urban,Sanitation,2017,15.37024,835969.38155,Faecal sludge treated
 AZE,Azerbaijan,urban,Sanitation,2017,16.15892,878864.82873,Disposed insitu
+AZE,Azerbaijan,total,Sanitation,2017,36.1191,3549636.60821,Sewage treated
 AZE,Azerbaijan,rural,Sanitation,2017,5.68499,249497.59558,Sewage treated
 AZE,Azerbaijan,urban,Sanitation,2017,60.67679,3300139.0322,Sewage treated
+BEL,Belgium,total,Sanitation,2017,1.19294,136345.00454,Faecal sludge treated
+BEL,Belgium,total,Sanitation,2017,1.19294,136345.00454,Disposed insitu
+BEL,Belgium,total,Sanitation,2017,94.7143,10825216.07533,Sewage treated
 BGD,Bangladesh,rural,Sanitation,2017,0,0,Faecal sludge treated
 BGD,Bangladesh,rural,Sanitation,2017,32.28791,34103281.79196,Disposed insitu
 BGD,Bangladesh,rural,Sanitation,2017,0.05147,54365.88694,Sewage treated
+BGR,Bulgaria,total,Sanitation,2017,4.08601,289476.13191,Faecal sludge treated
 BGR,Bulgaria,urban,Sanitation,2017,2.37189,125472.708,Faecal sludge treated
+BGR,Bulgaria,total,Sanitation,2017,4.89597,346858.25252,Disposed insitu
 BGR,Bulgaria,urban,Sanitation,2017,2.84207,150344.84518,Disposed insitu
+BGR,Bulgaria,total,Sanitation,2017,55.86362,3957697.76044,Sewage treated
 BGR,Bulgaria,rural,Sanitation,2017,21.03158,377431.23731,Sewage treated
 BGR,Bulgaria,urban,Sanitation,2017,67.68018,3580266.54789,Sewage treated
+BHR,Bahrain,total,Sanitation,2017,2.44482,36491.06637,Faecal sludge treated
+BHR,Bahrain,total,Sanitation,2017,2.44482,36491.06637,Disposed insitu
+BHR,Bahrain,total,Sanitation,2017,91.11035,1359898.50725,Sewage treated
+BIH,Bosnia and Herzegovina,total,Sanitation,2017,1.3176,46208.46391,Faecal sludge treated
 BIH,Bosnia and Herzegovina,urban,Sanitation,2017,0.33036,5546.77203,Faecal sludge treated
+BIH,Bosnia and Herzegovina,total,Sanitation,2017,15.5929,546845.7268,Disposed insitu
 BIH,Bosnia and Herzegovina,urban,Sanitation,2017,3.90956,65642.27259,Disposed insitu
+BIH,Bosnia and Herzegovina,total,Sanitation,2017,4.64413,162870.29178,Sewage treated
 BIH,Bosnia and Herzegovina,rural,Sanitation,2017,2.45008,44787.45,Sewage treated
 BIH,Bosnia and Herzegovina,urban,Sanitation,2017,7.03285,118082.83955,Sewage treated
+BLR,Belarus,total,Sanitation,2017,2.00259,189611.72373,Faecal sludge treated
 BLR,Belarus,rural,Sanitation,2017,7.38019,152795.48019,Faecal sludge treated
 BLR,Belarus,urban,Sanitation,2017,0.49765,36816.2498,Faecal sludge treated
+BLR,Belarus,total,Sanitation,2017,2.38197,225532.95972,Disposed insitu
 BLR,Belarus,rural,Sanitation,2017,8.77834,181742.01575,Disposed insitu
 BLR,Belarus,urban,Sanitation,2017,0.59193,43790.95142,Disposed insitu
+BLR,Belarus,total,Sanitation,2017,76.13121,7208360.1778,Sewage treated
 BLR,Belarus,rural,Sanitation,2017,60.21684,1246697.31269,Sewage treated
 BLR,Belarus,urban,Sanitation,2017,80.58489,5961663.04691,Sewage treated
+BMU,Bermuda,total,Sanitation,2017,1.5,920.235,Sewage treated
 BMU,Bermuda,urban,Sanitation,2017,1.5,920.235,Sewage treated
+BOL,Bolivia (Plurinational State of),total,Sanitation,2017,2.71134,299646.96489,Faecal sludge treated
 BOL,Bolivia (Plurinational State of),urban,Sanitation,2017,2.18168,166559.05194,Faecal sludge treated
+BOL,Bolivia (Plurinational State of),total,Sanitation,2017,9.25058,1022336.96653,Disposed insitu
 BOL,Bolivia (Plurinational State of),urban,Sanitation,2017,7.44346,568266.98036,Disposed insitu
+BOL,Bolivia (Plurinational State of),total,Sanitation,2017,10.80196,1193788.9713,Sewage treated
 BOL,Bolivia (Plurinational State of),rural,Sanitation,2017,1.31157,44818.53644,Sewage treated
 BOL,Bolivia (Plurinational State of),urban,Sanitation,2017,15.04982,1148970.42113,Sewage treated
+BRA,Brazil,total,Sanitation,2017,4.25817,8911842.45193,Faecal sludge treated
 BRA,Brazil,urban,Sanitation,2017,3.20554,5790323.11625,Faecal sludge treated
+BRA,Brazil,total,Sanitation,2017,7.52702,15753171.43538,Disposed insitu
 BRA,Brazil,urban,Sanitation,2017,5.66634,10235364.14703,Disposed insitu
+BRA,Brazil,total,Sanitation,2017,37.52412,78533591.5789,Sewage treated
 BRA,Brazil,rural,Sanitation,2017,4.74899,1360758.75009,Sewage treated
 BRA,Brazil,urban,Sanitation,2017,42.72317,77172830.15974,Sewage treated
+BRB,Barbados,total,Sanitation,2017,3.05357,8724.6409,Sewage treated
+CAN,Canada,total,Sanitation,2017,13.71808,5024135.27842,Faecal sludge treated
 CAN,Canada,rural,Sanitation,2017,31.01584,2118510.27237,Faecal sludge treated
 CAN,Canada,urban,Sanitation,2017,9.75245,2905625.0832,Faecal sludge treated
+CAN,Canada,total,Sanitation,2017,0.84201,308380.70973,Disposed insitu
 CAN,Canada,rural,Sanitation,2017,2.57256,175716.78675,Disposed insitu
 CAN,Canada,urban,Sanitation,2017,0.44527,132663.92811,Disposed insitu
+CAN,Canada,total,Sanitation,2017,67.75631,24815206.23727,Sewage treated
 CAN,Canada,rural,Sanitation,2017,48.15399,3289116.89815,Sewage treated
 CAN,Canada,urban,Sanitation,2017,72.25027,21526089.65844,Sewage treated
+CHE,Switzerland,total,Sanitation,2017,0.76408,64763.41886,Faecal sludge treated
 CHE,Switzerland,rural,Sanitation,2017,2.912,64763.41851,Faecal sludge treated
 CHE,Switzerland,urban,Sanitation,2017,0,0,Faecal sludge treated
+CHE,Switzerland,total,Sanitation,2017,0.76408,64763.41886,Disposed insitu
 CHE,Switzerland,rural,Sanitation,2017,2.912,64763.41851,Disposed insitu
 CHE,Switzerland,urban,Sanitation,2017,0,0,Disposed insitu
+CHE,Switzerland,total,Sanitation,2017,98.01115,8307430.09513,Sewage treated
 CHE,Switzerland,rural,Sanitation,2017,92.70164,2061701.91398,Sewage treated
 CHE,Switzerland,urban,Sanitation,2017,99.8999,6245727.93813,Sewage treated
+CHI,Channel Islands,total,Sanitation,2017,1.309,2163.96026,Faecal sludge treated
+CHI,Channel Islands,total,Sanitation,2017,7.191,11887.72974,Disposed insitu
+CHI,Channel Islands,total,Sanitation,2017,81.5,134730.91,Sewage treated
+CHL,Chile,total,Sanitation,2017,2.66665,481456.73627,Faecal sludge treated
 CHL,Chile,urban,Sanitation,2017,0.38564,60916.49864,Faecal sludge treated
+CHL,Chile,total,Sanitation,2017,3.29772,595395.07575,Disposed insitu
 CHL,Chile,urban,Sanitation,2017,0.46999,74240.03412,Disposed insitu
+CHL,Chile,total,Sanitation,2017,72.52203,13093653.89291,Sewage treated
 CHL,Chile,rural,Sanitation,2017,16.65129,376093.8803,Sewage treated
 CHL,Chile,urban,Sanitation,2017,80.51086,12717559.84789,Sewage treated
+CHN,China,total,Sanitation,2017,3.50554,49411230.689,Faecal sludge treated
 CHN,China,rural,Sanitation,2017,0,0,Faecal sludge treated
 CHN,China,urban,Sanitation,2017,6.04821,49411231.15142,Faecal sludge treated
+CHN,China,total,Sanitation,2017,15.57998,219602489.23228,Disposed insitu
 CHN,China,rural,Sanitation,2017,23.322,138197104.01014,Disposed insitu
 CHN,China,urban,Sanitation,2017,9.96447,81405384.20089,Disposed insitu
+CHN,China,total,Sanitation,2017,52.99675,746998383.14798,Sewage treated
 CHN,China,rural,Sanitation,2017,32.74863,194055661.42395,Sewage treated
 CHN,China,urban,Sanitation,2017,67.68327,552942724.39495,Sewage treated
+COL,Colombia,total,Sanitation,2017,0.71792,352252.69216,Faecal sludge treated
 COL,Colombia,urban,Sanitation,2017,0.23083,91112.79716,Faecal sludge treated
+COL,Colombia,total,Sanitation,2017,4.43976,2178394.8794,Disposed insitu
 COL,Colombia,urban,Sanitation,2017,1.42751,563458.1515,Disposed insitu
+COL,Colombia,total,Sanitation,2017,11.82003,5799568.01793,Sewage treated
 COL,Colombia,rural,Sanitation,2017,2.13052,204407.99602,Sewage treated
 COL,Colombia,urban,Sanitation,2017,14.17525,5595159.83515,Sewage treated
+CRI,Costa Rica,total,Sanitation,2017,10.49363,514793.27086,Sewage treated
 CRI,Costa Rica,rural,Sanitation,2017,2.72248,28634.942,Sewage treated
 CRI,Costa Rica,urban,Sanitation,2017,12.61448,486158.34371,Sewage treated
+CUB,Cuba,total,Sanitation,2017,7.06091,810919.57678,Faecal sludge treated
 CUB,Cuba,urban,Sanitation,2017,5.03882,445458.68061,Faecal sludge treated
+CUB,Cuba,total,Sanitation,2017,16.16115,1856049.15135,Disposed insitu
 CUB,Cuba,urban,Sanitation,2017,11.53296,1019574.85032,Disposed insitu
+CUB,Cuba,total,Sanitation,2017,20.97359,2408740.19002,Sewage treated
 CUB,Cuba,rural,Sanitation,2017,6.51659,172305.71466,Sewage treated
 CUB,Cuba,urban,Sanitation,2017,25.29752,2236434.58419,Sewage treated
+CYP,Cyprus,total,Sanitation,2017,11.84432,139709.77662,Faecal sludge treated
 CYP,Cyprus,urban,Sanitation,2017,6.63314,52293.34747,Faecal sludge treated
+CYP,Cyprus,total,Sanitation,2017,11.84432,139709.77662,Disposed insitu
 CYP,Cyprus,urban,Sanitation,2017,6.63314,52293.34747,Disposed insitu
+CYP,Cyprus,total,Sanitation,2017,51.77504,610712.97483,Sewage treated
 CYP,Cyprus,rural,Sanitation,2017,9,35206.76798,Sewage treated
 CYP,Cyprus,urban,Sanitation,2017,73,575506.22303,Sewage treated
+CZE,Czechia,total,Sanitation,2017,3.04149,322954.32739,Faecal sludge treated
 CZE,Czechia,rural,Sanitation,2017,8.64167,241557.70422,Faecal sludge treated
 CZE,Czechia,urban,Sanitation,2017,1.04047,81396.6294,Faecal sludge treated
+CZE,Czechia,total,Sanitation,2017,3.04149,322954.32739,Disposed insitu
 CZE,Czechia,rural,Sanitation,2017,8.64167,241557.70422,Disposed insitu
 CZE,Czechia,urban,Sanitation,2017,1.04047,81396.6294,Disposed insitu
+CZE,Czechia,total,Sanitation,2017,88.37616,9384048.54756,Sewage treated
 CZE,Czechia,rural,Sanitation,2017,67.81314,1895558.86295,Sewage treated
 CZE,Czechia,urban,Sanitation,2017,95.72359,7488489.90477,Sewage treated
+DEU,Germany,total,Sanitation,2017,0.84776,696131.26986,Faecal sludge treated
 DEU,Germany,rural,Sanitation,2017,3.47595,649027.95855,Faecal sludge treated
 DEU,Germany,urban,Sanitation,2017,0.07425,47103.296,Faecal sludge treated
+DEU,Germany,total,Sanitation,2017,0.85032,698234.46088,Disposed insitu
 DEU,Germany,rural,Sanitation,2017,3.48645,650988.83839,Disposed insitu
 DEU,Germany,urban,Sanitation,2017,0.07447,47245.60713,Disposed insitu
+DEU,Germany,total,Sanitation,2017,95.53512,78447920.48881,Sewage treated
 DEU,Germany,rural,Sanitation,2017,84.78995,15831939.06876,Sewage treated
 DEU,Germany,urban,Sanitation,2017,98.69757,62615981.48264,Sewage treated
+DJI,Djibouti,total,Sanitation,2017,0,0,Faecal sludge treated
 DJI,Djibouti,rural,Sanitation,2017,0,0,Faecal sludge treated
 DJI,Djibouti,urban,Sanitation,2017,0,0,Faecal sludge treated
+DJI,Djibouti,total,Sanitation,2017,34.11302,326456.47979,Disposed insitu
 DJI,Djibouti,rural,Sanitation,2017,18.93489,40502.72184,Disposed insitu
 DJI,Djibouti,urban,Sanitation,2017,38.48224,285953.7637,Disposed insitu
+DJI,Djibouti,total,Sanitation,2017,2.32742,22273.04752,Sewage treated
 DJI,Djibouti,rural,Sanitation,2017,0,0,Sewage treated
 DJI,Djibouti,urban,Sanitation,2017,2.9974,22273.04796,Sewage treated
+DNK,Denmark,total,Sanitation,2017,2.08853,119747.05063,Faecal sludge treated
+DNK,Denmark,total,Sanitation,2017,2.10103,120463.4553,Disposed insitu
+DNK,Denmark,total,Sanitation,2017,90.65079,5197509.20974,Sewage treated
+DOM,Dominican Republic,total,Sanitation,2017,4.60504,495824.49676,Sewage treated
 DOM,Dominican Republic,rural,Sanitation,2017,0.93284,19809.53559,Sewage treated
 DOM,Dominican Republic,urban,Sanitation,2017,5.50725,476014.97335,Sewage treated
+DZA,Algeria,total,Sanitation,2017,0.63416,262024.81636,Faecal sludge treated
 DZA,Algeria,rural,Sanitation,2017,1.73386,200218.628,Faecal sludge treated
 DZA,Algeria,urban,Sanitation,2017,0.20761,61806.19591,Faecal sludge treated
+DZA,Algeria,total,Sanitation,2017,3.61817,1494961.81742,Disposed insitu
 DZA,Algeria,rural,Sanitation,2017,9.89238,1142331.50947,Disposed insitu
 DZA,Algeria,urban,Sanitation,2017,1.18449,352630.35099,Disposed insitu
+DZA,Algeria,total,Sanitation,2017,13.43514,5551149.9445,Sewage treated
 DZA,Algeria,rural,Sanitation,2017,9.16179,1057966.56595,Sewage treated
 DZA,Algeria,urban,Sanitation,2017,15.09271,4493183.50451,Sewage treated
+ECU,Ecuador,total,Sanitation,2017,0.2867,47663.83827,Faecal sludge treated
 ECU,Ecuador,rural,Sanitation,2017,0,0,Faecal sludge treated
 ECU,Ecuador,urban,Sanitation,2017,0.45029,47663.8362,Faecal sludge treated
+ECU,Ecuador,total,Sanitation,2017,25.12058,4176260.20762,Disposed insitu
 ECU,Ecuador,rural,Sanitation,2017,50.20073,3032029.20683,Disposed insitu
 ECU,Ecuador,urban,Sanitation,2017,10.80988,1144230.93644,Disposed insitu
+ECU,Ecuador,total,Sanitation,2017,16.60348,2760304.6529,Sewage treated
 ECU,Ecuador,rural,Sanitation,2017,6.95575,420114.26383,Sewage treated
 ECU,Ecuador,urban,Sanitation,2017,22.10846,2340190.28557,Sewage treated
+EGY,Egypt,total,Sanitation,2017,5.91319,5768502.44632,Faecal sludge treated
 EGY,Egypt,urban,Sanitation,2017,0.66393,276592.24408,Faecal sludge treated
+EGY,Egypt,total,Sanitation,2017,8.09611,7898006.55037,Disposed insitu
 EGY,Egypt,urban,Sanitation,2017,0.90902,378699.21628,Disposed insitu
+EGY,Egypt,total,Sanitation,2017,48.22681,47046768.59085,Sewage treated
 EGY,Egypt,rural,Sanitation,2017,32.63829,18242546.82749,Sewage treated
 EGY,Egypt,urban,Sanitation,2017,69.14107,28804221.62018,Sewage treated
+ESP,Spain,total,Sanitation,2017,0,0,Faecal sludge treated
 ESP,Spain,rural,Sanitation,2017,0,0,Faecal sludge treated
 ESP,Spain,urban,Sanitation,2017,0,0,Faecal sludge treated
+ESP,Spain,total,Sanitation,2017,0,0,Disposed insitu
 ESP,Spain,rural,Sanitation,2017,0,0,Disposed insitu
 ESP,Spain,urban,Sanitation,2017,0,0,Disposed insitu
+ESP,Spain,total,Sanitation,2017,96.62018,44787625.635,Sewage treated
 ESP,Spain,rural,Sanitation,2017,96.7128,8930246.62418,Sewage treated
 ESP,Spain,urban,Sanitation,2017,96.59714,35857380.89801,Sewage treated
+EST,Estonia,total,Sanitation,2017,4.61073,60383.58868,Faecal sludge treated
 EST,Estonia,rural,Sanitation,2017,14.73877,60383.58709,Faecal sludge treated
 EST,Estonia,urban,Sanitation,2017,0,0,Faecal sludge treated
+EST,Estonia,total,Sanitation,2017,4.6261,60584.91437,Disposed insitu
 EST,Estonia,rural,Sanitation,2017,14.78791,60584.91277,Disposed insitu
 EST,Estonia,urban,Sanitation,2017,0,0,Disposed insitu
+EST,Estonia,total,Sanitation,2017,88.1238,1154097.53674,Sewage treated
 EST,Estonia,rural,Sanitation,2017,64.86427,265743.80772,Sewage treated
 EST,Estonia,urban,Sanitation,2017,98.71257,888353.73268,Sewage treated
 ETH,Ethiopia,rural,Sanitation,2017,0,0,Faecal sludge treated
 ETH,Ethiopia,rural,Sanitation,2017,3.55281,2971587.805,Disposed insitu
 ETH,Ethiopia,rural,Sanitation,2017,0.26182,218987.59146,Sewage treated
+FIN,Finland,total,Sanitation,2017,0.23777,13132.5912,Faecal sludge treated
 FIN,Finland,urban,Sanitation,2017,1.74182,82086.88628,Faecal sludge treated
+FIN,Finland,total,Sanitation,2017,14.36745,793547.37467,Disposed insitu
 FIN,Finland,urban,Sanitation,2017,1.74182,82086.88628,Disposed insitu
+FIN,Finland,total,Sanitation,2017,84.59987,4672646.27977,Sewage treated
 FIN,Finland,rural,Sanitation,2017,19.57672,158675.994,Sewage treated
 FIN,Finland,urban,Sanitation,2017,95.78317,4513970.16142,Sewage treated
+FRA,France,total,Sanitation,2017,0,0,Faecal sludge treated
+FRA,France,total,Sanitation,2017,10.33762,6717339.32431,Disposed insitu
+FRA,France,total,Sanitation,2017,78.03374,50705969.14898,Sewage treated
+GBR,United Kingdom of Great Britain and Northern Ireland,total,Sanitation,2017,0.71815,475285.11719,Faecal sludge treated
 GBR,United Kingdom of Great Britain and Northern Ireland,rural,Sanitation,2017,4.04621,451404.69274,Faecal sludge treated
 GBR,United Kingdom of Great Britain and Northern Ireland,urban,Sanitation,2017,0.0434,23880.42365,Faecal sludge treated
+GBR,United Kingdom of Great Britain and Northern Ireland,total,Sanitation,2017,0.71815,475285.11719,Disposed insitu
 GBR,United Kingdom of Great Britain and Northern Ireland,rural,Sanitation,2017,4.04621,451404.69274,Disposed insitu
 GBR,United Kingdom of Great Britain and Northern Ireland,urban,Sanitation,2017,0.0434,23880.42365,Disposed insitu
+GBR,United Kingdom of Great Britain and Northern Ireland,total,Sanitation,2017,96.31821,63744915.92972,Sewage treated
 GBR,United Kingdom of Great Britain and Northern Ireland,rural,Sanitation,2017,83.70647,9338486.91317,Sewage treated
 GBR,United Kingdom of Great Britain and Northern Ireland,urban,Sanitation,2017,98.8752,54406428.05237,Sewage treated
+GEO,Georgia,total,Sanitation,2017,2.20666,86325.83047,Faecal sludge treated
 GEO,Georgia,urban,Sanitation,2017,0.63738,14519.73862,Faecal sludge treated
+GEO,Georgia,total,Sanitation,2017,19.0214,744128.6461,Disposed insitu
 GEO,Georgia,urban,Sanitation,2017,5.49422,125160.14483,Disposed insitu
+GEO,Georgia,total,Sanitation,2017,5.90439,230983.25295,Sewage treated
 GEO,Georgia,rural,Sanitation,2017,0.56608,9249.86374,Sewage treated
 GEO,Georgia,urban,Sanitation,2017,9.73355,221733.38879,Sewage treated
+GRC,Greece,total,Sanitation,2017,4.29602,479426.33248,Faecal sludge treated
 GRC,Greece,urban,Sanitation,2017,1.2858,112963.34467,Faecal sludge treated
+GRC,Greece,total,Sanitation,2017,4.29602,479426.33248,Disposed insitu
 GRC,Greece,urban,Sanitation,2017,1.2858,112963.34467,Disposed insitu
+GRC,Greece,total,Sanitation,2017,81.9012,9139987.83079,Sewage treated
 GRC,Greece,rural,Sanitation,2017,36.88769,875844.14517,Sewage treated
 GRC,Greece,urban,Sanitation,2017,94.06658,8264143.69138,Sewage treated
+GRL,Greenland,total,Sanitation,2017,2.08853,1179.60276,Faecal sludge treated
+GRL,Greenland,total,Sanitation,2017,2.10103,1186.65991,Disposed insitu
+GRL,Greenland,total,Sanitation,2017,90.65079,51199.568,Sewage treated
+HKG,"China, Hong Kong Special Administrative Region",total,Sanitation,2017,1.69411,124769.22183,Faecal sludge treated
 HKG,"China, Hong Kong Special Administrative Region",urban,Sanitation,2017,1.69411,124769.22183,Faecal sludge treated
+HKG,"China, Hong Kong Special Administrative Region",total,Sanitation,2017,1.78189,131233.94835,Disposed insitu
 HKG,"China, Hong Kong Special Administrative Region",urban,Sanitation,2017,1.78189,131233.94835,Disposed insitu
+HKG,"China, Hong Kong Special Administrative Region",total,Sanitation,2017,88.29745,6503003.99443,Sewage treated
 HKG,"China, Hong Kong Special Administrative Region",urban,Sanitation,2017,88.29745,6503003.99443,Sewage treated
 HND,Honduras,urban,Sanitation,2017,3.27772,171450.53404,Faecal sludge treated
 HND,Honduras,urban,Sanitation,2017,8.58043,448823.38754,Disposed insitu
+HND,Honduras,total,Sanitation,2017,13.71956,1271126.12188,Sewage treated
 HND,Honduras,rural,Sanitation,2017,2.12822,85858.3714,Sewage treated
 HND,Honduras,urban,Sanitation,2017,22.65949,1185267.71721,Sewage treated
+HRV,Croatia,total,Sanitation,2017,7.93533,332438.92067,Faecal sludge treated
 HRV,Croatia,urban,Sanitation,2017,4.04948,96133.92711,Faecal sludge treated
+HRV,Croatia,total,Sanitation,2017,11.38042,476765.78977,Disposed insitu
 HRV,Croatia,urban,Sanitation,2017,5.80755,137870.04117,Disposed insitu
+HRV,Croatia,total,Sanitation,2017,39.35199,1648593.75744,Sewage treated
 HRV,Croatia,rural,Sanitation,2017,19.65778,356861.89644,Sewage treated
 HRV,Croatia,urban,Sanitation,2017,54.41206,1291731.8469,Sewage treated
+HUN,Hungary,total,Sanitation,2017,8.86136,861461.94113,Faecal sludge treated
 HUN,Hungary,rural,Sanitation,2017,19.06479,536335.36059,Faecal sludge treated
 HUN,Hungary,urban,Sanitation,2017,4.7063,325126.60875,Faecal sludge treated
+HUN,Hungary,total,Sanitation,2017,8.88908,864157.09358,Disposed insitu
 HUN,Hungary,rural,Sanitation,2017,19.16059,539030.51316,Disposed insitu
 HUN,Hungary,urban,Sanitation,2017,4.7063,325126.60875,Disposed insitu
+HUN,Hungary,total,Sanitation,2017,77.92831,7575846.88617,Sewage treated
 HUN,Hungary,rural,Sanitation,2017,59.94743,1686456.26459,Sewage treated
 HUN,Hungary,urban,Sanitation,2017,85.25052,5889390.80024,Sewage treated
 IND,India,rural,Sanitation,2017,0,0,Faecal sludge treated
 IND,India,rural,Sanitation,2017,38.72204,344322448.8636,Disposed insitu
+IND,India,total,Sanitation,2017,3.1842,42642136.48298,Sewage treated
 IND,India,rural,Sanitation,2017,0.32375,2878855.55968,Sewage treated
 IND,India,urban,Sanitation,2017,8.83698,39763281.0566,Sewage treated
+IRL,Ireland,total,Sanitation,2017,1.31196,62471.13254,Faecal sludge treated
 IRL,Ireland,rural,Sanitation,2017,0,0,Faecal sludge treated
 IRL,Ireland,urban,Sanitation,2017,2.08423,62471.13244,Faecal sludge treated
+IRL,Ireland,total,Sanitation,2017,20.19695,961709.41479,Disposed insitu
 IRL,Ireland,rural,Sanitation,2017,50.96749,899238.28477,Disposed insitu
 IRL,Ireland,urban,Sanitation,2017,2.08423,62471.13244,Disposed insitu
+IRL,Ireland,total,Sanitation,2017,60.90469,2900072.59357,Sewage treated
 IRL,Ireland,rural,Sanitation,2017,21.18234,373727.89208,Sewage treated
 IRL,Ireland,urban,Sanitation,2017,84.28678,2526344.69837,Sewage treated
+IRN,Iran (Islamic Republic of),total,Sanitation,2017,22.36359,18150913.57593,Sewage treated
 IRN,Iran (Islamic Republic of),rural,Sanitation,2017,1.07172,222730.7729,Sewage treated
 IRN,Iran (Islamic Republic of),urban,Sanitation,2017,29.69213,17928183.04026,Sewage treated
+IRQ,Iraq,total,Sanitation,2017,0,0,Faecal sludge treated
 IRQ,Iraq,rural,Sanitation,2017,0,0,Faecal sludge treated
 IRQ,Iraq,urban,Sanitation,2017,0,0,Faecal sludge treated
+IRQ,Iraq,total,Sanitation,2017,26.0601,9974401.94534,Disposed insitu
 IRQ,Iraq,rural,Sanitation,2017,41.51164,4722356.01256,Disposed insitu
 IRQ,Iraq,urban,Sanitation,2017,19.52533,5252046.19423,Disposed insitu
+IRQ,Iraq,total,Sanitation,2017,15.00766,5744122.91912,Sewage treated
 IRQ,Iraq,rural,Sanitation,2017,3.47024,394773.74084,Sewage treated
 IRQ,Iraq,urban,Sanitation,2017,19.88707,5349349.31964,Sewage treated
+ISL,Iceland,total,Sanitation,2017,1.35631,4543.97389,Faecal sludge treated
+ISL,Iceland,total,Sanitation,2017,1.59051,5328.61255,Disposed insitu
+ISL,Iceland,total,Sanitation,2017,78.81125,264037.38972,Sewage treated
+ISR,Israel,total,Sanitation,2017,0.19867,16532.29144,Faecal sludge treated
 ISR,Israel,rural,Sanitation,2017,1.17572,7498.31312,Faecal sludge treated
 ISR,Israel,urban,Sanitation,2017,0.11757,9033.9783,Faecal sludge treated
+ISR,Israel,total,Sanitation,2017,0.21122,17576.8226,Disposed insitu
 ISR,Israel,rural,Sanitation,2017,1.25,7972.06606,Disposed insitu
 ISR,Israel,urban,Sanitation,2017,0.125,9604.75652,Disposed insitu
+ISR,Israel,total,Sanitation,2017,93.26267,7760918.63764,Sewage treated
 ISR,Israel,rural,Sanitation,2017,89.35447,569871.79703,Sewage treated
 ISR,Israel,urban,Sanitation,2017,93.58705,7191046.72586,Sewage treated
+ITA,Italy,total,Sanitation,2017,2.53477,1504636.92825,Faecal sludge treated
 ITA,Italy,rural,Sanitation,2017,2.83928,503191.0234,Faecal sludge treated
 ITA,Italy,urban,Sanitation,2017,2.40516,1001445.90813,Faecal sludge treated
+ITA,Italy,total,Sanitation,2017,2.60421,1545858.75579,Disposed insitu
 ITA,Italy,rural,Sanitation,2017,2.91707,516976.7103,Disposed insitu
 ITA,Italy,urban,Sanitation,2017,2.47105,1028882.04887,Disposed insitu
+ITA,Italy,total,Sanitation,2017,91.06903,54058484.96147,Sewage treated
 ITA,Italy,rural,Sanitation,2017,90.33185,16009056.87452,Sewage treated
 ITA,Italy,urban,Sanitation,2017,91.3828,38049428.079,Sewage treated
+JAM,Jamaica,total,Sanitation,2017,7.90839,228576.07326,Sewage treated
 JAM,Jamaica,rural,Sanitation,2017,2.54565,32831.47082,Sewage treated
 JAM,Jamaica,urban,Sanitation,2017,12.22953,195744.60737,Sewage treated
+JOR,Jordan,total,Sanitation,2017,8.43137,818041.73132,Faecal sludge treated
 JOR,Jordan,urban,Sanitation,2017,7.15118,629632.3652,Faecal sludge treated
+JOR,Jordan,total,Sanitation,2017,8.43137,818041.73132,Disposed insitu
 JOR,Jordan,urban,Sanitation,2017,7.15118,629632.3652,Disposed insitu
+JOR,Jordan,total,Sanitation,2017,63.68141,6178594.95556,Sewage treated
 JOR,Jordan,rural,Sanitation,2017,12.50572,112271.2117,Sewage treated
 JOR,Jordan,urban,Sanitation,2017,68.89953,6066323.92582,Sewage treated
+JPN,Japan,total,Sanitation,2017,22.39472,28549791.67627,Faecal sludge treated
+JPN,Japan,total,Sanitation,2017,0.03817,48663.98005,Disposed insitu
+JPN,Japan,total,Sanitation,2017,76.32746,97305649.2753,Sewage treated
 KAZ,Kazakhstan,urban,Sanitation,2017,15.0895,1575001.23501,Faecal sludge treated
 KAZ,Kazakhstan,urban,Sanitation,2017,15.46609,1614308.459,Disposed insitu
+KAZ,Kazakhstan,total,Sanitation,2017,35.24666,6416477.79406,Sewage treated
 KAZ,Kazakhstan,rural,Sanitation,2017,2.01686,156645.07014,Sewage treated
 KAZ,Kazakhstan,urban,Sanitation,2017,59.97312,6259832.8872,Sewage treated
+KGZ,Kyrgyzstan,total,Sanitation,2017,12.12638,733053.83875,Sewage treated
 KGZ,Kyrgyzstan,rural,Sanitation,2017,0.19178,7404.09928,Sewage treated
 KGZ,Kyrgyzstan,urban,Sanitation,2017,33.21959,725649.71241,Sewage treated
+KOR,Republic of Korea,total,Sanitation,2017,0.51813,264155.65924,Faecal sludge treated
+KOR,Republic of Korea,total,Sanitation,2017,0.117,59648.82734,Disposed insitu
+KOR,Republic of Korea,total,Sanitation,2017,99.26918,50609622.00878,Sewage treated
+KWT,Kuwait,total,Sanitation,2017,0,0,Faecal sludge treated
+KWT,Kuwait,total,Sanitation,2017,0,0,Disposed insitu
+KWT,Kuwait,total,Sanitation,2017,100,4136527.8,Sewage treated
+LAO,Lao People's Democratic Republic,total,Sanitation,2017,0,0,Faecal sludge treated
 LAO,Lao People's Democratic Republic,rural,Sanitation,2017,0,0,Faecal sludge treated
 LAO,Lao People's Democratic Republic,urban,Sanitation,2017,0,0,Faecal sludge treated
+LAO,Lao People's Democratic Republic,total,Sanitation,2017,57.51541,3944499.15926,Disposed insitu
 LAO,Lao People's Democratic Republic,rural,Sanitation,2017,55.45542,2496130.19762,Disposed insitu
 LAO,Lao People's Democratic Republic,urban,Sanitation,2017,61.44936,1448369.09903,Disposed insitu
+LAO,Lao People's Democratic Republic,total,Sanitation,2017,0.53817,36908.90041,Sewage treated
 LAO,Lao People's Democratic Republic,rural,Sanitation,2017,0.32568,14659.32774,Sewage treated
 LAO,Lao People's Democratic Republic,urban,Sanitation,2017,0.94397,22249.57367,Sewage treated
+LBN,Lebanon,total,Sanitation,2017,1.27809,77737.7025,Faecal sludge treated
+LBN,Lebanon,total,Sanitation,2017,8.81985,536455.05828,Disposed insitu
+LBN,Lebanon,total,Sanitation,2017,11.66412,709453.5245,Sewage treated
+LBY,Libya,total,Sanitation,2017,2.06319,131520.43942,Faecal sludge treated
+LBY,Libya,total,Sanitation,2017,13.27939,846510.06429,Disposed insitu
+LBY,Libya,total,Sanitation,2017,10.7689,686475.91327,Sewage treated
+LIE,Liechtenstein,total,Sanitation,2017,0.625,237.0125,Faecal sludge treated
+LIE,Liechtenstein,total,Sanitation,2017,0.325,123.2465,Disposed insitu
+LIE,Liechtenstein,total,Sanitation,2017,98.7,37429.014,Sewage treated
+LTU,Lithuania,total,Sanitation,2017,1.0646,30769.98977,Faecal sludge treated
 LTU,Lithuania,rural,Sanitation,2017,3.27729,30769.98958,Faecal sludge treated
 LTU,Lithuania,urban,Sanitation,2017,0,0,Faecal sludge treated
+LTU,Lithuania,total,Sanitation,2017,1.0887,31466.78094,Disposed insitu
 LTU,Lithuania,rural,Sanitation,2017,3.35151,31466.78075,Disposed insitu
 LTU,Lithuania,urban,Sanitation,2017,0,0,Disposed insitu
+LTU,Lithuania,total,Sanitation,2017,89.15725,2576909.2461,Sewage treated
 LTU,Lithuania,rural,Sanitation,2017,76.68689,720001.0117,Sewage treated
 LTU,Lithuania,urban,Sanitation,2017,95.15712,1856908.23543,Sewage treated
+LUX,Luxembourg,total,Sanitation,2017,0.43738,2551.90092,Faecal sludge treated
 LUX,Luxembourg,rural,Sanitation,2017,4.6984,2542.01159,Faecal sludge treated
 LUX,Luxembourg,urban,Sanitation,2017,0.00187,9.88938,Faecal sludge treated
+LUX,Luxembourg,total,Sanitation,2017,0.43778,2554.24363,Disposed insitu
 LUX,Luxembourg,rural,Sanitation,2017,4.70271,2544.34522,Disposed insitu
 LUX,Luxembourg,urban,Sanitation,2017,0.00187,9.89846,Disposed insitu
+LUX,Luxembourg,total,Sanitation,2017,95.76151,558725.3337,Sewage treated
 LUX,Luxembourg,rural,Sanitation,2017,79.86541,43210.2183,Sewage treated
 LUX,Luxembourg,urban,Sanitation,2017,97.38622,515515.13749,Sewage treated
+LVA,Latvia,total,Sanitation,2017,0.79193,15440.07626,Faecal sludge treated
 LVA,Latvia,rural,Sanitation,2017,2.07295,12902.72418,Faecal sludge treated
 LVA,Latvia,urban,Sanitation,2017,0.19118,2537.35152,Faecal sludge treated
+LVA,Latvia,total,Sanitation,2017,0.84152,16406.76629,Disposed insitu
 LVA,Latvia,rural,Sanitation,2017,2.20274,13710.55275,Disposed insitu
 LVA,Latvia,urban,Sanitation,2017,0.20314,2696.21294,Disposed insitu
+LVA,Latvia,total,Sanitation,2017,84.19031,1641433.28701,Sewage treated
 LVA,Latvia,rural,Sanitation,2017,72.23682,449625.21423,Sewage treated
 LVA,Latvia,urban,Sanitation,2017,89.79612,1191808.07803,Sewage treated
+MAR,Morocco,total,Sanitation,2017,4.81391,1720472.5474,Faecal sludge treated
 MAR,Morocco,urban,Sanitation,2017,1.4264,315600.62964,Faecal sludge treated
+MAR,Morocco,total,Sanitation,2017,11.3039,4039966.70337,Disposed insitu
 MAR,Morocco,urban,Sanitation,2017,3.34944,741084.7893,Disposed insitu
+MAR,Morocco,total,Sanitation,2017,21.96964,7851855.95469,Sewage treated
 MAR,Morocco,rural,Sanitation,2017,0.0536,7297.60618,Sewage treated
 MAR,Morocco,urban,Sanitation,2017,35.45457,7844558.40536,Sewage treated
+MCO,Monaco,total,Sanitation,2017,0,0,Faecal sludge treated
 MCO,Monaco,urban,Sanitation,2017,0,0,Faecal sludge treated
+MCO,Monaco,total,Sanitation,2017,0,0,Disposed insitu
 MCO,Monaco,urban,Sanitation,2017,0,0,Disposed insitu
+MCO,Monaco,total,Sanitation,2017,100,38695,Sewage treated
 MCO,Monaco,urban,Sanitation,2017,100,38695,Sewage treated
 MDA,Republic of Moldova,urban,Sanitation,2017,8.74781,150818.6593,Faecal sludge treated
 MDA,Republic of Moldova,urban,Sanitation,2017,9.38858,161866.01481,Disposed insitu
+MDA,Republic of Moldova,total,Sanitation,2017,27.06519,1096468.39913,Sewage treated
 MDA,Republic of Moldova,rural,Sanitation,2017,2.84204,66138.25681,Sewage treated
 MDA,Republic of Moldova,urban,Sanitation,2017,59.76136,1030330.14424,Sewage treated
+MEX,Mexico,total,Sanitation,2017,2.87157,3709008.82899,Faecal sludge treated
 MEX,Mexico,urban,Sanitation,2017,1.21616,1254574.16054,Faecal sludge treated
+MEX,Mexico,total,Sanitation,2017,5.0125,6474309.69778,Disposed insitu
 MEX,Mexico,urban,Sanitation,2017,2.12288,2189938.61397,Disposed insitu
+MEX,Mexico,total,Sanitation,2017,42.72018,55178782.45945,Sewage treated
 MEX,Mexico,rural,Sanitation,2017,18.11237,4710020.43723,Sewage treated
 MEX,Mexico,urban,Sanitation,2017,48.92336,50468761.8044,Sewage treated
+MKD,North Macedonia,total,Sanitation,2017,0.79728,16608.54792,Faecal sludge treated
 MKD,North Macedonia,urban,Sanitation,2017,0,0,Faecal sludge treated
+MKD,North Macedonia,total,Sanitation,2017,9.72289,202543.2673,Disposed insitu
 MKD,North Macedonia,urban,Sanitation,2017,0,0,Disposed insitu
+MKD,North Macedonia,total,Sanitation,2017,6.04098,125843.20834,Sewage treated
 MKD,North Macedonia,rural,Sanitation,2017,3.09013,27198.59013,Sewage treated
 MKD,North Macedonia,urban,Sanitation,2017,8.2,98644.62138,Sewage treated
+MLI,Mali,total,Sanitation,2017,0,0,Faecal sludge treated
 MLI,Mali,rural,Sanitation,2017,0,0,Faecal sludge treated
 MLI,Mali,urban,Sanitation,2017,0,0,Faecal sludge treated
+MLI,Mali,total,Sanitation,2017,18.32826,3398421.52588,Disposed insitu
 MLI,Mali,rural,Sanitation,2017,25.53843,2766759.54472,Disposed insitu
 MLI,Mali,urban,Sanitation,2017,8.1946,631661.87597,Disposed insitu
+MLI,Mali,total,Sanitation,2017,0.38115,70672.45016,Sewage treated
 MLI,Mali,rural,Sanitation,2017,0,0,Sewage treated
 MLI,Mali,urban,Sanitation,2017,0.91684,70672.44913,Sewage treated
+MLT,Malta,total,Sanitation,2017,0,0,Faecal sludge treated
 MLT,Malta,rural,Sanitation,2017,0,0,Faecal sludge treated
 MLT,Malta,urban,Sanitation,2017,0,0,Faecal sludge treated
+MLT,Malta,total,Sanitation,2017,0,0,Disposed insitu
 MLT,Malta,rural,Sanitation,2017,0,0,Disposed insitu
 MLT,Malta,urban,Sanitation,2017,0,0,Disposed insitu
+MLT,Malta,total,Sanitation,2017,92.98406,400607.89008,Sewage treated
 MLT,Malta,rural,Sanitation,2017,93.025,21858.78301,Sewage treated
 MLT,Malta,urban,Sanitation,2017,92.9817,378749.0982,Sewage treated
 MNE,Montenegro,urban,Sanitation,2017,2.74109,11460.87179,Faecal sludge treated
 MNE,Montenegro,urban,Sanitation,2017,9.62349,40237.1157,Disposed insitu
+MNE,Montenegro,total,Sanitation,2017,13.02592,81927.83895,Sewage treated
 MNE,Montenegro,rural,Sanitation,2017,4.26459,8991.73531,Sewage treated
 MNE,Montenegro,urban,Sanitation,2017,17.44408,72936.10342,Sewage treated
+MNG,Mongolia,total,Sanitation,2017,6.36557,195782.61416,Sewage treated
 MNG,Mongolia,rural,Sanitation,2017,0.87356,8500.09796,Sewage treated
 MNG,Mongolia,urban,Sanitation,2017,8.90717,187282.51747,Sewage treated
 MOZ,Mozambique,rural,Sanitation,2017,0,0,Faecal sludge treated
 MOZ,Mozambique,rural,Sanitation,2017,16.27129,3115911.6803,Disposed insitu
 MOZ,Mozambique,rural,Sanitation,2017,0,0,Sewage treated
+MUS,Mauritius,total,Sanitation,2017,16.50867,208857.40698,Sewage treated
 MUS,Mauritius,rural,Sanitation,2017,3.84499,28777.53258,Sewage treated
 MUS,Mauritius,urban,Sanitation,2017,34.85226,180079.86618,Sewage treated
+MYS,Malaysia,total,Sanitation,2017,0.54489,172316.89563,Faecal sludge treated
+MYS,Malaysia,total,Sanitation,2017,9.64489,3050125.67345,Disposed insitu
+MYS,Malaysia,total,Sanitation,2017,78.44413,24807379.75256,Sewage treated
+NER,Niger,total,Sanitation,2017,0,0,Faecal sludge treated
 NER,Niger,rural,Sanitation,2017,0,0,Faecal sludge treated
 NER,Niger,urban,Sanitation,2017,0,0,Faecal sludge treated
+NER,Niger,total,Sanitation,2017,9.41068,2021164.09076,Disposed insitu
 NER,Niger,rural,Sanitation,2017,6.83896,1228673.94076,Disposed insitu
 NER,Niger,urban,Sanitation,2017,22.56812,792490.18922,Disposed insitu
+NER,Niger,total,Sanitation,2017,0.19415,41697.32647,Sewage treated
 NER,Niger,rural,Sanitation,2017,0.06398,11494.72719,Sewage treated
 NER,Niger,urban,Sanitation,2017,0.86009,30202.59989,Sewage treated
+NGA,Nigeria,total,Sanitation,2017,0,0,Faecal sludge treated
 NGA,Nigeria,rural,Sanitation,2017,0,0,Faecal sludge treated
 NGA,Nigeria,urban,Sanitation,2017,0,0,Faecal sludge treated
+NGA,Nigeria,total,Sanitation,2017,23.47372,44808122.36154,Disposed insitu
 NGA,Nigeria,rural,Sanitation,2017,22.2005,21392691.30433,Disposed insitu
 NGA,Nigeria,urban,Sanitation,2017,24.77168,23415431.12976,Disposed insitu
+NGA,Nigeria,total,Sanitation,2017,3.1809,6071902.21832,Sewage treated
 NGA,Nigeria,rural,Sanitation,2017,1.65939,1599012.16585,Sewage treated
 NGA,Nigeria,urban,Sanitation,2017,4.73197,4472890.13916,Sewage treated
+NLD,Netherlands,total,Sanitation,2017,0.10846,18476.3652,Faecal sludge treated
 NLD,Netherlands,rural,Sanitation,2017,1.21546,18476.36546,Faecal sludge treated
 NLD,Netherlands,urban,Sanitation,2017,0,0,Faecal sludge treated
+NLD,Netherlands,total,Sanitation,2017,0.10848,18480.91273,Disposed insitu
 NLD,Netherlands,rural,Sanitation,2017,1.21576,18480.91299,Disposed insitu
 NLD,Netherlands,urban,Sanitation,2017,0,0,Disposed insitu
+NLD,Netherlands,total,Sanitation,2017,97.25633,16568527.5715,Sewage treated
 NLD,Netherlands,rural,Sanitation,2017,95.01405,1444323.86484,Sewage treated
 NLD,Netherlands,urban,Sanitation,2017,97.47601,15124203.82512,Sewage treated
+NOR,Norway,total,Sanitation,2017,7.03554,373262.31197,Faecal sludge treated
+NOR,Norway,total,Sanitation,2017,6.15159,326365.50092,Disposed insitu
+NOR,Norway,total,Sanitation,2017,63.13036,3349307.49882,Sewage treated
+NZL,New Zealand,total,Sanitation,2017,4.67295,219900.68485,Faecal sludge treated
+NZL,New Zealand,total,Sanitation,2017,4.95087,232978.96632,Disposed insitu
+NZL,New Zealand,total,Sanitation,2017,79.05544,3720204.94563,Sewage treated
+OMN,Oman,total,Sanitation,2017,10.77234,499433.78539,Sewage treated
 OMN,Oman,rural,Sanitation,2017,1.50854,11498.15106,Sewage treated
 OMN,Oman,urban,Sanitation,2017,12.59494,487935.6397,Sewage treated
+PER,Peru,total,Sanitation,2017,3.13407,1008088.94899,Faecal sludge treated
 PER,Peru,urban,Sanitation,2017,1.46407,366002.45413,Faecal sludge treated
+PER,Peru,total,Sanitation,2017,4.90327,1577160.08552,Disposed insitu
 PER,Peru,urban,Sanitation,2017,2.29054,572612.62753,Disposed insitu
+PER,Peru,total,Sanitation,2017,39.1774,12601600.18536,Sewage treated
 PER,Peru,rural,Sanitation,2017,10.24672,734328.39137,Sewage treated
 PER,Peru,urban,Sanitation,2017,47.47096,11867271.40503,Sewage treated
+PHL,Philippines,total,Sanitation,2017,0,0,Faecal sludge treated
 PHL,Philippines,rural,Sanitation,2017,0,0,Faecal sludge treated
 PHL,Philippines,urban,Sanitation,2017,0,0,Faecal sludge treated
+PHL,Philippines,total,Sanitation,2017,49.85055,52302244.00763,Disposed insitu
 PHL,Philippines,rural,Sanitation,2017,48.29465,27016136.40513,Disposed insitu
 PHL,Philippines,urban,Sanitation,2017,51.62762,25286107.61618,Disposed insitu
+PHL,Philippines,total,Sanitation,2017,1.78959,1877607.77315,Sewage treated
 PHL,Philippines,rural,Sanitation,2017,1.28972,721474.11945,Sewage treated
 PHL,Philippines,urban,Sanitation,2017,2.36052,1156133.65809,Sewage treated
+PNG,Papua New Guinea,total,Sanitation,2017,1.89628,156465.07622,Sewage treated
 PNG,Papua New Guinea,rural,Sanitation,2017,0.47465,34033.10313,Sewage treated
 PNG,Papua New Guinea,urban,Sanitation,2017,11.3251,122431.97566,Sewage treated
+POL,Poland,total,Sanitation,2017,12.89244,4921134.64939,Faecal sludge treated
+POL,Poland,total,Sanitation,2017,7.34828,2804890.72168,Disposed insitu
+POL,Poland,total,Sanitation,2017,73.01174,27869100.25256,Sewage treated
+PRI,Puerto Rico,total,Sanitation,2017,0.45991,16847.2811,Faecal sludge treated
+PRI,Puerto Rico,total,Sanitation,2017,1.41472,51823.18043,Disposed insitu
+PRI,Puerto Rico,total,Sanitation,2017,30.6695,1123464.02563,Sewage treated
 PRK,Democratic People's Republic of Korea,rural,Sanitation,2017,0,0,Faecal sludge treated
+PRK,Democratic People's Republic of Korea,total,Sanitation,2017,0.80651,205586.02584,Disposed insitu
 PRK,Democratic People's Republic of Korea,rural,Sanitation,2017,0.40879,39933.47958,Disposed insitu
 PRK,Democratic People's Republic of Korea,urban,Sanitation,2017,1.05361,165652.54801,Disposed insitu
 PRK,Democratic People's Republic of Korea,rural,Sanitation,2017,4.72727,461790.16954,Sewage treated
+PRT,Portugal,total,Sanitation,2017,10.36107,1070247.33977,Faecal sludge treated
 PRT,Portugal,urban,Sanitation,2017,5.34031,356638.26645,Faecal sludge treated
+PRT,Portugal,total,Sanitation,2017,10.36107,1070247.33977,Disposed insitu
 PRT,Portugal,urban,Sanitation,2017,5.34031,356638.26645,Disposed insitu
+PRT,Portugal,total,Sanitation,2017,63.96197,6606955.33078,Sewage treated
 PRT,Portugal,rural,Sanitation,2017,30.98283,1131267.78996,Sewage treated
 PRT,Portugal,urban,Sanitation,2017,81.99307,5475687.73825,Sewage treated
+PRY,Paraguay,total,Sanitation,2017,0,0,Faecal sludge treated
 PRY,Paraguay,rural,Sanitation,2017,0,0,Faecal sludge treated
 PRY,Paraguay,urban,Sanitation,2017,0,0,Faecal sludge treated
+PRY,Paraguay,total,Sanitation,2017,54.24926,3695078.33912,Disposed insitu
 PRY,Paraguay,rural,Sanitation,2017,66.24273,1746139.9104,Disposed insitu
 PRY,Paraguay,urban,Sanitation,2017,46.67753,1948938.54635,Disposed insitu
+PRY,Paraguay,total,Sanitation,2017,4.2199,287429.91453,Sewage treated
 PRY,Paraguay,rural,Sanitation,2017,0,0,Sewage treated
 PRY,Paraguay,urban,Sanitation,2017,6.88401,287429.93004,Sewage treated
+PSE,West Bank and Gaza Strip,total,Sanitation,2017,10.27955,505828.50394,Faecal sludge treated
 PSE,West Bank and Gaza Strip,urban,Sanitation,2017,7.51033,280475.9025,Faecal sludge treated
+PSE,West Bank and Gaza Strip,total,Sanitation,2017,13.84765,681404.41638,Disposed insitu
 PSE,West Bank and Gaza Strip,urban,Sanitation,2017,10.073,376179.46307,Disposed insitu
+PSE,West Bank and Gaza Strip,total,Sanitation,2017,36.83624,1812609.61955,Sewage treated
 PSE,West Bank and Gaza Strip,rural,Sanitation,2017,4.525,53675.13077,Sewage treated
 PSE,West Bank and Gaza Strip,urban,Sanitation,2017,47.09917,1758934.50862,Sewage treated
+QAT,Qatar,total,Sanitation,2017,1.98423,52368.05397,Faecal sludge treated
+QAT,Qatar,total,Sanitation,2017,1.98423,52368.05397,Disposed insitu
+QAT,Qatar,total,Sanitation,2017,92.06307,2429738.78413,Sewage treated
+ROU,Romania,total,Sanitation,2017,14.39099,2832046.22549,Faecal sludge treated
+ROU,Romania,total,Sanitation,2017,16.36479,3220476.79665,Disposed insitu
+ROU,Romania,total,Sanitation,2017,45.78491,9010153.27682,Sewage treated
+RUS,Russian Federation,total,Sanitation,2017,3.55721,5122016.63213,Faecal sludge treated
 RUS,Russian Federation,rural,Sanitation,2017,9.50332,3517833.55357,Faecal sludge treated
 RUS,Russian Federation,urban,Sanitation,2017,1.49962,1604182.89791,Faecal sludge treated
+RUS,Russian Federation,total,Sanitation,2017,5.31647,7655169.82238,Disposed insitu
 RUS,Russian Federation,rural,Sanitation,2017,14.2033,5257619.25304,Disposed insitu
 RUS,Russian Federation,urban,Sanitation,2017,2.24127,2397550.29936,Disposed insitu
+RUS,Russian Federation,total,Sanitation,2017,52.43254,75497481.55338,Sewage treated
 RUS,Russian Federation,rural,Sanitation,2017,31.52648,11670119.23553,Sewage treated
 RUS,Russian Federation,urban,Sanitation,2017,59.66687,63827360.41629,Sewage treated
+SAU,Saudi Arabia,total,Sanitation,2017,11.12393,3664023.98874,Faecal sludge treated
+SAU,Saudi Arabia,total,Sanitation,2017,11.12393,3664023.98874,Disposed insitu
+SAU,Saudi Arabia,total,Sanitation,2017,55.50428,18282118.04505,Sewage treated
+SEN,Senegal,total,Sanitation,2017,0,0,Faecal sludge treated
 SEN,Senegal,rural,Sanitation,2017,0,0,Faecal sludge treated
 SEN,Senegal,urban,Sanitation,2017,0,0,Faecal sludge treated
+SEN,Senegal,total,Sanitation,2017,19.40216,3075351.84652,Disposed insitu
 SEN,Senegal,rural,Sanitation,2017,21.00927,1773604.62152,Disposed insitu
 SEN,Senegal,urban,Sanitation,2017,17.57086,1301747.23199,Disposed insitu
+SEN,Senegal,total,Sanitation,2017,2.05361,325508.56965,Sewage treated
 SEN,Senegal,rural,Sanitation,2017,0.08771,7404.47297,Sewage treated
 SEN,Senegal,urban,Sanitation,2017,4.29374,318104.08814,Sewage treated
+SGP,Singapore,total,Sanitation,2017,0,0,Faecal sludge treated
 SGP,Singapore,urban,Sanitation,2017,0,0,Faecal sludge treated
+SGP,Singapore,total,Sanitation,2017,0,0,Disposed insitu
 SGP,Singapore,urban,Sanitation,2017,0,0,Disposed insitu
+SGP,Singapore,total,Sanitation,2017,100,5708844,Sewage treated
 SGP,Singapore,urban,Sanitation,2017,100,5708844,Sewage treated
+SLE,Sierra Leone,total,Sanitation,2017,0,0,Faecal sludge treated
 SLE,Sierra Leone,rural,Sanitation,2017,0,0,Faecal sludge treated
 SLE,Sierra Leone,urban,Sanitation,2017,0,0,Faecal sludge treated
+SLE,Sierra Leone,total,Sanitation,2017,13.26679,1002599.51766,Disposed insitu
 SLE,Sierra Leone,rural,Sanitation,2017,8.40419,370682.85544,Disposed insitu
 SLE,Sierra Leone,urban,Sanitation,2017,20.08303,631916.69681,Disposed insitu
+SLE,Sierra Leone,total,Sanitation,2017,0.08271,6250.74447,Sewage treated
 SLE,Sierra Leone,rural,Sanitation,2017,0.00685,302.25049,Sewage treated
 SLE,Sierra Leone,urban,Sanitation,2017,0.18905,5948.49422,Sewage treated
+SMR,San Marino,total,Sanitation,2017,3.10463,1036.94475,Faecal sludge treated
+SMR,San Marino,total,Sanitation,2017,3.75,1252.5,Disposed insitu
+SMR,San Marino,total,Sanitation,2017,70.3715,23504.081,Sewage treated
+SRB,Serbia,total,Sanitation,2017,2.26608,199201.83874,Faecal sludge treated
 SRB,Serbia,urban,Sanitation,2017,1.03853,51071.10541,Faecal sludge treated
+SRB,Serbia,total,Sanitation,2017,11.06434,972618.58254,Disposed insitu
 SRB,Serbia,urban,Sanitation,2017,5.07072,249358.67293,Disposed insitu
+SRB,Serbia,total,Sanitation,2017,11.39563,1001740.87156,Sewage treated
 SRB,Serbia,rural,Sanitation,2017,4.17479,161687.42496,Sewage treated
 SRB,Serbia,urban,Sanitation,2017,17.08251,840053.45958,Sewage treated
+SVK,Slovakia,total,Sanitation,2017,8.18366,445818.0081,Faecal sludge treated
 SVK,Slovakia,rural,Sanitation,2017,11.81449,297664.72806,Faecal sludge treated
 SVK,Slovakia,urban,Sanitation,2017,5.05958,148153.28147,Faecal sludge treated
+SVK,Slovakia,total,Sanitation,2017,8.45482,460590.09653,Disposed insitu
 SVK,Slovakia,rural,Sanitation,2017,12.20596,307527.78788,Disposed insitu
 SVK,Slovakia,urban,Sanitation,2017,5.22723,153062.31012,Disposed insitu
+SVK,Slovakia,total,Sanitation,2017,65.88124,3588987.33291,Sewage treated
 SVK,Slovakia,rural,Sanitation,2017,51.70624,1302733.12002,Sewage treated
 SVK,Slovakia,urban,Sanitation,2017,78.07785,2286254.20733,Sewage treated
+SVN,Slovenia,total,Sanitation,2017,13.79334,286898.25295,Faecal sludge treated
+SVN,Slovenia,total,Sanitation,2017,15.20674,316296.49854,Disposed insitu
+SVN,Slovenia,total,Sanitation,2017,54.04124,1124044.91948,Sewage treated
+SWE,Sweden,total,Sanitation,2017,3.88779,385306.93981,Faecal sludge treated
 SWE,Sweden,rural,Sanitation,2017,6.31544,80453.74794,Faecal sludge treated
 SWE,Sweden,urban,Sanitation,2017,3.52971,304853.18372,Faecal sludge treated
+SWE,Sweden,total,Sanitation,2017,3.88779,385306.93981,Disposed insitu
 SWE,Sweden,rural,Sanitation,2017,6.31544,80453.74794,Disposed insitu
 SWE,Sweden,urban,Sanitation,2017,3.52971,304853.18372,Disposed insitu
+SWE,Sweden,total,Sanitation,2017,85.60381,8483937.30951,Sewage treated
 SWE,Sweden,rural,Sanitation,2017,75.17166,957627.67965,Sewage treated
 SWE,Sweden,urban,Sanitation,2017,87.14254,7526309.41506,Sewage treated
+SWZ,Eswatini,total,Sanitation,2017,3.17593,43423.01098,Sewage treated
 SWZ,Eswatini,rural,Sanitation,2017,1.00481,10492.63156,Sewage treated
 SWZ,Eswatini,urban,Sanitation,2017,10.19473,32930.3798,Sewage treated
+TUN,Tunisia,total,Sanitation,2017,12.40285,1430312.14313,Faecal sludge treated
 TUN,Tunisia,urban,Sanitation,2017,6.07068,480547.61715,Faecal sludge treated
+TUN,Tunisia,total,Sanitation,2017,12.54467,1446667.6644,Disposed insitu
 TUN,Tunisia,urban,Sanitation,2017,6.14009,486042.6462,Disposed insitu
+TUN,Tunisia,total,Sanitation,2017,54.54288,6289953.6838,Sewage treated
 TUN,Tunisia,rural,Sanitation,2017,7.39426,267394.39437,Sewage treated
 TUN,Tunisia,urban,Sanitation,2017,76.08197,6022559.33192,Sewage treated
+TUR,Turkey,total,Sanitation,2017,2.8083,2267565.59549,Faecal sludge treated
 TUR,Turkey,urban,Sanitation,2017,0.63042,379960.17613,Faecal sludge treated
+TUR,Turkey,total,Sanitation,2017,3.97986,3213539.73696,Disposed insitu
 TUR,Turkey,urban,Sanitation,2017,0.89341,538470.47551,Disposed insitu
+TUR,Turkey,total,Sanitation,2017,58.51975,47251787.63855,Sewage treated
 TUR,Turkey,rural,Sanitation,2017,30.25764,6194861.99098,Sewage treated
 TUR,Turkey,urban,Sanitation,2017,68.12018,41056925.84736,Sewage treated
+TUV,Tuvalu,total,Sanitation,2017,0,0,Faecal sludge treated
 TUV,Tuvalu,rural,Sanitation,2017,0,0,Faecal sludge treated
 TUV,Tuvalu,urban,Sanitation,2017,0,0,Faecal sludge treated
+TUV,Tuvalu,total,Sanitation,2017,6.3154,706.81943,Disposed insitu
 TUV,Tuvalu,rural,Sanitation,2017,9.72453,418.69561,Disposed insitu
 TUV,Tuvalu,urban,Sanitation,2017,4.18393,288.12383,Disposed insitu
+TUV,Tuvalu,total,Sanitation,2017,0,0,Sewage treated
 TUV,Tuvalu,rural,Sanitation,2017,0,0,Sewage treated
 TUV,Tuvalu,urban,Sanitation,2017,0,0,Sewage treated
+TZA,United Republic of Tanzania,total,Sanitation,2017,0,0,Faecal sludge treated
 TZA,United Republic of Tanzania,rural,Sanitation,2017,0,0,Faecal sludge treated
 TZA,United Republic of Tanzania,urban,Sanitation,2017,0,0,Faecal sludge treated
+TZA,United Republic of Tanzania,total,Sanitation,2017,25.12857,14401189.64589,Disposed insitu
 TZA,United Republic of Tanzania,rural,Sanitation,2017,22.31534,8561801.16693,Disposed insitu
 TZA,United Republic of Tanzania,urban,Sanitation,2017,30.82662,5839388.03627,Disposed insitu
+TZA,United Republic of Tanzania,total,Sanitation,2017,0.25031,143450.5352,Sewage treated
 TZA,United Republic of Tanzania,rural,Sanitation,2017,0.07022,26941.9479,Sewage treated
 TZA,United Republic of Tanzania,urban,Sanitation,2017,0.61506,116508.58549,Sewage treated
+UGA,Uganda,total,Sanitation,2017,0.14059,60260.02739,Sewage treated
 UGA,Uganda,rural,Sanitation,2017,0.05484,18053.37063,Sewage treated
 UGA,Uganda,urban,Sanitation,2017,0.42451,42206.65706,Sewage treated
+UKR,Ukraine,total,Sanitation,2017,14.32928,6336828.31107,Faecal sludge treated
 UKR,Ukraine,urban,Sanitation,2017,8.19112,2508336.54995,Faecal sludge treated
+UKR,Ukraine,total,Sanitation,2017,22.9338,10141999.68688,Disposed insitu
 UKR,Ukraine,urban,Sanitation,2017,13.10977,4014555.42984,Disposed insitu
+UKR,Ukraine,total,Sanitation,2017,31.27236,13829558.98617,Sewage treated
 UKR,Ukraine,rural,Sanitation,2017,1.55716,211778.41395,Sewage treated
 UKR,Ukraine,urban,Sanitation,2017,44.46968,13617780.8402,Sewage treated
+USA,United States of America,total,Sanitation,2017,4.37142,14183469.37558,Faecal sludge treated
 USA,United States of America,urban,Sanitation,2017,1.61154,4290649.10714,Faecal sludge treated
+USA,United States of America,total,Sanitation,2017,4.42985,14373052.30325,Disposed insitu
 USA,United States of America,urban,Sanitation,2017,1.63308,4347999.94266,Disposed insitu
+USA,United States of America,total,Sanitation,2017,81.16574,263349910.97039,Sewage treated
 USA,United States of America,rural,Sanitation,2017,30.59011,17807884.61716,Sewage treated
 USA,United States of America,urban,Sanitation,2017,92.22411,245542034.29638,Sewage treated
+VEN,Venezuela (Bolivarian Republic of),total,Sanitation,2017,0.22411,71663.04419,Faecal sludge treated
+VEN,Venezuela (Bolivarian Republic of),total,Sanitation,2017,0.89442,286010.24111,Disposed insitu
+VEN,Venezuela (Bolivarian Republic of),total,Sanitation,2017,22.64003,7239617.6173,Sewage treated
+WSM,Samoa,total,Sanitation,2017,0,0,Faecal sludge treated
 WSM,Samoa,rural,Sanitation,2017,0,0,Faecal sludge treated
 WSM,Samoa,urban,Sanitation,2017,0,0,Faecal sludge treated
+WSM,Samoa,total,Sanitation,2017,48.35233,94983.3222,Disposed insitu
 WSM,Samoa,rural,Sanitation,2017,50.80804,81390.86456,Disposed insitu
 WSM,Samoa,urban,Sanitation,2017,37.49944,13592.4615,Disposed insitu
+WSM,Samoa,total,Sanitation,2017,0.11533,226.54794,Sewage treated
 WSM,Samoa,rural,Sanitation,2017,0.0868,139.04743,Sewage treated
 WSM,Samoa,urban,Sanitation,2017,0.2414,87.50052,Sewage treated
 YEM,Yemen,urban,Sanitation,2017,5.76051,586112.83517,Faecal sludge treated
 YEM,Yemen,urban,Sanitation,2017,6.90338,702395.85669,Disposed insitu
+YEM,Yemen,total,Sanitation,2017,19.8219,5599769.43537,Sewage treated
 YEM,Yemen,rural,Sanitation,2017,0.38942,70390.65349,Sewage treated
 YEM,Yemen,urban,Sanitation,2017,54.34455,5529378.79271,Sewage treated
 ZWE,Zimbabwe,urban,Sanitation,2017,1.10469,58866.35239,Faecal sludge treated
 ZWE,Zimbabwe,urban,Sanitation,2017,3.43757,183179.09739,Disposed insitu
+ZWE,Zimbabwe,total,Sanitation,2017,4.00793,662506.49985,Sewage treated
 ZWE,Zimbabwe,rural,Sanitation,2017,0.32482,36383.32857,Sewage treated
 ZWE,Zimbabwe,urban,Sanitation,2017,11.74992,626123.17702,Sewage treated

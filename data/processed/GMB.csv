@@ -1,4 +1,124 @@
 country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+Gambia,GM,GMB,270,Urban,1,Flush and pour flush - to piped sewer system,0.0,Multiple Indicator Cluster Survey - MICS00
+Gambia,GM,GMB,270,Urban,2,Flush and pour flush - to septic tank,0.0,Multiple Indicator Cluster Survey - MICS00
+Gambia,GM,GMB,270,Urban,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Gambia,GM,GMB,270,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS00
+Gambia,GM,GMB,270,Urban,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS00
+Gambia,GM,GMB,270,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Gambia,GM,GMB,270,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.179,Multiple Indicator Cluster Survey - MICS00
+Gambia,GM,GMB,270,Urban,8,Dry latrines - Traditional latrine,0.479,Multiple Indicator Cluster Survey - MICS00
+Gambia,GM,GMB,270,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.019,Multiple Indicator Cluster Survey - MICS00
+Gambia,GM,GMB,270,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Gambia,GM,GMB,270,Urban,11,Dry latrines - Bucket latrine,0.006,Multiple Indicator Cluster Survey - MICS00
+Gambia,GM,GMB,270,Urban,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS00
+Gambia,GM,GMB,270,Urban,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS00
+Gambia,GM,GMB,270,Urban,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS00
+Gambia,GM,GMB,270,Urban,15,"No facility, bush, field",0.017,Multiple Indicator Cluster Survey - MICS00
+Gambia,GM,GMB,270,Urban,16,Other unimproved,0.003,Multiple Indicator Cluster Survey - MICS00
+Gambia,GM,GMB,270,Urban,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS00
+Gambia,GM,GMB,270,Rural,1,Flush and pour flush - to piped sewer system,0.0,Multiple Indicator Cluster Survey - MICS00
+Gambia,GM,GMB,270,Rural,2,Flush and pour flush - to septic tank,0.0,Multiple Indicator Cluster Survey - MICS00
+Gambia,GM,GMB,270,Rural,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Gambia,GM,GMB,270,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS00
+Gambia,GM,GMB,270,Rural,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS00
+Gambia,GM,GMB,270,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Gambia,GM,GMB,270,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.061,Multiple Indicator Cluster Survey - MICS00
+Gambia,GM,GMB,270,Rural,8,Dry latrines - Traditional latrine,0.743,Multiple Indicator Cluster Survey - MICS00
+Gambia,GM,GMB,270,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.048,Multiple Indicator Cluster Survey - MICS00
+Gambia,GM,GMB,270,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Gambia,GM,GMB,270,Rural,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Gambia,GM,GMB,270,Rural,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS00
+Gambia,GM,GMB,270,Rural,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS00
+Gambia,GM,GMB,270,Rural,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS00
+Gambia,GM,GMB,270,Rural,15,"No facility, bush, field",0.119,Multiple Indicator Cluster Survey - MICS00
+Gambia,GM,GMB,270,Rural,16,Other unimproved,0.003,Multiple Indicator Cluster Survey - MICS00
+Gambia,GM,GMB,270,Rural,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS00
+Gambia,GM,GMB,270,National,1,Flush and pour flush - to piped sewer system,0.0,Multiple Indicator Cluster Survey - MICS00
+Gambia,GM,GMB,270,National,2,Flush and pour flush - to septic tank,0.0,Multiple Indicator Cluster Survey - MICS00
+Gambia,GM,GMB,270,National,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Gambia,GM,GMB,270,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS00
+Gambia,GM,GMB,270,National,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS00
+Gambia,GM,GMB,270,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Gambia,GM,GMB,270,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Gambia,GM,GMB,270,National,8,Dry latrines - Traditional latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Gambia,GM,GMB,270,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Gambia,GM,GMB,270,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Gambia,GM,GMB,270,National,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Gambia,GM,GMB,270,National,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS00
+Gambia,GM,GMB,270,National,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS00
+Gambia,GM,GMB,270,National,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS00
+Gambia,GM,GMB,270,National,15,"No facility, bush, field",0.0,Multiple Indicator Cluster Survey - MICS00
+Gambia,GM,GMB,270,National,16,Other unimproved,0.0,Multiple Indicator Cluster Survey - MICS00
+Gambia,GM,GMB,270,National,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS00
+Gambia,GM,GMB,270,Urban,1,Flush and pour flush - to piped sewer system,0.0,Census - CEN03
+Gambia,GM,GMB,270,Urban,2,Flush and pour flush - to septic tank,0.0,Census - CEN03
+Gambia,GM,GMB,270,Urban,3,Flush and pour flush - to pit,0.0,Census - CEN03
+Gambia,GM,GMB,270,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.257,Census - CEN03
+Gambia,GM,GMB,270,Urban,5,Flush and pour flush - to elsewhere,0.0,Census - CEN03
+Gambia,GM,GMB,270,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.049,Census - CEN03
+Gambia,GM,GMB,270,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN03
+Gambia,GM,GMB,270,Urban,8,Dry latrines - Traditional latrine,0.611,Census - CEN03
+Gambia,GM,GMB,270,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN03
+Gambia,GM,GMB,270,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN03
+Gambia,GM,GMB,270,Urban,11,Dry latrines - Bucket latrine,0.0,Census - CEN03
+Gambia,GM,GMB,270,Urban,12,Dry latrines - Other,0.048,Census - CEN03
+Gambia,GM,GMB,270,Urban,8,Dry latrines - Traditional latrine,0.54,Census - CEN03
+Gambia,GM,GMB,270,Urban,8,Dry latrines - Traditional latrine,0.071,Census - CEN03
+Gambia,GM,GMB,270,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN03
+Gambia,GM,GMB,270,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN03
+Gambia,GM,GMB,270,Urban,11,Dry latrines - Bucket latrine,0.0,Census - CEN03
+Gambia,GM,GMB,270,Urban,12,Dry latrines - Other,0.048,Census - CEN03
+Gambia,GM,GMB,270,Urban,13,Composting toilets,0.0,Census - CEN03
+Gambia,GM,GMB,270,Urban,14,Other improved,0.0,Census - CEN03
+Gambia,GM,GMB,270,Urban,15,"No facility, bush, field",0.008,Census - CEN03
+Gambia,GM,GMB,270,Urban,16,Other unimproved,0.0,Census - CEN03
+Gambia,GM,GMB,270,Urban,17,DK/missing information,0.007,Census - CEN03
+Gambia,GM,GMB,270,Rural,1,Flush and pour flush - to piped sewer system,0.0,Census - CEN03
+Gambia,GM,GMB,270,Rural,2,Flush and pour flush - to septic tank,0.0,Census - CEN03
+Gambia,GM,GMB,270,Rural,3,Flush and pour flush - to pit,0.0,Census - CEN03
+Gambia,GM,GMB,270,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.013,Census - CEN03
+Gambia,GM,GMB,270,Rural,5,Flush and pour flush - to elsewhere,0.0,Census - CEN03
+Gambia,GM,GMB,270,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.04,Census - CEN03
+Gambia,GM,GMB,270,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN03
+Gambia,GM,GMB,270,Rural,8,Dry latrines - Traditional latrine,0.803,Census - CEN03
+Gambia,GM,GMB,270,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN03
+Gambia,GM,GMB,270,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN03
+Gambia,GM,GMB,270,Rural,11,Dry latrines - Bucket latrine,0.0,Census - CEN03
+Gambia,GM,GMB,270,Rural,12,Dry latrines - Other,0.038,Census - CEN03
+Gambia,GM,GMB,270,Rural,8,Dry latrines - Traditional latrine,0.689,Census - CEN03
+Gambia,GM,GMB,270,Rural,8,Dry latrines - Traditional latrine,0.114,Census - CEN03
+Gambia,GM,GMB,270,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN03
+Gambia,GM,GMB,270,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN03
+Gambia,GM,GMB,270,Rural,11,Dry latrines - Bucket latrine,0.0,Census - CEN03
+Gambia,GM,GMB,270,Rural,12,Dry latrines - Other,0.038,Census - CEN03
+Gambia,GM,GMB,270,Rural,13,Composting toilets,0.0,Census - CEN03
+Gambia,GM,GMB,270,Rural,14,Other improved,0.0,Census - CEN03
+Gambia,GM,GMB,270,Rural,15,"No facility, bush, field",0.092,Census - CEN03
+Gambia,GM,GMB,270,Rural,16,Other unimproved,0.0,Census - CEN03
+Gambia,GM,GMB,270,Rural,17,DK/missing information,0.008,Census - CEN03
+Gambia,GM,GMB,270,National,1,Flush and pour flush - to piped sewer system,0.0,Census - CEN03
+Gambia,GM,GMB,270,National,2,Flush and pour flush - to septic tank,0.0,Census - CEN03
+Gambia,GM,GMB,270,National,3,Flush and pour flush - to pit,0.0,Census - CEN03
+Gambia,GM,GMB,270,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.162,Census - CEN03
+Gambia,GM,GMB,270,National,5,Flush and pour flush - to elsewhere,0.0,Census - CEN03
+Gambia,GM,GMB,270,National,6,Dry latrines - Ventilated Improved Pit latrine,0.045,Census - CEN03
+Gambia,GM,GMB,270,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN03
+Gambia,GM,GMB,270,National,8,Dry latrines - Traditional latrine,0.685,Census - CEN03
+Gambia,GM,GMB,270,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN03
+Gambia,GM,GMB,270,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN03
+Gambia,GM,GMB,270,National,11,Dry latrines - Bucket latrine,0.0,Census - CEN03
+Gambia,GM,GMB,270,National,12,Dry latrines - Other,0.044,Census - CEN03
+Gambia,GM,GMB,270,National,8,Dry latrines - Traditional latrine,0.598,Census - CEN03
+Gambia,GM,GMB,270,National,8,Dry latrines - Traditional latrine,0.088,Census - CEN03
+Gambia,GM,GMB,270,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN03
+Gambia,GM,GMB,270,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN03
+Gambia,GM,GMB,270,National,11,Dry latrines - Bucket latrine,0.0,Census - CEN03
+Gambia,GM,GMB,270,National,12,Dry latrines - Other,0.044,Census - CEN03
+Gambia,GM,GMB,270,National,13,Composting toilets,0.0,Census - CEN03
+Gambia,GM,GMB,270,National,14,Other improved,0.0,Census - CEN03
+Gambia,GM,GMB,270,National,15,"No facility, bush, field",0.041,Census - CEN03
+Gambia,GM,GMB,270,National,16,Other unimproved,0.0,Census - CEN03
+Gambia,GM,GMB,270,National,17,DK/missing information,0.007,Census - CEN03
 Gambia,GM,GMB,270,Urban,1,Flush and pour flush - to piped sewer system,0.077,Multiple Indicator Cluster Survey - MICS06
 Gambia,GM,GMB,270,Urban,2,Flush and pour flush - to septic tank,0.25,Multiple Indicator Cluster Survey - MICS06
 Gambia,GM,GMB,270,Urban,3,Flush and pour flush - to pit,0.054,Multiple Indicator Cluster Survey - MICS06
@@ -33,6 +153,23 @@ Gambia,GM,GMB,270,Rural,14,Other improved,0.0,Multiple Indicator Cluster Survey 
 Gambia,GM,GMB,270,Rural,15,"No facility, bush, field",0.067,Multiple Indicator Cluster Survey - MICS06
 Gambia,GM,GMB,270,Rural,16,Other unimproved,0.002,Multiple Indicator Cluster Survey - MICS06
 Gambia,GM,GMB,270,Rural,17,DK/missing information,0.001,Multiple Indicator Cluster Survey - MICS06
+Gambia,GM,GMB,270,National,1,Flush and pour flush - to piped sewer system,0.0,Multiple Indicator Cluster Survey - MICS06
+Gambia,GM,GMB,270,National,2,Flush and pour flush - to septic tank,0.0,Multiple Indicator Cluster Survey - MICS06
+Gambia,GM,GMB,270,National,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS06
+Gambia,GM,GMB,270,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS06
+Gambia,GM,GMB,270,National,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS06
+Gambia,GM,GMB,270,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Multiple Indicator Cluster Survey - MICS06
+Gambia,GM,GMB,270,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Multiple Indicator Cluster Survey - MICS06
+Gambia,GM,GMB,270,National,8,Dry latrines - Traditional latrine,0.0,Multiple Indicator Cluster Survey - MICS06
+Gambia,GM,GMB,270,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Multiple Indicator Cluster Survey - MICS06
+Gambia,GM,GMB,270,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS06
+Gambia,GM,GMB,270,National,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS06
+Gambia,GM,GMB,270,National,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS06
+Gambia,GM,GMB,270,National,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS06
+Gambia,GM,GMB,270,National,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS06
+Gambia,GM,GMB,270,National,15,"No facility, bush, field",0.0,Multiple Indicator Cluster Survey - MICS06
+Gambia,GM,GMB,270,National,16,Other unimproved,0.0,Multiple Indicator Cluster Survey - MICS06
+Gambia,GM,GMB,270,National,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS06
 Gambia,GM,GMB,270,Urban,1,Flush and pour flush - to piped sewer system,0.049,Multiple Indicator Cluster Survey (MICS) Report 2012 - MICS10
 Gambia,GM,GMB,270,Urban,2,Flush and pour flush - to septic tank,0.23,Multiple Indicator Cluster Survey (MICS) Report 2012 - MICS10
 Gambia,GM,GMB,270,Urban,3,Flush and pour flush - to pit,0.058,Multiple Indicator Cluster Survey (MICS) Report 2012 - MICS10
@@ -67,6 +204,74 @@ Gambia,GM,GMB,270,Rural,14,Other improved,0.0,Multiple Indicator Cluster Survey 
 Gambia,GM,GMB,270,Rural,15,"No facility, bush, field",0.051,Multiple Indicator Cluster Survey (MICS) Report 2012 - MICS10
 Gambia,GM,GMB,270,Rural,16,Other unimproved,0.002,Multiple Indicator Cluster Survey (MICS) Report 2012 - MICS10
 Gambia,GM,GMB,270,Rural,17,DK/missing information,0.003,Multiple Indicator Cluster Survey (MICS) Report 2012 - MICS10
+Gambia,GM,GMB,270,National,1,Flush and pour flush - to piped sewer system,0.023,Multiple Indicator Cluster Survey (MICS) Report 2012 - MICS10
+Gambia,GM,GMB,270,National,2,Flush and pour flush - to septic tank,0.112,Multiple Indicator Cluster Survey (MICS) Report 2012 - MICS10
+Gambia,GM,GMB,270,National,3,Flush and pour flush - to pit,0.034,Multiple Indicator Cluster Survey (MICS) Report 2012 - MICS10
+Gambia,GM,GMB,270,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey (MICS) Report 2012 - MICS10
+Gambia,GM,GMB,270,National,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey (MICS) Report 2012 - MICS10
+Gambia,GM,GMB,270,National,6,Dry latrines - Ventilated Improved Pit latrine,0.037,Multiple Indicator Cluster Survey (MICS) Report 2012 - MICS10
+Gambia,GM,GMB,270,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.558,Multiple Indicator Cluster Survey (MICS) Report 2012 - MICS10
+Gambia,GM,GMB,270,National,8,Dry latrines - Traditional latrine,0.0,Multiple Indicator Cluster Survey (MICS) Report 2012 - MICS10
+Gambia,GM,GMB,270,National,9,Dry latrines - Pit latrine without slab/open pit,0.205,Multiple Indicator Cluster Survey (MICS) Report 2012 - MICS10
+Gambia,GM,GMB,270,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey (MICS) Report 2012 - MICS10
+Gambia,GM,GMB,270,National,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey (MICS) Report 2012 - MICS10
+Gambia,GM,GMB,270,National,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey (MICS) Report 2012 - MICS10
+Gambia,GM,GMB,270,National,13,Composting toilets,0.0,Multiple Indicator Cluster Survey (MICS) Report 2012 - MICS10
+Gambia,GM,GMB,270,National,14,Other improved,0.0,Multiple Indicator Cluster Survey (MICS) Report 2012 - MICS10
+Gambia,GM,GMB,270,National,15,"No facility, bush, field",0.028,Multiple Indicator Cluster Survey (MICS) Report 2012 - MICS10
+Gambia,GM,GMB,270,National,16,Other unimproved,0.001,Multiple Indicator Cluster Survey (MICS) Report 2012 - MICS10
+Gambia,GM,GMB,270,National,17,DK/missing information,0.002,Multiple Indicator Cluster Survey (MICS) Report 2012 - MICS10
+Gambia,GM,GMB,270,Urban,1,Flush and pour flush - to piped sewer system,0.0,Integrated Household Survey - IHS11
+Gambia,GM,GMB,270,Urban,2,Flush and pour flush - to septic tank,0.0,Integrated Household Survey - IHS11
+Gambia,GM,GMB,270,Urban,3,Flush and pour flush - to pit,0.0,Integrated Household Survey - IHS11
+Gambia,GM,GMB,270,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Integrated Household Survey - IHS11
+Gambia,GM,GMB,270,Urban,5,Flush and pour flush - to elsewhere,0.0,Integrated Household Survey - IHS11
+Gambia,GM,GMB,270,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Integrated Household Survey - IHS11
+Gambia,GM,GMB,270,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Integrated Household Survey - IHS11
+Gambia,GM,GMB,270,Urban,8,Dry latrines - Traditional latrine,0.0,Integrated Household Survey - IHS11
+Gambia,GM,GMB,270,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Integrated Household Survey - IHS11
+Gambia,GM,GMB,270,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Integrated Household Survey - IHS11
+Gambia,GM,GMB,270,Urban,11,Dry latrines - Bucket latrine,0.0,Integrated Household Survey - IHS11
+Gambia,GM,GMB,270,Urban,12,Dry latrines - Other,0.0,Integrated Household Survey - IHS11
+Gambia,GM,GMB,270,Urban,13,Composting toilets,0.0,Integrated Household Survey - IHS11
+Gambia,GM,GMB,270,Urban,14,Other improved,0.0,Integrated Household Survey - IHS11
+Gambia,GM,GMB,270,Urban,15,"No facility, bush, field",0.001,Integrated Household Survey - IHS11
+Gambia,GM,GMB,270,Urban,16,Other unimproved,0.018,Integrated Household Survey - IHS11
+Gambia,GM,GMB,270,Urban,17,DK/missing information,0.0,Integrated Household Survey - IHS11
+Gambia,GM,GMB,270,Rural,1,Flush and pour flush - to piped sewer system,0.0,Integrated Household Survey - IHS11
+Gambia,GM,GMB,270,Rural,2,Flush and pour flush - to septic tank,0.0,Integrated Household Survey - IHS11
+Gambia,GM,GMB,270,Rural,3,Flush and pour flush - to pit,0.0,Integrated Household Survey - IHS11
+Gambia,GM,GMB,270,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Integrated Household Survey - IHS11
+Gambia,GM,GMB,270,Rural,5,Flush and pour flush - to elsewhere,0.0,Integrated Household Survey - IHS11
+Gambia,GM,GMB,270,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Integrated Household Survey - IHS11
+Gambia,GM,GMB,270,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Integrated Household Survey - IHS11
+Gambia,GM,GMB,270,Rural,8,Dry latrines - Traditional latrine,0.0,Integrated Household Survey - IHS11
+Gambia,GM,GMB,270,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Integrated Household Survey - IHS11
+Gambia,GM,GMB,270,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Integrated Household Survey - IHS11
+Gambia,GM,GMB,270,Rural,11,Dry latrines - Bucket latrine,0.0,Integrated Household Survey - IHS11
+Gambia,GM,GMB,270,Rural,12,Dry latrines - Other,0.0,Integrated Household Survey - IHS11
+Gambia,GM,GMB,270,Rural,13,Composting toilets,0.0,Integrated Household Survey - IHS11
+Gambia,GM,GMB,270,Rural,14,Other improved,0.0,Integrated Household Survey - IHS11
+Gambia,GM,GMB,270,Rural,15,"No facility, bush, field",0.032,Integrated Household Survey - IHS11
+Gambia,GM,GMB,270,Rural,16,Other unimproved,0.045,Integrated Household Survey - IHS11
+Gambia,GM,GMB,270,Rural,17,DK/missing information,0.0,Integrated Household Survey - IHS11
+Gambia,GM,GMB,270,National,1,Flush and pour flush - to piped sewer system,0.0,Integrated Household Survey - IHS11
+Gambia,GM,GMB,270,National,2,Flush and pour flush - to septic tank,0.0,Integrated Household Survey - IHS11
+Gambia,GM,GMB,270,National,3,Flush and pour flush - to pit,0.0,Integrated Household Survey - IHS11
+Gambia,GM,GMB,270,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Integrated Household Survey - IHS11
+Gambia,GM,GMB,270,National,5,Flush and pour flush - to elsewhere,0.0,Integrated Household Survey - IHS11
+Gambia,GM,GMB,270,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Integrated Household Survey - IHS11
+Gambia,GM,GMB,270,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Integrated Household Survey - IHS11
+Gambia,GM,GMB,270,National,8,Dry latrines - Traditional latrine,0.0,Integrated Household Survey - IHS11
+Gambia,GM,GMB,270,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Integrated Household Survey - IHS11
+Gambia,GM,GMB,270,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Integrated Household Survey - IHS11
+Gambia,GM,GMB,270,National,11,Dry latrines - Bucket latrine,0.0,Integrated Household Survey - IHS11
+Gambia,GM,GMB,270,National,12,Dry latrines - Other,0.0,Integrated Household Survey - IHS11
+Gambia,GM,GMB,270,National,13,Composting toilets,0.0,Integrated Household Survey - IHS11
+Gambia,GM,GMB,270,National,14,Other improved,0.0,Integrated Household Survey - IHS11
+Gambia,GM,GMB,270,National,15,"No facility, bush, field",0.016,Integrated Household Survey - IHS11
+Gambia,GM,GMB,270,National,16,Other unimproved,0.03,Integrated Household Survey - IHS11
+Gambia,GM,GMB,270,National,17,DK/missing information,0.0,Integrated Household Survey - IHS11
 Gambia,GM,GMB,270,Urban,1,Flush and pour flush - to piped sewer system,0.031,Demographic and Health Survey - DHS13
 Gambia,GM,GMB,270,Urban,2,Flush and pour flush - to septic tank,0.296,Demographic and Health Survey - DHS13
 Gambia,GM,GMB,270,Urban,3,Flush and pour flush - to pit,0.036,Demographic and Health Survey - DHS13
@@ -101,6 +306,23 @@ Gambia,GM,GMB,270,Rural,14,Other improved,0.0,Demographic and Health Survey - DH
 Gambia,GM,GMB,270,Rural,15,"No facility, bush, field",0.035,Demographic and Health Survey - DHS13
 Gambia,GM,GMB,270,Rural,16,Other unimproved,0.001,Demographic and Health Survey - DHS13
 Gambia,GM,GMB,270,Rural,17,DK/missing information,0.001,Demographic and Health Survey - DHS13
+Gambia,GM,GMB,270,National,1,Flush and pour flush - to piped sewer system,0.016,Demographic and Health Survey - DHS13
+Gambia,GM,GMB,270,National,2,Flush and pour flush - to septic tank,0.159,Demographic and Health Survey - DHS13
+Gambia,GM,GMB,270,National,3,Flush and pour flush - to pit,0.021,Demographic and Health Survey - DHS13
+Gambia,GM,GMB,270,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS13
+Gambia,GM,GMB,270,National,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS13
+Gambia,GM,GMB,270,National,6,Dry latrines - Ventilated Improved Pit latrine,0.09,Demographic and Health Survey - DHS13
+Gambia,GM,GMB,270,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.301,Demographic and Health Survey - DHS13
+Gambia,GM,GMB,270,National,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS13
+Gambia,GM,GMB,270,National,9,Dry latrines - Pit latrine without slab/open pit,0.393,Demographic and Health Survey - DHS13
+Gambia,GM,GMB,270,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS13
+Gambia,GM,GMB,270,National,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS13
+Gambia,GM,GMB,270,National,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS13
+Gambia,GM,GMB,270,National,13,Composting toilets,0.0,Demographic and Health Survey - DHS13
+Gambia,GM,GMB,270,National,14,Other improved,0.0,Demographic and Health Survey - DHS13
+Gambia,GM,GMB,270,National,15,"No facility, bush, field",0.018,Demographic and Health Survey - DHS13
+Gambia,GM,GMB,270,National,16,Other unimproved,0.001,Demographic and Health Survey - DHS13
+Gambia,GM,GMB,270,National,17,DK/missing information,0.001,Demographic and Health Survey - DHS13
 Gambia,GM,GMB,270,Urban,1,Flush and pour flush - to piped sewer system,0.04,Census - CEN13
 Gambia,GM,GMB,270,Urban,2,Flush and pour flush - to septic tank,0.267,Census - CEN13
 Gambia,GM,GMB,270,Urban,3,Flush and pour flush - to pit,0.0,Census - CEN13
@@ -135,3 +357,95 @@ Gambia,GM,GMB,270,Rural,14,Other improved,0.0,Census - CEN13
 Gambia,GM,GMB,270,Rural,15,"No facility, bush, field",0.06,Census - CEN13
 Gambia,GM,GMB,270,Rural,16,Other unimproved,0.009,Census - CEN13
 Gambia,GM,GMB,270,Rural,17,DK/missing information,0.001,Census - CEN13
+Gambia,GM,GMB,270,National,1,Flush and pour flush - to piped sewer system,0.027,Census - CEN13
+Gambia,GM,GMB,270,National,2,Flush and pour flush - to septic tank,0.187,Census - CEN13
+Gambia,GM,GMB,270,National,3,Flush and pour flush - to pit,0.0,Census - CEN13
+Gambia,GM,GMB,270,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN13
+Gambia,GM,GMB,270,National,5,Flush and pour flush - to elsewhere,0.0,Census - CEN13
+Gambia,GM,GMB,270,National,6,Dry latrines - Ventilated Improved Pit latrine,0.04,Census - CEN13
+Gambia,GM,GMB,270,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.397,Census - CEN13
+Gambia,GM,GMB,270,National,8,Dry latrines - Traditional latrine,0.0,Census - CEN13
+Gambia,GM,GMB,270,National,9,Dry latrines - Pit latrine without slab/open pit,0.314,Census - CEN13
+Gambia,GM,GMB,270,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN13
+Gambia,GM,GMB,270,National,11,Dry latrines - Bucket latrine,0.003,Census - CEN13
+Gambia,GM,GMB,270,National,12,Dry latrines - Other,0.0,Census - CEN13
+Gambia,GM,GMB,270,National,13,Composting toilets,0.0,Census - CEN13
+Gambia,GM,GMB,270,National,14,Other improved,0.0,Census - CEN13
+Gambia,GM,GMB,270,National,15,"No facility, bush, field",0.023,Census - CEN13
+Gambia,GM,GMB,270,National,16,Other unimproved,0.009,Census - CEN13
+Gambia,GM,GMB,270,National,17,DK/missing information,0.001,Census - CEN13
+Gambia,GM,GMB,270,Urban,1,Flush and pour flush - to piped sewer system,0.0,Integrated Household Survey 2003-04 - IHS04
+Gambia,GM,GMB,270,Urban,2,Flush and pour flush - to septic tank,0.0,Integrated Household Survey 2003-04 - IHS04
+Gambia,GM,GMB,270,Urban,3,Flush and pour flush - to pit,0.0,Integrated Household Survey 2003-04 - IHS04
+Gambia,GM,GMB,270,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Integrated Household Survey 2003-04 - IHS04
+Gambia,GM,GMB,270,Urban,5,Flush and pour flush - to elsewhere,0.0,Integrated Household Survey 2003-04 - IHS04
+Gambia,GM,GMB,270,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Integrated Household Survey 2003-04 - IHS04
+Gambia,GM,GMB,270,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Integrated Household Survey 2003-04 - IHS04
+Gambia,GM,GMB,270,Urban,8,Dry latrines - Traditional latrine,0.595,Integrated Household Survey 2003-04 - IHS04
+Gambia,GM,GMB,270,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Integrated Household Survey 2003-04 - IHS04
+Gambia,GM,GMB,270,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Integrated Household Survey 2003-04 - IHS04
+Gambia,GM,GMB,270,Urban,11,Dry latrines - Bucket latrine,0.043,Integrated Household Survey 2003-04 - IHS04
+Gambia,GM,GMB,270,Urban,8,Dry latrines - Traditional latrine,0.456,Integrated Household Survey 2003-04 - IHS04
+Gambia,GM,GMB,270,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Integrated Household Survey 2003-04 - IHS04
+Gambia,GM,GMB,270,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Integrated Household Survey 2003-04 - IHS04
+Gambia,GM,GMB,270,Urban,11,Dry latrines - Bucket latrine,0.041,Integrated Household Survey 2003-04 - IHS04
+Gambia,GM,GMB,270,Urban,8,Dry latrines - Traditional latrine,0.139,Integrated Household Survey 2003-04 - IHS04
+Gambia,GM,GMB,270,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Integrated Household Survey 2003-04 - IHS04
+Gambia,GM,GMB,270,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Integrated Household Survey 2003-04 - IHS04
+Gambia,GM,GMB,270,Urban,11,Dry latrines - Bucket latrine,0.002,Integrated Household Survey 2003-04 - IHS04
+Gambia,GM,GMB,270,Urban,12,Dry latrines - Other,0.0,Integrated Household Survey 2003-04 - IHS04
+Gambia,GM,GMB,270,Urban,13,Composting toilets,0.0,Integrated Household Survey 2003-04 - IHS04
+Gambia,GM,GMB,270,Urban,14,Other improved,0.0,Integrated Household Survey 2003-04 - IHS04
+Gambia,GM,GMB,270,Urban,15,"No facility, bush, field",0.003,Integrated Household Survey 2003-04 - IHS04
+Gambia,GM,GMB,270,Urban,16,Other unimproved,0.027,Integrated Household Survey 2003-04 - IHS04
+Gambia,GM,GMB,270,Urban,17,DK/missing information,0.055,Integrated Household Survey 2003-04 - IHS04
+Gambia,GM,GMB,270,Rural,1,Flush and pour flush - to piped sewer system,0.0,Integrated Household Survey 2003-04 - IHS04
+Gambia,GM,GMB,270,Rural,2,Flush and pour flush - to septic tank,0.0,Integrated Household Survey 2003-04 - IHS04
+Gambia,GM,GMB,270,Rural,3,Flush and pour flush - to pit,0.0,Integrated Household Survey 2003-04 - IHS04
+Gambia,GM,GMB,270,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Integrated Household Survey 2003-04 - IHS04
+Gambia,GM,GMB,270,Rural,5,Flush and pour flush - to elsewhere,0.0,Integrated Household Survey 2003-04 - IHS04
+Gambia,GM,GMB,270,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Integrated Household Survey 2003-04 - IHS04
+Gambia,GM,GMB,270,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Integrated Household Survey 2003-04 - IHS04
+Gambia,GM,GMB,270,Rural,8,Dry latrines - Traditional latrine,0.909,Integrated Household Survey 2003-04 - IHS04
+Gambia,GM,GMB,270,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Integrated Household Survey 2003-04 - IHS04
+Gambia,GM,GMB,270,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Integrated Household Survey 2003-04 - IHS04
+Gambia,GM,GMB,270,Rural,11,Dry latrines - Bucket latrine,0.015,Integrated Household Survey 2003-04 - IHS04
+Gambia,GM,GMB,270,Rural,8,Dry latrines - Traditional latrine,0.715,Integrated Household Survey 2003-04 - IHS04
+Gambia,GM,GMB,270,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Integrated Household Survey 2003-04 - IHS04
+Gambia,GM,GMB,270,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Integrated Household Survey 2003-04 - IHS04
+Gambia,GM,GMB,270,Rural,11,Dry latrines - Bucket latrine,0.001,Integrated Household Survey 2003-04 - IHS04
+Gambia,GM,GMB,270,Rural,8,Dry latrines - Traditional latrine,0.194,Integrated Household Survey 2003-04 - IHS04
+Gambia,GM,GMB,270,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Integrated Household Survey 2003-04 - IHS04
+Gambia,GM,GMB,270,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Integrated Household Survey 2003-04 - IHS04
+Gambia,GM,GMB,270,Rural,11,Dry latrines - Bucket latrine,0.014,Integrated Household Survey 2003-04 - IHS04
+Gambia,GM,GMB,270,Rural,12,Dry latrines - Other,0.0,Integrated Household Survey 2003-04 - IHS04
+Gambia,GM,GMB,270,Rural,13,Composting toilets,0.0,Integrated Household Survey 2003-04 - IHS04
+Gambia,GM,GMB,270,Rural,14,Other improved,0.0,Integrated Household Survey 2003-04 - IHS04
+Gambia,GM,GMB,270,Rural,15,"No facility, bush, field",0.042,Integrated Household Survey 2003-04 - IHS04
+Gambia,GM,GMB,270,Rural,16,Other unimproved,0.0,Integrated Household Survey 2003-04 - IHS04
+Gambia,GM,GMB,270,Rural,17,DK/missing information,0.01,Integrated Household Survey 2003-04 - IHS04
+Gambia,GM,GMB,270,National,1,Flush and pour flush - to piped sewer system,0.0,Integrated Household Survey 2003-04 - IHS04
+Gambia,GM,GMB,270,National,2,Flush and pour flush - to septic tank,0.0,Integrated Household Survey 2003-04 - IHS04
+Gambia,GM,GMB,270,National,3,Flush and pour flush - to pit,0.0,Integrated Household Survey 2003-04 - IHS04
+Gambia,GM,GMB,270,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Integrated Household Survey 2003-04 - IHS04
+Gambia,GM,GMB,270,National,5,Flush and pour flush - to elsewhere,0.0,Integrated Household Survey 2003-04 - IHS04
+Gambia,GM,GMB,270,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Integrated Household Survey 2003-04 - IHS04
+Gambia,GM,GMB,270,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Integrated Household Survey 2003-04 - IHS04
+Gambia,GM,GMB,270,National,8,Dry latrines - Traditional latrine,0.798,Integrated Household Survey 2003-04 - IHS04
+Gambia,GM,GMB,270,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Integrated Household Survey 2003-04 - IHS04
+Gambia,GM,GMB,270,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Integrated Household Survey 2003-04 - IHS04
+Gambia,GM,GMB,270,National,11,Dry latrines - Bucket latrine,0.025,Integrated Household Survey 2003-04 - IHS04
+Gambia,GM,GMB,270,National,8,Dry latrines - Traditional latrine,0.624,Integrated Household Survey 2003-04 - IHS04
+Gambia,GM,GMB,270,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Integrated Household Survey 2003-04 - IHS04
+Gambia,GM,GMB,270,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Integrated Household Survey 2003-04 - IHS04
+Gambia,GM,GMB,270,National,11,Dry latrines - Bucket latrine,0.015,Integrated Household Survey 2003-04 - IHS04
+Gambia,GM,GMB,270,National,8,Dry latrines - Traditional latrine,0.175,Integrated Household Survey 2003-04 - IHS04
+Gambia,GM,GMB,270,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Integrated Household Survey 2003-04 - IHS04
+Gambia,GM,GMB,270,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Integrated Household Survey 2003-04 - IHS04
+Gambia,GM,GMB,270,National,11,Dry latrines - Bucket latrine,0.01,Integrated Household Survey 2003-04 - IHS04
+Gambia,GM,GMB,270,National,12,Dry latrines - Other,0.0,Integrated Household Survey 2003-04 - IHS04
+Gambia,GM,GMB,270,National,13,Composting toilets,0.0,Integrated Household Survey 2003-04 - IHS04
+Gambia,GM,GMB,270,National,14,Other improved,0.0,Integrated Household Survey 2003-04 - IHS04
+Gambia,GM,GMB,270,National,15,"No facility, bush, field",0.028,Integrated Household Survey 2003-04 - IHS04
+Gambia,GM,GMB,270,National,16,Other unimproved,0.01,Integrated Household Survey 2003-04 - IHS04
+Gambia,GM,GMB,270,National,17,DK/missing information,0.026,Integrated Household Survey 2003-04 - IHS04

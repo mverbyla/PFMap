@@ -1,4 +1,118 @@
 country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+Dominican Republic,DO,DOM,214,Urban,1,Flush and pour flush - to piped sewer system,0.0,Multiple Indicator Cluster Survey - MICS00
+Dominican Republic,DO,DOM,214,Urban,2,Flush and pour flush - to septic tank,0.0,Multiple Indicator Cluster Survey - MICS00
+Dominican Republic,DO,DOM,214,Urban,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Dominican Republic,DO,DOM,214,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS00
+Dominican Republic,DO,DOM,214,Urban,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS00
+Dominican Republic,DO,DOM,214,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Dominican Republic,DO,DOM,214,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Dominican Republic,DO,DOM,214,Urban,8,Dry latrines - Traditional latrine,0.173,Multiple Indicator Cluster Survey - MICS00
+Dominican Republic,DO,DOM,214,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.004,Multiple Indicator Cluster Survey - MICS00
+Dominican Republic,DO,DOM,214,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Dominican Republic,DO,DOM,214,Urban,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Dominican Republic,DO,DOM,214,Urban,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS00
+Dominican Republic,DO,DOM,214,Urban,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS00
+Dominican Republic,DO,DOM,214,Urban,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS00
+Dominican Republic,DO,DOM,214,Urban,15,"No facility, bush, field",0.006,Multiple Indicator Cluster Survey - MICS00
+Dominican Republic,DO,DOM,214,Urban,16,Other unimproved,0.007,Multiple Indicator Cluster Survey - MICS00
+Dominican Republic,DO,DOM,214,Urban,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS00
+Dominican Republic,DO,DOM,214,Rural,1,Flush and pour flush - to piped sewer system,0.0,Multiple Indicator Cluster Survey - MICS00
+Dominican Republic,DO,DOM,214,Rural,2,Flush and pour flush - to septic tank,0.0,Multiple Indicator Cluster Survey - MICS00
+Dominican Republic,DO,DOM,214,Rural,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Dominican Republic,DO,DOM,214,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS00
+Dominican Republic,DO,DOM,214,Rural,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS00
+Dominican Republic,DO,DOM,214,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Dominican Republic,DO,DOM,214,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Dominican Republic,DO,DOM,214,Rural,8,Dry latrines - Traditional latrine,0.595,Multiple Indicator Cluster Survey - MICS00
+Dominican Republic,DO,DOM,214,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.022,Multiple Indicator Cluster Survey - MICS00
+Dominican Republic,DO,DOM,214,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Dominican Republic,DO,DOM,214,Rural,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Dominican Republic,DO,DOM,214,Rural,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS00
+Dominican Republic,DO,DOM,214,Rural,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS00
+Dominican Republic,DO,DOM,214,Rural,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS00
+Dominican Republic,DO,DOM,214,Rural,15,"No facility, bush, field",0.064,Multiple Indicator Cluster Survey - MICS00
+Dominican Republic,DO,DOM,214,Rural,16,Other unimproved,0.015,Multiple Indicator Cluster Survey - MICS00
+Dominican Republic,DO,DOM,214,Rural,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS00
+Dominican Republic,DO,DOM,214,National,1,Flush and pour flush - to piped sewer system,0.0,Multiple Indicator Cluster Survey - MICS00
+Dominican Republic,DO,DOM,214,National,2,Flush and pour flush - to septic tank,0.0,Multiple Indicator Cluster Survey - MICS00
+Dominican Republic,DO,DOM,214,National,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Dominican Republic,DO,DOM,214,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS00
+Dominican Republic,DO,DOM,214,National,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS00
+Dominican Republic,DO,DOM,214,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Dominican Republic,DO,DOM,214,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Dominican Republic,DO,DOM,214,National,8,Dry latrines - Traditional latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Dominican Republic,DO,DOM,214,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Dominican Republic,DO,DOM,214,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Dominican Republic,DO,DOM,214,National,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Dominican Republic,DO,DOM,214,National,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS00
+Dominican Republic,DO,DOM,214,National,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS00
+Dominican Republic,DO,DOM,214,National,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS00
+Dominican Republic,DO,DOM,214,National,15,"No facility, bush, field",0.0,Multiple Indicator Cluster Survey - MICS00
+Dominican Republic,DO,DOM,214,National,16,Other unimproved,0.0,Multiple Indicator Cluster Survey - MICS00
+Dominican Republic,DO,DOM,214,National,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS00
+Dominican Republic,DO,DOM,214,Urban,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS02
+Dominican Republic,DO,DOM,214,Urban,2,Flush and pour flush - to septic tank,0.0,Demographic and Health Survey - DHS02
+Dominican Republic,DO,DOM,214,Urban,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS02
+Dominican Republic,DO,DOM,214,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS02
+Dominican Republic,DO,DOM,214,Urban,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS02
+Dominican Republic,DO,DOM,214,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - DHS02
+Dominican Republic,DO,DOM,214,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.245,Demographic and Health Survey - DHS02
+Dominican Republic,DO,DOM,214,Urban,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS02
+Dominican Republic,DO,DOM,214,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.022,Demographic and Health Survey - DHS02
+Dominican Republic,DO,DOM,214,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.164,Demographic and Health Survey - DHS02
+Dominican Republic,DO,DOM,214,Urban,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS02
+Dominican Republic,DO,DOM,214,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.015,Demographic and Health Survey - DHS02
+Dominican Republic,DO,DOM,214,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.081,Demographic and Health Survey - DHS02
+Dominican Republic,DO,DOM,214,Urban,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS02
+Dominican Republic,DO,DOM,214,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.007,Demographic and Health Survey - DHS02
+Dominican Republic,DO,DOM,214,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS02
+Dominican Republic,DO,DOM,214,Urban,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS02
+Dominican Republic,DO,DOM,214,Urban,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS02
+Dominican Republic,DO,DOM,214,Urban,13,Composting toilets,0.0,Demographic and Health Survey - DHS02
+Dominican Republic,DO,DOM,214,Urban,14,Other improved,0.0,Demographic and Health Survey - DHS02
+Dominican Republic,DO,DOM,214,Urban,15,"No facility, bush, field",0.034,Demographic and Health Survey - DHS02
+Dominican Republic,DO,DOM,214,Urban,16,Other unimproved,0.001,Demographic and Health Survey - DHS02
+Dominican Republic,DO,DOM,214,Urban,17,DK/missing information,0.001,Demographic and Health Survey - DHS02
+Dominican Republic,DO,DOM,214,Rural,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS02
+Dominican Republic,DO,DOM,214,Rural,2,Flush and pour flush - to septic tank,0.0,Demographic and Health Survey - DHS02
+Dominican Republic,DO,DOM,214,Rural,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS02
+Dominican Republic,DO,DOM,214,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS02
+Dominican Republic,DO,DOM,214,Rural,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS02
+Dominican Republic,DO,DOM,214,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - DHS02
+Dominican Republic,DO,DOM,214,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.551,Demographic and Health Survey - DHS02
+Dominican Republic,DO,DOM,214,Rural,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS02
+Dominican Republic,DO,DOM,214,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.05,Demographic and Health Survey - DHS02
+Dominican Republic,DO,DOM,214,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.421,Demographic and Health Survey - DHS02
+Dominican Republic,DO,DOM,214,Rural,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS02
+Dominican Republic,DO,DOM,214,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.039,Demographic and Health Survey - DHS02
+Dominican Republic,DO,DOM,214,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.13,Demographic and Health Survey - DHS02
+Dominican Republic,DO,DOM,214,Rural,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS02
+Dominican Republic,DO,DOM,214,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.011,Demographic and Health Survey - DHS02
+Dominican Republic,DO,DOM,214,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS02
+Dominican Republic,DO,DOM,214,Rural,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS02
+Dominican Republic,DO,DOM,214,Rural,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS02
+Dominican Republic,DO,DOM,214,Rural,13,Composting toilets,0.0,Demographic and Health Survey - DHS02
+Dominican Republic,DO,DOM,214,Rural,14,Other improved,0.0,Demographic and Health Survey - DHS02
+Dominican Republic,DO,DOM,214,Rural,15,"No facility, bush, field",0.103,Demographic and Health Survey - DHS02
+Dominican Republic,DO,DOM,214,Rural,16,Other unimproved,0.002,Demographic and Health Survey - DHS02
+Dominican Republic,DO,DOM,214,Rural,17,DK/missing information,0.002,Demographic and Health Survey - DHS02
+Dominican Republic,DO,DOM,214,National,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS02
+Dominican Republic,DO,DOM,214,National,2,Flush and pour flush - to septic tank,0.0,Demographic and Health Survey - DHS02
+Dominican Republic,DO,DOM,214,National,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS02
+Dominican Republic,DO,DOM,214,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS02
+Dominican Republic,DO,DOM,214,National,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS02
+Dominican Republic,DO,DOM,214,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - DHS02
+Dominican Republic,DO,DOM,214,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS02
+Dominican Republic,DO,DOM,214,National,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS02
+Dominican Republic,DO,DOM,214,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Survey - DHS02
+Dominican Republic,DO,DOM,214,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS02
+Dominican Republic,DO,DOM,214,National,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS02
+Dominican Republic,DO,DOM,214,National,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS02
+Dominican Republic,DO,DOM,214,National,13,Composting toilets,0.0,Demographic and Health Survey - DHS02
+Dominican Republic,DO,DOM,214,National,14,Other improved,0.0,Demographic and Health Survey - DHS02
+Dominican Republic,DO,DOM,214,National,15,"No facility, bush, field",0.0,Demographic and Health Survey - DHS02
+Dominican Republic,DO,DOM,214,National,16,Other unimproved,0.0,Demographic and Health Survey - DHS02
+Dominican Republic,DO,DOM,214,National,17,DK/missing information,0.0,Demographic and Health Survey - DHS02
 Dominican Republic,DO,DOM,214,Urban,1,Flush and pour flush - to piped sewer system,0.373,World Health Survey - WHS03
 Dominican Republic,DO,DOM,214,Urban,2,Flush and pour flush - to septic tank,0.317,World Health Survey - WHS03
 Dominican Republic,DO,DOM,214,Urban,3,Flush and pour flush - to pit,0.0,World Health Survey - WHS03
@@ -45,6 +159,470 @@ Dominican Republic,DO,DOM,214,Rural,14,Other improved,0.0,World Health Survey - 
 Dominican Republic,DO,DOM,214,Rural,15,"No facility, bush, field",0.102,World Health Survey - WHS03
 Dominican Republic,DO,DOM,214,Rural,16,Other unimproved,0.006,World Health Survey - WHS03
 Dominican Republic,DO,DOM,214,Rural,17,DK/missing information,0.0,World Health Survey - WHS03
+Dominican Republic,DO,DOM,214,National,1,Flush and pour flush - to piped sewer system,0.0,World Health Survey - WHS03
+Dominican Republic,DO,DOM,214,National,2,Flush and pour flush - to septic tank,0.0,World Health Survey - WHS03
+Dominican Republic,DO,DOM,214,National,3,Flush and pour flush - to pit,0.0,World Health Survey - WHS03
+Dominican Republic,DO,DOM,214,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,World Health Survey - WHS03
+Dominican Republic,DO,DOM,214,National,5,Flush and pour flush - to elsewhere,0.0,World Health Survey - WHS03
+Dominican Republic,DO,DOM,214,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,World Health Survey - WHS03
+Dominican Republic,DO,DOM,214,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,World Health Survey - WHS03
+Dominican Republic,DO,DOM,214,National,8,Dry latrines - Traditional latrine,0.0,World Health Survey - WHS03
+Dominican Republic,DO,DOM,214,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,World Health Survey - WHS03
+Dominican Republic,DO,DOM,214,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,World Health Survey - WHS03
+Dominican Republic,DO,DOM,214,National,11,Dry latrines - Bucket latrine,0.0,World Health Survey - WHS03
+Dominican Republic,DO,DOM,214,National,12,Dry latrines - Other,0.0,World Health Survey - WHS03
+Dominican Republic,DO,DOM,214,National,13,Composting toilets,0.0,World Health Survey - WHS03
+Dominican Republic,DO,DOM,214,National,14,Other improved,0.0,World Health Survey - WHS03
+Dominican Republic,DO,DOM,214,National,15,"No facility, bush, field",0.0,World Health Survey - WHS03
+Dominican Republic,DO,DOM,214,National,16,Other unimproved,0.0,World Health Survey - WHS03
+Dominican Republic,DO,DOM,214,National,17,DK/missing information,0.0,World Health Survey - WHS03
+Dominican Republic,DO,DOM,214,Urban,1,Flush and pour flush - to piped sewer system,0.0,ENHOGAR - ENH06
+Dominican Republic,DO,DOM,214,Urban,2,Flush and pour flush - to septic tank,0.0,ENHOGAR - ENH06
+Dominican Republic,DO,DOM,214,Urban,3,Flush and pour flush - to pit,0.0,ENHOGAR - ENH06
+Dominican Republic,DO,DOM,214,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,ENHOGAR - ENH06
+Dominican Republic,DO,DOM,214,Urban,5,Flush and pour flush - to elsewhere,0.0,ENHOGAR - ENH06
+Dominican Republic,DO,DOM,214,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,ENHOGAR - ENH06
+Dominican Republic,DO,DOM,214,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.182,ENHOGAR - ENH06
+Dominican Republic,DO,DOM,214,Urban,8,Dry latrines - Traditional latrine,0.0,ENHOGAR - ENH06
+Dominican Republic,DO,DOM,214,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.022,ENHOGAR - ENH06
+Dominican Republic,DO,DOM,214,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.119,ENHOGAR - ENH06
+Dominican Republic,DO,DOM,214,Urban,8,Dry latrines - Traditional latrine,0.0,ENHOGAR - ENH06
+Dominican Republic,DO,DOM,214,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.019,ENHOGAR - ENH06
+Dominican Republic,DO,DOM,214,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.063,ENHOGAR - ENH06
+Dominican Republic,DO,DOM,214,Urban,8,Dry latrines - Traditional latrine,0.0,ENHOGAR - ENH06
+Dominican Republic,DO,DOM,214,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.003,ENHOGAR - ENH06
+Dominican Republic,DO,DOM,214,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,ENHOGAR - ENH06
+Dominican Republic,DO,DOM,214,Urban,11,Dry latrines - Bucket latrine,0.0,ENHOGAR - ENH06
+Dominican Republic,DO,DOM,214,Urban,12,Dry latrines - Other,0.0,ENHOGAR - ENH06
+Dominican Republic,DO,DOM,214,Urban,13,Composting toilets,0.0,ENHOGAR - ENH06
+Dominican Republic,DO,DOM,214,Urban,14,Other improved,0.0,ENHOGAR - ENH06
+Dominican Republic,DO,DOM,214,Urban,15,"No facility, bush, field",0.022,ENHOGAR - ENH06
+Dominican Republic,DO,DOM,214,Urban,16,Other unimproved,0.0,ENHOGAR - ENH06
+Dominican Republic,DO,DOM,214,Urban,17,DK/missing information,0.0,ENHOGAR - ENH06
+Dominican Republic,DO,DOM,214,Rural,1,Flush and pour flush - to piped sewer system,0.0,ENHOGAR - ENH06
+Dominican Republic,DO,DOM,214,Rural,2,Flush and pour flush - to septic tank,0.0,ENHOGAR - ENH06
+Dominican Republic,DO,DOM,214,Rural,3,Flush and pour flush - to pit,0.0,ENHOGAR - ENH06
+Dominican Republic,DO,DOM,214,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,ENHOGAR - ENH06
+Dominican Republic,DO,DOM,214,Rural,5,Flush and pour flush - to elsewhere,0.0,ENHOGAR - ENH06
+Dominican Republic,DO,DOM,214,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,ENHOGAR - ENH06
+Dominican Republic,DO,DOM,214,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.515,ENHOGAR - ENH06
+Dominican Republic,DO,DOM,214,Rural,8,Dry latrines - Traditional latrine,0.0,ENHOGAR - ENH06
+Dominican Republic,DO,DOM,214,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.061,ENHOGAR - ENH06
+Dominican Republic,DO,DOM,214,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.389,ENHOGAR - ENH06
+Dominican Republic,DO,DOM,214,Rural,8,Dry latrines - Traditional latrine,0.0,ENHOGAR - ENH06
+Dominican Republic,DO,DOM,214,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.051,ENHOGAR - ENH06
+Dominican Republic,DO,DOM,214,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.126,ENHOGAR - ENH06
+Dominican Republic,DO,DOM,214,Rural,8,Dry latrines - Traditional latrine,0.0,ENHOGAR - ENH06
+Dominican Republic,DO,DOM,214,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.01,ENHOGAR - ENH06
+Dominican Republic,DO,DOM,214,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,ENHOGAR - ENH06
+Dominican Republic,DO,DOM,214,Rural,11,Dry latrines - Bucket latrine,0.0,ENHOGAR - ENH06
+Dominican Republic,DO,DOM,214,Rural,12,Dry latrines - Other,0.0,ENHOGAR - ENH06
+Dominican Republic,DO,DOM,214,Rural,13,Composting toilets,0.0,ENHOGAR - ENH06
+Dominican Republic,DO,DOM,214,Rural,14,Other improved,0.0,ENHOGAR - ENH06
+Dominican Republic,DO,DOM,214,Rural,15,"No facility, bush, field",0.07,ENHOGAR - ENH06
+Dominican Republic,DO,DOM,214,Rural,16,Other unimproved,0.0,ENHOGAR - ENH06
+Dominican Republic,DO,DOM,214,Rural,17,DK/missing information,0.0,ENHOGAR - ENH06
+Dominican Republic,DO,DOM,214,National,1,Flush and pour flush - to piped sewer system,0.0,ENHOGAR - ENH06
+Dominican Republic,DO,DOM,214,National,2,Flush and pour flush - to septic tank,0.0,ENHOGAR - ENH06
+Dominican Republic,DO,DOM,214,National,3,Flush and pour flush - to pit,0.0,ENHOGAR - ENH06
+Dominican Republic,DO,DOM,214,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,ENHOGAR - ENH06
+Dominican Republic,DO,DOM,214,National,5,Flush and pour flush - to elsewhere,0.0,ENHOGAR - ENH06
+Dominican Republic,DO,DOM,214,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,ENHOGAR - ENH06
+Dominican Republic,DO,DOM,214,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,ENHOGAR - ENH06
+Dominican Republic,DO,DOM,214,National,8,Dry latrines - Traditional latrine,0.0,ENHOGAR - ENH06
+Dominican Republic,DO,DOM,214,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,ENHOGAR - ENH06
+Dominican Republic,DO,DOM,214,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,ENHOGAR - ENH06
+Dominican Republic,DO,DOM,214,National,11,Dry latrines - Bucket latrine,0.0,ENHOGAR - ENH06
+Dominican Republic,DO,DOM,214,National,12,Dry latrines - Other,0.0,ENHOGAR - ENH06
+Dominican Republic,DO,DOM,214,National,13,Composting toilets,0.0,ENHOGAR - ENH06
+Dominican Republic,DO,DOM,214,National,14,Other improved,0.0,ENHOGAR - ENH06
+Dominican Republic,DO,DOM,214,National,15,"No facility, bush, field",0.0,ENHOGAR - ENH06
+Dominican Republic,DO,DOM,214,National,16,Other unimproved,0.0,ENHOGAR - ENH06
+Dominican Republic,DO,DOM,214,National,17,DK/missing information,0.0,ENHOGAR - ENH06
+Dominican Republic,DO,DOM,214,Urban,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS07
+Dominican Republic,DO,DOM,214,Urban,2,Flush and pour flush - to septic tank,0.0,Demographic and Health Survey - DHS07
+Dominican Republic,DO,DOM,214,Urban,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS07
+Dominican Republic,DO,DOM,214,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS07
+Dominican Republic,DO,DOM,214,Urban,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS07
+Dominican Republic,DO,DOM,214,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - DHS07
+Dominican Republic,DO,DOM,214,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.178,Demographic and Health Survey - DHS07
+Dominican Republic,DO,DOM,214,Urban,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS07
+Dominican Republic,DO,DOM,214,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.018,Demographic and Health Survey - DHS07
+Dominican Republic,DO,DOM,214,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.129,Demographic and Health Survey - DHS07
+Dominican Republic,DO,DOM,214,Urban,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS07
+Dominican Republic,DO,DOM,214,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.015,Demographic and Health Survey - DHS07
+Dominican Republic,DO,DOM,214,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.049,Demographic and Health Survey - DHS07
+Dominican Republic,DO,DOM,214,Urban,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS07
+Dominican Republic,DO,DOM,214,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.003,Demographic and Health Survey - DHS07
+Dominican Republic,DO,DOM,214,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS07
+Dominican Republic,DO,DOM,214,Urban,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS07
+Dominican Republic,DO,DOM,214,Urban,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS07
+Dominican Republic,DO,DOM,214,Urban,13,Composting toilets,0.0,Demographic and Health Survey - DHS07
+Dominican Republic,DO,DOM,214,Urban,14,Other improved,0.0,Demographic and Health Survey - DHS07
+Dominican Republic,DO,DOM,214,Urban,15,"No facility, bush, field",0.02,Demographic and Health Survey - DHS07
+Dominican Republic,DO,DOM,214,Urban,16,Other unimproved,0.0,Demographic and Health Survey - DHS07
+Dominican Republic,DO,DOM,214,Urban,17,DK/missing information,0.0,Demographic and Health Survey - DHS07
+Dominican Republic,DO,DOM,214,Rural,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS07
+Dominican Republic,DO,DOM,214,Rural,2,Flush and pour flush - to septic tank,0.0,Demographic and Health Survey - DHS07
+Dominican Republic,DO,DOM,214,Rural,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS07
+Dominican Republic,DO,DOM,214,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS07
+Dominican Republic,DO,DOM,214,Rural,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS07
+Dominican Republic,DO,DOM,214,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - DHS07
+Dominican Republic,DO,DOM,214,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.54,Demographic and Health Survey - DHS07
+Dominican Republic,DO,DOM,214,Rural,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS07
+Dominican Republic,DO,DOM,214,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.059,Demographic and Health Survey - DHS07
+Dominican Republic,DO,DOM,214,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.423,Demographic and Health Survey - DHS07
+Dominican Republic,DO,DOM,214,Rural,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS07
+Dominican Republic,DO,DOM,214,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.049,Demographic and Health Survey - DHS07
+Dominican Republic,DO,DOM,214,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.117,Demographic and Health Survey - DHS07
+Dominican Republic,DO,DOM,214,Rural,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS07
+Dominican Republic,DO,DOM,214,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.01,Demographic and Health Survey - DHS07
+Dominican Republic,DO,DOM,214,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS07
+Dominican Republic,DO,DOM,214,Rural,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS07
+Dominican Republic,DO,DOM,214,Rural,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS07
+Dominican Republic,DO,DOM,214,Rural,13,Composting toilets,0.0,Demographic and Health Survey - DHS07
+Dominican Republic,DO,DOM,214,Rural,14,Other improved,0.0,Demographic and Health Survey - DHS07
+Dominican Republic,DO,DOM,214,Rural,15,"No facility, bush, field",0.071,Demographic and Health Survey - DHS07
+Dominican Republic,DO,DOM,214,Rural,16,Other unimproved,0.002,Demographic and Health Survey - DHS07
+Dominican Republic,DO,DOM,214,Rural,17,DK/missing information,0.0,Demographic and Health Survey - DHS07
+Dominican Republic,DO,DOM,214,National,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS07
+Dominican Republic,DO,DOM,214,National,2,Flush and pour flush - to septic tank,0.0,Demographic and Health Survey - DHS07
+Dominican Republic,DO,DOM,214,National,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS07
+Dominican Republic,DO,DOM,214,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS07
+Dominican Republic,DO,DOM,214,National,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS07
+Dominican Republic,DO,DOM,214,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - DHS07
+Dominican Republic,DO,DOM,214,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS07
+Dominican Republic,DO,DOM,214,National,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS07
+Dominican Republic,DO,DOM,214,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Survey - DHS07
+Dominican Republic,DO,DOM,214,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS07
+Dominican Republic,DO,DOM,214,National,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS07
+Dominican Republic,DO,DOM,214,National,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS07
+Dominican Republic,DO,DOM,214,National,13,Composting toilets,0.0,Demographic and Health Survey - DHS07
+Dominican Republic,DO,DOM,214,National,14,Other improved,0.0,Demographic and Health Survey - DHS07
+Dominican Republic,DO,DOM,214,National,15,"No facility, bush, field",0.0,Demographic and Health Survey - DHS07
+Dominican Republic,DO,DOM,214,National,16,Other unimproved,0.0,Demographic and Health Survey - DHS07
+Dominican Republic,DO,DOM,214,National,17,DK/missing information,0.0,Demographic and Health Survey - DHS07
+Dominican Republic,DO,DOM,214,Urban,1,Flush and pour flush - to piped sewer system,0.0,ENHOGAR - ENHOGAR10
+Dominican Republic,DO,DOM,214,Urban,2,Flush and pour flush - to septic tank,0.0,ENHOGAR - ENHOGAR10
+Dominican Republic,DO,DOM,214,Urban,3,Flush and pour flush - to pit,0.0,ENHOGAR - ENHOGAR10
+Dominican Republic,DO,DOM,214,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,ENHOGAR - ENHOGAR10
+Dominican Republic,DO,DOM,214,Urban,5,Flush and pour flush - to elsewhere,0.0,ENHOGAR - ENHOGAR10
+Dominican Republic,DO,DOM,214,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,ENHOGAR - ENHOGAR10
+Dominican Republic,DO,DOM,214,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.154,ENHOGAR - ENHOGAR10
+Dominican Republic,DO,DOM,214,Urban,8,Dry latrines - Traditional latrine,0.0,ENHOGAR - ENHOGAR10
+Dominican Republic,DO,DOM,214,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.025,ENHOGAR - ENHOGAR10
+Dominican Republic,DO,DOM,214,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.109,ENHOGAR - ENHOGAR10
+Dominican Republic,DO,DOM,214,Urban,8,Dry latrines - Traditional latrine,0.0,ENHOGAR - ENHOGAR10
+Dominican Republic,DO,DOM,214,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.007,ENHOGAR - ENHOGAR10
+Dominican Republic,DO,DOM,214,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.045,ENHOGAR - ENHOGAR10
+Dominican Republic,DO,DOM,214,Urban,8,Dry latrines - Traditional latrine,0.0,ENHOGAR - ENHOGAR10
+Dominican Republic,DO,DOM,214,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.018,ENHOGAR - ENHOGAR10
+Dominican Republic,DO,DOM,214,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,ENHOGAR - ENHOGAR10
+Dominican Republic,DO,DOM,214,Urban,11,Dry latrines - Bucket latrine,0.0,ENHOGAR - ENHOGAR10
+Dominican Republic,DO,DOM,214,Urban,12,Dry latrines - Other,0.0,ENHOGAR - ENHOGAR10
+Dominican Republic,DO,DOM,214,Urban,13,Composting toilets,0.0,ENHOGAR - ENHOGAR10
+Dominican Republic,DO,DOM,214,Urban,14,Other improved,0.0,ENHOGAR - ENHOGAR10
+Dominican Republic,DO,DOM,214,Urban,15,"No facility, bush, field",0.021,ENHOGAR - ENHOGAR10
+Dominican Republic,DO,DOM,214,Urban,16,Other unimproved,0.0,ENHOGAR - ENHOGAR10
+Dominican Republic,DO,DOM,214,Urban,17,DK/missing information,0.001,ENHOGAR - ENHOGAR10
+Dominican Republic,DO,DOM,214,Rural,1,Flush and pour flush - to piped sewer system,0.0,ENHOGAR - ENHOGAR10
+Dominican Republic,DO,DOM,214,Rural,2,Flush and pour flush - to septic tank,0.0,ENHOGAR - ENHOGAR10
+Dominican Republic,DO,DOM,214,Rural,3,Flush and pour flush - to pit,0.0,ENHOGAR - ENHOGAR10
+Dominican Republic,DO,DOM,214,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,ENHOGAR - ENHOGAR10
+Dominican Republic,DO,DOM,214,Rural,5,Flush and pour flush - to elsewhere,0.0,ENHOGAR - ENHOGAR10
+Dominican Republic,DO,DOM,214,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,ENHOGAR - ENHOGAR10
+Dominican Republic,DO,DOM,214,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.497,ENHOGAR - ENHOGAR10
+Dominican Republic,DO,DOM,214,Rural,8,Dry latrines - Traditional latrine,0.0,ENHOGAR - ENHOGAR10
+Dominican Republic,DO,DOM,214,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.061,ENHOGAR - ENHOGAR10
+Dominican Republic,DO,DOM,214,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.39,ENHOGAR - ENHOGAR10
+Dominican Republic,DO,DOM,214,Rural,8,Dry latrines - Traditional latrine,0.0,ENHOGAR - ENHOGAR10
+Dominican Republic,DO,DOM,214,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.015,ENHOGAR - ENHOGAR10
+Dominican Republic,DO,DOM,214,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.107,ENHOGAR - ENHOGAR10
+Dominican Republic,DO,DOM,214,Rural,8,Dry latrines - Traditional latrine,0.0,ENHOGAR - ENHOGAR10
+Dominican Republic,DO,DOM,214,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.046,ENHOGAR - ENHOGAR10
+Dominican Republic,DO,DOM,214,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,ENHOGAR - ENHOGAR10
+Dominican Republic,DO,DOM,214,Rural,11,Dry latrines - Bucket latrine,0.0,ENHOGAR - ENHOGAR10
+Dominican Republic,DO,DOM,214,Rural,12,Dry latrines - Other,0.0,ENHOGAR - ENHOGAR10
+Dominican Republic,DO,DOM,214,Rural,13,Composting toilets,0.0,ENHOGAR - ENHOGAR10
+Dominican Republic,DO,DOM,214,Rural,14,Other improved,0.0,ENHOGAR - ENHOGAR10
+Dominican Republic,DO,DOM,214,Rural,15,"No facility, bush, field",0.1,ENHOGAR - ENHOGAR10
+Dominican Republic,DO,DOM,214,Rural,16,Other unimproved,0.0,ENHOGAR - ENHOGAR10
+Dominican Republic,DO,DOM,214,Rural,17,DK/missing information,0.0,ENHOGAR - ENHOGAR10
+Dominican Republic,DO,DOM,214,National,1,Flush and pour flush - to piped sewer system,0.0,ENHOGAR - ENHOGAR10
+Dominican Republic,DO,DOM,214,National,2,Flush and pour flush - to septic tank,0.0,ENHOGAR - ENHOGAR10
+Dominican Republic,DO,DOM,214,National,3,Flush and pour flush - to pit,0.0,ENHOGAR - ENHOGAR10
+Dominican Republic,DO,DOM,214,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,ENHOGAR - ENHOGAR10
+Dominican Republic,DO,DOM,214,National,5,Flush and pour flush - to elsewhere,0.0,ENHOGAR - ENHOGAR10
+Dominican Republic,DO,DOM,214,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,ENHOGAR - ENHOGAR10
+Dominican Republic,DO,DOM,214,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.269,ENHOGAR - ENHOGAR10
+Dominican Republic,DO,DOM,214,National,8,Dry latrines - Traditional latrine,0.0,ENHOGAR - ENHOGAR10
+Dominican Republic,DO,DOM,214,National,9,Dry latrines - Pit latrine without slab/open pit,0.037,ENHOGAR - ENHOGAR10
+Dominican Republic,DO,DOM,214,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.203,ENHOGAR - ENHOGAR10
+Dominican Republic,DO,DOM,214,National,8,Dry latrines - Traditional latrine,0.0,ENHOGAR - ENHOGAR10
+Dominican Republic,DO,DOM,214,National,9,Dry latrines - Pit latrine without slab/open pit,0.01,ENHOGAR - ENHOGAR10
+Dominican Republic,DO,DOM,214,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.066,ENHOGAR - ENHOGAR10
+Dominican Republic,DO,DOM,214,National,8,Dry latrines - Traditional latrine,0.0,ENHOGAR - ENHOGAR10
+Dominican Republic,DO,DOM,214,National,9,Dry latrines - Pit latrine without slab/open pit,0.027,ENHOGAR - ENHOGAR10
+Dominican Republic,DO,DOM,214,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,ENHOGAR - ENHOGAR10
+Dominican Republic,DO,DOM,214,National,11,Dry latrines - Bucket latrine,0.0,ENHOGAR - ENHOGAR10
+Dominican Republic,DO,DOM,214,National,12,Dry latrines - Other,0.0,ENHOGAR - ENHOGAR10
+Dominican Republic,DO,DOM,214,National,13,Composting toilets,0.0,ENHOGAR - ENHOGAR10
+Dominican Republic,DO,DOM,214,National,14,Other improved,0.0,ENHOGAR - ENHOGAR10
+Dominican Republic,DO,DOM,214,National,15,"No facility, bush, field",0.047,ENHOGAR - ENHOGAR10
+Dominican Republic,DO,DOM,214,National,16,Other unimproved,0.0,ENHOGAR - ENHOGAR10
+Dominican Republic,DO,DOM,214,National,17,DK/missing information,0.001,ENHOGAR - ENHOGAR10
+Dominican Republic,DO,DOM,214,Urban,1,Flush and pour flush - to piped sewer system,0.0,Censo - CEN10
+Dominican Republic,DO,DOM,214,Urban,2,Flush and pour flush - to septic tank,0.0,Censo - CEN10
+Dominican Republic,DO,DOM,214,Urban,3,Flush and pour flush - to pit,0.0,Censo - CEN10
+Dominican Republic,DO,DOM,214,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Censo - CEN10
+Dominican Republic,DO,DOM,214,Urban,5,Flush and pour flush - to elsewhere,0.0,Censo - CEN10
+Dominican Republic,DO,DOM,214,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Censo - CEN10
+Dominican Republic,DO,DOM,214,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Censo - CEN10
+Dominican Republic,DO,DOM,214,Urban,8,Dry latrines - Traditional latrine,0.158,Censo - CEN10
+Dominican Republic,DO,DOM,214,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Censo - CEN10
+Dominican Republic,DO,DOM,214,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Censo - CEN10
+Dominican Republic,DO,DOM,214,Urban,11,Dry latrines - Bucket latrine,0.0,Censo - CEN10
+Dominican Republic,DO,DOM,214,Urban,12,Dry latrines - Other,0.0,Censo - CEN10
+Dominican Republic,DO,DOM,214,Urban,13,Composting toilets,0.0,Censo - CEN10
+Dominican Republic,DO,DOM,214,Urban,14,Other improved,0.0,Censo - CEN10
+Dominican Republic,DO,DOM,214,Urban,15,"No facility, bush, field",0.034,Censo - CEN10
+Dominican Republic,DO,DOM,214,Urban,16,Other unimproved,0.0,Censo - CEN10
+Dominican Republic,DO,DOM,214,Urban,17,DK/missing information,0.0,Censo - CEN10
+Dominican Republic,DO,DOM,214,Rural,1,Flush and pour flush - to piped sewer system,0.0,Censo - CEN10
+Dominican Republic,DO,DOM,214,Rural,2,Flush and pour flush - to septic tank,0.0,Censo - CEN10
+Dominican Republic,DO,DOM,214,Rural,3,Flush and pour flush - to pit,0.0,Censo - CEN10
+Dominican Republic,DO,DOM,214,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Censo - CEN10
+Dominican Republic,DO,DOM,214,Rural,5,Flush and pour flush - to elsewhere,0.0,Censo - CEN10
+Dominican Republic,DO,DOM,214,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Censo - CEN10
+Dominican Republic,DO,DOM,214,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Censo - CEN10
+Dominican Republic,DO,DOM,214,Rural,8,Dry latrines - Traditional latrine,0.492,Censo - CEN10
+Dominican Republic,DO,DOM,214,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Censo - CEN10
+Dominican Republic,DO,DOM,214,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Censo - CEN10
+Dominican Republic,DO,DOM,214,Rural,11,Dry latrines - Bucket latrine,0.0,Censo - CEN10
+Dominican Republic,DO,DOM,214,Rural,12,Dry latrines - Other,0.0,Censo - CEN10
+Dominican Republic,DO,DOM,214,Rural,13,Composting toilets,0.0,Censo - CEN10
+Dominican Republic,DO,DOM,214,Rural,14,Other improved,0.0,Censo - CEN10
+Dominican Republic,DO,DOM,214,Rural,15,"No facility, bush, field",0.136,Censo - CEN10
+Dominican Republic,DO,DOM,214,Rural,16,Other unimproved,0.0,Censo - CEN10
+Dominican Republic,DO,DOM,214,Rural,17,DK/missing information,0.0,Censo - CEN10
+Dominican Republic,DO,DOM,214,National,1,Flush and pour flush - to piped sewer system,0.0,Censo - CEN10
+Dominican Republic,DO,DOM,214,National,2,Flush and pour flush - to septic tank,0.0,Censo - CEN10
+Dominican Republic,DO,DOM,214,National,3,Flush and pour flush - to pit,0.0,Censo - CEN10
+Dominican Republic,DO,DOM,214,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Censo - CEN10
+Dominican Republic,DO,DOM,214,National,5,Flush and pour flush - to elsewhere,0.0,Censo - CEN10
+Dominican Republic,DO,DOM,214,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Censo - CEN10
+Dominican Republic,DO,DOM,214,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Censo - CEN10
+Dominican Republic,DO,DOM,214,National,8,Dry latrines - Traditional latrine,0.243,Censo - CEN10
+Dominican Republic,DO,DOM,214,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Censo - CEN10
+Dominican Republic,DO,DOM,214,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Censo - CEN10
+Dominican Republic,DO,DOM,214,National,11,Dry latrines - Bucket latrine,0.0,Censo - CEN10
+Dominican Republic,DO,DOM,214,National,12,Dry latrines - Other,0.0,Censo - CEN10
+Dominican Republic,DO,DOM,214,National,13,Composting toilets,0.0,Censo - CEN10
+Dominican Republic,DO,DOM,214,National,14,Other improved,0.0,Censo - CEN10
+Dominican Republic,DO,DOM,214,National,15,"No facility, bush, field",0.06,Censo - CEN10
+Dominican Republic,DO,DOM,214,National,16,Other unimproved,0.0,Censo - CEN10
+Dominican Republic,DO,DOM,214,National,17,DK/missing information,0.0,Censo - CEN10
+Dominican Republic,DO,DOM,214,Urban,1,Flush and pour flush - to piped sewer system,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR12
+Dominican Republic,DO,DOM,214,Urban,2,Flush and pour flush - to septic tank,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR12
+Dominican Republic,DO,DOM,214,Urban,3,Flush and pour flush - to pit,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR12
+Dominican Republic,DO,DOM,214,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR12
+Dominican Republic,DO,DOM,214,Urban,5,Flush and pour flush - to elsewhere,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR12
+Dominican Republic,DO,DOM,214,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR12
+Dominican Republic,DO,DOM,214,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.131,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR12
+Dominican Republic,DO,DOM,214,Urban,8,Dry latrines - Traditional latrine,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR12
+Dominican Republic,DO,DOM,214,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.011,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR12
+Dominican Republic,DO,DOM,214,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.089,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR12
+Dominican Republic,DO,DOM,214,Urban,8,Dry latrines - Traditional latrine,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR12
+Dominican Republic,DO,DOM,214,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.008,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR12
+Dominican Republic,DO,DOM,214,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.042,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR12
+Dominican Republic,DO,DOM,214,Urban,8,Dry latrines - Traditional latrine,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR12
+Dominican Republic,DO,DOM,214,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.003,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR12
+Dominican Republic,DO,DOM,214,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR12
+Dominican Republic,DO,DOM,214,Urban,11,Dry latrines - Bucket latrine,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR12
+Dominican Republic,DO,DOM,214,Urban,12,Dry latrines - Other,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR12
+Dominican Republic,DO,DOM,214,Urban,13,Composting toilets,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR12
+Dominican Republic,DO,DOM,214,Urban,14,Other improved,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR12
+Dominican Republic,DO,DOM,214,Urban,15,"No facility, bush, field",0.019,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR12
+Dominican Republic,DO,DOM,214,Urban,16,Other unimproved,0.002,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR12
+Dominican Republic,DO,DOM,214,Urban,17,DK/missing information,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR12
+Dominican Republic,DO,DOM,214,Rural,1,Flush and pour flush - to piped sewer system,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR12
+Dominican Republic,DO,DOM,214,Rural,2,Flush and pour flush - to septic tank,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR12
+Dominican Republic,DO,DOM,214,Rural,3,Flush and pour flush - to pit,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR12
+Dominican Republic,DO,DOM,214,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR12
+Dominican Republic,DO,DOM,214,Rural,5,Flush and pour flush - to elsewhere,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR12
+Dominican Republic,DO,DOM,214,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR12
+Dominican Republic,DO,DOM,214,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.437,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR12
+Dominican Republic,DO,DOM,214,Rural,8,Dry latrines - Traditional latrine,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR12
+Dominican Republic,DO,DOM,214,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.039,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR12
+Dominican Republic,DO,DOM,214,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.311,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR12
+Dominican Republic,DO,DOM,214,Rural,8,Dry latrines - Traditional latrine,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR12
+Dominican Republic,DO,DOM,214,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.027,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR12
+Dominican Republic,DO,DOM,214,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.126,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR12
+Dominican Republic,DO,DOM,214,Rural,8,Dry latrines - Traditional latrine,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR12
+Dominican Republic,DO,DOM,214,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.012,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR12
+Dominican Republic,DO,DOM,214,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR12
+Dominican Republic,DO,DOM,214,Rural,11,Dry latrines - Bucket latrine,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR12
+Dominican Republic,DO,DOM,214,Rural,12,Dry latrines - Other,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR12
+Dominican Republic,DO,DOM,214,Rural,13,Composting toilets,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR12
+Dominican Republic,DO,DOM,214,Rural,14,Other improved,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR12
+Dominican Republic,DO,DOM,214,Rural,15,"No facility, bush, field",0.081,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR12
+Dominican Republic,DO,DOM,214,Rural,16,Other unimproved,0.003,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR12
+Dominican Republic,DO,DOM,214,Rural,17,DK/missing information,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR12
+Dominican Republic,DO,DOM,214,National,1,Flush and pour flush - to piped sewer system,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR12
+Dominican Republic,DO,DOM,214,National,2,Flush and pour flush - to septic tank,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR12
+Dominican Republic,DO,DOM,214,National,3,Flush and pour flush - to pit,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR12
+Dominican Republic,DO,DOM,214,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR12
+Dominican Republic,DO,DOM,214,National,5,Flush and pour flush - to elsewhere,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR12
+Dominican Republic,DO,DOM,214,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR12
+Dominican Republic,DO,DOM,214,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.21,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR12
+Dominican Republic,DO,DOM,214,National,8,Dry latrines - Traditional latrine,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR12
+Dominican Republic,DO,DOM,214,National,9,Dry latrines - Pit latrine without slab/open pit,0.018,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR12
+Dominican Republic,DO,DOM,214,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.146,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR12
+Dominican Republic,DO,DOM,214,National,8,Dry latrines - Traditional latrine,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR12
+Dominican Republic,DO,DOM,214,National,9,Dry latrines - Pit latrine without slab/open pit,0.013,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR12
+Dominican Republic,DO,DOM,214,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.064,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR12
+Dominican Republic,DO,DOM,214,National,8,Dry latrines - Traditional latrine,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR12
+Dominican Republic,DO,DOM,214,National,9,Dry latrines - Pit latrine without slab/open pit,0.005,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR12
+Dominican Republic,DO,DOM,214,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR12
+Dominican Republic,DO,DOM,214,National,11,Dry latrines - Bucket latrine,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR12
+Dominican Republic,DO,DOM,214,National,12,Dry latrines - Other,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR12
+Dominican Republic,DO,DOM,214,National,13,Composting toilets,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR12
+Dominican Republic,DO,DOM,214,National,14,Other improved,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR12
+Dominican Republic,DO,DOM,214,National,15,"No facility, bush, field",0.035,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR12
+Dominican Republic,DO,DOM,214,National,16,Other unimproved,0.003,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR12
+Dominican Republic,DO,DOM,214,National,17,DK/missing information,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR12
+Dominican Republic,DO,DOM,214,Urban,1,Flush and pour flush - to piped sewer system,0.0,Encuesta Demográfica y de Salud (ENDESA) 2013 - DHS-ENDESA13
+Dominican Republic,DO,DOM,214,Urban,2,Flush and pour flush - to septic tank,0.0,Encuesta Demográfica y de Salud (ENDESA) 2013 - DHS-ENDESA13
+Dominican Republic,DO,DOM,214,Urban,3,Flush and pour flush - to pit,0.0,Encuesta Demográfica y de Salud (ENDESA) 2013 - DHS-ENDESA13
+Dominican Republic,DO,DOM,214,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Demográfica y de Salud (ENDESA) 2013 - DHS-ENDESA13
+Dominican Republic,DO,DOM,214,Urban,5,Flush and pour flush - to elsewhere,0.0,Encuesta Demográfica y de Salud (ENDESA) 2013 - DHS-ENDESA13
+Dominican Republic,DO,DOM,214,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Demográfica y de Salud (ENDESA) 2013 - DHS-ENDESA13
+Dominican Republic,DO,DOM,214,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.14,Encuesta Demográfica y de Salud (ENDESA) 2013 - DHS-ENDESA13
+Dominican Republic,DO,DOM,214,Urban,8,Dry latrines - Traditional latrine,0.0,Encuesta Demográfica y de Salud (ENDESA) 2013 - DHS-ENDESA13
+Dominican Republic,DO,DOM,214,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.018,Encuesta Demográfica y de Salud (ENDESA) 2013 - DHS-ENDESA13
+Dominican Republic,DO,DOM,214,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.099,Encuesta Demográfica y de Salud (ENDESA) 2013 - DHS-ENDESA13
+Dominican Republic,DO,DOM,214,Urban,8,Dry latrines - Traditional latrine,0.0,Encuesta Demográfica y de Salud (ENDESA) 2013 - DHS-ENDESA13
+Dominican Republic,DO,DOM,214,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.014,Encuesta Demográfica y de Salud (ENDESA) 2013 - DHS-ENDESA13
+Dominican Republic,DO,DOM,214,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.041,Encuesta Demográfica y de Salud (ENDESA) 2013 - DHS-ENDESA13
+Dominican Republic,DO,DOM,214,Urban,8,Dry latrines - Traditional latrine,0.0,Encuesta Demográfica y de Salud (ENDESA) 2013 - DHS-ENDESA13
+Dominican Republic,DO,DOM,214,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.004,Encuesta Demográfica y de Salud (ENDESA) 2013 - DHS-ENDESA13
+Dominican Republic,DO,DOM,214,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Demográfica y de Salud (ENDESA) 2013 - DHS-ENDESA13
+Dominican Republic,DO,DOM,214,Urban,11,Dry latrines - Bucket latrine,0.0,Encuesta Demográfica y de Salud (ENDESA) 2013 - DHS-ENDESA13
+Dominican Republic,DO,DOM,214,Urban,12,Dry latrines - Other,0.0,Encuesta Demográfica y de Salud (ENDESA) 2013 - DHS-ENDESA13
+Dominican Republic,DO,DOM,214,Urban,13,Composting toilets,0.0,Encuesta Demográfica y de Salud (ENDESA) 2013 - DHS-ENDESA13
+Dominican Republic,DO,DOM,214,Urban,14,Other improved,0.0,Encuesta Demográfica y de Salud (ENDESA) 2013 - DHS-ENDESA13
+Dominican Republic,DO,DOM,214,Urban,15,"No facility, bush, field",0.017,Encuesta Demográfica y de Salud (ENDESA) 2013 - DHS-ENDESA13
+Dominican Republic,DO,DOM,214,Urban,16,Other unimproved,0.0,Encuesta Demográfica y de Salud (ENDESA) 2013 - DHS-ENDESA13
+Dominican Republic,DO,DOM,214,Urban,17,DK/missing information,0.0,Encuesta Demográfica y de Salud (ENDESA) 2013 - DHS-ENDESA13
+Dominican Republic,DO,DOM,214,Rural,1,Flush and pour flush - to piped sewer system,0.0,Encuesta Demográfica y de Salud (ENDESA) 2013 - DHS-ENDESA13
+Dominican Republic,DO,DOM,214,Rural,2,Flush and pour flush - to septic tank,0.0,Encuesta Demográfica y de Salud (ENDESA) 2013 - DHS-ENDESA13
+Dominican Republic,DO,DOM,214,Rural,3,Flush and pour flush - to pit,0.0,Encuesta Demográfica y de Salud (ENDESA) 2013 - DHS-ENDESA13
+Dominican Republic,DO,DOM,214,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Demográfica y de Salud (ENDESA) 2013 - DHS-ENDESA13
+Dominican Republic,DO,DOM,214,Rural,5,Flush and pour flush - to elsewhere,0.0,Encuesta Demográfica y de Salud (ENDESA) 2013 - DHS-ENDESA13
+Dominican Republic,DO,DOM,214,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Demográfica y de Salud (ENDESA) 2013 - DHS-ENDESA13
+Dominican Republic,DO,DOM,214,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.397,Encuesta Demográfica y de Salud (ENDESA) 2013 - DHS-ENDESA13
+Dominican Republic,DO,DOM,214,Rural,8,Dry latrines - Traditional latrine,0.0,Encuesta Demográfica y de Salud (ENDESA) 2013 - DHS-ENDESA13
+Dominican Republic,DO,DOM,214,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.048,Encuesta Demográfica y de Salud (ENDESA) 2013 - DHS-ENDESA13
+Dominican Republic,DO,DOM,214,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.294,Encuesta Demográfica y de Salud (ENDESA) 2013 - DHS-ENDESA13
+Dominican Republic,DO,DOM,214,Rural,8,Dry latrines - Traditional latrine,0.0,Encuesta Demográfica y de Salud (ENDESA) 2013 - DHS-ENDESA13
+Dominican Republic,DO,DOM,214,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.041,Encuesta Demográfica y de Salud (ENDESA) 2013 - DHS-ENDESA13
+Dominican Republic,DO,DOM,214,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.103,Encuesta Demográfica y de Salud (ENDESA) 2013 - DHS-ENDESA13
+Dominican Republic,DO,DOM,214,Rural,8,Dry latrines - Traditional latrine,0.0,Encuesta Demográfica y de Salud (ENDESA) 2013 - DHS-ENDESA13
+Dominican Republic,DO,DOM,214,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.007,Encuesta Demográfica y de Salud (ENDESA) 2013 - DHS-ENDESA13
+Dominican Republic,DO,DOM,214,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Demográfica y de Salud (ENDESA) 2013 - DHS-ENDESA13
+Dominican Republic,DO,DOM,214,Rural,11,Dry latrines - Bucket latrine,0.0,Encuesta Demográfica y de Salud (ENDESA) 2013 - DHS-ENDESA13
+Dominican Republic,DO,DOM,214,Rural,12,Dry latrines - Other,0.0,Encuesta Demográfica y de Salud (ENDESA) 2013 - DHS-ENDESA13
+Dominican Republic,DO,DOM,214,Rural,13,Composting toilets,0.0,Encuesta Demográfica y de Salud (ENDESA) 2013 - DHS-ENDESA13
+Dominican Republic,DO,DOM,214,Rural,14,Other improved,0.0,Encuesta Demográfica y de Salud (ENDESA) 2013 - DHS-ENDESA13
+Dominican Republic,DO,DOM,214,Rural,15,"No facility, bush, field",0.059,Encuesta Demográfica y de Salud (ENDESA) 2013 - DHS-ENDESA13
+Dominican Republic,DO,DOM,214,Rural,16,Other unimproved,0.0,Encuesta Demográfica y de Salud (ENDESA) 2013 - DHS-ENDESA13
+Dominican Republic,DO,DOM,214,Rural,17,DK/missing information,0.001,Encuesta Demográfica y de Salud (ENDESA) 2013 - DHS-ENDESA13
+Dominican Republic,DO,DOM,214,National,1,Flush and pour flush - to piped sewer system,0.0,Encuesta Demográfica y de Salud (ENDESA) 2013 - DHS-ENDESA13
+Dominican Republic,DO,DOM,214,National,2,Flush and pour flush - to septic tank,0.0,Encuesta Demográfica y de Salud (ENDESA) 2013 - DHS-ENDESA13
+Dominican Republic,DO,DOM,214,National,3,Flush and pour flush - to pit,0.0,Encuesta Demográfica y de Salud (ENDESA) 2013 - DHS-ENDESA13
+Dominican Republic,DO,DOM,214,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Demográfica y de Salud (ENDESA) 2013 - DHS-ENDESA13
+Dominican Republic,DO,DOM,214,National,5,Flush and pour flush - to elsewhere,0.0,Encuesta Demográfica y de Salud (ENDESA) 2013 - DHS-ENDESA13
+Dominican Republic,DO,DOM,214,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Demográfica y de Salud (ENDESA) 2013 - DHS-ENDESA13
+Dominican Republic,DO,DOM,214,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.208,Encuesta Demográfica y de Salud (ENDESA) 2013 - DHS-ENDESA13
+Dominican Republic,DO,DOM,214,National,8,Dry latrines - Traditional latrine,0.0,Encuesta Demográfica y de Salud (ENDESA) 2013 - DHS-ENDESA13
+Dominican Republic,DO,DOM,214,National,9,Dry latrines - Pit latrine without slab/open pit,0.026,Encuesta Demográfica y de Salud (ENDESA) 2013 - DHS-ENDESA13
+Dominican Republic,DO,DOM,214,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.151,Encuesta Demográfica y de Salud (ENDESA) 2013 - DHS-ENDESA13
+Dominican Republic,DO,DOM,214,National,8,Dry latrines - Traditional latrine,0.0,Encuesta Demográfica y de Salud (ENDESA) 2013 - DHS-ENDESA13
+Dominican Republic,DO,DOM,214,National,9,Dry latrines - Pit latrine without slab/open pit,0.021,Encuesta Demográfica y de Salud (ENDESA) 2013 - DHS-ENDESA13
+Dominican Republic,DO,DOM,214,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.057,Encuesta Demográfica y de Salud (ENDESA) 2013 - DHS-ENDESA13
+Dominican Republic,DO,DOM,214,National,8,Dry latrines - Traditional latrine,0.0,Encuesta Demográfica y de Salud (ENDESA) 2013 - DHS-ENDESA13
+Dominican Republic,DO,DOM,214,National,9,Dry latrines - Pit latrine without slab/open pit,0.005,Encuesta Demográfica y de Salud (ENDESA) 2013 - DHS-ENDESA13
+Dominican Republic,DO,DOM,214,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Demográfica y de Salud (ENDESA) 2013 - DHS-ENDESA13
+Dominican Republic,DO,DOM,214,National,11,Dry latrines - Bucket latrine,0.0,Encuesta Demográfica y de Salud (ENDESA) 2013 - DHS-ENDESA13
+Dominican Republic,DO,DOM,214,National,12,Dry latrines - Other,0.0,Encuesta Demográfica y de Salud (ENDESA) 2013 - DHS-ENDESA13
+Dominican Republic,DO,DOM,214,National,13,Composting toilets,0.0,Encuesta Demográfica y de Salud (ENDESA) 2013 - DHS-ENDESA13
+Dominican Republic,DO,DOM,214,National,14,Other improved,0.0,Encuesta Demográfica y de Salud (ENDESA) 2013 - DHS-ENDESA13
+Dominican Republic,DO,DOM,214,National,15,"No facility, bush, field",0.028,Encuesta Demográfica y de Salud (ENDESA) 2013 - DHS-ENDESA13
+Dominican Republic,DO,DOM,214,National,16,Other unimproved,0.0,Encuesta Demográfica y de Salud (ENDESA) 2013 - DHS-ENDESA13
+Dominican Republic,DO,DOM,214,National,17,DK/missing information,0.0,Encuesta Demográfica y de Salud (ENDESA) 2013 - DHS-ENDESA13
+Dominican Republic,DO,DOM,214,Urban,1,Flush and pour flush - to piped sewer system,0.0,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2013 - ENH13"
+Dominican Republic,DO,DOM,214,Urban,2,Flush and pour flush - to septic tank,0.0,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2013 - ENH13"
+Dominican Republic,DO,DOM,214,Urban,3,Flush and pour flush - to pit,0.0,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2013 - ENH13"
+Dominican Republic,DO,DOM,214,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2013 - ENH13"
+Dominican Republic,DO,DOM,214,Urban,5,Flush and pour flush - to elsewhere,0.0,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2013 - ENH13"
+Dominican Republic,DO,DOM,214,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2013 - ENH13"
+Dominican Republic,DO,DOM,214,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.192,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2013 - ENH13"
+Dominican Republic,DO,DOM,214,Urban,8,Dry latrines - Traditional latrine,0.02,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2013 - ENH13"
+Dominican Republic,DO,DOM,214,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.13,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2013 - ENH13"
+Dominican Republic,DO,DOM,214,Urban,8,Dry latrines - Traditional latrine,0.012,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2013 - ENH13"
+Dominican Republic,DO,DOM,214,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.062,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2013 - ENH13"
+Dominican Republic,DO,DOM,214,Urban,8,Dry latrines - Traditional latrine,0.008,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2013 - ENH13"
+Dominican Republic,DO,DOM,214,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2013 - ENH13"
+Dominican Republic,DO,DOM,214,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2013 - ENH13"
+Dominican Republic,DO,DOM,214,Urban,11,Dry latrines - Bucket latrine,0.0,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2013 - ENH13"
+Dominican Republic,DO,DOM,214,Urban,12,Dry latrines - Other,0.0,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2013 - ENH13"
+Dominican Republic,DO,DOM,214,Urban,13,Composting toilets,0.0,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2013 - ENH13"
+Dominican Republic,DO,DOM,214,Urban,14,Other improved,0.0,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2013 - ENH13"
+Dominican Republic,DO,DOM,214,Urban,15,"No facility, bush, field",0.032,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2013 - ENH13"
+Dominican Republic,DO,DOM,214,Urban,16,Other unimproved,0.0,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2013 - ENH13"
+Dominican Republic,DO,DOM,214,Urban,17,DK/missing information,0.002,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2013 - ENH13"
+Dominican Republic,DO,DOM,214,Rural,1,Flush and pour flush - to piped sewer system,0.0,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2013 - ENH13"
+Dominican Republic,DO,DOM,214,Rural,2,Flush and pour flush - to septic tank,0.0,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2013 - ENH13"
+Dominican Republic,DO,DOM,214,Rural,3,Flush and pour flush - to pit,0.0,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2013 - ENH13"
+Dominican Republic,DO,DOM,214,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2013 - ENH13"
+Dominican Republic,DO,DOM,214,Rural,5,Flush and pour flush - to elsewhere,0.0,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2013 - ENH13"
+Dominican Republic,DO,DOM,214,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2013 - ENH13"
+Dominican Republic,DO,DOM,214,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.482,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2013 - ENH13"
+Dominican Republic,DO,DOM,214,Rural,8,Dry latrines - Traditional latrine,0.044,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2013 - ENH13"
+Dominican Republic,DO,DOM,214,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.351,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2013 - ENH13"
+Dominican Republic,DO,DOM,214,Rural,8,Dry latrines - Traditional latrine,0.03,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2013 - ENH13"
+Dominican Republic,DO,DOM,214,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.131,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2013 - ENH13"
+Dominican Republic,DO,DOM,214,Rural,8,Dry latrines - Traditional latrine,0.014,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2013 - ENH13"
+Dominican Republic,DO,DOM,214,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2013 - ENH13"
+Dominican Republic,DO,DOM,214,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2013 - ENH13"
+Dominican Republic,DO,DOM,214,Rural,11,Dry latrines - Bucket latrine,0.0,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2013 - ENH13"
+Dominican Republic,DO,DOM,214,Rural,12,Dry latrines - Other,0.0,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2013 - ENH13"
+Dominican Republic,DO,DOM,214,Rural,13,Composting toilets,0.0,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2013 - ENH13"
+Dominican Republic,DO,DOM,214,Rural,14,Other improved,0.0,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2013 - ENH13"
+Dominican Republic,DO,DOM,214,Rural,15,"No facility, bush, field",0.095,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2013 - ENH13"
+Dominican Republic,DO,DOM,214,Rural,16,Other unimproved,0.0,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2013 - ENH13"
+Dominican Republic,DO,DOM,214,Rural,17,DK/missing information,0.001,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2013 - ENH13"
+Dominican Republic,DO,DOM,214,National,1,Flush and pour flush - to piped sewer system,0.0,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2013 - ENH13"
+Dominican Republic,DO,DOM,214,National,2,Flush and pour flush - to septic tank,0.0,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2013 - ENH13"
+Dominican Republic,DO,DOM,214,National,3,Flush and pour flush - to pit,0.0,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2013 - ENH13"
+Dominican Republic,DO,DOM,214,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2013 - ENH13"
+Dominican Republic,DO,DOM,214,National,5,Flush and pour flush - to elsewhere,0.0,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2013 - ENH13"
+Dominican Republic,DO,DOM,214,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2013 - ENH13"
+Dominican Republic,DO,DOM,214,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.267,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2013 - ENH13"
+Dominican Republic,DO,DOM,214,National,8,Dry latrines - Traditional latrine,0.025,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2013 - ENH13"
+Dominican Republic,DO,DOM,214,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.187,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2013 - ENH13"
+Dominican Republic,DO,DOM,214,National,8,Dry latrines - Traditional latrine,0.016,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2013 - ENH13"
+Dominican Republic,DO,DOM,214,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.08,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2013 - ENH13"
+Dominican Republic,DO,DOM,214,National,8,Dry latrines - Traditional latrine,0.009,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2013 - ENH13"
+Dominican Republic,DO,DOM,214,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2013 - ENH13"
+Dominican Republic,DO,DOM,214,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2013 - ENH13"
+Dominican Republic,DO,DOM,214,National,11,Dry latrines - Bucket latrine,0.0,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2013 - ENH13"
+Dominican Republic,DO,DOM,214,National,12,Dry latrines - Other,0.0,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2013 - ENH13"
+Dominican Republic,DO,DOM,214,National,13,Composting toilets,0.0,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2013 - ENH13"
+Dominican Republic,DO,DOM,214,National,14,Other improved,0.0,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2013 - ENH13"
+Dominican Republic,DO,DOM,214,National,15,"No facility, bush, field",0.049,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2013 - ENH13"
+Dominican Republic,DO,DOM,214,National,16,Other unimproved,0.0,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2013 - ENH13"
+Dominican Republic,DO,DOM,214,National,17,DK/missing information,0.001,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2013 - ENH13"
 Dominican Republic,DO,DOM,214,Urban,1,Flush and pour flush - to piped sewer system,0.278,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR14
 Dominican Republic,DO,DOM,214,Urban,2,Flush and pour flush - to septic tank,0.555,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR14
 Dominican Republic,DO,DOM,214,Urban,3,Flush and pour flush - to pit,0.042,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR14
@@ -79,3 +657,278 @@ Dominican Republic,DO,DOM,214,Rural,14,Other improved,0.0,Encuesta Nacional de H
 Dominican Republic,DO,DOM,214,Rural,15,"No facility, bush, field",0.054,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR14
 Dominican Republic,DO,DOM,214,Rural,16,Other unimproved,0.006,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR14
 Dominican Republic,DO,DOM,214,Rural,17,DK/missing information,0.001,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR14
+Dominican Republic,DO,DOM,214,National,1,Flush and pour flush - to piped sewer system,0.222,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR14
+Dominican Republic,DO,DOM,214,National,2,Flush and pour flush - to septic tank,0.52,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR14
+Dominican Republic,DO,DOM,214,National,3,Flush and pour flush - to pit,0.061,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR14
+Dominican Republic,DO,DOM,214,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.013,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR14
+Dominican Republic,DO,DOM,214,National,5,Flush and pour flush - to elsewhere,0.014,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR14
+Dominican Republic,DO,DOM,214,National,6,Dry latrines - Ventilated Improved Pit latrine,0.125,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR14
+Dominican Republic,DO,DOM,214,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.015,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR14
+Dominican Republic,DO,DOM,214,National,8,Dry latrines - Traditional latrine,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR14
+Dominican Republic,DO,DOM,214,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR14
+Dominican Republic,DO,DOM,214,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR14
+Dominican Republic,DO,DOM,214,National,11,Dry latrines - Bucket latrine,0.001,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR14
+Dominican Republic,DO,DOM,214,National,12,Dry latrines - Other,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR14
+Dominican Republic,DO,DOM,214,National,13,Composting toilets,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR14
+Dominican Republic,DO,DOM,214,National,14,Other improved,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR14
+Dominican Republic,DO,DOM,214,National,15,"No facility, bush, field",0.022,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR14
+Dominican Republic,DO,DOM,214,National,16,Other unimproved,0.004,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR14
+Dominican Republic,DO,DOM,214,National,17,DK/missing information,0.003,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR14
+Dominican Republic,DO,DOM,214,Urban,1,Flush and pour flush - to piped sewer system,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR15
+Dominican Republic,DO,DOM,214,Urban,2,Flush and pour flush - to septic tank,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR15
+Dominican Republic,DO,DOM,214,Urban,3,Flush and pour flush - to pit,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR15
+Dominican Republic,DO,DOM,214,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR15
+Dominican Republic,DO,DOM,214,Urban,5,Flush and pour flush - to elsewhere,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR15
+Dominican Republic,DO,DOM,214,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR15
+Dominican Republic,DO,DOM,214,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.099,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR15
+Dominican Republic,DO,DOM,214,Urban,8,Dry latrines - Traditional latrine,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR15
+Dominican Republic,DO,DOM,214,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.01,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR15
+Dominican Republic,DO,DOM,214,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.069,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR15
+Dominican Republic,DO,DOM,214,Urban,8,Dry latrines - Traditional latrine,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR15
+Dominican Republic,DO,DOM,214,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.007,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR15
+Dominican Republic,DO,DOM,214,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.03,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR15
+Dominican Republic,DO,DOM,214,Urban,8,Dry latrines - Traditional latrine,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR15
+Dominican Republic,DO,DOM,214,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.003,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR15
+Dominican Republic,DO,DOM,214,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR15
+Dominican Republic,DO,DOM,214,Urban,11,Dry latrines - Bucket latrine,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR15
+Dominican Republic,DO,DOM,214,Urban,12,Dry latrines - Other,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR15
+Dominican Republic,DO,DOM,214,Urban,13,Composting toilets,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR15
+Dominican Republic,DO,DOM,214,Urban,14,Other improved,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR15
+Dominican Republic,DO,DOM,214,Urban,15,"No facility, bush, field",0.014,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR15
+Dominican Republic,DO,DOM,214,Urban,16,Other unimproved,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR15
+Dominican Republic,DO,DOM,214,Urban,17,DK/missing information,0.012,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR15
+Dominican Republic,DO,DOM,214,Rural,1,Flush and pour flush - to piped sewer system,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR15
+Dominican Republic,DO,DOM,214,Rural,2,Flush and pour flush - to septic tank,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR15
+Dominican Republic,DO,DOM,214,Rural,3,Flush and pour flush - to pit,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR15
+Dominican Republic,DO,DOM,214,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR15
+Dominican Republic,DO,DOM,214,Rural,5,Flush and pour flush - to elsewhere,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR15
+Dominican Republic,DO,DOM,214,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR15
+Dominican Republic,DO,DOM,214,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.406,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR15
+Dominican Republic,DO,DOM,214,Rural,8,Dry latrines - Traditional latrine,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR15
+Dominican Republic,DO,DOM,214,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.038,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR15
+Dominican Republic,DO,DOM,214,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.3,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR15
+Dominican Republic,DO,DOM,214,Rural,8,Dry latrines - Traditional latrine,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR15
+Dominican Republic,DO,DOM,214,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.028,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR15
+Dominican Republic,DO,DOM,214,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.106,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR15
+Dominican Republic,DO,DOM,214,Rural,8,Dry latrines - Traditional latrine,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR15
+Dominican Republic,DO,DOM,214,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.01,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR15
+Dominican Republic,DO,DOM,214,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR15
+Dominican Republic,DO,DOM,214,Rural,11,Dry latrines - Bucket latrine,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR15
+Dominican Republic,DO,DOM,214,Rural,12,Dry latrines - Other,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR15
+Dominican Republic,DO,DOM,214,Rural,13,Composting toilets,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR15
+Dominican Republic,DO,DOM,214,Rural,14,Other improved,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR15
+Dominican Republic,DO,DOM,214,Rural,15,"No facility, bush, field",0.065,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR15
+Dominican Republic,DO,DOM,214,Rural,16,Other unimproved,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR15
+Dominican Republic,DO,DOM,214,Rural,17,DK/missing information,0.014,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR15
+Dominican Republic,DO,DOM,214,National,1,Flush and pour flush - to piped sewer system,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR15
+Dominican Republic,DO,DOM,214,National,2,Flush and pour flush - to septic tank,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR15
+Dominican Republic,DO,DOM,214,National,3,Flush and pour flush - to pit,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR15
+Dominican Republic,DO,DOM,214,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR15
+Dominican Republic,DO,DOM,214,National,5,Flush and pour flush - to elsewhere,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR15
+Dominican Republic,DO,DOM,214,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR15
+Dominican Republic,DO,DOM,214,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.177,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR15
+Dominican Republic,DO,DOM,214,National,8,Dry latrines - Traditional latrine,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR15
+Dominican Republic,DO,DOM,214,National,9,Dry latrines - Pit latrine without slab/open pit,0.018,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR15
+Dominican Republic,DO,DOM,214,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.128,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR15
+Dominican Republic,DO,DOM,214,National,8,Dry latrines - Traditional latrine,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR15
+Dominican Republic,DO,DOM,214,National,9,Dry latrines - Pit latrine without slab/open pit,0.013,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR15
+Dominican Republic,DO,DOM,214,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.049,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR15
+Dominican Republic,DO,DOM,214,National,8,Dry latrines - Traditional latrine,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR15
+Dominican Republic,DO,DOM,214,National,9,Dry latrines - Pit latrine without slab/open pit,0.005,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR15
+Dominican Republic,DO,DOM,214,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR15
+Dominican Republic,DO,DOM,214,National,11,Dry latrines - Bucket latrine,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR15
+Dominican Republic,DO,DOM,214,National,12,Dry latrines - Other,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR15
+Dominican Republic,DO,DOM,214,National,13,Composting toilets,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR15
+Dominican Republic,DO,DOM,214,National,14,Other improved,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR15
+Dominican Republic,DO,DOM,214,National,15,"No facility, bush, field",0.027,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR15
+Dominican Republic,DO,DOM,214,National,16,Other unimproved,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR15
+Dominican Republic,DO,DOM,214,National,17,DK/missing information,0.012,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR15
+Dominican Republic,DO,DOM,214,Urban,1,Flush and pour flush - to piped sewer system,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR16
+Dominican Republic,DO,DOM,214,Urban,2,Flush and pour flush - to septic tank,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR16
+Dominican Republic,DO,DOM,214,Urban,3,Flush and pour flush - to pit,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR16
+Dominican Republic,DO,DOM,214,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR16
+Dominican Republic,DO,DOM,214,Urban,5,Flush and pour flush - to elsewhere,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR16
+Dominican Republic,DO,DOM,214,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR16
+Dominican Republic,DO,DOM,214,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.086,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR16
+Dominican Republic,DO,DOM,214,Urban,8,Dry latrines - Traditional latrine,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR16
+Dominican Republic,DO,DOM,214,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.01,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR16
+Dominican Republic,DO,DOM,214,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.052,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR16
+Dominican Republic,DO,DOM,214,Urban,8,Dry latrines - Traditional latrine,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR16
+Dominican Republic,DO,DOM,214,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.006,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR16
+Dominican Republic,DO,DOM,214,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.034,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR16
+Dominican Republic,DO,DOM,214,Urban,8,Dry latrines - Traditional latrine,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR16
+Dominican Republic,DO,DOM,214,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.004,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR16
+Dominican Republic,DO,DOM,214,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR16
+Dominican Republic,DO,DOM,214,Urban,11,Dry latrines - Bucket latrine,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR16
+Dominican Republic,DO,DOM,214,Urban,12,Dry latrines - Other,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR16
+Dominican Republic,DO,DOM,214,Urban,13,Composting toilets,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR16
+Dominican Republic,DO,DOM,214,Urban,14,Other improved,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR16
+Dominican Republic,DO,DOM,214,Urban,15,"No facility, bush, field",0.015,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR16
+Dominican Republic,DO,DOM,214,Urban,16,Other unimproved,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR16
+Dominican Republic,DO,DOM,214,Urban,17,DK/missing information,0.002,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR16
+Dominican Republic,DO,DOM,214,Rural,1,Flush and pour flush - to piped sewer system,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR16
+Dominican Republic,DO,DOM,214,Rural,2,Flush and pour flush - to septic tank,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR16
+Dominican Republic,DO,DOM,214,Rural,3,Flush and pour flush - to pit,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR16
+Dominican Republic,DO,DOM,214,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR16
+Dominican Republic,DO,DOM,214,Rural,5,Flush and pour flush - to elsewhere,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR16
+Dominican Republic,DO,DOM,214,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR16
+Dominican Republic,DO,DOM,214,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.328,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR16
+Dominican Republic,DO,DOM,214,Rural,8,Dry latrines - Traditional latrine,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR16
+Dominican Republic,DO,DOM,214,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.034,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR16
+Dominican Republic,DO,DOM,214,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.225,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR16
+Dominican Republic,DO,DOM,214,Rural,8,Dry latrines - Traditional latrine,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR16
+Dominican Republic,DO,DOM,214,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.021,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR16
+Dominican Republic,DO,DOM,214,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.103,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR16
+Dominican Republic,DO,DOM,214,Rural,8,Dry latrines - Traditional latrine,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR16
+Dominican Republic,DO,DOM,214,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.013,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR16
+Dominican Republic,DO,DOM,214,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR16
+Dominican Republic,DO,DOM,214,Rural,11,Dry latrines - Bucket latrine,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR16
+Dominican Republic,DO,DOM,214,Rural,12,Dry latrines - Other,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR16
+Dominican Republic,DO,DOM,214,Rural,13,Composting toilets,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR16
+Dominican Republic,DO,DOM,214,Rural,14,Other improved,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR16
+Dominican Republic,DO,DOM,214,Rural,15,"No facility, bush, field",0.055,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR16
+Dominican Republic,DO,DOM,214,Rural,16,Other unimproved,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR16
+Dominican Republic,DO,DOM,214,Rural,17,DK/missing information,0.002,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR16
+Dominican Republic,DO,DOM,214,National,1,Flush and pour flush - to piped sewer system,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR16
+Dominican Republic,DO,DOM,214,National,2,Flush and pour flush - to septic tank,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR16
+Dominican Republic,DO,DOM,214,National,3,Flush and pour flush - to pit,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR16
+Dominican Republic,DO,DOM,214,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR16
+Dominican Republic,DO,DOM,214,National,5,Flush and pour flush - to elsewhere,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR16
+Dominican Republic,DO,DOM,214,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR16
+Dominican Republic,DO,DOM,214,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.147,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR16
+Dominican Republic,DO,DOM,214,National,8,Dry latrines - Traditional latrine,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR16
+Dominican Republic,DO,DOM,214,National,9,Dry latrines - Pit latrine without slab/open pit,0.016,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR16
+Dominican Republic,DO,DOM,214,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.096,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR16
+Dominican Republic,DO,DOM,214,National,8,Dry latrines - Traditional latrine,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR16
+Dominican Republic,DO,DOM,214,National,9,Dry latrines - Pit latrine without slab/open pit,0.01,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR16
+Dominican Republic,DO,DOM,214,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.051,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR16
+Dominican Republic,DO,DOM,214,National,8,Dry latrines - Traditional latrine,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR16
+Dominican Republic,DO,DOM,214,National,9,Dry latrines - Pit latrine without slab/open pit,0.006,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR16
+Dominican Republic,DO,DOM,214,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR16
+Dominican Republic,DO,DOM,214,National,11,Dry latrines - Bucket latrine,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR16
+Dominican Republic,DO,DOM,214,National,12,Dry latrines - Other,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR16
+Dominican Republic,DO,DOM,214,National,13,Composting toilets,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR16
+Dominican Republic,DO,DOM,214,National,14,Other improved,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR16
+Dominican Republic,DO,DOM,214,National,15,"No facility, bush, field",0.025,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR16
+Dominican Republic,DO,DOM,214,National,16,Other unimproved,0.0,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR16
+Dominican Republic,DO,DOM,214,National,17,DK/missing information,0.002,Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR) - ENHOGAR16
+Dominican Republic,DO,DOM,214,Urban,1,Flush and pour flush - to piped sewer system,0.0,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2011 - ENH11"
+Dominican Republic,DO,DOM,214,Urban,2,Flush and pour flush - to septic tank,0.0,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2011 - ENH11"
+Dominican Republic,DO,DOM,214,Urban,3,Flush and pour flush - to pit,0.0,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2011 - ENH11"
+Dominican Republic,DO,DOM,214,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2011 - ENH11"
+Dominican Republic,DO,DOM,214,Urban,5,Flush and pour flush - to elsewhere,0.0,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2011 - ENH11"
+Dominican Republic,DO,DOM,214,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2011 - ENH11"
+Dominican Republic,DO,DOM,214,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.129,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2011 - ENH11"
+Dominican Republic,DO,DOM,214,Urban,8,Dry latrines - Traditional latrine,0.018,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2011 - ENH11"
+Dominican Republic,DO,DOM,214,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.085,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2011 - ENH11"
+Dominican Republic,DO,DOM,214,Urban,8,Dry latrines - Traditional latrine,0.012,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2011 - ENH11"
+Dominican Republic,DO,DOM,214,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.044,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2011 - ENH11"
+Dominican Republic,DO,DOM,214,Urban,8,Dry latrines - Traditional latrine,0.006,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2011 - ENH11"
+Dominican Republic,DO,DOM,214,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2011 - ENH11"
+Dominican Republic,DO,DOM,214,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2011 - ENH11"
+Dominican Republic,DO,DOM,214,Urban,11,Dry latrines - Bucket latrine,0.0,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2011 - ENH11"
+Dominican Republic,DO,DOM,214,Urban,12,Dry latrines - Other,0.0,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2011 - ENH11"
+Dominican Republic,DO,DOM,214,Urban,13,Composting toilets,0.0,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2011 - ENH11"
+Dominican Republic,DO,DOM,214,Urban,14,Other improved,0.0,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2011 - ENH11"
+Dominican Republic,DO,DOM,214,Urban,15,"No facility, bush, field",0.031,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2011 - ENH11"
+Dominican Republic,DO,DOM,214,Urban,16,Other unimproved,0.0,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2011 - ENH11"
+Dominican Republic,DO,DOM,214,Urban,17,DK/missing information,0.001,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2011 - ENH11"
+Dominican Republic,DO,DOM,214,Rural,1,Flush and pour flush - to piped sewer system,0.0,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2011 - ENH11"
+Dominican Republic,DO,DOM,214,Rural,2,Flush and pour flush - to septic tank,0.0,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2011 - ENH11"
+Dominican Republic,DO,DOM,214,Rural,3,Flush and pour flush - to pit,0.0,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2011 - ENH11"
+Dominican Republic,DO,DOM,214,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2011 - ENH11"
+Dominican Republic,DO,DOM,214,Rural,5,Flush and pour flush - to elsewhere,0.0,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2011 - ENH11"
+Dominican Republic,DO,DOM,214,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2011 - ENH11"
+Dominican Republic,DO,DOM,214,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.48,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2011 - ENH11"
+Dominican Republic,DO,DOM,214,Rural,8,Dry latrines - Traditional latrine,0.06,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2011 - ENH11"
+Dominican Republic,DO,DOM,214,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.351,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2011 - ENH11"
+Dominican Republic,DO,DOM,214,Rural,8,Dry latrines - Traditional latrine,0.047,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2011 - ENH11"
+Dominican Republic,DO,DOM,214,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.129,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2011 - ENH11"
+Dominican Republic,DO,DOM,214,Rural,8,Dry latrines - Traditional latrine,0.013,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2011 - ENH11"
+Dominican Republic,DO,DOM,214,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2011 - ENH11"
+Dominican Republic,DO,DOM,214,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2011 - ENH11"
+Dominican Republic,DO,DOM,214,Rural,11,Dry latrines - Bucket latrine,0.0,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2011 - ENH11"
+Dominican Republic,DO,DOM,214,Rural,12,Dry latrines - Other,0.0,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2011 - ENH11"
+Dominican Republic,DO,DOM,214,Rural,13,Composting toilets,0.0,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2011 - ENH11"
+Dominican Republic,DO,DOM,214,Rural,14,Other improved,0.0,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2011 - ENH11"
+Dominican Republic,DO,DOM,214,Rural,15,"No facility, bush, field",0.13,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2011 - ENH11"
+Dominican Republic,DO,DOM,214,Rural,16,Other unimproved,0.0,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2011 - ENH11"
+Dominican Republic,DO,DOM,214,Rural,17,DK/missing information,0.0,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2011 - ENH11"
+Dominican Republic,DO,DOM,214,National,1,Flush and pour flush - to piped sewer system,0.0,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2011 - ENH11"
+Dominican Republic,DO,DOM,214,National,2,Flush and pour flush - to septic tank,0.0,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2011 - ENH11"
+Dominican Republic,DO,DOM,214,National,3,Flush and pour flush - to pit,0.0,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2011 - ENH11"
+Dominican Republic,DO,DOM,214,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2011 - ENH11"
+Dominican Republic,DO,DOM,214,National,5,Flush and pour flush - to elsewhere,0.0,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2011 - ENH11"
+Dominican Republic,DO,DOM,214,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2011 - ENH11"
+Dominican Republic,DO,DOM,214,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.246,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2011 - ENH11"
+Dominican Republic,DO,DOM,214,National,8,Dry latrines - Traditional latrine,0.033,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2011 - ENH11"
+Dominican Republic,DO,DOM,214,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.174,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2011 - ENH11"
+Dominican Republic,DO,DOM,214,National,8,Dry latrines - Traditional latrine,0.024,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2011 - ENH11"
+Dominican Republic,DO,DOM,214,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.072,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2011 - ENH11"
+Dominican Republic,DO,DOM,214,National,8,Dry latrines - Traditional latrine,0.009,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2011 - ENH11"
+Dominican Republic,DO,DOM,214,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2011 - ENH11"
+Dominican Republic,DO,DOM,214,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2011 - ENH11"
+Dominican Republic,DO,DOM,214,National,11,Dry latrines - Bucket latrine,0.0,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2011 - ENH11"
+Dominican Republic,DO,DOM,214,National,12,Dry latrines - Other,0.0,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2011 - ENH11"
+Dominican Republic,DO,DOM,214,National,13,Composting toilets,0.0,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2011 - ENH11"
+Dominican Republic,DO,DOM,214,National,14,Other improved,0.0,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2011 - ENH11"
+Dominican Republic,DO,DOM,214,National,15,"No facility, bush, field",0.064,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2011 - ENH11"
+Dominican Republic,DO,DOM,214,National,16,Other unimproved,0.0,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2011 - ENH11"
+Dominican Republic,DO,DOM,214,National,17,DK/missing information,0.001,"Encuesta Nacional de Hogares de Propósitos Múltiples, 2011 - ENH11"
+Dominican Republic,DO,DOM,214,Urban,1,Flush and pour flush - to piped sewer system,0.0,Special Demographic and Health Survey - SDHS07
+Dominican Republic,DO,DOM,214,Urban,2,Flush and pour flush - to septic tank,0.0,Special Demographic and Health Survey - SDHS07
+Dominican Republic,DO,DOM,214,Urban,3,Flush and pour flush - to pit,0.0,Special Demographic and Health Survey - SDHS07
+Dominican Republic,DO,DOM,214,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Special Demographic and Health Survey - SDHS07
+Dominican Republic,DO,DOM,214,Urban,5,Flush and pour flush - to elsewhere,0.0,Special Demographic and Health Survey - SDHS07
+Dominican Republic,DO,DOM,214,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Special Demographic and Health Survey - SDHS07
+Dominican Republic,DO,DOM,214,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Special Demographic and Health Survey - SDHS07
+Dominican Republic,DO,DOM,214,Urban,8,Dry latrines - Traditional latrine,0.0,Special Demographic and Health Survey - SDHS07
+Dominican Republic,DO,DOM,214,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Special Demographic and Health Survey - SDHS07
+Dominican Republic,DO,DOM,214,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Special Demographic and Health Survey - SDHS07
+Dominican Republic,DO,DOM,214,Urban,11,Dry latrines - Bucket latrine,0.0,Special Demographic and Health Survey - SDHS07
+Dominican Republic,DO,DOM,214,Urban,12,Dry latrines - Other,0.0,Special Demographic and Health Survey - SDHS07
+Dominican Republic,DO,DOM,214,Urban,13,Composting toilets,0.0,Special Demographic and Health Survey - SDHS07
+Dominican Republic,DO,DOM,214,Urban,14,Other improved,0.0,Special Demographic and Health Survey - SDHS07
+Dominican Republic,DO,DOM,214,Urban,15,"No facility, bush, field",0.0,Special Demographic and Health Survey - SDHS07
+Dominican Republic,DO,DOM,214,Urban,16,Other unimproved,0.0,Special Demographic and Health Survey - SDHS07
+Dominican Republic,DO,DOM,214,Urban,17,DK/missing information,0.0,Special Demographic and Health Survey - SDHS07
+Dominican Republic,DO,DOM,214,Rural,1,Flush and pour flush - to piped sewer system,0.0,Special Demographic and Health Survey - SDHS07
+Dominican Republic,DO,DOM,214,Rural,2,Flush and pour flush - to septic tank,0.0,Special Demographic and Health Survey - SDHS07
+Dominican Republic,DO,DOM,214,Rural,3,Flush and pour flush - to pit,0.0,Special Demographic and Health Survey - SDHS07
+Dominican Republic,DO,DOM,214,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Special Demographic and Health Survey - SDHS07
+Dominican Republic,DO,DOM,214,Rural,5,Flush and pour flush - to elsewhere,0.0,Special Demographic and Health Survey - SDHS07
+Dominican Republic,DO,DOM,214,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Special Demographic and Health Survey - SDHS07
+Dominican Republic,DO,DOM,214,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.458,Special Demographic and Health Survey - SDHS07
+Dominican Republic,DO,DOM,214,Rural,8,Dry latrines - Traditional latrine,0.0,Special Demographic and Health Survey - SDHS07
+Dominican Republic,DO,DOM,214,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.05,Special Demographic and Health Survey - SDHS07
+Dominican Republic,DO,DOM,214,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.283,Special Demographic and Health Survey - SDHS07
+Dominican Republic,DO,DOM,214,Rural,8,Dry latrines - Traditional latrine,0.0,Special Demographic and Health Survey - SDHS07
+Dominican Republic,DO,DOM,214,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.033,Special Demographic and Health Survey - SDHS07
+Dominican Republic,DO,DOM,214,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.175,Special Demographic and Health Survey - SDHS07
+Dominican Republic,DO,DOM,214,Rural,8,Dry latrines - Traditional latrine,0.0,Special Demographic and Health Survey - SDHS07
+Dominican Republic,DO,DOM,214,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.018,Special Demographic and Health Survey - SDHS07
+Dominican Republic,DO,DOM,214,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Special Demographic and Health Survey - SDHS07
+Dominican Republic,DO,DOM,214,Rural,11,Dry latrines - Bucket latrine,0.0,Special Demographic and Health Survey - SDHS07
+Dominican Republic,DO,DOM,214,Rural,12,Dry latrines - Other,0.0,Special Demographic and Health Survey - SDHS07
+Dominican Republic,DO,DOM,214,Rural,13,Composting toilets,0.0,Special Demographic and Health Survey - SDHS07
+Dominican Republic,DO,DOM,214,Rural,14,Other improved,0.0,Special Demographic and Health Survey - SDHS07
+Dominican Republic,DO,DOM,214,Rural,15,"No facility, bush, field",0.36,Special Demographic and Health Survey - SDHS07
+Dominican Republic,DO,DOM,214,Rural,16,Other unimproved,0.002,Special Demographic and Health Survey - SDHS07
+Dominican Republic,DO,DOM,214,Rural,17,DK/missing information,0.0,Special Demographic and Health Survey - SDHS07
+Dominican Republic,DO,DOM,214,National,1,Flush and pour flush - to piped sewer system,0.0,Special Demographic and Health Survey - SDHS07
+Dominican Republic,DO,DOM,214,National,2,Flush and pour flush - to septic tank,0.0,Special Demographic and Health Survey - SDHS07
+Dominican Republic,DO,DOM,214,National,3,Flush and pour flush - to pit,0.0,Special Demographic and Health Survey - SDHS07
+Dominican Republic,DO,DOM,214,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Special Demographic and Health Survey - SDHS07
+Dominican Republic,DO,DOM,214,National,5,Flush and pour flush - to elsewhere,0.0,Special Demographic and Health Survey - SDHS07
+Dominican Republic,DO,DOM,214,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Special Demographic and Health Survey - SDHS07
+Dominican Republic,DO,DOM,214,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Special Demographic and Health Survey - SDHS07
+Dominican Republic,DO,DOM,214,National,8,Dry latrines - Traditional latrine,0.0,Special Demographic and Health Survey - SDHS07
+Dominican Republic,DO,DOM,214,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Special Demographic and Health Survey - SDHS07
+Dominican Republic,DO,DOM,214,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Special Demographic and Health Survey - SDHS07
+Dominican Republic,DO,DOM,214,National,11,Dry latrines - Bucket latrine,0.0,Special Demographic and Health Survey - SDHS07
+Dominican Republic,DO,DOM,214,National,12,Dry latrines - Other,0.0,Special Demographic and Health Survey - SDHS07
+Dominican Republic,DO,DOM,214,National,13,Composting toilets,0.0,Special Demographic and Health Survey - SDHS07
+Dominican Republic,DO,DOM,214,National,14,Other improved,0.0,Special Demographic and Health Survey - SDHS07
+Dominican Republic,DO,DOM,214,National,15,"No facility, bush, field",0.0,Special Demographic and Health Survey - SDHS07
+Dominican Republic,DO,DOM,214,National,16,Other unimproved,0.0,Special Demographic and Health Survey - SDHS07
+Dominican Republic,DO,DOM,214,National,17,DK/missing information,0.0,Special Demographic and Health Survey - SDHS07

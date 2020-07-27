@@ -1,4 +1,157 @@
 country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+Thailand,TH,THA,764,Urban,1,Flush and pour flush - to piped sewer system,0.0,National Census  - CEN00
+Thailand,TH,THA,764,Urban,2,Flush and pour flush - to septic tank,0.0,National Census  - CEN00
+Thailand,TH,THA,764,Urban,3,Flush and pour flush - to pit,0.0,National Census  - CEN00
+Thailand,TH,THA,764,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Census  - CEN00
+Thailand,TH,THA,764,Urban,5,Flush and pour flush - to elsewhere,0.0,National Census  - CEN00
+Thailand,TH,THA,764,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,National Census  - CEN00
+Thailand,TH,THA,764,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Census  - CEN00
+Thailand,TH,THA,764,Urban,8,Dry latrines - Traditional latrine,0.732,National Census  - CEN00
+Thailand,TH,THA,764,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Census  - CEN00
+Thailand,TH,THA,764,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Census  - CEN00
+Thailand,TH,THA,764,Urban,11,Dry latrines - Bucket latrine,0.0,National Census  - CEN00
+Thailand,TH,THA,764,Urban,12,Dry latrines - Other,0.0,National Census  - CEN00
+Thailand,TH,THA,764,Urban,13,Composting toilets,0.0,National Census  - CEN00
+Thailand,TH,THA,764,Urban,14,Other improved,0.071,National Census  - CEN00
+Thailand,TH,THA,764,Urban,15,"No facility, bush, field",0.003,National Census  - CEN00
+Thailand,TH,THA,764,Urban,16,Other unimproved,0.002,National Census  - CEN00
+Thailand,TH,THA,764,Urban,17,DK/missing information,0.015,National Census  - CEN00
+Thailand,TH,THA,764,Rural,1,Flush and pour flush - to piped sewer system,0.0,National Census  - CEN00
+Thailand,TH,THA,764,Rural,2,Flush and pour flush - to septic tank,0.0,National Census  - CEN00
+Thailand,TH,THA,764,Rural,3,Flush and pour flush - to pit,0.0,National Census  - CEN00
+Thailand,TH,THA,764,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Census  - CEN00
+Thailand,TH,THA,764,Rural,5,Flush and pour flush - to elsewhere,0.0,National Census  - CEN00
+Thailand,TH,THA,764,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,National Census  - CEN00
+Thailand,TH,THA,764,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Census  - CEN00
+Thailand,TH,THA,764,Rural,8,Dry latrines - Traditional latrine,0.9,National Census  - CEN00
+Thailand,TH,THA,764,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Census  - CEN00
+Thailand,TH,THA,764,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Census  - CEN00
+Thailand,TH,THA,764,Rural,11,Dry latrines - Bucket latrine,0.0,National Census  - CEN00
+Thailand,TH,THA,764,Rural,12,Dry latrines - Other,0.0,National Census  - CEN00
+Thailand,TH,THA,764,Rural,13,Composting toilets,0.0,National Census  - CEN00
+Thailand,TH,THA,764,Rural,14,Other improved,0.019,National Census  - CEN00
+Thailand,TH,THA,764,Rural,15,"No facility, bush, field",0.025,National Census  - CEN00
+Thailand,TH,THA,764,Rural,16,Other unimproved,0.005,National Census  - CEN00
+Thailand,TH,THA,764,Rural,17,DK/missing information,0.016,National Census  - CEN00
+Thailand,TH,THA,764,National,1,Flush and pour flush - to piped sewer system,0.0,National Census  - CEN00
+Thailand,TH,THA,764,National,2,Flush and pour flush - to septic tank,0.0,National Census  - CEN00
+Thailand,TH,THA,764,National,3,Flush and pour flush - to pit,0.0,National Census  - CEN00
+Thailand,TH,THA,764,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Census  - CEN00
+Thailand,TH,THA,764,National,5,Flush and pour flush - to elsewhere,0.0,National Census  - CEN00
+Thailand,TH,THA,764,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,National Census  - CEN00
+Thailand,TH,THA,764,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Census  - CEN00
+Thailand,TH,THA,764,National,8,Dry latrines - Traditional latrine,0.845,National Census  - CEN00
+Thailand,TH,THA,764,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Census  - CEN00
+Thailand,TH,THA,764,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Census  - CEN00
+Thailand,TH,THA,764,National,11,Dry latrines - Bucket latrine,0.0,National Census  - CEN00
+Thailand,TH,THA,764,National,12,Dry latrines - Other,0.0,National Census  - CEN00
+Thailand,TH,THA,764,National,13,Composting toilets,0.0,National Census  - CEN00
+Thailand,TH,THA,764,National,14,Other improved,0.036,National Census  - CEN00
+Thailand,TH,THA,764,National,15,"No facility, bush, field",0.018,National Census  - CEN00
+Thailand,TH,THA,764,National,16,Other unimproved,0.004,National Census  - CEN00
+Thailand,TH,THA,764,National,17,DK/missing information,0.015,National Census  - CEN00
+Thailand,TH,THA,764,Urban,1,Flush and pour flush - to piped sewer system,0.0,Household Socio-Economic Survey - SES00
+Thailand,TH,THA,764,Urban,2,Flush and pour flush - to septic tank,0.696,Household Socio-Economic Survey - SES00
+Thailand,TH,THA,764,Urban,3,Flush and pour flush - to pit,0.0,Household Socio-Economic Survey - SES00
+Thailand,TH,THA,764,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Socio-Economic Survey - SES00
+Thailand,TH,THA,764,Urban,5,Flush and pour flush - to elsewhere,0.0,Household Socio-Economic Survey - SES00
+Thailand,TH,THA,764,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Socio-Economic Survey - SES00
+Thailand,TH,THA,764,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Socio-Economic Survey - SES00
+Thailand,TH,THA,764,Urban,8,Dry latrines - Traditional latrine,0.0,Household Socio-Economic Survey - SES00
+Thailand,TH,THA,764,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Socio-Economic Survey - SES00
+Thailand,TH,THA,764,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Socio-Economic Survey - SES00
+Thailand,TH,THA,764,Urban,11,Dry latrines - Bucket latrine,0.0,Household Socio-Economic Survey - SES00
+Thailand,TH,THA,764,Urban,12,Dry latrines - Other,0.0,Household Socio-Economic Survey - SES00
+Thailand,TH,THA,764,Urban,13,Composting toilets,0.0,Household Socio-Economic Survey - SES00
+Thailand,TH,THA,764,Urban,14,Other improved,0.0,Household Socio-Economic Survey - SES00
+Thailand,TH,THA,764,Urban,15,"No facility, bush, field",0.0,Household Socio-Economic Survey - SES00
+Thailand,TH,THA,764,Urban,16,Other unimproved,0.0,Household Socio-Economic Survey - SES00
+Thailand,TH,THA,764,Urban,17,DK/missing information,0.0,Household Socio-Economic Survey - SES00
+Thailand,TH,THA,764,Rural,1,Flush and pour flush - to piped sewer system,0.0,Household Socio-Economic Survey - SES00
+Thailand,TH,THA,764,Rural,2,Flush and pour flush - to septic tank,0.951,Household Socio-Economic Survey - SES00
+Thailand,TH,THA,764,Rural,3,Flush and pour flush - to pit,0.0,Household Socio-Economic Survey - SES00
+Thailand,TH,THA,764,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Socio-Economic Survey - SES00
+Thailand,TH,THA,764,Rural,5,Flush and pour flush - to elsewhere,0.0,Household Socio-Economic Survey - SES00
+Thailand,TH,THA,764,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Socio-Economic Survey - SES00
+Thailand,TH,THA,764,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Socio-Economic Survey - SES00
+Thailand,TH,THA,764,Rural,8,Dry latrines - Traditional latrine,0.0,Household Socio-Economic Survey - SES00
+Thailand,TH,THA,764,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Socio-Economic Survey - SES00
+Thailand,TH,THA,764,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Socio-Economic Survey - SES00
+Thailand,TH,THA,764,Rural,11,Dry latrines - Bucket latrine,0.0,Household Socio-Economic Survey - SES00
+Thailand,TH,THA,764,Rural,12,Dry latrines - Other,0.0,Household Socio-Economic Survey - SES00
+Thailand,TH,THA,764,Rural,13,Composting toilets,0.0,Household Socio-Economic Survey - SES00
+Thailand,TH,THA,764,Rural,14,Other improved,0.0,Household Socio-Economic Survey - SES00
+Thailand,TH,THA,764,Rural,15,"No facility, bush, field",0.012,Household Socio-Economic Survey - SES00
+Thailand,TH,THA,764,Rural,16,Other unimproved,0.002,Household Socio-Economic Survey - SES00
+Thailand,TH,THA,764,Rural,17,DK/missing information,0.0,Household Socio-Economic Survey - SES00
+Thailand,TH,THA,764,National,1,Flush and pour flush - to piped sewer system,0.0,Household Socio-Economic Survey - SES00
+Thailand,TH,THA,764,National,2,Flush and pour flush - to septic tank,0.968,Household Socio-Economic Survey - SES00
+Thailand,TH,THA,764,National,3,Flush and pour flush - to pit,0.0,Household Socio-Economic Survey - SES00
+Thailand,TH,THA,764,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Socio-Economic Survey - SES00
+Thailand,TH,THA,764,National,5,Flush and pour flush - to elsewhere,0.0,Household Socio-Economic Survey - SES00
+Thailand,TH,THA,764,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Socio-Economic Survey - SES00
+Thailand,TH,THA,764,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Socio-Economic Survey - SES00
+Thailand,TH,THA,764,National,8,Dry latrines - Traditional latrine,0.0,Household Socio-Economic Survey - SES00
+Thailand,TH,THA,764,National,9,Dry latrines - Pit latrine without slab/open pit,0.002,Household Socio-Economic Survey - SES00
+Thailand,TH,THA,764,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Socio-Economic Survey - SES00
+Thailand,TH,THA,764,National,11,Dry latrines - Bucket latrine,0.0,Household Socio-Economic Survey - SES00
+Thailand,TH,THA,764,National,12,Dry latrines - Other,0.0,Household Socio-Economic Survey - SES00
+Thailand,TH,THA,764,National,13,Composting toilets,0.0,Household Socio-Economic Survey - SES00
+Thailand,TH,THA,764,National,14,Other improved,0.0,Household Socio-Economic Survey - SES00
+Thailand,TH,THA,764,National,15,"No facility, bush, field",0.009,Household Socio-Economic Survey - SES00
+Thailand,TH,THA,764,National,16,Other unimproved,0.0,Household Socio-Economic Survey - SES00
+Thailand,TH,THA,764,National,17,DK/missing information,0.0,Household Socio-Economic Survey - SES00
+Thailand,TH,THA,764,Urban,1,Flush and pour flush - to piped sewer system,0.0,Household Socio-Economic Survey - SES04
+Thailand,TH,THA,764,Urban,2,Flush and pour flush - to septic tank,0.775,Household Socio-Economic Survey - SES04
+Thailand,TH,THA,764,Urban,3,Flush and pour flush - to pit,0.0,Household Socio-Economic Survey - SES04
+Thailand,TH,THA,764,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Socio-Economic Survey - SES04
+Thailand,TH,THA,764,Urban,5,Flush and pour flush - to elsewhere,0.0,Household Socio-Economic Survey - SES04
+Thailand,TH,THA,764,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Socio-Economic Survey - SES04
+Thailand,TH,THA,764,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Socio-Economic Survey - SES04
+Thailand,TH,THA,764,Urban,8,Dry latrines - Traditional latrine,0.0,Household Socio-Economic Survey - SES04
+Thailand,TH,THA,764,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Socio-Economic Survey - SES04
+Thailand,TH,THA,764,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Socio-Economic Survey - SES04
+Thailand,TH,THA,764,Urban,11,Dry latrines - Bucket latrine,0.0,Household Socio-Economic Survey - SES04
+Thailand,TH,THA,764,Urban,12,Dry latrines - Other,0.0,Household Socio-Economic Survey - SES04
+Thailand,TH,THA,764,Urban,13,Composting toilets,0.0,Household Socio-Economic Survey - SES04
+Thailand,TH,THA,764,Urban,14,Other improved,0.0,Household Socio-Economic Survey - SES04
+Thailand,TH,THA,764,Urban,15,"No facility, bush, field",0.001,Household Socio-Economic Survey - SES04
+Thailand,TH,THA,764,Urban,16,Other unimproved,0.0,Household Socio-Economic Survey - SES04
+Thailand,TH,THA,764,Urban,17,DK/missing information,0.0,Household Socio-Economic Survey - SES04
+Thailand,TH,THA,764,Rural,1,Flush and pour flush - to piped sewer system,0.0,Household Socio-Economic Survey - SES04
+Thailand,TH,THA,764,Rural,2,Flush and pour flush - to septic tank,0.926,Household Socio-Economic Survey - SES04
+Thailand,TH,THA,764,Rural,3,Flush and pour flush - to pit,0.0,Household Socio-Economic Survey - SES04
+Thailand,TH,THA,764,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Socio-Economic Survey - SES04
+Thailand,TH,THA,764,Rural,5,Flush and pour flush - to elsewhere,0.0,Household Socio-Economic Survey - SES04
+Thailand,TH,THA,764,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Socio-Economic Survey - SES04
+Thailand,TH,THA,764,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Socio-Economic Survey - SES04
+Thailand,TH,THA,764,Rural,8,Dry latrines - Traditional latrine,0.0,Household Socio-Economic Survey - SES04
+Thailand,TH,THA,764,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Socio-Economic Survey - SES04
+Thailand,TH,THA,764,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Socio-Economic Survey - SES04
+Thailand,TH,THA,764,Rural,11,Dry latrines - Bucket latrine,0.0,Household Socio-Economic Survey - SES04
+Thailand,TH,THA,764,Rural,12,Dry latrines - Other,0.0,Household Socio-Economic Survey - SES04
+Thailand,TH,THA,764,Rural,13,Composting toilets,0.0,Household Socio-Economic Survey - SES04
+Thailand,TH,THA,764,Rural,14,Other improved,0.0,Household Socio-Economic Survey - SES04
+Thailand,TH,THA,764,Rural,15,"No facility, bush, field",0.012,Household Socio-Economic Survey - SES04
+Thailand,TH,THA,764,Rural,16,Other unimproved,0.002,Household Socio-Economic Survey - SES04
+Thailand,TH,THA,764,Rural,17,DK/missing information,0.0,Household Socio-Economic Survey - SES04
+Thailand,TH,THA,764,National,1,Flush and pour flush - to piped sewer system,0.0,Household Socio-Economic Survey - SES04
+Thailand,TH,THA,764,National,2,Flush and pour flush - to septic tank,0.877,Household Socio-Economic Survey - SES04
+Thailand,TH,THA,764,National,3,Flush and pour flush - to pit,0.0,Household Socio-Economic Survey - SES04
+Thailand,TH,THA,764,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.113,Household Socio-Economic Survey - SES04
+Thailand,TH,THA,764,National,5,Flush and pour flush - to elsewhere,0.0,Household Socio-Economic Survey - SES04
+Thailand,TH,THA,764,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Socio-Economic Survey - SES04
+Thailand,TH,THA,764,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Socio-Economic Survey - SES04
+Thailand,TH,THA,764,National,8,Dry latrines - Traditional latrine,0.0,Household Socio-Economic Survey - SES04
+Thailand,TH,THA,764,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Socio-Economic Survey - SES04
+Thailand,TH,THA,764,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Socio-Economic Survey - SES04
+Thailand,TH,THA,764,National,11,Dry latrines - Bucket latrine,0.0,Household Socio-Economic Survey - SES04
+Thailand,TH,THA,764,National,12,Dry latrines - Other,0.0,Household Socio-Economic Survey - SES04
+Thailand,TH,THA,764,National,13,Composting toilets,0.0,Household Socio-Economic Survey - SES04
+Thailand,TH,THA,764,National,14,Other improved,0.0,Household Socio-Economic Survey - SES04
+Thailand,TH,THA,764,National,15,"No facility, bush, field",0.008,Household Socio-Economic Survey - SES04
+Thailand,TH,THA,764,National,16,Other unimproved,0.002,Household Socio-Economic Survey - SES04
+Thailand,TH,THA,764,National,17,DK/missing information,0.0,Household Socio-Economic Survey - SES04
 Thailand,TH,THA,764,Urban,1,Flush and pour flush - to piped sewer system,0.093,Multiple Indicator Cluster Survey - MICS06
 Thailand,TH,THA,764,Urban,2,Flush and pour flush - to septic tank,0.896,Multiple Indicator Cluster Survey - MICS06
 Thailand,TH,THA,764,Urban,3,Flush and pour flush - to pit,0.008,Multiple Indicator Cluster Survey - MICS06
@@ -33,6 +186,278 @@ Thailand,TH,THA,764,Rural,14,Other improved,0.0,Multiple Indicator Cluster Surve
 Thailand,TH,THA,764,Rural,15,"No facility, bush, field",0.009,Multiple Indicator Cluster Survey - MICS06
 Thailand,TH,THA,764,Rural,16,Other unimproved,0.0,Multiple Indicator Cluster Survey - MICS06
 Thailand,TH,THA,764,Rural,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS06
+Thailand,TH,THA,764,National,1,Flush and pour flush - to piped sewer system,0.068,Multiple Indicator Cluster Survey - MICS06
+Thailand,TH,THA,764,National,2,Flush and pour flush - to septic tank,0.91,Multiple Indicator Cluster Survey - MICS06
+Thailand,TH,THA,764,National,3,Flush and pour flush - to pit,0.013,Multiple Indicator Cluster Survey - MICS06
+Thailand,TH,THA,764,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS06
+Thailand,TH,THA,764,National,5,Flush and pour flush - to elsewhere,0.001,Multiple Indicator Cluster Survey - MICS06
+Thailand,TH,THA,764,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Multiple Indicator Cluster Survey - MICS06
+Thailand,TH,THA,764,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.001,Multiple Indicator Cluster Survey - MICS06
+Thailand,TH,THA,764,National,8,Dry latrines - Traditional latrine,0.0,Multiple Indicator Cluster Survey - MICS06
+Thailand,TH,THA,764,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Multiple Indicator Cluster Survey - MICS06
+Thailand,TH,THA,764,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS06
+Thailand,TH,THA,764,National,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS06
+Thailand,TH,THA,764,National,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS06
+Thailand,TH,THA,764,National,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS06
+Thailand,TH,THA,764,National,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS06
+Thailand,TH,THA,764,National,15,"No facility, bush, field",0.007,Multiple Indicator Cluster Survey - MICS06
+Thailand,TH,THA,764,National,16,Other unimproved,0.0,Multiple Indicator Cluster Survey - MICS06
+Thailand,TH,THA,764,National,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS06
+Thailand,TH,THA,764,Urban,1,Flush and pour flush - to piped sewer system,0.0,Household Socio-Economic Survey - SES06
+Thailand,TH,THA,764,Urban,2,Flush and pour flush - to septic tank,0.768,Household Socio-Economic Survey - SES06
+Thailand,TH,THA,764,Urban,3,Flush and pour flush - to pit,0.0,Household Socio-Economic Survey - SES06
+Thailand,TH,THA,764,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.229,Household Socio-Economic Survey - SES06
+Thailand,TH,THA,764,Urban,5,Flush and pour flush - to elsewhere,0.0,Household Socio-Economic Survey - SES06
+Thailand,TH,THA,764,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Socio-Economic Survey - SES06
+Thailand,TH,THA,764,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Socio-Economic Survey - SES06
+Thailand,TH,THA,764,Urban,8,Dry latrines - Traditional latrine,0.0,Household Socio-Economic Survey - SES06
+Thailand,TH,THA,764,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Socio-Economic Survey - SES06
+Thailand,TH,THA,764,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Socio-Economic Survey - SES06
+Thailand,TH,THA,764,Urban,11,Dry latrines - Bucket latrine,0.0,Household Socio-Economic Survey - SES06
+Thailand,TH,THA,764,Urban,12,Dry latrines - Other,0.0,Household Socio-Economic Survey - SES06
+Thailand,TH,THA,764,Urban,13,Composting toilets,0.0,Household Socio-Economic Survey - SES06
+Thailand,TH,THA,764,Urban,14,Other improved,0.0,Household Socio-Economic Survey - SES06
+Thailand,TH,THA,764,Urban,15,"No facility, bush, field",0.004,Household Socio-Economic Survey - SES06
+Thailand,TH,THA,764,Urban,16,Other unimproved,0.0,Household Socio-Economic Survey - SES06
+Thailand,TH,THA,764,Urban,17,DK/missing information,0.0,Household Socio-Economic Survey - SES06
+Thailand,TH,THA,764,Rural,1,Flush and pour flush - to piped sewer system,0.0,Household Socio-Economic Survey - SES06
+Thailand,TH,THA,764,Rural,2,Flush and pour flush - to septic tank,0.925,Household Socio-Economic Survey - SES06
+Thailand,TH,THA,764,Rural,3,Flush and pour flush - to pit,0.0,Household Socio-Economic Survey - SES06
+Thailand,TH,THA,764,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.056,Household Socio-Economic Survey - SES06
+Thailand,TH,THA,764,Rural,5,Flush and pour flush - to elsewhere,0.0,Household Socio-Economic Survey - SES06
+Thailand,TH,THA,764,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Socio-Economic Survey - SES06
+Thailand,TH,THA,764,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Socio-Economic Survey - SES06
+Thailand,TH,THA,764,Rural,8,Dry latrines - Traditional latrine,0.0,Household Socio-Economic Survey - SES06
+Thailand,TH,THA,764,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Socio-Economic Survey - SES06
+Thailand,TH,THA,764,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Socio-Economic Survey - SES06
+Thailand,TH,THA,764,Rural,11,Dry latrines - Bucket latrine,0.0,Household Socio-Economic Survey - SES06
+Thailand,TH,THA,764,Rural,12,Dry latrines - Other,0.0,Household Socio-Economic Survey - SES06
+Thailand,TH,THA,764,Rural,13,Composting toilets,0.0,Household Socio-Economic Survey - SES06
+Thailand,TH,THA,764,Rural,14,Other improved,0.0,Household Socio-Economic Survey - SES06
+Thailand,TH,THA,764,Rural,15,"No facility, bush, field",0.017,Household Socio-Economic Survey - SES06
+Thailand,TH,THA,764,Rural,16,Other unimproved,0.003,Household Socio-Economic Survey - SES06
+Thailand,TH,THA,764,Rural,17,DK/missing information,0.0,Household Socio-Economic Survey - SES06
+Thailand,TH,THA,764,National,1,Flush and pour flush - to piped sewer system,0.0,Household Socio-Economic Survey - SES06
+Thailand,TH,THA,764,National,2,Flush and pour flush - to septic tank,0.875,Household Socio-Economic Survey - SES06
+Thailand,TH,THA,764,National,3,Flush and pour flush - to pit,0.0,Household Socio-Economic Survey - SES06
+Thailand,TH,THA,764,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.11,Household Socio-Economic Survey - SES06
+Thailand,TH,THA,764,National,5,Flush and pour flush - to elsewhere,0.0,Household Socio-Economic Survey - SES06
+Thailand,TH,THA,764,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Socio-Economic Survey - SES06
+Thailand,TH,THA,764,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Socio-Economic Survey - SES06
+Thailand,TH,THA,764,National,8,Dry latrines - Traditional latrine,0.0,Household Socio-Economic Survey - SES06
+Thailand,TH,THA,764,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Socio-Economic Survey - SES06
+Thailand,TH,THA,764,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Socio-Economic Survey - SES06
+Thailand,TH,THA,764,National,11,Dry latrines - Bucket latrine,0.0,Household Socio-Economic Survey - SES06
+Thailand,TH,THA,764,National,12,Dry latrines - Other,0.0,Household Socio-Economic Survey - SES06
+Thailand,TH,THA,764,National,13,Composting toilets,0.0,Household Socio-Economic Survey - SES06
+Thailand,TH,THA,764,National,14,Other improved,0.0,Household Socio-Economic Survey - SES06
+Thailand,TH,THA,764,National,15,"No facility, bush, field",0.013,Household Socio-Economic Survey - SES06
+Thailand,TH,THA,764,National,16,Other unimproved,0.002,Household Socio-Economic Survey - SES06
+Thailand,TH,THA,764,National,17,DK/missing information,0.0,Household Socio-Economic Survey - SES06
+Thailand,TH,THA,764,Urban,1,Flush and pour flush - to piped sewer system,0.0,Household Socio-Economic Survey - SES07
+Thailand,TH,THA,764,Urban,2,Flush and pour flush - to septic tank,0.76,Household Socio-Economic Survey - SES07
+Thailand,TH,THA,764,Urban,3,Flush and pour flush - to pit,0.0,Household Socio-Economic Survey - SES07
+Thailand,TH,THA,764,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.237,Household Socio-Economic Survey - SES07
+Thailand,TH,THA,764,Urban,5,Flush and pour flush - to elsewhere,0.0,Household Socio-Economic Survey - SES07
+Thailand,TH,THA,764,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Socio-Economic Survey - SES07
+Thailand,TH,THA,764,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Socio-Economic Survey - SES07
+Thailand,TH,THA,764,Urban,8,Dry latrines - Traditional latrine,0.0,Household Socio-Economic Survey - SES07
+Thailand,TH,THA,764,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Socio-Economic Survey - SES07
+Thailand,TH,THA,764,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Socio-Economic Survey - SES07
+Thailand,TH,THA,764,Urban,11,Dry latrines - Bucket latrine,0.0,Household Socio-Economic Survey - SES07
+Thailand,TH,THA,764,Urban,12,Dry latrines - Other,0.0,Household Socio-Economic Survey - SES07
+Thailand,TH,THA,764,Urban,13,Composting toilets,0.0,Household Socio-Economic Survey - SES07
+Thailand,TH,THA,764,Urban,14,Other improved,0.0,Household Socio-Economic Survey - SES07
+Thailand,TH,THA,764,Urban,15,"No facility, bush, field",0.003,Household Socio-Economic Survey - SES07
+Thailand,TH,THA,764,Urban,16,Other unimproved,0.0,Household Socio-Economic Survey - SES07
+Thailand,TH,THA,764,Urban,17,DK/missing information,0.0,Household Socio-Economic Survey - SES07
+Thailand,TH,THA,764,Rural,1,Flush and pour flush - to piped sewer system,0.0,Household Socio-Economic Survey - SES07
+Thailand,TH,THA,764,Rural,2,Flush and pour flush - to septic tank,0.925,Household Socio-Economic Survey - SES07
+Thailand,TH,THA,764,Rural,3,Flush and pour flush - to pit,0.0,Household Socio-Economic Survey - SES07
+Thailand,TH,THA,764,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.058,Household Socio-Economic Survey - SES07
+Thailand,TH,THA,764,Rural,5,Flush and pour flush - to elsewhere,0.0,Household Socio-Economic Survey - SES07
+Thailand,TH,THA,764,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Socio-Economic Survey - SES07
+Thailand,TH,THA,764,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Socio-Economic Survey - SES07
+Thailand,TH,THA,764,Rural,8,Dry latrines - Traditional latrine,0.0,Household Socio-Economic Survey - SES07
+Thailand,TH,THA,764,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Socio-Economic Survey - SES07
+Thailand,TH,THA,764,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Socio-Economic Survey - SES07
+Thailand,TH,THA,764,Rural,11,Dry latrines - Bucket latrine,0.0,Household Socio-Economic Survey - SES07
+Thailand,TH,THA,764,Rural,12,Dry latrines - Other,0.0,Household Socio-Economic Survey - SES07
+Thailand,TH,THA,764,Rural,13,Composting toilets,0.0,Household Socio-Economic Survey - SES07
+Thailand,TH,THA,764,Rural,14,Other improved,0.0,Household Socio-Economic Survey - SES07
+Thailand,TH,THA,764,Rural,15,"No facility, bush, field",0.016,Household Socio-Economic Survey - SES07
+Thailand,TH,THA,764,Rural,16,Other unimproved,0.001,Household Socio-Economic Survey - SES07
+Thailand,TH,THA,764,Rural,17,DK/missing information,0.0,Household Socio-Economic Survey - SES07
+Thailand,TH,THA,764,National,1,Flush and pour flush - to piped sewer system,0.0,Household Socio-Economic Survey - SES07
+Thailand,TH,THA,764,National,2,Flush and pour flush - to septic tank,0.873,Household Socio-Economic Survey - SES07
+Thailand,TH,THA,764,National,3,Flush and pour flush - to pit,0.0,Household Socio-Economic Survey - SES07
+Thailand,TH,THA,764,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.114,Household Socio-Economic Survey - SES07
+Thailand,TH,THA,764,National,5,Flush and pour flush - to elsewhere,0.0,Household Socio-Economic Survey - SES07
+Thailand,TH,THA,764,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Socio-Economic Survey - SES07
+Thailand,TH,THA,764,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Socio-Economic Survey - SES07
+Thailand,TH,THA,764,National,8,Dry latrines - Traditional latrine,0.0,Household Socio-Economic Survey - SES07
+Thailand,TH,THA,764,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Socio-Economic Survey - SES07
+Thailand,TH,THA,764,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Socio-Economic Survey - SES07
+Thailand,TH,THA,764,National,11,Dry latrines - Bucket latrine,0.0,Household Socio-Economic Survey - SES07
+Thailand,TH,THA,764,National,12,Dry latrines - Other,0.0,Household Socio-Economic Survey - SES07
+Thailand,TH,THA,764,National,13,Composting toilets,0.0,Household Socio-Economic Survey - SES07
+Thailand,TH,THA,764,National,14,Other improved,0.0,Household Socio-Economic Survey - SES07
+Thailand,TH,THA,764,National,15,"No facility, bush, field",0.012,Household Socio-Economic Survey - SES07
+Thailand,TH,THA,764,National,16,Other unimproved,0.001,Household Socio-Economic Survey - SES07
+Thailand,TH,THA,764,National,17,DK/missing information,0.0,Household Socio-Economic Survey - SES07
+Thailand,TH,THA,764,Urban,1,Flush and pour flush - to piped sewer system,0.0,Household Socio-Economic Survey - SES09
+Thailand,TH,THA,764,Urban,2,Flush and pour flush - to septic tank,0.722,Household Socio-Economic Survey - SES09
+Thailand,TH,THA,764,Urban,3,Flush and pour flush - to pit,0.0,Household Socio-Economic Survey - SES09
+Thailand,TH,THA,764,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.274,Household Socio-Economic Survey - SES09
+Thailand,TH,THA,764,Urban,5,Flush and pour flush - to elsewhere,0.0,Household Socio-Economic Survey - SES09
+Thailand,TH,THA,764,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Socio-Economic Survey - SES09
+Thailand,TH,THA,764,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Socio-Economic Survey - SES09
+Thailand,TH,THA,764,Urban,8,Dry latrines - Traditional latrine,0.0,Household Socio-Economic Survey - SES09
+Thailand,TH,THA,764,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Socio-Economic Survey - SES09
+Thailand,TH,THA,764,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Socio-Economic Survey - SES09
+Thailand,TH,THA,764,Urban,11,Dry latrines - Bucket latrine,0.0,Household Socio-Economic Survey - SES09
+Thailand,TH,THA,764,Urban,12,Dry latrines - Other,0.0,Household Socio-Economic Survey - SES09
+Thailand,TH,THA,764,Urban,13,Composting toilets,0.0,Household Socio-Economic Survey - SES09
+Thailand,TH,THA,764,Urban,14,Other improved,0.0,Household Socio-Economic Survey - SES09
+Thailand,TH,THA,764,Urban,15,"No facility, bush, field",0.003,Household Socio-Economic Survey - SES09
+Thailand,TH,THA,764,Urban,16,Other unimproved,0.001,Household Socio-Economic Survey - SES09
+Thailand,TH,THA,764,Urban,17,DK/missing information,0.0,Household Socio-Economic Survey - SES09
+Thailand,TH,THA,764,Rural,1,Flush and pour flush - to piped sewer system,0.0,Household Socio-Economic Survey - SES09
+Thailand,TH,THA,764,Rural,2,Flush and pour flush - to septic tank,0.929,Household Socio-Economic Survey - SES09
+Thailand,TH,THA,764,Rural,3,Flush and pour flush - to pit,0.0,Household Socio-Economic Survey - SES09
+Thailand,TH,THA,764,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.063,Household Socio-Economic Survey - SES09
+Thailand,TH,THA,764,Rural,5,Flush and pour flush - to elsewhere,0.0,Household Socio-Economic Survey - SES09
+Thailand,TH,THA,764,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Socio-Economic Survey - SES09
+Thailand,TH,THA,764,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Socio-Economic Survey - SES09
+Thailand,TH,THA,764,Rural,8,Dry latrines - Traditional latrine,0.0,Household Socio-Economic Survey - SES09
+Thailand,TH,THA,764,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Socio-Economic Survey - SES09
+Thailand,TH,THA,764,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Socio-Economic Survey - SES09
+Thailand,TH,THA,764,Rural,11,Dry latrines - Bucket latrine,0.0,Household Socio-Economic Survey - SES09
+Thailand,TH,THA,764,Rural,12,Dry latrines - Other,0.0,Household Socio-Economic Survey - SES09
+Thailand,TH,THA,764,Rural,13,Composting toilets,0.0,Household Socio-Economic Survey - SES09
+Thailand,TH,THA,764,Rural,14,Other improved,0.0,Household Socio-Economic Survey - SES09
+Thailand,TH,THA,764,Rural,15,"No facility, bush, field",0.008,Household Socio-Economic Survey - SES09
+Thailand,TH,THA,764,Rural,16,Other unimproved,0.001,Household Socio-Economic Survey - SES09
+Thailand,TH,THA,764,Rural,17,DK/missing information,0.0,Household Socio-Economic Survey - SES09
+Thailand,TH,THA,764,National,1,Flush and pour flush - to piped sewer system,0.0,Household Socio-Economic Survey - SES09
+Thailand,TH,THA,764,National,2,Flush and pour flush - to septic tank,0.86,Household Socio-Economic Survey - SES09
+Thailand,TH,THA,764,National,3,Flush and pour flush - to pit,0.0,Household Socio-Economic Survey - SES09
+Thailand,TH,THA,764,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.132,Household Socio-Economic Survey - SES09
+Thailand,TH,THA,764,National,5,Flush and pour flush - to elsewhere,0.0,Household Socio-Economic Survey - SES09
+Thailand,TH,THA,764,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Socio-Economic Survey - SES09
+Thailand,TH,THA,764,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Socio-Economic Survey - SES09
+Thailand,TH,THA,764,National,8,Dry latrines - Traditional latrine,0.0,Household Socio-Economic Survey - SES09
+Thailand,TH,THA,764,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Socio-Economic Survey - SES09
+Thailand,TH,THA,764,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Socio-Economic Survey - SES09
+Thailand,TH,THA,764,National,11,Dry latrines - Bucket latrine,0.0,Household Socio-Economic Survey - SES09
+Thailand,TH,THA,764,National,12,Dry latrines - Other,0.0,Household Socio-Economic Survey - SES09
+Thailand,TH,THA,764,National,13,Composting toilets,0.0,Household Socio-Economic Survey - SES09
+Thailand,TH,THA,764,National,14,Other improved,0.0,Household Socio-Economic Survey - SES09
+Thailand,TH,THA,764,National,15,"No facility, bush, field",0.006,Household Socio-Economic Survey - SES09
+Thailand,TH,THA,764,National,16,Other unimproved,0.001,Household Socio-Economic Survey - SES09
+Thailand,TH,THA,764,National,17,DK/missing information,0.0,Household Socio-Economic Survey - SES09
+Thailand,TH,THA,764,Urban,1,Flush and pour flush - to piped sewer system,0.0,Census - CEN10
+Thailand,TH,THA,764,Urban,2,Flush and pour flush - to septic tank,0.0,Census - CEN10
+Thailand,TH,THA,764,Urban,3,Flush and pour flush - to pit,0.0,Census - CEN10
+Thailand,TH,THA,764,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.465,Census - CEN10
+Thailand,TH,THA,764,Urban,5,Flush and pour flush - to elsewhere,0.0,Census - CEN10
+Thailand,TH,THA,764,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN10
+Thailand,TH,THA,764,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN10
+Thailand,TH,THA,764,Urban,8,Dry latrines - Traditional latrine,0.486,Census - CEN10
+Thailand,TH,THA,764,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN10
+Thailand,TH,THA,764,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN10
+Thailand,TH,THA,764,Urban,11,Dry latrines - Bucket latrine,0.0,Census - CEN10
+Thailand,TH,THA,764,Urban,12,Dry latrines - Other,0.0,Census - CEN10
+Thailand,TH,THA,764,Urban,13,Composting toilets,0.0,Census - CEN10
+Thailand,TH,THA,764,Urban,14,Other improved,0.047,Census - CEN10
+Thailand,TH,THA,764,Urban,15,"No facility, bush, field",0.001,Census - CEN10
+Thailand,TH,THA,764,Urban,16,Other unimproved,0.0,Census - CEN10
+Thailand,TH,THA,764,Urban,17,DK/missing information,0.001,Census - CEN10
+Thailand,TH,THA,764,Rural,1,Flush and pour flush - to piped sewer system,0.0,Census - CEN10
+Thailand,TH,THA,764,Rural,2,Flush and pour flush - to septic tank,0.0,Census - CEN10
+Thailand,TH,THA,764,Rural,3,Flush and pour flush - to pit,0.0,Census - CEN10
+Thailand,TH,THA,764,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.176,Census - CEN10
+Thailand,TH,THA,764,Rural,5,Flush and pour flush - to elsewhere,0.0,Census - CEN10
+Thailand,TH,THA,764,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN10
+Thailand,TH,THA,764,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN10
+Thailand,TH,THA,764,Rural,8,Dry latrines - Traditional latrine,0.791,Census - CEN10
+Thailand,TH,THA,764,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN10
+Thailand,TH,THA,764,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN10
+Thailand,TH,THA,764,Rural,11,Dry latrines - Bucket latrine,0.0,Census - CEN10
+Thailand,TH,THA,764,Rural,12,Dry latrines - Other,0.0,Census - CEN10
+Thailand,TH,THA,764,Rural,13,Composting toilets,0.0,Census - CEN10
+Thailand,TH,THA,764,Rural,14,Other improved,0.029,Census - CEN10
+Thailand,TH,THA,764,Rural,15,"No facility, bush, field",0.003,Census - CEN10
+Thailand,TH,THA,764,Rural,16,Other unimproved,0.001,Census - CEN10
+Thailand,TH,THA,764,Rural,17,DK/missing information,0.001,Census - CEN10
+Thailand,TH,THA,764,National,1,Flush and pour flush - to piped sewer system,0.0,Census - CEN10
+Thailand,TH,THA,764,National,2,Flush and pour flush - to septic tank,0.0,Census - CEN10
+Thailand,TH,THA,764,National,3,Flush and pour flush - to pit,0.0,Census - CEN10
+Thailand,TH,THA,764,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.313,Census - CEN10
+Thailand,TH,THA,764,National,5,Flush and pour flush - to elsewhere,0.0,Census - CEN10
+Thailand,TH,THA,764,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN10
+Thailand,TH,THA,764,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN10
+Thailand,TH,THA,764,National,8,Dry latrines - Traditional latrine,0.646,Census - CEN10
+Thailand,TH,THA,764,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN10
+Thailand,TH,THA,764,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN10
+Thailand,TH,THA,764,National,11,Dry latrines - Bucket latrine,0.0,Census - CEN10
+Thailand,TH,THA,764,National,12,Dry latrines - Other,0.0,Census - CEN10
+Thailand,TH,THA,764,National,13,Composting toilets,0.0,Census - CEN10
+Thailand,TH,THA,764,National,14,Other improved,0.038,Census - CEN10
+Thailand,TH,THA,764,National,15,"No facility, bush, field",0.002,Census - CEN10
+Thailand,TH,THA,764,National,16,Other unimproved,0.0,Census - CEN10
+Thailand,TH,THA,764,National,17,DK/missing information,0.001,Census - CEN10
+Thailand,TH,THA,764,Urban,1,Flush and pour flush - to piped sewer system,0.0,Household Socio-Economic Survey - SES11
+Thailand,TH,THA,764,Urban,2,Flush and pour flush - to septic tank,0.587,Household Socio-Economic Survey - SES11
+Thailand,TH,THA,764,Urban,3,Flush and pour flush - to pit,0.0,Household Socio-Economic Survey - SES11
+Thailand,TH,THA,764,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.409,Household Socio-Economic Survey - SES11
+Thailand,TH,THA,764,Urban,5,Flush and pour flush - to elsewhere,0.0,Household Socio-Economic Survey - SES11
+Thailand,TH,THA,764,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Socio-Economic Survey - SES11
+Thailand,TH,THA,764,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Socio-Economic Survey - SES11
+Thailand,TH,THA,764,Urban,8,Dry latrines - Traditional latrine,0.0,Household Socio-Economic Survey - SES11
+Thailand,TH,THA,764,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Socio-Economic Survey - SES11
+Thailand,TH,THA,764,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Socio-Economic Survey - SES11
+Thailand,TH,THA,764,Urban,11,Dry latrines - Bucket latrine,0.0,Household Socio-Economic Survey - SES11
+Thailand,TH,THA,764,Urban,12,Dry latrines - Other,0.0,Household Socio-Economic Survey - SES11
+Thailand,TH,THA,764,Urban,13,Composting toilets,0.0,Household Socio-Economic Survey - SES11
+Thailand,TH,THA,764,Urban,14,Other improved,0.0,Household Socio-Economic Survey - SES11
+Thailand,TH,THA,764,Urban,15,"No facility, bush, field",0.002,Household Socio-Economic Survey - SES11
+Thailand,TH,THA,764,Urban,16,Other unimproved,0.001,Household Socio-Economic Survey - SES11
+Thailand,TH,THA,764,Urban,17,DK/missing information,0.0,Household Socio-Economic Survey - SES11
+Thailand,TH,THA,764,Rural,1,Flush and pour flush - to piped sewer system,0.0,Household Socio-Economic Survey - SES11
+Thailand,TH,THA,764,Rural,2,Flush and pour flush - to septic tank,0.823,Household Socio-Economic Survey - SES11
+Thailand,TH,THA,764,Rural,3,Flush and pour flush - to pit,0.0,Household Socio-Economic Survey - SES11
+Thailand,TH,THA,764,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.172,Household Socio-Economic Survey - SES11
+Thailand,TH,THA,764,Rural,5,Flush and pour flush - to elsewhere,0.0,Household Socio-Economic Survey - SES11
+Thailand,TH,THA,764,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Socio-Economic Survey - SES11
+Thailand,TH,THA,764,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Socio-Economic Survey - SES11
+Thailand,TH,THA,764,Rural,8,Dry latrines - Traditional latrine,0.0,Household Socio-Economic Survey - SES11
+Thailand,TH,THA,764,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Socio-Economic Survey - SES11
+Thailand,TH,THA,764,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Socio-Economic Survey - SES11
+Thailand,TH,THA,764,Rural,11,Dry latrines - Bucket latrine,0.0,Household Socio-Economic Survey - SES11
+Thailand,TH,THA,764,Rural,12,Dry latrines - Other,0.0,Household Socio-Economic Survey - SES11
+Thailand,TH,THA,764,Rural,13,Composting toilets,0.0,Household Socio-Economic Survey - SES11
+Thailand,TH,THA,764,Rural,14,Other improved,0.0,Household Socio-Economic Survey - SES11
+Thailand,TH,THA,764,Rural,15,"No facility, bush, field",0.005,Household Socio-Economic Survey - SES11
+Thailand,TH,THA,764,Rural,16,Other unimproved,0.0,Household Socio-Economic Survey - SES11
+Thailand,TH,THA,764,Rural,17,DK/missing information,0.0,Household Socio-Economic Survey - SES11
+Thailand,TH,THA,764,National,1,Flush and pour flush - to piped sewer system,0.0,Household Socio-Economic Survey - SES11
+Thailand,TH,THA,764,National,2,Flush and pour flush - to septic tank,0.738,Household Socio-Economic Survey - SES11
+Thailand,TH,THA,764,National,3,Flush and pour flush - to pit,0.0,Household Socio-Economic Survey - SES11
+Thailand,TH,THA,764,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.258,Household Socio-Economic Survey - SES11
+Thailand,TH,THA,764,National,5,Flush and pour flush - to elsewhere,0.0,Household Socio-Economic Survey - SES11
+Thailand,TH,THA,764,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Socio-Economic Survey - SES11
+Thailand,TH,THA,764,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Socio-Economic Survey - SES11
+Thailand,TH,THA,764,National,8,Dry latrines - Traditional latrine,0.0,Household Socio-Economic Survey - SES11
+Thailand,TH,THA,764,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Socio-Economic Survey - SES11
+Thailand,TH,THA,764,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Socio-Economic Survey - SES11
+Thailand,TH,THA,764,National,11,Dry latrines - Bucket latrine,0.0,Household Socio-Economic Survey - SES11
+Thailand,TH,THA,764,National,12,Dry latrines - Other,0.0,Household Socio-Economic Survey - SES11
+Thailand,TH,THA,764,National,13,Composting toilets,0.0,Household Socio-Economic Survey - SES11
+Thailand,TH,THA,764,National,14,Other improved,0.0,Household Socio-Economic Survey - SES11
+Thailand,TH,THA,764,National,15,"No facility, bush, field",0.004,Household Socio-Economic Survey - SES11
+Thailand,TH,THA,764,National,16,Other unimproved,0.001,Household Socio-Economic Survey - SES11
+Thailand,TH,THA,764,National,17,DK/missing information,0.0,Household Socio-Economic Survey - SES11
 Thailand,TH,THA,764,Urban,1,Flush and pour flush - to piped sewer system,0.087,Multiple Indicator Cluster Survey - MICS12
 Thailand,TH,THA,764,Urban,2,Flush and pour flush - to septic tank,0.902,Multiple Indicator Cluster Survey - MICS12
 Thailand,TH,THA,764,Urban,3,Flush and pour flush - to pit,0.007,Multiple Indicator Cluster Survey - MICS12
@@ -67,6 +492,74 @@ Thailand,TH,THA,764,Rural,14,Other improved,0.0,Multiple Indicator Cluster Surve
 Thailand,TH,THA,764,Rural,15,"No facility, bush, field",0.003,Multiple Indicator Cluster Survey - MICS12
 Thailand,TH,THA,764,Rural,16,Other unimproved,0.001,Multiple Indicator Cluster Survey - MICS12
 Thailand,TH,THA,764,Rural,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS12
+Thailand,TH,THA,764,National,1,Flush and pour flush - to piped sewer system,0.053,Multiple Indicator Cluster Survey - MICS12
+Thailand,TH,THA,764,National,2,Flush and pour flush - to septic tank,0.927,Multiple Indicator Cluster Survey - MICS12
+Thailand,TH,THA,764,National,3,Flush and pour flush - to pit,0.013,Multiple Indicator Cluster Survey - MICS12
+Thailand,TH,THA,764,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS12
+Thailand,TH,THA,764,National,5,Flush and pour flush - to elsewhere,0.003,Multiple Indicator Cluster Survey - MICS12
+Thailand,TH,THA,764,National,6,Dry latrines - Ventilated Improved Pit latrine,0.001,Multiple Indicator Cluster Survey - MICS12
+Thailand,TH,THA,764,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Multiple Indicator Cluster Survey - MICS12
+Thailand,TH,THA,764,National,8,Dry latrines - Traditional latrine,0.0,Multiple Indicator Cluster Survey - MICS12
+Thailand,TH,THA,764,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Multiple Indicator Cluster Survey - MICS12
+Thailand,TH,THA,764,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS12
+Thailand,TH,THA,764,National,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS12
+Thailand,TH,THA,764,National,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS12
+Thailand,TH,THA,764,National,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS12
+Thailand,TH,THA,764,National,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS12
+Thailand,TH,THA,764,National,15,"No facility, bush, field",0.002,Multiple Indicator Cluster Survey - MICS12
+Thailand,TH,THA,764,National,16,Other unimproved,0.001,Multiple Indicator Cluster Survey - MICS12
+Thailand,TH,THA,764,National,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS12
+Thailand,TH,THA,764,Urban,1,Flush and pour flush - to piped sewer system,0.0,Household Socio-Economic Survey - SES13
+Thailand,TH,THA,764,Urban,2,Flush and pour flush - to septic tank,0.512,Household Socio-Economic Survey - SES13
+Thailand,TH,THA,764,Urban,3,Flush and pour flush - to pit,0.0,Household Socio-Economic Survey - SES13
+Thailand,TH,THA,764,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.486,Household Socio-Economic Survey - SES13
+Thailand,TH,THA,764,Urban,5,Flush and pour flush - to elsewhere,0.0,Household Socio-Economic Survey - SES13
+Thailand,TH,THA,764,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Socio-Economic Survey - SES13
+Thailand,TH,THA,764,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Socio-Economic Survey - SES13
+Thailand,TH,THA,764,Urban,8,Dry latrines - Traditional latrine,0.0,Household Socio-Economic Survey - SES13
+Thailand,TH,THA,764,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Socio-Economic Survey - SES13
+Thailand,TH,THA,764,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Socio-Economic Survey - SES13
+Thailand,TH,THA,764,Urban,11,Dry latrines - Bucket latrine,0.0,Household Socio-Economic Survey - SES13
+Thailand,TH,THA,764,Urban,12,Dry latrines - Other,0.0,Household Socio-Economic Survey - SES13
+Thailand,TH,THA,764,Urban,13,Composting toilets,0.0,Household Socio-Economic Survey - SES13
+Thailand,TH,THA,764,Urban,14,Other improved,0.0,Household Socio-Economic Survey - SES13
+Thailand,TH,THA,764,Urban,15,"No facility, bush, field",0.001,Household Socio-Economic Survey - SES13
+Thailand,TH,THA,764,Urban,16,Other unimproved,0.0,Household Socio-Economic Survey - SES13
+Thailand,TH,THA,764,Urban,17,DK/missing information,0.0,Household Socio-Economic Survey - SES13
+Thailand,TH,THA,764,Rural,1,Flush and pour flush - to piped sewer system,0.0,Household Socio-Economic Survey - SES13
+Thailand,TH,THA,764,Rural,2,Flush and pour flush - to septic tank,0.763,Household Socio-Economic Survey - SES13
+Thailand,TH,THA,764,Rural,3,Flush and pour flush - to pit,0.0,Household Socio-Economic Survey - SES13
+Thailand,TH,THA,764,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.232,Household Socio-Economic Survey - SES13
+Thailand,TH,THA,764,Rural,5,Flush and pour flush - to elsewhere,0.0,Household Socio-Economic Survey - SES13
+Thailand,TH,THA,764,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Socio-Economic Survey - SES13
+Thailand,TH,THA,764,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Socio-Economic Survey - SES13
+Thailand,TH,THA,764,Rural,8,Dry latrines - Traditional latrine,0.0,Household Socio-Economic Survey - SES13
+Thailand,TH,THA,764,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Socio-Economic Survey - SES13
+Thailand,TH,THA,764,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Socio-Economic Survey - SES13
+Thailand,TH,THA,764,Rural,11,Dry latrines - Bucket latrine,0.0,Household Socio-Economic Survey - SES13
+Thailand,TH,THA,764,Rural,12,Dry latrines - Other,0.0,Household Socio-Economic Survey - SES13
+Thailand,TH,THA,764,Rural,13,Composting toilets,0.0,Household Socio-Economic Survey - SES13
+Thailand,TH,THA,764,Rural,14,Other improved,0.0,Household Socio-Economic Survey - SES13
+Thailand,TH,THA,764,Rural,15,"No facility, bush, field",0.004,Household Socio-Economic Survey - SES13
+Thailand,TH,THA,764,Rural,16,Other unimproved,0.001,Household Socio-Economic Survey - SES13
+Thailand,TH,THA,764,Rural,17,DK/missing information,0.0,Household Socio-Economic Survey - SES13
+Thailand,TH,THA,764,National,1,Flush and pour flush - to piped sewer system,0.0,Household Socio-Economic Survey - SES13
+Thailand,TH,THA,764,National,2,Flush and pour flush - to septic tank,0.672,Household Socio-Economic Survey - SES13
+Thailand,TH,THA,764,National,3,Flush and pour flush - to pit,0.0,Household Socio-Economic Survey - SES13
+Thailand,TH,THA,764,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.324,Household Socio-Economic Survey - SES13
+Thailand,TH,THA,764,National,5,Flush and pour flush - to elsewhere,0.0,Household Socio-Economic Survey - SES13
+Thailand,TH,THA,764,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Socio-Economic Survey - SES13
+Thailand,TH,THA,764,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Socio-Economic Survey - SES13
+Thailand,TH,THA,764,National,8,Dry latrines - Traditional latrine,0.0,Household Socio-Economic Survey - SES13
+Thailand,TH,THA,764,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Socio-Economic Survey - SES13
+Thailand,TH,THA,764,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Socio-Economic Survey - SES13
+Thailand,TH,THA,764,National,11,Dry latrines - Bucket latrine,0.0,Household Socio-Economic Survey - SES13
+Thailand,TH,THA,764,National,12,Dry latrines - Other,0.0,Household Socio-Economic Survey - SES13
+Thailand,TH,THA,764,National,13,Composting toilets,0.0,Household Socio-Economic Survey - SES13
+Thailand,TH,THA,764,National,14,Other improved,0.0,Household Socio-Economic Survey - SES13
+Thailand,TH,THA,764,National,15,"No facility, bush, field",0.003,Household Socio-Economic Survey - SES13
+Thailand,TH,THA,764,National,16,Other unimproved,0.001,Household Socio-Economic Survey - SES13
+Thailand,TH,THA,764,National,17,DK/missing information,0.0,Household Socio-Economic Survey - SES13
 Thailand,TH,THA,764,Urban,1,Flush and pour flush - to piped sewer system,0.108,Multiple Indicator Cluster Survey 2015-16 - MICS16
 Thailand,TH,THA,764,Urban,2,Flush and pour flush - to septic tank,0.866,Multiple Indicator Cluster Survey 2015-16 - MICS16
 Thailand,TH,THA,764,Urban,3,Flush and pour flush - to pit,0.021,Multiple Indicator Cluster Survey 2015-16 - MICS16
@@ -101,3 +594,20 @@ Thailand,TH,THA,764,Rural,14,Other improved,0.0,Multiple Indicator Cluster Surve
 Thailand,TH,THA,764,Rural,15,"No facility, bush, field",0.004,Multiple Indicator Cluster Survey 2015-16 - MICS16
 Thailand,TH,THA,764,Rural,16,Other unimproved,0.0,Multiple Indicator Cluster Survey 2015-16 - MICS16
 Thailand,TH,THA,764,Rural,17,DK/missing information,0.0,Multiple Indicator Cluster Survey 2015-16 - MICS16
+Thailand,TH,THA,764,National,1,Flush and pour flush - to piped sewer system,0.078,Multiple Indicator Cluster Survey 2015-16 - MICS16
+Thailand,TH,THA,764,National,2,Flush and pour flush - to septic tank,0.882,Multiple Indicator Cluster Survey 2015-16 - MICS16
+Thailand,TH,THA,764,National,3,Flush and pour flush - to pit,0.035,Multiple Indicator Cluster Survey 2015-16 - MICS16
+Thailand,TH,THA,764,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey 2015-16 - MICS16
+Thailand,TH,THA,764,National,5,Flush and pour flush - to elsewhere,0.002,Multiple Indicator Cluster Survey 2015-16 - MICS16
+Thailand,TH,THA,764,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Multiple Indicator Cluster Survey 2015-16 - MICS16
+Thailand,TH,THA,764,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.001,Multiple Indicator Cluster Survey 2015-16 - MICS16
+Thailand,TH,THA,764,National,8,Dry latrines - Traditional latrine,0.0,Multiple Indicator Cluster Survey 2015-16 - MICS16
+Thailand,TH,THA,764,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Multiple Indicator Cluster Survey 2015-16 - MICS16
+Thailand,TH,THA,764,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey 2015-16 - MICS16
+Thailand,TH,THA,764,National,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey 2015-16 - MICS16
+Thailand,TH,THA,764,National,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey 2015-16 - MICS16
+Thailand,TH,THA,764,National,13,Composting toilets,0.0,Multiple Indicator Cluster Survey 2015-16 - MICS16
+Thailand,TH,THA,764,National,14,Other improved,0.0,Multiple Indicator Cluster Survey 2015-16 - MICS16
+Thailand,TH,THA,764,National,15,"No facility, bush, field",0.002,Multiple Indicator Cluster Survey 2015-16 - MICS16
+Thailand,TH,THA,764,National,16,Other unimproved,0.0,Multiple Indicator Cluster Survey 2015-16 - MICS16
+Thailand,TH,THA,764,National,17,DK/missing information,0.0,Multiple Indicator Cluster Survey 2015-16 - MICS16

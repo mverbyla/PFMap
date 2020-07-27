@@ -1,4 +1,57 @@
 country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+Paraguay,PY,PRY,600,Urban,1,Flush and pour flush - to piped sewer system,0.228,Encuesta Integrada de Hogares - EIH00
+Paraguay,PY,PRY,600,Urban,2,Flush and pour flush - to septic tank,0.0,Encuesta Integrada de Hogares - EIH00
+Paraguay,PY,PRY,600,Urban,3,Flush and pour flush - to pit,0.625,Encuesta Integrada de Hogares - EIH00
+Paraguay,PY,PRY,600,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Integrada de Hogares - EIH00
+Paraguay,PY,PRY,600,Urban,5,Flush and pour flush - to elsewhere,0.0,Encuesta Integrada de Hogares - EIH00
+Paraguay,PY,PRY,600,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Integrada de Hogares - EIH00
+Paraguay,PY,PRY,600,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta Integrada de Hogares - EIH00
+Paraguay,PY,PRY,600,Urban,8,Dry latrines - Traditional latrine,0.137,Encuesta Integrada de Hogares - EIH00
+Paraguay,PY,PRY,600,Urban,8,Dry latrines - Traditional latrine,0.137,Encuesta Integrada de Hogares - EIH00
+Paraguay,PY,PRY,600,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta Integrada de Hogares - EIH00
+Paraguay,PY,PRY,600,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Integrada de Hogares - EIH00
+Paraguay,PY,PRY,600,Urban,11,Dry latrines - Bucket latrine,0.0,Encuesta Integrada de Hogares - EIH00
+Paraguay,PY,PRY,600,Urban,12,Dry latrines - Other,0.0,Encuesta Integrada de Hogares - EIH00
+Paraguay,PY,PRY,600,Urban,13,Composting toilets,0.0,Encuesta Integrada de Hogares - EIH00
+Paraguay,PY,PRY,600,Urban,14,Other improved,0.0,Encuesta Integrada de Hogares - EIH00
+Paraguay,PY,PRY,600,Urban,15,"No facility, bush, field",0.004,Encuesta Integrada de Hogares - EIH00
+Paraguay,PY,PRY,600,Urban,16,Other unimproved,0.005,Encuesta Integrada de Hogares - EIH00
+Paraguay,PY,PRY,600,Urban,17,DK/missing information,0.0,Encuesta Integrada de Hogares - EIH00
+Paraguay,PY,PRY,600,Rural,1,Flush and pour flush - to piped sewer system,0.087,Encuesta Integrada de Hogares - EIH00
+Paraguay,PY,PRY,600,Rural,2,Flush and pour flush - to septic tank,0.0,Encuesta Integrada de Hogares - EIH00
+Paraguay,PY,PRY,600,Rural,3,Flush and pour flush - to pit,0.265,Encuesta Integrada de Hogares - EIH00
+Paraguay,PY,PRY,600,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Integrada de Hogares - EIH00
+Paraguay,PY,PRY,600,Rural,5,Flush and pour flush - to elsewhere,0.0,Encuesta Integrada de Hogares - EIH00
+Paraguay,PY,PRY,600,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Integrada de Hogares - EIH00
+Paraguay,PY,PRY,600,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta Integrada de Hogares - EIH00
+Paraguay,PY,PRY,600,Rural,8,Dry latrines - Traditional latrine,0.63,Encuesta Integrada de Hogares - EIH00
+Paraguay,PY,PRY,600,Rural,8,Dry latrines - Traditional latrine,0.63,Encuesta Integrada de Hogares - EIH00
+Paraguay,PY,PRY,600,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta Integrada de Hogares - EIH00
+Paraguay,PY,PRY,600,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Integrada de Hogares - EIH00
+Paraguay,PY,PRY,600,Rural,11,Dry latrines - Bucket latrine,0.0,Encuesta Integrada de Hogares - EIH00
+Paraguay,PY,PRY,600,Rural,12,Dry latrines - Other,0.0,Encuesta Integrada de Hogares - EIH00
+Paraguay,PY,PRY,600,Rural,13,Composting toilets,0.0,Encuesta Integrada de Hogares - EIH00
+Paraguay,PY,PRY,600,Rural,14,Other improved,0.0,Encuesta Integrada de Hogares - EIH00
+Paraguay,PY,PRY,600,Rural,15,"No facility, bush, field",0.016,Encuesta Integrada de Hogares - EIH00
+Paraguay,PY,PRY,600,Rural,16,Other unimproved,0.002,Encuesta Integrada de Hogares - EIH00
+Paraguay,PY,PRY,600,Rural,17,DK/missing information,0.0,Encuesta Integrada de Hogares - EIH00
+Paraguay,PY,PRY,600,National,1,Flush and pour flush - to piped sewer system,0.0,Encuesta Integrada de Hogares - EIH00
+Paraguay,PY,PRY,600,National,2,Flush and pour flush - to septic tank,0.0,Encuesta Integrada de Hogares - EIH00
+Paraguay,PY,PRY,600,National,3,Flush and pour flush - to pit,0.0,Encuesta Integrada de Hogares - EIH00
+Paraguay,PY,PRY,600,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Integrada de Hogares - EIH00
+Paraguay,PY,PRY,600,National,5,Flush and pour flush - to elsewhere,0.0,Encuesta Integrada de Hogares - EIH00
+Paraguay,PY,PRY,600,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Integrada de Hogares - EIH00
+Paraguay,PY,PRY,600,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta Integrada de Hogares - EIH00
+Paraguay,PY,PRY,600,National,8,Dry latrines - Traditional latrine,0.0,Encuesta Integrada de Hogares - EIH00
+Paraguay,PY,PRY,600,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta Integrada de Hogares - EIH00
+Paraguay,PY,PRY,600,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Integrada de Hogares - EIH00
+Paraguay,PY,PRY,600,National,11,Dry latrines - Bucket latrine,0.0,Encuesta Integrada de Hogares - EIH00
+Paraguay,PY,PRY,600,National,12,Dry latrines - Other,0.0,Encuesta Integrada de Hogares - EIH00
+Paraguay,PY,PRY,600,National,13,Composting toilets,0.0,Encuesta Integrada de Hogares - EIH00
+Paraguay,PY,PRY,600,National,14,Other improved,0.0,Encuesta Integrada de Hogares - EIH00
+Paraguay,PY,PRY,600,National,15,"No facility, bush, field",0.0,Encuesta Integrada de Hogares - EIH00
+Paraguay,PY,PRY,600,National,16,Other unimproved,0.0,Encuesta Integrada de Hogares - EIH00
+Paraguay,PY,PRY,600,National,17,DK/missing information,0.0,Encuesta Integrada de Hogares - EIH00
 Paraguay,PY,PRY,600,Urban,1,Flush and pour flush - to piped sewer system,0.161,Censo - CEN02
 Paraguay,PY,PRY,600,Urban,2,Flush and pour flush - to septic tank,0.7,Censo - CEN02
 Paraguay,PY,PRY,600,Urban,3,Flush and pour flush - to pit,0.0,Censo - CEN02
@@ -33,6 +86,299 @@ Paraguay,PY,PRY,600,Rural,14,Other improved,0.0,Censo - CEN02
 Paraguay,PY,PRY,600,Rural,15,"No facility, bush, field",0.016,Censo - CEN02
 Paraguay,PY,PRY,600,Rural,16,Other unimproved,0.0,Censo - CEN02
 Paraguay,PY,PRY,600,Rural,17,DK/missing information,0.0,Censo - CEN02
+Paraguay,PY,PRY,600,National,1,Flush and pour flush - to piped sewer system,0.094,Censo - CEN02
+Paraguay,PY,PRY,600,National,2,Flush and pour flush - to septic tank,0.536,Censo - CEN02
+Paraguay,PY,PRY,600,National,3,Flush and pour flush - to pit,0.0,Censo - CEN02
+Paraguay,PY,PRY,600,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Censo - CEN02
+Paraguay,PY,PRY,600,National,5,Flush and pour flush - to elsewhere,0.009,Censo - CEN02
+Paraguay,PY,PRY,600,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Censo - CEN02
+Paraguay,PY,PRY,600,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Censo - CEN02
+Paraguay,PY,PRY,600,National,8,Dry latrines - Traditional latrine,0.349,Censo - CEN02
+Paraguay,PY,PRY,600,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Censo - CEN02
+Paraguay,PY,PRY,600,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Censo - CEN02
+Paraguay,PY,PRY,600,National,11,Dry latrines - Bucket latrine,0.0,Censo - CEN02
+Paraguay,PY,PRY,600,National,12,Dry latrines - Other,0.0,Censo - CEN02
+Paraguay,PY,PRY,600,National,13,Composting toilets,0.0,Censo - CEN02
+Paraguay,PY,PRY,600,National,14,Other improved,0.0,Censo - CEN02
+Paraguay,PY,PRY,600,National,15,"No facility, bush, field",0.012,Censo - CEN02
+Paraguay,PY,PRY,600,National,16,Other unimproved,0.0,Censo - CEN02
+Paraguay,PY,PRY,600,National,17,DK/missing information,0.0,Censo - CEN02
+Paraguay,PY,PRY,600,Urban,1,Flush and pour flush - to piped sewer system,0.184,Encuesta Permanente de Hogares - EPH02
+Paraguay,PY,PRY,600,Urban,2,Flush and pour flush - to septic tank,0.0,Encuesta Permanente de Hogares - EPH02
+Paraguay,PY,PRY,600,Urban,3,Flush and pour flush - to pit,0.631,Encuesta Permanente de Hogares - EPH02
+Paraguay,PY,PRY,600,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Permanente de Hogares - EPH02
+Paraguay,PY,PRY,600,Urban,5,Flush and pour flush - to elsewhere,0.0,Encuesta Permanente de Hogares - EPH02
+Paraguay,PY,PRY,600,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Permanente de Hogares - EPH02
+Paraguay,PY,PRY,600,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta Permanente de Hogares - EPH02
+Paraguay,PY,PRY,600,Urban,8,Dry latrines - Traditional latrine,0.177,Encuesta Permanente de Hogares - EPH02
+Paraguay,PY,PRY,600,Urban,8,Dry latrines - Traditional latrine,0.177,Encuesta Permanente de Hogares - EPH02
+Paraguay,PY,PRY,600,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta Permanente de Hogares - EPH02
+Paraguay,PY,PRY,600,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Permanente de Hogares - EPH02
+Paraguay,PY,PRY,600,Urban,11,Dry latrines - Bucket latrine,0.0,Encuesta Permanente de Hogares - EPH02
+Paraguay,PY,PRY,600,Urban,12,Dry latrines - Other,0.0,Encuesta Permanente de Hogares - EPH02
+Paraguay,PY,PRY,600,Urban,13,Composting toilets,0.0,Encuesta Permanente de Hogares - EPH02
+Paraguay,PY,PRY,600,Urban,14,Other improved,0.0,Encuesta Permanente de Hogares - EPH02
+Paraguay,PY,PRY,600,Urban,15,"No facility, bush, field",0.007,Encuesta Permanente de Hogares - EPH02
+Paraguay,PY,PRY,600,Urban,16,Other unimproved,0.001,Encuesta Permanente de Hogares - EPH02
+Paraguay,PY,PRY,600,Urban,17,DK/missing information,0.0,Encuesta Permanente de Hogares - EPH02
+Paraguay,PY,PRY,600,Rural,1,Flush and pour flush - to piped sewer system,0.042,Encuesta Permanente de Hogares - EPH02
+Paraguay,PY,PRY,600,Rural,2,Flush and pour flush - to septic tank,0.0,Encuesta Permanente de Hogares - EPH02
+Paraguay,PY,PRY,600,Rural,3,Flush and pour flush - to pit,0.247,Encuesta Permanente de Hogares - EPH02
+Paraguay,PY,PRY,600,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Permanente de Hogares - EPH02
+Paraguay,PY,PRY,600,Rural,5,Flush and pour flush - to elsewhere,0.0,Encuesta Permanente de Hogares - EPH02
+Paraguay,PY,PRY,600,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Permanente de Hogares - EPH02
+Paraguay,PY,PRY,600,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta Permanente de Hogares - EPH02
+Paraguay,PY,PRY,600,Rural,8,Dry latrines - Traditional latrine,0.697,Encuesta Permanente de Hogares - EPH02
+Paraguay,PY,PRY,600,Rural,8,Dry latrines - Traditional latrine,0.697,Encuesta Permanente de Hogares - EPH02
+Paraguay,PY,PRY,600,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta Permanente de Hogares - EPH02
+Paraguay,PY,PRY,600,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Permanente de Hogares - EPH02
+Paraguay,PY,PRY,600,Rural,11,Dry latrines - Bucket latrine,0.0,Encuesta Permanente de Hogares - EPH02
+Paraguay,PY,PRY,600,Rural,12,Dry latrines - Other,0.0,Encuesta Permanente de Hogares - EPH02
+Paraguay,PY,PRY,600,Rural,13,Composting toilets,0.0,Encuesta Permanente de Hogares - EPH02
+Paraguay,PY,PRY,600,Rural,14,Other improved,0.0,Encuesta Permanente de Hogares - EPH02
+Paraguay,PY,PRY,600,Rural,15,"No facility, bush, field",0.012,Encuesta Permanente de Hogares - EPH02
+Paraguay,PY,PRY,600,Rural,16,Other unimproved,0.002,Encuesta Permanente de Hogares - EPH02
+Paraguay,PY,PRY,600,Rural,17,DK/missing information,0.0,Encuesta Permanente de Hogares - EPH02
+Paraguay,PY,PRY,600,National,1,Flush and pour flush - to piped sewer system,0.0,Encuesta Permanente de Hogares - EPH02
+Paraguay,PY,PRY,600,National,2,Flush and pour flush - to septic tank,0.0,Encuesta Permanente de Hogares - EPH02
+Paraguay,PY,PRY,600,National,3,Flush and pour flush - to pit,0.0,Encuesta Permanente de Hogares - EPH02
+Paraguay,PY,PRY,600,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Permanente de Hogares - EPH02
+Paraguay,PY,PRY,600,National,5,Flush and pour flush - to elsewhere,0.0,Encuesta Permanente de Hogares - EPH02
+Paraguay,PY,PRY,600,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Permanente de Hogares - EPH02
+Paraguay,PY,PRY,600,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta Permanente de Hogares - EPH02
+Paraguay,PY,PRY,600,National,8,Dry latrines - Traditional latrine,0.0,Encuesta Permanente de Hogares - EPH02
+Paraguay,PY,PRY,600,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta Permanente de Hogares - EPH02
+Paraguay,PY,PRY,600,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Permanente de Hogares - EPH02
+Paraguay,PY,PRY,600,National,11,Dry latrines - Bucket latrine,0.0,Encuesta Permanente de Hogares - EPH02
+Paraguay,PY,PRY,600,National,12,Dry latrines - Other,0.0,Encuesta Permanente de Hogares - EPH02
+Paraguay,PY,PRY,600,National,13,Composting toilets,0.0,Encuesta Permanente de Hogares - EPH02
+Paraguay,PY,PRY,600,National,14,Other improved,0.0,Encuesta Permanente de Hogares - EPH02
+Paraguay,PY,PRY,600,National,15,"No facility, bush, field",0.0,Encuesta Permanente de Hogares - EPH02
+Paraguay,PY,PRY,600,National,16,Other unimproved,0.0,Encuesta Permanente de Hogares - EPH02
+Paraguay,PY,PRY,600,National,17,DK/missing information,0.0,Encuesta Permanente de Hogares - EPH02
+Paraguay,PY,PRY,600,Urban,1,Flush and pour flush - to piped sewer system,0.195,World Health Survey - WHS03
+Paraguay,PY,PRY,600,Urban,2,Flush and pour flush - to septic tank,0.118,World Health Survey - WHS03
+Paraguay,PY,PRY,600,Urban,3,Flush and pour flush - to pit,0.0,World Health Survey - WHS03
+Paraguay,PY,PRY,600,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,World Health Survey - WHS03
+Paraguay,PY,PRY,600,Urban,5,Flush and pour flush - to elsewhere,0.0,World Health Survey - WHS03
+Paraguay,PY,PRY,600,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,World Health Survey - WHS03
+Paraguay,PY,PRY,600,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.009,World Health Survey - WHS03
+Paraguay,PY,PRY,600,Urban,8,Dry latrines - Traditional latrine,0.0,World Health Survey - WHS03
+Paraguay,PY,PRY,600,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.124,World Health Survey - WHS03
+Paraguay,PY,PRY,600,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,World Health Survey - WHS03
+Paraguay,PY,PRY,600,Urban,11,Dry latrines - Bucket latrine,0.005,World Health Survey - WHS03
+Paraguay,PY,PRY,600,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.009,World Health Survey - WHS03
+Paraguay,PY,PRY,600,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,World Health Survey - WHS03
+Paraguay,PY,PRY,600,Urban,8,Dry latrines - Traditional latrine,0.0,World Health Survey - WHS03
+Paraguay,PY,PRY,600,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,World Health Survey - WHS03
+Paraguay,PY,PRY,600,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,World Health Survey - WHS03
+Paraguay,PY,PRY,600,Urban,11,Dry latrines - Bucket latrine,0.0,World Health Survey - WHS03
+Paraguay,PY,PRY,600,Urban,12,Dry latrines - Other,0.0,World Health Survey - WHS03
+Paraguay,PY,PRY,600,Urban,13,Composting toilets,0.0,World Health Survey - WHS03
+Paraguay,PY,PRY,600,Urban,14,Other improved,0.0,World Health Survey - WHS03
+Paraguay,PY,PRY,600,Urban,15,"No facility, bush, field",0.003,World Health Survey - WHS03
+Paraguay,PY,PRY,600,Urban,16,Other unimproved,0.002,World Health Survey - WHS03
+Paraguay,PY,PRY,600,Urban,17,DK/missing information,0.0,World Health Survey - WHS03
+Paraguay,PY,PRY,600,Rural,1,Flush and pour flush - to piped sewer system,0.002,World Health Survey - WHS03
+Paraguay,PY,PRY,600,Rural,2,Flush and pour flush - to septic tank,0.033,World Health Survey - WHS03
+Paraguay,PY,PRY,600,Rural,3,Flush and pour flush - to pit,0.0,World Health Survey - WHS03
+Paraguay,PY,PRY,600,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,World Health Survey - WHS03
+Paraguay,PY,PRY,600,Rural,5,Flush and pour flush - to elsewhere,0.0,World Health Survey - WHS03
+Paraguay,PY,PRY,600,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,World Health Survey - WHS03
+Paraguay,PY,PRY,600,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.043,World Health Survey - WHS03
+Paraguay,PY,PRY,600,Rural,8,Dry latrines - Traditional latrine,0.0,World Health Survey - WHS03
+Paraguay,PY,PRY,600,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.638,World Health Survey - WHS03
+Paraguay,PY,PRY,600,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,World Health Survey - WHS03
+Paraguay,PY,PRY,600,Rural,11,Dry latrines - Bucket latrine,0.01,World Health Survey - WHS03
+Paraguay,PY,PRY,600,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.042,World Health Survey - WHS03
+Paraguay,PY,PRY,600,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.001,World Health Survey - WHS03
+Paraguay,PY,PRY,600,Rural,8,Dry latrines - Traditional latrine,0.0,World Health Survey - WHS03
+Paraguay,PY,PRY,600,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,World Health Survey - WHS03
+Paraguay,PY,PRY,600,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,World Health Survey - WHS03
+Paraguay,PY,PRY,600,Rural,11,Dry latrines - Bucket latrine,0.0,World Health Survey - WHS03
+Paraguay,PY,PRY,600,Rural,12,Dry latrines - Other,0.0,World Health Survey - WHS03
+Paraguay,PY,PRY,600,Rural,13,Composting toilets,0.0,World Health Survey - WHS03
+Paraguay,PY,PRY,600,Rural,14,Other improved,0.0,World Health Survey - WHS03
+Paraguay,PY,PRY,600,Rural,15,"No facility, bush, field",0.009,World Health Survey - WHS03
+Paraguay,PY,PRY,600,Rural,16,Other unimproved,0.003,World Health Survey - WHS03
+Paraguay,PY,PRY,600,Rural,17,DK/missing information,0.0,World Health Survey - WHS03
+Paraguay,PY,PRY,600,National,1,Flush and pour flush - to piped sewer system,0.0,World Health Survey - WHS03
+Paraguay,PY,PRY,600,National,2,Flush and pour flush - to septic tank,0.0,World Health Survey - WHS03
+Paraguay,PY,PRY,600,National,3,Flush and pour flush - to pit,0.0,World Health Survey - WHS03
+Paraguay,PY,PRY,600,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,World Health Survey - WHS03
+Paraguay,PY,PRY,600,National,5,Flush and pour flush - to elsewhere,0.0,World Health Survey - WHS03
+Paraguay,PY,PRY,600,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,World Health Survey - WHS03
+Paraguay,PY,PRY,600,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,World Health Survey - WHS03
+Paraguay,PY,PRY,600,National,8,Dry latrines - Traditional latrine,0.0,World Health Survey - WHS03
+Paraguay,PY,PRY,600,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,World Health Survey - WHS03
+Paraguay,PY,PRY,600,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,World Health Survey - WHS03
+Paraguay,PY,PRY,600,National,11,Dry latrines - Bucket latrine,0.0,World Health Survey - WHS03
+Paraguay,PY,PRY,600,National,12,Dry latrines - Other,0.0,World Health Survey - WHS03
+Paraguay,PY,PRY,600,National,13,Composting toilets,0.0,World Health Survey - WHS03
+Paraguay,PY,PRY,600,National,14,Other improved,0.0,World Health Survey - WHS03
+Paraguay,PY,PRY,600,National,15,"No facility, bush, field",0.0,World Health Survey - WHS03
+Paraguay,PY,PRY,600,National,16,Other unimproved,0.0,World Health Survey - WHS03
+Paraguay,PY,PRY,600,National,17,DK/missing information,0.0,World Health Survey - WHS03
+Paraguay,PY,PRY,600,Urban,1,Flush and pour flush - to piped sewer system,0.211,Encuesta Permanente de Hogares - EPH03
+Paraguay,PY,PRY,600,Urban,2,Flush and pour flush - to septic tank,0.0,Encuesta Permanente de Hogares - EPH03
+Paraguay,PY,PRY,600,Urban,3,Flush and pour flush - to pit,0.625,Encuesta Permanente de Hogares - EPH03
+Paraguay,PY,PRY,600,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Permanente de Hogares - EPH03
+Paraguay,PY,PRY,600,Urban,5,Flush and pour flush - to elsewhere,0.0,Encuesta Permanente de Hogares - EPH03
+Paraguay,PY,PRY,600,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Permanente de Hogares - EPH03
+Paraguay,PY,PRY,600,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta Permanente de Hogares - EPH03
+Paraguay,PY,PRY,600,Urban,8,Dry latrines - Traditional latrine,0.152,Encuesta Permanente de Hogares - EPH03
+Paraguay,PY,PRY,600,Urban,8,Dry latrines - Traditional latrine,0.152,Encuesta Permanente de Hogares - EPH03
+Paraguay,PY,PRY,600,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta Permanente de Hogares - EPH03
+Paraguay,PY,PRY,600,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Permanente de Hogares - EPH03
+Paraguay,PY,PRY,600,Urban,11,Dry latrines - Bucket latrine,0.0,Encuesta Permanente de Hogares - EPH03
+Paraguay,PY,PRY,600,Urban,12,Dry latrines - Other,0.0,Encuesta Permanente de Hogares - EPH03
+Paraguay,PY,PRY,600,Urban,13,Composting toilets,0.0,Encuesta Permanente de Hogares - EPH03
+Paraguay,PY,PRY,600,Urban,14,Other improved,0.0,Encuesta Permanente de Hogares - EPH03
+Paraguay,PY,PRY,600,Urban,15,"No facility, bush, field",0.007,Encuesta Permanente de Hogares - EPH03
+Paraguay,PY,PRY,600,Urban,16,Other unimproved,0.005,Encuesta Permanente de Hogares - EPH03
+Paraguay,PY,PRY,600,Urban,17,DK/missing information,0.0,Encuesta Permanente de Hogares - EPH03
+Paraguay,PY,PRY,600,Rural,1,Flush and pour flush - to piped sewer system,0.026,Encuesta Permanente de Hogares - EPH03
+Paraguay,PY,PRY,600,Rural,2,Flush and pour flush - to septic tank,0.0,Encuesta Permanente de Hogares - EPH03
+Paraguay,PY,PRY,600,Rural,3,Flush and pour flush - to pit,0.3,Encuesta Permanente de Hogares - EPH03
+Paraguay,PY,PRY,600,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Permanente de Hogares - EPH03
+Paraguay,PY,PRY,600,Rural,5,Flush and pour flush - to elsewhere,0.0,Encuesta Permanente de Hogares - EPH03
+Paraguay,PY,PRY,600,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Permanente de Hogares - EPH03
+Paraguay,PY,PRY,600,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta Permanente de Hogares - EPH03
+Paraguay,PY,PRY,600,Rural,8,Dry latrines - Traditional latrine,0.648,Encuesta Permanente de Hogares - EPH03
+Paraguay,PY,PRY,600,Rural,8,Dry latrines - Traditional latrine,0.648,Encuesta Permanente de Hogares - EPH03
+Paraguay,PY,PRY,600,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta Permanente de Hogares - EPH03
+Paraguay,PY,PRY,600,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Permanente de Hogares - EPH03
+Paraguay,PY,PRY,600,Rural,11,Dry latrines - Bucket latrine,0.0,Encuesta Permanente de Hogares - EPH03
+Paraguay,PY,PRY,600,Rural,12,Dry latrines - Other,0.0,Encuesta Permanente de Hogares - EPH03
+Paraguay,PY,PRY,600,Rural,13,Composting toilets,0.0,Encuesta Permanente de Hogares - EPH03
+Paraguay,PY,PRY,600,Rural,14,Other improved,0.0,Encuesta Permanente de Hogares - EPH03
+Paraguay,PY,PRY,600,Rural,15,"No facility, bush, field",0.024,Encuesta Permanente de Hogares - EPH03
+Paraguay,PY,PRY,600,Rural,16,Other unimproved,0.002,Encuesta Permanente de Hogares - EPH03
+Paraguay,PY,PRY,600,Rural,17,DK/missing information,0.0,Encuesta Permanente de Hogares - EPH03
+Paraguay,PY,PRY,600,National,1,Flush and pour flush - to piped sewer system,0.0,Encuesta Permanente de Hogares - EPH03
+Paraguay,PY,PRY,600,National,2,Flush and pour flush - to septic tank,0.0,Encuesta Permanente de Hogares - EPH03
+Paraguay,PY,PRY,600,National,3,Flush and pour flush - to pit,0.0,Encuesta Permanente de Hogares - EPH03
+Paraguay,PY,PRY,600,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Permanente de Hogares - EPH03
+Paraguay,PY,PRY,600,National,5,Flush and pour flush - to elsewhere,0.0,Encuesta Permanente de Hogares - EPH03
+Paraguay,PY,PRY,600,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Permanente de Hogares - EPH03
+Paraguay,PY,PRY,600,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta Permanente de Hogares - EPH03
+Paraguay,PY,PRY,600,National,8,Dry latrines - Traditional latrine,0.0,Encuesta Permanente de Hogares - EPH03
+Paraguay,PY,PRY,600,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta Permanente de Hogares - EPH03
+Paraguay,PY,PRY,600,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Permanente de Hogares - EPH03
+Paraguay,PY,PRY,600,National,11,Dry latrines - Bucket latrine,0.0,Encuesta Permanente de Hogares - EPH03
+Paraguay,PY,PRY,600,National,12,Dry latrines - Other,0.0,Encuesta Permanente de Hogares - EPH03
+Paraguay,PY,PRY,600,National,13,Composting toilets,0.0,Encuesta Permanente de Hogares - EPH03
+Paraguay,PY,PRY,600,National,14,Other improved,0.0,Encuesta Permanente de Hogares - EPH03
+Paraguay,PY,PRY,600,National,15,"No facility, bush, field",0.0,Encuesta Permanente de Hogares - EPH03
+Paraguay,PY,PRY,600,National,16,Other unimproved,0.0,Encuesta Permanente de Hogares - EPH03
+Paraguay,PY,PRY,600,National,17,DK/missing information,0.0,Encuesta Permanente de Hogares - EPH03
+Paraguay,PY,PRY,600,Urban,1,Flush and pour flush - to piped sewer system,0.197,ENCUESTA NACIONAL DE DEMOGRAFIA Y SALUD REPRODUCTIVA - ENDS04
+Paraguay,PY,PRY,600,Urban,2,Flush and pour flush - to septic tank,0.0,ENCUESTA NACIONAL DE DEMOGRAFIA Y SALUD REPRODUCTIVA - ENDS04
+Paraguay,PY,PRY,600,Urban,3,Flush and pour flush - to pit,0.71,ENCUESTA NACIONAL DE DEMOGRAFIA Y SALUD REPRODUCTIVA - ENDS04
+Paraguay,PY,PRY,600,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,ENCUESTA NACIONAL DE DEMOGRAFIA Y SALUD REPRODUCTIVA - ENDS04
+Paraguay,PY,PRY,600,Urban,5,Flush and pour flush - to elsewhere,0.0,ENCUESTA NACIONAL DE DEMOGRAFIA Y SALUD REPRODUCTIVA - ENDS04
+Paraguay,PY,PRY,600,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,ENCUESTA NACIONAL DE DEMOGRAFIA Y SALUD REPRODUCTIVA - ENDS04
+Paraguay,PY,PRY,600,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,ENCUESTA NACIONAL DE DEMOGRAFIA Y SALUD REPRODUCTIVA - ENDS04
+Paraguay,PY,PRY,600,Urban,8,Dry latrines - Traditional latrine,0.093,ENCUESTA NACIONAL DE DEMOGRAFIA Y SALUD REPRODUCTIVA - ENDS04
+Paraguay,PY,PRY,600,Urban,8,Dry latrines - Traditional latrine,0.093,ENCUESTA NACIONAL DE DEMOGRAFIA Y SALUD REPRODUCTIVA - ENDS04
+Paraguay,PY,PRY,600,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,ENCUESTA NACIONAL DE DEMOGRAFIA Y SALUD REPRODUCTIVA - ENDS04
+Paraguay,PY,PRY,600,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,ENCUESTA NACIONAL DE DEMOGRAFIA Y SALUD REPRODUCTIVA - ENDS04
+Paraguay,PY,PRY,600,Urban,11,Dry latrines - Bucket latrine,0.0,ENCUESTA NACIONAL DE DEMOGRAFIA Y SALUD REPRODUCTIVA - ENDS04
+Paraguay,PY,PRY,600,Urban,12,Dry latrines - Other,0.0,ENCUESTA NACIONAL DE DEMOGRAFIA Y SALUD REPRODUCTIVA - ENDS04
+Paraguay,PY,PRY,600,Urban,13,Composting toilets,0.0,ENCUESTA NACIONAL DE DEMOGRAFIA Y SALUD REPRODUCTIVA - ENDS04
+Paraguay,PY,PRY,600,Urban,14,Other improved,0.0,ENCUESTA NACIONAL DE DEMOGRAFIA Y SALUD REPRODUCTIVA - ENDS04
+Paraguay,PY,PRY,600,Urban,15,"No facility, bush, field",0.0,ENCUESTA NACIONAL DE DEMOGRAFIA Y SALUD REPRODUCTIVA - ENDS04
+Paraguay,PY,PRY,600,Urban,16,Other unimproved,0.001,ENCUESTA NACIONAL DE DEMOGRAFIA Y SALUD REPRODUCTIVA - ENDS04
+Paraguay,PY,PRY,600,Urban,17,DK/missing information,0.0,ENCUESTA NACIONAL DE DEMOGRAFIA Y SALUD REPRODUCTIVA - ENDS04
+Paraguay,PY,PRY,600,Rural,1,Flush and pour flush - to piped sewer system,0.088,ENCUESTA NACIONAL DE DEMOGRAFIA Y SALUD REPRODUCTIVA - ENDS04
+Paraguay,PY,PRY,600,Rural,2,Flush and pour flush - to septic tank,0.0,ENCUESTA NACIONAL DE DEMOGRAFIA Y SALUD REPRODUCTIVA - ENDS04
+Paraguay,PY,PRY,600,Rural,3,Flush and pour flush - to pit,0.303,ENCUESTA NACIONAL DE DEMOGRAFIA Y SALUD REPRODUCTIVA - ENDS04
+Paraguay,PY,PRY,600,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,ENCUESTA NACIONAL DE DEMOGRAFIA Y SALUD REPRODUCTIVA - ENDS04
+Paraguay,PY,PRY,600,Rural,5,Flush and pour flush - to elsewhere,0.0,ENCUESTA NACIONAL DE DEMOGRAFIA Y SALUD REPRODUCTIVA - ENDS04
+Paraguay,PY,PRY,600,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,ENCUESTA NACIONAL DE DEMOGRAFIA Y SALUD REPRODUCTIVA - ENDS04
+Paraguay,PY,PRY,600,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,ENCUESTA NACIONAL DE DEMOGRAFIA Y SALUD REPRODUCTIVA - ENDS04
+Paraguay,PY,PRY,600,Rural,8,Dry latrines - Traditional latrine,0.605,ENCUESTA NACIONAL DE DEMOGRAFIA Y SALUD REPRODUCTIVA - ENDS04
+Paraguay,PY,PRY,600,Rural,8,Dry latrines - Traditional latrine,0.605,ENCUESTA NACIONAL DE DEMOGRAFIA Y SALUD REPRODUCTIVA - ENDS04
+Paraguay,PY,PRY,600,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,ENCUESTA NACIONAL DE DEMOGRAFIA Y SALUD REPRODUCTIVA - ENDS04
+Paraguay,PY,PRY,600,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,ENCUESTA NACIONAL DE DEMOGRAFIA Y SALUD REPRODUCTIVA - ENDS04
+Paraguay,PY,PRY,600,Rural,11,Dry latrines - Bucket latrine,0.0,ENCUESTA NACIONAL DE DEMOGRAFIA Y SALUD REPRODUCTIVA - ENDS04
+Paraguay,PY,PRY,600,Rural,12,Dry latrines - Other,0.0,ENCUESTA NACIONAL DE DEMOGRAFIA Y SALUD REPRODUCTIVA - ENDS04
+Paraguay,PY,PRY,600,Rural,13,Composting toilets,0.0,ENCUESTA NACIONAL DE DEMOGRAFIA Y SALUD REPRODUCTIVA - ENDS04
+Paraguay,PY,PRY,600,Rural,14,Other improved,0.0,ENCUESTA NACIONAL DE DEMOGRAFIA Y SALUD REPRODUCTIVA - ENDS04
+Paraguay,PY,PRY,600,Rural,15,"No facility, bush, field",0.0,ENCUESTA NACIONAL DE DEMOGRAFIA Y SALUD REPRODUCTIVA - ENDS04
+Paraguay,PY,PRY,600,Rural,16,Other unimproved,0.004,ENCUESTA NACIONAL DE DEMOGRAFIA Y SALUD REPRODUCTIVA - ENDS04
+Paraguay,PY,PRY,600,Rural,17,DK/missing information,0.0,ENCUESTA NACIONAL DE DEMOGRAFIA Y SALUD REPRODUCTIVA - ENDS04
+Paraguay,PY,PRY,600,National,1,Flush and pour flush - to piped sewer system,0.0,ENCUESTA NACIONAL DE DEMOGRAFIA Y SALUD REPRODUCTIVA - ENDS04
+Paraguay,PY,PRY,600,National,2,Flush and pour flush - to septic tank,0.0,ENCUESTA NACIONAL DE DEMOGRAFIA Y SALUD REPRODUCTIVA - ENDS04
+Paraguay,PY,PRY,600,National,3,Flush and pour flush - to pit,0.0,ENCUESTA NACIONAL DE DEMOGRAFIA Y SALUD REPRODUCTIVA - ENDS04
+Paraguay,PY,PRY,600,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,ENCUESTA NACIONAL DE DEMOGRAFIA Y SALUD REPRODUCTIVA - ENDS04
+Paraguay,PY,PRY,600,National,5,Flush and pour flush - to elsewhere,0.0,ENCUESTA NACIONAL DE DEMOGRAFIA Y SALUD REPRODUCTIVA - ENDS04
+Paraguay,PY,PRY,600,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,ENCUESTA NACIONAL DE DEMOGRAFIA Y SALUD REPRODUCTIVA - ENDS04
+Paraguay,PY,PRY,600,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,ENCUESTA NACIONAL DE DEMOGRAFIA Y SALUD REPRODUCTIVA - ENDS04
+Paraguay,PY,PRY,600,National,8,Dry latrines - Traditional latrine,0.0,ENCUESTA NACIONAL DE DEMOGRAFIA Y SALUD REPRODUCTIVA - ENDS04
+Paraguay,PY,PRY,600,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,ENCUESTA NACIONAL DE DEMOGRAFIA Y SALUD REPRODUCTIVA - ENDS04
+Paraguay,PY,PRY,600,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,ENCUESTA NACIONAL DE DEMOGRAFIA Y SALUD REPRODUCTIVA - ENDS04
+Paraguay,PY,PRY,600,National,11,Dry latrines - Bucket latrine,0.0,ENCUESTA NACIONAL DE DEMOGRAFIA Y SALUD REPRODUCTIVA - ENDS04
+Paraguay,PY,PRY,600,National,12,Dry latrines - Other,0.0,ENCUESTA NACIONAL DE DEMOGRAFIA Y SALUD REPRODUCTIVA - ENDS04
+Paraguay,PY,PRY,600,National,13,Composting toilets,0.0,ENCUESTA NACIONAL DE DEMOGRAFIA Y SALUD REPRODUCTIVA - ENDS04
+Paraguay,PY,PRY,600,National,14,Other improved,0.0,ENCUESTA NACIONAL DE DEMOGRAFIA Y SALUD REPRODUCTIVA - ENDS04
+Paraguay,PY,PRY,600,National,15,"No facility, bush, field",0.0,ENCUESTA NACIONAL DE DEMOGRAFIA Y SALUD REPRODUCTIVA - ENDS04
+Paraguay,PY,PRY,600,National,16,Other unimproved,0.0,ENCUESTA NACIONAL DE DEMOGRAFIA Y SALUD REPRODUCTIVA - ENDS04
+Paraguay,PY,PRY,600,National,17,DK/missing information,0.0,ENCUESTA NACIONAL DE DEMOGRAFIA Y SALUD REPRODUCTIVA - ENDS04
+Paraguay,PY,PRY,600,Urban,1,Flush and pour flush - to piped sewer system,0.0,Encuesta Nacional de Demografía y Salud Sexual y Reproductiva - ENDSSR08
+Paraguay,PY,PRY,600,Urban,2,Flush and pour flush - to septic tank,0.0,Encuesta Nacional de Demografía y Salud Sexual y Reproductiva - ENDSSR08
+Paraguay,PY,PRY,600,Urban,3,Flush and pour flush - to pit,0.0,Encuesta Nacional de Demografía y Salud Sexual y Reproductiva - ENDSSR08
+Paraguay,PY,PRY,600,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Nacional de Demografía y Salud Sexual y Reproductiva - ENDSSR08
+Paraguay,PY,PRY,600,Urban,5,Flush and pour flush - to elsewhere,0.0,Encuesta Nacional de Demografía y Salud Sexual y Reproductiva - ENDSSR08
+Paraguay,PY,PRY,600,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Nacional de Demografía y Salud Sexual y Reproductiva - ENDSSR08
+Paraguay,PY,PRY,600,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta Nacional de Demografía y Salud Sexual y Reproductiva - ENDSSR08
+Paraguay,PY,PRY,600,Urban,8,Dry latrines - Traditional latrine,0.077,Encuesta Nacional de Demografía y Salud Sexual y Reproductiva - ENDSSR08
+Paraguay,PY,PRY,600,Urban,8,Dry latrines - Traditional latrine,0.077,Encuesta Nacional de Demografía y Salud Sexual y Reproductiva - ENDSSR08
+Paraguay,PY,PRY,600,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta Nacional de Demografía y Salud Sexual y Reproductiva - ENDSSR08
+Paraguay,PY,PRY,600,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Nacional de Demografía y Salud Sexual y Reproductiva - ENDSSR08
+Paraguay,PY,PRY,600,Urban,11,Dry latrines - Bucket latrine,0.0,Encuesta Nacional de Demografía y Salud Sexual y Reproductiva - ENDSSR08
+Paraguay,PY,PRY,600,Urban,12,Dry latrines - Other,0.0,Encuesta Nacional de Demografía y Salud Sexual y Reproductiva - ENDSSR08
+Paraguay,PY,PRY,600,Urban,13,Composting toilets,0.0,Encuesta Nacional de Demografía y Salud Sexual y Reproductiva - ENDSSR08
+Paraguay,PY,PRY,600,Urban,14,Other improved,0.0,Encuesta Nacional de Demografía y Salud Sexual y Reproductiva - ENDSSR08
+Paraguay,PY,PRY,600,Urban,15,"No facility, bush, field",0.0,Encuesta Nacional de Demografía y Salud Sexual y Reproductiva - ENDSSR08
+Paraguay,PY,PRY,600,Urban,16,Other unimproved,0.005,Encuesta Nacional de Demografía y Salud Sexual y Reproductiva - ENDSSR08
+Paraguay,PY,PRY,600,Urban,17,DK/missing information,0.0,Encuesta Nacional de Demografía y Salud Sexual y Reproductiva - ENDSSR08
+Paraguay,PY,PRY,600,Rural,1,Flush and pour flush - to piped sewer system,0.0,Encuesta Nacional de Demografía y Salud Sexual y Reproductiva - ENDSSR08
+Paraguay,PY,PRY,600,Rural,2,Flush and pour flush - to septic tank,0.0,Encuesta Nacional de Demografía y Salud Sexual y Reproductiva - ENDSSR08
+Paraguay,PY,PRY,600,Rural,3,Flush and pour flush - to pit,0.0,Encuesta Nacional de Demografía y Salud Sexual y Reproductiva - ENDSSR08
+Paraguay,PY,PRY,600,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Nacional de Demografía y Salud Sexual y Reproductiva - ENDSSR08
+Paraguay,PY,PRY,600,Rural,5,Flush and pour flush - to elsewhere,0.0,Encuesta Nacional de Demografía y Salud Sexual y Reproductiva - ENDSSR08
+Paraguay,PY,PRY,600,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Nacional de Demografía y Salud Sexual y Reproductiva - ENDSSR08
+Paraguay,PY,PRY,600,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta Nacional de Demografía y Salud Sexual y Reproductiva - ENDSSR08
+Paraguay,PY,PRY,600,Rural,8,Dry latrines - Traditional latrine,0.533,Encuesta Nacional de Demografía y Salud Sexual y Reproductiva - ENDSSR08
+Paraguay,PY,PRY,600,Rural,8,Dry latrines - Traditional latrine,0.533,Encuesta Nacional de Demografía y Salud Sexual y Reproductiva - ENDSSR08
+Paraguay,PY,PRY,600,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta Nacional de Demografía y Salud Sexual y Reproductiva - ENDSSR08
+Paraguay,PY,PRY,600,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Nacional de Demografía y Salud Sexual y Reproductiva - ENDSSR08
+Paraguay,PY,PRY,600,Rural,11,Dry latrines - Bucket latrine,0.0,Encuesta Nacional de Demografía y Salud Sexual y Reproductiva - ENDSSR08
+Paraguay,PY,PRY,600,Rural,12,Dry latrines - Other,0.0,Encuesta Nacional de Demografía y Salud Sexual y Reproductiva - ENDSSR08
+Paraguay,PY,PRY,600,Rural,13,Composting toilets,0.0,Encuesta Nacional de Demografía y Salud Sexual y Reproductiva - ENDSSR08
+Paraguay,PY,PRY,600,Rural,14,Other improved,0.0,Encuesta Nacional de Demografía y Salud Sexual y Reproductiva - ENDSSR08
+Paraguay,PY,PRY,600,Rural,15,"No facility, bush, field",0.0,Encuesta Nacional de Demografía y Salud Sexual y Reproductiva - ENDSSR08
+Paraguay,PY,PRY,600,Rural,16,Other unimproved,0.005,Encuesta Nacional de Demografía y Salud Sexual y Reproductiva - ENDSSR08
+Paraguay,PY,PRY,600,Rural,17,DK/missing information,0.0,Encuesta Nacional de Demografía y Salud Sexual y Reproductiva - ENDSSR08
+Paraguay,PY,PRY,600,National,1,Flush and pour flush - to piped sewer system,0.0,Encuesta Nacional de Demografía y Salud Sexual y Reproductiva - ENDSSR08
+Paraguay,PY,PRY,600,National,2,Flush and pour flush - to septic tank,0.0,Encuesta Nacional de Demografía y Salud Sexual y Reproductiva - ENDSSR08
+Paraguay,PY,PRY,600,National,3,Flush and pour flush - to pit,0.0,Encuesta Nacional de Demografía y Salud Sexual y Reproductiva - ENDSSR08
+Paraguay,PY,PRY,600,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Nacional de Demografía y Salud Sexual y Reproductiva - ENDSSR08
+Paraguay,PY,PRY,600,National,5,Flush and pour flush - to elsewhere,0.0,Encuesta Nacional de Demografía y Salud Sexual y Reproductiva - ENDSSR08
+Paraguay,PY,PRY,600,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Nacional de Demografía y Salud Sexual y Reproductiva - ENDSSR08
+Paraguay,PY,PRY,600,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta Nacional de Demografía y Salud Sexual y Reproductiva - ENDSSR08
+Paraguay,PY,PRY,600,National,8,Dry latrines - Traditional latrine,0.248,Encuesta Nacional de Demografía y Salud Sexual y Reproductiva - ENDSSR08
+Paraguay,PY,PRY,600,National,8,Dry latrines - Traditional latrine,0.248,Encuesta Nacional de Demografía y Salud Sexual y Reproductiva - ENDSSR08
+Paraguay,PY,PRY,600,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta Nacional de Demografía y Salud Sexual y Reproductiva - ENDSSR08
+Paraguay,PY,PRY,600,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Nacional de Demografía y Salud Sexual y Reproductiva - ENDSSR08
+Paraguay,PY,PRY,600,National,11,Dry latrines - Bucket latrine,0.0,Encuesta Nacional de Demografía y Salud Sexual y Reproductiva - ENDSSR08
+Paraguay,PY,PRY,600,National,12,Dry latrines - Other,0.0,Encuesta Nacional de Demografía y Salud Sexual y Reproductiva - ENDSSR08
+Paraguay,PY,PRY,600,National,13,Composting toilets,0.0,Encuesta Nacional de Demografía y Salud Sexual y Reproductiva - ENDSSR08
+Paraguay,PY,PRY,600,National,14,Other improved,0.0,Encuesta Nacional de Demografía y Salud Sexual y Reproductiva - ENDSSR08
+Paraguay,PY,PRY,600,National,15,"No facility, bush, field",0.0,Encuesta Nacional de Demografía y Salud Sexual y Reproductiva - ENDSSR08
+Paraguay,PY,PRY,600,National,16,Other unimproved,0.005,Encuesta Nacional de Demografía y Salud Sexual y Reproductiva - ENDSSR08
+Paraguay,PY,PRY,600,National,17,DK/missing information,0.0,Encuesta Nacional de Demografía y Salud Sexual y Reproductiva - ENDSSR08
 Paraguay,PY,PRY,600,Urban,1,Flush and pour flush - to piped sewer system,0.168,Encuesta Permanente de Hogares - EPH09
 Paraguay,PY,PRY,600,Urban,2,Flush and pour flush - to septic tank,0.471,Encuesta Permanente de Hogares - EPH09
 Paraguay,PY,PRY,600,Urban,3,Flush and pour flush - to pit,0.264,Encuesta Permanente de Hogares - EPH09
@@ -73,6 +419,26 @@ Paraguay,PY,PRY,600,Rural,14,Other improved,0.0,Encuesta Permanente de Hogares -
 Paraguay,PY,PRY,600,Rural,15,"No facility, bush, field",0.0,Encuesta Permanente de Hogares - EPH09
 Paraguay,PY,PRY,600,Rural,16,Other unimproved,0.0,Encuesta Permanente de Hogares - EPH09
 Paraguay,PY,PRY,600,Rural,17,DK/missing information,0.0,Encuesta Permanente de Hogares - EPH09
+Paraguay,PY,PRY,600,National,1,Flush and pour flush - to piped sewer system,0.105,Encuesta Permanente de Hogares - EPH09
+Paraguay,PY,PRY,600,National,2,Flush and pour flush - to septic tank,0.368,Encuesta Permanente de Hogares - EPH09
+Paraguay,PY,PRY,600,National,3,Flush and pour flush - to pit,0.245,Encuesta Permanente de Hogares - EPH09
+Paraguay,PY,PRY,600,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Permanente de Hogares - EPH09
+Paraguay,PY,PRY,600,National,5,Flush and pour flush - to elsewhere,0.007,Encuesta Permanente de Hogares - EPH09
+Paraguay,PY,PRY,600,National,6,Dry latrines - Ventilated Improved Pit latrine,0.018,Encuesta Permanente de Hogares - EPH09
+Paraguay,PY,PRY,600,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.145,Encuesta Permanente de Hogares - EPH09
+Paraguay,PY,PRY,600,National,8,Dry latrines - Traditional latrine,0.11,Encuesta Permanente de Hogares - EPH09
+Paraguay,PY,PRY,600,National,6,Dry latrines - Ventilated Improved Pit latrine,0.018,Encuesta Permanente de Hogares - EPH09
+Paraguay,PY,PRY,600,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.145,Encuesta Permanente de Hogares - EPH09
+Paraguay,PY,PRY,600,National,8,Dry latrines - Traditional latrine,0.11,Encuesta Permanente de Hogares - EPH09
+Paraguay,PY,PRY,600,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta Permanente de Hogares - EPH09
+Paraguay,PY,PRY,600,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Permanente de Hogares - EPH09
+Paraguay,PY,PRY,600,National,11,Dry latrines - Bucket latrine,0.0,Encuesta Permanente de Hogares - EPH09
+Paraguay,PY,PRY,600,National,12,Dry latrines - Other,0.0,Encuesta Permanente de Hogares - EPH09
+Paraguay,PY,PRY,600,National,13,Composting toilets,0.0,Encuesta Permanente de Hogares - EPH09
+Paraguay,PY,PRY,600,National,14,Other improved,0.0,Encuesta Permanente de Hogares - EPH09
+Paraguay,PY,PRY,600,National,15,"No facility, bush, field",0.001,Encuesta Permanente de Hogares - EPH09
+Paraguay,PY,PRY,600,National,16,Other unimproved,0.0,Encuesta Permanente de Hogares - EPH09
+Paraguay,PY,PRY,600,National,17,DK/missing information,0.0,Encuesta Permanente de Hogares - EPH09
 Paraguay,PY,PRY,600,Urban,1,Flush and pour flush - to piped sewer system,0.138,Encuesta Permanente de Hogares - EPH10
 Paraguay,PY,PRY,600,Urban,2,Flush and pour flush - to septic tank,0.45,Encuesta Permanente de Hogares - EPH10
 Paraguay,PY,PRY,600,Urban,3,Flush and pour flush - to pit,0.326,Encuesta Permanente de Hogares - EPH10
@@ -113,6 +479,86 @@ Paraguay,PY,PRY,600,Rural,14,Other improved,0.0,Encuesta Permanente de Hogares -
 Paraguay,PY,PRY,600,Rural,15,"No facility, bush, field",0.0,Encuesta Permanente de Hogares - EPH10
 Paraguay,PY,PRY,600,Rural,16,Other unimproved,0.0,Encuesta Permanente de Hogares - EPH10
 Paraguay,PY,PRY,600,Rural,17,DK/missing information,0.0,Encuesta Permanente de Hogares - EPH10
+Paraguay,PY,PRY,600,National,1,Flush and pour flush - to piped sewer system,0.086,Encuesta Permanente de Hogares - EPH10
+Paraguay,PY,PRY,600,National,2,Flush and pour flush - to septic tank,0.344,Encuesta Permanente de Hogares - EPH10
+Paraguay,PY,PRY,600,National,3,Flush and pour flush - to pit,0.294,Encuesta Permanente de Hogares - EPH10
+Paraguay,PY,PRY,600,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Permanente de Hogares - EPH10
+Paraguay,PY,PRY,600,National,5,Flush and pour flush - to elsewhere,0.01,Encuesta Permanente de Hogares - EPH10
+Paraguay,PY,PRY,600,National,6,Dry latrines - Ventilated Improved Pit latrine,0.019,Encuesta Permanente de Hogares - EPH10
+Paraguay,PY,PRY,600,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.114,Encuesta Permanente de Hogares - EPH10
+Paraguay,PY,PRY,600,National,8,Dry latrines - Traditional latrine,0.133,Encuesta Permanente de Hogares - EPH10
+Paraguay,PY,PRY,600,National,6,Dry latrines - Ventilated Improved Pit latrine,0.019,Encuesta Permanente de Hogares - EPH10
+Paraguay,PY,PRY,600,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.114,Encuesta Permanente de Hogares - EPH10
+Paraguay,PY,PRY,600,National,8,Dry latrines - Traditional latrine,0.133,Encuesta Permanente de Hogares - EPH10
+Paraguay,PY,PRY,600,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta Permanente de Hogares - EPH10
+Paraguay,PY,PRY,600,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Permanente de Hogares - EPH10
+Paraguay,PY,PRY,600,National,11,Dry latrines - Bucket latrine,0.0,Encuesta Permanente de Hogares - EPH10
+Paraguay,PY,PRY,600,National,12,Dry latrines - Other,0.0,Encuesta Permanente de Hogares - EPH10
+Paraguay,PY,PRY,600,National,13,Composting toilets,0.0,Encuesta Permanente de Hogares - EPH10
+Paraguay,PY,PRY,600,National,14,Other improved,0.0,Encuesta Permanente de Hogares - EPH10
+Paraguay,PY,PRY,600,National,15,"No facility, bush, field",0.0,Encuesta Permanente de Hogares - EPH10
+Paraguay,PY,PRY,600,National,16,Other unimproved,0.0,Encuesta Permanente de Hogares - EPH10
+Paraguay,PY,PRY,600,National,17,DK/missing information,0.0,Encuesta Permanente de Hogares - EPH10
+Paraguay,PY,PRY,600,Urban,1,Flush and pour flush - to piped sewer system,0.166,Encuesta Permanente de Hogares - EPH11
+Paraguay,PY,PRY,600,Urban,2,Flush and pour flush - to septic tank,0.423,Encuesta Permanente de Hogares - EPH11
+Paraguay,PY,PRY,600,Urban,3,Flush and pour flush - to pit,0.347,Encuesta Permanente de Hogares - EPH11
+Paraguay,PY,PRY,600,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Permanente de Hogares - EPH11
+Paraguay,PY,PRY,600,Urban,5,Flush and pour flush - to elsewhere,0.009,Encuesta Permanente de Hogares - EPH11
+Paraguay,PY,PRY,600,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.013,Encuesta Permanente de Hogares - EPH11
+Paraguay,PY,PRY,600,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.028,Encuesta Permanente de Hogares - EPH11
+Paraguay,PY,PRY,600,Urban,8,Dry latrines - Traditional latrine,0.015,Encuesta Permanente de Hogares - EPH11
+Paraguay,PY,PRY,600,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.013,Encuesta Permanente de Hogares - EPH11
+Paraguay,PY,PRY,600,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.028,Encuesta Permanente de Hogares - EPH11
+Paraguay,PY,PRY,600,Urban,8,Dry latrines - Traditional latrine,0.015,Encuesta Permanente de Hogares - EPH11
+Paraguay,PY,PRY,600,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta Permanente de Hogares - EPH11
+Paraguay,PY,PRY,600,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Permanente de Hogares - EPH11
+Paraguay,PY,PRY,600,Urban,11,Dry latrines - Bucket latrine,0.0,Encuesta Permanente de Hogares - EPH11
+Paraguay,PY,PRY,600,Urban,12,Dry latrines - Other,0.0,Encuesta Permanente de Hogares - EPH11
+Paraguay,PY,PRY,600,Urban,13,Composting toilets,0.0,Encuesta Permanente de Hogares - EPH11
+Paraguay,PY,PRY,600,Urban,14,Other improved,0.0,Encuesta Permanente de Hogares - EPH11
+Paraguay,PY,PRY,600,Urban,15,"No facility, bush, field",0.0,Encuesta Permanente de Hogares - EPH11
+Paraguay,PY,PRY,600,Urban,16,Other unimproved,0.001,Encuesta Permanente de Hogares - EPH11
+Paraguay,PY,PRY,600,Urban,17,DK/missing information,0.0,Encuesta Permanente de Hogares - EPH11
+Paraguay,PY,PRY,600,Rural,1,Flush and pour flush - to piped sewer system,0.001,Encuesta Permanente de Hogares - EPH11
+Paraguay,PY,PRY,600,Rural,2,Flush and pour flush - to septic tank,0.2,Encuesta Permanente de Hogares - EPH11
+Paraguay,PY,PRY,600,Rural,3,Flush and pour flush - to pit,0.301,Encuesta Permanente de Hogares - EPH11
+Paraguay,PY,PRY,600,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Permanente de Hogares - EPH11
+Paraguay,PY,PRY,600,Rural,5,Flush and pour flush - to elsewhere,0.011,Encuesta Permanente de Hogares - EPH11
+Paraguay,PY,PRY,600,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.087,Encuesta Permanente de Hogares - EPH11
+Paraguay,PY,PRY,600,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.22,Encuesta Permanente de Hogares - EPH11
+Paraguay,PY,PRY,600,Rural,8,Dry latrines - Traditional latrine,0.178,Encuesta Permanente de Hogares - EPH11
+Paraguay,PY,PRY,600,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.087,Encuesta Permanente de Hogares - EPH11
+Paraguay,PY,PRY,600,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.22,Encuesta Permanente de Hogares - EPH11
+Paraguay,PY,PRY,600,Rural,8,Dry latrines - Traditional latrine,0.178,Encuesta Permanente de Hogares - EPH11
+Paraguay,PY,PRY,600,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta Permanente de Hogares - EPH11
+Paraguay,PY,PRY,600,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Permanente de Hogares - EPH11
+Paraguay,PY,PRY,600,Rural,11,Dry latrines - Bucket latrine,0.0,Encuesta Permanente de Hogares - EPH11
+Paraguay,PY,PRY,600,Rural,12,Dry latrines - Other,0.0,Encuesta Permanente de Hogares - EPH11
+Paraguay,PY,PRY,600,Rural,13,Composting toilets,0.0,Encuesta Permanente de Hogares - EPH11
+Paraguay,PY,PRY,600,Rural,14,Other improved,0.0,Encuesta Permanente de Hogares - EPH11
+Paraguay,PY,PRY,600,Rural,15,"No facility, bush, field",0.0,Encuesta Permanente de Hogares - EPH11
+Paraguay,PY,PRY,600,Rural,16,Other unimproved,0.001,Encuesta Permanente de Hogares - EPH11
+Paraguay,PY,PRY,600,Rural,17,DK/missing information,0.0,Encuesta Permanente de Hogares - EPH11
+Paraguay,PY,PRY,600,National,1,Flush and pour flush - to piped sewer system,0.1,Encuesta Permanente de Hogares - EPH11
+Paraguay,PY,PRY,600,National,2,Flush and pour flush - to septic tank,0.334,Encuesta Permanente de Hogares - EPH11
+Paraguay,PY,PRY,600,National,3,Flush and pour flush - to pit,0.329,Encuesta Permanente de Hogares - EPH11
+Paraguay,PY,PRY,600,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Permanente de Hogares - EPH11
+Paraguay,PY,PRY,600,National,5,Flush and pour flush - to elsewhere,0.01,Encuesta Permanente de Hogares - EPH11
+Paraguay,PY,PRY,600,National,6,Dry latrines - Ventilated Improved Pit latrine,0.042,Encuesta Permanente de Hogares - EPH11
+Paraguay,PY,PRY,600,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.105,Encuesta Permanente de Hogares - EPH11
+Paraguay,PY,PRY,600,National,8,Dry latrines - Traditional latrine,0.08,Encuesta Permanente de Hogares - EPH11
+Paraguay,PY,PRY,600,National,6,Dry latrines - Ventilated Improved Pit latrine,0.042,Encuesta Permanente de Hogares - EPH11
+Paraguay,PY,PRY,600,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.105,Encuesta Permanente de Hogares - EPH11
+Paraguay,PY,PRY,600,National,8,Dry latrines - Traditional latrine,0.08,Encuesta Permanente de Hogares - EPH11
+Paraguay,PY,PRY,600,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta Permanente de Hogares - EPH11
+Paraguay,PY,PRY,600,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Permanente de Hogares - EPH11
+Paraguay,PY,PRY,600,National,11,Dry latrines - Bucket latrine,0.0,Encuesta Permanente de Hogares - EPH11
+Paraguay,PY,PRY,600,National,12,Dry latrines - Other,0.0,Encuesta Permanente de Hogares - EPH11
+Paraguay,PY,PRY,600,National,13,Composting toilets,0.0,Encuesta Permanente de Hogares - EPH11
+Paraguay,PY,PRY,600,National,14,Other improved,0.0,Encuesta Permanente de Hogares - EPH11
+Paraguay,PY,PRY,600,National,15,"No facility, bush, field",0.0,Encuesta Permanente de Hogares - EPH11
+Paraguay,PY,PRY,600,National,16,Other unimproved,0.001,Encuesta Permanente de Hogares - EPH11
+Paraguay,PY,PRY,600,National,17,DK/missing information,0.0,Encuesta Permanente de Hogares - EPH11
 Paraguay,PY,PRY,600,Urban,1,Flush and pour flush - to piped sewer system,0.165,Censo - CEN12
 Paraguay,PY,PRY,600,Urban,2,Flush and pour flush - to septic tank,0.551,Censo - CEN12
 Paraguay,PY,PRY,600,Urban,3,Flush and pour flush - to pit,0.198,Censo - CEN12
@@ -147,6 +593,84 @@ Paraguay,PY,PRY,600,Rural,14,Other improved,0.0,Censo - CEN12
 Paraguay,PY,PRY,600,Rural,15,"No facility, bush, field",0.013,Censo - CEN12
 Paraguay,PY,PRY,600,Rural,16,Other unimproved,0.0,Censo - CEN12
 Paraguay,PY,PRY,600,Rural,17,DK/missing information,0.002,Censo - CEN12
+Paraguay,PY,PRY,600,National,1,Flush and pour flush - to piped sewer system,0.101,Censo - CEN12
+Paraguay,PY,PRY,600,National,2,Flush and pour flush - to septic tank,0.441,Censo - CEN12
+Paraguay,PY,PRY,600,National,3,Flush and pour flush - to pit,0.193,Censo - CEN12
+Paraguay,PY,PRY,600,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Censo - CEN12
+Paraguay,PY,PRY,600,National,5,Flush and pour flush - to elsewhere,0.006,Censo - CEN12
+Paraguay,PY,PRY,600,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Censo - CEN12
+Paraguay,PY,PRY,600,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.139,Censo - CEN12
+Paraguay,PY,PRY,600,National,8,Dry latrines - Traditional latrine,0.111,Censo - CEN12
+Paraguay,PY,PRY,600,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Censo - CEN12
+Paraguay,PY,PRY,600,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Censo - CEN12
+Paraguay,PY,PRY,600,National,11,Dry latrines - Bucket latrine,0.0,Censo - CEN12
+Paraguay,PY,PRY,600,National,12,Dry latrines - Other,0.0,Censo - CEN12
+Paraguay,PY,PRY,600,National,13,Composting toilets,0.0,Censo - CEN12
+Paraguay,PY,PRY,600,National,14,Other improved,0.0,Censo - CEN12
+Paraguay,PY,PRY,600,National,15,"No facility, bush, field",0.009,Censo - CEN12
+Paraguay,PY,PRY,600,National,16,Other unimproved,0.0,Censo - CEN12
+Paraguay,PY,PRY,600,National,17,DK/missing information,0.001,Censo - CEN12
+Paraguay,PY,PRY,600,Urban,1,Flush and pour flush - to piped sewer system,0.163,Encuesta Permanente de Hogares - EPH12
+Paraguay,PY,PRY,600,Urban,2,Flush and pour flush - to septic tank,0.482,Encuesta Permanente de Hogares - EPH12
+Paraguay,PY,PRY,600,Urban,3,Flush and pour flush - to pit,0.302,Encuesta Permanente de Hogares - EPH12
+Paraguay,PY,PRY,600,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Permanente de Hogares - EPH12
+Paraguay,PY,PRY,600,Urban,5,Flush and pour flush - to elsewhere,0.005,Encuesta Permanente de Hogares - EPH12
+Paraguay,PY,PRY,600,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.005,Encuesta Permanente de Hogares - EPH12
+Paraguay,PY,PRY,600,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.027,Encuesta Permanente de Hogares - EPH12
+Paraguay,PY,PRY,600,Urban,8,Dry latrines - Traditional latrine,0.017,Encuesta Permanente de Hogares - EPH12
+Paraguay,PY,PRY,600,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.005,Encuesta Permanente de Hogares - EPH12
+Paraguay,PY,PRY,600,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.027,Encuesta Permanente de Hogares - EPH12
+Paraguay,PY,PRY,600,Urban,8,Dry latrines - Traditional latrine,0.017,Encuesta Permanente de Hogares - EPH12
+Paraguay,PY,PRY,600,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta Permanente de Hogares - EPH12
+Paraguay,PY,PRY,600,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Permanente de Hogares - EPH12
+Paraguay,PY,PRY,600,Urban,11,Dry latrines - Bucket latrine,0.0,Encuesta Permanente de Hogares - EPH12
+Paraguay,PY,PRY,600,Urban,12,Dry latrines - Other,0.0,Encuesta Permanente de Hogares - EPH12
+Paraguay,PY,PRY,600,Urban,13,Composting toilets,0.0,Encuesta Permanente de Hogares - EPH12
+Paraguay,PY,PRY,600,Urban,14,Other improved,0.0,Encuesta Permanente de Hogares - EPH12
+Paraguay,PY,PRY,600,Urban,15,"No facility, bush, field",0.0,Encuesta Permanente de Hogares - EPH12
+Paraguay,PY,PRY,600,Urban,16,Other unimproved,0.0,Encuesta Permanente de Hogares - EPH12
+Paraguay,PY,PRY,600,Urban,17,DK/missing information,0.0,Encuesta Permanente de Hogares - EPH12
+Paraguay,PY,PRY,600,Rural,1,Flush and pour flush - to piped sewer system,0.001,Encuesta Permanente de Hogares - EPH12
+Paraguay,PY,PRY,600,Rural,2,Flush and pour flush - to septic tank,0.232,Encuesta Permanente de Hogares - EPH12
+Paraguay,PY,PRY,600,Rural,3,Flush and pour flush - to pit,0.25,Encuesta Permanente de Hogares - EPH12
+Paraguay,PY,PRY,600,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Permanente de Hogares - EPH12
+Paraguay,PY,PRY,600,Rural,5,Flush and pour flush - to elsewhere,0.004,Encuesta Permanente de Hogares - EPH12
+Paraguay,PY,PRY,600,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.033,Encuesta Permanente de Hogares - EPH12
+Paraguay,PY,PRY,600,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.198,Encuesta Permanente de Hogares - EPH12
+Paraguay,PY,PRY,600,Rural,8,Dry latrines - Traditional latrine,0.283,Encuesta Permanente de Hogares - EPH12
+Paraguay,PY,PRY,600,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.033,Encuesta Permanente de Hogares - EPH12
+Paraguay,PY,PRY,600,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.198,Encuesta Permanente de Hogares - EPH12
+Paraguay,PY,PRY,600,Rural,8,Dry latrines - Traditional latrine,0.283,Encuesta Permanente de Hogares - EPH12
+Paraguay,PY,PRY,600,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta Permanente de Hogares - EPH12
+Paraguay,PY,PRY,600,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Permanente de Hogares - EPH12
+Paraguay,PY,PRY,600,Rural,11,Dry latrines - Bucket latrine,0.0,Encuesta Permanente de Hogares - EPH12
+Paraguay,PY,PRY,600,Rural,12,Dry latrines - Other,0.0,Encuesta Permanente de Hogares - EPH12
+Paraguay,PY,PRY,600,Rural,13,Composting toilets,0.0,Encuesta Permanente de Hogares - EPH12
+Paraguay,PY,PRY,600,Rural,14,Other improved,0.0,Encuesta Permanente de Hogares - EPH12
+Paraguay,PY,PRY,600,Rural,15,"No facility, bush, field",0.0,Encuesta Permanente de Hogares - EPH12
+Paraguay,PY,PRY,600,Rural,16,Other unimproved,0.0,Encuesta Permanente de Hogares - EPH12
+Paraguay,PY,PRY,600,Rural,17,DK/missing information,0.0,Encuesta Permanente de Hogares - EPH12
+Paraguay,PY,PRY,600,National,1,Flush and pour flush - to piped sewer system,0.098,Encuesta Permanente de Hogares - EPH12
+Paraguay,PY,PRY,600,National,2,Flush and pour flush - to septic tank,0.382,Encuesta Permanente de Hogares - EPH12
+Paraguay,PY,PRY,600,National,3,Flush and pour flush - to pit,0.281,Encuesta Permanente de Hogares - EPH12
+Paraguay,PY,PRY,600,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Permanente de Hogares - EPH12
+Paraguay,PY,PRY,600,National,5,Flush and pour flush - to elsewhere,0.004,Encuesta Permanente de Hogares - EPH12
+Paraguay,PY,PRY,600,National,6,Dry latrines - Ventilated Improved Pit latrine,0.016,Encuesta Permanente de Hogares - EPH12
+Paraguay,PY,PRY,600,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.095,Encuesta Permanente de Hogares - EPH12
+Paraguay,PY,PRY,600,National,8,Dry latrines - Traditional latrine,0.094,Encuesta Permanente de Hogares - EPH12
+Paraguay,PY,PRY,600,National,9,Dry latrines - Pit latrine without slab/open pit,0.121,Encuesta Permanente de Hogares - EPH12
+Paraguay,PY,PRY,600,National,6,Dry latrines - Ventilated Improved Pit latrine,0.016,Encuesta Permanente de Hogares - EPH12
+Paraguay,PY,PRY,600,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.095,Encuesta Permanente de Hogares - EPH12
+Paraguay,PY,PRY,600,National,8,Dry latrines - Traditional latrine,0.123,Encuesta Permanente de Hogares - EPH12
+Paraguay,PY,PRY,600,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta Permanente de Hogares - EPH12
+Paraguay,PY,PRY,600,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Permanente de Hogares - EPH12
+Paraguay,PY,PRY,600,National,11,Dry latrines - Bucket latrine,0.0,Encuesta Permanente de Hogares - EPH12
+Paraguay,PY,PRY,600,National,12,Dry latrines - Other,0.0,Encuesta Permanente de Hogares - EPH12
+Paraguay,PY,PRY,600,National,13,Composting toilets,0.0,Encuesta Permanente de Hogares - EPH12
+Paraguay,PY,PRY,600,National,14,Other improved,0.0,Encuesta Permanente de Hogares - EPH12
+Paraguay,PY,PRY,600,National,15,"No facility, bush, field",0.0,Encuesta Permanente de Hogares - EPH12
+Paraguay,PY,PRY,600,National,16,Other unimproved,0.0,Encuesta Permanente de Hogares - EPH12
+Paraguay,PY,PRY,600,National,17,DK/missing information,0.0,Encuesta Permanente de Hogares - EPH12
 Paraguay,PY,PRY,600,Urban,1,Flush and pour flush - to piped sewer system,0.157,Encuesta Permanente de Hogares - EPH13
 Paraguay,PY,PRY,600,Urban,2,Flush and pour flush - to septic tank,0.502,Encuesta Permanente de Hogares - EPH13
 Paraguay,PY,PRY,600,Urban,3,Flush and pour flush - to pit,0.295,Encuesta Permanente de Hogares - EPH13
@@ -181,6 +705,23 @@ Paraguay,PY,PRY,600,Rural,14,Other improved,0.0,Encuesta Permanente de Hogares -
 Paraguay,PY,PRY,600,Rural,15,"No facility, bush, field",0.0,Encuesta Permanente de Hogares - EPH13
 Paraguay,PY,PRY,600,Rural,16,Other unimproved,0.0,Encuesta Permanente de Hogares - EPH13
 Paraguay,PY,PRY,600,Rural,17,DK/missing information,0.0,Encuesta Permanente de Hogares - EPH13
+Paraguay,PY,PRY,600,National,1,Flush and pour flush - to piped sewer system,0.104,Encuesta Permanente de Hogares - EPH13
+Paraguay,PY,PRY,600,National,2,Flush and pour flush - to septic tank,0.401,Encuesta Permanente de Hogares - EPH13
+Paraguay,PY,PRY,600,National,3,Flush and pour flush - to pit,0.297,Encuesta Permanente de Hogares - EPH13
+Paraguay,PY,PRY,600,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Permanente de Hogares - EPH13
+Paraguay,PY,PRY,600,National,5,Flush and pour flush - to elsewhere,0.002,Encuesta Permanente de Hogares - EPH13
+Paraguay,PY,PRY,600,National,6,Dry latrines - Ventilated Improved Pit latrine,0.018,Encuesta Permanente de Hogares - EPH13
+Paraguay,PY,PRY,600,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.085,Encuesta Permanente de Hogares - EPH13
+Paraguay,PY,PRY,600,National,8,Dry latrines - Traditional latrine,0.091,Encuesta Permanente de Hogares - EPH13
+Paraguay,PY,PRY,600,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta Permanente de Hogares - EPH13
+Paraguay,PY,PRY,600,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Permanente de Hogares - EPH13
+Paraguay,PY,PRY,600,National,11,Dry latrines - Bucket latrine,0.0,Encuesta Permanente de Hogares - EPH13
+Paraguay,PY,PRY,600,National,12,Dry latrines - Other,0.0,Encuesta Permanente de Hogares - EPH13
+Paraguay,PY,PRY,600,National,13,Composting toilets,0.0,Encuesta Permanente de Hogares - EPH13
+Paraguay,PY,PRY,600,National,14,Other improved,0.0,Encuesta Permanente de Hogares - EPH13
+Paraguay,PY,PRY,600,National,15,"No facility, bush, field",0.0,Encuesta Permanente de Hogares - EPH13
+Paraguay,PY,PRY,600,National,16,Other unimproved,0.0,Encuesta Permanente de Hogares - EPH13
+Paraguay,PY,PRY,600,National,17,DK/missing information,0.0,Encuesta Permanente de Hogares - EPH13
 Paraguay,PY,PRY,600,Urban,1,Flush and pour flush - to piped sewer system,0.0,Encuesta Permanente de Hogares - EPH14
 Paraguay,PY,PRY,600,Urban,2,Flush and pour flush - to septic tank,0.0,Encuesta Permanente de Hogares - EPH14
 Paraguay,PY,PRY,600,Urban,3,Flush and pour flush - to pit,0.0,Encuesta Permanente de Hogares - EPH14
@@ -215,6 +756,23 @@ Paraguay,PY,PRY,600,Rural,14,Other improved,0.0,Encuesta Permanente de Hogares -
 Paraguay,PY,PRY,600,Rural,15,"No facility, bush, field",0.012,Encuesta Permanente de Hogares - EPH14
 Paraguay,PY,PRY,600,Rural,16,Other unimproved,0.0,Encuesta Permanente de Hogares - EPH14
 Paraguay,PY,PRY,600,Rural,17,DK/missing information,0.0,Encuesta Permanente de Hogares - EPH14
+Paraguay,PY,PRY,600,National,1,Flush and pour flush - to piped sewer system,0.0,Encuesta Permanente de Hogares - EPH14
+Paraguay,PY,PRY,600,National,2,Flush and pour flush - to septic tank,0.0,Encuesta Permanente de Hogares - EPH14
+Paraguay,PY,PRY,600,National,3,Flush and pour flush - to pit,0.0,Encuesta Permanente de Hogares - EPH14
+Paraguay,PY,PRY,600,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Permanente de Hogares - EPH14
+Paraguay,PY,PRY,600,National,5,Flush and pour flush - to elsewhere,0.0,Encuesta Permanente de Hogares - EPH14
+Paraguay,PY,PRY,600,National,6,Dry latrines - Ventilated Improved Pit latrine,0.007,Encuesta Permanente de Hogares - EPH14
+Paraguay,PY,PRY,600,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.095,Encuesta Permanente de Hogares - EPH14
+Paraguay,PY,PRY,600,National,8,Dry latrines - Traditional latrine,0.092,Encuesta Permanente de Hogares - EPH14
+Paraguay,PY,PRY,600,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta Permanente de Hogares - EPH14
+Paraguay,PY,PRY,600,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Permanente de Hogares - EPH14
+Paraguay,PY,PRY,600,National,11,Dry latrines - Bucket latrine,0.0,Encuesta Permanente de Hogares - EPH14
+Paraguay,PY,PRY,600,National,12,Dry latrines - Other,0.0,Encuesta Permanente de Hogares - EPH14
+Paraguay,PY,PRY,600,National,13,Composting toilets,0.0,Encuesta Permanente de Hogares - EPH14
+Paraguay,PY,PRY,600,National,14,Other improved,0.0,Encuesta Permanente de Hogares - EPH14
+Paraguay,PY,PRY,600,National,15,"No facility, bush, field",0.008,Encuesta Permanente de Hogares - EPH14
+Paraguay,PY,PRY,600,National,16,Other unimproved,0.0,Encuesta Permanente de Hogares - EPH14
+Paraguay,PY,PRY,600,National,17,DK/missing information,0.0,Encuesta Permanente de Hogares - EPH14
 Paraguay,PY,PRY,600,Urban,1,Flush and pour flush - to piped sewer system,0.0,Encuesta Permanente de Hogares - EPH15
 Paraguay,PY,PRY,600,Urban,2,Flush and pour flush - to septic tank,0.0,Encuesta Permanente de Hogares - EPH15
 Paraguay,PY,PRY,600,Urban,3,Flush and pour flush - to pit,0.0,Encuesta Permanente de Hogares - EPH15
@@ -249,6 +807,23 @@ Paraguay,PY,PRY,600,Rural,14,Other improved,0.0,Encuesta Permanente de Hogares -
 Paraguay,PY,PRY,600,Rural,15,"No facility, bush, field",0.011,Encuesta Permanente de Hogares - EPH15
 Paraguay,PY,PRY,600,Rural,16,Other unimproved,0.0,Encuesta Permanente de Hogares - EPH15
 Paraguay,PY,PRY,600,Rural,17,DK/missing information,0.0,Encuesta Permanente de Hogares - EPH15
+Paraguay,PY,PRY,600,National,1,Flush and pour flush - to piped sewer system,0.0,Encuesta Permanente de Hogares - EPH15
+Paraguay,PY,PRY,600,National,2,Flush and pour flush - to septic tank,0.0,Encuesta Permanente de Hogares - EPH15
+Paraguay,PY,PRY,600,National,3,Flush and pour flush - to pit,0.0,Encuesta Permanente de Hogares - EPH15
+Paraguay,PY,PRY,600,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Permanente de Hogares - EPH15
+Paraguay,PY,PRY,600,National,5,Flush and pour flush - to elsewhere,0.0,Encuesta Permanente de Hogares - EPH15
+Paraguay,PY,PRY,600,National,6,Dry latrines - Ventilated Improved Pit latrine,0.012,Encuesta Permanente de Hogares - EPH15
+Paraguay,PY,PRY,600,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.092,Encuesta Permanente de Hogares - EPH15
+Paraguay,PY,PRY,600,National,8,Dry latrines - Traditional latrine,0.1,Encuesta Permanente de Hogares - EPH15
+Paraguay,PY,PRY,600,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta Permanente de Hogares - EPH15
+Paraguay,PY,PRY,600,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Permanente de Hogares - EPH15
+Paraguay,PY,PRY,600,National,11,Dry latrines - Bucket latrine,0.0,Encuesta Permanente de Hogares - EPH15
+Paraguay,PY,PRY,600,National,12,Dry latrines - Other,0.0,Encuesta Permanente de Hogares - EPH15
+Paraguay,PY,PRY,600,National,13,Composting toilets,0.0,Encuesta Permanente de Hogares - EPH15
+Paraguay,PY,PRY,600,National,14,Other improved,0.0,Encuesta Permanente de Hogares - EPH15
+Paraguay,PY,PRY,600,National,15,"No facility, bush, field",0.008,Encuesta Permanente de Hogares - EPH15
+Paraguay,PY,PRY,600,National,16,Other unimproved,0.0,Encuesta Permanente de Hogares - EPH15
+Paraguay,PY,PRY,600,National,17,DK/missing information,0.0,Encuesta Permanente de Hogares - EPH15
 Paraguay,PY,PRY,600,Urban,1,Flush and pour flush - to piped sewer system,0.146,Encuesta Permanente de Hogares - EPH16
 Paraguay,PY,PRY,600,Urban,2,Flush and pour flush - to septic tank,0.527,Encuesta Permanente de Hogares - EPH16
 Paraguay,PY,PRY,600,Urban,3,Flush and pour flush - to pit,0.265,Encuesta Permanente de Hogares - EPH16
@@ -283,6 +858,23 @@ Paraguay,PY,PRY,600,Rural,14,Other improved,0.0,Encuesta Permanente de Hogares -
 Paraguay,PY,PRY,600,Rural,15,"No facility, bush, field",0.018,Encuesta Permanente de Hogares - EPH16
 Paraguay,PY,PRY,600,Rural,16,Other unimproved,0.0,Encuesta Permanente de Hogares - EPH16
 Paraguay,PY,PRY,600,Rural,17,DK/missing information,0.0,Encuesta Permanente de Hogares - EPH16
+Paraguay,PY,PRY,600,National,1,Flush and pour flush - to piped sewer system,0.091,Encuesta Permanente de Hogares - EPH16
+Paraguay,PY,PRY,600,National,2,Flush and pour flush - to septic tank,0.425,Encuesta Permanente de Hogares - EPH16
+Paraguay,PY,PRY,600,National,3,Flush and pour flush - to pit,0.27,Encuesta Permanente de Hogares - EPH16
+Paraguay,PY,PRY,600,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Permanente de Hogares - EPH16
+Paraguay,PY,PRY,600,National,5,Flush and pour flush - to elsewhere,0.006,Encuesta Permanente de Hogares - EPH16
+Paraguay,PY,PRY,600,National,6,Dry latrines - Ventilated Improved Pit latrine,0.011,Encuesta Permanente de Hogares - EPH16
+Paraguay,PY,PRY,600,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.079,Encuesta Permanente de Hogares - EPH16
+Paraguay,PY,PRY,600,National,8,Dry latrines - Traditional latrine,0.105,Encuesta Permanente de Hogares - EPH16
+Paraguay,PY,PRY,600,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta Permanente de Hogares - EPH16
+Paraguay,PY,PRY,600,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Permanente de Hogares - EPH16
+Paraguay,PY,PRY,600,National,11,Dry latrines - Bucket latrine,0.0,Encuesta Permanente de Hogares - EPH16
+Paraguay,PY,PRY,600,National,12,Dry latrines - Other,0.0,Encuesta Permanente de Hogares - EPH16
+Paraguay,PY,PRY,600,National,13,Composting toilets,0.0,Encuesta Permanente de Hogares - EPH16
+Paraguay,PY,PRY,600,National,14,Other improved,0.0,Encuesta Permanente de Hogares - EPH16
+Paraguay,PY,PRY,600,National,15,"No facility, bush, field",0.012,Encuesta Permanente de Hogares - EPH16
+Paraguay,PY,PRY,600,National,16,Other unimproved,0.0,Encuesta Permanente de Hogares - EPH16
+Paraguay,PY,PRY,600,National,17,DK/missing information,0.0,Encuesta Permanente de Hogares - EPH16
 Paraguay,PY,PRY,600,Urban,1,Flush and pour flush - to piped sewer system,0.148,Multiple Indicator Cluster Survey - MICS16
 Paraguay,PY,PRY,600,Urban,2,Flush and pour flush - to septic tank,0.527,Multiple Indicator Cluster Survey - MICS16
 Paraguay,PY,PRY,600,Urban,3,Flush and pour flush - to pit,0.239,Multiple Indicator Cluster Survey - MICS16
@@ -317,6 +909,23 @@ Paraguay,PY,PRY,600,Rural,14,Other improved,0.059,Multiple Indicator Cluster Sur
 Paraguay,PY,PRY,600,Rural,15,"No facility, bush, field",0.015,Multiple Indicator Cluster Survey - MICS16
 Paraguay,PY,PRY,600,Rural,16,Other unimproved,0.005,Multiple Indicator Cluster Survey - MICS16
 Paraguay,PY,PRY,600,Rural,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS16
+Paraguay,PY,PRY,600,National,1,Flush and pour flush - to piped sewer system,0.094,Multiple Indicator Cluster Survey - MICS16
+Paraguay,PY,PRY,600,National,2,Flush and pour flush - to septic tank,0.442,Multiple Indicator Cluster Survey - MICS16
+Paraguay,PY,PRY,600,National,3,Flush and pour flush - to pit,0.239,Multiple Indicator Cluster Survey - MICS16
+Paraguay,PY,PRY,600,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.004,Multiple Indicator Cluster Survey - MICS16
+Paraguay,PY,PRY,600,National,5,Flush and pour flush - to elsewhere,0.002,Multiple Indicator Cluster Survey - MICS16
+Paraguay,PY,PRY,600,National,6,Dry latrines - Ventilated Improved Pit latrine,0.006,Multiple Indicator Cluster Survey - MICS16
+Paraguay,PY,PRY,600,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.049,Multiple Indicator Cluster Survey - MICS16
+Paraguay,PY,PRY,600,National,8,Dry latrines - Traditional latrine,0.0,Multiple Indicator Cluster Survey - MICS16
+Paraguay,PY,PRY,600,National,9,Dry latrines - Pit latrine without slab/open pit,0.061,Multiple Indicator Cluster Survey - MICS16
+Paraguay,PY,PRY,600,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS16
+Paraguay,PY,PRY,600,National,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS16
+Paraguay,PY,PRY,600,National,12,Dry latrines - Other,0.062,Multiple Indicator Cluster Survey - MICS16
+Paraguay,PY,PRY,600,National,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS16
+Paraguay,PY,PRY,600,National,14,Other improved,0.026,Multiple Indicator Cluster Survey - MICS16
+Paraguay,PY,PRY,600,National,15,"No facility, bush, field",0.007,Multiple Indicator Cluster Survey - MICS16
+Paraguay,PY,PRY,600,National,16,Other unimproved,0.006,Multiple Indicator Cluster Survey - MICS16
+Paraguay,PY,PRY,600,National,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS16
 Paraguay,PY,PRY,600,Urban,1,Flush and pour flush - to piped sewer system,0.139,Encuesta Permanente de Hogares - EPH17
 Paraguay,PY,PRY,600,Urban,2,Flush and pour flush - to septic tank,0.527,Encuesta Permanente de Hogares - EPH17
 Paraguay,PY,PRY,600,Urban,3,Flush and pour flush - to pit,0.279,Encuesta Permanente de Hogares - EPH17
@@ -351,3 +960,20 @@ Paraguay,PY,PRY,600,Rural,14,Other improved,0.0,Encuesta Permanente de Hogares -
 Paraguay,PY,PRY,600,Rural,15,"No facility, bush, field",0.014,Encuesta Permanente de Hogares - EPH17
 Paraguay,PY,PRY,600,Rural,16,Other unimproved,0.0,Encuesta Permanente de Hogares - EPH17
 Paraguay,PY,PRY,600,Rural,17,DK/missing information,0.0,Encuesta Permanente de Hogares - EPH17
+Paraguay,PY,PRY,600,National,1,Flush and pour flush - to piped sewer system,0.089,Encuesta Permanente de Hogares - EPH17
+Paraguay,PY,PRY,600,National,2,Flush and pour flush - to septic tank,0.443,Encuesta Permanente de Hogares - EPH17
+Paraguay,PY,PRY,600,National,3,Flush and pour flush - to pit,0.297,Encuesta Permanente de Hogares - EPH17
+Paraguay,PY,PRY,600,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Permanente de Hogares - EPH17
+Paraguay,PY,PRY,600,National,5,Flush and pour flush - to elsewhere,0.007,Encuesta Permanente de Hogares - EPH17
+Paraguay,PY,PRY,600,National,6,Dry latrines - Ventilated Improved Pit latrine,0.009,Encuesta Permanente de Hogares - EPH17
+Paraguay,PY,PRY,600,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.05,Encuesta Permanente de Hogares - EPH17
+Paraguay,PY,PRY,600,National,8,Dry latrines - Traditional latrine,0.096,Encuesta Permanente de Hogares - EPH17
+Paraguay,PY,PRY,600,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta Permanente de Hogares - EPH17
+Paraguay,PY,PRY,600,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Permanente de Hogares - EPH17
+Paraguay,PY,PRY,600,National,11,Dry latrines - Bucket latrine,0.0,Encuesta Permanente de Hogares - EPH17
+Paraguay,PY,PRY,600,National,12,Dry latrines - Other,0.0,Encuesta Permanente de Hogares - EPH17
+Paraguay,PY,PRY,600,National,13,Composting toilets,0.0,Encuesta Permanente de Hogares - EPH17
+Paraguay,PY,PRY,600,National,14,Other improved,0.0,Encuesta Permanente de Hogares - EPH17
+Paraguay,PY,PRY,600,National,15,"No facility, bush, field",0.009,Encuesta Permanente de Hogares - EPH17
+Paraguay,PY,PRY,600,National,16,Other unimproved,0.0,Encuesta Permanente de Hogares - EPH17
+Paraguay,PY,PRY,600,National,17,DK/missing information,0.0,Encuesta Permanente de Hogares - EPH17

@@ -1,21 +1,29 @@
 #' The getLoadings function
 #'
 #' This function predicts the pathogen loadings from onsite sanitation systems for data available through the UNICEF/WHO Joint Monitoring Program and provides an output that can be used directly by the Pathogen Mapping Tool.
-#' @param inputDF A dataframe containing your onsite sanitation data. An example template can be found at http://data.waterpathogens.org/dataset/pasteaddresshere?
+#' @param inputDF A dataframe containing your onsite sanitation data. An example template can be found at http://data.waterpathogens.org/
 #' @param pathogenType Specify either "Virus","Bacteria","Protozoa", or "Helminth"
 #' @keywords pathogens
 #' @export
 #' @examples
-#' getLoadings(inputDF,pathogenType="Virus")
+#' myOutput<-getLoadings(inputDF,pathogenType="Virus")
+#' myOutput$output
 #'
 #' $output
-#' region excreted to_groundwater   to_surface retained_in_soil      decayed In_Fecal_Sludge    In_Sewage  stillViable Onsite_LRV Onsite_PR
-#' 1    HND 3.63e+18   5.840389e+16 1.963546e+18     5.738629e+17 5.042712e+17    1.179983e+14 5.297977e+17 2.551866e+18       0.15    0.2970
-#' 2    UGA 1.67e+19   1.565005e+17 1.731193e+18     1.408505e+18 1.340068e+19    0.000000e+00 3.127723e+15 1.890822e+18       0.95    0.8868
+#'      gid excreted   to_groundwater   to_surface       retained_in_soil      decayed         In_Fecal_Sludge    In_Sewage        stillViable        Onsite_LRV     Onsite_PR
+#' 1    HND 3.63e+18   5.840389e+16     1.963546e+18     5.738629e+17          5.042712e+17    1.179983e+14       5.297977e+17     2.551866e+18       0.15           0.2970
+#' 2    UGA 1.67e+19   1.565005e+17     1.731193e+18     1.408505e+18          1.340068e+19    0.000000e+00       3.127723e+15     1.890822e+18       0.95           0.8868
 
-getLoadings<-function(inputDF=read.csv("data/testInput.csv"),pathogenType="Virus"){
+getLoadings<-function(inputDF=read.csv("data/input_file_new_kla_div_20200727.csv"),pathogenType="Virus"){
 
   df1<-inputDF
+
+#comment out these lines after testing
+#  df1<-df1[,c(1:36)]
+#  colnames(df1)<-c(colnames(df1[,c(1:13)]),substr(colnames(df1[,c(14:36)]),1,nchar(colnames(df1[,c(14:36)]))-4))
+#  colnames(df1)
+#  df1$excreted<-c(1e10,1e6,1e4,1e15,1e11)
+#comment out these lines after testing
 
   pathogenGroups<-c("Virus","Bacteria","Protozoa","Helminth")
   index<-which(pathogenGroups==pathogenType)
@@ -59,14 +67,29 @@ getLoadings<-function(inputDF=read.csv("data/testInput.csv"),pathogenType="Virus
   kPit$lk<-log(-kPit$k)
   kPit$ltemp<-log(kPit$temp)
   fit_kPit<-lm(lk~factor(microbial_group)+factor(urine)*pH+ltemp+moisture+additive,data=kPit)
-  summary(fit_kPit)
-  # I need to find out here how to make pitAdditive dependent on the index m (geographic location or treatment plant service area)
+  # not UDT, no additives
   kValueV<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Fresh Urine",pH=7,ltemp=log(30),moisture=80,additive="None",microbial_group="Virus"))))
   kValueB<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Fresh Urine",pH=7,ltemp=log(30),moisture=80,additive="None",microbial_group="Bacteria"))))
   kValueP<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Fresh Urine",pH=7,ltemp=log(30),moisture=80,additive="None",microbial_group="Protozoa"))))
   kValueH<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Fresh Urine",pH=7,ltemp=log(30),moisture=80,additive="None",microbial_group="Helminth"))))
+  # UDT, no additives
+  kValueV_udt<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Feces only",pH=7,ltemp=log(30),moisture=80,additive="None",microbial_group="Virus"))))
+  kValueB_udt<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Feces only",pH=7,ltemp=log(30),moisture=80,additive="None",microbial_group="Bacteria"))))
+  kValueP_udt<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Feces only",pH=7,ltemp=log(30),moisture=80,additive="None",microbial_group="Protozoa"))))
+  kValueH_udt<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Feces only",pH=7,ltemp=log(30),moisture=80,additive="None",microbial_group="Helminth"))))
+  # not UDT, additives
+  kValueV_a<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Fresh Urine",pH=7,ltemp=log(30),moisture=80,additive="Lime",microbial_group="Virus"))))
+  kValueB_a<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Fresh Urine",pH=7,ltemp=log(30),moisture=80,additive="Lime",microbial_group="Bacteria"))))
+  kValueP_a<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Fresh Urine",pH=7,ltemp=log(30),moisture=80,additive="Lime",microbial_group="Protozoa"))))
+  kValueH_a<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Fresh Urine",pH=7,ltemp=log(30),moisture=80,additive="Lime",microbial_group="Helminth"))))
+  # UDT, additives
+  kValueV_udt_a<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Feces only",pH=7,ltemp=log(30),moisture=80,additive="Urea",microbial_group="Virus"))))
+  kValueB_udt_a<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Feces only",pH=7,ltemp=log(30),moisture=80,additive="Urea",microbial_group="Bacteria"))))
+  kValueP_udt_a<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Feces only",pH=7,ltemp=log(30),moisture=80,additive="Urea",microbial_group="Protozoa"))))
+  kValueH_udt_a<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Feces only",pH=7,ltemp=log(30),moisture=80,additive="Urea",microbial_group="Helminth"))))
 
-  kValues<-c(Virus=kValueV,Bacteria=kValueB,Protozoa=kValueP,Helminth=kValueH);kValues #the units here are 1/days
+  kValues<-data.frame(Virus=c(kValueV,kValueV_udt,kValueV_a,kValueV_udt_a),Bacteria=c(kValueB,kValueB_udt,kValueB_a,kValueB_udt_a),Protozoa=c(kValueP,kValueP_udt,kValueP_a,kValueP_udt_a),Helminth=c(kValueH,kValueH_udt,kValueH_a,kValueH_udt_a))
+  rownames(kValues)<-c("conventional","urine-diverting","conventional w/ lime","urine-diverting w/ urea") #the units here are 1/days
   # &&&&& END GWPP Inputs &&&&&
 
   loops<-nrow(df1)
@@ -76,7 +99,7 @@ getLoadings<-function(inputDF=read.csv("data/testInput.csv"),pathogenType="Virus
   names(loadings) <- loadings.names
   for(o in 1:4){
     loadings[[o]] <- vector("list",loops)
-    names(loadings[[o]]) <- df1$region
+    names(loadings[[o]]) <- df1$gid
   }
 
   onsite_results.names <- c("virus", "bacteria", "protozoa", "helminth")
@@ -90,13 +113,15 @@ getLoadings<-function(inputDF=read.csv("data/testInput.csv"),pathogenType="Virus
   for(m in 1:loops){  # m is an index for region or subregion
     df<-df1[m,]
     myJMP<-myJMP1
-    region<-df$region
+    gid<-df$gid
     population<-df$population
     excreted<-df$excreted
     isWatertight<-df$isWatertight
     hasLeach<-df$hasLeach
     emptyFrequency<-df$emptyFrequency
     pitAdditive<-df$pitAdditive
+    twinPits<-df$twinPits
+    urine_diverting<-df$urine
 
     coverBury<-df$coverBury
     emptiedTreatment<-df$fecalSludgeTreated
@@ -109,8 +134,8 @@ getLoadings<-function(inputDF=read.csv("data/testInput.csv"),pathogenType="Virus
     flushUnknown<-if(is.null(df$flushUnknown)){0}else{if(is.na(df$flushUnknown)){0}else{df$flushUnknown}}
     pitSlab<-if(is.null(df$pitSlab)){0}else{if(is.na(df$pitSlab)){0}else{df$pitSlab}}
     pitNoSlab<-if(is.null(df$pitNoSlab)){0}else{if(is.na(df$pitNoSlab)){0}else{df$pitNoSlab}}
-    compostingTwinSlab<-if(is.null(df$compostingTwinSlab)){0}else{if(is.na(df$compostingTwinSlab)){0}else{df$compostingTwinSlab}}
-    compostingTwinNoSlab<-if(is.null(df$compostingTwinNoSlab)){0}else{if(is.na(df$compostingTwinNoSlab)){0}else{df$compostingTwinNoSlab}}
+    #compostingTwinSlab<-if(is.null(df$compostingTwinSlab)){0}else{if(is.na(df$compostingTwinSlab)){0}else{df$compostingTwinSlab}}
+    #compostingTwinNoSlab<-if(is.null(df$compostingTwinNoSlab)){0}else{if(is.na(df$compostingTwinNoSlab)){0}else{df$compostingTwinNoSlab}}
     compostingToilet<-if(is.null(df$compostingToilet)){0}else{if(is.na(df$compostingToilet)){0}else{df$compostingToilet}}
     bucketLatrine<-if(is.null(df$bucketLatrine)){0}else{if(is.na(df$bucketLatrine)){0}else{df$bucketLatrine}}
     containerBased<-if(is.null(df$containerBased)){0}else{if(is.na(df$containerBased)){0}else{df$containerBased}}
@@ -129,8 +154,8 @@ getLoadings<-function(inputDF=read.csv("data/testInput.csv"),pathogenType="Virus
                         flushUnknown,
                         pitSlab,
                         pitNoSlab,
-                        compostingTwinSlab,
-                        compostingTwinNoSlab,
+                        #compostingTwinSlab,
+                        #compostingTwinNoSlab,
                         compostingToilet,
                         bucketLatrine,
                         containerBased,
@@ -138,9 +163,9 @@ getLoadings<-function(inputDF=read.csv("data/testInput.csv"),pathogenType="Virus
                         openDefecation,
                         other)
 
-    myJMP$tankWatertight<-c(0,isWatertight,rep(0,13))
-    myJMP$leachSystem<-c(0,hasLeach,rep(0,13))
-    myJMP$cover_bury<-c(0,coverBury,coverBury,0,0,coverBury,0,coverBury,0,coverBury,0,coverBury,0,0,coverBury)
+    myJMP$tankWatertight<-c(0,isWatertight,rep(0,11))
+    myJMP$leachSystem<-c(0,hasLeach,rep(0,11))
+    myJMP$cover_bury<-c(0,coverBury,coverBury,0,0,coverBury,0,coverBury,0,coverBury,0,0,coverBury)
     myJMP$tankOutlet<-myJMP$flushOnsite*(1-myJMP$leachSystem)
 
     myJMP$DRY_TOILET<-(1-myJMP$flushSewer)*(1-myJMP$flushOnsite)
@@ -153,14 +178,20 @@ getLoadings<-function(inputDF=read.csv("data/testInput.csv"),pathogenType="Virus
     myJMP$safeEmpty<-emptiedTreatment*(1-myJMP$FLUSH_TOILET_sewered-myJMP$cover_bury)
     myJMP$unsafeEmpty<-1-myJMP$FLUSH_TOILET_sewered-myJMP$cover_bury-myJMP$safeEmpty #includes "flooding out" latrines in the rainy season
 
+    myJMP$twinPits<-c(0,twinPits,twinPits,0,0,twinPits,0,twinPits,0,0,0,0,0)
+    myJMP$singlePits<-c(0,(1-twinPits),(1-twinPits),0,0,(1-twinPits),1,(1-twinPits),0,1,0,0,0)
+
+    myJMP$UDT<-c(0,0,0,0,0,urine_diverting,0,1,0,0,0,0,0) #assumed that all composting toilets are urine diverting, and the fraction urine_diverting controls pitSlab)
+    myJMP$pitAdd<-c(0,0,0,0,0,pitAdditive,pitAdditive,pitAdditive,pitAdditive,pitAdditive,0,0,0) #pit additives can be added to all dry onsite toilets (pitSlab, pitNoSlab, bucketLatrine, containerBased, and compostingToilet)
+
     # ^^^^^ END JMP data calculations ^^^^^
 
-    loadings[[m]]<-data.frame(myJMP[,c("name","classification","percentage","initiallyContained","flushSewer","FLUSH_TOILET_containedNotWT","FLUSH_TOILET_containedWT_Leach","FLUSH_TOILET_containedWT_noLeach","unsafeEmpty","safeEmpty")])
+    loadings[[m]]<-data.frame(myJMP[,c("name","classification","percentage","initiallyContained","flushSewer","FLUSH_TOILET_containedNotWT","FLUSH_TOILET_containedWT_Leach","FLUSH_TOILET_containedWT_noLeach","unsafeEmpty","safeEmpty","twinPits","singlePits","UDT","pitAdd")])
 
     # &&&&& START PFM Onsite Calculations &&&&&
 
     i=index
-    loadings[[m]]$lamda<-c(0,lambdas[i],lambdas[i],0,0,1,1,1,1,1,0,1,0,0,0)
+    loadings[[m]]$lamda<-c(0,lambdas[i],lambdas[i],0,0,1,1,1,0,1,0,0,0)
     loadings[[m]]$excreted<-excreted*loadings[[m]]$percentage  #Eq. 1: Pathogen Loading Model (Column J) #/year
     loadings[[m]]$initContained<-loadings[[m]]$excreted*loadings[[m]]$initiallyContained  #Eq. 2: Number Initially Contained (Column O) #/year
     loadings[[m]]$notContained<-loadings[[m]]$excreted-loadings[[m]]$initContained
@@ -171,39 +202,88 @@ getLoadings<-function(inputDF=read.csv("data/testInput.csv"),pathogenType="Virus
     loadings[[m]]$coveredBuried<-loadings[[m]]$inSolid*coverBury
     loadings[[m]]$totalSubsurface<-loadings[[m]]$inVZ+loadings[[m]]$coveredBuried
     loadings[[m]]$toSW_liq<-loadings[[m]]$inLiquid*loadings[[m]]$FLUSH_TOILET_containedWT_noLeach+loadings[[m]]$initContained*loadings[[m]]$flushSewer*sewerLeak
+    loadings[[m]]$toSW_sol_twin<-NA
+    loadings[[m]]$toSW_sol_sing<-NA
+    loadings[[m]]$unsafeDecay_twin<-NA
+    loadings[[m]]$unsafeDecay_sing<-NA
+    loadings[[m]]$toFSTP_twin<-NA
+    loadings[[m]]$toFSTP_sing<-NA
+    loadings[[m]]$safeDecay_twin<-NA
+    loadings[[m]]$safeDecay_sing<-NA
 
-    for(j in 1:15){  # decay for toilets with UNSAFE emptying practices
-      if(j==8|j==9){ #i.e., if there are twin pits
-        remaining<-exp(-kValues[i]*(seq(decayTimeUNSAFE,1,by=-1)+decayTimeUNSAFE-1))
-        remaining<-replace(remaining,which(remaining<0.001),0.001)
-        loadings[[m]]$toSW_sol[j]<-sum(remaining*loadings[[m]]$inSolid[j]/daysperyear*loadings[[m]]$unsafeEmpty[j])
-        loadings[[m]]$unsafeDecay[j]<-sum((1-remaining)*loadings[[m]]$inSolid[j]/daysperyear*loadings[[m]]$unsafeEmpty[j])
-      }else{ #i.e., there is only a single pit
-        remaining<-exp(-kValues[i]*seq(decayTimeUNSAFE,1,by=-1))
-        remaining<-replace(remaining,which(remaining<0.001),0.001)
-        loadings[[m]]$toSW_sol[j]<-sum(remaining*loadings[[m]]$inSolid[j]/daysperyear*loadings[[m]]$unsafeEmpty[j])
-        loadings[[m]]$unsafeDecay[j]<-sum((1-remaining)*loadings[[m]]$inSolid[j]/daysperyear*loadings[[m]]$unsafeEmpty[j])
-      }
+    for(j in 1:13){  # decay for toilets with UNSAFE emptying practices
+      remainingTwinNoUD<-exp(-kValues["conventional",i]*(seq(decayTimeUNSAFE,1,by=-1)+decayTimeUNSAFE-1));remainingTwinNoUD<-replace(remainingTwinNoUD,which(remainingTwinNoUD<0.001),0.001) # this limits onsite pathogen reduction to no more than 3-log reduction
+      remainingTwinUD<-exp(-kValues["urine-diverting",i]*(seq(decayTimeUNSAFE,1,by=-1)+decayTimeUNSAFE-1));remainingTwinUD<-replace(remainingTwinUD,which(remainingTwinUD<0.001),0.001) # this limits onsite pathogen reduction to no more than 3-log reduction
+      remainingTwinLime<-exp(-kValues["conventional w/ lime",i]*(seq(decayTimeUNSAFE,1,by=-1)+decayTimeUNSAFE-1));remainingTwinLime<-replace(remainingTwinLime,which(remainingTwinLime<0.001),0.001)
+      remainingTwinUrea<-exp(-kValues["urine-diverting w/ urea",i]*(seq(decayTimeUNSAFE,1,by=-1)+decayTimeUNSAFE-1));remainingTwinUrea<-replace(remainingTwinUrea,which(remainingTwinUrea<0.001),0.001)
+      toSW_sol_twin_noUDT<-loadings[[m]]$twinPits[j]*(1-loadings[[m]]$pitAdd[j])*(1-loadings[[m]]$UDT[j])*sum(remainingTwinNoUD*loadings[[m]]$inSolid[j]/daysperyear*loadings[[m]]$unsafeEmpty[j])
+      toSW_sol_twin_UDT<-loadings[[m]]$twinPits[j]*(1-loadings[[m]]$pitAdd[j])*(loadings[[m]]$UDT[j])*sum(remainingTwinUD*loadings[[m]]$inSolid[j]/daysperyear*loadings[[m]]$unsafeEmpty[j])
+      toSW_sol_twin_lime<-loadings[[m]]$twinPits[j]*(loadings[[m]]$pitAdd[j])*(1-loadings[[m]]$UDT[j])*sum(remainingTwinNoUD*loadings[[m]]$inSolid[j]/daysperyear*loadings[[m]]$unsafeEmpty[j])
+      toSW_sol_twin_urea<-loadings[[m]]$twinPits[j]*(loadings[[m]]$pitAdd[j])*(loadings[[m]]$UDT[j])*sum(remainingTwinUD*loadings[[m]]$inSolid[j]/daysperyear*loadings[[m]]$unsafeEmpty[j])
+      loadings[[m]]$toSW_sol_twin[j]<-toSW_sol_twin_UDT+toSW_sol_twin_noUDT+toSW_sol_twin_lime+toSW_sol_twin_urea
+      unsafeDecay_twin_noUDT<-loadings[[m]]$twinPits[j]*(1-loadings[[m]]$pitAdd[j])*(1-loadings[[m]]$UDT[j])*sum((1-remainingTwinUD)*loadings[[m]]$inSolid[j]/daysperyear*loadings[[m]]$unsafeEmpty[j])
+      unsafeDecay_twin_UDT<-loadings[[m]]$twinPits[j]*(1-loadings[[m]]$pitAdd[j])*(loadings[[m]]$UDT[j])*sum((1-remainingTwinNoUD)*loadings[[m]]$inSolid[j]/daysperyear*loadings[[m]]$unsafeEmpty[j])
+      unsafeDecay_twin_lime<-loadings[[m]]$twinPits[j]*(loadings[[m]]$pitAdd[j])*(1-loadings[[m]]$UDT[j])*sum((1-remainingTwinUD)*loadings[[m]]$inSolid[j]/daysperyear*loadings[[m]]$unsafeEmpty[j])
+      unsafeDecay_twin_urea<-loadings[[m]]$twinPits[j]*(loadings[[m]]$pitAdd[j])*(loadings[[m]]$UDT[j])*sum((1-remainingTwinNoUD)*loadings[[m]]$inSolid[j]/daysperyear*loadings[[m]]$unsafeEmpty[j])
+      loadings[[m]]$unsafeDecay_twin[j]<-unsafeDecay_twin_UDT+unsafeDecay_twin_noUDT+unsafeDecay_twin_lime+unsafeDecay_twin_urea
+
+      remainingSingleNoUD<-exp(-kValues["conventional",i]*seq(decayTimeUNSAFE,1,by=-1));remainingSingleNoUD<-replace(remainingSingleNoUD,which(remainingSingleNoUD<0.001),0.001) # this limits onsite pathogen reduction to no more than 3-log reduction
+      remainingSingleUD<-exp(-kValues["urine-diverting",i]*seq(decayTimeUNSAFE,1,by=-1));remainingSingleUD<-replace(remainingSingleUD,which(remainingSingleUD<0.001),0.001) # this limits onsite pathogen reduction to no more than 3-log reduction
+      remainingSingleLime<-exp(-kValues["conventional w/ lime",i]*seq(decayTimeUNSAFE,1,by=-1));remainingSingleLime<-replace(remainingSingleLime,which(remainingSingleLime<0.001),0.001)
+      remainingSingleUrea<-exp(-kValues["urine-diverting w/ urea",i]*seq(decayTimeUNSAFE,1,by=-1));remainingSingleUrea<-replace(remainingSingleUrea,which(remainingSingleUrea<0.001),0.001)
+      toSW_sol_sing_noUDT<-loadings[[m]]$singlePits[j]*(1-loadings[[m]]$pitAdd[j])*(1-loadings[[m]]$UDT[j])*sum(remainingSingleNoUD*loadings[[m]]$inSolid[j]/daysperyear*loadings[[m]]$unsafeEmpty[j])
+      toSW_sol_sing_UDT<-loadings[[m]]$singlePits[j]*(1-loadings[[m]]$pitAdd[j])*(loadings[[m]]$UDT[j])*sum(remainingSingleUD*loadings[[m]]$inSolid[j]/daysperyear*loadings[[m]]$unsafeEmpty[j])
+      toSW_sol_sing_lime<-loadings[[m]]$singlePits[j]*(loadings[[m]]$pitAdd[j])*(1-loadings[[m]]$UDT[j])*sum(remainingSingleNoUD*loadings[[m]]$inSolid[j]/daysperyear*loadings[[m]]$unsafeEmpty[j])
+      toSW_sol_sing_urea<-loadings[[m]]$singlePits[j]*(loadings[[m]]$pitAdd[j])*(loadings[[m]]$UDT[j])*sum(remainingSingleUD*loadings[[m]]$inSolid[j]/daysperyear*loadings[[m]]$unsafeEmpty[j])
+      loadings[[m]]$toSW_sol_sing[j]<-toSW_sol_sing_UDT+toSW_sol_sing_noUDT+toSW_sol_sing_lime+toSW_sol_sing_urea
+      unsafeDecay_sing_noUDT<-loadings[[m]]$singlePits[j]*(1-loadings[[m]]$pitAdd[j])*(1-loadings[[m]]$UDT[j])*sum((1-remainingSingleNoUD)*loadings[[m]]$inSolid[j]/daysperyear*loadings[[m]]$unsafeEmpty[j])
+      unsafeDecay_sing_UDT<-loadings[[m]]$singlePits[j]*(1-loadings[[m]]$pitAdd[j])*(loadings[[m]]$UDT[j])*sum((1-remainingSingleUD)*loadings[[m]]$inSolid[j]/daysperyear*loadings[[m]]$unsafeEmpty[j])
+      unsafeDecay_sing_lime<-loadings[[m]]$singlePits[j]*(loadings[[m]]$pitAdd[j])*(1-loadings[[m]]$UDT[j])*sum((1-remainingSingleNoUD)*loadings[[m]]$inSolid[j]/daysperyear*loadings[[m]]$unsafeEmpty[j])
+      unsafeDecay_sing_urea<-loadings[[m]]$singlePits[j]*(loadings[[m]]$pitAdd[j])*(loadings[[m]]$UDT[j])*sum((1-remainingSingleUD)*loadings[[m]]$inSolid[j]/daysperyear*loadings[[m]]$unsafeEmpty[j])
+      loadings[[m]]$unsafeDecay_sing[j]<-unsafeDecay_sing_UDT+unsafeDecay_sing_noUDT+unsafeDecay_sing_lime+unsafeDecay_sing_urea
     }
+
     loadings[[m]]$toWWTP<-loadings[[m]]$initContained*loadings[[m]]$flushSewer*(1-sewerLeak)
-    for(j in 1:15){  # decay for toilets with SAFE emptying practices
-      if(j==8|j==9){ #i.e., if there are twin pits
-        remaining<-exp(-kValues[i]*(seq(daysperyear*emptyFrequency,1,by=-1)+daysperyear*emptyFrequency-1))
-        remaining<-replace(remaining,which(remaining<0.001),0.001)
-        loadings[[m]]$toFSTP[j]<-sum(remaining*loadings[[m]]$inSolid[j]/daysperyear*loadings[[m]]$safeEmpty[j])/emptyFrequency
-        # decay = Σ [ (1 - exp(-0.7559879*10)) * 4.4e17/366 * 1 ]
-        loadings[[m]]$safeDecay[j]<-sum((1-remaining)*loadings[[m]]$inSolid[j]/daysperyear*loadings[[m]]$safeEmpty[j])/emptyFrequency
-      }else{   #i.e., there is only a single pit
-        remaining<-exp(-kValues[i]*(seq(daysperyear*emptyFrequency,1,by=-1)))
-        remaining<-replace(remaining,which(remaining<0.001),0.001)
-        loadings[[m]]$toFSTP[j]<-sum(remaining*loadings[[m]]$inSolid[j]/daysperyear*loadings[[m]]$safeEmpty[j])/emptyFrequency
-        loadings[[m]]$safeDecay[j]<-sum((1-remaining)*loadings[[m]]$inSolid[j]/daysperyear*loadings[[m]]$safeEmpty[j])/emptyFrequency
-      }
+
+    for(j in 1:13){  # decay for toilets with SAFE emptying practices
+      remainingTwinNoUD<-exp(-kValues["conventional",i]*(seq(daysperyear*emptyFrequency,1,by=-1)+daysperyear*emptyFrequency-1));remainingTwinNoUD<-replace(remainingTwinNoUD,which(remainingTwinNoUD<0.001),0.001)
+      remainingTwinUD<-exp(-kValues["urine-diverting",i]*(seq(daysperyear*emptyFrequency,1,by=-1)+daysperyear*emptyFrequency-1));remainingTwinUD<-replace(remainingTwinUD,which(remainingTwinUD<0.001),0.001)
+      remainingTwinLime<-exp(-kValues["conventional w/ lime",i]*(seq(daysperyear*emptyFrequency,1,by=-1)+daysperyear*emptyFrequency-1));remainingTwinLime<-replace(remainingTwinLime,which(remainingTwinLime<0.001),0.001)
+      remainingTwinUrea<-exp(-kValues["urine-diverting w/ urea",i]*(seq(daysperyear*emptyFrequency,1,by=-1)+daysperyear*emptyFrequency-1));remainingTwinUrea<-replace(remainingTwinUrea,which(remainingTwinUrea<0.001),0.001)
+      toFSTP_twin_noUDT<-loadings[[m]]$twinPits[j]*(1-loadings[[m]]$pitAdd[j])*(1-loadings[[m]]$UDT[j])*sum(remainingTwinNoUD*loadings[[m]]$inSolid[j]/daysperyear*loadings[[m]]$safeEmpty[j])/emptyFrequency
+      toFSTP_twin_UDT<-loadings[[m]]$twinPits[j]*(1-loadings[[m]]$pitAdd[j])*(loadings[[m]]$UDT[j])*sum(remainingTwinUD*loadings[[m]]$inSolid[j]/daysperyear*loadings[[m]]$safeEmpty[j])/emptyFrequency
+      toFSTP_twin_lime<-loadings[[m]]$twinPits[j]*(loadings[[m]]$pitAdd[j])*(1-loadings[[m]]$UDT[j])*sum(remainingTwinNoUD*loadings[[m]]$inSolid[j]/daysperyear*loadings[[m]]$safeEmpty[j])/emptyFrequency
+      toFSTP_twin_urea<-loadings[[m]]$twinPits[j]*(loadings[[m]]$pitAdd[j])*(loadings[[m]]$UDT[j])*sum(remainingTwinUD*loadings[[m]]$inSolid[j]/daysperyear*loadings[[m]]$safeEmpty[j])/emptyFrequency
+      loadings[[m]]$toFSTP_twin[j]<-toFSTP_twin_noUDT+toFSTP_twin_UDT+toFSTP_twin_lime+toFSTP_twin_urea
+      safeDecay_twin_noUDT<-loadings[[m]]$twinPits[j]*(1-loadings[[m]]$pitAdd[j])*(1-loadings[[m]]$UDT[j])*sum((1-remainingTwinNoUD)*loadings[[m]]$inSolid[j]/daysperyear*loadings[[m]]$safeEmpty[j])/emptyFrequency
+      safeDecay_twin_UDT<-loadings[[m]]$twinPits[j]*(1-loadings[[m]]$pitAdd[j])*(loadings[[m]]$UDT[j])*sum((1-remainingTwinUD)*loadings[[m]]$inSolid[j]/daysperyear*loadings[[m]]$safeEmpty[j])/emptyFrequency
+      safeDecay_twin_lime<-loadings[[m]]$twinPits[j]*(loadings[[m]]$pitAdd[j])*(1-loadings[[m]]$UDT[j])*sum((1-remainingTwinNoUD)*loadings[[m]]$inSolid[j]/daysperyear*loadings[[m]]$safeEmpty[j])/emptyFrequency
+      safeDecay_twin_urea<-loadings[[m]]$twinPits[j]*(loadings[[m]]$pitAdd[j])*(loadings[[m]]$UDT[j])*sum((1-remainingTwinUD)*loadings[[m]]$inSolid[j]/daysperyear*loadings[[m]]$safeEmpty[j])/emptyFrequency
+      loadings[[m]]$safeDecay_twin[j]<-safeDecay_twin_noUDT+safeDecay_twin_UDT+safeDecay_twin_lime+safeDecay_twin_urea
+
+      remainingSingleNoUD<-exp(-kValues["conventional",i]*(seq(daysperyear*emptyFrequency,1,by=-1)));remainingSingleNoUD<-replace(remainingSingleNoUD,which(remainingSingleNoUD<0.001),0.001)
+      remainingSingleUD<-exp(-kValues["urine-diverting",i]*(seq(daysperyear*emptyFrequency,1,by=-1)));remainingSingleUD<-replace(remainingSingleUD,which(remainingSingleUD<0.001),0.001)
+      remainingSingleLime<-exp(-kValues["conventional w/ lime",i]*(seq(daysperyear*emptyFrequency,1,by=-1)));remainingSingleLime<-replace(remainingSingleLime,which(remainingSingleLime<0.001),0.001)
+      remainingSingleUrea<-exp(-kValues["urine-diverting w/ urea",i]*(seq(daysperyear*emptyFrequency,1,by=-1)));remainingSingleUrea<-replace(remainingSingleUrea,which(remainingSingleUrea<0.001),0.001)
+      toFSTP_sing_noUDT<-loadings[[m]]$singlePits[j]*(1-loadings[[m]]$pitAdd[j])*(1-loadings[[m]]$UDT[j])*sum(remainingSingleNoUD*loadings[[m]]$inSolid[j]/daysperyear*loadings[[m]]$safeEmpty[j])/emptyFrequency
+      toFSTP_sing_UDT<-loadings[[m]]$singlePits[j]*(1-loadings[[m]]$pitAdd[j])*(loadings[[m]]$UDT[j])*sum(remainingSingleUD*loadings[[m]]$inSolid[j]/daysperyear*loadings[[m]]$safeEmpty[j])/emptyFrequency
+      toFSTP_sing_lime<-loadings[[m]]$singlePits[j]*(loadings[[m]]$pitAdd[j])*(1-loadings[[m]]$UDT[j])*sum(remainingSingleNoUD*loadings[[m]]$inSolid[j]/daysperyear*loadings[[m]]$safeEmpty[j])/emptyFrequency
+      toFSTP_sing_urea<-loadings[[m]]$singlePits[j]*(loadings[[m]]$pitAdd[j])*(loadings[[m]]$UDT[j])*sum(remainingSingleUD*loadings[[m]]$inSolid[j]/daysperyear*loadings[[m]]$safeEmpty[j])/emptyFrequency
+      loadings[[m]]$toFSTP_sing[j]<-toFSTP_sing_noUDT+toFSTP_sing_UDT+toFSTP_sing_lime+toFSTP_sing_urea
+      safeDecay_sing_noUDT<-loadings[[m]]$singlePits[j]*(1-loadings[[m]]$pitAdd[j])*(1-loadings[[m]]$UDT[j])*sum((1-remainingSingleNoUD)*loadings[[m]]$inSolid[j]/daysperyear*loadings[[m]]$safeEmpty[j])/emptyFrequency
+      safeDecay_sing_UDT<-loadings[[m]]$singlePits[j]*(1-loadings[[m]]$pitAdd[j])*(loadings[[m]]$UDT[j])*sum((1-remainingSingleUD)*loadings[[m]]$inSolid[j]/daysperyear*loadings[[m]]$safeEmpty[j])/emptyFrequency
+      safeDecay_sing_lime<-loadings[[m]]$singlePits[j]*(loadings[[m]]$pitAdd[j])*(1-loadings[[m]]$UDT[j])*sum((1-remainingSingleNoUD)*loadings[[m]]$inSolid[j]/daysperyear*loadings[[m]]$safeEmpty[j])/emptyFrequency
+      safeDecay_sing_urea<-loadings[[m]]$singlePits[j]*(loadings[[m]]$pitAdd[j])*(loadings[[m]]$UDT[j])*sum((1-remainingSingleUD)*loadings[[m]]$inSolid[j]/daysperyear*loadings[[m]]$safeEmpty[j])/emptyFrequency
+      loadings[[m]]$safeDecay_sing[j]<-safeDecay_sing_noUDT+safeDecay_sing_UDT+safeDecay_sing_lime+safeDecay_sing_urea
     }
-    loadings[[m]]$totalDecayed<-loadings[[m]]$unsafeDecay+loadings[[m]]$safeDecay
-    loadings[[m]]$toSW<-loadings[[m]]$notContained+loadings[[m]]$toSW_sol+loadings[[m]]$toSW_liq
-    loadings[[m]]$stillViable<-(loadings[[m]][,"toGW"]+loadings[[m]][,"toSW"]+loadings[[m]][,"toWWTP"]+loadings[[m]][,"toFSTP"])
+
+    loadings[[m]]$totalDecayed<-loadings[[m]]$unsafeDecay_twin+loadings[[m]]$unsafeDecay_sing+loadings[[m]]$safeDecay_twin+loadings[[m]]$safeDecay_sing
+    loadings[[m]]$toSW<-loadings[[m]]$notContained+loadings[[m]]$toSW_sol_twin+loadings[[m]]$toSW_sol_sing+loadings[[m]]$toSW_liq
+    loadings[[m]]$toFSTP<-loadings[[m]]$toFSTP_twin+loadings[[m]]$toFSTP_sing
+    loadings[[m]]$stillViable<-loadings[[m]][,"toGW"]+loadings[[m]][,"toSW"]+loadings[[m]][,"toWWTP"]+loadings[[m]][,"toFSTP_twin"]+loadings[[m]][,"toFSTP_sing"]
     loadings[[m]]$LRV_byTech<-round(log10(loadings[[m]][,"excreted"]/loadings[[m]][,"stillViable"]),2)
+    loadings[[m]]$LRV_byTech[is.na(loadings[[m]]$LRV_byTech)]<-NA
+    #loadings[[m]]$excreted_check<-loadings[[m]]$toGW+loadings[[m]]$toSW+loadings[[m]]$totalSubsurface+loadings[[m]]$totalDecayed+loadings[[m]]$toFSTP+loadings[[m]]$toWWTP
     LRV_byTechnology <- as.data.frame(t(loadings[[m]]$LRV_byTech))
     colnames(LRV_byTechnology) <- paste("LRV_",loadings[[m]]$name,sep="")
     LRV_byTechnology[is.na(LRV_byTechnology)]<-NA
@@ -215,12 +295,13 @@ getLoadings<-function(inputDF=read.csv("data/testInput.csv"),pathogenType="Virus
     retained_in_soil=sum(loadings[[m]]$totalSubsurface)
     decayed=sum(loadings[[m]]$totalDecayed)
     In_Sewage=sum(loadings[[m]]$toWWTP)
-    In_Fecal_Sludge=sum(loadings[[m]]$toFSTP)
+    In_Fecal_Sludge=sum(loadings[[m]]$toFSTP_twin)+sum(loadings[[m]]$toFSTP_sing)
+    excreted_check<-sum(to_groundwater,to_surface,retained_in_soil,decayed,In_Sewage,In_Fecal_Sludge)
 
     loadings[[m]]<-loadings[[m]][,c("name","classification","percentage","excreted","toGW","toSW","totalSubsurface","totalDecayed","toFSTP","toWWTP","stillViable","LRV_byTech")]
     names(loadings[[m]])<-c("id","sanitationTechnology","percentage","excreted","toGroundwater","toSurface","inSubsurface","decayed","fecalSludge","sewerage","stillViable","onsiteLRV")
 
-    newRow<-data.frame(region=df$region,excreted,to_groundwater,to_surface,retained_in_soil,decayed,
+    newRow<-data.frame(gid=df$gid,excreted,excreted_check,to_groundwater,to_surface,retained_in_soil,decayed,
                        In_Fecal_Sludge,In_Sewage,stillViable=(to_groundwater+to_surface+In_Sewage+In_Fecal_Sludge),
                        Onsite_LRV=round(log10(excreted/(to_groundwater+to_surface+In_Sewage+In_Fecal_Sludge)),2),
                        Onsite_PR=round(((excreted-(to_groundwater+to_surface+In_Sewage+In_Fecal_Sludge))/excreted),4))
@@ -235,5 +316,3 @@ getLoadings<-function(inputDF=read.csv("data/testInput.csv"),pathogenType="Virus
   return(returned)
 
 }
-
-my=getLoadings(inputDF=my_input)

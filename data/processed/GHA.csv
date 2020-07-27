@@ -1,4 +1,106 @@
 country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+Ghana,GH,GHA,288,Urban,1,Flush and pour flush - to piped sewer system,0.0,Population Census - CEN00
+Ghana,GH,GHA,288,Urban,2,Flush and pour flush - to septic tank,0.0,Population Census - CEN00
+Ghana,GH,GHA,288,Urban,3,Flush and pour flush - to pit,0.0,Population Census - CEN00
+Ghana,GH,GHA,288,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Population Census - CEN00
+Ghana,GH,GHA,288,Urban,5,Flush and pour flush - to elsewhere,0.0,Population Census - CEN00
+Ghana,GH,GHA,288,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.097,Population Census - CEN00
+Ghana,GH,GHA,288,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Population Census - CEN00
+Ghana,GH,GHA,288,Urban,8,Dry latrines - Traditional latrine,0.123,Population Census - CEN00
+Ghana,GH,GHA,288,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Population Census - CEN00
+Ghana,GH,GHA,288,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Population Census - CEN00
+Ghana,GH,GHA,288,Urban,11,Dry latrines - Bucket latrine,0.064,Population Census - CEN00
+Ghana,GH,GHA,288,Urban,12,Dry latrines - Other,0.0,Population Census - CEN00
+Ghana,GH,GHA,288,Urban,13,Composting toilets,0.0,Population Census - CEN00
+Ghana,GH,GHA,288,Urban,14,Other improved,0.068,Population Census - CEN00
+Ghana,GH,GHA,288,Urban,15,"No facility, bush, field",0.112,Population Census - CEN00
+Ghana,GH,GHA,288,Urban,16,Other unimproved,0.006,Population Census - CEN00
+Ghana,GH,GHA,288,Urban,17,DK/missing information,0.0,Population Census - CEN00
+Ghana,GH,GHA,288,Rural,1,Flush and pour flush - to piped sewer system,0.0,Population Census - CEN00
+Ghana,GH,GHA,288,Rural,2,Flush and pour flush - to septic tank,0.0,Population Census - CEN00
+Ghana,GH,GHA,288,Rural,3,Flush and pour flush - to pit,0.0,Population Census - CEN00
+Ghana,GH,GHA,288,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Population Census - CEN00
+Ghana,GH,GHA,288,Rural,5,Flush and pour flush - to elsewhere,0.0,Population Census - CEN00
+Ghana,GH,GHA,288,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.042,Population Census - CEN00
+Ghana,GH,GHA,288,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Population Census - CEN00
+Ghana,GH,GHA,288,Rural,8,Dry latrines - Traditional latrine,0.3,Population Census - CEN00
+Ghana,GH,GHA,288,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Population Census - CEN00
+Ghana,GH,GHA,288,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Population Census - CEN00
+Ghana,GH,GHA,288,Rural,11,Dry latrines - Bucket latrine,0.013,Population Census - CEN00
+Ghana,GH,GHA,288,Rural,12,Dry latrines - Other,0.0,Population Census - CEN00
+Ghana,GH,GHA,288,Rural,13,Composting toilets,0.0,Population Census - CEN00
+Ghana,GH,GHA,288,Rural,14,Other improved,0.062,Population Census - CEN00
+Ghana,GH,GHA,288,Rural,15,"No facility, bush, field",0.328,Population Census - CEN00
+Ghana,GH,GHA,288,Rural,16,Other unimproved,0.003,Population Census - CEN00
+Ghana,GH,GHA,288,Rural,17,DK/missing information,0.0,Population Census - CEN00
+Ghana,GH,GHA,288,National,1,Flush and pour flush - to piped sewer system,0.0,Population Census - CEN00
+Ghana,GH,GHA,288,National,2,Flush and pour flush - to septic tank,0.0,Population Census - CEN00
+Ghana,GH,GHA,288,National,3,Flush and pour flush - to pit,0.0,Population Census - CEN00
+Ghana,GH,GHA,288,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Population Census - CEN00
+Ghana,GH,GHA,288,National,5,Flush and pour flush - to elsewhere,0.0,Population Census - CEN00
+Ghana,GH,GHA,288,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Population Census - CEN00
+Ghana,GH,GHA,288,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Population Census - CEN00
+Ghana,GH,GHA,288,National,8,Dry latrines - Traditional latrine,0.0,Population Census - CEN00
+Ghana,GH,GHA,288,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Population Census - CEN00
+Ghana,GH,GHA,288,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Population Census - CEN00
+Ghana,GH,GHA,288,National,11,Dry latrines - Bucket latrine,0.0,Population Census - CEN00
+Ghana,GH,GHA,288,National,12,Dry latrines - Other,0.0,Population Census - CEN00
+Ghana,GH,GHA,288,National,13,Composting toilets,0.0,Population Census - CEN00
+Ghana,GH,GHA,288,National,14,Other improved,0.0,Population Census - CEN00
+Ghana,GH,GHA,288,National,15,"No facility, bush, field",0.0,Population Census - CEN00
+Ghana,GH,GHA,288,National,16,Other unimproved,0.0,Population Census - CEN00
+Ghana,GH,GHA,288,National,17,DK/missing information,0.0,Population Census - CEN00
+Ghana,GH,GHA,288,Urban,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS03
+Ghana,GH,GHA,288,Urban,2,Flush and pour flush - to septic tank,0.0,Demographic and Health Survey - DHS03
+Ghana,GH,GHA,288,Urban,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS03
+Ghana,GH,GHA,288,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS03
+Ghana,GH,GHA,288,Urban,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS03
+Ghana,GH,GHA,288,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.408,Demographic and Health Survey - DHS03
+Ghana,GH,GHA,288,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS03
+Ghana,GH,GHA,288,Urban,8,Dry latrines - Traditional latrine,0.267,Demographic and Health Survey - DHS03
+Ghana,GH,GHA,288,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Survey - DHS03
+Ghana,GH,GHA,288,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS03
+Ghana,GH,GHA,288,Urban,11,Dry latrines - Bucket latrine,0.045,Demographic and Health Survey - DHS03
+Ghana,GH,GHA,288,Urban,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS03
+Ghana,GH,GHA,288,Urban,13,Composting toilets,0.0,Demographic and Health Survey - DHS03
+Ghana,GH,GHA,288,Urban,14,Other improved,0.0,Demographic and Health Survey - DHS03
+Ghana,GH,GHA,288,Urban,15,"No facility, bush, field",0.067,Demographic and Health Survey - DHS03
+Ghana,GH,GHA,288,Urban,16,Other unimproved,0.0,Demographic and Health Survey - DHS03
+Ghana,GH,GHA,288,Urban,17,DK/missing information,0.001,Demographic and Health Survey - DHS03
+Ghana,GH,GHA,288,Rural,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS03
+Ghana,GH,GHA,288,Rural,2,Flush and pour flush - to septic tank,0.0,Demographic and Health Survey - DHS03
+Ghana,GH,GHA,288,Rural,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS03
+Ghana,GH,GHA,288,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS03
+Ghana,GH,GHA,288,Rural,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS03
+Ghana,GH,GHA,288,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.135,Demographic and Health Survey - DHS03
+Ghana,GH,GHA,288,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS03
+Ghana,GH,GHA,288,Rural,8,Dry latrines - Traditional latrine,0.54,Demographic and Health Survey - DHS03
+Ghana,GH,GHA,288,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Survey - DHS03
+Ghana,GH,GHA,288,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS03
+Ghana,GH,GHA,288,Rural,11,Dry latrines - Bucket latrine,0.002,Demographic and Health Survey - DHS03
+Ghana,GH,GHA,288,Rural,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS03
+Ghana,GH,GHA,288,Rural,13,Composting toilets,0.0,Demographic and Health Survey - DHS03
+Ghana,GH,GHA,288,Rural,14,Other improved,0.0,Demographic and Health Survey - DHS03
+Ghana,GH,GHA,288,Rural,15,"No facility, bush, field",0.306,Demographic and Health Survey - DHS03
+Ghana,GH,GHA,288,Rural,16,Other unimproved,0.0,Demographic and Health Survey - DHS03
+Ghana,GH,GHA,288,Rural,17,DK/missing information,0.001,Demographic and Health Survey - DHS03
+Ghana,GH,GHA,288,National,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS03
+Ghana,GH,GHA,288,National,2,Flush and pour flush - to septic tank,0.0,Demographic and Health Survey - DHS03
+Ghana,GH,GHA,288,National,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS03
+Ghana,GH,GHA,288,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS03
+Ghana,GH,GHA,288,National,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS03
+Ghana,GH,GHA,288,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - DHS03
+Ghana,GH,GHA,288,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS03
+Ghana,GH,GHA,288,National,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS03
+Ghana,GH,GHA,288,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Survey - DHS03
+Ghana,GH,GHA,288,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS03
+Ghana,GH,GHA,288,National,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS03
+Ghana,GH,GHA,288,National,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS03
+Ghana,GH,GHA,288,National,13,Composting toilets,0.0,Demographic and Health Survey - DHS03
+Ghana,GH,GHA,288,National,14,Other improved,0.0,Demographic and Health Survey - DHS03
+Ghana,GH,GHA,288,National,15,"No facility, bush, field",0.0,Demographic and Health Survey - DHS03
+Ghana,GH,GHA,288,National,16,Other unimproved,0.0,Demographic and Health Survey - DHS03
+Ghana,GH,GHA,288,National,17,DK/missing information,0.0,Demographic and Health Survey - DHS03
 Ghana,GH,GHA,288,Urban,1,Flush and pour flush - to piped sewer system,0.156,World Health Survey - WHS03
 Ghana,GH,GHA,288,Urban,2,Flush and pour flush - to septic tank,0.121,World Health Survey - WHS03
 Ghana,GH,GHA,288,Urban,3,Flush and pour flush - to pit,0.0,World Health Survey - WHS03
@@ -45,6 +147,125 @@ Ghana,GH,GHA,288,Rural,14,Other improved,0.0,World Health Survey - WHS03
 Ghana,GH,GHA,288,Rural,15,"No facility, bush, field",0.32,World Health Survey - WHS03
 Ghana,GH,GHA,288,Rural,16,Other unimproved,0.041,World Health Survey - WHS03
 Ghana,GH,GHA,288,Rural,17,DK/missing information,0.0,World Health Survey - WHS03
+Ghana,GH,GHA,288,National,1,Flush and pour flush - to piped sewer system,0.0,World Health Survey - WHS03
+Ghana,GH,GHA,288,National,2,Flush and pour flush - to septic tank,0.0,World Health Survey - WHS03
+Ghana,GH,GHA,288,National,3,Flush and pour flush - to pit,0.0,World Health Survey - WHS03
+Ghana,GH,GHA,288,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,World Health Survey - WHS03
+Ghana,GH,GHA,288,National,5,Flush and pour flush - to elsewhere,0.0,World Health Survey - WHS03
+Ghana,GH,GHA,288,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,World Health Survey - WHS03
+Ghana,GH,GHA,288,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,World Health Survey - WHS03
+Ghana,GH,GHA,288,National,8,Dry latrines - Traditional latrine,0.0,World Health Survey - WHS03
+Ghana,GH,GHA,288,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,World Health Survey - WHS03
+Ghana,GH,GHA,288,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,World Health Survey - WHS03
+Ghana,GH,GHA,288,National,11,Dry latrines - Bucket latrine,0.0,World Health Survey - WHS03
+Ghana,GH,GHA,288,National,12,Dry latrines - Other,0.0,World Health Survey - WHS03
+Ghana,GH,GHA,288,National,13,Composting toilets,0.0,World Health Survey - WHS03
+Ghana,GH,GHA,288,National,14,Other improved,0.0,World Health Survey - WHS03
+Ghana,GH,GHA,288,National,15,"No facility, bush, field",0.0,World Health Survey - WHS03
+Ghana,GH,GHA,288,National,16,Other unimproved,0.0,World Health Survey - WHS03
+Ghana,GH,GHA,288,National,17,DK/missing information,0.0,World Health Survey - WHS03
+Ghana,GH,GHA,288,Urban,1,Flush and pour flush - to piped sewer system,0.206,Core Welfare Inidicator Questionnaire - CWIQ03
+Ghana,GH,GHA,288,Urban,2,Flush and pour flush - to septic tank,0.0,Core Welfare Inidicator Questionnaire - CWIQ03
+Ghana,GH,GHA,288,Urban,3,Flush and pour flush - to pit,0.0,Core Welfare Inidicator Questionnaire - CWIQ03
+Ghana,GH,GHA,288,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Core Welfare Inidicator Questionnaire - CWIQ03
+Ghana,GH,GHA,288,Urban,5,Flush and pour flush - to elsewhere,0.0,Core Welfare Inidicator Questionnaire - CWIQ03
+Ghana,GH,GHA,288,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.466,Core Welfare Inidicator Questionnaire - CWIQ03
+Ghana,GH,GHA,288,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.139,Core Welfare Inidicator Questionnaire - CWIQ03
+Ghana,GH,GHA,288,Urban,8,Dry latrines - Traditional latrine,0.0,Core Welfare Inidicator Questionnaire - CWIQ03
+Ghana,GH,GHA,288,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.041,Core Welfare Inidicator Questionnaire - CWIQ03
+Ghana,GH,GHA,288,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Core Welfare Inidicator Questionnaire - CWIQ03
+Ghana,GH,GHA,288,Urban,11,Dry latrines - Bucket latrine,0.046,Core Welfare Inidicator Questionnaire - CWIQ03
+Ghana,GH,GHA,288,Urban,12,Dry latrines - Other,0.0,Core Welfare Inidicator Questionnaire - CWIQ03
+Ghana,GH,GHA,288,Urban,13,Composting toilets,0.0,Core Welfare Inidicator Questionnaire - CWIQ03
+Ghana,GH,GHA,288,Urban,14,Other improved,0.0,Core Welfare Inidicator Questionnaire - CWIQ03
+Ghana,GH,GHA,288,Urban,15,"No facility, bush, field",0.096,Core Welfare Inidicator Questionnaire - CWIQ03
+Ghana,GH,GHA,288,Urban,16,Other unimproved,0.006,Core Welfare Inidicator Questionnaire - CWIQ03
+Ghana,GH,GHA,288,Urban,17,DK/missing information,0.0,Core Welfare Inidicator Questionnaire - CWIQ03
+Ghana,GH,GHA,288,Rural,1,Flush and pour flush - to piped sewer system,0.01,Core Welfare Inidicator Questionnaire - CWIQ03
+Ghana,GH,GHA,288,Rural,2,Flush and pour flush - to septic tank,0.0,Core Welfare Inidicator Questionnaire - CWIQ03
+Ghana,GH,GHA,288,Rural,3,Flush and pour flush - to pit,0.0,Core Welfare Inidicator Questionnaire - CWIQ03
+Ghana,GH,GHA,288,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Core Welfare Inidicator Questionnaire - CWIQ03
+Ghana,GH,GHA,288,Rural,5,Flush and pour flush - to elsewhere,0.0,Core Welfare Inidicator Questionnaire - CWIQ03
+Ghana,GH,GHA,288,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.184,Core Welfare Inidicator Questionnaire - CWIQ03
+Ghana,GH,GHA,288,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.137,Core Welfare Inidicator Questionnaire - CWIQ03
+Ghana,GH,GHA,288,Rural,8,Dry latrines - Traditional latrine,0.0,Core Welfare Inidicator Questionnaire - CWIQ03
+Ghana,GH,GHA,288,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.33,Core Welfare Inidicator Questionnaire - CWIQ03
+Ghana,GH,GHA,288,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Core Welfare Inidicator Questionnaire - CWIQ03
+Ghana,GH,GHA,288,Rural,11,Dry latrines - Bucket latrine,0.006,Core Welfare Inidicator Questionnaire - CWIQ03
+Ghana,GH,GHA,288,Rural,12,Dry latrines - Other,0.0,Core Welfare Inidicator Questionnaire - CWIQ03
+Ghana,GH,GHA,288,Rural,13,Composting toilets,0.0,Core Welfare Inidicator Questionnaire - CWIQ03
+Ghana,GH,GHA,288,Rural,14,Other improved,0.0,Core Welfare Inidicator Questionnaire - CWIQ03
+Ghana,GH,GHA,288,Rural,15,"No facility, bush, field",0.319,Core Welfare Inidicator Questionnaire - CWIQ03
+Ghana,GH,GHA,288,Rural,16,Other unimproved,0.014,Core Welfare Inidicator Questionnaire - CWIQ03
+Ghana,GH,GHA,288,Rural,17,DK/missing information,0.0,Core Welfare Inidicator Questionnaire - CWIQ03
+Ghana,GH,GHA,288,National,1,Flush and pour flush - to piped sewer system,0.0,Core Welfare Inidicator Questionnaire - CWIQ03
+Ghana,GH,GHA,288,National,2,Flush and pour flush - to septic tank,0.0,Core Welfare Inidicator Questionnaire - CWIQ03
+Ghana,GH,GHA,288,National,3,Flush and pour flush - to pit,0.0,Core Welfare Inidicator Questionnaire - CWIQ03
+Ghana,GH,GHA,288,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Core Welfare Inidicator Questionnaire - CWIQ03
+Ghana,GH,GHA,288,National,5,Flush and pour flush - to elsewhere,0.0,Core Welfare Inidicator Questionnaire - CWIQ03
+Ghana,GH,GHA,288,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Core Welfare Inidicator Questionnaire - CWIQ03
+Ghana,GH,GHA,288,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Core Welfare Inidicator Questionnaire - CWIQ03
+Ghana,GH,GHA,288,National,8,Dry latrines - Traditional latrine,0.0,Core Welfare Inidicator Questionnaire - CWIQ03
+Ghana,GH,GHA,288,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Core Welfare Inidicator Questionnaire - CWIQ03
+Ghana,GH,GHA,288,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Core Welfare Inidicator Questionnaire - CWIQ03
+Ghana,GH,GHA,288,National,11,Dry latrines - Bucket latrine,0.0,Core Welfare Inidicator Questionnaire - CWIQ03
+Ghana,GH,GHA,288,National,12,Dry latrines - Other,0.0,Core Welfare Inidicator Questionnaire - CWIQ03
+Ghana,GH,GHA,288,National,13,Composting toilets,0.0,Core Welfare Inidicator Questionnaire - CWIQ03
+Ghana,GH,GHA,288,National,14,Other improved,0.0,Core Welfare Inidicator Questionnaire - CWIQ03
+Ghana,GH,GHA,288,National,15,"No facility, bush, field",0.0,Core Welfare Inidicator Questionnaire - CWIQ03
+Ghana,GH,GHA,288,National,16,Other unimproved,0.0,Core Welfare Inidicator Questionnaire - CWIQ03
+Ghana,GH,GHA,288,National,17,DK/missing information,0.0,Core Welfare Inidicator Questionnaire - CWIQ03
+Ghana,GH,GHA,288,Urban,1,Flush and pour flush - to piped sewer system,0.0,GHANA LIVING STANDARDS SURVEY 5 - LSS06
+Ghana,GH,GHA,288,Urban,2,Flush and pour flush - to septic tank,0.0,GHANA LIVING STANDARDS SURVEY 5 - LSS06
+Ghana,GH,GHA,288,Urban,3,Flush and pour flush - to pit,0.0,GHANA LIVING STANDARDS SURVEY 5 - LSS06
+Ghana,GH,GHA,288,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,GHANA LIVING STANDARDS SURVEY 5 - LSS06
+Ghana,GH,GHA,288,Urban,5,Flush and pour flush - to elsewhere,0.0,GHANA LIVING STANDARDS SURVEY 5 - LSS06
+Ghana,GH,GHA,288,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,GHANA LIVING STANDARDS SURVEY 5 - LSS06
+Ghana,GH,GHA,288,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,GHANA LIVING STANDARDS SURVEY 5 - LSS06
+Ghana,GH,GHA,288,Urban,8,Dry latrines - Traditional latrine,0.0,GHANA LIVING STANDARDS SURVEY 5 - LSS06
+Ghana,GH,GHA,288,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,GHANA LIVING STANDARDS SURVEY 5 - LSS06
+Ghana,GH,GHA,288,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,GHANA LIVING STANDARDS SURVEY 5 - LSS06
+Ghana,GH,GHA,288,Urban,11,Dry latrines - Bucket latrine,0.0,GHANA LIVING STANDARDS SURVEY 5 - LSS06
+Ghana,GH,GHA,288,Urban,12,Dry latrines - Other,0.0,GHANA LIVING STANDARDS SURVEY 5 - LSS06
+Ghana,GH,GHA,288,Urban,13,Composting toilets,0.0,GHANA LIVING STANDARDS SURVEY 5 - LSS06
+Ghana,GH,GHA,288,Urban,14,Other improved,0.0,GHANA LIVING STANDARDS SURVEY 5 - LSS06
+Ghana,GH,GHA,288,Urban,15,"No facility, bush, field",0.053,GHANA LIVING STANDARDS SURVEY 5 - LSS06
+Ghana,GH,GHA,288,Urban,16,Other unimproved,0.18,GHANA LIVING STANDARDS SURVEY 5 - LSS06
+Ghana,GH,GHA,288,Urban,17,DK/missing information,0.0,GHANA LIVING STANDARDS SURVEY 5 - LSS06
+Ghana,GH,GHA,288,Rural,1,Flush and pour flush - to piped sewer system,0.0,GHANA LIVING STANDARDS SURVEY 5 - LSS06
+Ghana,GH,GHA,288,Rural,2,Flush and pour flush - to septic tank,0.0,GHANA LIVING STANDARDS SURVEY 5 - LSS06
+Ghana,GH,GHA,288,Rural,3,Flush and pour flush - to pit,0.0,GHANA LIVING STANDARDS SURVEY 5 - LSS06
+Ghana,GH,GHA,288,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,GHANA LIVING STANDARDS SURVEY 5 - LSS06
+Ghana,GH,GHA,288,Rural,5,Flush and pour flush - to elsewhere,0.0,GHANA LIVING STANDARDS SURVEY 5 - LSS06
+Ghana,GH,GHA,288,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,GHANA LIVING STANDARDS SURVEY 5 - LSS06
+Ghana,GH,GHA,288,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,GHANA LIVING STANDARDS SURVEY 5 - LSS06
+Ghana,GH,GHA,288,Rural,8,Dry latrines - Traditional latrine,0.0,GHANA LIVING STANDARDS SURVEY 5 - LSS06
+Ghana,GH,GHA,288,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,GHANA LIVING STANDARDS SURVEY 5 - LSS06
+Ghana,GH,GHA,288,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,GHANA LIVING STANDARDS SURVEY 5 - LSS06
+Ghana,GH,GHA,288,Rural,11,Dry latrines - Bucket latrine,0.0,GHANA LIVING STANDARDS SURVEY 5 - LSS06
+Ghana,GH,GHA,288,Rural,12,Dry latrines - Other,0.0,GHANA LIVING STANDARDS SURVEY 5 - LSS06
+Ghana,GH,GHA,288,Rural,13,Composting toilets,0.0,GHANA LIVING STANDARDS SURVEY 5 - LSS06
+Ghana,GH,GHA,288,Rural,14,Other improved,0.0,GHANA LIVING STANDARDS SURVEY 5 - LSS06
+Ghana,GH,GHA,288,Rural,15,"No facility, bush, field",0.299,GHANA LIVING STANDARDS SURVEY 5 - LSS06
+Ghana,GH,GHA,288,Rural,16,Other unimproved,0.118,GHANA LIVING STANDARDS SURVEY 5 - LSS06
+Ghana,GH,GHA,288,Rural,17,DK/missing information,0.0,GHANA LIVING STANDARDS SURVEY 5 - LSS06
+Ghana,GH,GHA,288,National,1,Flush and pour flush - to piped sewer system,0.0,GHANA LIVING STANDARDS SURVEY 5 - LSS06
+Ghana,GH,GHA,288,National,2,Flush and pour flush - to septic tank,0.0,GHANA LIVING STANDARDS SURVEY 5 - LSS06
+Ghana,GH,GHA,288,National,3,Flush and pour flush - to pit,0.0,GHANA LIVING STANDARDS SURVEY 5 - LSS06
+Ghana,GH,GHA,288,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,GHANA LIVING STANDARDS SURVEY 5 - LSS06
+Ghana,GH,GHA,288,National,5,Flush and pour flush - to elsewhere,0.0,GHANA LIVING STANDARDS SURVEY 5 - LSS06
+Ghana,GH,GHA,288,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,GHANA LIVING STANDARDS SURVEY 5 - LSS06
+Ghana,GH,GHA,288,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,GHANA LIVING STANDARDS SURVEY 5 - LSS06
+Ghana,GH,GHA,288,National,8,Dry latrines - Traditional latrine,0.0,GHANA LIVING STANDARDS SURVEY 5 - LSS06
+Ghana,GH,GHA,288,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,GHANA LIVING STANDARDS SURVEY 5 - LSS06
+Ghana,GH,GHA,288,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,GHANA LIVING STANDARDS SURVEY 5 - LSS06
+Ghana,GH,GHA,288,National,11,Dry latrines - Bucket latrine,0.0,GHANA LIVING STANDARDS SURVEY 5 - LSS06
+Ghana,GH,GHA,288,National,12,Dry latrines - Other,0.0,GHANA LIVING STANDARDS SURVEY 5 - LSS06
+Ghana,GH,GHA,288,National,13,Composting toilets,0.0,GHANA LIVING STANDARDS SURVEY 5 - LSS06
+Ghana,GH,GHA,288,National,14,Other improved,0.0,GHANA LIVING STANDARDS SURVEY 5 - LSS06
+Ghana,GH,GHA,288,National,15,"No facility, bush, field",0.0,GHANA LIVING STANDARDS SURVEY 5 - LSS06
+Ghana,GH,GHA,288,National,16,Other unimproved,0.0,GHANA LIVING STANDARDS SURVEY 5 - LSS06
+Ghana,GH,GHA,288,National,17,DK/missing information,0.0,GHANA LIVING STANDARDS SURVEY 5 - LSS06
 Ghana,GH,GHA,288,Urban,1,Flush and pour flush - to piped sewer system,0.038,Multiple Indicator Cluster Survey - MICS06
 Ghana,GH,GHA,288,Urban,2,Flush and pour flush - to septic tank,0.149,Multiple Indicator Cluster Survey - MICS06
 Ghana,GH,GHA,288,Urban,3,Flush and pour flush - to pit,0.053,Multiple Indicator Cluster Survey - MICS06
@@ -79,6 +300,74 @@ Ghana,GH,GHA,288,Rural,14,Other improved,0.0,Multiple Indicator Cluster Survey -
 Ghana,GH,GHA,288,Rural,15,"No facility, bush, field",0.355,Multiple Indicator Cluster Survey - MICS06
 Ghana,GH,GHA,288,Rural,16,Other unimproved,0.001,Multiple Indicator Cluster Survey - MICS06
 Ghana,GH,GHA,288,Rural,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS06
+Ghana,GH,GHA,288,National,1,Flush and pour flush - to piped sewer system,0.0,Multiple Indicator Cluster Survey - MICS06
+Ghana,GH,GHA,288,National,2,Flush and pour flush - to septic tank,0.0,Multiple Indicator Cluster Survey - MICS06
+Ghana,GH,GHA,288,National,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS06
+Ghana,GH,GHA,288,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS06
+Ghana,GH,GHA,288,National,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS06
+Ghana,GH,GHA,288,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Multiple Indicator Cluster Survey - MICS06
+Ghana,GH,GHA,288,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Multiple Indicator Cluster Survey - MICS06
+Ghana,GH,GHA,288,National,8,Dry latrines - Traditional latrine,0.0,Multiple Indicator Cluster Survey - MICS06
+Ghana,GH,GHA,288,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Multiple Indicator Cluster Survey - MICS06
+Ghana,GH,GHA,288,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS06
+Ghana,GH,GHA,288,National,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS06
+Ghana,GH,GHA,288,National,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS06
+Ghana,GH,GHA,288,National,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS06
+Ghana,GH,GHA,288,National,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS06
+Ghana,GH,GHA,288,National,15,"No facility, bush, field",0.0,Multiple Indicator Cluster Survey - MICS06
+Ghana,GH,GHA,288,National,16,Other unimproved,0.0,Multiple Indicator Cluster Survey - MICS06
+Ghana,GH,GHA,288,National,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS06
+Ghana,GH,GHA,288,Urban,1,Flush and pour flush - to piped sewer system,0.0,Measure DHS special Maternal Health Survey - MHS07
+Ghana,GH,GHA,288,Urban,2,Flush and pour flush - to septic tank,0.0,Measure DHS special Maternal Health Survey - MHS07
+Ghana,GH,GHA,288,Urban,3,Flush and pour flush - to pit,0.0,Measure DHS special Maternal Health Survey - MHS07
+Ghana,GH,GHA,288,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Measure DHS special Maternal Health Survey - MHS07
+Ghana,GH,GHA,288,Urban,5,Flush and pour flush - to elsewhere,0.0,Measure DHS special Maternal Health Survey - MHS07
+Ghana,GH,GHA,288,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.487,Measure DHS special Maternal Health Survey - MHS07
+Ghana,GH,GHA,288,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.091,Measure DHS special Maternal Health Survey - MHS07
+Ghana,GH,GHA,288,Urban,8,Dry latrines - Traditional latrine,0.0,Measure DHS special Maternal Health Survey - MHS07
+Ghana,GH,GHA,288,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.104,Measure DHS special Maternal Health Survey - MHS07
+Ghana,GH,GHA,288,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Measure DHS special Maternal Health Survey - MHS07
+Ghana,GH,GHA,288,Urban,11,Dry latrines - Bucket latrine,0.021,Measure DHS special Maternal Health Survey - MHS07
+Ghana,GH,GHA,288,Urban,12,Dry latrines - Other,0.0,Measure DHS special Maternal Health Survey - MHS07
+Ghana,GH,GHA,288,Urban,13,Composting toilets,0.0,Measure DHS special Maternal Health Survey - MHS07
+Ghana,GH,GHA,288,Urban,14,Other improved,0.0,Measure DHS special Maternal Health Survey - MHS07
+Ghana,GH,GHA,288,Urban,15,"No facility, bush, field",0.055,Measure DHS special Maternal Health Survey - MHS07
+Ghana,GH,GHA,288,Urban,16,Other unimproved,0.002,Measure DHS special Maternal Health Survey - MHS07
+Ghana,GH,GHA,288,Urban,17,DK/missing information,0.0,Measure DHS special Maternal Health Survey - MHS07
+Ghana,GH,GHA,288,Rural,1,Flush and pour flush - to piped sewer system,0.0,Measure DHS special Maternal Health Survey - MHS07
+Ghana,GH,GHA,288,Rural,2,Flush and pour flush - to septic tank,0.0,Measure DHS special Maternal Health Survey - MHS07
+Ghana,GH,GHA,288,Rural,3,Flush and pour flush - to pit,0.0,Measure DHS special Maternal Health Survey - MHS07
+Ghana,GH,GHA,288,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Measure DHS special Maternal Health Survey - MHS07
+Ghana,GH,GHA,288,Rural,5,Flush and pour flush - to elsewhere,0.0,Measure DHS special Maternal Health Survey - MHS07
+Ghana,GH,GHA,288,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.264,Measure DHS special Maternal Health Survey - MHS07
+Ghana,GH,GHA,288,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.246,Measure DHS special Maternal Health Survey - MHS07
+Ghana,GH,GHA,288,Rural,8,Dry latrines - Traditional latrine,0.0,Measure DHS special Maternal Health Survey - MHS07
+Ghana,GH,GHA,288,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.199,Measure DHS special Maternal Health Survey - MHS07
+Ghana,GH,GHA,288,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Measure DHS special Maternal Health Survey - MHS07
+Ghana,GH,GHA,288,Rural,11,Dry latrines - Bucket latrine,0.002,Measure DHS special Maternal Health Survey - MHS07
+Ghana,GH,GHA,288,Rural,12,Dry latrines - Other,0.0,Measure DHS special Maternal Health Survey - MHS07
+Ghana,GH,GHA,288,Rural,13,Composting toilets,0.0,Measure DHS special Maternal Health Survey - MHS07
+Ghana,GH,GHA,288,Rural,14,Other improved,0.0,Measure DHS special Maternal Health Survey - MHS07
+Ghana,GH,GHA,288,Rural,15,"No facility, bush, field",0.269,Measure DHS special Maternal Health Survey - MHS07
+Ghana,GH,GHA,288,Rural,16,Other unimproved,0.0,Measure DHS special Maternal Health Survey - MHS07
+Ghana,GH,GHA,288,Rural,17,DK/missing information,0.0,Measure DHS special Maternal Health Survey - MHS07
+Ghana,GH,GHA,288,National,1,Flush and pour flush - to piped sewer system,0.0,Measure DHS special Maternal Health Survey - MHS07
+Ghana,GH,GHA,288,National,2,Flush and pour flush - to septic tank,0.0,Measure DHS special Maternal Health Survey - MHS07
+Ghana,GH,GHA,288,National,3,Flush and pour flush - to pit,0.0,Measure DHS special Maternal Health Survey - MHS07
+Ghana,GH,GHA,288,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Measure DHS special Maternal Health Survey - MHS07
+Ghana,GH,GHA,288,National,5,Flush and pour flush - to elsewhere,0.0,Measure DHS special Maternal Health Survey - MHS07
+Ghana,GH,GHA,288,National,6,Dry latrines - Ventilated Improved Pit latrine,0.358,Measure DHS special Maternal Health Survey - MHS07
+Ghana,GH,GHA,288,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.18,Measure DHS special Maternal Health Survey - MHS07
+Ghana,GH,GHA,288,National,8,Dry latrines - Traditional latrine,0.0,Measure DHS special Maternal Health Survey - MHS07
+Ghana,GH,GHA,288,National,9,Dry latrines - Pit latrine without slab/open pit,0.159,Measure DHS special Maternal Health Survey - MHS07
+Ghana,GH,GHA,288,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Measure DHS special Maternal Health Survey - MHS07
+Ghana,GH,GHA,288,National,11,Dry latrines - Bucket latrine,0.01,Measure DHS special Maternal Health Survey - MHS07
+Ghana,GH,GHA,288,National,12,Dry latrines - Other,0.0,Measure DHS special Maternal Health Survey - MHS07
+Ghana,GH,GHA,288,National,13,Composting toilets,0.0,Measure DHS special Maternal Health Survey - MHS07
+Ghana,GH,GHA,288,National,14,Other improved,0.0,Measure DHS special Maternal Health Survey - MHS07
+Ghana,GH,GHA,288,National,15,"No facility, bush, field",0.179,Measure DHS special Maternal Health Survey - MHS07
+Ghana,GH,GHA,288,National,16,Other unimproved,0.001,Measure DHS special Maternal Health Survey - MHS07
+Ghana,GH,GHA,288,National,17,DK/missing information,0.0,Measure DHS special Maternal Health Survey - MHS07
 Ghana,GH,GHA,288,Urban,1,Flush and pour flush - to piped sewer system,0.038,Demographic and Health Survey - DHS08
 Ghana,GH,GHA,288,Urban,2,Flush and pour flush - to septic tank,0.2,Demographic and Health Survey - DHS08
 Ghana,GH,GHA,288,Urban,3,Flush and pour flush - to pit,0.044,Demographic and Health Survey - DHS08
@@ -113,6 +402,23 @@ Ghana,GH,GHA,288,Rural,14,Other improved,0.0,Demographic and Health Survey - DHS
 Ghana,GH,GHA,288,Rural,15,"No facility, bush, field",0.354,Demographic and Health Survey - DHS08
 Ghana,GH,GHA,288,Rural,16,Other unimproved,0.0,Demographic and Health Survey - DHS08
 Ghana,GH,GHA,288,Rural,17,DK/missing information,0.001,Demographic and Health Survey - DHS08
+Ghana,GH,GHA,288,National,1,Flush and pour flush - to piped sewer system,0.02,Demographic and Health Survey - DHS08
+Ghana,GH,GHA,288,National,2,Flush and pour flush - to septic tank,0.097,Demographic and Health Survey - DHS08
+Ghana,GH,GHA,288,National,3,Flush and pour flush - to pit,0.023,Demographic and Health Survey - DHS08
+Ghana,GH,GHA,288,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS08
+Ghana,GH,GHA,288,National,5,Flush and pour flush - to elsewhere,0.001,Demographic and Health Survey - DHS08
+Ghana,GH,GHA,288,National,6,Dry latrines - Ventilated Improved Pit latrine,0.371,Demographic and Health Survey - DHS08
+Ghana,GH,GHA,288,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.151,Demographic and Health Survey - DHS08
+Ghana,GH,GHA,288,National,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS08
+Ghana,GH,GHA,288,National,9,Dry latrines - Pit latrine without slab/open pit,0.094,Demographic and Health Survey - DHS08
+Ghana,GH,GHA,288,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS08
+Ghana,GH,GHA,288,National,11,Dry latrines - Bucket latrine,0.009,Demographic and Health Survey - DHS08
+Ghana,GH,GHA,288,National,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS08
+Ghana,GH,GHA,288,National,13,Composting toilets,0.002,Demographic and Health Survey - DHS08
+Ghana,GH,GHA,288,National,14,Other improved,0.0,Demographic and Health Survey - DHS08
+Ghana,GH,GHA,288,National,15,"No facility, bush, field",0.231,Demographic and Health Survey - DHS08
+Ghana,GH,GHA,288,National,16,Other unimproved,0.0,Demographic and Health Survey - DHS08
+Ghana,GH,GHA,288,National,17,DK/missing information,0.001,Demographic and Health Survey - DHS08
 Ghana,GH,GHA,288,Urban,1,Flush and pour flush - to piped sewer system,0.039,Study on Global Ageing and Adult Health - SAGE08
 Ghana,GH,GHA,288,Urban,2,Flush and pour flush - to septic tank,0.211,Study on Global Ageing and Adult Health - SAGE08
 Ghana,GH,GHA,288,Urban,3,Flush and pour flush - to pit,0.01,Study on Global Ageing and Adult Health - SAGE08
@@ -147,6 +453,23 @@ Ghana,GH,GHA,288,Rural,14,Other improved,0.0,Study on Global Ageing and Adult He
 Ghana,GH,GHA,288,Rural,15,"No facility, bush, field",0.264,Study on Global Ageing and Adult Health - SAGE08
 Ghana,GH,GHA,288,Rural,16,Other unimproved,0.005,Study on Global Ageing and Adult Health - SAGE08
 Ghana,GH,GHA,288,Rural,17,DK/missing information,0.0,Study on Global Ageing and Adult Health - SAGE08
+Ghana,GH,GHA,288,National,1,Flush and pour flush - to piped sewer system,0.0,Study on Global Ageing and Adult Health - SAGE08
+Ghana,GH,GHA,288,National,2,Flush and pour flush - to septic tank,0.0,Study on Global Ageing and Adult Health - SAGE08
+Ghana,GH,GHA,288,National,3,Flush and pour flush - to pit,0.0,Study on Global Ageing and Adult Health - SAGE08
+Ghana,GH,GHA,288,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Study on Global Ageing and Adult Health - SAGE08
+Ghana,GH,GHA,288,National,5,Flush and pour flush - to elsewhere,0.0,Study on Global Ageing and Adult Health - SAGE08
+Ghana,GH,GHA,288,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Study on Global Ageing and Adult Health - SAGE08
+Ghana,GH,GHA,288,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Study on Global Ageing and Adult Health - SAGE08
+Ghana,GH,GHA,288,National,8,Dry latrines - Traditional latrine,0.0,Study on Global Ageing and Adult Health - SAGE08
+Ghana,GH,GHA,288,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Study on Global Ageing and Adult Health - SAGE08
+Ghana,GH,GHA,288,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Study on Global Ageing and Adult Health - SAGE08
+Ghana,GH,GHA,288,National,11,Dry latrines - Bucket latrine,0.0,Study on Global Ageing and Adult Health - SAGE08
+Ghana,GH,GHA,288,National,12,Dry latrines - Other,0.0,Study on Global Ageing and Adult Health - SAGE08
+Ghana,GH,GHA,288,National,13,Composting toilets,0.0,Study on Global Ageing and Adult Health - SAGE08
+Ghana,GH,GHA,288,National,14,Other improved,0.0,Study on Global Ageing and Adult Health - SAGE08
+Ghana,GH,GHA,288,National,15,"No facility, bush, field",0.0,Study on Global Ageing and Adult Health - SAGE08
+Ghana,GH,GHA,288,National,16,Other unimproved,0.0,Study on Global Ageing and Adult Health - SAGE08
+Ghana,GH,GHA,288,National,17,DK/missing information,0.0,Study on Global Ageing and Adult Health - SAGE08
 Ghana,GH,GHA,288,Urban,1,Flush and pour flush - to piped sewer system,0.036,Measure DHS - Multiple Indicator Cluster Survey with an enhanced Malaria Module and Biomarker - MICS-DHS11
 Ghana,GH,GHA,288,Urban,2,Flush and pour flush - to septic tank,0.228,Measure DHS - Multiple Indicator Cluster Survey with an enhanced Malaria Module and Biomarker - MICS-DHS11
 Ghana,GH,GHA,288,Urban,3,Flush and pour flush - to pit,0.023,Measure DHS - Multiple Indicator Cluster Survey with an enhanced Malaria Module and Biomarker - MICS-DHS11
@@ -181,6 +504,23 @@ Ghana,GH,GHA,288,Rural,14,Other improved,0.0,Measure DHS - Multiple Indicator Cl
 Ghana,GH,GHA,288,Rural,15,"No facility, bush, field",0.352,Measure DHS - Multiple Indicator Cluster Survey with an enhanced Malaria Module and Biomarker - MICS-DHS11
 Ghana,GH,GHA,288,Rural,16,Other unimproved,0.0,Measure DHS - Multiple Indicator Cluster Survey with an enhanced Malaria Module and Biomarker - MICS-DHS11
 Ghana,GH,GHA,288,Rural,17,DK/missing information,0.0,Measure DHS - Multiple Indicator Cluster Survey with an enhanced Malaria Module and Biomarker - MICS-DHS11
+Ghana,GH,GHA,288,National,1,Flush and pour flush - to piped sewer system,0.019,Measure DHS - Multiple Indicator Cluster Survey with an enhanced Malaria Module and Biomarker - MICS-DHS11
+Ghana,GH,GHA,288,National,2,Flush and pour flush - to septic tank,0.116,Measure DHS - Multiple Indicator Cluster Survey with an enhanced Malaria Module and Biomarker - MICS-DHS11
+Ghana,GH,GHA,288,National,3,Flush and pour flush - to pit,0.014,Measure DHS - Multiple Indicator Cluster Survey with an enhanced Malaria Module and Biomarker - MICS-DHS11
+Ghana,GH,GHA,288,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.002,Measure DHS - Multiple Indicator Cluster Survey with an enhanced Malaria Module and Biomarker - MICS-DHS11
+Ghana,GH,GHA,288,National,5,Flush and pour flush - to elsewhere,0.0,Measure DHS - Multiple Indicator Cluster Survey with an enhanced Malaria Module and Biomarker - MICS-DHS11
+Ghana,GH,GHA,288,National,6,Dry latrines - Ventilated Improved Pit latrine,0.304,Measure DHS - Multiple Indicator Cluster Survey with an enhanced Malaria Module and Biomarker - MICS-DHS11
+Ghana,GH,GHA,288,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.153,Measure DHS - Multiple Indicator Cluster Survey with an enhanced Malaria Module and Biomarker - MICS-DHS11
+Ghana,GH,GHA,288,National,8,Dry latrines - Traditional latrine,0.0,Measure DHS - Multiple Indicator Cluster Survey with an enhanced Malaria Module and Biomarker - MICS-DHS11
+Ghana,GH,GHA,288,National,9,Dry latrines - Pit latrine without slab/open pit,0.157,Measure DHS - Multiple Indicator Cluster Survey with an enhanced Malaria Module and Biomarker - MICS-DHS11
+Ghana,GH,GHA,288,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Measure DHS - Multiple Indicator Cluster Survey with an enhanced Malaria Module and Biomarker - MICS-DHS11
+Ghana,GH,GHA,288,National,11,Dry latrines - Bucket latrine,0.004,Measure DHS - Multiple Indicator Cluster Survey with an enhanced Malaria Module and Biomarker - MICS-DHS11
+Ghana,GH,GHA,288,National,12,Dry latrines - Other,0.0,Measure DHS - Multiple Indicator Cluster Survey with an enhanced Malaria Module and Biomarker - MICS-DHS11
+Ghana,GH,GHA,288,National,13,Composting toilets,0.0,Measure DHS - Multiple Indicator Cluster Survey with an enhanced Malaria Module and Biomarker - MICS-DHS11
+Ghana,GH,GHA,288,National,14,Other improved,0.0,Measure DHS - Multiple Indicator Cluster Survey with an enhanced Malaria Module and Biomarker - MICS-DHS11
+Ghana,GH,GHA,288,National,15,"No facility, bush, field",0.229,Measure DHS - Multiple Indicator Cluster Survey with an enhanced Malaria Module and Biomarker - MICS-DHS11
+Ghana,GH,GHA,288,National,16,Other unimproved,0.0,Measure DHS - Multiple Indicator Cluster Survey with an enhanced Malaria Module and Biomarker - MICS-DHS11
+Ghana,GH,GHA,288,National,17,DK/missing information,0.0,Measure DHS - Multiple Indicator Cluster Survey with an enhanced Malaria Module and Biomarker - MICS-DHS11
 Ghana,GH,GHA,288,Urban,1,Flush and pour flush - to piped sewer system,0.13,"Demographic and Health Survey, 2014 - DHS14"
 Ghana,GH,GHA,288,Urban,2,Flush and pour flush - to septic tank,0.21,"Demographic and Health Survey, 2014 - DHS14"
 Ghana,GH,GHA,288,Urban,3,Flush and pour flush - to pit,0.048,"Demographic and Health Survey, 2014 - DHS14"
@@ -215,6 +555,23 @@ Ghana,GH,GHA,288,Rural,14,Other improved,0.0,"Demographic and Health Survey, 201
 Ghana,GH,GHA,288,Rural,15,"No facility, bush, field",0.34,"Demographic and Health Survey, 2014 - DHS14"
 Ghana,GH,GHA,288,Rural,16,Other unimproved,0.0,"Demographic and Health Survey, 2014 - DHS14"
 Ghana,GH,GHA,288,Rural,17,DK/missing information,0.0,"Demographic and Health Survey, 2014 - DHS14"
+Ghana,GH,GHA,288,National,1,Flush and pour flush - to piped sewer system,0.069,"Demographic and Health Survey, 2014 - DHS14"
+Ghana,GH,GHA,288,National,2,Flush and pour flush - to septic tank,0.117,"Demographic and Health Survey, 2014 - DHS14"
+Ghana,GH,GHA,288,National,3,Flush and pour flush - to pit,0.028,"Demographic and Health Survey, 2014 - DHS14"
+Ghana,GH,GHA,288,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.003,"Demographic and Health Survey, 2014 - DHS14"
+Ghana,GH,GHA,288,National,5,Flush and pour flush - to elsewhere,0.004,"Demographic and Health Survey, 2014 - DHS14"
+Ghana,GH,GHA,288,National,6,Dry latrines - Ventilated Improved Pit latrine,0.318,"Demographic and Health Survey, 2014 - DHS14"
+Ghana,GH,GHA,288,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.165,"Demographic and Health Survey, 2014 - DHS14"
+Ghana,GH,GHA,288,National,8,Dry latrines - Traditional latrine,0.0,"Demographic and Health Survey, 2014 - DHS14"
+Ghana,GH,GHA,288,National,9,Dry latrines - Pit latrine without slab/open pit,0.081,"Demographic and Health Survey, 2014 - DHS14"
+Ghana,GH,GHA,288,National,10,Dry latrines - Hanging toilet/hanging latrine,0.003,"Demographic and Health Survey, 2014 - DHS14"
+Ghana,GH,GHA,288,National,11,Dry latrines - Bucket latrine,0.002,"Demographic and Health Survey, 2014 - DHS14"
+Ghana,GH,GHA,288,National,12,Dry latrines - Other,0.0,"Demographic and Health Survey, 2014 - DHS14"
+Ghana,GH,GHA,288,National,13,Composting toilets,0.0,"Demographic and Health Survey, 2014 - DHS14"
+Ghana,GH,GHA,288,National,14,Other improved,0.0,"Demographic and Health Survey, 2014 - DHS14"
+Ghana,GH,GHA,288,National,15,"No facility, bush, field",0.21,"Demographic and Health Survey, 2014 - DHS14"
+Ghana,GH,GHA,288,National,16,Other unimproved,0.001,"Demographic and Health Survey, 2014 - DHS14"
+Ghana,GH,GHA,288,National,17,DK/missing information,0.0,"Demographic and Health Survey, 2014 - DHS14"
 Ghana,GH,GHA,288,Urban,1,Flush and pour flush - to piped sewer system,0.172,Performance Monitoring and Accountability - PMA14
 Ghana,GH,GHA,288,Urban,2,Flush and pour flush - to septic tank,0.0,Performance Monitoring and Accountability - PMA14
 Ghana,GH,GHA,288,Urban,3,Flush and pour flush - to pit,0.0,Performance Monitoring and Accountability - PMA14
@@ -249,6 +606,23 @@ Ghana,GH,GHA,288,Rural,14,Other improved,0.0,Performance Monitoring and Accounta
 Ghana,GH,GHA,288,Rural,15,"No facility, bush, field",0.247,Performance Monitoring and Accountability - PMA14
 Ghana,GH,GHA,288,Rural,16,Other unimproved,0.043,Performance Monitoring and Accountability - PMA14
 Ghana,GH,GHA,288,Rural,17,DK/missing information,0.0,Performance Monitoring and Accountability - PMA14
+Ghana,GH,GHA,288,National,1,Flush and pour flush - to piped sewer system,0.077,Performance Monitoring and Accountability - PMA14
+Ghana,GH,GHA,288,National,2,Flush and pour flush - to septic tank,0.0,Performance Monitoring and Accountability - PMA14
+Ghana,GH,GHA,288,National,3,Flush and pour flush - to pit,0.0,Performance Monitoring and Accountability - PMA14
+Ghana,GH,GHA,288,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Performance Monitoring and Accountability - PMA14
+Ghana,GH,GHA,288,National,5,Flush and pour flush - to elsewhere,0.0,Performance Monitoring and Accountability - PMA14
+Ghana,GH,GHA,288,National,6,Dry latrines - Ventilated Improved Pit latrine,0.308,Performance Monitoring and Accountability - PMA14
+Ghana,GH,GHA,288,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.165,Performance Monitoring and Accountability - PMA14
+Ghana,GH,GHA,288,National,8,Dry latrines - Traditional latrine,0.0,Performance Monitoring and Accountability - PMA14
+Ghana,GH,GHA,288,National,9,Dry latrines - Pit latrine without slab/open pit,0.137,Performance Monitoring and Accountability - PMA14
+Ghana,GH,GHA,288,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Performance Monitoring and Accountability - PMA14
+Ghana,GH,GHA,288,National,11,Dry latrines - Bucket latrine,0.0,Performance Monitoring and Accountability - PMA14
+Ghana,GH,GHA,288,National,12,Dry latrines - Other,0.0,Performance Monitoring and Accountability - PMA14
+Ghana,GH,GHA,288,National,13,Composting toilets,0.018,Performance Monitoring and Accountability - PMA14
+Ghana,GH,GHA,288,National,14,Other improved,0.0,Performance Monitoring and Accountability - PMA14
+Ghana,GH,GHA,288,National,15,"No facility, bush, field",0.191,Performance Monitoring and Accountability - PMA14
+Ghana,GH,GHA,288,National,16,Other unimproved,0.026,Performance Monitoring and Accountability - PMA14
+Ghana,GH,GHA,288,National,17,DK/missing information,0.0,Performance Monitoring and Accountability - PMA14
 Ghana,GH,GHA,288,Urban,1,Flush and pour flush - to piped sewer system,0.009,Malaria Indicator Survey - MIS16
 Ghana,GH,GHA,288,Urban,2,Flush and pour flush - to septic tank,0.331,Malaria Indicator Survey - MIS16
 Ghana,GH,GHA,288,Urban,3,Flush and pour flush - to pit,0.048,Malaria Indicator Survey - MIS16
@@ -283,6 +657,23 @@ Ghana,GH,GHA,288,Rural,14,Other improved,0.0,Malaria Indicator Survey - MIS16
 Ghana,GH,GHA,288,Rural,15,"No facility, bush, field",0.299,Malaria Indicator Survey - MIS16
 Ghana,GH,GHA,288,Rural,16,Other unimproved,0.0,Malaria Indicator Survey - MIS16
 Ghana,GH,GHA,288,Rural,17,DK/missing information,0.0,Malaria Indicator Survey - MIS16
+Ghana,GH,GHA,288,National,1,Flush and pour flush - to piped sewer system,0.005,Malaria Indicator Survey - MIS16
+Ghana,GH,GHA,288,National,2,Flush and pour flush - to septic tank,0.186,Malaria Indicator Survey - MIS16
+Ghana,GH,GHA,288,National,3,Flush and pour flush - to pit,0.033,Malaria Indicator Survey - MIS16
+Ghana,GH,GHA,288,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.001,Malaria Indicator Survey - MIS16
+Ghana,GH,GHA,288,National,5,Flush and pour flush - to elsewhere,0.001,Malaria Indicator Survey - MIS16
+Ghana,GH,GHA,288,National,6,Dry latrines - Ventilated Improved Pit latrine,0.251,Malaria Indicator Survey - MIS16
+Ghana,GH,GHA,288,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.215,Malaria Indicator Survey - MIS16
+Ghana,GH,GHA,288,National,8,Dry latrines - Traditional latrine,0.0,Malaria Indicator Survey - MIS16
+Ghana,GH,GHA,288,National,9,Dry latrines - Pit latrine without slab/open pit,0.117,Malaria Indicator Survey - MIS16
+Ghana,GH,GHA,288,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Malaria Indicator Survey - MIS16
+Ghana,GH,GHA,288,National,11,Dry latrines - Bucket latrine,0.001,Malaria Indicator Survey - MIS16
+Ghana,GH,GHA,288,National,12,Dry latrines - Other,0.0,Malaria Indicator Survey - MIS16
+Ghana,GH,GHA,288,National,13,Composting toilets,0.0,Malaria Indicator Survey - MIS16
+Ghana,GH,GHA,288,National,14,Other improved,0.0,Malaria Indicator Survey - MIS16
+Ghana,GH,GHA,288,National,15,"No facility, bush, field",0.187,Malaria Indicator Survey - MIS16
+Ghana,GH,GHA,288,National,16,Other unimproved,0.0,Malaria Indicator Survey - MIS16
+Ghana,GH,GHA,288,National,17,DK/missing information,0.0,Malaria Indicator Survey - MIS16
 Ghana,GH,GHA,288,Urban,1,Flush and pour flush - to piped sewer system,0.078,Performance Monitoring and Accountability - PMA16
 Ghana,GH,GHA,288,Urban,2,Flush and pour flush - to septic tank,0.327,Performance Monitoring and Accountability - PMA16
 Ghana,GH,GHA,288,Urban,3,Flush and pour flush - to pit,0.03,Performance Monitoring and Accountability - PMA16
@@ -317,6 +708,23 @@ Ghana,GH,GHA,288,Rural,14,Other improved,0.0,Performance Monitoring and Accounta
 Ghana,GH,GHA,288,Rural,15,"No facility, bush, field",0.338,Performance Monitoring and Accountability - PMA16
 Ghana,GH,GHA,288,Rural,16,Other unimproved,0.01,Performance Monitoring and Accountability - PMA16
 Ghana,GH,GHA,288,Rural,17,DK/missing information,0.0,Performance Monitoring and Accountability - PMA16
+Ghana,GH,GHA,288,National,1,Flush and pour flush - to piped sewer system,0.043,Performance Monitoring and Accountability - PMA16
+Ghana,GH,GHA,288,National,2,Flush and pour flush - to septic tank,0.164,Performance Monitoring and Accountability - PMA16
+Ghana,GH,GHA,288,National,3,Flush and pour flush - to pit,0.025,Performance Monitoring and Accountability - PMA16
+Ghana,GH,GHA,288,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.003,Performance Monitoring and Accountability - PMA16
+Ghana,GH,GHA,288,National,5,Flush and pour flush - to elsewhere,0.029,Performance Monitoring and Accountability - PMA16
+Ghana,GH,GHA,288,National,6,Dry latrines - Ventilated Improved Pit latrine,0.229,Performance Monitoring and Accountability - PMA16
+Ghana,GH,GHA,288,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.199,Performance Monitoring and Accountability - PMA16
+Ghana,GH,GHA,288,National,8,Dry latrines - Traditional latrine,0.0,Performance Monitoring and Accountability - PMA16
+Ghana,GH,GHA,288,National,9,Dry latrines - Pit latrine without slab/open pit,0.073,Performance Monitoring and Accountability - PMA16
+Ghana,GH,GHA,288,National,10,Dry latrines - Hanging toilet/hanging latrine,0.015,Performance Monitoring and Accountability - PMA16
+Ghana,GH,GHA,288,National,11,Dry latrines - Bucket latrine,0.0,Performance Monitoring and Accountability - PMA16
+Ghana,GH,GHA,288,National,12,Dry latrines - Other,0.0,Performance Monitoring and Accountability - PMA16
+Ghana,GH,GHA,288,National,13,Composting toilets,0.013,Performance Monitoring and Accountability - PMA16
+Ghana,GH,GHA,288,National,14,Other improved,0.0,Performance Monitoring and Accountability - PMA16
+Ghana,GH,GHA,288,National,15,"No facility, bush, field",0.2,Performance Monitoring and Accountability - PMA16
+Ghana,GH,GHA,288,National,16,Other unimproved,0.005,Performance Monitoring and Accountability - PMA16
+Ghana,GH,GHA,288,National,17,DK/missing information,0.001,Performance Monitoring and Accountability - PMA16
 Ghana,GH,GHA,288,Urban,1,Flush and pour flush - to piped sewer system,0.01,Maternal Health Survey - MHS17
 Ghana,GH,GHA,288,Urban,2,Flush and pour flush - to septic tank,0.372,Maternal Health Survey - MHS17
 Ghana,GH,GHA,288,Urban,3,Flush and pour flush - to pit,0.02,Maternal Health Survey - MHS17
@@ -351,6 +759,23 @@ Ghana,GH,GHA,288,Rural,14,Other improved,0.0,Maternal Health Survey - MHS17
 Ghana,GH,GHA,288,Rural,15,"No facility, bush, field",0.293,Maternal Health Survey - MHS17
 Ghana,GH,GHA,288,Rural,16,Other unimproved,0.001,Maternal Health Survey - MHS17
 Ghana,GH,GHA,288,Rural,17,DK/missing information,0.0,Maternal Health Survey - MHS17
+Ghana,GH,GHA,288,National,1,Flush and pour flush - to piped sewer system,0.006,Maternal Health Survey - MHS17
+Ghana,GH,GHA,288,National,2,Flush and pour flush - to septic tank,0.212,Maternal Health Survey - MHS17
+Ghana,GH,GHA,288,National,3,Flush and pour flush - to pit,0.014,Maternal Health Survey - MHS17
+Ghana,GH,GHA,288,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.001,Maternal Health Survey - MHS17
+Ghana,GH,GHA,288,National,5,Flush and pour flush - to elsewhere,0.001,Maternal Health Survey - MHS17
+Ghana,GH,GHA,288,National,6,Dry latrines - Ventilated Improved Pit latrine,0.252,Maternal Health Survey - MHS17
+Ghana,GH,GHA,288,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.169,Maternal Health Survey - MHS17
+Ghana,GH,GHA,288,National,8,Dry latrines - Traditional latrine,0.0,Maternal Health Survey - MHS17
+Ghana,GH,GHA,288,National,9,Dry latrines - Pit latrine without slab/open pit,0.152,Maternal Health Survey - MHS17
+Ghana,GH,GHA,288,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Maternal Health Survey - MHS17
+Ghana,GH,GHA,288,National,11,Dry latrines - Bucket latrine,0.002,Maternal Health Survey - MHS17
+Ghana,GH,GHA,288,National,12,Dry latrines - Other,0.0,Maternal Health Survey - MHS17
+Ghana,GH,GHA,288,National,13,Composting toilets,0.002,Maternal Health Survey - MHS17
+Ghana,GH,GHA,288,National,14,Other improved,0.0,Maternal Health Survey - MHS17
+Ghana,GH,GHA,288,National,15,"No facility, bush, field",0.187,Maternal Health Survey - MHS17
+Ghana,GH,GHA,288,National,16,Other unimproved,0.004,Maternal Health Survey - MHS17
+Ghana,GH,GHA,288,National,17,DK/missing information,0.0,Maternal Health Survey - MHS17
 Ghana,GH,GHA,288,Urban,1,Flush and pour flush - to piped sewer system,0.062,Ghana Micronutrients Survey - GMS17
 Ghana,GH,GHA,288,Urban,2,Flush and pour flush - to septic tank,0.191,Ghana Micronutrients Survey - GMS17
 Ghana,GH,GHA,288,Urban,3,Flush and pour flush - to pit,0.021,Ghana Micronutrients Survey - GMS17
@@ -385,3 +810,176 @@ Ghana,GH,GHA,288,Rural,14,Other improved,0.0,Ghana Micronutrients Survey - GMS17
 Ghana,GH,GHA,288,Rural,15,"No facility, bush, field",0.348,Ghana Micronutrients Survey - GMS17
 Ghana,GH,GHA,288,Rural,16,Other unimproved,0.005,Ghana Micronutrients Survey - GMS17
 Ghana,GH,GHA,288,Rural,17,DK/missing information,0.0,Ghana Micronutrients Survey - GMS17
+Ghana,GH,GHA,288,National,1,Flush and pour flush - to piped sewer system,0.033,Ghana Micronutrients Survey - GMS17
+Ghana,GH,GHA,288,National,2,Flush and pour flush - to septic tank,0.09,Ghana Micronutrients Survey - GMS17
+Ghana,GH,GHA,288,National,3,Flush and pour flush - to pit,0.01,Ghana Micronutrients Survey - GMS17
+Ghana,GH,GHA,288,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Ghana Micronutrients Survey - GMS17
+Ghana,GH,GHA,288,National,5,Flush and pour flush - to elsewhere,0.002,Ghana Micronutrients Survey - GMS17
+Ghana,GH,GHA,288,National,6,Dry latrines - Ventilated Improved Pit latrine,0.219,Ghana Micronutrients Survey - GMS17
+Ghana,GH,GHA,288,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.158,Ghana Micronutrients Survey - GMS17
+Ghana,GH,GHA,288,National,8,Dry latrines - Traditional latrine,0.0,Ghana Micronutrients Survey - GMS17
+Ghana,GH,GHA,288,National,9,Dry latrines - Pit latrine without slab/open pit,0.256,Ghana Micronutrients Survey - GMS17
+Ghana,GH,GHA,288,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Ghana Micronutrients Survey - GMS17
+Ghana,GH,GHA,288,National,11,Dry latrines - Bucket latrine,0.001,Ghana Micronutrients Survey - GMS17
+Ghana,GH,GHA,288,National,12,Dry latrines - Other,0.0,Ghana Micronutrients Survey - GMS17
+Ghana,GH,GHA,288,National,13,Composting toilets,0.0,Ghana Micronutrients Survey - GMS17
+Ghana,GH,GHA,288,National,14,Other improved,0.0,Ghana Micronutrients Survey - GMS17
+Ghana,GH,GHA,288,National,15,"No facility, bush, field",0.228,Ghana Micronutrients Survey - GMS17
+Ghana,GH,GHA,288,National,16,Other unimproved,0.003,Ghana Micronutrients Survey - GMS17
+Ghana,GH,GHA,288,National,17,DK/missing information,0.0,Ghana Micronutrients Survey - GMS17
+Ghana,GH,GHA,288,Urban,1,Flush and pour flush - to piped sewer system,0.0,"Ghana Living Standards Survey, 2013 - GLSS13"
+Ghana,GH,GHA,288,Urban,2,Flush and pour flush - to septic tank,0.0,"Ghana Living Standards Survey, 2013 - GLSS13"
+Ghana,GH,GHA,288,Urban,3,Flush and pour flush - to pit,0.0,"Ghana Living Standards Survey, 2013 - GLSS13"
+Ghana,GH,GHA,288,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Ghana Living Standards Survey, 2013 - GLSS13"
+Ghana,GH,GHA,288,Urban,5,Flush and pour flush - to elsewhere,0.0,"Ghana Living Standards Survey, 2013 - GLSS13"
+Ghana,GH,GHA,288,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.153,"Ghana Living Standards Survey, 2013 - GLSS13"
+Ghana,GH,GHA,288,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Ghana Living Standards Survey, 2013 - GLSS13"
+Ghana,GH,GHA,288,Urban,8,Dry latrines - Traditional latrine,0.15,"Ghana Living Standards Survey, 2013 - GLSS13"
+Ghana,GH,GHA,288,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Ghana Living Standards Survey, 2013 - GLSS13"
+Ghana,GH,GHA,288,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Ghana Living Standards Survey, 2013 - GLSS13"
+Ghana,GH,GHA,288,Urban,11,Dry latrines - Bucket latrine,0.003,"Ghana Living Standards Survey, 2013 - GLSS13"
+Ghana,GH,GHA,288,Urban,12,Dry latrines - Other,0.0,"Ghana Living Standards Survey, 2013 - GLSS13"
+Ghana,GH,GHA,288,Urban,13,Composting toilets,0.0,"Ghana Living Standards Survey, 2013 - GLSS13"
+Ghana,GH,GHA,288,Urban,14,Other improved,0.0,"Ghana Living Standards Survey, 2013 - GLSS13"
+Ghana,GH,GHA,288,Urban,15,"No facility, bush, field",0.074,"Ghana Living Standards Survey, 2013 - GLSS13"
+Ghana,GH,GHA,288,Urban,16,Other unimproved,0.387,"Ghana Living Standards Survey, 2013 - GLSS13"
+Ghana,GH,GHA,288,Urban,17,DK/missing information,0.0,"Ghana Living Standards Survey, 2013 - GLSS13"
+Ghana,GH,GHA,288,Rural,1,Flush and pour flush - to piped sewer system,0.0,"Ghana Living Standards Survey, 2013 - GLSS13"
+Ghana,GH,GHA,288,Rural,2,Flush and pour flush - to septic tank,0.0,"Ghana Living Standards Survey, 2013 - GLSS13"
+Ghana,GH,GHA,288,Rural,3,Flush and pour flush - to pit,0.0,"Ghana Living Standards Survey, 2013 - GLSS13"
+Ghana,GH,GHA,288,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Ghana Living Standards Survey, 2013 - GLSS13"
+Ghana,GH,GHA,288,Rural,5,Flush and pour flush - to elsewhere,0.0,"Ghana Living Standards Survey, 2013 - GLSS13"
+Ghana,GH,GHA,288,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.082,"Ghana Living Standards Survey, 2013 - GLSS13"
+Ghana,GH,GHA,288,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Ghana Living Standards Survey, 2013 - GLSS13"
+Ghana,GH,GHA,288,Rural,8,Dry latrines - Traditional latrine,0.242,"Ghana Living Standards Survey, 2013 - GLSS13"
+Ghana,GH,GHA,288,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Ghana Living Standards Survey, 2013 - GLSS13"
+Ghana,GH,GHA,288,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Ghana Living Standards Survey, 2013 - GLSS13"
+Ghana,GH,GHA,288,Rural,11,Dry latrines - Bucket latrine,0.001,"Ghana Living Standards Survey, 2013 - GLSS13"
+Ghana,GH,GHA,288,Rural,12,Dry latrines - Other,0.0,"Ghana Living Standards Survey, 2013 - GLSS13"
+Ghana,GH,GHA,288,Rural,13,Composting toilets,0.0,"Ghana Living Standards Survey, 2013 - GLSS13"
+Ghana,GH,GHA,288,Rural,14,Other improved,0.0,"Ghana Living Standards Survey, 2013 - GLSS13"
+Ghana,GH,GHA,288,Rural,15,"No facility, bush, field",0.329,"Ghana Living Standards Survey, 2013 - GLSS13"
+Ghana,GH,GHA,288,Rural,16,Other unimproved,0.321,"Ghana Living Standards Survey, 2013 - GLSS13"
+Ghana,GH,GHA,288,Rural,17,DK/missing information,0.0,"Ghana Living Standards Survey, 2013 - GLSS13"
+Ghana,GH,GHA,288,National,1,Flush and pour flush - to piped sewer system,0.0,"Ghana Living Standards Survey, 2013 - GLSS13"
+Ghana,GH,GHA,288,National,2,Flush and pour flush - to septic tank,0.0,"Ghana Living Standards Survey, 2013 - GLSS13"
+Ghana,GH,GHA,288,National,3,Flush and pour flush - to pit,0.0,"Ghana Living Standards Survey, 2013 - GLSS13"
+Ghana,GH,GHA,288,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Ghana Living Standards Survey, 2013 - GLSS13"
+Ghana,GH,GHA,288,National,5,Flush and pour flush - to elsewhere,0.0,"Ghana Living Standards Survey, 2013 - GLSS13"
+Ghana,GH,GHA,288,National,6,Dry latrines - Ventilated Improved Pit latrine,0.121,"Ghana Living Standards Survey, 2013 - GLSS13"
+Ghana,GH,GHA,288,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Ghana Living Standards Survey, 2013 - GLSS13"
+Ghana,GH,GHA,288,National,8,Dry latrines - Traditional latrine,0.191,"Ghana Living Standards Survey, 2013 - GLSS13"
+Ghana,GH,GHA,288,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Ghana Living Standards Survey, 2013 - GLSS13"
+Ghana,GH,GHA,288,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Ghana Living Standards Survey, 2013 - GLSS13"
+Ghana,GH,GHA,288,National,11,Dry latrines - Bucket latrine,0.002,"Ghana Living Standards Survey, 2013 - GLSS13"
+Ghana,GH,GHA,288,National,12,Dry latrines - Other,0.0,"Ghana Living Standards Survey, 2013 - GLSS13"
+Ghana,GH,GHA,288,National,13,Composting toilets,0.0,"Ghana Living Standards Survey, 2013 - GLSS13"
+Ghana,GH,GHA,288,National,14,Other improved,0.0,"Ghana Living Standards Survey, 2013 - GLSS13"
+Ghana,GH,GHA,288,National,15,"No facility, bush, field",0.188,"Ghana Living Standards Survey, 2013 - GLSS13"
+Ghana,GH,GHA,288,National,16,Other unimproved,0.357,"Ghana Living Standards Survey, 2013 - GLSS13"
+Ghana,GH,GHA,288,National,17,DK/missing information,0.0,"Ghana Living Standards Survey, 2013 - GLSS13"
+Ghana,GH,GHA,288,Urban,1,Flush and pour flush - to piped sewer system,0.0,Census - CEN10
+Ghana,GH,GHA,288,Urban,2,Flush and pour flush - to septic tank,0.0,Census - CEN10
+Ghana,GH,GHA,288,Urban,3,Flush and pour flush - to pit,0.131,Census - CEN10
+Ghana,GH,GHA,288,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN10
+Ghana,GH,GHA,288,Urban,5,Flush and pour flush - to elsewhere,0.0,Census - CEN10
+Ghana,GH,GHA,288,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.122,Census - CEN10
+Ghana,GH,GHA,288,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN10
+Ghana,GH,GHA,288,Urban,8,Dry latrines - Traditional latrine,0.0,Census - CEN10
+Ghana,GH,GHA,288,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN10
+Ghana,GH,GHA,288,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN10
+Ghana,GH,GHA,288,Urban,11,Dry latrines - Bucket latrine,0.011,Census - CEN10
+Ghana,GH,GHA,288,Urban,12,Dry latrines - Other,0.362,Census - CEN10
+Ghana,GH,GHA,288,Urban,12,Dry latrines - Other,0.362,Census - CEN10
+Ghana,GH,GHA,288,Urban,13,Composting toilets,0.0,Census - CEN10
+Ghana,GH,GHA,288,Urban,14,Other improved,0.0,Census - CEN10
+Ghana,GH,GHA,288,Urban,15,"No facility, bush, field",0.105,Census - CEN10
+Ghana,GH,GHA,288,Urban,16,Other unimproved,0.004,Census - CEN10
+Ghana,GH,GHA,288,Urban,17,DK/missing information,0.031,Census - CEN10
+Ghana,GH,GHA,288,Rural,1,Flush and pour flush - to piped sewer system,0.0,Census - CEN10
+Ghana,GH,GHA,288,Rural,2,Flush and pour flush - to septic tank,0.0,Census - CEN10
+Ghana,GH,GHA,288,Rural,3,Flush and pour flush - to pit,0.255,Census - CEN10
+Ghana,GH,GHA,288,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN10
+Ghana,GH,GHA,288,Rural,5,Flush and pour flush - to elsewhere,0.0,Census - CEN10
+Ghana,GH,GHA,288,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.066,Census - CEN10
+Ghana,GH,GHA,288,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN10
+Ghana,GH,GHA,288,Rural,8,Dry latrines - Traditional latrine,0.0,Census - CEN10
+Ghana,GH,GHA,288,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN10
+Ghana,GH,GHA,288,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN10
+Ghana,GH,GHA,288,Rural,11,Dry latrines - Bucket latrine,0.002,Census - CEN10
+Ghana,GH,GHA,288,Rural,12,Dry latrines - Other,0.256,Census - CEN10
+Ghana,GH,GHA,288,Rural,12,Dry latrines - Other,0.256,Census - CEN10
+Ghana,GH,GHA,288,Rural,13,Composting toilets,0.0,Census - CEN10
+Ghana,GH,GHA,288,Rural,14,Other improved,0.0,Census - CEN10
+Ghana,GH,GHA,288,Rural,15,"No facility, bush, field",0.375,Census - CEN10
+Ghana,GH,GHA,288,Rural,16,Other unimproved,0.004,Census - CEN10
+Ghana,GH,GHA,288,Rural,17,DK/missing information,0.015,Census - CEN10
+Ghana,GH,GHA,288,National,1,Flush and pour flush - to piped sewer system,0.0,Census - CEN10
+Ghana,GH,GHA,288,National,2,Flush and pour flush - to septic tank,0.0,Census - CEN10
+Ghana,GH,GHA,288,National,3,Flush and pour flush - to pit,0.192,Census - CEN10
+Ghana,GH,GHA,288,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN10
+Ghana,GH,GHA,288,National,5,Flush and pour flush - to elsewhere,0.0,Census - CEN10
+Ghana,GH,GHA,288,National,6,Dry latrines - Ventilated Improved Pit latrine,0.094,Census - CEN10
+Ghana,GH,GHA,288,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN10
+Ghana,GH,GHA,288,National,8,Dry latrines - Traditional latrine,0.0,Census - CEN10
+Ghana,GH,GHA,288,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN10
+Ghana,GH,GHA,288,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN10
+Ghana,GH,GHA,288,National,11,Dry latrines - Bucket latrine,0.006,Census - CEN10
+Ghana,GH,GHA,288,National,12,Dry latrines - Other,0.31,Census - CEN10
+Ghana,GH,GHA,288,National,12,Dry latrines - Other,0.31,Census - CEN10
+Ghana,GH,GHA,288,National,13,Composting toilets,0.0,Census - CEN10
+Ghana,GH,GHA,288,National,14,Other improved,0.0,Census - CEN10
+Ghana,GH,GHA,288,National,15,"No facility, bush, field",0.238,Census - CEN10
+Ghana,GH,GHA,288,National,16,Other unimproved,0.004,Census - CEN10
+Ghana,GH,GHA,288,National,17,DK/missing information,0.023,Census - CEN10
+Ghana,GH,GHA,288,Urban,1,Flush and pour flush - to piped sewer system,0.085,Performance Monitoring and Accountability - PMA15
+Ghana,GH,GHA,288,Urban,2,Flush and pour flush - to septic tank,0.0,Performance Monitoring and Accountability - PMA15
+Ghana,GH,GHA,288,Urban,3,Flush and pour flush - to pit,0.0,Performance Monitoring and Accountability - PMA15
+Ghana,GH,GHA,288,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Performance Monitoring and Accountability - PMA15
+Ghana,GH,GHA,288,Urban,5,Flush and pour flush - to elsewhere,0.0,Performance Monitoring and Accountability - PMA15
+Ghana,GH,GHA,288,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.246,Performance Monitoring and Accountability - PMA15
+Ghana,GH,GHA,288,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.188,Performance Monitoring and Accountability - PMA15
+Ghana,GH,GHA,288,Urban,8,Dry latrines - Traditional latrine,0.0,Performance Monitoring and Accountability - PMA15
+Ghana,GH,GHA,288,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.117,Performance Monitoring and Accountability - PMA15
+Ghana,GH,GHA,288,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Performance Monitoring and Accountability - PMA15
+Ghana,GH,GHA,288,Urban,11,Dry latrines - Bucket latrine,0.015,Performance Monitoring and Accountability - PMA15
+Ghana,GH,GHA,288,Urban,12,Dry latrines - Other,0.0,Performance Monitoring and Accountability - PMA15
+Ghana,GH,GHA,288,Urban,13,Composting toilets,0.0,Performance Monitoring and Accountability - PMA15
+Ghana,GH,GHA,288,Urban,14,Other improved,0.0,Performance Monitoring and Accountability - PMA15
+Ghana,GH,GHA,288,Urban,15,"No facility, bush, field",0.184,Performance Monitoring and Accountability - PMA15
+Ghana,GH,GHA,288,Urban,16,Other unimproved,0.0,Performance Monitoring and Accountability - PMA15
+Ghana,GH,GHA,288,Urban,17,DK/missing information,0.0,Performance Monitoring and Accountability - PMA15
+Ghana,GH,GHA,288,Rural,1,Flush and pour flush - to piped sewer system,0.0,Performance Monitoring and Accountability - PMA15
+Ghana,GH,GHA,288,Rural,2,Flush and pour flush - to septic tank,0.0,Performance Monitoring and Accountability - PMA15
+Ghana,GH,GHA,288,Rural,3,Flush and pour flush - to pit,0.0,Performance Monitoring and Accountability - PMA15
+Ghana,GH,GHA,288,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Performance Monitoring and Accountability - PMA15
+Ghana,GH,GHA,288,Rural,5,Flush and pour flush - to elsewhere,0.0,Performance Monitoring and Accountability - PMA15
+Ghana,GH,GHA,288,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.356,Performance Monitoring and Accountability - PMA15
+Ghana,GH,GHA,288,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.139,Performance Monitoring and Accountability - PMA15
+Ghana,GH,GHA,288,Rural,8,Dry latrines - Traditional latrine,0.0,Performance Monitoring and Accountability - PMA15
+Ghana,GH,GHA,288,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.213,Performance Monitoring and Accountability - PMA15
+Ghana,GH,GHA,288,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Performance Monitoring and Accountability - PMA15
+Ghana,GH,GHA,288,Rural,11,Dry latrines - Bucket latrine,0.0,Performance Monitoring and Accountability - PMA15
+Ghana,GH,GHA,288,Rural,12,Dry latrines - Other,0.0,Performance Monitoring and Accountability - PMA15
+Ghana,GH,GHA,288,Rural,13,Composting toilets,0.0,Performance Monitoring and Accountability - PMA15
+Ghana,GH,GHA,288,Rural,14,Other improved,0.0,Performance Monitoring and Accountability - PMA15
+Ghana,GH,GHA,288,Rural,15,"No facility, bush, field",0.279,Performance Monitoring and Accountability - PMA15
+Ghana,GH,GHA,288,Rural,16,Other unimproved,0.0,Performance Monitoring and Accountability - PMA15
+Ghana,GH,GHA,288,Rural,17,DK/missing information,0.0,Performance Monitoring and Accountability - PMA15
+Ghana,GH,GHA,288,National,1,Flush and pour flush - to piped sewer system,0.041,Performance Monitoring and Accountability - PMA15
+Ghana,GH,GHA,288,National,2,Flush and pour flush - to septic tank,0.0,Performance Monitoring and Accountability - PMA15
+Ghana,GH,GHA,288,National,3,Flush and pour flush - to pit,0.0,Performance Monitoring and Accountability - PMA15
+Ghana,GH,GHA,288,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Performance Monitoring and Accountability - PMA15
+Ghana,GH,GHA,288,National,5,Flush and pour flush - to elsewhere,0.0,Performance Monitoring and Accountability - PMA15
+Ghana,GH,GHA,288,National,6,Dry latrines - Ventilated Improved Pit latrine,0.303,Performance Monitoring and Accountability - PMA15
+Ghana,GH,GHA,288,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.163,Performance Monitoring and Accountability - PMA15
+Ghana,GH,GHA,288,National,8,Dry latrines - Traditional latrine,0.0,Performance Monitoring and Accountability - PMA15
+Ghana,GH,GHA,288,National,9,Dry latrines - Pit latrine without slab/open pit,0.166,Performance Monitoring and Accountability - PMA15
+Ghana,GH,GHA,288,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Performance Monitoring and Accountability - PMA15
+Ghana,GH,GHA,288,National,11,Dry latrines - Bucket latrine,0.007,Performance Monitoring and Accountability - PMA15
+Ghana,GH,GHA,288,National,12,Dry latrines - Other,0.0,Performance Monitoring and Accountability - PMA15
+Ghana,GH,GHA,288,National,13,Composting toilets,0.0,Performance Monitoring and Accountability - PMA15
+Ghana,GH,GHA,288,National,14,Other improved,0.0,Performance Monitoring and Accountability - PMA15
+Ghana,GH,GHA,288,National,15,"No facility, bush, field",0.233,Performance Monitoring and Accountability - PMA15
+Ghana,GH,GHA,288,National,16,Other unimproved,0.0,Performance Monitoring and Accountability - PMA15
+Ghana,GH,GHA,288,National,17,DK/missing information,0.0,Performance Monitoring and Accountability - PMA15

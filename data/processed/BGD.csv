@@ -1,4 +1,310 @@
 country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+Bangladesh,BD,BGD,050,Urban,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS00
+Bangladesh,BD,BGD,050,Urban,2,Flush and pour flush - to septic tank,0.351,Demographic and Health Survey - DHS00
+Bangladesh,BD,BGD,050,Urban,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS00
+Bangladesh,BD,BGD,050,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS00
+Bangladesh,BD,BGD,050,Urban,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS00
+Bangladesh,BD,BGD,050,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - DHS00
+Bangladesh,BD,BGD,050,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS00
+Bangladesh,BD,BGD,050,Urban,8,Dry latrines - Traditional latrine,0.108,Demographic and Health Survey - DHS00
+Bangladesh,BD,BGD,050,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.208,Demographic and Health Survey - DHS00
+Bangladesh,BD,BGD,050,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.013,Demographic and Health Survey - DHS00
+Bangladesh,BD,BGD,050,Urban,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS00
+Bangladesh,BD,BGD,050,Urban,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS00
+Bangladesh,BD,BGD,050,Urban,13,Composting toilets,0.0,Demographic and Health Survey - DHS00
+Bangladesh,BD,BGD,050,Urban,14,Other improved,0.0,Demographic and Health Survey - DHS00
+Bangladesh,BD,BGD,050,Urban,15,"No facility, bush, field",0.03,Demographic and Health Survey - DHS00
+Bangladesh,BD,BGD,050,Urban,16,Other unimproved,0.001,Demographic and Health Survey - DHS00
+Bangladesh,BD,BGD,050,Urban,17,DK/missing information,0.003,Demographic and Health Survey - DHS00
+Bangladesh,BD,BGD,050,Rural,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS00
+Bangladesh,BD,BGD,050,Rural,2,Flush and pour flush - to septic tank,0.043,Demographic and Health Survey - DHS00
+Bangladesh,BD,BGD,050,Rural,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS00
+Bangladesh,BD,BGD,050,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS00
+Bangladesh,BD,BGD,050,Rural,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS00
+Bangladesh,BD,BGD,050,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - DHS00
+Bangladesh,BD,BGD,050,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS00
+Bangladesh,BD,BGD,050,Rural,8,Dry latrines - Traditional latrine,0.2,Demographic and Health Survey - DHS00
+Bangladesh,BD,BGD,050,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.23,Demographic and Health Survey - DHS00
+Bangladesh,BD,BGD,050,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.037,Demographic and Health Survey - DHS00
+Bangladesh,BD,BGD,050,Rural,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS00
+Bangladesh,BD,BGD,050,Rural,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS00
+Bangladesh,BD,BGD,050,Rural,13,Composting toilets,0.0,Demographic and Health Survey - DHS00
+Bangladesh,BD,BGD,050,Rural,14,Other improved,0.0,Demographic and Health Survey - DHS00
+Bangladesh,BD,BGD,050,Rural,15,"No facility, bush, field",0.238,Demographic and Health Survey - DHS00
+Bangladesh,BD,BGD,050,Rural,16,Other unimproved,0.001,Demographic and Health Survey - DHS00
+Bangladesh,BD,BGD,050,Rural,17,DK/missing information,0.002,Demographic and Health Survey - DHS00
+Bangladesh,BD,BGD,050,National,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS00
+Bangladesh,BD,BGD,050,National,2,Flush and pour flush - to septic tank,0.101,Demographic and Health Survey - DHS00
+Bangladesh,BD,BGD,050,National,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS00
+Bangladesh,BD,BGD,050,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS00
+Bangladesh,BD,BGD,050,National,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS00
+Bangladesh,BD,BGD,050,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - DHS00
+Bangladesh,BD,BGD,050,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS00
+Bangladesh,BD,BGD,050,National,8,Dry latrines - Traditional latrine,0.183,Demographic and Health Survey - DHS00
+Bangladesh,BD,BGD,050,National,9,Dry latrines - Pit latrine without slab/open pit,0.226,Demographic and Health Survey - DHS00
+Bangladesh,BD,BGD,050,National,10,Dry latrines - Hanging toilet/hanging latrine,0.032,Demographic and Health Survey - DHS00
+Bangladesh,BD,BGD,050,National,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS00
+Bangladesh,BD,BGD,050,National,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS00
+Bangladesh,BD,BGD,050,National,13,Composting toilets,0.0,Demographic and Health Survey - DHS00
+Bangladesh,BD,BGD,050,National,14,Other improved,0.0,Demographic and Health Survey - DHS00
+Bangladesh,BD,BGD,050,National,15,"No facility, bush, field",0.199,Demographic and Health Survey - DHS00
+Bangladesh,BD,BGD,050,National,16,Other unimproved,0.001,Demographic and Health Survey - DHS00
+Bangladesh,BD,BGD,050,National,17,DK/missing information,0.002,Demographic and Health Survey - DHS00
+Bangladesh,BD,BGD,050,Urban,1,Flush and pour flush - to piped sewer system,0.0,Household Income Expenditure Survey  - HIES00
+Bangladesh,BD,BGD,050,Urban,2,Flush and pour flush - to septic tank,0.0,Household Income Expenditure Survey  - HIES00
+Bangladesh,BD,BGD,050,Urban,3,Flush and pour flush - to pit,0.0,Household Income Expenditure Survey  - HIES00
+Bangladesh,BD,BGD,050,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Income Expenditure Survey  - HIES00
+Bangladesh,BD,BGD,050,Urban,5,Flush and pour flush - to elsewhere,0.0,Household Income Expenditure Survey  - HIES00
+Bangladesh,BD,BGD,050,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Income Expenditure Survey  - HIES00
+Bangladesh,BD,BGD,050,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.226,Household Income Expenditure Survey  - HIES00
+Bangladesh,BD,BGD,050,Urban,8,Dry latrines - Traditional latrine,0.0,Household Income Expenditure Survey  - HIES00
+Bangladesh,BD,BGD,050,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Income Expenditure Survey  - HIES00
+Bangladesh,BD,BGD,050,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Income Expenditure Survey  - HIES00
+Bangladesh,BD,BGD,050,Urban,11,Dry latrines - Bucket latrine,0.0,Household Income Expenditure Survey  - HIES00
+Bangladesh,BD,BGD,050,Urban,12,Dry latrines - Other,0.289,Household Income Expenditure Survey  - HIES00
+Bangladesh,BD,BGD,050,Urban,13,Composting toilets,0.0,Household Income Expenditure Survey  - HIES00
+Bangladesh,BD,BGD,050,Urban,14,Other improved,0.0,Household Income Expenditure Survey  - HIES00
+Bangladesh,BD,BGD,050,Urban,15,"No facility, bush, field",0.03,Household Income Expenditure Survey  - HIES00
+Bangladesh,BD,BGD,050,Urban,16,Other unimproved,0.0,Household Income Expenditure Survey  - HIES00
+Bangladesh,BD,BGD,050,Urban,17,DK/missing information,0.0,Household Income Expenditure Survey  - HIES00
+Bangladesh,BD,BGD,050,Rural,1,Flush and pour flush - to piped sewer system,0.0,Household Income Expenditure Survey  - HIES00
+Bangladesh,BD,BGD,050,Rural,2,Flush and pour flush - to septic tank,0.0,Household Income Expenditure Survey  - HIES00
+Bangladesh,BD,BGD,050,Rural,3,Flush and pour flush - to pit,0.0,Household Income Expenditure Survey  - HIES00
+Bangladesh,BD,BGD,050,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Income Expenditure Survey  - HIES00
+Bangladesh,BD,BGD,050,Rural,5,Flush and pour flush - to elsewhere,0.0,Household Income Expenditure Survey  - HIES00
+Bangladesh,BD,BGD,050,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Income Expenditure Survey  - HIES00
+Bangladesh,BD,BGD,050,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.092,Household Income Expenditure Survey  - HIES00
+Bangladesh,BD,BGD,050,Rural,8,Dry latrines - Traditional latrine,0.0,Household Income Expenditure Survey  - HIES00
+Bangladesh,BD,BGD,050,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Income Expenditure Survey  - HIES00
+Bangladesh,BD,BGD,050,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Income Expenditure Survey  - HIES00
+Bangladesh,BD,BGD,050,Rural,11,Dry latrines - Bucket latrine,0.0,Household Income Expenditure Survey  - HIES00
+Bangladesh,BD,BGD,050,Rural,12,Dry latrines - Other,0.566,Household Income Expenditure Survey  - HIES00
+Bangladesh,BD,BGD,050,Rural,13,Composting toilets,0.0,Household Income Expenditure Survey  - HIES00
+Bangladesh,BD,BGD,050,Rural,14,Other improved,0.0,Household Income Expenditure Survey  - HIES00
+Bangladesh,BD,BGD,050,Rural,15,"No facility, bush, field",0.202,Household Income Expenditure Survey  - HIES00
+Bangladesh,BD,BGD,050,Rural,16,Other unimproved,0.0,Household Income Expenditure Survey  - HIES00
+Bangladesh,BD,BGD,050,Rural,17,DK/missing information,0.0,Household Income Expenditure Survey  - HIES00
+Bangladesh,BD,BGD,050,National,1,Flush and pour flush - to piped sewer system,0.0,Household Income Expenditure Survey  - HIES00
+Bangladesh,BD,BGD,050,National,2,Flush and pour flush - to septic tank,0.0,Household Income Expenditure Survey  - HIES00
+Bangladesh,BD,BGD,050,National,3,Flush and pour flush - to pit,0.0,Household Income Expenditure Survey  - HIES00
+Bangladesh,BD,BGD,050,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Income Expenditure Survey  - HIES00
+Bangladesh,BD,BGD,050,National,5,Flush and pour flush - to elsewhere,0.0,Household Income Expenditure Survey  - HIES00
+Bangladesh,BD,BGD,050,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Income Expenditure Survey  - HIES00
+Bangladesh,BD,BGD,050,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.119,Household Income Expenditure Survey  - HIES00
+Bangladesh,BD,BGD,050,National,8,Dry latrines - Traditional latrine,0.0,Household Income Expenditure Survey  - HIES00
+Bangladesh,BD,BGD,050,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Income Expenditure Survey  - HIES00
+Bangladesh,BD,BGD,050,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Income Expenditure Survey  - HIES00
+Bangladesh,BD,BGD,050,National,11,Dry latrines - Bucket latrine,0.0,Household Income Expenditure Survey  - HIES00
+Bangladesh,BD,BGD,050,National,12,Dry latrines - Other,0.511,Household Income Expenditure Survey  - HIES00
+Bangladesh,BD,BGD,050,National,13,Composting toilets,0.0,Household Income Expenditure Survey  - HIES00
+Bangladesh,BD,BGD,050,National,14,Other improved,0.0,Household Income Expenditure Survey  - HIES00
+Bangladesh,BD,BGD,050,National,15,"No facility, bush, field",0.167,Household Income Expenditure Survey  - HIES00
+Bangladesh,BD,BGD,050,National,16,Other unimproved,0.0,Household Income Expenditure Survey  - HIES00
+Bangladesh,BD,BGD,050,National,17,DK/missing information,0.0,Household Income Expenditure Survey  - HIES00
+Bangladesh,BD,BGD,050,Urban,1,Flush and pour flush - to piped sewer system,0.0,Census - CEN01
+Bangladesh,BD,BGD,050,Urban,2,Flush and pour flush - to septic tank,0.0,Census - CEN01
+Bangladesh,BD,BGD,050,Urban,3,Flush and pour flush - to pit,0.0,Census - CEN01
+Bangladesh,BD,BGD,050,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN01
+Bangladesh,BD,BGD,050,Urban,5,Flush and pour flush - to elsewhere,0.0,Census - CEN01
+Bangladesh,BD,BGD,050,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN01
+Bangladesh,BD,BGD,050,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN01
+Bangladesh,BD,BGD,050,Urban,8,Dry latrines - Traditional latrine,0.0,Census - CEN01
+Bangladesh,BD,BGD,050,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN01
+Bangladesh,BD,BGD,050,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN01
+Bangladesh,BD,BGD,050,Urban,11,Dry latrines - Bucket latrine,0.0,Census - CEN01
+Bangladesh,BD,BGD,050,Urban,12,Dry latrines - Other,0.0,Census - CEN01
+Bangladesh,BD,BGD,050,Urban,13,Composting toilets,0.0,Census - CEN01
+Bangladesh,BD,BGD,050,Urban,14,Other improved,0.0,Census - CEN01
+Bangladesh,BD,BGD,050,Urban,15,"No facility, bush, field",0.067,Census - CEN01
+Bangladesh,BD,BGD,050,Urban,16,Other unimproved,0.241,Census - CEN01
+Bangladesh,BD,BGD,050,Urban,17,DK/missing information,0.002,Census - CEN01
+Bangladesh,BD,BGD,050,Rural,1,Flush and pour flush - to piped sewer system,0.0,Census - CEN01
+Bangladesh,BD,BGD,050,Rural,2,Flush and pour flush - to septic tank,0.0,Census - CEN01
+Bangladesh,BD,BGD,050,Rural,3,Flush and pour flush - to pit,0.0,Census - CEN01
+Bangladesh,BD,BGD,050,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN01
+Bangladesh,BD,BGD,050,Rural,5,Flush and pour flush - to elsewhere,0.0,Census - CEN01
+Bangladesh,BD,BGD,050,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN01
+Bangladesh,BD,BGD,050,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN01
+Bangladesh,BD,BGD,050,Rural,8,Dry latrines - Traditional latrine,0.0,Census - CEN01
+Bangladesh,BD,BGD,050,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN01
+Bangladesh,BD,BGD,050,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN01
+Bangladesh,BD,BGD,050,Rural,11,Dry latrines - Bucket latrine,0.0,Census - CEN01
+Bangladesh,BD,BGD,050,Rural,12,Dry latrines - Other,0.0,Census - CEN01
+Bangladesh,BD,BGD,050,Rural,13,Composting toilets,0.0,Census - CEN01
+Bangladesh,BD,BGD,050,Rural,14,Other improved,0.0,Census - CEN01
+Bangladesh,BD,BGD,050,Rural,15,"No facility, bush, field",0.227,Census - CEN01
+Bangladesh,BD,BGD,050,Rural,16,Other unimproved,0.461,Census - CEN01
+Bangladesh,BD,BGD,050,Rural,17,DK/missing information,0.0,Census - CEN01
+Bangladesh,BD,BGD,050,National,1,Flush and pour flush - to piped sewer system,0.0,Census - CEN01
+Bangladesh,BD,BGD,050,National,2,Flush and pour flush - to septic tank,0.0,Census - CEN01
+Bangladesh,BD,BGD,050,National,3,Flush and pour flush - to pit,0.0,Census - CEN01
+Bangladesh,BD,BGD,050,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN01
+Bangladesh,BD,BGD,050,National,5,Flush and pour flush - to elsewhere,0.0,Census - CEN01
+Bangladesh,BD,BGD,050,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN01
+Bangladesh,BD,BGD,050,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN01
+Bangladesh,BD,BGD,050,National,8,Dry latrines - Traditional latrine,0.0,Census - CEN01
+Bangladesh,BD,BGD,050,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN01
+Bangladesh,BD,BGD,050,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN01
+Bangladesh,BD,BGD,050,National,11,Dry latrines - Bucket latrine,0.0,Census - CEN01
+Bangladesh,BD,BGD,050,National,12,Dry latrines - Other,0.0,Census - CEN01
+Bangladesh,BD,BGD,050,National,13,Composting toilets,0.0,Census - CEN01
+Bangladesh,BD,BGD,050,National,14,Other improved,0.0,Census - CEN01
+Bangladesh,BD,BGD,050,National,15,"No facility, bush, field",0.19,Census - CEN01
+Bangladesh,BD,BGD,050,National,16,Other unimproved,0.409,Census - CEN01
+Bangladesh,BD,BGD,050,National,17,DK/missing information,0.001,Census - CEN01
+Bangladesh,BD,BGD,050,Urban,1,Flush and pour flush - to piped sewer system,0.0,Maternal health services and Maternal Mortality survey - MHS01
+Bangladesh,BD,BGD,050,Urban,2,Flush and pour flush - to septic tank,0.261,Maternal health services and Maternal Mortality survey - MHS01
+Bangladesh,BD,BGD,050,Urban,3,Flush and pour flush - to pit,0.0,Maternal health services and Maternal Mortality survey - MHS01
+Bangladesh,BD,BGD,050,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Maternal health services and Maternal Mortality survey - MHS01
+Bangladesh,BD,BGD,050,Urban,5,Flush and pour flush - to elsewhere,0.0,Maternal health services and Maternal Mortality survey - MHS01
+Bangladesh,BD,BGD,050,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Maternal health services and Maternal Mortality survey - MHS01
+Bangladesh,BD,BGD,050,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Maternal health services and Maternal Mortality survey - MHS01
+Bangladesh,BD,BGD,050,Urban,8,Dry latrines - Traditional latrine,0.225,Maternal health services and Maternal Mortality survey - MHS01
+Bangladesh,BD,BGD,050,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.176,Maternal health services and Maternal Mortality survey - MHS01
+Bangladesh,BD,BGD,050,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.026,Maternal health services and Maternal Mortality survey - MHS01
+Bangladesh,BD,BGD,050,Urban,11,Dry latrines - Bucket latrine,0.0,Maternal health services and Maternal Mortality survey - MHS01
+Bangladesh,BD,BGD,050,Urban,12,Dry latrines - Other,0.0,Maternal health services and Maternal Mortality survey - MHS01
+Bangladesh,BD,BGD,050,Urban,13,Composting toilets,0.0,Maternal health services and Maternal Mortality survey - MHS01
+Bangladesh,BD,BGD,050,Urban,14,Other improved,0.0,Maternal health services and Maternal Mortality survey - MHS01
+Bangladesh,BD,BGD,050,Urban,15,"No facility, bush, field",0.104,Maternal health services and Maternal Mortality survey - MHS01
+Bangladesh,BD,BGD,050,Urban,16,Other unimproved,0.0,Maternal health services and Maternal Mortality survey - MHS01
+Bangladesh,BD,BGD,050,Urban,17,DK/missing information,0.0,Maternal health services and Maternal Mortality survey - MHS01
+Bangladesh,BD,BGD,050,Rural,1,Flush and pour flush - to piped sewer system,0.0,Maternal health services and Maternal Mortality survey - MHS01
+Bangladesh,BD,BGD,050,Rural,2,Flush and pour flush - to septic tank,0.047,Maternal health services and Maternal Mortality survey - MHS01
+Bangladesh,BD,BGD,050,Rural,3,Flush and pour flush - to pit,0.0,Maternal health services and Maternal Mortality survey - MHS01
+Bangladesh,BD,BGD,050,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Maternal health services and Maternal Mortality survey - MHS01
+Bangladesh,BD,BGD,050,Rural,5,Flush and pour flush - to elsewhere,0.0,Maternal health services and Maternal Mortality survey - MHS01
+Bangladesh,BD,BGD,050,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Maternal health services and Maternal Mortality survey - MHS01
+Bangladesh,BD,BGD,050,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Maternal health services and Maternal Mortality survey - MHS01
+Bangladesh,BD,BGD,050,Rural,8,Dry latrines - Traditional latrine,0.256,Maternal health services and Maternal Mortality survey - MHS01
+Bangladesh,BD,BGD,050,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.248,Maternal health services and Maternal Mortality survey - MHS01
+Bangladesh,BD,BGD,050,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.037,Maternal health services and Maternal Mortality survey - MHS01
+Bangladesh,BD,BGD,050,Rural,11,Dry latrines - Bucket latrine,0.0,Maternal health services and Maternal Mortality survey - MHS01
+Bangladesh,BD,BGD,050,Rural,12,Dry latrines - Other,0.0,Maternal health services and Maternal Mortality survey - MHS01
+Bangladesh,BD,BGD,050,Rural,13,Composting toilets,0.0,Maternal health services and Maternal Mortality survey - MHS01
+Bangladesh,BD,BGD,050,Rural,14,Other improved,0.0,Maternal health services and Maternal Mortality survey - MHS01
+Bangladesh,BD,BGD,050,Rural,15,"No facility, bush, field",0.266,Maternal health services and Maternal Mortality survey - MHS01
+Bangladesh,BD,BGD,050,Rural,16,Other unimproved,0.0,Maternal health services and Maternal Mortality survey - MHS01
+Bangladesh,BD,BGD,050,Rural,17,DK/missing information,0.0,Maternal health services and Maternal Mortality survey - MHS01
+Bangladesh,BD,BGD,050,National,1,Flush and pour flush - to piped sewer system,0.0,Maternal health services and Maternal Mortality survey - MHS01
+Bangladesh,BD,BGD,050,National,2,Flush and pour flush - to septic tank,0.0,Maternal health services and Maternal Mortality survey - MHS01
+Bangladesh,BD,BGD,050,National,3,Flush and pour flush - to pit,0.0,Maternal health services and Maternal Mortality survey - MHS01
+Bangladesh,BD,BGD,050,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Maternal health services and Maternal Mortality survey - MHS01
+Bangladesh,BD,BGD,050,National,5,Flush and pour flush - to elsewhere,0.0,Maternal health services and Maternal Mortality survey - MHS01
+Bangladesh,BD,BGD,050,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Maternal health services and Maternal Mortality survey - MHS01
+Bangladesh,BD,BGD,050,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Maternal health services and Maternal Mortality survey - MHS01
+Bangladesh,BD,BGD,050,National,8,Dry latrines - Traditional latrine,0.0,Maternal health services and Maternal Mortality survey - MHS01
+Bangladesh,BD,BGD,050,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Maternal health services and Maternal Mortality survey - MHS01
+Bangladesh,BD,BGD,050,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Maternal health services and Maternal Mortality survey - MHS01
+Bangladesh,BD,BGD,050,National,11,Dry latrines - Bucket latrine,0.0,Maternal health services and Maternal Mortality survey - MHS01
+Bangladesh,BD,BGD,050,National,12,Dry latrines - Other,0.0,Maternal health services and Maternal Mortality survey - MHS01
+Bangladesh,BD,BGD,050,National,13,Composting toilets,0.0,Maternal health services and Maternal Mortality survey - MHS01
+Bangladesh,BD,BGD,050,National,14,Other improved,0.0,Maternal health services and Maternal Mortality survey - MHS01
+Bangladesh,BD,BGD,050,National,15,"No facility, bush, field",0.0,Maternal health services and Maternal Mortality survey - MHS01
+Bangladesh,BD,BGD,050,National,16,Other unimproved,0.0,Maternal health services and Maternal Mortality survey - MHS01
+Bangladesh,BD,BGD,050,National,17,DK/missing information,0.0,Maternal health services and Maternal Mortality survey - MHS01
+Bangladesh,BD,BGD,050,Urban,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS04
+Bangladesh,BD,BGD,050,Urban,2,Flush and pour flush - to septic tank,0.295,Demographic and Health Survey - DHS04
+Bangladesh,BD,BGD,050,Urban,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS04
+Bangladesh,BD,BGD,050,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS04
+Bangladesh,BD,BGD,050,Urban,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS04
+Bangladesh,BD,BGD,050,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - DHS04
+Bangladesh,BD,BGD,050,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS04
+Bangladesh,BD,BGD,050,Urban,8,Dry latrines - Traditional latrine,0.231,Demographic and Health Survey - DHS04
+Bangladesh,BD,BGD,050,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.23,Demographic and Health Survey - DHS04
+Bangladesh,BD,BGD,050,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.017,Demographic and Health Survey - DHS04
+Bangladesh,BD,BGD,050,Urban,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS04
+Bangladesh,BD,BGD,050,Urban,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS04
+Bangladesh,BD,BGD,050,Urban,13,Composting toilets,0.0,Demographic and Health Survey - DHS04
+Bangladesh,BD,BGD,050,Urban,14,Other improved,0.0,Demographic and Health Survey - DHS04
+Bangladesh,BD,BGD,050,Urban,15,"No facility, bush, field",0.042,Demographic and Health Survey - DHS04
+Bangladesh,BD,BGD,050,Urban,16,Other unimproved,0.0,Demographic and Health Survey - DHS04
+Bangladesh,BD,BGD,050,Urban,17,DK/missing information,0.0,Demographic and Health Survey - DHS04
+Bangladesh,BD,BGD,050,Rural,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS04
+Bangladesh,BD,BGD,050,Rural,2,Flush and pour flush - to septic tank,0.032,Demographic and Health Survey - DHS04
+Bangladesh,BD,BGD,050,Rural,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS04
+Bangladesh,BD,BGD,050,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS04
+Bangladesh,BD,BGD,050,Rural,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS04
+Bangladesh,BD,BGD,050,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - DHS04
+Bangladesh,BD,BGD,050,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS04
+Bangladesh,BD,BGD,050,Rural,8,Dry latrines - Traditional latrine,0.39,Demographic and Health Survey - DHS04
+Bangladesh,BD,BGD,050,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.267,Demographic and Health Survey - DHS04
+Bangladesh,BD,BGD,050,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.019,Demographic and Health Survey - DHS04
+Bangladesh,BD,BGD,050,Rural,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS04
+Bangladesh,BD,BGD,050,Rural,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS04
+Bangladesh,BD,BGD,050,Rural,13,Composting toilets,0.0,Demographic and Health Survey - DHS04
+Bangladesh,BD,BGD,050,Rural,14,Other improved,0.0,Demographic and Health Survey - DHS04
+Bangladesh,BD,BGD,050,Rural,15,"No facility, bush, field",0.164,Demographic and Health Survey - DHS04
+Bangladesh,BD,BGD,050,Rural,16,Other unimproved,0.0,Demographic and Health Survey - DHS04
+Bangladesh,BD,BGD,050,Rural,17,DK/missing information,0.0,Demographic and Health Survey - DHS04
+Bangladesh,BD,BGD,050,National,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS04
+Bangladesh,BD,BGD,050,National,2,Flush and pour flush - to septic tank,0.0,Demographic and Health Survey - DHS04
+Bangladesh,BD,BGD,050,National,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS04
+Bangladesh,BD,BGD,050,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS04
+Bangladesh,BD,BGD,050,National,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS04
+Bangladesh,BD,BGD,050,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - DHS04
+Bangladesh,BD,BGD,050,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS04
+Bangladesh,BD,BGD,050,National,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS04
+Bangladesh,BD,BGD,050,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Survey - DHS04
+Bangladesh,BD,BGD,050,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS04
+Bangladesh,BD,BGD,050,National,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS04
+Bangladesh,BD,BGD,050,National,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS04
+Bangladesh,BD,BGD,050,National,13,Composting toilets,0.0,Demographic and Health Survey - DHS04
+Bangladesh,BD,BGD,050,National,14,Other improved,0.0,Demographic and Health Survey - DHS04
+Bangladesh,BD,BGD,050,National,15,"No facility, bush, field",0.0,Demographic and Health Survey - DHS04
+Bangladesh,BD,BGD,050,National,16,Other unimproved,0.0,Demographic and Health Survey - DHS04
+Bangladesh,BD,BGD,050,National,17,DK/missing information,0.0,Demographic and Health Survey - DHS04
+Bangladesh,BD,BGD,050,Urban,1,Flush and pour flush - to piped sewer system,0.0,Household Income Expenditure Survey  - HIES05
+Bangladesh,BD,BGD,050,Urban,2,Flush and pour flush - to septic tank,0.0,Household Income Expenditure Survey  - HIES05
+Bangladesh,BD,BGD,050,Urban,3,Flush and pour flush - to pit,0.0,Household Income Expenditure Survey  - HIES05
+Bangladesh,BD,BGD,050,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Income Expenditure Survey  - HIES05
+Bangladesh,BD,BGD,050,Urban,5,Flush and pour flush - to elsewhere,0.0,Household Income Expenditure Survey  - HIES05
+Bangladesh,BD,BGD,050,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Income Expenditure Survey  - HIES05
+Bangladesh,BD,BGD,050,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.311,Household Income Expenditure Survey  - HIES05
+Bangladesh,BD,BGD,050,Urban,8,Dry latrines - Traditional latrine,0.0,Household Income Expenditure Survey  - HIES05
+Bangladesh,BD,BGD,050,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Income Expenditure Survey  - HIES05
+Bangladesh,BD,BGD,050,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Income Expenditure Survey  - HIES05
+Bangladesh,BD,BGD,050,Urban,11,Dry latrines - Bucket latrine,0.0,Household Income Expenditure Survey  - HIES05
+Bangladesh,BD,BGD,050,Urban,12,Dry latrines - Other,0.155,Household Income Expenditure Survey  - HIES05
+Bangladesh,BD,BGD,050,Urban,13,Composting toilets,0.0,Household Income Expenditure Survey  - HIES05
+Bangladesh,BD,BGD,050,Urban,14,Other improved,0.0,Household Income Expenditure Survey  - HIES05
+Bangladesh,BD,BGD,050,Urban,15,"No facility, bush, field",0.028,Household Income Expenditure Survey  - HIES05
+Bangladesh,BD,BGD,050,Urban,16,Other unimproved,0.0,Household Income Expenditure Survey  - HIES05
+Bangladesh,BD,BGD,050,Urban,17,DK/missing information,0.0,Household Income Expenditure Survey  - HIES05
+Bangladesh,BD,BGD,050,Rural,1,Flush and pour flush - to piped sewer system,0.0,Household Income Expenditure Survey  - HIES05
+Bangladesh,BD,BGD,050,Rural,2,Flush and pour flush - to septic tank,0.0,Household Income Expenditure Survey  - HIES05
+Bangladesh,BD,BGD,050,Rural,3,Flush and pour flush - to pit,0.0,Household Income Expenditure Survey  - HIES05
+Bangladesh,BD,BGD,050,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Income Expenditure Survey  - HIES05
+Bangladesh,BD,BGD,050,Rural,5,Flush and pour flush - to elsewhere,0.0,Household Income Expenditure Survey  - HIES05
+Bangladesh,BD,BGD,050,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Income Expenditure Survey  - HIES05
+Bangladesh,BD,BGD,050,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.179,Household Income Expenditure Survey  - HIES05
+Bangladesh,BD,BGD,050,Rural,8,Dry latrines - Traditional latrine,0.0,Household Income Expenditure Survey  - HIES05
+Bangladesh,BD,BGD,050,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Income Expenditure Survey  - HIES05
+Bangladesh,BD,BGD,050,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Income Expenditure Survey  - HIES05
+Bangladesh,BD,BGD,050,Rural,11,Dry latrines - Bucket latrine,0.0,Household Income Expenditure Survey  - HIES05
+Bangladesh,BD,BGD,050,Rural,12,Dry latrines - Other,0.439,Household Income Expenditure Survey  - HIES05
+Bangladesh,BD,BGD,050,Rural,13,Composting toilets,0.0,Household Income Expenditure Survey  - HIES05
+Bangladesh,BD,BGD,050,Rural,14,Other improved,0.0,Household Income Expenditure Survey  - HIES05
+Bangladesh,BD,BGD,050,Rural,15,"No facility, bush, field",0.123,Household Income Expenditure Survey  - HIES05
+Bangladesh,BD,BGD,050,Rural,16,Other unimproved,0.0,Household Income Expenditure Survey  - HIES05
+Bangladesh,BD,BGD,050,Rural,17,DK/missing information,0.0,Household Income Expenditure Survey  - HIES05
+Bangladesh,BD,BGD,050,National,1,Flush and pour flush - to piped sewer system,0.0,Household Income Expenditure Survey  - HIES05
+Bangladesh,BD,BGD,050,National,2,Flush and pour flush - to septic tank,0.0,Household Income Expenditure Survey  - HIES05
+Bangladesh,BD,BGD,050,National,3,Flush and pour flush - to pit,0.0,Household Income Expenditure Survey  - HIES05
+Bangladesh,BD,BGD,050,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Income Expenditure Survey  - HIES05
+Bangladesh,BD,BGD,050,National,5,Flush and pour flush - to elsewhere,0.0,Household Income Expenditure Survey  - HIES05
+Bangladesh,BD,BGD,050,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Income Expenditure Survey  - HIES05
+Bangladesh,BD,BGD,050,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.212,Household Income Expenditure Survey  - HIES05
+Bangladesh,BD,BGD,050,National,8,Dry latrines - Traditional latrine,0.0,Household Income Expenditure Survey  - HIES05
+Bangladesh,BD,BGD,050,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Income Expenditure Survey  - HIES05
+Bangladesh,BD,BGD,050,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Income Expenditure Survey  - HIES05
+Bangladesh,BD,BGD,050,National,11,Dry latrines - Bucket latrine,0.0,Household Income Expenditure Survey  - HIES05
+Bangladesh,BD,BGD,050,National,12,Dry latrines - Other,0.368,Household Income Expenditure Survey  - HIES05
+Bangladesh,BD,BGD,050,National,13,Composting toilets,0.0,Household Income Expenditure Survey  - HIES05
+Bangladesh,BD,BGD,050,National,14,Other improved,0.0,Household Income Expenditure Survey  - HIES05
+Bangladesh,BD,BGD,050,National,15,"No facility, bush, field",0.1,Household Income Expenditure Survey  - HIES05
+Bangladesh,BD,BGD,050,National,16,Other unimproved,0.0,Household Income Expenditure Survey  - HIES05
+Bangladesh,BD,BGD,050,National,17,DK/missing information,0.0,Household Income Expenditure Survey  - HIES05
 Bangladesh,BD,BGD,050,Urban,1,Flush and pour flush - to piped sewer system,0.094,Multiple Cluster Indicator Survey - MICS06
 Bangladesh,BD,BGD,050,Urban,2,Flush and pour flush - to septic tank,0.283,Multiple Cluster Indicator Survey - MICS06
 Bangladesh,BD,BGD,050,Urban,3,Flush and pour flush - to pit,0.066,Multiple Cluster Indicator Survey - MICS06
@@ -33,6 +339,23 @@ Bangladesh,BD,BGD,050,Rural,14,Other improved,0.0,Multiple Cluster Indicator Sur
 Bangladesh,BD,BGD,050,Rural,15,"No facility, bush, field",0.095,Multiple Cluster Indicator Survey - MICS06
 Bangladesh,BD,BGD,050,Rural,16,Other unimproved,0.001,Multiple Cluster Indicator Survey - MICS06
 Bangladesh,BD,BGD,050,Rural,17,DK/missing information,0.002,Multiple Cluster Indicator Survey - MICS06
+Bangladesh,BD,BGD,050,National,1,Flush and pour flush - to piped sewer system,0.0,Multiple Cluster Indicator Survey - MICS06
+Bangladesh,BD,BGD,050,National,2,Flush and pour flush - to septic tank,0.0,Multiple Cluster Indicator Survey - MICS06
+Bangladesh,BD,BGD,050,National,3,Flush and pour flush - to pit,0.0,Multiple Cluster Indicator Survey - MICS06
+Bangladesh,BD,BGD,050,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Cluster Indicator Survey - MICS06
+Bangladesh,BD,BGD,050,National,5,Flush and pour flush - to elsewhere,0.0,Multiple Cluster Indicator Survey - MICS06
+Bangladesh,BD,BGD,050,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Multiple Cluster Indicator Survey - MICS06
+Bangladesh,BD,BGD,050,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Multiple Cluster Indicator Survey - MICS06
+Bangladesh,BD,BGD,050,National,8,Dry latrines - Traditional latrine,0.0,Multiple Cluster Indicator Survey - MICS06
+Bangladesh,BD,BGD,050,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Multiple Cluster Indicator Survey - MICS06
+Bangladesh,BD,BGD,050,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Cluster Indicator Survey - MICS06
+Bangladesh,BD,BGD,050,National,11,Dry latrines - Bucket latrine,0.0,Multiple Cluster Indicator Survey - MICS06
+Bangladesh,BD,BGD,050,National,12,Dry latrines - Other,0.0,Multiple Cluster Indicator Survey - MICS06
+Bangladesh,BD,BGD,050,National,13,Composting toilets,0.0,Multiple Cluster Indicator Survey - MICS06
+Bangladesh,BD,BGD,050,National,14,Other improved,0.0,Multiple Cluster Indicator Survey - MICS06
+Bangladesh,BD,BGD,050,National,15,"No facility, bush, field",0.0,Multiple Cluster Indicator Survey - MICS06
+Bangladesh,BD,BGD,050,National,16,Other unimproved,0.0,Multiple Cluster Indicator Survey - MICS06
+Bangladesh,BD,BGD,050,National,17,DK/missing information,0.0,Multiple Cluster Indicator Survey - MICS06
 Bangladesh,BD,BGD,050,Urban,1,Flush and pour flush - to piped sewer system,0.085,Demographic and Health Survey - DHS07
 Bangladesh,BD,BGD,050,Urban,2,Flush and pour flush - to septic tank,0.298,Demographic and Health Survey - DHS07
 Bangladesh,BD,BGD,050,Urban,3,Flush and pour flush - to pit,0.076,Demographic and Health Survey - DHS07
@@ -67,6 +390,23 @@ Bangladesh,BD,BGD,050,Rural,14,Other improved,0.0,Demographic and Health Survey 
 Bangladesh,BD,BGD,050,Rural,15,"No facility, bush, field",0.091,Demographic and Health Survey - DHS07
 Bangladesh,BD,BGD,050,Rural,16,Other unimproved,0.0,Demographic and Health Survey - DHS07
 Bangladesh,BD,BGD,050,Rural,17,DK/missing information,0.0,Demographic and Health Survey - DHS07
+Bangladesh,BD,BGD,050,National,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS07
+Bangladesh,BD,BGD,050,National,2,Flush and pour flush - to septic tank,0.0,Demographic and Health Survey - DHS07
+Bangladesh,BD,BGD,050,National,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS07
+Bangladesh,BD,BGD,050,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS07
+Bangladesh,BD,BGD,050,National,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS07
+Bangladesh,BD,BGD,050,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - DHS07
+Bangladesh,BD,BGD,050,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS07
+Bangladesh,BD,BGD,050,National,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS07
+Bangladesh,BD,BGD,050,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Survey - DHS07
+Bangladesh,BD,BGD,050,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS07
+Bangladesh,BD,BGD,050,National,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS07
+Bangladesh,BD,BGD,050,National,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS07
+Bangladesh,BD,BGD,050,National,13,Composting toilets,0.0,Demographic and Health Survey - DHS07
+Bangladesh,BD,BGD,050,National,14,Other improved,0.0,Demographic and Health Survey - DHS07
+Bangladesh,BD,BGD,050,National,15,"No facility, bush, field",0.0,Demographic and Health Survey - DHS07
+Bangladesh,BD,BGD,050,National,16,Other unimproved,0.0,Demographic and Health Survey - DHS07
+Bangladesh,BD,BGD,050,National,17,DK/missing information,0.0,Demographic and Health Survey - DHS07
 Bangladesh,BD,BGD,050,Urban,1,Flush and pour flush - to piped sewer system,0.133,Household Food Security and Nutrition Assessment Report 2009 - HFSNA09
 Bangladesh,BD,BGD,050,Urban,2,Flush and pour flush - to septic tank,0.241,Household Food Security and Nutrition Assessment Report 2009 - HFSNA09
 Bangladesh,BD,BGD,050,Urban,3,Flush and pour flush - to pit,0.012,Household Food Security and Nutrition Assessment Report 2009 - HFSNA09
@@ -101,6 +441,23 @@ Bangladesh,BD,BGD,050,Rural,14,Other improved,0.0,Household Food Security and Nu
 Bangladesh,BD,BGD,050,Rural,15,"No facility, bush, field",0.07,Household Food Security and Nutrition Assessment Report 2009 - HFSNA09
 Bangladesh,BD,BGD,050,Rural,16,Other unimproved,0.001,Household Food Security and Nutrition Assessment Report 2009 - HFSNA09
 Bangladesh,BD,BGD,050,Rural,17,DK/missing information,0.0,Household Food Security and Nutrition Assessment Report 2009 - HFSNA09
+Bangladesh,BD,BGD,050,National,1,Flush and pour flush - to piped sewer system,0.031,Household Food Security and Nutrition Assessment Report 2009 - HFSNA09
+Bangladesh,BD,BGD,050,National,2,Flush and pour flush - to septic tank,0.095,Household Food Security and Nutrition Assessment Report 2009 - HFSNA09
+Bangladesh,BD,BGD,050,National,3,Flush and pour flush - to pit,0.009,Household Food Security and Nutrition Assessment Report 2009 - HFSNA09
+Bangladesh,BD,BGD,050,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.003,Household Food Security and Nutrition Assessment Report 2009 - HFSNA09
+Bangladesh,BD,BGD,050,National,5,Flush and pour flush - to elsewhere,0.015,Household Food Security and Nutrition Assessment Report 2009 - HFSNA09
+Bangladesh,BD,BGD,050,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Food Security and Nutrition Assessment Report 2009 - HFSNA09
+Bangladesh,BD,BGD,050,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.38,Household Food Security and Nutrition Assessment Report 2009 - HFSNA09
+Bangladesh,BD,BGD,050,National,8,Dry latrines - Traditional latrine,0.0,Household Food Security and Nutrition Assessment Report 2009 - HFSNA09
+Bangladesh,BD,BGD,050,National,9,Dry latrines - Pit latrine without slab/open pit,0.339,Household Food Security and Nutrition Assessment Report 2009 - HFSNA09
+Bangladesh,BD,BGD,050,National,10,Dry latrines - Hanging toilet/hanging latrine,0.065,Household Food Security and Nutrition Assessment Report 2009 - HFSNA09
+Bangladesh,BD,BGD,050,National,11,Dry latrines - Bucket latrine,0.003,Household Food Security and Nutrition Assessment Report 2009 - HFSNA09
+Bangladesh,BD,BGD,050,National,12,Dry latrines - Other,0.0,Household Food Security and Nutrition Assessment Report 2009 - HFSNA09
+Bangladesh,BD,BGD,050,National,13,Composting toilets,0.0,Household Food Security and Nutrition Assessment Report 2009 - HFSNA09
+Bangladesh,BD,BGD,050,National,14,Other improved,0.0,Household Food Security and Nutrition Assessment Report 2009 - HFSNA09
+Bangladesh,BD,BGD,050,National,15,"No facility, bush, field",0.059,Household Food Security and Nutrition Assessment Report 2009 - HFSNA09
+Bangladesh,BD,BGD,050,National,16,Other unimproved,0.001,Household Food Security and Nutrition Assessment Report 2009 - HFSNA09
+Bangladesh,BD,BGD,050,National,17,DK/missing information,0.0,Household Food Security and Nutrition Assessment Report 2009 - HFSNA09
 Bangladesh,BD,BGD,050,Urban,1,Flush and pour flush - to piped sewer system,0.18,Multiple Indicator Cluster Survey - MICS09
 Bangladesh,BD,BGD,050,Urban,2,Flush and pour flush - to septic tank,0.267,Multiple Indicator Cluster Survey - MICS09
 Bangladesh,BD,BGD,050,Urban,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS09
@@ -135,6 +492,125 @@ Bangladesh,BD,BGD,050,Rural,14,Other improved,0.0,Multiple Indicator Cluster Sur
 Bangladesh,BD,BGD,050,Rural,15,"No facility, bush, field",0.069,Multiple Indicator Cluster Survey - MICS09
 Bangladesh,BD,BGD,050,Rural,16,Other unimproved,0.009,Multiple Indicator Cluster Survey - MICS09
 Bangladesh,BD,BGD,050,Rural,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS09
+Bangladesh,BD,BGD,050,National,1,Flush and pour flush - to piped sewer system,0.036,Multiple Indicator Cluster Survey - MICS09
+Bangladesh,BD,BGD,050,National,2,Flush and pour flush - to septic tank,0.113,Multiple Indicator Cluster Survey - MICS09
+Bangladesh,BD,BGD,050,National,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS09
+Bangladesh,BD,BGD,050,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.024,Multiple Indicator Cluster Survey - MICS09
+Bangladesh,BD,BGD,050,National,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS09
+Bangladesh,BD,BGD,050,National,6,Dry latrines - Ventilated Improved Pit latrine,0.03,Multiple Indicator Cluster Survey - MICS09
+Bangladesh,BD,BGD,050,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.622,Multiple Indicator Cluster Survey - MICS09
+Bangladesh,BD,BGD,050,National,8,Dry latrines - Traditional latrine,0.0,Multiple Indicator Cluster Survey - MICS09
+Bangladesh,BD,BGD,050,National,9,Dry latrines - Pit latrine without slab/open pit,0.062,Multiple Indicator Cluster Survey - MICS09
+Bangladesh,BD,BGD,050,National,10,Dry latrines - Hanging toilet/hanging latrine,0.041,Multiple Indicator Cluster Survey - MICS09
+Bangladesh,BD,BGD,050,National,11,Dry latrines - Bucket latrine,0.003,Multiple Indicator Cluster Survey - MICS09
+Bangladesh,BD,BGD,050,National,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS09
+Bangladesh,BD,BGD,050,National,13,Composting toilets,0.003,Multiple Indicator Cluster Survey - MICS09
+Bangladesh,BD,BGD,050,National,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS09
+Bangladesh,BD,BGD,050,National,15,"No facility, bush, field",0.057,Multiple Indicator Cluster Survey - MICS09
+Bangladesh,BD,BGD,050,National,16,Other unimproved,0.008,Multiple Indicator Cluster Survey - MICS09
+Bangladesh,BD,BGD,050,National,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS09
+Bangladesh,BD,BGD,050,Urban,1,Flush and pour flush - to piped sewer system,0.0,Household Income and Expenditure Survey - HIES10
+Bangladesh,BD,BGD,050,Urban,2,Flush and pour flush - to septic tank,0.0,Household Income and Expenditure Survey - HIES10
+Bangladesh,BD,BGD,050,Urban,3,Flush and pour flush - to pit,0.0,Household Income and Expenditure Survey - HIES10
+Bangladesh,BD,BGD,050,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Income and Expenditure Survey - HIES10
+Bangladesh,BD,BGD,050,Urban,5,Flush and pour flush - to elsewhere,0.0,Household Income and Expenditure Survey - HIES10
+Bangladesh,BD,BGD,050,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Income and Expenditure Survey - HIES10
+Bangladesh,BD,BGD,050,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.171,Household Income and Expenditure Survey - HIES10
+Bangladesh,BD,BGD,050,Urban,8,Dry latrines - Traditional latrine,0.0,Household Income and Expenditure Survey - HIES10
+Bangladesh,BD,BGD,050,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Income and Expenditure Survey - HIES10
+Bangladesh,BD,BGD,050,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Income and Expenditure Survey - HIES10
+Bangladesh,BD,BGD,050,Urban,11,Dry latrines - Bucket latrine,0.0,Household Income and Expenditure Survey - HIES10
+Bangladesh,BD,BGD,050,Urban,12,Dry latrines - Other,0.231,Household Income and Expenditure Survey - HIES10
+Bangladesh,BD,BGD,050,Urban,13,Composting toilets,0.0,Household Income and Expenditure Survey - HIES10
+Bangladesh,BD,BGD,050,Urban,14,Other improved,0.0,Household Income and Expenditure Survey - HIES10
+Bangladesh,BD,BGD,050,Urban,15,"No facility, bush, field",0.008,Household Income and Expenditure Survey - HIES10
+Bangladesh,BD,BGD,050,Urban,16,Other unimproved,0.0,Household Income and Expenditure Survey - HIES10
+Bangladesh,BD,BGD,050,Urban,17,DK/missing information,0.0,Household Income and Expenditure Survey - HIES10
+Bangladesh,BD,BGD,050,Rural,1,Flush and pour flush - to piped sewer system,0.0,Household Income and Expenditure Survey - HIES10
+Bangladesh,BD,BGD,050,Rural,2,Flush and pour flush - to septic tank,0.0,Household Income and Expenditure Survey - HIES10
+Bangladesh,BD,BGD,050,Rural,3,Flush and pour flush - to pit,0.0,Household Income and Expenditure Survey - HIES10
+Bangladesh,BD,BGD,050,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Income and Expenditure Survey - HIES10
+Bangladesh,BD,BGD,050,Rural,5,Flush and pour flush - to elsewhere,0.0,Household Income and Expenditure Survey - HIES10
+Bangladesh,BD,BGD,050,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Income and Expenditure Survey - HIES10
+Bangladesh,BD,BGD,050,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.15,Household Income and Expenditure Survey - HIES10
+Bangladesh,BD,BGD,050,Rural,8,Dry latrines - Traditional latrine,0.0,Household Income and Expenditure Survey - HIES10
+Bangladesh,BD,BGD,050,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Income and Expenditure Survey - HIES10
+Bangladesh,BD,BGD,050,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Income and Expenditure Survey - HIES10
+Bangladesh,BD,BGD,050,Rural,11,Dry latrines - Bucket latrine,0.0,Household Income and Expenditure Survey - HIES10
+Bangladesh,BD,BGD,050,Rural,12,Dry latrines - Other,0.524,Household Income and Expenditure Survey - HIES10
+Bangladesh,BD,BGD,050,Rural,13,Composting toilets,0.0,Household Income and Expenditure Survey - HIES10
+Bangladesh,BD,BGD,050,Rural,14,Other improved,0.0,Household Income and Expenditure Survey - HIES10
+Bangladesh,BD,BGD,050,Rural,15,"No facility, bush, field",0.057,Household Income and Expenditure Survey - HIES10
+Bangladesh,BD,BGD,050,Rural,16,Other unimproved,0.0,Household Income and Expenditure Survey - HIES10
+Bangladesh,BD,BGD,050,Rural,17,DK/missing information,0.0,Household Income and Expenditure Survey - HIES10
+Bangladesh,BD,BGD,050,National,1,Flush and pour flush - to piped sewer system,0.0,Household Income and Expenditure Survey - HIES10
+Bangladesh,BD,BGD,050,National,2,Flush and pour flush - to septic tank,0.0,Household Income and Expenditure Survey - HIES10
+Bangladesh,BD,BGD,050,National,3,Flush and pour flush - to pit,0.0,Household Income and Expenditure Survey - HIES10
+Bangladesh,BD,BGD,050,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Income and Expenditure Survey - HIES10
+Bangladesh,BD,BGD,050,National,5,Flush and pour flush - to elsewhere,0.0,Household Income and Expenditure Survey - HIES10
+Bangladesh,BD,BGD,050,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Income and Expenditure Survey - HIES10
+Bangladesh,BD,BGD,050,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.155,Household Income and Expenditure Survey - HIES10
+Bangladesh,BD,BGD,050,National,8,Dry latrines - Traditional latrine,0.0,Household Income and Expenditure Survey - HIES10
+Bangladesh,BD,BGD,050,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Income and Expenditure Survey - HIES10
+Bangladesh,BD,BGD,050,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Income and Expenditure Survey - HIES10
+Bangladesh,BD,BGD,050,National,11,Dry latrines - Bucket latrine,0.0,Household Income and Expenditure Survey - HIES10
+Bangladesh,BD,BGD,050,National,12,Dry latrines - Other,0.445,Household Income and Expenditure Survey - HIES10
+Bangladesh,BD,BGD,050,National,13,Composting toilets,0.0,Household Income and Expenditure Survey - HIES10
+Bangladesh,BD,BGD,050,National,14,Other improved,0.0,Household Income and Expenditure Survey - HIES10
+Bangladesh,BD,BGD,050,National,15,"No facility, bush, field",0.044,Household Income and Expenditure Survey - HIES10
+Bangladesh,BD,BGD,050,National,16,Other unimproved,0.0,Household Income and Expenditure Survey - HIES10
+Bangladesh,BD,BGD,050,National,17,DK/missing information,0.0,Household Income and Expenditure Survey - HIES10
+Bangladesh,BD,BGD,050,Urban,1,Flush and pour flush - to piped sewer system,0.0,Census and population survey - CEN11
+Bangladesh,BD,BGD,050,Urban,2,Flush and pour flush - to septic tank,0.0,Census and population survey - CEN11
+Bangladesh,BD,BGD,050,Urban,3,Flush and pour flush - to pit,0.0,Census and population survey - CEN11
+Bangladesh,BD,BGD,050,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census and population survey - CEN11
+Bangladesh,BD,BGD,050,Urban,5,Flush and pour flush - to elsewhere,0.0,Census and population survey - CEN11
+Bangladesh,BD,BGD,050,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census and population survey - CEN11
+Bangladesh,BD,BGD,050,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.335,Census and population survey - CEN11
+Bangladesh,BD,BGD,050,Urban,8,Dry latrines - Traditional latrine,0.0,Census and population survey - CEN11
+Bangladesh,BD,BGD,050,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.162,Census and population survey - CEN11
+Bangladesh,BD,BGD,050,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census and population survey - CEN11
+Bangladesh,BD,BGD,050,Urban,11,Dry latrines - Bucket latrine,0.0,Census and population survey - CEN11
+Bangladesh,BD,BGD,050,Urban,12,Dry latrines - Other,0.0,Census and population survey - CEN11
+Bangladesh,BD,BGD,050,Urban,13,Composting toilets,0.0,Census and population survey - CEN11
+Bangladesh,BD,BGD,050,Urban,14,Other improved,0.0,Census and population survey - CEN11
+Bangladesh,BD,BGD,050,Urban,15,"No facility, bush, field",0.02,Census and population survey - CEN11
+Bangladesh,BD,BGD,050,Urban,16,Other unimproved,0.0,Census and population survey - CEN11
+Bangladesh,BD,BGD,050,Urban,17,DK/missing information,0.0,Census and population survey - CEN11
+Bangladesh,BD,BGD,050,Rural,1,Flush and pour flush - to piped sewer system,0.0,Census and population survey - CEN11
+Bangladesh,BD,BGD,050,Rural,2,Flush and pour flush - to septic tank,0.0,Census and population survey - CEN11
+Bangladesh,BD,BGD,050,Rural,3,Flush and pour flush - to pit,0.0,Census and population survey - CEN11
+Bangladesh,BD,BGD,050,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census and population survey - CEN11
+Bangladesh,BD,BGD,050,Rural,5,Flush and pour flush - to elsewhere,0.0,Census and population survey - CEN11
+Bangladesh,BD,BGD,050,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census and population survey - CEN11
+Bangladesh,BD,BGD,050,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.339,Census and population survey - CEN11
+Bangladesh,BD,BGD,050,Rural,8,Dry latrines - Traditional latrine,0.0,Census and population survey - CEN11
+Bangladesh,BD,BGD,050,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.351,Census and population survey - CEN11
+Bangladesh,BD,BGD,050,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census and population survey - CEN11
+Bangladesh,BD,BGD,050,Rural,11,Dry latrines - Bucket latrine,0.0,Census and population survey - CEN11
+Bangladesh,BD,BGD,050,Rural,12,Dry latrines - Other,0.0,Census and population survey - CEN11
+Bangladesh,BD,BGD,050,Rural,13,Composting toilets,0.0,Census and population survey - CEN11
+Bangladesh,BD,BGD,050,Rural,14,Other improved,0.0,Census and population survey - CEN11
+Bangladesh,BD,BGD,050,Rural,15,"No facility, bush, field",0.082,Census and population survey - CEN11
+Bangladesh,BD,BGD,050,Rural,16,Other unimproved,0.0,Census and population survey - CEN11
+Bangladesh,BD,BGD,050,Rural,17,DK/missing information,0.0,Census and population survey - CEN11
+Bangladesh,BD,BGD,050,National,1,Flush and pour flush - to piped sewer system,0.0,Census and population survey - CEN11
+Bangladesh,BD,BGD,050,National,2,Flush and pour flush - to septic tank,0.0,Census and population survey - CEN11
+Bangladesh,BD,BGD,050,National,3,Flush and pour flush - to pit,0.0,Census and population survey - CEN11
+Bangladesh,BD,BGD,050,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census and population survey - CEN11
+Bangladesh,BD,BGD,050,National,5,Flush and pour flush - to elsewhere,0.0,Census and population survey - CEN11
+Bangladesh,BD,BGD,050,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census and population survey - CEN11
+Bangladesh,BD,BGD,050,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census and population survey - CEN11
+Bangladesh,BD,BGD,050,National,8,Dry latrines - Traditional latrine,0.0,Census and population survey - CEN11
+Bangladesh,BD,BGD,050,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census and population survey - CEN11
+Bangladesh,BD,BGD,050,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census and population survey - CEN11
+Bangladesh,BD,BGD,050,National,11,Dry latrines - Bucket latrine,0.0,Census and population survey - CEN11
+Bangladesh,BD,BGD,050,National,12,Dry latrines - Other,0.0,Census and population survey - CEN11
+Bangladesh,BD,BGD,050,National,13,Composting toilets,0.0,Census and population survey - CEN11
+Bangladesh,BD,BGD,050,National,14,Other improved,0.0,Census and population survey - CEN11
+Bangladesh,BD,BGD,050,National,15,"No facility, bush, field",0.0,Census and population survey - CEN11
+Bangladesh,BD,BGD,050,National,16,Other unimproved,0.0,Census and population survey - CEN11
+Bangladesh,BD,BGD,050,National,17,DK/missing information,0.0,Census and population survey - CEN11
 Bangladesh,BD,BGD,050,Urban,1,Flush and pour flush - to piped sewer system,0.11,Demographic and Health Survey - DHS11
 Bangladesh,BD,BGD,050,Urban,2,Flush and pour flush - to septic tank,0.192,Demographic and Health Survey - DHS11
 Bangladesh,BD,BGD,050,Urban,3,Flush and pour flush - to pit,0.017,Demographic and Health Survey - DHS11
@@ -169,6 +645,23 @@ Bangladesh,BD,BGD,050,Rural,14,Other improved,0.0,Demographic and Health Survey 
 Bangladesh,BD,BGD,050,Rural,15,"No facility, bush, field",0.058,Demographic and Health Survey - DHS11
 Bangladesh,BD,BGD,050,Rural,16,Other unimproved,0.0,Demographic and Health Survey - DHS11
 Bangladesh,BD,BGD,050,Rural,17,DK/missing information,0.0,Demographic and Health Survey - DHS11
+Bangladesh,BD,BGD,050,National,1,Flush and pour flush - to piped sewer system,0.029,Demographic and Health Survey - DHS11
+Bangladesh,BD,BGD,050,National,2,Flush and pour flush - to septic tank,0.079,Demographic and Health Survey - DHS11
+Bangladesh,BD,BGD,050,National,3,Flush and pour flush - to pit,0.01,Demographic and Health Survey - DHS11
+Bangladesh,BD,BGD,050,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.022,Demographic and Health Survey - DHS11
+Bangladesh,BD,BGD,050,National,5,Flush and pour flush - to elsewhere,0.024,Demographic and Health Survey - DHS11
+Bangladesh,BD,BGD,050,National,6,Dry latrines - Ventilated Improved Pit latrine,0.124,Demographic and Health Survey - DHS11
+Bangladesh,BD,BGD,050,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.283,Demographic and Health Survey - DHS11
+Bangladesh,BD,BGD,050,National,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS11
+Bangladesh,BD,BGD,050,National,9,Dry latrines - Pit latrine without slab/open pit,0.313,Demographic and Health Survey - DHS11
+Bangladesh,BD,BGD,050,National,10,Dry latrines - Hanging toilet/hanging latrine,0.069,Demographic and Health Survey - DHS11
+Bangladesh,BD,BGD,050,National,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS11
+Bangladesh,BD,BGD,050,National,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS11
+Bangladesh,BD,BGD,050,National,13,Composting toilets,0.0,Demographic and Health Survey - DHS11
+Bangladesh,BD,BGD,050,National,14,Other improved,0.0,Demographic and Health Survey - DHS11
+Bangladesh,BD,BGD,050,National,15,"No facility, bush, field",0.046,Demographic and Health Survey - DHS11
+Bangladesh,BD,BGD,050,National,16,Other unimproved,0.0,Demographic and Health Survey - DHS11
+Bangladesh,BD,BGD,050,National,17,DK/missing information,0.0,Demographic and Health Survey - DHS11
 Bangladesh,BD,BGD,050,Urban,1,Flush and pour flush - to piped sewer system,0.152,Bangladesh Multiple Indicator Cluster Survey 2013 - MICS13
 Bangladesh,BD,BGD,050,Urban,2,Flush and pour flush - to septic tank,0.268,Bangladesh Multiple Indicator Cluster Survey 2013 - MICS13
 Bangladesh,BD,BGD,050,Urban,3,Flush and pour flush - to pit,0.103,Bangladesh Multiple Indicator Cluster Survey 2013 - MICS13
@@ -203,6 +696,74 @@ Bangladesh,BD,BGD,050,Rural,14,Other improved,0.0,Bangladesh Multiple Indicator 
 Bangladesh,BD,BGD,050,Rural,15,"No facility, bush, field",0.046,Bangladesh Multiple Indicator Cluster Survey 2013 - MICS13
 Bangladesh,BD,BGD,050,Rural,16,Other unimproved,0.003,Bangladesh Multiple Indicator Cluster Survey 2013 - MICS13
 Bangladesh,BD,BGD,050,Rural,17,DK/missing information,0.0,Bangladesh Multiple Indicator Cluster Survey 2013 - MICS13
+Bangladesh,BD,BGD,050,National,1,Flush and pour flush - to piped sewer system,0.032,Bangladesh Multiple Indicator Cluster Survey 2013 - MICS13
+Bangladesh,BD,BGD,050,National,2,Flush and pour flush - to septic tank,0.149,Bangladesh Multiple Indicator Cluster Survey 2013 - MICS13
+Bangladesh,BD,BGD,050,National,3,Flush and pour flush - to pit,0.112,Bangladesh Multiple Indicator Cluster Survey 2013 - MICS13
+Bangladesh,BD,BGD,050,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.005,Bangladesh Multiple Indicator Cluster Survey 2013 - MICS13
+Bangladesh,BD,BGD,050,National,5,Flush and pour flush - to elsewhere,0.015,Bangladesh Multiple Indicator Cluster Survey 2013 - MICS13
+Bangladesh,BD,BGD,050,National,6,Dry latrines - Ventilated Improved Pit latrine,0.035,Bangladesh Multiple Indicator Cluster Survey 2013 - MICS13
+Bangladesh,BD,BGD,050,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.435,Bangladesh Multiple Indicator Cluster Survey 2013 - MICS13
+Bangladesh,BD,BGD,050,National,8,Dry latrines - Traditional latrine,0.0,Bangladesh Multiple Indicator Cluster Survey 2013 - MICS13
+Bangladesh,BD,BGD,050,National,9,Dry latrines - Pit latrine without slab/open pit,0.116,Bangladesh Multiple Indicator Cluster Survey 2013 - MICS13
+Bangladesh,BD,BGD,050,National,10,Dry latrines - Hanging toilet/hanging latrine,0.058,Bangladesh Multiple Indicator Cluster Survey 2013 - MICS13
+Bangladesh,BD,BGD,050,National,11,Dry latrines - Bucket latrine,0.0,Bangladesh Multiple Indicator Cluster Survey 2013 - MICS13
+Bangladesh,BD,BGD,050,National,12,Dry latrines - Other,0.0,Bangladesh Multiple Indicator Cluster Survey 2013 - MICS13
+Bangladesh,BD,BGD,050,National,13,Composting toilets,0.001,Bangladesh Multiple Indicator Cluster Survey 2013 - MICS13
+Bangladesh,BD,BGD,050,National,14,Other improved,0.0,Bangladesh Multiple Indicator Cluster Survey 2013 - MICS13
+Bangladesh,BD,BGD,050,National,15,"No facility, bush, field",0.039,Bangladesh Multiple Indicator Cluster Survey 2013 - MICS13
+Bangladesh,BD,BGD,050,National,16,Other unimproved,0.003,Bangladesh Multiple Indicator Cluster Survey 2013 - MICS13
+Bangladesh,BD,BGD,050,National,17,DK/missing information,0.001,Bangladesh Multiple Indicator Cluster Survey 2013 - MICS13
+Bangladesh,BD,BGD,050,Urban,1,Flush and pour flush - to piped sewer system,0.0,Report on Bangladesh Sample Vital Statistics 2014 - SVRS14
+Bangladesh,BD,BGD,050,Urban,2,Flush and pour flush - to septic tank,0.0,Report on Bangladesh Sample Vital Statistics 2014 - SVRS14
+Bangladesh,BD,BGD,050,Urban,3,Flush and pour flush - to pit,0.0,Report on Bangladesh Sample Vital Statistics 2014 - SVRS14
+Bangladesh,BD,BGD,050,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Report on Bangladesh Sample Vital Statistics 2014 - SVRS14
+Bangladesh,BD,BGD,050,Urban,5,Flush and pour flush - to elsewhere,0.0,Report on Bangladesh Sample Vital Statistics 2014 - SVRS14
+Bangladesh,BD,BGD,050,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Report on Bangladesh Sample Vital Statistics 2014 - SVRS14
+Bangladesh,BD,BGD,050,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Report on Bangladesh Sample Vital Statistics 2014 - SVRS14
+Bangladesh,BD,BGD,050,Urban,8,Dry latrines - Traditional latrine,0.0,Report on Bangladesh Sample Vital Statistics 2014 - SVRS14
+Bangladesh,BD,BGD,050,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Report on Bangladesh Sample Vital Statistics 2014 - SVRS14
+Bangladesh,BD,BGD,050,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Report on Bangladesh Sample Vital Statistics 2014 - SVRS14
+Bangladesh,BD,BGD,050,Urban,11,Dry latrines - Bucket latrine,0.0,Report on Bangladesh Sample Vital Statistics 2014 - SVRS14
+Bangladesh,BD,BGD,050,Urban,12,Dry latrines - Other,0.0,Report on Bangladesh Sample Vital Statistics 2014 - SVRS14
+Bangladesh,BD,BGD,050,Urban,13,Composting toilets,0.0,Report on Bangladesh Sample Vital Statistics 2014 - SVRS14
+Bangladesh,BD,BGD,050,Urban,14,Other improved,0.812,Report on Bangladesh Sample Vital Statistics 2014 - SVRS14
+Bangladesh,BD,BGD,050,Urban,15,"No facility, bush, field",0.006,Report on Bangladesh Sample Vital Statistics 2014 - SVRS14
+Bangladesh,BD,BGD,050,Urban,16,Other unimproved,0.182,Report on Bangladesh Sample Vital Statistics 2014 - SVRS14
+Bangladesh,BD,BGD,050,Urban,17,DK/missing information,0.0,Report on Bangladesh Sample Vital Statistics 2014 - SVRS14
+Bangladesh,BD,BGD,050,Rural,1,Flush and pour flush - to piped sewer system,0.0,Report on Bangladesh Sample Vital Statistics 2014 - SVRS14
+Bangladesh,BD,BGD,050,Rural,2,Flush and pour flush - to septic tank,0.0,Report on Bangladesh Sample Vital Statistics 2014 - SVRS14
+Bangladesh,BD,BGD,050,Rural,3,Flush and pour flush - to pit,0.0,Report on Bangladesh Sample Vital Statistics 2014 - SVRS14
+Bangladesh,BD,BGD,050,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Report on Bangladesh Sample Vital Statistics 2014 - SVRS14
+Bangladesh,BD,BGD,050,Rural,5,Flush and pour flush - to elsewhere,0.0,Report on Bangladesh Sample Vital Statistics 2014 - SVRS14
+Bangladesh,BD,BGD,050,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Report on Bangladesh Sample Vital Statistics 2014 - SVRS14
+Bangladesh,BD,BGD,050,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Report on Bangladesh Sample Vital Statistics 2014 - SVRS14
+Bangladesh,BD,BGD,050,Rural,8,Dry latrines - Traditional latrine,0.0,Report on Bangladesh Sample Vital Statistics 2014 - SVRS14
+Bangladesh,BD,BGD,050,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Report on Bangladesh Sample Vital Statistics 2014 - SVRS14
+Bangladesh,BD,BGD,050,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Report on Bangladesh Sample Vital Statistics 2014 - SVRS14
+Bangladesh,BD,BGD,050,Rural,11,Dry latrines - Bucket latrine,0.0,Report on Bangladesh Sample Vital Statistics 2014 - SVRS14
+Bangladesh,BD,BGD,050,Rural,12,Dry latrines - Other,0.0,Report on Bangladesh Sample Vital Statistics 2014 - SVRS14
+Bangladesh,BD,BGD,050,Rural,13,Composting toilets,0.0,Report on Bangladesh Sample Vital Statistics 2014 - SVRS14
+Bangladesh,BD,BGD,050,Rural,14,Other improved,0.581,Report on Bangladesh Sample Vital Statistics 2014 - SVRS14
+Bangladesh,BD,BGD,050,Rural,15,"No facility, bush, field",0.026,Report on Bangladesh Sample Vital Statistics 2014 - SVRS14
+Bangladesh,BD,BGD,050,Rural,16,Other unimproved,0.393,Report on Bangladesh Sample Vital Statistics 2014 - SVRS14
+Bangladesh,BD,BGD,050,Rural,17,DK/missing information,0.0,Report on Bangladesh Sample Vital Statistics 2014 - SVRS14
+Bangladesh,BD,BGD,050,National,1,Flush and pour flush - to piped sewer system,0.0,Report on Bangladesh Sample Vital Statistics 2014 - SVRS14
+Bangladesh,BD,BGD,050,National,2,Flush and pour flush - to septic tank,0.0,Report on Bangladesh Sample Vital Statistics 2014 - SVRS14
+Bangladesh,BD,BGD,050,National,3,Flush and pour flush - to pit,0.0,Report on Bangladesh Sample Vital Statistics 2014 - SVRS14
+Bangladesh,BD,BGD,050,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Report on Bangladesh Sample Vital Statistics 2014 - SVRS14
+Bangladesh,BD,BGD,050,National,5,Flush and pour flush - to elsewhere,0.0,Report on Bangladesh Sample Vital Statistics 2014 - SVRS14
+Bangladesh,BD,BGD,050,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Report on Bangladesh Sample Vital Statistics 2014 - SVRS14
+Bangladesh,BD,BGD,050,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Report on Bangladesh Sample Vital Statistics 2014 - SVRS14
+Bangladesh,BD,BGD,050,National,8,Dry latrines - Traditional latrine,0.0,Report on Bangladesh Sample Vital Statistics 2014 - SVRS14
+Bangladesh,BD,BGD,050,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Report on Bangladesh Sample Vital Statistics 2014 - SVRS14
+Bangladesh,BD,BGD,050,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Report on Bangladesh Sample Vital Statistics 2014 - SVRS14
+Bangladesh,BD,BGD,050,National,11,Dry latrines - Bucket latrine,0.0,Report on Bangladesh Sample Vital Statistics 2014 - SVRS14
+Bangladesh,BD,BGD,050,National,12,Dry latrines - Other,0.0,Report on Bangladesh Sample Vital Statistics 2014 - SVRS14
+Bangladesh,BD,BGD,050,National,13,Composting toilets,0.0,Report on Bangladesh Sample Vital Statistics 2014 - SVRS14
+Bangladesh,BD,BGD,050,National,14,Other improved,0.635,Report on Bangladesh Sample Vital Statistics 2014 - SVRS14
+Bangladesh,BD,BGD,050,National,15,"No facility, bush, field",0.021,Report on Bangladesh Sample Vital Statistics 2014 - SVRS14
+Bangladesh,BD,BGD,050,National,16,Other unimproved,0.344,Report on Bangladesh Sample Vital Statistics 2014 - SVRS14
+Bangladesh,BD,BGD,050,National,17,DK/missing information,0.0,Report on Bangladesh Sample Vital Statistics 2014 - SVRS14
 Bangladesh,BD,BGD,050,Urban,1,Flush and pour flush - to piped sewer system,0.108,Demographic and Health Survey - DHS14
 Bangladesh,BD,BGD,050,Urban,2,Flush and pour flush - to septic tank,0.24,Demographic and Health Survey - DHS14
 Bangladesh,BD,BGD,050,Urban,3,Flush and pour flush - to pit,0.022,Demographic and Health Survey - DHS14
@@ -237,3 +798,176 @@ Bangladesh,BD,BGD,050,Rural,14,Other improved,0.0,Demographic and Health Survey 
 Bangladesh,BD,BGD,050,Rural,15,"No facility, bush, field",0.042,Demographic and Health Survey - DHS14
 Bangladesh,BD,BGD,050,Rural,16,Other unimproved,0.0,Demographic and Health Survey - DHS14
 Bangladesh,BD,BGD,050,Rural,17,DK/missing information,0.0,Demographic and Health Survey - DHS14
+Bangladesh,BD,BGD,050,National,1,Flush and pour flush - to piped sewer system,0.031,Demographic and Health Survey - DHS14
+Bangladesh,BD,BGD,050,National,2,Flush and pour flush - to septic tank,0.112,Demographic and Health Survey - DHS14
+Bangladesh,BD,BGD,050,National,3,Flush and pour flush - to pit,0.013,Demographic and Health Survey - DHS14
+Bangladesh,BD,BGD,050,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.007,Demographic and Health Survey - DHS14
+Bangladesh,BD,BGD,050,National,5,Flush and pour flush - to elsewhere,0.016,Demographic and Health Survey - DHS14
+Bangladesh,BD,BGD,050,National,6,Dry latrines - Ventilated Improved Pit latrine,0.162,Demographic and Health Survey - DHS14
+Bangladesh,BD,BGD,050,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.369,Demographic and Health Survey - DHS14
+Bangladesh,BD,BGD,050,National,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS14
+Bangladesh,BD,BGD,050,National,9,Dry latrines - Pit latrine without slab/open pit,0.223,Demographic and Health Survey - DHS14
+Bangladesh,BD,BGD,050,National,10,Dry latrines - Hanging toilet/hanging latrine,0.033,Demographic and Health Survey - DHS14
+Bangladesh,BD,BGD,050,National,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS14
+Bangladesh,BD,BGD,050,National,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS14
+Bangladesh,BD,BGD,050,National,13,Composting toilets,0.0,Demographic and Health Survey - DHS14
+Bangladesh,BD,BGD,050,National,14,Other improved,0.0,Demographic and Health Survey - DHS14
+Bangladesh,BD,BGD,050,National,15,"No facility, bush, field",0.033,Demographic and Health Survey - DHS14
+Bangladesh,BD,BGD,050,National,16,Other unimproved,0.0,Demographic and Health Survey - DHS14
+Bangladesh,BD,BGD,050,National,17,DK/missing information,0.0,Demographic and Health Survey - DHS14
+Bangladesh,BD,BGD,050,Urban,1,Flush and pour flush - to piped sewer system,0.0,Preliinary report on Household Income and Expenditure Survey 2016 - pHIES16
+Bangladesh,BD,BGD,050,Urban,2,Flush and pour flush - to septic tank,0.0,Preliinary report on Household Income and Expenditure Survey 2016 - pHIES16
+Bangladesh,BD,BGD,050,Urban,3,Flush and pour flush - to pit,0.0,Preliinary report on Household Income and Expenditure Survey 2016 - pHIES16
+Bangladesh,BD,BGD,050,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Preliinary report on Household Income and Expenditure Survey 2016 - pHIES16
+Bangladesh,BD,BGD,050,Urban,5,Flush and pour flush - to elsewhere,0.0,Preliinary report on Household Income and Expenditure Survey 2016 - pHIES16
+Bangladesh,BD,BGD,050,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Preliinary report on Household Income and Expenditure Survey 2016 - pHIES16
+Bangladesh,BD,BGD,050,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.151,Preliinary report on Household Income and Expenditure Survey 2016 - pHIES16
+Bangladesh,BD,BGD,050,Urban,8,Dry latrines - Traditional latrine,0.0,Preliinary report on Household Income and Expenditure Survey 2016 - pHIES16
+Bangladesh,BD,BGD,050,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Preliinary report on Household Income and Expenditure Survey 2016 - pHIES16
+Bangladesh,BD,BGD,050,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Preliinary report on Household Income and Expenditure Survey 2016 - pHIES16
+Bangladesh,BD,BGD,050,Urban,11,Dry latrines - Bucket latrine,0.0,Preliinary report on Household Income and Expenditure Survey 2016 - pHIES16
+Bangladesh,BD,BGD,050,Urban,12,Dry latrines - Other,0.169,Preliinary report on Household Income and Expenditure Survey 2016 - pHIES16
+Bangladesh,BD,BGD,050,Urban,13,Composting toilets,0.0,Preliinary report on Household Income and Expenditure Survey 2016 - pHIES16
+Bangladesh,BD,BGD,050,Urban,14,Other improved,0.0,Preliinary report on Household Income and Expenditure Survey 2016 - pHIES16
+Bangladesh,BD,BGD,050,Urban,15,"No facility, bush, field",0.009,Preliinary report on Household Income and Expenditure Survey 2016 - pHIES16
+Bangladesh,BD,BGD,050,Urban,16,Other unimproved,0.0,Preliinary report on Household Income and Expenditure Survey 2016 - pHIES16
+Bangladesh,BD,BGD,050,Urban,17,DK/missing information,0.0,Preliinary report on Household Income and Expenditure Survey 2016 - pHIES16
+Bangladesh,BD,BGD,050,Rural,1,Flush and pour flush - to piped sewer system,0.0,Preliinary report on Household Income and Expenditure Survey 2016 - pHIES16
+Bangladesh,BD,BGD,050,Rural,2,Flush and pour flush - to septic tank,0.0,Preliinary report on Household Income and Expenditure Survey 2016 - pHIES16
+Bangladesh,BD,BGD,050,Rural,3,Flush and pour flush - to pit,0.0,Preliinary report on Household Income and Expenditure Survey 2016 - pHIES16
+Bangladesh,BD,BGD,050,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Preliinary report on Household Income and Expenditure Survey 2016 - pHIES16
+Bangladesh,BD,BGD,050,Rural,5,Flush and pour flush - to elsewhere,0.0,Preliinary report on Household Income and Expenditure Survey 2016 - pHIES16
+Bangladesh,BD,BGD,050,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Preliinary report on Household Income and Expenditure Survey 2016 - pHIES16
+Bangladesh,BD,BGD,050,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.186,Preliinary report on Household Income and Expenditure Survey 2016 - pHIES16
+Bangladesh,BD,BGD,050,Rural,8,Dry latrines - Traditional latrine,0.0,Preliinary report on Household Income and Expenditure Survey 2016 - pHIES16
+Bangladesh,BD,BGD,050,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Preliinary report on Household Income and Expenditure Survey 2016 - pHIES16
+Bangladesh,BD,BGD,050,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Preliinary report on Household Income and Expenditure Survey 2016 - pHIES16
+Bangladesh,BD,BGD,050,Rural,11,Dry latrines - Bucket latrine,0.0,Preliinary report on Household Income and Expenditure Survey 2016 - pHIES16
+Bangladesh,BD,BGD,050,Rural,12,Dry latrines - Other,0.43,Preliinary report on Household Income and Expenditure Survey 2016 - pHIES16
+Bangladesh,BD,BGD,050,Rural,13,Composting toilets,0.0,Preliinary report on Household Income and Expenditure Survey 2016 - pHIES16
+Bangladesh,BD,BGD,050,Rural,14,Other improved,0.0,Preliinary report on Household Income and Expenditure Survey 2016 - pHIES16
+Bangladesh,BD,BGD,050,Rural,15,"No facility, bush, field",0.037,Preliinary report on Household Income and Expenditure Survey 2016 - pHIES16
+Bangladesh,BD,BGD,050,Rural,16,Other unimproved,0.0,Preliinary report on Household Income and Expenditure Survey 2016 - pHIES16
+Bangladesh,BD,BGD,050,Rural,17,DK/missing information,0.0,Preliinary report on Household Income and Expenditure Survey 2016 - pHIES16
+Bangladesh,BD,BGD,050,National,1,Flush and pour flush - to piped sewer system,0.0,Preliinary report on Household Income and Expenditure Survey 2016 - pHIES16
+Bangladesh,BD,BGD,050,National,2,Flush and pour flush - to septic tank,0.0,Preliinary report on Household Income and Expenditure Survey 2016 - pHIES16
+Bangladesh,BD,BGD,050,National,3,Flush and pour flush - to pit,0.0,Preliinary report on Household Income and Expenditure Survey 2016 - pHIES16
+Bangladesh,BD,BGD,050,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Preliinary report on Household Income and Expenditure Survey 2016 - pHIES16
+Bangladesh,BD,BGD,050,National,5,Flush and pour flush - to elsewhere,0.0,Preliinary report on Household Income and Expenditure Survey 2016 - pHIES16
+Bangladesh,BD,BGD,050,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Preliinary report on Household Income and Expenditure Survey 2016 - pHIES16
+Bangladesh,BD,BGD,050,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.177,Preliinary report on Household Income and Expenditure Survey 2016 - pHIES16
+Bangladesh,BD,BGD,050,National,8,Dry latrines - Traditional latrine,0.0,Preliinary report on Household Income and Expenditure Survey 2016 - pHIES16
+Bangladesh,BD,BGD,050,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Preliinary report on Household Income and Expenditure Survey 2016 - pHIES16
+Bangladesh,BD,BGD,050,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Preliinary report on Household Income and Expenditure Survey 2016 - pHIES16
+Bangladesh,BD,BGD,050,National,11,Dry latrines - Bucket latrine,0.0,Preliinary report on Household Income and Expenditure Survey 2016 - pHIES16
+Bangladesh,BD,BGD,050,National,12,Dry latrines - Other,0.357,Preliinary report on Household Income and Expenditure Survey 2016 - pHIES16
+Bangladesh,BD,BGD,050,National,13,Composting toilets,0.0,Preliinary report on Household Income and Expenditure Survey 2016 - pHIES16
+Bangladesh,BD,BGD,050,National,14,Other improved,0.0,Preliinary report on Household Income and Expenditure Survey 2016 - pHIES16
+Bangladesh,BD,BGD,050,National,15,"No facility, bush, field",0.03,Preliinary report on Household Income and Expenditure Survey 2016 - pHIES16
+Bangladesh,BD,BGD,050,National,16,Other unimproved,0.0,Preliinary report on Household Income and Expenditure Survey 2016 - pHIES16
+Bangladesh,BD,BGD,050,National,17,DK/missing information,0.0,Preliinary report on Household Income and Expenditure Survey 2016 - pHIES16
+Bangladesh,BD,BGD,050,Urban,1,Flush and pour flush - to piped sewer system,0.0,Report on Bangladesh Vital Statistics 2016 - SVRS16
+Bangladesh,BD,BGD,050,Urban,2,Flush and pour flush - to septic tank,0.0,Report on Bangladesh Vital Statistics 2016 - SVRS16
+Bangladesh,BD,BGD,050,Urban,3,Flush and pour flush - to pit,0.0,Report on Bangladesh Vital Statistics 2016 - SVRS16
+Bangladesh,BD,BGD,050,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Report on Bangladesh Vital Statistics 2016 - SVRS16
+Bangladesh,BD,BGD,050,Urban,5,Flush and pour flush - to elsewhere,0.0,Report on Bangladesh Vital Statistics 2016 - SVRS16
+Bangladesh,BD,BGD,050,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Report on Bangladesh Vital Statistics 2016 - SVRS16
+Bangladesh,BD,BGD,050,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Report on Bangladesh Vital Statistics 2016 - SVRS16
+Bangladesh,BD,BGD,050,Urban,8,Dry latrines - Traditional latrine,0.0,Report on Bangladesh Vital Statistics 2016 - SVRS16
+Bangladesh,BD,BGD,050,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Report on Bangladesh Vital Statistics 2016 - SVRS16
+Bangladesh,BD,BGD,050,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Report on Bangladesh Vital Statistics 2016 - SVRS16
+Bangladesh,BD,BGD,050,Urban,11,Dry latrines - Bucket latrine,0.0,Report on Bangladesh Vital Statistics 2016 - SVRS16
+Bangladesh,BD,BGD,050,Urban,12,Dry latrines - Other,0.0,Report on Bangladesh Vital Statistics 2016 - SVRS16
+Bangladesh,BD,BGD,050,Urban,13,Composting toilets,0.0,Report on Bangladesh Vital Statistics 2016 - SVRS16
+Bangladesh,BD,BGD,050,Urban,14,Other improved,0.861,Report on Bangladesh Vital Statistics 2016 - SVRS16
+Bangladesh,BD,BGD,050,Urban,15,"No facility, bush, field",0.011,Report on Bangladesh Vital Statistics 2016 - SVRS16
+Bangladesh,BD,BGD,050,Urban,16,Other unimproved,0.128,Report on Bangladesh Vital Statistics 2016 - SVRS16
+Bangladesh,BD,BGD,050,Urban,17,DK/missing information,0.0,Report on Bangladesh Vital Statistics 2016 - SVRS16
+Bangladesh,BD,BGD,050,Rural,1,Flush and pour flush - to piped sewer system,0.0,Report on Bangladesh Vital Statistics 2016 - SVRS16
+Bangladesh,BD,BGD,050,Rural,2,Flush and pour flush - to septic tank,0.0,Report on Bangladesh Vital Statistics 2016 - SVRS16
+Bangladesh,BD,BGD,050,Rural,3,Flush and pour flush - to pit,0.0,Report on Bangladesh Vital Statistics 2016 - SVRS16
+Bangladesh,BD,BGD,050,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Report on Bangladesh Vital Statistics 2016 - SVRS16
+Bangladesh,BD,BGD,050,Rural,5,Flush and pour flush - to elsewhere,0.0,Report on Bangladesh Vital Statistics 2016 - SVRS16
+Bangladesh,BD,BGD,050,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Report on Bangladesh Vital Statistics 2016 - SVRS16
+Bangladesh,BD,BGD,050,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Report on Bangladesh Vital Statistics 2016 - SVRS16
+Bangladesh,BD,BGD,050,Rural,8,Dry latrines - Traditional latrine,0.0,Report on Bangladesh Vital Statistics 2016 - SVRS16
+Bangladesh,BD,BGD,050,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Report on Bangladesh Vital Statistics 2016 - SVRS16
+Bangladesh,BD,BGD,050,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Report on Bangladesh Vital Statistics 2016 - SVRS16
+Bangladesh,BD,BGD,050,Rural,11,Dry latrines - Bucket latrine,0.0,Report on Bangladesh Vital Statistics 2016 - SVRS16
+Bangladesh,BD,BGD,050,Rural,12,Dry latrines - Other,0.0,Report on Bangladesh Vital Statistics 2016 - SVRS16
+Bangladesh,BD,BGD,050,Rural,13,Composting toilets,0.0,Report on Bangladesh Vital Statistics 2016 - SVRS16
+Bangladesh,BD,BGD,050,Rural,14,Other improved,0.659,Report on Bangladesh Vital Statistics 2016 - SVRS16
+Bangladesh,BD,BGD,050,Rural,15,"No facility, bush, field",0.04,Report on Bangladesh Vital Statistics 2016 - SVRS16
+Bangladesh,BD,BGD,050,Rural,16,Other unimproved,0.302,Report on Bangladesh Vital Statistics 2016 - SVRS16
+Bangladesh,BD,BGD,050,Rural,17,DK/missing information,0.0,Report on Bangladesh Vital Statistics 2016 - SVRS16
+Bangladesh,BD,BGD,050,National,1,Flush and pour flush - to piped sewer system,0.0,Report on Bangladesh Vital Statistics 2016 - SVRS16
+Bangladesh,BD,BGD,050,National,2,Flush and pour flush - to septic tank,0.0,Report on Bangladesh Vital Statistics 2016 - SVRS16
+Bangladesh,BD,BGD,050,National,3,Flush and pour flush - to pit,0.0,Report on Bangladesh Vital Statistics 2016 - SVRS16
+Bangladesh,BD,BGD,050,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Report on Bangladesh Vital Statistics 2016 - SVRS16
+Bangladesh,BD,BGD,050,National,5,Flush and pour flush - to elsewhere,0.0,Report on Bangladesh Vital Statistics 2016 - SVRS16
+Bangladesh,BD,BGD,050,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Report on Bangladesh Vital Statistics 2016 - SVRS16
+Bangladesh,BD,BGD,050,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Report on Bangladesh Vital Statistics 2016 - SVRS16
+Bangladesh,BD,BGD,050,National,8,Dry latrines - Traditional latrine,0.0,Report on Bangladesh Vital Statistics 2016 - SVRS16
+Bangladesh,BD,BGD,050,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Report on Bangladesh Vital Statistics 2016 - SVRS16
+Bangladesh,BD,BGD,050,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Report on Bangladesh Vital Statistics 2016 - SVRS16
+Bangladesh,BD,BGD,050,National,11,Dry latrines - Bucket latrine,0.0,Report on Bangladesh Vital Statistics 2016 - SVRS16
+Bangladesh,BD,BGD,050,National,12,Dry latrines - Other,0.0,Report on Bangladesh Vital Statistics 2016 - SVRS16
+Bangladesh,BD,BGD,050,National,13,Composting toilets,0.0,Report on Bangladesh Vital Statistics 2016 - SVRS16
+Bangladesh,BD,BGD,050,National,14,Other improved,0.75,Report on Bangladesh Vital Statistics 2016 - SVRS16
+Bangladesh,BD,BGD,050,National,15,"No facility, bush, field",0.027,Report on Bangladesh Vital Statistics 2016 - SVRS16
+Bangladesh,BD,BGD,050,National,16,Other unimproved,0.223,Report on Bangladesh Vital Statistics 2016 - SVRS16
+Bangladesh,BD,BGD,050,National,17,DK/missing information,0.0,Report on Bangladesh Vital Statistics 2016 - SVRS16
+Bangladesh,BD,BGD,050,Urban,1,Flush and pour flush - to piped sewer system,0.141,World Health Survey - WHS03
+Bangladesh,BD,BGD,050,Urban,2,Flush and pour flush - to septic tank,0.218,World Health Survey - WHS03
+Bangladesh,BD,BGD,050,Urban,3,Flush and pour flush - to pit,0.0,World Health Survey - WHS03
+Bangladesh,BD,BGD,050,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,World Health Survey - WHS03
+Bangladesh,BD,BGD,050,Urban,5,Flush and pour flush - to elsewhere,0.0,World Health Survey - WHS03
+Bangladesh,BD,BGD,050,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,World Health Survey - WHS03
+Bangladesh,BD,BGD,050,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.292,World Health Survey - WHS03
+Bangladesh,BD,BGD,050,Urban,8,Dry latrines - Traditional latrine,0.0,World Health Survey - WHS03
+Bangladesh,BD,BGD,050,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.056,World Health Survey - WHS03
+Bangladesh,BD,BGD,050,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,World Health Survey - WHS03
+Bangladesh,BD,BGD,050,Urban,11,Dry latrines - Bucket latrine,0.001,World Health Survey - WHS03
+Bangladesh,BD,BGD,050,Urban,11,Dry latrines - Bucket latrine,0.001,World Health Survey - WHS03
+Bangladesh,BD,BGD,050,Urban,12,Dry latrines - Other,0.0,World Health Survey - WHS03
+Bangladesh,BD,BGD,050,Urban,13,Composting toilets,0.0,World Health Survey - WHS03
+Bangladesh,BD,BGD,050,Urban,14,Other improved,0.0,World Health Survey - WHS03
+Bangladesh,BD,BGD,050,Urban,15,"No facility, bush, field",0.03,World Health Survey - WHS03
+Bangladesh,BD,BGD,050,Urban,16,Other unimproved,0.005,World Health Survey - WHS03
+Bangladesh,BD,BGD,050,Urban,17,DK/missing information,0.0,World Health Survey - WHS03
+Bangladesh,BD,BGD,050,Rural,1,Flush and pour flush - to piped sewer system,0.006,World Health Survey - WHS03
+Bangladesh,BD,BGD,050,Rural,2,Flush and pour flush - to septic tank,0.049,World Health Survey - WHS03
+Bangladesh,BD,BGD,050,Rural,3,Flush and pour flush - to pit,0.0,World Health Survey - WHS03
+Bangladesh,BD,BGD,050,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,World Health Survey - WHS03
+Bangladesh,BD,BGD,050,Rural,5,Flush and pour flush - to elsewhere,0.0,World Health Survey - WHS03
+Bangladesh,BD,BGD,050,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,World Health Survey - WHS03
+Bangladesh,BD,BGD,050,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.444,World Health Survey - WHS03
+Bangladesh,BD,BGD,050,Rural,8,Dry latrines - Traditional latrine,0.0,World Health Survey - WHS03
+Bangladesh,BD,BGD,050,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.161,World Health Survey - WHS03
+Bangladesh,BD,BGD,050,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,World Health Survey - WHS03
+Bangladesh,BD,BGD,050,Rural,11,Dry latrines - Bucket latrine,0.003,World Health Survey - WHS03
+Bangladesh,BD,BGD,050,Rural,11,Dry latrines - Bucket latrine,0.003,World Health Survey - WHS03
+Bangladesh,BD,BGD,050,Rural,12,Dry latrines - Other,0.0,World Health Survey - WHS03
+Bangladesh,BD,BGD,050,Rural,13,Composting toilets,0.0,World Health Survey - WHS03
+Bangladesh,BD,BGD,050,Rural,14,Other improved,0.0,World Health Survey - WHS03
+Bangladesh,BD,BGD,050,Rural,15,"No facility, bush, field",0.201,World Health Survey - WHS03
+Bangladesh,BD,BGD,050,Rural,16,Other unimproved,0.043,World Health Survey - WHS03
+Bangladesh,BD,BGD,050,Rural,17,DK/missing information,0.0,World Health Survey - WHS03
+Bangladesh,BD,BGD,050,National,1,Flush and pour flush - to piped sewer system,0.032,World Health Survey - WHS03
+Bangladesh,BD,BGD,050,National,2,Flush and pour flush - to septic tank,0.083,World Health Survey - WHS03
+Bangladesh,BD,BGD,050,National,3,Flush and pour flush - to pit,0.0,World Health Survey - WHS03
+Bangladesh,BD,BGD,050,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,World Health Survey - WHS03
+Bangladesh,BD,BGD,050,National,5,Flush and pour flush - to elsewhere,0.0,World Health Survey - WHS03
+Bangladesh,BD,BGD,050,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,World Health Survey - WHS03
+Bangladesh,BD,BGD,050,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.414,World Health Survey - WHS03
+Bangladesh,BD,BGD,050,National,8,Dry latrines - Traditional latrine,0.0,World Health Survey - WHS03
+Bangladesh,BD,BGD,050,National,9,Dry latrines - Pit latrine without slab/open pit,0.14,World Health Survey - WHS03
+Bangladesh,BD,BGD,050,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,World Health Survey - WHS03
+Bangladesh,BD,BGD,050,National,11,Dry latrines - Bucket latrine,0.002,World Health Survey - WHS03
+Bangladesh,BD,BGD,050,National,11,Dry latrines - Bucket latrine,0.002,World Health Survey - WHS03
+Bangladesh,BD,BGD,050,National,12,Dry latrines - Other,0.0,World Health Survey - WHS03
+Bangladesh,BD,BGD,050,National,13,Composting toilets,0.0,World Health Survey - WHS03
+Bangladesh,BD,BGD,050,National,14,Other improved,0.0,World Health Survey - WHS03
+Bangladesh,BD,BGD,050,National,15,"No facility, bush, field",0.168,World Health Survey - WHS03
+Bangladesh,BD,BGD,050,National,16,Other unimproved,0.035,World Health Survey - WHS03
+Bangladesh,BD,BGD,050,National,17,DK/missing information,0.0,World Health Survey - WHS03

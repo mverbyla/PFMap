@@ -1,0 +1,103 @@
+country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+Dominica,DM,DMA,212,Urban,1,Flush and pour flush - to piped sewer system,0.244,Population and Housing Census - CEN01
+Dominica,DM,DMA,212,Urban,2,Flush and pour flush - to septic tank,0.451,Population and Housing Census - CEN01
+Dominica,DM,DMA,212,Urban,3,Flush and pour flush - to pit,0.0,Population and Housing Census - CEN01
+Dominica,DM,DMA,212,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Population and Housing Census - CEN01
+Dominica,DM,DMA,212,Urban,5,Flush and pour flush - to elsewhere,0.0,Population and Housing Census - CEN01
+Dominica,DM,DMA,212,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Population and Housing Census - CEN01
+Dominica,DM,DMA,212,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Population and Housing Census - CEN01
+Dominica,DM,DMA,212,Urban,8,Dry latrines - Traditional latrine,0.101,Population and Housing Census - CEN01
+Dominica,DM,DMA,212,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Population and Housing Census - CEN01
+Dominica,DM,DMA,212,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Population and Housing Census - CEN01
+Dominica,DM,DMA,212,Urban,11,Dry latrines - Bucket latrine,0.0,Population and Housing Census - CEN01
+Dominica,DM,DMA,212,Urban,12,Dry latrines - Other,0.0,Population and Housing Census - CEN01
+Dominica,DM,DMA,212,Urban,13,Composting toilets,0.0,Population and Housing Census - CEN01
+Dominica,DM,DMA,212,Urban,14,Other improved,0.0,Population and Housing Census - CEN01
+Dominica,DM,DMA,212,Urban,15,"No facility, bush, field",0.177,Population and Housing Census - CEN01
+Dominica,DM,DMA,212,Urban,16,Other unimproved,0.028,Population and Housing Census - CEN01
+Dominica,DM,DMA,212,Urban,17,DK/missing information,0.0,Population and Housing Census - CEN01
+Dominica,DM,DMA,212,Rural,1,Flush and pour flush - to piped sewer system,0.033,Population and Housing Census - CEN01
+Dominica,DM,DMA,212,Rural,2,Flush and pour flush - to septic tank,0.357,Population and Housing Census - CEN01
+Dominica,DM,DMA,212,Rural,3,Flush and pour flush - to pit,0.0,Population and Housing Census - CEN01
+Dominica,DM,DMA,212,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Population and Housing Census - CEN01
+Dominica,DM,DMA,212,Rural,5,Flush and pour flush - to elsewhere,0.0,Population and Housing Census - CEN01
+Dominica,DM,DMA,212,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Population and Housing Census - CEN01
+Dominica,DM,DMA,212,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Population and Housing Census - CEN01
+Dominica,DM,DMA,212,Rural,8,Dry latrines - Traditional latrine,0.454,Population and Housing Census - CEN01
+Dominica,DM,DMA,212,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Population and Housing Census - CEN01
+Dominica,DM,DMA,212,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Population and Housing Census - CEN01
+Dominica,DM,DMA,212,Rural,11,Dry latrines - Bucket latrine,0.0,Population and Housing Census - CEN01
+Dominica,DM,DMA,212,Rural,12,Dry latrines - Other,0.0,Population and Housing Census - CEN01
+Dominica,DM,DMA,212,Rural,13,Composting toilets,0.0,Population and Housing Census - CEN01
+Dominica,DM,DMA,212,Rural,14,Other improved,0.0,Population and Housing Census - CEN01
+Dominica,DM,DMA,212,Rural,15,"No facility, bush, field",0.144,Population and Housing Census - CEN01
+Dominica,DM,DMA,212,Rural,16,Other unimproved,0.013,Population and Housing Census - CEN01
+Dominica,DM,DMA,212,Rural,17,DK/missing information,0.0,Population and Housing Census - CEN01
+Dominica,DM,DMA,212,National,1,Flush and pour flush - to piped sewer system,0.135,Population and Housing Census - CEN01
+Dominica,DM,DMA,212,National,2,Flush and pour flush - to septic tank,0.402,Population and Housing Census - CEN01
+Dominica,DM,DMA,212,National,3,Flush and pour flush - to pit,0.0,Population and Housing Census - CEN01
+Dominica,DM,DMA,212,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Population and Housing Census - CEN01
+Dominica,DM,DMA,212,National,5,Flush and pour flush - to elsewhere,0.0,Population and Housing Census - CEN01
+Dominica,DM,DMA,212,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Population and Housing Census - CEN01
+Dominica,DM,DMA,212,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Population and Housing Census - CEN01
+Dominica,DM,DMA,212,National,8,Dry latrines - Traditional latrine,0.282,Population and Housing Census - CEN01
+Dominica,DM,DMA,212,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Population and Housing Census - CEN01
+Dominica,DM,DMA,212,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Population and Housing Census - CEN01
+Dominica,DM,DMA,212,National,11,Dry latrines - Bucket latrine,0.0,Population and Housing Census - CEN01
+Dominica,DM,DMA,212,National,12,Dry latrines - Other,0.0,Population and Housing Census - CEN01
+Dominica,DM,DMA,212,National,13,Composting toilets,0.0,Population and Housing Census - CEN01
+Dominica,DM,DMA,212,National,14,Other improved,0.0,Population and Housing Census - CEN01
+Dominica,DM,DMA,212,National,15,"No facility, bush, field",0.16,Population and Housing Census - CEN01
+Dominica,DM,DMA,212,National,16,Other unimproved,0.02,Population and Housing Census - CEN01
+Dominica,DM,DMA,212,National,17,DK/missing information,0.0,Population and Housing Census - CEN01
+Dominica,DM,DMA,212,Urban,1,Flush and pour flush - to piped sewer system,0.0,Country Poverty Assessment - CPA09
+Dominica,DM,DMA,212,Urban,2,Flush and pour flush - to septic tank,0.0,Country Poverty Assessment - CPA09
+Dominica,DM,DMA,212,Urban,3,Flush and pour flush - to pit,0.0,Country Poverty Assessment - CPA09
+Dominica,DM,DMA,212,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Country Poverty Assessment - CPA09
+Dominica,DM,DMA,212,Urban,5,Flush and pour flush - to elsewhere,0.0,Country Poverty Assessment - CPA09
+Dominica,DM,DMA,212,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Country Poverty Assessment - CPA09
+Dominica,DM,DMA,212,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Country Poverty Assessment - CPA09
+Dominica,DM,DMA,212,Urban,8,Dry latrines - Traditional latrine,0.0,Country Poverty Assessment - CPA09
+Dominica,DM,DMA,212,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Country Poverty Assessment - CPA09
+Dominica,DM,DMA,212,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Country Poverty Assessment - CPA09
+Dominica,DM,DMA,212,Urban,11,Dry latrines - Bucket latrine,0.0,Country Poverty Assessment - CPA09
+Dominica,DM,DMA,212,Urban,12,Dry latrines - Other,0.0,Country Poverty Assessment - CPA09
+Dominica,DM,DMA,212,Urban,13,Composting toilets,0.0,Country Poverty Assessment - CPA09
+Dominica,DM,DMA,212,Urban,14,Other improved,0.0,Country Poverty Assessment - CPA09
+Dominica,DM,DMA,212,Urban,15,"No facility, bush, field",0.0,Country Poverty Assessment - CPA09
+Dominica,DM,DMA,212,Urban,16,Other unimproved,0.0,Country Poverty Assessment - CPA09
+Dominica,DM,DMA,212,Urban,17,DK/missing information,0.0,Country Poverty Assessment - CPA09
+Dominica,DM,DMA,212,Rural,1,Flush and pour flush - to piped sewer system,0.0,Country Poverty Assessment - CPA09
+Dominica,DM,DMA,212,Rural,2,Flush and pour flush - to septic tank,0.0,Country Poverty Assessment - CPA09
+Dominica,DM,DMA,212,Rural,3,Flush and pour flush - to pit,0.0,Country Poverty Assessment - CPA09
+Dominica,DM,DMA,212,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Country Poverty Assessment - CPA09
+Dominica,DM,DMA,212,Rural,5,Flush and pour flush - to elsewhere,0.0,Country Poverty Assessment - CPA09
+Dominica,DM,DMA,212,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Country Poverty Assessment - CPA09
+Dominica,DM,DMA,212,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Country Poverty Assessment - CPA09
+Dominica,DM,DMA,212,Rural,8,Dry latrines - Traditional latrine,0.0,Country Poverty Assessment - CPA09
+Dominica,DM,DMA,212,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Country Poverty Assessment - CPA09
+Dominica,DM,DMA,212,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Country Poverty Assessment - CPA09
+Dominica,DM,DMA,212,Rural,11,Dry latrines - Bucket latrine,0.0,Country Poverty Assessment - CPA09
+Dominica,DM,DMA,212,Rural,12,Dry latrines - Other,0.0,Country Poverty Assessment - CPA09
+Dominica,DM,DMA,212,Rural,13,Composting toilets,0.0,Country Poverty Assessment - CPA09
+Dominica,DM,DMA,212,Rural,14,Other improved,0.0,Country Poverty Assessment - CPA09
+Dominica,DM,DMA,212,Rural,15,"No facility, bush, field",0.0,Country Poverty Assessment - CPA09
+Dominica,DM,DMA,212,Rural,16,Other unimproved,0.0,Country Poverty Assessment - CPA09
+Dominica,DM,DMA,212,Rural,17,DK/missing information,0.0,Country Poverty Assessment - CPA09
+Dominica,DM,DMA,212,National,1,Flush and pour flush - to piped sewer system,0.146,Country Poverty Assessment - CPA09
+Dominica,DM,DMA,212,National,2,Flush and pour flush - to septic tank,0.506,Country Poverty Assessment - CPA09
+Dominica,DM,DMA,212,National,3,Flush and pour flush - to pit,0.0,Country Poverty Assessment - CPA09
+Dominica,DM,DMA,212,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Country Poverty Assessment - CPA09
+Dominica,DM,DMA,212,National,5,Flush and pour flush - to elsewhere,0.0,Country Poverty Assessment - CPA09
+Dominica,DM,DMA,212,National,6,Dry latrines - Ventilated Improved Pit latrine,0.01,Country Poverty Assessment - CPA09
+Dominica,DM,DMA,212,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Country Poverty Assessment - CPA09
+Dominica,DM,DMA,212,National,8,Dry latrines - Traditional latrine,0.243,Country Poverty Assessment - CPA09
+Dominica,DM,DMA,212,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Country Poverty Assessment - CPA09
+Dominica,DM,DMA,212,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Country Poverty Assessment - CPA09
+Dominica,DM,DMA,212,National,11,Dry latrines - Bucket latrine,0.0,Country Poverty Assessment - CPA09
+Dominica,DM,DMA,212,National,12,Dry latrines - Other,0.0,Country Poverty Assessment - CPA09
+Dominica,DM,DMA,212,National,13,Composting toilets,0.0,Country Poverty Assessment - CPA09
+Dominica,DM,DMA,212,National,14,Other improved,0.0,Country Poverty Assessment - CPA09
+Dominica,DM,DMA,212,National,15,"No facility, bush, field",0.062,Country Poverty Assessment - CPA09
+Dominica,DM,DMA,212,National,16,Other unimproved,0.034,Country Poverty Assessment - CPA09
+Dominica,DM,DMA,212,National,17,DK/missing information,0.0,Country Poverty Assessment - CPA09

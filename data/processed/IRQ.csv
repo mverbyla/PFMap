@@ -1,4 +1,55 @@
 country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+Iraq,IQ,IRQ,368,Urban,1,Flush and pour flush - to piped sewer system,0.0,Multiple Indicator Cluster Survey - MICS00
+Iraq,IQ,IRQ,368,Urban,2,Flush and pour flush - to septic tank,0.0,Multiple Indicator Cluster Survey - MICS00
+Iraq,IQ,IRQ,368,Urban,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Iraq,IQ,IRQ,368,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS00
+Iraq,IQ,IRQ,368,Urban,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS00
+Iraq,IQ,IRQ,368,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Iraq,IQ,IRQ,368,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.009,Multiple Indicator Cluster Survey - MICS00
+Iraq,IQ,IRQ,368,Urban,8,Dry latrines - Traditional latrine,0.042,Multiple Indicator Cluster Survey - MICS00
+Iraq,IQ,IRQ,368,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.006,Multiple Indicator Cluster Survey - MICS00
+Iraq,IQ,IRQ,368,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Iraq,IQ,IRQ,368,Urban,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Iraq,IQ,IRQ,368,Urban,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS00
+Iraq,IQ,IRQ,368,Urban,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS00
+Iraq,IQ,IRQ,368,Urban,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS00
+Iraq,IQ,IRQ,368,Urban,15,"No facility, bush, field",0.002,Multiple Indicator Cluster Survey - MICS00
+Iraq,IQ,IRQ,368,Urban,16,Other unimproved,0.002,Multiple Indicator Cluster Survey - MICS00
+Iraq,IQ,IRQ,368,Urban,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS00
+Iraq,IQ,IRQ,368,Rural,1,Flush and pour flush - to piped sewer system,0.0,Multiple Indicator Cluster Survey - MICS00
+Iraq,IQ,IRQ,368,Rural,2,Flush and pour flush - to septic tank,0.0,Multiple Indicator Cluster Survey - MICS00
+Iraq,IQ,IRQ,368,Rural,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Iraq,IQ,IRQ,368,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS00
+Iraq,IQ,IRQ,368,Rural,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS00
+Iraq,IQ,IRQ,368,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Iraq,IQ,IRQ,368,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.091,Multiple Indicator Cluster Survey - MICS00
+Iraq,IQ,IRQ,368,Rural,8,Dry latrines - Traditional latrine,0.282,Multiple Indicator Cluster Survey - MICS00
+Iraq,IQ,IRQ,368,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.047,Multiple Indicator Cluster Survey - MICS00
+Iraq,IQ,IRQ,368,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Iraq,IQ,IRQ,368,Rural,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Iraq,IQ,IRQ,368,Rural,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS00
+Iraq,IQ,IRQ,368,Rural,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS00
+Iraq,IQ,IRQ,368,Rural,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS00
+Iraq,IQ,IRQ,368,Rural,15,"No facility, bush, field",0.17,Multiple Indicator Cluster Survey - MICS00
+Iraq,IQ,IRQ,368,Rural,16,Other unimproved,0.005,Multiple Indicator Cluster Survey - MICS00
+Iraq,IQ,IRQ,368,Rural,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS00
+Iraq,IQ,IRQ,368,National,1,Flush and pour flush - to piped sewer system,0.0,Multiple Indicator Cluster Survey - MICS00
+Iraq,IQ,IRQ,368,National,2,Flush and pour flush - to septic tank,0.0,Multiple Indicator Cluster Survey - MICS00
+Iraq,IQ,IRQ,368,National,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Iraq,IQ,IRQ,368,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS00
+Iraq,IQ,IRQ,368,National,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS00
+Iraq,IQ,IRQ,368,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Iraq,IQ,IRQ,368,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Iraq,IQ,IRQ,368,National,8,Dry latrines - Traditional latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Iraq,IQ,IRQ,368,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Iraq,IQ,IRQ,368,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Iraq,IQ,IRQ,368,National,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Iraq,IQ,IRQ,368,National,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS00
+Iraq,IQ,IRQ,368,National,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS00
+Iraq,IQ,IRQ,368,National,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS00
+Iraq,IQ,IRQ,368,National,15,"No facility, bush, field",0.0,Multiple Indicator Cluster Survey - MICS00
+Iraq,IQ,IRQ,368,National,16,Other unimproved,0.0,Multiple Indicator Cluster Survey - MICS00
+Iraq,IQ,IRQ,368,National,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS00
 Iraq,IQ,IRQ,368,Urban,1,Flush and pour flush - to piped sewer system,0.346,Multiple Indicator Cluster Survey - MICS06
 Iraq,IQ,IRQ,368,Urban,2,Flush and pour flush - to septic tank,0.471,Multiple Indicator Cluster Survey - MICS06
 Iraq,IQ,IRQ,368,Urban,3,Flush and pour flush - to pit,0.138,Multiple Indicator Cluster Survey - MICS06
@@ -33,6 +84,74 @@ Iraq,IQ,IRQ,368,Rural,14,Other improved,0.0,Multiple Indicator Cluster Survey - 
 Iraq,IQ,IRQ,368,Rural,15,"No facility, bush, field",0.069,Multiple Indicator Cluster Survey - MICS06
 Iraq,IQ,IRQ,368,Rural,16,Other unimproved,0.001,Multiple Indicator Cluster Survey - MICS06
 Iraq,IQ,IRQ,368,Rural,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS06
+Iraq,IQ,IRQ,368,National,1,Flush and pour flush - to piped sewer system,0.0,Multiple Indicator Cluster Survey - MICS06
+Iraq,IQ,IRQ,368,National,2,Flush and pour flush - to septic tank,0.0,Multiple Indicator Cluster Survey - MICS06
+Iraq,IQ,IRQ,368,National,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS06
+Iraq,IQ,IRQ,368,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS06
+Iraq,IQ,IRQ,368,National,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS06
+Iraq,IQ,IRQ,368,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Multiple Indicator Cluster Survey - MICS06
+Iraq,IQ,IRQ,368,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Multiple Indicator Cluster Survey - MICS06
+Iraq,IQ,IRQ,368,National,8,Dry latrines - Traditional latrine,0.0,Multiple Indicator Cluster Survey - MICS06
+Iraq,IQ,IRQ,368,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Multiple Indicator Cluster Survey - MICS06
+Iraq,IQ,IRQ,368,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS06
+Iraq,IQ,IRQ,368,National,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS06
+Iraq,IQ,IRQ,368,National,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS06
+Iraq,IQ,IRQ,368,National,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS06
+Iraq,IQ,IRQ,368,National,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS06
+Iraq,IQ,IRQ,368,National,15,"No facility, bush, field",0.0,Multiple Indicator Cluster Survey - MICS06
+Iraq,IQ,IRQ,368,National,16,Other unimproved,0.0,Multiple Indicator Cluster Survey - MICS06
+Iraq,IQ,IRQ,368,National,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS06
+Iraq,IQ,IRQ,368,Urban,1,Flush and pour flush - to piped sewer system,0.368,HOUSEHOLD SOCIO - ECONOMIC SURVEY - IHSES07
+Iraq,IQ,IRQ,368,Urban,2,Flush and pour flush - to septic tank,0.482,HOUSEHOLD SOCIO - ECONOMIC SURVEY - IHSES07
+Iraq,IQ,IRQ,368,Urban,3,Flush and pour flush - to pit,0.0,HOUSEHOLD SOCIO - ECONOMIC SURVEY - IHSES07
+Iraq,IQ,IRQ,368,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,HOUSEHOLD SOCIO - ECONOMIC SURVEY - IHSES07
+Iraq,IQ,IRQ,368,Urban,5,Flush and pour flush - to elsewhere,0.0,HOUSEHOLD SOCIO - ECONOMIC SURVEY - IHSES07
+Iraq,IQ,IRQ,368,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,HOUSEHOLD SOCIO - ECONOMIC SURVEY - IHSES07
+Iraq,IQ,IRQ,368,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.046,HOUSEHOLD SOCIO - ECONOMIC SURVEY - IHSES07
+Iraq,IQ,IRQ,368,Urban,8,Dry latrines - Traditional latrine,0.0,HOUSEHOLD SOCIO - ECONOMIC SURVEY - IHSES07
+Iraq,IQ,IRQ,368,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.103,HOUSEHOLD SOCIO - ECONOMIC SURVEY - IHSES07
+Iraq,IQ,IRQ,368,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,HOUSEHOLD SOCIO - ECONOMIC SURVEY - IHSES07
+Iraq,IQ,IRQ,368,Urban,11,Dry latrines - Bucket latrine,0.0,HOUSEHOLD SOCIO - ECONOMIC SURVEY - IHSES07
+Iraq,IQ,IRQ,368,Urban,12,Dry latrines - Other,0.0,HOUSEHOLD SOCIO - ECONOMIC SURVEY - IHSES07
+Iraq,IQ,IRQ,368,Urban,13,Composting toilets,0.0,HOUSEHOLD SOCIO - ECONOMIC SURVEY - IHSES07
+Iraq,IQ,IRQ,368,Urban,14,Other improved,0.0,HOUSEHOLD SOCIO - ECONOMIC SURVEY - IHSES07
+Iraq,IQ,IRQ,368,Urban,15,"No facility, bush, field",0.0,HOUSEHOLD SOCIO - ECONOMIC SURVEY - IHSES07
+Iraq,IQ,IRQ,368,Urban,16,Other unimproved,0.002,HOUSEHOLD SOCIO - ECONOMIC SURVEY - IHSES07
+Iraq,IQ,IRQ,368,Urban,17,DK/missing information,0.0,HOUSEHOLD SOCIO - ECONOMIC SURVEY - IHSES07
+Iraq,IQ,IRQ,368,Rural,1,Flush and pour flush - to piped sewer system,0.024,HOUSEHOLD SOCIO - ECONOMIC SURVEY - IHSES07
+Iraq,IQ,IRQ,368,Rural,2,Flush and pour flush - to septic tank,0.546,HOUSEHOLD SOCIO - ECONOMIC SURVEY - IHSES07
+Iraq,IQ,IRQ,368,Rural,3,Flush and pour flush - to pit,0.0,HOUSEHOLD SOCIO - ECONOMIC SURVEY - IHSES07
+Iraq,IQ,IRQ,368,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,HOUSEHOLD SOCIO - ECONOMIC SURVEY - IHSES07
+Iraq,IQ,IRQ,368,Rural,5,Flush and pour flush - to elsewhere,0.0,HOUSEHOLD SOCIO - ECONOMIC SURVEY - IHSES07
+Iraq,IQ,IRQ,368,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,HOUSEHOLD SOCIO - ECONOMIC SURVEY - IHSES07
+Iraq,IQ,IRQ,368,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.133,HOUSEHOLD SOCIO - ECONOMIC SURVEY - IHSES07
+Iraq,IQ,IRQ,368,Rural,8,Dry latrines - Traditional latrine,0.0,HOUSEHOLD SOCIO - ECONOMIC SURVEY - IHSES07
+Iraq,IQ,IRQ,368,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.267,HOUSEHOLD SOCIO - ECONOMIC SURVEY - IHSES07
+Iraq,IQ,IRQ,368,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,HOUSEHOLD SOCIO - ECONOMIC SURVEY - IHSES07
+Iraq,IQ,IRQ,368,Rural,11,Dry latrines - Bucket latrine,0.0,HOUSEHOLD SOCIO - ECONOMIC SURVEY - IHSES07
+Iraq,IQ,IRQ,368,Rural,12,Dry latrines - Other,0.0,HOUSEHOLD SOCIO - ECONOMIC SURVEY - IHSES07
+Iraq,IQ,IRQ,368,Rural,13,Composting toilets,0.0,HOUSEHOLD SOCIO - ECONOMIC SURVEY - IHSES07
+Iraq,IQ,IRQ,368,Rural,14,Other improved,0.0,HOUSEHOLD SOCIO - ECONOMIC SURVEY - IHSES07
+Iraq,IQ,IRQ,368,Rural,15,"No facility, bush, field",0.0,HOUSEHOLD SOCIO - ECONOMIC SURVEY - IHSES07
+Iraq,IQ,IRQ,368,Rural,16,Other unimproved,0.03,HOUSEHOLD SOCIO - ECONOMIC SURVEY - IHSES07
+Iraq,IQ,IRQ,368,Rural,17,DK/missing information,0.0,HOUSEHOLD SOCIO - ECONOMIC SURVEY - IHSES07
+Iraq,IQ,IRQ,368,National,1,Flush and pour flush - to piped sewer system,0.0,HOUSEHOLD SOCIO - ECONOMIC SURVEY - IHSES07
+Iraq,IQ,IRQ,368,National,2,Flush and pour flush - to septic tank,0.0,HOUSEHOLD SOCIO - ECONOMIC SURVEY - IHSES07
+Iraq,IQ,IRQ,368,National,3,Flush and pour flush - to pit,0.0,HOUSEHOLD SOCIO - ECONOMIC SURVEY - IHSES07
+Iraq,IQ,IRQ,368,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,HOUSEHOLD SOCIO - ECONOMIC SURVEY - IHSES07
+Iraq,IQ,IRQ,368,National,5,Flush and pour flush - to elsewhere,0.0,HOUSEHOLD SOCIO - ECONOMIC SURVEY - IHSES07
+Iraq,IQ,IRQ,368,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,HOUSEHOLD SOCIO - ECONOMIC SURVEY - IHSES07
+Iraq,IQ,IRQ,368,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,HOUSEHOLD SOCIO - ECONOMIC SURVEY - IHSES07
+Iraq,IQ,IRQ,368,National,8,Dry latrines - Traditional latrine,0.0,HOUSEHOLD SOCIO - ECONOMIC SURVEY - IHSES07
+Iraq,IQ,IRQ,368,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,HOUSEHOLD SOCIO - ECONOMIC SURVEY - IHSES07
+Iraq,IQ,IRQ,368,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,HOUSEHOLD SOCIO - ECONOMIC SURVEY - IHSES07
+Iraq,IQ,IRQ,368,National,11,Dry latrines - Bucket latrine,0.0,HOUSEHOLD SOCIO - ECONOMIC SURVEY - IHSES07
+Iraq,IQ,IRQ,368,National,12,Dry latrines - Other,0.0,HOUSEHOLD SOCIO - ECONOMIC SURVEY - IHSES07
+Iraq,IQ,IRQ,368,National,13,Composting toilets,0.0,HOUSEHOLD SOCIO - ECONOMIC SURVEY - IHSES07
+Iraq,IQ,IRQ,368,National,14,Other improved,0.0,HOUSEHOLD SOCIO - ECONOMIC SURVEY - IHSES07
+Iraq,IQ,IRQ,368,National,15,"No facility, bush, field",0.0,HOUSEHOLD SOCIO - ECONOMIC SURVEY - IHSES07
+Iraq,IQ,IRQ,368,National,16,Other unimproved,0.0,HOUSEHOLD SOCIO - ECONOMIC SURVEY - IHSES07
+Iraq,IQ,IRQ,368,National,17,DK/missing information,0.0,HOUSEHOLD SOCIO - ECONOMIC SURVEY - IHSES07
 Iraq,IQ,IRQ,368,Urban,1,Flush and pour flush - to piped sewer system,0.388,Multiple Indicator Cluster Survey - MICS11
 Iraq,IQ,IRQ,368,Urban,2,Flush and pour flush - to septic tank,0.372,Multiple Indicator Cluster Survey - MICS11
 Iraq,IQ,IRQ,368,Urban,3,Flush and pour flush - to pit,0.128,Multiple Indicator Cluster Survey - MICS11
@@ -67,6 +186,80 @@ Iraq,IQ,IRQ,368,Rural,14,Other improved,0.0,Multiple Indicator Cluster Survey - 
 Iraq,IQ,IRQ,368,Rural,15,"No facility, bush, field",0.026,Multiple Indicator Cluster Survey - MICS11
 Iraq,IQ,IRQ,368,Rural,16,Other unimproved,0.0,Multiple Indicator Cluster Survey - MICS11
 Iraq,IQ,IRQ,368,Rural,17,DK/missing information,0.006,Multiple Indicator Cluster Survey - MICS11
+Iraq,IQ,IRQ,368,National,1,Flush and pour flush - to piped sewer system,0.282,Multiple Indicator Cluster Survey - MICS11
+Iraq,IQ,IRQ,368,National,2,Flush and pour flush - to septic tank,0.392,Multiple Indicator Cluster Survey - MICS11
+Iraq,IQ,IRQ,368,National,3,Flush and pour flush - to pit,0.18,Multiple Indicator Cluster Survey - MICS11
+Iraq,IQ,IRQ,368,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS11
+Iraq,IQ,IRQ,368,National,5,Flush and pour flush - to elsewhere,0.009,Multiple Indicator Cluster Survey - MICS11
+Iraq,IQ,IRQ,368,National,6,Dry latrines - Ventilated Improved Pit latrine,0.111,Multiple Indicator Cluster Survey - MICS11
+Iraq,IQ,IRQ,368,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.004,Multiple Indicator Cluster Survey - MICS11
+Iraq,IQ,IRQ,368,National,8,Dry latrines - Traditional latrine,0.0,Multiple Indicator Cluster Survey - MICS11
+Iraq,IQ,IRQ,368,National,9,Dry latrines - Pit latrine without slab/open pit,0.011,Multiple Indicator Cluster Survey - MICS11
+Iraq,IQ,IRQ,368,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS11
+Iraq,IQ,IRQ,368,National,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS11
+Iraq,IQ,IRQ,368,National,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS11
+Iraq,IQ,IRQ,368,National,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS11
+Iraq,IQ,IRQ,368,National,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS11
+Iraq,IQ,IRQ,368,National,15,"No facility, bush, field",0.008,Multiple Indicator Cluster Survey - MICS11
+Iraq,IQ,IRQ,368,National,16,Other unimproved,0.0,Multiple Indicator Cluster Survey - MICS11
+Iraq,IQ,IRQ,368,National,17,DK/missing information,0.003,Multiple Indicator Cluster Survey - MICS11
+Iraq,IQ,IRQ,368,Urban,1,Flush and pour flush - to piped sewer system,0.212,Household Socio-economic and Expenditure Survey - IHSES13
+Iraq,IQ,IRQ,368,Urban,2,Flush and pour flush - to septic tank,0.0,Household Socio-economic and Expenditure Survey - IHSES13
+Iraq,IQ,IRQ,368,Urban,3,Flush and pour flush - to pit,0.0,Household Socio-economic and Expenditure Survey - IHSES13
+Iraq,IQ,IRQ,368,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Socio-economic and Expenditure Survey - IHSES13
+Iraq,IQ,IRQ,368,Urban,5,Flush and pour flush - to elsewhere,0.0,Household Socio-economic and Expenditure Survey - IHSES13
+Iraq,IQ,IRQ,368,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Socio-economic and Expenditure Survey - IHSES13
+Iraq,IQ,IRQ,368,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Socio-economic and Expenditure Survey - IHSES13
+Iraq,IQ,IRQ,368,Urban,8,Dry latrines - Traditional latrine,0.784,Household Socio-economic and Expenditure Survey - IHSES13
+Iraq,IQ,IRQ,368,Urban,8,Dry latrines - Traditional latrine,0.741,Household Socio-economic and Expenditure Survey - IHSES13
+Iraq,IQ,IRQ,368,Urban,8,Dry latrines - Traditional latrine,0.043,Household Socio-economic and Expenditure Survey - IHSES13
+Iraq,IQ,IRQ,368,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Socio-economic and Expenditure Survey - IHSES13
+Iraq,IQ,IRQ,368,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Socio-economic and Expenditure Survey - IHSES13
+Iraq,IQ,IRQ,368,Urban,11,Dry latrines - Bucket latrine,0.0,Household Socio-economic and Expenditure Survey - IHSES13
+Iraq,IQ,IRQ,368,Urban,12,Dry latrines - Other,0.0,Household Socio-economic and Expenditure Survey - IHSES13
+Iraq,IQ,IRQ,368,Urban,13,Composting toilets,0.0,Household Socio-economic and Expenditure Survey - IHSES13
+Iraq,IQ,IRQ,368,Urban,14,Other improved,0.0,Household Socio-economic and Expenditure Survey - IHSES13
+Iraq,IQ,IRQ,368,Urban,15,"No facility, bush, field",0.001,Household Socio-economic and Expenditure Survey - IHSES13
+Iraq,IQ,IRQ,368,Urban,16,Other unimproved,0.001,Household Socio-economic and Expenditure Survey - IHSES13
+Iraq,IQ,IRQ,368,Urban,17,DK/missing information,0.002,Household Socio-economic and Expenditure Survey - IHSES13
+Iraq,IQ,IRQ,368,Rural,1,Flush and pour flush - to piped sewer system,0.114,Household Socio-economic and Expenditure Survey - IHSES13
+Iraq,IQ,IRQ,368,Rural,2,Flush and pour flush - to septic tank,0.0,Household Socio-economic and Expenditure Survey - IHSES13
+Iraq,IQ,IRQ,368,Rural,3,Flush and pour flush - to pit,0.0,Household Socio-economic and Expenditure Survey - IHSES13
+Iraq,IQ,IRQ,368,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Socio-economic and Expenditure Survey - IHSES13
+Iraq,IQ,IRQ,368,Rural,5,Flush and pour flush - to elsewhere,0.0,Household Socio-economic and Expenditure Survey - IHSES13
+Iraq,IQ,IRQ,368,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Socio-economic and Expenditure Survey - IHSES13
+Iraq,IQ,IRQ,368,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Socio-economic and Expenditure Survey - IHSES13
+Iraq,IQ,IRQ,368,Rural,8,Dry latrines - Traditional latrine,0.802,Household Socio-economic and Expenditure Survey - IHSES13
+Iraq,IQ,IRQ,368,Rural,8,Dry latrines - Traditional latrine,0.772,Household Socio-economic and Expenditure Survey - IHSES13
+Iraq,IQ,IRQ,368,Rural,8,Dry latrines - Traditional latrine,0.03,Household Socio-economic and Expenditure Survey - IHSES13
+Iraq,IQ,IRQ,368,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Socio-economic and Expenditure Survey - IHSES13
+Iraq,IQ,IRQ,368,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Socio-economic and Expenditure Survey - IHSES13
+Iraq,IQ,IRQ,368,Rural,11,Dry latrines - Bucket latrine,0.0,Household Socio-economic and Expenditure Survey - IHSES13
+Iraq,IQ,IRQ,368,Rural,12,Dry latrines - Other,0.0,Household Socio-economic and Expenditure Survey - IHSES13
+Iraq,IQ,IRQ,368,Rural,13,Composting toilets,0.0,Household Socio-economic and Expenditure Survey - IHSES13
+Iraq,IQ,IRQ,368,Rural,14,Other improved,0.0,Household Socio-economic and Expenditure Survey - IHSES13
+Iraq,IQ,IRQ,368,Rural,15,"No facility, bush, field",0.028,Household Socio-economic and Expenditure Survey - IHSES13
+Iraq,IQ,IRQ,368,Rural,16,Other unimproved,0.014,Household Socio-economic and Expenditure Survey - IHSES13
+Iraq,IQ,IRQ,368,Rural,17,DK/missing information,0.042,Household Socio-economic and Expenditure Survey - IHSES13
+Iraq,IQ,IRQ,368,National,1,Flush and pour flush - to piped sewer system,0.171,Household Socio-economic and Expenditure Survey - IHSES13
+Iraq,IQ,IRQ,368,National,2,Flush and pour flush - to septic tank,0.0,Household Socio-economic and Expenditure Survey - IHSES13
+Iraq,IQ,IRQ,368,National,3,Flush and pour flush - to pit,0.0,Household Socio-economic and Expenditure Survey - IHSES13
+Iraq,IQ,IRQ,368,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Socio-economic and Expenditure Survey - IHSES13
+Iraq,IQ,IRQ,368,National,5,Flush and pour flush - to elsewhere,0.0,Household Socio-economic and Expenditure Survey - IHSES13
+Iraq,IQ,IRQ,368,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Socio-economic and Expenditure Survey - IHSES13
+Iraq,IQ,IRQ,368,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Socio-economic and Expenditure Survey - IHSES13
+Iraq,IQ,IRQ,368,National,8,Dry latrines - Traditional latrine,0.792,Household Socio-economic and Expenditure Survey - IHSES13
+Iraq,IQ,IRQ,368,National,8,Dry latrines - Traditional latrine,0.754,Household Socio-economic and Expenditure Survey - IHSES13
+Iraq,IQ,IRQ,368,National,8,Dry latrines - Traditional latrine,0.038,Household Socio-economic and Expenditure Survey - IHSES13
+Iraq,IQ,IRQ,368,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Socio-economic and Expenditure Survey - IHSES13
+Iraq,IQ,IRQ,368,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Socio-economic and Expenditure Survey - IHSES13
+Iraq,IQ,IRQ,368,National,11,Dry latrines - Bucket latrine,0.0,Household Socio-economic and Expenditure Survey - IHSES13
+Iraq,IQ,IRQ,368,National,12,Dry latrines - Other,0.0,Household Socio-economic and Expenditure Survey - IHSES13
+Iraq,IQ,IRQ,368,National,13,Composting toilets,0.0,Household Socio-economic and Expenditure Survey - IHSES13
+Iraq,IQ,IRQ,368,National,14,Other improved,0.0,Household Socio-economic and Expenditure Survey - IHSES13
+Iraq,IQ,IRQ,368,National,15,"No facility, bush, field",0.012,Household Socio-economic and Expenditure Survey - IHSES13
+Iraq,IQ,IRQ,368,National,16,Other unimproved,0.006,Household Socio-economic and Expenditure Survey - IHSES13
+Iraq,IQ,IRQ,368,National,17,DK/missing information,0.019,Household Socio-economic and Expenditure Survey - IHSES13
 Iraq,IQ,IRQ,368,Urban,1,Flush and pour flush - to piped sewer system,0.389,Multiple Indicators Cluster Survey - MICS18
 Iraq,IQ,IRQ,368,Urban,2,Flush and pour flush - to septic tank,0.562,Multiple Indicators Cluster Survey - MICS18
 Iraq,IQ,IRQ,368,Urban,3,Flush and pour flush - to pit,0.0,Multiple Indicators Cluster Survey - MICS18
@@ -101,3 +294,20 @@ Iraq,IQ,IRQ,368,Rural,14,Other improved,0.0,Multiple Indicators Cluster Survey -
 Iraq,IQ,IRQ,368,Rural,15,"No facility, bush, field",0.003,Multiple Indicators Cluster Survey - MICS18
 Iraq,IQ,IRQ,368,Rural,16,Other unimproved,0.074,Multiple Indicators Cluster Survey - MICS18
 Iraq,IQ,IRQ,368,Rural,17,DK/missing information,0.0,Multiple Indicators Cluster Survey - MICS18
+Iraq,IQ,IRQ,368,National,1,Flush and pour flush - to piped sewer system,0.278,Multiple Indicators Cluster Survey - MICS18
+Iraq,IQ,IRQ,368,National,2,Flush and pour flush - to septic tank,0.605,Multiple Indicators Cluster Survey - MICS18
+Iraq,IQ,IRQ,368,National,3,Flush and pour flush - to pit,0.0,Multiple Indicators Cluster Survey - MICS18
+Iraq,IQ,IRQ,368,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.004,Multiple Indicators Cluster Survey - MICS18
+Iraq,IQ,IRQ,368,National,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicators Cluster Survey - MICS18
+Iraq,IQ,IRQ,368,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Multiple Indicators Cluster Survey - MICS18
+Iraq,IQ,IRQ,368,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.062,Multiple Indicators Cluster Survey - MICS18
+Iraq,IQ,IRQ,368,National,8,Dry latrines - Traditional latrine,0.0,Multiple Indicators Cluster Survey - MICS18
+Iraq,IQ,IRQ,368,National,9,Dry latrines - Pit latrine without slab/open pit,0.01,Multiple Indicators Cluster Survey - MICS18
+Iraq,IQ,IRQ,368,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicators Cluster Survey - MICS18
+Iraq,IQ,IRQ,368,National,11,Dry latrines - Bucket latrine,0.0,Multiple Indicators Cluster Survey - MICS18
+Iraq,IQ,IRQ,368,National,12,Dry latrines - Other,0.0,Multiple Indicators Cluster Survey - MICS18
+Iraq,IQ,IRQ,368,National,13,Composting toilets,0.0,Multiple Indicators Cluster Survey - MICS18
+Iraq,IQ,IRQ,368,National,14,Other improved,0.0,Multiple Indicators Cluster Survey - MICS18
+Iraq,IQ,IRQ,368,National,15,"No facility, bush, field",0.001,Multiple Indicators Cluster Survey - MICS18
+Iraq,IQ,IRQ,368,National,16,Other unimproved,0.041,Multiple Indicators Cluster Survey - MICS18
+Iraq,IQ,IRQ,368,National,17,DK/missing information,0.0,Multiple Indicators Cluster Survey - MICS18

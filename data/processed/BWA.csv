@@ -1,0 +1,736 @@
+country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+Botswana,BW,BWA,072,Urban,1,Flush and pour flush - to piped sewer system,0.0,Multiple Indicator Cluster Survey - MICS00
+Botswana,BW,BWA,072,Urban,2,Flush and pour flush - to septic tank,0.0,Multiple Indicator Cluster Survey - MICS00
+Botswana,BW,BWA,072,Urban,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Botswana,BW,BWA,072,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS00
+Botswana,BW,BWA,072,Urban,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS00
+Botswana,BW,BWA,072,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Botswana,BW,BWA,072,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Botswana,BW,BWA,072,Urban,8,Dry latrines - Traditional latrine,0.701,Multiple Indicator Cluster Survey - MICS00
+Botswana,BW,BWA,072,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Botswana,BW,BWA,072,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Botswana,BW,BWA,072,Urban,11,Dry latrines - Bucket latrine,0.001,Multiple Indicator Cluster Survey - MICS00
+Botswana,BW,BWA,072,Urban,8,Dry latrines - Traditional latrine,0.655,Multiple Indicator Cluster Survey - MICS00
+Botswana,BW,BWA,072,Urban,8,Dry latrines - Traditional latrine,0.046,Multiple Indicator Cluster Survey - MICS00
+Botswana,BW,BWA,072,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Botswana,BW,BWA,072,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Botswana,BW,BWA,072,Urban,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Botswana,BW,BWA,072,Urban,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS00
+Botswana,BW,BWA,072,Urban,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS00
+Botswana,BW,BWA,072,Urban,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS00
+Botswana,BW,BWA,072,Urban,15,"No facility, bush, field",0.031,Multiple Indicator Cluster Survey - MICS00
+Botswana,BW,BWA,072,Urban,16,Other unimproved,0.0,Multiple Indicator Cluster Survey - MICS00
+Botswana,BW,BWA,072,Urban,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS00
+Botswana,BW,BWA,072,Rural,1,Flush and pour flush - to piped sewer system,0.0,Multiple Indicator Cluster Survey - MICS00
+Botswana,BW,BWA,072,Rural,2,Flush and pour flush - to septic tank,0.0,Multiple Indicator Cluster Survey - MICS00
+Botswana,BW,BWA,072,Rural,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Botswana,BW,BWA,072,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS00
+Botswana,BW,BWA,072,Rural,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS00
+Botswana,BW,BWA,072,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Botswana,BW,BWA,072,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Botswana,BW,BWA,072,Rural,8,Dry latrines - Traditional latrine,0.504,Multiple Indicator Cluster Survey - MICS00
+Botswana,BW,BWA,072,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Botswana,BW,BWA,072,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Botswana,BW,BWA,072,Rural,11,Dry latrines - Bucket latrine,0.002,Multiple Indicator Cluster Survey - MICS00
+Botswana,BW,BWA,072,Rural,8,Dry latrines - Traditional latrine,0.424,Multiple Indicator Cluster Survey - MICS00
+Botswana,BW,BWA,072,Rural,8,Dry latrines - Traditional latrine,0.08,Multiple Indicator Cluster Survey - MICS00
+Botswana,BW,BWA,072,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Botswana,BW,BWA,072,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Botswana,BW,BWA,072,Rural,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Botswana,BW,BWA,072,Rural,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS00
+Botswana,BW,BWA,072,Rural,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS00
+Botswana,BW,BWA,072,Rural,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS00
+Botswana,BW,BWA,072,Rural,15,"No facility, bush, field",0.41,Multiple Indicator Cluster Survey - MICS00
+Botswana,BW,BWA,072,Rural,16,Other unimproved,0.0,Multiple Indicator Cluster Survey - MICS00
+Botswana,BW,BWA,072,Rural,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS00
+Botswana,BW,BWA,072,National,1,Flush and pour flush - to piped sewer system,0.0,Multiple Indicator Cluster Survey - MICS00
+Botswana,BW,BWA,072,National,2,Flush and pour flush - to septic tank,0.0,Multiple Indicator Cluster Survey - MICS00
+Botswana,BW,BWA,072,National,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Botswana,BW,BWA,072,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS00
+Botswana,BW,BWA,072,National,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS00
+Botswana,BW,BWA,072,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Botswana,BW,BWA,072,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Botswana,BW,BWA,072,National,8,Dry latrines - Traditional latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Botswana,BW,BWA,072,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Botswana,BW,BWA,072,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Botswana,BW,BWA,072,National,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Botswana,BW,BWA,072,National,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS00
+Botswana,BW,BWA,072,National,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS00
+Botswana,BW,BWA,072,National,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS00
+Botswana,BW,BWA,072,National,15,"No facility, bush, field",0.0,Multiple Indicator Cluster Survey - MICS00
+Botswana,BW,BWA,072,National,16,Other unimproved,0.0,Multiple Indicator Cluster Survey - MICS00
+Botswana,BW,BWA,072,National,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS00
+Botswana,BW,BWA,072,Urban,1,Flush and pour flush - to piped sewer system,0.0,Census - CEN01
+Botswana,BW,BWA,072,Urban,2,Flush and pour flush - to septic tank,0.0,Census - CEN01
+Botswana,BW,BWA,072,Urban,3,Flush and pour flush - to pit,0.0,Census - CEN01
+Botswana,BW,BWA,072,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN01
+Botswana,BW,BWA,072,Urban,5,Flush and pour flush - to elsewhere,0.0,Census - CEN01
+Botswana,BW,BWA,072,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.237,Census - CEN01
+Botswana,BW,BWA,072,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.043,Census - CEN01
+Botswana,BW,BWA,072,Urban,8,Dry latrines - Traditional latrine,0.301,Census - CEN01
+Botswana,BW,BWA,072,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN01
+Botswana,BW,BWA,072,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN01
+Botswana,BW,BWA,072,Urban,11,Dry latrines - Bucket latrine,0.0,Census - CEN01
+Botswana,BW,BWA,072,Urban,12,Dry latrines - Other,0.051,Census - CEN01
+Botswana,BW,BWA,072,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.228,Census - CEN01
+Botswana,BW,BWA,072,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN01
+Botswana,BW,BWA,072,Urban,8,Dry latrines - Traditional latrine,0.301,Census - CEN01
+Botswana,BW,BWA,072,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.009,Census - CEN01
+Botswana,BW,BWA,072,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.043,Census - CEN01
+Botswana,BW,BWA,072,Urban,8,Dry latrines - Traditional latrine,0.0,Census - CEN01
+Botswana,BW,BWA,072,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN01
+Botswana,BW,BWA,072,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN01
+Botswana,BW,BWA,072,Urban,11,Dry latrines - Bucket latrine,0.0,Census - CEN01
+Botswana,BW,BWA,072,Urban,12,Dry latrines - Other,0.051,Census - CEN01
+Botswana,BW,BWA,072,Urban,13,Composting toilets,0.005,Census - CEN01
+Botswana,BW,BWA,072,Urban,14,Other improved,0.0,Census - CEN01
+Botswana,BW,BWA,072,Urban,15,"No facility, bush, field",0.043,Census - CEN01
+Botswana,BW,BWA,072,Urban,16,Other unimproved,0.0,Census - CEN01
+Botswana,BW,BWA,072,Urban,17,DK/missing information,0.0,Census - CEN01
+Botswana,BW,BWA,072,Rural,1,Flush and pour flush - to piped sewer system,0.0,Census - CEN01
+Botswana,BW,BWA,072,Rural,2,Flush and pour flush - to septic tank,0.0,Census - CEN01
+Botswana,BW,BWA,072,Rural,3,Flush and pour flush - to pit,0.0,Census - CEN01
+Botswana,BW,BWA,072,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN01
+Botswana,BW,BWA,072,Rural,5,Flush and pour flush - to elsewhere,0.0,Census - CEN01
+Botswana,BW,BWA,072,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.132,Census - CEN01
+Botswana,BW,BWA,072,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.057,Census - CEN01
+Botswana,BW,BWA,072,Rural,8,Dry latrines - Traditional latrine,0.182,Census - CEN01
+Botswana,BW,BWA,072,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN01
+Botswana,BW,BWA,072,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN01
+Botswana,BW,BWA,072,Rural,11,Dry latrines - Bucket latrine,0.0,Census - CEN01
+Botswana,BW,BWA,072,Rural,12,Dry latrines - Other,0.07,Census - CEN01
+Botswana,BW,BWA,072,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.125,Census - CEN01
+Botswana,BW,BWA,072,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN01
+Botswana,BW,BWA,072,Rural,8,Dry latrines - Traditional latrine,0.182,Census - CEN01
+Botswana,BW,BWA,072,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.007,Census - CEN01
+Botswana,BW,BWA,072,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.057,Census - CEN01
+Botswana,BW,BWA,072,Rural,8,Dry latrines - Traditional latrine,0.0,Census - CEN01
+Botswana,BW,BWA,072,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN01
+Botswana,BW,BWA,072,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN01
+Botswana,BW,BWA,072,Rural,11,Dry latrines - Bucket latrine,0.0,Census - CEN01
+Botswana,BW,BWA,072,Rural,12,Dry latrines - Other,0.07,Census - CEN01
+Botswana,BW,BWA,072,Rural,13,Composting toilets,0.008,Census - CEN01
+Botswana,BW,BWA,072,Rural,14,Other improved,0.0,Census - CEN01
+Botswana,BW,BWA,072,Rural,15,"No facility, bush, field",0.476,Census - CEN01
+Botswana,BW,BWA,072,Rural,16,Other unimproved,0.0,Census - CEN01
+Botswana,BW,BWA,072,Rural,17,DK/missing information,0.0,Census - CEN01
+Botswana,BW,BWA,072,National,1,Flush and pour flush - to piped sewer system,0.0,Census - CEN01
+Botswana,BW,BWA,072,National,2,Flush and pour flush - to septic tank,0.0,Census - CEN01
+Botswana,BW,BWA,072,National,3,Flush and pour flush - to pit,0.0,Census - CEN01
+Botswana,BW,BWA,072,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN01
+Botswana,BW,BWA,072,National,5,Flush and pour flush - to elsewhere,0.0,Census - CEN01
+Botswana,BW,BWA,072,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN01
+Botswana,BW,BWA,072,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN01
+Botswana,BW,BWA,072,National,8,Dry latrines - Traditional latrine,0.0,Census - CEN01
+Botswana,BW,BWA,072,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN01
+Botswana,BW,BWA,072,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN01
+Botswana,BW,BWA,072,National,11,Dry latrines - Bucket latrine,0.0,Census - CEN01
+Botswana,BW,BWA,072,National,12,Dry latrines - Other,0.0,Census - CEN01
+Botswana,BW,BWA,072,National,13,Composting toilets,0.0,Census - CEN01
+Botswana,BW,BWA,072,National,14,Other improved,0.0,Census - CEN01
+Botswana,BW,BWA,072,National,15,"No facility, bush, field",0.0,Census - CEN01
+Botswana,BW,BWA,072,National,16,Other unimproved,0.0,Census - CEN01
+Botswana,BW,BWA,072,National,17,DK/missing information,0.0,Census - CEN01
+Botswana,BW,BWA,072,Urban,1,Flush and pour flush - to piped sewer system,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS01
+Botswana,BW,BWA,072,Urban,2,Flush and pour flush - to septic tank,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS01
+Botswana,BW,BWA,072,Urban,3,Flush and pour flush - to pit,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS01
+Botswana,BW,BWA,072,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS01
+Botswana,BW,BWA,072,Urban,5,Flush and pour flush - to elsewhere,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS01
+Botswana,BW,BWA,072,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS01
+Botswana,BW,BWA,072,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS01
+Botswana,BW,BWA,072,Urban,8,Dry latrines - Traditional latrine,0.684,BOTSWANA AIDS IMPACT SURVEY - BAIS01
+Botswana,BW,BWA,072,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS01
+Botswana,BW,BWA,072,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS01
+Botswana,BW,BWA,072,Urban,11,Dry latrines - Bucket latrine,0.002,BOTSWANA AIDS IMPACT SURVEY - BAIS01
+Botswana,BW,BWA,072,Urban,8,Dry latrines - Traditional latrine,0.631,BOTSWANA AIDS IMPACT SURVEY - BAIS01
+Botswana,BW,BWA,072,Urban,8,Dry latrines - Traditional latrine,0.053,BOTSWANA AIDS IMPACT SURVEY - BAIS01
+Botswana,BW,BWA,072,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS01
+Botswana,BW,BWA,072,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS01
+Botswana,BW,BWA,072,Urban,11,Dry latrines - Bucket latrine,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS01
+Botswana,BW,BWA,072,Urban,12,Dry latrines - Other,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS01
+Botswana,BW,BWA,072,Urban,13,Composting toilets,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS01
+Botswana,BW,BWA,072,Urban,14,Other improved,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS01
+Botswana,BW,BWA,072,Urban,15,"No facility, bush, field",0.027,BOTSWANA AIDS IMPACT SURVEY - BAIS01
+Botswana,BW,BWA,072,Urban,16,Other unimproved,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS01
+Botswana,BW,BWA,072,Urban,17,DK/missing information,0.005,BOTSWANA AIDS IMPACT SURVEY - BAIS01
+Botswana,BW,BWA,072,Rural,1,Flush and pour flush - to piped sewer system,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS01
+Botswana,BW,BWA,072,Rural,2,Flush and pour flush - to septic tank,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS01
+Botswana,BW,BWA,072,Rural,3,Flush and pour flush - to pit,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS01
+Botswana,BW,BWA,072,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS01
+Botswana,BW,BWA,072,Rural,5,Flush and pour flush - to elsewhere,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS01
+Botswana,BW,BWA,072,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS01
+Botswana,BW,BWA,072,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS01
+Botswana,BW,BWA,072,Rural,8,Dry latrines - Traditional latrine,0.578,BOTSWANA AIDS IMPACT SURVEY - BAIS01
+Botswana,BW,BWA,072,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS01
+Botswana,BW,BWA,072,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS01
+Botswana,BW,BWA,072,Rural,11,Dry latrines - Bucket latrine,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS01
+Botswana,BW,BWA,072,Rural,8,Dry latrines - Traditional latrine,0.451,BOTSWANA AIDS IMPACT SURVEY - BAIS01
+Botswana,BW,BWA,072,Rural,8,Dry latrines - Traditional latrine,0.127,BOTSWANA AIDS IMPACT SURVEY - BAIS01
+Botswana,BW,BWA,072,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS01
+Botswana,BW,BWA,072,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS01
+Botswana,BW,BWA,072,Rural,11,Dry latrines - Bucket latrine,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS01
+Botswana,BW,BWA,072,Rural,12,Dry latrines - Other,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS01
+Botswana,BW,BWA,072,Rural,13,Composting toilets,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS01
+Botswana,BW,BWA,072,Rural,14,Other improved,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS01
+Botswana,BW,BWA,072,Rural,15,"No facility, bush, field",0.34,BOTSWANA AIDS IMPACT SURVEY - BAIS01
+Botswana,BW,BWA,072,Rural,16,Other unimproved,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS01
+Botswana,BW,BWA,072,Rural,17,DK/missing information,0.002,BOTSWANA AIDS IMPACT SURVEY - BAIS01
+Botswana,BW,BWA,072,National,1,Flush and pour flush - to piped sewer system,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS01
+Botswana,BW,BWA,072,National,2,Flush and pour flush - to septic tank,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS01
+Botswana,BW,BWA,072,National,3,Flush and pour flush - to pit,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS01
+Botswana,BW,BWA,072,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS01
+Botswana,BW,BWA,072,National,5,Flush and pour flush - to elsewhere,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS01
+Botswana,BW,BWA,072,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS01
+Botswana,BW,BWA,072,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS01
+Botswana,BW,BWA,072,National,8,Dry latrines - Traditional latrine,0.634,BOTSWANA AIDS IMPACT SURVEY - BAIS01
+Botswana,BW,BWA,072,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS01
+Botswana,BW,BWA,072,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS01
+Botswana,BW,BWA,072,National,11,Dry latrines - Bucket latrine,0.001,BOTSWANA AIDS IMPACT SURVEY - BAIS01
+Botswana,BW,BWA,072,National,8,Dry latrines - Traditional latrine,0.545,BOTSWANA AIDS IMPACT SURVEY - BAIS01
+Botswana,BW,BWA,072,National,8,Dry latrines - Traditional latrine,0.089,BOTSWANA AIDS IMPACT SURVEY - BAIS01
+Botswana,BW,BWA,072,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS01
+Botswana,BW,BWA,072,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS01
+Botswana,BW,BWA,072,National,11,Dry latrines - Bucket latrine,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS01
+Botswana,BW,BWA,072,National,12,Dry latrines - Other,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS01
+Botswana,BW,BWA,072,National,13,Composting toilets,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS01
+Botswana,BW,BWA,072,National,14,Other improved,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS01
+Botswana,BW,BWA,072,National,15,"No facility, bush, field",0.177,BOTSWANA AIDS IMPACT SURVEY - BAIS01
+Botswana,BW,BWA,072,National,16,Other unimproved,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS01
+Botswana,BW,BWA,072,National,17,DK/missing information,0.004,BOTSWANA AIDS IMPACT SURVEY - BAIS01
+Botswana,BW,BWA,072,Urban,1,Flush and pour flush - to piped sewer system,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS04
+Botswana,BW,BWA,072,Urban,2,Flush and pour flush - to septic tank,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS04
+Botswana,BW,BWA,072,Urban,3,Flush and pour flush - to pit,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS04
+Botswana,BW,BWA,072,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS04
+Botswana,BW,BWA,072,Urban,5,Flush and pour flush - to elsewhere,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS04
+Botswana,BW,BWA,072,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS04
+Botswana,BW,BWA,072,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS04
+Botswana,BW,BWA,072,Urban,8,Dry latrines - Traditional latrine,0.63,BOTSWANA AIDS IMPACT SURVEY - BAIS04
+Botswana,BW,BWA,072,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS04
+Botswana,BW,BWA,072,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS04
+Botswana,BW,BWA,072,Urban,11,Dry latrines - Bucket latrine,0.001,BOTSWANA AIDS IMPACT SURVEY - BAIS04
+Botswana,BW,BWA,072,Urban,8,Dry latrines - Traditional latrine,0.579,BOTSWANA AIDS IMPACT SURVEY - BAIS04
+Botswana,BW,BWA,072,Urban,8,Dry latrines - Traditional latrine,0.051,BOTSWANA AIDS IMPACT SURVEY - BAIS04
+Botswana,BW,BWA,072,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS04
+Botswana,BW,BWA,072,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS04
+Botswana,BW,BWA,072,Urban,11,Dry latrines - Bucket latrine,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS04
+Botswana,BW,BWA,072,Urban,12,Dry latrines - Other,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS04
+Botswana,BW,BWA,072,Urban,13,Composting toilets,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS04
+Botswana,BW,BWA,072,Urban,14,Other improved,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS04
+Botswana,BW,BWA,072,Urban,15,"No facility, bush, field",0.028,BOTSWANA AIDS IMPACT SURVEY - BAIS04
+Botswana,BW,BWA,072,Urban,16,Other unimproved,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS04
+Botswana,BW,BWA,072,Urban,17,DK/missing information,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS04
+Botswana,BW,BWA,072,Rural,1,Flush and pour flush - to piped sewer system,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS04
+Botswana,BW,BWA,072,Rural,2,Flush and pour flush - to septic tank,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS04
+Botswana,BW,BWA,072,Rural,3,Flush and pour flush - to pit,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS04
+Botswana,BW,BWA,072,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS04
+Botswana,BW,BWA,072,Rural,5,Flush and pour flush - to elsewhere,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS04
+Botswana,BW,BWA,072,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS04
+Botswana,BW,BWA,072,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS04
+Botswana,BW,BWA,072,Rural,8,Dry latrines - Traditional latrine,0.489,BOTSWANA AIDS IMPACT SURVEY - BAIS04
+Botswana,BW,BWA,072,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS04
+Botswana,BW,BWA,072,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS04
+Botswana,BW,BWA,072,Rural,11,Dry latrines - Bucket latrine,0.001,BOTSWANA AIDS IMPACT SURVEY - BAIS04
+Botswana,BW,BWA,072,Rural,8,Dry latrines - Traditional latrine,0.376,BOTSWANA AIDS IMPACT SURVEY - BAIS04
+Botswana,BW,BWA,072,Rural,8,Dry latrines - Traditional latrine,0.113,BOTSWANA AIDS IMPACT SURVEY - BAIS04
+Botswana,BW,BWA,072,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS04
+Botswana,BW,BWA,072,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS04
+Botswana,BW,BWA,072,Rural,11,Dry latrines - Bucket latrine,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS04
+Botswana,BW,BWA,072,Rural,12,Dry latrines - Other,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS04
+Botswana,BW,BWA,072,Rural,13,Composting toilets,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS04
+Botswana,BW,BWA,072,Rural,14,Other improved,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS04
+Botswana,BW,BWA,072,Rural,15,"No facility, bush, field",0.409,BOTSWANA AIDS IMPACT SURVEY - BAIS04
+Botswana,BW,BWA,072,Rural,16,Other unimproved,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS04
+Botswana,BW,BWA,072,Rural,17,DK/missing information,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS04
+Botswana,BW,BWA,072,National,1,Flush and pour flush - to piped sewer system,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS04
+Botswana,BW,BWA,072,National,2,Flush and pour flush - to septic tank,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS04
+Botswana,BW,BWA,072,National,3,Flush and pour flush - to pit,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS04
+Botswana,BW,BWA,072,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS04
+Botswana,BW,BWA,072,National,5,Flush and pour flush - to elsewhere,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS04
+Botswana,BW,BWA,072,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS04
+Botswana,BW,BWA,072,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS04
+Botswana,BW,BWA,072,National,8,Dry latrines - Traditional latrine,0.565,BOTSWANA AIDS IMPACT SURVEY - BAIS04
+Botswana,BW,BWA,072,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS04
+Botswana,BW,BWA,072,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS04
+Botswana,BW,BWA,072,National,11,Dry latrines - Bucket latrine,0.001,BOTSWANA AIDS IMPACT SURVEY - BAIS04
+Botswana,BW,BWA,072,National,8,Dry latrines - Traditional latrine,0.487,BOTSWANA AIDS IMPACT SURVEY - BAIS04
+Botswana,BW,BWA,072,National,8,Dry latrines - Traditional latrine,0.078,BOTSWANA AIDS IMPACT SURVEY - BAIS04
+Botswana,BW,BWA,072,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS04
+Botswana,BW,BWA,072,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS04
+Botswana,BW,BWA,072,National,11,Dry latrines - Bucket latrine,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS04
+Botswana,BW,BWA,072,National,12,Dry latrines - Other,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS04
+Botswana,BW,BWA,072,National,13,Composting toilets,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS04
+Botswana,BW,BWA,072,National,14,Other improved,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS04
+Botswana,BW,BWA,072,National,15,"No facility, bush, field",0.2,BOTSWANA AIDS IMPACT SURVEY - BAIS04
+Botswana,BW,BWA,072,National,16,Other unimproved,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS04
+Botswana,BW,BWA,072,National,17,DK/missing information,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS04
+Botswana,BW,BWA,072,Urban,1,Flush and pour flush - to piped sewer system,0.0,"Botswana Demographic Survey, 2006 - BDS06"
+Botswana,BW,BWA,072,Urban,2,Flush and pour flush - to septic tank,0.0,"Botswana Demographic Survey, 2006 - BDS06"
+Botswana,BW,BWA,072,Urban,3,Flush and pour flush - to pit,0.0,"Botswana Demographic Survey, 2006 - BDS06"
+Botswana,BW,BWA,072,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Botswana Demographic Survey, 2006 - BDS06"
+Botswana,BW,BWA,072,Urban,5,Flush and pour flush - to elsewhere,0.0,"Botswana Demographic Survey, 2006 - BDS06"
+Botswana,BW,BWA,072,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.336,"Botswana Demographic Survey, 2006 - BDS06"
+Botswana,BW,BWA,072,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Botswana Demographic Survey, 2006 - BDS06"
+Botswana,BW,BWA,072,Urban,8,Dry latrines - Traditional latrine,0.232,"Botswana Demographic Survey, 2006 - BDS06"
+Botswana,BW,BWA,072,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.331,"Botswana Demographic Survey, 2006 - BDS06"
+Botswana,BW,BWA,072,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Botswana Demographic Survey, 2006 - BDS06"
+Botswana,BW,BWA,072,Urban,8,Dry latrines - Traditional latrine,0.214,"Botswana Demographic Survey, 2006 - BDS06"
+Botswana,BW,BWA,072,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.005,"Botswana Demographic Survey, 2006 - BDS06"
+Botswana,BW,BWA,072,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Botswana Demographic Survey, 2006 - BDS06"
+Botswana,BW,BWA,072,Urban,8,Dry latrines - Traditional latrine,0.018,"Botswana Demographic Survey, 2006 - BDS06"
+Botswana,BW,BWA,072,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Botswana Demographic Survey, 2006 - BDS06"
+Botswana,BW,BWA,072,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Botswana Demographic Survey, 2006 - BDS06"
+Botswana,BW,BWA,072,Urban,11,Dry latrines - Bucket latrine,0.0,"Botswana Demographic Survey, 2006 - BDS06"
+Botswana,BW,BWA,072,Urban,12,Dry latrines - Other,0.0,"Botswana Demographic Survey, 2006 - BDS06"
+Botswana,BW,BWA,072,Urban,13,Composting toilets,0.001,"Botswana Demographic Survey, 2006 - BDS06"
+Botswana,BW,BWA,072,Urban,14,Other improved,0.0,"Botswana Demographic Survey, 2006 - BDS06"
+Botswana,BW,BWA,072,Urban,15,"No facility, bush, field",0.051,"Botswana Demographic Survey, 2006 - BDS06"
+Botswana,BW,BWA,072,Urban,16,Other unimproved,0.0,"Botswana Demographic Survey, 2006 - BDS06"
+Botswana,BW,BWA,072,Urban,17,DK/missing information,0.0,"Botswana Demographic Survey, 2006 - BDS06"
+Botswana,BW,BWA,072,Rural,1,Flush and pour flush - to piped sewer system,0.0,"Botswana Demographic Survey, 2006 - BDS06"
+Botswana,BW,BWA,072,Rural,2,Flush and pour flush - to septic tank,0.0,"Botswana Demographic Survey, 2006 - BDS06"
+Botswana,BW,BWA,072,Rural,3,Flush and pour flush - to pit,0.0,"Botswana Demographic Survey, 2006 - BDS06"
+Botswana,BW,BWA,072,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Botswana Demographic Survey, 2006 - BDS06"
+Botswana,BW,BWA,072,Rural,5,Flush and pour flush - to elsewhere,0.0,"Botswana Demographic Survey, 2006 - BDS06"
+Botswana,BW,BWA,072,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.241,"Botswana Demographic Survey, 2006 - BDS06"
+Botswana,BW,BWA,072,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Botswana Demographic Survey, 2006 - BDS06"
+Botswana,BW,BWA,072,Rural,8,Dry latrines - Traditional latrine,0.192,"Botswana Demographic Survey, 2006 - BDS06"
+Botswana,BW,BWA,072,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.24,"Botswana Demographic Survey, 2006 - BDS06"
+Botswana,BW,BWA,072,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Botswana Demographic Survey, 2006 - BDS06"
+Botswana,BW,BWA,072,Rural,8,Dry latrines - Traditional latrine,0.177,"Botswana Demographic Survey, 2006 - BDS06"
+Botswana,BW,BWA,072,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.001,"Botswana Demographic Survey, 2006 - BDS06"
+Botswana,BW,BWA,072,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Botswana Demographic Survey, 2006 - BDS06"
+Botswana,BW,BWA,072,Rural,8,Dry latrines - Traditional latrine,0.015,"Botswana Demographic Survey, 2006 - BDS06"
+Botswana,BW,BWA,072,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Botswana Demographic Survey, 2006 - BDS06"
+Botswana,BW,BWA,072,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Botswana Demographic Survey, 2006 - BDS06"
+Botswana,BW,BWA,072,Rural,11,Dry latrines - Bucket latrine,0.0,"Botswana Demographic Survey, 2006 - BDS06"
+Botswana,BW,BWA,072,Rural,12,Dry latrines - Other,0.0,"Botswana Demographic Survey, 2006 - BDS06"
+Botswana,BW,BWA,072,Rural,13,Composting toilets,0.001,"Botswana Demographic Survey, 2006 - BDS06"
+Botswana,BW,BWA,072,Rural,14,Other improved,0.0,"Botswana Demographic Survey, 2006 - BDS06"
+Botswana,BW,BWA,072,Rural,15,"No facility, bush, field",0.395,"Botswana Demographic Survey, 2006 - BDS06"
+Botswana,BW,BWA,072,Rural,16,Other unimproved,0.0,"Botswana Demographic Survey, 2006 - BDS06"
+Botswana,BW,BWA,072,Rural,17,DK/missing information,0.0,"Botswana Demographic Survey, 2006 - BDS06"
+Botswana,BW,BWA,072,National,1,Flush and pour flush - to piped sewer system,0.0,"Botswana Demographic Survey, 2006 - BDS06"
+Botswana,BW,BWA,072,National,2,Flush and pour flush - to septic tank,0.0,"Botswana Demographic Survey, 2006 - BDS06"
+Botswana,BW,BWA,072,National,3,Flush and pour flush - to pit,0.0,"Botswana Demographic Survey, 2006 - BDS06"
+Botswana,BW,BWA,072,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Botswana Demographic Survey, 2006 - BDS06"
+Botswana,BW,BWA,072,National,5,Flush and pour flush - to elsewhere,0.0,"Botswana Demographic Survey, 2006 - BDS06"
+Botswana,BW,BWA,072,National,6,Dry latrines - Ventilated Improved Pit latrine,0.288,"Botswana Demographic Survey, 2006 - BDS06"
+Botswana,BW,BWA,072,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Botswana Demographic Survey, 2006 - BDS06"
+Botswana,BW,BWA,072,National,8,Dry latrines - Traditional latrine,0.216,"Botswana Demographic Survey, 2006 - BDS06"
+Botswana,BW,BWA,072,National,6,Dry latrines - Ventilated Improved Pit latrine,0.284,"Botswana Demographic Survey, 2006 - BDS06"
+Botswana,BW,BWA,072,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Botswana Demographic Survey, 2006 - BDS06"
+Botswana,BW,BWA,072,National,8,Dry latrines - Traditional latrine,0.199,"Botswana Demographic Survey, 2006 - BDS06"
+Botswana,BW,BWA,072,National,6,Dry latrines - Ventilated Improved Pit latrine,0.004,"Botswana Demographic Survey, 2006 - BDS06"
+Botswana,BW,BWA,072,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Botswana Demographic Survey, 2006 - BDS06"
+Botswana,BW,BWA,072,National,8,Dry latrines - Traditional latrine,0.017,"Botswana Demographic Survey, 2006 - BDS06"
+Botswana,BW,BWA,072,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Botswana Demographic Survey, 2006 - BDS06"
+Botswana,BW,BWA,072,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Botswana Demographic Survey, 2006 - BDS06"
+Botswana,BW,BWA,072,National,11,Dry latrines - Bucket latrine,0.0,"Botswana Demographic Survey, 2006 - BDS06"
+Botswana,BW,BWA,072,National,12,Dry latrines - Other,0.0,"Botswana Demographic Survey, 2006 - BDS06"
+Botswana,BW,BWA,072,National,13,Composting toilets,0.001,"Botswana Demographic Survey, 2006 - BDS06"
+Botswana,BW,BWA,072,National,14,Other improved,0.0,"Botswana Demographic Survey, 2006 - BDS06"
+Botswana,BW,BWA,072,National,15,"No facility, bush, field",0.19,"Botswana Demographic Survey, 2006 - BDS06"
+Botswana,BW,BWA,072,National,16,Other unimproved,0.0,"Botswana Demographic Survey, 2006 - BDS06"
+Botswana,BW,BWA,072,National,17,DK/missing information,0.0,"Botswana Demographic Survey, 2006 - BDS06"
+Botswana,BW,BWA,072,Urban,1,Flush and pour flush - to piped sewer system,0.0,Botswana Family Health Survey IV (BFHS IV) - BFHS07
+Botswana,BW,BWA,072,Urban,2,Flush and pour flush - to septic tank,0.0,Botswana Family Health Survey IV (BFHS IV) - BFHS07
+Botswana,BW,BWA,072,Urban,3,Flush and pour flush - to pit,0.0,Botswana Family Health Survey IV (BFHS IV) - BFHS07
+Botswana,BW,BWA,072,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Botswana Family Health Survey IV (BFHS IV) - BFHS07
+Botswana,BW,BWA,072,Urban,5,Flush and pour flush - to elsewhere,0.0,Botswana Family Health Survey IV (BFHS IV) - BFHS07
+Botswana,BW,BWA,072,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.246,Botswana Family Health Survey IV (BFHS IV) - BFHS07
+Botswana,BW,BWA,072,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Botswana Family Health Survey IV (BFHS IV) - BFHS07
+Botswana,BW,BWA,072,Urban,8,Dry latrines - Traditional latrine,0.338,Botswana Family Health Survey IV (BFHS IV) - BFHS07
+Botswana,BW,BWA,072,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.245,Botswana Family Health Survey IV (BFHS IV) - BFHS07
+Botswana,BW,BWA,072,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Botswana Family Health Survey IV (BFHS IV) - BFHS07
+Botswana,BW,BWA,072,Urban,8,Dry latrines - Traditional latrine,0.319,Botswana Family Health Survey IV (BFHS IV) - BFHS07
+Botswana,BW,BWA,072,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.001,Botswana Family Health Survey IV (BFHS IV) - BFHS07
+Botswana,BW,BWA,072,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Botswana Family Health Survey IV (BFHS IV) - BFHS07
+Botswana,BW,BWA,072,Urban,8,Dry latrines - Traditional latrine,0.019,Botswana Family Health Survey IV (BFHS IV) - BFHS07
+Botswana,BW,BWA,072,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Botswana Family Health Survey IV (BFHS IV) - BFHS07
+Botswana,BW,BWA,072,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Botswana Family Health Survey IV (BFHS IV) - BFHS07
+Botswana,BW,BWA,072,Urban,11,Dry latrines - Bucket latrine,0.0,Botswana Family Health Survey IV (BFHS IV) - BFHS07
+Botswana,BW,BWA,072,Urban,12,Dry latrines - Other,0.0,Botswana Family Health Survey IV (BFHS IV) - BFHS07
+Botswana,BW,BWA,072,Urban,13,Composting toilets,0.005,Botswana Family Health Survey IV (BFHS IV) - BFHS07
+Botswana,BW,BWA,072,Urban,14,Other improved,0.0,Botswana Family Health Survey IV (BFHS IV) - BFHS07
+Botswana,BW,BWA,072,Urban,15,"No facility, bush, field",0.028,Botswana Family Health Survey IV (BFHS IV) - BFHS07
+Botswana,BW,BWA,072,Urban,16,Other unimproved,0.0,Botswana Family Health Survey IV (BFHS IV) - BFHS07
+Botswana,BW,BWA,072,Urban,17,DK/missing information,0.0,Botswana Family Health Survey IV (BFHS IV) - BFHS07
+Botswana,BW,BWA,072,Rural,1,Flush and pour flush - to piped sewer system,0.0,Botswana Family Health Survey IV (BFHS IV) - BFHS07
+Botswana,BW,BWA,072,Rural,2,Flush and pour flush - to septic tank,0.0,Botswana Family Health Survey IV (BFHS IV) - BFHS07
+Botswana,BW,BWA,072,Rural,3,Flush and pour flush - to pit,0.0,Botswana Family Health Survey IV (BFHS IV) - BFHS07
+Botswana,BW,BWA,072,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Botswana Family Health Survey IV (BFHS IV) - BFHS07
+Botswana,BW,BWA,072,Rural,5,Flush and pour flush - to elsewhere,0.0,Botswana Family Health Survey IV (BFHS IV) - BFHS07
+Botswana,BW,BWA,072,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.158,Botswana Family Health Survey IV (BFHS IV) - BFHS07
+Botswana,BW,BWA,072,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Botswana Family Health Survey IV (BFHS IV) - BFHS07
+Botswana,BW,BWA,072,Rural,8,Dry latrines - Traditional latrine,0.288,Botswana Family Health Survey IV (BFHS IV) - BFHS07
+Botswana,BW,BWA,072,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.155,Botswana Family Health Survey IV (BFHS IV) - BFHS07
+Botswana,BW,BWA,072,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Botswana Family Health Survey IV (BFHS IV) - BFHS07
+Botswana,BW,BWA,072,Rural,8,Dry latrines - Traditional latrine,0.264,Botswana Family Health Survey IV (BFHS IV) - BFHS07
+Botswana,BW,BWA,072,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.003,Botswana Family Health Survey IV (BFHS IV) - BFHS07
+Botswana,BW,BWA,072,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Botswana Family Health Survey IV (BFHS IV) - BFHS07
+Botswana,BW,BWA,072,Rural,8,Dry latrines - Traditional latrine,0.024,Botswana Family Health Survey IV (BFHS IV) - BFHS07
+Botswana,BW,BWA,072,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Botswana Family Health Survey IV (BFHS IV) - BFHS07
+Botswana,BW,BWA,072,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Botswana Family Health Survey IV (BFHS IV) - BFHS07
+Botswana,BW,BWA,072,Rural,11,Dry latrines - Bucket latrine,0.0,Botswana Family Health Survey IV (BFHS IV) - BFHS07
+Botswana,BW,BWA,072,Rural,12,Dry latrines - Other,0.0,Botswana Family Health Survey IV (BFHS IV) - BFHS07
+Botswana,BW,BWA,072,Rural,13,Composting toilets,0.001,Botswana Family Health Survey IV (BFHS IV) - BFHS07
+Botswana,BW,BWA,072,Rural,14,Other improved,0.0,Botswana Family Health Survey IV (BFHS IV) - BFHS07
+Botswana,BW,BWA,072,Rural,15,"No facility, bush, field",0.415,Botswana Family Health Survey IV (BFHS IV) - BFHS07
+Botswana,BW,BWA,072,Rural,16,Other unimproved,0.0,Botswana Family Health Survey IV (BFHS IV) - BFHS07
+Botswana,BW,BWA,072,Rural,17,DK/missing information,0.002,Botswana Family Health Survey IV (BFHS IV) - BFHS07
+Botswana,BW,BWA,072,National,1,Flush and pour flush - to piped sewer system,0.0,Botswana Family Health Survey IV (BFHS IV) - BFHS07
+Botswana,BW,BWA,072,National,2,Flush and pour flush - to septic tank,0.0,Botswana Family Health Survey IV (BFHS IV) - BFHS07
+Botswana,BW,BWA,072,National,3,Flush and pour flush - to pit,0.0,Botswana Family Health Survey IV (BFHS IV) - BFHS07
+Botswana,BW,BWA,072,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Botswana Family Health Survey IV (BFHS IV) - BFHS07
+Botswana,BW,BWA,072,National,5,Flush and pour flush - to elsewhere,0.0,Botswana Family Health Survey IV (BFHS IV) - BFHS07
+Botswana,BW,BWA,072,National,6,Dry latrines - Ventilated Improved Pit latrine,0.207,Botswana Family Health Survey IV (BFHS IV) - BFHS07
+Botswana,BW,BWA,072,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Botswana Family Health Survey IV (BFHS IV) - BFHS07
+Botswana,BW,BWA,072,National,8,Dry latrines - Traditional latrine,0.315,Botswana Family Health Survey IV (BFHS IV) - BFHS07
+Botswana,BW,BWA,072,National,6,Dry latrines - Ventilated Improved Pit latrine,0.205,Botswana Family Health Survey IV (BFHS IV) - BFHS07
+Botswana,BW,BWA,072,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Botswana Family Health Survey IV (BFHS IV) - BFHS07
+Botswana,BW,BWA,072,National,8,Dry latrines - Traditional latrine,0.294,Botswana Family Health Survey IV (BFHS IV) - BFHS07
+Botswana,BW,BWA,072,National,6,Dry latrines - Ventilated Improved Pit latrine,0.002,Botswana Family Health Survey IV (BFHS IV) - BFHS07
+Botswana,BW,BWA,072,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Botswana Family Health Survey IV (BFHS IV) - BFHS07
+Botswana,BW,BWA,072,National,8,Dry latrines - Traditional latrine,0.021,Botswana Family Health Survey IV (BFHS IV) - BFHS07
+Botswana,BW,BWA,072,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Botswana Family Health Survey IV (BFHS IV) - BFHS07
+Botswana,BW,BWA,072,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Botswana Family Health Survey IV (BFHS IV) - BFHS07
+Botswana,BW,BWA,072,National,11,Dry latrines - Bucket latrine,0.0,Botswana Family Health Survey IV (BFHS IV) - BFHS07
+Botswana,BW,BWA,072,National,12,Dry latrines - Other,0.0,Botswana Family Health Survey IV (BFHS IV) - BFHS07
+Botswana,BW,BWA,072,National,13,Composting toilets,0.003,Botswana Family Health Survey IV (BFHS IV) - BFHS07
+Botswana,BW,BWA,072,National,14,Other improved,0.0,Botswana Family Health Survey IV (BFHS IV) - BFHS07
+Botswana,BW,BWA,072,National,15,"No facility, bush, field",0.201,Botswana Family Health Survey IV (BFHS IV) - BFHS07
+Botswana,BW,BWA,072,National,16,Other unimproved,0.0,Botswana Family Health Survey IV (BFHS IV) - BFHS07
+Botswana,BW,BWA,072,National,17,DK/missing information,0.001,Botswana Family Health Survey IV (BFHS IV) - BFHS07
+Botswana,BW,BWA,072,Urban,1,Flush and pour flush - to piped sewer system,0.019,Malaria Indicator Survey  - MIS07
+Botswana,BW,BWA,072,Urban,2,Flush and pour flush - to septic tank,0.059,Malaria Indicator Survey  - MIS07
+Botswana,BW,BWA,072,Urban,3,Flush and pour flush - to pit,0.003,Malaria Indicator Survey  - MIS07
+Botswana,BW,BWA,072,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Malaria Indicator Survey  - MIS07
+Botswana,BW,BWA,072,Urban,5,Flush and pour flush - to elsewhere,0.0,Malaria Indicator Survey  - MIS07
+Botswana,BW,BWA,072,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.534,Malaria Indicator Survey  - MIS07
+Botswana,BW,BWA,072,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.103,Malaria Indicator Survey  - MIS07
+Botswana,BW,BWA,072,Urban,8,Dry latrines - Traditional latrine,0.0,Malaria Indicator Survey  - MIS07
+Botswana,BW,BWA,072,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.038,Malaria Indicator Survey  - MIS07
+Botswana,BW,BWA,072,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Malaria Indicator Survey  - MIS07
+Botswana,BW,BWA,072,Urban,11,Dry latrines - Bucket latrine,0.0,Malaria Indicator Survey  - MIS07
+Botswana,BW,BWA,072,Urban,12,Dry latrines - Other,0.0,Malaria Indicator Survey  - MIS07
+Botswana,BW,BWA,072,Urban,13,Composting toilets,0.0,Malaria Indicator Survey  - MIS07
+Botswana,BW,BWA,072,Urban,14,Other improved,0.0,Malaria Indicator Survey  - MIS07
+Botswana,BW,BWA,072,Urban,15,"No facility, bush, field",0.234,Malaria Indicator Survey  - MIS07
+Botswana,BW,BWA,072,Urban,16,Other unimproved,0.009,Malaria Indicator Survey  - MIS07
+Botswana,BW,BWA,072,Urban,17,DK/missing information,0.0,Malaria Indicator Survey  - MIS07
+Botswana,BW,BWA,072,Rural,1,Flush and pour flush - to piped sewer system,0.002,Malaria Indicator Survey  - MIS07
+Botswana,BW,BWA,072,Rural,2,Flush and pour flush - to septic tank,0.027,Malaria Indicator Survey  - MIS07
+Botswana,BW,BWA,072,Rural,3,Flush and pour flush - to pit,0.002,Malaria Indicator Survey  - MIS07
+Botswana,BW,BWA,072,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Malaria Indicator Survey  - MIS07
+Botswana,BW,BWA,072,Rural,5,Flush and pour flush - to elsewhere,0.0,Malaria Indicator Survey  - MIS07
+Botswana,BW,BWA,072,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.261,Malaria Indicator Survey  - MIS07
+Botswana,BW,BWA,072,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.196,Malaria Indicator Survey  - MIS07
+Botswana,BW,BWA,072,Rural,8,Dry latrines - Traditional latrine,0.0,Malaria Indicator Survey  - MIS07
+Botswana,BW,BWA,072,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.007,Malaria Indicator Survey  - MIS07
+Botswana,BW,BWA,072,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.004,Malaria Indicator Survey  - MIS07
+Botswana,BW,BWA,072,Rural,11,Dry latrines - Bucket latrine,0.0,Malaria Indicator Survey  - MIS07
+Botswana,BW,BWA,072,Rural,12,Dry latrines - Other,0.0,Malaria Indicator Survey  - MIS07
+Botswana,BW,BWA,072,Rural,13,Composting toilets,0.002,Malaria Indicator Survey  - MIS07
+Botswana,BW,BWA,072,Rural,14,Other improved,0.0,Malaria Indicator Survey  - MIS07
+Botswana,BW,BWA,072,Rural,15,"No facility, bush, field",0.492,Malaria Indicator Survey  - MIS07
+Botswana,BW,BWA,072,Rural,16,Other unimproved,0.006,Malaria Indicator Survey  - MIS07
+Botswana,BW,BWA,072,Rural,17,DK/missing information,0.0,Malaria Indicator Survey  - MIS07
+Botswana,BW,BWA,072,National,1,Flush and pour flush - to piped sewer system,0.006,Malaria Indicator Survey  - MIS07
+Botswana,BW,BWA,072,National,2,Flush and pour flush - to septic tank,0.033,Malaria Indicator Survey  - MIS07
+Botswana,BW,BWA,072,National,3,Flush and pour flush - to pit,0.003,Malaria Indicator Survey  - MIS07
+Botswana,BW,BWA,072,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Malaria Indicator Survey  - MIS07
+Botswana,BW,BWA,072,National,5,Flush and pour flush - to elsewhere,0.0,Malaria Indicator Survey  - MIS07
+Botswana,BW,BWA,072,National,6,Dry latrines - Ventilated Improved Pit latrine,0.316,Malaria Indicator Survey  - MIS07
+Botswana,BW,BWA,072,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.178,Malaria Indicator Survey  - MIS07
+Botswana,BW,BWA,072,National,8,Dry latrines - Traditional latrine,0.0,Malaria Indicator Survey  - MIS07
+Botswana,BW,BWA,072,National,9,Dry latrines - Pit latrine without slab/open pit,0.013,Malaria Indicator Survey  - MIS07
+Botswana,BW,BWA,072,National,10,Dry latrines - Hanging toilet/hanging latrine,0.003,Malaria Indicator Survey  - MIS07
+Botswana,BW,BWA,072,National,11,Dry latrines - Bucket latrine,0.0,Malaria Indicator Survey  - MIS07
+Botswana,BW,BWA,072,National,12,Dry latrines - Other,0.0,Malaria Indicator Survey  - MIS07
+Botswana,BW,BWA,072,National,13,Composting toilets,0.002,Malaria Indicator Survey  - MIS07
+Botswana,BW,BWA,072,National,14,Other improved,0.0,Malaria Indicator Survey  - MIS07
+Botswana,BW,BWA,072,National,15,"No facility, bush, field",0.44,Malaria Indicator Survey  - MIS07
+Botswana,BW,BWA,072,National,16,Other unimproved,0.007,Malaria Indicator Survey  - MIS07
+Botswana,BW,BWA,072,National,17,DK/missing information,0.0,Malaria Indicator Survey  - MIS07
+Botswana,BW,BWA,072,Urban,1,Flush and pour flush - to piped sewer system,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS08
+Botswana,BW,BWA,072,Urban,2,Flush and pour flush - to septic tank,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS08
+Botswana,BW,BWA,072,Urban,3,Flush and pour flush - to pit,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS08
+Botswana,BW,BWA,072,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS08
+Botswana,BW,BWA,072,Urban,5,Flush and pour flush - to elsewhere,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS08
+Botswana,BW,BWA,072,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS08
+Botswana,BW,BWA,072,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS08
+Botswana,BW,BWA,072,Urban,8,Dry latrines - Traditional latrine,0.56,BOTSWANA AIDS IMPACT SURVEY - BAIS08
+Botswana,BW,BWA,072,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS08
+Botswana,BW,BWA,072,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS08
+Botswana,BW,BWA,072,Urban,8,Dry latrines - Traditional latrine,0.519,BOTSWANA AIDS IMPACT SURVEY - BAIS08
+Botswana,BW,BWA,072,Urban,8,Dry latrines - Traditional latrine,0.04,BOTSWANA AIDS IMPACT SURVEY - BAIS08
+Botswana,BW,BWA,072,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS08
+Botswana,BW,BWA,072,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS08
+Botswana,BW,BWA,072,Urban,11,Dry latrines - Bucket latrine,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS08
+Botswana,BW,BWA,072,Urban,12,Dry latrines - Other,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS08
+Botswana,BW,BWA,072,Urban,13,Composting toilets,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS08
+Botswana,BW,BWA,072,Urban,14,Other improved,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS08
+Botswana,BW,BWA,072,Urban,15,"No facility, bush, field",0.02,BOTSWANA AIDS IMPACT SURVEY - BAIS08
+Botswana,BW,BWA,072,Urban,16,Other unimproved,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS08
+Botswana,BW,BWA,072,Urban,17,DK/missing information,0.005,BOTSWANA AIDS IMPACT SURVEY - BAIS08
+Botswana,BW,BWA,072,Rural,1,Flush and pour flush - to piped sewer system,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS08
+Botswana,BW,BWA,072,Rural,2,Flush and pour flush - to septic tank,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS08
+Botswana,BW,BWA,072,Rural,3,Flush and pour flush - to pit,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS08
+Botswana,BW,BWA,072,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS08
+Botswana,BW,BWA,072,Rural,5,Flush and pour flush - to elsewhere,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS08
+Botswana,BW,BWA,072,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS08
+Botswana,BW,BWA,072,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS08
+Botswana,BW,BWA,072,Rural,8,Dry latrines - Traditional latrine,0.528,BOTSWANA AIDS IMPACT SURVEY - BAIS08
+Botswana,BW,BWA,072,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS08
+Botswana,BW,BWA,072,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS08
+Botswana,BW,BWA,072,Rural,8,Dry latrines - Traditional latrine,0.431,BOTSWANA AIDS IMPACT SURVEY - BAIS08
+Botswana,BW,BWA,072,Rural,8,Dry latrines - Traditional latrine,0.097,BOTSWANA AIDS IMPACT SURVEY - BAIS08
+Botswana,BW,BWA,072,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS08
+Botswana,BW,BWA,072,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS08
+Botswana,BW,BWA,072,Rural,11,Dry latrines - Bucket latrine,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS08
+Botswana,BW,BWA,072,Rural,12,Dry latrines - Other,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS08
+Botswana,BW,BWA,072,Rural,13,Composting toilets,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS08
+Botswana,BW,BWA,072,Rural,14,Other improved,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS08
+Botswana,BW,BWA,072,Rural,15,"No facility, bush, field",0.337,BOTSWANA AIDS IMPACT SURVEY - BAIS08
+Botswana,BW,BWA,072,Rural,16,Other unimproved,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS08
+Botswana,BW,BWA,072,Rural,17,DK/missing information,0.002,BOTSWANA AIDS IMPACT SURVEY - BAIS08
+Botswana,BW,BWA,072,National,1,Flush and pour flush - to piped sewer system,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS08
+Botswana,BW,BWA,072,National,2,Flush and pour flush - to septic tank,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS08
+Botswana,BW,BWA,072,National,3,Flush and pour flush - to pit,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS08
+Botswana,BW,BWA,072,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS08
+Botswana,BW,BWA,072,National,5,Flush and pour flush - to elsewhere,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS08
+Botswana,BW,BWA,072,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS08
+Botswana,BW,BWA,072,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS08
+Botswana,BW,BWA,072,National,8,Dry latrines - Traditional latrine,0.546,BOTSWANA AIDS IMPACT SURVEY - BAIS08
+Botswana,BW,BWA,072,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS08
+Botswana,BW,BWA,072,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS08
+Botswana,BW,BWA,072,National,8,Dry latrines - Traditional latrine,0.481,BOTSWANA AIDS IMPACT SURVEY - BAIS08
+Botswana,BW,BWA,072,National,8,Dry latrines - Traditional latrine,0.065,BOTSWANA AIDS IMPACT SURVEY - BAIS08
+Botswana,BW,BWA,072,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS08
+Botswana,BW,BWA,072,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS08
+Botswana,BW,BWA,072,National,11,Dry latrines - Bucket latrine,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS08
+Botswana,BW,BWA,072,National,12,Dry latrines - Other,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS08
+Botswana,BW,BWA,072,National,13,Composting toilets,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS08
+Botswana,BW,BWA,072,National,14,Other improved,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS08
+Botswana,BW,BWA,072,National,15,"No facility, bush, field",0.156,BOTSWANA AIDS IMPACT SURVEY - BAIS08
+Botswana,BW,BWA,072,National,16,Other unimproved,0.0,BOTSWANA AIDS IMPACT SURVEY - BAIS08
+Botswana,BW,BWA,072,National,17,DK/missing information,0.004,BOTSWANA AIDS IMPACT SURVEY - BAIS08
+Botswana,BW,BWA,072,Urban,1,Flush and pour flush - to piped sewer system,0.0,"Census, 2011 - CEN11"
+Botswana,BW,BWA,072,Urban,2,Flush and pour flush - to septic tank,0.0,"Census, 2011 - CEN11"
+Botswana,BW,BWA,072,Urban,3,Flush and pour flush - to pit,0.0,"Census, 2011 - CEN11"
+Botswana,BW,BWA,072,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Census, 2011 - CEN11"
+Botswana,BW,BWA,072,Urban,5,Flush and pour flush - to elsewhere,0.0,"Census, 2011 - CEN11"
+Botswana,BW,BWA,072,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.039,"Census, 2011 - CEN11"
+Botswana,BW,BWA,072,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Census, 2011 - CEN11"
+Botswana,BW,BWA,072,Urban,8,Dry latrines - Traditional latrine,0.484,"Census, 2011 - CEN11"
+Botswana,BW,BWA,072,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.018,"Census, 2011 - CEN11"
+Botswana,BW,BWA,072,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Census, 2011 - CEN11"
+Botswana,BW,BWA,072,Urban,8,Dry latrines - Traditional latrine,0.215,"Census, 2011 - CEN11"
+Botswana,BW,BWA,072,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.021,"Census, 2011 - CEN11"
+Botswana,BW,BWA,072,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Census, 2011 - CEN11"
+Botswana,BW,BWA,072,Urban,8,Dry latrines - Traditional latrine,0.268,"Census, 2011 - CEN11"
+Botswana,BW,BWA,072,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Census, 2011 - CEN11"
+Botswana,BW,BWA,072,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Census, 2011 - CEN11"
+Botswana,BW,BWA,072,Urban,11,Dry latrines - Bucket latrine,0.0,"Census, 2011 - CEN11"
+Botswana,BW,BWA,072,Urban,12,Dry latrines - Other,0.0,"Census, 2011 - CEN11"
+Botswana,BW,BWA,072,Urban,13,Composting toilets,0.002,"Census, 2011 - CEN11"
+Botswana,BW,BWA,072,Urban,14,Other improved,0.0,"Census, 2011 - CEN11"
+Botswana,BW,BWA,072,Urban,15,"No facility, bush, field",0.021,"Census, 2011 - CEN11"
+Botswana,BW,BWA,072,Urban,16,Other unimproved,0.0,"Census, 2011 - CEN11"
+Botswana,BW,BWA,072,Urban,17,DK/missing information,0.0,"Census, 2011 - CEN11"
+Botswana,BW,BWA,072,Rural,1,Flush and pour flush - to piped sewer system,0.0,"Census, 2011 - CEN11"
+Botswana,BW,BWA,072,Rural,2,Flush and pour flush - to septic tank,0.0,"Census, 2011 - CEN11"
+Botswana,BW,BWA,072,Rural,3,Flush and pour flush - to pit,0.0,"Census, 2011 - CEN11"
+Botswana,BW,BWA,072,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Census, 2011 - CEN11"
+Botswana,BW,BWA,072,Rural,5,Flush and pour flush - to elsewhere,0.0,"Census, 2011 - CEN11"
+Botswana,BW,BWA,072,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.027,"Census, 2011 - CEN11"
+Botswana,BW,BWA,072,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Census, 2011 - CEN11"
+Botswana,BW,BWA,072,Rural,8,Dry latrines - Traditional latrine,0.448,"Census, 2011 - CEN11"
+Botswana,BW,BWA,072,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.018,"Census, 2011 - CEN11"
+Botswana,BW,BWA,072,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Census, 2011 - CEN11"
+Botswana,BW,BWA,072,Rural,8,Dry latrines - Traditional latrine,0.276,"Census, 2011 - CEN11"
+Botswana,BW,BWA,072,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.009,"Census, 2011 - CEN11"
+Botswana,BW,BWA,072,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Census, 2011 - CEN11"
+Botswana,BW,BWA,072,Rural,8,Dry latrines - Traditional latrine,0.172,"Census, 2011 - CEN11"
+Botswana,BW,BWA,072,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Census, 2011 - CEN11"
+Botswana,BW,BWA,072,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Census, 2011 - CEN11"
+Botswana,BW,BWA,072,Rural,11,Dry latrines - Bucket latrine,0.0,"Census, 2011 - CEN11"
+Botswana,BW,BWA,072,Rural,12,Dry latrines - Other,0.0,"Census, 2011 - CEN11"
+Botswana,BW,BWA,072,Rural,13,Composting toilets,0.01,"Census, 2011 - CEN11"
+Botswana,BW,BWA,072,Rural,14,Other improved,0.0,"Census, 2011 - CEN11"
+Botswana,BW,BWA,072,Rural,15,"No facility, bush, field",0.383,"Census, 2011 - CEN11"
+Botswana,BW,BWA,072,Rural,16,Other unimproved,0.0,"Census, 2011 - CEN11"
+Botswana,BW,BWA,072,Rural,17,DK/missing information,0.0,"Census, 2011 - CEN11"
+Botswana,BW,BWA,072,National,1,Flush and pour flush - to piped sewer system,0.0,"Census, 2011 - CEN11"
+Botswana,BW,BWA,072,National,2,Flush and pour flush - to septic tank,0.0,"Census, 2011 - CEN11"
+Botswana,BW,BWA,072,National,3,Flush and pour flush - to pit,0.0,"Census, 2011 - CEN11"
+Botswana,BW,BWA,072,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Census, 2011 - CEN11"
+Botswana,BW,BWA,072,National,5,Flush and pour flush - to elsewhere,0.0,"Census, 2011 - CEN11"
+Botswana,BW,BWA,072,National,6,Dry latrines - Ventilated Improved Pit latrine,0.035,"Census, 2011 - CEN11"
+Botswana,BW,BWA,072,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Census, 2011 - CEN11"
+Botswana,BW,BWA,072,National,8,Dry latrines - Traditional latrine,0.471,"Census, 2011 - CEN11"
+Botswana,BW,BWA,072,National,6,Dry latrines - Ventilated Improved Pit latrine,0.018,"Census, 2011 - CEN11"
+Botswana,BW,BWA,072,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Census, 2011 - CEN11"
+Botswana,BW,BWA,072,National,8,Dry latrines - Traditional latrine,0.237,"Census, 2011 - CEN11"
+Botswana,BW,BWA,072,National,6,Dry latrines - Ventilated Improved Pit latrine,0.017,"Census, 2011 - CEN11"
+Botswana,BW,BWA,072,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Census, 2011 - CEN11"
+Botswana,BW,BWA,072,National,8,Dry latrines - Traditional latrine,0.235,"Census, 2011 - CEN11"
+Botswana,BW,BWA,072,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Census, 2011 - CEN11"
+Botswana,BW,BWA,072,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Census, 2011 - CEN11"
+Botswana,BW,BWA,072,National,11,Dry latrines - Bucket latrine,0.0,"Census, 2011 - CEN11"
+Botswana,BW,BWA,072,National,12,Dry latrines - Other,0.0,"Census, 2011 - CEN11"
+Botswana,BW,BWA,072,National,13,Composting toilets,0.005,"Census, 2011 - CEN11"
+Botswana,BW,BWA,072,National,14,Other improved,0.0,"Census, 2011 - CEN11"
+Botswana,BW,BWA,072,National,15,"No facility, bush, field",0.148,"Census, 2011 - CEN11"
+Botswana,BW,BWA,072,National,16,Other unimproved,0.0,"Census, 2011 - CEN11"
+Botswana,BW,BWA,072,National,17,DK/missing information,0.0,"Census, 2011 - CEN11"
+Botswana,BW,BWA,072,Urban,1,Flush and pour flush - to piped sewer system,0.0,Botswana Aids Impact Survey - BAIS13
+Botswana,BW,BWA,072,Urban,2,Flush and pour flush - to septic tank,0.0,Botswana Aids Impact Survey - BAIS13
+Botswana,BW,BWA,072,Urban,3,Flush and pour flush - to pit,0.0,Botswana Aids Impact Survey - BAIS13
+Botswana,BW,BWA,072,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Botswana Aids Impact Survey - BAIS13
+Botswana,BW,BWA,072,Urban,5,Flush and pour flush - to elsewhere,0.0,Botswana Aids Impact Survey - BAIS13
+Botswana,BW,BWA,072,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Botswana Aids Impact Survey - BAIS13
+Botswana,BW,BWA,072,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Botswana Aids Impact Survey - BAIS13
+Botswana,BW,BWA,072,Urban,8,Dry latrines - Traditional latrine,0.0,Botswana Aids Impact Survey - BAIS13
+Botswana,BW,BWA,072,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Botswana Aids Impact Survey - BAIS13
+Botswana,BW,BWA,072,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Botswana Aids Impact Survey - BAIS13
+Botswana,BW,BWA,072,Urban,11,Dry latrines - Bucket latrine,0.0,Botswana Aids Impact Survey - BAIS13
+Botswana,BW,BWA,072,Urban,8,Dry latrines - Traditional latrine,0.511,Botswana Aids Impact Survey - BAIS13
+Botswana,BW,BWA,072,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Botswana Aids Impact Survey - BAIS13
+Botswana,BW,BWA,072,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Botswana Aids Impact Survey - BAIS13
+Botswana,BW,BWA,072,Urban,11,Dry latrines - Bucket latrine,0.0,Botswana Aids Impact Survey - BAIS13
+Botswana,BW,BWA,072,Urban,8,Dry latrines - Traditional latrine,0.042,Botswana Aids Impact Survey - BAIS13
+Botswana,BW,BWA,072,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Botswana Aids Impact Survey - BAIS13
+Botswana,BW,BWA,072,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Botswana Aids Impact Survey - BAIS13
+Botswana,BW,BWA,072,Urban,11,Dry latrines - Bucket latrine,0.0,Botswana Aids Impact Survey - BAIS13
+Botswana,BW,BWA,072,Urban,12,Dry latrines - Other,0.0,Botswana Aids Impact Survey - BAIS13
+Botswana,BW,BWA,072,Urban,13,Composting toilets,0.0,Botswana Aids Impact Survey - BAIS13
+Botswana,BW,BWA,072,Urban,14,Other improved,0.0,Botswana Aids Impact Survey - BAIS13
+Botswana,BW,BWA,072,Urban,15,"No facility, bush, field",0.011,Botswana Aids Impact Survey - BAIS13
+Botswana,BW,BWA,072,Urban,16,Other unimproved,0.0,Botswana Aids Impact Survey - BAIS13
+Botswana,BW,BWA,072,Urban,17,DK/missing information,0.0,Botswana Aids Impact Survey - BAIS13
+Botswana,BW,BWA,072,Rural,1,Flush and pour flush - to piped sewer system,0.0,Botswana Aids Impact Survey - BAIS13
+Botswana,BW,BWA,072,Rural,2,Flush and pour flush - to septic tank,0.0,Botswana Aids Impact Survey - BAIS13
+Botswana,BW,BWA,072,Rural,3,Flush and pour flush - to pit,0.0,Botswana Aids Impact Survey - BAIS13
+Botswana,BW,BWA,072,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Botswana Aids Impact Survey - BAIS13
+Botswana,BW,BWA,072,Rural,5,Flush and pour flush - to elsewhere,0.0,Botswana Aids Impact Survey - BAIS13
+Botswana,BW,BWA,072,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Botswana Aids Impact Survey - BAIS13
+Botswana,BW,BWA,072,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Botswana Aids Impact Survey - BAIS13
+Botswana,BW,BWA,072,Rural,8,Dry latrines - Traditional latrine,0.0,Botswana Aids Impact Survey - BAIS13
+Botswana,BW,BWA,072,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Botswana Aids Impact Survey - BAIS13
+Botswana,BW,BWA,072,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Botswana Aids Impact Survey - BAIS13
+Botswana,BW,BWA,072,Rural,11,Dry latrines - Bucket latrine,0.001,Botswana Aids Impact Survey - BAIS13
+Botswana,BW,BWA,072,Rural,8,Dry latrines - Traditional latrine,0.407,Botswana Aids Impact Survey - BAIS13
+Botswana,BW,BWA,072,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Botswana Aids Impact Survey - BAIS13
+Botswana,BW,BWA,072,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Botswana Aids Impact Survey - BAIS13
+Botswana,BW,BWA,072,Rural,11,Dry latrines - Bucket latrine,0.001,Botswana Aids Impact Survey - BAIS13
+Botswana,BW,BWA,072,Rural,8,Dry latrines - Traditional latrine,0.114,Botswana Aids Impact Survey - BAIS13
+Botswana,BW,BWA,072,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Botswana Aids Impact Survey - BAIS13
+Botswana,BW,BWA,072,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Botswana Aids Impact Survey - BAIS13
+Botswana,BW,BWA,072,Rural,11,Dry latrines - Bucket latrine,0.0,Botswana Aids Impact Survey - BAIS13
+Botswana,BW,BWA,072,Rural,12,Dry latrines - Other,0.0,Botswana Aids Impact Survey - BAIS13
+Botswana,BW,BWA,072,Rural,13,Composting toilets,0.0,Botswana Aids Impact Survey - BAIS13
+Botswana,BW,BWA,072,Rural,14,Other improved,0.0,Botswana Aids Impact Survey - BAIS13
+Botswana,BW,BWA,072,Rural,15,"No facility, bush, field",0.383,Botswana Aids Impact Survey - BAIS13
+Botswana,BW,BWA,072,Rural,16,Other unimproved,0.0,Botswana Aids Impact Survey - BAIS13
+Botswana,BW,BWA,072,Rural,17,DK/missing information,0.0,Botswana Aids Impact Survey - BAIS13
+Botswana,BW,BWA,072,National,1,Flush and pour flush - to piped sewer system,0.0,Botswana Aids Impact Survey - BAIS13
+Botswana,BW,BWA,072,National,2,Flush and pour flush - to septic tank,0.0,Botswana Aids Impact Survey - BAIS13
+Botswana,BW,BWA,072,National,3,Flush and pour flush - to pit,0.0,Botswana Aids Impact Survey - BAIS13
+Botswana,BW,BWA,072,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Botswana Aids Impact Survey - BAIS13
+Botswana,BW,BWA,072,National,5,Flush and pour flush - to elsewhere,0.0,Botswana Aids Impact Survey - BAIS13
+Botswana,BW,BWA,072,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Botswana Aids Impact Survey - BAIS13
+Botswana,BW,BWA,072,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Botswana Aids Impact Survey - BAIS13
+Botswana,BW,BWA,072,National,8,Dry latrines - Traditional latrine,0.0,Botswana Aids Impact Survey - BAIS13
+Botswana,BW,BWA,072,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Botswana Aids Impact Survey - BAIS13
+Botswana,BW,BWA,072,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Botswana Aids Impact Survey - BAIS13
+Botswana,BW,BWA,072,National,11,Dry latrines - Bucket latrine,0.0,Botswana Aids Impact Survey - BAIS13
+Botswana,BW,BWA,072,National,8,Dry latrines - Traditional latrine,0.472,Botswana Aids Impact Survey - BAIS13
+Botswana,BW,BWA,072,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Botswana Aids Impact Survey - BAIS13
+Botswana,BW,BWA,072,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Botswana Aids Impact Survey - BAIS13
+Botswana,BW,BWA,072,National,11,Dry latrines - Bucket latrine,0.0,Botswana Aids Impact Survey - BAIS13
+Botswana,BW,BWA,072,National,8,Dry latrines - Traditional latrine,0.069,Botswana Aids Impact Survey - BAIS13
+Botswana,BW,BWA,072,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Botswana Aids Impact Survey - BAIS13
+Botswana,BW,BWA,072,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Botswana Aids Impact Survey - BAIS13
+Botswana,BW,BWA,072,National,11,Dry latrines - Bucket latrine,0.0,Botswana Aids Impact Survey - BAIS13
+Botswana,BW,BWA,072,National,12,Dry latrines - Other,0.0,Botswana Aids Impact Survey - BAIS13
+Botswana,BW,BWA,072,National,13,Composting toilets,0.0,Botswana Aids Impact Survey - BAIS13
+Botswana,BW,BWA,072,National,14,Other improved,0.0,Botswana Aids Impact Survey - BAIS13
+Botswana,BW,BWA,072,National,15,"No facility, bush, field",0.151,Botswana Aids Impact Survey - BAIS13
+Botswana,BW,BWA,072,National,16,Other unimproved,0.0,Botswana Aids Impact Survey - BAIS13
+Botswana,BW,BWA,072,National,17,DK/missing information,0.0,Botswana Aids Impact Survey - BAIS13
+Botswana,BW,BWA,072,Urban,1,Flush and pour flush - to piped sewer system,0.0,"Botswana Demographic Survey, 2017 - BDS17"
+Botswana,BW,BWA,072,Urban,2,Flush and pour flush - to septic tank,0.0,"Botswana Demographic Survey, 2017 - BDS17"
+Botswana,BW,BWA,072,Urban,3,Flush and pour flush - to pit,0.0,"Botswana Demographic Survey, 2017 - BDS17"
+Botswana,BW,BWA,072,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Botswana Demographic Survey, 2017 - BDS17"
+Botswana,BW,BWA,072,Urban,5,Flush and pour flush - to elsewhere,0.0,"Botswana Demographic Survey, 2017 - BDS17"
+Botswana,BW,BWA,072,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.007,"Botswana Demographic Survey, 2017 - BDS17"
+Botswana,BW,BWA,072,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Botswana Demographic Survey, 2017 - BDS17"
+Botswana,BW,BWA,072,Urban,8,Dry latrines - Traditional latrine,0.0,"Botswana Demographic Survey, 2017 - BDS17"
+Botswana,BW,BWA,072,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Botswana Demographic Survey, 2017 - BDS17"
+Botswana,BW,BWA,072,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Botswana Demographic Survey, 2017 - BDS17"
+Botswana,BW,BWA,072,Urban,11,Dry latrines - Bucket latrine,0.0,"Botswana Demographic Survey, 2017 - BDS17"
+Botswana,BW,BWA,072,Urban,12,Dry latrines - Other,0.021,"Botswana Demographic Survey, 2017 - BDS17"
+Botswana,BW,BWA,072,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.007,"Botswana Demographic Survey, 2017 - BDS17"
+Botswana,BW,BWA,072,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Botswana Demographic Survey, 2017 - BDS17"
+Botswana,BW,BWA,072,Urban,8,Dry latrines - Traditional latrine,0.36,"Botswana Demographic Survey, 2017 - BDS17"
+Botswana,BW,BWA,072,Urban,8,Dry latrines - Traditional latrine,0.005,"Botswana Demographic Survey, 2017 - BDS17"
+Botswana,BW,BWA,072,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Botswana Demographic Survey, 2017 - BDS17"
+Botswana,BW,BWA,072,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Botswana Demographic Survey, 2017 - BDS17"
+Botswana,BW,BWA,072,Urban,11,Dry latrines - Bucket latrine,0.0,"Botswana Demographic Survey, 2017 - BDS17"
+Botswana,BW,BWA,072,Urban,12,Dry latrines - Other,0.021,"Botswana Demographic Survey, 2017 - BDS17"
+Botswana,BW,BWA,072,Urban,13,Composting toilets,0.0,"Botswana Demographic Survey, 2017 - BDS17"
+Botswana,BW,BWA,072,Urban,14,Other improved,0.0,"Botswana Demographic Survey, 2017 - BDS17"
+Botswana,BW,BWA,072,Urban,15,"No facility, bush, field",0.012,"Botswana Demographic Survey, 2017 - BDS17"
+Botswana,BW,BWA,072,Urban,16,Other unimproved,0.0,"Botswana Demographic Survey, 2017 - BDS17"
+Botswana,BW,BWA,072,Urban,17,DK/missing information,0.001,"Botswana Demographic Survey, 2017 - BDS17"
+Botswana,BW,BWA,072,Rural,1,Flush and pour flush - to piped sewer system,0.0,"Botswana Demographic Survey, 2017 - BDS17"
+Botswana,BW,BWA,072,Rural,2,Flush and pour flush - to septic tank,0.0,"Botswana Demographic Survey, 2017 - BDS17"
+Botswana,BW,BWA,072,Rural,3,Flush and pour flush - to pit,0.0,"Botswana Demographic Survey, 2017 - BDS17"
+Botswana,BW,BWA,072,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Botswana Demographic Survey, 2017 - BDS17"
+Botswana,BW,BWA,072,Rural,5,Flush and pour flush - to elsewhere,0.0,"Botswana Demographic Survey, 2017 - BDS17"
+Botswana,BW,BWA,072,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.008,"Botswana Demographic Survey, 2017 - BDS17"
+Botswana,BW,BWA,072,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Botswana Demographic Survey, 2017 - BDS17"
+Botswana,BW,BWA,072,Rural,8,Dry latrines - Traditional latrine,0.0,"Botswana Demographic Survey, 2017 - BDS17"
+Botswana,BW,BWA,072,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Botswana Demographic Survey, 2017 - BDS17"
+Botswana,BW,BWA,072,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Botswana Demographic Survey, 2017 - BDS17"
+Botswana,BW,BWA,072,Rural,11,Dry latrines - Bucket latrine,0.0,"Botswana Demographic Survey, 2017 - BDS17"
+Botswana,BW,BWA,072,Rural,12,Dry latrines - Other,0.089,"Botswana Demographic Survey, 2017 - BDS17"
+Botswana,BW,BWA,072,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.008,"Botswana Demographic Survey, 2017 - BDS17"
+Botswana,BW,BWA,072,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Botswana Demographic Survey, 2017 - BDS17"
+Botswana,BW,BWA,072,Rural,8,Dry latrines - Traditional latrine,0.436,"Botswana Demographic Survey, 2017 - BDS17"
+Botswana,BW,BWA,072,Rural,8,Dry latrines - Traditional latrine,0.005,"Botswana Demographic Survey, 2017 - BDS17"
+Botswana,BW,BWA,072,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Botswana Demographic Survey, 2017 - BDS17"
+Botswana,BW,BWA,072,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Botswana Demographic Survey, 2017 - BDS17"
+Botswana,BW,BWA,072,Rural,11,Dry latrines - Bucket latrine,0.0,"Botswana Demographic Survey, 2017 - BDS17"
+Botswana,BW,BWA,072,Rural,12,Dry latrines - Other,0.089,"Botswana Demographic Survey, 2017 - BDS17"
+Botswana,BW,BWA,072,Rural,13,Composting toilets,0.009,"Botswana Demographic Survey, 2017 - BDS17"
+Botswana,BW,BWA,072,Rural,14,Other improved,0.0,"Botswana Demographic Survey, 2017 - BDS17"
+Botswana,BW,BWA,072,Rural,15,"No facility, bush, field",0.286,"Botswana Demographic Survey, 2017 - BDS17"
+Botswana,BW,BWA,072,Rural,16,Other unimproved,0.0,"Botswana Demographic Survey, 2017 - BDS17"
+Botswana,BW,BWA,072,Rural,17,DK/missing information,0.0,"Botswana Demographic Survey, 2017 - BDS17"
+Botswana,BW,BWA,072,National,1,Flush and pour flush - to piped sewer system,0.0,"Botswana Demographic Survey, 2017 - BDS17"
+Botswana,BW,BWA,072,National,2,Flush and pour flush - to septic tank,0.0,"Botswana Demographic Survey, 2017 - BDS17"
+Botswana,BW,BWA,072,National,3,Flush and pour flush - to pit,0.0,"Botswana Demographic Survey, 2017 - BDS17"
+Botswana,BW,BWA,072,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Botswana Demographic Survey, 2017 - BDS17"
+Botswana,BW,BWA,072,National,5,Flush and pour flush - to elsewhere,0.0,"Botswana Demographic Survey, 2017 - BDS17"
+Botswana,BW,BWA,072,National,6,Dry latrines - Ventilated Improved Pit latrine,0.008,"Botswana Demographic Survey, 2017 - BDS17"
+Botswana,BW,BWA,072,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Botswana Demographic Survey, 2017 - BDS17"
+Botswana,BW,BWA,072,National,8,Dry latrines - Traditional latrine,0.0,"Botswana Demographic Survey, 2017 - BDS17"
+Botswana,BW,BWA,072,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Botswana Demographic Survey, 2017 - BDS17"
+Botswana,BW,BWA,072,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Botswana Demographic Survey, 2017 - BDS17"
+Botswana,BW,BWA,072,National,11,Dry latrines - Bucket latrine,0.0,"Botswana Demographic Survey, 2017 - BDS17"
+Botswana,BW,BWA,072,National,12,Dry latrines - Other,0.045,"Botswana Demographic Survey, 2017 - BDS17"
+Botswana,BW,BWA,072,National,6,Dry latrines - Ventilated Improved Pit latrine,0.008,"Botswana Demographic Survey, 2017 - BDS17"
+Botswana,BW,BWA,072,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Botswana Demographic Survey, 2017 - BDS17"
+Botswana,BW,BWA,072,National,8,Dry latrines - Traditional latrine,0.387,"Botswana Demographic Survey, 2017 - BDS17"
+Botswana,BW,BWA,072,National,8,Dry latrines - Traditional latrine,0.005,"Botswana Demographic Survey, 2017 - BDS17"
+Botswana,BW,BWA,072,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Botswana Demographic Survey, 2017 - BDS17"
+Botswana,BW,BWA,072,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Botswana Demographic Survey, 2017 - BDS17"
+Botswana,BW,BWA,072,National,11,Dry latrines - Bucket latrine,0.0,"Botswana Demographic Survey, 2017 - BDS17"
+Botswana,BW,BWA,072,National,12,Dry latrines - Other,0.045,"Botswana Demographic Survey, 2017 - BDS17"
+Botswana,BW,BWA,072,National,13,Composting toilets,0.003,"Botswana Demographic Survey, 2017 - BDS17"
+Botswana,BW,BWA,072,National,14,Other improved,0.0,"Botswana Demographic Survey, 2017 - BDS17"
+Botswana,BW,BWA,072,National,15,"No facility, bush, field",0.108,"Botswana Demographic Survey, 2017 - BDS17"
+Botswana,BW,BWA,072,National,16,Other unimproved,0.0,"Botswana Demographic Survey, 2017 - BDS17"
+Botswana,BW,BWA,072,National,17,DK/missing information,0.0,"Botswana Demographic Survey, 2017 - BDS17"

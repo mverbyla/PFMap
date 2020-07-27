@@ -1,4 +1,55 @@
 country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+Bolivia (Plurinational State of),BO,BOL,068,Urban,1,Flush and pour flush - to piped sewer system,0.0,Multiple Indicator Cluster Survey - MICS00
+Bolivia (Plurinational State of),BO,BOL,068,Urban,2,Flush and pour flush - to septic tank,0.0,Multiple Indicator Cluster Survey - MICS00
+Bolivia (Plurinational State of),BO,BOL,068,Urban,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Bolivia (Plurinational State of),BO,BOL,068,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS00
+Bolivia (Plurinational State of),BO,BOL,068,Urban,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS00
+Bolivia (Plurinational State of),BO,BOL,068,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.029,Multiple Indicator Cluster Survey - MICS00
+Bolivia (Plurinational State of),BO,BOL,068,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Bolivia (Plurinational State of),BO,BOL,068,Urban,8,Dry latrines - Traditional latrine,0.117,Multiple Indicator Cluster Survey - MICS00
+Bolivia (Plurinational State of),BO,BOL,068,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Bolivia (Plurinational State of),BO,BOL,068,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Bolivia (Plurinational State of),BO,BOL,068,Urban,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Bolivia (Plurinational State of),BO,BOL,068,Urban,12,Dry latrines - Other,0.004,Multiple Indicator Cluster Survey - MICS00
+Bolivia (Plurinational State of),BO,BOL,068,Urban,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS00
+Bolivia (Plurinational State of),BO,BOL,068,Urban,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS00
+Bolivia (Plurinational State of),BO,BOL,068,Urban,15,"No facility, bush, field",0.067,Multiple Indicator Cluster Survey - MICS00
+Bolivia (Plurinational State of),BO,BOL,068,Urban,16,Other unimproved,0.028,Multiple Indicator Cluster Survey - MICS00
+Bolivia (Plurinational State of),BO,BOL,068,Urban,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS00
+Bolivia (Plurinational State of),BO,BOL,068,Rural,1,Flush and pour flush - to piped sewer system,0.0,Multiple Indicator Cluster Survey - MICS00
+Bolivia (Plurinational State of),BO,BOL,068,Rural,2,Flush and pour flush - to septic tank,0.0,Multiple Indicator Cluster Survey - MICS00
+Bolivia (Plurinational State of),BO,BOL,068,Rural,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Bolivia (Plurinational State of),BO,BOL,068,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS00
+Bolivia (Plurinational State of),BO,BOL,068,Rural,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS00
+Bolivia (Plurinational State of),BO,BOL,068,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.019,Multiple Indicator Cluster Survey - MICS00
+Bolivia (Plurinational State of),BO,BOL,068,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Bolivia (Plurinational State of),BO,BOL,068,Rural,8,Dry latrines - Traditional latrine,0.312,Multiple Indicator Cluster Survey - MICS00
+Bolivia (Plurinational State of),BO,BOL,068,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Bolivia (Plurinational State of),BO,BOL,068,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Bolivia (Plurinational State of),BO,BOL,068,Rural,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Bolivia (Plurinational State of),BO,BOL,068,Rural,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS00
+Bolivia (Plurinational State of),BO,BOL,068,Rural,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS00
+Bolivia (Plurinational State of),BO,BOL,068,Rural,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS00
+Bolivia (Plurinational State of),BO,BOL,068,Rural,15,"No facility, bush, field",0.526,Multiple Indicator Cluster Survey - MICS00
+Bolivia (Plurinational State of),BO,BOL,068,Rural,16,Other unimproved,0.043,Multiple Indicator Cluster Survey - MICS00
+Bolivia (Plurinational State of),BO,BOL,068,Rural,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS00
+Bolivia (Plurinational State of),BO,BOL,068,National,1,Flush and pour flush - to piped sewer system,0.0,Multiple Indicator Cluster Survey - MICS00
+Bolivia (Plurinational State of),BO,BOL,068,National,2,Flush and pour flush - to septic tank,0.0,Multiple Indicator Cluster Survey - MICS00
+Bolivia (Plurinational State of),BO,BOL,068,National,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Bolivia (Plurinational State of),BO,BOL,068,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS00
+Bolivia (Plurinational State of),BO,BOL,068,National,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS00
+Bolivia (Plurinational State of),BO,BOL,068,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Bolivia (Plurinational State of),BO,BOL,068,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Bolivia (Plurinational State of),BO,BOL,068,National,8,Dry latrines - Traditional latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Bolivia (Plurinational State of),BO,BOL,068,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Bolivia (Plurinational State of),BO,BOL,068,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Bolivia (Plurinational State of),BO,BOL,068,National,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Bolivia (Plurinational State of),BO,BOL,068,National,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS00
+Bolivia (Plurinational State of),BO,BOL,068,National,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS00
+Bolivia (Plurinational State of),BO,BOL,068,National,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS00
+Bolivia (Plurinational State of),BO,BOL,068,National,15,"No facility, bush, field",0.0,Multiple Indicator Cluster Survey - MICS00
+Bolivia (Plurinational State of),BO,BOL,068,National,16,Other unimproved,0.0,Multiple Indicator Cluster Survey - MICS00
+Bolivia (Plurinational State of),BO,BOL,068,National,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS00
 Bolivia (Plurinational State of),BO,BOL,068,Urban,1,Flush and pour flush - to piped sewer system,0.532,Encuesta Continua de Hogares - ECH00
 Bolivia (Plurinational State of),BO,BOL,068,Urban,2,Flush and pour flush - to septic tank,0.094,Encuesta Continua de Hogares - ECH00
 Bolivia (Plurinational State of),BO,BOL,068,Urban,3,Flush and pour flush - to pit,0.0,Encuesta Continua de Hogares - ECH00
@@ -33,6 +84,23 @@ Bolivia (Plurinational State of),BO,BOL,068,Rural,14,Other improved,0.0,Encuesta
 Bolivia (Plurinational State of),BO,BOL,068,Rural,15,"No facility, bush, field",0.613,Encuesta Continua de Hogares - ECH00
 Bolivia (Plurinational State of),BO,BOL,068,Rural,16,Other unimproved,0.0,Encuesta Continua de Hogares - ECH00
 Bolivia (Plurinational State of),BO,BOL,068,Rural,17,DK/missing information,0.0,Encuesta Continua de Hogares - ECH00
+Bolivia (Plurinational State of),BO,BOL,068,National,1,Flush and pour flush - to piped sewer system,0.0,Encuesta Continua de Hogares - ECH00
+Bolivia (Plurinational State of),BO,BOL,068,National,2,Flush and pour flush - to septic tank,0.0,Encuesta Continua de Hogares - ECH00
+Bolivia (Plurinational State of),BO,BOL,068,National,3,Flush and pour flush - to pit,0.0,Encuesta Continua de Hogares - ECH00
+Bolivia (Plurinational State of),BO,BOL,068,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Continua de Hogares - ECH00
+Bolivia (Plurinational State of),BO,BOL,068,National,5,Flush and pour flush - to elsewhere,0.0,Encuesta Continua de Hogares - ECH00
+Bolivia (Plurinational State of),BO,BOL,068,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Continua de Hogares - ECH00
+Bolivia (Plurinational State of),BO,BOL,068,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta Continua de Hogares - ECH00
+Bolivia (Plurinational State of),BO,BOL,068,National,8,Dry latrines - Traditional latrine,0.0,Encuesta Continua de Hogares - ECH00
+Bolivia (Plurinational State of),BO,BOL,068,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta Continua de Hogares - ECH00
+Bolivia (Plurinational State of),BO,BOL,068,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Continua de Hogares - ECH00
+Bolivia (Plurinational State of),BO,BOL,068,National,11,Dry latrines - Bucket latrine,0.0,Encuesta Continua de Hogares - ECH00
+Bolivia (Plurinational State of),BO,BOL,068,National,12,Dry latrines - Other,0.0,Encuesta Continua de Hogares - ECH00
+Bolivia (Plurinational State of),BO,BOL,068,National,13,Composting toilets,0.0,Encuesta Continua de Hogares - ECH00
+Bolivia (Plurinational State of),BO,BOL,068,National,14,Other improved,0.0,Encuesta Continua de Hogares - ECH00
+Bolivia (Plurinational State of),BO,BOL,068,National,15,"No facility, bush, field",0.0,Encuesta Continua de Hogares - ECH00
+Bolivia (Plurinational State of),BO,BOL,068,National,16,Other unimproved,0.0,Encuesta Continua de Hogares - ECH00
+Bolivia (Plurinational State of),BO,BOL,068,National,17,DK/missing information,0.0,Encuesta Continua de Hogares - ECH00
 Bolivia (Plurinational State of),BO,BOL,068,Urban,1,Flush and pour flush - to piped sewer system,0.484,Encuesta Continua de Hogares - ECH01
 Bolivia (Plurinational State of),BO,BOL,068,Urban,2,Flush and pour flush - to septic tank,0.143,Encuesta Continua de Hogares - ECH01
 Bolivia (Plurinational State of),BO,BOL,068,Urban,3,Flush and pour flush - to pit,0.0,Encuesta Continua de Hogares - ECH01
@@ -67,6 +135,23 @@ Bolivia (Plurinational State of),BO,BOL,068,Rural,14,Other improved,0.0,Encuesta
 Bolivia (Plurinational State of),BO,BOL,068,Rural,15,"No facility, bush, field",0.596,Encuesta Continua de Hogares - ECH01
 Bolivia (Plurinational State of),BO,BOL,068,Rural,16,Other unimproved,0.0,Encuesta Continua de Hogares - ECH01
 Bolivia (Plurinational State of),BO,BOL,068,Rural,17,DK/missing information,0.0,Encuesta Continua de Hogares - ECH01
+Bolivia (Plurinational State of),BO,BOL,068,National,1,Flush and pour flush - to piped sewer system,0.0,Encuesta Continua de Hogares - ECH01
+Bolivia (Plurinational State of),BO,BOL,068,National,2,Flush and pour flush - to septic tank,0.0,Encuesta Continua de Hogares - ECH01
+Bolivia (Plurinational State of),BO,BOL,068,National,3,Flush and pour flush - to pit,0.0,Encuesta Continua de Hogares - ECH01
+Bolivia (Plurinational State of),BO,BOL,068,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Continua de Hogares - ECH01
+Bolivia (Plurinational State of),BO,BOL,068,National,5,Flush and pour flush - to elsewhere,0.0,Encuesta Continua de Hogares - ECH01
+Bolivia (Plurinational State of),BO,BOL,068,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Continua de Hogares - ECH01
+Bolivia (Plurinational State of),BO,BOL,068,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta Continua de Hogares - ECH01
+Bolivia (Plurinational State of),BO,BOL,068,National,8,Dry latrines - Traditional latrine,0.0,Encuesta Continua de Hogares - ECH01
+Bolivia (Plurinational State of),BO,BOL,068,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta Continua de Hogares - ECH01
+Bolivia (Plurinational State of),BO,BOL,068,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Continua de Hogares - ECH01
+Bolivia (Plurinational State of),BO,BOL,068,National,11,Dry latrines - Bucket latrine,0.0,Encuesta Continua de Hogares - ECH01
+Bolivia (Plurinational State of),BO,BOL,068,National,12,Dry latrines - Other,0.0,Encuesta Continua de Hogares - ECH01
+Bolivia (Plurinational State of),BO,BOL,068,National,13,Composting toilets,0.0,Encuesta Continua de Hogares - ECH01
+Bolivia (Plurinational State of),BO,BOL,068,National,14,Other improved,0.0,Encuesta Continua de Hogares - ECH01
+Bolivia (Plurinational State of),BO,BOL,068,National,15,"No facility, bush, field",0.0,Encuesta Continua de Hogares - ECH01
+Bolivia (Plurinational State of),BO,BOL,068,National,16,Other unimproved,0.0,Encuesta Continua de Hogares - ECH01
+Bolivia (Plurinational State of),BO,BOL,068,National,17,DK/missing information,0.0,Encuesta Continua de Hogares - ECH01
 Bolivia (Plurinational State of),BO,BOL,068,Urban,1,Flush and pour flush - to piped sewer system,0.482,Censo Nacional de Poblacion y Vivienda - CEN01
 Bolivia (Plurinational State of),BO,BOL,068,Urban,2,Flush and pour flush - to septic tank,0.132,Censo Nacional de Poblacion y Vivienda - CEN01
 Bolivia (Plurinational State of),BO,BOL,068,Urban,3,Flush and pour flush - to pit,0.0,Censo Nacional de Poblacion y Vivienda - CEN01
@@ -101,6 +186,23 @@ Bolivia (Plurinational State of),BO,BOL,068,Rural,14,Other improved,0.0,Censo Na
 Bolivia (Plurinational State of),BO,BOL,068,Rural,15,"No facility, bush, field",0.637,Censo Nacional de Poblacion y Vivienda - CEN01
 Bolivia (Plurinational State of),BO,BOL,068,Rural,16,Other unimproved,0.011,Censo Nacional de Poblacion y Vivienda - CEN01
 Bolivia (Plurinational State of),BO,BOL,068,Rural,17,DK/missing information,0.0,Censo Nacional de Poblacion y Vivienda - CEN01
+Bolivia (Plurinational State of),BO,BOL,068,National,1,Flush and pour flush - to piped sewer system,0.0,Censo Nacional de Poblacion y Vivienda - CEN01
+Bolivia (Plurinational State of),BO,BOL,068,National,2,Flush and pour flush - to septic tank,0.0,Censo Nacional de Poblacion y Vivienda - CEN01
+Bolivia (Plurinational State of),BO,BOL,068,National,3,Flush and pour flush - to pit,0.0,Censo Nacional de Poblacion y Vivienda - CEN01
+Bolivia (Plurinational State of),BO,BOL,068,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Censo Nacional de Poblacion y Vivienda - CEN01
+Bolivia (Plurinational State of),BO,BOL,068,National,5,Flush and pour flush - to elsewhere,0.0,Censo Nacional de Poblacion y Vivienda - CEN01
+Bolivia (Plurinational State of),BO,BOL,068,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Censo Nacional de Poblacion y Vivienda - CEN01
+Bolivia (Plurinational State of),BO,BOL,068,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Censo Nacional de Poblacion y Vivienda - CEN01
+Bolivia (Plurinational State of),BO,BOL,068,National,8,Dry latrines - Traditional latrine,0.0,Censo Nacional de Poblacion y Vivienda - CEN01
+Bolivia (Plurinational State of),BO,BOL,068,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Censo Nacional de Poblacion y Vivienda - CEN01
+Bolivia (Plurinational State of),BO,BOL,068,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Censo Nacional de Poblacion y Vivienda - CEN01
+Bolivia (Plurinational State of),BO,BOL,068,National,11,Dry latrines - Bucket latrine,0.0,Censo Nacional de Poblacion y Vivienda - CEN01
+Bolivia (Plurinational State of),BO,BOL,068,National,12,Dry latrines - Other,0.0,Censo Nacional de Poblacion y Vivienda - CEN01
+Bolivia (Plurinational State of),BO,BOL,068,National,13,Composting toilets,0.0,Censo Nacional de Poblacion y Vivienda - CEN01
+Bolivia (Plurinational State of),BO,BOL,068,National,14,Other improved,0.0,Censo Nacional de Poblacion y Vivienda - CEN01
+Bolivia (Plurinational State of),BO,BOL,068,National,15,"No facility, bush, field",0.0,Censo Nacional de Poblacion y Vivienda - CEN01
+Bolivia (Plurinational State of),BO,BOL,068,National,16,Other unimproved,0.0,Censo Nacional de Poblacion y Vivienda - CEN01
+Bolivia (Plurinational State of),BO,BOL,068,National,17,DK/missing information,0.0,Censo Nacional de Poblacion y Vivienda - CEN01
 Bolivia (Plurinational State of),BO,BOL,068,Urban,1,Flush and pour flush - to piped sewer system,0.482,Encuesta Continua de Hogares - ECH02
 Bolivia (Plurinational State of),BO,BOL,068,Urban,2,Flush and pour flush - to septic tank,0.132,Encuesta Continua de Hogares - ECH02
 Bolivia (Plurinational State of),BO,BOL,068,Urban,3,Flush and pour flush - to pit,0.0,Encuesta Continua de Hogares - ECH02
@@ -135,6 +237,23 @@ Bolivia (Plurinational State of),BO,BOL,068,Rural,14,Other improved,0.0,Encuesta
 Bolivia (Plurinational State of),BO,BOL,068,Rural,15,"No facility, bush, field",0.638,Encuesta Continua de Hogares - ECH02
 Bolivia (Plurinational State of),BO,BOL,068,Rural,16,Other unimproved,0.0,Encuesta Continua de Hogares - ECH02
 Bolivia (Plurinational State of),BO,BOL,068,Rural,17,DK/missing information,0.0,Encuesta Continua de Hogares - ECH02
+Bolivia (Plurinational State of),BO,BOL,068,National,1,Flush and pour flush - to piped sewer system,0.0,Encuesta Continua de Hogares - ECH02
+Bolivia (Plurinational State of),BO,BOL,068,National,2,Flush and pour flush - to septic tank,0.0,Encuesta Continua de Hogares - ECH02
+Bolivia (Plurinational State of),BO,BOL,068,National,3,Flush and pour flush - to pit,0.0,Encuesta Continua de Hogares - ECH02
+Bolivia (Plurinational State of),BO,BOL,068,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Continua de Hogares - ECH02
+Bolivia (Plurinational State of),BO,BOL,068,National,5,Flush and pour flush - to elsewhere,0.0,Encuesta Continua de Hogares - ECH02
+Bolivia (Plurinational State of),BO,BOL,068,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Continua de Hogares - ECH02
+Bolivia (Plurinational State of),BO,BOL,068,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta Continua de Hogares - ECH02
+Bolivia (Plurinational State of),BO,BOL,068,National,8,Dry latrines - Traditional latrine,0.0,Encuesta Continua de Hogares - ECH02
+Bolivia (Plurinational State of),BO,BOL,068,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta Continua de Hogares - ECH02
+Bolivia (Plurinational State of),BO,BOL,068,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Continua de Hogares - ECH02
+Bolivia (Plurinational State of),BO,BOL,068,National,11,Dry latrines - Bucket latrine,0.0,Encuesta Continua de Hogares - ECH02
+Bolivia (Plurinational State of),BO,BOL,068,National,12,Dry latrines - Other,0.0,Encuesta Continua de Hogares - ECH02
+Bolivia (Plurinational State of),BO,BOL,068,National,13,Composting toilets,0.0,Encuesta Continua de Hogares - ECH02
+Bolivia (Plurinational State of),BO,BOL,068,National,14,Other improved,0.0,Encuesta Continua de Hogares - ECH02
+Bolivia (Plurinational State of),BO,BOL,068,National,15,"No facility, bush, field",0.0,Encuesta Continua de Hogares - ECH02
+Bolivia (Plurinational State of),BO,BOL,068,National,16,Other unimproved,0.0,Encuesta Continua de Hogares - ECH02
+Bolivia (Plurinational State of),BO,BOL,068,National,17,DK/missing information,0.0,Encuesta Continua de Hogares - ECH02
 Bolivia (Plurinational State of),BO,BOL,068,Urban,1,Flush and pour flush - to piped sewer system,0.49,Demographic and Health Survey - DHS03
 Bolivia (Plurinational State of),BO,BOL,068,Urban,2,Flush and pour flush - to septic tank,0.102,Demographic and Health Survey - DHS03
 Bolivia (Plurinational State of),BO,BOL,068,Urban,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS03
@@ -169,6 +288,23 @@ Bolivia (Plurinational State of),BO,BOL,068,Rural,14,Other improved,0.0,Demograp
 Bolivia (Plurinational State of),BO,BOL,068,Rural,15,"No facility, bush, field",0.601,Demographic and Health Survey - DHS03
 Bolivia (Plurinational State of),BO,BOL,068,Rural,16,Other unimproved,0.0,Demographic and Health Survey - DHS03
 Bolivia (Plurinational State of),BO,BOL,068,Rural,17,DK/missing information,0.001,Demographic and Health Survey - DHS03
+Bolivia (Plurinational State of),BO,BOL,068,National,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS03
+Bolivia (Plurinational State of),BO,BOL,068,National,2,Flush and pour flush - to septic tank,0.0,Demographic and Health Survey - DHS03
+Bolivia (Plurinational State of),BO,BOL,068,National,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS03
+Bolivia (Plurinational State of),BO,BOL,068,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS03
+Bolivia (Plurinational State of),BO,BOL,068,National,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS03
+Bolivia (Plurinational State of),BO,BOL,068,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - DHS03
+Bolivia (Plurinational State of),BO,BOL,068,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS03
+Bolivia (Plurinational State of),BO,BOL,068,National,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS03
+Bolivia (Plurinational State of),BO,BOL,068,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Survey - DHS03
+Bolivia (Plurinational State of),BO,BOL,068,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS03
+Bolivia (Plurinational State of),BO,BOL,068,National,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS03
+Bolivia (Plurinational State of),BO,BOL,068,National,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS03
+Bolivia (Plurinational State of),BO,BOL,068,National,13,Composting toilets,0.0,Demographic and Health Survey - DHS03
+Bolivia (Plurinational State of),BO,BOL,068,National,14,Other improved,0.0,Demographic and Health Survey - DHS03
+Bolivia (Plurinational State of),BO,BOL,068,National,15,"No facility, bush, field",0.0,Demographic and Health Survey - DHS03
+Bolivia (Plurinational State of),BO,BOL,068,National,16,Other unimproved,0.0,Demographic and Health Survey - DHS03
+Bolivia (Plurinational State of),BO,BOL,068,National,17,DK/missing information,0.0,Demographic and Health Survey - DHS03
 Bolivia (Plurinational State of),BO,BOL,068,Urban,1,Flush and pour flush - to piped sewer system,0.503,"Encuesta Continua de Hogares, 2003-2004 - ECH04"
 Bolivia (Plurinational State of),BO,BOL,068,Urban,2,Flush and pour flush - to septic tank,0.124,"Encuesta Continua de Hogares, 2003-2004 - ECH04"
 Bolivia (Plurinational State of),BO,BOL,068,Urban,3,Flush and pour flush - to pit,0.0,"Encuesta Continua de Hogares, 2003-2004 - ECH04"
@@ -203,6 +339,23 @@ Bolivia (Plurinational State of),BO,BOL,068,Rural,14,Other improved,0.0,"Encuest
 Bolivia (Plurinational State of),BO,BOL,068,Rural,15,"No facility, bush, field",0.604,"Encuesta Continua de Hogares, 2003-2004 - ECH04"
 Bolivia (Plurinational State of),BO,BOL,068,Rural,16,Other unimproved,0.0,"Encuesta Continua de Hogares, 2003-2004 - ECH04"
 Bolivia (Plurinational State of),BO,BOL,068,Rural,17,DK/missing information,0.0,"Encuesta Continua de Hogares, 2003-2004 - ECH04"
+Bolivia (Plurinational State of),BO,BOL,068,National,1,Flush and pour flush - to piped sewer system,0.0,"Encuesta Continua de Hogares, 2003-2004 - ECH04"
+Bolivia (Plurinational State of),BO,BOL,068,National,2,Flush and pour flush - to septic tank,0.0,"Encuesta Continua de Hogares, 2003-2004 - ECH04"
+Bolivia (Plurinational State of),BO,BOL,068,National,3,Flush and pour flush - to pit,0.0,"Encuesta Continua de Hogares, 2003-2004 - ECH04"
+Bolivia (Plurinational State of),BO,BOL,068,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Encuesta Continua de Hogares, 2003-2004 - ECH04"
+Bolivia (Plurinational State of),BO,BOL,068,National,5,Flush and pour flush - to elsewhere,0.0,"Encuesta Continua de Hogares, 2003-2004 - ECH04"
+Bolivia (Plurinational State of),BO,BOL,068,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Encuesta Continua de Hogares, 2003-2004 - ECH04"
+Bolivia (Plurinational State of),BO,BOL,068,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Encuesta Continua de Hogares, 2003-2004 - ECH04"
+Bolivia (Plurinational State of),BO,BOL,068,National,8,Dry latrines - Traditional latrine,0.0,"Encuesta Continua de Hogares, 2003-2004 - ECH04"
+Bolivia (Plurinational State of),BO,BOL,068,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Encuesta Continua de Hogares, 2003-2004 - ECH04"
+Bolivia (Plurinational State of),BO,BOL,068,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Encuesta Continua de Hogares, 2003-2004 - ECH04"
+Bolivia (Plurinational State of),BO,BOL,068,National,11,Dry latrines - Bucket latrine,0.0,"Encuesta Continua de Hogares, 2003-2004 - ECH04"
+Bolivia (Plurinational State of),BO,BOL,068,National,12,Dry latrines - Other,0.0,"Encuesta Continua de Hogares, 2003-2004 - ECH04"
+Bolivia (Plurinational State of),BO,BOL,068,National,13,Composting toilets,0.0,"Encuesta Continua de Hogares, 2003-2004 - ECH04"
+Bolivia (Plurinational State of),BO,BOL,068,National,14,Other improved,0.0,"Encuesta Continua de Hogares, 2003-2004 - ECH04"
+Bolivia (Plurinational State of),BO,BOL,068,National,15,"No facility, bush, field",0.0,"Encuesta Continua de Hogares, 2003-2004 - ECH04"
+Bolivia (Plurinational State of),BO,BOL,068,National,16,Other unimproved,0.0,"Encuesta Continua de Hogares, 2003-2004 - ECH04"
+Bolivia (Plurinational State of),BO,BOL,068,National,17,DK/missing information,0.0,"Encuesta Continua de Hogares, 2003-2004 - ECH04"
 Bolivia (Plurinational State of),BO,BOL,068,Urban,1,Flush and pour flush - to piped sewer system,0.552,"Encuesta de Hogares, 2005 - EH05"
 Bolivia (Plurinational State of),BO,BOL,068,Urban,2,Flush and pour flush - to septic tank,0.125,"Encuesta de Hogares, 2005 - EH05"
 Bolivia (Plurinational State of),BO,BOL,068,Urban,3,Flush and pour flush - to pit,0.0,"Encuesta de Hogares, 2005 - EH05"
@@ -237,6 +390,23 @@ Bolivia (Plurinational State of),BO,BOL,068,Rural,14,Other improved,0.0,"Encuest
 Bolivia (Plurinational State of),BO,BOL,068,Rural,15,"No facility, bush, field",0.577,"Encuesta de Hogares, 2005 - EH05"
 Bolivia (Plurinational State of),BO,BOL,068,Rural,16,Other unimproved,0.0,"Encuesta de Hogares, 2005 - EH05"
 Bolivia (Plurinational State of),BO,BOL,068,Rural,17,DK/missing information,0.0,"Encuesta de Hogares, 2005 - EH05"
+Bolivia (Plurinational State of),BO,BOL,068,National,1,Flush and pour flush - to piped sewer system,0.0,"Encuesta de Hogares, 2005 - EH05"
+Bolivia (Plurinational State of),BO,BOL,068,National,2,Flush and pour flush - to septic tank,0.0,"Encuesta de Hogares, 2005 - EH05"
+Bolivia (Plurinational State of),BO,BOL,068,National,3,Flush and pour flush - to pit,0.0,"Encuesta de Hogares, 2005 - EH05"
+Bolivia (Plurinational State of),BO,BOL,068,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Encuesta de Hogares, 2005 - EH05"
+Bolivia (Plurinational State of),BO,BOL,068,National,5,Flush and pour flush - to elsewhere,0.0,"Encuesta de Hogares, 2005 - EH05"
+Bolivia (Plurinational State of),BO,BOL,068,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Encuesta de Hogares, 2005 - EH05"
+Bolivia (Plurinational State of),BO,BOL,068,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Encuesta de Hogares, 2005 - EH05"
+Bolivia (Plurinational State of),BO,BOL,068,National,8,Dry latrines - Traditional latrine,0.0,"Encuesta de Hogares, 2005 - EH05"
+Bolivia (Plurinational State of),BO,BOL,068,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Encuesta de Hogares, 2005 - EH05"
+Bolivia (Plurinational State of),BO,BOL,068,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Encuesta de Hogares, 2005 - EH05"
+Bolivia (Plurinational State of),BO,BOL,068,National,11,Dry latrines - Bucket latrine,0.0,"Encuesta de Hogares, 2005 - EH05"
+Bolivia (Plurinational State of),BO,BOL,068,National,12,Dry latrines - Other,0.0,"Encuesta de Hogares, 2005 - EH05"
+Bolivia (Plurinational State of),BO,BOL,068,National,13,Composting toilets,0.0,"Encuesta de Hogares, 2005 - EH05"
+Bolivia (Plurinational State of),BO,BOL,068,National,14,Other improved,0.0,"Encuesta de Hogares, 2005 - EH05"
+Bolivia (Plurinational State of),BO,BOL,068,National,15,"No facility, bush, field",0.0,"Encuesta de Hogares, 2005 - EH05"
+Bolivia (Plurinational State of),BO,BOL,068,National,16,Other unimproved,0.0,"Encuesta de Hogares, 2005 - EH05"
+Bolivia (Plurinational State of),BO,BOL,068,National,17,DK/missing information,0.0,"Encuesta de Hogares, 2005 - EH05"
 Bolivia (Plurinational State of),BO,BOL,068,Urban,1,Flush and pour flush - to piped sewer system,0.492,"Encuesta de Hogares, 2006 - EH06"
 Bolivia (Plurinational State of),BO,BOL,068,Urban,2,Flush and pour flush - to septic tank,0.128,"Encuesta de Hogares, 2006 - EH06"
 Bolivia (Plurinational State of),BO,BOL,068,Urban,3,Flush and pour flush - to pit,0.0,"Encuesta de Hogares, 2006 - EH06"
@@ -271,6 +441,23 @@ Bolivia (Plurinational State of),BO,BOL,068,Rural,14,Other improved,0.0,"Encuest
 Bolivia (Plurinational State of),BO,BOL,068,Rural,15,"No facility, bush, field",0.565,"Encuesta de Hogares, 2006 - EH06"
 Bolivia (Plurinational State of),BO,BOL,068,Rural,16,Other unimproved,0.0,"Encuesta de Hogares, 2006 - EH06"
 Bolivia (Plurinational State of),BO,BOL,068,Rural,17,DK/missing information,0.0,"Encuesta de Hogares, 2006 - EH06"
+Bolivia (Plurinational State of),BO,BOL,068,National,1,Flush and pour flush - to piped sewer system,0.319,"Encuesta de Hogares, 2006 - EH06"
+Bolivia (Plurinational State of),BO,BOL,068,National,2,Flush and pour flush - to septic tank,0.1,"Encuesta de Hogares, 2006 - EH06"
+Bolivia (Plurinational State of),BO,BOL,068,National,3,Flush and pour flush - to pit,0.0,"Encuesta de Hogares, 2006 - EH06"
+Bolivia (Plurinational State of),BO,BOL,068,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Encuesta de Hogares, 2006 - EH06"
+Bolivia (Plurinational State of),BO,BOL,068,National,5,Flush and pour flush - to elsewhere,0.065,"Encuesta de Hogares, 2006 - EH06"
+Bolivia (Plurinational State of),BO,BOL,068,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Encuesta de Hogares, 2006 - EH06"
+Bolivia (Plurinational State of),BO,BOL,068,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Encuesta de Hogares, 2006 - EH06"
+Bolivia (Plurinational State of),BO,BOL,068,National,8,Dry latrines - Traditional latrine,0.23,"Encuesta de Hogares, 2006 - EH06"
+Bolivia (Plurinational State of),BO,BOL,068,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Encuesta de Hogares, 2006 - EH06"
+Bolivia (Plurinational State of),BO,BOL,068,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Encuesta de Hogares, 2006 - EH06"
+Bolivia (Plurinational State of),BO,BOL,068,National,11,Dry latrines - Bucket latrine,0.0,"Encuesta de Hogares, 2006 - EH06"
+Bolivia (Plurinational State of),BO,BOL,068,National,12,Dry latrines - Other,0.0,"Encuesta de Hogares, 2006 - EH06"
+Bolivia (Plurinational State of),BO,BOL,068,National,13,Composting toilets,0.0,"Encuesta de Hogares, 2006 - EH06"
+Bolivia (Plurinational State of),BO,BOL,068,National,14,Other improved,0.0,"Encuesta de Hogares, 2006 - EH06"
+Bolivia (Plurinational State of),BO,BOL,068,National,15,"No facility, bush, field",0.286,"Encuesta de Hogares, 2006 - EH06"
+Bolivia (Plurinational State of),BO,BOL,068,National,16,Other unimproved,0.0,"Encuesta de Hogares, 2006 - EH06"
+Bolivia (Plurinational State of),BO,BOL,068,National,17,DK/missing information,0.0,"Encuesta de Hogares, 2006 - EH06"
 Bolivia (Plurinational State of),BO,BOL,068,Urban,1,Flush and pour flush - to piped sewer system,0.558,"Encuesta de Hogares, 2007 - EH07"
 Bolivia (Plurinational State of),BO,BOL,068,Urban,2,Flush and pour flush - to septic tank,0.161,"Encuesta de Hogares, 2007 - EH07"
 Bolivia (Plurinational State of),BO,BOL,068,Urban,3,Flush and pour flush - to pit,0.0,"Encuesta de Hogares, 2007 - EH07"
@@ -305,6 +492,23 @@ Bolivia (Plurinational State of),BO,BOL,068,Rural,14,Other improved,0.0,"Encuest
 Bolivia (Plurinational State of),BO,BOL,068,Rural,15,"No facility, bush, field",0.526,"Encuesta de Hogares, 2007 - EH07"
 Bolivia (Plurinational State of),BO,BOL,068,Rural,16,Other unimproved,0.0,"Encuesta de Hogares, 2007 - EH07"
 Bolivia (Plurinational State of),BO,BOL,068,Rural,17,DK/missing information,0.0,"Encuesta de Hogares, 2007 - EH07"
+Bolivia (Plurinational State of),BO,BOL,068,National,1,Flush and pour flush - to piped sewer system,0.377,"Encuesta de Hogares, 2007 - EH07"
+Bolivia (Plurinational State of),BO,BOL,068,National,2,Flush and pour flush - to septic tank,0.131,"Encuesta de Hogares, 2007 - EH07"
+Bolivia (Plurinational State of),BO,BOL,068,National,3,Flush and pour flush - to pit,0.0,"Encuesta de Hogares, 2007 - EH07"
+Bolivia (Plurinational State of),BO,BOL,068,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Encuesta de Hogares, 2007 - EH07"
+Bolivia (Plurinational State of),BO,BOL,068,National,5,Flush and pour flush - to elsewhere,0.004,"Encuesta de Hogares, 2007 - EH07"
+Bolivia (Plurinational State of),BO,BOL,068,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Encuesta de Hogares, 2007 - EH07"
+Bolivia (Plurinational State of),BO,BOL,068,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Encuesta de Hogares, 2007 - EH07"
+Bolivia (Plurinational State of),BO,BOL,068,National,8,Dry latrines - Traditional latrine,0.198,"Encuesta de Hogares, 2007 - EH07"
+Bolivia (Plurinational State of),BO,BOL,068,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Encuesta de Hogares, 2007 - EH07"
+Bolivia (Plurinational State of),BO,BOL,068,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Encuesta de Hogares, 2007 - EH07"
+Bolivia (Plurinational State of),BO,BOL,068,National,11,Dry latrines - Bucket latrine,0.0,"Encuesta de Hogares, 2007 - EH07"
+Bolivia (Plurinational State of),BO,BOL,068,National,12,Dry latrines - Other,0.0,"Encuesta de Hogares, 2007 - EH07"
+Bolivia (Plurinational State of),BO,BOL,068,National,13,Composting toilets,0.0,"Encuesta de Hogares, 2007 - EH07"
+Bolivia (Plurinational State of),BO,BOL,068,National,14,Other improved,0.0,"Encuesta de Hogares, 2007 - EH07"
+Bolivia (Plurinational State of),BO,BOL,068,National,15,"No facility, bush, field",0.289,"Encuesta de Hogares, 2007 - EH07"
+Bolivia (Plurinational State of),BO,BOL,068,National,16,Other unimproved,0.0,"Encuesta de Hogares, 2007 - EH07"
+Bolivia (Plurinational State of),BO,BOL,068,National,17,DK/missing information,0.0,"Encuesta de Hogares, 2007 - EH07"
 Bolivia (Plurinational State of),BO,BOL,068,Urban,1,Flush and pour flush - to piped sewer system,0.61,Demographic and Health Survey - DHS08
 Bolivia (Plurinational State of),BO,BOL,068,Urban,2,Flush and pour flush - to septic tank,0.109,Demographic and Health Survey - DHS08
 Bolivia (Plurinational State of),BO,BOL,068,Urban,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS08
@@ -339,6 +543,23 @@ Bolivia (Plurinational State of),BO,BOL,068,Rural,14,Other improved,0.0,Demograp
 Bolivia (Plurinational State of),BO,BOL,068,Rural,15,"No facility, bush, field",0.516,Demographic and Health Survey - DHS08
 Bolivia (Plurinational State of),BO,BOL,068,Rural,16,Other unimproved,0.0,Demographic and Health Survey - DHS08
 Bolivia (Plurinational State of),BO,BOL,068,Rural,17,DK/missing information,0.001,Demographic and Health Survey - DHS08
+Bolivia (Plurinational State of),BO,BOL,068,National,1,Flush and pour flush - to piped sewer system,0.364,Demographic and Health Survey - DHS08
+Bolivia (Plurinational State of),BO,BOL,068,National,2,Flush and pour flush - to septic tank,0.078,Demographic and Health Survey - DHS08
+Bolivia (Plurinational State of),BO,BOL,068,National,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS08
+Bolivia (Plurinational State of),BO,BOL,068,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS08
+Bolivia (Plurinational State of),BO,BOL,068,National,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS08
+Bolivia (Plurinational State of),BO,BOL,068,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - DHS08
+Bolivia (Plurinational State of),BO,BOL,068,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS08
+Bolivia (Plurinational State of),BO,BOL,068,National,8,Dry latrines - Traditional latrine,0.279,Demographic and Health Survey - DHS08
+Bolivia (Plurinational State of),BO,BOL,068,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Survey - DHS08
+Bolivia (Plurinational State of),BO,BOL,068,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS08
+Bolivia (Plurinational State of),BO,BOL,068,National,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS08
+Bolivia (Plurinational State of),BO,BOL,068,National,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS08
+Bolivia (Plurinational State of),BO,BOL,068,National,13,Composting toilets,0.0,Demographic and Health Survey - DHS08
+Bolivia (Plurinational State of),BO,BOL,068,National,14,Other improved,0.0,Demographic and Health Survey - DHS08
+Bolivia (Plurinational State of),BO,BOL,068,National,15,"No facility, bush, field",0.278,Demographic and Health Survey - DHS08
+Bolivia (Plurinational State of),BO,BOL,068,National,16,Other unimproved,0.0,Demographic and Health Survey - DHS08
+Bolivia (Plurinational State of),BO,BOL,068,National,17,DK/missing information,0.001,Demographic and Health Survey - DHS08
 Bolivia (Plurinational State of),BO,BOL,068,Urban,1,Flush and pour flush - to piped sewer system,0.663,"Encuesta de Hogares, 2008 - EH08"
 Bolivia (Plurinational State of),BO,BOL,068,Urban,2,Flush and pour flush - to septic tank,0.134,"Encuesta de Hogares, 2008 - EH08"
 Bolivia (Plurinational State of),BO,BOL,068,Urban,3,Flush and pour flush - to pit,0.0,"Encuesta de Hogares, 2008 - EH08"
@@ -373,6 +594,23 @@ Bolivia (Plurinational State of),BO,BOL,068,Rural,14,Other improved,0.0,"Encuest
 Bolivia (Plurinational State of),BO,BOL,068,Rural,15,"No facility, bush, field",0.503,"Encuesta de Hogares, 2008 - EH08"
 Bolivia (Plurinational State of),BO,BOL,068,Rural,16,Other unimproved,0.0,"Encuesta de Hogares, 2008 - EH08"
 Bolivia (Plurinational State of),BO,BOL,068,Rural,17,DK/missing information,0.0,"Encuesta de Hogares, 2008 - EH08"
+Bolivia (Plurinational State of),BO,BOL,068,National,1,Flush and pour flush - to piped sewer system,0.451,"Encuesta de Hogares, 2008 - EH08"
+Bolivia (Plurinational State of),BO,BOL,068,National,2,Flush and pour flush - to septic tank,0.108,"Encuesta de Hogares, 2008 - EH08"
+Bolivia (Plurinational State of),BO,BOL,068,National,3,Flush and pour flush - to pit,0.0,"Encuesta de Hogares, 2008 - EH08"
+Bolivia (Plurinational State of),BO,BOL,068,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Encuesta de Hogares, 2008 - EH08"
+Bolivia (Plurinational State of),BO,BOL,068,National,5,Flush and pour flush - to elsewhere,0.009,"Encuesta de Hogares, 2008 - EH08"
+Bolivia (Plurinational State of),BO,BOL,068,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Encuesta de Hogares, 2008 - EH08"
+Bolivia (Plurinational State of),BO,BOL,068,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Encuesta de Hogares, 2008 - EH08"
+Bolivia (Plurinational State of),BO,BOL,068,National,8,Dry latrines - Traditional latrine,0.227,"Encuesta de Hogares, 2008 - EH08"
+Bolivia (Plurinational State of),BO,BOL,068,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Encuesta de Hogares, 2008 - EH08"
+Bolivia (Plurinational State of),BO,BOL,068,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Encuesta de Hogares, 2008 - EH08"
+Bolivia (Plurinational State of),BO,BOL,068,National,11,Dry latrines - Bucket latrine,0.0,"Encuesta de Hogares, 2008 - EH08"
+Bolivia (Plurinational State of),BO,BOL,068,National,12,Dry latrines - Other,0.0,"Encuesta de Hogares, 2008 - EH08"
+Bolivia (Plurinational State of),BO,BOL,068,National,13,Composting toilets,0.0,"Encuesta de Hogares, 2008 - EH08"
+Bolivia (Plurinational State of),BO,BOL,068,National,14,Other improved,0.0,"Encuesta de Hogares, 2008 - EH08"
+Bolivia (Plurinational State of),BO,BOL,068,National,15,"No facility, bush, field",0.205,"Encuesta de Hogares, 2008 - EH08"
+Bolivia (Plurinational State of),BO,BOL,068,National,16,Other unimproved,0.0,"Encuesta de Hogares, 2008 - EH08"
+Bolivia (Plurinational State of),BO,BOL,068,National,17,DK/missing information,0.0,"Encuesta de Hogares, 2008 - EH08"
 Bolivia (Plurinational State of),BO,BOL,068,Urban,1,Flush and pour flush - to piped sewer system,0.62,"Encuesta de Hogares, 2009 - EH09"
 Bolivia (Plurinational State of),BO,BOL,068,Urban,2,Flush and pour flush - to septic tank,0.146,"Encuesta de Hogares, 2009 - EH09"
 Bolivia (Plurinational State of),BO,BOL,068,Urban,3,Flush and pour flush - to pit,0.0,"Encuesta de Hogares, 2009 - EH09"
@@ -407,6 +645,23 @@ Bolivia (Plurinational State of),BO,BOL,068,Rural,14,Other improved,0.0,"Encuest
 Bolivia (Plurinational State of),BO,BOL,068,Rural,15,"No facility, bush, field",0.489,"Encuesta de Hogares, 2009 - EH09"
 Bolivia (Plurinational State of),BO,BOL,068,Rural,16,Other unimproved,0.0,"Encuesta de Hogares, 2009 - EH09"
 Bolivia (Plurinational State of),BO,BOL,068,Rural,17,DK/missing information,0.0,"Encuesta de Hogares, 2009 - EH09"
+Bolivia (Plurinational State of),BO,BOL,068,National,1,Flush and pour flush - to piped sewer system,0.418,"Encuesta de Hogares, 2009 - EH09"
+Bolivia (Plurinational State of),BO,BOL,068,National,2,Flush and pour flush - to septic tank,0.118,"Encuesta de Hogares, 2009 - EH09"
+Bolivia (Plurinational State of),BO,BOL,068,National,3,Flush and pour flush - to pit,0.0,"Encuesta de Hogares, 2009 - EH09"
+Bolivia (Plurinational State of),BO,BOL,068,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Encuesta de Hogares, 2009 - EH09"
+Bolivia (Plurinational State of),BO,BOL,068,National,5,Flush and pour flush - to elsewhere,0.005,"Encuesta de Hogares, 2009 - EH09"
+Bolivia (Plurinational State of),BO,BOL,068,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Encuesta de Hogares, 2009 - EH09"
+Bolivia (Plurinational State of),BO,BOL,068,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Encuesta de Hogares, 2009 - EH09"
+Bolivia (Plurinational State of),BO,BOL,068,National,8,Dry latrines - Traditional latrine,0.245,"Encuesta de Hogares, 2009 - EH09"
+Bolivia (Plurinational State of),BO,BOL,068,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Encuesta de Hogares, 2009 - EH09"
+Bolivia (Plurinational State of),BO,BOL,068,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Encuesta de Hogares, 2009 - EH09"
+Bolivia (Plurinational State of),BO,BOL,068,National,11,Dry latrines - Bucket latrine,0.0,"Encuesta de Hogares, 2009 - EH09"
+Bolivia (Plurinational State of),BO,BOL,068,National,12,Dry latrines - Other,0.0,"Encuesta de Hogares, 2009 - EH09"
+Bolivia (Plurinational State of),BO,BOL,068,National,13,Composting toilets,0.0,"Encuesta de Hogares, 2009 - EH09"
+Bolivia (Plurinational State of),BO,BOL,068,National,14,Other improved,0.0,"Encuesta de Hogares, 2009 - EH09"
+Bolivia (Plurinational State of),BO,BOL,068,National,15,"No facility, bush, field",0.214,"Encuesta de Hogares, 2009 - EH09"
+Bolivia (Plurinational State of),BO,BOL,068,National,16,Other unimproved,0.0,"Encuesta de Hogares, 2009 - EH09"
+Bolivia (Plurinational State of),BO,BOL,068,National,17,DK/missing information,0.0,"Encuesta de Hogares, 2009 - EH09"
 Bolivia (Plurinational State of),BO,BOL,068,Urban,1,Flush and pour flush - to piped sewer system,0.669,"Encuesta de Hogares, 2011 - EH11"
 Bolivia (Plurinational State of),BO,BOL,068,Urban,2,Flush and pour flush - to septic tank,0.126,"Encuesta de Hogares, 2011 - EH11"
 Bolivia (Plurinational State of),BO,BOL,068,Urban,3,Flush and pour flush - to pit,0.0,"Encuesta de Hogares, 2011 - EH11"
@@ -445,6 +700,76 @@ Bolivia (Plurinational State of),BO,BOL,068,Rural,14,Other improved,0.0,"Encuest
 Bolivia (Plurinational State of),BO,BOL,068,Rural,15,"No facility, bush, field",0.46,"Encuesta de Hogares, 2011 - EH11"
 Bolivia (Plurinational State of),BO,BOL,068,Rural,16,Other unimproved,0.0,"Encuesta de Hogares, 2011 - EH11"
 Bolivia (Plurinational State of),BO,BOL,068,Rural,17,DK/missing information,0.0,"Encuesta de Hogares, 2011 - EH11"
+Bolivia (Plurinational State of),BO,BOL,068,National,1,Flush and pour flush - to piped sewer system,0.463,"Encuesta de Hogares, 2011 - EH11"
+Bolivia (Plurinational State of),BO,BOL,068,National,2,Flush and pour flush - to septic tank,0.103,"Encuesta de Hogares, 2011 - EH11"
+Bolivia (Plurinational State of),BO,BOL,068,National,3,Flush and pour flush - to pit,0.0,"Encuesta de Hogares, 2011 - EH11"
+Bolivia (Plurinational State of),BO,BOL,068,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Encuesta de Hogares, 2011 - EH11"
+Bolivia (Plurinational State of),BO,BOL,068,National,5,Flush and pour flush - to elsewhere,0.004,"Encuesta de Hogares, 2011 - EH11"
+Bolivia (Plurinational State of),BO,BOL,068,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Encuesta de Hogares, 2011 - EH11"
+Bolivia (Plurinational State of),BO,BOL,068,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Encuesta de Hogares, 2011 - EH11"
+Bolivia (Plurinational State of),BO,BOL,068,National,8,Dry latrines - Traditional latrine,0.246,"Encuesta de Hogares, 2011 - EH11"
+Bolivia (Plurinational State of),BO,BOL,068,National,8,Dry latrines - Traditional latrine,0.199,"Encuesta de Hogares, 2011 - EH11"
+Bolivia (Plurinational State of),BO,BOL,068,National,8,Dry latrines - Traditional latrine,0.047,"Encuesta de Hogares, 2011 - EH11"
+Bolivia (Plurinational State of),BO,BOL,068,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Encuesta de Hogares, 2011 - EH11"
+Bolivia (Plurinational State of),BO,BOL,068,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Encuesta de Hogares, 2011 - EH11"
+Bolivia (Plurinational State of),BO,BOL,068,National,11,Dry latrines - Bucket latrine,0.0,"Encuesta de Hogares, 2011 - EH11"
+Bolivia (Plurinational State of),BO,BOL,068,National,12,Dry latrines - Other,0.0,"Encuesta de Hogares, 2011 - EH11"
+Bolivia (Plurinational State of),BO,BOL,068,National,13,Composting toilets,0.0,"Encuesta de Hogares, 2011 - EH11"
+Bolivia (Plurinational State of),BO,BOL,068,National,14,Other improved,0.0,"Encuesta de Hogares, 2011 - EH11"
+Bolivia (Plurinational State of),BO,BOL,068,National,15,"No facility, bush, field",0.184,"Encuesta de Hogares, 2011 - EH11"
+Bolivia (Plurinational State of),BO,BOL,068,National,16,Other unimproved,0.0,"Encuesta de Hogares, 2011 - EH11"
+Bolivia (Plurinational State of),BO,BOL,068,National,17,DK/missing information,0.0,"Encuesta de Hogares, 2011 - EH11"
+Bolivia (Plurinational State of),BO,BOL,068,Urban,1,Flush and pour flush - to piped sewer system,0.598,Censo de Poblacion y Vivienda 2012 - CEN12
+Bolivia (Plurinational State of),BO,BOL,068,Urban,2,Flush and pour flush - to septic tank,0.101,Censo de Poblacion y Vivienda 2012 - CEN12
+Bolivia (Plurinational State of),BO,BOL,068,Urban,3,Flush and pour flush - to pit,0.169,Censo de Poblacion y Vivienda 2012 - CEN12
+Bolivia (Plurinational State of),BO,BOL,068,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Censo de Poblacion y Vivienda 2012 - CEN12
+Bolivia (Plurinational State of),BO,BOL,068,Urban,5,Flush and pour flush - to elsewhere,0.004,Censo de Poblacion y Vivienda 2012 - CEN12
+Bolivia (Plurinational State of),BO,BOL,068,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Censo de Poblacion y Vivienda 2012 - CEN12
+Bolivia (Plurinational State of),BO,BOL,068,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Censo de Poblacion y Vivienda 2012 - CEN12
+Bolivia (Plurinational State of),BO,BOL,068,Urban,8,Dry latrines - Traditional latrine,0.0,Censo de Poblacion y Vivienda 2012 - CEN12
+Bolivia (Plurinational State of),BO,BOL,068,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Censo de Poblacion y Vivienda 2012 - CEN12
+Bolivia (Plurinational State of),BO,BOL,068,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Censo de Poblacion y Vivienda 2012 - CEN12
+Bolivia (Plurinational State of),BO,BOL,068,Urban,11,Dry latrines - Bucket latrine,0.0,Censo de Poblacion y Vivienda 2012 - CEN12
+Bolivia (Plurinational State of),BO,BOL,068,Urban,12,Dry latrines - Other,0.0,Censo de Poblacion y Vivienda 2012 - CEN12
+Bolivia (Plurinational State of),BO,BOL,068,Urban,13,Composting toilets,0.0,Censo de Poblacion y Vivienda 2012 - CEN12
+Bolivia (Plurinational State of),BO,BOL,068,Urban,14,Other improved,0.0,Censo de Poblacion y Vivienda 2012 - CEN12
+Bolivia (Plurinational State of),BO,BOL,068,Urban,15,"No facility, bush, field",0.128,Censo de Poblacion y Vivienda 2012 - CEN12
+Bolivia (Plurinational State of),BO,BOL,068,Urban,16,Other unimproved,0.0,Censo de Poblacion y Vivienda 2012 - CEN12
+Bolivia (Plurinational State of),BO,BOL,068,Urban,17,DK/missing information,0.0,Censo de Poblacion y Vivienda 2012 - CEN12
+Bolivia (Plurinational State of),BO,BOL,068,Rural,1,Flush and pour flush - to piped sewer system,0.038,Censo de Poblacion y Vivienda 2012 - CEN12
+Bolivia (Plurinational State of),BO,BOL,068,Rural,2,Flush and pour flush - to septic tank,0.043,Censo de Poblacion y Vivienda 2012 - CEN12
+Bolivia (Plurinational State of),BO,BOL,068,Rural,3,Flush and pour flush - to pit,0.288,Censo de Poblacion y Vivienda 2012 - CEN12
+Bolivia (Plurinational State of),BO,BOL,068,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Censo de Poblacion y Vivienda 2012 - CEN12
+Bolivia (Plurinational State of),BO,BOL,068,Rural,5,Flush and pour flush - to elsewhere,0.006,Censo de Poblacion y Vivienda 2012 - CEN12
+Bolivia (Plurinational State of),BO,BOL,068,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Censo de Poblacion y Vivienda 2012 - CEN12
+Bolivia (Plurinational State of),BO,BOL,068,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Censo de Poblacion y Vivienda 2012 - CEN12
+Bolivia (Plurinational State of),BO,BOL,068,Rural,8,Dry latrines - Traditional latrine,0.0,Censo de Poblacion y Vivienda 2012 - CEN12
+Bolivia (Plurinational State of),BO,BOL,068,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Censo de Poblacion y Vivienda 2012 - CEN12
+Bolivia (Plurinational State of),BO,BOL,068,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Censo de Poblacion y Vivienda 2012 - CEN12
+Bolivia (Plurinational State of),BO,BOL,068,Rural,11,Dry latrines - Bucket latrine,0.0,Censo de Poblacion y Vivienda 2012 - CEN12
+Bolivia (Plurinational State of),BO,BOL,068,Rural,12,Dry latrines - Other,0.0,Censo de Poblacion y Vivienda 2012 - CEN12
+Bolivia (Plurinational State of),BO,BOL,068,Rural,13,Composting toilets,0.0,Censo de Poblacion y Vivienda 2012 - CEN12
+Bolivia (Plurinational State of),BO,BOL,068,Rural,14,Other improved,0.0,Censo de Poblacion y Vivienda 2012 - CEN12
+Bolivia (Plurinational State of),BO,BOL,068,Rural,15,"No facility, bush, field",0.625,Censo de Poblacion y Vivienda 2012 - CEN12
+Bolivia (Plurinational State of),BO,BOL,068,Rural,16,Other unimproved,0.0,Censo de Poblacion y Vivienda 2012 - CEN12
+Bolivia (Plurinational State of),BO,BOL,068,Rural,17,DK/missing information,0.0,Censo de Poblacion y Vivienda 2012 - CEN12
+Bolivia (Plurinational State of),BO,BOL,068,National,1,Flush and pour flush - to piped sewer system,0.403,Censo de Poblacion y Vivienda 2012 - CEN12
+Bolivia (Plurinational State of),BO,BOL,068,National,2,Flush and pour flush - to septic tank,0.081,Censo de Poblacion y Vivienda 2012 - CEN12
+Bolivia (Plurinational State of),BO,BOL,068,National,3,Flush and pour flush - to pit,0.211,Censo de Poblacion y Vivienda 2012 - CEN12
+Bolivia (Plurinational State of),BO,BOL,068,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Censo de Poblacion y Vivienda 2012 - CEN12
+Bolivia (Plurinational State of),BO,BOL,068,National,5,Flush and pour flush - to elsewhere,0.005,Censo de Poblacion y Vivienda 2012 - CEN12
+Bolivia (Plurinational State of),BO,BOL,068,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Censo de Poblacion y Vivienda 2012 - CEN12
+Bolivia (Plurinational State of),BO,BOL,068,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Censo de Poblacion y Vivienda 2012 - CEN12
+Bolivia (Plurinational State of),BO,BOL,068,National,8,Dry latrines - Traditional latrine,0.0,Censo de Poblacion y Vivienda 2012 - CEN12
+Bolivia (Plurinational State of),BO,BOL,068,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Censo de Poblacion y Vivienda 2012 - CEN12
+Bolivia (Plurinational State of),BO,BOL,068,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Censo de Poblacion y Vivienda 2012 - CEN12
+Bolivia (Plurinational State of),BO,BOL,068,National,11,Dry latrines - Bucket latrine,0.0,Censo de Poblacion y Vivienda 2012 - CEN12
+Bolivia (Plurinational State of),BO,BOL,068,National,12,Dry latrines - Other,0.0,Censo de Poblacion y Vivienda 2012 - CEN12
+Bolivia (Plurinational State of),BO,BOL,068,National,13,Composting toilets,0.0,Censo de Poblacion y Vivienda 2012 - CEN12
+Bolivia (Plurinational State of),BO,BOL,068,National,14,Other improved,0.0,Censo de Poblacion y Vivienda 2012 - CEN12
+Bolivia (Plurinational State of),BO,BOL,068,National,15,"No facility, bush, field",0.301,Censo de Poblacion y Vivienda 2012 - CEN12
+Bolivia (Plurinational State of),BO,BOL,068,National,16,Other unimproved,0.0,Censo de Poblacion y Vivienda 2012 - CEN12
+Bolivia (Plurinational State of),BO,BOL,068,National,17,DK/missing information,0.0,Censo de Poblacion y Vivienda 2012 - CEN12
 Bolivia (Plurinational State of),BO,BOL,068,Urban,1,Flush and pour flush - to piped sewer system,0.718,"Encuesta de Hogares, 2012 - EH12"
 Bolivia (Plurinational State of),BO,BOL,068,Urban,2,Flush and pour flush - to septic tank,0.099,"Encuesta de Hogares, 2012 - EH12"
 Bolivia (Plurinational State of),BO,BOL,068,Urban,3,Flush and pour flush - to pit,0.007,"Encuesta de Hogares, 2012 - EH12"
@@ -479,6 +804,23 @@ Bolivia (Plurinational State of),BO,BOL,068,Rural,14,Other improved,0.0,"Encuest
 Bolivia (Plurinational State of),BO,BOL,068,Rural,15,"No facility, bush, field",0.389,"Encuesta de Hogares, 2012 - EH12"
 Bolivia (Plurinational State of),BO,BOL,068,Rural,16,Other unimproved,0.006,"Encuesta de Hogares, 2012 - EH12"
 Bolivia (Plurinational State of),BO,BOL,068,Rural,17,DK/missing information,0.0,"Encuesta de Hogares, 2012 - EH12"
+Bolivia (Plurinational State of),BO,BOL,068,National,1,Flush and pour flush - to piped sewer system,0.505,"Encuesta de Hogares, 2012 - EH12"
+Bolivia (Plurinational State of),BO,BOL,068,National,2,Flush and pour flush - to septic tank,0.082,"Encuesta de Hogares, 2012 - EH12"
+Bolivia (Plurinational State of),BO,BOL,068,National,3,Flush and pour flush - to pit,0.017,"Encuesta de Hogares, 2012 - EH12"
+Bolivia (Plurinational State of),BO,BOL,068,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.003,"Encuesta de Hogares, 2012 - EH12"
+Bolivia (Plurinational State of),BO,BOL,068,National,5,Flush and pour flush - to elsewhere,0.006,"Encuesta de Hogares, 2012 - EH12"
+Bolivia (Plurinational State of),BO,BOL,068,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Encuesta de Hogares, 2012 - EH12"
+Bolivia (Plurinational State of),BO,BOL,068,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.111,"Encuesta de Hogares, 2012 - EH12"
+Bolivia (Plurinational State of),BO,BOL,068,National,8,Dry latrines - Traditional latrine,0.0,"Encuesta de Hogares, 2012 - EH12"
+Bolivia (Plurinational State of),BO,BOL,068,National,9,Dry latrines - Pit latrine without slab/open pit,0.12,"Encuesta de Hogares, 2012 - EH12"
+Bolivia (Plurinational State of),BO,BOL,068,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Encuesta de Hogares, 2012 - EH12"
+Bolivia (Plurinational State of),BO,BOL,068,National,11,Dry latrines - Bucket latrine,0.0,"Encuesta de Hogares, 2012 - EH12"
+Bolivia (Plurinational State of),BO,BOL,068,National,12,Dry latrines - Other,0.0,"Encuesta de Hogares, 2012 - EH12"
+Bolivia (Plurinational State of),BO,BOL,068,National,13,Composting toilets,0.004,"Encuesta de Hogares, 2012 - EH12"
+Bolivia (Plurinational State of),BO,BOL,068,National,14,Other improved,0.0,"Encuesta de Hogares, 2012 - EH12"
+Bolivia (Plurinational State of),BO,BOL,068,National,15,"No facility, bush, field",0.148,"Encuesta de Hogares, 2012 - EH12"
+Bolivia (Plurinational State of),BO,BOL,068,National,16,Other unimproved,0.004,"Encuesta de Hogares, 2012 - EH12"
+Bolivia (Plurinational State of),BO,BOL,068,National,17,DK/missing information,0.0,"Encuesta de Hogares, 2012 - EH12"
 Bolivia (Plurinational State of),BO,BOL,068,Urban,1,Flush and pour flush - to piped sewer system,0.751,"Encuesta de Hogares, 2013 - EH13"
 Bolivia (Plurinational State of),BO,BOL,068,Urban,2,Flush and pour flush - to septic tank,0.104,"Encuesta de Hogares, 2013 - EH13"
 Bolivia (Plurinational State of),BO,BOL,068,Urban,3,Flush and pour flush - to pit,0.018,"Encuesta de Hogares, 2013 - EH13"
@@ -513,6 +855,23 @@ Bolivia (Plurinational State of),BO,BOL,068,Rural,14,Other improved,0.0,"Encuest
 Bolivia (Plurinational State of),BO,BOL,068,Rural,15,"No facility, bush, field",0.423,"Encuesta de Hogares, 2013 - EH13"
 Bolivia (Plurinational State of),BO,BOL,068,Rural,16,Other unimproved,0.009,"Encuesta de Hogares, 2013 - EH13"
 Bolivia (Plurinational State of),BO,BOL,068,Rural,17,DK/missing information,0.0,"Encuesta de Hogares, 2013 - EH13"
+Bolivia (Plurinational State of),BO,BOL,068,National,1,Flush and pour flush - to piped sewer system,0.518,"Encuesta de Hogares, 2013 - EH13"
+Bolivia (Plurinational State of),BO,BOL,068,National,2,Flush and pour flush - to septic tank,0.09,"Encuesta de Hogares, 2013 - EH13"
+Bolivia (Plurinational State of),BO,BOL,068,National,3,Flush and pour flush - to pit,0.021,"Encuesta de Hogares, 2013 - EH13"
+Bolivia (Plurinational State of),BO,BOL,068,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.001,"Encuesta de Hogares, 2013 - EH13"
+Bolivia (Plurinational State of),BO,BOL,068,National,5,Flush and pour flush - to elsewhere,0.002,"Encuesta de Hogares, 2013 - EH13"
+Bolivia (Plurinational State of),BO,BOL,068,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Encuesta de Hogares, 2013 - EH13"
+Bolivia (Plurinational State of),BO,BOL,068,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.086,"Encuesta de Hogares, 2013 - EH13"
+Bolivia (Plurinational State of),BO,BOL,068,National,8,Dry latrines - Traditional latrine,0.0,"Encuesta de Hogares, 2013 - EH13"
+Bolivia (Plurinational State of),BO,BOL,068,National,9,Dry latrines - Pit latrine without slab/open pit,0.108,"Encuesta de Hogares, 2013 - EH13"
+Bolivia (Plurinational State of),BO,BOL,068,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Encuesta de Hogares, 2013 - EH13"
+Bolivia (Plurinational State of),BO,BOL,068,National,11,Dry latrines - Bucket latrine,0.0,"Encuesta de Hogares, 2013 - EH13"
+Bolivia (Plurinational State of),BO,BOL,068,National,12,Dry latrines - Other,0.0,"Encuesta de Hogares, 2013 - EH13"
+Bolivia (Plurinational State of),BO,BOL,068,National,13,Composting toilets,0.019,"Encuesta de Hogares, 2013 - EH13"
+Bolivia (Plurinational State of),BO,BOL,068,National,14,Other improved,0.0,"Encuesta de Hogares, 2013 - EH13"
+Bolivia (Plurinational State of),BO,BOL,068,National,15,"No facility, bush, field",0.15,"Encuesta de Hogares, 2013 - EH13"
+Bolivia (Plurinational State of),BO,BOL,068,National,16,Other unimproved,0.006,"Encuesta de Hogares, 2013 - EH13"
+Bolivia (Plurinational State of),BO,BOL,068,National,17,DK/missing information,0.0,"Encuesta de Hogares, 2013 - EH13"
 Bolivia (Plurinational State of),BO,BOL,068,Urban,1,Flush and pour flush - to piped sewer system,0.678,"Encuesta de Hogares, 2014 - EH14"
 Bolivia (Plurinational State of),BO,BOL,068,Urban,2,Flush and pour flush - to septic tank,0.084,"Encuesta de Hogares, 2014 - EH14"
 Bolivia (Plurinational State of),BO,BOL,068,Urban,3,Flush and pour flush - to pit,0.011,"Encuesta de Hogares, 2014 - EH14"
@@ -547,6 +906,23 @@ Bolivia (Plurinational State of),BO,BOL,068,Rural,14,Other improved,0.0,"Encuest
 Bolivia (Plurinational State of),BO,BOL,068,Rural,15,"No facility, bush, field",0.439,"Encuesta de Hogares, 2014 - EH14"
 Bolivia (Plurinational State of),BO,BOL,068,Rural,16,Other unimproved,0.01,"Encuesta de Hogares, 2014 - EH14"
 Bolivia (Plurinational State of),BO,BOL,068,Rural,17,DK/missing information,0.0,"Encuesta de Hogares, 2014 - EH14"
+Bolivia (Plurinational State of),BO,BOL,068,National,1,Flush and pour flush - to piped sewer system,0.469,"Encuesta de Hogares, 2014 - EH14"
+Bolivia (Plurinational State of),BO,BOL,068,National,2,Flush and pour flush - to septic tank,0.073,"Encuesta de Hogares, 2014 - EH14"
+Bolivia (Plurinational State of),BO,BOL,068,National,3,Flush and pour flush - to pit,0.018,"Encuesta de Hogares, 2014 - EH14"
+Bolivia (Plurinational State of),BO,BOL,068,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.001,"Encuesta de Hogares, 2014 - EH14"
+Bolivia (Plurinational State of),BO,BOL,068,National,5,Flush and pour flush - to elsewhere,0.009,"Encuesta de Hogares, 2014 - EH14"
+Bolivia (Plurinational State of),BO,BOL,068,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Encuesta de Hogares, 2014 - EH14"
+Bolivia (Plurinational State of),BO,BOL,068,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.105,"Encuesta de Hogares, 2014 - EH14"
+Bolivia (Plurinational State of),BO,BOL,068,National,8,Dry latrines - Traditional latrine,0.0,"Encuesta de Hogares, 2014 - EH14"
+Bolivia (Plurinational State of),BO,BOL,068,National,9,Dry latrines - Pit latrine without slab/open pit,0.145,"Encuesta de Hogares, 2014 - EH14"
+Bolivia (Plurinational State of),BO,BOL,068,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Encuesta de Hogares, 2014 - EH14"
+Bolivia (Plurinational State of),BO,BOL,068,National,11,Dry latrines - Bucket latrine,0.0,"Encuesta de Hogares, 2014 - EH14"
+Bolivia (Plurinational State of),BO,BOL,068,National,12,Dry latrines - Other,0.0,"Encuesta de Hogares, 2014 - EH14"
+Bolivia (Plurinational State of),BO,BOL,068,National,13,Composting toilets,0.007,"Encuesta de Hogares, 2014 - EH14"
+Bolivia (Plurinational State of),BO,BOL,068,National,14,Other improved,0.0,"Encuesta de Hogares, 2014 - EH14"
+Bolivia (Plurinational State of),BO,BOL,068,National,15,"No facility, bush, field",0.167,"Encuesta de Hogares, 2014 - EH14"
+Bolivia (Plurinational State of),BO,BOL,068,National,16,Other unimproved,0.007,"Encuesta de Hogares, 2014 - EH14"
+Bolivia (Plurinational State of),BO,BOL,068,National,17,DK/missing information,0.0,"Encuesta de Hogares, 2014 - EH14"
 Bolivia (Plurinational State of),BO,BOL,068,Urban,1,Flush and pour flush - to piped sewer system,0.594,Encuesta de Hogares - EH15
 Bolivia (Plurinational State of),BO,BOL,068,Urban,2,Flush and pour flush - to septic tank,0.159,Encuesta de Hogares - EH15
 Bolivia (Plurinational State of),BO,BOL,068,Urban,3,Flush and pour flush - to pit,0.014,Encuesta de Hogares - EH15
@@ -581,6 +957,23 @@ Bolivia (Plurinational State of),BO,BOL,068,Rural,14,Other improved,0.0,Encuesta
 Bolivia (Plurinational State of),BO,BOL,068,Rural,15,"No facility, bush, field",0.412,Encuesta de Hogares - EH15
 Bolivia (Plurinational State of),BO,BOL,068,Rural,16,Other unimproved,0.0,Encuesta de Hogares - EH15
 Bolivia (Plurinational State of),BO,BOL,068,Rural,17,DK/missing information,0.0,Encuesta de Hogares - EH15
+Bolivia (Plurinational State of),BO,BOL,068,National,1,Flush and pour flush - to piped sewer system,0.422,Encuesta de Hogares - EH15
+Bolivia (Plurinational State of),BO,BOL,068,National,2,Flush and pour flush - to septic tank,0.131,Encuesta de Hogares - EH15
+Bolivia (Plurinational State of),BO,BOL,068,National,3,Flush and pour flush - to pit,0.021,Encuesta de Hogares - EH15
+Bolivia (Plurinational State of),BO,BOL,068,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.004,Encuesta de Hogares - EH15
+Bolivia (Plurinational State of),BO,BOL,068,National,5,Flush and pour flush - to elsewhere,0.002,Encuesta de Hogares - EH15
+Bolivia (Plurinational State of),BO,BOL,068,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta de Hogares - EH15
+Bolivia (Plurinational State of),BO,BOL,068,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.157,Encuesta de Hogares - EH15
+Bolivia (Plurinational State of),BO,BOL,068,National,8,Dry latrines - Traditional latrine,0.0,Encuesta de Hogares - EH15
+Bolivia (Plurinational State of),BO,BOL,068,National,9,Dry latrines - Pit latrine without slab/open pit,0.104,Encuesta de Hogares - EH15
+Bolivia (Plurinational State of),BO,BOL,068,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta de Hogares - EH15
+Bolivia (Plurinational State of),BO,BOL,068,National,11,Dry latrines - Bucket latrine,0.0,Encuesta de Hogares - EH15
+Bolivia (Plurinational State of),BO,BOL,068,National,12,Dry latrines - Other,0.0,Encuesta de Hogares - EH15
+Bolivia (Plurinational State of),BO,BOL,068,National,13,Composting toilets,0.003,Encuesta de Hogares - EH15
+Bolivia (Plurinational State of),BO,BOL,068,National,14,Other improved,0.0,Encuesta de Hogares - EH15
+Bolivia (Plurinational State of),BO,BOL,068,National,15,"No facility, bush, field",0.157,Encuesta de Hogares - EH15
+Bolivia (Plurinational State of),BO,BOL,068,National,16,Other unimproved,0.0,Encuesta de Hogares - EH15
+Bolivia (Plurinational State of),BO,BOL,068,National,17,DK/missing information,0.0,Encuesta de Hogares - EH15
 Bolivia (Plurinational State of),BO,BOL,068,Urban,1,Flush and pour flush - to piped sewer system,0.6,Encuesta de Hogares - EH16
 Bolivia (Plurinational State of),BO,BOL,068,Urban,2,Flush and pour flush - to septic tank,0.178,Encuesta de Hogares - EH16
 Bolivia (Plurinational State of),BO,BOL,068,Urban,3,Flush and pour flush - to pit,0.02,Encuesta de Hogares - EH16
@@ -615,6 +1008,23 @@ Bolivia (Plurinational State of),BO,BOL,068,Rural,14,Other improved,0.0,Encuesta
 Bolivia (Plurinational State of),BO,BOL,068,Rural,15,"No facility, bush, field",0.397,Encuesta de Hogares - EH16
 Bolivia (Plurinational State of),BO,BOL,068,Rural,16,Other unimproved,0.0,Encuesta de Hogares - EH16
 Bolivia (Plurinational State of),BO,BOL,068,Rural,17,DK/missing information,0.0,Encuesta de Hogares - EH16
+Bolivia (Plurinational State of),BO,BOL,068,National,1,Flush and pour flush - to piped sewer system,0.429,Encuesta de Hogares - EH16
+Bolivia (Plurinational State of),BO,BOL,068,National,2,Flush and pour flush - to septic tank,0.15,Encuesta de Hogares - EH16
+Bolivia (Plurinational State of),BO,BOL,068,National,3,Flush and pour flush - to pit,0.026,Encuesta de Hogares - EH16
+Bolivia (Plurinational State of),BO,BOL,068,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.004,Encuesta de Hogares - EH16
+Bolivia (Plurinational State of),BO,BOL,068,National,5,Flush and pour flush - to elsewhere,0.002,Encuesta de Hogares - EH16
+Bolivia (Plurinational State of),BO,BOL,068,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta de Hogares - EH16
+Bolivia (Plurinational State of),BO,BOL,068,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.168,Encuesta de Hogares - EH16
+Bolivia (Plurinational State of),BO,BOL,068,National,8,Dry latrines - Traditional latrine,0.0,Encuesta de Hogares - EH16
+Bolivia (Plurinational State of),BO,BOL,068,National,9,Dry latrines - Pit latrine without slab/open pit,0.07,Encuesta de Hogares - EH16
+Bolivia (Plurinational State of),BO,BOL,068,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta de Hogares - EH16
+Bolivia (Plurinational State of),BO,BOL,068,National,11,Dry latrines - Bucket latrine,0.0,Encuesta de Hogares - EH16
+Bolivia (Plurinational State of),BO,BOL,068,National,12,Dry latrines - Other,0.0,Encuesta de Hogares - EH16
+Bolivia (Plurinational State of),BO,BOL,068,National,13,Composting toilets,0.009,Encuesta de Hogares - EH16
+Bolivia (Plurinational State of),BO,BOL,068,National,14,Other improved,0.0,Encuesta de Hogares - EH16
+Bolivia (Plurinational State of),BO,BOL,068,National,15,"No facility, bush, field",0.143,Encuesta de Hogares - EH16
+Bolivia (Plurinational State of),BO,BOL,068,National,16,Other unimproved,0.0,Encuesta de Hogares - EH16
+Bolivia (Plurinational State of),BO,BOL,068,National,17,DK/missing information,0.0,Encuesta de Hogares - EH16
 Bolivia (Plurinational State of),BO,BOL,068,Urban,1,Flush and pour flush - to piped sewer system,0.618,Encuesta de Demografia y salud - EDSA16
 Bolivia (Plurinational State of),BO,BOL,068,Urban,2,Flush and pour flush - to septic tank,0.17,Encuesta de Demografia y salud - EDSA16
 Bolivia (Plurinational State of),BO,BOL,068,Urban,3,Flush and pour flush - to pit,0.159,Encuesta de Demografia y salud - EDSA16
@@ -649,6 +1059,23 @@ Bolivia (Plurinational State of),BO,BOL,068,Rural,14,Other improved,0.0,Encuesta
 Bolivia (Plurinational State of),BO,BOL,068,Rural,15,"No facility, bush, field",0.402,Encuesta de Demografia y salud - EDSA16
 Bolivia (Plurinational State of),BO,BOL,068,Rural,16,Other unimproved,0.0,Encuesta de Demografia y salud - EDSA16
 Bolivia (Plurinational State of),BO,BOL,068,Rural,17,DK/missing information,0.0,Encuesta de Demografia y salud - EDSA16
+Bolivia (Plurinational State of),BO,BOL,068,National,1,Flush and pour flush - to piped sewer system,0.442,Encuesta de Demografia y salud - EDSA16
+Bolivia (Plurinational State of),BO,BOL,068,National,2,Flush and pour flush - to septic tank,0.141,Encuesta de Demografia y salud - EDSA16
+Bolivia (Plurinational State of),BO,BOL,068,National,3,Flush and pour flush - to pit,0.251,Encuesta de Demografia y salud - EDSA16
+Bolivia (Plurinational State of),BO,BOL,068,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.004,Encuesta de Demografia y salud - EDSA16
+Bolivia (Plurinational State of),BO,BOL,068,National,5,Flush and pour flush - to elsewhere,0.005,Encuesta de Demografia y salud - EDSA16
+Bolivia (Plurinational State of),BO,BOL,068,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta de Demografia y salud - EDSA16
+Bolivia (Plurinational State of),BO,BOL,068,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta de Demografia y salud - EDSA16
+Bolivia (Plurinational State of),BO,BOL,068,National,8,Dry latrines - Traditional latrine,0.0,Encuesta de Demografia y salud - EDSA16
+Bolivia (Plurinational State of),BO,BOL,068,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta de Demografia y salud - EDSA16
+Bolivia (Plurinational State of),BO,BOL,068,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta de Demografia y salud - EDSA16
+Bolivia (Plurinational State of),BO,BOL,068,National,11,Dry latrines - Bucket latrine,0.0,Encuesta de Demografia y salud - EDSA16
+Bolivia (Plurinational State of),BO,BOL,068,National,12,Dry latrines - Other,0.0,Encuesta de Demografia y salud - EDSA16
+Bolivia (Plurinational State of),BO,BOL,068,National,13,Composting toilets,0.0,Encuesta de Demografia y salud - EDSA16
+Bolivia (Plurinational State of),BO,BOL,068,National,14,Other improved,0.0,Encuesta de Demografia y salud - EDSA16
+Bolivia (Plurinational State of),BO,BOL,068,National,15,"No facility, bush, field",0.157,Encuesta de Demografia y salud - EDSA16
+Bolivia (Plurinational State of),BO,BOL,068,National,16,Other unimproved,0.0,Encuesta de Demografia y salud - EDSA16
+Bolivia (Plurinational State of),BO,BOL,068,National,17,DK/missing information,0.0,Encuesta de Demografia y salud - EDSA16
 Bolivia (Plurinational State of),BO,BOL,068,Urban,1,Flush and pour flush - to piped sewer system,0.605,Encuesta de Hogares - EH17
 Bolivia (Plurinational State of),BO,BOL,068,Urban,2,Flush and pour flush - to septic tank,0.181,Encuesta de Hogares - EH17
 Bolivia (Plurinational State of),BO,BOL,068,Urban,3,Flush and pour flush - to pit,0.018,Encuesta de Hogares - EH17
@@ -683,3 +1110,20 @@ Bolivia (Plurinational State of),BO,BOL,068,Rural,14,Other improved,0.0,Encuesta
 Bolivia (Plurinational State of),BO,BOL,068,Rural,15,"No facility, bush, field",0.409,Encuesta de Hogares - EH17
 Bolivia (Plurinational State of),BO,BOL,068,Rural,16,Other unimproved,0.0,Encuesta de Hogares - EH17
 Bolivia (Plurinational State of),BO,BOL,068,Rural,17,DK/missing information,0.0,Encuesta de Hogares - EH17
+Bolivia (Plurinational State of),BO,BOL,068,National,1,Flush and pour flush - to piped sewer system,0.44,Encuesta de Hogares - EH17
+Bolivia (Plurinational State of),BO,BOL,068,National,2,Flush and pour flush - to septic tank,0.152,Encuesta de Hogares - EH17
+Bolivia (Plurinational State of),BO,BOL,068,National,3,Flush and pour flush - to pit,0.021,Encuesta de Hogares - EH17
+Bolivia (Plurinational State of),BO,BOL,068,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.004,Encuesta de Hogares - EH17
+Bolivia (Plurinational State of),BO,BOL,068,National,5,Flush and pour flush - to elsewhere,0.002,Encuesta de Hogares - EH17
+Bolivia (Plurinational State of),BO,BOL,068,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta de Hogares - EH17
+Bolivia (Plurinational State of),BO,BOL,068,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.159,Encuesta de Hogares - EH17
+Bolivia (Plurinational State of),BO,BOL,068,National,8,Dry latrines - Traditional latrine,0.0,Encuesta de Hogares - EH17
+Bolivia (Plurinational State of),BO,BOL,068,National,9,Dry latrines - Pit latrine without slab/open pit,0.069,Encuesta de Hogares - EH17
+Bolivia (Plurinational State of),BO,BOL,068,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta de Hogares - EH17
+Bolivia (Plurinational State of),BO,BOL,068,National,11,Dry latrines - Bucket latrine,0.0,Encuesta de Hogares - EH17
+Bolivia (Plurinational State of),BO,BOL,068,National,12,Dry latrines - Other,0.0,Encuesta de Hogares - EH17
+Bolivia (Plurinational State of),BO,BOL,068,National,13,Composting toilets,0.009,Encuesta de Hogares - EH17
+Bolivia (Plurinational State of),BO,BOL,068,National,14,Other improved,0.0,Encuesta de Hogares - EH17
+Bolivia (Plurinational State of),BO,BOL,068,National,15,"No facility, bush, field",0.146,Encuesta de Hogares - EH17
+Bolivia (Plurinational State of),BO,BOL,068,National,16,Other unimproved,0.0,Encuesta de Hogares - EH17
+Bolivia (Plurinational State of),BO,BOL,068,National,17,DK/missing information,0.0,Encuesta de Hogares - EH17

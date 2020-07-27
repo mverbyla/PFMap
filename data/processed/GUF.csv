@@ -1,0 +1,562 @@
+country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+French Guiana,GF,GUF,254,Urban,1,Flush and pour flush - to piped sewer system,0.411,"Census Outre Mer, 2004-2008 - CEN06"
+French Guiana,GF,GUF,254,Urban,2,Flush and pour flush - to septic tank,0.426,"Census Outre Mer, 2004-2008 - CEN06"
+French Guiana,GF,GUF,254,Urban,3,Flush and pour flush - to pit,0.044,"Census Outre Mer, 2004-2008 - CEN06"
+French Guiana,GF,GUF,254,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Census Outre Mer, 2004-2008 - CEN06"
+French Guiana,GF,GUF,254,Urban,5,Flush and pour flush - to elsewhere,0.0,"Census Outre Mer, 2004-2008 - CEN06"
+French Guiana,GF,GUF,254,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Census Outre Mer, 2004-2008 - CEN06"
+French Guiana,GF,GUF,254,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Census Outre Mer, 2004-2008 - CEN06"
+French Guiana,GF,GUF,254,Urban,8,Dry latrines - Traditional latrine,0.103,"Census Outre Mer, 2004-2008 - CEN06"
+French Guiana,GF,GUF,254,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Census Outre Mer, 2004-2008 - CEN06"
+French Guiana,GF,GUF,254,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Census Outre Mer, 2004-2008 - CEN06"
+French Guiana,GF,GUF,254,Urban,11,Dry latrines - Bucket latrine,0.0,"Census Outre Mer, 2004-2008 - CEN06"
+French Guiana,GF,GUF,254,Urban,12,Dry latrines - Other,0.0,"Census Outre Mer, 2004-2008 - CEN06"
+French Guiana,GF,GUF,254,Urban,13,Composting toilets,0.0,"Census Outre Mer, 2004-2008 - CEN06"
+French Guiana,GF,GUF,254,Urban,14,Other improved,0.0,"Census Outre Mer, 2004-2008 - CEN06"
+French Guiana,GF,GUF,254,Urban,15,"No facility, bush, field",0.0,"Census Outre Mer, 2004-2008 - CEN06"
+French Guiana,GF,GUF,254,Urban,16,Other unimproved,0.0,"Census Outre Mer, 2004-2008 - CEN06"
+French Guiana,GF,GUF,254,Urban,17,DK/missing information,0.016,"Census Outre Mer, 2004-2008 - CEN06"
+French Guiana,GF,GUF,254,Rural,1,Flush and pour flush - to piped sewer system,0.114,"Census Outre Mer, 2004-2008 - CEN06"
+French Guiana,GF,GUF,254,Rural,2,Flush and pour flush - to septic tank,0.24,"Census Outre Mer, 2004-2008 - CEN06"
+French Guiana,GF,GUF,254,Rural,3,Flush and pour flush - to pit,0.102,"Census Outre Mer, 2004-2008 - CEN06"
+French Guiana,GF,GUF,254,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Census Outre Mer, 2004-2008 - CEN06"
+French Guiana,GF,GUF,254,Rural,5,Flush and pour flush - to elsewhere,0.0,"Census Outre Mer, 2004-2008 - CEN06"
+French Guiana,GF,GUF,254,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Census Outre Mer, 2004-2008 - CEN06"
+French Guiana,GF,GUF,254,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Census Outre Mer, 2004-2008 - CEN06"
+French Guiana,GF,GUF,254,Rural,8,Dry latrines - Traditional latrine,0.542,"Census Outre Mer, 2004-2008 - CEN06"
+French Guiana,GF,GUF,254,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Census Outre Mer, 2004-2008 - CEN06"
+French Guiana,GF,GUF,254,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Census Outre Mer, 2004-2008 - CEN06"
+French Guiana,GF,GUF,254,Rural,11,Dry latrines - Bucket latrine,0.0,"Census Outre Mer, 2004-2008 - CEN06"
+French Guiana,GF,GUF,254,Rural,12,Dry latrines - Other,0.0,"Census Outre Mer, 2004-2008 - CEN06"
+French Guiana,GF,GUF,254,Rural,13,Composting toilets,0.0,"Census Outre Mer, 2004-2008 - CEN06"
+French Guiana,GF,GUF,254,Rural,14,Other improved,0.0,"Census Outre Mer, 2004-2008 - CEN06"
+French Guiana,GF,GUF,254,Rural,15,"No facility, bush, field",0.0,"Census Outre Mer, 2004-2008 - CEN06"
+French Guiana,GF,GUF,254,Rural,16,Other unimproved,0.0,"Census Outre Mer, 2004-2008 - CEN06"
+French Guiana,GF,GUF,254,Rural,17,DK/missing information,0.002,"Census Outre Mer, 2004-2008 - CEN06"
+French Guiana,GF,GUF,254,National,1,Flush and pour flush - to piped sewer system,0.375,"Census Outre Mer, 2004-2008 - CEN06"
+French Guiana,GF,GUF,254,National,2,Flush and pour flush - to septic tank,0.403,"Census Outre Mer, 2004-2008 - CEN06"
+French Guiana,GF,GUF,254,National,3,Flush and pour flush - to pit,0.051,"Census Outre Mer, 2004-2008 - CEN06"
+French Guiana,GF,GUF,254,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Census Outre Mer, 2004-2008 - CEN06"
+French Guiana,GF,GUF,254,National,5,Flush and pour flush - to elsewhere,0.0,"Census Outre Mer, 2004-2008 - CEN06"
+French Guiana,GF,GUF,254,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Census Outre Mer, 2004-2008 - CEN06"
+French Guiana,GF,GUF,254,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Census Outre Mer, 2004-2008 - CEN06"
+French Guiana,GF,GUF,254,National,8,Dry latrines - Traditional latrine,0.156,"Census Outre Mer, 2004-2008 - CEN06"
+French Guiana,GF,GUF,254,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Census Outre Mer, 2004-2008 - CEN06"
+French Guiana,GF,GUF,254,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Census Outre Mer, 2004-2008 - CEN06"
+French Guiana,GF,GUF,254,National,11,Dry latrines - Bucket latrine,0.0,"Census Outre Mer, 2004-2008 - CEN06"
+French Guiana,GF,GUF,254,National,12,Dry latrines - Other,0.0,"Census Outre Mer, 2004-2008 - CEN06"
+French Guiana,GF,GUF,254,National,13,Composting toilets,0.0,"Census Outre Mer, 2004-2008 - CEN06"
+French Guiana,GF,GUF,254,National,14,Other improved,0.0,"Census Outre Mer, 2004-2008 - CEN06"
+French Guiana,GF,GUF,254,National,15,"No facility, bush, field",0.0,"Census Outre Mer, 2004-2008 - CEN06"
+French Guiana,GF,GUF,254,National,16,Other unimproved,0.0,"Census Outre Mer, 2004-2008 - CEN06"
+French Guiana,GF,GUF,254,National,17,DK/missing information,0.014,"Census Outre Mer, 2004-2008 - CEN06"
+French Guiana,GF,GUF,254,Urban,1,Flush and pour flush - to piped sewer system,0.0,CENSUS 2007 - CEN07
+French Guiana,GF,GUF,254,Urban,2,Flush and pour flush - to septic tank,0.0,CENSUS 2007 - CEN07
+French Guiana,GF,GUF,254,Urban,3,Flush and pour flush - to pit,0.0,CENSUS 2007 - CEN07
+French Guiana,GF,GUF,254,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,CENSUS 2007 - CEN07
+French Guiana,GF,GUF,254,Urban,5,Flush and pour flush - to elsewhere,0.0,CENSUS 2007 - CEN07
+French Guiana,GF,GUF,254,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,CENSUS 2007 - CEN07
+French Guiana,GF,GUF,254,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,CENSUS 2007 - CEN07
+French Guiana,GF,GUF,254,Urban,8,Dry latrines - Traditional latrine,0.0,CENSUS 2007 - CEN07
+French Guiana,GF,GUF,254,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,CENSUS 2007 - CEN07
+French Guiana,GF,GUF,254,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,CENSUS 2007 - CEN07
+French Guiana,GF,GUF,254,Urban,11,Dry latrines - Bucket latrine,0.0,CENSUS 2007 - CEN07
+French Guiana,GF,GUF,254,Urban,12,Dry latrines - Other,0.0,CENSUS 2007 - CEN07
+French Guiana,GF,GUF,254,Urban,13,Composting toilets,0.0,CENSUS 2007 - CEN07
+French Guiana,GF,GUF,254,Urban,14,Other improved,0.0,CENSUS 2007 - CEN07
+French Guiana,GF,GUF,254,Urban,15,"No facility, bush, field",0.0,CENSUS 2007 - CEN07
+French Guiana,GF,GUF,254,Urban,16,Other unimproved,0.0,CENSUS 2007 - CEN07
+French Guiana,GF,GUF,254,Urban,17,DK/missing information,0.0,CENSUS 2007 - CEN07
+French Guiana,GF,GUF,254,Rural,1,Flush and pour flush - to piped sewer system,0.0,CENSUS 2007 - CEN07
+French Guiana,GF,GUF,254,Rural,2,Flush and pour flush - to septic tank,0.0,CENSUS 2007 - CEN07
+French Guiana,GF,GUF,254,Rural,3,Flush and pour flush - to pit,0.0,CENSUS 2007 - CEN07
+French Guiana,GF,GUF,254,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,CENSUS 2007 - CEN07
+French Guiana,GF,GUF,254,Rural,5,Flush and pour flush - to elsewhere,0.0,CENSUS 2007 - CEN07
+French Guiana,GF,GUF,254,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,CENSUS 2007 - CEN07
+French Guiana,GF,GUF,254,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,CENSUS 2007 - CEN07
+French Guiana,GF,GUF,254,Rural,8,Dry latrines - Traditional latrine,0.0,CENSUS 2007 - CEN07
+French Guiana,GF,GUF,254,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,CENSUS 2007 - CEN07
+French Guiana,GF,GUF,254,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,CENSUS 2007 - CEN07
+French Guiana,GF,GUF,254,Rural,11,Dry latrines - Bucket latrine,0.0,CENSUS 2007 - CEN07
+French Guiana,GF,GUF,254,Rural,12,Dry latrines - Other,0.0,CENSUS 2007 - CEN07
+French Guiana,GF,GUF,254,Rural,13,Composting toilets,0.0,CENSUS 2007 - CEN07
+French Guiana,GF,GUF,254,Rural,14,Other improved,0.0,CENSUS 2007 - CEN07
+French Guiana,GF,GUF,254,Rural,15,"No facility, bush, field",0.0,CENSUS 2007 - CEN07
+French Guiana,GF,GUF,254,Rural,16,Other unimproved,0.0,CENSUS 2007 - CEN07
+French Guiana,GF,GUF,254,Rural,17,DK/missing information,0.0,CENSUS 2007 - CEN07
+French Guiana,GF,GUF,254,National,1,Flush and pour flush - to piped sewer system,0.394,CENSUS 2007 - CEN07
+French Guiana,GF,GUF,254,National,2,Flush and pour flush - to septic tank,0.419,CENSUS 2007 - CEN07
+French Guiana,GF,GUF,254,National,3,Flush and pour flush - to pit,0.044,CENSUS 2007 - CEN07
+French Guiana,GF,GUF,254,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,CENSUS 2007 - CEN07
+French Guiana,GF,GUF,254,National,5,Flush and pour flush - to elsewhere,0.0,CENSUS 2007 - CEN07
+French Guiana,GF,GUF,254,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,CENSUS 2007 - CEN07
+French Guiana,GF,GUF,254,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,CENSUS 2007 - CEN07
+French Guiana,GF,GUF,254,National,8,Dry latrines - Traditional latrine,0.143,CENSUS 2007 - CEN07
+French Guiana,GF,GUF,254,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,CENSUS 2007 - CEN07
+French Guiana,GF,GUF,254,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,CENSUS 2007 - CEN07
+French Guiana,GF,GUF,254,National,11,Dry latrines - Bucket latrine,0.0,CENSUS 2007 - CEN07
+French Guiana,GF,GUF,254,National,12,Dry latrines - Other,0.0,CENSUS 2007 - CEN07
+French Guiana,GF,GUF,254,National,13,Composting toilets,0.0,CENSUS 2007 - CEN07
+French Guiana,GF,GUF,254,National,14,Other improved,0.0,CENSUS 2007 - CEN07
+French Guiana,GF,GUF,254,National,15,"No facility, bush, field",0.0,CENSUS 2007 - CEN07
+French Guiana,GF,GUF,254,National,16,Other unimproved,0.0,CENSUS 2007 - CEN07
+French Guiana,GF,GUF,254,National,17,DK/missing information,0.0,CENSUS 2007 - CEN07
+French Guiana,GF,GUF,254,Urban,1,Flush and pour flush - to piped sewer system,0.0,CENSUS 2008 - CEN08
+French Guiana,GF,GUF,254,Urban,2,Flush and pour flush - to septic tank,0.0,CENSUS 2008 - CEN08
+French Guiana,GF,GUF,254,Urban,3,Flush and pour flush - to pit,0.0,CENSUS 2008 - CEN08
+French Guiana,GF,GUF,254,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,CENSUS 2008 - CEN08
+French Guiana,GF,GUF,254,Urban,5,Flush and pour flush - to elsewhere,0.0,CENSUS 2008 - CEN08
+French Guiana,GF,GUF,254,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,CENSUS 2008 - CEN08
+French Guiana,GF,GUF,254,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,CENSUS 2008 - CEN08
+French Guiana,GF,GUF,254,Urban,8,Dry latrines - Traditional latrine,0.0,CENSUS 2008 - CEN08
+French Guiana,GF,GUF,254,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,CENSUS 2008 - CEN08
+French Guiana,GF,GUF,254,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,CENSUS 2008 - CEN08
+French Guiana,GF,GUF,254,Urban,11,Dry latrines - Bucket latrine,0.0,CENSUS 2008 - CEN08
+French Guiana,GF,GUF,254,Urban,12,Dry latrines - Other,0.0,CENSUS 2008 - CEN08
+French Guiana,GF,GUF,254,Urban,13,Composting toilets,0.0,CENSUS 2008 - CEN08
+French Guiana,GF,GUF,254,Urban,14,Other improved,0.0,CENSUS 2008 - CEN08
+French Guiana,GF,GUF,254,Urban,15,"No facility, bush, field",0.0,CENSUS 2008 - CEN08
+French Guiana,GF,GUF,254,Urban,16,Other unimproved,0.0,CENSUS 2008 - CEN08
+French Guiana,GF,GUF,254,Urban,17,DK/missing information,0.0,CENSUS 2008 - CEN08
+French Guiana,GF,GUF,254,Rural,1,Flush and pour flush - to piped sewer system,0.0,CENSUS 2008 - CEN08
+French Guiana,GF,GUF,254,Rural,2,Flush and pour flush - to septic tank,0.0,CENSUS 2008 - CEN08
+French Guiana,GF,GUF,254,Rural,3,Flush and pour flush - to pit,0.0,CENSUS 2008 - CEN08
+French Guiana,GF,GUF,254,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,CENSUS 2008 - CEN08
+French Guiana,GF,GUF,254,Rural,5,Flush and pour flush - to elsewhere,0.0,CENSUS 2008 - CEN08
+French Guiana,GF,GUF,254,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,CENSUS 2008 - CEN08
+French Guiana,GF,GUF,254,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,CENSUS 2008 - CEN08
+French Guiana,GF,GUF,254,Rural,8,Dry latrines - Traditional latrine,0.0,CENSUS 2008 - CEN08
+French Guiana,GF,GUF,254,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,CENSUS 2008 - CEN08
+French Guiana,GF,GUF,254,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,CENSUS 2008 - CEN08
+French Guiana,GF,GUF,254,Rural,11,Dry latrines - Bucket latrine,0.0,CENSUS 2008 - CEN08
+French Guiana,GF,GUF,254,Rural,12,Dry latrines - Other,0.0,CENSUS 2008 - CEN08
+French Guiana,GF,GUF,254,Rural,13,Composting toilets,0.0,CENSUS 2008 - CEN08
+French Guiana,GF,GUF,254,Rural,14,Other improved,0.0,CENSUS 2008 - CEN08
+French Guiana,GF,GUF,254,Rural,15,"No facility, bush, field",0.0,CENSUS 2008 - CEN08
+French Guiana,GF,GUF,254,Rural,16,Other unimproved,0.0,CENSUS 2008 - CEN08
+French Guiana,GF,GUF,254,Rural,17,DK/missing information,0.0,CENSUS 2008 - CEN08
+French Guiana,GF,GUF,254,National,1,Flush and pour flush - to piped sewer system,0.393,CENSUS 2008 - CEN08
+French Guiana,GF,GUF,254,National,2,Flush and pour flush - to septic tank,0.419,CENSUS 2008 - CEN08
+French Guiana,GF,GUF,254,National,3,Flush and pour flush - to pit,0.037,CENSUS 2008 - CEN08
+French Guiana,GF,GUF,254,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,CENSUS 2008 - CEN08
+French Guiana,GF,GUF,254,National,5,Flush and pour flush - to elsewhere,0.0,CENSUS 2008 - CEN08
+French Guiana,GF,GUF,254,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,CENSUS 2008 - CEN08
+French Guiana,GF,GUF,254,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,CENSUS 2008 - CEN08
+French Guiana,GF,GUF,254,National,8,Dry latrines - Traditional latrine,0.152,CENSUS 2008 - CEN08
+French Guiana,GF,GUF,254,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,CENSUS 2008 - CEN08
+French Guiana,GF,GUF,254,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,CENSUS 2008 - CEN08
+French Guiana,GF,GUF,254,National,11,Dry latrines - Bucket latrine,0.0,CENSUS 2008 - CEN08
+French Guiana,GF,GUF,254,National,12,Dry latrines - Other,0.0,CENSUS 2008 - CEN08
+French Guiana,GF,GUF,254,National,13,Composting toilets,0.0,CENSUS 2008 - CEN08
+French Guiana,GF,GUF,254,National,14,Other improved,0.0,CENSUS 2008 - CEN08
+French Guiana,GF,GUF,254,National,15,"No facility, bush, field",0.0,CENSUS 2008 - CEN08
+French Guiana,GF,GUF,254,National,16,Other unimproved,0.0,CENSUS 2008 - CEN08
+French Guiana,GF,GUF,254,National,17,DK/missing information,0.0,CENSUS 2008 - CEN08
+French Guiana,GF,GUF,254,Urban,1,Flush and pour flush - to piped sewer system,0.0,CENSUS 2009 - CEN09
+French Guiana,GF,GUF,254,Urban,2,Flush and pour flush - to septic tank,0.0,CENSUS 2009 - CEN09
+French Guiana,GF,GUF,254,Urban,3,Flush and pour flush - to pit,0.0,CENSUS 2009 - CEN09
+French Guiana,GF,GUF,254,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,CENSUS 2009 - CEN09
+French Guiana,GF,GUF,254,Urban,5,Flush and pour flush - to elsewhere,0.0,CENSUS 2009 - CEN09
+French Guiana,GF,GUF,254,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,CENSUS 2009 - CEN09
+French Guiana,GF,GUF,254,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,CENSUS 2009 - CEN09
+French Guiana,GF,GUF,254,Urban,8,Dry latrines - Traditional latrine,0.0,CENSUS 2009 - CEN09
+French Guiana,GF,GUF,254,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,CENSUS 2009 - CEN09
+French Guiana,GF,GUF,254,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,CENSUS 2009 - CEN09
+French Guiana,GF,GUF,254,Urban,11,Dry latrines - Bucket latrine,0.0,CENSUS 2009 - CEN09
+French Guiana,GF,GUF,254,Urban,12,Dry latrines - Other,0.0,CENSUS 2009 - CEN09
+French Guiana,GF,GUF,254,Urban,13,Composting toilets,0.0,CENSUS 2009 - CEN09
+French Guiana,GF,GUF,254,Urban,14,Other improved,0.0,CENSUS 2009 - CEN09
+French Guiana,GF,GUF,254,Urban,15,"No facility, bush, field",0.0,CENSUS 2009 - CEN09
+French Guiana,GF,GUF,254,Urban,16,Other unimproved,0.0,CENSUS 2009 - CEN09
+French Guiana,GF,GUF,254,Urban,17,DK/missing information,0.0,CENSUS 2009 - CEN09
+French Guiana,GF,GUF,254,Rural,1,Flush and pour flush - to piped sewer system,0.0,CENSUS 2009 - CEN09
+French Guiana,GF,GUF,254,Rural,2,Flush and pour flush - to septic tank,0.0,CENSUS 2009 - CEN09
+French Guiana,GF,GUF,254,Rural,3,Flush and pour flush - to pit,0.0,CENSUS 2009 - CEN09
+French Guiana,GF,GUF,254,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,CENSUS 2009 - CEN09
+French Guiana,GF,GUF,254,Rural,5,Flush and pour flush - to elsewhere,0.0,CENSUS 2009 - CEN09
+French Guiana,GF,GUF,254,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,CENSUS 2009 - CEN09
+French Guiana,GF,GUF,254,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,CENSUS 2009 - CEN09
+French Guiana,GF,GUF,254,Rural,8,Dry latrines - Traditional latrine,0.0,CENSUS 2009 - CEN09
+French Guiana,GF,GUF,254,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,CENSUS 2009 - CEN09
+French Guiana,GF,GUF,254,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,CENSUS 2009 - CEN09
+French Guiana,GF,GUF,254,Rural,11,Dry latrines - Bucket latrine,0.0,CENSUS 2009 - CEN09
+French Guiana,GF,GUF,254,Rural,12,Dry latrines - Other,0.0,CENSUS 2009 - CEN09
+French Guiana,GF,GUF,254,Rural,13,Composting toilets,0.0,CENSUS 2009 - CEN09
+French Guiana,GF,GUF,254,Rural,14,Other improved,0.0,CENSUS 2009 - CEN09
+French Guiana,GF,GUF,254,Rural,15,"No facility, bush, field",0.0,CENSUS 2009 - CEN09
+French Guiana,GF,GUF,254,Rural,16,Other unimproved,0.0,CENSUS 2009 - CEN09
+French Guiana,GF,GUF,254,Rural,17,DK/missing information,0.0,CENSUS 2009 - CEN09
+French Guiana,GF,GUF,254,National,1,Flush and pour flush - to piped sewer system,0.382,CENSUS 2009 - CEN09
+French Guiana,GF,GUF,254,National,2,Flush and pour flush - to septic tank,0.429,CENSUS 2009 - CEN09
+French Guiana,GF,GUF,254,National,3,Flush and pour flush - to pit,0.039,CENSUS 2009 - CEN09
+French Guiana,GF,GUF,254,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,CENSUS 2009 - CEN09
+French Guiana,GF,GUF,254,National,5,Flush and pour flush - to elsewhere,0.0,CENSUS 2009 - CEN09
+French Guiana,GF,GUF,254,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,CENSUS 2009 - CEN09
+French Guiana,GF,GUF,254,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,CENSUS 2009 - CEN09
+French Guiana,GF,GUF,254,National,8,Dry latrines - Traditional latrine,0.15,CENSUS 2009 - CEN09
+French Guiana,GF,GUF,254,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,CENSUS 2009 - CEN09
+French Guiana,GF,GUF,254,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,CENSUS 2009 - CEN09
+French Guiana,GF,GUF,254,National,11,Dry latrines - Bucket latrine,0.0,CENSUS 2009 - CEN09
+French Guiana,GF,GUF,254,National,12,Dry latrines - Other,0.0,CENSUS 2009 - CEN09
+French Guiana,GF,GUF,254,National,13,Composting toilets,0.0,CENSUS 2009 - CEN09
+French Guiana,GF,GUF,254,National,14,Other improved,0.0,CENSUS 2009 - CEN09
+French Guiana,GF,GUF,254,National,15,"No facility, bush, field",0.0,CENSUS 2009 - CEN09
+French Guiana,GF,GUF,254,National,16,Other unimproved,0.0,CENSUS 2009 - CEN09
+French Guiana,GF,GUF,254,National,17,DK/missing information,0.0,CENSUS 2009 - CEN09
+French Guiana,GF,GUF,254,Urban,1,Flush and pour flush - to piped sewer system,0.0,CENSUS 2010 - CEN10
+French Guiana,GF,GUF,254,Urban,2,Flush and pour flush - to septic tank,0.0,CENSUS 2010 - CEN10
+French Guiana,GF,GUF,254,Urban,3,Flush and pour flush - to pit,0.0,CENSUS 2010 - CEN10
+French Guiana,GF,GUF,254,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,CENSUS 2010 - CEN10
+French Guiana,GF,GUF,254,Urban,5,Flush and pour flush - to elsewhere,0.0,CENSUS 2010 - CEN10
+French Guiana,GF,GUF,254,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,CENSUS 2010 - CEN10
+French Guiana,GF,GUF,254,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,CENSUS 2010 - CEN10
+French Guiana,GF,GUF,254,Urban,8,Dry latrines - Traditional latrine,0.0,CENSUS 2010 - CEN10
+French Guiana,GF,GUF,254,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,CENSUS 2010 - CEN10
+French Guiana,GF,GUF,254,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,CENSUS 2010 - CEN10
+French Guiana,GF,GUF,254,Urban,11,Dry latrines - Bucket latrine,0.0,CENSUS 2010 - CEN10
+French Guiana,GF,GUF,254,Urban,12,Dry latrines - Other,0.0,CENSUS 2010 - CEN10
+French Guiana,GF,GUF,254,Urban,13,Composting toilets,0.0,CENSUS 2010 - CEN10
+French Guiana,GF,GUF,254,Urban,14,Other improved,0.0,CENSUS 2010 - CEN10
+French Guiana,GF,GUF,254,Urban,15,"No facility, bush, field",0.0,CENSUS 2010 - CEN10
+French Guiana,GF,GUF,254,Urban,16,Other unimproved,0.0,CENSUS 2010 - CEN10
+French Guiana,GF,GUF,254,Urban,17,DK/missing information,0.0,CENSUS 2010 - CEN10
+French Guiana,GF,GUF,254,Rural,1,Flush and pour flush - to piped sewer system,0.0,CENSUS 2010 - CEN10
+French Guiana,GF,GUF,254,Rural,2,Flush and pour flush - to septic tank,0.0,CENSUS 2010 - CEN10
+French Guiana,GF,GUF,254,Rural,3,Flush and pour flush - to pit,0.0,CENSUS 2010 - CEN10
+French Guiana,GF,GUF,254,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,CENSUS 2010 - CEN10
+French Guiana,GF,GUF,254,Rural,5,Flush and pour flush - to elsewhere,0.0,CENSUS 2010 - CEN10
+French Guiana,GF,GUF,254,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,CENSUS 2010 - CEN10
+French Guiana,GF,GUF,254,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,CENSUS 2010 - CEN10
+French Guiana,GF,GUF,254,Rural,8,Dry latrines - Traditional latrine,0.0,CENSUS 2010 - CEN10
+French Guiana,GF,GUF,254,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,CENSUS 2010 - CEN10
+French Guiana,GF,GUF,254,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,CENSUS 2010 - CEN10
+French Guiana,GF,GUF,254,Rural,11,Dry latrines - Bucket latrine,0.0,CENSUS 2010 - CEN10
+French Guiana,GF,GUF,254,Rural,12,Dry latrines - Other,0.0,CENSUS 2010 - CEN10
+French Guiana,GF,GUF,254,Rural,13,Composting toilets,0.0,CENSUS 2010 - CEN10
+French Guiana,GF,GUF,254,Rural,14,Other improved,0.0,CENSUS 2010 - CEN10
+French Guiana,GF,GUF,254,Rural,15,"No facility, bush, field",0.0,CENSUS 2010 - CEN10
+French Guiana,GF,GUF,254,Rural,16,Other unimproved,0.0,CENSUS 2010 - CEN10
+French Guiana,GF,GUF,254,Rural,17,DK/missing information,0.0,CENSUS 2010 - CEN10
+French Guiana,GF,GUF,254,National,1,Flush and pour flush - to piped sewer system,0.388,CENSUS 2010 - CEN10
+French Guiana,GF,GUF,254,National,2,Flush and pour flush - to septic tank,0.425,CENSUS 2010 - CEN10
+French Guiana,GF,GUF,254,National,3,Flush and pour flush - to pit,0.045,CENSUS 2010 - CEN10
+French Guiana,GF,GUF,254,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,CENSUS 2010 - CEN10
+French Guiana,GF,GUF,254,National,5,Flush and pour flush - to elsewhere,0.0,CENSUS 2010 - CEN10
+French Guiana,GF,GUF,254,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,CENSUS 2010 - CEN10
+French Guiana,GF,GUF,254,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,CENSUS 2010 - CEN10
+French Guiana,GF,GUF,254,National,8,Dry latrines - Traditional latrine,0.141,CENSUS 2010 - CEN10
+French Guiana,GF,GUF,254,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,CENSUS 2010 - CEN10
+French Guiana,GF,GUF,254,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,CENSUS 2010 - CEN10
+French Guiana,GF,GUF,254,National,11,Dry latrines - Bucket latrine,0.0,CENSUS 2010 - CEN10
+French Guiana,GF,GUF,254,National,12,Dry latrines - Other,0.0,CENSUS 2010 - CEN10
+French Guiana,GF,GUF,254,National,13,Composting toilets,0.0,CENSUS 2010 - CEN10
+French Guiana,GF,GUF,254,National,14,Other improved,0.0,CENSUS 2010 - CEN10
+French Guiana,GF,GUF,254,National,15,"No facility, bush, field",0.0,CENSUS 2010 - CEN10
+French Guiana,GF,GUF,254,National,16,Other unimproved,0.0,CENSUS 2010 - CEN10
+French Guiana,GF,GUF,254,National,17,DK/missing information,0.0,CENSUS 2010 - CEN10
+French Guiana,GF,GUF,254,Urban,1,Flush and pour flush - to piped sewer system,0.0,CENSUS 2011 - CEN11
+French Guiana,GF,GUF,254,Urban,2,Flush and pour flush - to septic tank,0.0,CENSUS 2011 - CEN11
+French Guiana,GF,GUF,254,Urban,3,Flush and pour flush - to pit,0.0,CENSUS 2011 - CEN11
+French Guiana,GF,GUF,254,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,CENSUS 2011 - CEN11
+French Guiana,GF,GUF,254,Urban,5,Flush and pour flush - to elsewhere,0.0,CENSUS 2011 - CEN11
+French Guiana,GF,GUF,254,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,CENSUS 2011 - CEN11
+French Guiana,GF,GUF,254,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,CENSUS 2011 - CEN11
+French Guiana,GF,GUF,254,Urban,8,Dry latrines - Traditional latrine,0.0,CENSUS 2011 - CEN11
+French Guiana,GF,GUF,254,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,CENSUS 2011 - CEN11
+French Guiana,GF,GUF,254,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,CENSUS 2011 - CEN11
+French Guiana,GF,GUF,254,Urban,11,Dry latrines - Bucket latrine,0.0,CENSUS 2011 - CEN11
+French Guiana,GF,GUF,254,Urban,12,Dry latrines - Other,0.0,CENSUS 2011 - CEN11
+French Guiana,GF,GUF,254,Urban,13,Composting toilets,0.0,CENSUS 2011 - CEN11
+French Guiana,GF,GUF,254,Urban,14,Other improved,0.0,CENSUS 2011 - CEN11
+French Guiana,GF,GUF,254,Urban,15,"No facility, bush, field",0.0,CENSUS 2011 - CEN11
+French Guiana,GF,GUF,254,Urban,16,Other unimproved,0.0,CENSUS 2011 - CEN11
+French Guiana,GF,GUF,254,Urban,17,DK/missing information,0.0,CENSUS 2011 - CEN11
+French Guiana,GF,GUF,254,Rural,1,Flush and pour flush - to piped sewer system,0.0,CENSUS 2011 - CEN11
+French Guiana,GF,GUF,254,Rural,2,Flush and pour flush - to septic tank,0.0,CENSUS 2011 - CEN11
+French Guiana,GF,GUF,254,Rural,3,Flush and pour flush - to pit,0.0,CENSUS 2011 - CEN11
+French Guiana,GF,GUF,254,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,CENSUS 2011 - CEN11
+French Guiana,GF,GUF,254,Rural,5,Flush and pour flush - to elsewhere,0.0,CENSUS 2011 - CEN11
+French Guiana,GF,GUF,254,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,CENSUS 2011 - CEN11
+French Guiana,GF,GUF,254,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,CENSUS 2011 - CEN11
+French Guiana,GF,GUF,254,Rural,8,Dry latrines - Traditional latrine,0.0,CENSUS 2011 - CEN11
+French Guiana,GF,GUF,254,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,CENSUS 2011 - CEN11
+French Guiana,GF,GUF,254,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,CENSUS 2011 - CEN11
+French Guiana,GF,GUF,254,Rural,11,Dry latrines - Bucket latrine,0.0,CENSUS 2011 - CEN11
+French Guiana,GF,GUF,254,Rural,12,Dry latrines - Other,0.0,CENSUS 2011 - CEN11
+French Guiana,GF,GUF,254,Rural,13,Composting toilets,0.0,CENSUS 2011 - CEN11
+French Guiana,GF,GUF,254,Rural,14,Other improved,0.0,CENSUS 2011 - CEN11
+French Guiana,GF,GUF,254,Rural,15,"No facility, bush, field",0.0,CENSUS 2011 - CEN11
+French Guiana,GF,GUF,254,Rural,16,Other unimproved,0.0,CENSUS 2011 - CEN11
+French Guiana,GF,GUF,254,Rural,17,DK/missing information,0.0,CENSUS 2011 - CEN11
+French Guiana,GF,GUF,254,National,1,Flush and pour flush - to piped sewer system,0.404,CENSUS 2011 - CEN11
+French Guiana,GF,GUF,254,National,2,Flush and pour flush - to septic tank,0.412,CENSUS 2011 - CEN11
+French Guiana,GF,GUF,254,National,3,Flush and pour flush - to pit,0.048,CENSUS 2011 - CEN11
+French Guiana,GF,GUF,254,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,CENSUS 2011 - CEN11
+French Guiana,GF,GUF,254,National,5,Flush and pour flush - to elsewhere,0.0,CENSUS 2011 - CEN11
+French Guiana,GF,GUF,254,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,CENSUS 2011 - CEN11
+French Guiana,GF,GUF,254,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,CENSUS 2011 - CEN11
+French Guiana,GF,GUF,254,National,8,Dry latrines - Traditional latrine,0.136,CENSUS 2011 - CEN11
+French Guiana,GF,GUF,254,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,CENSUS 2011 - CEN11
+French Guiana,GF,GUF,254,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,CENSUS 2011 - CEN11
+French Guiana,GF,GUF,254,National,11,Dry latrines - Bucket latrine,0.0,CENSUS 2011 - CEN11
+French Guiana,GF,GUF,254,National,12,Dry latrines - Other,0.0,CENSUS 2011 - CEN11
+French Guiana,GF,GUF,254,National,13,Composting toilets,0.0,CENSUS 2011 - CEN11
+French Guiana,GF,GUF,254,National,14,Other improved,0.0,CENSUS 2011 - CEN11
+French Guiana,GF,GUF,254,National,15,"No facility, bush, field",0.0,CENSUS 2011 - CEN11
+French Guiana,GF,GUF,254,National,16,Other unimproved,0.0,CENSUS 2011 - CEN11
+French Guiana,GF,GUF,254,National,17,DK/missing information,0.0,CENSUS 2011 - CEN11
+French Guiana,GF,GUF,254,Urban,1,Flush and pour flush - to piped sewer system,0.0,CENSUS 2012 - CEN12
+French Guiana,GF,GUF,254,Urban,2,Flush and pour flush - to septic tank,0.0,CENSUS 2012 - CEN12
+French Guiana,GF,GUF,254,Urban,3,Flush and pour flush - to pit,0.0,CENSUS 2012 - CEN12
+French Guiana,GF,GUF,254,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,CENSUS 2012 - CEN12
+French Guiana,GF,GUF,254,Urban,5,Flush and pour flush - to elsewhere,0.0,CENSUS 2012 - CEN12
+French Guiana,GF,GUF,254,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,CENSUS 2012 - CEN12
+French Guiana,GF,GUF,254,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,CENSUS 2012 - CEN12
+French Guiana,GF,GUF,254,Urban,8,Dry latrines - Traditional latrine,0.0,CENSUS 2012 - CEN12
+French Guiana,GF,GUF,254,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,CENSUS 2012 - CEN12
+French Guiana,GF,GUF,254,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,CENSUS 2012 - CEN12
+French Guiana,GF,GUF,254,Urban,11,Dry latrines - Bucket latrine,0.0,CENSUS 2012 - CEN12
+French Guiana,GF,GUF,254,Urban,12,Dry latrines - Other,0.0,CENSUS 2012 - CEN12
+French Guiana,GF,GUF,254,Urban,13,Composting toilets,0.0,CENSUS 2012 - CEN12
+French Guiana,GF,GUF,254,Urban,14,Other improved,0.0,CENSUS 2012 - CEN12
+French Guiana,GF,GUF,254,Urban,15,"No facility, bush, field",0.0,CENSUS 2012 - CEN12
+French Guiana,GF,GUF,254,Urban,16,Other unimproved,0.0,CENSUS 2012 - CEN12
+French Guiana,GF,GUF,254,Urban,17,DK/missing information,0.0,CENSUS 2012 - CEN12
+French Guiana,GF,GUF,254,Rural,1,Flush and pour flush - to piped sewer system,0.0,CENSUS 2012 - CEN12
+French Guiana,GF,GUF,254,Rural,2,Flush and pour flush - to septic tank,0.0,CENSUS 2012 - CEN12
+French Guiana,GF,GUF,254,Rural,3,Flush and pour flush - to pit,0.0,CENSUS 2012 - CEN12
+French Guiana,GF,GUF,254,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,CENSUS 2012 - CEN12
+French Guiana,GF,GUF,254,Rural,5,Flush and pour flush - to elsewhere,0.0,CENSUS 2012 - CEN12
+French Guiana,GF,GUF,254,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,CENSUS 2012 - CEN12
+French Guiana,GF,GUF,254,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,CENSUS 2012 - CEN12
+French Guiana,GF,GUF,254,Rural,8,Dry latrines - Traditional latrine,0.0,CENSUS 2012 - CEN12
+French Guiana,GF,GUF,254,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,CENSUS 2012 - CEN12
+French Guiana,GF,GUF,254,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,CENSUS 2012 - CEN12
+French Guiana,GF,GUF,254,Rural,11,Dry latrines - Bucket latrine,0.0,CENSUS 2012 - CEN12
+French Guiana,GF,GUF,254,Rural,12,Dry latrines - Other,0.0,CENSUS 2012 - CEN12
+French Guiana,GF,GUF,254,Rural,13,Composting toilets,0.0,CENSUS 2012 - CEN12
+French Guiana,GF,GUF,254,Rural,14,Other improved,0.0,CENSUS 2012 - CEN12
+French Guiana,GF,GUF,254,Rural,15,"No facility, bush, field",0.0,CENSUS 2012 - CEN12
+French Guiana,GF,GUF,254,Rural,16,Other unimproved,0.0,CENSUS 2012 - CEN12
+French Guiana,GF,GUF,254,Rural,17,DK/missing information,0.0,CENSUS 2012 - CEN12
+French Guiana,GF,GUF,254,National,1,Flush and pour flush - to piped sewer system,0.407,CENSUS 2012 - CEN12
+French Guiana,GF,GUF,254,National,2,Flush and pour flush - to septic tank,0.414,CENSUS 2012 - CEN12
+French Guiana,GF,GUF,254,National,3,Flush and pour flush - to pit,0.044,CENSUS 2012 - CEN12
+French Guiana,GF,GUF,254,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,CENSUS 2012 - CEN12
+French Guiana,GF,GUF,254,National,5,Flush and pour flush - to elsewhere,0.0,CENSUS 2012 - CEN12
+French Guiana,GF,GUF,254,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,CENSUS 2012 - CEN12
+French Guiana,GF,GUF,254,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,CENSUS 2012 - CEN12
+French Guiana,GF,GUF,254,National,8,Dry latrines - Traditional latrine,0.136,CENSUS 2012 - CEN12
+French Guiana,GF,GUF,254,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,CENSUS 2012 - CEN12
+French Guiana,GF,GUF,254,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,CENSUS 2012 - CEN12
+French Guiana,GF,GUF,254,National,11,Dry latrines - Bucket latrine,0.0,CENSUS 2012 - CEN12
+French Guiana,GF,GUF,254,National,12,Dry latrines - Other,0.0,CENSUS 2012 - CEN12
+French Guiana,GF,GUF,254,National,13,Composting toilets,0.0,CENSUS 2012 - CEN12
+French Guiana,GF,GUF,254,National,14,Other improved,0.0,CENSUS 2012 - CEN12
+French Guiana,GF,GUF,254,National,15,"No facility, bush, field",0.0,CENSUS 2012 - CEN12
+French Guiana,GF,GUF,254,National,16,Other unimproved,0.0,CENSUS 2012 - CEN12
+French Guiana,GF,GUF,254,National,17,DK/missing information,0.0,CENSUS 2012 - CEN12
+French Guiana,GF,GUF,254,Urban,1,Flush and pour flush - to piped sewer system,0.0,Enquete logement 2013 - EL13
+French Guiana,GF,GUF,254,Urban,2,Flush and pour flush - to septic tank,0.0,Enquete logement 2013 - EL13
+French Guiana,GF,GUF,254,Urban,3,Flush and pour flush - to pit,0.0,Enquete logement 2013 - EL13
+French Guiana,GF,GUF,254,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquete logement 2013 - EL13
+French Guiana,GF,GUF,254,Urban,5,Flush and pour flush - to elsewhere,0.0,Enquete logement 2013 - EL13
+French Guiana,GF,GUF,254,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Enquete logement 2013 - EL13
+French Guiana,GF,GUF,254,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Enquete logement 2013 - EL13
+French Guiana,GF,GUF,254,Urban,8,Dry latrines - Traditional latrine,0.0,Enquete logement 2013 - EL13
+French Guiana,GF,GUF,254,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Enquete logement 2013 - EL13
+French Guiana,GF,GUF,254,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquete logement 2013 - EL13
+French Guiana,GF,GUF,254,Urban,11,Dry latrines - Bucket latrine,0.0,Enquete logement 2013 - EL13
+French Guiana,GF,GUF,254,Urban,12,Dry latrines - Other,0.0,Enquete logement 2013 - EL13
+French Guiana,GF,GUF,254,Urban,13,Composting toilets,0.0,Enquete logement 2013 - EL13
+French Guiana,GF,GUF,254,Urban,14,Other improved,0.0,Enquete logement 2013 - EL13
+French Guiana,GF,GUF,254,Urban,15,"No facility, bush, field",0.0,Enquete logement 2013 - EL13
+French Guiana,GF,GUF,254,Urban,16,Other unimproved,0.0,Enquete logement 2013 - EL13
+French Guiana,GF,GUF,254,Urban,17,DK/missing information,0.0,Enquete logement 2013 - EL13
+French Guiana,GF,GUF,254,Rural,1,Flush and pour flush - to piped sewer system,0.0,Enquete logement 2013 - EL13
+French Guiana,GF,GUF,254,Rural,2,Flush and pour flush - to septic tank,0.0,Enquete logement 2013 - EL13
+French Guiana,GF,GUF,254,Rural,3,Flush and pour flush - to pit,0.0,Enquete logement 2013 - EL13
+French Guiana,GF,GUF,254,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquete logement 2013 - EL13
+French Guiana,GF,GUF,254,Rural,5,Flush and pour flush - to elsewhere,0.0,Enquete logement 2013 - EL13
+French Guiana,GF,GUF,254,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Enquete logement 2013 - EL13
+French Guiana,GF,GUF,254,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Enquete logement 2013 - EL13
+French Guiana,GF,GUF,254,Rural,8,Dry latrines - Traditional latrine,0.0,Enquete logement 2013 - EL13
+French Guiana,GF,GUF,254,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Enquete logement 2013 - EL13
+French Guiana,GF,GUF,254,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquete logement 2013 - EL13
+French Guiana,GF,GUF,254,Rural,11,Dry latrines - Bucket latrine,0.0,Enquete logement 2013 - EL13
+French Guiana,GF,GUF,254,Rural,12,Dry latrines - Other,0.0,Enquete logement 2013 - EL13
+French Guiana,GF,GUF,254,Rural,13,Composting toilets,0.0,Enquete logement 2013 - EL13
+French Guiana,GF,GUF,254,Rural,14,Other improved,0.0,Enquete logement 2013 - EL13
+French Guiana,GF,GUF,254,Rural,15,"No facility, bush, field",0.0,Enquete logement 2013 - EL13
+French Guiana,GF,GUF,254,Rural,16,Other unimproved,0.0,Enquete logement 2013 - EL13
+French Guiana,GF,GUF,254,Rural,17,DK/missing information,0.0,Enquete logement 2013 - EL13
+French Guiana,GF,GUF,254,National,1,Flush and pour flush - to piped sewer system,0.0,Enquete logement 2013 - EL13
+French Guiana,GF,GUF,254,National,2,Flush and pour flush - to septic tank,0.0,Enquete logement 2013 - EL13
+French Guiana,GF,GUF,254,National,3,Flush and pour flush - to pit,0.0,Enquete logement 2013 - EL13
+French Guiana,GF,GUF,254,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquete logement 2013 - EL13
+French Guiana,GF,GUF,254,National,5,Flush and pour flush - to elsewhere,0.0,Enquete logement 2013 - EL13
+French Guiana,GF,GUF,254,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Enquete logement 2013 - EL13
+French Guiana,GF,GUF,254,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Enquete logement 2013 - EL13
+French Guiana,GF,GUF,254,National,8,Dry latrines - Traditional latrine,0.0,Enquete logement 2013 - EL13
+French Guiana,GF,GUF,254,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Enquete logement 2013 - EL13
+French Guiana,GF,GUF,254,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquete logement 2013 - EL13
+French Guiana,GF,GUF,254,National,11,Dry latrines - Bucket latrine,0.0,Enquete logement 2013 - EL13
+French Guiana,GF,GUF,254,National,12,Dry latrines - Other,0.0,Enquete logement 2013 - EL13
+French Guiana,GF,GUF,254,National,13,Composting toilets,0.0,Enquete logement 2013 - EL13
+French Guiana,GF,GUF,254,National,14,Other improved,0.0,Enquete logement 2013 - EL13
+French Guiana,GF,GUF,254,National,15,"No facility, bush, field",0.0,Enquete logement 2013 - EL13
+French Guiana,GF,GUF,254,National,16,Other unimproved,0.136,Enquete logement 2013 - EL13
+French Guiana,GF,GUF,254,National,17,DK/missing information,0.0,Enquete logement 2013 - EL13
+French Guiana,GF,GUF,254,Urban,1,Flush and pour flush - to piped sewer system,0.0,CENSUS 2013 - CEN13
+French Guiana,GF,GUF,254,Urban,2,Flush and pour flush - to septic tank,0.0,CENSUS 2013 - CEN13
+French Guiana,GF,GUF,254,Urban,3,Flush and pour flush - to pit,0.0,CENSUS 2013 - CEN13
+French Guiana,GF,GUF,254,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,CENSUS 2013 - CEN13
+French Guiana,GF,GUF,254,Urban,5,Flush and pour flush - to elsewhere,0.0,CENSUS 2013 - CEN13
+French Guiana,GF,GUF,254,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,CENSUS 2013 - CEN13
+French Guiana,GF,GUF,254,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,CENSUS 2013 - CEN13
+French Guiana,GF,GUF,254,Urban,8,Dry latrines - Traditional latrine,0.0,CENSUS 2013 - CEN13
+French Guiana,GF,GUF,254,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,CENSUS 2013 - CEN13
+French Guiana,GF,GUF,254,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,CENSUS 2013 - CEN13
+French Guiana,GF,GUF,254,Urban,11,Dry latrines - Bucket latrine,0.0,CENSUS 2013 - CEN13
+French Guiana,GF,GUF,254,Urban,12,Dry latrines - Other,0.0,CENSUS 2013 - CEN13
+French Guiana,GF,GUF,254,Urban,13,Composting toilets,0.0,CENSUS 2013 - CEN13
+French Guiana,GF,GUF,254,Urban,14,Other improved,0.0,CENSUS 2013 - CEN13
+French Guiana,GF,GUF,254,Urban,15,"No facility, bush, field",0.0,CENSUS 2013 - CEN13
+French Guiana,GF,GUF,254,Urban,16,Other unimproved,0.0,CENSUS 2013 - CEN13
+French Guiana,GF,GUF,254,Urban,17,DK/missing information,0.0,CENSUS 2013 - CEN13
+French Guiana,GF,GUF,254,Rural,1,Flush and pour flush - to piped sewer system,0.0,CENSUS 2013 - CEN13
+French Guiana,GF,GUF,254,Rural,2,Flush and pour flush - to septic tank,0.0,CENSUS 2013 - CEN13
+French Guiana,GF,GUF,254,Rural,3,Flush and pour flush - to pit,0.0,CENSUS 2013 - CEN13
+French Guiana,GF,GUF,254,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,CENSUS 2013 - CEN13
+French Guiana,GF,GUF,254,Rural,5,Flush and pour flush - to elsewhere,0.0,CENSUS 2013 - CEN13
+French Guiana,GF,GUF,254,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,CENSUS 2013 - CEN13
+French Guiana,GF,GUF,254,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,CENSUS 2013 - CEN13
+French Guiana,GF,GUF,254,Rural,8,Dry latrines - Traditional latrine,0.0,CENSUS 2013 - CEN13
+French Guiana,GF,GUF,254,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,CENSUS 2013 - CEN13
+French Guiana,GF,GUF,254,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,CENSUS 2013 - CEN13
+French Guiana,GF,GUF,254,Rural,11,Dry latrines - Bucket latrine,0.0,CENSUS 2013 - CEN13
+French Guiana,GF,GUF,254,Rural,12,Dry latrines - Other,0.0,CENSUS 2013 - CEN13
+French Guiana,GF,GUF,254,Rural,13,Composting toilets,0.0,CENSUS 2013 - CEN13
+French Guiana,GF,GUF,254,Rural,14,Other improved,0.0,CENSUS 2013 - CEN13
+French Guiana,GF,GUF,254,Rural,15,"No facility, bush, field",0.0,CENSUS 2013 - CEN13
+French Guiana,GF,GUF,254,Rural,16,Other unimproved,0.0,CENSUS 2013 - CEN13
+French Guiana,GF,GUF,254,Rural,17,DK/missing information,0.0,CENSUS 2013 - CEN13
+French Guiana,GF,GUF,254,National,1,Flush and pour flush - to piped sewer system,0.794,CENSUS 2013 - CEN13
+French Guiana,GF,GUF,254,National,2,Flush and pour flush - to septic tank,0.011,CENSUS 2013 - CEN13
+French Guiana,GF,GUF,254,National,3,Flush and pour flush - to pit,0.012,CENSUS 2013 - CEN13
+French Guiana,GF,GUF,254,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,CENSUS 2013 - CEN13
+French Guiana,GF,GUF,254,National,5,Flush and pour flush - to elsewhere,0.0,CENSUS 2013 - CEN13
+French Guiana,GF,GUF,254,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,CENSUS 2013 - CEN13
+French Guiana,GF,GUF,254,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,CENSUS 2013 - CEN13
+French Guiana,GF,GUF,254,National,8,Dry latrines - Traditional latrine,0.175,CENSUS 2013 - CEN13
+French Guiana,GF,GUF,254,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,CENSUS 2013 - CEN13
+French Guiana,GF,GUF,254,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,CENSUS 2013 - CEN13
+French Guiana,GF,GUF,254,National,11,Dry latrines - Bucket latrine,0.0,CENSUS 2013 - CEN13
+French Guiana,GF,GUF,254,National,12,Dry latrines - Other,0.0,CENSUS 2013 - CEN13
+French Guiana,GF,GUF,254,National,13,Composting toilets,0.0,CENSUS 2013 - CEN13
+French Guiana,GF,GUF,254,National,14,Other improved,0.0,CENSUS 2013 - CEN13
+French Guiana,GF,GUF,254,National,15,"No facility, bush, field",0.0,CENSUS 2013 - CEN13
+French Guiana,GF,GUF,254,National,16,Other unimproved,0.0,CENSUS 2013 - CEN13
+French Guiana,GF,GUF,254,National,17,DK/missing information,0.008,CENSUS 2013 - CEN13
+French Guiana,GF,GUF,254,Urban,1,Flush and pour flush - to piped sewer system,0.0,CENSUS 2014 - CEN14
+French Guiana,GF,GUF,254,Urban,2,Flush and pour flush - to septic tank,0.0,CENSUS 2014 - CEN14
+French Guiana,GF,GUF,254,Urban,3,Flush and pour flush - to pit,0.0,CENSUS 2014 - CEN14
+French Guiana,GF,GUF,254,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,CENSUS 2014 - CEN14
+French Guiana,GF,GUF,254,Urban,5,Flush and pour flush - to elsewhere,0.0,CENSUS 2014 - CEN14
+French Guiana,GF,GUF,254,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,CENSUS 2014 - CEN14
+French Guiana,GF,GUF,254,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,CENSUS 2014 - CEN14
+French Guiana,GF,GUF,254,Urban,8,Dry latrines - Traditional latrine,0.0,CENSUS 2014 - CEN14
+French Guiana,GF,GUF,254,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,CENSUS 2014 - CEN14
+French Guiana,GF,GUF,254,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,CENSUS 2014 - CEN14
+French Guiana,GF,GUF,254,Urban,11,Dry latrines - Bucket latrine,0.0,CENSUS 2014 - CEN14
+French Guiana,GF,GUF,254,Urban,12,Dry latrines - Other,0.0,CENSUS 2014 - CEN14
+French Guiana,GF,GUF,254,Urban,13,Composting toilets,0.0,CENSUS 2014 - CEN14
+French Guiana,GF,GUF,254,Urban,14,Other improved,0.0,CENSUS 2014 - CEN14
+French Guiana,GF,GUF,254,Urban,15,"No facility, bush, field",0.0,CENSUS 2014 - CEN14
+French Guiana,GF,GUF,254,Urban,16,Other unimproved,0.0,CENSUS 2014 - CEN14
+French Guiana,GF,GUF,254,Urban,17,DK/missing information,0.0,CENSUS 2014 - CEN14
+French Guiana,GF,GUF,254,Rural,1,Flush and pour flush - to piped sewer system,0.0,CENSUS 2014 - CEN14
+French Guiana,GF,GUF,254,Rural,2,Flush and pour flush - to septic tank,0.0,CENSUS 2014 - CEN14
+French Guiana,GF,GUF,254,Rural,3,Flush and pour flush - to pit,0.0,CENSUS 2014 - CEN14
+French Guiana,GF,GUF,254,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,CENSUS 2014 - CEN14
+French Guiana,GF,GUF,254,Rural,5,Flush and pour flush - to elsewhere,0.0,CENSUS 2014 - CEN14
+French Guiana,GF,GUF,254,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,CENSUS 2014 - CEN14
+French Guiana,GF,GUF,254,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,CENSUS 2014 - CEN14
+French Guiana,GF,GUF,254,Rural,8,Dry latrines - Traditional latrine,0.0,CENSUS 2014 - CEN14
+French Guiana,GF,GUF,254,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,CENSUS 2014 - CEN14
+French Guiana,GF,GUF,254,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,CENSUS 2014 - CEN14
+French Guiana,GF,GUF,254,Rural,11,Dry latrines - Bucket latrine,0.0,CENSUS 2014 - CEN14
+French Guiana,GF,GUF,254,Rural,12,Dry latrines - Other,0.0,CENSUS 2014 - CEN14
+French Guiana,GF,GUF,254,Rural,13,Composting toilets,0.0,CENSUS 2014 - CEN14
+French Guiana,GF,GUF,254,Rural,14,Other improved,0.0,CENSUS 2014 - CEN14
+French Guiana,GF,GUF,254,Rural,15,"No facility, bush, field",0.0,CENSUS 2014 - CEN14
+French Guiana,GF,GUF,254,Rural,16,Other unimproved,0.0,CENSUS 2014 - CEN14
+French Guiana,GF,GUF,254,Rural,17,DK/missing information,0.0,CENSUS 2014 - CEN14
+French Guiana,GF,GUF,254,National,1,Flush and pour flush - to piped sewer system,0.441,CENSUS 2014 - CEN14
+French Guiana,GF,GUF,254,National,2,Flush and pour flush - to septic tank,0.388,CENSUS 2014 - CEN14
+French Guiana,GF,GUF,254,National,3,Flush and pour flush - to pit,0.044,CENSUS 2014 - CEN14
+French Guiana,GF,GUF,254,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,CENSUS 2014 - CEN14
+French Guiana,GF,GUF,254,National,5,Flush and pour flush - to elsewhere,0.0,CENSUS 2014 - CEN14
+French Guiana,GF,GUF,254,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,CENSUS 2014 - CEN14
+French Guiana,GF,GUF,254,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,CENSUS 2014 - CEN14
+French Guiana,GF,GUF,254,National,8,Dry latrines - Traditional latrine,0.128,CENSUS 2014 - CEN14
+French Guiana,GF,GUF,254,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,CENSUS 2014 - CEN14
+French Guiana,GF,GUF,254,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,CENSUS 2014 - CEN14
+French Guiana,GF,GUF,254,National,11,Dry latrines - Bucket latrine,0.0,CENSUS 2014 - CEN14
+French Guiana,GF,GUF,254,National,12,Dry latrines - Other,0.0,CENSUS 2014 - CEN14
+French Guiana,GF,GUF,254,National,13,Composting toilets,0.0,CENSUS 2014 - CEN14
+French Guiana,GF,GUF,254,National,14,Other improved,0.0,CENSUS 2014 - CEN14
+French Guiana,GF,GUF,254,National,15,"No facility, bush, field",0.0,CENSUS 2014 - CEN14
+French Guiana,GF,GUF,254,National,16,Other unimproved,0.0,CENSUS 2014 - CEN14
+French Guiana,GF,GUF,254,National,17,DK/missing information,0.0,CENSUS 2014 - CEN14
+French Guiana,GF,GUF,254,Urban,1,Flush and pour flush - to piped sewer system,0.0,CENSUS 2015 - CEN15
+French Guiana,GF,GUF,254,Urban,2,Flush and pour flush - to septic tank,0.0,CENSUS 2015 - CEN15
+French Guiana,GF,GUF,254,Urban,3,Flush and pour flush - to pit,0.0,CENSUS 2015 - CEN15
+French Guiana,GF,GUF,254,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,CENSUS 2015 - CEN15
+French Guiana,GF,GUF,254,Urban,5,Flush and pour flush - to elsewhere,0.0,CENSUS 2015 - CEN15
+French Guiana,GF,GUF,254,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,CENSUS 2015 - CEN15
+French Guiana,GF,GUF,254,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,CENSUS 2015 - CEN15
+French Guiana,GF,GUF,254,Urban,8,Dry latrines - Traditional latrine,0.0,CENSUS 2015 - CEN15
+French Guiana,GF,GUF,254,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,CENSUS 2015 - CEN15
+French Guiana,GF,GUF,254,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,CENSUS 2015 - CEN15
+French Guiana,GF,GUF,254,Urban,11,Dry latrines - Bucket latrine,0.0,CENSUS 2015 - CEN15
+French Guiana,GF,GUF,254,Urban,12,Dry latrines - Other,0.0,CENSUS 2015 - CEN15
+French Guiana,GF,GUF,254,Urban,13,Composting toilets,0.0,CENSUS 2015 - CEN15
+French Guiana,GF,GUF,254,Urban,14,Other improved,0.0,CENSUS 2015 - CEN15
+French Guiana,GF,GUF,254,Urban,15,"No facility, bush, field",0.0,CENSUS 2015 - CEN15
+French Guiana,GF,GUF,254,Urban,16,Other unimproved,0.0,CENSUS 2015 - CEN15
+French Guiana,GF,GUF,254,Urban,17,DK/missing information,0.0,CENSUS 2015 - CEN15
+French Guiana,GF,GUF,254,Rural,1,Flush and pour flush - to piped sewer system,0.0,CENSUS 2015 - CEN15
+French Guiana,GF,GUF,254,Rural,2,Flush and pour flush - to septic tank,0.0,CENSUS 2015 - CEN15
+French Guiana,GF,GUF,254,Rural,3,Flush and pour flush - to pit,0.0,CENSUS 2015 - CEN15
+French Guiana,GF,GUF,254,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,CENSUS 2015 - CEN15
+French Guiana,GF,GUF,254,Rural,5,Flush and pour flush - to elsewhere,0.0,CENSUS 2015 - CEN15
+French Guiana,GF,GUF,254,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,CENSUS 2015 - CEN15
+French Guiana,GF,GUF,254,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,CENSUS 2015 - CEN15
+French Guiana,GF,GUF,254,Rural,8,Dry latrines - Traditional latrine,0.0,CENSUS 2015 - CEN15
+French Guiana,GF,GUF,254,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,CENSUS 2015 - CEN15
+French Guiana,GF,GUF,254,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,CENSUS 2015 - CEN15
+French Guiana,GF,GUF,254,Rural,11,Dry latrines - Bucket latrine,0.0,CENSUS 2015 - CEN15
+French Guiana,GF,GUF,254,Rural,12,Dry latrines - Other,0.0,CENSUS 2015 - CEN15
+French Guiana,GF,GUF,254,Rural,13,Composting toilets,0.0,CENSUS 2015 - CEN15
+French Guiana,GF,GUF,254,Rural,14,Other improved,0.0,CENSUS 2015 - CEN15
+French Guiana,GF,GUF,254,Rural,15,"No facility, bush, field",0.0,CENSUS 2015 - CEN15
+French Guiana,GF,GUF,254,Rural,16,Other unimproved,0.0,CENSUS 2015 - CEN15
+French Guiana,GF,GUF,254,Rural,17,DK/missing information,0.0,CENSUS 2015 - CEN15
+French Guiana,GF,GUF,254,National,1,Flush and pour flush - to piped sewer system,0.444,CENSUS 2015 - CEN15
+French Guiana,GF,GUF,254,National,2,Flush and pour flush - to septic tank,0.383,CENSUS 2015 - CEN15
+French Guiana,GF,GUF,254,National,3,Flush and pour flush - to pit,0.038,CENSUS 2015 - CEN15
+French Guiana,GF,GUF,254,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,CENSUS 2015 - CEN15
+French Guiana,GF,GUF,254,National,5,Flush and pour flush - to elsewhere,0.0,CENSUS 2015 - CEN15
+French Guiana,GF,GUF,254,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,CENSUS 2015 - CEN15
+French Guiana,GF,GUF,254,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,CENSUS 2015 - CEN15
+French Guiana,GF,GUF,254,National,8,Dry latrines - Traditional latrine,0.135,CENSUS 2015 - CEN15
+French Guiana,GF,GUF,254,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,CENSUS 2015 - CEN15
+French Guiana,GF,GUF,254,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,CENSUS 2015 - CEN15
+French Guiana,GF,GUF,254,National,11,Dry latrines - Bucket latrine,0.0,CENSUS 2015 - CEN15
+French Guiana,GF,GUF,254,National,12,Dry latrines - Other,0.0,CENSUS 2015 - CEN15
+French Guiana,GF,GUF,254,National,13,Composting toilets,0.0,CENSUS 2015 - CEN15
+French Guiana,GF,GUF,254,National,14,Other improved,0.0,CENSUS 2015 - CEN15
+French Guiana,GF,GUF,254,National,15,"No facility, bush, field",0.0,CENSUS 2015 - CEN15
+French Guiana,GF,GUF,254,National,16,Other unimproved,0.0,CENSUS 2015 - CEN15
+French Guiana,GF,GUF,254,National,17,DK/missing information,0.0,CENSUS 2015 - CEN15

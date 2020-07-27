@@ -1,0 +1,562 @@
+country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+Denmark,DK,DNK,208,Urban,1,Flush and pour flush - to piped sewer system,0.0,EUROSTAT - ES14
+Denmark,DK,DNK,208,Urban,2,Flush and pour flush - to septic tank,0.0,EUROSTAT - ES14
+Denmark,DK,DNK,208,Urban,3,Flush and pour flush - to pit,0.0,EUROSTAT - ES14
+Denmark,DK,DNK,208,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,EUROSTAT - ES14
+Denmark,DK,DNK,208,Urban,5,Flush and pour flush - to elsewhere,0.0,EUROSTAT - ES14
+Denmark,DK,DNK,208,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,EUROSTAT - ES14
+Denmark,DK,DNK,208,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,EUROSTAT - ES14
+Denmark,DK,DNK,208,Urban,8,Dry latrines - Traditional latrine,0.0,EUROSTAT - ES14
+Denmark,DK,DNK,208,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,EUROSTAT - ES14
+Denmark,DK,DNK,208,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,EUROSTAT - ES14
+Denmark,DK,DNK,208,Urban,11,Dry latrines - Bucket latrine,0.0,EUROSTAT - ES14
+Denmark,DK,DNK,208,Urban,12,Dry latrines - Other,0.0,EUROSTAT - ES14
+Denmark,DK,DNK,208,Urban,13,Composting toilets,0.0,EUROSTAT - ES14
+Denmark,DK,DNK,208,Urban,14,Other improved,0.0,EUROSTAT - ES14
+Denmark,DK,DNK,208,Urban,15,"No facility, bush, field",0.0,EUROSTAT - ES14
+Denmark,DK,DNK,208,Urban,16,Other unimproved,0.0,EUROSTAT - ES14
+Denmark,DK,DNK,208,Urban,17,DK/missing information,0.0,EUROSTAT - ES14
+Denmark,DK,DNK,208,Rural,1,Flush and pour flush - to piped sewer system,0.0,EUROSTAT - ES14
+Denmark,DK,DNK,208,Rural,2,Flush and pour flush - to septic tank,0.0,EUROSTAT - ES14
+Denmark,DK,DNK,208,Rural,3,Flush and pour flush - to pit,0.0,EUROSTAT - ES14
+Denmark,DK,DNK,208,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,EUROSTAT - ES14
+Denmark,DK,DNK,208,Rural,5,Flush and pour flush - to elsewhere,0.0,EUROSTAT - ES14
+Denmark,DK,DNK,208,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,EUROSTAT - ES14
+Denmark,DK,DNK,208,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,EUROSTAT - ES14
+Denmark,DK,DNK,208,Rural,8,Dry latrines - Traditional latrine,0.0,EUROSTAT - ES14
+Denmark,DK,DNK,208,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,EUROSTAT - ES14
+Denmark,DK,DNK,208,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,EUROSTAT - ES14
+Denmark,DK,DNK,208,Rural,11,Dry latrines - Bucket latrine,0.0,EUROSTAT - ES14
+Denmark,DK,DNK,208,Rural,12,Dry latrines - Other,0.0,EUROSTAT - ES14
+Denmark,DK,DNK,208,Rural,13,Composting toilets,0.0,EUROSTAT - ES14
+Denmark,DK,DNK,208,Rural,14,Other improved,0.0,EUROSTAT - ES14
+Denmark,DK,DNK,208,Rural,15,"No facility, bush, field",0.0,EUROSTAT - ES14
+Denmark,DK,DNK,208,Rural,16,Other unimproved,0.0,EUROSTAT - ES14
+Denmark,DK,DNK,208,Rural,17,DK/missing information,0.0,EUROSTAT - ES14
+Denmark,DK,DNK,208,National,1,Flush and pour flush - to piped sewer system,0.91,EUROSTAT - ES14
+Denmark,DK,DNK,208,National,2,Flush and pour flush - to septic tank,0.09,EUROSTAT - ES14
+Denmark,DK,DNK,208,National,3,Flush and pour flush - to pit,0.0,EUROSTAT - ES14
+Denmark,DK,DNK,208,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,EUROSTAT - ES14
+Denmark,DK,DNK,208,National,5,Flush and pour flush - to elsewhere,0.0,EUROSTAT - ES14
+Denmark,DK,DNK,208,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,EUROSTAT - ES14
+Denmark,DK,DNK,208,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,EUROSTAT - ES14
+Denmark,DK,DNK,208,National,8,Dry latrines - Traditional latrine,0.0,EUROSTAT - ES14
+Denmark,DK,DNK,208,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,EUROSTAT - ES14
+Denmark,DK,DNK,208,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,EUROSTAT - ES14
+Denmark,DK,DNK,208,National,11,Dry latrines - Bucket latrine,0.0,EUROSTAT - ES14
+Denmark,DK,DNK,208,National,12,Dry latrines - Other,0.0,EUROSTAT - ES14
+Denmark,DK,DNK,208,National,13,Composting toilets,0.0,EUROSTAT - ES14
+Denmark,DK,DNK,208,National,14,Other improved,0.0,EUROSTAT - ES14
+Denmark,DK,DNK,208,National,15,"No facility, bush, field",0.0,EUROSTAT - ES14
+Denmark,DK,DNK,208,National,16,Other unimproved,0.0,EUROSTAT - ES14
+Denmark,DK,DNK,208,National,17,DK/missing information,0.0,EUROSTAT - ES14
+Denmark,DK,DNK,208,Urban,1,Flush and pour flush - to piped sewer system,0.0,EUROSTAT ENV DATABASE - ES09
+Denmark,DK,DNK,208,Urban,2,Flush and pour flush - to septic tank,0.0,EUROSTAT ENV DATABASE - ES09
+Denmark,DK,DNK,208,Urban,3,Flush and pour flush - to pit,0.0,EUROSTAT ENV DATABASE - ES09
+Denmark,DK,DNK,208,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,EUROSTAT ENV DATABASE - ES09
+Denmark,DK,DNK,208,Urban,5,Flush and pour flush - to elsewhere,0.0,EUROSTAT ENV DATABASE - ES09
+Denmark,DK,DNK,208,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,EUROSTAT ENV DATABASE - ES09
+Denmark,DK,DNK,208,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,EUROSTAT ENV DATABASE - ES09
+Denmark,DK,DNK,208,Urban,8,Dry latrines - Traditional latrine,0.0,EUROSTAT ENV DATABASE - ES09
+Denmark,DK,DNK,208,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,EUROSTAT ENV DATABASE - ES09
+Denmark,DK,DNK,208,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,EUROSTAT ENV DATABASE - ES09
+Denmark,DK,DNK,208,Urban,11,Dry latrines - Bucket latrine,0.0,EUROSTAT ENV DATABASE - ES09
+Denmark,DK,DNK,208,Urban,12,Dry latrines - Other,0.0,EUROSTAT ENV DATABASE - ES09
+Denmark,DK,DNK,208,Urban,13,Composting toilets,0.0,EUROSTAT ENV DATABASE - ES09
+Denmark,DK,DNK,208,Urban,14,Other improved,0.0,EUROSTAT ENV DATABASE - ES09
+Denmark,DK,DNK,208,Urban,15,"No facility, bush, field",0.0,EUROSTAT ENV DATABASE - ES09
+Denmark,DK,DNK,208,Urban,16,Other unimproved,0.0,EUROSTAT ENV DATABASE - ES09
+Denmark,DK,DNK,208,Urban,17,DK/missing information,0.0,EUROSTAT ENV DATABASE - ES09
+Denmark,DK,DNK,208,Rural,1,Flush and pour flush - to piped sewer system,0.0,EUROSTAT ENV DATABASE - ES09
+Denmark,DK,DNK,208,Rural,2,Flush and pour flush - to septic tank,0.0,EUROSTAT ENV DATABASE - ES09
+Denmark,DK,DNK,208,Rural,3,Flush and pour flush - to pit,0.0,EUROSTAT ENV DATABASE - ES09
+Denmark,DK,DNK,208,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,EUROSTAT ENV DATABASE - ES09
+Denmark,DK,DNK,208,Rural,5,Flush and pour flush - to elsewhere,0.0,EUROSTAT ENV DATABASE - ES09
+Denmark,DK,DNK,208,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,EUROSTAT ENV DATABASE - ES09
+Denmark,DK,DNK,208,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,EUROSTAT ENV DATABASE - ES09
+Denmark,DK,DNK,208,Rural,8,Dry latrines - Traditional latrine,0.0,EUROSTAT ENV DATABASE - ES09
+Denmark,DK,DNK,208,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,EUROSTAT ENV DATABASE - ES09
+Denmark,DK,DNK,208,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,EUROSTAT ENV DATABASE - ES09
+Denmark,DK,DNK,208,Rural,11,Dry latrines - Bucket latrine,0.0,EUROSTAT ENV DATABASE - ES09
+Denmark,DK,DNK,208,Rural,12,Dry latrines - Other,0.0,EUROSTAT ENV DATABASE - ES09
+Denmark,DK,DNK,208,Rural,13,Composting toilets,0.0,EUROSTAT ENV DATABASE - ES09
+Denmark,DK,DNK,208,Rural,14,Other improved,0.0,EUROSTAT ENV DATABASE - ES09
+Denmark,DK,DNK,208,Rural,15,"No facility, bush, field",0.0,EUROSTAT ENV DATABASE - ES09
+Denmark,DK,DNK,208,Rural,16,Other unimproved,0.0,EUROSTAT ENV DATABASE - ES09
+Denmark,DK,DNK,208,Rural,17,DK/missing information,0.0,EUROSTAT ENV DATABASE - ES09
+Denmark,DK,DNK,208,National,1,Flush and pour flush - to piped sewer system,0.897,EUROSTAT ENV DATABASE - ES09
+Denmark,DK,DNK,208,National,2,Flush and pour flush - to septic tank,0.103,EUROSTAT ENV DATABASE - ES09
+Denmark,DK,DNK,208,National,3,Flush and pour flush - to pit,0.0,EUROSTAT ENV DATABASE - ES09
+Denmark,DK,DNK,208,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,EUROSTAT ENV DATABASE - ES09
+Denmark,DK,DNK,208,National,5,Flush and pour flush - to elsewhere,0.0,EUROSTAT ENV DATABASE - ES09
+Denmark,DK,DNK,208,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,EUROSTAT ENV DATABASE - ES09
+Denmark,DK,DNK,208,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,EUROSTAT ENV DATABASE - ES09
+Denmark,DK,DNK,208,National,8,Dry latrines - Traditional latrine,0.0,EUROSTAT ENV DATABASE - ES09
+Denmark,DK,DNK,208,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,EUROSTAT ENV DATABASE - ES09
+Denmark,DK,DNK,208,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,EUROSTAT ENV DATABASE - ES09
+Denmark,DK,DNK,208,National,11,Dry latrines - Bucket latrine,0.0,EUROSTAT ENV DATABASE - ES09
+Denmark,DK,DNK,208,National,12,Dry latrines - Other,0.0,EUROSTAT ENV DATABASE - ES09
+Denmark,DK,DNK,208,National,13,Composting toilets,0.0,EUROSTAT ENV DATABASE - ES09
+Denmark,DK,DNK,208,National,14,Other improved,0.0,EUROSTAT ENV DATABASE - ES09
+Denmark,DK,DNK,208,National,15,"No facility, bush, field",0.0,EUROSTAT ENV DATABASE - ES09
+Denmark,DK,DNK,208,National,16,Other unimproved,0.0,EUROSTAT ENV DATABASE - ES09
+Denmark,DK,DNK,208,National,17,DK/missing information,0.0,EUROSTAT ENV DATABASE - ES09
+Denmark,DK,DNK,208,Urban,1,Flush and pour flush - to piped sewer system,0.0,EUROSTAT ENV DATABASE - ES10
+Denmark,DK,DNK,208,Urban,2,Flush and pour flush - to septic tank,0.0,EUROSTAT ENV DATABASE - ES10
+Denmark,DK,DNK,208,Urban,3,Flush and pour flush - to pit,0.0,EUROSTAT ENV DATABASE - ES10
+Denmark,DK,DNK,208,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,EUROSTAT ENV DATABASE - ES10
+Denmark,DK,DNK,208,Urban,5,Flush and pour flush - to elsewhere,0.0,EUROSTAT ENV DATABASE - ES10
+Denmark,DK,DNK,208,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,EUROSTAT ENV DATABASE - ES10
+Denmark,DK,DNK,208,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,EUROSTAT ENV DATABASE - ES10
+Denmark,DK,DNK,208,Urban,8,Dry latrines - Traditional latrine,0.0,EUROSTAT ENV DATABASE - ES10
+Denmark,DK,DNK,208,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,EUROSTAT ENV DATABASE - ES10
+Denmark,DK,DNK,208,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,EUROSTAT ENV DATABASE - ES10
+Denmark,DK,DNK,208,Urban,11,Dry latrines - Bucket latrine,0.0,EUROSTAT ENV DATABASE - ES10
+Denmark,DK,DNK,208,Urban,12,Dry latrines - Other,0.0,EUROSTAT ENV DATABASE - ES10
+Denmark,DK,DNK,208,Urban,13,Composting toilets,0.0,EUROSTAT ENV DATABASE - ES10
+Denmark,DK,DNK,208,Urban,14,Other improved,0.0,EUROSTAT ENV DATABASE - ES10
+Denmark,DK,DNK,208,Urban,15,"No facility, bush, field",0.0,EUROSTAT ENV DATABASE - ES10
+Denmark,DK,DNK,208,Urban,16,Other unimproved,0.0,EUROSTAT ENV DATABASE - ES10
+Denmark,DK,DNK,208,Urban,17,DK/missing information,0.0,EUROSTAT ENV DATABASE - ES10
+Denmark,DK,DNK,208,Rural,1,Flush and pour flush - to piped sewer system,0.0,EUROSTAT ENV DATABASE - ES10
+Denmark,DK,DNK,208,Rural,2,Flush and pour flush - to septic tank,0.0,EUROSTAT ENV DATABASE - ES10
+Denmark,DK,DNK,208,Rural,3,Flush and pour flush - to pit,0.0,EUROSTAT ENV DATABASE - ES10
+Denmark,DK,DNK,208,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,EUROSTAT ENV DATABASE - ES10
+Denmark,DK,DNK,208,Rural,5,Flush and pour flush - to elsewhere,0.0,EUROSTAT ENV DATABASE - ES10
+Denmark,DK,DNK,208,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,EUROSTAT ENV DATABASE - ES10
+Denmark,DK,DNK,208,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,EUROSTAT ENV DATABASE - ES10
+Denmark,DK,DNK,208,Rural,8,Dry latrines - Traditional latrine,0.0,EUROSTAT ENV DATABASE - ES10
+Denmark,DK,DNK,208,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,EUROSTAT ENV DATABASE - ES10
+Denmark,DK,DNK,208,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,EUROSTAT ENV DATABASE - ES10
+Denmark,DK,DNK,208,Rural,11,Dry latrines - Bucket latrine,0.0,EUROSTAT ENV DATABASE - ES10
+Denmark,DK,DNK,208,Rural,12,Dry latrines - Other,0.0,EUROSTAT ENV DATABASE - ES10
+Denmark,DK,DNK,208,Rural,13,Composting toilets,0.0,EUROSTAT ENV DATABASE - ES10
+Denmark,DK,DNK,208,Rural,14,Other improved,0.0,EUROSTAT ENV DATABASE - ES10
+Denmark,DK,DNK,208,Rural,15,"No facility, bush, field",0.0,EUROSTAT ENV DATABASE - ES10
+Denmark,DK,DNK,208,Rural,16,Other unimproved,0.0,EUROSTAT ENV DATABASE - ES10
+Denmark,DK,DNK,208,Rural,17,DK/missing information,0.0,EUROSTAT ENV DATABASE - ES10
+Denmark,DK,DNK,208,National,1,Flush and pour flush - to piped sewer system,0.903,EUROSTAT ENV DATABASE - ES10
+Denmark,DK,DNK,208,National,2,Flush and pour flush - to septic tank,0.097,EUROSTAT ENV DATABASE - ES10
+Denmark,DK,DNK,208,National,3,Flush and pour flush - to pit,0.0,EUROSTAT ENV DATABASE - ES10
+Denmark,DK,DNK,208,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,EUROSTAT ENV DATABASE - ES10
+Denmark,DK,DNK,208,National,5,Flush and pour flush - to elsewhere,0.0,EUROSTAT ENV DATABASE - ES10
+Denmark,DK,DNK,208,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,EUROSTAT ENV DATABASE - ES10
+Denmark,DK,DNK,208,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,EUROSTAT ENV DATABASE - ES10
+Denmark,DK,DNK,208,National,8,Dry latrines - Traditional latrine,0.0,EUROSTAT ENV DATABASE - ES10
+Denmark,DK,DNK,208,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,EUROSTAT ENV DATABASE - ES10
+Denmark,DK,DNK,208,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,EUROSTAT ENV DATABASE - ES10
+Denmark,DK,DNK,208,National,11,Dry latrines - Bucket latrine,0.0,EUROSTAT ENV DATABASE - ES10
+Denmark,DK,DNK,208,National,12,Dry latrines - Other,0.0,EUROSTAT ENV DATABASE - ES10
+Denmark,DK,DNK,208,National,13,Composting toilets,0.0,EUROSTAT ENV DATABASE - ES10
+Denmark,DK,DNK,208,National,14,Other improved,0.0,EUROSTAT ENV DATABASE - ES10
+Denmark,DK,DNK,208,National,15,"No facility, bush, field",0.0,EUROSTAT ENV DATABASE - ES10
+Denmark,DK,DNK,208,National,16,Other unimproved,0.0,EUROSTAT ENV DATABASE - ES10
+Denmark,DK,DNK,208,National,17,DK/missing information,0.0,EUROSTAT ENV DATABASE - ES10
+Denmark,DK,DNK,208,Urban,1,Flush and pour flush - to piped sewer system,0.0,EUROSTAT ENV DATABASE - ES11
+Denmark,DK,DNK,208,Urban,2,Flush and pour flush - to septic tank,0.0,EUROSTAT ENV DATABASE - ES11
+Denmark,DK,DNK,208,Urban,3,Flush and pour flush - to pit,0.0,EUROSTAT ENV DATABASE - ES11
+Denmark,DK,DNK,208,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,EUROSTAT ENV DATABASE - ES11
+Denmark,DK,DNK,208,Urban,5,Flush and pour flush - to elsewhere,0.0,EUROSTAT ENV DATABASE - ES11
+Denmark,DK,DNK,208,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,EUROSTAT ENV DATABASE - ES11
+Denmark,DK,DNK,208,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,EUROSTAT ENV DATABASE - ES11
+Denmark,DK,DNK,208,Urban,8,Dry latrines - Traditional latrine,0.0,EUROSTAT ENV DATABASE - ES11
+Denmark,DK,DNK,208,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,EUROSTAT ENV DATABASE - ES11
+Denmark,DK,DNK,208,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,EUROSTAT ENV DATABASE - ES11
+Denmark,DK,DNK,208,Urban,11,Dry latrines - Bucket latrine,0.0,EUROSTAT ENV DATABASE - ES11
+Denmark,DK,DNK,208,Urban,12,Dry latrines - Other,0.0,EUROSTAT ENV DATABASE - ES11
+Denmark,DK,DNK,208,Urban,13,Composting toilets,0.0,EUROSTAT ENV DATABASE - ES11
+Denmark,DK,DNK,208,Urban,14,Other improved,0.0,EUROSTAT ENV DATABASE - ES11
+Denmark,DK,DNK,208,Urban,15,"No facility, bush, field",0.0,EUROSTAT ENV DATABASE - ES11
+Denmark,DK,DNK,208,Urban,16,Other unimproved,0.0,EUROSTAT ENV DATABASE - ES11
+Denmark,DK,DNK,208,Urban,17,DK/missing information,0.0,EUROSTAT ENV DATABASE - ES11
+Denmark,DK,DNK,208,Rural,1,Flush and pour flush - to piped sewer system,0.0,EUROSTAT ENV DATABASE - ES11
+Denmark,DK,DNK,208,Rural,2,Flush and pour flush - to septic tank,0.0,EUROSTAT ENV DATABASE - ES11
+Denmark,DK,DNK,208,Rural,3,Flush and pour flush - to pit,0.0,EUROSTAT ENV DATABASE - ES11
+Denmark,DK,DNK,208,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,EUROSTAT ENV DATABASE - ES11
+Denmark,DK,DNK,208,Rural,5,Flush and pour flush - to elsewhere,0.0,EUROSTAT ENV DATABASE - ES11
+Denmark,DK,DNK,208,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,EUROSTAT ENV DATABASE - ES11
+Denmark,DK,DNK,208,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,EUROSTAT ENV DATABASE - ES11
+Denmark,DK,DNK,208,Rural,8,Dry latrines - Traditional latrine,0.0,EUROSTAT ENV DATABASE - ES11
+Denmark,DK,DNK,208,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,EUROSTAT ENV DATABASE - ES11
+Denmark,DK,DNK,208,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,EUROSTAT ENV DATABASE - ES11
+Denmark,DK,DNK,208,Rural,11,Dry latrines - Bucket latrine,0.0,EUROSTAT ENV DATABASE - ES11
+Denmark,DK,DNK,208,Rural,12,Dry latrines - Other,0.0,EUROSTAT ENV DATABASE - ES11
+Denmark,DK,DNK,208,Rural,13,Composting toilets,0.0,EUROSTAT ENV DATABASE - ES11
+Denmark,DK,DNK,208,Rural,14,Other improved,0.0,EUROSTAT ENV DATABASE - ES11
+Denmark,DK,DNK,208,Rural,15,"No facility, bush, field",0.0,EUROSTAT ENV DATABASE - ES11
+Denmark,DK,DNK,208,Rural,16,Other unimproved,0.0,EUROSTAT ENV DATABASE - ES11
+Denmark,DK,DNK,208,Rural,17,DK/missing information,0.0,EUROSTAT ENV DATABASE - ES11
+Denmark,DK,DNK,208,National,1,Flush and pour flush - to piped sewer system,0.907,EUROSTAT ENV DATABASE - ES11
+Denmark,DK,DNK,208,National,2,Flush and pour flush - to septic tank,0.093,EUROSTAT ENV DATABASE - ES11
+Denmark,DK,DNK,208,National,3,Flush and pour flush - to pit,0.0,EUROSTAT ENV DATABASE - ES11
+Denmark,DK,DNK,208,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,EUROSTAT ENV DATABASE - ES11
+Denmark,DK,DNK,208,National,5,Flush and pour flush - to elsewhere,0.0,EUROSTAT ENV DATABASE - ES11
+Denmark,DK,DNK,208,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,EUROSTAT ENV DATABASE - ES11
+Denmark,DK,DNK,208,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,EUROSTAT ENV DATABASE - ES11
+Denmark,DK,DNK,208,National,8,Dry latrines - Traditional latrine,0.0,EUROSTAT ENV DATABASE - ES11
+Denmark,DK,DNK,208,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,EUROSTAT ENV DATABASE - ES11
+Denmark,DK,DNK,208,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,EUROSTAT ENV DATABASE - ES11
+Denmark,DK,DNK,208,National,11,Dry latrines - Bucket latrine,0.0,EUROSTAT ENV DATABASE - ES11
+Denmark,DK,DNK,208,National,12,Dry latrines - Other,0.0,EUROSTAT ENV DATABASE - ES11
+Denmark,DK,DNK,208,National,13,Composting toilets,0.0,EUROSTAT ENV DATABASE - ES11
+Denmark,DK,DNK,208,National,14,Other improved,0.0,EUROSTAT ENV DATABASE - ES11
+Denmark,DK,DNK,208,National,15,"No facility, bush, field",0.0,EUROSTAT ENV DATABASE - ES11
+Denmark,DK,DNK,208,National,16,Other unimproved,0.0,EUROSTAT ENV DATABASE - ES11
+Denmark,DK,DNK,208,National,17,DK/missing information,0.0,EUROSTAT ENV DATABASE - ES11
+Denmark,DK,DNK,208,Urban,1,Flush and pour flush - to piped sewer system,0.0,EUROSTAT ENV DATABASE - ES12
+Denmark,DK,DNK,208,Urban,2,Flush and pour flush - to septic tank,0.0,EUROSTAT ENV DATABASE - ES12
+Denmark,DK,DNK,208,Urban,3,Flush and pour flush - to pit,0.0,EUROSTAT ENV DATABASE - ES12
+Denmark,DK,DNK,208,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,EUROSTAT ENV DATABASE - ES12
+Denmark,DK,DNK,208,Urban,5,Flush and pour flush - to elsewhere,0.0,EUROSTAT ENV DATABASE - ES12
+Denmark,DK,DNK,208,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,EUROSTAT ENV DATABASE - ES12
+Denmark,DK,DNK,208,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,EUROSTAT ENV DATABASE - ES12
+Denmark,DK,DNK,208,Urban,8,Dry latrines - Traditional latrine,0.0,EUROSTAT ENV DATABASE - ES12
+Denmark,DK,DNK,208,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,EUROSTAT ENV DATABASE - ES12
+Denmark,DK,DNK,208,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,EUROSTAT ENV DATABASE - ES12
+Denmark,DK,DNK,208,Urban,11,Dry latrines - Bucket latrine,0.0,EUROSTAT ENV DATABASE - ES12
+Denmark,DK,DNK,208,Urban,12,Dry latrines - Other,0.0,EUROSTAT ENV DATABASE - ES12
+Denmark,DK,DNK,208,Urban,13,Composting toilets,0.0,EUROSTAT ENV DATABASE - ES12
+Denmark,DK,DNK,208,Urban,14,Other improved,0.0,EUROSTAT ENV DATABASE - ES12
+Denmark,DK,DNK,208,Urban,15,"No facility, bush, field",0.0,EUROSTAT ENV DATABASE - ES12
+Denmark,DK,DNK,208,Urban,16,Other unimproved,0.0,EUROSTAT ENV DATABASE - ES12
+Denmark,DK,DNK,208,Urban,17,DK/missing information,0.0,EUROSTAT ENV DATABASE - ES12
+Denmark,DK,DNK,208,Rural,1,Flush and pour flush - to piped sewer system,0.0,EUROSTAT ENV DATABASE - ES12
+Denmark,DK,DNK,208,Rural,2,Flush and pour flush - to septic tank,0.0,EUROSTAT ENV DATABASE - ES12
+Denmark,DK,DNK,208,Rural,3,Flush and pour flush - to pit,0.0,EUROSTAT ENV DATABASE - ES12
+Denmark,DK,DNK,208,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,EUROSTAT ENV DATABASE - ES12
+Denmark,DK,DNK,208,Rural,5,Flush and pour flush - to elsewhere,0.0,EUROSTAT ENV DATABASE - ES12
+Denmark,DK,DNK,208,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,EUROSTAT ENV DATABASE - ES12
+Denmark,DK,DNK,208,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,EUROSTAT ENV DATABASE - ES12
+Denmark,DK,DNK,208,Rural,8,Dry latrines - Traditional latrine,0.0,EUROSTAT ENV DATABASE - ES12
+Denmark,DK,DNK,208,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,EUROSTAT ENV DATABASE - ES12
+Denmark,DK,DNK,208,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,EUROSTAT ENV DATABASE - ES12
+Denmark,DK,DNK,208,Rural,11,Dry latrines - Bucket latrine,0.0,EUROSTAT ENV DATABASE - ES12
+Denmark,DK,DNK,208,Rural,12,Dry latrines - Other,0.0,EUROSTAT ENV DATABASE - ES12
+Denmark,DK,DNK,208,Rural,13,Composting toilets,0.0,EUROSTAT ENV DATABASE - ES12
+Denmark,DK,DNK,208,Rural,14,Other improved,0.0,EUROSTAT ENV DATABASE - ES12
+Denmark,DK,DNK,208,Rural,15,"No facility, bush, field",0.0,EUROSTAT ENV DATABASE - ES12
+Denmark,DK,DNK,208,Rural,16,Other unimproved,0.0,EUROSTAT ENV DATABASE - ES12
+Denmark,DK,DNK,208,Rural,17,DK/missing information,0.0,EUROSTAT ENV DATABASE - ES12
+Denmark,DK,DNK,208,National,1,Flush and pour flush - to piped sewer system,0.907,EUROSTAT ENV DATABASE - ES12
+Denmark,DK,DNK,208,National,2,Flush and pour flush - to septic tank,0.093,EUROSTAT ENV DATABASE - ES12
+Denmark,DK,DNK,208,National,3,Flush and pour flush - to pit,0.0,EUROSTAT ENV DATABASE - ES12
+Denmark,DK,DNK,208,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,EUROSTAT ENV DATABASE - ES12
+Denmark,DK,DNK,208,National,5,Flush and pour flush - to elsewhere,0.0,EUROSTAT ENV DATABASE - ES12
+Denmark,DK,DNK,208,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,EUROSTAT ENV DATABASE - ES12
+Denmark,DK,DNK,208,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,EUROSTAT ENV DATABASE - ES12
+Denmark,DK,DNK,208,National,8,Dry latrines - Traditional latrine,0.0,EUROSTAT ENV DATABASE - ES12
+Denmark,DK,DNK,208,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,EUROSTAT ENV DATABASE - ES12
+Denmark,DK,DNK,208,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,EUROSTAT ENV DATABASE - ES12
+Denmark,DK,DNK,208,National,11,Dry latrines - Bucket latrine,0.0,EUROSTAT ENV DATABASE - ES12
+Denmark,DK,DNK,208,National,12,Dry latrines - Other,0.0,EUROSTAT ENV DATABASE - ES12
+Denmark,DK,DNK,208,National,13,Composting toilets,0.0,EUROSTAT ENV DATABASE - ES12
+Denmark,DK,DNK,208,National,14,Other improved,0.0,EUROSTAT ENV DATABASE - ES12
+Denmark,DK,DNK,208,National,15,"No facility, bush, field",0.0,EUROSTAT ENV DATABASE - ES12
+Denmark,DK,DNK,208,National,16,Other unimproved,0.0,EUROSTAT ENV DATABASE - ES12
+Denmark,DK,DNK,208,National,17,DK/missing information,0.0,EUROSTAT ENV DATABASE - ES12
+Denmark,DK,DNK,208,Urban,1,Flush and pour flush - to piped sewer system,0.0,EUROSTAT ENV DATABASE - ES13
+Denmark,DK,DNK,208,Urban,2,Flush and pour flush - to septic tank,0.0,EUROSTAT ENV DATABASE - ES13
+Denmark,DK,DNK,208,Urban,3,Flush and pour flush - to pit,0.0,EUROSTAT ENV DATABASE - ES13
+Denmark,DK,DNK,208,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,EUROSTAT ENV DATABASE - ES13
+Denmark,DK,DNK,208,Urban,5,Flush and pour flush - to elsewhere,0.0,EUROSTAT ENV DATABASE - ES13
+Denmark,DK,DNK,208,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,EUROSTAT ENV DATABASE - ES13
+Denmark,DK,DNK,208,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,EUROSTAT ENV DATABASE - ES13
+Denmark,DK,DNK,208,Urban,8,Dry latrines - Traditional latrine,0.0,EUROSTAT ENV DATABASE - ES13
+Denmark,DK,DNK,208,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,EUROSTAT ENV DATABASE - ES13
+Denmark,DK,DNK,208,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,EUROSTAT ENV DATABASE - ES13
+Denmark,DK,DNK,208,Urban,11,Dry latrines - Bucket latrine,0.0,EUROSTAT ENV DATABASE - ES13
+Denmark,DK,DNK,208,Urban,12,Dry latrines - Other,0.0,EUROSTAT ENV DATABASE - ES13
+Denmark,DK,DNK,208,Urban,13,Composting toilets,0.0,EUROSTAT ENV DATABASE - ES13
+Denmark,DK,DNK,208,Urban,14,Other improved,0.0,EUROSTAT ENV DATABASE - ES13
+Denmark,DK,DNK,208,Urban,15,"No facility, bush, field",0.0,EUROSTAT ENV DATABASE - ES13
+Denmark,DK,DNK,208,Urban,16,Other unimproved,0.0,EUROSTAT ENV DATABASE - ES13
+Denmark,DK,DNK,208,Urban,17,DK/missing information,0.0,EUROSTAT ENV DATABASE - ES13
+Denmark,DK,DNK,208,Rural,1,Flush and pour flush - to piped sewer system,0.0,EUROSTAT ENV DATABASE - ES13
+Denmark,DK,DNK,208,Rural,2,Flush and pour flush - to septic tank,0.0,EUROSTAT ENV DATABASE - ES13
+Denmark,DK,DNK,208,Rural,3,Flush and pour flush - to pit,0.0,EUROSTAT ENV DATABASE - ES13
+Denmark,DK,DNK,208,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,EUROSTAT ENV DATABASE - ES13
+Denmark,DK,DNK,208,Rural,5,Flush and pour flush - to elsewhere,0.0,EUROSTAT ENV DATABASE - ES13
+Denmark,DK,DNK,208,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,EUROSTAT ENV DATABASE - ES13
+Denmark,DK,DNK,208,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,EUROSTAT ENV DATABASE - ES13
+Denmark,DK,DNK,208,Rural,8,Dry latrines - Traditional latrine,0.0,EUROSTAT ENV DATABASE - ES13
+Denmark,DK,DNK,208,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,EUROSTAT ENV DATABASE - ES13
+Denmark,DK,DNK,208,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,EUROSTAT ENV DATABASE - ES13
+Denmark,DK,DNK,208,Rural,11,Dry latrines - Bucket latrine,0.0,EUROSTAT ENV DATABASE - ES13
+Denmark,DK,DNK,208,Rural,12,Dry latrines - Other,0.0,EUROSTAT ENV DATABASE - ES13
+Denmark,DK,DNK,208,Rural,13,Composting toilets,0.0,EUROSTAT ENV DATABASE - ES13
+Denmark,DK,DNK,208,Rural,14,Other improved,0.0,EUROSTAT ENV DATABASE - ES13
+Denmark,DK,DNK,208,Rural,15,"No facility, bush, field",0.0,EUROSTAT ENV DATABASE - ES13
+Denmark,DK,DNK,208,Rural,16,Other unimproved,0.0,EUROSTAT ENV DATABASE - ES13
+Denmark,DK,DNK,208,Rural,17,DK/missing information,0.0,EUROSTAT ENV DATABASE - ES13
+Denmark,DK,DNK,208,National,1,Flush and pour flush - to piped sewer system,0.908,EUROSTAT ENV DATABASE - ES13
+Denmark,DK,DNK,208,National,2,Flush and pour flush - to septic tank,0.092,EUROSTAT ENV DATABASE - ES13
+Denmark,DK,DNK,208,National,3,Flush and pour flush - to pit,0.0,EUROSTAT ENV DATABASE - ES13
+Denmark,DK,DNK,208,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,EUROSTAT ENV DATABASE - ES13
+Denmark,DK,DNK,208,National,5,Flush and pour flush - to elsewhere,0.0,EUROSTAT ENV DATABASE - ES13
+Denmark,DK,DNK,208,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,EUROSTAT ENV DATABASE - ES13
+Denmark,DK,DNK,208,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,EUROSTAT ENV DATABASE - ES13
+Denmark,DK,DNK,208,National,8,Dry latrines - Traditional latrine,0.0,EUROSTAT ENV DATABASE - ES13
+Denmark,DK,DNK,208,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,EUROSTAT ENV DATABASE - ES13
+Denmark,DK,DNK,208,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,EUROSTAT ENV DATABASE - ES13
+Denmark,DK,DNK,208,National,11,Dry latrines - Bucket latrine,0.0,EUROSTAT ENV DATABASE - ES13
+Denmark,DK,DNK,208,National,12,Dry latrines - Other,0.0,EUROSTAT ENV DATABASE - ES13
+Denmark,DK,DNK,208,National,13,Composting toilets,0.0,EUROSTAT ENV DATABASE - ES13
+Denmark,DK,DNK,208,National,14,Other improved,0.0,EUROSTAT ENV DATABASE - ES13
+Denmark,DK,DNK,208,National,15,"No facility, bush, field",0.0,EUROSTAT ENV DATABASE - ES13
+Denmark,DK,DNK,208,National,16,Other unimproved,0.0,EUROSTAT ENV DATABASE - ES13
+Denmark,DK,DNK,208,National,17,DK/missing information,0.0,EUROSTAT ENV DATABASE - ES13
+Denmark,DK,DNK,208,Urban,1,Flush and pour flush - to piped sewer system,0.993,Eurostat SILC database - EUSILC12
+Denmark,DK,DNK,208,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC12
+Denmark,DK,DNK,208,Urban,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC12
+Denmark,DK,DNK,208,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC12
+Denmark,DK,DNK,208,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC12
+Denmark,DK,DNK,208,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC12
+Denmark,DK,DNK,208,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC12
+Denmark,DK,DNK,208,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC12
+Denmark,DK,DNK,208,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC12
+Denmark,DK,DNK,208,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC12
+Denmark,DK,DNK,208,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC12
+Denmark,DK,DNK,208,Urban,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC12
+Denmark,DK,DNK,208,Urban,13,Composting toilets,0.0,Eurostat SILC database - EUSILC12
+Denmark,DK,DNK,208,Urban,14,Other improved,0.0,Eurostat SILC database - EUSILC12
+Denmark,DK,DNK,208,Urban,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC12
+Denmark,DK,DNK,208,Urban,16,Other unimproved,0.007,Eurostat SILC database - EUSILC12
+Denmark,DK,DNK,208,Urban,17,DK/missing information,0.0,Eurostat SILC database - EUSILC12
+Denmark,DK,DNK,208,Rural,1,Flush and pour flush - to piped sewer system,0.994,Eurostat SILC database - EUSILC12
+Denmark,DK,DNK,208,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC12
+Denmark,DK,DNK,208,Rural,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC12
+Denmark,DK,DNK,208,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC12
+Denmark,DK,DNK,208,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC12
+Denmark,DK,DNK,208,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC12
+Denmark,DK,DNK,208,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC12
+Denmark,DK,DNK,208,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC12
+Denmark,DK,DNK,208,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC12
+Denmark,DK,DNK,208,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC12
+Denmark,DK,DNK,208,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC12
+Denmark,DK,DNK,208,Rural,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC12
+Denmark,DK,DNK,208,Rural,13,Composting toilets,0.0,Eurostat SILC database - EUSILC12
+Denmark,DK,DNK,208,Rural,14,Other improved,0.0,Eurostat SILC database - EUSILC12
+Denmark,DK,DNK,208,Rural,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC12
+Denmark,DK,DNK,208,Rural,16,Other unimproved,0.006,Eurostat SILC database - EUSILC12
+Denmark,DK,DNK,208,Rural,17,DK/missing information,0.0,Eurostat SILC database - EUSILC12
+Denmark,DK,DNK,208,National,1,Flush and pour flush - to piped sewer system,0.994,Eurostat SILC database - EUSILC12
+Denmark,DK,DNK,208,National,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC12
+Denmark,DK,DNK,208,National,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC12
+Denmark,DK,DNK,208,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC12
+Denmark,DK,DNK,208,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC12
+Denmark,DK,DNK,208,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC12
+Denmark,DK,DNK,208,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC12
+Denmark,DK,DNK,208,National,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC12
+Denmark,DK,DNK,208,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC12
+Denmark,DK,DNK,208,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC12
+Denmark,DK,DNK,208,National,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC12
+Denmark,DK,DNK,208,National,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC12
+Denmark,DK,DNK,208,National,13,Composting toilets,0.0,Eurostat SILC database - EUSILC12
+Denmark,DK,DNK,208,National,14,Other improved,0.0,Eurostat SILC database - EUSILC12
+Denmark,DK,DNK,208,National,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC12
+Denmark,DK,DNK,208,National,16,Other unimproved,0.007,Eurostat SILC database - EUSILC12
+Denmark,DK,DNK,208,National,17,DK/missing information,0.0,Eurostat SILC database - EUSILC12
+Denmark,DK,DNK,208,Urban,1,Flush and pour flush - to piped sewer system,0.993,Eurostat SILC database - EUSILC14
+Denmark,DK,DNK,208,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC14
+Denmark,DK,DNK,208,Urban,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC14
+Denmark,DK,DNK,208,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC14
+Denmark,DK,DNK,208,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC14
+Denmark,DK,DNK,208,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC14
+Denmark,DK,DNK,208,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC14
+Denmark,DK,DNK,208,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC14
+Denmark,DK,DNK,208,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC14
+Denmark,DK,DNK,208,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC14
+Denmark,DK,DNK,208,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC14
+Denmark,DK,DNK,208,Urban,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC14
+Denmark,DK,DNK,208,Urban,13,Composting toilets,0.0,Eurostat SILC database - EUSILC14
+Denmark,DK,DNK,208,Urban,14,Other improved,0.0,Eurostat SILC database - EUSILC14
+Denmark,DK,DNK,208,Urban,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC14
+Denmark,DK,DNK,208,Urban,16,Other unimproved,0.007,Eurostat SILC database - EUSILC14
+Denmark,DK,DNK,208,Urban,17,DK/missing information,0.0,Eurostat SILC database - EUSILC14
+Denmark,DK,DNK,208,Rural,1,Flush and pour flush - to piped sewer system,0.999,Eurostat SILC database - EUSILC14
+Denmark,DK,DNK,208,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC14
+Denmark,DK,DNK,208,Rural,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC14
+Denmark,DK,DNK,208,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC14
+Denmark,DK,DNK,208,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC14
+Denmark,DK,DNK,208,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC14
+Denmark,DK,DNK,208,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC14
+Denmark,DK,DNK,208,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC14
+Denmark,DK,DNK,208,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC14
+Denmark,DK,DNK,208,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC14
+Denmark,DK,DNK,208,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC14
+Denmark,DK,DNK,208,Rural,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC14
+Denmark,DK,DNK,208,Rural,13,Composting toilets,0.0,Eurostat SILC database - EUSILC14
+Denmark,DK,DNK,208,Rural,14,Other improved,0.0,Eurostat SILC database - EUSILC14
+Denmark,DK,DNK,208,Rural,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC14
+Denmark,DK,DNK,208,Rural,16,Other unimproved,0.001,Eurostat SILC database - EUSILC14
+Denmark,DK,DNK,208,Rural,17,DK/missing information,0.0,Eurostat SILC database - EUSILC14
+Denmark,DK,DNK,208,National,1,Flush and pour flush - to piped sewer system,0.995,Eurostat SILC database - EUSILC14
+Denmark,DK,DNK,208,National,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC14
+Denmark,DK,DNK,208,National,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC14
+Denmark,DK,DNK,208,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC14
+Denmark,DK,DNK,208,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC14
+Denmark,DK,DNK,208,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC14
+Denmark,DK,DNK,208,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC14
+Denmark,DK,DNK,208,National,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC14
+Denmark,DK,DNK,208,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC14
+Denmark,DK,DNK,208,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC14
+Denmark,DK,DNK,208,National,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC14
+Denmark,DK,DNK,208,National,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC14
+Denmark,DK,DNK,208,National,13,Composting toilets,0.0,Eurostat SILC database - EUSILC14
+Denmark,DK,DNK,208,National,14,Other improved,0.0,Eurostat SILC database - EUSILC14
+Denmark,DK,DNK,208,National,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC14
+Denmark,DK,DNK,208,National,16,Other unimproved,0.005,Eurostat SILC database - EUSILC14
+Denmark,DK,DNK,208,National,17,DK/missing information,0.0,Eurostat SILC database - EUSILC14
+Denmark,DK,DNK,208,Urban,1,Flush and pour flush - to piped sewer system,0.0,OECD/OCDE - OECD02
+Denmark,DK,DNK,208,Urban,2,Flush and pour flush - to septic tank,0.0,OECD/OCDE - OECD02
+Denmark,DK,DNK,208,Urban,3,Flush and pour flush - to pit,0.0,OECD/OCDE - OECD02
+Denmark,DK,DNK,208,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD/OCDE - OECD02
+Denmark,DK,DNK,208,Urban,5,Flush and pour flush - to elsewhere,0.0,OECD/OCDE - OECD02
+Denmark,DK,DNK,208,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD/OCDE - OECD02
+Denmark,DK,DNK,208,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD/OCDE - OECD02
+Denmark,DK,DNK,208,Urban,8,Dry latrines - Traditional latrine,0.0,OECD/OCDE - OECD02
+Denmark,DK,DNK,208,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD/OCDE - OECD02
+Denmark,DK,DNK,208,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD/OCDE - OECD02
+Denmark,DK,DNK,208,Urban,11,Dry latrines - Bucket latrine,0.0,OECD/OCDE - OECD02
+Denmark,DK,DNK,208,Urban,12,Dry latrines - Other,0.0,OECD/OCDE - OECD02
+Denmark,DK,DNK,208,Urban,13,Composting toilets,0.0,OECD/OCDE - OECD02
+Denmark,DK,DNK,208,Urban,14,Other improved,1.0,OECD/OCDE - OECD02
+Denmark,DK,DNK,208,Urban,15,"No facility, bush, field",0.0,OECD/OCDE - OECD02
+Denmark,DK,DNK,208,Urban,16,Other unimproved,0.0,OECD/OCDE - OECD02
+Denmark,DK,DNK,208,Urban,17,DK/missing information,0.0,OECD/OCDE - OECD02
+Denmark,DK,DNK,208,Rural,1,Flush and pour flush - to piped sewer system,0.0,OECD/OCDE - OECD02
+Denmark,DK,DNK,208,Rural,2,Flush and pour flush - to septic tank,0.0,OECD/OCDE - OECD02
+Denmark,DK,DNK,208,Rural,3,Flush and pour flush - to pit,0.0,OECD/OCDE - OECD02
+Denmark,DK,DNK,208,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD/OCDE - OECD02
+Denmark,DK,DNK,208,Rural,5,Flush and pour flush - to elsewhere,0.0,OECD/OCDE - OECD02
+Denmark,DK,DNK,208,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD/OCDE - OECD02
+Denmark,DK,DNK,208,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD/OCDE - OECD02
+Denmark,DK,DNK,208,Rural,8,Dry latrines - Traditional latrine,0.0,OECD/OCDE - OECD02
+Denmark,DK,DNK,208,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD/OCDE - OECD02
+Denmark,DK,DNK,208,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD/OCDE - OECD02
+Denmark,DK,DNK,208,Rural,11,Dry latrines - Bucket latrine,0.0,OECD/OCDE - OECD02
+Denmark,DK,DNK,208,Rural,12,Dry latrines - Other,0.0,OECD/OCDE - OECD02
+Denmark,DK,DNK,208,Rural,13,Composting toilets,0.0,OECD/OCDE - OECD02
+Denmark,DK,DNK,208,Rural,14,Other improved,1.0,OECD/OCDE - OECD02
+Denmark,DK,DNK,208,Rural,15,"No facility, bush, field",0.0,OECD/OCDE - OECD02
+Denmark,DK,DNK,208,Rural,16,Other unimproved,0.0,OECD/OCDE - OECD02
+Denmark,DK,DNK,208,Rural,17,DK/missing information,0.0,OECD/OCDE - OECD02
+Denmark,DK,DNK,208,National,1,Flush and pour flush - to piped sewer system,0.0,OECD/OCDE - OECD02
+Denmark,DK,DNK,208,National,2,Flush and pour flush - to septic tank,0.0,OECD/OCDE - OECD02
+Denmark,DK,DNK,208,National,3,Flush and pour flush - to pit,0.0,OECD/OCDE - OECD02
+Denmark,DK,DNK,208,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,OECD/OCDE - OECD02
+Denmark,DK,DNK,208,National,5,Flush and pour flush - to elsewhere,0.0,OECD/OCDE - OECD02
+Denmark,DK,DNK,208,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,OECD/OCDE - OECD02
+Denmark,DK,DNK,208,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,OECD/OCDE - OECD02
+Denmark,DK,DNK,208,National,8,Dry latrines - Traditional latrine,0.0,OECD/OCDE - OECD02
+Denmark,DK,DNK,208,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,OECD/OCDE - OECD02
+Denmark,DK,DNK,208,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,OECD/OCDE - OECD02
+Denmark,DK,DNK,208,National,11,Dry latrines - Bucket latrine,0.0,OECD/OCDE - OECD02
+Denmark,DK,DNK,208,National,12,Dry latrines - Other,0.0,OECD/OCDE - OECD02
+Denmark,DK,DNK,208,National,13,Composting toilets,0.0,OECD/OCDE - OECD02
+Denmark,DK,DNK,208,National,14,Other improved,0.0,OECD/OCDE - OECD02
+Denmark,DK,DNK,208,National,15,"No facility, bush, field",0.0,OECD/OCDE - OECD02
+Denmark,DK,DNK,208,National,16,Other unimproved,0.0,OECD/OCDE - OECD02
+Denmark,DK,DNK,208,National,17,DK/missing information,0.0,OECD/OCDE - OECD02
+Denmark,DK,DNK,208,Urban,1,Flush and pour flush - to piped sewer system,0.992,Eurostat SILC database - EUSILC13
+Denmark,DK,DNK,208,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC13
+Denmark,DK,DNK,208,Urban,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC13
+Denmark,DK,DNK,208,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC13
+Denmark,DK,DNK,208,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC13
+Denmark,DK,DNK,208,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC13
+Denmark,DK,DNK,208,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC13
+Denmark,DK,DNK,208,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC13
+Denmark,DK,DNK,208,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC13
+Denmark,DK,DNK,208,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC13
+Denmark,DK,DNK,208,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC13
+Denmark,DK,DNK,208,Urban,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC13
+Denmark,DK,DNK,208,Urban,13,Composting toilets,0.0,Eurostat SILC database - EUSILC13
+Denmark,DK,DNK,208,Urban,14,Other improved,0.0,Eurostat SILC database - EUSILC13
+Denmark,DK,DNK,208,Urban,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC13
+Denmark,DK,DNK,208,Urban,16,Other unimproved,0.008,Eurostat SILC database - EUSILC13
+Denmark,DK,DNK,208,Urban,17,DK/missing information,0.0,Eurostat SILC database - EUSILC13
+Denmark,DK,DNK,208,Rural,1,Flush and pour flush - to piped sewer system,0.999,Eurostat SILC database - EUSILC13
+Denmark,DK,DNK,208,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC13
+Denmark,DK,DNK,208,Rural,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC13
+Denmark,DK,DNK,208,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC13
+Denmark,DK,DNK,208,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC13
+Denmark,DK,DNK,208,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC13
+Denmark,DK,DNK,208,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC13
+Denmark,DK,DNK,208,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC13
+Denmark,DK,DNK,208,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC13
+Denmark,DK,DNK,208,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC13
+Denmark,DK,DNK,208,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC13
+Denmark,DK,DNK,208,Rural,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC13
+Denmark,DK,DNK,208,Rural,13,Composting toilets,0.0,Eurostat SILC database - EUSILC13
+Denmark,DK,DNK,208,Rural,14,Other improved,0.0,Eurostat SILC database - EUSILC13
+Denmark,DK,DNK,208,Rural,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC13
+Denmark,DK,DNK,208,Rural,16,Other unimproved,0.001,Eurostat SILC database - EUSILC13
+Denmark,DK,DNK,208,Rural,17,DK/missing information,0.0,Eurostat SILC database - EUSILC13
+Denmark,DK,DNK,208,National,1,Flush and pour flush - to piped sewer system,0.994,Eurostat SILC database - EUSILC13
+Denmark,DK,DNK,208,National,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC13
+Denmark,DK,DNK,208,National,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC13
+Denmark,DK,DNK,208,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC13
+Denmark,DK,DNK,208,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC13
+Denmark,DK,DNK,208,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC13
+Denmark,DK,DNK,208,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC13
+Denmark,DK,DNK,208,National,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC13
+Denmark,DK,DNK,208,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC13
+Denmark,DK,DNK,208,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC13
+Denmark,DK,DNK,208,National,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC13
+Denmark,DK,DNK,208,National,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC13
+Denmark,DK,DNK,208,National,13,Composting toilets,0.0,Eurostat SILC database - EUSILC13
+Denmark,DK,DNK,208,National,14,Other improved,0.0,Eurostat SILC database - EUSILC13
+Denmark,DK,DNK,208,National,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC13
+Denmark,DK,DNK,208,National,16,Other unimproved,0.006,Eurostat SILC database - EUSILC13
+Denmark,DK,DNK,208,National,17,DK/missing information,0.0,Eurostat SILC database - EUSILC13
+Denmark,DK,DNK,208,Urban,1,Flush and pour flush - to piped sewer system,0.991,Eurostat SILC database - EUSILC15
+Denmark,DK,DNK,208,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC15
+Denmark,DK,DNK,208,Urban,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC15
+Denmark,DK,DNK,208,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC15
+Denmark,DK,DNK,208,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC15
+Denmark,DK,DNK,208,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC15
+Denmark,DK,DNK,208,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC15
+Denmark,DK,DNK,208,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC15
+Denmark,DK,DNK,208,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC15
+Denmark,DK,DNK,208,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC15
+Denmark,DK,DNK,208,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC15
+Denmark,DK,DNK,208,Urban,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC15
+Denmark,DK,DNK,208,Urban,13,Composting toilets,0.0,Eurostat SILC database - EUSILC15
+Denmark,DK,DNK,208,Urban,14,Other improved,0.0,Eurostat SILC database - EUSILC15
+Denmark,DK,DNK,208,Urban,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC15
+Denmark,DK,DNK,208,Urban,16,Other unimproved,0.009,Eurostat SILC database - EUSILC15
+Denmark,DK,DNK,208,Urban,17,DK/missing information,0.0,Eurostat SILC database - EUSILC15
+Denmark,DK,DNK,208,Rural,1,Flush and pour flush - to piped sewer system,0.999,Eurostat SILC database - EUSILC15
+Denmark,DK,DNK,208,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC15
+Denmark,DK,DNK,208,Rural,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC15
+Denmark,DK,DNK,208,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC15
+Denmark,DK,DNK,208,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC15
+Denmark,DK,DNK,208,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC15
+Denmark,DK,DNK,208,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC15
+Denmark,DK,DNK,208,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC15
+Denmark,DK,DNK,208,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC15
+Denmark,DK,DNK,208,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC15
+Denmark,DK,DNK,208,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC15
+Denmark,DK,DNK,208,Rural,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC15
+Denmark,DK,DNK,208,Rural,13,Composting toilets,0.0,Eurostat SILC database - EUSILC15
+Denmark,DK,DNK,208,Rural,14,Other improved,0.0,Eurostat SILC database - EUSILC15
+Denmark,DK,DNK,208,Rural,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC15
+Denmark,DK,DNK,208,Rural,16,Other unimproved,0.001,Eurostat SILC database - EUSILC15
+Denmark,DK,DNK,208,Rural,17,DK/missing information,0.0,Eurostat SILC database - EUSILC15
+Denmark,DK,DNK,208,National,1,Flush and pour flush - to piped sewer system,0.994,Eurostat SILC database - EUSILC15
+Denmark,DK,DNK,208,National,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC15
+Denmark,DK,DNK,208,National,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC15
+Denmark,DK,DNK,208,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC15
+Denmark,DK,DNK,208,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC15
+Denmark,DK,DNK,208,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC15
+Denmark,DK,DNK,208,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC15
+Denmark,DK,DNK,208,National,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC15
+Denmark,DK,DNK,208,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC15
+Denmark,DK,DNK,208,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC15
+Denmark,DK,DNK,208,National,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC15
+Denmark,DK,DNK,208,National,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC15
+Denmark,DK,DNK,208,National,13,Composting toilets,0.0,Eurostat SILC database - EUSILC15
+Denmark,DK,DNK,208,National,14,Other improved,0.0,Eurostat SILC database - EUSILC15
+Denmark,DK,DNK,208,National,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC15
+Denmark,DK,DNK,208,National,16,Other unimproved,0.006,Eurostat SILC database - EUSILC15
+Denmark,DK,DNK,208,National,17,DK/missing information,0.0,Eurostat SILC database - EUSILC15

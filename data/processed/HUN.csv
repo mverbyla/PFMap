@@ -1,0 +1,1072 @@
+country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+Hungary,HU,HUN,348,Urban,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environment database - ES00
+Hungary,HU,HUN,348,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat environment database - ES00
+Hungary,HU,HUN,348,Urban,3,Flush and pour flush - to pit,0.0,Eurostat environment database - ES00
+Hungary,HU,HUN,348,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environment database - ES00
+Hungary,HU,HUN,348,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat environment database - ES00
+Hungary,HU,HUN,348,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environment database - ES00
+Hungary,HU,HUN,348,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environment database - ES00
+Hungary,HU,HUN,348,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat environment database - ES00
+Hungary,HU,HUN,348,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environment database - ES00
+Hungary,HU,HUN,348,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environment database - ES00
+Hungary,HU,HUN,348,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat environment database - ES00
+Hungary,HU,HUN,348,Urban,12,Dry latrines - Other,0.0,Eurostat environment database - ES00
+Hungary,HU,HUN,348,Urban,13,Composting toilets,0.0,Eurostat environment database - ES00
+Hungary,HU,HUN,348,Urban,14,Other improved,0.0,Eurostat environment database - ES00
+Hungary,HU,HUN,348,Urban,15,"No facility, bush, field",0.0,Eurostat environment database - ES00
+Hungary,HU,HUN,348,Urban,16,Other unimproved,0.0,Eurostat environment database - ES00
+Hungary,HU,HUN,348,Urban,17,DK/missing information,0.0,Eurostat environment database - ES00
+Hungary,HU,HUN,348,Rural,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environment database - ES00
+Hungary,HU,HUN,348,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat environment database - ES00
+Hungary,HU,HUN,348,Rural,3,Flush and pour flush - to pit,0.0,Eurostat environment database - ES00
+Hungary,HU,HUN,348,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environment database - ES00
+Hungary,HU,HUN,348,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat environment database - ES00
+Hungary,HU,HUN,348,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environment database - ES00
+Hungary,HU,HUN,348,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environment database - ES00
+Hungary,HU,HUN,348,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat environment database - ES00
+Hungary,HU,HUN,348,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environment database - ES00
+Hungary,HU,HUN,348,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environment database - ES00
+Hungary,HU,HUN,348,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat environment database - ES00
+Hungary,HU,HUN,348,Rural,12,Dry latrines - Other,0.0,Eurostat environment database - ES00
+Hungary,HU,HUN,348,Rural,13,Composting toilets,0.0,Eurostat environment database - ES00
+Hungary,HU,HUN,348,Rural,14,Other improved,0.0,Eurostat environment database - ES00
+Hungary,HU,HUN,348,Rural,15,"No facility, bush, field",0.0,Eurostat environment database - ES00
+Hungary,HU,HUN,348,Rural,16,Other unimproved,0.0,Eurostat environment database - ES00
+Hungary,HU,HUN,348,Rural,17,DK/missing information,0.0,Eurostat environment database - ES00
+Hungary,HU,HUN,348,National,1,Flush and pour flush - to piped sewer system,0.51,Eurostat environment database - ES00
+Hungary,HU,HUN,348,National,2,Flush and pour flush - to septic tank,0.49,Eurostat environment database - ES00
+Hungary,HU,HUN,348,National,3,Flush and pour flush - to pit,0.0,Eurostat environment database - ES00
+Hungary,HU,HUN,348,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environment database - ES00
+Hungary,HU,HUN,348,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat environment database - ES00
+Hungary,HU,HUN,348,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environment database - ES00
+Hungary,HU,HUN,348,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environment database - ES00
+Hungary,HU,HUN,348,National,8,Dry latrines - Traditional latrine,0.0,Eurostat environment database - ES00
+Hungary,HU,HUN,348,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environment database - ES00
+Hungary,HU,HUN,348,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environment database - ES00
+Hungary,HU,HUN,348,National,11,Dry latrines - Bucket latrine,0.0,Eurostat environment database - ES00
+Hungary,HU,HUN,348,National,12,Dry latrines - Other,0.0,Eurostat environment database - ES00
+Hungary,HU,HUN,348,National,13,Composting toilets,0.0,Eurostat environment database - ES00
+Hungary,HU,HUN,348,National,14,Other improved,0.0,Eurostat environment database - ES00
+Hungary,HU,HUN,348,National,15,"No facility, bush, field",0.0,Eurostat environment database - ES00
+Hungary,HU,HUN,348,National,16,Other unimproved,0.0,Eurostat environment database - ES00
+Hungary,HU,HUN,348,National,17,DK/missing information,0.0,Eurostat environment database - ES00
+Hungary,HU,HUN,348,Urban,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environment database - ES01
+Hungary,HU,HUN,348,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat environment database - ES01
+Hungary,HU,HUN,348,Urban,3,Flush and pour flush - to pit,0.0,Eurostat environment database - ES01
+Hungary,HU,HUN,348,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environment database - ES01
+Hungary,HU,HUN,348,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat environment database - ES01
+Hungary,HU,HUN,348,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environment database - ES01
+Hungary,HU,HUN,348,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environment database - ES01
+Hungary,HU,HUN,348,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat environment database - ES01
+Hungary,HU,HUN,348,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environment database - ES01
+Hungary,HU,HUN,348,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environment database - ES01
+Hungary,HU,HUN,348,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat environment database - ES01
+Hungary,HU,HUN,348,Urban,12,Dry latrines - Other,0.0,Eurostat environment database - ES01
+Hungary,HU,HUN,348,Urban,13,Composting toilets,0.0,Eurostat environment database - ES01
+Hungary,HU,HUN,348,Urban,14,Other improved,0.0,Eurostat environment database - ES01
+Hungary,HU,HUN,348,Urban,15,"No facility, bush, field",0.0,Eurostat environment database - ES01
+Hungary,HU,HUN,348,Urban,16,Other unimproved,0.0,Eurostat environment database - ES01
+Hungary,HU,HUN,348,Urban,17,DK/missing information,0.0,Eurostat environment database - ES01
+Hungary,HU,HUN,348,Rural,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environment database - ES01
+Hungary,HU,HUN,348,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat environment database - ES01
+Hungary,HU,HUN,348,Rural,3,Flush and pour flush - to pit,0.0,Eurostat environment database - ES01
+Hungary,HU,HUN,348,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environment database - ES01
+Hungary,HU,HUN,348,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat environment database - ES01
+Hungary,HU,HUN,348,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environment database - ES01
+Hungary,HU,HUN,348,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environment database - ES01
+Hungary,HU,HUN,348,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat environment database - ES01
+Hungary,HU,HUN,348,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environment database - ES01
+Hungary,HU,HUN,348,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environment database - ES01
+Hungary,HU,HUN,348,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat environment database - ES01
+Hungary,HU,HUN,348,Rural,12,Dry latrines - Other,0.0,Eurostat environment database - ES01
+Hungary,HU,HUN,348,Rural,13,Composting toilets,0.0,Eurostat environment database - ES01
+Hungary,HU,HUN,348,Rural,14,Other improved,0.0,Eurostat environment database - ES01
+Hungary,HU,HUN,348,Rural,15,"No facility, bush, field",0.0,Eurostat environment database - ES01
+Hungary,HU,HUN,348,Rural,16,Other unimproved,0.0,Eurostat environment database - ES01
+Hungary,HU,HUN,348,Rural,17,DK/missing information,0.0,Eurostat environment database - ES01
+Hungary,HU,HUN,348,National,1,Flush and pour flush - to piped sewer system,0.54,Eurostat environment database - ES01
+Hungary,HU,HUN,348,National,2,Flush and pour flush - to septic tank,0.47,Eurostat environment database - ES01
+Hungary,HU,HUN,348,National,3,Flush and pour flush - to pit,0.0,Eurostat environment database - ES01
+Hungary,HU,HUN,348,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environment database - ES01
+Hungary,HU,HUN,348,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat environment database - ES01
+Hungary,HU,HUN,348,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environment database - ES01
+Hungary,HU,HUN,348,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environment database - ES01
+Hungary,HU,HUN,348,National,8,Dry latrines - Traditional latrine,0.0,Eurostat environment database - ES01
+Hungary,HU,HUN,348,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environment database - ES01
+Hungary,HU,HUN,348,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environment database - ES01
+Hungary,HU,HUN,348,National,11,Dry latrines - Bucket latrine,0.0,Eurostat environment database - ES01
+Hungary,HU,HUN,348,National,12,Dry latrines - Other,0.0,Eurostat environment database - ES01
+Hungary,HU,HUN,348,National,13,Composting toilets,0.0,Eurostat environment database - ES01
+Hungary,HU,HUN,348,National,14,Other improved,0.0,Eurostat environment database - ES01
+Hungary,HU,HUN,348,National,15,"No facility, bush, field",0.0,Eurostat environment database - ES01
+Hungary,HU,HUN,348,National,16,Other unimproved,0.0,Eurostat environment database - ES01
+Hungary,HU,HUN,348,National,17,DK/missing information,0.0,Eurostat environment database - ES01
+Hungary,HU,HUN,348,Urban,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environment database - ES02
+Hungary,HU,HUN,348,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat environment database - ES02
+Hungary,HU,HUN,348,Urban,3,Flush and pour flush - to pit,0.0,Eurostat environment database - ES02
+Hungary,HU,HUN,348,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environment database - ES02
+Hungary,HU,HUN,348,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat environment database - ES02
+Hungary,HU,HUN,348,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environment database - ES02
+Hungary,HU,HUN,348,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environment database - ES02
+Hungary,HU,HUN,348,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat environment database - ES02
+Hungary,HU,HUN,348,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environment database - ES02
+Hungary,HU,HUN,348,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environment database - ES02
+Hungary,HU,HUN,348,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat environment database - ES02
+Hungary,HU,HUN,348,Urban,12,Dry latrines - Other,0.0,Eurostat environment database - ES02
+Hungary,HU,HUN,348,Urban,13,Composting toilets,0.0,Eurostat environment database - ES02
+Hungary,HU,HUN,348,Urban,14,Other improved,0.0,Eurostat environment database - ES02
+Hungary,HU,HUN,348,Urban,15,"No facility, bush, field",0.0,Eurostat environment database - ES02
+Hungary,HU,HUN,348,Urban,16,Other unimproved,0.0,Eurostat environment database - ES02
+Hungary,HU,HUN,348,Urban,17,DK/missing information,0.0,Eurostat environment database - ES02
+Hungary,HU,HUN,348,Rural,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environment database - ES02
+Hungary,HU,HUN,348,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat environment database - ES02
+Hungary,HU,HUN,348,Rural,3,Flush and pour flush - to pit,0.0,Eurostat environment database - ES02
+Hungary,HU,HUN,348,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environment database - ES02
+Hungary,HU,HUN,348,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat environment database - ES02
+Hungary,HU,HUN,348,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environment database - ES02
+Hungary,HU,HUN,348,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environment database - ES02
+Hungary,HU,HUN,348,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat environment database - ES02
+Hungary,HU,HUN,348,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environment database - ES02
+Hungary,HU,HUN,348,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environment database - ES02
+Hungary,HU,HUN,348,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat environment database - ES02
+Hungary,HU,HUN,348,Rural,12,Dry latrines - Other,0.0,Eurostat environment database - ES02
+Hungary,HU,HUN,348,Rural,13,Composting toilets,0.0,Eurostat environment database - ES02
+Hungary,HU,HUN,348,Rural,14,Other improved,0.0,Eurostat environment database - ES02
+Hungary,HU,HUN,348,Rural,15,"No facility, bush, field",0.0,Eurostat environment database - ES02
+Hungary,HU,HUN,348,Rural,16,Other unimproved,0.0,Eurostat environment database - ES02
+Hungary,HU,HUN,348,Rural,17,DK/missing information,0.0,Eurostat environment database - ES02
+Hungary,HU,HUN,348,National,1,Flush and pour flush - to piped sewer system,0.62,Eurostat environment database - ES02
+Hungary,HU,HUN,348,National,2,Flush and pour flush - to septic tank,0.39,Eurostat environment database - ES02
+Hungary,HU,HUN,348,National,3,Flush and pour flush - to pit,0.0,Eurostat environment database - ES02
+Hungary,HU,HUN,348,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environment database - ES02
+Hungary,HU,HUN,348,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat environment database - ES02
+Hungary,HU,HUN,348,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environment database - ES02
+Hungary,HU,HUN,348,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environment database - ES02
+Hungary,HU,HUN,348,National,8,Dry latrines - Traditional latrine,0.0,Eurostat environment database - ES02
+Hungary,HU,HUN,348,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environment database - ES02
+Hungary,HU,HUN,348,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environment database - ES02
+Hungary,HU,HUN,348,National,11,Dry latrines - Bucket latrine,0.0,Eurostat environment database - ES02
+Hungary,HU,HUN,348,National,12,Dry latrines - Other,0.0,Eurostat environment database - ES02
+Hungary,HU,HUN,348,National,13,Composting toilets,0.0,Eurostat environment database - ES02
+Hungary,HU,HUN,348,National,14,Other improved,0.0,Eurostat environment database - ES02
+Hungary,HU,HUN,348,National,15,"No facility, bush, field",0.0,Eurostat environment database - ES02
+Hungary,HU,HUN,348,National,16,Other unimproved,0.0,Eurostat environment database - ES02
+Hungary,HU,HUN,348,National,17,DK/missing information,0.0,Eurostat environment database - ES02
+Hungary,HU,HUN,348,Urban,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environment database - ES05
+Hungary,HU,HUN,348,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat environment database - ES05
+Hungary,HU,HUN,348,Urban,3,Flush and pour flush - to pit,0.0,Eurostat environment database - ES05
+Hungary,HU,HUN,348,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environment database - ES05
+Hungary,HU,HUN,348,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat environment database - ES05
+Hungary,HU,HUN,348,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environment database - ES05
+Hungary,HU,HUN,348,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environment database - ES05
+Hungary,HU,HUN,348,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat environment database - ES05
+Hungary,HU,HUN,348,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environment database - ES05
+Hungary,HU,HUN,348,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environment database - ES05
+Hungary,HU,HUN,348,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat environment database - ES05
+Hungary,HU,HUN,348,Urban,12,Dry latrines - Other,0.0,Eurostat environment database - ES05
+Hungary,HU,HUN,348,Urban,13,Composting toilets,0.0,Eurostat environment database - ES05
+Hungary,HU,HUN,348,Urban,14,Other improved,0.0,Eurostat environment database - ES05
+Hungary,HU,HUN,348,Urban,15,"No facility, bush, field",0.0,Eurostat environment database - ES05
+Hungary,HU,HUN,348,Urban,16,Other unimproved,0.0,Eurostat environment database - ES05
+Hungary,HU,HUN,348,Urban,17,DK/missing information,0.0,Eurostat environment database - ES05
+Hungary,HU,HUN,348,Rural,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environment database - ES05
+Hungary,HU,HUN,348,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat environment database - ES05
+Hungary,HU,HUN,348,Rural,3,Flush and pour flush - to pit,0.0,Eurostat environment database - ES05
+Hungary,HU,HUN,348,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environment database - ES05
+Hungary,HU,HUN,348,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat environment database - ES05
+Hungary,HU,HUN,348,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environment database - ES05
+Hungary,HU,HUN,348,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environment database - ES05
+Hungary,HU,HUN,348,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat environment database - ES05
+Hungary,HU,HUN,348,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environment database - ES05
+Hungary,HU,HUN,348,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environment database - ES05
+Hungary,HU,HUN,348,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat environment database - ES05
+Hungary,HU,HUN,348,Rural,12,Dry latrines - Other,0.0,Eurostat environment database - ES05
+Hungary,HU,HUN,348,Rural,13,Composting toilets,0.0,Eurostat environment database - ES05
+Hungary,HU,HUN,348,Rural,14,Other improved,0.0,Eurostat environment database - ES05
+Hungary,HU,HUN,348,Rural,15,"No facility, bush, field",0.0,Eurostat environment database - ES05
+Hungary,HU,HUN,348,Rural,16,Other unimproved,0.0,Eurostat environment database - ES05
+Hungary,HU,HUN,348,Rural,17,DK/missing information,0.0,Eurostat environment database - ES05
+Hungary,HU,HUN,348,National,1,Flush and pour flush - to piped sewer system,0.606,Eurostat environment database - ES05
+Hungary,HU,HUN,348,National,2,Flush and pour flush - to septic tank,0.0,Eurostat environment database - ES05
+Hungary,HU,HUN,348,National,3,Flush and pour flush - to pit,0.0,Eurostat environment database - ES05
+Hungary,HU,HUN,348,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environment database - ES05
+Hungary,HU,HUN,348,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat environment database - ES05
+Hungary,HU,HUN,348,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environment database - ES05
+Hungary,HU,HUN,348,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environment database - ES05
+Hungary,HU,HUN,348,National,8,Dry latrines - Traditional latrine,0.0,Eurostat environment database - ES05
+Hungary,HU,HUN,348,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environment database - ES05
+Hungary,HU,HUN,348,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environment database - ES05
+Hungary,HU,HUN,348,National,11,Dry latrines - Bucket latrine,0.0,Eurostat environment database - ES05
+Hungary,HU,HUN,348,National,12,Dry latrines - Other,0.0,Eurostat environment database - ES05
+Hungary,HU,HUN,348,National,13,Composting toilets,0.0,Eurostat environment database - ES05
+Hungary,HU,HUN,348,National,14,Other improved,0.0,Eurostat environment database - ES05
+Hungary,HU,HUN,348,National,15,"No facility, bush, field",0.0,Eurostat environment database - ES05
+Hungary,HU,HUN,348,National,16,Other unimproved,0.0,Eurostat environment database - ES05
+Hungary,HU,HUN,348,National,17,DK/missing information,0.0,Eurostat environment database - ES05
+Hungary,HU,HUN,348,Urban,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environment database - ES06
+Hungary,HU,HUN,348,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat environment database - ES06
+Hungary,HU,HUN,348,Urban,3,Flush and pour flush - to pit,0.0,Eurostat environment database - ES06
+Hungary,HU,HUN,348,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environment database - ES06
+Hungary,HU,HUN,348,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat environment database - ES06
+Hungary,HU,HUN,348,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environment database - ES06
+Hungary,HU,HUN,348,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environment database - ES06
+Hungary,HU,HUN,348,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat environment database - ES06
+Hungary,HU,HUN,348,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environment database - ES06
+Hungary,HU,HUN,348,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environment database - ES06
+Hungary,HU,HUN,348,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat environment database - ES06
+Hungary,HU,HUN,348,Urban,12,Dry latrines - Other,0.0,Eurostat environment database - ES06
+Hungary,HU,HUN,348,Urban,13,Composting toilets,0.0,Eurostat environment database - ES06
+Hungary,HU,HUN,348,Urban,14,Other improved,0.0,Eurostat environment database - ES06
+Hungary,HU,HUN,348,Urban,15,"No facility, bush, field",0.0,Eurostat environment database - ES06
+Hungary,HU,HUN,348,Urban,16,Other unimproved,0.0,Eurostat environment database - ES06
+Hungary,HU,HUN,348,Urban,17,DK/missing information,0.0,Eurostat environment database - ES06
+Hungary,HU,HUN,348,Rural,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environment database - ES06
+Hungary,HU,HUN,348,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat environment database - ES06
+Hungary,HU,HUN,348,Rural,3,Flush and pour flush - to pit,0.0,Eurostat environment database - ES06
+Hungary,HU,HUN,348,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environment database - ES06
+Hungary,HU,HUN,348,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat environment database - ES06
+Hungary,HU,HUN,348,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environment database - ES06
+Hungary,HU,HUN,348,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environment database - ES06
+Hungary,HU,HUN,348,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat environment database - ES06
+Hungary,HU,HUN,348,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environment database - ES06
+Hungary,HU,HUN,348,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environment database - ES06
+Hungary,HU,HUN,348,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat environment database - ES06
+Hungary,HU,HUN,348,Rural,12,Dry latrines - Other,0.0,Eurostat environment database - ES06
+Hungary,HU,HUN,348,Rural,13,Composting toilets,0.0,Eurostat environment database - ES06
+Hungary,HU,HUN,348,Rural,14,Other improved,0.0,Eurostat environment database - ES06
+Hungary,HU,HUN,348,Rural,15,"No facility, bush, field",0.0,Eurostat environment database - ES06
+Hungary,HU,HUN,348,Rural,16,Other unimproved,0.0,Eurostat environment database - ES06
+Hungary,HU,HUN,348,Rural,17,DK/missing information,0.0,Eurostat environment database - ES06
+Hungary,HU,HUN,348,National,1,Flush and pour flush - to piped sewer system,0.634,Eurostat environment database - ES06
+Hungary,HU,HUN,348,National,2,Flush and pour flush - to septic tank,0.0,Eurostat environment database - ES06
+Hungary,HU,HUN,348,National,3,Flush and pour flush - to pit,0.0,Eurostat environment database - ES06
+Hungary,HU,HUN,348,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environment database - ES06
+Hungary,HU,HUN,348,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat environment database - ES06
+Hungary,HU,HUN,348,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environment database - ES06
+Hungary,HU,HUN,348,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environment database - ES06
+Hungary,HU,HUN,348,National,8,Dry latrines - Traditional latrine,0.0,Eurostat environment database - ES06
+Hungary,HU,HUN,348,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environment database - ES06
+Hungary,HU,HUN,348,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environment database - ES06
+Hungary,HU,HUN,348,National,11,Dry latrines - Bucket latrine,0.0,Eurostat environment database - ES06
+Hungary,HU,HUN,348,National,12,Dry latrines - Other,0.0,Eurostat environment database - ES06
+Hungary,HU,HUN,348,National,13,Composting toilets,0.0,Eurostat environment database - ES06
+Hungary,HU,HUN,348,National,14,Other improved,0.0,Eurostat environment database - ES06
+Hungary,HU,HUN,348,National,15,"No facility, bush, field",0.0,Eurostat environment database - ES06
+Hungary,HU,HUN,348,National,16,Other unimproved,0.0,Eurostat environment database - ES06
+Hungary,HU,HUN,348,National,17,DK/missing information,0.0,Eurostat environment database - ES06
+Hungary,HU,HUN,348,Urban,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environment database - ES07
+Hungary,HU,HUN,348,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat environment database - ES07
+Hungary,HU,HUN,348,Urban,3,Flush and pour flush - to pit,0.0,Eurostat environment database - ES07
+Hungary,HU,HUN,348,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environment database - ES07
+Hungary,HU,HUN,348,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat environment database - ES07
+Hungary,HU,HUN,348,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environment database - ES07
+Hungary,HU,HUN,348,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environment database - ES07
+Hungary,HU,HUN,348,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat environment database - ES07
+Hungary,HU,HUN,348,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environment database - ES07
+Hungary,HU,HUN,348,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environment database - ES07
+Hungary,HU,HUN,348,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat environment database - ES07
+Hungary,HU,HUN,348,Urban,12,Dry latrines - Other,0.0,Eurostat environment database - ES07
+Hungary,HU,HUN,348,Urban,13,Composting toilets,0.0,Eurostat environment database - ES07
+Hungary,HU,HUN,348,Urban,14,Other improved,0.0,Eurostat environment database - ES07
+Hungary,HU,HUN,348,Urban,15,"No facility, bush, field",0.0,Eurostat environment database - ES07
+Hungary,HU,HUN,348,Urban,16,Other unimproved,0.0,Eurostat environment database - ES07
+Hungary,HU,HUN,348,Urban,17,DK/missing information,0.0,Eurostat environment database - ES07
+Hungary,HU,HUN,348,Rural,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environment database - ES07
+Hungary,HU,HUN,348,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat environment database - ES07
+Hungary,HU,HUN,348,Rural,3,Flush and pour flush - to pit,0.0,Eurostat environment database - ES07
+Hungary,HU,HUN,348,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environment database - ES07
+Hungary,HU,HUN,348,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat environment database - ES07
+Hungary,HU,HUN,348,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environment database - ES07
+Hungary,HU,HUN,348,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environment database - ES07
+Hungary,HU,HUN,348,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat environment database - ES07
+Hungary,HU,HUN,348,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environment database - ES07
+Hungary,HU,HUN,348,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environment database - ES07
+Hungary,HU,HUN,348,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat environment database - ES07
+Hungary,HU,HUN,348,Rural,12,Dry latrines - Other,0.0,Eurostat environment database - ES07
+Hungary,HU,HUN,348,Rural,13,Composting toilets,0.0,Eurostat environment database - ES07
+Hungary,HU,HUN,348,Rural,14,Other improved,0.0,Eurostat environment database - ES07
+Hungary,HU,HUN,348,Rural,15,"No facility, bush, field",0.0,Eurostat environment database - ES07
+Hungary,HU,HUN,348,Rural,16,Other unimproved,0.0,Eurostat environment database - ES07
+Hungary,HU,HUN,348,Rural,17,DK/missing information,0.0,Eurostat environment database - ES07
+Hungary,HU,HUN,348,National,1,Flush and pour flush - to piped sewer system,0.665,Eurostat environment database - ES07
+Hungary,HU,HUN,348,National,2,Flush and pour flush - to septic tank,0.0,Eurostat environment database - ES07
+Hungary,HU,HUN,348,National,3,Flush and pour flush - to pit,0.0,Eurostat environment database - ES07
+Hungary,HU,HUN,348,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environment database - ES07
+Hungary,HU,HUN,348,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat environment database - ES07
+Hungary,HU,HUN,348,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environment database - ES07
+Hungary,HU,HUN,348,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environment database - ES07
+Hungary,HU,HUN,348,National,8,Dry latrines - Traditional latrine,0.0,Eurostat environment database - ES07
+Hungary,HU,HUN,348,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environment database - ES07
+Hungary,HU,HUN,348,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environment database - ES07
+Hungary,HU,HUN,348,National,11,Dry latrines - Bucket latrine,0.0,Eurostat environment database - ES07
+Hungary,HU,HUN,348,National,12,Dry latrines - Other,0.0,Eurostat environment database - ES07
+Hungary,HU,HUN,348,National,13,Composting toilets,0.0,Eurostat environment database - ES07
+Hungary,HU,HUN,348,National,14,Other improved,0.0,Eurostat environment database - ES07
+Hungary,HU,HUN,348,National,15,"No facility, bush, field",0.0,Eurostat environment database - ES07
+Hungary,HU,HUN,348,National,16,Other unimproved,0.0,Eurostat environment database - ES07
+Hungary,HU,HUN,348,National,17,DK/missing information,0.0,Eurostat environment database - ES07
+Hungary,HU,HUN,348,Urban,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environment database - ES08
+Hungary,HU,HUN,348,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat environment database - ES08
+Hungary,HU,HUN,348,Urban,3,Flush and pour flush - to pit,0.0,Eurostat environment database - ES08
+Hungary,HU,HUN,348,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environment database - ES08
+Hungary,HU,HUN,348,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat environment database - ES08
+Hungary,HU,HUN,348,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environment database - ES08
+Hungary,HU,HUN,348,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environment database - ES08
+Hungary,HU,HUN,348,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat environment database - ES08
+Hungary,HU,HUN,348,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environment database - ES08
+Hungary,HU,HUN,348,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environment database - ES08
+Hungary,HU,HUN,348,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat environment database - ES08
+Hungary,HU,HUN,348,Urban,12,Dry latrines - Other,0.0,Eurostat environment database - ES08
+Hungary,HU,HUN,348,Urban,13,Composting toilets,0.0,Eurostat environment database - ES08
+Hungary,HU,HUN,348,Urban,14,Other improved,0.0,Eurostat environment database - ES08
+Hungary,HU,HUN,348,Urban,15,"No facility, bush, field",0.0,Eurostat environment database - ES08
+Hungary,HU,HUN,348,Urban,16,Other unimproved,0.0,Eurostat environment database - ES08
+Hungary,HU,HUN,348,Urban,17,DK/missing information,0.0,Eurostat environment database - ES08
+Hungary,HU,HUN,348,Rural,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environment database - ES08
+Hungary,HU,HUN,348,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat environment database - ES08
+Hungary,HU,HUN,348,Rural,3,Flush and pour flush - to pit,0.0,Eurostat environment database - ES08
+Hungary,HU,HUN,348,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environment database - ES08
+Hungary,HU,HUN,348,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat environment database - ES08
+Hungary,HU,HUN,348,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environment database - ES08
+Hungary,HU,HUN,348,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environment database - ES08
+Hungary,HU,HUN,348,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat environment database - ES08
+Hungary,HU,HUN,348,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environment database - ES08
+Hungary,HU,HUN,348,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environment database - ES08
+Hungary,HU,HUN,348,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat environment database - ES08
+Hungary,HU,HUN,348,Rural,12,Dry latrines - Other,0.0,Eurostat environment database - ES08
+Hungary,HU,HUN,348,Rural,13,Composting toilets,0.0,Eurostat environment database - ES08
+Hungary,HU,HUN,348,Rural,14,Other improved,0.0,Eurostat environment database - ES08
+Hungary,HU,HUN,348,Rural,15,"No facility, bush, field",0.0,Eurostat environment database - ES08
+Hungary,HU,HUN,348,Rural,16,Other unimproved,0.0,Eurostat environment database - ES08
+Hungary,HU,HUN,348,Rural,17,DK/missing information,0.0,Eurostat environment database - ES08
+Hungary,HU,HUN,348,National,1,Flush and pour flush - to piped sewer system,0.677,Eurostat environment database - ES08
+Hungary,HU,HUN,348,National,2,Flush and pour flush - to septic tank,0.0,Eurostat environment database - ES08
+Hungary,HU,HUN,348,National,3,Flush and pour flush - to pit,0.0,Eurostat environment database - ES08
+Hungary,HU,HUN,348,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environment database - ES08
+Hungary,HU,HUN,348,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat environment database - ES08
+Hungary,HU,HUN,348,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environment database - ES08
+Hungary,HU,HUN,348,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environment database - ES08
+Hungary,HU,HUN,348,National,8,Dry latrines - Traditional latrine,0.0,Eurostat environment database - ES08
+Hungary,HU,HUN,348,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environment database - ES08
+Hungary,HU,HUN,348,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environment database - ES08
+Hungary,HU,HUN,348,National,11,Dry latrines - Bucket latrine,0.0,Eurostat environment database - ES08
+Hungary,HU,HUN,348,National,12,Dry latrines - Other,0.0,Eurostat environment database - ES08
+Hungary,HU,HUN,348,National,13,Composting toilets,0.0,Eurostat environment database - ES08
+Hungary,HU,HUN,348,National,14,Other improved,0.0,Eurostat environment database - ES08
+Hungary,HU,HUN,348,National,15,"No facility, bush, field",0.0,Eurostat environment database - ES08
+Hungary,HU,HUN,348,National,16,Other unimproved,0.0,Eurostat environment database - ES08
+Hungary,HU,HUN,348,National,17,DK/missing information,0.0,Eurostat environment database - ES08
+Hungary,HU,HUN,348,Urban,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environment database - ES09
+Hungary,HU,HUN,348,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat environment database - ES09
+Hungary,HU,HUN,348,Urban,3,Flush and pour flush - to pit,0.0,Eurostat environment database - ES09
+Hungary,HU,HUN,348,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environment database - ES09
+Hungary,HU,HUN,348,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat environment database - ES09
+Hungary,HU,HUN,348,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environment database - ES09
+Hungary,HU,HUN,348,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environment database - ES09
+Hungary,HU,HUN,348,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat environment database - ES09
+Hungary,HU,HUN,348,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environment database - ES09
+Hungary,HU,HUN,348,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environment database - ES09
+Hungary,HU,HUN,348,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat environment database - ES09
+Hungary,HU,HUN,348,Urban,12,Dry latrines - Other,0.0,Eurostat environment database - ES09
+Hungary,HU,HUN,348,Urban,13,Composting toilets,0.0,Eurostat environment database - ES09
+Hungary,HU,HUN,348,Urban,14,Other improved,0.0,Eurostat environment database - ES09
+Hungary,HU,HUN,348,Urban,15,"No facility, bush, field",0.0,Eurostat environment database - ES09
+Hungary,HU,HUN,348,Urban,16,Other unimproved,0.0,Eurostat environment database - ES09
+Hungary,HU,HUN,348,Urban,17,DK/missing information,0.0,Eurostat environment database - ES09
+Hungary,HU,HUN,348,Rural,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environment database - ES09
+Hungary,HU,HUN,348,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat environment database - ES09
+Hungary,HU,HUN,348,Rural,3,Flush and pour flush - to pit,0.0,Eurostat environment database - ES09
+Hungary,HU,HUN,348,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environment database - ES09
+Hungary,HU,HUN,348,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat environment database - ES09
+Hungary,HU,HUN,348,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environment database - ES09
+Hungary,HU,HUN,348,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environment database - ES09
+Hungary,HU,HUN,348,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat environment database - ES09
+Hungary,HU,HUN,348,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environment database - ES09
+Hungary,HU,HUN,348,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environment database - ES09
+Hungary,HU,HUN,348,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat environment database - ES09
+Hungary,HU,HUN,348,Rural,12,Dry latrines - Other,0.0,Eurostat environment database - ES09
+Hungary,HU,HUN,348,Rural,13,Composting toilets,0.0,Eurostat environment database - ES09
+Hungary,HU,HUN,348,Rural,14,Other improved,0.0,Eurostat environment database - ES09
+Hungary,HU,HUN,348,Rural,15,"No facility, bush, field",0.0,Eurostat environment database - ES09
+Hungary,HU,HUN,348,Rural,16,Other unimproved,0.0,Eurostat environment database - ES09
+Hungary,HU,HUN,348,Rural,17,DK/missing information,0.0,Eurostat environment database - ES09
+Hungary,HU,HUN,348,National,1,Flush and pour flush - to piped sewer system,0.688,Eurostat environment database - ES09
+Hungary,HU,HUN,348,National,2,Flush and pour flush - to septic tank,0.0,Eurostat environment database - ES09
+Hungary,HU,HUN,348,National,3,Flush and pour flush - to pit,0.0,Eurostat environment database - ES09
+Hungary,HU,HUN,348,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environment database - ES09
+Hungary,HU,HUN,348,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat environment database - ES09
+Hungary,HU,HUN,348,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environment database - ES09
+Hungary,HU,HUN,348,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environment database - ES09
+Hungary,HU,HUN,348,National,8,Dry latrines - Traditional latrine,0.0,Eurostat environment database - ES09
+Hungary,HU,HUN,348,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environment database - ES09
+Hungary,HU,HUN,348,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environment database - ES09
+Hungary,HU,HUN,348,National,11,Dry latrines - Bucket latrine,0.0,Eurostat environment database - ES09
+Hungary,HU,HUN,348,National,12,Dry latrines - Other,0.0,Eurostat environment database - ES09
+Hungary,HU,HUN,348,National,13,Composting toilets,0.0,Eurostat environment database - ES09
+Hungary,HU,HUN,348,National,14,Other improved,0.0,Eurostat environment database - ES09
+Hungary,HU,HUN,348,National,15,"No facility, bush, field",0.0,Eurostat environment database - ES09
+Hungary,HU,HUN,348,National,16,Other unimproved,0.0,Eurostat environment database - ES09
+Hungary,HU,HUN,348,National,17,DK/missing information,0.0,Eurostat environment database - ES09
+Hungary,HU,HUN,348,Urban,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environment database - ES10
+Hungary,HU,HUN,348,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat environment database - ES10
+Hungary,HU,HUN,348,Urban,3,Flush and pour flush - to pit,0.0,Eurostat environment database - ES10
+Hungary,HU,HUN,348,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environment database - ES10
+Hungary,HU,HUN,348,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat environment database - ES10
+Hungary,HU,HUN,348,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environment database - ES10
+Hungary,HU,HUN,348,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environment database - ES10
+Hungary,HU,HUN,348,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat environment database - ES10
+Hungary,HU,HUN,348,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environment database - ES10
+Hungary,HU,HUN,348,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environment database - ES10
+Hungary,HU,HUN,348,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat environment database - ES10
+Hungary,HU,HUN,348,Urban,12,Dry latrines - Other,0.0,Eurostat environment database - ES10
+Hungary,HU,HUN,348,Urban,13,Composting toilets,0.0,Eurostat environment database - ES10
+Hungary,HU,HUN,348,Urban,14,Other improved,0.0,Eurostat environment database - ES10
+Hungary,HU,HUN,348,Urban,15,"No facility, bush, field",0.0,Eurostat environment database - ES10
+Hungary,HU,HUN,348,Urban,16,Other unimproved,0.0,Eurostat environment database - ES10
+Hungary,HU,HUN,348,Urban,17,DK/missing information,0.0,Eurostat environment database - ES10
+Hungary,HU,HUN,348,Rural,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environment database - ES10
+Hungary,HU,HUN,348,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat environment database - ES10
+Hungary,HU,HUN,348,Rural,3,Flush and pour flush - to pit,0.0,Eurostat environment database - ES10
+Hungary,HU,HUN,348,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environment database - ES10
+Hungary,HU,HUN,348,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat environment database - ES10
+Hungary,HU,HUN,348,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environment database - ES10
+Hungary,HU,HUN,348,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environment database - ES10
+Hungary,HU,HUN,348,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat environment database - ES10
+Hungary,HU,HUN,348,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environment database - ES10
+Hungary,HU,HUN,348,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environment database - ES10
+Hungary,HU,HUN,348,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat environment database - ES10
+Hungary,HU,HUN,348,Rural,12,Dry latrines - Other,0.0,Eurostat environment database - ES10
+Hungary,HU,HUN,348,Rural,13,Composting toilets,0.0,Eurostat environment database - ES10
+Hungary,HU,HUN,348,Rural,14,Other improved,0.0,Eurostat environment database - ES10
+Hungary,HU,HUN,348,Rural,15,"No facility, bush, field",0.0,Eurostat environment database - ES10
+Hungary,HU,HUN,348,Rural,16,Other unimproved,0.0,Eurostat environment database - ES10
+Hungary,HU,HUN,348,Rural,17,DK/missing information,0.0,Eurostat environment database - ES10
+Hungary,HU,HUN,348,National,1,Flush and pour flush - to piped sewer system,0.718,Eurostat environment database - ES10
+Hungary,HU,HUN,348,National,2,Flush and pour flush - to septic tank,0.0,Eurostat environment database - ES10
+Hungary,HU,HUN,348,National,3,Flush and pour flush - to pit,0.0,Eurostat environment database - ES10
+Hungary,HU,HUN,348,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environment database - ES10
+Hungary,HU,HUN,348,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat environment database - ES10
+Hungary,HU,HUN,348,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environment database - ES10
+Hungary,HU,HUN,348,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environment database - ES10
+Hungary,HU,HUN,348,National,8,Dry latrines - Traditional latrine,0.0,Eurostat environment database - ES10
+Hungary,HU,HUN,348,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environment database - ES10
+Hungary,HU,HUN,348,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environment database - ES10
+Hungary,HU,HUN,348,National,11,Dry latrines - Bucket latrine,0.0,Eurostat environment database - ES10
+Hungary,HU,HUN,348,National,12,Dry latrines - Other,0.0,Eurostat environment database - ES10
+Hungary,HU,HUN,348,National,13,Composting toilets,0.0,Eurostat environment database - ES10
+Hungary,HU,HUN,348,National,14,Other improved,0.0,Eurostat environment database - ES10
+Hungary,HU,HUN,348,National,15,"No facility, bush, field",0.0,Eurostat environment database - ES10
+Hungary,HU,HUN,348,National,16,Other unimproved,0.0,Eurostat environment database - ES10
+Hungary,HU,HUN,348,National,17,DK/missing information,0.0,Eurostat environment database - ES10
+Hungary,HU,HUN,348,Urban,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environment database - ES11
+Hungary,HU,HUN,348,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat environment database - ES11
+Hungary,HU,HUN,348,Urban,3,Flush and pour flush - to pit,0.0,Eurostat environment database - ES11
+Hungary,HU,HUN,348,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environment database - ES11
+Hungary,HU,HUN,348,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat environment database - ES11
+Hungary,HU,HUN,348,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environment database - ES11
+Hungary,HU,HUN,348,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environment database - ES11
+Hungary,HU,HUN,348,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat environment database - ES11
+Hungary,HU,HUN,348,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environment database - ES11
+Hungary,HU,HUN,348,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environment database - ES11
+Hungary,HU,HUN,348,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat environment database - ES11
+Hungary,HU,HUN,348,Urban,12,Dry latrines - Other,0.0,Eurostat environment database - ES11
+Hungary,HU,HUN,348,Urban,13,Composting toilets,0.0,Eurostat environment database - ES11
+Hungary,HU,HUN,348,Urban,14,Other improved,0.0,Eurostat environment database - ES11
+Hungary,HU,HUN,348,Urban,15,"No facility, bush, field",0.0,Eurostat environment database - ES11
+Hungary,HU,HUN,348,Urban,16,Other unimproved,0.0,Eurostat environment database - ES11
+Hungary,HU,HUN,348,Urban,17,DK/missing information,0.0,Eurostat environment database - ES11
+Hungary,HU,HUN,348,Rural,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environment database - ES11
+Hungary,HU,HUN,348,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat environment database - ES11
+Hungary,HU,HUN,348,Rural,3,Flush and pour flush - to pit,0.0,Eurostat environment database - ES11
+Hungary,HU,HUN,348,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environment database - ES11
+Hungary,HU,HUN,348,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat environment database - ES11
+Hungary,HU,HUN,348,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environment database - ES11
+Hungary,HU,HUN,348,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environment database - ES11
+Hungary,HU,HUN,348,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat environment database - ES11
+Hungary,HU,HUN,348,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environment database - ES11
+Hungary,HU,HUN,348,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environment database - ES11
+Hungary,HU,HUN,348,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat environment database - ES11
+Hungary,HU,HUN,348,Rural,12,Dry latrines - Other,0.0,Eurostat environment database - ES11
+Hungary,HU,HUN,348,Rural,13,Composting toilets,0.0,Eurostat environment database - ES11
+Hungary,HU,HUN,348,Rural,14,Other improved,0.0,Eurostat environment database - ES11
+Hungary,HU,HUN,348,Rural,15,"No facility, bush, field",0.0,Eurostat environment database - ES11
+Hungary,HU,HUN,348,Rural,16,Other unimproved,0.0,Eurostat environment database - ES11
+Hungary,HU,HUN,348,Rural,17,DK/missing information,0.0,Eurostat environment database - ES11
+Hungary,HU,HUN,348,National,1,Flush and pour flush - to piped sewer system,0.725,Eurostat environment database - ES11
+Hungary,HU,HUN,348,National,2,Flush and pour flush - to septic tank,0.0,Eurostat environment database - ES11
+Hungary,HU,HUN,348,National,3,Flush and pour flush - to pit,0.0,Eurostat environment database - ES11
+Hungary,HU,HUN,348,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environment database - ES11
+Hungary,HU,HUN,348,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat environment database - ES11
+Hungary,HU,HUN,348,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environment database - ES11
+Hungary,HU,HUN,348,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environment database - ES11
+Hungary,HU,HUN,348,National,8,Dry latrines - Traditional latrine,0.0,Eurostat environment database - ES11
+Hungary,HU,HUN,348,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environment database - ES11
+Hungary,HU,HUN,348,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environment database - ES11
+Hungary,HU,HUN,348,National,11,Dry latrines - Bucket latrine,0.0,Eurostat environment database - ES11
+Hungary,HU,HUN,348,National,12,Dry latrines - Other,0.0,Eurostat environment database - ES11
+Hungary,HU,HUN,348,National,13,Composting toilets,0.0,Eurostat environment database - ES11
+Hungary,HU,HUN,348,National,14,Other improved,0.0,Eurostat environment database - ES11
+Hungary,HU,HUN,348,National,15,"No facility, bush, field",0.0,Eurostat environment database - ES11
+Hungary,HU,HUN,348,National,16,Other unimproved,0.0,Eurostat environment database - ES11
+Hungary,HU,HUN,348,National,17,DK/missing information,0.0,Eurostat environment database - ES11
+Hungary,HU,HUN,348,Urban,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environment database - ES12
+Hungary,HU,HUN,348,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat environment database - ES12
+Hungary,HU,HUN,348,Urban,3,Flush and pour flush - to pit,0.0,Eurostat environment database - ES12
+Hungary,HU,HUN,348,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environment database - ES12
+Hungary,HU,HUN,348,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat environment database - ES12
+Hungary,HU,HUN,348,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environment database - ES12
+Hungary,HU,HUN,348,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environment database - ES12
+Hungary,HU,HUN,348,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat environment database - ES12
+Hungary,HU,HUN,348,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environment database - ES12
+Hungary,HU,HUN,348,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environment database - ES12
+Hungary,HU,HUN,348,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat environment database - ES12
+Hungary,HU,HUN,348,Urban,12,Dry latrines - Other,0.0,Eurostat environment database - ES12
+Hungary,HU,HUN,348,Urban,13,Composting toilets,0.0,Eurostat environment database - ES12
+Hungary,HU,HUN,348,Urban,14,Other improved,0.0,Eurostat environment database - ES12
+Hungary,HU,HUN,348,Urban,15,"No facility, bush, field",0.0,Eurostat environment database - ES12
+Hungary,HU,HUN,348,Urban,16,Other unimproved,0.0,Eurostat environment database - ES12
+Hungary,HU,HUN,348,Urban,17,DK/missing information,0.0,Eurostat environment database - ES12
+Hungary,HU,HUN,348,Rural,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environment database - ES12
+Hungary,HU,HUN,348,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat environment database - ES12
+Hungary,HU,HUN,348,Rural,3,Flush and pour flush - to pit,0.0,Eurostat environment database - ES12
+Hungary,HU,HUN,348,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environment database - ES12
+Hungary,HU,HUN,348,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat environment database - ES12
+Hungary,HU,HUN,348,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environment database - ES12
+Hungary,HU,HUN,348,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environment database - ES12
+Hungary,HU,HUN,348,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat environment database - ES12
+Hungary,HU,HUN,348,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environment database - ES12
+Hungary,HU,HUN,348,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environment database - ES12
+Hungary,HU,HUN,348,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat environment database - ES12
+Hungary,HU,HUN,348,Rural,12,Dry latrines - Other,0.0,Eurostat environment database - ES12
+Hungary,HU,HUN,348,Rural,13,Composting toilets,0.0,Eurostat environment database - ES12
+Hungary,HU,HUN,348,Rural,14,Other improved,0.0,Eurostat environment database - ES12
+Hungary,HU,HUN,348,Rural,15,"No facility, bush, field",0.0,Eurostat environment database - ES12
+Hungary,HU,HUN,348,Rural,16,Other unimproved,0.0,Eurostat environment database - ES12
+Hungary,HU,HUN,348,Rural,17,DK/missing information,0.0,Eurostat environment database - ES12
+Hungary,HU,HUN,348,National,1,Flush and pour flush - to piped sewer system,0.729,Eurostat environment database - ES12
+Hungary,HU,HUN,348,National,2,Flush and pour flush - to septic tank,0.0,Eurostat environment database - ES12
+Hungary,HU,HUN,348,National,3,Flush and pour flush - to pit,0.0,Eurostat environment database - ES12
+Hungary,HU,HUN,348,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environment database - ES12
+Hungary,HU,HUN,348,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat environment database - ES12
+Hungary,HU,HUN,348,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environment database - ES12
+Hungary,HU,HUN,348,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environment database - ES12
+Hungary,HU,HUN,348,National,8,Dry latrines - Traditional latrine,0.0,Eurostat environment database - ES12
+Hungary,HU,HUN,348,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environment database - ES12
+Hungary,HU,HUN,348,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environment database - ES12
+Hungary,HU,HUN,348,National,11,Dry latrines - Bucket latrine,0.0,Eurostat environment database - ES12
+Hungary,HU,HUN,348,National,12,Dry latrines - Other,0.0,Eurostat environment database - ES12
+Hungary,HU,HUN,348,National,13,Composting toilets,0.0,Eurostat environment database - ES12
+Hungary,HU,HUN,348,National,14,Other improved,0.0,Eurostat environment database - ES12
+Hungary,HU,HUN,348,National,15,"No facility, bush, field",0.0,Eurostat environment database - ES12
+Hungary,HU,HUN,348,National,16,Other unimproved,0.0,Eurostat environment database - ES12
+Hungary,HU,HUN,348,National,17,DK/missing information,0.0,Eurostat environment database - ES12
+Hungary,HU,HUN,348,Urban,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environment database - ES13
+Hungary,HU,HUN,348,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat environment database - ES13
+Hungary,HU,HUN,348,Urban,3,Flush and pour flush - to pit,0.0,Eurostat environment database - ES13
+Hungary,HU,HUN,348,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environment database - ES13
+Hungary,HU,HUN,348,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat environment database - ES13
+Hungary,HU,HUN,348,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environment database - ES13
+Hungary,HU,HUN,348,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environment database - ES13
+Hungary,HU,HUN,348,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat environment database - ES13
+Hungary,HU,HUN,348,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environment database - ES13
+Hungary,HU,HUN,348,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environment database - ES13
+Hungary,HU,HUN,348,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat environment database - ES13
+Hungary,HU,HUN,348,Urban,12,Dry latrines - Other,0.0,Eurostat environment database - ES13
+Hungary,HU,HUN,348,Urban,13,Composting toilets,0.0,Eurostat environment database - ES13
+Hungary,HU,HUN,348,Urban,14,Other improved,0.0,Eurostat environment database - ES13
+Hungary,HU,HUN,348,Urban,15,"No facility, bush, field",0.0,Eurostat environment database - ES13
+Hungary,HU,HUN,348,Urban,16,Other unimproved,0.0,Eurostat environment database - ES13
+Hungary,HU,HUN,348,Urban,17,DK/missing information,0.0,Eurostat environment database - ES13
+Hungary,HU,HUN,348,Rural,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environment database - ES13
+Hungary,HU,HUN,348,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat environment database - ES13
+Hungary,HU,HUN,348,Rural,3,Flush and pour flush - to pit,0.0,Eurostat environment database - ES13
+Hungary,HU,HUN,348,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environment database - ES13
+Hungary,HU,HUN,348,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat environment database - ES13
+Hungary,HU,HUN,348,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environment database - ES13
+Hungary,HU,HUN,348,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environment database - ES13
+Hungary,HU,HUN,348,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat environment database - ES13
+Hungary,HU,HUN,348,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environment database - ES13
+Hungary,HU,HUN,348,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environment database - ES13
+Hungary,HU,HUN,348,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat environment database - ES13
+Hungary,HU,HUN,348,Rural,12,Dry latrines - Other,0.0,Eurostat environment database - ES13
+Hungary,HU,HUN,348,Rural,13,Composting toilets,0.0,Eurostat environment database - ES13
+Hungary,HU,HUN,348,Rural,14,Other improved,0.0,Eurostat environment database - ES13
+Hungary,HU,HUN,348,Rural,15,"No facility, bush, field",0.0,Eurostat environment database - ES13
+Hungary,HU,HUN,348,Rural,16,Other unimproved,0.0,Eurostat environment database - ES13
+Hungary,HU,HUN,348,Rural,17,DK/missing information,0.0,Eurostat environment database - ES13
+Hungary,HU,HUN,348,National,1,Flush and pour flush - to piped sewer system,0.727,Eurostat environment database - ES13
+Hungary,HU,HUN,348,National,2,Flush and pour flush - to septic tank,0.0,Eurostat environment database - ES13
+Hungary,HU,HUN,348,National,3,Flush and pour flush - to pit,0.0,Eurostat environment database - ES13
+Hungary,HU,HUN,348,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environment database - ES13
+Hungary,HU,HUN,348,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat environment database - ES13
+Hungary,HU,HUN,348,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environment database - ES13
+Hungary,HU,HUN,348,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environment database - ES13
+Hungary,HU,HUN,348,National,8,Dry latrines - Traditional latrine,0.0,Eurostat environment database - ES13
+Hungary,HU,HUN,348,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environment database - ES13
+Hungary,HU,HUN,348,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environment database - ES13
+Hungary,HU,HUN,348,National,11,Dry latrines - Bucket latrine,0.0,Eurostat environment database - ES13
+Hungary,HU,HUN,348,National,12,Dry latrines - Other,0.0,Eurostat environment database - ES13
+Hungary,HU,HUN,348,National,13,Composting toilets,0.0,Eurostat environment database - ES13
+Hungary,HU,HUN,348,National,14,Other improved,0.0,Eurostat environment database - ES13
+Hungary,HU,HUN,348,National,15,"No facility, bush, field",0.0,Eurostat environment database - ES13
+Hungary,HU,HUN,348,National,16,Other unimproved,0.0,Eurostat environment database - ES13
+Hungary,HU,HUN,348,National,17,DK/missing information,0.0,Eurostat environment database - ES13
+Hungary,HU,HUN,348,Urban,1,Flush and pour flush - to piped sewer system,0.0,EUROSTAT - ES14
+Hungary,HU,HUN,348,Urban,2,Flush and pour flush - to septic tank,0.0,EUROSTAT - ES14
+Hungary,HU,HUN,348,Urban,3,Flush and pour flush - to pit,0.0,EUROSTAT - ES14
+Hungary,HU,HUN,348,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,EUROSTAT - ES14
+Hungary,HU,HUN,348,Urban,5,Flush and pour flush - to elsewhere,0.0,EUROSTAT - ES14
+Hungary,HU,HUN,348,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,EUROSTAT - ES14
+Hungary,HU,HUN,348,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,EUROSTAT - ES14
+Hungary,HU,HUN,348,Urban,8,Dry latrines - Traditional latrine,0.0,EUROSTAT - ES14
+Hungary,HU,HUN,348,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,EUROSTAT - ES14
+Hungary,HU,HUN,348,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,EUROSTAT - ES14
+Hungary,HU,HUN,348,Urban,11,Dry latrines - Bucket latrine,0.0,EUROSTAT - ES14
+Hungary,HU,HUN,348,Urban,12,Dry latrines - Other,0.0,EUROSTAT - ES14
+Hungary,HU,HUN,348,Urban,13,Composting toilets,0.0,EUROSTAT - ES14
+Hungary,HU,HUN,348,Urban,14,Other improved,0.0,EUROSTAT - ES14
+Hungary,HU,HUN,348,Urban,15,"No facility, bush, field",0.0,EUROSTAT - ES14
+Hungary,HU,HUN,348,Urban,16,Other unimproved,0.0,EUROSTAT - ES14
+Hungary,HU,HUN,348,Urban,17,DK/missing information,0.0,EUROSTAT - ES14
+Hungary,HU,HUN,348,Rural,1,Flush and pour flush - to piped sewer system,0.0,EUROSTAT - ES14
+Hungary,HU,HUN,348,Rural,2,Flush and pour flush - to septic tank,0.0,EUROSTAT - ES14
+Hungary,HU,HUN,348,Rural,3,Flush and pour flush - to pit,0.0,EUROSTAT - ES14
+Hungary,HU,HUN,348,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,EUROSTAT - ES14
+Hungary,HU,HUN,348,Rural,5,Flush and pour flush - to elsewhere,0.0,EUROSTAT - ES14
+Hungary,HU,HUN,348,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,EUROSTAT - ES14
+Hungary,HU,HUN,348,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,EUROSTAT - ES14
+Hungary,HU,HUN,348,Rural,8,Dry latrines - Traditional latrine,0.0,EUROSTAT - ES14
+Hungary,HU,HUN,348,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,EUROSTAT - ES14
+Hungary,HU,HUN,348,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,EUROSTAT - ES14
+Hungary,HU,HUN,348,Rural,11,Dry latrines - Bucket latrine,0.0,EUROSTAT - ES14
+Hungary,HU,HUN,348,Rural,12,Dry latrines - Other,0.0,EUROSTAT - ES14
+Hungary,HU,HUN,348,Rural,13,Composting toilets,0.0,EUROSTAT - ES14
+Hungary,HU,HUN,348,Rural,14,Other improved,0.0,EUROSTAT - ES14
+Hungary,HU,HUN,348,Rural,15,"No facility, bush, field",0.0,EUROSTAT - ES14
+Hungary,HU,HUN,348,Rural,16,Other unimproved,0.0,EUROSTAT - ES14
+Hungary,HU,HUN,348,Rural,17,DK/missing information,0.0,EUROSTAT - ES14
+Hungary,HU,HUN,348,National,1,Flush and pour flush - to piped sewer system,0.738,EUROSTAT - ES14
+Hungary,HU,HUN,348,National,2,Flush and pour flush - to septic tank,0.0,EUROSTAT - ES14
+Hungary,HU,HUN,348,National,3,Flush and pour flush - to pit,0.0,EUROSTAT - ES14
+Hungary,HU,HUN,348,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,EUROSTAT - ES14
+Hungary,HU,HUN,348,National,5,Flush and pour flush - to elsewhere,0.0,EUROSTAT - ES14
+Hungary,HU,HUN,348,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,EUROSTAT - ES14
+Hungary,HU,HUN,348,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,EUROSTAT - ES14
+Hungary,HU,HUN,348,National,8,Dry latrines - Traditional latrine,0.0,EUROSTAT - ES14
+Hungary,HU,HUN,348,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,EUROSTAT - ES14
+Hungary,HU,HUN,348,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,EUROSTAT - ES14
+Hungary,HU,HUN,348,National,11,Dry latrines - Bucket latrine,0.0,EUROSTAT - ES14
+Hungary,HU,HUN,348,National,12,Dry latrines - Other,0.0,EUROSTAT - ES14
+Hungary,HU,HUN,348,National,13,Composting toilets,0.0,EUROSTAT - ES14
+Hungary,HU,HUN,348,National,14,Other improved,0.0,EUROSTAT - ES14
+Hungary,HU,HUN,348,National,15,"No facility, bush, field",0.0,EUROSTAT - ES14
+Hungary,HU,HUN,348,National,16,Other unimproved,0.031,EUROSTAT - ES14
+Hungary,HU,HUN,348,National,17,DK/missing information,0.0,EUROSTAT - ES14
+Hungary,HU,HUN,348,Urban,1,Flush and pour flush - to piped sewer system,0.0,EUROSTAT - ES15
+Hungary,HU,HUN,348,Urban,2,Flush and pour flush - to septic tank,0.0,EUROSTAT - ES15
+Hungary,HU,HUN,348,Urban,3,Flush and pour flush - to pit,0.0,EUROSTAT - ES15
+Hungary,HU,HUN,348,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,EUROSTAT - ES15
+Hungary,HU,HUN,348,Urban,5,Flush and pour flush - to elsewhere,0.0,EUROSTAT - ES15
+Hungary,HU,HUN,348,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,EUROSTAT - ES15
+Hungary,HU,HUN,348,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,EUROSTAT - ES15
+Hungary,HU,HUN,348,Urban,8,Dry latrines - Traditional latrine,0.0,EUROSTAT - ES15
+Hungary,HU,HUN,348,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,EUROSTAT - ES15
+Hungary,HU,HUN,348,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,EUROSTAT - ES15
+Hungary,HU,HUN,348,Urban,11,Dry latrines - Bucket latrine,0.0,EUROSTAT - ES15
+Hungary,HU,HUN,348,Urban,12,Dry latrines - Other,0.0,EUROSTAT - ES15
+Hungary,HU,HUN,348,Urban,13,Composting toilets,0.0,EUROSTAT - ES15
+Hungary,HU,HUN,348,Urban,14,Other improved,0.0,EUROSTAT - ES15
+Hungary,HU,HUN,348,Urban,15,"No facility, bush, field",0.0,EUROSTAT - ES15
+Hungary,HU,HUN,348,Urban,16,Other unimproved,0.0,EUROSTAT - ES15
+Hungary,HU,HUN,348,Urban,17,DK/missing information,0.0,EUROSTAT - ES15
+Hungary,HU,HUN,348,Rural,1,Flush and pour flush - to piped sewer system,0.0,EUROSTAT - ES15
+Hungary,HU,HUN,348,Rural,2,Flush and pour flush - to septic tank,0.0,EUROSTAT - ES15
+Hungary,HU,HUN,348,Rural,3,Flush and pour flush - to pit,0.0,EUROSTAT - ES15
+Hungary,HU,HUN,348,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,EUROSTAT - ES15
+Hungary,HU,HUN,348,Rural,5,Flush and pour flush - to elsewhere,0.0,EUROSTAT - ES15
+Hungary,HU,HUN,348,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,EUROSTAT - ES15
+Hungary,HU,HUN,348,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,EUROSTAT - ES15
+Hungary,HU,HUN,348,Rural,8,Dry latrines - Traditional latrine,0.0,EUROSTAT - ES15
+Hungary,HU,HUN,348,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,EUROSTAT - ES15
+Hungary,HU,HUN,348,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,EUROSTAT - ES15
+Hungary,HU,HUN,348,Rural,11,Dry latrines - Bucket latrine,0.0,EUROSTAT - ES15
+Hungary,HU,HUN,348,Rural,12,Dry latrines - Other,0.0,EUROSTAT - ES15
+Hungary,HU,HUN,348,Rural,13,Composting toilets,0.0,EUROSTAT - ES15
+Hungary,HU,HUN,348,Rural,14,Other improved,0.0,EUROSTAT - ES15
+Hungary,HU,HUN,348,Rural,15,"No facility, bush, field",0.0,EUROSTAT - ES15
+Hungary,HU,HUN,348,Rural,16,Other unimproved,0.0,EUROSTAT - ES15
+Hungary,HU,HUN,348,Rural,17,DK/missing information,0.0,EUROSTAT - ES15
+Hungary,HU,HUN,348,National,1,Flush and pour flush - to piped sewer system,0.769,EUROSTAT - ES15
+Hungary,HU,HUN,348,National,2,Flush and pour flush - to septic tank,0.0,EUROSTAT - ES15
+Hungary,HU,HUN,348,National,3,Flush and pour flush - to pit,0.0,EUROSTAT - ES15
+Hungary,HU,HUN,348,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,EUROSTAT - ES15
+Hungary,HU,HUN,348,National,5,Flush and pour flush - to elsewhere,0.0,EUROSTAT - ES15
+Hungary,HU,HUN,348,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,EUROSTAT - ES15
+Hungary,HU,HUN,348,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,EUROSTAT - ES15
+Hungary,HU,HUN,348,National,8,Dry latrines - Traditional latrine,0.0,EUROSTAT - ES15
+Hungary,HU,HUN,348,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,EUROSTAT - ES15
+Hungary,HU,HUN,348,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,EUROSTAT - ES15
+Hungary,HU,HUN,348,National,11,Dry latrines - Bucket latrine,0.0,EUROSTAT - ES15
+Hungary,HU,HUN,348,National,12,Dry latrines - Other,0.0,EUROSTAT - ES15
+Hungary,HU,HUN,348,National,13,Composting toilets,0.0,EUROSTAT - ES15
+Hungary,HU,HUN,348,National,14,Other improved,0.0,EUROSTAT - ES15
+Hungary,HU,HUN,348,National,15,"No facility, bush, field",0.0,EUROSTAT - ES15
+Hungary,HU,HUN,348,National,16,Other unimproved,0.02,EUROSTAT - ES15
+Hungary,HU,HUN,348,National,17,DK/missing information,0.0,EUROSTAT - ES15
+Hungary,HU,HUN,348,Urban,1,Flush and pour flush - to piped sewer system,0.891,Country consultation - CC16
+Hungary,HU,HUN,348,Urban,2,Flush and pour flush - to septic tank,0.0,Country consultation - CC16
+Hungary,HU,HUN,348,Urban,3,Flush and pour flush - to pit,0.0,Country consultation - CC16
+Hungary,HU,HUN,348,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Country consultation - CC16
+Hungary,HU,HUN,348,Urban,5,Flush and pour flush - to elsewhere,0.0,Country consultation - CC16
+Hungary,HU,HUN,348,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Country consultation - CC16
+Hungary,HU,HUN,348,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Country consultation - CC16
+Hungary,HU,HUN,348,Urban,8,Dry latrines - Traditional latrine,0.0,Country consultation - CC16
+Hungary,HU,HUN,348,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Country consultation - CC16
+Hungary,HU,HUN,348,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Country consultation - CC16
+Hungary,HU,HUN,348,Urban,11,Dry latrines - Bucket latrine,0.0,Country consultation - CC16
+Hungary,HU,HUN,348,Urban,12,Dry latrines - Other,0.0,Country consultation - CC16
+Hungary,HU,HUN,348,Urban,13,Composting toilets,0.0,Country consultation - CC16
+Hungary,HU,HUN,348,Urban,14,Other improved,0.0,Country consultation - CC16
+Hungary,HU,HUN,348,Urban,15,"No facility, bush, field",0.0,Country consultation - CC16
+Hungary,HU,HUN,348,Urban,16,Other unimproved,0.109,Country consultation - CC16
+Hungary,HU,HUN,348,Urban,17,DK/missing information,0.0,Country consultation - CC16
+Hungary,HU,HUN,348,Rural,1,Flush and pour flush - to piped sewer system,0.585,Country consultation - CC16
+Hungary,HU,HUN,348,Rural,2,Flush and pour flush - to septic tank,0.0,Country consultation - CC16
+Hungary,HU,HUN,348,Rural,3,Flush and pour flush - to pit,0.0,Country consultation - CC16
+Hungary,HU,HUN,348,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Country consultation - CC16
+Hungary,HU,HUN,348,Rural,5,Flush and pour flush - to elsewhere,0.0,Country consultation - CC16
+Hungary,HU,HUN,348,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Country consultation - CC16
+Hungary,HU,HUN,348,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Country consultation - CC16
+Hungary,HU,HUN,348,Rural,8,Dry latrines - Traditional latrine,0.0,Country consultation - CC16
+Hungary,HU,HUN,348,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Country consultation - CC16
+Hungary,HU,HUN,348,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Country consultation - CC16
+Hungary,HU,HUN,348,Rural,11,Dry latrines - Bucket latrine,0.0,Country consultation - CC16
+Hungary,HU,HUN,348,Rural,12,Dry latrines - Other,0.0,Country consultation - CC16
+Hungary,HU,HUN,348,Rural,13,Composting toilets,0.0,Country consultation - CC16
+Hungary,HU,HUN,348,Rural,14,Other improved,0.0,Country consultation - CC16
+Hungary,HU,HUN,348,Rural,15,"No facility, bush, field",0.0,Country consultation - CC16
+Hungary,HU,HUN,348,Rural,16,Other unimproved,0.415,Country consultation - CC16
+Hungary,HU,HUN,348,Rural,17,DK/missing information,0.0,Country consultation - CC16
+Hungary,HU,HUN,348,National,1,Flush and pour flush - to piped sewer system,0.806,Country consultation - CC16
+Hungary,HU,HUN,348,National,2,Flush and pour flush - to septic tank,0.176,Country consultation - CC16
+Hungary,HU,HUN,348,National,3,Flush and pour flush - to pit,0.0,Country consultation - CC16
+Hungary,HU,HUN,348,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Country consultation - CC16
+Hungary,HU,HUN,348,National,5,Flush and pour flush - to elsewhere,0.0,Country consultation - CC16
+Hungary,HU,HUN,348,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Country consultation - CC16
+Hungary,HU,HUN,348,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Country consultation - CC16
+Hungary,HU,HUN,348,National,8,Dry latrines - Traditional latrine,0.0,Country consultation - CC16
+Hungary,HU,HUN,348,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Country consultation - CC16
+Hungary,HU,HUN,348,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Country consultation - CC16
+Hungary,HU,HUN,348,National,11,Dry latrines - Bucket latrine,0.0,Country consultation - CC16
+Hungary,HU,HUN,348,National,12,Dry latrines - Other,0.0,Country consultation - CC16
+Hungary,HU,HUN,348,National,13,Composting toilets,0.0,Country consultation - CC16
+Hungary,HU,HUN,348,National,14,Other improved,0.018,Country consultation - CC16
+Hungary,HU,HUN,348,National,15,"No facility, bush, field",0.0,Country consultation - CC16
+Hungary,HU,HUN,348,National,16,Other unimproved,0.0,Country consultation - CC16
+Hungary,HU,HUN,348,National,17,DK/missing information,0.0,Country consultation - CC16
+Hungary,HU,HUN,348,Urban,1,Flush and pour flush - to piped sewer system,0.98,Eurostat SILC database - EUSILC12
+Hungary,HU,HUN,348,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC12
+Hungary,HU,HUN,348,Urban,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC12
+Hungary,HU,HUN,348,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC12
+Hungary,HU,HUN,348,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC12
+Hungary,HU,HUN,348,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC12
+Hungary,HU,HUN,348,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC12
+Hungary,HU,HUN,348,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC12
+Hungary,HU,HUN,348,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC12
+Hungary,HU,HUN,348,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC12
+Hungary,HU,HUN,348,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC12
+Hungary,HU,HUN,348,Urban,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC12
+Hungary,HU,HUN,348,Urban,13,Composting toilets,0.0,Eurostat SILC database - EUSILC12
+Hungary,HU,HUN,348,Urban,14,Other improved,0.0,Eurostat SILC database - EUSILC12
+Hungary,HU,HUN,348,Urban,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC12
+Hungary,HU,HUN,348,Urban,16,Other unimproved,0.02,Eurostat SILC database - EUSILC12
+Hungary,HU,HUN,348,Urban,17,DK/missing information,0.0,Eurostat SILC database - EUSILC12
+Hungary,HU,HUN,348,Rural,1,Flush and pour flush - to piped sewer system,0.909,Eurostat SILC database - EUSILC12
+Hungary,HU,HUN,348,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC12
+Hungary,HU,HUN,348,Rural,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC12
+Hungary,HU,HUN,348,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC12
+Hungary,HU,HUN,348,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC12
+Hungary,HU,HUN,348,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC12
+Hungary,HU,HUN,348,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC12
+Hungary,HU,HUN,348,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC12
+Hungary,HU,HUN,348,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC12
+Hungary,HU,HUN,348,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC12
+Hungary,HU,HUN,348,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC12
+Hungary,HU,HUN,348,Rural,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC12
+Hungary,HU,HUN,348,Rural,13,Composting toilets,0.0,Eurostat SILC database - EUSILC12
+Hungary,HU,HUN,348,Rural,14,Other improved,0.0,Eurostat SILC database - EUSILC12
+Hungary,HU,HUN,348,Rural,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC12
+Hungary,HU,HUN,348,Rural,16,Other unimproved,0.091,Eurostat SILC database - EUSILC12
+Hungary,HU,HUN,348,Rural,17,DK/missing information,0.0,Eurostat SILC database - EUSILC12
+Hungary,HU,HUN,348,National,1,Flush and pour flush - to piped sewer system,0.956,Eurostat SILC database - EUSILC12
+Hungary,HU,HUN,348,National,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC12
+Hungary,HU,HUN,348,National,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC12
+Hungary,HU,HUN,348,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC12
+Hungary,HU,HUN,348,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC12
+Hungary,HU,HUN,348,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC12
+Hungary,HU,HUN,348,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC12
+Hungary,HU,HUN,348,National,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC12
+Hungary,HU,HUN,348,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC12
+Hungary,HU,HUN,348,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC12
+Hungary,HU,HUN,348,National,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC12
+Hungary,HU,HUN,348,National,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC12
+Hungary,HU,HUN,348,National,13,Composting toilets,0.0,Eurostat SILC database - EUSILC12
+Hungary,HU,HUN,348,National,14,Other improved,0.0,Eurostat SILC database - EUSILC12
+Hungary,HU,HUN,348,National,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC12
+Hungary,HU,HUN,348,National,16,Other unimproved,0.044,Eurostat SILC database - EUSILC12
+Hungary,HU,HUN,348,National,17,DK/missing information,0.0,Eurostat SILC database - EUSILC12
+Hungary,HU,HUN,348,Urban,1,Flush and pour flush - to piped sewer system,0.976,Eurostat SILC database - EUSILC13
+Hungary,HU,HUN,348,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC13
+Hungary,HU,HUN,348,Urban,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC13
+Hungary,HU,HUN,348,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC13
+Hungary,HU,HUN,348,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC13
+Hungary,HU,HUN,348,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC13
+Hungary,HU,HUN,348,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC13
+Hungary,HU,HUN,348,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC13
+Hungary,HU,HUN,348,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC13
+Hungary,HU,HUN,348,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC13
+Hungary,HU,HUN,348,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC13
+Hungary,HU,HUN,348,Urban,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC13
+Hungary,HU,HUN,348,Urban,13,Composting toilets,0.0,Eurostat SILC database - EUSILC13
+Hungary,HU,HUN,348,Urban,14,Other improved,0.0,Eurostat SILC database - EUSILC13
+Hungary,HU,HUN,348,Urban,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC13
+Hungary,HU,HUN,348,Urban,16,Other unimproved,0.024,Eurostat SILC database - EUSILC13
+Hungary,HU,HUN,348,Urban,17,DK/missing information,0.0,Eurostat SILC database - EUSILC13
+Hungary,HU,HUN,348,Rural,1,Flush and pour flush - to piped sewer system,0.902,Eurostat SILC database - EUSILC13
+Hungary,HU,HUN,348,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC13
+Hungary,HU,HUN,348,Rural,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC13
+Hungary,HU,HUN,348,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC13
+Hungary,HU,HUN,348,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC13
+Hungary,HU,HUN,348,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC13
+Hungary,HU,HUN,348,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC13
+Hungary,HU,HUN,348,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC13
+Hungary,HU,HUN,348,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC13
+Hungary,HU,HUN,348,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC13
+Hungary,HU,HUN,348,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC13
+Hungary,HU,HUN,348,Rural,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC13
+Hungary,HU,HUN,348,Rural,13,Composting toilets,0.0,Eurostat SILC database - EUSILC13
+Hungary,HU,HUN,348,Rural,14,Other improved,0.0,Eurostat SILC database - EUSILC13
+Hungary,HU,HUN,348,Rural,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC13
+Hungary,HU,HUN,348,Rural,16,Other unimproved,0.098,Eurostat SILC database - EUSILC13
+Hungary,HU,HUN,348,Rural,17,DK/missing information,0.0,Eurostat SILC database - EUSILC13
+Hungary,HU,HUN,348,National,1,Flush and pour flush - to piped sewer system,0.947,Eurostat SILC database - EUSILC13
+Hungary,HU,HUN,348,National,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC13
+Hungary,HU,HUN,348,National,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC13
+Hungary,HU,HUN,348,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC13
+Hungary,HU,HUN,348,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC13
+Hungary,HU,HUN,348,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC13
+Hungary,HU,HUN,348,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC13
+Hungary,HU,HUN,348,National,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC13
+Hungary,HU,HUN,348,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC13
+Hungary,HU,HUN,348,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC13
+Hungary,HU,HUN,348,National,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC13
+Hungary,HU,HUN,348,National,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC13
+Hungary,HU,HUN,348,National,13,Composting toilets,0.0,Eurostat SILC database - EUSILC13
+Hungary,HU,HUN,348,National,14,Other improved,0.0,Eurostat SILC database - EUSILC13
+Hungary,HU,HUN,348,National,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC13
+Hungary,HU,HUN,348,National,16,Other unimproved,0.053,Eurostat SILC database - EUSILC13
+Hungary,HU,HUN,348,National,17,DK/missing information,0.0,Eurostat SILC database - EUSILC13
+Hungary,HU,HUN,348,Urban,1,Flush and pour flush - to piped sewer system,0.97,Eurostat SILC database - EUSILC14
+Hungary,HU,HUN,348,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC14
+Hungary,HU,HUN,348,Urban,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC14
+Hungary,HU,HUN,348,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC14
+Hungary,HU,HUN,348,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC14
+Hungary,HU,HUN,348,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC14
+Hungary,HU,HUN,348,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC14
+Hungary,HU,HUN,348,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC14
+Hungary,HU,HUN,348,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC14
+Hungary,HU,HUN,348,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC14
+Hungary,HU,HUN,348,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC14
+Hungary,HU,HUN,348,Urban,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC14
+Hungary,HU,HUN,348,Urban,13,Composting toilets,0.0,Eurostat SILC database - EUSILC14
+Hungary,HU,HUN,348,Urban,14,Other improved,0.0,Eurostat SILC database - EUSILC14
+Hungary,HU,HUN,348,Urban,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC14
+Hungary,HU,HUN,348,Urban,16,Other unimproved,0.03,Eurostat SILC database - EUSILC14
+Hungary,HU,HUN,348,Urban,17,DK/missing information,0.0,Eurostat SILC database - EUSILC14
+Hungary,HU,HUN,348,Rural,1,Flush and pour flush - to piped sewer system,0.909,Eurostat SILC database - EUSILC14
+Hungary,HU,HUN,348,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC14
+Hungary,HU,HUN,348,Rural,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC14
+Hungary,HU,HUN,348,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC14
+Hungary,HU,HUN,348,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC14
+Hungary,HU,HUN,348,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC14
+Hungary,HU,HUN,348,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC14
+Hungary,HU,HUN,348,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC14
+Hungary,HU,HUN,348,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC14
+Hungary,HU,HUN,348,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC14
+Hungary,HU,HUN,348,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC14
+Hungary,HU,HUN,348,Rural,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC14
+Hungary,HU,HUN,348,Rural,13,Composting toilets,0.0,Eurostat SILC database - EUSILC14
+Hungary,HU,HUN,348,Rural,14,Other improved,0.0,Eurostat SILC database - EUSILC14
+Hungary,HU,HUN,348,Rural,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC14
+Hungary,HU,HUN,348,Rural,16,Other unimproved,0.091,Eurostat SILC database - EUSILC14
+Hungary,HU,HUN,348,Rural,17,DK/missing information,0.0,Eurostat SILC database - EUSILC14
+Hungary,HU,HUN,348,National,1,Flush and pour flush - to piped sewer system,0.947,Eurostat SILC database - EUSILC14
+Hungary,HU,HUN,348,National,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC14
+Hungary,HU,HUN,348,National,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC14
+Hungary,HU,HUN,348,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC14
+Hungary,HU,HUN,348,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC14
+Hungary,HU,HUN,348,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC14
+Hungary,HU,HUN,348,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC14
+Hungary,HU,HUN,348,National,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC14
+Hungary,HU,HUN,348,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC14
+Hungary,HU,HUN,348,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC14
+Hungary,HU,HUN,348,National,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC14
+Hungary,HU,HUN,348,National,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC14
+Hungary,HU,HUN,348,National,13,Composting toilets,0.0,Eurostat SILC database - EUSILC14
+Hungary,HU,HUN,348,National,14,Other improved,0.0,Eurostat SILC database - EUSILC14
+Hungary,HU,HUN,348,National,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC14
+Hungary,HU,HUN,348,National,16,Other unimproved,0.053,Eurostat SILC database - EUSILC14
+Hungary,HU,HUN,348,National,17,DK/missing information,0.0,Eurostat SILC database - EUSILC14
+Hungary,HU,HUN,348,Urban,1,Flush and pour flush - to piped sewer system,0.985,Eurostat SILC database - EUSILC15
+Hungary,HU,HUN,348,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC15
+Hungary,HU,HUN,348,Urban,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC15
+Hungary,HU,HUN,348,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC15
+Hungary,HU,HUN,348,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC15
+Hungary,HU,HUN,348,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC15
+Hungary,HU,HUN,348,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC15
+Hungary,HU,HUN,348,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC15
+Hungary,HU,HUN,348,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC15
+Hungary,HU,HUN,348,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC15
+Hungary,HU,HUN,348,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC15
+Hungary,HU,HUN,348,Urban,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC15
+Hungary,HU,HUN,348,Urban,13,Composting toilets,0.0,Eurostat SILC database - EUSILC15
+Hungary,HU,HUN,348,Urban,14,Other improved,0.0,Eurostat SILC database - EUSILC15
+Hungary,HU,HUN,348,Urban,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC15
+Hungary,HU,HUN,348,Urban,16,Other unimproved,0.015,Eurostat SILC database - EUSILC15
+Hungary,HU,HUN,348,Urban,17,DK/missing information,0.0,Eurostat SILC database - EUSILC15
+Hungary,HU,HUN,348,Rural,1,Flush and pour flush - to piped sewer system,0.925,Eurostat SILC database - EUSILC15
+Hungary,HU,HUN,348,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC15
+Hungary,HU,HUN,348,Rural,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC15
+Hungary,HU,HUN,348,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC15
+Hungary,HU,HUN,348,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC15
+Hungary,HU,HUN,348,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC15
+Hungary,HU,HUN,348,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC15
+Hungary,HU,HUN,348,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC15
+Hungary,HU,HUN,348,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC15
+Hungary,HU,HUN,348,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC15
+Hungary,HU,HUN,348,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC15
+Hungary,HU,HUN,348,Rural,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC15
+Hungary,HU,HUN,348,Rural,13,Composting toilets,0.0,Eurostat SILC database - EUSILC15
+Hungary,HU,HUN,348,Rural,14,Other improved,0.0,Eurostat SILC database - EUSILC15
+Hungary,HU,HUN,348,Rural,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC15
+Hungary,HU,HUN,348,Rural,16,Other unimproved,0.075,Eurostat SILC database - EUSILC15
+Hungary,HU,HUN,348,Rural,17,DK/missing information,0.0,Eurostat SILC database - EUSILC15
+Hungary,HU,HUN,348,National,1,Flush and pour flush - to piped sewer system,0.961,Eurostat SILC database - EUSILC15
+Hungary,HU,HUN,348,National,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC15
+Hungary,HU,HUN,348,National,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC15
+Hungary,HU,HUN,348,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC15
+Hungary,HU,HUN,348,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC15
+Hungary,HU,HUN,348,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC15
+Hungary,HU,HUN,348,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC15
+Hungary,HU,HUN,348,National,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC15
+Hungary,HU,HUN,348,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC15
+Hungary,HU,HUN,348,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC15
+Hungary,HU,HUN,348,National,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC15
+Hungary,HU,HUN,348,National,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC15
+Hungary,HU,HUN,348,National,13,Composting toilets,0.0,Eurostat SILC database - EUSILC15
+Hungary,HU,HUN,348,National,14,Other improved,0.0,Eurostat SILC database - EUSILC15
+Hungary,HU,HUN,348,National,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC15
+Hungary,HU,HUN,348,National,16,Other unimproved,0.039,Eurostat SILC database - EUSILC15
+Hungary,HU,HUN,348,National,17,DK/missing information,0.0,Eurostat SILC database - EUSILC15
+Hungary,HU,HUN,348,Urban,1,Flush and pour flush - to piped sewer system,0.687,Environmental Statistical Data - ESD00
+Hungary,HU,HUN,348,Urban,2,Flush and pour flush - to septic tank,0.0,Environmental Statistical Data - ESD00
+Hungary,HU,HUN,348,Urban,3,Flush and pour flush - to pit,0.0,Environmental Statistical Data - ESD00
+Hungary,HU,HUN,348,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Environmental Statistical Data - ESD00
+Hungary,HU,HUN,348,Urban,5,Flush and pour flush - to elsewhere,0.0,Environmental Statistical Data - ESD00
+Hungary,HU,HUN,348,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Environmental Statistical Data - ESD00
+Hungary,HU,HUN,348,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Environmental Statistical Data - ESD00
+Hungary,HU,HUN,348,Urban,8,Dry latrines - Traditional latrine,0.0,Environmental Statistical Data - ESD00
+Hungary,HU,HUN,348,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Environmental Statistical Data - ESD00
+Hungary,HU,HUN,348,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Environmental Statistical Data - ESD00
+Hungary,HU,HUN,348,Urban,11,Dry latrines - Bucket latrine,0.0,Environmental Statistical Data - ESD00
+Hungary,HU,HUN,348,Urban,12,Dry latrines - Other,0.0,Environmental Statistical Data - ESD00
+Hungary,HU,HUN,348,Urban,13,Composting toilets,0.0,Environmental Statistical Data - ESD00
+Hungary,HU,HUN,348,Urban,14,Other improved,0.0,Environmental Statistical Data - ESD00
+Hungary,HU,HUN,348,Urban,15,"No facility, bush, field",0.0,Environmental Statistical Data - ESD00
+Hungary,HU,HUN,348,Urban,16,Other unimproved,0.313,Environmental Statistical Data - ESD00
+Hungary,HU,HUN,348,Urban,17,DK/missing information,0.0,Environmental Statistical Data - ESD00
+Hungary,HU,HUN,348,Rural,1,Flush and pour flush - to piped sewer system,0.166,Environmental Statistical Data - ESD00
+Hungary,HU,HUN,348,Rural,2,Flush and pour flush - to septic tank,0.0,Environmental Statistical Data - ESD00
+Hungary,HU,HUN,348,Rural,3,Flush and pour flush - to pit,0.0,Environmental Statistical Data - ESD00
+Hungary,HU,HUN,348,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Environmental Statistical Data - ESD00
+Hungary,HU,HUN,348,Rural,5,Flush and pour flush - to elsewhere,0.0,Environmental Statistical Data - ESD00
+Hungary,HU,HUN,348,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Environmental Statistical Data - ESD00
+Hungary,HU,HUN,348,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Environmental Statistical Data - ESD00
+Hungary,HU,HUN,348,Rural,8,Dry latrines - Traditional latrine,0.0,Environmental Statistical Data - ESD00
+Hungary,HU,HUN,348,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Environmental Statistical Data - ESD00
+Hungary,HU,HUN,348,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Environmental Statistical Data - ESD00
+Hungary,HU,HUN,348,Rural,11,Dry latrines - Bucket latrine,0.0,Environmental Statistical Data - ESD00
+Hungary,HU,HUN,348,Rural,12,Dry latrines - Other,0.0,Environmental Statistical Data - ESD00
+Hungary,HU,HUN,348,Rural,13,Composting toilets,0.0,Environmental Statistical Data - ESD00
+Hungary,HU,HUN,348,Rural,14,Other improved,0.0,Environmental Statistical Data - ESD00
+Hungary,HU,HUN,348,Rural,15,"No facility, bush, field",0.0,Environmental Statistical Data - ESD00
+Hungary,HU,HUN,348,Rural,16,Other unimproved,0.834,Environmental Statistical Data - ESD00
+Hungary,HU,HUN,348,Rural,17,DK/missing information,0.0,Environmental Statistical Data - ESD00
+Hungary,HU,HUN,348,National,1,Flush and pour flush - to piped sewer system,0.0,Environmental Statistical Data - ESD00
+Hungary,HU,HUN,348,National,2,Flush and pour flush - to septic tank,0.0,Environmental Statistical Data - ESD00
+Hungary,HU,HUN,348,National,3,Flush and pour flush - to pit,0.0,Environmental Statistical Data - ESD00
+Hungary,HU,HUN,348,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Environmental Statistical Data - ESD00
+Hungary,HU,HUN,348,National,5,Flush and pour flush - to elsewhere,0.0,Environmental Statistical Data - ESD00
+Hungary,HU,HUN,348,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Environmental Statistical Data - ESD00
+Hungary,HU,HUN,348,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Environmental Statistical Data - ESD00
+Hungary,HU,HUN,348,National,8,Dry latrines - Traditional latrine,0.0,Environmental Statistical Data - ESD00
+Hungary,HU,HUN,348,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Environmental Statistical Data - ESD00
+Hungary,HU,HUN,348,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Environmental Statistical Data - ESD00
+Hungary,HU,HUN,348,National,11,Dry latrines - Bucket latrine,0.0,Environmental Statistical Data - ESD00
+Hungary,HU,HUN,348,National,12,Dry latrines - Other,0.0,Environmental Statistical Data - ESD00
+Hungary,HU,HUN,348,National,13,Composting toilets,0.0,Environmental Statistical Data - ESD00
+Hungary,HU,HUN,348,National,14,Other improved,0.0,Environmental Statistical Data - ESD00
+Hungary,HU,HUN,348,National,15,"No facility, bush, field",0.0,Environmental Statistical Data - ESD00
+Hungary,HU,HUN,348,National,16,Other unimproved,0.0,Environmental Statistical Data - ESD00
+Hungary,HU,HUN,348,National,17,DK/missing information,0.0,Environmental Statistical Data - ESD00
+Hungary,HU,HUN,348,Urban,1,Flush and pour flush - to piped sewer system,0.691,Environmental Statistical Data - ESD01
+Hungary,HU,HUN,348,Urban,2,Flush and pour flush - to septic tank,0.0,Environmental Statistical Data - ESD01
+Hungary,HU,HUN,348,Urban,3,Flush and pour flush - to pit,0.0,Environmental Statistical Data - ESD01
+Hungary,HU,HUN,348,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Environmental Statistical Data - ESD01
+Hungary,HU,HUN,348,Urban,5,Flush and pour flush - to elsewhere,0.0,Environmental Statistical Data - ESD01
+Hungary,HU,HUN,348,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Environmental Statistical Data - ESD01
+Hungary,HU,HUN,348,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Environmental Statistical Data - ESD01
+Hungary,HU,HUN,348,Urban,8,Dry latrines - Traditional latrine,0.0,Environmental Statistical Data - ESD01
+Hungary,HU,HUN,348,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Environmental Statistical Data - ESD01
+Hungary,HU,HUN,348,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Environmental Statistical Data - ESD01
+Hungary,HU,HUN,348,Urban,11,Dry latrines - Bucket latrine,0.0,Environmental Statistical Data - ESD01
+Hungary,HU,HUN,348,Urban,12,Dry latrines - Other,0.0,Environmental Statistical Data - ESD01
+Hungary,HU,HUN,348,Urban,13,Composting toilets,0.0,Environmental Statistical Data - ESD01
+Hungary,HU,HUN,348,Urban,14,Other improved,0.0,Environmental Statistical Data - ESD01
+Hungary,HU,HUN,348,Urban,15,"No facility, bush, field",0.0,Environmental Statistical Data - ESD01
+Hungary,HU,HUN,348,Urban,16,Other unimproved,0.309,Environmental Statistical Data - ESD01
+Hungary,HU,HUN,348,Urban,17,DK/missing information,0.0,Environmental Statistical Data - ESD01
+Hungary,HU,HUN,348,Rural,1,Flush and pour flush - to piped sewer system,0.202,Environmental Statistical Data - ESD01
+Hungary,HU,HUN,348,Rural,2,Flush and pour flush - to septic tank,0.0,Environmental Statistical Data - ESD01
+Hungary,HU,HUN,348,Rural,3,Flush and pour flush - to pit,0.0,Environmental Statistical Data - ESD01
+Hungary,HU,HUN,348,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Environmental Statistical Data - ESD01
+Hungary,HU,HUN,348,Rural,5,Flush and pour flush - to elsewhere,0.0,Environmental Statistical Data - ESD01
+Hungary,HU,HUN,348,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Environmental Statistical Data - ESD01
+Hungary,HU,HUN,348,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Environmental Statistical Data - ESD01
+Hungary,HU,HUN,348,Rural,8,Dry latrines - Traditional latrine,0.0,Environmental Statistical Data - ESD01
+Hungary,HU,HUN,348,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Environmental Statistical Data - ESD01
+Hungary,HU,HUN,348,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Environmental Statistical Data - ESD01
+Hungary,HU,HUN,348,Rural,11,Dry latrines - Bucket latrine,0.0,Environmental Statistical Data - ESD01
+Hungary,HU,HUN,348,Rural,12,Dry latrines - Other,0.0,Environmental Statistical Data - ESD01
+Hungary,HU,HUN,348,Rural,13,Composting toilets,0.0,Environmental Statistical Data - ESD01
+Hungary,HU,HUN,348,Rural,14,Other improved,0.0,Environmental Statistical Data - ESD01
+Hungary,HU,HUN,348,Rural,15,"No facility, bush, field",0.0,Environmental Statistical Data - ESD01
+Hungary,HU,HUN,348,Rural,16,Other unimproved,0.798,Environmental Statistical Data - ESD01
+Hungary,HU,HUN,348,Rural,17,DK/missing information,0.0,Environmental Statistical Data - ESD01
+Hungary,HU,HUN,348,National,1,Flush and pour flush - to piped sewer system,0.0,Environmental Statistical Data - ESD01
+Hungary,HU,HUN,348,National,2,Flush and pour flush - to septic tank,0.0,Environmental Statistical Data - ESD01
+Hungary,HU,HUN,348,National,3,Flush and pour flush - to pit,0.0,Environmental Statistical Data - ESD01
+Hungary,HU,HUN,348,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Environmental Statistical Data - ESD01
+Hungary,HU,HUN,348,National,5,Flush and pour flush - to elsewhere,0.0,Environmental Statistical Data - ESD01
+Hungary,HU,HUN,348,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Environmental Statistical Data - ESD01
+Hungary,HU,HUN,348,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Environmental Statistical Data - ESD01
+Hungary,HU,HUN,348,National,8,Dry latrines - Traditional latrine,0.0,Environmental Statistical Data - ESD01
+Hungary,HU,HUN,348,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Environmental Statistical Data - ESD01
+Hungary,HU,HUN,348,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Environmental Statistical Data - ESD01
+Hungary,HU,HUN,348,National,11,Dry latrines - Bucket latrine,0.0,Environmental Statistical Data - ESD01
+Hungary,HU,HUN,348,National,12,Dry latrines - Other,0.0,Environmental Statistical Data - ESD01
+Hungary,HU,HUN,348,National,13,Composting toilets,0.0,Environmental Statistical Data - ESD01
+Hungary,HU,HUN,348,National,14,Other improved,0.0,Environmental Statistical Data - ESD01
+Hungary,HU,HUN,348,National,15,"No facility, bush, field",0.0,Environmental Statistical Data - ESD01
+Hungary,HU,HUN,348,National,16,Other unimproved,0.0,Environmental Statistical Data - ESD01
+Hungary,HU,HUN,348,National,17,DK/missing information,0.0,Environmental Statistical Data - ESD01

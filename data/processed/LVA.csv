@@ -1,0 +1,1135 @@
+country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+Latvia,LV,LVA,428,Urban,1,Flush and pour flush - to piped sewer system,0.0,EUROSTAT ENV DATABASE - ES07
+Latvia,LV,LVA,428,Urban,2,Flush and pour flush - to septic tank,0.0,EUROSTAT ENV DATABASE - ES07
+Latvia,LV,LVA,428,Urban,3,Flush and pour flush - to pit,0.0,EUROSTAT ENV DATABASE - ES07
+Latvia,LV,LVA,428,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,EUROSTAT ENV DATABASE - ES07
+Latvia,LV,LVA,428,Urban,5,Flush and pour flush - to elsewhere,0.0,EUROSTAT ENV DATABASE - ES07
+Latvia,LV,LVA,428,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,EUROSTAT ENV DATABASE - ES07
+Latvia,LV,LVA,428,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,EUROSTAT ENV DATABASE - ES07
+Latvia,LV,LVA,428,Urban,8,Dry latrines - Traditional latrine,0.0,EUROSTAT ENV DATABASE - ES07
+Latvia,LV,LVA,428,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,EUROSTAT ENV DATABASE - ES07
+Latvia,LV,LVA,428,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,EUROSTAT ENV DATABASE - ES07
+Latvia,LV,LVA,428,Urban,11,Dry latrines - Bucket latrine,0.0,EUROSTAT ENV DATABASE - ES07
+Latvia,LV,LVA,428,Urban,12,Dry latrines - Other,0.0,EUROSTAT ENV DATABASE - ES07
+Latvia,LV,LVA,428,Urban,13,Composting toilets,0.0,EUROSTAT ENV DATABASE - ES07
+Latvia,LV,LVA,428,Urban,14,Other improved,0.0,EUROSTAT ENV DATABASE - ES07
+Latvia,LV,LVA,428,Urban,15,"No facility, bush, field",0.0,EUROSTAT ENV DATABASE - ES07
+Latvia,LV,LVA,428,Urban,16,Other unimproved,0.0,EUROSTAT ENV DATABASE - ES07
+Latvia,LV,LVA,428,Urban,17,DK/missing information,0.0,EUROSTAT ENV DATABASE - ES07
+Latvia,LV,LVA,428,Rural,1,Flush and pour flush - to piped sewer system,0.0,EUROSTAT ENV DATABASE - ES07
+Latvia,LV,LVA,428,Rural,2,Flush and pour flush - to septic tank,0.0,EUROSTAT ENV DATABASE - ES07
+Latvia,LV,LVA,428,Rural,3,Flush and pour flush - to pit,0.0,EUROSTAT ENV DATABASE - ES07
+Latvia,LV,LVA,428,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,EUROSTAT ENV DATABASE - ES07
+Latvia,LV,LVA,428,Rural,5,Flush and pour flush - to elsewhere,0.0,EUROSTAT ENV DATABASE - ES07
+Latvia,LV,LVA,428,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,EUROSTAT ENV DATABASE - ES07
+Latvia,LV,LVA,428,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,EUROSTAT ENV DATABASE - ES07
+Latvia,LV,LVA,428,Rural,8,Dry latrines - Traditional latrine,0.0,EUROSTAT ENV DATABASE - ES07
+Latvia,LV,LVA,428,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,EUROSTAT ENV DATABASE - ES07
+Latvia,LV,LVA,428,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,EUROSTAT ENV DATABASE - ES07
+Latvia,LV,LVA,428,Rural,11,Dry latrines - Bucket latrine,0.0,EUROSTAT ENV DATABASE - ES07
+Latvia,LV,LVA,428,Rural,12,Dry latrines - Other,0.0,EUROSTAT ENV DATABASE - ES07
+Latvia,LV,LVA,428,Rural,13,Composting toilets,0.0,EUROSTAT ENV DATABASE - ES07
+Latvia,LV,LVA,428,Rural,14,Other improved,0.0,EUROSTAT ENV DATABASE - ES07
+Latvia,LV,LVA,428,Rural,15,"No facility, bush, field",0.0,EUROSTAT ENV DATABASE - ES07
+Latvia,LV,LVA,428,Rural,16,Other unimproved,0.0,EUROSTAT ENV DATABASE - ES07
+Latvia,LV,LVA,428,Rural,17,DK/missing information,0.0,EUROSTAT ENV DATABASE - ES07
+Latvia,LV,LVA,428,National,1,Flush and pour flush - to piped sewer system,0.641,EUROSTAT ENV DATABASE - ES07
+Latvia,LV,LVA,428,National,2,Flush and pour flush - to septic tank,0.359,EUROSTAT ENV DATABASE - ES07
+Latvia,LV,LVA,428,National,3,Flush and pour flush - to pit,0.0,EUROSTAT ENV DATABASE - ES07
+Latvia,LV,LVA,428,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,EUROSTAT ENV DATABASE - ES07
+Latvia,LV,LVA,428,National,5,Flush and pour flush - to elsewhere,0.0,EUROSTAT ENV DATABASE - ES07
+Latvia,LV,LVA,428,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,EUROSTAT ENV DATABASE - ES07
+Latvia,LV,LVA,428,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,EUROSTAT ENV DATABASE - ES07
+Latvia,LV,LVA,428,National,8,Dry latrines - Traditional latrine,0.0,EUROSTAT ENV DATABASE - ES07
+Latvia,LV,LVA,428,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,EUROSTAT ENV DATABASE - ES07
+Latvia,LV,LVA,428,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,EUROSTAT ENV DATABASE - ES07
+Latvia,LV,LVA,428,National,11,Dry latrines - Bucket latrine,0.0,EUROSTAT ENV DATABASE - ES07
+Latvia,LV,LVA,428,National,12,Dry latrines - Other,0.0,EUROSTAT ENV DATABASE - ES07
+Latvia,LV,LVA,428,National,13,Composting toilets,0.0,EUROSTAT ENV DATABASE - ES07
+Latvia,LV,LVA,428,National,14,Other improved,0.0,EUROSTAT ENV DATABASE - ES07
+Latvia,LV,LVA,428,National,15,"No facility, bush, field",0.0,EUROSTAT ENV DATABASE - ES07
+Latvia,LV,LVA,428,National,16,Other unimproved,0.0,EUROSTAT ENV DATABASE - ES07
+Latvia,LV,LVA,428,National,17,DK/missing information,0.0,EUROSTAT ENV DATABASE - ES07
+Latvia,LV,LVA,428,Urban,1,Flush and pour flush - to piped sewer system,0.0,EUROSTAT ENV DATABASE - ES08
+Latvia,LV,LVA,428,Urban,2,Flush and pour flush - to septic tank,0.0,EUROSTAT ENV DATABASE - ES08
+Latvia,LV,LVA,428,Urban,3,Flush and pour flush - to pit,0.0,EUROSTAT ENV DATABASE - ES08
+Latvia,LV,LVA,428,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,EUROSTAT ENV DATABASE - ES08
+Latvia,LV,LVA,428,Urban,5,Flush and pour flush - to elsewhere,0.0,EUROSTAT ENV DATABASE - ES08
+Latvia,LV,LVA,428,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,EUROSTAT ENV DATABASE - ES08
+Latvia,LV,LVA,428,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,EUROSTAT ENV DATABASE - ES08
+Latvia,LV,LVA,428,Urban,8,Dry latrines - Traditional latrine,0.0,EUROSTAT ENV DATABASE - ES08
+Latvia,LV,LVA,428,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,EUROSTAT ENV DATABASE - ES08
+Latvia,LV,LVA,428,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,EUROSTAT ENV DATABASE - ES08
+Latvia,LV,LVA,428,Urban,11,Dry latrines - Bucket latrine,0.0,EUROSTAT ENV DATABASE - ES08
+Latvia,LV,LVA,428,Urban,12,Dry latrines - Other,0.0,EUROSTAT ENV DATABASE - ES08
+Latvia,LV,LVA,428,Urban,13,Composting toilets,0.0,EUROSTAT ENV DATABASE - ES08
+Latvia,LV,LVA,428,Urban,14,Other improved,0.0,EUROSTAT ENV DATABASE - ES08
+Latvia,LV,LVA,428,Urban,15,"No facility, bush, field",0.0,EUROSTAT ENV DATABASE - ES08
+Latvia,LV,LVA,428,Urban,16,Other unimproved,0.0,EUROSTAT ENV DATABASE - ES08
+Latvia,LV,LVA,428,Urban,17,DK/missing information,0.0,EUROSTAT ENV DATABASE - ES08
+Latvia,LV,LVA,428,Rural,1,Flush and pour flush - to piped sewer system,0.0,EUROSTAT ENV DATABASE - ES08
+Latvia,LV,LVA,428,Rural,2,Flush and pour flush - to septic tank,0.0,EUROSTAT ENV DATABASE - ES08
+Latvia,LV,LVA,428,Rural,3,Flush and pour flush - to pit,0.0,EUROSTAT ENV DATABASE - ES08
+Latvia,LV,LVA,428,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,EUROSTAT ENV DATABASE - ES08
+Latvia,LV,LVA,428,Rural,5,Flush and pour flush - to elsewhere,0.0,EUROSTAT ENV DATABASE - ES08
+Latvia,LV,LVA,428,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,EUROSTAT ENV DATABASE - ES08
+Latvia,LV,LVA,428,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,EUROSTAT ENV DATABASE - ES08
+Latvia,LV,LVA,428,Rural,8,Dry latrines - Traditional latrine,0.0,EUROSTAT ENV DATABASE - ES08
+Latvia,LV,LVA,428,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,EUROSTAT ENV DATABASE - ES08
+Latvia,LV,LVA,428,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,EUROSTAT ENV DATABASE - ES08
+Latvia,LV,LVA,428,Rural,11,Dry latrines - Bucket latrine,0.0,EUROSTAT ENV DATABASE - ES08
+Latvia,LV,LVA,428,Rural,12,Dry latrines - Other,0.0,EUROSTAT ENV DATABASE - ES08
+Latvia,LV,LVA,428,Rural,13,Composting toilets,0.0,EUROSTAT ENV DATABASE - ES08
+Latvia,LV,LVA,428,Rural,14,Other improved,0.0,EUROSTAT ENV DATABASE - ES08
+Latvia,LV,LVA,428,Rural,15,"No facility, bush, field",0.0,EUROSTAT ENV DATABASE - ES08
+Latvia,LV,LVA,428,Rural,16,Other unimproved,0.0,EUROSTAT ENV DATABASE - ES08
+Latvia,LV,LVA,428,Rural,17,DK/missing information,0.0,EUROSTAT ENV DATABASE - ES08
+Latvia,LV,LVA,428,National,1,Flush and pour flush - to piped sewer system,0.613,EUROSTAT ENV DATABASE - ES08
+Latvia,LV,LVA,428,National,2,Flush and pour flush - to septic tank,0.387,EUROSTAT ENV DATABASE - ES08
+Latvia,LV,LVA,428,National,3,Flush and pour flush - to pit,0.0,EUROSTAT ENV DATABASE - ES08
+Latvia,LV,LVA,428,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,EUROSTAT ENV DATABASE - ES08
+Latvia,LV,LVA,428,National,5,Flush and pour flush - to elsewhere,0.0,EUROSTAT ENV DATABASE - ES08
+Latvia,LV,LVA,428,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,EUROSTAT ENV DATABASE - ES08
+Latvia,LV,LVA,428,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,EUROSTAT ENV DATABASE - ES08
+Latvia,LV,LVA,428,National,8,Dry latrines - Traditional latrine,0.0,EUROSTAT ENV DATABASE - ES08
+Latvia,LV,LVA,428,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,EUROSTAT ENV DATABASE - ES08
+Latvia,LV,LVA,428,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,EUROSTAT ENV DATABASE - ES08
+Latvia,LV,LVA,428,National,11,Dry latrines - Bucket latrine,0.0,EUROSTAT ENV DATABASE - ES08
+Latvia,LV,LVA,428,National,12,Dry latrines - Other,0.0,EUROSTAT ENV DATABASE - ES08
+Latvia,LV,LVA,428,National,13,Composting toilets,0.0,EUROSTAT ENV DATABASE - ES08
+Latvia,LV,LVA,428,National,14,Other improved,0.0,EUROSTAT ENV DATABASE - ES08
+Latvia,LV,LVA,428,National,15,"No facility, bush, field",0.0,EUROSTAT ENV DATABASE - ES08
+Latvia,LV,LVA,428,National,16,Other unimproved,0.0,EUROSTAT ENV DATABASE - ES08
+Latvia,LV,LVA,428,National,17,DK/missing information,0.0,EUROSTAT ENV DATABASE - ES08
+Latvia,LV,LVA,428,Urban,1,Flush and pour flush - to piped sewer system,0.0,EUROSTAT ENV DATABASE - ES09
+Latvia,LV,LVA,428,Urban,2,Flush and pour flush - to septic tank,0.0,EUROSTAT ENV DATABASE - ES09
+Latvia,LV,LVA,428,Urban,3,Flush and pour flush - to pit,0.0,EUROSTAT ENV DATABASE - ES09
+Latvia,LV,LVA,428,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,EUROSTAT ENV DATABASE - ES09
+Latvia,LV,LVA,428,Urban,5,Flush and pour flush - to elsewhere,0.0,EUROSTAT ENV DATABASE - ES09
+Latvia,LV,LVA,428,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,EUROSTAT ENV DATABASE - ES09
+Latvia,LV,LVA,428,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,EUROSTAT ENV DATABASE - ES09
+Latvia,LV,LVA,428,Urban,8,Dry latrines - Traditional latrine,0.0,EUROSTAT ENV DATABASE - ES09
+Latvia,LV,LVA,428,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,EUROSTAT ENV DATABASE - ES09
+Latvia,LV,LVA,428,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,EUROSTAT ENV DATABASE - ES09
+Latvia,LV,LVA,428,Urban,11,Dry latrines - Bucket latrine,0.0,EUROSTAT ENV DATABASE - ES09
+Latvia,LV,LVA,428,Urban,12,Dry latrines - Other,0.0,EUROSTAT ENV DATABASE - ES09
+Latvia,LV,LVA,428,Urban,13,Composting toilets,0.0,EUROSTAT ENV DATABASE - ES09
+Latvia,LV,LVA,428,Urban,14,Other improved,0.0,EUROSTAT ENV DATABASE - ES09
+Latvia,LV,LVA,428,Urban,15,"No facility, bush, field",0.0,EUROSTAT ENV DATABASE - ES09
+Latvia,LV,LVA,428,Urban,16,Other unimproved,0.0,EUROSTAT ENV DATABASE - ES09
+Latvia,LV,LVA,428,Urban,17,DK/missing information,0.0,EUROSTAT ENV DATABASE - ES09
+Latvia,LV,LVA,428,Rural,1,Flush and pour flush - to piped sewer system,0.0,EUROSTAT ENV DATABASE - ES09
+Latvia,LV,LVA,428,Rural,2,Flush and pour flush - to septic tank,0.0,EUROSTAT ENV DATABASE - ES09
+Latvia,LV,LVA,428,Rural,3,Flush and pour flush - to pit,0.0,EUROSTAT ENV DATABASE - ES09
+Latvia,LV,LVA,428,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,EUROSTAT ENV DATABASE - ES09
+Latvia,LV,LVA,428,Rural,5,Flush and pour flush - to elsewhere,0.0,EUROSTAT ENV DATABASE - ES09
+Latvia,LV,LVA,428,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,EUROSTAT ENV DATABASE - ES09
+Latvia,LV,LVA,428,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,EUROSTAT ENV DATABASE - ES09
+Latvia,LV,LVA,428,Rural,8,Dry latrines - Traditional latrine,0.0,EUROSTAT ENV DATABASE - ES09
+Latvia,LV,LVA,428,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,EUROSTAT ENV DATABASE - ES09
+Latvia,LV,LVA,428,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,EUROSTAT ENV DATABASE - ES09
+Latvia,LV,LVA,428,Rural,11,Dry latrines - Bucket latrine,0.0,EUROSTAT ENV DATABASE - ES09
+Latvia,LV,LVA,428,Rural,12,Dry latrines - Other,0.0,EUROSTAT ENV DATABASE - ES09
+Latvia,LV,LVA,428,Rural,13,Composting toilets,0.0,EUROSTAT ENV DATABASE - ES09
+Latvia,LV,LVA,428,Rural,14,Other improved,0.0,EUROSTAT ENV DATABASE - ES09
+Latvia,LV,LVA,428,Rural,15,"No facility, bush, field",0.0,EUROSTAT ENV DATABASE - ES09
+Latvia,LV,LVA,428,Rural,16,Other unimproved,0.0,EUROSTAT ENV DATABASE - ES09
+Latvia,LV,LVA,428,Rural,17,DK/missing information,0.0,EUROSTAT ENV DATABASE - ES09
+Latvia,LV,LVA,428,National,1,Flush and pour flush - to piped sewer system,0.665,EUROSTAT ENV DATABASE - ES09
+Latvia,LV,LVA,428,National,2,Flush and pour flush - to septic tank,0.335,EUROSTAT ENV DATABASE - ES09
+Latvia,LV,LVA,428,National,3,Flush and pour flush - to pit,0.0,EUROSTAT ENV DATABASE - ES09
+Latvia,LV,LVA,428,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,EUROSTAT ENV DATABASE - ES09
+Latvia,LV,LVA,428,National,5,Flush and pour flush - to elsewhere,0.0,EUROSTAT ENV DATABASE - ES09
+Latvia,LV,LVA,428,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,EUROSTAT ENV DATABASE - ES09
+Latvia,LV,LVA,428,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,EUROSTAT ENV DATABASE - ES09
+Latvia,LV,LVA,428,National,8,Dry latrines - Traditional latrine,0.0,EUROSTAT ENV DATABASE - ES09
+Latvia,LV,LVA,428,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,EUROSTAT ENV DATABASE - ES09
+Latvia,LV,LVA,428,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,EUROSTAT ENV DATABASE - ES09
+Latvia,LV,LVA,428,National,11,Dry latrines - Bucket latrine,0.0,EUROSTAT ENV DATABASE - ES09
+Latvia,LV,LVA,428,National,12,Dry latrines - Other,0.0,EUROSTAT ENV DATABASE - ES09
+Latvia,LV,LVA,428,National,13,Composting toilets,0.0,EUROSTAT ENV DATABASE - ES09
+Latvia,LV,LVA,428,National,14,Other improved,0.0,EUROSTAT ENV DATABASE - ES09
+Latvia,LV,LVA,428,National,15,"No facility, bush, field",0.0,EUROSTAT ENV DATABASE - ES09
+Latvia,LV,LVA,428,National,16,Other unimproved,0.0,EUROSTAT ENV DATABASE - ES09
+Latvia,LV,LVA,428,National,17,DK/missing information,0.0,EUROSTAT ENV DATABASE - ES09
+Latvia,LV,LVA,428,Urban,1,Flush and pour flush - to piped sewer system,0.0,EUROSTAT ENV DATABASE - ES10
+Latvia,LV,LVA,428,Urban,2,Flush and pour flush - to septic tank,0.0,EUROSTAT ENV DATABASE - ES10
+Latvia,LV,LVA,428,Urban,3,Flush and pour flush - to pit,0.0,EUROSTAT ENV DATABASE - ES10
+Latvia,LV,LVA,428,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,EUROSTAT ENV DATABASE - ES10
+Latvia,LV,LVA,428,Urban,5,Flush and pour flush - to elsewhere,0.0,EUROSTAT ENV DATABASE - ES10
+Latvia,LV,LVA,428,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,EUROSTAT ENV DATABASE - ES10
+Latvia,LV,LVA,428,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,EUROSTAT ENV DATABASE - ES10
+Latvia,LV,LVA,428,Urban,8,Dry latrines - Traditional latrine,0.0,EUROSTAT ENV DATABASE - ES10
+Latvia,LV,LVA,428,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,EUROSTAT ENV DATABASE - ES10
+Latvia,LV,LVA,428,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,EUROSTAT ENV DATABASE - ES10
+Latvia,LV,LVA,428,Urban,11,Dry latrines - Bucket latrine,0.0,EUROSTAT ENV DATABASE - ES10
+Latvia,LV,LVA,428,Urban,12,Dry latrines - Other,0.0,EUROSTAT ENV DATABASE - ES10
+Latvia,LV,LVA,428,Urban,13,Composting toilets,0.0,EUROSTAT ENV DATABASE - ES10
+Latvia,LV,LVA,428,Urban,14,Other improved,0.0,EUROSTAT ENV DATABASE - ES10
+Latvia,LV,LVA,428,Urban,15,"No facility, bush, field",0.0,EUROSTAT ENV DATABASE - ES10
+Latvia,LV,LVA,428,Urban,16,Other unimproved,0.0,EUROSTAT ENV DATABASE - ES10
+Latvia,LV,LVA,428,Urban,17,DK/missing information,0.0,EUROSTAT ENV DATABASE - ES10
+Latvia,LV,LVA,428,Rural,1,Flush and pour flush - to piped sewer system,0.0,EUROSTAT ENV DATABASE - ES10
+Latvia,LV,LVA,428,Rural,2,Flush and pour flush - to septic tank,0.0,EUROSTAT ENV DATABASE - ES10
+Latvia,LV,LVA,428,Rural,3,Flush and pour flush - to pit,0.0,EUROSTAT ENV DATABASE - ES10
+Latvia,LV,LVA,428,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,EUROSTAT ENV DATABASE - ES10
+Latvia,LV,LVA,428,Rural,5,Flush and pour flush - to elsewhere,0.0,EUROSTAT ENV DATABASE - ES10
+Latvia,LV,LVA,428,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,EUROSTAT ENV DATABASE - ES10
+Latvia,LV,LVA,428,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,EUROSTAT ENV DATABASE - ES10
+Latvia,LV,LVA,428,Rural,8,Dry latrines - Traditional latrine,0.0,EUROSTAT ENV DATABASE - ES10
+Latvia,LV,LVA,428,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,EUROSTAT ENV DATABASE - ES10
+Latvia,LV,LVA,428,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,EUROSTAT ENV DATABASE - ES10
+Latvia,LV,LVA,428,Rural,11,Dry latrines - Bucket latrine,0.0,EUROSTAT ENV DATABASE - ES10
+Latvia,LV,LVA,428,Rural,12,Dry latrines - Other,0.0,EUROSTAT ENV DATABASE - ES10
+Latvia,LV,LVA,428,Rural,13,Composting toilets,0.0,EUROSTAT ENV DATABASE - ES10
+Latvia,LV,LVA,428,Rural,14,Other improved,0.0,EUROSTAT ENV DATABASE - ES10
+Latvia,LV,LVA,428,Rural,15,"No facility, bush, field",0.0,EUROSTAT ENV DATABASE - ES10
+Latvia,LV,LVA,428,Rural,16,Other unimproved,0.0,EUROSTAT ENV DATABASE - ES10
+Latvia,LV,LVA,428,Rural,17,DK/missing information,0.0,EUROSTAT ENV DATABASE - ES10
+Latvia,LV,LVA,428,National,1,Flush and pour flush - to piped sewer system,0.643,EUROSTAT ENV DATABASE - ES10
+Latvia,LV,LVA,428,National,2,Flush and pour flush - to septic tank,0.357,EUROSTAT ENV DATABASE - ES10
+Latvia,LV,LVA,428,National,3,Flush and pour flush - to pit,0.0,EUROSTAT ENV DATABASE - ES10
+Latvia,LV,LVA,428,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,EUROSTAT ENV DATABASE - ES10
+Latvia,LV,LVA,428,National,5,Flush and pour flush - to elsewhere,0.0,EUROSTAT ENV DATABASE - ES10
+Latvia,LV,LVA,428,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,EUROSTAT ENV DATABASE - ES10
+Latvia,LV,LVA,428,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,EUROSTAT ENV DATABASE - ES10
+Latvia,LV,LVA,428,National,8,Dry latrines - Traditional latrine,0.0,EUROSTAT ENV DATABASE - ES10
+Latvia,LV,LVA,428,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,EUROSTAT ENV DATABASE - ES10
+Latvia,LV,LVA,428,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,EUROSTAT ENV DATABASE - ES10
+Latvia,LV,LVA,428,National,11,Dry latrines - Bucket latrine,0.0,EUROSTAT ENV DATABASE - ES10
+Latvia,LV,LVA,428,National,12,Dry latrines - Other,0.0,EUROSTAT ENV DATABASE - ES10
+Latvia,LV,LVA,428,National,13,Composting toilets,0.0,EUROSTAT ENV DATABASE - ES10
+Latvia,LV,LVA,428,National,14,Other improved,0.0,EUROSTAT ENV DATABASE - ES10
+Latvia,LV,LVA,428,National,15,"No facility, bush, field",0.0,EUROSTAT ENV DATABASE - ES10
+Latvia,LV,LVA,428,National,16,Other unimproved,0.0,EUROSTAT ENV DATABASE - ES10
+Latvia,LV,LVA,428,National,17,DK/missing information,0.0,EUROSTAT ENV DATABASE - ES10
+Latvia,LV,LVA,428,Urban,1,Flush and pour flush - to piped sewer system,0.0,EUROSTAT ENV DATABASE - ES11
+Latvia,LV,LVA,428,Urban,2,Flush and pour flush - to septic tank,0.0,EUROSTAT ENV DATABASE - ES11
+Latvia,LV,LVA,428,Urban,3,Flush and pour flush - to pit,0.0,EUROSTAT ENV DATABASE - ES11
+Latvia,LV,LVA,428,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,EUROSTAT ENV DATABASE - ES11
+Latvia,LV,LVA,428,Urban,5,Flush and pour flush - to elsewhere,0.0,EUROSTAT ENV DATABASE - ES11
+Latvia,LV,LVA,428,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,EUROSTAT ENV DATABASE - ES11
+Latvia,LV,LVA,428,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,EUROSTAT ENV DATABASE - ES11
+Latvia,LV,LVA,428,Urban,8,Dry latrines - Traditional latrine,0.0,EUROSTAT ENV DATABASE - ES11
+Latvia,LV,LVA,428,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,EUROSTAT ENV DATABASE - ES11
+Latvia,LV,LVA,428,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,EUROSTAT ENV DATABASE - ES11
+Latvia,LV,LVA,428,Urban,11,Dry latrines - Bucket latrine,0.0,EUROSTAT ENV DATABASE - ES11
+Latvia,LV,LVA,428,Urban,12,Dry latrines - Other,0.0,EUROSTAT ENV DATABASE - ES11
+Latvia,LV,LVA,428,Urban,13,Composting toilets,0.0,EUROSTAT ENV DATABASE - ES11
+Latvia,LV,LVA,428,Urban,14,Other improved,0.0,EUROSTAT ENV DATABASE - ES11
+Latvia,LV,LVA,428,Urban,15,"No facility, bush, field",0.0,EUROSTAT ENV DATABASE - ES11
+Latvia,LV,LVA,428,Urban,16,Other unimproved,0.0,EUROSTAT ENV DATABASE - ES11
+Latvia,LV,LVA,428,Urban,17,DK/missing information,0.0,EUROSTAT ENV DATABASE - ES11
+Latvia,LV,LVA,428,Rural,1,Flush and pour flush - to piped sewer system,0.0,EUROSTAT ENV DATABASE - ES11
+Latvia,LV,LVA,428,Rural,2,Flush and pour flush - to septic tank,0.0,EUROSTAT ENV DATABASE - ES11
+Latvia,LV,LVA,428,Rural,3,Flush and pour flush - to pit,0.0,EUROSTAT ENV DATABASE - ES11
+Latvia,LV,LVA,428,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,EUROSTAT ENV DATABASE - ES11
+Latvia,LV,LVA,428,Rural,5,Flush and pour flush - to elsewhere,0.0,EUROSTAT ENV DATABASE - ES11
+Latvia,LV,LVA,428,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,EUROSTAT ENV DATABASE - ES11
+Latvia,LV,LVA,428,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,EUROSTAT ENV DATABASE - ES11
+Latvia,LV,LVA,428,Rural,8,Dry latrines - Traditional latrine,0.0,EUROSTAT ENV DATABASE - ES11
+Latvia,LV,LVA,428,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,EUROSTAT ENV DATABASE - ES11
+Latvia,LV,LVA,428,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,EUROSTAT ENV DATABASE - ES11
+Latvia,LV,LVA,428,Rural,11,Dry latrines - Bucket latrine,0.0,EUROSTAT ENV DATABASE - ES11
+Latvia,LV,LVA,428,Rural,12,Dry latrines - Other,0.0,EUROSTAT ENV DATABASE - ES11
+Latvia,LV,LVA,428,Rural,13,Composting toilets,0.0,EUROSTAT ENV DATABASE - ES11
+Latvia,LV,LVA,428,Rural,14,Other improved,0.0,EUROSTAT ENV DATABASE - ES11
+Latvia,LV,LVA,428,Rural,15,"No facility, bush, field",0.0,EUROSTAT ENV DATABASE - ES11
+Latvia,LV,LVA,428,Rural,16,Other unimproved,0.0,EUROSTAT ENV DATABASE - ES11
+Latvia,LV,LVA,428,Rural,17,DK/missing information,0.0,EUROSTAT ENV DATABASE - ES11
+Latvia,LV,LVA,428,National,1,Flush and pour flush - to piped sewer system,0.678,EUROSTAT ENV DATABASE - ES11
+Latvia,LV,LVA,428,National,2,Flush and pour flush - to septic tank,0.322,EUROSTAT ENV DATABASE - ES11
+Latvia,LV,LVA,428,National,3,Flush and pour flush - to pit,0.0,EUROSTAT ENV DATABASE - ES11
+Latvia,LV,LVA,428,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,EUROSTAT ENV DATABASE - ES11
+Latvia,LV,LVA,428,National,5,Flush and pour flush - to elsewhere,0.0,EUROSTAT ENV DATABASE - ES11
+Latvia,LV,LVA,428,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,EUROSTAT ENV DATABASE - ES11
+Latvia,LV,LVA,428,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,EUROSTAT ENV DATABASE - ES11
+Latvia,LV,LVA,428,National,8,Dry latrines - Traditional latrine,0.0,EUROSTAT ENV DATABASE - ES11
+Latvia,LV,LVA,428,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,EUROSTAT ENV DATABASE - ES11
+Latvia,LV,LVA,428,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,EUROSTAT ENV DATABASE - ES11
+Latvia,LV,LVA,428,National,11,Dry latrines - Bucket latrine,0.0,EUROSTAT ENV DATABASE - ES11
+Latvia,LV,LVA,428,National,12,Dry latrines - Other,0.0,EUROSTAT ENV DATABASE - ES11
+Latvia,LV,LVA,428,National,13,Composting toilets,0.0,EUROSTAT ENV DATABASE - ES11
+Latvia,LV,LVA,428,National,14,Other improved,0.0,EUROSTAT ENV DATABASE - ES11
+Latvia,LV,LVA,428,National,15,"No facility, bush, field",0.0,EUROSTAT ENV DATABASE - ES11
+Latvia,LV,LVA,428,National,16,Other unimproved,0.0,EUROSTAT ENV DATABASE - ES11
+Latvia,LV,LVA,428,National,17,DK/missing information,0.0,EUROSTAT ENV DATABASE - ES11
+Latvia,LV,LVA,428,Urban,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES12
+Latvia,LV,LVA,428,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES12
+Latvia,LV,LVA,428,Urban,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES12
+Latvia,LV,LVA,428,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES12
+Latvia,LV,LVA,428,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES12
+Latvia,LV,LVA,428,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES12
+Latvia,LV,LVA,428,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES12
+Latvia,LV,LVA,428,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES12
+Latvia,LV,LVA,428,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES12
+Latvia,LV,LVA,428,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES12
+Latvia,LV,LVA,428,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES12
+Latvia,LV,LVA,428,Urban,12,Dry latrines - Other,0.0,Eurostat environmental database - ES12
+Latvia,LV,LVA,428,Urban,13,Composting toilets,0.0,Eurostat environmental database - ES12
+Latvia,LV,LVA,428,Urban,14,Other improved,0.0,Eurostat environmental database - ES12
+Latvia,LV,LVA,428,Urban,15,"No facility, bush, field",0.0,Eurostat environmental database - ES12
+Latvia,LV,LVA,428,Urban,16,Other unimproved,0.0,Eurostat environmental database - ES12
+Latvia,LV,LVA,428,Urban,17,DK/missing information,0.0,Eurostat environmental database - ES12
+Latvia,LV,LVA,428,Rural,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES12
+Latvia,LV,LVA,428,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES12
+Latvia,LV,LVA,428,Rural,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES12
+Latvia,LV,LVA,428,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES12
+Latvia,LV,LVA,428,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES12
+Latvia,LV,LVA,428,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES12
+Latvia,LV,LVA,428,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES12
+Latvia,LV,LVA,428,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES12
+Latvia,LV,LVA,428,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES12
+Latvia,LV,LVA,428,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES12
+Latvia,LV,LVA,428,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES12
+Latvia,LV,LVA,428,Rural,12,Dry latrines - Other,0.0,Eurostat environmental database - ES12
+Latvia,LV,LVA,428,Rural,13,Composting toilets,0.0,Eurostat environmental database - ES12
+Latvia,LV,LVA,428,Rural,14,Other improved,0.0,Eurostat environmental database - ES12
+Latvia,LV,LVA,428,Rural,15,"No facility, bush, field",0.0,Eurostat environmental database - ES12
+Latvia,LV,LVA,428,Rural,16,Other unimproved,0.0,Eurostat environmental database - ES12
+Latvia,LV,LVA,428,Rural,17,DK/missing information,0.0,Eurostat environmental database - ES12
+Latvia,LV,LVA,428,National,1,Flush and pour flush - to piped sewer system,0.708,Eurostat environmental database - ES12
+Latvia,LV,LVA,428,National,2,Flush and pour flush - to septic tank,0.292,Eurostat environmental database - ES12
+Latvia,LV,LVA,428,National,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES12
+Latvia,LV,LVA,428,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES12
+Latvia,LV,LVA,428,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES12
+Latvia,LV,LVA,428,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES12
+Latvia,LV,LVA,428,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES12
+Latvia,LV,LVA,428,National,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES12
+Latvia,LV,LVA,428,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES12
+Latvia,LV,LVA,428,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES12
+Latvia,LV,LVA,428,National,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES12
+Latvia,LV,LVA,428,National,12,Dry latrines - Other,0.0,Eurostat environmental database - ES12
+Latvia,LV,LVA,428,National,13,Composting toilets,0.0,Eurostat environmental database - ES12
+Latvia,LV,LVA,428,National,14,Other improved,0.0,Eurostat environmental database - ES12
+Latvia,LV,LVA,428,National,15,"No facility, bush, field",0.0,Eurostat environmental database - ES12
+Latvia,LV,LVA,428,National,16,Other unimproved,0.0,Eurostat environmental database - ES12
+Latvia,LV,LVA,428,National,17,DK/missing information,0.0,Eurostat environmental database - ES12
+Latvia,LV,LVA,428,Urban,1,Flush and pour flush - to piped sewer system,0.0,EUROSTAT ENV DATABASE - ES13
+Latvia,LV,LVA,428,Urban,2,Flush and pour flush - to septic tank,0.0,EUROSTAT ENV DATABASE - ES13
+Latvia,LV,LVA,428,Urban,3,Flush and pour flush - to pit,0.0,EUROSTAT ENV DATABASE - ES13
+Latvia,LV,LVA,428,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,EUROSTAT ENV DATABASE - ES13
+Latvia,LV,LVA,428,Urban,5,Flush and pour flush - to elsewhere,0.0,EUROSTAT ENV DATABASE - ES13
+Latvia,LV,LVA,428,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,EUROSTAT ENV DATABASE - ES13
+Latvia,LV,LVA,428,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,EUROSTAT ENV DATABASE - ES13
+Latvia,LV,LVA,428,Urban,8,Dry latrines - Traditional latrine,0.0,EUROSTAT ENV DATABASE - ES13
+Latvia,LV,LVA,428,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,EUROSTAT ENV DATABASE - ES13
+Latvia,LV,LVA,428,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,EUROSTAT ENV DATABASE - ES13
+Latvia,LV,LVA,428,Urban,11,Dry latrines - Bucket latrine,0.0,EUROSTAT ENV DATABASE - ES13
+Latvia,LV,LVA,428,Urban,12,Dry latrines - Other,0.0,EUROSTAT ENV DATABASE - ES13
+Latvia,LV,LVA,428,Urban,13,Composting toilets,0.0,EUROSTAT ENV DATABASE - ES13
+Latvia,LV,LVA,428,Urban,14,Other improved,0.0,EUROSTAT ENV DATABASE - ES13
+Latvia,LV,LVA,428,Urban,15,"No facility, bush, field",0.0,EUROSTAT ENV DATABASE - ES13
+Latvia,LV,LVA,428,Urban,16,Other unimproved,0.0,EUROSTAT ENV DATABASE - ES13
+Latvia,LV,LVA,428,Urban,17,DK/missing information,0.0,EUROSTAT ENV DATABASE - ES13
+Latvia,LV,LVA,428,Rural,1,Flush and pour flush - to piped sewer system,0.0,EUROSTAT ENV DATABASE - ES13
+Latvia,LV,LVA,428,Rural,2,Flush and pour flush - to septic tank,0.0,EUROSTAT ENV DATABASE - ES13
+Latvia,LV,LVA,428,Rural,3,Flush and pour flush - to pit,0.0,EUROSTAT ENV DATABASE - ES13
+Latvia,LV,LVA,428,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,EUROSTAT ENV DATABASE - ES13
+Latvia,LV,LVA,428,Rural,5,Flush and pour flush - to elsewhere,0.0,EUROSTAT ENV DATABASE - ES13
+Latvia,LV,LVA,428,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,EUROSTAT ENV DATABASE - ES13
+Latvia,LV,LVA,428,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,EUROSTAT ENV DATABASE - ES13
+Latvia,LV,LVA,428,Rural,8,Dry latrines - Traditional latrine,0.0,EUROSTAT ENV DATABASE - ES13
+Latvia,LV,LVA,428,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,EUROSTAT ENV DATABASE - ES13
+Latvia,LV,LVA,428,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,EUROSTAT ENV DATABASE - ES13
+Latvia,LV,LVA,428,Rural,11,Dry latrines - Bucket latrine,0.0,EUROSTAT ENV DATABASE - ES13
+Latvia,LV,LVA,428,Rural,12,Dry latrines - Other,0.0,EUROSTAT ENV DATABASE - ES13
+Latvia,LV,LVA,428,Rural,13,Composting toilets,0.0,EUROSTAT ENV DATABASE - ES13
+Latvia,LV,LVA,428,Rural,14,Other improved,0.0,EUROSTAT ENV DATABASE - ES13
+Latvia,LV,LVA,428,Rural,15,"No facility, bush, field",0.0,EUROSTAT ENV DATABASE - ES13
+Latvia,LV,LVA,428,Rural,16,Other unimproved,0.0,EUROSTAT ENV DATABASE - ES13
+Latvia,LV,LVA,428,Rural,17,DK/missing information,0.0,EUROSTAT ENV DATABASE - ES13
+Latvia,LV,LVA,428,National,1,Flush and pour flush - to piped sewer system,0.712,EUROSTAT ENV DATABASE - ES13
+Latvia,LV,LVA,428,National,2,Flush and pour flush - to septic tank,0.289,EUROSTAT ENV DATABASE - ES13
+Latvia,LV,LVA,428,National,3,Flush and pour flush - to pit,0.0,EUROSTAT ENV DATABASE - ES13
+Latvia,LV,LVA,428,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,EUROSTAT ENV DATABASE - ES13
+Latvia,LV,LVA,428,National,5,Flush and pour flush - to elsewhere,0.0,EUROSTAT ENV DATABASE - ES13
+Latvia,LV,LVA,428,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,EUROSTAT ENV DATABASE - ES13
+Latvia,LV,LVA,428,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,EUROSTAT ENV DATABASE - ES13
+Latvia,LV,LVA,428,National,8,Dry latrines - Traditional latrine,0.0,EUROSTAT ENV DATABASE - ES13
+Latvia,LV,LVA,428,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,EUROSTAT ENV DATABASE - ES13
+Latvia,LV,LVA,428,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,EUROSTAT ENV DATABASE - ES13
+Latvia,LV,LVA,428,National,11,Dry latrines - Bucket latrine,0.0,EUROSTAT ENV DATABASE - ES13
+Latvia,LV,LVA,428,National,12,Dry latrines - Other,0.0,EUROSTAT ENV DATABASE - ES13
+Latvia,LV,LVA,428,National,13,Composting toilets,0.0,EUROSTAT ENV DATABASE - ES13
+Latvia,LV,LVA,428,National,14,Other improved,0.0,EUROSTAT ENV DATABASE - ES13
+Latvia,LV,LVA,428,National,15,"No facility, bush, field",0.0,EUROSTAT ENV DATABASE - ES13
+Latvia,LV,LVA,428,National,16,Other unimproved,0.0,EUROSTAT ENV DATABASE - ES13
+Latvia,LV,LVA,428,National,17,DK/missing information,0.0,EUROSTAT ENV DATABASE - ES13
+Latvia,LV,LVA,428,Urban,1,Flush and pour flush - to piped sewer system,0.827,World Health Survey - WHS03
+Latvia,LV,LVA,428,Urban,2,Flush and pour flush - to septic tank,0.039,World Health Survey - WHS03
+Latvia,LV,LVA,428,Urban,3,Flush and pour flush - to pit,0.0,World Health Survey - WHS03
+Latvia,LV,LVA,428,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,World Health Survey - WHS03
+Latvia,LV,LVA,428,Urban,5,Flush and pour flush - to elsewhere,0.0,World Health Survey - WHS03
+Latvia,LV,LVA,428,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,World Health Survey - WHS03
+Latvia,LV,LVA,428,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.077,World Health Survey - WHS03
+Latvia,LV,LVA,428,Urban,8,Dry latrines - Traditional latrine,0.0,World Health Survey - WHS03
+Latvia,LV,LVA,428,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.052,World Health Survey - WHS03
+Latvia,LV,LVA,428,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,World Health Survey - WHS03
+Latvia,LV,LVA,428,Urban,11,Dry latrines - Bucket latrine,0.0,World Health Survey - WHS03
+Latvia,LV,LVA,428,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.042,World Health Survey - WHS03
+Latvia,LV,LVA,428,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.036,World Health Survey - WHS03
+Latvia,LV,LVA,428,Urban,8,Dry latrines - Traditional latrine,0.0,World Health Survey - WHS03
+Latvia,LV,LVA,428,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,World Health Survey - WHS03
+Latvia,LV,LVA,428,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,World Health Survey - WHS03
+Latvia,LV,LVA,428,Urban,11,Dry latrines - Bucket latrine,0.0,World Health Survey - WHS03
+Latvia,LV,LVA,428,Urban,12,Dry latrines - Other,0.0,World Health Survey - WHS03
+Latvia,LV,LVA,428,Urban,13,Composting toilets,0.0,World Health Survey - WHS03
+Latvia,LV,LVA,428,Urban,14,Other improved,0.0,World Health Survey - WHS03
+Latvia,LV,LVA,428,Urban,15,"No facility, bush, field",0.0,World Health Survey - WHS03
+Latvia,LV,LVA,428,Urban,16,Other unimproved,0.0,World Health Survey - WHS03
+Latvia,LV,LVA,428,Urban,17,DK/missing information,0.0,World Health Survey - WHS03
+Latvia,LV,LVA,428,Rural,1,Flush and pour flush - to piped sewer system,0.544,World Health Survey - WHS03
+Latvia,LV,LVA,428,Rural,2,Flush and pour flush - to septic tank,0.046,World Health Survey - WHS03
+Latvia,LV,LVA,428,Rural,3,Flush and pour flush - to pit,0.0,World Health Survey - WHS03
+Latvia,LV,LVA,428,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,World Health Survey - WHS03
+Latvia,LV,LVA,428,Rural,5,Flush and pour flush - to elsewhere,0.0,World Health Survey - WHS03
+Latvia,LV,LVA,428,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,World Health Survey - WHS03
+Latvia,LV,LVA,428,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.143,World Health Survey - WHS03
+Latvia,LV,LVA,428,Rural,8,Dry latrines - Traditional latrine,0.0,World Health Survey - WHS03
+Latvia,LV,LVA,428,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.255,World Health Survey - WHS03
+Latvia,LV,LVA,428,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,World Health Survey - WHS03
+Latvia,LV,LVA,428,Rural,11,Dry latrines - Bucket latrine,0.0,World Health Survey - WHS03
+Latvia,LV,LVA,428,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.121,World Health Survey - WHS03
+Latvia,LV,LVA,428,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.023,World Health Survey - WHS03
+Latvia,LV,LVA,428,Rural,8,Dry latrines - Traditional latrine,0.0,World Health Survey - WHS03
+Latvia,LV,LVA,428,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,World Health Survey - WHS03
+Latvia,LV,LVA,428,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,World Health Survey - WHS03
+Latvia,LV,LVA,428,Rural,11,Dry latrines - Bucket latrine,0.0,World Health Survey - WHS03
+Latvia,LV,LVA,428,Rural,12,Dry latrines - Other,0.0,World Health Survey - WHS03
+Latvia,LV,LVA,428,Rural,13,Composting toilets,0.0,World Health Survey - WHS03
+Latvia,LV,LVA,428,Rural,14,Other improved,0.0,World Health Survey - WHS03
+Latvia,LV,LVA,428,Rural,15,"No facility, bush, field",0.0,World Health Survey - WHS03
+Latvia,LV,LVA,428,Rural,16,Other unimproved,0.0,World Health Survey - WHS03
+Latvia,LV,LVA,428,Rural,17,DK/missing information,0.0,World Health Survey - WHS03
+Latvia,LV,LVA,428,National,1,Flush and pour flush - to piped sewer system,0.0,World Health Survey - WHS03
+Latvia,LV,LVA,428,National,2,Flush and pour flush - to septic tank,0.0,World Health Survey - WHS03
+Latvia,LV,LVA,428,National,3,Flush and pour flush - to pit,0.0,World Health Survey - WHS03
+Latvia,LV,LVA,428,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,World Health Survey - WHS03
+Latvia,LV,LVA,428,National,5,Flush and pour flush - to elsewhere,0.0,World Health Survey - WHS03
+Latvia,LV,LVA,428,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,World Health Survey - WHS03
+Latvia,LV,LVA,428,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,World Health Survey - WHS03
+Latvia,LV,LVA,428,National,8,Dry latrines - Traditional latrine,0.0,World Health Survey - WHS03
+Latvia,LV,LVA,428,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,World Health Survey - WHS03
+Latvia,LV,LVA,428,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,World Health Survey - WHS03
+Latvia,LV,LVA,428,National,11,Dry latrines - Bucket latrine,0.0,World Health Survey - WHS03
+Latvia,LV,LVA,428,National,12,Dry latrines - Other,0.0,World Health Survey - WHS03
+Latvia,LV,LVA,428,National,13,Composting toilets,0.0,World Health Survey - WHS03
+Latvia,LV,LVA,428,National,14,Other improved,0.0,World Health Survey - WHS03
+Latvia,LV,LVA,428,National,15,"No facility, bush, field",0.0,World Health Survey - WHS03
+Latvia,LV,LVA,428,National,16,Other unimproved,0.0,World Health Survey - WHS03
+Latvia,LV,LVA,428,National,17,DK/missing information,0.0,World Health Survey - WHS03
+Latvia,LV,LVA,428,Urban,1,Flush and pour flush - to piped sewer system,0.988,Income and living conditions survey - ILCS07
+Latvia,LV,LVA,428,Urban,2,Flush and pour flush - to septic tank,0.0,Income and living conditions survey - ILCS07
+Latvia,LV,LVA,428,Urban,3,Flush and pour flush - to pit,0.0,Income and living conditions survey - ILCS07
+Latvia,LV,LVA,428,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Income and living conditions survey - ILCS07
+Latvia,LV,LVA,428,Urban,5,Flush and pour flush - to elsewhere,0.0,Income and living conditions survey - ILCS07
+Latvia,LV,LVA,428,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Income and living conditions survey - ILCS07
+Latvia,LV,LVA,428,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Income and living conditions survey - ILCS07
+Latvia,LV,LVA,428,Urban,8,Dry latrines - Traditional latrine,0.0,Income and living conditions survey - ILCS07
+Latvia,LV,LVA,428,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Income and living conditions survey - ILCS07
+Latvia,LV,LVA,428,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Income and living conditions survey - ILCS07
+Latvia,LV,LVA,428,Urban,11,Dry latrines - Bucket latrine,0.0,Income and living conditions survey - ILCS07
+Latvia,LV,LVA,428,Urban,12,Dry latrines - Other,0.0,Income and living conditions survey - ILCS07
+Latvia,LV,LVA,428,Urban,13,Composting toilets,0.0,Income and living conditions survey - ILCS07
+Latvia,LV,LVA,428,Urban,14,Other improved,0.0,Income and living conditions survey - ILCS07
+Latvia,LV,LVA,428,Urban,15,"No facility, bush, field",0.0,Income and living conditions survey - ILCS07
+Latvia,LV,LVA,428,Urban,16,Other unimproved,0.012,Income and living conditions survey - ILCS07
+Latvia,LV,LVA,428,Urban,17,DK/missing information,0.0,Income and living conditions survey - ILCS07
+Latvia,LV,LVA,428,Rural,1,Flush and pour flush - to piped sewer system,0.947,Income and living conditions survey - ILCS07
+Latvia,LV,LVA,428,Rural,2,Flush and pour flush - to septic tank,0.0,Income and living conditions survey - ILCS07
+Latvia,LV,LVA,428,Rural,3,Flush and pour flush - to pit,0.0,Income and living conditions survey - ILCS07
+Latvia,LV,LVA,428,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Income and living conditions survey - ILCS07
+Latvia,LV,LVA,428,Rural,5,Flush and pour flush - to elsewhere,0.0,Income and living conditions survey - ILCS07
+Latvia,LV,LVA,428,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Income and living conditions survey - ILCS07
+Latvia,LV,LVA,428,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Income and living conditions survey - ILCS07
+Latvia,LV,LVA,428,Rural,8,Dry latrines - Traditional latrine,0.0,Income and living conditions survey - ILCS07
+Latvia,LV,LVA,428,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Income and living conditions survey - ILCS07
+Latvia,LV,LVA,428,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Income and living conditions survey - ILCS07
+Latvia,LV,LVA,428,Rural,11,Dry latrines - Bucket latrine,0.0,Income and living conditions survey - ILCS07
+Latvia,LV,LVA,428,Rural,12,Dry latrines - Other,0.0,Income and living conditions survey - ILCS07
+Latvia,LV,LVA,428,Rural,13,Composting toilets,0.0,Income and living conditions survey - ILCS07
+Latvia,LV,LVA,428,Rural,14,Other improved,0.0,Income and living conditions survey - ILCS07
+Latvia,LV,LVA,428,Rural,15,"No facility, bush, field",0.0,Income and living conditions survey - ILCS07
+Latvia,LV,LVA,428,Rural,16,Other unimproved,0.053,Income and living conditions survey - ILCS07
+Latvia,LV,LVA,428,Rural,17,DK/missing information,0.0,Income and living conditions survey - ILCS07
+Latvia,LV,LVA,428,National,1,Flush and pour flush - to piped sewer system,0.979,Income and living conditions survey - ILCS07
+Latvia,LV,LVA,428,National,2,Flush and pour flush - to septic tank,0.0,Income and living conditions survey - ILCS07
+Latvia,LV,LVA,428,National,3,Flush and pour flush - to pit,0.0,Income and living conditions survey - ILCS07
+Latvia,LV,LVA,428,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Income and living conditions survey - ILCS07
+Latvia,LV,LVA,428,National,5,Flush and pour flush - to elsewhere,0.0,Income and living conditions survey - ILCS07
+Latvia,LV,LVA,428,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Income and living conditions survey - ILCS07
+Latvia,LV,LVA,428,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Income and living conditions survey - ILCS07
+Latvia,LV,LVA,428,National,8,Dry latrines - Traditional latrine,0.0,Income and living conditions survey - ILCS07
+Latvia,LV,LVA,428,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Income and living conditions survey - ILCS07
+Latvia,LV,LVA,428,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Income and living conditions survey - ILCS07
+Latvia,LV,LVA,428,National,11,Dry latrines - Bucket latrine,0.0,Income and living conditions survey - ILCS07
+Latvia,LV,LVA,428,National,12,Dry latrines - Other,0.0,Income and living conditions survey - ILCS07
+Latvia,LV,LVA,428,National,13,Composting toilets,0.0,Income and living conditions survey - ILCS07
+Latvia,LV,LVA,428,National,14,Other improved,0.0,Income and living conditions survey - ILCS07
+Latvia,LV,LVA,428,National,15,"No facility, bush, field",0.0,Income and living conditions survey - ILCS07
+Latvia,LV,LVA,428,National,16,Other unimproved,0.021,Income and living conditions survey - ILCS07
+Latvia,LV,LVA,428,National,17,DK/missing information,0.0,Income and living conditions survey - ILCS07
+Latvia,LV,LVA,428,Urban,1,Flush and pour flush - to piped sewer system,0.932,Income and living conditions survey - ILCS08
+Latvia,LV,LVA,428,Urban,2,Flush and pour flush - to septic tank,0.0,Income and living conditions survey - ILCS08
+Latvia,LV,LVA,428,Urban,3,Flush and pour flush - to pit,0.0,Income and living conditions survey - ILCS08
+Latvia,LV,LVA,428,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Income and living conditions survey - ILCS08
+Latvia,LV,LVA,428,Urban,5,Flush and pour flush - to elsewhere,0.0,Income and living conditions survey - ILCS08
+Latvia,LV,LVA,428,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Income and living conditions survey - ILCS08
+Latvia,LV,LVA,428,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Income and living conditions survey - ILCS08
+Latvia,LV,LVA,428,Urban,8,Dry latrines - Traditional latrine,0.0,Income and living conditions survey - ILCS08
+Latvia,LV,LVA,428,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Income and living conditions survey - ILCS08
+Latvia,LV,LVA,428,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Income and living conditions survey - ILCS08
+Latvia,LV,LVA,428,Urban,11,Dry latrines - Bucket latrine,0.0,Income and living conditions survey - ILCS08
+Latvia,LV,LVA,428,Urban,12,Dry latrines - Other,0.0,Income and living conditions survey - ILCS08
+Latvia,LV,LVA,428,Urban,13,Composting toilets,0.0,Income and living conditions survey - ILCS08
+Latvia,LV,LVA,428,Urban,14,Other improved,0.0,Income and living conditions survey - ILCS08
+Latvia,LV,LVA,428,Urban,15,"No facility, bush, field",0.0,Income and living conditions survey - ILCS08
+Latvia,LV,LVA,428,Urban,16,Other unimproved,0.068,Income and living conditions survey - ILCS08
+Latvia,LV,LVA,428,Urban,17,DK/missing information,0.0,Income and living conditions survey - ILCS08
+Latvia,LV,LVA,428,Rural,1,Flush and pour flush - to piped sewer system,0.656,Income and living conditions survey - ILCS08
+Latvia,LV,LVA,428,Rural,2,Flush and pour flush - to septic tank,0.0,Income and living conditions survey - ILCS08
+Latvia,LV,LVA,428,Rural,3,Flush and pour flush - to pit,0.0,Income and living conditions survey - ILCS08
+Latvia,LV,LVA,428,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Income and living conditions survey - ILCS08
+Latvia,LV,LVA,428,Rural,5,Flush and pour flush - to elsewhere,0.0,Income and living conditions survey - ILCS08
+Latvia,LV,LVA,428,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Income and living conditions survey - ILCS08
+Latvia,LV,LVA,428,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Income and living conditions survey - ILCS08
+Latvia,LV,LVA,428,Rural,8,Dry latrines - Traditional latrine,0.0,Income and living conditions survey - ILCS08
+Latvia,LV,LVA,428,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Income and living conditions survey - ILCS08
+Latvia,LV,LVA,428,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Income and living conditions survey - ILCS08
+Latvia,LV,LVA,428,Rural,11,Dry latrines - Bucket latrine,0.0,Income and living conditions survey - ILCS08
+Latvia,LV,LVA,428,Rural,12,Dry latrines - Other,0.0,Income and living conditions survey - ILCS08
+Latvia,LV,LVA,428,Rural,13,Composting toilets,0.0,Income and living conditions survey - ILCS08
+Latvia,LV,LVA,428,Rural,14,Other improved,0.0,Income and living conditions survey - ILCS08
+Latvia,LV,LVA,428,Rural,15,"No facility, bush, field",0.0,Income and living conditions survey - ILCS08
+Latvia,LV,LVA,428,Rural,16,Other unimproved,0.344,Income and living conditions survey - ILCS08
+Latvia,LV,LVA,428,Rural,17,DK/missing information,0.0,Income and living conditions survey - ILCS08
+Latvia,LV,LVA,428,National,1,Flush and pour flush - to piped sewer system,0.854,Income and living conditions survey - ILCS08
+Latvia,LV,LVA,428,National,2,Flush and pour flush - to septic tank,0.0,Income and living conditions survey - ILCS08
+Latvia,LV,LVA,428,National,3,Flush and pour flush - to pit,0.0,Income and living conditions survey - ILCS08
+Latvia,LV,LVA,428,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Income and living conditions survey - ILCS08
+Latvia,LV,LVA,428,National,5,Flush and pour flush - to elsewhere,0.0,Income and living conditions survey - ILCS08
+Latvia,LV,LVA,428,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Income and living conditions survey - ILCS08
+Latvia,LV,LVA,428,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Income and living conditions survey - ILCS08
+Latvia,LV,LVA,428,National,8,Dry latrines - Traditional latrine,0.0,Income and living conditions survey - ILCS08
+Latvia,LV,LVA,428,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Income and living conditions survey - ILCS08
+Latvia,LV,LVA,428,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Income and living conditions survey - ILCS08
+Latvia,LV,LVA,428,National,11,Dry latrines - Bucket latrine,0.0,Income and living conditions survey - ILCS08
+Latvia,LV,LVA,428,National,12,Dry latrines - Other,0.0,Income and living conditions survey - ILCS08
+Latvia,LV,LVA,428,National,13,Composting toilets,0.0,Income and living conditions survey - ILCS08
+Latvia,LV,LVA,428,National,14,Other improved,0.0,Income and living conditions survey - ILCS08
+Latvia,LV,LVA,428,National,15,"No facility, bush, field",0.0,Income and living conditions survey - ILCS08
+Latvia,LV,LVA,428,National,16,Other unimproved,0.146,Income and living conditions survey - ILCS08
+Latvia,LV,LVA,428,National,17,DK/missing information,0.0,Income and living conditions survey - ILCS08
+Latvia,LV,LVA,428,Urban,1,Flush and pour flush - to piped sewer system,0.936,Income and living conditions survey - ILCS09
+Latvia,LV,LVA,428,Urban,2,Flush and pour flush - to septic tank,0.0,Income and living conditions survey - ILCS09
+Latvia,LV,LVA,428,Urban,3,Flush and pour flush - to pit,0.0,Income and living conditions survey - ILCS09
+Latvia,LV,LVA,428,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Income and living conditions survey - ILCS09
+Latvia,LV,LVA,428,Urban,5,Flush and pour flush - to elsewhere,0.0,Income and living conditions survey - ILCS09
+Latvia,LV,LVA,428,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Income and living conditions survey - ILCS09
+Latvia,LV,LVA,428,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Income and living conditions survey - ILCS09
+Latvia,LV,LVA,428,Urban,8,Dry latrines - Traditional latrine,0.0,Income and living conditions survey - ILCS09
+Latvia,LV,LVA,428,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Income and living conditions survey - ILCS09
+Latvia,LV,LVA,428,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Income and living conditions survey - ILCS09
+Latvia,LV,LVA,428,Urban,11,Dry latrines - Bucket latrine,0.0,Income and living conditions survey - ILCS09
+Latvia,LV,LVA,428,Urban,12,Dry latrines - Other,0.0,Income and living conditions survey - ILCS09
+Latvia,LV,LVA,428,Urban,13,Composting toilets,0.0,Income and living conditions survey - ILCS09
+Latvia,LV,LVA,428,Urban,14,Other improved,0.0,Income and living conditions survey - ILCS09
+Latvia,LV,LVA,428,Urban,15,"No facility, bush, field",0.0,Income and living conditions survey - ILCS09
+Latvia,LV,LVA,428,Urban,16,Other unimproved,0.064,Income and living conditions survey - ILCS09
+Latvia,LV,LVA,428,Urban,17,DK/missing information,0.0,Income and living conditions survey - ILCS09
+Latvia,LV,LVA,428,Rural,1,Flush and pour flush - to piped sewer system,0.644,Income and living conditions survey - ILCS09
+Latvia,LV,LVA,428,Rural,2,Flush and pour flush - to septic tank,0.0,Income and living conditions survey - ILCS09
+Latvia,LV,LVA,428,Rural,3,Flush and pour flush - to pit,0.0,Income and living conditions survey - ILCS09
+Latvia,LV,LVA,428,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Income and living conditions survey - ILCS09
+Latvia,LV,LVA,428,Rural,5,Flush and pour flush - to elsewhere,0.0,Income and living conditions survey - ILCS09
+Latvia,LV,LVA,428,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Income and living conditions survey - ILCS09
+Latvia,LV,LVA,428,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Income and living conditions survey - ILCS09
+Latvia,LV,LVA,428,Rural,8,Dry latrines - Traditional latrine,0.0,Income and living conditions survey - ILCS09
+Latvia,LV,LVA,428,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Income and living conditions survey - ILCS09
+Latvia,LV,LVA,428,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Income and living conditions survey - ILCS09
+Latvia,LV,LVA,428,Rural,11,Dry latrines - Bucket latrine,0.0,Income and living conditions survey - ILCS09
+Latvia,LV,LVA,428,Rural,12,Dry latrines - Other,0.0,Income and living conditions survey - ILCS09
+Latvia,LV,LVA,428,Rural,13,Composting toilets,0.0,Income and living conditions survey - ILCS09
+Latvia,LV,LVA,428,Rural,14,Other improved,0.0,Income and living conditions survey - ILCS09
+Latvia,LV,LVA,428,Rural,15,"No facility, bush, field",0.0,Income and living conditions survey - ILCS09
+Latvia,LV,LVA,428,Rural,16,Other unimproved,0.356,Income and living conditions survey - ILCS09
+Latvia,LV,LVA,428,Rural,17,DK/missing information,0.0,Income and living conditions survey - ILCS09
+Latvia,LV,LVA,428,National,1,Flush and pour flush - to piped sewer system,0.854,Income and living conditions survey - ILCS09
+Latvia,LV,LVA,428,National,2,Flush and pour flush - to septic tank,0.0,Income and living conditions survey - ILCS09
+Latvia,LV,LVA,428,National,3,Flush and pour flush - to pit,0.0,Income and living conditions survey - ILCS09
+Latvia,LV,LVA,428,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Income and living conditions survey - ILCS09
+Latvia,LV,LVA,428,National,5,Flush and pour flush - to elsewhere,0.0,Income and living conditions survey - ILCS09
+Latvia,LV,LVA,428,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Income and living conditions survey - ILCS09
+Latvia,LV,LVA,428,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Income and living conditions survey - ILCS09
+Latvia,LV,LVA,428,National,8,Dry latrines - Traditional latrine,0.0,Income and living conditions survey - ILCS09
+Latvia,LV,LVA,428,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Income and living conditions survey - ILCS09
+Latvia,LV,LVA,428,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Income and living conditions survey - ILCS09
+Latvia,LV,LVA,428,National,11,Dry latrines - Bucket latrine,0.0,Income and living conditions survey - ILCS09
+Latvia,LV,LVA,428,National,12,Dry latrines - Other,0.0,Income and living conditions survey - ILCS09
+Latvia,LV,LVA,428,National,13,Composting toilets,0.0,Income and living conditions survey - ILCS09
+Latvia,LV,LVA,428,National,14,Other improved,0.0,Income and living conditions survey - ILCS09
+Latvia,LV,LVA,428,National,15,"No facility, bush, field",0.0,Income and living conditions survey - ILCS09
+Latvia,LV,LVA,428,National,16,Other unimproved,0.146,Income and living conditions survey - ILCS09
+Latvia,LV,LVA,428,National,17,DK/missing information,0.0,Income and living conditions survey - ILCS09
+Latvia,LV,LVA,428,Urban,1,Flush and pour flush - to piped sewer system,0.944,Income and living conditions survey - ILCS10
+Latvia,LV,LVA,428,Urban,2,Flush and pour flush - to septic tank,0.0,Income and living conditions survey - ILCS10
+Latvia,LV,LVA,428,Urban,3,Flush and pour flush - to pit,0.0,Income and living conditions survey - ILCS10
+Latvia,LV,LVA,428,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Income and living conditions survey - ILCS10
+Latvia,LV,LVA,428,Urban,5,Flush and pour flush - to elsewhere,0.0,Income and living conditions survey - ILCS10
+Latvia,LV,LVA,428,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Income and living conditions survey - ILCS10
+Latvia,LV,LVA,428,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Income and living conditions survey - ILCS10
+Latvia,LV,LVA,428,Urban,8,Dry latrines - Traditional latrine,0.0,Income and living conditions survey - ILCS10
+Latvia,LV,LVA,428,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Income and living conditions survey - ILCS10
+Latvia,LV,LVA,428,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Income and living conditions survey - ILCS10
+Latvia,LV,LVA,428,Urban,11,Dry latrines - Bucket latrine,0.0,Income and living conditions survey - ILCS10
+Latvia,LV,LVA,428,Urban,12,Dry latrines - Other,0.0,Income and living conditions survey - ILCS10
+Latvia,LV,LVA,428,Urban,13,Composting toilets,0.0,Income and living conditions survey - ILCS10
+Latvia,LV,LVA,428,Urban,14,Other improved,0.0,Income and living conditions survey - ILCS10
+Latvia,LV,LVA,428,Urban,15,"No facility, bush, field",0.0,Income and living conditions survey - ILCS10
+Latvia,LV,LVA,428,Urban,16,Other unimproved,0.056,Income and living conditions survey - ILCS10
+Latvia,LV,LVA,428,Urban,17,DK/missing information,0.0,Income and living conditions survey - ILCS10
+Latvia,LV,LVA,428,Rural,1,Flush and pour flush - to piped sewer system,0.668,Income and living conditions survey - ILCS10
+Latvia,LV,LVA,428,Rural,2,Flush and pour flush - to septic tank,0.0,Income and living conditions survey - ILCS10
+Latvia,LV,LVA,428,Rural,3,Flush and pour flush - to pit,0.0,Income and living conditions survey - ILCS10
+Latvia,LV,LVA,428,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Income and living conditions survey - ILCS10
+Latvia,LV,LVA,428,Rural,5,Flush and pour flush - to elsewhere,0.0,Income and living conditions survey - ILCS10
+Latvia,LV,LVA,428,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Income and living conditions survey - ILCS10
+Latvia,LV,LVA,428,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Income and living conditions survey - ILCS10
+Latvia,LV,LVA,428,Rural,8,Dry latrines - Traditional latrine,0.0,Income and living conditions survey - ILCS10
+Latvia,LV,LVA,428,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Income and living conditions survey - ILCS10
+Latvia,LV,LVA,428,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Income and living conditions survey - ILCS10
+Latvia,LV,LVA,428,Rural,11,Dry latrines - Bucket latrine,0.0,Income and living conditions survey - ILCS10
+Latvia,LV,LVA,428,Rural,12,Dry latrines - Other,0.0,Income and living conditions survey - ILCS10
+Latvia,LV,LVA,428,Rural,13,Composting toilets,0.0,Income and living conditions survey - ILCS10
+Latvia,LV,LVA,428,Rural,14,Other improved,0.0,Income and living conditions survey - ILCS10
+Latvia,LV,LVA,428,Rural,15,"No facility, bush, field",0.0,Income and living conditions survey - ILCS10
+Latvia,LV,LVA,428,Rural,16,Other unimproved,0.332,Income and living conditions survey - ILCS10
+Latvia,LV,LVA,428,Rural,17,DK/missing information,0.0,Income and living conditions survey - ILCS10
+Latvia,LV,LVA,428,National,1,Flush and pour flush - to piped sewer system,0.866,Income and living conditions survey - ILCS10
+Latvia,LV,LVA,428,National,2,Flush and pour flush - to septic tank,0.0,Income and living conditions survey - ILCS10
+Latvia,LV,LVA,428,National,3,Flush and pour flush - to pit,0.0,Income and living conditions survey - ILCS10
+Latvia,LV,LVA,428,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Income and living conditions survey - ILCS10
+Latvia,LV,LVA,428,National,5,Flush and pour flush - to elsewhere,0.0,Income and living conditions survey - ILCS10
+Latvia,LV,LVA,428,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Income and living conditions survey - ILCS10
+Latvia,LV,LVA,428,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Income and living conditions survey - ILCS10
+Latvia,LV,LVA,428,National,8,Dry latrines - Traditional latrine,0.0,Income and living conditions survey - ILCS10
+Latvia,LV,LVA,428,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Income and living conditions survey - ILCS10
+Latvia,LV,LVA,428,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Income and living conditions survey - ILCS10
+Latvia,LV,LVA,428,National,11,Dry latrines - Bucket latrine,0.0,Income and living conditions survey - ILCS10
+Latvia,LV,LVA,428,National,12,Dry latrines - Other,0.0,Income and living conditions survey - ILCS10
+Latvia,LV,LVA,428,National,13,Composting toilets,0.0,Income and living conditions survey - ILCS10
+Latvia,LV,LVA,428,National,14,Other improved,0.0,Income and living conditions survey - ILCS10
+Latvia,LV,LVA,428,National,15,"No facility, bush, field",0.0,Income and living conditions survey - ILCS10
+Latvia,LV,LVA,428,National,16,Other unimproved,0.134,Income and living conditions survey - ILCS10
+Latvia,LV,LVA,428,National,17,DK/missing information,0.0,Income and living conditions survey - ILCS10
+Latvia,LV,LVA,428,Urban,1,Flush and pour flush - to piped sewer system,0.937,Income and living conditions survey - ILCS11
+Latvia,LV,LVA,428,Urban,2,Flush and pour flush - to septic tank,0.0,Income and living conditions survey - ILCS11
+Latvia,LV,LVA,428,Urban,3,Flush and pour flush - to pit,0.0,Income and living conditions survey - ILCS11
+Latvia,LV,LVA,428,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Income and living conditions survey - ILCS11
+Latvia,LV,LVA,428,Urban,5,Flush and pour flush - to elsewhere,0.0,Income and living conditions survey - ILCS11
+Latvia,LV,LVA,428,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Income and living conditions survey - ILCS11
+Latvia,LV,LVA,428,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Income and living conditions survey - ILCS11
+Latvia,LV,LVA,428,Urban,8,Dry latrines - Traditional latrine,0.0,Income and living conditions survey - ILCS11
+Latvia,LV,LVA,428,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Income and living conditions survey - ILCS11
+Latvia,LV,LVA,428,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Income and living conditions survey - ILCS11
+Latvia,LV,LVA,428,Urban,11,Dry latrines - Bucket latrine,0.0,Income and living conditions survey - ILCS11
+Latvia,LV,LVA,428,Urban,12,Dry latrines - Other,0.0,Income and living conditions survey - ILCS11
+Latvia,LV,LVA,428,Urban,13,Composting toilets,0.0,Income and living conditions survey - ILCS11
+Latvia,LV,LVA,428,Urban,14,Other improved,0.0,Income and living conditions survey - ILCS11
+Latvia,LV,LVA,428,Urban,15,"No facility, bush, field",0.0,Income and living conditions survey - ILCS11
+Latvia,LV,LVA,428,Urban,16,Other unimproved,0.063,Income and living conditions survey - ILCS11
+Latvia,LV,LVA,428,Urban,17,DK/missing information,0.0,Income and living conditions survey - ILCS11
+Latvia,LV,LVA,428,Rural,1,Flush and pour flush - to piped sewer system,0.692,Income and living conditions survey - ILCS11
+Latvia,LV,LVA,428,Rural,2,Flush and pour flush - to septic tank,0.0,Income and living conditions survey - ILCS11
+Latvia,LV,LVA,428,Rural,3,Flush and pour flush - to pit,0.0,Income and living conditions survey - ILCS11
+Latvia,LV,LVA,428,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Income and living conditions survey - ILCS11
+Latvia,LV,LVA,428,Rural,5,Flush and pour flush - to elsewhere,0.0,Income and living conditions survey - ILCS11
+Latvia,LV,LVA,428,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Income and living conditions survey - ILCS11
+Latvia,LV,LVA,428,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Income and living conditions survey - ILCS11
+Latvia,LV,LVA,428,Rural,8,Dry latrines - Traditional latrine,0.0,Income and living conditions survey - ILCS11
+Latvia,LV,LVA,428,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Income and living conditions survey - ILCS11
+Latvia,LV,LVA,428,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Income and living conditions survey - ILCS11
+Latvia,LV,LVA,428,Rural,11,Dry latrines - Bucket latrine,0.0,Income and living conditions survey - ILCS11
+Latvia,LV,LVA,428,Rural,12,Dry latrines - Other,0.0,Income and living conditions survey - ILCS11
+Latvia,LV,LVA,428,Rural,13,Composting toilets,0.0,Income and living conditions survey - ILCS11
+Latvia,LV,LVA,428,Rural,14,Other improved,0.0,Income and living conditions survey - ILCS11
+Latvia,LV,LVA,428,Rural,15,"No facility, bush, field",0.0,Income and living conditions survey - ILCS11
+Latvia,LV,LVA,428,Rural,16,Other unimproved,0.308,Income and living conditions survey - ILCS11
+Latvia,LV,LVA,428,Rural,17,DK/missing information,0.0,Income and living conditions survey - ILCS11
+Latvia,LV,LVA,428,National,1,Flush and pour flush - to piped sewer system,0.868,Income and living conditions survey - ILCS11
+Latvia,LV,LVA,428,National,2,Flush and pour flush - to septic tank,0.0,Income and living conditions survey - ILCS11
+Latvia,LV,LVA,428,National,3,Flush and pour flush - to pit,0.0,Income and living conditions survey - ILCS11
+Latvia,LV,LVA,428,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Income and living conditions survey - ILCS11
+Latvia,LV,LVA,428,National,5,Flush and pour flush - to elsewhere,0.0,Income and living conditions survey - ILCS11
+Latvia,LV,LVA,428,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Income and living conditions survey - ILCS11
+Latvia,LV,LVA,428,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Income and living conditions survey - ILCS11
+Latvia,LV,LVA,428,National,8,Dry latrines - Traditional latrine,0.0,Income and living conditions survey - ILCS11
+Latvia,LV,LVA,428,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Income and living conditions survey - ILCS11
+Latvia,LV,LVA,428,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Income and living conditions survey - ILCS11
+Latvia,LV,LVA,428,National,11,Dry latrines - Bucket latrine,0.0,Income and living conditions survey - ILCS11
+Latvia,LV,LVA,428,National,12,Dry latrines - Other,0.0,Income and living conditions survey - ILCS11
+Latvia,LV,LVA,428,National,13,Composting toilets,0.0,Income and living conditions survey - ILCS11
+Latvia,LV,LVA,428,National,14,Other improved,0.0,Income and living conditions survey - ILCS11
+Latvia,LV,LVA,428,National,15,"No facility, bush, field",0.0,Income and living conditions survey - ILCS11
+Latvia,LV,LVA,428,National,16,Other unimproved,0.132,Income and living conditions survey - ILCS11
+Latvia,LV,LVA,428,National,17,DK/missing information,0.0,Income and living conditions survey - ILCS11
+Latvia,LV,LVA,428,Urban,1,Flush and pour flush - to piped sewer system,0.94,Income and living conditions survey - ILCS12
+Latvia,LV,LVA,428,Urban,2,Flush and pour flush - to septic tank,0.0,Income and living conditions survey - ILCS12
+Latvia,LV,LVA,428,Urban,3,Flush and pour flush - to pit,0.0,Income and living conditions survey - ILCS12
+Latvia,LV,LVA,428,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Income and living conditions survey - ILCS12
+Latvia,LV,LVA,428,Urban,5,Flush and pour flush - to elsewhere,0.0,Income and living conditions survey - ILCS12
+Latvia,LV,LVA,428,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Income and living conditions survey - ILCS12
+Latvia,LV,LVA,428,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Income and living conditions survey - ILCS12
+Latvia,LV,LVA,428,Urban,8,Dry latrines - Traditional latrine,0.0,Income and living conditions survey - ILCS12
+Latvia,LV,LVA,428,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Income and living conditions survey - ILCS12
+Latvia,LV,LVA,428,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Income and living conditions survey - ILCS12
+Latvia,LV,LVA,428,Urban,11,Dry latrines - Bucket latrine,0.0,Income and living conditions survey - ILCS12
+Latvia,LV,LVA,428,Urban,12,Dry latrines - Other,0.0,Income and living conditions survey - ILCS12
+Latvia,LV,LVA,428,Urban,13,Composting toilets,0.0,Income and living conditions survey - ILCS12
+Latvia,LV,LVA,428,Urban,14,Other improved,0.0,Income and living conditions survey - ILCS12
+Latvia,LV,LVA,428,Urban,15,"No facility, bush, field",0.0,Income and living conditions survey - ILCS12
+Latvia,LV,LVA,428,Urban,16,Other unimproved,0.06,Income and living conditions survey - ILCS12
+Latvia,LV,LVA,428,Urban,17,DK/missing information,0.0,Income and living conditions survey - ILCS12
+Latvia,LV,LVA,428,Rural,1,Flush and pour flush - to piped sewer system,0.714,Income and living conditions survey - ILCS12
+Latvia,LV,LVA,428,Rural,2,Flush and pour flush - to septic tank,0.0,Income and living conditions survey - ILCS12
+Latvia,LV,LVA,428,Rural,3,Flush and pour flush - to pit,0.0,Income and living conditions survey - ILCS12
+Latvia,LV,LVA,428,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Income and living conditions survey - ILCS12
+Latvia,LV,LVA,428,Rural,5,Flush and pour flush - to elsewhere,0.0,Income and living conditions survey - ILCS12
+Latvia,LV,LVA,428,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Income and living conditions survey - ILCS12
+Latvia,LV,LVA,428,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Income and living conditions survey - ILCS12
+Latvia,LV,LVA,428,Rural,8,Dry latrines - Traditional latrine,0.0,Income and living conditions survey - ILCS12
+Latvia,LV,LVA,428,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Income and living conditions survey - ILCS12
+Latvia,LV,LVA,428,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Income and living conditions survey - ILCS12
+Latvia,LV,LVA,428,Rural,11,Dry latrines - Bucket latrine,0.0,Income and living conditions survey - ILCS12
+Latvia,LV,LVA,428,Rural,12,Dry latrines - Other,0.0,Income and living conditions survey - ILCS12
+Latvia,LV,LVA,428,Rural,13,Composting toilets,0.0,Income and living conditions survey - ILCS12
+Latvia,LV,LVA,428,Rural,14,Other improved,0.0,Income and living conditions survey - ILCS12
+Latvia,LV,LVA,428,Rural,15,"No facility, bush, field",0.0,Income and living conditions survey - ILCS12
+Latvia,LV,LVA,428,Rural,16,Other unimproved,0.286,Income and living conditions survey - ILCS12
+Latvia,LV,LVA,428,Rural,17,DK/missing information,0.0,Income and living conditions survey - ILCS12
+Latvia,LV,LVA,428,National,1,Flush and pour flush - to piped sewer system,0.875,Income and living conditions survey - ILCS12
+Latvia,LV,LVA,428,National,2,Flush and pour flush - to septic tank,0.0,Income and living conditions survey - ILCS12
+Latvia,LV,LVA,428,National,3,Flush and pour flush - to pit,0.0,Income and living conditions survey - ILCS12
+Latvia,LV,LVA,428,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Income and living conditions survey - ILCS12
+Latvia,LV,LVA,428,National,5,Flush and pour flush - to elsewhere,0.0,Income and living conditions survey - ILCS12
+Latvia,LV,LVA,428,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Income and living conditions survey - ILCS12
+Latvia,LV,LVA,428,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Income and living conditions survey - ILCS12
+Latvia,LV,LVA,428,National,8,Dry latrines - Traditional latrine,0.0,Income and living conditions survey - ILCS12
+Latvia,LV,LVA,428,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Income and living conditions survey - ILCS12
+Latvia,LV,LVA,428,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Income and living conditions survey - ILCS12
+Latvia,LV,LVA,428,National,11,Dry latrines - Bucket latrine,0.0,Income and living conditions survey - ILCS12
+Latvia,LV,LVA,428,National,12,Dry latrines - Other,0.0,Income and living conditions survey - ILCS12
+Latvia,LV,LVA,428,National,13,Composting toilets,0.0,Income and living conditions survey - ILCS12
+Latvia,LV,LVA,428,National,14,Other improved,0.0,Income and living conditions survey - ILCS12
+Latvia,LV,LVA,428,National,15,"No facility, bush, field",0.0,Income and living conditions survey - ILCS12
+Latvia,LV,LVA,428,National,16,Other unimproved,0.125,Income and living conditions survey - ILCS12
+Latvia,LV,LVA,428,National,17,DK/missing information,0.0,Income and living conditions survey - ILCS12
+Latvia,LV,LVA,428,Urban,1,Flush and pour flush - to piped sewer system,0.951,Income and living conditions survey - ILCS14
+Latvia,LV,LVA,428,Urban,2,Flush and pour flush - to septic tank,0.0,Income and living conditions survey - ILCS14
+Latvia,LV,LVA,428,Urban,3,Flush and pour flush - to pit,0.0,Income and living conditions survey - ILCS14
+Latvia,LV,LVA,428,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Income and living conditions survey - ILCS14
+Latvia,LV,LVA,428,Urban,5,Flush and pour flush - to elsewhere,0.0,Income and living conditions survey - ILCS14
+Latvia,LV,LVA,428,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Income and living conditions survey - ILCS14
+Latvia,LV,LVA,428,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Income and living conditions survey - ILCS14
+Latvia,LV,LVA,428,Urban,8,Dry latrines - Traditional latrine,0.0,Income and living conditions survey - ILCS14
+Latvia,LV,LVA,428,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Income and living conditions survey - ILCS14
+Latvia,LV,LVA,428,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Income and living conditions survey - ILCS14
+Latvia,LV,LVA,428,Urban,11,Dry latrines - Bucket latrine,0.0,Income and living conditions survey - ILCS14
+Latvia,LV,LVA,428,Urban,12,Dry latrines - Other,0.0,Income and living conditions survey - ILCS14
+Latvia,LV,LVA,428,Urban,13,Composting toilets,0.0,Income and living conditions survey - ILCS14
+Latvia,LV,LVA,428,Urban,14,Other improved,0.0,Income and living conditions survey - ILCS14
+Latvia,LV,LVA,428,Urban,15,"No facility, bush, field",0.0,Income and living conditions survey - ILCS14
+Latvia,LV,LVA,428,Urban,16,Other unimproved,0.049,Income and living conditions survey - ILCS14
+Latvia,LV,LVA,428,Urban,17,DK/missing information,0.0,Income and living conditions survey - ILCS14
+Latvia,LV,LVA,428,Rural,1,Flush and pour flush - to piped sewer system,0.729,Income and living conditions survey - ILCS14
+Latvia,LV,LVA,428,Rural,2,Flush and pour flush - to septic tank,0.0,Income and living conditions survey - ILCS14
+Latvia,LV,LVA,428,Rural,3,Flush and pour flush - to pit,0.0,Income and living conditions survey - ILCS14
+Latvia,LV,LVA,428,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Income and living conditions survey - ILCS14
+Latvia,LV,LVA,428,Rural,5,Flush and pour flush - to elsewhere,0.0,Income and living conditions survey - ILCS14
+Latvia,LV,LVA,428,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Income and living conditions survey - ILCS14
+Latvia,LV,LVA,428,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Income and living conditions survey - ILCS14
+Latvia,LV,LVA,428,Rural,8,Dry latrines - Traditional latrine,0.0,Income and living conditions survey - ILCS14
+Latvia,LV,LVA,428,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Income and living conditions survey - ILCS14
+Latvia,LV,LVA,428,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Income and living conditions survey - ILCS14
+Latvia,LV,LVA,428,Rural,11,Dry latrines - Bucket latrine,0.0,Income and living conditions survey - ILCS14
+Latvia,LV,LVA,428,Rural,12,Dry latrines - Other,0.0,Income and living conditions survey - ILCS14
+Latvia,LV,LVA,428,Rural,13,Composting toilets,0.0,Income and living conditions survey - ILCS14
+Latvia,LV,LVA,428,Rural,14,Other improved,0.0,Income and living conditions survey - ILCS14
+Latvia,LV,LVA,428,Rural,15,"No facility, bush, field",0.0,Income and living conditions survey - ILCS14
+Latvia,LV,LVA,428,Rural,16,Other unimproved,0.271,Income and living conditions survey - ILCS14
+Latvia,LV,LVA,428,Rural,17,DK/missing information,0.0,Income and living conditions survey - ILCS14
+Latvia,LV,LVA,428,National,1,Flush and pour flush - to piped sewer system,0.888,Income and living conditions survey - ILCS14
+Latvia,LV,LVA,428,National,2,Flush and pour flush - to septic tank,0.0,Income and living conditions survey - ILCS14
+Latvia,LV,LVA,428,National,3,Flush and pour flush - to pit,0.0,Income and living conditions survey - ILCS14
+Latvia,LV,LVA,428,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Income and living conditions survey - ILCS14
+Latvia,LV,LVA,428,National,5,Flush and pour flush - to elsewhere,0.0,Income and living conditions survey - ILCS14
+Latvia,LV,LVA,428,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Income and living conditions survey - ILCS14
+Latvia,LV,LVA,428,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Income and living conditions survey - ILCS14
+Latvia,LV,LVA,428,National,8,Dry latrines - Traditional latrine,0.0,Income and living conditions survey - ILCS14
+Latvia,LV,LVA,428,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Income and living conditions survey - ILCS14
+Latvia,LV,LVA,428,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Income and living conditions survey - ILCS14
+Latvia,LV,LVA,428,National,11,Dry latrines - Bucket latrine,0.0,Income and living conditions survey - ILCS14
+Latvia,LV,LVA,428,National,12,Dry latrines - Other,0.0,Income and living conditions survey - ILCS14
+Latvia,LV,LVA,428,National,13,Composting toilets,0.0,Income and living conditions survey - ILCS14
+Latvia,LV,LVA,428,National,14,Other improved,0.0,Income and living conditions survey - ILCS14
+Latvia,LV,LVA,428,National,15,"No facility, bush, field",0.0,Income and living conditions survey - ILCS14
+Latvia,LV,LVA,428,National,16,Other unimproved,0.112,Income and living conditions survey - ILCS14
+Latvia,LV,LVA,428,National,17,DK/missing information,0.0,Income and living conditions survey - ILCS14
+Latvia,LV,LVA,428,Urban,1,Flush and pour flush - to piped sewer system,0.961,Income and living conditions survey - ILCS15
+Latvia,LV,LVA,428,Urban,2,Flush and pour flush - to septic tank,0.0,Income and living conditions survey - ILCS15
+Latvia,LV,LVA,428,Urban,3,Flush and pour flush - to pit,0.0,Income and living conditions survey - ILCS15
+Latvia,LV,LVA,428,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Income and living conditions survey - ILCS15
+Latvia,LV,LVA,428,Urban,5,Flush and pour flush - to elsewhere,0.0,Income and living conditions survey - ILCS15
+Latvia,LV,LVA,428,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Income and living conditions survey - ILCS15
+Latvia,LV,LVA,428,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Income and living conditions survey - ILCS15
+Latvia,LV,LVA,428,Urban,8,Dry latrines - Traditional latrine,0.0,Income and living conditions survey - ILCS15
+Latvia,LV,LVA,428,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Income and living conditions survey - ILCS15
+Latvia,LV,LVA,428,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Income and living conditions survey - ILCS15
+Latvia,LV,LVA,428,Urban,11,Dry latrines - Bucket latrine,0.0,Income and living conditions survey - ILCS15
+Latvia,LV,LVA,428,Urban,12,Dry latrines - Other,0.0,Income and living conditions survey - ILCS15
+Latvia,LV,LVA,428,Urban,13,Composting toilets,0.0,Income and living conditions survey - ILCS15
+Latvia,LV,LVA,428,Urban,14,Other improved,0.0,Income and living conditions survey - ILCS15
+Latvia,LV,LVA,428,Urban,15,"No facility, bush, field",0.0,Income and living conditions survey - ILCS15
+Latvia,LV,LVA,428,Urban,16,Other unimproved,0.039,Income and living conditions survey - ILCS15
+Latvia,LV,LVA,428,Urban,17,DK/missing information,0.0,Income and living conditions survey - ILCS15
+Latvia,LV,LVA,428,Rural,1,Flush and pour flush - to piped sewer system,0.738,Income and living conditions survey - ILCS15
+Latvia,LV,LVA,428,Rural,2,Flush and pour flush - to septic tank,0.0,Income and living conditions survey - ILCS15
+Latvia,LV,LVA,428,Rural,3,Flush and pour flush - to pit,0.0,Income and living conditions survey - ILCS15
+Latvia,LV,LVA,428,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Income and living conditions survey - ILCS15
+Latvia,LV,LVA,428,Rural,5,Flush and pour flush - to elsewhere,0.0,Income and living conditions survey - ILCS15
+Latvia,LV,LVA,428,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Income and living conditions survey - ILCS15
+Latvia,LV,LVA,428,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Income and living conditions survey - ILCS15
+Latvia,LV,LVA,428,Rural,8,Dry latrines - Traditional latrine,0.0,Income and living conditions survey - ILCS15
+Latvia,LV,LVA,428,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Income and living conditions survey - ILCS15
+Latvia,LV,LVA,428,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Income and living conditions survey - ILCS15
+Latvia,LV,LVA,428,Rural,11,Dry latrines - Bucket latrine,0.0,Income and living conditions survey - ILCS15
+Latvia,LV,LVA,428,Rural,12,Dry latrines - Other,0.0,Income and living conditions survey - ILCS15
+Latvia,LV,LVA,428,Rural,13,Composting toilets,0.0,Income and living conditions survey - ILCS15
+Latvia,LV,LVA,428,Rural,14,Other improved,0.0,Income and living conditions survey - ILCS15
+Latvia,LV,LVA,428,Rural,15,"No facility, bush, field",0.0,Income and living conditions survey - ILCS15
+Latvia,LV,LVA,428,Rural,16,Other unimproved,0.262,Income and living conditions survey - ILCS15
+Latvia,LV,LVA,428,Rural,17,DK/missing information,0.0,Income and living conditions survey - ILCS15
+Latvia,LV,LVA,428,National,1,Flush and pour flush - to piped sewer system,0.895,Income and living conditions survey - ILCS15
+Latvia,LV,LVA,428,National,2,Flush and pour flush - to septic tank,0.0,Income and living conditions survey - ILCS15
+Latvia,LV,LVA,428,National,3,Flush and pour flush - to pit,0.0,Income and living conditions survey - ILCS15
+Latvia,LV,LVA,428,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Income and living conditions survey - ILCS15
+Latvia,LV,LVA,428,National,5,Flush and pour flush - to elsewhere,0.0,Income and living conditions survey - ILCS15
+Latvia,LV,LVA,428,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Income and living conditions survey - ILCS15
+Latvia,LV,LVA,428,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Income and living conditions survey - ILCS15
+Latvia,LV,LVA,428,National,8,Dry latrines - Traditional latrine,0.0,Income and living conditions survey - ILCS15
+Latvia,LV,LVA,428,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Income and living conditions survey - ILCS15
+Latvia,LV,LVA,428,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Income and living conditions survey - ILCS15
+Latvia,LV,LVA,428,National,11,Dry latrines - Bucket latrine,0.0,Income and living conditions survey - ILCS15
+Latvia,LV,LVA,428,National,12,Dry latrines - Other,0.0,Income and living conditions survey - ILCS15
+Latvia,LV,LVA,428,National,13,Composting toilets,0.0,Income and living conditions survey - ILCS15
+Latvia,LV,LVA,428,National,14,Other improved,0.0,Income and living conditions survey - ILCS15
+Latvia,LV,LVA,428,National,15,"No facility, bush, field",0.0,Income and living conditions survey - ILCS15
+Latvia,LV,LVA,428,National,16,Other unimproved,0.105,Income and living conditions survey - ILCS15
+Latvia,LV,LVA,428,National,17,DK/missing information,0.0,Income and living conditions survey - ILCS15
+Latvia,LV,LVA,428,Urban,1,Flush and pour flush - to piped sewer system,0.966,Income and living conditions survey - ILCS16
+Latvia,LV,LVA,428,Urban,2,Flush and pour flush - to septic tank,0.0,Income and living conditions survey - ILCS16
+Latvia,LV,LVA,428,Urban,3,Flush and pour flush - to pit,0.0,Income and living conditions survey - ILCS16
+Latvia,LV,LVA,428,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Income and living conditions survey - ILCS16
+Latvia,LV,LVA,428,Urban,5,Flush and pour flush - to elsewhere,0.0,Income and living conditions survey - ILCS16
+Latvia,LV,LVA,428,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Income and living conditions survey - ILCS16
+Latvia,LV,LVA,428,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Income and living conditions survey - ILCS16
+Latvia,LV,LVA,428,Urban,8,Dry latrines - Traditional latrine,0.0,Income and living conditions survey - ILCS16
+Latvia,LV,LVA,428,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Income and living conditions survey - ILCS16
+Latvia,LV,LVA,428,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Income and living conditions survey - ILCS16
+Latvia,LV,LVA,428,Urban,11,Dry latrines - Bucket latrine,0.0,Income and living conditions survey - ILCS16
+Latvia,LV,LVA,428,Urban,12,Dry latrines - Other,0.0,Income and living conditions survey - ILCS16
+Latvia,LV,LVA,428,Urban,13,Composting toilets,0.0,Income and living conditions survey - ILCS16
+Latvia,LV,LVA,428,Urban,14,Other improved,0.0,Income and living conditions survey - ILCS16
+Latvia,LV,LVA,428,Urban,15,"No facility, bush, field",0.0,Income and living conditions survey - ILCS16
+Latvia,LV,LVA,428,Urban,16,Other unimproved,0.034,Income and living conditions survey - ILCS16
+Latvia,LV,LVA,428,Urban,17,DK/missing information,0.0,Income and living conditions survey - ILCS16
+Latvia,LV,LVA,428,Rural,1,Flush and pour flush - to piped sewer system,0.744,Income and living conditions survey - ILCS16
+Latvia,LV,LVA,428,Rural,2,Flush and pour flush - to septic tank,0.0,Income and living conditions survey - ILCS16
+Latvia,LV,LVA,428,Rural,3,Flush and pour flush - to pit,0.0,Income and living conditions survey - ILCS16
+Latvia,LV,LVA,428,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Income and living conditions survey - ILCS16
+Latvia,LV,LVA,428,Rural,5,Flush and pour flush - to elsewhere,0.0,Income and living conditions survey - ILCS16
+Latvia,LV,LVA,428,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Income and living conditions survey - ILCS16
+Latvia,LV,LVA,428,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Income and living conditions survey - ILCS16
+Latvia,LV,LVA,428,Rural,8,Dry latrines - Traditional latrine,0.0,Income and living conditions survey - ILCS16
+Latvia,LV,LVA,428,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Income and living conditions survey - ILCS16
+Latvia,LV,LVA,428,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Income and living conditions survey - ILCS16
+Latvia,LV,LVA,428,Rural,11,Dry latrines - Bucket latrine,0.0,Income and living conditions survey - ILCS16
+Latvia,LV,LVA,428,Rural,12,Dry latrines - Other,0.0,Income and living conditions survey - ILCS16
+Latvia,LV,LVA,428,Rural,13,Composting toilets,0.0,Income and living conditions survey - ILCS16
+Latvia,LV,LVA,428,Rural,14,Other improved,0.0,Income and living conditions survey - ILCS16
+Latvia,LV,LVA,428,Rural,15,"No facility, bush, field",0.0,Income and living conditions survey - ILCS16
+Latvia,LV,LVA,428,Rural,16,Other unimproved,0.256,Income and living conditions survey - ILCS16
+Latvia,LV,LVA,428,Rural,17,DK/missing information,0.0,Income and living conditions survey - ILCS16
+Latvia,LV,LVA,428,National,1,Flush and pour flush - to piped sewer system,0.9,Income and living conditions survey - ILCS16
+Latvia,LV,LVA,428,National,2,Flush and pour flush - to septic tank,0.0,Income and living conditions survey - ILCS16
+Latvia,LV,LVA,428,National,3,Flush and pour flush - to pit,0.0,Income and living conditions survey - ILCS16
+Latvia,LV,LVA,428,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Income and living conditions survey - ILCS16
+Latvia,LV,LVA,428,National,5,Flush and pour flush - to elsewhere,0.0,Income and living conditions survey - ILCS16
+Latvia,LV,LVA,428,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Income and living conditions survey - ILCS16
+Latvia,LV,LVA,428,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Income and living conditions survey - ILCS16
+Latvia,LV,LVA,428,National,8,Dry latrines - Traditional latrine,0.0,Income and living conditions survey - ILCS16
+Latvia,LV,LVA,428,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Income and living conditions survey - ILCS16
+Latvia,LV,LVA,428,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Income and living conditions survey - ILCS16
+Latvia,LV,LVA,428,National,11,Dry latrines - Bucket latrine,0.0,Income and living conditions survey - ILCS16
+Latvia,LV,LVA,428,National,12,Dry latrines - Other,0.0,Income and living conditions survey - ILCS16
+Latvia,LV,LVA,428,National,13,Composting toilets,0.0,Income and living conditions survey - ILCS16
+Latvia,LV,LVA,428,National,14,Other improved,0.0,Income and living conditions survey - ILCS16
+Latvia,LV,LVA,428,National,15,"No facility, bush, field",0.0,Income and living conditions survey - ILCS16
+Latvia,LV,LVA,428,National,16,Other unimproved,0.1,Income and living conditions survey - ILCS16
+Latvia,LV,LVA,428,National,17,DK/missing information,0.0,Income and living conditions survey - ILCS16
+Latvia,LV,LVA,428,Urban,1,Flush and pour flush - to piped sewer system,0.943,"Income and living conditions survey, 2013 - ILCS13"
+Latvia,LV,LVA,428,Urban,2,Flush and pour flush - to septic tank,0.0,"Income and living conditions survey, 2013 - ILCS13"
+Latvia,LV,LVA,428,Urban,3,Flush and pour flush - to pit,0.0,"Income and living conditions survey, 2013 - ILCS13"
+Latvia,LV,LVA,428,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Income and living conditions survey, 2013 - ILCS13"
+Latvia,LV,LVA,428,Urban,5,Flush and pour flush - to elsewhere,0.0,"Income and living conditions survey, 2013 - ILCS13"
+Latvia,LV,LVA,428,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Income and living conditions survey, 2013 - ILCS13"
+Latvia,LV,LVA,428,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Income and living conditions survey, 2013 - ILCS13"
+Latvia,LV,LVA,428,Urban,8,Dry latrines - Traditional latrine,0.0,"Income and living conditions survey, 2013 - ILCS13"
+Latvia,LV,LVA,428,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Income and living conditions survey, 2013 - ILCS13"
+Latvia,LV,LVA,428,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Income and living conditions survey, 2013 - ILCS13"
+Latvia,LV,LVA,428,Urban,11,Dry latrines - Bucket latrine,0.0,"Income and living conditions survey, 2013 - ILCS13"
+Latvia,LV,LVA,428,Urban,12,Dry latrines - Other,0.0,"Income and living conditions survey, 2013 - ILCS13"
+Latvia,LV,LVA,428,Urban,13,Composting toilets,0.0,"Income and living conditions survey, 2013 - ILCS13"
+Latvia,LV,LVA,428,Urban,14,Other improved,0.0,"Income and living conditions survey, 2013 - ILCS13"
+Latvia,LV,LVA,428,Urban,15,"No facility, bush, field",0.0,"Income and living conditions survey, 2013 - ILCS13"
+Latvia,LV,LVA,428,Urban,16,Other unimproved,0.057,"Income and living conditions survey, 2013 - ILCS13"
+Latvia,LV,LVA,428,Urban,17,DK/missing information,0.0,"Income and living conditions survey, 2013 - ILCS13"
+Latvia,LV,LVA,428,Rural,1,Flush and pour flush - to piped sewer system,0.733,"Income and living conditions survey, 2013 - ILCS13"
+Latvia,LV,LVA,428,Rural,2,Flush and pour flush - to septic tank,0.0,"Income and living conditions survey, 2013 - ILCS13"
+Latvia,LV,LVA,428,Rural,3,Flush and pour flush - to pit,0.0,"Income and living conditions survey, 2013 - ILCS13"
+Latvia,LV,LVA,428,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Income and living conditions survey, 2013 - ILCS13"
+Latvia,LV,LVA,428,Rural,5,Flush and pour flush - to elsewhere,0.0,"Income and living conditions survey, 2013 - ILCS13"
+Latvia,LV,LVA,428,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Income and living conditions survey, 2013 - ILCS13"
+Latvia,LV,LVA,428,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Income and living conditions survey, 2013 - ILCS13"
+Latvia,LV,LVA,428,Rural,8,Dry latrines - Traditional latrine,0.0,"Income and living conditions survey, 2013 - ILCS13"
+Latvia,LV,LVA,428,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Income and living conditions survey, 2013 - ILCS13"
+Latvia,LV,LVA,428,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Income and living conditions survey, 2013 - ILCS13"
+Latvia,LV,LVA,428,Rural,11,Dry latrines - Bucket latrine,0.0,"Income and living conditions survey, 2013 - ILCS13"
+Latvia,LV,LVA,428,Rural,12,Dry latrines - Other,0.0,"Income and living conditions survey, 2013 - ILCS13"
+Latvia,LV,LVA,428,Rural,13,Composting toilets,0.0,"Income and living conditions survey, 2013 - ILCS13"
+Latvia,LV,LVA,428,Rural,14,Other improved,0.0,"Income and living conditions survey, 2013 - ILCS13"
+Latvia,LV,LVA,428,Rural,15,"No facility, bush, field",0.0,"Income and living conditions survey, 2013 - ILCS13"
+Latvia,LV,LVA,428,Rural,16,Other unimproved,0.267,"Income and living conditions survey, 2013 - ILCS13"
+Latvia,LV,LVA,428,Rural,17,DK/missing information,0.0,"Income and living conditions survey, 2013 - ILCS13"
+Latvia,LV,LVA,428,National,1,Flush and pour flush - to piped sewer system,0.882,"Income and living conditions survey, 2013 - ILCS13"
+Latvia,LV,LVA,428,National,2,Flush and pour flush - to septic tank,0.0,"Income and living conditions survey, 2013 - ILCS13"
+Latvia,LV,LVA,428,National,3,Flush and pour flush - to pit,0.0,"Income and living conditions survey, 2013 - ILCS13"
+Latvia,LV,LVA,428,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Income and living conditions survey, 2013 - ILCS13"
+Latvia,LV,LVA,428,National,5,Flush and pour flush - to elsewhere,0.0,"Income and living conditions survey, 2013 - ILCS13"
+Latvia,LV,LVA,428,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Income and living conditions survey, 2013 - ILCS13"
+Latvia,LV,LVA,428,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Income and living conditions survey, 2013 - ILCS13"
+Latvia,LV,LVA,428,National,8,Dry latrines - Traditional latrine,0.0,"Income and living conditions survey, 2013 - ILCS13"
+Latvia,LV,LVA,428,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Income and living conditions survey, 2013 - ILCS13"
+Latvia,LV,LVA,428,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Income and living conditions survey, 2013 - ILCS13"
+Latvia,LV,LVA,428,National,11,Dry latrines - Bucket latrine,0.0,"Income and living conditions survey, 2013 - ILCS13"
+Latvia,LV,LVA,428,National,12,Dry latrines - Other,0.0,"Income and living conditions survey, 2013 - ILCS13"
+Latvia,LV,LVA,428,National,13,Composting toilets,0.0,"Income and living conditions survey, 2013 - ILCS13"
+Latvia,LV,LVA,428,National,14,Other improved,0.0,"Income and living conditions survey, 2013 - ILCS13"
+Latvia,LV,LVA,428,National,15,"No facility, bush, field",0.0,"Income and living conditions survey, 2013 - ILCS13"
+Latvia,LV,LVA,428,National,16,Other unimproved,0.118,"Income and living conditions survey, 2013 - ILCS13"
+Latvia,LV,LVA,428,National,17,DK/missing information,0.0,"Income and living conditions survey, 2013 - ILCS13"
+Latvia,LV,LVA,428,Urban,1,Flush and pour flush - to piped sewer system,0.939,Eurostat SILC database - EUSILC13
+Latvia,LV,LVA,428,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC13
+Latvia,LV,LVA,428,Urban,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC13
+Latvia,LV,LVA,428,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC13
+Latvia,LV,LVA,428,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC13
+Latvia,LV,LVA,428,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC13
+Latvia,LV,LVA,428,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC13
+Latvia,LV,LVA,428,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC13
+Latvia,LV,LVA,428,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC13
+Latvia,LV,LVA,428,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC13
+Latvia,LV,LVA,428,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC13
+Latvia,LV,LVA,428,Urban,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC13
+Latvia,LV,LVA,428,Urban,13,Composting toilets,0.0,Eurostat SILC database - EUSILC13
+Latvia,LV,LVA,428,Urban,14,Other improved,0.0,Eurostat SILC database - EUSILC13
+Latvia,LV,LVA,428,Urban,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC13
+Latvia,LV,LVA,428,Urban,16,Other unimproved,0.061,Eurostat SILC database - EUSILC13
+Latvia,LV,LVA,428,Urban,17,DK/missing information,0.0,Eurostat SILC database - EUSILC13
+Latvia,LV,LVA,428,Rural,1,Flush and pour flush - to piped sewer system,0.731,Eurostat SILC database - EUSILC13
+Latvia,LV,LVA,428,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC13
+Latvia,LV,LVA,428,Rural,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC13
+Latvia,LV,LVA,428,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC13
+Latvia,LV,LVA,428,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC13
+Latvia,LV,LVA,428,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC13
+Latvia,LV,LVA,428,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC13
+Latvia,LV,LVA,428,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC13
+Latvia,LV,LVA,428,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC13
+Latvia,LV,LVA,428,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC13
+Latvia,LV,LVA,428,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC13
+Latvia,LV,LVA,428,Rural,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC13
+Latvia,LV,LVA,428,Rural,13,Composting toilets,0.0,Eurostat SILC database - EUSILC13
+Latvia,LV,LVA,428,Rural,14,Other improved,0.0,Eurostat SILC database - EUSILC13
+Latvia,LV,LVA,428,Rural,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC13
+Latvia,LV,LVA,428,Rural,16,Other unimproved,0.269,Eurostat SILC database - EUSILC13
+Latvia,LV,LVA,428,Rural,17,DK/missing information,0.0,Eurostat SILC database - EUSILC13
+Latvia,LV,LVA,428,National,1,Flush and pour flush - to piped sewer system,0.848,Eurostat SILC database - EUSILC13
+Latvia,LV,LVA,428,National,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC13
+Latvia,LV,LVA,428,National,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC13
+Latvia,LV,LVA,428,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC13
+Latvia,LV,LVA,428,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC13
+Latvia,LV,LVA,428,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC13
+Latvia,LV,LVA,428,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC13
+Latvia,LV,LVA,428,National,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC13
+Latvia,LV,LVA,428,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC13
+Latvia,LV,LVA,428,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC13
+Latvia,LV,LVA,428,National,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC13
+Latvia,LV,LVA,428,National,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC13
+Latvia,LV,LVA,428,National,13,Composting toilets,0.0,Eurostat SILC database - EUSILC13
+Latvia,LV,LVA,428,National,14,Other improved,0.0,Eurostat SILC database - EUSILC13
+Latvia,LV,LVA,428,National,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC13
+Latvia,LV,LVA,428,National,16,Other unimproved,0.152,Eurostat SILC database - EUSILC13
+Latvia,LV,LVA,428,National,17,DK/missing information,0.0,Eurostat SILC database - EUSILC13
+Latvia,LV,LVA,428,Urban,1,Flush and pour flush - to piped sewer system,0.948,Eurostat SILC database - EUSILC14
+Latvia,LV,LVA,428,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC14
+Latvia,LV,LVA,428,Urban,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC14
+Latvia,LV,LVA,428,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC14
+Latvia,LV,LVA,428,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC14
+Latvia,LV,LVA,428,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC14
+Latvia,LV,LVA,428,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC14
+Latvia,LV,LVA,428,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC14
+Latvia,LV,LVA,428,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC14
+Latvia,LV,LVA,428,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC14
+Latvia,LV,LVA,428,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC14
+Latvia,LV,LVA,428,Urban,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC14
+Latvia,LV,LVA,428,Urban,13,Composting toilets,0.0,Eurostat SILC database - EUSILC14
+Latvia,LV,LVA,428,Urban,14,Other improved,0.0,Eurostat SILC database - EUSILC14
+Latvia,LV,LVA,428,Urban,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC14
+Latvia,LV,LVA,428,Urban,16,Other unimproved,0.052,Eurostat SILC database - EUSILC14
+Latvia,LV,LVA,428,Urban,17,DK/missing information,0.0,Eurostat SILC database - EUSILC14
+Latvia,LV,LVA,428,Rural,1,Flush and pour flush - to piped sewer system,0.738,Eurostat SILC database - EUSILC14
+Latvia,LV,LVA,428,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC14
+Latvia,LV,LVA,428,Rural,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC14
+Latvia,LV,LVA,428,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC14
+Latvia,LV,LVA,428,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC14
+Latvia,LV,LVA,428,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC14
+Latvia,LV,LVA,428,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC14
+Latvia,LV,LVA,428,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC14
+Latvia,LV,LVA,428,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC14
+Latvia,LV,LVA,428,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC14
+Latvia,LV,LVA,428,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC14
+Latvia,LV,LVA,428,Rural,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC14
+Latvia,LV,LVA,428,Rural,13,Composting toilets,0.0,Eurostat SILC database - EUSILC14
+Latvia,LV,LVA,428,Rural,14,Other improved,0.0,Eurostat SILC database - EUSILC14
+Latvia,LV,LVA,428,Rural,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC14
+Latvia,LV,LVA,428,Rural,16,Other unimproved,0.262,Eurostat SILC database - EUSILC14
+Latvia,LV,LVA,428,Rural,17,DK/missing information,0.0,Eurostat SILC database - EUSILC14
+Latvia,LV,LVA,428,National,1,Flush and pour flush - to piped sewer system,0.853,Eurostat SILC database - EUSILC14
+Latvia,LV,LVA,428,National,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC14
+Latvia,LV,LVA,428,National,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC14
+Latvia,LV,LVA,428,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC14
+Latvia,LV,LVA,428,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC14
+Latvia,LV,LVA,428,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC14
+Latvia,LV,LVA,428,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC14
+Latvia,LV,LVA,428,National,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC14
+Latvia,LV,LVA,428,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC14
+Latvia,LV,LVA,428,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC14
+Latvia,LV,LVA,428,National,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC14
+Latvia,LV,LVA,428,National,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC14
+Latvia,LV,LVA,428,National,13,Composting toilets,0.0,Eurostat SILC database - EUSILC14
+Latvia,LV,LVA,428,National,14,Other improved,0.0,Eurostat SILC database - EUSILC14
+Latvia,LV,LVA,428,National,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC14
+Latvia,LV,LVA,428,National,16,Other unimproved,0.147,Eurostat SILC database - EUSILC14
+Latvia,LV,LVA,428,National,17,DK/missing information,0.0,Eurostat SILC database - EUSILC14
+Latvia,LV,LVA,428,Urban,1,Flush and pour flush - to piped sewer system,0.954,Eurostat SILC database - EUSILC15
+Latvia,LV,LVA,428,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC15
+Latvia,LV,LVA,428,Urban,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC15
+Latvia,LV,LVA,428,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC15
+Latvia,LV,LVA,428,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC15
+Latvia,LV,LVA,428,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC15
+Latvia,LV,LVA,428,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC15
+Latvia,LV,LVA,428,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC15
+Latvia,LV,LVA,428,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC15
+Latvia,LV,LVA,428,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC15
+Latvia,LV,LVA,428,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC15
+Latvia,LV,LVA,428,Urban,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC15
+Latvia,LV,LVA,428,Urban,13,Composting toilets,0.0,Eurostat SILC database - EUSILC15
+Latvia,LV,LVA,428,Urban,14,Other improved,0.0,Eurostat SILC database - EUSILC15
+Latvia,LV,LVA,428,Urban,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC15
+Latvia,LV,LVA,428,Urban,16,Other unimproved,0.046,Eurostat SILC database - EUSILC15
+Latvia,LV,LVA,428,Urban,17,DK/missing information,0.0,Eurostat SILC database - EUSILC15
+Latvia,LV,LVA,428,Rural,1,Flush and pour flush - to piped sewer system,0.748,Eurostat SILC database - EUSILC15
+Latvia,LV,LVA,428,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC15
+Latvia,LV,LVA,428,Rural,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC15
+Latvia,LV,LVA,428,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC15
+Latvia,LV,LVA,428,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC15
+Latvia,LV,LVA,428,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC15
+Latvia,LV,LVA,428,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC15
+Latvia,LV,LVA,428,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC15
+Latvia,LV,LVA,428,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC15
+Latvia,LV,LVA,428,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC15
+Latvia,LV,LVA,428,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC15
+Latvia,LV,LVA,428,Rural,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC15
+Latvia,LV,LVA,428,Rural,13,Composting toilets,0.0,Eurostat SILC database - EUSILC15
+Latvia,LV,LVA,428,Rural,14,Other improved,0.0,Eurostat SILC database - EUSILC15
+Latvia,LV,LVA,428,Rural,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC15
+Latvia,LV,LVA,428,Rural,16,Other unimproved,0.252,Eurostat SILC database - EUSILC15
+Latvia,LV,LVA,428,Rural,17,DK/missing information,0.0,Eurostat SILC database - EUSILC15
+Latvia,LV,LVA,428,National,1,Flush and pour flush - to piped sewer system,0.864,Eurostat SILC database - EUSILC15
+Latvia,LV,LVA,428,National,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC15
+Latvia,LV,LVA,428,National,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC15
+Latvia,LV,LVA,428,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC15
+Latvia,LV,LVA,428,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC15
+Latvia,LV,LVA,428,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC15
+Latvia,LV,LVA,428,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC15
+Latvia,LV,LVA,428,National,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC15
+Latvia,LV,LVA,428,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC15
+Latvia,LV,LVA,428,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC15
+Latvia,LV,LVA,428,National,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC15
+Latvia,LV,LVA,428,National,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC15
+Latvia,LV,LVA,428,National,13,Composting toilets,0.0,Eurostat SILC database - EUSILC15
+Latvia,LV,LVA,428,National,14,Other improved,0.0,Eurostat SILC database - EUSILC15
+Latvia,LV,LVA,428,National,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC15
+Latvia,LV,LVA,428,National,16,Other unimproved,0.136,Eurostat SILC database - EUSILC15
+Latvia,LV,LVA,428,National,17,DK/missing information,0.0,Eurostat SILC database - EUSILC15
+Latvia,LV,LVA,428,Urban,1,Flush and pour flush - to piped sewer system,0.945,Eurostat SILC database - EUSILC12
+Latvia,LV,LVA,428,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC12
+Latvia,LV,LVA,428,Urban,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC12
+Latvia,LV,LVA,428,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC12
+Latvia,LV,LVA,428,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC12
+Latvia,LV,LVA,428,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC12
+Latvia,LV,LVA,428,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC12
+Latvia,LV,LVA,428,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC12
+Latvia,LV,LVA,428,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC12
+Latvia,LV,LVA,428,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC12
+Latvia,LV,LVA,428,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC12
+Latvia,LV,LVA,428,Urban,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC12
+Latvia,LV,LVA,428,Urban,13,Composting toilets,0.0,Eurostat SILC database - EUSILC12
+Latvia,LV,LVA,428,Urban,14,Other improved,0.0,Eurostat SILC database - EUSILC12
+Latvia,LV,LVA,428,Urban,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC12
+Latvia,LV,LVA,428,Urban,16,Other unimproved,0.055,Eurostat SILC database - EUSILC12
+Latvia,LV,LVA,428,Urban,17,DK/missing information,0.0,Eurostat SILC database - EUSILC12
+Latvia,LV,LVA,428,Rural,1,Flush and pour flush - to piped sewer system,0.701,Eurostat SILC database - EUSILC12
+Latvia,LV,LVA,428,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC12
+Latvia,LV,LVA,428,Rural,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC12
+Latvia,LV,LVA,428,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC12
+Latvia,LV,LVA,428,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC12
+Latvia,LV,LVA,428,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC12
+Latvia,LV,LVA,428,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC12
+Latvia,LV,LVA,428,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC12
+Latvia,LV,LVA,428,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC12
+Latvia,LV,LVA,428,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC12
+Latvia,LV,LVA,428,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC12
+Latvia,LV,LVA,428,Rural,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC12
+Latvia,LV,LVA,428,Rural,13,Composting toilets,0.0,Eurostat SILC database - EUSILC12
+Latvia,LV,LVA,428,Rural,14,Other improved,0.0,Eurostat SILC database - EUSILC12
+Latvia,LV,LVA,428,Rural,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC12
+Latvia,LV,LVA,428,Rural,16,Other unimproved,0.299,Eurostat SILC database - EUSILC12
+Latvia,LV,LVA,428,Rural,17,DK/missing information,0.0,Eurostat SILC database - EUSILC12
+Latvia,LV,LVA,428,National,1,Flush and pour flush - to piped sewer system,0.839,Eurostat SILC database - EUSILC12
+Latvia,LV,LVA,428,National,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC12
+Latvia,LV,LVA,428,National,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC12
+Latvia,LV,LVA,428,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC12
+Latvia,LV,LVA,428,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC12
+Latvia,LV,LVA,428,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC12
+Latvia,LV,LVA,428,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC12
+Latvia,LV,LVA,428,National,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC12
+Latvia,LV,LVA,428,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC12
+Latvia,LV,LVA,428,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC12
+Latvia,LV,LVA,428,National,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC12
+Latvia,LV,LVA,428,National,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC12
+Latvia,LV,LVA,428,National,13,Composting toilets,0.0,Eurostat SILC database - EUSILC12
+Latvia,LV,LVA,428,National,14,Other improved,0.0,Eurostat SILC database - EUSILC12
+Latvia,LV,LVA,428,National,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC12
+Latvia,LV,LVA,428,National,16,Other unimproved,0.161,Eurostat SILC database - EUSILC12
+Latvia,LV,LVA,428,National,17,DK/missing information,0.0,Eurostat SILC database - EUSILC12

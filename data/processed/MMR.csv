@@ -1,4 +1,322 @@
 country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+Myanmar,MM,MMR,104,Urban,1,Flush and pour flush - to piped sewer system,0.857,Fertility and Reproductive Health Survey - FRHS01
+Myanmar,MM,MMR,104,Urban,2,Flush and pour flush - to septic tank,0.0,Fertility and Reproductive Health Survey - FRHS01
+Myanmar,MM,MMR,104,Urban,3,Flush and pour flush - to pit,0.0,Fertility and Reproductive Health Survey - FRHS01
+Myanmar,MM,MMR,104,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Fertility and Reproductive Health Survey - FRHS01
+Myanmar,MM,MMR,104,Urban,5,Flush and pour flush - to elsewhere,0.0,Fertility and Reproductive Health Survey - FRHS01
+Myanmar,MM,MMR,104,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Fertility and Reproductive Health Survey - FRHS01
+Myanmar,MM,MMR,104,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Fertility and Reproductive Health Survey - FRHS01
+Myanmar,MM,MMR,104,Urban,8,Dry latrines - Traditional latrine,0.0,Fertility and Reproductive Health Survey - FRHS01
+Myanmar,MM,MMR,104,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.093,Fertility and Reproductive Health Survey - FRHS01
+Myanmar,MM,MMR,104,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Fertility and Reproductive Health Survey - FRHS01
+Myanmar,MM,MMR,104,Urban,11,Dry latrines - Bucket latrine,0.0,Fertility and Reproductive Health Survey - FRHS01
+Myanmar,MM,MMR,104,Urban,12,Dry latrines - Other,0.0,Fertility and Reproductive Health Survey - FRHS01
+Myanmar,MM,MMR,104,Urban,13,Composting toilets,0.0,Fertility and Reproductive Health Survey - FRHS01
+Myanmar,MM,MMR,104,Urban,14,Other improved,0.0,Fertility and Reproductive Health Survey - FRHS01
+Myanmar,MM,MMR,104,Urban,15,"No facility, bush, field",0.023,Fertility and Reproductive Health Survey - FRHS01
+Myanmar,MM,MMR,104,Urban,16,Other unimproved,0.004,Fertility and Reproductive Health Survey - FRHS01
+Myanmar,MM,MMR,104,Urban,17,DK/missing information,0.0,Fertility and Reproductive Health Survey - FRHS01
+Myanmar,MM,MMR,104,Rural,1,Flush and pour flush - to piped sewer system,0.63,Fertility and Reproductive Health Survey - FRHS01
+Myanmar,MM,MMR,104,Rural,2,Flush and pour flush - to septic tank,0.0,Fertility and Reproductive Health Survey - FRHS01
+Myanmar,MM,MMR,104,Rural,3,Flush and pour flush - to pit,0.0,Fertility and Reproductive Health Survey - FRHS01
+Myanmar,MM,MMR,104,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Fertility and Reproductive Health Survey - FRHS01
+Myanmar,MM,MMR,104,Rural,5,Flush and pour flush - to elsewhere,0.0,Fertility and Reproductive Health Survey - FRHS01
+Myanmar,MM,MMR,104,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Fertility and Reproductive Health Survey - FRHS01
+Myanmar,MM,MMR,104,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Fertility and Reproductive Health Survey - FRHS01
+Myanmar,MM,MMR,104,Rural,8,Dry latrines - Traditional latrine,0.0,Fertility and Reproductive Health Survey - FRHS01
+Myanmar,MM,MMR,104,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.238,Fertility and Reproductive Health Survey - FRHS01
+Myanmar,MM,MMR,104,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Fertility and Reproductive Health Survey - FRHS01
+Myanmar,MM,MMR,104,Rural,11,Dry latrines - Bucket latrine,0.0,Fertility and Reproductive Health Survey - FRHS01
+Myanmar,MM,MMR,104,Rural,12,Dry latrines - Other,0.0,Fertility and Reproductive Health Survey - FRHS01
+Myanmar,MM,MMR,104,Rural,13,Composting toilets,0.0,Fertility and Reproductive Health Survey - FRHS01
+Myanmar,MM,MMR,104,Rural,14,Other improved,0.0,Fertility and Reproductive Health Survey - FRHS01
+Myanmar,MM,MMR,104,Rural,15,"No facility, bush, field",0.124,Fertility and Reproductive Health Survey - FRHS01
+Myanmar,MM,MMR,104,Rural,16,Other unimproved,0.007,Fertility and Reproductive Health Survey - FRHS01
+Myanmar,MM,MMR,104,Rural,17,DK/missing information,0.0,Fertility and Reproductive Health Survey - FRHS01
+Myanmar,MM,MMR,104,National,1,Flush and pour flush - to piped sewer system,0.687,Fertility and Reproductive Health Survey - FRHS01
+Myanmar,MM,MMR,104,National,2,Flush and pour flush - to septic tank,0.0,Fertility and Reproductive Health Survey - FRHS01
+Myanmar,MM,MMR,104,National,3,Flush and pour flush - to pit,0.0,Fertility and Reproductive Health Survey - FRHS01
+Myanmar,MM,MMR,104,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Fertility and Reproductive Health Survey - FRHS01
+Myanmar,MM,MMR,104,National,5,Flush and pour flush - to elsewhere,0.0,Fertility and Reproductive Health Survey - FRHS01
+Myanmar,MM,MMR,104,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Fertility and Reproductive Health Survey - FRHS01
+Myanmar,MM,MMR,104,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Fertility and Reproductive Health Survey - FRHS01
+Myanmar,MM,MMR,104,National,8,Dry latrines - Traditional latrine,0.0,Fertility and Reproductive Health Survey - FRHS01
+Myanmar,MM,MMR,104,National,9,Dry latrines - Pit latrine without slab/open pit,0.202,Fertility and Reproductive Health Survey - FRHS01
+Myanmar,MM,MMR,104,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Fertility and Reproductive Health Survey - FRHS01
+Myanmar,MM,MMR,104,National,11,Dry latrines - Bucket latrine,0.0,Fertility and Reproductive Health Survey - FRHS01
+Myanmar,MM,MMR,104,National,12,Dry latrines - Other,0.0,Fertility and Reproductive Health Survey - FRHS01
+Myanmar,MM,MMR,104,National,13,Composting toilets,0.0,Fertility and Reproductive Health Survey - FRHS01
+Myanmar,MM,MMR,104,National,14,Other improved,0.0,Fertility and Reproductive Health Survey - FRHS01
+Myanmar,MM,MMR,104,National,15,"No facility, bush, field",0.098,Fertility and Reproductive Health Survey - FRHS01
+Myanmar,MM,MMR,104,National,16,Other unimproved,0.006,Fertility and Reproductive Health Survey - FRHS01
+Myanmar,MM,MMR,104,National,17,DK/missing information,0.0,Fertility and Reproductive Health Survey - FRHS01
+Myanmar,MM,MMR,104,Urban,1,Flush and pour flush - to piped sewer system,0.0,Integrated Household Living Conditions Survey - IHLC04
+Myanmar,MM,MMR,104,Urban,2,Flush and pour flush - to septic tank,0.0,Integrated Household Living Conditions Survey - IHLC04
+Myanmar,MM,MMR,104,Urban,3,Flush and pour flush - to pit,0.0,Integrated Household Living Conditions Survey - IHLC04
+Myanmar,MM,MMR,104,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.385,Integrated Household Living Conditions Survey - IHLC04
+Myanmar,MM,MMR,104,Urban,5,Flush and pour flush - to elsewhere,0.0,Integrated Household Living Conditions Survey - IHLC04
+Myanmar,MM,MMR,104,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Integrated Household Living Conditions Survey - IHLC04
+Myanmar,MM,MMR,104,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.352,Integrated Household Living Conditions Survey - IHLC04
+Myanmar,MM,MMR,104,Urban,8,Dry latrines - Traditional latrine,0.0,Integrated Household Living Conditions Survey - IHLC04
+Myanmar,MM,MMR,104,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.021,Integrated Household Living Conditions Survey - IHLC04
+Myanmar,MM,MMR,104,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Integrated Household Living Conditions Survey - IHLC04
+Myanmar,MM,MMR,104,Urban,11,Dry latrines - Bucket latrine,0.02,Integrated Household Living Conditions Survey - IHLC04
+Myanmar,MM,MMR,104,Urban,12,Dry latrines - Other,0.006,Integrated Household Living Conditions Survey - IHLC04
+Myanmar,MM,MMR,104,Urban,13,Composting toilets,0.0,Integrated Household Living Conditions Survey - IHLC04
+Myanmar,MM,MMR,104,Urban,14,Other improved,0.201,Integrated Household Living Conditions Survey - IHLC04
+Myanmar,MM,MMR,104,Urban,15,"No facility, bush, field",0.009,Integrated Household Living Conditions Survey - IHLC04
+Myanmar,MM,MMR,104,Urban,16,Other unimproved,0.006,Integrated Household Living Conditions Survey - IHLC04
+Myanmar,MM,MMR,104,Urban,17,DK/missing information,0.0,Integrated Household Living Conditions Survey - IHLC04
+Myanmar,MM,MMR,104,Rural,1,Flush and pour flush - to piped sewer system,0.0,Integrated Household Living Conditions Survey - IHLC04
+Myanmar,MM,MMR,104,Rural,2,Flush and pour flush - to septic tank,0.0,Integrated Household Living Conditions Survey - IHLC04
+Myanmar,MM,MMR,104,Rural,3,Flush and pour flush - to pit,0.0,Integrated Household Living Conditions Survey - IHLC04
+Myanmar,MM,MMR,104,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.061,Integrated Household Living Conditions Survey - IHLC04
+Myanmar,MM,MMR,104,Rural,5,Flush and pour flush - to elsewhere,0.0,Integrated Household Living Conditions Survey - IHLC04
+Myanmar,MM,MMR,104,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Integrated Household Living Conditions Survey - IHLC04
+Myanmar,MM,MMR,104,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.533,Integrated Household Living Conditions Survey - IHLC04
+Myanmar,MM,MMR,104,Rural,8,Dry latrines - Traditional latrine,0.0,Integrated Household Living Conditions Survey - IHLC04
+Myanmar,MM,MMR,104,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.104,Integrated Household Living Conditions Survey - IHLC04
+Myanmar,MM,MMR,104,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Integrated Household Living Conditions Survey - IHLC04
+Myanmar,MM,MMR,104,Rural,11,Dry latrines - Bucket latrine,0.009,Integrated Household Living Conditions Survey - IHLC04
+Myanmar,MM,MMR,104,Rural,12,Dry latrines - Other,0.032,Integrated Household Living Conditions Survey - IHLC04
+Myanmar,MM,MMR,104,Rural,13,Composting toilets,0.0,Integrated Household Living Conditions Survey - IHLC04
+Myanmar,MM,MMR,104,Rural,14,Other improved,0.15,Integrated Household Living Conditions Survey - IHLC04
+Myanmar,MM,MMR,104,Rural,15,"No facility, bush, field",0.106,Integrated Household Living Conditions Survey - IHLC04
+Myanmar,MM,MMR,104,Rural,16,Other unimproved,0.007,Integrated Household Living Conditions Survey - IHLC04
+Myanmar,MM,MMR,104,Rural,17,DK/missing information,0.0,Integrated Household Living Conditions Survey - IHLC04
+Myanmar,MM,MMR,104,National,1,Flush and pour flush - to piped sewer system,0.0,Integrated Household Living Conditions Survey - IHLC04
+Myanmar,MM,MMR,104,National,2,Flush and pour flush - to septic tank,0.0,Integrated Household Living Conditions Survey - IHLC04
+Myanmar,MM,MMR,104,National,3,Flush and pour flush - to pit,0.0,Integrated Household Living Conditions Survey - IHLC04
+Myanmar,MM,MMR,104,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.146,Integrated Household Living Conditions Survey - IHLC04
+Myanmar,MM,MMR,104,National,5,Flush and pour flush - to elsewhere,0.0,Integrated Household Living Conditions Survey - IHLC04
+Myanmar,MM,MMR,104,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Integrated Household Living Conditions Survey - IHLC04
+Myanmar,MM,MMR,104,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.485,Integrated Household Living Conditions Survey - IHLC04
+Myanmar,MM,MMR,104,National,8,Dry latrines - Traditional latrine,0.0,Integrated Household Living Conditions Survey - IHLC04
+Myanmar,MM,MMR,104,National,9,Dry latrines - Pit latrine without slab/open pit,0.082,Integrated Household Living Conditions Survey - IHLC04
+Myanmar,MM,MMR,104,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Integrated Household Living Conditions Survey - IHLC04
+Myanmar,MM,MMR,104,National,11,Dry latrines - Bucket latrine,0.012,Integrated Household Living Conditions Survey - IHLC04
+Myanmar,MM,MMR,104,National,12,Dry latrines - Other,0.025,Integrated Household Living Conditions Survey - IHLC04
+Myanmar,MM,MMR,104,National,13,Composting toilets,0.0,Integrated Household Living Conditions Survey - IHLC04
+Myanmar,MM,MMR,104,National,14,Other improved,0.164,Integrated Household Living Conditions Survey - IHLC04
+Myanmar,MM,MMR,104,National,15,"No facility, bush, field",0.08,Integrated Household Living Conditions Survey - IHLC04
+Myanmar,MM,MMR,104,National,16,Other unimproved,0.006,Integrated Household Living Conditions Survey - IHLC04
+Myanmar,MM,MMR,104,National,17,DK/missing information,0.0,Integrated Household Living Conditions Survey - IHLC04
+Myanmar,MM,MMR,104,Urban,1,Flush and pour flush - to piped sewer system,0.0,Multiple Indicator Cluster Survey - MICS00
+Myanmar,MM,MMR,104,Urban,2,Flush and pour flush - to septic tank,0.0,Multiple Indicator Cluster Survey - MICS00
+Myanmar,MM,MMR,104,Urban,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Myanmar,MM,MMR,104,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS00
+Myanmar,MM,MMR,104,Urban,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS00
+Myanmar,MM,MMR,104,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Myanmar,MM,MMR,104,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.645,Multiple Indicator Cluster Survey - MICS00
+Myanmar,MM,MMR,104,Urban,8,Dry latrines - Traditional latrine,0.103,Multiple Indicator Cluster Survey - MICS00
+Myanmar,MM,MMR,104,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.045,Multiple Indicator Cluster Survey - MICS00
+Myanmar,MM,MMR,104,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Myanmar,MM,MMR,104,Urban,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Myanmar,MM,MMR,104,Urban,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS00
+Myanmar,MM,MMR,104,Urban,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS00
+Myanmar,MM,MMR,104,Urban,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS00
+Myanmar,MM,MMR,104,Urban,15,"No facility, bush, field",0.015,Multiple Indicator Cluster Survey - MICS00
+Myanmar,MM,MMR,104,Urban,16,Other unimproved,0.0,Multiple Indicator Cluster Survey - MICS00
+Myanmar,MM,MMR,104,Urban,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS00
+Myanmar,MM,MMR,104,Rural,1,Flush and pour flush - to piped sewer system,0.0,Multiple Indicator Cluster Survey - MICS00
+Myanmar,MM,MMR,104,Rural,2,Flush and pour flush - to septic tank,0.0,Multiple Indicator Cluster Survey - MICS00
+Myanmar,MM,MMR,104,Rural,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Myanmar,MM,MMR,104,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS00
+Myanmar,MM,MMR,104,Rural,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS00
+Myanmar,MM,MMR,104,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Myanmar,MM,MMR,104,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.554,Multiple Indicator Cluster Survey - MICS00
+Myanmar,MM,MMR,104,Rural,8,Dry latrines - Traditional latrine,0.168,Multiple Indicator Cluster Survey - MICS00
+Myanmar,MM,MMR,104,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.085,Multiple Indicator Cluster Survey - MICS00
+Myanmar,MM,MMR,104,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Myanmar,MM,MMR,104,Rural,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Myanmar,MM,MMR,104,Rural,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS00
+Myanmar,MM,MMR,104,Rural,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS00
+Myanmar,MM,MMR,104,Rural,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS00
+Myanmar,MM,MMR,104,Rural,15,"No facility, bush, field",0.182,Multiple Indicator Cluster Survey - MICS00
+Myanmar,MM,MMR,104,Rural,16,Other unimproved,0.0,Multiple Indicator Cluster Survey - MICS00
+Myanmar,MM,MMR,104,Rural,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS00
+Myanmar,MM,MMR,104,National,1,Flush and pour flush - to piped sewer system,0.0,Multiple Indicator Cluster Survey - MICS00
+Myanmar,MM,MMR,104,National,2,Flush and pour flush - to septic tank,0.0,Multiple Indicator Cluster Survey - MICS00
+Myanmar,MM,MMR,104,National,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Myanmar,MM,MMR,104,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS00
+Myanmar,MM,MMR,104,National,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS00
+Myanmar,MM,MMR,104,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Myanmar,MM,MMR,104,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Myanmar,MM,MMR,104,National,8,Dry latrines - Traditional latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Myanmar,MM,MMR,104,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Myanmar,MM,MMR,104,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Myanmar,MM,MMR,104,National,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Myanmar,MM,MMR,104,National,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS00
+Myanmar,MM,MMR,104,National,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS00
+Myanmar,MM,MMR,104,National,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS00
+Myanmar,MM,MMR,104,National,15,"No facility, bush, field",0.0,Multiple Indicator Cluster Survey - MICS00
+Myanmar,MM,MMR,104,National,16,Other unimproved,0.0,Multiple Indicator Cluster Survey - MICS00
+Myanmar,MM,MMR,104,National,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS00
+Myanmar,MM,MMR,104,Urban,1,Flush and pour flush - to piped sewer system,0.0,Multiple Indicator Cluster Survey - MICS03
+Myanmar,MM,MMR,104,Urban,2,Flush and pour flush - to septic tank,0.0,Multiple Indicator Cluster Survey - MICS03
+Myanmar,MM,MMR,104,Urban,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS03
+Myanmar,MM,MMR,104,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS03
+Myanmar,MM,MMR,104,Urban,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS03
+Myanmar,MM,MMR,104,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Multiple Indicator Cluster Survey - MICS03
+Myanmar,MM,MMR,104,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.633,Multiple Indicator Cluster Survey - MICS03
+Myanmar,MM,MMR,104,Urban,8,Dry latrines - Traditional latrine,0.046,Multiple Indicator Cluster Survey - MICS03
+Myanmar,MM,MMR,104,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.022,Multiple Indicator Cluster Survey - MICS03
+Myanmar,MM,MMR,104,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS03
+Myanmar,MM,MMR,104,Urban,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS03
+Myanmar,MM,MMR,104,Urban,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS03
+Myanmar,MM,MMR,104,Urban,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS03
+Myanmar,MM,MMR,104,Urban,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS03
+Myanmar,MM,MMR,104,Urban,15,"No facility, bush, field",0.006,Multiple Indicator Cluster Survey - MICS03
+Myanmar,MM,MMR,104,Urban,16,Other unimproved,0.0,Multiple Indicator Cluster Survey - MICS03
+Myanmar,MM,MMR,104,Urban,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS03
+Myanmar,MM,MMR,104,Rural,1,Flush and pour flush - to piped sewer system,0.0,Multiple Indicator Cluster Survey - MICS03
+Myanmar,MM,MMR,104,Rural,2,Flush and pour flush - to septic tank,0.0,Multiple Indicator Cluster Survey - MICS03
+Myanmar,MM,MMR,104,Rural,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS03
+Myanmar,MM,MMR,104,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS03
+Myanmar,MM,MMR,104,Rural,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS03
+Myanmar,MM,MMR,104,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Multiple Indicator Cluster Survey - MICS03
+Myanmar,MM,MMR,104,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.671,Multiple Indicator Cluster Survey - MICS03
+Myanmar,MM,MMR,104,Rural,8,Dry latrines - Traditional latrine,0.135,Multiple Indicator Cluster Survey - MICS03
+Myanmar,MM,MMR,104,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.056,Multiple Indicator Cluster Survey - MICS03
+Myanmar,MM,MMR,104,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS03
+Myanmar,MM,MMR,104,Rural,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS03
+Myanmar,MM,MMR,104,Rural,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS03
+Myanmar,MM,MMR,104,Rural,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS03
+Myanmar,MM,MMR,104,Rural,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS03
+Myanmar,MM,MMR,104,Rural,15,"No facility, bush, field",0.102,Multiple Indicator Cluster Survey - MICS03
+Myanmar,MM,MMR,104,Rural,16,Other unimproved,0.0,Multiple Indicator Cluster Survey - MICS03
+Myanmar,MM,MMR,104,Rural,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS03
+Myanmar,MM,MMR,104,National,1,Flush and pour flush - to piped sewer system,0.0,Multiple Indicator Cluster Survey - MICS03
+Myanmar,MM,MMR,104,National,2,Flush and pour flush - to septic tank,0.0,Multiple Indicator Cluster Survey - MICS03
+Myanmar,MM,MMR,104,National,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS03
+Myanmar,MM,MMR,104,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS03
+Myanmar,MM,MMR,104,National,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS03
+Myanmar,MM,MMR,104,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Multiple Indicator Cluster Survey - MICS03
+Myanmar,MM,MMR,104,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Multiple Indicator Cluster Survey - MICS03
+Myanmar,MM,MMR,104,National,8,Dry latrines - Traditional latrine,0.0,Multiple Indicator Cluster Survey - MICS03
+Myanmar,MM,MMR,104,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Multiple Indicator Cluster Survey - MICS03
+Myanmar,MM,MMR,104,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS03
+Myanmar,MM,MMR,104,National,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS03
+Myanmar,MM,MMR,104,National,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS03
+Myanmar,MM,MMR,104,National,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS03
+Myanmar,MM,MMR,104,National,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS03
+Myanmar,MM,MMR,104,National,15,"No facility, bush, field",0.0,Multiple Indicator Cluster Survey - MICS03
+Myanmar,MM,MMR,104,National,16,Other unimproved,0.0,Multiple Indicator Cluster Survey - MICS03
+Myanmar,MM,MMR,104,National,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS03
+Myanmar,MM,MMR,104,Urban,1,Flush and pour flush - to piped sewer system,0.061,World Health Survey - WHS03
+Myanmar,MM,MMR,104,Urban,2,Flush and pour flush - to septic tank,0.107,World Health Survey - WHS03
+Myanmar,MM,MMR,104,Urban,3,Flush and pour flush - to pit,0.0,World Health Survey - WHS03
+Myanmar,MM,MMR,104,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,World Health Survey - WHS03
+Myanmar,MM,MMR,104,Urban,5,Flush and pour flush - to elsewhere,0.0,World Health Survey - WHS03
+Myanmar,MM,MMR,104,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,World Health Survey - WHS03
+Myanmar,MM,MMR,104,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.041,World Health Survey - WHS03
+Myanmar,MM,MMR,104,Urban,8,Dry latrines - Traditional latrine,0.0,World Health Survey - WHS03
+Myanmar,MM,MMR,104,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.052,World Health Survey - WHS03
+Myanmar,MM,MMR,104,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,World Health Survey - WHS03
+Myanmar,MM,MMR,104,Urban,11,Dry latrines - Bucket latrine,0.0,World Health Survey - WHS03
+Myanmar,MM,MMR,104,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.032,World Health Survey - WHS03
+Myanmar,MM,MMR,104,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.009,World Health Survey - WHS03
+Myanmar,MM,MMR,104,Urban,8,Dry latrines - Traditional latrine,0.0,World Health Survey - WHS03
+Myanmar,MM,MMR,104,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,World Health Survey - WHS03
+Myanmar,MM,MMR,104,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,World Health Survey - WHS03
+Myanmar,MM,MMR,104,Urban,11,Dry latrines - Bucket latrine,0.0,World Health Survey - WHS03
+Myanmar,MM,MMR,104,Urban,12,Dry latrines - Other,0.0,World Health Survey - WHS03
+Myanmar,MM,MMR,104,Urban,13,Composting toilets,0.0,World Health Survey - WHS03
+Myanmar,MM,MMR,104,Urban,14,Other improved,0.001,World Health Survey - WHS03
+Myanmar,MM,MMR,104,Urban,15,"No facility, bush, field",0.0,World Health Survey - WHS03
+Myanmar,MM,MMR,104,Urban,16,Other unimproved,0.0,World Health Survey - WHS03
+Myanmar,MM,MMR,104,Urban,17,DK/missing information,0.0,World Health Survey - WHS03
+Myanmar,MM,MMR,104,Rural,1,Flush and pour flush - to piped sewer system,0.001,World Health Survey - WHS03
+Myanmar,MM,MMR,104,Rural,2,Flush and pour flush - to septic tank,0.006,World Health Survey - WHS03
+Myanmar,MM,MMR,104,Rural,3,Flush and pour flush - to pit,0.0,World Health Survey - WHS03
+Myanmar,MM,MMR,104,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,World Health Survey - WHS03
+Myanmar,MM,MMR,104,Rural,5,Flush and pour flush - to elsewhere,0.0,World Health Survey - WHS03
+Myanmar,MM,MMR,104,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,World Health Survey - WHS03
+Myanmar,MM,MMR,104,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.105,World Health Survey - WHS03
+Myanmar,MM,MMR,104,Rural,8,Dry latrines - Traditional latrine,0.0,World Health Survey - WHS03
+Myanmar,MM,MMR,104,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.11,World Health Survey - WHS03
+Myanmar,MM,MMR,104,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,World Health Survey - WHS03
+Myanmar,MM,MMR,104,Rural,11,Dry latrines - Bucket latrine,0.006,World Health Survey - WHS03
+Myanmar,MM,MMR,104,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.077,World Health Survey - WHS03
+Myanmar,MM,MMR,104,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.028,World Health Survey - WHS03
+Myanmar,MM,MMR,104,Rural,8,Dry latrines - Traditional latrine,0.0,World Health Survey - WHS03
+Myanmar,MM,MMR,104,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,World Health Survey - WHS03
+Myanmar,MM,MMR,104,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,World Health Survey - WHS03
+Myanmar,MM,MMR,104,Rural,11,Dry latrines - Bucket latrine,0.0,World Health Survey - WHS03
+Myanmar,MM,MMR,104,Rural,12,Dry latrines - Other,0.0,World Health Survey - WHS03
+Myanmar,MM,MMR,104,Rural,13,Composting toilets,0.0,World Health Survey - WHS03
+Myanmar,MM,MMR,104,Rural,14,Other improved,0.0,World Health Survey - WHS03
+Myanmar,MM,MMR,104,Rural,15,"No facility, bush, field",0.0,World Health Survey - WHS03
+Myanmar,MM,MMR,104,Rural,16,Other unimproved,0.032,World Health Survey - WHS03
+Myanmar,MM,MMR,104,Rural,17,DK/missing information,0.0,World Health Survey - WHS03
+Myanmar,MM,MMR,104,National,1,Flush and pour flush - to piped sewer system,0.0,World Health Survey - WHS03
+Myanmar,MM,MMR,104,National,2,Flush and pour flush - to septic tank,0.0,World Health Survey - WHS03
+Myanmar,MM,MMR,104,National,3,Flush and pour flush - to pit,0.0,World Health Survey - WHS03
+Myanmar,MM,MMR,104,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,World Health Survey - WHS03
+Myanmar,MM,MMR,104,National,5,Flush and pour flush - to elsewhere,0.0,World Health Survey - WHS03
+Myanmar,MM,MMR,104,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,World Health Survey - WHS03
+Myanmar,MM,MMR,104,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,World Health Survey - WHS03
+Myanmar,MM,MMR,104,National,8,Dry latrines - Traditional latrine,0.0,World Health Survey - WHS03
+Myanmar,MM,MMR,104,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,World Health Survey - WHS03
+Myanmar,MM,MMR,104,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,World Health Survey - WHS03
+Myanmar,MM,MMR,104,National,11,Dry latrines - Bucket latrine,0.0,World Health Survey - WHS03
+Myanmar,MM,MMR,104,National,12,Dry latrines - Other,0.0,World Health Survey - WHS03
+Myanmar,MM,MMR,104,National,13,Composting toilets,0.0,World Health Survey - WHS03
+Myanmar,MM,MMR,104,National,14,Other improved,0.0,World Health Survey - WHS03
+Myanmar,MM,MMR,104,National,15,"No facility, bush, field",0.0,World Health Survey - WHS03
+Myanmar,MM,MMR,104,National,16,Other unimproved,0.0,World Health Survey - WHS03
+Myanmar,MM,MMR,104,National,17,DK/missing information,0.0,World Health Survey - WHS03
+Myanmar,MM,MMR,104,Urban,1,Flush and pour flush - to piped sewer system,0.0,Fertility and Reproductive Health Survey - FRHS07
+Myanmar,MM,MMR,104,Urban,2,Flush and pour flush - to septic tank,0.0,Fertility and Reproductive Health Survey - FRHS07
+Myanmar,MM,MMR,104,Urban,3,Flush and pour flush - to pit,0.0,Fertility and Reproductive Health Survey - FRHS07
+Myanmar,MM,MMR,104,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.918,Fertility and Reproductive Health Survey - FRHS07
+Myanmar,MM,MMR,104,Urban,5,Flush and pour flush - to elsewhere,0.0,Fertility and Reproductive Health Survey - FRHS07
+Myanmar,MM,MMR,104,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Fertility and Reproductive Health Survey - FRHS07
+Myanmar,MM,MMR,104,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Fertility and Reproductive Health Survey - FRHS07
+Myanmar,MM,MMR,104,Urban,8,Dry latrines - Traditional latrine,0.0,Fertility and Reproductive Health Survey - FRHS07
+Myanmar,MM,MMR,104,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Fertility and Reproductive Health Survey - FRHS07
+Myanmar,MM,MMR,104,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Fertility and Reproductive Health Survey - FRHS07
+Myanmar,MM,MMR,104,Urban,11,Dry latrines - Bucket latrine,0.055,Fertility and Reproductive Health Survey - FRHS07
+Myanmar,MM,MMR,104,Urban,12,Dry latrines - Other,0.0,Fertility and Reproductive Health Survey - FRHS07
+Myanmar,MM,MMR,104,Urban,13,Composting toilets,0.0,Fertility and Reproductive Health Survey - FRHS07
+Myanmar,MM,MMR,104,Urban,14,Other improved,0.0,Fertility and Reproductive Health Survey - FRHS07
+Myanmar,MM,MMR,104,Urban,15,"No facility, bush, field",0.013,Fertility and Reproductive Health Survey - FRHS07
+Myanmar,MM,MMR,104,Urban,16,Other unimproved,0.014,Fertility and Reproductive Health Survey - FRHS07
+Myanmar,MM,MMR,104,Urban,17,DK/missing information,0.0,Fertility and Reproductive Health Survey - FRHS07
+Myanmar,MM,MMR,104,Rural,1,Flush and pour flush - to piped sewer system,0.0,Fertility and Reproductive Health Survey - FRHS07
+Myanmar,MM,MMR,104,Rural,2,Flush and pour flush - to septic tank,0.0,Fertility and Reproductive Health Survey - FRHS07
+Myanmar,MM,MMR,104,Rural,3,Flush and pour flush - to pit,0.0,Fertility and Reproductive Health Survey - FRHS07
+Myanmar,MM,MMR,104,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.718,Fertility and Reproductive Health Survey - FRHS07
+Myanmar,MM,MMR,104,Rural,5,Flush and pour flush - to elsewhere,0.0,Fertility and Reproductive Health Survey - FRHS07
+Myanmar,MM,MMR,104,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Fertility and Reproductive Health Survey - FRHS07
+Myanmar,MM,MMR,104,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Fertility and Reproductive Health Survey - FRHS07
+Myanmar,MM,MMR,104,Rural,8,Dry latrines - Traditional latrine,0.0,Fertility and Reproductive Health Survey - FRHS07
+Myanmar,MM,MMR,104,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Fertility and Reproductive Health Survey - FRHS07
+Myanmar,MM,MMR,104,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Fertility and Reproductive Health Survey - FRHS07
+Myanmar,MM,MMR,104,Rural,11,Dry latrines - Bucket latrine,0.119,Fertility and Reproductive Health Survey - FRHS07
+Myanmar,MM,MMR,104,Rural,12,Dry latrines - Other,0.0,Fertility and Reproductive Health Survey - FRHS07
+Myanmar,MM,MMR,104,Rural,13,Composting toilets,0.0,Fertility and Reproductive Health Survey - FRHS07
+Myanmar,MM,MMR,104,Rural,14,Other improved,0.0,Fertility and Reproductive Health Survey - FRHS07
+Myanmar,MM,MMR,104,Rural,15,"No facility, bush, field",0.127,Fertility and Reproductive Health Survey - FRHS07
+Myanmar,MM,MMR,104,Rural,16,Other unimproved,0.035,Fertility and Reproductive Health Survey - FRHS07
+Myanmar,MM,MMR,104,Rural,17,DK/missing information,0.0,Fertility and Reproductive Health Survey - FRHS07
+Myanmar,MM,MMR,104,National,1,Flush and pour flush - to piped sewer system,0.0,Fertility and Reproductive Health Survey - FRHS07
+Myanmar,MM,MMR,104,National,2,Flush and pour flush - to septic tank,0.0,Fertility and Reproductive Health Survey - FRHS07
+Myanmar,MM,MMR,104,National,3,Flush and pour flush - to pit,0.0,Fertility and Reproductive Health Survey - FRHS07
+Myanmar,MM,MMR,104,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.771,Fertility and Reproductive Health Survey - FRHS07
+Myanmar,MM,MMR,104,National,5,Flush and pour flush - to elsewhere,0.0,Fertility and Reproductive Health Survey - FRHS07
+Myanmar,MM,MMR,104,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Fertility and Reproductive Health Survey - FRHS07
+Myanmar,MM,MMR,104,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Fertility and Reproductive Health Survey - FRHS07
+Myanmar,MM,MMR,104,National,8,Dry latrines - Traditional latrine,0.0,Fertility and Reproductive Health Survey - FRHS07
+Myanmar,MM,MMR,104,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Fertility and Reproductive Health Survey - FRHS07
+Myanmar,MM,MMR,104,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Fertility and Reproductive Health Survey - FRHS07
+Myanmar,MM,MMR,104,National,11,Dry latrines - Bucket latrine,0.102,Fertility and Reproductive Health Survey - FRHS07
+Myanmar,MM,MMR,104,National,12,Dry latrines - Other,0.0,Fertility and Reproductive Health Survey - FRHS07
+Myanmar,MM,MMR,104,National,13,Composting toilets,0.0,Fertility and Reproductive Health Survey - FRHS07
+Myanmar,MM,MMR,104,National,14,Other improved,0.0,Fertility and Reproductive Health Survey - FRHS07
+Myanmar,MM,MMR,104,National,15,"No facility, bush, field",0.097,Fertility and Reproductive Health Survey - FRHS07
+Myanmar,MM,MMR,104,National,16,Other unimproved,0.03,Fertility and Reproductive Health Survey - FRHS07
+Myanmar,MM,MMR,104,National,17,DK/missing information,0.0,Fertility and Reproductive Health Survey - FRHS07
 Myanmar,MM,MMR,104,Urban,1,Flush and pour flush - to piped sewer system,0.036,Multiple Indicator Cluster Survey  - MICS10
 Myanmar,MM,MMR,104,Urban,2,Flush and pour flush - to septic tank,0.323,Multiple Indicator Cluster Survey  - MICS10
 Myanmar,MM,MMR,104,Urban,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey  - MICS10
@@ -33,6 +351,125 @@ Myanmar,MM,MMR,104,Rural,14,Other improved,0.0,Multiple Indicator Cluster Survey
 Myanmar,MM,MMR,104,Rural,15,"No facility, bush, field",0.097,Multiple Indicator Cluster Survey  - MICS10
 Myanmar,MM,MMR,104,Rural,16,Other unimproved,0.007,Multiple Indicator Cluster Survey  - MICS10
 Myanmar,MM,MMR,104,Rural,17,DK/missing information,0.0,Multiple Indicator Cluster Survey  - MICS10
+Myanmar,MM,MMR,104,National,1,Flush and pour flush - to piped sewer system,0.011,Multiple Indicator Cluster Survey  - MICS10
+Myanmar,MM,MMR,104,National,2,Flush and pour flush - to septic tank,0.139,Multiple Indicator Cluster Survey  - MICS10
+Myanmar,MM,MMR,104,National,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey  - MICS10
+Myanmar,MM,MMR,104,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey  - MICS10
+Myanmar,MM,MMR,104,National,5,Flush and pour flush - to elsewhere,0.011,Multiple Indicator Cluster Survey  - MICS10
+Myanmar,MM,MMR,104,National,6,Dry latrines - Ventilated Improved Pit latrine,0.036,Multiple Indicator Cluster Survey  - MICS10
+Myanmar,MM,MMR,104,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.649,Multiple Indicator Cluster Survey  - MICS10
+Myanmar,MM,MMR,104,National,8,Dry latrines - Traditional latrine,0.0,Multiple Indicator Cluster Survey  - MICS10
+Myanmar,MM,MMR,104,National,9,Dry latrines - Pit latrine without slab/open pit,0.064,Multiple Indicator Cluster Survey  - MICS10
+Myanmar,MM,MMR,104,National,10,Dry latrines - Hanging toilet/hanging latrine,0.003,Multiple Indicator Cluster Survey  - MICS10
+Myanmar,MM,MMR,104,National,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey  - MICS10
+Myanmar,MM,MMR,104,National,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey  - MICS10
+Myanmar,MM,MMR,104,National,13,Composting toilets,0.011,Multiple Indicator Cluster Survey  - MICS10
+Myanmar,MM,MMR,104,National,14,Other improved,0.0,Multiple Indicator Cluster Survey  - MICS10
+Myanmar,MM,MMR,104,National,15,"No facility, bush, field",0.07,Multiple Indicator Cluster Survey  - MICS10
+Myanmar,MM,MMR,104,National,16,Other unimproved,0.005,Multiple Indicator Cluster Survey  - MICS10
+Myanmar,MM,MMR,104,National,17,DK/missing information,0.0,Multiple Indicator Cluster Survey  - MICS10
+Myanmar,MM,MMR,104,Urban,1,Flush and pour flush - to piped sewer system,0.0,Integrated household living conditions assessment survey (2009-2010) - IHLCA10
+Myanmar,MM,MMR,104,Urban,2,Flush and pour flush - to septic tank,0.0,Integrated household living conditions assessment survey (2009-2010) - IHLCA10
+Myanmar,MM,MMR,104,Urban,3,Flush and pour flush - to pit,0.0,Integrated household living conditions assessment survey (2009-2010) - IHLCA10
+Myanmar,MM,MMR,104,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.493,Integrated household living conditions assessment survey (2009-2010) - IHLCA10
+Myanmar,MM,MMR,104,Urban,5,Flush and pour flush - to elsewhere,0.0,Integrated household living conditions assessment survey (2009-2010) - IHLCA10
+Myanmar,MM,MMR,104,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Integrated household living conditions assessment survey (2009-2010) - IHLCA10
+Myanmar,MM,MMR,104,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.349,Integrated household living conditions assessment survey (2009-2010) - IHLCA10
+Myanmar,MM,MMR,104,Urban,8,Dry latrines - Traditional latrine,0.0,Integrated household living conditions assessment survey (2009-2010) - IHLCA10
+Myanmar,MM,MMR,104,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.016,Integrated household living conditions assessment survey (2009-2010) - IHLCA10
+Myanmar,MM,MMR,104,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Integrated household living conditions assessment survey (2009-2010) - IHLCA10
+Myanmar,MM,MMR,104,Urban,11,Dry latrines - Bucket latrine,0.01,Integrated household living conditions assessment survey (2009-2010) - IHLCA10
+Myanmar,MM,MMR,104,Urban,12,Dry latrines - Other,0.002,Integrated household living conditions assessment survey (2009-2010) - IHLCA10
+Myanmar,MM,MMR,104,Urban,13,Composting toilets,0.0,Integrated household living conditions assessment survey (2009-2010) - IHLCA10
+Myanmar,MM,MMR,104,Urban,14,Other improved,0.125,Integrated household living conditions assessment survey (2009-2010) - IHLCA10
+Myanmar,MM,MMR,104,Urban,15,"No facility, bush, field",0.005,Integrated household living conditions assessment survey (2009-2010) - IHLCA10
+Myanmar,MM,MMR,104,Urban,16,Other unimproved,0.001,Integrated household living conditions assessment survey (2009-2010) - IHLCA10
+Myanmar,MM,MMR,104,Urban,17,DK/missing information,0.0,Integrated household living conditions assessment survey (2009-2010) - IHLCA10
+Myanmar,MM,MMR,104,Rural,1,Flush and pour flush - to piped sewer system,0.0,Integrated household living conditions assessment survey (2009-2010) - IHLCA10
+Myanmar,MM,MMR,104,Rural,2,Flush and pour flush - to septic tank,0.0,Integrated household living conditions assessment survey (2009-2010) - IHLCA10
+Myanmar,MM,MMR,104,Rural,3,Flush and pour flush - to pit,0.0,Integrated household living conditions assessment survey (2009-2010) - IHLCA10
+Myanmar,MM,MMR,104,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.169,Integrated household living conditions assessment survey (2009-2010) - IHLCA10
+Myanmar,MM,MMR,104,Rural,5,Flush and pour flush - to elsewhere,0.0,Integrated household living conditions assessment survey (2009-2010) - IHLCA10
+Myanmar,MM,MMR,104,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Integrated household living conditions assessment survey (2009-2010) - IHLCA10
+Myanmar,MM,MMR,104,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.517,Integrated household living conditions assessment survey (2009-2010) - IHLCA10
+Myanmar,MM,MMR,104,Rural,8,Dry latrines - Traditional latrine,0.0,Integrated household living conditions assessment survey (2009-2010) - IHLCA10
+Myanmar,MM,MMR,104,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.054,Integrated household living conditions assessment survey (2009-2010) - IHLCA10
+Myanmar,MM,MMR,104,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Integrated household living conditions assessment survey (2009-2010) - IHLCA10
+Myanmar,MM,MMR,104,Rural,11,Dry latrines - Bucket latrine,0.02,Integrated household living conditions assessment survey (2009-2010) - IHLCA10
+Myanmar,MM,MMR,104,Rural,12,Dry latrines - Other,0.014,Integrated household living conditions assessment survey (2009-2010) - IHLCA10
+Myanmar,MM,MMR,104,Rural,13,Composting toilets,0.0,Integrated household living conditions assessment survey (2009-2010) - IHLCA10
+Myanmar,MM,MMR,104,Rural,14,Other improved,0.159,Integrated household living conditions assessment survey (2009-2010) - IHLCA10
+Myanmar,MM,MMR,104,Rural,15,"No facility, bush, field",0.064,Integrated household living conditions assessment survey (2009-2010) - IHLCA10
+Myanmar,MM,MMR,104,Rural,16,Other unimproved,0.005,Integrated household living conditions assessment survey (2009-2010) - IHLCA10
+Myanmar,MM,MMR,104,Rural,17,DK/missing information,0.0,Integrated household living conditions assessment survey (2009-2010) - IHLCA10
+Myanmar,MM,MMR,104,National,1,Flush and pour flush - to piped sewer system,0.0,Integrated household living conditions assessment survey (2009-2010) - IHLCA10
+Myanmar,MM,MMR,104,National,2,Flush and pour flush - to septic tank,0.0,Integrated household living conditions assessment survey (2009-2010) - IHLCA10
+Myanmar,MM,MMR,104,National,3,Flush and pour flush - to pit,0.0,Integrated household living conditions assessment survey (2009-2010) - IHLCA10
+Myanmar,MM,MMR,104,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.255,Integrated household living conditions assessment survey (2009-2010) - IHLCA10
+Myanmar,MM,MMR,104,National,5,Flush and pour flush - to elsewhere,0.0,Integrated household living conditions assessment survey (2009-2010) - IHLCA10
+Myanmar,MM,MMR,104,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Integrated household living conditions assessment survey (2009-2010) - IHLCA10
+Myanmar,MM,MMR,104,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.472,Integrated household living conditions assessment survey (2009-2010) - IHLCA10
+Myanmar,MM,MMR,104,National,8,Dry latrines - Traditional latrine,0.0,Integrated household living conditions assessment survey (2009-2010) - IHLCA10
+Myanmar,MM,MMR,104,National,9,Dry latrines - Pit latrine without slab/open pit,0.044,Integrated household living conditions assessment survey (2009-2010) - IHLCA10
+Myanmar,MM,MMR,104,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Integrated household living conditions assessment survey (2009-2010) - IHLCA10
+Myanmar,MM,MMR,104,National,11,Dry latrines - Bucket latrine,0.018,Integrated household living conditions assessment survey (2009-2010) - IHLCA10
+Myanmar,MM,MMR,104,National,12,Dry latrines - Other,0.011,Integrated household living conditions assessment survey (2009-2010) - IHLCA10
+Myanmar,MM,MMR,104,National,13,Composting toilets,0.0,Integrated household living conditions assessment survey (2009-2010) - IHLCA10
+Myanmar,MM,MMR,104,National,14,Other improved,0.149,Integrated household living conditions assessment survey (2009-2010) - IHLCA10
+Myanmar,MM,MMR,104,National,15,"No facility, bush, field",0.048,Integrated household living conditions assessment survey (2009-2010) - IHLCA10
+Myanmar,MM,MMR,104,National,16,Other unimproved,0.004,Integrated household living conditions assessment survey (2009-2010) - IHLCA10
+Myanmar,MM,MMR,104,National,17,DK/missing information,0.0,Integrated household living conditions assessment survey (2009-2010) - IHLCA10
+Myanmar,MM,MMR,104,Urban,1,Flush and pour flush - to piped sewer system,0.0,The 2014 Myanmar Population and Housing census - CEN14
+Myanmar,MM,MMR,104,Urban,2,Flush and pour flush - to septic tank,0.0,The 2014 Myanmar Population and Housing census - CEN14
+Myanmar,MM,MMR,104,Urban,3,Flush and pour flush - to pit,0.871,The 2014 Myanmar Population and Housing census - CEN14
+Myanmar,MM,MMR,104,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.052,The 2014 Myanmar Population and Housing census - CEN14
+Myanmar,MM,MMR,104,Urban,5,Flush and pour flush - to elsewhere,0.0,The 2014 Myanmar Population and Housing census - CEN14
+Myanmar,MM,MMR,104,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,The 2014 Myanmar Population and Housing census - CEN14
+Myanmar,MM,MMR,104,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,The 2014 Myanmar Population and Housing census - CEN14
+Myanmar,MM,MMR,104,Urban,8,Dry latrines - Traditional latrine,0.038,The 2014 Myanmar Population and Housing census - CEN14
+Myanmar,MM,MMR,104,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,The 2014 Myanmar Population and Housing census - CEN14
+Myanmar,MM,MMR,104,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,The 2014 Myanmar Population and Housing census - CEN14
+Myanmar,MM,MMR,104,Urban,11,Dry latrines - Bucket latrine,0.01,The 2014 Myanmar Population and Housing census - CEN14
+Myanmar,MM,MMR,104,Urban,12,Dry latrines - Other,0.0,The 2014 Myanmar Population and Housing census - CEN14
+Myanmar,MM,MMR,104,Urban,13,Composting toilets,0.0,The 2014 Myanmar Population and Housing census - CEN14
+Myanmar,MM,MMR,104,Urban,14,Other improved,0.0,The 2014 Myanmar Population and Housing census - CEN14
+Myanmar,MM,MMR,104,Urban,15,"No facility, bush, field",0.026,The 2014 Myanmar Population and Housing census - CEN14
+Myanmar,MM,MMR,104,Urban,16,Other unimproved,0.003,The 2014 Myanmar Population and Housing census - CEN14
+Myanmar,MM,MMR,104,Urban,17,DK/missing information,0.0,The 2014 Myanmar Population and Housing census - CEN14
+Myanmar,MM,MMR,104,Rural,1,Flush and pour flush - to piped sewer system,0.0,The 2014 Myanmar Population and Housing census - CEN14
+Myanmar,MM,MMR,104,Rural,2,Flush and pour flush - to septic tank,0.0,The 2014 Myanmar Population and Housing census - CEN14
+Myanmar,MM,MMR,104,Rural,3,Flush and pour flush - to pit,0.664,The 2014 Myanmar Population and Housing census - CEN14
+Myanmar,MM,MMR,104,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.009,The 2014 Myanmar Population and Housing census - CEN14
+Myanmar,MM,MMR,104,Rural,5,Flush and pour flush - to elsewhere,0.0,The 2014 Myanmar Population and Housing census - CEN14
+Myanmar,MM,MMR,104,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,The 2014 Myanmar Population and Housing census - CEN14
+Myanmar,MM,MMR,104,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,The 2014 Myanmar Population and Housing census - CEN14
+Myanmar,MM,MMR,104,Rural,8,Dry latrines - Traditional latrine,0.094,The 2014 Myanmar Population and Housing census - CEN14
+Myanmar,MM,MMR,104,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,The 2014 Myanmar Population and Housing census - CEN14
+Myanmar,MM,MMR,104,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,The 2014 Myanmar Population and Housing census - CEN14
+Myanmar,MM,MMR,104,Rural,11,Dry latrines - Bucket latrine,0.033,The 2014 Myanmar Population and Housing census - CEN14
+Myanmar,MM,MMR,104,Rural,12,Dry latrines - Other,0.0,The 2014 Myanmar Population and Housing census - CEN14
+Myanmar,MM,MMR,104,Rural,13,Composting toilets,0.0,The 2014 Myanmar Population and Housing census - CEN14
+Myanmar,MM,MMR,104,Rural,14,Other improved,0.0,The 2014 Myanmar Population and Housing census - CEN14
+Myanmar,MM,MMR,104,Rural,15,"No facility, bush, field",0.19,The 2014 Myanmar Population and Housing census - CEN14
+Myanmar,MM,MMR,104,Rural,16,Other unimproved,0.01,The 2014 Myanmar Population and Housing census - CEN14
+Myanmar,MM,MMR,104,Rural,17,DK/missing information,0.0,The 2014 Myanmar Population and Housing census - CEN14
+Myanmar,MM,MMR,104,National,1,Flush and pour flush - to piped sewer system,0.0,The 2014 Myanmar Population and Housing census - CEN14
+Myanmar,MM,MMR,104,National,2,Flush and pour flush - to septic tank,0.0,The 2014 Myanmar Population and Housing census - CEN14
+Myanmar,MM,MMR,104,National,3,Flush and pour flush - to pit,0.722,The 2014 Myanmar Population and Housing census - CEN14
+Myanmar,MM,MMR,104,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.021,The 2014 Myanmar Population and Housing census - CEN14
+Myanmar,MM,MMR,104,National,5,Flush and pour flush - to elsewhere,0.0,The 2014 Myanmar Population and Housing census - CEN14
+Myanmar,MM,MMR,104,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,The 2014 Myanmar Population and Housing census - CEN14
+Myanmar,MM,MMR,104,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,The 2014 Myanmar Population and Housing census - CEN14
+Myanmar,MM,MMR,104,National,8,Dry latrines - Traditional latrine,0.079,The 2014 Myanmar Population and Housing census - CEN14
+Myanmar,MM,MMR,104,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,The 2014 Myanmar Population and Housing census - CEN14
+Myanmar,MM,MMR,104,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,The 2014 Myanmar Population and Housing census - CEN14
+Myanmar,MM,MMR,104,National,11,Dry latrines - Bucket latrine,0.027,The 2014 Myanmar Population and Housing census - CEN14
+Myanmar,MM,MMR,104,National,12,Dry latrines - Other,0.0,The 2014 Myanmar Population and Housing census - CEN14
+Myanmar,MM,MMR,104,National,13,Composting toilets,0.0,The 2014 Myanmar Population and Housing census - CEN14
+Myanmar,MM,MMR,104,National,14,Other improved,0.0,The 2014 Myanmar Population and Housing census - CEN14
+Myanmar,MM,MMR,104,National,15,"No facility, bush, field",0.144,The 2014 Myanmar Population and Housing census - CEN14
+Myanmar,MM,MMR,104,National,16,Other unimproved,0.008,The 2014 Myanmar Population and Housing census - CEN14
+Myanmar,MM,MMR,104,National,17,DK/missing information,0.0,The 2014 Myanmar Population and Housing census - CEN14
 Myanmar,MM,MMR,104,Urban,1,Flush and pour flush - to piped sewer system,0.008,Demographic and Health Survey 2015-16 - DHS16
 Myanmar,MM,MMR,104,Urban,2,Flush and pour flush - to septic tank,0.179,Demographic and Health Survey 2015-16 - DHS16
 Myanmar,MM,MMR,104,Urban,3,Flush and pour flush - to pit,0.439,Demographic and Health Survey 2015-16 - DHS16
@@ -83,3 +520,28 @@ Myanmar,MM,MMR,104,Rural,14,Other improved,0.0,Demographic and Health Survey 201
 Myanmar,MM,MMR,104,Rural,15,"No facility, bush, field",0.142,Demographic and Health Survey 2015-16 - DHS16
 Myanmar,MM,MMR,104,Rural,16,Other unimproved,0.003,Demographic and Health Survey 2015-16 - DHS16
 Myanmar,MM,MMR,104,Rural,17,DK/missing information,0.0,Demographic and Health Survey 2015-16 - DHS16
+Myanmar,MM,MMR,104,National,1,Flush and pour flush - to piped sewer system,0.003,Demographic and Health Survey 2015-16 - DHS16
+Myanmar,MM,MMR,104,National,2,Flush and pour flush - to septic tank,0.067,Demographic and Health Survey 2015-16 - DHS16
+Myanmar,MM,MMR,104,National,3,Flush and pour flush - to pit,0.336,Demographic and Health Survey 2015-16 - DHS16
+Myanmar,MM,MMR,104,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey 2015-16 - DHS16
+Myanmar,MM,MMR,104,National,5,Flush and pour flush - to elsewhere,0.015,Demographic and Health Survey 2015-16 - DHS16
+Myanmar,MM,MMR,104,National,6,Dry latrines - Ventilated Improved Pit latrine,0.032,Demographic and Health Survey 2015-16 - DHS16
+Myanmar,MM,MMR,104,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.127,Demographic and Health Survey 2015-16 - DHS16
+Myanmar,MM,MMR,104,National,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey 2015-16 - DHS16
+Myanmar,MM,MMR,104,National,9,Dry latrines - Pit latrine without slab/open pit,0.28,Demographic and Health Survey 2015-16 - DHS16
+Myanmar,MM,MMR,104,National,10,Dry latrines - Hanging toilet/hanging latrine,0.013,Demographic and Health Survey 2015-16 - DHS16
+Myanmar,MM,MMR,104,National,11,Dry latrines - Bucket latrine,0.001,Demographic and Health Survey 2015-16 - DHS16
+Myanmar,MM,MMR,104,National,6,Dry latrines - Ventilated Improved Pit latrine,0.026,Demographic and Health Survey 2015-16 - DHS16
+Myanmar,MM,MMR,104,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.105,Demographic and Health Survey 2015-16 - DHS16
+Myanmar,MM,MMR,104,National,6,Dry latrines - Ventilated Improved Pit latrine,0.006,Demographic and Health Survey 2015-16 - DHS16
+Myanmar,MM,MMR,104,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.022,Demographic and Health Survey 2015-16 - DHS16
+Myanmar,MM,MMR,104,National,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey 2015-16 - DHS16
+Myanmar,MM,MMR,104,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Survey 2015-16 - DHS16
+Myanmar,MM,MMR,104,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey 2015-16 - DHS16
+Myanmar,MM,MMR,104,National,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey 2015-16 - DHS16
+Myanmar,MM,MMR,104,National,12,Dry latrines - Other,0.0,Demographic and Health Survey 2015-16 - DHS16
+Myanmar,MM,MMR,104,National,13,Composting toilets,0.015,Demographic and Health Survey 2015-16 - DHS16
+Myanmar,MM,MMR,104,National,14,Other improved,0.0,Demographic and Health Survey 2015-16 - DHS16
+Myanmar,MM,MMR,104,National,15,"No facility, bush, field",0.107,Demographic and Health Survey 2015-16 - DHS16
+Myanmar,MM,MMR,104,National,16,Other unimproved,0.003,Demographic and Health Survey 2015-16 - DHS16
+Myanmar,MM,MMR,104,National,17,DK/missing information,0.0,Demographic and Health Survey 2015-16 - DHS16

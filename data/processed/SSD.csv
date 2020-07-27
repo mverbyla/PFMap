@@ -1,0 +1,394 @@
+country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+South Sudan,SS,SSD,728,Urban,1,Flush and pour flush - to piped sewer system,0.0,Census - CEN08
+South Sudan,SS,SSD,728,Urban,2,Flush and pour flush - to septic tank,0.0,Census - CEN08
+South Sudan,SS,SSD,728,Urban,3,Flush and pour flush - to pit,0.0,Census - CEN08
+South Sudan,SS,SSD,728,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN08
+South Sudan,SS,SSD,728,Urban,5,Flush and pour flush - to elsewhere,0.0,Census - CEN08
+South Sudan,SS,SSD,728,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN08
+South Sudan,SS,SSD,728,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN08
+South Sudan,SS,SSD,728,Urban,8,Dry latrines - Traditional latrine,0.0,Census - CEN08
+South Sudan,SS,SSD,728,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN08
+South Sudan,SS,SSD,728,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN08
+South Sudan,SS,SSD,728,Urban,11,Dry latrines - Bucket latrine,0.003,Census - CEN08
+South Sudan,SS,SSD,728,Urban,12,Dry latrines - Other,0.0,Census - CEN08
+South Sudan,SS,SSD,728,Urban,13,Composting toilets,0.0,Census - CEN08
+South Sudan,SS,SSD,728,Urban,14,Other improved,0.0,Census - CEN08
+South Sudan,SS,SSD,728,Urban,15,"No facility, bush, field",0.576,Census - CEN08
+South Sudan,SS,SSD,728,Urban,16,Other unimproved,0.0,Census - CEN08
+South Sudan,SS,SSD,728,Urban,17,DK/missing information,0.0,Census - CEN08
+South Sudan,SS,SSD,728,Rural,1,Flush and pour flush - to piped sewer system,0.0,Census - CEN08
+South Sudan,SS,SSD,728,Rural,2,Flush and pour flush - to septic tank,0.0,Census - CEN08
+South Sudan,SS,SSD,728,Rural,3,Flush and pour flush - to pit,0.0,Census - CEN08
+South Sudan,SS,SSD,728,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN08
+South Sudan,SS,SSD,728,Rural,5,Flush and pour flush - to elsewhere,0.0,Census - CEN08
+South Sudan,SS,SSD,728,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN08
+South Sudan,SS,SSD,728,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN08
+South Sudan,SS,SSD,728,Rural,8,Dry latrines - Traditional latrine,0.0,Census - CEN08
+South Sudan,SS,SSD,728,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN08
+South Sudan,SS,SSD,728,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN08
+South Sudan,SS,SSD,728,Rural,11,Dry latrines - Bucket latrine,0.001,Census - CEN08
+South Sudan,SS,SSD,728,Rural,12,Dry latrines - Other,0.0,Census - CEN08
+South Sudan,SS,SSD,728,Rural,13,Composting toilets,0.0,Census - CEN08
+South Sudan,SS,SSD,728,Rural,14,Other improved,0.0,Census - CEN08
+South Sudan,SS,SSD,728,Rural,15,"No facility, bush, field",0.813,Census - CEN08
+South Sudan,SS,SSD,728,Rural,16,Other unimproved,0.0,Census - CEN08
+South Sudan,SS,SSD,728,Rural,17,DK/missing information,0.0,Census - CEN08
+South Sudan,SS,SSD,728,National,1,Flush and pour flush - to piped sewer system,0.0,Census - CEN08
+South Sudan,SS,SSD,728,National,2,Flush and pour flush - to septic tank,0.0,Census - CEN08
+South Sudan,SS,SSD,728,National,3,Flush and pour flush - to pit,0.0,Census - CEN08
+South Sudan,SS,SSD,728,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN08
+South Sudan,SS,SSD,728,National,5,Flush and pour flush - to elsewhere,0.0,Census - CEN08
+South Sudan,SS,SSD,728,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN08
+South Sudan,SS,SSD,728,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN08
+South Sudan,SS,SSD,728,National,8,Dry latrines - Traditional latrine,0.0,Census - CEN08
+South Sudan,SS,SSD,728,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN08
+South Sudan,SS,SSD,728,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN08
+South Sudan,SS,SSD,728,National,11,Dry latrines - Bucket latrine,0.002,Census - CEN08
+South Sudan,SS,SSD,728,National,12,Dry latrines - Other,0.0,Census - CEN08
+South Sudan,SS,SSD,728,National,13,Composting toilets,0.0,Census - CEN08
+South Sudan,SS,SSD,728,National,14,Other improved,0.0,Census - CEN08
+South Sudan,SS,SSD,728,National,15,"No facility, bush, field",0.758,Census - CEN08
+South Sudan,SS,SSD,728,National,16,Other unimproved,0.0,Census - CEN08
+South Sudan,SS,SSD,728,National,17,DK/missing information,0.0,Census - CEN08
+South Sudan,SS,SSD,728,Urban,1,Flush and pour flush - to piped sewer system,0.0,National Baseline Household Survey 2009 - NBHS09
+South Sudan,SS,SSD,728,Urban,2,Flush and pour flush - to septic tank,0.0,National Baseline Household Survey 2009 - NBHS09
+South Sudan,SS,SSD,728,Urban,3,Flush and pour flush - to pit,0.0,National Baseline Household Survey 2009 - NBHS09
+South Sudan,SS,SSD,728,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Baseline Household Survey 2009 - NBHS09
+South Sudan,SS,SSD,728,Urban,5,Flush and pour flush - to elsewhere,0.0,National Baseline Household Survey 2009 - NBHS09
+South Sudan,SS,SSD,728,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,National Baseline Household Survey 2009 - NBHS09
+South Sudan,SS,SSD,728,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Baseline Household Survey 2009 - NBHS09
+South Sudan,SS,SSD,728,Urban,8,Dry latrines - Traditional latrine,0.0,National Baseline Household Survey 2009 - NBHS09
+South Sudan,SS,SSD,728,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Baseline Household Survey 2009 - NBHS09
+South Sudan,SS,SSD,728,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Baseline Household Survey 2009 - NBHS09
+South Sudan,SS,SSD,728,Urban,11,Dry latrines - Bucket latrine,0.0,National Baseline Household Survey 2009 - NBHS09
+South Sudan,SS,SSD,728,Urban,12,Dry latrines - Other,0.0,National Baseline Household Survey 2009 - NBHS09
+South Sudan,SS,SSD,728,Urban,13,Composting toilets,0.0,National Baseline Household Survey 2009 - NBHS09
+South Sudan,SS,SSD,728,Urban,14,Other improved,0.0,National Baseline Household Survey 2009 - NBHS09
+South Sudan,SS,SSD,728,Urban,15,"No facility, bush, field",0.46,National Baseline Household Survey 2009 - NBHS09
+South Sudan,SS,SSD,728,Urban,16,Other unimproved,0.0,National Baseline Household Survey 2009 - NBHS09
+South Sudan,SS,SSD,728,Urban,17,DK/missing information,0.0,National Baseline Household Survey 2009 - NBHS09
+South Sudan,SS,SSD,728,Rural,1,Flush and pour flush - to piped sewer system,0.0,National Baseline Household Survey 2009 - NBHS09
+South Sudan,SS,SSD,728,Rural,2,Flush and pour flush - to septic tank,0.0,National Baseline Household Survey 2009 - NBHS09
+South Sudan,SS,SSD,728,Rural,3,Flush and pour flush - to pit,0.0,National Baseline Household Survey 2009 - NBHS09
+South Sudan,SS,SSD,728,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Baseline Household Survey 2009 - NBHS09
+South Sudan,SS,SSD,728,Rural,5,Flush and pour flush - to elsewhere,0.0,National Baseline Household Survey 2009 - NBHS09
+South Sudan,SS,SSD,728,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,National Baseline Household Survey 2009 - NBHS09
+South Sudan,SS,SSD,728,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Baseline Household Survey 2009 - NBHS09
+South Sudan,SS,SSD,728,Rural,8,Dry latrines - Traditional latrine,0.0,National Baseline Household Survey 2009 - NBHS09
+South Sudan,SS,SSD,728,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Baseline Household Survey 2009 - NBHS09
+South Sudan,SS,SSD,728,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Baseline Household Survey 2009 - NBHS09
+South Sudan,SS,SSD,728,Rural,11,Dry latrines - Bucket latrine,0.0,National Baseline Household Survey 2009 - NBHS09
+South Sudan,SS,SSD,728,Rural,12,Dry latrines - Other,0.0,National Baseline Household Survey 2009 - NBHS09
+South Sudan,SS,SSD,728,Rural,13,Composting toilets,0.0,National Baseline Household Survey 2009 - NBHS09
+South Sudan,SS,SSD,728,Rural,14,Other improved,0.0,National Baseline Household Survey 2009 - NBHS09
+South Sudan,SS,SSD,728,Rural,15,"No facility, bush, field",0.86,National Baseline Household Survey 2009 - NBHS09
+South Sudan,SS,SSD,728,Rural,16,Other unimproved,0.0,National Baseline Household Survey 2009 - NBHS09
+South Sudan,SS,SSD,728,Rural,17,DK/missing information,0.0,National Baseline Household Survey 2009 - NBHS09
+South Sudan,SS,SSD,728,National,1,Flush and pour flush - to piped sewer system,0.0,National Baseline Household Survey 2009 - NBHS09
+South Sudan,SS,SSD,728,National,2,Flush and pour flush - to septic tank,0.0,National Baseline Household Survey 2009 - NBHS09
+South Sudan,SS,SSD,728,National,3,Flush and pour flush - to pit,0.0,National Baseline Household Survey 2009 - NBHS09
+South Sudan,SS,SSD,728,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Baseline Household Survey 2009 - NBHS09
+South Sudan,SS,SSD,728,National,5,Flush and pour flush - to elsewhere,0.0,National Baseline Household Survey 2009 - NBHS09
+South Sudan,SS,SSD,728,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,National Baseline Household Survey 2009 - NBHS09
+South Sudan,SS,SSD,728,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Baseline Household Survey 2009 - NBHS09
+South Sudan,SS,SSD,728,National,8,Dry latrines - Traditional latrine,0.0,National Baseline Household Survey 2009 - NBHS09
+South Sudan,SS,SSD,728,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Baseline Household Survey 2009 - NBHS09
+South Sudan,SS,SSD,728,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Baseline Household Survey 2009 - NBHS09
+South Sudan,SS,SSD,728,National,11,Dry latrines - Bucket latrine,0.0,National Baseline Household Survey 2009 - NBHS09
+South Sudan,SS,SSD,728,National,12,Dry latrines - Other,0.0,National Baseline Household Survey 2009 - NBHS09
+South Sudan,SS,SSD,728,National,13,Composting toilets,0.0,National Baseline Household Survey 2009 - NBHS09
+South Sudan,SS,SSD,728,National,14,Other improved,0.0,National Baseline Household Survey 2009 - NBHS09
+South Sudan,SS,SSD,728,National,15,"No facility, bush, field",0.8,National Baseline Household Survey 2009 - NBHS09
+South Sudan,SS,SSD,728,National,16,Other unimproved,0.0,National Baseline Household Survey 2009 - NBHS09
+South Sudan,SS,SSD,728,National,17,DK/missing information,0.0,National Baseline Household Survey 2009 - NBHS09
+South Sudan,SS,SSD,728,Urban,1,Flush and pour flush - to piped sewer system,0.001,Multiple Indicator Cluster Survey - MICS10
+South Sudan,SS,SSD,728,Urban,2,Flush and pour flush - to septic tank,0.008,Multiple Indicator Cluster Survey - MICS10
+South Sudan,SS,SSD,728,Urban,3,Flush and pour flush - to pit,0.05,Multiple Indicator Cluster Survey - MICS10
+South Sudan,SS,SSD,728,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.011,Multiple Indicator Cluster Survey - MICS10
+South Sudan,SS,SSD,728,Urban,5,Flush and pour flush - to elsewhere,0.053,Multiple Indicator Cluster Survey - MICS10
+South Sudan,SS,SSD,728,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.052,Multiple Indicator Cluster Survey - MICS10
+South Sudan,SS,SSD,728,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.167,Multiple Indicator Cluster Survey - MICS10
+South Sudan,SS,SSD,728,Urban,8,Dry latrines - Traditional latrine,0.0,Multiple Indicator Cluster Survey - MICS10
+South Sudan,SS,SSD,728,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.178,Multiple Indicator Cluster Survey - MICS10
+South Sudan,SS,SSD,728,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.003,Multiple Indicator Cluster Survey - MICS10
+South Sudan,SS,SSD,728,Urban,11,Dry latrines - Bucket latrine,0.001,Multiple Indicator Cluster Survey - MICS10
+South Sudan,SS,SSD,728,Urban,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS10
+South Sudan,SS,SSD,728,Urban,13,Composting toilets,0.005,Multiple Indicator Cluster Survey - MICS10
+South Sudan,SS,SSD,728,Urban,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS10
+South Sudan,SS,SSD,728,Urban,15,"No facility, bush, field",0.457,Multiple Indicator Cluster Survey - MICS10
+South Sudan,SS,SSD,728,Urban,16,Other unimproved,0.014,Multiple Indicator Cluster Survey - MICS10
+South Sudan,SS,SSD,728,Urban,17,DK/missing information,0.001,Multiple Indicator Cluster Survey - MICS10
+South Sudan,SS,SSD,728,Rural,1,Flush and pour flush - to piped sewer system,0.001,Multiple Indicator Cluster Survey - MICS10
+South Sudan,SS,SSD,728,Rural,2,Flush and pour flush - to septic tank,0.0,Multiple Indicator Cluster Survey - MICS10
+South Sudan,SS,SSD,728,Rural,3,Flush and pour flush - to pit,0.016,Multiple Indicator Cluster Survey - MICS10
+South Sudan,SS,SSD,728,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.012,Multiple Indicator Cluster Survey - MICS10
+South Sudan,SS,SSD,728,Rural,5,Flush and pour flush - to elsewhere,0.077,Multiple Indicator Cluster Survey - MICS10
+South Sudan,SS,SSD,728,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.011,Multiple Indicator Cluster Survey - MICS10
+South Sudan,SS,SSD,728,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.048,Multiple Indicator Cluster Survey - MICS10
+South Sudan,SS,SSD,728,Rural,8,Dry latrines - Traditional latrine,0.0,Multiple Indicator Cluster Survey - MICS10
+South Sudan,SS,SSD,728,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.084,Multiple Indicator Cluster Survey - MICS10
+South Sudan,SS,SSD,728,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.001,Multiple Indicator Cluster Survey - MICS10
+South Sudan,SS,SSD,728,Rural,11,Dry latrines - Bucket latrine,0.001,Multiple Indicator Cluster Survey - MICS10
+South Sudan,SS,SSD,728,Rural,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS10
+South Sudan,SS,SSD,728,Rural,13,Composting toilets,0.003,Multiple Indicator Cluster Survey - MICS10
+South Sudan,SS,SSD,728,Rural,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS10
+South Sudan,SS,SSD,728,Rural,15,"No facility, bush, field",0.702,Multiple Indicator Cluster Survey - MICS10
+South Sudan,SS,SSD,728,Rural,16,Other unimproved,0.042,Multiple Indicator Cluster Survey - MICS10
+South Sudan,SS,SSD,728,Rural,17,DK/missing information,0.002,Multiple Indicator Cluster Survey - MICS10
+South Sudan,SS,SSD,728,National,1,Flush and pour flush - to piped sewer system,0.0,Multiple Indicator Cluster Survey - MICS10
+South Sudan,SS,SSD,728,National,2,Flush and pour flush - to septic tank,0.0,Multiple Indicator Cluster Survey - MICS10
+South Sudan,SS,SSD,728,National,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS10
+South Sudan,SS,SSD,728,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS10
+South Sudan,SS,SSD,728,National,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS10
+South Sudan,SS,SSD,728,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Multiple Indicator Cluster Survey - MICS10
+South Sudan,SS,SSD,728,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Multiple Indicator Cluster Survey - MICS10
+South Sudan,SS,SSD,728,National,8,Dry latrines - Traditional latrine,0.0,Multiple Indicator Cluster Survey - MICS10
+South Sudan,SS,SSD,728,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Multiple Indicator Cluster Survey - MICS10
+South Sudan,SS,SSD,728,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS10
+South Sudan,SS,SSD,728,National,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS10
+South Sudan,SS,SSD,728,National,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS10
+South Sudan,SS,SSD,728,National,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS10
+South Sudan,SS,SSD,728,National,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS10
+South Sudan,SS,SSD,728,National,15,"No facility, bush, field",0.0,Multiple Indicator Cluster Survey - MICS10
+South Sudan,SS,SSD,728,National,16,Other unimproved,0.0,Multiple Indicator Cluster Survey - MICS10
+South Sudan,SS,SSD,728,National,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS10
+South Sudan,SS,SSD,728,Urban,1,Flush and pour flush - to piped sewer system,0.0,"South Sudan Malaria Indicator Survey, 2013 - MIS13"
+South Sudan,SS,SSD,728,Urban,2,Flush and pour flush - to septic tank,0.0,"South Sudan Malaria Indicator Survey, 2013 - MIS13"
+South Sudan,SS,SSD,728,Urban,3,Flush and pour flush - to pit,0.0,"South Sudan Malaria Indicator Survey, 2013 - MIS13"
+South Sudan,SS,SSD,728,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"South Sudan Malaria Indicator Survey, 2013 - MIS13"
+South Sudan,SS,SSD,728,Urban,5,Flush and pour flush - to elsewhere,0.0,"South Sudan Malaria Indicator Survey, 2013 - MIS13"
+South Sudan,SS,SSD,728,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"South Sudan Malaria Indicator Survey, 2013 - MIS13"
+South Sudan,SS,SSD,728,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"South Sudan Malaria Indicator Survey, 2013 - MIS13"
+South Sudan,SS,SSD,728,Urban,8,Dry latrines - Traditional latrine,0.564,"South Sudan Malaria Indicator Survey, 2013 - MIS13"
+South Sudan,SS,SSD,728,Urban,8,Dry latrines - Traditional latrine,0.36,"South Sudan Malaria Indicator Survey, 2013 - MIS13"
+South Sudan,SS,SSD,728,Urban,8,Dry latrines - Traditional latrine,0.204,"South Sudan Malaria Indicator Survey, 2013 - MIS13"
+South Sudan,SS,SSD,728,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,"South Sudan Malaria Indicator Survey, 2013 - MIS13"
+South Sudan,SS,SSD,728,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"South Sudan Malaria Indicator Survey, 2013 - MIS13"
+South Sudan,SS,SSD,728,Urban,11,Dry latrines - Bucket latrine,0.0,"South Sudan Malaria Indicator Survey, 2013 - MIS13"
+South Sudan,SS,SSD,728,Urban,12,Dry latrines - Other,0.0,"South Sudan Malaria Indicator Survey, 2013 - MIS13"
+South Sudan,SS,SSD,728,Urban,13,Composting toilets,0.032,"South Sudan Malaria Indicator Survey, 2013 - MIS13"
+South Sudan,SS,SSD,728,Urban,14,Other improved,0.0,"South Sudan Malaria Indicator Survey, 2013 - MIS13"
+South Sudan,SS,SSD,728,Urban,15,"No facility, bush, field",0.318,"South Sudan Malaria Indicator Survey, 2013 - MIS13"
+South Sudan,SS,SSD,728,Urban,16,Other unimproved,0.002,"South Sudan Malaria Indicator Survey, 2013 - MIS13"
+South Sudan,SS,SSD,728,Urban,17,DK/missing information,0.0,"South Sudan Malaria Indicator Survey, 2013 - MIS13"
+South Sudan,SS,SSD,728,Rural,1,Flush and pour flush - to piped sewer system,0.0,"South Sudan Malaria Indicator Survey, 2013 - MIS13"
+South Sudan,SS,SSD,728,Rural,2,Flush and pour flush - to septic tank,0.0,"South Sudan Malaria Indicator Survey, 2013 - MIS13"
+South Sudan,SS,SSD,728,Rural,3,Flush and pour flush - to pit,0.0,"South Sudan Malaria Indicator Survey, 2013 - MIS13"
+South Sudan,SS,SSD,728,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"South Sudan Malaria Indicator Survey, 2013 - MIS13"
+South Sudan,SS,SSD,728,Rural,5,Flush and pour flush - to elsewhere,0.0,"South Sudan Malaria Indicator Survey, 2013 - MIS13"
+South Sudan,SS,SSD,728,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"South Sudan Malaria Indicator Survey, 2013 - MIS13"
+South Sudan,SS,SSD,728,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"South Sudan Malaria Indicator Survey, 2013 - MIS13"
+South Sudan,SS,SSD,728,Rural,8,Dry latrines - Traditional latrine,0.205,"South Sudan Malaria Indicator Survey, 2013 - MIS13"
+South Sudan,SS,SSD,728,Rural,8,Dry latrines - Traditional latrine,0.093,"South Sudan Malaria Indicator Survey, 2013 - MIS13"
+South Sudan,SS,SSD,728,Rural,8,Dry latrines - Traditional latrine,0.112,"South Sudan Malaria Indicator Survey, 2013 - MIS13"
+South Sudan,SS,SSD,728,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,"South Sudan Malaria Indicator Survey, 2013 - MIS13"
+South Sudan,SS,SSD,728,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"South Sudan Malaria Indicator Survey, 2013 - MIS13"
+South Sudan,SS,SSD,728,Rural,11,Dry latrines - Bucket latrine,0.0,"South Sudan Malaria Indicator Survey, 2013 - MIS13"
+South Sudan,SS,SSD,728,Rural,12,Dry latrines - Other,0.0,"South Sudan Malaria Indicator Survey, 2013 - MIS13"
+South Sudan,SS,SSD,728,Rural,13,Composting toilets,0.021,"South Sudan Malaria Indicator Survey, 2013 - MIS13"
+South Sudan,SS,SSD,728,Rural,14,Other improved,0.0,"South Sudan Malaria Indicator Survey, 2013 - MIS13"
+South Sudan,SS,SSD,728,Rural,15,"No facility, bush, field",0.752,"South Sudan Malaria Indicator Survey, 2013 - MIS13"
+South Sudan,SS,SSD,728,Rural,16,Other unimproved,0.009,"South Sudan Malaria Indicator Survey, 2013 - MIS13"
+South Sudan,SS,SSD,728,Rural,17,DK/missing information,0.0,"South Sudan Malaria Indicator Survey, 2013 - MIS13"
+South Sudan,SS,SSD,728,National,1,Flush and pour flush - to piped sewer system,0.0,"South Sudan Malaria Indicator Survey, 2013 - MIS13"
+South Sudan,SS,SSD,728,National,2,Flush and pour flush - to septic tank,0.0,"South Sudan Malaria Indicator Survey, 2013 - MIS13"
+South Sudan,SS,SSD,728,National,3,Flush and pour flush - to pit,0.0,"South Sudan Malaria Indicator Survey, 2013 - MIS13"
+South Sudan,SS,SSD,728,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"South Sudan Malaria Indicator Survey, 2013 - MIS13"
+South Sudan,SS,SSD,728,National,5,Flush and pour flush - to elsewhere,0.0,"South Sudan Malaria Indicator Survey, 2013 - MIS13"
+South Sudan,SS,SSD,728,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"South Sudan Malaria Indicator Survey, 2013 - MIS13"
+South Sudan,SS,SSD,728,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"South Sudan Malaria Indicator Survey, 2013 - MIS13"
+South Sudan,SS,SSD,728,National,8,Dry latrines - Traditional latrine,0.269,"South Sudan Malaria Indicator Survey, 2013 - MIS13"
+South Sudan,SS,SSD,728,National,8,Dry latrines - Traditional latrine,0.141,"South Sudan Malaria Indicator Survey, 2013 - MIS13"
+South Sudan,SS,SSD,728,National,8,Dry latrines - Traditional latrine,0.128,"South Sudan Malaria Indicator Survey, 2013 - MIS13"
+South Sudan,SS,SSD,728,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,"South Sudan Malaria Indicator Survey, 2013 - MIS13"
+South Sudan,SS,SSD,728,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"South Sudan Malaria Indicator Survey, 2013 - MIS13"
+South Sudan,SS,SSD,728,National,11,Dry latrines - Bucket latrine,0.0,"South Sudan Malaria Indicator Survey, 2013 - MIS13"
+South Sudan,SS,SSD,728,National,12,Dry latrines - Other,0.0,"South Sudan Malaria Indicator Survey, 2013 - MIS13"
+South Sudan,SS,SSD,728,National,13,Composting toilets,0.014,"South Sudan Malaria Indicator Survey, 2013 - MIS13"
+South Sudan,SS,SSD,728,National,14,Other improved,0.0,"South Sudan Malaria Indicator Survey, 2013 - MIS13"
+South Sudan,SS,SSD,728,National,15,"No facility, bush, field",0.674,"South Sudan Malaria Indicator Survey, 2013 - MIS13"
+South Sudan,SS,SSD,728,National,16,Other unimproved,0.008,"South Sudan Malaria Indicator Survey, 2013 - MIS13"
+South Sudan,SS,SSD,728,National,17,DK/missing information,0.0,"South Sudan Malaria Indicator Survey, 2013 - MIS13"
+South Sudan,SS,SSD,728,Urban,1,Flush and pour flush - to piped sewer system,0.0,"South Sudan High Frequency Survey, 2015 - HFS15"
+South Sudan,SS,SSD,728,Urban,2,Flush and pour flush - to septic tank,0.0,"South Sudan High Frequency Survey, 2015 - HFS15"
+South Sudan,SS,SSD,728,Urban,3,Flush and pour flush - to pit,0.0,"South Sudan High Frequency Survey, 2015 - HFS15"
+South Sudan,SS,SSD,728,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"South Sudan High Frequency Survey, 2015 - HFS15"
+South Sudan,SS,SSD,728,Urban,5,Flush and pour flush - to elsewhere,0.0,"South Sudan High Frequency Survey, 2015 - HFS15"
+South Sudan,SS,SSD,728,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"South Sudan High Frequency Survey, 2015 - HFS15"
+South Sudan,SS,SSD,728,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"South Sudan High Frequency Survey, 2015 - HFS15"
+South Sudan,SS,SSD,728,Urban,8,Dry latrines - Traditional latrine,0.0,"South Sudan High Frequency Survey, 2015 - HFS15"
+South Sudan,SS,SSD,728,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,"South Sudan High Frequency Survey, 2015 - HFS15"
+South Sudan,SS,SSD,728,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"South Sudan High Frequency Survey, 2015 - HFS15"
+South Sudan,SS,SSD,728,Urban,11,Dry latrines - Bucket latrine,0.003,"South Sudan High Frequency Survey, 2015 - HFS15"
+South Sudan,SS,SSD,728,Urban,8,Dry latrines - Traditional latrine,0.481,"South Sudan High Frequency Survey, 2015 - HFS15"
+South Sudan,SS,SSD,728,Urban,8,Dry latrines - Traditional latrine,0.321,"South Sudan High Frequency Survey, 2015 - HFS15"
+South Sudan,SS,SSD,728,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,"South Sudan High Frequency Survey, 2015 - HFS15"
+South Sudan,SS,SSD,728,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"South Sudan High Frequency Survey, 2015 - HFS15"
+South Sudan,SS,SSD,728,Urban,11,Dry latrines - Bucket latrine,0.0,"South Sudan High Frequency Survey, 2015 - HFS15"
+South Sudan,SS,SSD,728,Urban,12,Dry latrines - Other,0.0,"South Sudan High Frequency Survey, 2015 - HFS15"
+South Sudan,SS,SSD,728,Urban,13,Composting toilets,0.0,"South Sudan High Frequency Survey, 2015 - HFS15"
+South Sudan,SS,SSD,728,Urban,14,Other improved,0.0,"South Sudan High Frequency Survey, 2015 - HFS15"
+South Sudan,SS,SSD,728,Urban,15,"No facility, bush, field",0.175,"South Sudan High Frequency Survey, 2015 - HFS15"
+South Sudan,SS,SSD,728,Urban,16,Other unimproved,0.0,"South Sudan High Frequency Survey, 2015 - HFS15"
+South Sudan,SS,SSD,728,Urban,17,DK/missing information,0.0,"South Sudan High Frequency Survey, 2015 - HFS15"
+South Sudan,SS,SSD,728,Rural,1,Flush and pour flush - to piped sewer system,0.0,"South Sudan High Frequency Survey, 2015 - HFS15"
+South Sudan,SS,SSD,728,Rural,2,Flush and pour flush - to septic tank,0.0,"South Sudan High Frequency Survey, 2015 - HFS15"
+South Sudan,SS,SSD,728,Rural,3,Flush and pour flush - to pit,0.0,"South Sudan High Frequency Survey, 2015 - HFS15"
+South Sudan,SS,SSD,728,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"South Sudan High Frequency Survey, 2015 - HFS15"
+South Sudan,SS,SSD,728,Rural,5,Flush and pour flush - to elsewhere,0.0,"South Sudan High Frequency Survey, 2015 - HFS15"
+South Sudan,SS,SSD,728,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"South Sudan High Frequency Survey, 2015 - HFS15"
+South Sudan,SS,SSD,728,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"South Sudan High Frequency Survey, 2015 - HFS15"
+South Sudan,SS,SSD,728,Rural,8,Dry latrines - Traditional latrine,0.0,"South Sudan High Frequency Survey, 2015 - HFS15"
+South Sudan,SS,SSD,728,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,"South Sudan High Frequency Survey, 2015 - HFS15"
+South Sudan,SS,SSD,728,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"South Sudan High Frequency Survey, 2015 - HFS15"
+South Sudan,SS,SSD,728,Rural,11,Dry latrines - Bucket latrine,0.0,"South Sudan High Frequency Survey, 2015 - HFS15"
+South Sudan,SS,SSD,728,Rural,8,Dry latrines - Traditional latrine,0.18,"South Sudan High Frequency Survey, 2015 - HFS15"
+South Sudan,SS,SSD,728,Rural,8,Dry latrines - Traditional latrine,0.112,"South Sudan High Frequency Survey, 2015 - HFS15"
+South Sudan,SS,SSD,728,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,"South Sudan High Frequency Survey, 2015 - HFS15"
+South Sudan,SS,SSD,728,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"South Sudan High Frequency Survey, 2015 - HFS15"
+South Sudan,SS,SSD,728,Rural,11,Dry latrines - Bucket latrine,0.0,"South Sudan High Frequency Survey, 2015 - HFS15"
+South Sudan,SS,SSD,728,Rural,12,Dry latrines - Other,0.0,"South Sudan High Frequency Survey, 2015 - HFS15"
+South Sudan,SS,SSD,728,Rural,13,Composting toilets,0.0,"South Sudan High Frequency Survey, 2015 - HFS15"
+South Sudan,SS,SSD,728,Rural,14,Other improved,0.0,"South Sudan High Frequency Survey, 2015 - HFS15"
+South Sudan,SS,SSD,728,Rural,15,"No facility, bush, field",0.707,"South Sudan High Frequency Survey, 2015 - HFS15"
+South Sudan,SS,SSD,728,Rural,16,Other unimproved,0.001,"South Sudan High Frequency Survey, 2015 - HFS15"
+South Sudan,SS,SSD,728,Rural,17,DK/missing information,0.0,"South Sudan High Frequency Survey, 2015 - HFS15"
+South Sudan,SS,SSD,728,National,1,Flush and pour flush - to piped sewer system,0.0,"South Sudan High Frequency Survey, 2015 - HFS15"
+South Sudan,SS,SSD,728,National,2,Flush and pour flush - to septic tank,0.0,"South Sudan High Frequency Survey, 2015 - HFS15"
+South Sudan,SS,SSD,728,National,3,Flush and pour flush - to pit,0.0,"South Sudan High Frequency Survey, 2015 - HFS15"
+South Sudan,SS,SSD,728,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"South Sudan High Frequency Survey, 2015 - HFS15"
+South Sudan,SS,SSD,728,National,5,Flush and pour flush - to elsewhere,0.0,"South Sudan High Frequency Survey, 2015 - HFS15"
+South Sudan,SS,SSD,728,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"South Sudan High Frequency Survey, 2015 - HFS15"
+South Sudan,SS,SSD,728,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"South Sudan High Frequency Survey, 2015 - HFS15"
+South Sudan,SS,SSD,728,National,8,Dry latrines - Traditional latrine,0.0,"South Sudan High Frequency Survey, 2015 - HFS15"
+South Sudan,SS,SSD,728,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,"South Sudan High Frequency Survey, 2015 - HFS15"
+South Sudan,SS,SSD,728,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"South Sudan High Frequency Survey, 2015 - HFS15"
+South Sudan,SS,SSD,728,National,11,Dry latrines - Bucket latrine,0.0,"South Sudan High Frequency Survey, 2015 - HFS15"
+South Sudan,SS,SSD,728,National,8,Dry latrines - Traditional latrine,0.219,"South Sudan High Frequency Survey, 2015 - HFS15"
+South Sudan,SS,SSD,728,National,8,Dry latrines - Traditional latrine,0.139,"South Sudan High Frequency Survey, 2015 - HFS15"
+South Sudan,SS,SSD,728,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,"South Sudan High Frequency Survey, 2015 - HFS15"
+South Sudan,SS,SSD,728,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"South Sudan High Frequency Survey, 2015 - HFS15"
+South Sudan,SS,SSD,728,National,11,Dry latrines - Bucket latrine,0.0,"South Sudan High Frequency Survey, 2015 - HFS15"
+South Sudan,SS,SSD,728,National,12,Dry latrines - Other,0.0,"South Sudan High Frequency Survey, 2015 - HFS15"
+South Sudan,SS,SSD,728,National,13,Composting toilets,0.0,"South Sudan High Frequency Survey, 2015 - HFS15"
+South Sudan,SS,SSD,728,National,14,Other improved,0.0,"South Sudan High Frequency Survey, 2015 - HFS15"
+South Sudan,SS,SSD,728,National,15,"No facility, bush, field",0.639,"South Sudan High Frequency Survey, 2015 - HFS15"
+South Sudan,SS,SSD,728,National,16,Other unimproved,0.001,"South Sudan High Frequency Survey, 2015 - HFS15"
+South Sudan,SS,SSD,728,National,17,DK/missing information,0.0,"South Sudan High Frequency Survey, 2015 - HFS15"
+South Sudan,SS,SSD,728,Urban,1,Flush and pour flush - to piped sewer system,0.0,"South Sudan High Frequency Survey, 2017 (wave 3) - HFS17"
+South Sudan,SS,SSD,728,Urban,2,Flush and pour flush - to septic tank,0.0,"South Sudan High Frequency Survey, 2017 (wave 3) - HFS17"
+South Sudan,SS,SSD,728,Urban,3,Flush and pour flush - to pit,0.0,"South Sudan High Frequency Survey, 2017 (wave 3) - HFS17"
+South Sudan,SS,SSD,728,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"South Sudan High Frequency Survey, 2017 (wave 3) - HFS17"
+South Sudan,SS,SSD,728,Urban,5,Flush and pour flush - to elsewhere,0.0,"South Sudan High Frequency Survey, 2017 (wave 3) - HFS17"
+South Sudan,SS,SSD,728,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"South Sudan High Frequency Survey, 2017 (wave 3) - HFS17"
+South Sudan,SS,SSD,728,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"South Sudan High Frequency Survey, 2017 (wave 3) - HFS17"
+South Sudan,SS,SSD,728,Urban,8,Dry latrines - Traditional latrine,0.0,"South Sudan High Frequency Survey, 2017 (wave 3) - HFS17"
+South Sudan,SS,SSD,728,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,"South Sudan High Frequency Survey, 2017 (wave 3) - HFS17"
+South Sudan,SS,SSD,728,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"South Sudan High Frequency Survey, 2017 (wave 3) - HFS17"
+South Sudan,SS,SSD,728,Urban,11,Dry latrines - Bucket latrine,0.003,"South Sudan High Frequency Survey, 2017 (wave 3) - HFS17"
+South Sudan,SS,SSD,728,Urban,8,Dry latrines - Traditional latrine,0.517,"South Sudan High Frequency Survey, 2017 (wave 3) - HFS17"
+South Sudan,SS,SSD,728,Urban,8,Dry latrines - Traditional latrine,0.327,"South Sudan High Frequency Survey, 2017 (wave 3) - HFS17"
+South Sudan,SS,SSD,728,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,"South Sudan High Frequency Survey, 2017 (wave 3) - HFS17"
+South Sudan,SS,SSD,728,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"South Sudan High Frequency Survey, 2017 (wave 3) - HFS17"
+South Sudan,SS,SSD,728,Urban,11,Dry latrines - Bucket latrine,0.0,"South Sudan High Frequency Survey, 2017 (wave 3) - HFS17"
+South Sudan,SS,SSD,728,Urban,12,Dry latrines - Other,0.0,"South Sudan High Frequency Survey, 2017 (wave 3) - HFS17"
+South Sudan,SS,SSD,728,Urban,13,Composting toilets,0.0,"South Sudan High Frequency Survey, 2017 (wave 3) - HFS17"
+South Sudan,SS,SSD,728,Urban,14,Other improved,0.0,"South Sudan High Frequency Survey, 2017 (wave 3) - HFS17"
+South Sudan,SS,SSD,728,Urban,15,"No facility, bush, field",0.139,"South Sudan High Frequency Survey, 2017 (wave 3) - HFS17"
+South Sudan,SS,SSD,728,Urban,16,Other unimproved,0.0,"South Sudan High Frequency Survey, 2017 (wave 3) - HFS17"
+South Sudan,SS,SSD,728,Urban,17,DK/missing information,0.0,"South Sudan High Frequency Survey, 2017 (wave 3) - HFS17"
+South Sudan,SS,SSD,728,Rural,1,Flush and pour flush - to piped sewer system,0.0,"South Sudan High Frequency Survey, 2017 (wave 3) - HFS17"
+South Sudan,SS,SSD,728,Rural,2,Flush and pour flush - to septic tank,0.0,"South Sudan High Frequency Survey, 2017 (wave 3) - HFS17"
+South Sudan,SS,SSD,728,Rural,3,Flush and pour flush - to pit,0.0,"South Sudan High Frequency Survey, 2017 (wave 3) - HFS17"
+South Sudan,SS,SSD,728,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"South Sudan High Frequency Survey, 2017 (wave 3) - HFS17"
+South Sudan,SS,SSD,728,Rural,5,Flush and pour flush - to elsewhere,0.0,"South Sudan High Frequency Survey, 2017 (wave 3) - HFS17"
+South Sudan,SS,SSD,728,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"South Sudan High Frequency Survey, 2017 (wave 3) - HFS17"
+South Sudan,SS,SSD,728,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"South Sudan High Frequency Survey, 2017 (wave 3) - HFS17"
+South Sudan,SS,SSD,728,Rural,8,Dry latrines - Traditional latrine,0.0,"South Sudan High Frequency Survey, 2017 (wave 3) - HFS17"
+South Sudan,SS,SSD,728,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,"South Sudan High Frequency Survey, 2017 (wave 3) - HFS17"
+South Sudan,SS,SSD,728,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"South Sudan High Frequency Survey, 2017 (wave 3) - HFS17"
+South Sudan,SS,SSD,728,Rural,11,Dry latrines - Bucket latrine,0.0,"South Sudan High Frequency Survey, 2017 (wave 3) - HFS17"
+South Sudan,SS,SSD,728,Rural,8,Dry latrines - Traditional latrine,0.05,"South Sudan High Frequency Survey, 2017 (wave 3) - HFS17"
+South Sudan,SS,SSD,728,Rural,8,Dry latrines - Traditional latrine,0.141,"South Sudan High Frequency Survey, 2017 (wave 3) - HFS17"
+South Sudan,SS,SSD,728,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,"South Sudan High Frequency Survey, 2017 (wave 3) - HFS17"
+South Sudan,SS,SSD,728,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"South Sudan High Frequency Survey, 2017 (wave 3) - HFS17"
+South Sudan,SS,SSD,728,Rural,11,Dry latrines - Bucket latrine,0.0,"South Sudan High Frequency Survey, 2017 (wave 3) - HFS17"
+South Sudan,SS,SSD,728,Rural,12,Dry latrines - Other,0.0,"South Sudan High Frequency Survey, 2017 (wave 3) - HFS17"
+South Sudan,SS,SSD,728,Rural,13,Composting toilets,0.0,"South Sudan High Frequency Survey, 2017 (wave 3) - HFS17"
+South Sudan,SS,SSD,728,Rural,14,Other improved,0.0,"South Sudan High Frequency Survey, 2017 (wave 3) - HFS17"
+South Sudan,SS,SSD,728,Rural,15,"No facility, bush, field",0.809,"South Sudan High Frequency Survey, 2017 (wave 3) - HFS17"
+South Sudan,SS,SSD,728,Rural,16,Other unimproved,0.001,"South Sudan High Frequency Survey, 2017 (wave 3) - HFS17"
+South Sudan,SS,SSD,728,Rural,17,DK/missing information,0.0,"South Sudan High Frequency Survey, 2017 (wave 3) - HFS17"
+South Sudan,SS,SSD,728,National,1,Flush and pour flush - to piped sewer system,0.0,"South Sudan High Frequency Survey, 2017 (wave 3) - HFS17"
+South Sudan,SS,SSD,728,National,2,Flush and pour flush - to septic tank,0.0,"South Sudan High Frequency Survey, 2017 (wave 3) - HFS17"
+South Sudan,SS,SSD,728,National,3,Flush and pour flush - to pit,0.0,"South Sudan High Frequency Survey, 2017 (wave 3) - HFS17"
+South Sudan,SS,SSD,728,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"South Sudan High Frequency Survey, 2017 (wave 3) - HFS17"
+South Sudan,SS,SSD,728,National,5,Flush and pour flush - to elsewhere,0.0,"South Sudan High Frequency Survey, 2017 (wave 3) - HFS17"
+South Sudan,SS,SSD,728,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"South Sudan High Frequency Survey, 2017 (wave 3) - HFS17"
+South Sudan,SS,SSD,728,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"South Sudan High Frequency Survey, 2017 (wave 3) - HFS17"
+South Sudan,SS,SSD,728,National,8,Dry latrines - Traditional latrine,0.0,"South Sudan High Frequency Survey, 2017 (wave 3) - HFS17"
+South Sudan,SS,SSD,728,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,"South Sudan High Frequency Survey, 2017 (wave 3) - HFS17"
+South Sudan,SS,SSD,728,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"South Sudan High Frequency Survey, 2017 (wave 3) - HFS17"
+South Sudan,SS,SSD,728,National,11,Dry latrines - Bucket latrine,0.0,"South Sudan High Frequency Survey, 2017 (wave 3) - HFS17"
+South Sudan,SS,SSD,728,National,8,Dry latrines - Traditional latrine,0.104,"South Sudan High Frequency Survey, 2017 (wave 3) - HFS17"
+South Sudan,SS,SSD,728,National,8,Dry latrines - Traditional latrine,0.163,"South Sudan High Frequency Survey, 2017 (wave 3) - HFS17"
+South Sudan,SS,SSD,728,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,"South Sudan High Frequency Survey, 2017 (wave 3) - HFS17"
+South Sudan,SS,SSD,728,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"South Sudan High Frequency Survey, 2017 (wave 3) - HFS17"
+South Sudan,SS,SSD,728,National,11,Dry latrines - Bucket latrine,0.0,"South Sudan High Frequency Survey, 2017 (wave 3) - HFS17"
+South Sudan,SS,SSD,728,National,12,Dry latrines - Other,0.0,"South Sudan High Frequency Survey, 2017 (wave 3) - HFS17"
+South Sudan,SS,SSD,728,National,13,Composting toilets,0.0,"South Sudan High Frequency Survey, 2017 (wave 3) - HFS17"
+South Sudan,SS,SSD,728,National,14,Other improved,0.0,"South Sudan High Frequency Survey, 2017 (wave 3) - HFS17"
+South Sudan,SS,SSD,728,National,15,"No facility, bush, field",0.731,"South Sudan High Frequency Survey, 2017 (wave 3) - HFS17"
+South Sudan,SS,SSD,728,National,16,Other unimproved,0.001,"South Sudan High Frequency Survey, 2017 (wave 3) - HFS17"
+South Sudan,SS,SSD,728,National,17,DK/missing information,0.0,"South Sudan High Frequency Survey, 2017 (wave 3) - HFS17"
+South Sudan,SS,SSD,728,Urban,1,Flush and pour flush - to piped sewer system,0.004,"South Sudan High Frequency Survey Urban, 2017 (wave 4) - HFSU17"
+South Sudan,SS,SSD,728,Urban,2,Flush and pour flush - to septic tank,0.209,"South Sudan High Frequency Survey Urban, 2017 (wave 4) - HFSU17"
+South Sudan,SS,SSD,728,Urban,3,Flush and pour flush - to pit,0.0,"South Sudan High Frequency Survey Urban, 2017 (wave 4) - HFSU17"
+South Sudan,SS,SSD,728,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"South Sudan High Frequency Survey Urban, 2017 (wave 4) - HFSU17"
+South Sudan,SS,SSD,728,Urban,5,Flush and pour flush - to elsewhere,0.011,"South Sudan High Frequency Survey Urban, 2017 (wave 4) - HFSU17"
+South Sudan,SS,SSD,728,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.025,"South Sudan High Frequency Survey Urban, 2017 (wave 4) - HFSU17"
+South Sudan,SS,SSD,728,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.292,"South Sudan High Frequency Survey Urban, 2017 (wave 4) - HFSU17"
+South Sudan,SS,SSD,728,Urban,8,Dry latrines - Traditional latrine,0.0,"South Sudan High Frequency Survey Urban, 2017 (wave 4) - HFSU17"
+South Sudan,SS,SSD,728,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.213,"South Sudan High Frequency Survey Urban, 2017 (wave 4) - HFSU17"
+South Sudan,SS,SSD,728,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.009,"South Sudan High Frequency Survey Urban, 2017 (wave 4) - HFSU17"
+South Sudan,SS,SSD,728,Urban,11,Dry latrines - Bucket latrine,0.002,"South Sudan High Frequency Survey Urban, 2017 (wave 4) - HFSU17"
+South Sudan,SS,SSD,728,Urban,12,Dry latrines - Other,0.0,"South Sudan High Frequency Survey Urban, 2017 (wave 4) - HFSU17"
+South Sudan,SS,SSD,728,Urban,13,Composting toilets,0.008,"South Sudan High Frequency Survey Urban, 2017 (wave 4) - HFSU17"
+South Sudan,SS,SSD,728,Urban,14,Other improved,0.0,"South Sudan High Frequency Survey Urban, 2017 (wave 4) - HFSU17"
+South Sudan,SS,SSD,728,Urban,15,"No facility, bush, field",0.147,"South Sudan High Frequency Survey Urban, 2017 (wave 4) - HFSU17"
+South Sudan,SS,SSD,728,Urban,16,Other unimproved,0.076,"South Sudan High Frequency Survey Urban, 2017 (wave 4) - HFSU17"
+South Sudan,SS,SSD,728,Urban,17,DK/missing information,0.003,"South Sudan High Frequency Survey Urban, 2017 (wave 4) - HFSU17"
+South Sudan,SS,SSD,728,Rural,1,Flush and pour flush - to piped sewer system,0.0,"South Sudan High Frequency Survey Urban, 2017 (wave 4) - HFSU17"
+South Sudan,SS,SSD,728,Rural,2,Flush and pour flush - to septic tank,0.0,"South Sudan High Frequency Survey Urban, 2017 (wave 4) - HFSU17"
+South Sudan,SS,SSD,728,Rural,3,Flush and pour flush - to pit,0.0,"South Sudan High Frequency Survey Urban, 2017 (wave 4) - HFSU17"
+South Sudan,SS,SSD,728,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"South Sudan High Frequency Survey Urban, 2017 (wave 4) - HFSU17"
+South Sudan,SS,SSD,728,Rural,5,Flush and pour flush - to elsewhere,0.0,"South Sudan High Frequency Survey Urban, 2017 (wave 4) - HFSU17"
+South Sudan,SS,SSD,728,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"South Sudan High Frequency Survey Urban, 2017 (wave 4) - HFSU17"
+South Sudan,SS,SSD,728,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"South Sudan High Frequency Survey Urban, 2017 (wave 4) - HFSU17"
+South Sudan,SS,SSD,728,Rural,8,Dry latrines - Traditional latrine,0.0,"South Sudan High Frequency Survey Urban, 2017 (wave 4) - HFSU17"
+South Sudan,SS,SSD,728,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,"South Sudan High Frequency Survey Urban, 2017 (wave 4) - HFSU17"
+South Sudan,SS,SSD,728,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"South Sudan High Frequency Survey Urban, 2017 (wave 4) - HFSU17"
+South Sudan,SS,SSD,728,Rural,11,Dry latrines - Bucket latrine,0.0,"South Sudan High Frequency Survey Urban, 2017 (wave 4) - HFSU17"
+South Sudan,SS,SSD,728,Rural,12,Dry latrines - Other,0.0,"South Sudan High Frequency Survey Urban, 2017 (wave 4) - HFSU17"
+South Sudan,SS,SSD,728,Rural,13,Composting toilets,0.0,"South Sudan High Frequency Survey Urban, 2017 (wave 4) - HFSU17"
+South Sudan,SS,SSD,728,Rural,14,Other improved,0.0,"South Sudan High Frequency Survey Urban, 2017 (wave 4) - HFSU17"
+South Sudan,SS,SSD,728,Rural,15,"No facility, bush, field",0.0,"South Sudan High Frequency Survey Urban, 2017 (wave 4) - HFSU17"
+South Sudan,SS,SSD,728,Rural,16,Other unimproved,0.0,"South Sudan High Frequency Survey Urban, 2017 (wave 4) - HFSU17"
+South Sudan,SS,SSD,728,Rural,17,DK/missing information,0.0,"South Sudan High Frequency Survey Urban, 2017 (wave 4) - HFSU17"
+South Sudan,SS,SSD,728,National,1,Flush and pour flush - to piped sewer system,0.0,"South Sudan High Frequency Survey Urban, 2017 (wave 4) - HFSU17"
+South Sudan,SS,SSD,728,National,2,Flush and pour flush - to septic tank,0.0,"South Sudan High Frequency Survey Urban, 2017 (wave 4) - HFSU17"
+South Sudan,SS,SSD,728,National,3,Flush and pour flush - to pit,0.0,"South Sudan High Frequency Survey Urban, 2017 (wave 4) - HFSU17"
+South Sudan,SS,SSD,728,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"South Sudan High Frequency Survey Urban, 2017 (wave 4) - HFSU17"
+South Sudan,SS,SSD,728,National,5,Flush and pour flush - to elsewhere,0.0,"South Sudan High Frequency Survey Urban, 2017 (wave 4) - HFSU17"
+South Sudan,SS,SSD,728,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"South Sudan High Frequency Survey Urban, 2017 (wave 4) - HFSU17"
+South Sudan,SS,SSD,728,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"South Sudan High Frequency Survey Urban, 2017 (wave 4) - HFSU17"
+South Sudan,SS,SSD,728,National,8,Dry latrines - Traditional latrine,0.0,"South Sudan High Frequency Survey Urban, 2017 (wave 4) - HFSU17"
+South Sudan,SS,SSD,728,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,"South Sudan High Frequency Survey Urban, 2017 (wave 4) - HFSU17"
+South Sudan,SS,SSD,728,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"South Sudan High Frequency Survey Urban, 2017 (wave 4) - HFSU17"
+South Sudan,SS,SSD,728,National,11,Dry latrines - Bucket latrine,0.0,"South Sudan High Frequency Survey Urban, 2017 (wave 4) - HFSU17"
+South Sudan,SS,SSD,728,National,12,Dry latrines - Other,0.0,"South Sudan High Frequency Survey Urban, 2017 (wave 4) - HFSU17"
+South Sudan,SS,SSD,728,National,13,Composting toilets,0.0,"South Sudan High Frequency Survey Urban, 2017 (wave 4) - HFSU17"
+South Sudan,SS,SSD,728,National,14,Other improved,0.0,"South Sudan High Frequency Survey Urban, 2017 (wave 4) - HFSU17"
+South Sudan,SS,SSD,728,National,15,"No facility, bush, field",0.0,"South Sudan High Frequency Survey Urban, 2017 (wave 4) - HFSU17"
+South Sudan,SS,SSD,728,National,16,Other unimproved,0.0,"South Sudan High Frequency Survey Urban, 2017 (wave 4) - HFSU17"
+South Sudan,SS,SSD,728,National,17,DK/missing information,0.0,"South Sudan High Frequency Survey Urban, 2017 (wave 4) - HFSU17"

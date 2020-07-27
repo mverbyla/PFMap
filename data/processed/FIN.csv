@@ -1,0 +1,817 @@
+country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+Finland,FI,FIN,246,Urban,1,Flush and pour flush - to piped sewer system,0.0,Euro Stat - ES01
+Finland,FI,FIN,246,Urban,2,Flush and pour flush - to septic tank,0.0,Euro Stat - ES01
+Finland,FI,FIN,246,Urban,3,Flush and pour flush - to pit,0.0,Euro Stat - ES01
+Finland,FI,FIN,246,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Euro Stat - ES01
+Finland,FI,FIN,246,Urban,5,Flush and pour flush - to elsewhere,0.0,Euro Stat - ES01
+Finland,FI,FIN,246,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Euro Stat - ES01
+Finland,FI,FIN,246,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Euro Stat - ES01
+Finland,FI,FIN,246,Urban,8,Dry latrines - Traditional latrine,0.0,Euro Stat - ES01
+Finland,FI,FIN,246,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Euro Stat - ES01
+Finland,FI,FIN,246,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Euro Stat - ES01
+Finland,FI,FIN,246,Urban,11,Dry latrines - Bucket latrine,0.0,Euro Stat - ES01
+Finland,FI,FIN,246,Urban,12,Dry latrines - Other,0.0,Euro Stat - ES01
+Finland,FI,FIN,246,Urban,13,Composting toilets,0.0,Euro Stat - ES01
+Finland,FI,FIN,246,Urban,14,Other improved,0.0,Euro Stat - ES01
+Finland,FI,FIN,246,Urban,15,"No facility, bush, field",0.0,Euro Stat - ES01
+Finland,FI,FIN,246,Urban,16,Other unimproved,0.0,Euro Stat - ES01
+Finland,FI,FIN,246,Urban,17,DK/missing information,0.0,Euro Stat - ES01
+Finland,FI,FIN,246,Rural,1,Flush and pour flush - to piped sewer system,0.0,Euro Stat - ES01
+Finland,FI,FIN,246,Rural,2,Flush and pour flush - to septic tank,0.0,Euro Stat - ES01
+Finland,FI,FIN,246,Rural,3,Flush and pour flush - to pit,0.0,Euro Stat - ES01
+Finland,FI,FIN,246,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Euro Stat - ES01
+Finland,FI,FIN,246,Rural,5,Flush and pour flush - to elsewhere,0.0,Euro Stat - ES01
+Finland,FI,FIN,246,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Euro Stat - ES01
+Finland,FI,FIN,246,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Euro Stat - ES01
+Finland,FI,FIN,246,Rural,8,Dry latrines - Traditional latrine,0.0,Euro Stat - ES01
+Finland,FI,FIN,246,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Euro Stat - ES01
+Finland,FI,FIN,246,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Euro Stat - ES01
+Finland,FI,FIN,246,Rural,11,Dry latrines - Bucket latrine,0.0,Euro Stat - ES01
+Finland,FI,FIN,246,Rural,12,Dry latrines - Other,0.0,Euro Stat - ES01
+Finland,FI,FIN,246,Rural,13,Composting toilets,0.0,Euro Stat - ES01
+Finland,FI,FIN,246,Rural,14,Other improved,0.0,Euro Stat - ES01
+Finland,FI,FIN,246,Rural,15,"No facility, bush, field",0.0,Euro Stat - ES01
+Finland,FI,FIN,246,Rural,16,Other unimproved,0.0,Euro Stat - ES01
+Finland,FI,FIN,246,Rural,17,DK/missing information,0.0,Euro Stat - ES01
+Finland,FI,FIN,246,National,1,Flush and pour flush - to piped sewer system,0.81,Euro Stat - ES01
+Finland,FI,FIN,246,National,2,Flush and pour flush - to septic tank,0.19,Euro Stat - ES01
+Finland,FI,FIN,246,National,3,Flush and pour flush - to pit,0.0,Euro Stat - ES01
+Finland,FI,FIN,246,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Euro Stat - ES01
+Finland,FI,FIN,246,National,5,Flush and pour flush - to elsewhere,0.0,Euro Stat - ES01
+Finland,FI,FIN,246,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Euro Stat - ES01
+Finland,FI,FIN,246,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Euro Stat - ES01
+Finland,FI,FIN,246,National,8,Dry latrines - Traditional latrine,0.0,Euro Stat - ES01
+Finland,FI,FIN,246,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Euro Stat - ES01
+Finland,FI,FIN,246,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Euro Stat - ES01
+Finland,FI,FIN,246,National,11,Dry latrines - Bucket latrine,0.0,Euro Stat - ES01
+Finland,FI,FIN,246,National,12,Dry latrines - Other,0.0,Euro Stat - ES01
+Finland,FI,FIN,246,National,13,Composting toilets,0.0,Euro Stat - ES01
+Finland,FI,FIN,246,National,14,Other improved,0.0,Euro Stat - ES01
+Finland,FI,FIN,246,National,15,"No facility, bush, field",0.0,Euro Stat - ES01
+Finland,FI,FIN,246,National,16,Other unimproved,0.0,Euro Stat - ES01
+Finland,FI,FIN,246,National,17,DK/missing information,0.0,Euro Stat - ES01
+Finland,FI,FIN,246,Urban,1,Flush and pour flush - to piped sewer system,0.0,Euro Stat - ES02
+Finland,FI,FIN,246,Urban,2,Flush and pour flush - to septic tank,0.0,Euro Stat - ES02
+Finland,FI,FIN,246,Urban,3,Flush and pour flush - to pit,0.0,Euro Stat - ES02
+Finland,FI,FIN,246,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Euro Stat - ES02
+Finland,FI,FIN,246,Urban,5,Flush and pour flush - to elsewhere,0.0,Euro Stat - ES02
+Finland,FI,FIN,246,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Euro Stat - ES02
+Finland,FI,FIN,246,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Euro Stat - ES02
+Finland,FI,FIN,246,Urban,8,Dry latrines - Traditional latrine,0.0,Euro Stat - ES02
+Finland,FI,FIN,246,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Euro Stat - ES02
+Finland,FI,FIN,246,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Euro Stat - ES02
+Finland,FI,FIN,246,Urban,11,Dry latrines - Bucket latrine,0.0,Euro Stat - ES02
+Finland,FI,FIN,246,Urban,12,Dry latrines - Other,0.0,Euro Stat - ES02
+Finland,FI,FIN,246,Urban,13,Composting toilets,0.0,Euro Stat - ES02
+Finland,FI,FIN,246,Urban,14,Other improved,0.0,Euro Stat - ES02
+Finland,FI,FIN,246,Urban,15,"No facility, bush, field",0.0,Euro Stat - ES02
+Finland,FI,FIN,246,Urban,16,Other unimproved,0.0,Euro Stat - ES02
+Finland,FI,FIN,246,Urban,17,DK/missing information,0.0,Euro Stat - ES02
+Finland,FI,FIN,246,Rural,1,Flush and pour flush - to piped sewer system,0.0,Euro Stat - ES02
+Finland,FI,FIN,246,Rural,2,Flush and pour flush - to septic tank,0.0,Euro Stat - ES02
+Finland,FI,FIN,246,Rural,3,Flush and pour flush - to pit,0.0,Euro Stat - ES02
+Finland,FI,FIN,246,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Euro Stat - ES02
+Finland,FI,FIN,246,Rural,5,Flush and pour flush - to elsewhere,0.0,Euro Stat - ES02
+Finland,FI,FIN,246,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Euro Stat - ES02
+Finland,FI,FIN,246,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Euro Stat - ES02
+Finland,FI,FIN,246,Rural,8,Dry latrines - Traditional latrine,0.0,Euro Stat - ES02
+Finland,FI,FIN,246,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Euro Stat - ES02
+Finland,FI,FIN,246,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Euro Stat - ES02
+Finland,FI,FIN,246,Rural,11,Dry latrines - Bucket latrine,0.0,Euro Stat - ES02
+Finland,FI,FIN,246,Rural,12,Dry latrines - Other,0.0,Euro Stat - ES02
+Finland,FI,FIN,246,Rural,13,Composting toilets,0.0,Euro Stat - ES02
+Finland,FI,FIN,246,Rural,14,Other improved,0.0,Euro Stat - ES02
+Finland,FI,FIN,246,Rural,15,"No facility, bush, field",0.0,Euro Stat - ES02
+Finland,FI,FIN,246,Rural,16,Other unimproved,0.0,Euro Stat - ES02
+Finland,FI,FIN,246,Rural,17,DK/missing information,0.0,Euro Stat - ES02
+Finland,FI,FIN,246,National,1,Flush and pour flush - to piped sewer system,0.81,Euro Stat - ES02
+Finland,FI,FIN,246,National,2,Flush and pour flush - to septic tank,0.19,Euro Stat - ES02
+Finland,FI,FIN,246,National,3,Flush and pour flush - to pit,0.0,Euro Stat - ES02
+Finland,FI,FIN,246,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Euro Stat - ES02
+Finland,FI,FIN,246,National,5,Flush and pour flush - to elsewhere,0.0,Euro Stat - ES02
+Finland,FI,FIN,246,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Euro Stat - ES02
+Finland,FI,FIN,246,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Euro Stat - ES02
+Finland,FI,FIN,246,National,8,Dry latrines - Traditional latrine,0.0,Euro Stat - ES02
+Finland,FI,FIN,246,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Euro Stat - ES02
+Finland,FI,FIN,246,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Euro Stat - ES02
+Finland,FI,FIN,246,National,11,Dry latrines - Bucket latrine,0.0,Euro Stat - ES02
+Finland,FI,FIN,246,National,12,Dry latrines - Other,0.0,Euro Stat - ES02
+Finland,FI,FIN,246,National,13,Composting toilets,0.0,Euro Stat - ES02
+Finland,FI,FIN,246,National,14,Other improved,0.0,Euro Stat - ES02
+Finland,FI,FIN,246,National,15,"No facility, bush, field",0.0,Euro Stat - ES02
+Finland,FI,FIN,246,National,16,Other unimproved,0.0,Euro Stat - ES02
+Finland,FI,FIN,246,National,17,DK/missing information,0.0,Euro Stat - ES02
+Finland,FI,FIN,246,Urban,1,Flush and pour flush - to piped sewer system,0.0,Euro Stat - ES08
+Finland,FI,FIN,246,Urban,2,Flush and pour flush - to septic tank,0.0,Euro Stat - ES08
+Finland,FI,FIN,246,Urban,3,Flush and pour flush - to pit,0.0,Euro Stat - ES08
+Finland,FI,FIN,246,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Euro Stat - ES08
+Finland,FI,FIN,246,Urban,5,Flush and pour flush - to elsewhere,0.0,Euro Stat - ES08
+Finland,FI,FIN,246,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Euro Stat - ES08
+Finland,FI,FIN,246,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Euro Stat - ES08
+Finland,FI,FIN,246,Urban,8,Dry latrines - Traditional latrine,0.0,Euro Stat - ES08
+Finland,FI,FIN,246,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Euro Stat - ES08
+Finland,FI,FIN,246,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Euro Stat - ES08
+Finland,FI,FIN,246,Urban,11,Dry latrines - Bucket latrine,0.0,Euro Stat - ES08
+Finland,FI,FIN,246,Urban,12,Dry latrines - Other,0.0,Euro Stat - ES08
+Finland,FI,FIN,246,Urban,13,Composting toilets,0.0,Euro Stat - ES08
+Finland,FI,FIN,246,Urban,14,Other improved,0.0,Euro Stat - ES08
+Finland,FI,FIN,246,Urban,15,"No facility, bush, field",0.0,Euro Stat - ES08
+Finland,FI,FIN,246,Urban,16,Other unimproved,0.0,Euro Stat - ES08
+Finland,FI,FIN,246,Urban,17,DK/missing information,0.0,Euro Stat - ES08
+Finland,FI,FIN,246,Rural,1,Flush and pour flush - to piped sewer system,0.0,Euro Stat - ES08
+Finland,FI,FIN,246,Rural,2,Flush and pour flush - to septic tank,0.0,Euro Stat - ES08
+Finland,FI,FIN,246,Rural,3,Flush and pour flush - to pit,0.0,Euro Stat - ES08
+Finland,FI,FIN,246,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Euro Stat - ES08
+Finland,FI,FIN,246,Rural,5,Flush and pour flush - to elsewhere,0.0,Euro Stat - ES08
+Finland,FI,FIN,246,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Euro Stat - ES08
+Finland,FI,FIN,246,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Euro Stat - ES08
+Finland,FI,FIN,246,Rural,8,Dry latrines - Traditional latrine,0.0,Euro Stat - ES08
+Finland,FI,FIN,246,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Euro Stat - ES08
+Finland,FI,FIN,246,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Euro Stat - ES08
+Finland,FI,FIN,246,Rural,11,Dry latrines - Bucket latrine,0.0,Euro Stat - ES08
+Finland,FI,FIN,246,Rural,12,Dry latrines - Other,0.0,Euro Stat - ES08
+Finland,FI,FIN,246,Rural,13,Composting toilets,0.0,Euro Stat - ES08
+Finland,FI,FIN,246,Rural,14,Other improved,0.0,Euro Stat - ES08
+Finland,FI,FIN,246,Rural,15,"No facility, bush, field",0.0,Euro Stat - ES08
+Finland,FI,FIN,246,Rural,16,Other unimproved,0.0,Euro Stat - ES08
+Finland,FI,FIN,246,Rural,17,DK/missing information,0.0,Euro Stat - ES08
+Finland,FI,FIN,246,National,1,Flush and pour flush - to piped sewer system,0.83,Euro Stat - ES08
+Finland,FI,FIN,246,National,2,Flush and pour flush - to septic tank,0.17,Euro Stat - ES08
+Finland,FI,FIN,246,National,3,Flush and pour flush - to pit,0.0,Euro Stat - ES08
+Finland,FI,FIN,246,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Euro Stat - ES08
+Finland,FI,FIN,246,National,5,Flush and pour flush - to elsewhere,0.0,Euro Stat - ES08
+Finland,FI,FIN,246,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Euro Stat - ES08
+Finland,FI,FIN,246,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Euro Stat - ES08
+Finland,FI,FIN,246,National,8,Dry latrines - Traditional latrine,0.0,Euro Stat - ES08
+Finland,FI,FIN,246,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Euro Stat - ES08
+Finland,FI,FIN,246,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Euro Stat - ES08
+Finland,FI,FIN,246,National,11,Dry latrines - Bucket latrine,0.0,Euro Stat - ES08
+Finland,FI,FIN,246,National,12,Dry latrines - Other,0.0,Euro Stat - ES08
+Finland,FI,FIN,246,National,13,Composting toilets,0.0,Euro Stat - ES08
+Finland,FI,FIN,246,National,14,Other improved,0.0,Euro Stat - ES08
+Finland,FI,FIN,246,National,15,"No facility, bush, field",0.0,Euro Stat - ES08
+Finland,FI,FIN,246,National,16,Other unimproved,0.0,Euro Stat - ES08
+Finland,FI,FIN,246,National,17,DK/missing information,0.0,Euro Stat - ES08
+Finland,FI,FIN,246,Urban,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environment database - ES09
+Finland,FI,FIN,246,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat environment database - ES09
+Finland,FI,FIN,246,Urban,3,Flush and pour flush - to pit,0.0,Eurostat environment database - ES09
+Finland,FI,FIN,246,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environment database - ES09
+Finland,FI,FIN,246,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat environment database - ES09
+Finland,FI,FIN,246,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environment database - ES09
+Finland,FI,FIN,246,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environment database - ES09
+Finland,FI,FIN,246,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat environment database - ES09
+Finland,FI,FIN,246,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environment database - ES09
+Finland,FI,FIN,246,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environment database - ES09
+Finland,FI,FIN,246,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat environment database - ES09
+Finland,FI,FIN,246,Urban,12,Dry latrines - Other,0.0,Eurostat environment database - ES09
+Finland,FI,FIN,246,Urban,13,Composting toilets,0.0,Eurostat environment database - ES09
+Finland,FI,FIN,246,Urban,14,Other improved,0.0,Eurostat environment database - ES09
+Finland,FI,FIN,246,Urban,15,"No facility, bush, field",0.0,Eurostat environment database - ES09
+Finland,FI,FIN,246,Urban,16,Other unimproved,0.0,Eurostat environment database - ES09
+Finland,FI,FIN,246,Urban,17,DK/missing information,0.0,Eurostat environment database - ES09
+Finland,FI,FIN,246,Rural,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environment database - ES09
+Finland,FI,FIN,246,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat environment database - ES09
+Finland,FI,FIN,246,Rural,3,Flush and pour flush - to pit,0.0,Eurostat environment database - ES09
+Finland,FI,FIN,246,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environment database - ES09
+Finland,FI,FIN,246,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat environment database - ES09
+Finland,FI,FIN,246,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environment database - ES09
+Finland,FI,FIN,246,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environment database - ES09
+Finland,FI,FIN,246,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat environment database - ES09
+Finland,FI,FIN,246,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environment database - ES09
+Finland,FI,FIN,246,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environment database - ES09
+Finland,FI,FIN,246,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat environment database - ES09
+Finland,FI,FIN,246,Rural,12,Dry latrines - Other,0.0,Eurostat environment database - ES09
+Finland,FI,FIN,246,Rural,13,Composting toilets,0.0,Eurostat environment database - ES09
+Finland,FI,FIN,246,Rural,14,Other improved,0.0,Eurostat environment database - ES09
+Finland,FI,FIN,246,Rural,15,"No facility, bush, field",0.0,Eurostat environment database - ES09
+Finland,FI,FIN,246,Rural,16,Other unimproved,0.0,Eurostat environment database - ES09
+Finland,FI,FIN,246,Rural,17,DK/missing information,0.0,Eurostat environment database - ES09
+Finland,FI,FIN,246,National,1,Flush and pour flush - to piped sewer system,0.83,Eurostat environment database - ES09
+Finland,FI,FIN,246,National,2,Flush and pour flush - to septic tank,0.17,Eurostat environment database - ES09
+Finland,FI,FIN,246,National,3,Flush and pour flush - to pit,0.0,Eurostat environment database - ES09
+Finland,FI,FIN,246,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environment database - ES09
+Finland,FI,FIN,246,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat environment database - ES09
+Finland,FI,FIN,246,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environment database - ES09
+Finland,FI,FIN,246,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environment database - ES09
+Finland,FI,FIN,246,National,8,Dry latrines - Traditional latrine,0.0,Eurostat environment database - ES09
+Finland,FI,FIN,246,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environment database - ES09
+Finland,FI,FIN,246,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environment database - ES09
+Finland,FI,FIN,246,National,11,Dry latrines - Bucket latrine,0.0,Eurostat environment database - ES09
+Finland,FI,FIN,246,National,12,Dry latrines - Other,0.0,Eurostat environment database - ES09
+Finland,FI,FIN,246,National,13,Composting toilets,0.0,Eurostat environment database - ES09
+Finland,FI,FIN,246,National,14,Other improved,0.0,Eurostat environment database - ES09
+Finland,FI,FIN,246,National,15,"No facility, bush, field",0.0,Eurostat environment database - ES09
+Finland,FI,FIN,246,National,16,Other unimproved,0.0,Eurostat environment database - ES09
+Finland,FI,FIN,246,National,17,DK/missing information,0.0,Eurostat environment database - ES09
+Finland,FI,FIN,246,Urban,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environment database - ES10
+Finland,FI,FIN,246,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat environment database - ES10
+Finland,FI,FIN,246,Urban,3,Flush and pour flush - to pit,0.0,Eurostat environment database - ES10
+Finland,FI,FIN,246,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environment database - ES10
+Finland,FI,FIN,246,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat environment database - ES10
+Finland,FI,FIN,246,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environment database - ES10
+Finland,FI,FIN,246,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environment database - ES10
+Finland,FI,FIN,246,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat environment database - ES10
+Finland,FI,FIN,246,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environment database - ES10
+Finland,FI,FIN,246,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environment database - ES10
+Finland,FI,FIN,246,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat environment database - ES10
+Finland,FI,FIN,246,Urban,12,Dry latrines - Other,0.0,Eurostat environment database - ES10
+Finland,FI,FIN,246,Urban,13,Composting toilets,0.0,Eurostat environment database - ES10
+Finland,FI,FIN,246,Urban,14,Other improved,0.0,Eurostat environment database - ES10
+Finland,FI,FIN,246,Urban,15,"No facility, bush, field",0.0,Eurostat environment database - ES10
+Finland,FI,FIN,246,Urban,16,Other unimproved,0.0,Eurostat environment database - ES10
+Finland,FI,FIN,246,Urban,17,DK/missing information,0.0,Eurostat environment database - ES10
+Finland,FI,FIN,246,Rural,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environment database - ES10
+Finland,FI,FIN,246,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat environment database - ES10
+Finland,FI,FIN,246,Rural,3,Flush and pour flush - to pit,0.0,Eurostat environment database - ES10
+Finland,FI,FIN,246,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environment database - ES10
+Finland,FI,FIN,246,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat environment database - ES10
+Finland,FI,FIN,246,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environment database - ES10
+Finland,FI,FIN,246,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environment database - ES10
+Finland,FI,FIN,246,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat environment database - ES10
+Finland,FI,FIN,246,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environment database - ES10
+Finland,FI,FIN,246,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environment database - ES10
+Finland,FI,FIN,246,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat environment database - ES10
+Finland,FI,FIN,246,Rural,12,Dry latrines - Other,0.0,Eurostat environment database - ES10
+Finland,FI,FIN,246,Rural,13,Composting toilets,0.0,Eurostat environment database - ES10
+Finland,FI,FIN,246,Rural,14,Other improved,0.0,Eurostat environment database - ES10
+Finland,FI,FIN,246,Rural,15,"No facility, bush, field",0.0,Eurostat environment database - ES10
+Finland,FI,FIN,246,Rural,16,Other unimproved,0.0,Eurostat environment database - ES10
+Finland,FI,FIN,246,Rural,17,DK/missing information,0.0,Eurostat environment database - ES10
+Finland,FI,FIN,246,National,1,Flush and pour flush - to piped sewer system,0.83,Eurostat environment database - ES10
+Finland,FI,FIN,246,National,2,Flush and pour flush - to septic tank,0.17,Eurostat environment database - ES10
+Finland,FI,FIN,246,National,3,Flush and pour flush - to pit,0.0,Eurostat environment database - ES10
+Finland,FI,FIN,246,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environment database - ES10
+Finland,FI,FIN,246,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat environment database - ES10
+Finland,FI,FIN,246,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environment database - ES10
+Finland,FI,FIN,246,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environment database - ES10
+Finland,FI,FIN,246,National,8,Dry latrines - Traditional latrine,0.0,Eurostat environment database - ES10
+Finland,FI,FIN,246,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environment database - ES10
+Finland,FI,FIN,246,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environment database - ES10
+Finland,FI,FIN,246,National,11,Dry latrines - Bucket latrine,0.0,Eurostat environment database - ES10
+Finland,FI,FIN,246,National,12,Dry latrines - Other,0.0,Eurostat environment database - ES10
+Finland,FI,FIN,246,National,13,Composting toilets,0.0,Eurostat environment database - ES10
+Finland,FI,FIN,246,National,14,Other improved,0.0,Eurostat environment database - ES10
+Finland,FI,FIN,246,National,15,"No facility, bush, field",0.0,Eurostat environment database - ES10
+Finland,FI,FIN,246,National,16,Other unimproved,0.0,Eurostat environment database - ES10
+Finland,FI,FIN,246,National,17,DK/missing information,0.0,Eurostat environment database - ES10
+Finland,FI,FIN,246,Urban,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environment database - ES11
+Finland,FI,FIN,246,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat environment database - ES11
+Finland,FI,FIN,246,Urban,3,Flush and pour flush - to pit,0.0,Eurostat environment database - ES11
+Finland,FI,FIN,246,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environment database - ES11
+Finland,FI,FIN,246,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat environment database - ES11
+Finland,FI,FIN,246,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environment database - ES11
+Finland,FI,FIN,246,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environment database - ES11
+Finland,FI,FIN,246,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat environment database - ES11
+Finland,FI,FIN,246,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environment database - ES11
+Finland,FI,FIN,246,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environment database - ES11
+Finland,FI,FIN,246,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat environment database - ES11
+Finland,FI,FIN,246,Urban,12,Dry latrines - Other,0.0,Eurostat environment database - ES11
+Finland,FI,FIN,246,Urban,13,Composting toilets,0.0,Eurostat environment database - ES11
+Finland,FI,FIN,246,Urban,14,Other improved,0.0,Eurostat environment database - ES11
+Finland,FI,FIN,246,Urban,15,"No facility, bush, field",0.0,Eurostat environment database - ES11
+Finland,FI,FIN,246,Urban,16,Other unimproved,0.0,Eurostat environment database - ES11
+Finland,FI,FIN,246,Urban,17,DK/missing information,0.0,Eurostat environment database - ES11
+Finland,FI,FIN,246,Rural,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environment database - ES11
+Finland,FI,FIN,246,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat environment database - ES11
+Finland,FI,FIN,246,Rural,3,Flush and pour flush - to pit,0.0,Eurostat environment database - ES11
+Finland,FI,FIN,246,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environment database - ES11
+Finland,FI,FIN,246,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat environment database - ES11
+Finland,FI,FIN,246,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environment database - ES11
+Finland,FI,FIN,246,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environment database - ES11
+Finland,FI,FIN,246,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat environment database - ES11
+Finland,FI,FIN,246,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environment database - ES11
+Finland,FI,FIN,246,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environment database - ES11
+Finland,FI,FIN,246,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat environment database - ES11
+Finland,FI,FIN,246,Rural,12,Dry latrines - Other,0.0,Eurostat environment database - ES11
+Finland,FI,FIN,246,Rural,13,Composting toilets,0.0,Eurostat environment database - ES11
+Finland,FI,FIN,246,Rural,14,Other improved,0.0,Eurostat environment database - ES11
+Finland,FI,FIN,246,Rural,15,"No facility, bush, field",0.0,Eurostat environment database - ES11
+Finland,FI,FIN,246,Rural,16,Other unimproved,0.0,Eurostat environment database - ES11
+Finland,FI,FIN,246,Rural,17,DK/missing information,0.0,Eurostat environment database - ES11
+Finland,FI,FIN,246,National,1,Flush and pour flush - to piped sewer system,0.83,Eurostat environment database - ES11
+Finland,FI,FIN,246,National,2,Flush and pour flush - to septic tank,0.17,Eurostat environment database - ES11
+Finland,FI,FIN,246,National,3,Flush and pour flush - to pit,0.0,Eurostat environment database - ES11
+Finland,FI,FIN,246,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environment database - ES11
+Finland,FI,FIN,246,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat environment database - ES11
+Finland,FI,FIN,246,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environment database - ES11
+Finland,FI,FIN,246,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environment database - ES11
+Finland,FI,FIN,246,National,8,Dry latrines - Traditional latrine,0.0,Eurostat environment database - ES11
+Finland,FI,FIN,246,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environment database - ES11
+Finland,FI,FIN,246,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environment database - ES11
+Finland,FI,FIN,246,National,11,Dry latrines - Bucket latrine,0.0,Eurostat environment database - ES11
+Finland,FI,FIN,246,National,12,Dry latrines - Other,0.0,Eurostat environment database - ES11
+Finland,FI,FIN,246,National,13,Composting toilets,0.0,Eurostat environment database - ES11
+Finland,FI,FIN,246,National,14,Other improved,0.0,Eurostat environment database - ES11
+Finland,FI,FIN,246,National,15,"No facility, bush, field",0.0,Eurostat environment database - ES11
+Finland,FI,FIN,246,National,16,Other unimproved,0.0,Eurostat environment database - ES11
+Finland,FI,FIN,246,National,17,DK/missing information,0.0,Eurostat environment database - ES11
+Finland,FI,FIN,246,Urban,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environment database - ES12
+Finland,FI,FIN,246,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat environment database - ES12
+Finland,FI,FIN,246,Urban,3,Flush and pour flush - to pit,0.0,Eurostat environment database - ES12
+Finland,FI,FIN,246,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environment database - ES12
+Finland,FI,FIN,246,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat environment database - ES12
+Finland,FI,FIN,246,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environment database - ES12
+Finland,FI,FIN,246,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environment database - ES12
+Finland,FI,FIN,246,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat environment database - ES12
+Finland,FI,FIN,246,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environment database - ES12
+Finland,FI,FIN,246,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environment database - ES12
+Finland,FI,FIN,246,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat environment database - ES12
+Finland,FI,FIN,246,Urban,12,Dry latrines - Other,0.0,Eurostat environment database - ES12
+Finland,FI,FIN,246,Urban,13,Composting toilets,0.0,Eurostat environment database - ES12
+Finland,FI,FIN,246,Urban,14,Other improved,0.0,Eurostat environment database - ES12
+Finland,FI,FIN,246,Urban,15,"No facility, bush, field",0.0,Eurostat environment database - ES12
+Finland,FI,FIN,246,Urban,16,Other unimproved,0.0,Eurostat environment database - ES12
+Finland,FI,FIN,246,Urban,17,DK/missing information,0.0,Eurostat environment database - ES12
+Finland,FI,FIN,246,Rural,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environment database - ES12
+Finland,FI,FIN,246,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat environment database - ES12
+Finland,FI,FIN,246,Rural,3,Flush and pour flush - to pit,0.0,Eurostat environment database - ES12
+Finland,FI,FIN,246,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environment database - ES12
+Finland,FI,FIN,246,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat environment database - ES12
+Finland,FI,FIN,246,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environment database - ES12
+Finland,FI,FIN,246,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environment database - ES12
+Finland,FI,FIN,246,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat environment database - ES12
+Finland,FI,FIN,246,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environment database - ES12
+Finland,FI,FIN,246,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environment database - ES12
+Finland,FI,FIN,246,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat environment database - ES12
+Finland,FI,FIN,246,Rural,12,Dry latrines - Other,0.0,Eurostat environment database - ES12
+Finland,FI,FIN,246,Rural,13,Composting toilets,0.0,Eurostat environment database - ES12
+Finland,FI,FIN,246,Rural,14,Other improved,0.0,Eurostat environment database - ES12
+Finland,FI,FIN,246,Rural,15,"No facility, bush, field",0.0,Eurostat environment database - ES12
+Finland,FI,FIN,246,Rural,16,Other unimproved,0.0,Eurostat environment database - ES12
+Finland,FI,FIN,246,Rural,17,DK/missing information,0.0,Eurostat environment database - ES12
+Finland,FI,FIN,246,National,1,Flush and pour flush - to piped sewer system,0.83,Eurostat environment database - ES12
+Finland,FI,FIN,246,National,2,Flush and pour flush - to septic tank,0.17,Eurostat environment database - ES12
+Finland,FI,FIN,246,National,3,Flush and pour flush - to pit,0.0,Eurostat environment database - ES12
+Finland,FI,FIN,246,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environment database - ES12
+Finland,FI,FIN,246,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat environment database - ES12
+Finland,FI,FIN,246,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environment database - ES12
+Finland,FI,FIN,246,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environment database - ES12
+Finland,FI,FIN,246,National,8,Dry latrines - Traditional latrine,0.0,Eurostat environment database - ES12
+Finland,FI,FIN,246,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environment database - ES12
+Finland,FI,FIN,246,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environment database - ES12
+Finland,FI,FIN,246,National,11,Dry latrines - Bucket latrine,0.0,Eurostat environment database - ES12
+Finland,FI,FIN,246,National,12,Dry latrines - Other,0.0,Eurostat environment database - ES12
+Finland,FI,FIN,246,National,13,Composting toilets,0.0,Eurostat environment database - ES12
+Finland,FI,FIN,246,National,14,Other improved,0.0,Eurostat environment database - ES12
+Finland,FI,FIN,246,National,15,"No facility, bush, field",0.0,Eurostat environment database - ES12
+Finland,FI,FIN,246,National,16,Other unimproved,0.0,Eurostat environment database - ES12
+Finland,FI,FIN,246,National,17,DK/missing information,0.0,Eurostat environment database - ES12
+Finland,FI,FIN,246,Urban,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environment database - ES13
+Finland,FI,FIN,246,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat environment database - ES13
+Finland,FI,FIN,246,Urban,3,Flush and pour flush - to pit,0.0,Eurostat environment database - ES13
+Finland,FI,FIN,246,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environment database - ES13
+Finland,FI,FIN,246,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat environment database - ES13
+Finland,FI,FIN,246,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environment database - ES13
+Finland,FI,FIN,246,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environment database - ES13
+Finland,FI,FIN,246,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat environment database - ES13
+Finland,FI,FIN,246,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environment database - ES13
+Finland,FI,FIN,246,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environment database - ES13
+Finland,FI,FIN,246,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat environment database - ES13
+Finland,FI,FIN,246,Urban,12,Dry latrines - Other,0.0,Eurostat environment database - ES13
+Finland,FI,FIN,246,Urban,13,Composting toilets,0.0,Eurostat environment database - ES13
+Finland,FI,FIN,246,Urban,14,Other improved,0.0,Eurostat environment database - ES13
+Finland,FI,FIN,246,Urban,15,"No facility, bush, field",0.0,Eurostat environment database - ES13
+Finland,FI,FIN,246,Urban,16,Other unimproved,0.0,Eurostat environment database - ES13
+Finland,FI,FIN,246,Urban,17,DK/missing information,0.0,Eurostat environment database - ES13
+Finland,FI,FIN,246,Rural,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environment database - ES13
+Finland,FI,FIN,246,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat environment database - ES13
+Finland,FI,FIN,246,Rural,3,Flush and pour flush - to pit,0.0,Eurostat environment database - ES13
+Finland,FI,FIN,246,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environment database - ES13
+Finland,FI,FIN,246,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat environment database - ES13
+Finland,FI,FIN,246,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environment database - ES13
+Finland,FI,FIN,246,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environment database - ES13
+Finland,FI,FIN,246,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat environment database - ES13
+Finland,FI,FIN,246,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environment database - ES13
+Finland,FI,FIN,246,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environment database - ES13
+Finland,FI,FIN,246,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat environment database - ES13
+Finland,FI,FIN,246,Rural,12,Dry latrines - Other,0.0,Eurostat environment database - ES13
+Finland,FI,FIN,246,Rural,13,Composting toilets,0.0,Eurostat environment database - ES13
+Finland,FI,FIN,246,Rural,14,Other improved,0.0,Eurostat environment database - ES13
+Finland,FI,FIN,246,Rural,15,"No facility, bush, field",0.0,Eurostat environment database - ES13
+Finland,FI,FIN,246,Rural,16,Other unimproved,0.0,Eurostat environment database - ES13
+Finland,FI,FIN,246,Rural,17,DK/missing information,0.0,Eurostat environment database - ES13
+Finland,FI,FIN,246,National,1,Flush and pour flush - to piped sewer system,0.87,Eurostat environment database - ES13
+Finland,FI,FIN,246,National,2,Flush and pour flush - to septic tank,0.13,Eurostat environment database - ES13
+Finland,FI,FIN,246,National,3,Flush and pour flush - to pit,0.0,Eurostat environment database - ES13
+Finland,FI,FIN,246,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environment database - ES13
+Finland,FI,FIN,246,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat environment database - ES13
+Finland,FI,FIN,246,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environment database - ES13
+Finland,FI,FIN,246,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environment database - ES13
+Finland,FI,FIN,246,National,8,Dry latrines - Traditional latrine,0.0,Eurostat environment database - ES13
+Finland,FI,FIN,246,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environment database - ES13
+Finland,FI,FIN,246,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environment database - ES13
+Finland,FI,FIN,246,National,11,Dry latrines - Bucket latrine,0.0,Eurostat environment database - ES13
+Finland,FI,FIN,246,National,12,Dry latrines - Other,0.0,Eurostat environment database - ES13
+Finland,FI,FIN,246,National,13,Composting toilets,0.0,Eurostat environment database - ES13
+Finland,FI,FIN,246,National,14,Other improved,0.0,Eurostat environment database - ES13
+Finland,FI,FIN,246,National,15,"No facility, bush, field",0.0,Eurostat environment database - ES13
+Finland,FI,FIN,246,National,16,Other unimproved,0.0,Eurostat environment database - ES13
+Finland,FI,FIN,246,National,17,DK/missing information,0.0,Eurostat environment database - ES13
+Finland,FI,FIN,246,Urban,1,Flush and pour flush - to piped sewer system,0.0,Euro Stat - ES00
+Finland,FI,FIN,246,Urban,2,Flush and pour flush - to septic tank,0.0,Euro Stat - ES00
+Finland,FI,FIN,246,Urban,3,Flush and pour flush - to pit,0.0,Euro Stat - ES00
+Finland,FI,FIN,246,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Euro Stat - ES00
+Finland,FI,FIN,246,Urban,5,Flush and pour flush - to elsewhere,0.0,Euro Stat - ES00
+Finland,FI,FIN,246,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Euro Stat - ES00
+Finland,FI,FIN,246,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Euro Stat - ES00
+Finland,FI,FIN,246,Urban,8,Dry latrines - Traditional latrine,0.0,Euro Stat - ES00
+Finland,FI,FIN,246,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Euro Stat - ES00
+Finland,FI,FIN,246,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Euro Stat - ES00
+Finland,FI,FIN,246,Urban,11,Dry latrines - Bucket latrine,0.0,Euro Stat - ES00
+Finland,FI,FIN,246,Urban,12,Dry latrines - Other,0.0,Euro Stat - ES00
+Finland,FI,FIN,246,Urban,13,Composting toilets,0.0,Euro Stat - ES00
+Finland,FI,FIN,246,Urban,14,Other improved,0.0,Euro Stat - ES00
+Finland,FI,FIN,246,Urban,15,"No facility, bush, field",0.0,Euro Stat - ES00
+Finland,FI,FIN,246,Urban,16,Other unimproved,0.0,Euro Stat - ES00
+Finland,FI,FIN,246,Urban,17,DK/missing information,0.0,Euro Stat - ES00
+Finland,FI,FIN,246,Rural,1,Flush and pour flush - to piped sewer system,0.0,Euro Stat - ES00
+Finland,FI,FIN,246,Rural,2,Flush and pour flush - to septic tank,0.0,Euro Stat - ES00
+Finland,FI,FIN,246,Rural,3,Flush and pour flush - to pit,0.0,Euro Stat - ES00
+Finland,FI,FIN,246,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Euro Stat - ES00
+Finland,FI,FIN,246,Rural,5,Flush and pour flush - to elsewhere,0.0,Euro Stat - ES00
+Finland,FI,FIN,246,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Euro Stat - ES00
+Finland,FI,FIN,246,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Euro Stat - ES00
+Finland,FI,FIN,246,Rural,8,Dry latrines - Traditional latrine,0.0,Euro Stat - ES00
+Finland,FI,FIN,246,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Euro Stat - ES00
+Finland,FI,FIN,246,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Euro Stat - ES00
+Finland,FI,FIN,246,Rural,11,Dry latrines - Bucket latrine,0.0,Euro Stat - ES00
+Finland,FI,FIN,246,Rural,12,Dry latrines - Other,0.0,Euro Stat - ES00
+Finland,FI,FIN,246,Rural,13,Composting toilets,0.0,Euro Stat - ES00
+Finland,FI,FIN,246,Rural,14,Other improved,0.0,Euro Stat - ES00
+Finland,FI,FIN,246,Rural,15,"No facility, bush, field",0.0,Euro Stat - ES00
+Finland,FI,FIN,246,Rural,16,Other unimproved,0.0,Euro Stat - ES00
+Finland,FI,FIN,246,Rural,17,DK/missing information,0.0,Euro Stat - ES00
+Finland,FI,FIN,246,National,1,Flush and pour flush - to piped sewer system,0.8,Euro Stat - ES00
+Finland,FI,FIN,246,National,2,Flush and pour flush - to septic tank,0.2,Euro Stat - ES00
+Finland,FI,FIN,246,National,3,Flush and pour flush - to pit,0.0,Euro Stat - ES00
+Finland,FI,FIN,246,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Euro Stat - ES00
+Finland,FI,FIN,246,National,5,Flush and pour flush - to elsewhere,0.0,Euro Stat - ES00
+Finland,FI,FIN,246,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Euro Stat - ES00
+Finland,FI,FIN,246,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Euro Stat - ES00
+Finland,FI,FIN,246,National,8,Dry latrines - Traditional latrine,0.0,Euro Stat - ES00
+Finland,FI,FIN,246,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Euro Stat - ES00
+Finland,FI,FIN,246,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Euro Stat - ES00
+Finland,FI,FIN,246,National,11,Dry latrines - Bucket latrine,0.0,Euro Stat - ES00
+Finland,FI,FIN,246,National,12,Dry latrines - Other,0.0,Euro Stat - ES00
+Finland,FI,FIN,246,National,13,Composting toilets,0.0,Euro Stat - ES00
+Finland,FI,FIN,246,National,14,Other improved,0.0,Euro Stat - ES00
+Finland,FI,FIN,246,National,15,"No facility, bush, field",0.0,Euro Stat - ES00
+Finland,FI,FIN,246,National,16,Other unimproved,0.0,Euro Stat - ES00
+Finland,FI,FIN,246,National,17,DK/missing information,0.0,Euro Stat - ES00
+Finland,FI,FIN,246,Urban,1,Flush and pour flush - to piped sewer system,0.96,Finnish Environment institute - FEI05
+Finland,FI,FIN,246,Urban,2,Flush and pour flush - to septic tank,0.0,Finnish Environment institute - FEI05
+Finland,FI,FIN,246,Urban,3,Flush and pour flush - to pit,0.0,Finnish Environment institute - FEI05
+Finland,FI,FIN,246,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Finnish Environment institute - FEI05
+Finland,FI,FIN,246,Urban,5,Flush and pour flush - to elsewhere,0.0,Finnish Environment institute - FEI05
+Finland,FI,FIN,246,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Finnish Environment institute - FEI05
+Finland,FI,FIN,246,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Finnish Environment institute - FEI05
+Finland,FI,FIN,246,Urban,8,Dry latrines - Traditional latrine,0.0,Finnish Environment institute - FEI05
+Finland,FI,FIN,246,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Finnish Environment institute - FEI05
+Finland,FI,FIN,246,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Finnish Environment institute - FEI05
+Finland,FI,FIN,246,Urban,11,Dry latrines - Bucket latrine,0.0,Finnish Environment institute - FEI05
+Finland,FI,FIN,246,Urban,12,Dry latrines - Other,0.0,Finnish Environment institute - FEI05
+Finland,FI,FIN,246,Urban,13,Composting toilets,0.0,Finnish Environment institute - FEI05
+Finland,FI,FIN,246,Urban,14,Other improved,0.04,Finnish Environment institute - FEI05
+Finland,FI,FIN,246,Urban,15,"No facility, bush, field",0.0,Finnish Environment institute - FEI05
+Finland,FI,FIN,246,Urban,16,Other unimproved,0.0,Finnish Environment institute - FEI05
+Finland,FI,FIN,246,Urban,17,DK/missing information,0.0,Finnish Environment institute - FEI05
+Finland,FI,FIN,246,Rural,1,Flush and pour flush - to piped sewer system,0.16,Finnish Environment institute - FEI05
+Finland,FI,FIN,246,Rural,2,Flush and pour flush - to septic tank,0.0,Finnish Environment institute - FEI05
+Finland,FI,FIN,246,Rural,3,Flush and pour flush - to pit,0.0,Finnish Environment institute - FEI05
+Finland,FI,FIN,246,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Finnish Environment institute - FEI05
+Finland,FI,FIN,246,Rural,5,Flush and pour flush - to elsewhere,0.0,Finnish Environment institute - FEI05
+Finland,FI,FIN,246,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Finnish Environment institute - FEI05
+Finland,FI,FIN,246,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Finnish Environment institute - FEI05
+Finland,FI,FIN,246,Rural,8,Dry latrines - Traditional latrine,0.0,Finnish Environment institute - FEI05
+Finland,FI,FIN,246,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Finnish Environment institute - FEI05
+Finland,FI,FIN,246,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Finnish Environment institute - FEI05
+Finland,FI,FIN,246,Rural,11,Dry latrines - Bucket latrine,0.0,Finnish Environment institute - FEI05
+Finland,FI,FIN,246,Rural,12,Dry latrines - Other,0.0,Finnish Environment institute - FEI05
+Finland,FI,FIN,246,Rural,13,Composting toilets,0.0,Finnish Environment institute - FEI05
+Finland,FI,FIN,246,Rural,14,Other improved,0.0,Finnish Environment institute - FEI05
+Finland,FI,FIN,246,Rural,15,"No facility, bush, field",0.0,Finnish Environment institute - FEI05
+Finland,FI,FIN,246,Rural,16,Other unimproved,0.0,Finnish Environment institute - FEI05
+Finland,FI,FIN,246,Rural,17,DK/missing information,0.0,Finnish Environment institute - FEI05
+Finland,FI,FIN,246,National,1,Flush and pour flush - to piped sewer system,0.0,Finnish Environment institute - FEI05
+Finland,FI,FIN,246,National,2,Flush and pour flush - to septic tank,0.0,Finnish Environment institute - FEI05
+Finland,FI,FIN,246,National,3,Flush and pour flush - to pit,0.0,Finnish Environment institute - FEI05
+Finland,FI,FIN,246,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Finnish Environment institute - FEI05
+Finland,FI,FIN,246,National,5,Flush and pour flush - to elsewhere,0.0,Finnish Environment institute - FEI05
+Finland,FI,FIN,246,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Finnish Environment institute - FEI05
+Finland,FI,FIN,246,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Finnish Environment institute - FEI05
+Finland,FI,FIN,246,National,8,Dry latrines - Traditional latrine,0.0,Finnish Environment institute - FEI05
+Finland,FI,FIN,246,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Finnish Environment institute - FEI05
+Finland,FI,FIN,246,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Finnish Environment institute - FEI05
+Finland,FI,FIN,246,National,11,Dry latrines - Bucket latrine,0.0,Finnish Environment institute - FEI05
+Finland,FI,FIN,246,National,12,Dry latrines - Other,0.0,Finnish Environment institute - FEI05
+Finland,FI,FIN,246,National,13,Composting toilets,0.0,Finnish Environment institute - FEI05
+Finland,FI,FIN,246,National,14,Other improved,0.0,Finnish Environment institute - FEI05
+Finland,FI,FIN,246,National,15,"No facility, bush, field",0.0,Finnish Environment institute - FEI05
+Finland,FI,FIN,246,National,16,Other unimproved,0.0,Finnish Environment institute - FEI05
+Finland,FI,FIN,246,National,17,DK/missing information,0.0,Finnish Environment institute - FEI05
+Finland,FI,FIN,246,Urban,1,Flush and pour flush - to piped sewer system,0.999,Eurostat SILC database - EUSILC12
+Finland,FI,FIN,246,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC12
+Finland,FI,FIN,246,Urban,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC12
+Finland,FI,FIN,246,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC12
+Finland,FI,FIN,246,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC12
+Finland,FI,FIN,246,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC12
+Finland,FI,FIN,246,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC12
+Finland,FI,FIN,246,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC12
+Finland,FI,FIN,246,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC12
+Finland,FI,FIN,246,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC12
+Finland,FI,FIN,246,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC12
+Finland,FI,FIN,246,Urban,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC12
+Finland,FI,FIN,246,Urban,13,Composting toilets,0.0,Eurostat SILC database - EUSILC12
+Finland,FI,FIN,246,Urban,14,Other improved,0.0,Eurostat SILC database - EUSILC12
+Finland,FI,FIN,246,Urban,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC12
+Finland,FI,FIN,246,Urban,16,Other unimproved,0.001,Eurostat SILC database - EUSILC12
+Finland,FI,FIN,246,Urban,17,DK/missing information,0.0,Eurostat SILC database - EUSILC12
+Finland,FI,FIN,246,Rural,1,Flush and pour flush - to piped sewer system,0.986,Eurostat SILC database - EUSILC12
+Finland,FI,FIN,246,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC12
+Finland,FI,FIN,246,Rural,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC12
+Finland,FI,FIN,246,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC12
+Finland,FI,FIN,246,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC12
+Finland,FI,FIN,246,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC12
+Finland,FI,FIN,246,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC12
+Finland,FI,FIN,246,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC12
+Finland,FI,FIN,246,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC12
+Finland,FI,FIN,246,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC12
+Finland,FI,FIN,246,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC12
+Finland,FI,FIN,246,Rural,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC12
+Finland,FI,FIN,246,Rural,13,Composting toilets,0.0,Eurostat SILC database - EUSILC12
+Finland,FI,FIN,246,Rural,14,Other improved,0.0,Eurostat SILC database - EUSILC12
+Finland,FI,FIN,246,Rural,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC12
+Finland,FI,FIN,246,Rural,16,Other unimproved,0.013,Eurostat SILC database - EUSILC12
+Finland,FI,FIN,246,Rural,17,DK/missing information,0.0,Eurostat SILC database - EUSILC12
+Finland,FI,FIN,246,National,1,Flush and pour flush - to piped sewer system,0.992,Eurostat SILC database - EUSILC12
+Finland,FI,FIN,246,National,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC12
+Finland,FI,FIN,246,National,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC12
+Finland,FI,FIN,246,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC12
+Finland,FI,FIN,246,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC12
+Finland,FI,FIN,246,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC12
+Finland,FI,FIN,246,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC12
+Finland,FI,FIN,246,National,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC12
+Finland,FI,FIN,246,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC12
+Finland,FI,FIN,246,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC12
+Finland,FI,FIN,246,National,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC12
+Finland,FI,FIN,246,National,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC12
+Finland,FI,FIN,246,National,13,Composting toilets,0.0,Eurostat SILC database - EUSILC12
+Finland,FI,FIN,246,National,14,Other improved,0.0,Eurostat SILC database - EUSILC12
+Finland,FI,FIN,246,National,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC12
+Finland,FI,FIN,246,National,16,Other unimproved,0.008,Eurostat SILC database - EUSILC12
+Finland,FI,FIN,246,National,17,DK/missing information,0.0,Eurostat SILC database - EUSILC12
+Finland,FI,FIN,246,Urban,1,Flush and pour flush - to piped sewer system,0.997,Eurostat SILC database - EUSILC13
+Finland,FI,FIN,246,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC13
+Finland,FI,FIN,246,Urban,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC13
+Finland,FI,FIN,246,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC13
+Finland,FI,FIN,246,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC13
+Finland,FI,FIN,246,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC13
+Finland,FI,FIN,246,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC13
+Finland,FI,FIN,246,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC13
+Finland,FI,FIN,246,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC13
+Finland,FI,FIN,246,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC13
+Finland,FI,FIN,246,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC13
+Finland,FI,FIN,246,Urban,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC13
+Finland,FI,FIN,246,Urban,13,Composting toilets,0.0,Eurostat SILC database - EUSILC13
+Finland,FI,FIN,246,Urban,14,Other improved,0.0,Eurostat SILC database - EUSILC13
+Finland,FI,FIN,246,Urban,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC13
+Finland,FI,FIN,246,Urban,16,Other unimproved,0.003,Eurostat SILC database - EUSILC13
+Finland,FI,FIN,246,Urban,17,DK/missing information,0.0,Eurostat SILC database - EUSILC13
+Finland,FI,FIN,246,Rural,1,Flush and pour flush - to piped sewer system,0.991,Eurostat SILC database - EUSILC13
+Finland,FI,FIN,246,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC13
+Finland,FI,FIN,246,Rural,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC13
+Finland,FI,FIN,246,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC13
+Finland,FI,FIN,246,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC13
+Finland,FI,FIN,246,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC13
+Finland,FI,FIN,246,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC13
+Finland,FI,FIN,246,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC13
+Finland,FI,FIN,246,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC13
+Finland,FI,FIN,246,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC13
+Finland,FI,FIN,246,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC13
+Finland,FI,FIN,246,Rural,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC13
+Finland,FI,FIN,246,Rural,13,Composting toilets,0.0,Eurostat SILC database - EUSILC13
+Finland,FI,FIN,246,Rural,14,Other improved,0.0,Eurostat SILC database - EUSILC13
+Finland,FI,FIN,246,Rural,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC13
+Finland,FI,FIN,246,Rural,16,Other unimproved,0.009,Eurostat SILC database - EUSILC13
+Finland,FI,FIN,246,Rural,17,DK/missing information,0.0,Eurostat SILC database - EUSILC13
+Finland,FI,FIN,246,National,1,Flush and pour flush - to piped sewer system,0.994,Eurostat SILC database - EUSILC13
+Finland,FI,FIN,246,National,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC13
+Finland,FI,FIN,246,National,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC13
+Finland,FI,FIN,246,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC13
+Finland,FI,FIN,246,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC13
+Finland,FI,FIN,246,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC13
+Finland,FI,FIN,246,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC13
+Finland,FI,FIN,246,National,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC13
+Finland,FI,FIN,246,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC13
+Finland,FI,FIN,246,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC13
+Finland,FI,FIN,246,National,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC13
+Finland,FI,FIN,246,National,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC13
+Finland,FI,FIN,246,National,13,Composting toilets,0.0,Eurostat SILC database - EUSILC13
+Finland,FI,FIN,246,National,14,Other improved,0.0,Eurostat SILC database - EUSILC13
+Finland,FI,FIN,246,National,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC13
+Finland,FI,FIN,246,National,16,Other unimproved,0.006,Eurostat SILC database - EUSILC13
+Finland,FI,FIN,246,National,17,DK/missing information,0.0,Eurostat SILC database - EUSILC13
+Finland,FI,FIN,246,Urban,1,Flush and pour flush - to piped sewer system,0.997,Eurostat SILC database - EUSILC14
+Finland,FI,FIN,246,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC14
+Finland,FI,FIN,246,Urban,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC14
+Finland,FI,FIN,246,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC14
+Finland,FI,FIN,246,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC14
+Finland,FI,FIN,246,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC14
+Finland,FI,FIN,246,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC14
+Finland,FI,FIN,246,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC14
+Finland,FI,FIN,246,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC14
+Finland,FI,FIN,246,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC14
+Finland,FI,FIN,246,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC14
+Finland,FI,FIN,246,Urban,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC14
+Finland,FI,FIN,246,Urban,13,Composting toilets,0.0,Eurostat SILC database - EUSILC14
+Finland,FI,FIN,246,Urban,14,Other improved,0.0,Eurostat SILC database - EUSILC14
+Finland,FI,FIN,246,Urban,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC14
+Finland,FI,FIN,246,Urban,16,Other unimproved,0.003,Eurostat SILC database - EUSILC14
+Finland,FI,FIN,246,Urban,17,DK/missing information,0.0,Eurostat SILC database - EUSILC14
+Finland,FI,FIN,246,Rural,1,Flush and pour flush - to piped sewer system,0.991,Eurostat SILC database - EUSILC14
+Finland,FI,FIN,246,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC14
+Finland,FI,FIN,246,Rural,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC14
+Finland,FI,FIN,246,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC14
+Finland,FI,FIN,246,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC14
+Finland,FI,FIN,246,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC14
+Finland,FI,FIN,246,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC14
+Finland,FI,FIN,246,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC14
+Finland,FI,FIN,246,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC14
+Finland,FI,FIN,246,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC14
+Finland,FI,FIN,246,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC14
+Finland,FI,FIN,246,Rural,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC14
+Finland,FI,FIN,246,Rural,13,Composting toilets,0.0,Eurostat SILC database - EUSILC14
+Finland,FI,FIN,246,Rural,14,Other improved,0.0,Eurostat SILC database - EUSILC14
+Finland,FI,FIN,246,Rural,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC14
+Finland,FI,FIN,246,Rural,16,Other unimproved,0.009,Eurostat SILC database - EUSILC14
+Finland,FI,FIN,246,Rural,17,DK/missing information,0.0,Eurostat SILC database - EUSILC14
+Finland,FI,FIN,246,National,1,Flush and pour flush - to piped sewer system,0.994,Eurostat SILC database - EUSILC14
+Finland,FI,FIN,246,National,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC14
+Finland,FI,FIN,246,National,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC14
+Finland,FI,FIN,246,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC14
+Finland,FI,FIN,246,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC14
+Finland,FI,FIN,246,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC14
+Finland,FI,FIN,246,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC14
+Finland,FI,FIN,246,National,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC14
+Finland,FI,FIN,246,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC14
+Finland,FI,FIN,246,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC14
+Finland,FI,FIN,246,National,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC14
+Finland,FI,FIN,246,National,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC14
+Finland,FI,FIN,246,National,13,Composting toilets,0.0,Eurostat SILC database - EUSILC14
+Finland,FI,FIN,246,National,14,Other improved,0.0,Eurostat SILC database - EUSILC14
+Finland,FI,FIN,246,National,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC14
+Finland,FI,FIN,246,National,16,Other unimproved,0.006,Eurostat SILC database - EUSILC14
+Finland,FI,FIN,246,National,17,DK/missing information,0.0,Eurostat SILC database - EUSILC14
+Finland,FI,FIN,246,Urban,1,Flush and pour flush - to piped sewer system,0.997,Eurostat SILC database - EUSILC15
+Finland,FI,FIN,246,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC15
+Finland,FI,FIN,246,Urban,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC15
+Finland,FI,FIN,246,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC15
+Finland,FI,FIN,246,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC15
+Finland,FI,FIN,246,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC15
+Finland,FI,FIN,246,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC15
+Finland,FI,FIN,246,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC15
+Finland,FI,FIN,246,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC15
+Finland,FI,FIN,246,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC15
+Finland,FI,FIN,246,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC15
+Finland,FI,FIN,246,Urban,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC15
+Finland,FI,FIN,246,Urban,13,Composting toilets,0.0,Eurostat SILC database - EUSILC15
+Finland,FI,FIN,246,Urban,14,Other improved,0.0,Eurostat SILC database - EUSILC15
+Finland,FI,FIN,246,Urban,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC15
+Finland,FI,FIN,246,Urban,16,Other unimproved,0.003,Eurostat SILC database - EUSILC15
+Finland,FI,FIN,246,Urban,17,DK/missing information,0.0,Eurostat SILC database - EUSILC15
+Finland,FI,FIN,246,Rural,1,Flush and pour flush - to piped sewer system,0.992,Eurostat SILC database - EUSILC15
+Finland,FI,FIN,246,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC15
+Finland,FI,FIN,246,Rural,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC15
+Finland,FI,FIN,246,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC15
+Finland,FI,FIN,246,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC15
+Finland,FI,FIN,246,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC15
+Finland,FI,FIN,246,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC15
+Finland,FI,FIN,246,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC15
+Finland,FI,FIN,246,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC15
+Finland,FI,FIN,246,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC15
+Finland,FI,FIN,246,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC15
+Finland,FI,FIN,246,Rural,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC15
+Finland,FI,FIN,246,Rural,13,Composting toilets,0.0,Eurostat SILC database - EUSILC15
+Finland,FI,FIN,246,Rural,14,Other improved,0.0,Eurostat SILC database - EUSILC15
+Finland,FI,FIN,246,Rural,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC15
+Finland,FI,FIN,246,Rural,16,Other unimproved,0.008,Eurostat SILC database - EUSILC15
+Finland,FI,FIN,246,Rural,17,DK/missing information,0.0,Eurostat SILC database - EUSILC15
+Finland,FI,FIN,246,National,1,Flush and pour flush - to piped sewer system,0.995,Eurostat SILC database - EUSILC15
+Finland,FI,FIN,246,National,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC15
+Finland,FI,FIN,246,National,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC15
+Finland,FI,FIN,246,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC15
+Finland,FI,FIN,246,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC15
+Finland,FI,FIN,246,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC15
+Finland,FI,FIN,246,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC15
+Finland,FI,FIN,246,National,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC15
+Finland,FI,FIN,246,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC15
+Finland,FI,FIN,246,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC15
+Finland,FI,FIN,246,National,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC15
+Finland,FI,FIN,246,National,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC15
+Finland,FI,FIN,246,National,13,Composting toilets,0.0,Eurostat SILC database - EUSILC15
+Finland,FI,FIN,246,National,14,Other improved,0.0,Eurostat SILC database - EUSILC15
+Finland,FI,FIN,246,National,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC15
+Finland,FI,FIN,246,National,16,Other unimproved,0.005,Eurostat SILC database - EUSILC15
+Finland,FI,FIN,246,National,17,DK/missing information,0.0,Eurostat SILC database - EUSILC15
+Finland,FI,FIN,246,Urban,1,Flush and pour flush - to piped sewer system,0.95,Finnish Environment Institute - FEI00
+Finland,FI,FIN,246,Urban,2,Flush and pour flush - to septic tank,0.0,Finnish Environment Institute - FEI00
+Finland,FI,FIN,246,Urban,3,Flush and pour flush - to pit,0.0,Finnish Environment Institute - FEI00
+Finland,FI,FIN,246,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Finnish Environment Institute - FEI00
+Finland,FI,FIN,246,Urban,5,Flush and pour flush - to elsewhere,0.0,Finnish Environment Institute - FEI00
+Finland,FI,FIN,246,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Finnish Environment Institute - FEI00
+Finland,FI,FIN,246,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Finnish Environment Institute - FEI00
+Finland,FI,FIN,246,Urban,8,Dry latrines - Traditional latrine,0.0,Finnish Environment Institute - FEI00
+Finland,FI,FIN,246,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Finnish Environment Institute - FEI00
+Finland,FI,FIN,246,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Finnish Environment Institute - FEI00
+Finland,FI,FIN,246,Urban,11,Dry latrines - Bucket latrine,0.0,Finnish Environment Institute - FEI00
+Finland,FI,FIN,246,Urban,12,Dry latrines - Other,0.0,Finnish Environment Institute - FEI00
+Finland,FI,FIN,246,Urban,13,Composting toilets,0.0,Finnish Environment Institute - FEI00
+Finland,FI,FIN,246,Urban,14,Other improved,0.0,Finnish Environment Institute - FEI00
+Finland,FI,FIN,246,Urban,15,"No facility, bush, field",0.0,Finnish Environment Institute - FEI00
+Finland,FI,FIN,246,Urban,16,Other unimproved,0.0,Finnish Environment Institute - FEI00
+Finland,FI,FIN,246,Urban,17,DK/missing information,0.0,Finnish Environment Institute - FEI00
+Finland,FI,FIN,246,Rural,1,Flush and pour flush - to piped sewer system,0.05,Finnish Environment Institute - FEI00
+Finland,FI,FIN,246,Rural,2,Flush and pour flush - to septic tank,0.0,Finnish Environment Institute - FEI00
+Finland,FI,FIN,246,Rural,3,Flush and pour flush - to pit,0.0,Finnish Environment Institute - FEI00
+Finland,FI,FIN,246,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Finnish Environment Institute - FEI00
+Finland,FI,FIN,246,Rural,5,Flush and pour flush - to elsewhere,0.0,Finnish Environment Institute - FEI00
+Finland,FI,FIN,246,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Finnish Environment Institute - FEI00
+Finland,FI,FIN,246,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Finnish Environment Institute - FEI00
+Finland,FI,FIN,246,Rural,8,Dry latrines - Traditional latrine,0.0,Finnish Environment Institute - FEI00
+Finland,FI,FIN,246,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Finnish Environment Institute - FEI00
+Finland,FI,FIN,246,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Finnish Environment Institute - FEI00
+Finland,FI,FIN,246,Rural,11,Dry latrines - Bucket latrine,0.0,Finnish Environment Institute - FEI00
+Finland,FI,FIN,246,Rural,12,Dry latrines - Other,0.0,Finnish Environment Institute - FEI00
+Finland,FI,FIN,246,Rural,13,Composting toilets,0.0,Finnish Environment Institute - FEI00
+Finland,FI,FIN,246,Rural,14,Other improved,0.0,Finnish Environment Institute - FEI00
+Finland,FI,FIN,246,Rural,15,"No facility, bush, field",0.0,Finnish Environment Institute - FEI00
+Finland,FI,FIN,246,Rural,16,Other unimproved,0.0,Finnish Environment Institute - FEI00
+Finland,FI,FIN,246,Rural,17,DK/missing information,0.0,Finnish Environment Institute - FEI00
+Finland,FI,FIN,246,National,1,Flush and pour flush - to piped sewer system,0.0,Finnish Environment Institute - FEI00
+Finland,FI,FIN,246,National,2,Flush and pour flush - to septic tank,0.0,Finnish Environment Institute - FEI00
+Finland,FI,FIN,246,National,3,Flush and pour flush - to pit,0.0,Finnish Environment Institute - FEI00
+Finland,FI,FIN,246,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Finnish Environment Institute - FEI00
+Finland,FI,FIN,246,National,5,Flush and pour flush - to elsewhere,0.0,Finnish Environment Institute - FEI00
+Finland,FI,FIN,246,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Finnish Environment Institute - FEI00
+Finland,FI,FIN,246,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Finnish Environment Institute - FEI00
+Finland,FI,FIN,246,National,8,Dry latrines - Traditional latrine,0.0,Finnish Environment Institute - FEI00
+Finland,FI,FIN,246,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Finnish Environment Institute - FEI00
+Finland,FI,FIN,246,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Finnish Environment Institute - FEI00
+Finland,FI,FIN,246,National,11,Dry latrines - Bucket latrine,0.0,Finnish Environment Institute - FEI00
+Finland,FI,FIN,246,National,12,Dry latrines - Other,0.0,Finnish Environment Institute - FEI00
+Finland,FI,FIN,246,National,13,Composting toilets,0.0,Finnish Environment Institute - FEI00
+Finland,FI,FIN,246,National,14,Other improved,0.0,Finnish Environment Institute - FEI00
+Finland,FI,FIN,246,National,15,"No facility, bush, field",0.0,Finnish Environment Institute - FEI00
+Finland,FI,FIN,246,National,16,Other unimproved,0.0,Finnish Environment Institute - FEI00
+Finland,FI,FIN,246,National,17,DK/missing information,0.0,Finnish Environment Institute - FEI00
+Finland,FI,FIN,246,Urban,1,Flush and pour flush - to piped sewer system,0.95,Finnish Environment Institute - FEI02
+Finland,FI,FIN,246,Urban,2,Flush and pour flush - to septic tank,0.0,Finnish Environment Institute - FEI02
+Finland,FI,FIN,246,Urban,3,Flush and pour flush - to pit,0.0,Finnish Environment Institute - FEI02
+Finland,FI,FIN,246,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Finnish Environment Institute - FEI02
+Finland,FI,FIN,246,Urban,5,Flush and pour flush - to elsewhere,0.0,Finnish Environment Institute - FEI02
+Finland,FI,FIN,246,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Finnish Environment Institute - FEI02
+Finland,FI,FIN,246,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Finnish Environment Institute - FEI02
+Finland,FI,FIN,246,Urban,8,Dry latrines - Traditional latrine,0.0,Finnish Environment Institute - FEI02
+Finland,FI,FIN,246,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Finnish Environment Institute - FEI02
+Finland,FI,FIN,246,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Finnish Environment Institute - FEI02
+Finland,FI,FIN,246,Urban,11,Dry latrines - Bucket latrine,0.0,Finnish Environment Institute - FEI02
+Finland,FI,FIN,246,Urban,12,Dry latrines - Other,0.0,Finnish Environment Institute - FEI02
+Finland,FI,FIN,246,Urban,13,Composting toilets,0.0,Finnish Environment Institute - FEI02
+Finland,FI,FIN,246,Urban,14,Other improved,0.0,Finnish Environment Institute - FEI02
+Finland,FI,FIN,246,Urban,15,"No facility, bush, field",0.0,Finnish Environment Institute - FEI02
+Finland,FI,FIN,246,Urban,16,Other unimproved,0.0,Finnish Environment Institute - FEI02
+Finland,FI,FIN,246,Urban,17,DK/missing information,0.0,Finnish Environment Institute - FEI02
+Finland,FI,FIN,246,Rural,1,Flush and pour flush - to piped sewer system,0.06,Finnish Environment Institute - FEI02
+Finland,FI,FIN,246,Rural,2,Flush and pour flush - to septic tank,0.0,Finnish Environment Institute - FEI02
+Finland,FI,FIN,246,Rural,3,Flush and pour flush - to pit,0.0,Finnish Environment Institute - FEI02
+Finland,FI,FIN,246,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Finnish Environment Institute - FEI02
+Finland,FI,FIN,246,Rural,5,Flush and pour flush - to elsewhere,0.0,Finnish Environment Institute - FEI02
+Finland,FI,FIN,246,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Finnish Environment Institute - FEI02
+Finland,FI,FIN,246,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Finnish Environment Institute - FEI02
+Finland,FI,FIN,246,Rural,8,Dry latrines - Traditional latrine,0.0,Finnish Environment Institute - FEI02
+Finland,FI,FIN,246,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Finnish Environment Institute - FEI02
+Finland,FI,FIN,246,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Finnish Environment Institute - FEI02
+Finland,FI,FIN,246,Rural,11,Dry latrines - Bucket latrine,0.0,Finnish Environment Institute - FEI02
+Finland,FI,FIN,246,Rural,12,Dry latrines - Other,0.0,Finnish Environment Institute - FEI02
+Finland,FI,FIN,246,Rural,13,Composting toilets,0.0,Finnish Environment Institute - FEI02
+Finland,FI,FIN,246,Rural,14,Other improved,0.0,Finnish Environment Institute - FEI02
+Finland,FI,FIN,246,Rural,15,"No facility, bush, field",0.0,Finnish Environment Institute - FEI02
+Finland,FI,FIN,246,Rural,16,Other unimproved,0.0,Finnish Environment Institute - FEI02
+Finland,FI,FIN,246,Rural,17,DK/missing information,0.0,Finnish Environment Institute - FEI02
+Finland,FI,FIN,246,National,1,Flush and pour flush - to piped sewer system,0.0,Finnish Environment Institute - FEI02
+Finland,FI,FIN,246,National,2,Flush and pour flush - to septic tank,0.0,Finnish Environment Institute - FEI02
+Finland,FI,FIN,246,National,3,Flush and pour flush - to pit,0.0,Finnish Environment Institute - FEI02
+Finland,FI,FIN,246,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Finnish Environment Institute - FEI02
+Finland,FI,FIN,246,National,5,Flush and pour flush - to elsewhere,0.0,Finnish Environment Institute - FEI02
+Finland,FI,FIN,246,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Finnish Environment Institute - FEI02
+Finland,FI,FIN,246,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Finnish Environment Institute - FEI02
+Finland,FI,FIN,246,National,8,Dry latrines - Traditional latrine,0.0,Finnish Environment Institute - FEI02
+Finland,FI,FIN,246,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Finnish Environment Institute - FEI02
+Finland,FI,FIN,246,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Finnish Environment Institute - FEI02
+Finland,FI,FIN,246,National,11,Dry latrines - Bucket latrine,0.0,Finnish Environment Institute - FEI02
+Finland,FI,FIN,246,National,12,Dry latrines - Other,0.0,Finnish Environment Institute - FEI02
+Finland,FI,FIN,246,National,13,Composting toilets,0.0,Finnish Environment Institute - FEI02
+Finland,FI,FIN,246,National,14,Other improved,0.0,Finnish Environment Institute - FEI02
+Finland,FI,FIN,246,National,15,"No facility, bush, field",0.0,Finnish Environment Institute - FEI02
+Finland,FI,FIN,246,National,16,Other unimproved,0.0,Finnish Environment Institute - FEI02
+Finland,FI,FIN,246,National,17,DK/missing information,0.0,Finnish Environment Institute - FEI02

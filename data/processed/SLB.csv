@@ -1,4 +1,244 @@
 country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+Solomon Islands,SB,SLB,090,Urban,1,Flush and pour flush - to piped sewer system,0.0,HOUSEHOLD INCOME AND EXPENDITURE SURVEY 2005-2006 - HIES06
+Solomon Islands,SB,SLB,090,Urban,2,Flush and pour flush - to septic tank,0.566,HOUSEHOLD INCOME AND EXPENDITURE SURVEY 2005-2006 - HIES06
+Solomon Islands,SB,SLB,090,Urban,3,Flush and pour flush - to pit,0.0,HOUSEHOLD INCOME AND EXPENDITURE SURVEY 2005-2006 - HIES06
+Solomon Islands,SB,SLB,090,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,HOUSEHOLD INCOME AND EXPENDITURE SURVEY 2005-2006 - HIES06
+Solomon Islands,SB,SLB,090,Urban,5,Flush and pour flush - to elsewhere,0.0,HOUSEHOLD INCOME AND EXPENDITURE SURVEY 2005-2006 - HIES06
+Solomon Islands,SB,SLB,090,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,HOUSEHOLD INCOME AND EXPENDITURE SURVEY 2005-2006 - HIES06
+Solomon Islands,SB,SLB,090,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,HOUSEHOLD INCOME AND EXPENDITURE SURVEY 2005-2006 - HIES06
+Solomon Islands,SB,SLB,090,Urban,8,Dry latrines - Traditional latrine,0.198,HOUSEHOLD INCOME AND EXPENDITURE SURVEY 2005-2006 - HIES06
+Solomon Islands,SB,SLB,090,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,HOUSEHOLD INCOME AND EXPENDITURE SURVEY 2005-2006 - HIES06
+Solomon Islands,SB,SLB,090,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,HOUSEHOLD INCOME AND EXPENDITURE SURVEY 2005-2006 - HIES06
+Solomon Islands,SB,SLB,090,Urban,11,Dry latrines - Bucket latrine,0.11,HOUSEHOLD INCOME AND EXPENDITURE SURVEY 2005-2006 - HIES06
+Solomon Islands,SB,SLB,090,Urban,8,Dry latrines - Traditional latrine,0.173,HOUSEHOLD INCOME AND EXPENDITURE SURVEY 2005-2006 - HIES06
+Solomon Islands,SB,SLB,090,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,HOUSEHOLD INCOME AND EXPENDITURE SURVEY 2005-2006 - HIES06
+Solomon Islands,SB,SLB,090,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,HOUSEHOLD INCOME AND EXPENDITURE SURVEY 2005-2006 - HIES06
+Solomon Islands,SB,SLB,090,Urban,11,Dry latrines - Bucket latrine,0.11,HOUSEHOLD INCOME AND EXPENDITURE SURVEY 2005-2006 - HIES06
+Solomon Islands,SB,SLB,090,Urban,8,Dry latrines - Traditional latrine,0.025,HOUSEHOLD INCOME AND EXPENDITURE SURVEY 2005-2006 - HIES06
+Solomon Islands,SB,SLB,090,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,HOUSEHOLD INCOME AND EXPENDITURE SURVEY 2005-2006 - HIES06
+Solomon Islands,SB,SLB,090,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,HOUSEHOLD INCOME AND EXPENDITURE SURVEY 2005-2006 - HIES06
+Solomon Islands,SB,SLB,090,Urban,11,Dry latrines - Bucket latrine,0.0,HOUSEHOLD INCOME AND EXPENDITURE SURVEY 2005-2006 - HIES06
+Solomon Islands,SB,SLB,090,Urban,12,Dry latrines - Other,0.0,HOUSEHOLD INCOME AND EXPENDITURE SURVEY 2005-2006 - HIES06
+Solomon Islands,SB,SLB,090,Urban,13,Composting toilets,0.0,HOUSEHOLD INCOME AND EXPENDITURE SURVEY 2005-2006 - HIES06
+Solomon Islands,SB,SLB,090,Urban,14,Other improved,0.0,HOUSEHOLD INCOME AND EXPENDITURE SURVEY 2005-2006 - HIES06
+Solomon Islands,SB,SLB,090,Urban,15,"No facility, bush, field",0.076,HOUSEHOLD INCOME AND EXPENDITURE SURVEY 2005-2006 - HIES06
+Solomon Islands,SB,SLB,090,Urban,16,Other unimproved,0.0,HOUSEHOLD INCOME AND EXPENDITURE SURVEY 2005-2006 - HIES06
+Solomon Islands,SB,SLB,090,Urban,17,DK/missing information,0.0,HOUSEHOLD INCOME AND EXPENDITURE SURVEY 2005-2006 - HIES06
+Solomon Islands,SB,SLB,090,Rural,1,Flush and pour flush - to piped sewer system,0.0,HOUSEHOLD INCOME AND EXPENDITURE SURVEY 2005-2006 - HIES06
+Solomon Islands,SB,SLB,090,Rural,2,Flush and pour flush - to septic tank,0.063,HOUSEHOLD INCOME AND EXPENDITURE SURVEY 2005-2006 - HIES06
+Solomon Islands,SB,SLB,090,Rural,3,Flush and pour flush - to pit,0.0,HOUSEHOLD INCOME AND EXPENDITURE SURVEY 2005-2006 - HIES06
+Solomon Islands,SB,SLB,090,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,HOUSEHOLD INCOME AND EXPENDITURE SURVEY 2005-2006 - HIES06
+Solomon Islands,SB,SLB,090,Rural,5,Flush and pour flush - to elsewhere,0.0,HOUSEHOLD INCOME AND EXPENDITURE SURVEY 2005-2006 - HIES06
+Solomon Islands,SB,SLB,090,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,HOUSEHOLD INCOME AND EXPENDITURE SURVEY 2005-2006 - HIES06
+Solomon Islands,SB,SLB,090,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,HOUSEHOLD INCOME AND EXPENDITURE SURVEY 2005-2006 - HIES06
+Solomon Islands,SB,SLB,090,Rural,8,Dry latrines - Traditional latrine,0.212,HOUSEHOLD INCOME AND EXPENDITURE SURVEY 2005-2006 - HIES06
+Solomon Islands,SB,SLB,090,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,HOUSEHOLD INCOME AND EXPENDITURE SURVEY 2005-2006 - HIES06
+Solomon Islands,SB,SLB,090,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,HOUSEHOLD INCOME AND EXPENDITURE SURVEY 2005-2006 - HIES06
+Solomon Islands,SB,SLB,090,Rural,11,Dry latrines - Bucket latrine,0.053,HOUSEHOLD INCOME AND EXPENDITURE SURVEY 2005-2006 - HIES06
+Solomon Islands,SB,SLB,090,Rural,8,Dry latrines - Traditional latrine,0.154,HOUSEHOLD INCOME AND EXPENDITURE SURVEY 2005-2006 - HIES06
+Solomon Islands,SB,SLB,090,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,HOUSEHOLD INCOME AND EXPENDITURE SURVEY 2005-2006 - HIES06
+Solomon Islands,SB,SLB,090,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,HOUSEHOLD INCOME AND EXPENDITURE SURVEY 2005-2006 - HIES06
+Solomon Islands,SB,SLB,090,Rural,11,Dry latrines - Bucket latrine,0.053,HOUSEHOLD INCOME AND EXPENDITURE SURVEY 2005-2006 - HIES06
+Solomon Islands,SB,SLB,090,Rural,8,Dry latrines - Traditional latrine,0.058,HOUSEHOLD INCOME AND EXPENDITURE SURVEY 2005-2006 - HIES06
+Solomon Islands,SB,SLB,090,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,HOUSEHOLD INCOME AND EXPENDITURE SURVEY 2005-2006 - HIES06
+Solomon Islands,SB,SLB,090,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,HOUSEHOLD INCOME AND EXPENDITURE SURVEY 2005-2006 - HIES06
+Solomon Islands,SB,SLB,090,Rural,11,Dry latrines - Bucket latrine,0.0,HOUSEHOLD INCOME AND EXPENDITURE SURVEY 2005-2006 - HIES06
+Solomon Islands,SB,SLB,090,Rural,12,Dry latrines - Other,0.0,HOUSEHOLD INCOME AND EXPENDITURE SURVEY 2005-2006 - HIES06
+Solomon Islands,SB,SLB,090,Rural,13,Composting toilets,0.0,HOUSEHOLD INCOME AND EXPENDITURE SURVEY 2005-2006 - HIES06
+Solomon Islands,SB,SLB,090,Rural,14,Other improved,0.0,HOUSEHOLD INCOME AND EXPENDITURE SURVEY 2005-2006 - HIES06
+Solomon Islands,SB,SLB,090,Rural,15,"No facility, bush, field",0.663,HOUSEHOLD INCOME AND EXPENDITURE SURVEY 2005-2006 - HIES06
+Solomon Islands,SB,SLB,090,Rural,16,Other unimproved,0.0,HOUSEHOLD INCOME AND EXPENDITURE SURVEY 2005-2006 - HIES06
+Solomon Islands,SB,SLB,090,Rural,17,DK/missing information,0.0,HOUSEHOLD INCOME AND EXPENDITURE SURVEY 2005-2006 - HIES06
+Solomon Islands,SB,SLB,090,National,1,Flush and pour flush - to piped sewer system,0.0,HOUSEHOLD INCOME AND EXPENDITURE SURVEY 2005-2006 - HIES06
+Solomon Islands,SB,SLB,090,National,2,Flush and pour flush - to septic tank,0.135,HOUSEHOLD INCOME AND EXPENDITURE SURVEY 2005-2006 - HIES06
+Solomon Islands,SB,SLB,090,National,3,Flush and pour flush - to pit,0.0,HOUSEHOLD INCOME AND EXPENDITURE SURVEY 2005-2006 - HIES06
+Solomon Islands,SB,SLB,090,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,HOUSEHOLD INCOME AND EXPENDITURE SURVEY 2005-2006 - HIES06
+Solomon Islands,SB,SLB,090,National,5,Flush and pour flush - to elsewhere,0.0,HOUSEHOLD INCOME AND EXPENDITURE SURVEY 2005-2006 - HIES06
+Solomon Islands,SB,SLB,090,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,HOUSEHOLD INCOME AND EXPENDITURE SURVEY 2005-2006 - HIES06
+Solomon Islands,SB,SLB,090,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,HOUSEHOLD INCOME AND EXPENDITURE SURVEY 2005-2006 - HIES06
+Solomon Islands,SB,SLB,090,National,8,Dry latrines - Traditional latrine,0.21,HOUSEHOLD INCOME AND EXPENDITURE SURVEY 2005-2006 - HIES06
+Solomon Islands,SB,SLB,090,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,HOUSEHOLD INCOME AND EXPENDITURE SURVEY 2005-2006 - HIES06
+Solomon Islands,SB,SLB,090,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,HOUSEHOLD INCOME AND EXPENDITURE SURVEY 2005-2006 - HIES06
+Solomon Islands,SB,SLB,090,National,11,Dry latrines - Bucket latrine,0.061,HOUSEHOLD INCOME AND EXPENDITURE SURVEY 2005-2006 - HIES06
+Solomon Islands,SB,SLB,090,National,8,Dry latrines - Traditional latrine,0.157,HOUSEHOLD INCOME AND EXPENDITURE SURVEY 2005-2006 - HIES06
+Solomon Islands,SB,SLB,090,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,HOUSEHOLD INCOME AND EXPENDITURE SURVEY 2005-2006 - HIES06
+Solomon Islands,SB,SLB,090,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,HOUSEHOLD INCOME AND EXPENDITURE SURVEY 2005-2006 - HIES06
+Solomon Islands,SB,SLB,090,National,11,Dry latrines - Bucket latrine,0.061,HOUSEHOLD INCOME AND EXPENDITURE SURVEY 2005-2006 - HIES06
+Solomon Islands,SB,SLB,090,National,8,Dry latrines - Traditional latrine,0.053,HOUSEHOLD INCOME AND EXPENDITURE SURVEY 2005-2006 - HIES06
+Solomon Islands,SB,SLB,090,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,HOUSEHOLD INCOME AND EXPENDITURE SURVEY 2005-2006 - HIES06
+Solomon Islands,SB,SLB,090,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,HOUSEHOLD INCOME AND EXPENDITURE SURVEY 2005-2006 - HIES06
+Solomon Islands,SB,SLB,090,National,11,Dry latrines - Bucket latrine,0.0,HOUSEHOLD INCOME AND EXPENDITURE SURVEY 2005-2006 - HIES06
+Solomon Islands,SB,SLB,090,National,12,Dry latrines - Other,0.0,HOUSEHOLD INCOME AND EXPENDITURE SURVEY 2005-2006 - HIES06
+Solomon Islands,SB,SLB,090,National,13,Composting toilets,0.0,HOUSEHOLD INCOME AND EXPENDITURE SURVEY 2005-2006 - HIES06
+Solomon Islands,SB,SLB,090,National,14,Other improved,0.0,HOUSEHOLD INCOME AND EXPENDITURE SURVEY 2005-2006 - HIES06
+Solomon Islands,SB,SLB,090,National,15,"No facility, bush, field",0.578,HOUSEHOLD INCOME AND EXPENDITURE SURVEY 2005-2006 - HIES06
+Solomon Islands,SB,SLB,090,National,16,Other unimproved,0.0,HOUSEHOLD INCOME AND EXPENDITURE SURVEY 2005-2006 - HIES06
+Solomon Islands,SB,SLB,090,National,17,DK/missing information,0.0,HOUSEHOLD INCOME AND EXPENDITURE SURVEY 2005-2006 - HIES06
+Solomon Islands,SB,SLB,090,Urban,1,Flush and pour flush - to piped sewer system,0.0,Measure DHS - DHS07
+Solomon Islands,SB,SLB,090,Urban,2,Flush and pour flush - to septic tank,0.561,Measure DHS - DHS07
+Solomon Islands,SB,SLB,090,Urban,3,Flush and pour flush - to pit,0.055,Measure DHS - DHS07
+Solomon Islands,SB,SLB,090,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Measure DHS - DHS07
+Solomon Islands,SB,SLB,090,Urban,5,Flush and pour flush - to elsewhere,0.002,Measure DHS - DHS07
+Solomon Islands,SB,SLB,090,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.017,Measure DHS - DHS07
+Solomon Islands,SB,SLB,090,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.135,Measure DHS - DHS07
+Solomon Islands,SB,SLB,090,Urban,8,Dry latrines - Traditional latrine,0.0,Measure DHS - DHS07
+Solomon Islands,SB,SLB,090,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.015,Measure DHS - DHS07
+Solomon Islands,SB,SLB,090,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Measure DHS - DHS07
+Solomon Islands,SB,SLB,090,Urban,11,Dry latrines - Bucket latrine,0.033,Measure DHS - DHS07
+Solomon Islands,SB,SLB,090,Urban,12,Dry latrines - Other,0.0,Measure DHS - DHS07
+Solomon Islands,SB,SLB,090,Urban,13,Composting toilets,0.0,Measure DHS - DHS07
+Solomon Islands,SB,SLB,090,Urban,14,Other improved,0.0,Measure DHS - DHS07
+Solomon Islands,SB,SLB,090,Urban,15,"No facility, bush, field",0.041,Measure DHS - DHS07
+Solomon Islands,SB,SLB,090,Urban,16,Other unimproved,0.128,Measure DHS - DHS07
+Solomon Islands,SB,SLB,090,Urban,17,DK/missing information,0.012,Measure DHS - DHS07
+Solomon Islands,SB,SLB,090,Rural,1,Flush and pour flush - to piped sewer system,0.0,Measure DHS - DHS07
+Solomon Islands,SB,SLB,090,Rural,2,Flush and pour flush - to septic tank,0.017,Measure DHS - DHS07
+Solomon Islands,SB,SLB,090,Rural,3,Flush and pour flush - to pit,0.014,Measure DHS - DHS07
+Solomon Islands,SB,SLB,090,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Measure DHS - DHS07
+Solomon Islands,SB,SLB,090,Rural,5,Flush and pour flush - to elsewhere,0.002,Measure DHS - DHS07
+Solomon Islands,SB,SLB,090,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.015,Measure DHS - DHS07
+Solomon Islands,SB,SLB,090,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.032,Measure DHS - DHS07
+Solomon Islands,SB,SLB,090,Rural,8,Dry latrines - Traditional latrine,0.0,Measure DHS - DHS07
+Solomon Islands,SB,SLB,090,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.059,Measure DHS - DHS07
+Solomon Islands,SB,SLB,090,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.017,Measure DHS - DHS07
+Solomon Islands,SB,SLB,090,Rural,11,Dry latrines - Bucket latrine,0.007,Measure DHS - DHS07
+Solomon Islands,SB,SLB,090,Rural,12,Dry latrines - Other,0.0,Measure DHS - DHS07
+Solomon Islands,SB,SLB,090,Rural,13,Composting toilets,0.0,Measure DHS - DHS07
+Solomon Islands,SB,SLB,090,Rural,14,Other improved,0.0,Measure DHS - DHS07
+Solomon Islands,SB,SLB,090,Rural,15,"No facility, bush, field",0.733,Measure DHS - DHS07
+Solomon Islands,SB,SLB,090,Rural,16,Other unimproved,0.1,Measure DHS - DHS07
+Solomon Islands,SB,SLB,090,Rural,17,DK/missing information,0.004,Measure DHS - DHS07
+Solomon Islands,SB,SLB,090,National,1,Flush and pour flush - to piped sewer system,0.0,Measure DHS - DHS07
+Solomon Islands,SB,SLB,090,National,2,Flush and pour flush - to septic tank,0.094,Measure DHS - DHS07
+Solomon Islands,SB,SLB,090,National,3,Flush and pour flush - to pit,0.02,Measure DHS - DHS07
+Solomon Islands,SB,SLB,090,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Measure DHS - DHS07
+Solomon Islands,SB,SLB,090,National,5,Flush and pour flush - to elsewhere,0.002,Measure DHS - DHS07
+Solomon Islands,SB,SLB,090,National,6,Dry latrines - Ventilated Improved Pit latrine,0.015,Measure DHS - DHS07
+Solomon Islands,SB,SLB,090,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.047,Measure DHS - DHS07
+Solomon Islands,SB,SLB,090,National,8,Dry latrines - Traditional latrine,0.0,Measure DHS - DHS07
+Solomon Islands,SB,SLB,090,National,9,Dry latrines - Pit latrine without slab/open pit,0.052,Measure DHS - DHS07
+Solomon Islands,SB,SLB,090,National,10,Dry latrines - Hanging toilet/hanging latrine,0.014,Measure DHS - DHS07
+Solomon Islands,SB,SLB,090,National,11,Dry latrines - Bucket latrine,0.011,Measure DHS - DHS07
+Solomon Islands,SB,SLB,090,National,12,Dry latrines - Other,0.0,Measure DHS - DHS07
+Solomon Islands,SB,SLB,090,National,13,Composting toilets,0.0,Measure DHS - DHS07
+Solomon Islands,SB,SLB,090,National,14,Other improved,0.0,Measure DHS - DHS07
+Solomon Islands,SB,SLB,090,National,15,"No facility, bush, field",0.635,Measure DHS - DHS07
+Solomon Islands,SB,SLB,090,National,16,Other unimproved,0.104,Measure DHS - DHS07
+Solomon Islands,SB,SLB,090,National,17,DK/missing information,0.005,Measure DHS - DHS07
+Solomon Islands,SB,SLB,090,Urban,1,Flush and pour flush - to piped sewer system,0.0,Census - CEN09
+Solomon Islands,SB,SLB,090,Urban,2,Flush and pour flush - to septic tank,0.0,Census - CEN09
+Solomon Islands,SB,SLB,090,Urban,3,Flush and pour flush - to pit,0.0,Census - CEN09
+Solomon Islands,SB,SLB,090,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN09
+Solomon Islands,SB,SLB,090,Urban,5,Flush and pour flush - to elsewhere,0.0,Census - CEN09
+Solomon Islands,SB,SLB,090,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN09
+Solomon Islands,SB,SLB,090,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN09
+Solomon Islands,SB,SLB,090,Urban,8,Dry latrines - Traditional latrine,0.147,Census - CEN09
+Solomon Islands,SB,SLB,090,Urban,8,Dry latrines - Traditional latrine,0.104,Census - CEN09
+Solomon Islands,SB,SLB,090,Urban,8,Dry latrines - Traditional latrine,0.043,Census - CEN09
+Solomon Islands,SB,SLB,090,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN09
+Solomon Islands,SB,SLB,090,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN09
+Solomon Islands,SB,SLB,090,Urban,11,Dry latrines - Bucket latrine,0.0,Census - CEN09
+Solomon Islands,SB,SLB,090,Urban,12,Dry latrines - Other,0.0,Census - CEN09
+Solomon Islands,SB,SLB,090,Urban,13,Composting toilets,0.0,Census - CEN09
+Solomon Islands,SB,SLB,090,Urban,14,Other improved,0.0,Census - CEN09
+Solomon Islands,SB,SLB,090,Urban,15,"No facility, bush, field",0.113,Census - CEN09
+Solomon Islands,SB,SLB,090,Urban,16,Other unimproved,0.0,Census - CEN09
+Solomon Islands,SB,SLB,090,Urban,17,DK/missing information,0.0,Census - CEN09
+Solomon Islands,SB,SLB,090,Rural,1,Flush and pour flush - to piped sewer system,0.0,Census - CEN09
+Solomon Islands,SB,SLB,090,Rural,2,Flush and pour flush - to septic tank,0.0,Census - CEN09
+Solomon Islands,SB,SLB,090,Rural,3,Flush and pour flush - to pit,0.0,Census - CEN09
+Solomon Islands,SB,SLB,090,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN09
+Solomon Islands,SB,SLB,090,Rural,5,Flush and pour flush - to elsewhere,0.0,Census - CEN09
+Solomon Islands,SB,SLB,090,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN09
+Solomon Islands,SB,SLB,090,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN09
+Solomon Islands,SB,SLB,090,Rural,8,Dry latrines - Traditional latrine,0.219,Census - CEN09
+Solomon Islands,SB,SLB,090,Rural,8,Dry latrines - Traditional latrine,0.118,Census - CEN09
+Solomon Islands,SB,SLB,090,Rural,8,Dry latrines - Traditional latrine,0.101,Census - CEN09
+Solomon Islands,SB,SLB,090,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN09
+Solomon Islands,SB,SLB,090,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN09
+Solomon Islands,SB,SLB,090,Rural,11,Dry latrines - Bucket latrine,0.0,Census - CEN09
+Solomon Islands,SB,SLB,090,Rural,12,Dry latrines - Other,0.0,Census - CEN09
+Solomon Islands,SB,SLB,090,Rural,13,Composting toilets,0.0,Census - CEN09
+Solomon Islands,SB,SLB,090,Rural,14,Other improved,0.0,Census - CEN09
+Solomon Islands,SB,SLB,090,Rural,15,"No facility, bush, field",0.665,Census - CEN09
+Solomon Islands,SB,SLB,090,Rural,16,Other unimproved,0.0,Census - CEN09
+Solomon Islands,SB,SLB,090,Rural,17,DK/missing information,0.0,Census - CEN09
+Solomon Islands,SB,SLB,090,National,1,Flush and pour flush - to piped sewer system,0.0,Census - CEN09
+Solomon Islands,SB,SLB,090,National,2,Flush and pour flush - to septic tank,0.0,Census - CEN09
+Solomon Islands,SB,SLB,090,National,3,Flush and pour flush - to pit,0.0,Census - CEN09
+Solomon Islands,SB,SLB,090,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN09
+Solomon Islands,SB,SLB,090,National,5,Flush and pour flush - to elsewhere,0.0,Census - CEN09
+Solomon Islands,SB,SLB,090,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN09
+Solomon Islands,SB,SLB,090,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN09
+Solomon Islands,SB,SLB,090,National,8,Dry latrines - Traditional latrine,0.207,Census - CEN09
+Solomon Islands,SB,SLB,090,National,8,Dry latrines - Traditional latrine,0.115,Census - CEN09
+Solomon Islands,SB,SLB,090,National,8,Dry latrines - Traditional latrine,0.091,Census - CEN09
+Solomon Islands,SB,SLB,090,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN09
+Solomon Islands,SB,SLB,090,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN09
+Solomon Islands,SB,SLB,090,National,11,Dry latrines - Bucket latrine,0.0,Census - CEN09
+Solomon Islands,SB,SLB,090,National,12,Dry latrines - Other,0.0,Census - CEN09
+Solomon Islands,SB,SLB,090,National,13,Composting toilets,0.0,Census - CEN09
+Solomon Islands,SB,SLB,090,National,14,Other improved,0.0,Census - CEN09
+Solomon Islands,SB,SLB,090,National,15,"No facility, bush, field",0.572,Census - CEN09
+Solomon Islands,SB,SLB,090,National,16,Other unimproved,0.0,Census - CEN09
+Solomon Islands,SB,SLB,090,National,17,DK/missing information,0.0,Census - CEN09
+Solomon Islands,SB,SLB,090,Urban,1,Flush and pour flush - to piped sewer system,0.0,Houshold income expenditure survey - HIES13
+Solomon Islands,SB,SLB,090,Urban,2,Flush and pour flush - to septic tank,0.0,Houshold income expenditure survey - HIES13
+Solomon Islands,SB,SLB,090,Urban,3,Flush and pour flush - to pit,0.0,Houshold income expenditure survey - HIES13
+Solomon Islands,SB,SLB,090,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Houshold income expenditure survey - HIES13
+Solomon Islands,SB,SLB,090,Urban,5,Flush and pour flush - to elsewhere,0.0,Houshold income expenditure survey - HIES13
+Solomon Islands,SB,SLB,090,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Houshold income expenditure survey - HIES13
+Solomon Islands,SB,SLB,090,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.333,Houshold income expenditure survey - HIES13
+Solomon Islands,SB,SLB,090,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.243,Houshold income expenditure survey - HIES13
+Solomon Islands,SB,SLB,090,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.09,Houshold income expenditure survey - HIES13
+Solomon Islands,SB,SLB,090,Urban,8,Dry latrines - Traditional latrine,0.0,Houshold income expenditure survey - HIES13
+Solomon Islands,SB,SLB,090,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Houshold income expenditure survey - HIES13
+Solomon Islands,SB,SLB,090,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Houshold income expenditure survey - HIES13
+Solomon Islands,SB,SLB,090,Urban,11,Dry latrines - Bucket latrine,0.0,Houshold income expenditure survey - HIES13
+Solomon Islands,SB,SLB,090,Urban,12,Dry latrines - Other,0.0,Houshold income expenditure survey - HIES13
+Solomon Islands,SB,SLB,090,Urban,13,Composting toilets,0.0,Houshold income expenditure survey - HIES13
+Solomon Islands,SB,SLB,090,Urban,14,Other improved,0.0,Houshold income expenditure survey - HIES13
+Solomon Islands,SB,SLB,090,Urban,15,"No facility, bush, field",0.08,Houshold income expenditure survey - HIES13
+Solomon Islands,SB,SLB,090,Urban,16,Other unimproved,0.013,Houshold income expenditure survey - HIES13
+Solomon Islands,SB,SLB,090,Urban,17,DK/missing information,0.0,Houshold income expenditure survey - HIES13
+Solomon Islands,SB,SLB,090,Rural,1,Flush and pour flush - to piped sewer system,0.0,Houshold income expenditure survey - HIES13
+Solomon Islands,SB,SLB,090,Rural,2,Flush and pour flush - to septic tank,0.0,Houshold income expenditure survey - HIES13
+Solomon Islands,SB,SLB,090,Rural,3,Flush and pour flush - to pit,0.0,Houshold income expenditure survey - HIES13
+Solomon Islands,SB,SLB,090,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Houshold income expenditure survey - HIES13
+Solomon Islands,SB,SLB,090,Rural,5,Flush and pour flush - to elsewhere,0.0,Houshold income expenditure survey - HIES13
+Solomon Islands,SB,SLB,090,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Houshold income expenditure survey - HIES13
+Solomon Islands,SB,SLB,090,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.11,Houshold income expenditure survey - HIES13
+Solomon Islands,SB,SLB,090,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.099,Houshold income expenditure survey - HIES13
+Solomon Islands,SB,SLB,090,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.011,Houshold income expenditure survey - HIES13
+Solomon Islands,SB,SLB,090,Rural,8,Dry latrines - Traditional latrine,0.0,Houshold income expenditure survey - HIES13
+Solomon Islands,SB,SLB,090,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Houshold income expenditure survey - HIES13
+Solomon Islands,SB,SLB,090,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Houshold income expenditure survey - HIES13
+Solomon Islands,SB,SLB,090,Rural,11,Dry latrines - Bucket latrine,0.0,Houshold income expenditure survey - HIES13
+Solomon Islands,SB,SLB,090,Rural,12,Dry latrines - Other,0.0,Houshold income expenditure survey - HIES13
+Solomon Islands,SB,SLB,090,Rural,13,Composting toilets,0.0,Houshold income expenditure survey - HIES13
+Solomon Islands,SB,SLB,090,Rural,14,Other improved,0.0,Houshold income expenditure survey - HIES13
+Solomon Islands,SB,SLB,090,Rural,15,"No facility, bush, field",0.525,Houshold income expenditure survey - HIES13
+Solomon Islands,SB,SLB,090,Rural,16,Other unimproved,0.169,Houshold income expenditure survey - HIES13
+Solomon Islands,SB,SLB,090,Rural,17,DK/missing information,0.0,Houshold income expenditure survey - HIES13
+Solomon Islands,SB,SLB,090,National,1,Flush and pour flush - to piped sewer system,0.0,Houshold income expenditure survey - HIES13
+Solomon Islands,SB,SLB,090,National,2,Flush and pour flush - to septic tank,0.0,Houshold income expenditure survey - HIES13
+Solomon Islands,SB,SLB,090,National,3,Flush and pour flush - to pit,0.0,Houshold income expenditure survey - HIES13
+Solomon Islands,SB,SLB,090,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Houshold income expenditure survey - HIES13
+Solomon Islands,SB,SLB,090,National,5,Flush and pour flush - to elsewhere,0.0,Houshold income expenditure survey - HIES13
+Solomon Islands,SB,SLB,090,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Houshold income expenditure survey - HIES13
+Solomon Islands,SB,SLB,090,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.149,Houshold income expenditure survey - HIES13
+Solomon Islands,SB,SLB,090,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.124,Houshold income expenditure survey - HIES13
+Solomon Islands,SB,SLB,090,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.025,Houshold income expenditure survey - HIES13
+Solomon Islands,SB,SLB,090,National,8,Dry latrines - Traditional latrine,0.0,Houshold income expenditure survey - HIES13
+Solomon Islands,SB,SLB,090,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Houshold income expenditure survey - HIES13
+Solomon Islands,SB,SLB,090,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Houshold income expenditure survey - HIES13
+Solomon Islands,SB,SLB,090,National,11,Dry latrines - Bucket latrine,0.0,Houshold income expenditure survey - HIES13
+Solomon Islands,SB,SLB,090,National,12,Dry latrines - Other,0.0,Houshold income expenditure survey - HIES13
+Solomon Islands,SB,SLB,090,National,13,Composting toilets,0.0,Houshold income expenditure survey - HIES13
+Solomon Islands,SB,SLB,090,National,14,Other improved,0.0,Houshold income expenditure survey - HIES13
+Solomon Islands,SB,SLB,090,National,15,"No facility, bush, field",0.447,Houshold income expenditure survey - HIES13
+Solomon Islands,SB,SLB,090,National,16,Other unimproved,0.142,Houshold income expenditure survey - HIES13
+Solomon Islands,SB,SLB,090,National,17,DK/missing information,0.0,Houshold income expenditure survey - HIES13
 Solomon Islands,SB,SLB,090,Urban,1,Flush and pour flush - to piped sewer system,0.23,Demographic and Health Survey - DHS15
 Solomon Islands,SB,SLB,090,Urban,2,Flush and pour flush - to septic tank,0.432,Demographic and Health Survey - DHS15
 Solomon Islands,SB,SLB,090,Urban,3,Flush and pour flush - to pit,0.129,Demographic and Health Survey - DHS15
@@ -33,3 +273,71 @@ Solomon Islands,SB,SLB,090,Rural,14,Other improved,0.0,Demographic and Health Su
 Solomon Islands,SB,SLB,090,Rural,15,"No facility, bush, field",0.667,Demographic and Health Survey - DHS15
 Solomon Islands,SB,SLB,090,Rural,16,Other unimproved,0.016,Demographic and Health Survey - DHS15
 Solomon Islands,SB,SLB,090,Rural,17,DK/missing information,0.0,Demographic and Health Survey - DHS15
+Solomon Islands,SB,SLB,090,National,1,Flush and pour flush - to piped sewer system,0.051,Demographic and Health Survey - DHS15
+Solomon Islands,SB,SLB,090,National,2,Flush and pour flush - to septic tank,0.12,Demographic and Health Survey - DHS15
+Solomon Islands,SB,SLB,090,National,3,Flush and pour flush - to pit,0.052,Demographic and Health Survey - DHS15
+Solomon Islands,SB,SLB,090,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.001,Demographic and Health Survey - DHS15
+Solomon Islands,SB,SLB,090,National,5,Flush and pour flush - to elsewhere,0.002,Demographic and Health Survey - DHS15
+Solomon Islands,SB,SLB,090,National,6,Dry latrines - Ventilated Improved Pit latrine,0.028,Demographic and Health Survey - DHS15
+Solomon Islands,SB,SLB,090,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.056,Demographic and Health Survey - DHS15
+Solomon Islands,SB,SLB,090,National,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS15
+Solomon Islands,SB,SLB,090,National,9,Dry latrines - Pit latrine without slab/open pit,0.083,Demographic and Health Survey - DHS15
+Solomon Islands,SB,SLB,090,National,10,Dry latrines - Hanging toilet/hanging latrine,0.021,Demographic and Health Survey - DHS15
+Solomon Islands,SB,SLB,090,National,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS15
+Solomon Islands,SB,SLB,090,National,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS15
+Solomon Islands,SB,SLB,090,National,13,Composting toilets,0.002,Demographic and Health Survey - DHS15
+Solomon Islands,SB,SLB,090,National,14,Other improved,0.0,Demographic and Health Survey - DHS15
+Solomon Islands,SB,SLB,090,National,15,"No facility, bush, field",0.57,Demographic and Health Survey - DHS15
+Solomon Islands,SB,SLB,090,National,16,Other unimproved,0.014,Demographic and Health Survey - DHS15
+Solomon Islands,SB,SLB,090,National,17,DK/missing information,0.0,Demographic and Health Survey - DHS15
+Solomon Islands,SB,SLB,090,Urban,1,Flush and pour flush - to piped sewer system,0.0,Solomon Islands Rural WASH - RWASH16
+Solomon Islands,SB,SLB,090,Urban,2,Flush and pour flush - to septic tank,0.0,Solomon Islands Rural WASH - RWASH16
+Solomon Islands,SB,SLB,090,Urban,3,Flush and pour flush - to pit,0.0,Solomon Islands Rural WASH - RWASH16
+Solomon Islands,SB,SLB,090,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Solomon Islands Rural WASH - RWASH16
+Solomon Islands,SB,SLB,090,Urban,5,Flush and pour flush - to elsewhere,0.0,Solomon Islands Rural WASH - RWASH16
+Solomon Islands,SB,SLB,090,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Solomon Islands Rural WASH - RWASH16
+Solomon Islands,SB,SLB,090,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Solomon Islands Rural WASH - RWASH16
+Solomon Islands,SB,SLB,090,Urban,8,Dry latrines - Traditional latrine,0.0,Solomon Islands Rural WASH - RWASH16
+Solomon Islands,SB,SLB,090,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Solomon Islands Rural WASH - RWASH16
+Solomon Islands,SB,SLB,090,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Solomon Islands Rural WASH - RWASH16
+Solomon Islands,SB,SLB,090,Urban,11,Dry latrines - Bucket latrine,0.0,Solomon Islands Rural WASH - RWASH16
+Solomon Islands,SB,SLB,090,Urban,12,Dry latrines - Other,0.0,Solomon Islands Rural WASH - RWASH16
+Solomon Islands,SB,SLB,090,Urban,13,Composting toilets,0.0,Solomon Islands Rural WASH - RWASH16
+Solomon Islands,SB,SLB,090,Urban,14,Other improved,0.0,Solomon Islands Rural WASH - RWASH16
+Solomon Islands,SB,SLB,090,Urban,15,"No facility, bush, field",0.0,Solomon Islands Rural WASH - RWASH16
+Solomon Islands,SB,SLB,090,Urban,16,Other unimproved,0.0,Solomon Islands Rural WASH - RWASH16
+Solomon Islands,SB,SLB,090,Urban,17,DK/missing information,0.0,Solomon Islands Rural WASH - RWASH16
+Solomon Islands,SB,SLB,090,Rural,1,Flush and pour flush - to piped sewer system,0.0,Solomon Islands Rural WASH - RWASH16
+Solomon Islands,SB,SLB,090,Rural,2,Flush and pour flush - to septic tank,0.029,Solomon Islands Rural WASH - RWASH16
+Solomon Islands,SB,SLB,090,Rural,3,Flush and pour flush - to pit,0.068,Solomon Islands Rural WASH - RWASH16
+Solomon Islands,SB,SLB,090,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Solomon Islands Rural WASH - RWASH16
+Solomon Islands,SB,SLB,090,Rural,5,Flush and pour flush - to elsewhere,0.001,Solomon Islands Rural WASH - RWASH16
+Solomon Islands,SB,SLB,090,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.005,Solomon Islands Rural WASH - RWASH16
+Solomon Islands,SB,SLB,090,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.031,Solomon Islands Rural WASH - RWASH16
+Solomon Islands,SB,SLB,090,Rural,8,Dry latrines - Traditional latrine,0.0,Solomon Islands Rural WASH - RWASH16
+Solomon Islands,SB,SLB,090,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.051,Solomon Islands Rural WASH - RWASH16
+Solomon Islands,SB,SLB,090,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.001,Solomon Islands Rural WASH - RWASH16
+Solomon Islands,SB,SLB,090,Rural,11,Dry latrines - Bucket latrine,0.001,Solomon Islands Rural WASH - RWASH16
+Solomon Islands,SB,SLB,090,Rural,12,Dry latrines - Other,0.0,Solomon Islands Rural WASH - RWASH16
+Solomon Islands,SB,SLB,090,Rural,13,Composting toilets,0.0,Solomon Islands Rural WASH - RWASH16
+Solomon Islands,SB,SLB,090,Rural,14,Other improved,0.0,Solomon Islands Rural WASH - RWASH16
+Solomon Islands,SB,SLB,090,Rural,15,"No facility, bush, field",0.803,Solomon Islands Rural WASH - RWASH16
+Solomon Islands,SB,SLB,090,Rural,16,Other unimproved,0.0,Solomon Islands Rural WASH - RWASH16
+Solomon Islands,SB,SLB,090,Rural,17,DK/missing information,0.0,Solomon Islands Rural WASH - RWASH16
+Solomon Islands,SB,SLB,090,National,1,Flush and pour flush - to piped sewer system,0.0,Solomon Islands Rural WASH - RWASH16
+Solomon Islands,SB,SLB,090,National,2,Flush and pour flush - to septic tank,0.0,Solomon Islands Rural WASH - RWASH16
+Solomon Islands,SB,SLB,090,National,3,Flush and pour flush - to pit,0.0,Solomon Islands Rural WASH - RWASH16
+Solomon Islands,SB,SLB,090,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Solomon Islands Rural WASH - RWASH16
+Solomon Islands,SB,SLB,090,National,5,Flush and pour flush - to elsewhere,0.0,Solomon Islands Rural WASH - RWASH16
+Solomon Islands,SB,SLB,090,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Solomon Islands Rural WASH - RWASH16
+Solomon Islands,SB,SLB,090,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Solomon Islands Rural WASH - RWASH16
+Solomon Islands,SB,SLB,090,National,8,Dry latrines - Traditional latrine,0.0,Solomon Islands Rural WASH - RWASH16
+Solomon Islands,SB,SLB,090,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Solomon Islands Rural WASH - RWASH16
+Solomon Islands,SB,SLB,090,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Solomon Islands Rural WASH - RWASH16
+Solomon Islands,SB,SLB,090,National,11,Dry latrines - Bucket latrine,0.0,Solomon Islands Rural WASH - RWASH16
+Solomon Islands,SB,SLB,090,National,12,Dry latrines - Other,0.0,Solomon Islands Rural WASH - RWASH16
+Solomon Islands,SB,SLB,090,National,13,Composting toilets,0.0,Solomon Islands Rural WASH - RWASH16
+Solomon Islands,SB,SLB,090,National,14,Other improved,0.0,Solomon Islands Rural WASH - RWASH16
+Solomon Islands,SB,SLB,090,National,15,"No facility, bush, field",0.0,Solomon Islands Rural WASH - RWASH16
+Solomon Islands,SB,SLB,090,National,16,Other unimproved,0.0,Solomon Islands Rural WASH - RWASH16
+Solomon Islands,SB,SLB,090,National,17,DK/missing information,0.0,Solomon Islands Rural WASH - RWASH16

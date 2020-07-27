@@ -1,4 +1,157 @@
 country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+Kenya,KE,KEN,404,Urban,1,Flush and pour flush - to piped sewer system,0.0,Kenya Multiple Indicator Cluster Survey 2000 - MICS00
+Kenya,KE,KEN,404,Urban,2,Flush and pour flush - to septic tank,0.0,Kenya Multiple Indicator Cluster Survey 2000 - MICS00
+Kenya,KE,KEN,404,Urban,3,Flush and pour flush - to pit,0.0,Kenya Multiple Indicator Cluster Survey 2000 - MICS00
+Kenya,KE,KEN,404,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.464,Kenya Multiple Indicator Cluster Survey 2000 - MICS00
+Kenya,KE,KEN,404,Urban,5,Flush and pour flush - to elsewhere,0.0,Kenya Multiple Indicator Cluster Survey 2000 - MICS00
+Kenya,KE,KEN,404,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Kenya Multiple Indicator Cluster Survey 2000 - MICS00
+Kenya,KE,KEN,404,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.068,Kenya Multiple Indicator Cluster Survey 2000 - MICS00
+Kenya,KE,KEN,404,Urban,8,Dry latrines - Traditional latrine,0.421,Kenya Multiple Indicator Cluster Survey 2000 - MICS00
+Kenya,KE,KEN,404,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.026,Kenya Multiple Indicator Cluster Survey 2000 - MICS00
+Kenya,KE,KEN,404,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Kenya Multiple Indicator Cluster Survey 2000 - MICS00
+Kenya,KE,KEN,404,Urban,11,Dry latrines - Bucket latrine,0.006,Kenya Multiple Indicator Cluster Survey 2000 - MICS00
+Kenya,KE,KEN,404,Urban,12,Dry latrines - Other,0.0,Kenya Multiple Indicator Cluster Survey 2000 - MICS00
+Kenya,KE,KEN,404,Urban,13,Composting toilets,0.0,Kenya Multiple Indicator Cluster Survey 2000 - MICS00
+Kenya,KE,KEN,404,Urban,14,Other improved,0.0,Kenya Multiple Indicator Cluster Survey 2000 - MICS00
+Kenya,KE,KEN,404,Urban,15,"No facility, bush, field",0.012,Kenya Multiple Indicator Cluster Survey 2000 - MICS00
+Kenya,KE,KEN,404,Urban,16,Other unimproved,0.002,Kenya Multiple Indicator Cluster Survey 2000 - MICS00
+Kenya,KE,KEN,404,Urban,17,DK/missing information,0.0,Kenya Multiple Indicator Cluster Survey 2000 - MICS00
+Kenya,KE,KEN,404,Rural,1,Flush and pour flush - to piped sewer system,0.0,Kenya Multiple Indicator Cluster Survey 2000 - MICS00
+Kenya,KE,KEN,404,Rural,2,Flush and pour flush - to septic tank,0.0,Kenya Multiple Indicator Cluster Survey 2000 - MICS00
+Kenya,KE,KEN,404,Rural,3,Flush and pour flush - to pit,0.0,Kenya Multiple Indicator Cluster Survey 2000 - MICS00
+Kenya,KE,KEN,404,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.062,Kenya Multiple Indicator Cluster Survey 2000 - MICS00
+Kenya,KE,KEN,404,Rural,5,Flush and pour flush - to elsewhere,0.0,Kenya Multiple Indicator Cluster Survey 2000 - MICS00
+Kenya,KE,KEN,404,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Kenya Multiple Indicator Cluster Survey 2000 - MICS00
+Kenya,KE,KEN,404,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.06,Kenya Multiple Indicator Cluster Survey 2000 - MICS00
+Kenya,KE,KEN,404,Rural,8,Dry latrines - Traditional latrine,0.641,Kenya Multiple Indicator Cluster Survey 2000 - MICS00
+Kenya,KE,KEN,404,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.06,Kenya Multiple Indicator Cluster Survey 2000 - MICS00
+Kenya,KE,KEN,404,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Kenya Multiple Indicator Cluster Survey 2000 - MICS00
+Kenya,KE,KEN,404,Rural,11,Dry latrines - Bucket latrine,0.0,Kenya Multiple Indicator Cluster Survey 2000 - MICS00
+Kenya,KE,KEN,404,Rural,12,Dry latrines - Other,0.0,Kenya Multiple Indicator Cluster Survey 2000 - MICS00
+Kenya,KE,KEN,404,Rural,13,Composting toilets,0.0,Kenya Multiple Indicator Cluster Survey 2000 - MICS00
+Kenya,KE,KEN,404,Rural,14,Other improved,0.0,Kenya Multiple Indicator Cluster Survey 2000 - MICS00
+Kenya,KE,KEN,404,Rural,15,"No facility, bush, field",0.176,Kenya Multiple Indicator Cluster Survey 2000 - MICS00
+Kenya,KE,KEN,404,Rural,16,Other unimproved,0.001,Kenya Multiple Indicator Cluster Survey 2000 - MICS00
+Kenya,KE,KEN,404,Rural,17,DK/missing information,0.0,Kenya Multiple Indicator Cluster Survey 2000 - MICS00
+Kenya,KE,KEN,404,National,1,Flush and pour flush - to piped sewer system,0.0,Kenya Multiple Indicator Cluster Survey 2000 - MICS00
+Kenya,KE,KEN,404,National,2,Flush and pour flush - to septic tank,0.0,Kenya Multiple Indicator Cluster Survey 2000 - MICS00
+Kenya,KE,KEN,404,National,3,Flush and pour flush - to pit,0.0,Kenya Multiple Indicator Cluster Survey 2000 - MICS00
+Kenya,KE,KEN,404,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.151,Kenya Multiple Indicator Cluster Survey 2000 - MICS00
+Kenya,KE,KEN,404,National,5,Flush and pour flush - to elsewhere,0.0,Kenya Multiple Indicator Cluster Survey 2000 - MICS00
+Kenya,KE,KEN,404,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Kenya Multiple Indicator Cluster Survey 2000 - MICS00
+Kenya,KE,KEN,404,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.061,Kenya Multiple Indicator Cluster Survey 2000 - MICS00
+Kenya,KE,KEN,404,National,8,Dry latrines - Traditional latrine,0.592,Kenya Multiple Indicator Cluster Survey 2000 - MICS00
+Kenya,KE,KEN,404,National,9,Dry latrines - Pit latrine without slab/open pit,0.053,Kenya Multiple Indicator Cluster Survey 2000 - MICS00
+Kenya,KE,KEN,404,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Kenya Multiple Indicator Cluster Survey 2000 - MICS00
+Kenya,KE,KEN,404,National,11,Dry latrines - Bucket latrine,0.001,Kenya Multiple Indicator Cluster Survey 2000 - MICS00
+Kenya,KE,KEN,404,National,12,Dry latrines - Other,0.0,Kenya Multiple Indicator Cluster Survey 2000 - MICS00
+Kenya,KE,KEN,404,National,13,Composting toilets,0.0,Kenya Multiple Indicator Cluster Survey 2000 - MICS00
+Kenya,KE,KEN,404,National,14,Other improved,0.0,Kenya Multiple Indicator Cluster Survey 2000 - MICS00
+Kenya,KE,KEN,404,National,15,"No facility, bush, field",0.14,Kenya Multiple Indicator Cluster Survey 2000 - MICS00
+Kenya,KE,KEN,404,National,16,Other unimproved,0.001,Kenya Multiple Indicator Cluster Survey 2000 - MICS00
+Kenya,KE,KEN,404,National,17,DK/missing information,0.0,Kenya Multiple Indicator Cluster Survey 2000 - MICS00
+Kenya,KE,KEN,404,Urban,1,Flush and pour flush - to piped sewer system,0.0,Kenya Demographic and Health Survey 2003 - DHS03
+Kenya,KE,KEN,404,Urban,2,Flush and pour flush - to septic tank,0.0,Kenya Demographic and Health Survey 2003 - DHS03
+Kenya,KE,KEN,404,Urban,3,Flush and pour flush - to pit,0.0,Kenya Demographic and Health Survey 2003 - DHS03
+Kenya,KE,KEN,404,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.391,Kenya Demographic and Health Survey 2003 - DHS03
+Kenya,KE,KEN,404,Urban,5,Flush and pour flush - to elsewhere,0.0,Kenya Demographic and Health Survey 2003 - DHS03
+Kenya,KE,KEN,404,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.113,Kenya Demographic and Health Survey 2003 - DHS03
+Kenya,KE,KEN,404,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Kenya Demographic and Health Survey 2003 - DHS03
+Kenya,KE,KEN,404,Urban,8,Dry latrines - Traditional latrine,0.443,Kenya Demographic and Health Survey 2003 - DHS03
+Kenya,KE,KEN,404,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Kenya Demographic and Health Survey 2003 - DHS03
+Kenya,KE,KEN,404,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Kenya Demographic and Health Survey 2003 - DHS03
+Kenya,KE,KEN,404,Urban,11,Dry latrines - Bucket latrine,0.0,Kenya Demographic and Health Survey 2003 - DHS03
+Kenya,KE,KEN,404,Urban,12,Dry latrines - Other,0.0,Kenya Demographic and Health Survey 2003 - DHS03
+Kenya,KE,KEN,404,Urban,13,Composting toilets,0.0,Kenya Demographic and Health Survey 2003 - DHS03
+Kenya,KE,KEN,404,Urban,14,Other improved,0.0,Kenya Demographic and Health Survey 2003 - DHS03
+Kenya,KE,KEN,404,Urban,15,"No facility, bush, field",0.04,Kenya Demographic and Health Survey 2003 - DHS03
+Kenya,KE,KEN,404,Urban,16,Other unimproved,0.013,Kenya Demographic and Health Survey 2003 - DHS03
+Kenya,KE,KEN,404,Urban,17,DK/missing information,0.0,Kenya Demographic and Health Survey 2003 - DHS03
+Kenya,KE,KEN,404,Rural,1,Flush and pour flush - to piped sewer system,0.0,Kenya Demographic and Health Survey 2003 - DHS03
+Kenya,KE,KEN,404,Rural,2,Flush and pour flush - to septic tank,0.0,Kenya Demographic and Health Survey 2003 - DHS03
+Kenya,KE,KEN,404,Rural,3,Flush and pour flush - to pit,0.0,Kenya Demographic and Health Survey 2003 - DHS03
+Kenya,KE,KEN,404,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.015,Kenya Demographic and Health Survey 2003 - DHS03
+Kenya,KE,KEN,404,Rural,5,Flush and pour flush - to elsewhere,0.0,Kenya Demographic and Health Survey 2003 - DHS03
+Kenya,KE,KEN,404,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.071,Kenya Demographic and Health Survey 2003 - DHS03
+Kenya,KE,KEN,404,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Kenya Demographic and Health Survey 2003 - DHS03
+Kenya,KE,KEN,404,Rural,8,Dry latrines - Traditional latrine,0.694,Kenya Demographic and Health Survey 2003 - DHS03
+Kenya,KE,KEN,404,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Kenya Demographic and Health Survey 2003 - DHS03
+Kenya,KE,KEN,404,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Kenya Demographic and Health Survey 2003 - DHS03
+Kenya,KE,KEN,404,Rural,11,Dry latrines - Bucket latrine,0.0,Kenya Demographic and Health Survey 2003 - DHS03
+Kenya,KE,KEN,404,Rural,12,Dry latrines - Other,0.0,Kenya Demographic and Health Survey 2003 - DHS03
+Kenya,KE,KEN,404,Rural,13,Composting toilets,0.0,Kenya Demographic and Health Survey 2003 - DHS03
+Kenya,KE,KEN,404,Rural,14,Other improved,0.0,Kenya Demographic and Health Survey 2003 - DHS03
+Kenya,KE,KEN,404,Rural,15,"No facility, bush, field",0.219,Kenya Demographic and Health Survey 2003 - DHS03
+Kenya,KE,KEN,404,Rural,16,Other unimproved,0.001,Kenya Demographic and Health Survey 2003 - DHS03
+Kenya,KE,KEN,404,Rural,17,DK/missing information,0.0,Kenya Demographic and Health Survey 2003 - DHS03
+Kenya,KE,KEN,404,National,1,Flush and pour flush - to piped sewer system,0.0,Kenya Demographic and Health Survey 2003 - DHS03
+Kenya,KE,KEN,404,National,2,Flush and pour flush - to septic tank,0.0,Kenya Demographic and Health Survey 2003 - DHS03
+Kenya,KE,KEN,404,National,3,Flush and pour flush - to pit,0.0,Kenya Demographic and Health Survey 2003 - DHS03
+Kenya,KE,KEN,404,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.09,Kenya Demographic and Health Survey 2003 - DHS03
+Kenya,KE,KEN,404,National,5,Flush and pour flush - to elsewhere,0.0,Kenya Demographic and Health Survey 2003 - DHS03
+Kenya,KE,KEN,404,National,6,Dry latrines - Ventilated Improved Pit latrine,0.08,Kenya Demographic and Health Survey 2003 - DHS03
+Kenya,KE,KEN,404,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Kenya Demographic and Health Survey 2003 - DHS03
+Kenya,KE,KEN,404,National,8,Dry latrines - Traditional latrine,0.644,Kenya Demographic and Health Survey 2003 - DHS03
+Kenya,KE,KEN,404,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Kenya Demographic and Health Survey 2003 - DHS03
+Kenya,KE,KEN,404,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Kenya Demographic and Health Survey 2003 - DHS03
+Kenya,KE,KEN,404,National,11,Dry latrines - Bucket latrine,0.0,Kenya Demographic and Health Survey 2003 - DHS03
+Kenya,KE,KEN,404,National,12,Dry latrines - Other,0.0,Kenya Demographic and Health Survey 2003 - DHS03
+Kenya,KE,KEN,404,National,13,Composting toilets,0.0,Kenya Demographic and Health Survey 2003 - DHS03
+Kenya,KE,KEN,404,National,14,Other improved,0.0,Kenya Demographic and Health Survey 2003 - DHS03
+Kenya,KE,KEN,404,National,15,"No facility, bush, field",0.183,Kenya Demographic and Health Survey 2003 - DHS03
+Kenya,KE,KEN,404,National,16,Other unimproved,0.003,Kenya Demographic and Health Survey 2003 - DHS03
+Kenya,KE,KEN,404,National,17,DK/missing information,0.0,Kenya Demographic and Health Survey 2003 - DHS03
+Kenya,KE,KEN,404,Urban,1,Flush and pour flush - to piped sewer system,0.0,Kenya Integrated Household Budget Survey - IHBS06
+Kenya,KE,KEN,404,Urban,2,Flush and pour flush - to septic tank,0.0,Kenya Integrated Household Budget Survey - IHBS06
+Kenya,KE,KEN,404,Urban,3,Flush and pour flush - to pit,0.0,Kenya Integrated Household Budget Survey - IHBS06
+Kenya,KE,KEN,404,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Kenya Integrated Household Budget Survey - IHBS06
+Kenya,KE,KEN,404,Urban,5,Flush and pour flush - to elsewhere,0.0,Kenya Integrated Household Budget Survey - IHBS06
+Kenya,KE,KEN,404,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.068,Kenya Integrated Household Budget Survey - IHBS06
+Kenya,KE,KEN,404,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Kenya Integrated Household Budget Survey - IHBS06
+Kenya,KE,KEN,404,Urban,8,Dry latrines - Traditional latrine,0.492,Kenya Integrated Household Budget Survey - IHBS06
+Kenya,KE,KEN,404,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Kenya Integrated Household Budget Survey - IHBS06
+Kenya,KE,KEN,404,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Kenya Integrated Household Budget Survey - IHBS06
+Kenya,KE,KEN,404,Urban,11,Dry latrines - Bucket latrine,0.002,Kenya Integrated Household Budget Survey - IHBS06
+Kenya,KE,KEN,404,Urban,12,Dry latrines - Other,0.0,Kenya Integrated Household Budget Survey - IHBS06
+Kenya,KE,KEN,404,Urban,13,Composting toilets,0.0,Kenya Integrated Household Budget Survey - IHBS06
+Kenya,KE,KEN,404,Urban,14,Other improved,0.0,Kenya Integrated Household Budget Survey - IHBS06
+Kenya,KE,KEN,404,Urban,15,"No facility, bush, field",0.026,Kenya Integrated Household Budget Survey - IHBS06
+Kenya,KE,KEN,404,Urban,16,Other unimproved,0.019,Kenya Integrated Household Budget Survey - IHBS06
+Kenya,KE,KEN,404,Urban,17,DK/missing information,0.0,Kenya Integrated Household Budget Survey - IHBS06
+Kenya,KE,KEN,404,Rural,1,Flush and pour flush - to piped sewer system,0.0,Kenya Integrated Household Budget Survey - IHBS06
+Kenya,KE,KEN,404,Rural,2,Flush and pour flush - to septic tank,0.0,Kenya Integrated Household Budget Survey - IHBS06
+Kenya,KE,KEN,404,Rural,3,Flush and pour flush - to pit,0.0,Kenya Integrated Household Budget Survey - IHBS06
+Kenya,KE,KEN,404,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Kenya Integrated Household Budget Survey - IHBS06
+Kenya,KE,KEN,404,Rural,5,Flush and pour flush - to elsewhere,0.0,Kenya Integrated Household Budget Survey - IHBS06
+Kenya,KE,KEN,404,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.053,Kenya Integrated Household Budget Survey - IHBS06
+Kenya,KE,KEN,404,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Kenya Integrated Household Budget Survey - IHBS06
+Kenya,KE,KEN,404,Rural,8,Dry latrines - Traditional latrine,0.735,Kenya Integrated Household Budget Survey - IHBS06
+Kenya,KE,KEN,404,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Kenya Integrated Household Budget Survey - IHBS06
+Kenya,KE,KEN,404,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Kenya Integrated Household Budget Survey - IHBS06
+Kenya,KE,KEN,404,Rural,11,Dry latrines - Bucket latrine,0.0,Kenya Integrated Household Budget Survey - IHBS06
+Kenya,KE,KEN,404,Rural,12,Dry latrines - Other,0.0,Kenya Integrated Household Budget Survey - IHBS06
+Kenya,KE,KEN,404,Rural,13,Composting toilets,0.0,Kenya Integrated Household Budget Survey - IHBS06
+Kenya,KE,KEN,404,Rural,14,Other improved,0.0,Kenya Integrated Household Budget Survey - IHBS06
+Kenya,KE,KEN,404,Rural,15,"No facility, bush, field",0.188,Kenya Integrated Household Budget Survey - IHBS06
+Kenya,KE,KEN,404,Rural,16,Other unimproved,0.008,Kenya Integrated Household Budget Survey - IHBS06
+Kenya,KE,KEN,404,Rural,17,DK/missing information,0.0,Kenya Integrated Household Budget Survey - IHBS06
+Kenya,KE,KEN,404,National,1,Flush and pour flush - to piped sewer system,0.0,Kenya Integrated Household Budget Survey - IHBS06
+Kenya,KE,KEN,404,National,2,Flush and pour flush - to septic tank,0.0,Kenya Integrated Household Budget Survey - IHBS06
+Kenya,KE,KEN,404,National,3,Flush and pour flush - to pit,0.0,Kenya Integrated Household Budget Survey - IHBS06
+Kenya,KE,KEN,404,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Kenya Integrated Household Budget Survey - IHBS06
+Kenya,KE,KEN,404,National,5,Flush and pour flush - to elsewhere,0.0,Kenya Integrated Household Budget Survey - IHBS06
+Kenya,KE,KEN,404,National,6,Dry latrines - Ventilated Improved Pit latrine,0.056,Kenya Integrated Household Budget Survey - IHBS06
+Kenya,KE,KEN,404,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Kenya Integrated Household Budget Survey - IHBS06
+Kenya,KE,KEN,404,National,8,Dry latrines - Traditional latrine,0.674,Kenya Integrated Household Budget Survey - IHBS06
+Kenya,KE,KEN,404,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Kenya Integrated Household Budget Survey - IHBS06
+Kenya,KE,KEN,404,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Kenya Integrated Household Budget Survey - IHBS06
+Kenya,KE,KEN,404,National,11,Dry latrines - Bucket latrine,0.0,Kenya Integrated Household Budget Survey - IHBS06
+Kenya,KE,KEN,404,National,12,Dry latrines - Other,0.0,Kenya Integrated Household Budget Survey - IHBS06
+Kenya,KE,KEN,404,National,13,Composting toilets,0.0,Kenya Integrated Household Budget Survey - IHBS06
+Kenya,KE,KEN,404,National,14,Other improved,0.0,Kenya Integrated Household Budget Survey - IHBS06
+Kenya,KE,KEN,404,National,15,"No facility, bush, field",0.148,Kenya Integrated Household Budget Survey - IHBS06
+Kenya,KE,KEN,404,National,16,Other unimproved,0.011,Kenya Integrated Household Budget Survey - IHBS06
+Kenya,KE,KEN,404,National,17,DK/missing information,0.0,Kenya Integrated Household Budget Survey - IHBS06
 Kenya,KE,KEN,404,Urban,1,Flush and pour flush - to piped sewer system,0.338,Kenya Demographic and Health Survey 2009 - DHS09
 Kenya,KE,KEN,404,Urban,2,Flush and pour flush - to septic tank,0.112,Kenya Demographic and Health Survey 2009 - DHS09
 Kenya,KE,KEN,404,Urban,3,Flush and pour flush - to pit,0.043,Kenya Demographic and Health Survey 2009 - DHS09
@@ -37,6 +190,25 @@ Kenya,KE,KEN,404,Rural,14,Other improved,0.0,Kenya Demographic and Health Survey
 Kenya,KE,KEN,404,Rural,15,"No facility, bush, field",0.177,Kenya Demographic and Health Survey 2009 - DHS09
 Kenya,KE,KEN,404,Rural,16,Other unimproved,0.0,Kenya Demographic and Health Survey 2009 - DHS09
 Kenya,KE,KEN,404,Rural,17,DK/missing information,0.0,Kenya Demographic and Health Survey 2009 - DHS09
+Kenya,KE,KEN,404,National,1,Flush and pour flush - to piped sewer system,0.071,Kenya Demographic and Health Survey 2009 - DHS09
+Kenya,KE,KEN,404,National,2,Flush and pour flush - to septic tank,0.024,Kenya Demographic and Health Survey 2009 - DHS09
+Kenya,KE,KEN,404,National,3,Flush and pour flush - to pit,0.01,Kenya Demographic and Health Survey 2009 - DHS09
+Kenya,KE,KEN,404,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.003,Kenya Demographic and Health Survey 2009 - DHS09
+Kenya,KE,KEN,404,National,5,Flush and pour flush - to elsewhere,0.005,Kenya Demographic and Health Survey 2009 - DHS09
+Kenya,KE,KEN,404,National,6,Dry latrines - Ventilated Improved Pit latrine,0.161,Kenya Demographic and Health Survey 2009 - DHS09
+Kenya,KE,KEN,404,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.177,Kenya Demographic and Health Survey 2009 - DHS09
+Kenya,KE,KEN,404,National,8,Dry latrines - Traditional latrine,0.0,Kenya Demographic and Health Survey 2009 - DHS09
+Kenya,KE,KEN,404,National,9,Dry latrines - Pit latrine without slab/open pit,0.4,Kenya Demographic and Health Survey 2009 - DHS09
+Kenya,KE,KEN,404,National,10,Dry latrines - Hanging toilet/hanging latrine,0.003,Kenya Demographic and Health Survey 2009 - DHS09
+Kenya,KE,KEN,404,National,11,Dry latrines - Bucket latrine,0.001,Kenya Demographic and Health Survey 2009 - DHS09
+Kenya,KE,KEN,404,National,10,Dry latrines - Hanging toilet/hanging latrine,0.003,Kenya Demographic and Health Survey 2009 - DHS09
+Kenya,KE,KEN,404,National,11,Dry latrines - Bucket latrine,0.001,Kenya Demographic and Health Survey 2009 - DHS09
+Kenya,KE,KEN,404,National,12,Dry latrines - Other,0.0,Kenya Demographic and Health Survey 2009 - DHS09
+Kenya,KE,KEN,404,National,13,Composting toilets,0.0,Kenya Demographic and Health Survey 2009 - DHS09
+Kenya,KE,KEN,404,National,14,Other improved,0.0,Kenya Demographic and Health Survey 2009 - DHS09
+Kenya,KE,KEN,404,National,15,"No facility, bush, field",0.145,Kenya Demographic and Health Survey 2009 - DHS09
+Kenya,KE,KEN,404,National,16,Other unimproved,0.0,Kenya Demographic and Health Survey 2009 - DHS09
+Kenya,KE,KEN,404,National,17,DK/missing information,0.0,Kenya Demographic and Health Survey 2009 - DHS09
 Kenya,KE,KEN,404,Urban,1,Flush and pour flush - to piped sewer system,0.199,Population and Housing Census - CEN09
 Kenya,KE,KEN,404,Urban,2,Flush and pour flush - to septic tank,0.082,Population and Housing Census - CEN09
 Kenya,KE,KEN,404,Urban,3,Flush and pour flush - to pit,0.007,Population and Housing Census - CEN09
@@ -71,6 +243,125 @@ Kenya,KE,KEN,404,Rural,14,Other improved,0.0,Population and Housing Census - CEN
 Kenya,KE,KEN,404,Rural,15,"No facility, bush, field",0.205,Population and Housing Census - CEN09
 Kenya,KE,KEN,404,Rural,16,Other unimproved,0.001,Population and Housing Census - CEN09
 Kenya,KE,KEN,404,Rural,17,DK/missing information,0.0,Population and Housing Census - CEN09
+Kenya,KE,KEN,404,National,1,Flush and pour flush - to piped sewer system,0.077,Population and Housing Census - CEN09
+Kenya,KE,KEN,404,National,2,Flush and pour flush - to septic tank,0.034,Population and Housing Census - CEN09
+Kenya,KE,KEN,404,National,3,Flush and pour flush - to pit,0.003,Population and Housing Census - CEN09
+Kenya,KE,KEN,404,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Population and Housing Census - CEN09
+Kenya,KE,KEN,404,National,5,Flush and pour flush - to elsewhere,0.0,Population and Housing Census - CEN09
+Kenya,KE,KEN,404,National,6,Dry latrines - Ventilated Improved Pit latrine,0.049,Population and Housing Census - CEN09
+Kenya,KE,KEN,404,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.487,Population and Housing Census - CEN09
+Kenya,KE,KEN,404,National,8,Dry latrines - Traditional latrine,0.0,Population and Housing Census - CEN09
+Kenya,KE,KEN,404,National,9,Dry latrines - Pit latrine without slab/open pit,0.209,Population and Housing Census - CEN09
+Kenya,KE,KEN,404,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Population and Housing Census - CEN09
+Kenya,KE,KEN,404,National,11,Dry latrines - Bucket latrine,0.003,Population and Housing Census - CEN09
+Kenya,KE,KEN,404,National,12,Dry latrines - Other,0.0,Population and Housing Census - CEN09
+Kenya,KE,KEN,404,National,13,Composting toilets,0.0,Population and Housing Census - CEN09
+Kenya,KE,KEN,404,National,14,Other improved,0.0,Population and Housing Census - CEN09
+Kenya,KE,KEN,404,National,15,"No facility, bush, field",0.136,Population and Housing Census - CEN09
+Kenya,KE,KEN,404,National,16,Other unimproved,0.002,Population and Housing Census - CEN09
+Kenya,KE,KEN,404,National,17,DK/missing information,0.0,Population and Housing Census - CEN09
+Kenya,KE,KEN,404,Urban,1,Flush and pour flush - to piped sewer system,0.294,Malaria Indicator Survey - MIS10
+Kenya,KE,KEN,404,Urban,2,Flush and pour flush - to septic tank,0.0,Malaria Indicator Survey - MIS10
+Kenya,KE,KEN,404,Urban,3,Flush and pour flush - to pit,0.0,Malaria Indicator Survey - MIS10
+Kenya,KE,KEN,404,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Malaria Indicator Survey - MIS10
+Kenya,KE,KEN,404,Urban,5,Flush and pour flush - to elsewhere,0.0,Malaria Indicator Survey - MIS10
+Kenya,KE,KEN,404,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.262,Malaria Indicator Survey - MIS10
+Kenya,KE,KEN,404,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Malaria Indicator Survey - MIS10
+Kenya,KE,KEN,404,Urban,8,Dry latrines - Traditional latrine,0.392,Malaria Indicator Survey - MIS10
+Kenya,KE,KEN,404,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Malaria Indicator Survey - MIS10
+Kenya,KE,KEN,404,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Malaria Indicator Survey - MIS10
+Kenya,KE,KEN,404,Urban,11,Dry latrines - Bucket latrine,0.0,Malaria Indicator Survey - MIS10
+Kenya,KE,KEN,404,Urban,12,Dry latrines - Other,0.0,Malaria Indicator Survey - MIS10
+Kenya,KE,KEN,404,Urban,13,Composting toilets,0.0,Malaria Indicator Survey - MIS10
+Kenya,KE,KEN,404,Urban,14,Other improved,0.0,Malaria Indicator Survey - MIS10
+Kenya,KE,KEN,404,Urban,15,"No facility, bush, field",0.048,Malaria Indicator Survey - MIS10
+Kenya,KE,KEN,404,Urban,16,Other unimproved,0.001,Malaria Indicator Survey - MIS10
+Kenya,KE,KEN,404,Urban,17,DK/missing information,0.004,Malaria Indicator Survey - MIS10
+Kenya,KE,KEN,404,Rural,1,Flush and pour flush - to piped sewer system,0.018,Malaria Indicator Survey - MIS10
+Kenya,KE,KEN,404,Rural,2,Flush and pour flush - to septic tank,0.0,Malaria Indicator Survey - MIS10
+Kenya,KE,KEN,404,Rural,3,Flush and pour flush - to pit,0.0,Malaria Indicator Survey - MIS10
+Kenya,KE,KEN,404,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Malaria Indicator Survey - MIS10
+Kenya,KE,KEN,404,Rural,5,Flush and pour flush - to elsewhere,0.0,Malaria Indicator Survey - MIS10
+Kenya,KE,KEN,404,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.114,Malaria Indicator Survey - MIS10
+Kenya,KE,KEN,404,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Malaria Indicator Survey - MIS10
+Kenya,KE,KEN,404,Rural,8,Dry latrines - Traditional latrine,0.701,Malaria Indicator Survey - MIS10
+Kenya,KE,KEN,404,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Malaria Indicator Survey - MIS10
+Kenya,KE,KEN,404,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Malaria Indicator Survey - MIS10
+Kenya,KE,KEN,404,Rural,11,Dry latrines - Bucket latrine,0.0,Malaria Indicator Survey - MIS10
+Kenya,KE,KEN,404,Rural,12,Dry latrines - Other,0.0,Malaria Indicator Survey - MIS10
+Kenya,KE,KEN,404,Rural,13,Composting toilets,0.0,Malaria Indicator Survey - MIS10
+Kenya,KE,KEN,404,Rural,14,Other improved,0.0,Malaria Indicator Survey - MIS10
+Kenya,KE,KEN,404,Rural,15,"No facility, bush, field",0.16,Malaria Indicator Survey - MIS10
+Kenya,KE,KEN,404,Rural,16,Other unimproved,0.005,Malaria Indicator Survey - MIS10
+Kenya,KE,KEN,404,Rural,17,DK/missing information,0.003,Malaria Indicator Survey - MIS10
+Kenya,KE,KEN,404,National,1,Flush and pour flush - to piped sewer system,0.085,Malaria Indicator Survey - MIS10
+Kenya,KE,KEN,404,National,2,Flush and pour flush - to septic tank,0.0,Malaria Indicator Survey - MIS10
+Kenya,KE,KEN,404,National,3,Flush and pour flush - to pit,0.0,Malaria Indicator Survey - MIS10
+Kenya,KE,KEN,404,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Malaria Indicator Survey - MIS10
+Kenya,KE,KEN,404,National,5,Flush and pour flush - to elsewhere,0.0,Malaria Indicator Survey - MIS10
+Kenya,KE,KEN,404,National,6,Dry latrines - Ventilated Improved Pit latrine,0.15,Malaria Indicator Survey - MIS10
+Kenya,KE,KEN,404,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Malaria Indicator Survey - MIS10
+Kenya,KE,KEN,404,National,8,Dry latrines - Traditional latrine,0.626,Malaria Indicator Survey - MIS10
+Kenya,KE,KEN,404,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Malaria Indicator Survey - MIS10
+Kenya,KE,KEN,404,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Malaria Indicator Survey - MIS10
+Kenya,KE,KEN,404,National,11,Dry latrines - Bucket latrine,0.0,Malaria Indicator Survey - MIS10
+Kenya,KE,KEN,404,National,12,Dry latrines - Other,0.0,Malaria Indicator Survey - MIS10
+Kenya,KE,KEN,404,National,13,Composting toilets,0.0,Malaria Indicator Survey - MIS10
+Kenya,KE,KEN,404,National,14,Other improved,0.0,Malaria Indicator Survey - MIS10
+Kenya,KE,KEN,404,National,15,"No facility, bush, field",0.132,Malaria Indicator Survey - MIS10
+Kenya,KE,KEN,404,National,16,Other unimproved,0.004,Malaria Indicator Survey - MIS10
+Kenya,KE,KEN,404,National,17,DK/missing information,0.003,Malaria Indicator Survey - MIS10
+Kenya,KE,KEN,404,Urban,1,Flush and pour flush - to piped sewer system,0.0,"Kenya Aids Indicator Survey, 2012 - KAIS12"
+Kenya,KE,KEN,404,Urban,2,Flush and pour flush - to septic tank,0.0,"Kenya Aids Indicator Survey, 2012 - KAIS12"
+Kenya,KE,KEN,404,Urban,3,Flush and pour flush - to pit,0.0,"Kenya Aids Indicator Survey, 2012 - KAIS12"
+Kenya,KE,KEN,404,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Kenya Aids Indicator Survey, 2012 - KAIS12"
+Kenya,KE,KEN,404,Urban,5,Flush and pour flush - to elsewhere,0.0,"Kenya Aids Indicator Survey, 2012 - KAIS12"
+Kenya,KE,KEN,404,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.142,"Kenya Aids Indicator Survey, 2012 - KAIS12"
+Kenya,KE,KEN,404,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Kenya Aids Indicator Survey, 2012 - KAIS12"
+Kenya,KE,KEN,404,Urban,8,Dry latrines - Traditional latrine,0.459,"Kenya Aids Indicator Survey, 2012 - KAIS12"
+Kenya,KE,KEN,404,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Kenya Aids Indicator Survey, 2012 - KAIS12"
+Kenya,KE,KEN,404,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Kenya Aids Indicator Survey, 2012 - KAIS12"
+Kenya,KE,KEN,404,Urban,11,Dry latrines - Bucket latrine,0.0,"Kenya Aids Indicator Survey, 2012 - KAIS12"
+Kenya,KE,KEN,404,Urban,12,Dry latrines - Other,0.0,"Kenya Aids Indicator Survey, 2012 - KAIS12"
+Kenya,KE,KEN,404,Urban,13,Composting toilets,0.0,"Kenya Aids Indicator Survey, 2012 - KAIS12"
+Kenya,KE,KEN,404,Urban,14,Other improved,0.0,"Kenya Aids Indicator Survey, 2012 - KAIS12"
+Kenya,KE,KEN,404,Urban,15,"No facility, bush, field",0.017,"Kenya Aids Indicator Survey, 2012 - KAIS12"
+Kenya,KE,KEN,404,Urban,16,Other unimproved,0.016,"Kenya Aids Indicator Survey, 2012 - KAIS12"
+Kenya,KE,KEN,404,Urban,17,DK/missing information,0.0,"Kenya Aids Indicator Survey, 2012 - KAIS12"
+Kenya,KE,KEN,404,Rural,1,Flush and pour flush - to piped sewer system,0.0,"Kenya Aids Indicator Survey, 2012 - KAIS12"
+Kenya,KE,KEN,404,Rural,2,Flush and pour flush - to septic tank,0.0,"Kenya Aids Indicator Survey, 2012 - KAIS12"
+Kenya,KE,KEN,404,Rural,3,Flush and pour flush - to pit,0.0,"Kenya Aids Indicator Survey, 2012 - KAIS12"
+Kenya,KE,KEN,404,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Kenya Aids Indicator Survey, 2012 - KAIS12"
+Kenya,KE,KEN,404,Rural,5,Flush and pour flush - to elsewhere,0.0,"Kenya Aids Indicator Survey, 2012 - KAIS12"
+Kenya,KE,KEN,404,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.108,"Kenya Aids Indicator Survey, 2012 - KAIS12"
+Kenya,KE,KEN,404,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Kenya Aids Indicator Survey, 2012 - KAIS12"
+Kenya,KE,KEN,404,Rural,8,Dry latrines - Traditional latrine,0.734,"Kenya Aids Indicator Survey, 2012 - KAIS12"
+Kenya,KE,KEN,404,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Kenya Aids Indicator Survey, 2012 - KAIS12"
+Kenya,KE,KEN,404,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Kenya Aids Indicator Survey, 2012 - KAIS12"
+Kenya,KE,KEN,404,Rural,11,Dry latrines - Bucket latrine,0.0,"Kenya Aids Indicator Survey, 2012 - KAIS12"
+Kenya,KE,KEN,404,Rural,12,Dry latrines - Other,0.0,"Kenya Aids Indicator Survey, 2012 - KAIS12"
+Kenya,KE,KEN,404,Rural,13,Composting toilets,0.0,"Kenya Aids Indicator Survey, 2012 - KAIS12"
+Kenya,KE,KEN,404,Rural,14,Other improved,0.0,"Kenya Aids Indicator Survey, 2012 - KAIS12"
+Kenya,KE,KEN,404,Rural,15,"No facility, bush, field",0.127,"Kenya Aids Indicator Survey, 2012 - KAIS12"
+Kenya,KE,KEN,404,Rural,16,Other unimproved,0.011,"Kenya Aids Indicator Survey, 2012 - KAIS12"
+Kenya,KE,KEN,404,Rural,17,DK/missing information,0.0,"Kenya Aids Indicator Survey, 2012 - KAIS12"
+Kenya,KE,KEN,404,National,1,Flush and pour flush - to piped sewer system,0.0,"Kenya Aids Indicator Survey, 2012 - KAIS12"
+Kenya,KE,KEN,404,National,2,Flush and pour flush - to septic tank,0.0,"Kenya Aids Indicator Survey, 2012 - KAIS12"
+Kenya,KE,KEN,404,National,3,Flush and pour flush - to pit,0.0,"Kenya Aids Indicator Survey, 2012 - KAIS12"
+Kenya,KE,KEN,404,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Kenya Aids Indicator Survey, 2012 - KAIS12"
+Kenya,KE,KEN,404,National,5,Flush and pour flush - to elsewhere,0.0,"Kenya Aids Indicator Survey, 2012 - KAIS12"
+Kenya,KE,KEN,404,National,6,Dry latrines - Ventilated Improved Pit latrine,0.121,"Kenya Aids Indicator Survey, 2012 - KAIS12"
+Kenya,KE,KEN,404,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Kenya Aids Indicator Survey, 2012 - KAIS12"
+Kenya,KE,KEN,404,National,8,Dry latrines - Traditional latrine,0.627,"Kenya Aids Indicator Survey, 2012 - KAIS12"
+Kenya,KE,KEN,404,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Kenya Aids Indicator Survey, 2012 - KAIS12"
+Kenya,KE,KEN,404,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Kenya Aids Indicator Survey, 2012 - KAIS12"
+Kenya,KE,KEN,404,National,11,Dry latrines - Bucket latrine,0.0,"Kenya Aids Indicator Survey, 2012 - KAIS12"
+Kenya,KE,KEN,404,National,12,Dry latrines - Other,0.0,"Kenya Aids Indicator Survey, 2012 - KAIS12"
+Kenya,KE,KEN,404,National,13,Composting toilets,0.0,"Kenya Aids Indicator Survey, 2012 - KAIS12"
+Kenya,KE,KEN,404,National,14,Other improved,0.0,"Kenya Aids Indicator Survey, 2012 - KAIS12"
+Kenya,KE,KEN,404,National,15,"No facility, bush, field",0.085,"Kenya Aids Indicator Survey, 2012 - KAIS12"
+Kenya,KE,KEN,404,National,16,Other unimproved,0.013,"Kenya Aids Indicator Survey, 2012 - KAIS12"
+Kenya,KE,KEN,404,National,17,DK/missing information,0.0,"Kenya Aids Indicator Survey, 2012 - KAIS12"
 Kenya,KE,KEN,404,Urban,1,Flush and pour flush - to piped sewer system,0.181,Kenya Demographic and Health Survey 2014 - DHS14
 Kenya,KE,KEN,404,Urban,2,Flush and pour flush - to septic tank,0.131,Kenya Demographic and Health Survey 2014 - DHS14
 Kenya,KE,KEN,404,Urban,3,Flush and pour flush - to pit,0.042,Kenya Demographic and Health Survey 2014 - DHS14
@@ -109,6 +400,25 @@ Kenya,KE,KEN,404,Rural,14,Other improved,0.0,Kenya Demographic and Health Survey
 Kenya,KE,KEN,404,Rural,15,"No facility, bush, field",0.176,Kenya Demographic and Health Survey 2014 - DHS14
 Kenya,KE,KEN,404,Rural,16,Other unimproved,0.001,Kenya Demographic and Health Survey 2014 - DHS14
 Kenya,KE,KEN,404,Rural,17,DK/missing information,0.0,Kenya Demographic and Health Survey 2014 - DHS14
+Kenya,KE,KEN,404,National,1,Flush and pour flush - to piped sewer system,0.063,Kenya Demographic and Health Survey 2014 - DHS14
+Kenya,KE,KEN,404,National,2,Flush and pour flush - to septic tank,0.05,Kenya Demographic and Health Survey 2014 - DHS14
+Kenya,KE,KEN,404,National,3,Flush and pour flush - to pit,0.018,Kenya Demographic and Health Survey 2014 - DHS14
+Kenya,KE,KEN,404,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.004,Kenya Demographic and Health Survey 2014 - DHS14
+Kenya,KE,KEN,404,National,5,Flush and pour flush - to elsewhere,0.001,Kenya Demographic and Health Survey 2014 - DHS14
+Kenya,KE,KEN,404,National,6,Dry latrines - Ventilated Improved Pit latrine,0.153,Kenya Demographic and Health Survey 2014 - DHS14
+Kenya,KE,KEN,404,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.186,Kenya Demographic and Health Survey 2014 - DHS14
+Kenya,KE,KEN,404,National,8,Dry latrines - Traditional latrine,0.0,Kenya Demographic and Health Survey 2014 - DHS14
+Kenya,KE,KEN,404,National,9,Dry latrines - Pit latrine without slab/open pit,0.391,Kenya Demographic and Health Survey 2014 - DHS14
+Kenya,KE,KEN,404,National,10,Dry latrines - Hanging toilet/hanging latrine,0.003,Kenya Demographic and Health Survey 2014 - DHS14
+Kenya,KE,KEN,404,National,11,Dry latrines - Bucket latrine,0.001,Kenya Demographic and Health Survey 2014 - DHS14
+Kenya,KE,KEN,404,National,10,Dry latrines - Hanging toilet/hanging latrine,0.003,Kenya Demographic and Health Survey 2014 - DHS14
+Kenya,KE,KEN,404,National,11,Dry latrines - Bucket latrine,0.001,Kenya Demographic and Health Survey 2014 - DHS14
+Kenya,KE,KEN,404,National,12,Dry latrines - Other,0.0,Kenya Demographic and Health Survey 2014 - DHS14
+Kenya,KE,KEN,404,National,13,Composting toilets,0.005,Kenya Demographic and Health Survey 2014 - DHS14
+Kenya,KE,KEN,404,National,14,Other improved,0.0,Kenya Demographic and Health Survey 2014 - DHS14
+Kenya,KE,KEN,404,National,15,"No facility, bush, field",0.122,Kenya Demographic and Health Survey 2014 - DHS14
+Kenya,KE,KEN,404,National,16,Other unimproved,0.003,Kenya Demographic and Health Survey 2014 - DHS14
+Kenya,KE,KEN,404,National,17,DK/missing information,0.0,Kenya Demographic and Health Survey 2014 - DHS14
 Kenya,KE,KEN,404,Urban,1,Flush and pour flush - to piped sewer system,0.209,Kenya Malaria Indicator Survey 2015 - MIS15
 Kenya,KE,KEN,404,Urban,2,Flush and pour flush - to septic tank,0.065,Kenya Malaria Indicator Survey 2015 - MIS15
 Kenya,KE,KEN,404,Urban,3,Flush and pour flush - to pit,0.026,Kenya Malaria Indicator Survey 2015 - MIS15
@@ -143,6 +453,23 @@ Kenya,KE,KEN,404,Rural,14,Other improved,0.0,Kenya Malaria Indicator Survey 2015
 Kenya,KE,KEN,404,Rural,15,"No facility, bush, field",0.141,Kenya Malaria Indicator Survey 2015 - MIS15
 Kenya,KE,KEN,404,Rural,16,Other unimproved,0.001,Kenya Malaria Indicator Survey 2015 - MIS15
 Kenya,KE,KEN,404,Rural,17,DK/missing information,0.0,Kenya Malaria Indicator Survey 2015 - MIS15
+Kenya,KE,KEN,404,National,1,Flush and pour flush - to piped sewer system,0.071,Kenya Malaria Indicator Survey 2015 - MIS15
+Kenya,KE,KEN,404,National,2,Flush and pour flush - to septic tank,0.027,Kenya Malaria Indicator Survey 2015 - MIS15
+Kenya,KE,KEN,404,National,3,Flush and pour flush - to pit,0.011,Kenya Malaria Indicator Survey 2015 - MIS15
+Kenya,KE,KEN,404,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.01,Kenya Malaria Indicator Survey 2015 - MIS15
+Kenya,KE,KEN,404,National,5,Flush and pour flush - to elsewhere,0.002,Kenya Malaria Indicator Survey 2015 - MIS15
+Kenya,KE,KEN,404,National,6,Dry latrines - Ventilated Improved Pit latrine,0.145,Kenya Malaria Indicator Survey 2015 - MIS15
+Kenya,KE,KEN,404,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.261,Kenya Malaria Indicator Survey 2015 - MIS15
+Kenya,KE,KEN,404,National,8,Dry latrines - Traditional latrine,0.0,Kenya Malaria Indicator Survey 2015 - MIS15
+Kenya,KE,KEN,404,National,9,Dry latrines - Pit latrine without slab/open pit,0.359,Kenya Malaria Indicator Survey 2015 - MIS15
+Kenya,KE,KEN,404,National,10,Dry latrines - Hanging toilet/hanging latrine,0.001,Kenya Malaria Indicator Survey 2015 - MIS15
+Kenya,KE,KEN,404,National,11,Dry latrines - Bucket latrine,0.002,Kenya Malaria Indicator Survey 2015 - MIS15
+Kenya,KE,KEN,404,National,12,Dry latrines - Other,0.0,Kenya Malaria Indicator Survey 2015 - MIS15
+Kenya,KE,KEN,404,National,13,Composting toilets,0.004,Kenya Malaria Indicator Survey 2015 - MIS15
+Kenya,KE,KEN,404,National,14,Other improved,0.0,Kenya Malaria Indicator Survey 2015 - MIS15
+Kenya,KE,KEN,404,National,15,"No facility, bush, field",0.105,Kenya Malaria Indicator Survey 2015 - MIS15
+Kenya,KE,KEN,404,National,16,Other unimproved,0.001,Kenya Malaria Indicator Survey 2015 - MIS15
+Kenya,KE,KEN,404,National,17,DK/missing information,0.0,Kenya Malaria Indicator Survey 2015 - MIS15
 Kenya,KE,KEN,404,Urban,1,Flush and pour flush - to piped sewer system,0.221,"Kenya Integrated Household Budget Survey, 2015-2016 - IHBS16"
 Kenya,KE,KEN,404,Urban,2,Flush and pour flush - to septic tank,0.109,"Kenya Integrated Household Budget Survey, 2015-2016 - IHBS16"
 Kenya,KE,KEN,404,Urban,3,Flush and pour flush - to pit,0.038,"Kenya Integrated Household Budget Survey, 2015-2016 - IHBS16"
@@ -177,6 +504,23 @@ Kenya,KE,KEN,404,Rural,14,Other improved,0.0,"Kenya Integrated Household Budget 
 Kenya,KE,KEN,404,Rural,15,"No facility, bush, field",0.156,"Kenya Integrated Household Budget Survey, 2015-2016 - IHBS16"
 Kenya,KE,KEN,404,Rural,16,Other unimproved,0.001,"Kenya Integrated Household Budget Survey, 2015-2016 - IHBS16"
 Kenya,KE,KEN,404,Rural,17,DK/missing information,0.0,"Kenya Integrated Household Budget Survey, 2015-2016 - IHBS16"
+Kenya,KE,KEN,404,National,1,Flush and pour flush - to piped sewer system,0.08,"Kenya Integrated Household Budget Survey, 2015-2016 - IHBS16"
+Kenya,KE,KEN,404,National,2,Flush and pour flush - to septic tank,0.046,"Kenya Integrated Household Budget Survey, 2015-2016 - IHBS16"
+Kenya,KE,KEN,404,National,3,Flush and pour flush - to pit,0.022,"Kenya Integrated Household Budget Survey, 2015-2016 - IHBS16"
+Kenya,KE,KEN,404,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.002,"Kenya Integrated Household Budget Survey, 2015-2016 - IHBS16"
+Kenya,KE,KEN,404,National,5,Flush and pour flush - to elsewhere,0.001,"Kenya Integrated Household Budget Survey, 2015-2016 - IHBS16"
+Kenya,KE,KEN,404,National,6,Dry latrines - Ventilated Improved Pit latrine,0.11,"Kenya Integrated Household Budget Survey, 2015-2016 - IHBS16"
+Kenya,KE,KEN,404,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.333,"Kenya Integrated Household Budget Survey, 2015-2016 - IHBS16"
+Kenya,KE,KEN,404,National,8,Dry latrines - Traditional latrine,0.0,"Kenya Integrated Household Budget Survey, 2015-2016 - IHBS16"
+Kenya,KE,KEN,404,National,9,Dry latrines - Pit latrine without slab/open pit,0.293,"Kenya Integrated Household Budget Survey, 2015-2016 - IHBS16"
+Kenya,KE,KEN,404,National,10,Dry latrines - Hanging toilet/hanging latrine,0.001,"Kenya Integrated Household Budget Survey, 2015-2016 - IHBS16"
+Kenya,KE,KEN,404,National,11,Dry latrines - Bucket latrine,0.003,"Kenya Integrated Household Budget Survey, 2015-2016 - IHBS16"
+Kenya,KE,KEN,404,National,12,Dry latrines - Other,0.0,"Kenya Integrated Household Budget Survey, 2015-2016 - IHBS16"
+Kenya,KE,KEN,404,National,13,Composting toilets,0.002,"Kenya Integrated Household Budget Survey, 2015-2016 - IHBS16"
+Kenya,KE,KEN,404,National,14,Other improved,0.0,"Kenya Integrated Household Budget Survey, 2015-2016 - IHBS16"
+Kenya,KE,KEN,404,National,15,"No facility, bush, field",0.106,"Kenya Integrated Household Budget Survey, 2015-2016 - IHBS16"
+Kenya,KE,KEN,404,National,16,Other unimproved,0.001,"Kenya Integrated Household Budget Survey, 2015-2016 - IHBS16"
+Kenya,KE,KEN,404,National,17,DK/missing information,0.0,"Kenya Integrated Household Budget Survey, 2015-2016 - IHBS16"
 Kenya,KE,KEN,404,Urban,1,Flush and pour flush - to piped sewer system,0.225,Performance Monitoring and Accountability - PMA16
 Kenya,KE,KEN,404,Urban,2,Flush and pour flush - to septic tank,0.114,Performance Monitoring and Accountability - PMA16
 Kenya,KE,KEN,404,Urban,3,Flush and pour flush - to pit,0.037,Performance Monitoring and Accountability - PMA16
@@ -211,6 +555,23 @@ Kenya,KE,KEN,404,Rural,14,Other improved,0.0,Performance Monitoring and Accounta
 Kenya,KE,KEN,404,Rural,15,"No facility, bush, field",0.111,Performance Monitoring and Accountability - PMA16
 Kenya,KE,KEN,404,Rural,16,Other unimproved,0.004,Performance Monitoring and Accountability - PMA16
 Kenya,KE,KEN,404,Rural,17,DK/missing information,0.0,Performance Monitoring and Accountability - PMA16
+Kenya,KE,KEN,404,National,1,Flush and pour flush - to piped sewer system,0.062,Performance Monitoring and Accountability - PMA16
+Kenya,KE,KEN,404,National,2,Flush and pour flush - to septic tank,0.038,Performance Monitoring and Accountability - PMA16
+Kenya,KE,KEN,404,National,3,Flush and pour flush - to pit,0.014,Performance Monitoring and Accountability - PMA16
+Kenya,KE,KEN,404,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.007,Performance Monitoring and Accountability - PMA16
+Kenya,KE,KEN,404,National,5,Flush and pour flush - to elsewhere,0.01,Performance Monitoring and Accountability - PMA16
+Kenya,KE,KEN,404,National,6,Dry latrines - Ventilated Improved Pit latrine,0.103,Performance Monitoring and Accountability - PMA16
+Kenya,KE,KEN,404,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.238,Performance Monitoring and Accountability - PMA16
+Kenya,KE,KEN,404,National,8,Dry latrines - Traditional latrine,0.0,Performance Monitoring and Accountability - PMA16
+Kenya,KE,KEN,404,National,9,Dry latrines - Pit latrine without slab/open pit,0.426,Performance Monitoring and Accountability - PMA16
+Kenya,KE,KEN,404,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Performance Monitoring and Accountability - PMA16
+Kenya,KE,KEN,404,National,11,Dry latrines - Bucket latrine,0.0,Performance Monitoring and Accountability - PMA16
+Kenya,KE,KEN,404,National,12,Dry latrines - Other,0.0,Performance Monitoring and Accountability - PMA16
+Kenya,KE,KEN,404,National,13,Composting toilets,0.012,Performance Monitoring and Accountability - PMA16
+Kenya,KE,KEN,404,National,14,Other improved,0.0,Performance Monitoring and Accountability - PMA16
+Kenya,KE,KEN,404,National,15,"No facility, bush, field",0.086,Performance Monitoring and Accountability - PMA16
+Kenya,KE,KEN,404,National,16,Other unimproved,0.003,Performance Monitoring and Accountability - PMA16
+Kenya,KE,KEN,404,National,17,DK/missing information,0.0,Performance Monitoring and Accountability - PMA16
 Kenya,KE,KEN,404,Urban,1,Flush and pour flush - to piped sewer system,0.21,Performance Monitoring and Accountability - PMA17
 Kenya,KE,KEN,404,Urban,2,Flush and pour flush - to septic tank,0.143,Performance Monitoring and Accountability - PMA17
 Kenya,KE,KEN,404,Urban,3,Flush and pour flush - to pit,0.02,Performance Monitoring and Accountability - PMA17
@@ -245,3 +606,20 @@ Kenya,KE,KEN,404,Rural,14,Other improved,0.0,Performance Monitoring and Accounta
 Kenya,KE,KEN,404,Rural,15,"No facility, bush, field",0.118,Performance Monitoring and Accountability - PMA17
 Kenya,KE,KEN,404,Rural,16,Other unimproved,0.003,Performance Monitoring and Accountability - PMA17
 Kenya,KE,KEN,404,Rural,17,DK/missing information,0.001,Performance Monitoring and Accountability - PMA17
+Kenya,KE,KEN,404,National,1,Flush and pour flush - to piped sewer system,0.055,Performance Monitoring and Accountability - PMA17
+Kenya,KE,KEN,404,National,2,Flush and pour flush - to septic tank,0.041,Performance Monitoring and Accountability - PMA17
+Kenya,KE,KEN,404,National,3,Flush and pour flush - to pit,0.015,Performance Monitoring and Accountability - PMA17
+Kenya,KE,KEN,404,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.01,Performance Monitoring and Accountability - PMA17
+Kenya,KE,KEN,404,National,5,Flush and pour flush - to elsewhere,0.01,Performance Monitoring and Accountability - PMA17
+Kenya,KE,KEN,404,National,6,Dry latrines - Ventilated Improved Pit latrine,0.111,Performance Monitoring and Accountability - PMA17
+Kenya,KE,KEN,404,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.25,Performance Monitoring and Accountability - PMA17
+Kenya,KE,KEN,404,National,8,Dry latrines - Traditional latrine,0.0,Performance Monitoring and Accountability - PMA17
+Kenya,KE,KEN,404,National,9,Dry latrines - Pit latrine without slab/open pit,0.402,Performance Monitoring and Accountability - PMA17
+Kenya,KE,KEN,404,National,10,Dry latrines - Hanging toilet/hanging latrine,0.004,Performance Monitoring and Accountability - PMA17
+Kenya,KE,KEN,404,National,11,Dry latrines - Bucket latrine,0.0,Performance Monitoring and Accountability - PMA17
+Kenya,KE,KEN,404,National,12,Dry latrines - Other,0.0,Performance Monitoring and Accountability - PMA17
+Kenya,KE,KEN,404,National,13,Composting toilets,0.009,Performance Monitoring and Accountability - PMA17
+Kenya,KE,KEN,404,National,14,Other improved,0.0,Performance Monitoring and Accountability - PMA17
+Kenya,KE,KEN,404,National,15,"No facility, bush, field",0.092,Performance Monitoring and Accountability - PMA17
+Kenya,KE,KEN,404,National,16,Other unimproved,0.002,Performance Monitoring and Accountability - PMA17
+Kenya,KE,KEN,404,National,17,DK/missing information,0.001,Performance Monitoring and Accountability - PMA17

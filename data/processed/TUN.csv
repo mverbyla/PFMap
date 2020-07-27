@@ -1,4 +1,55 @@
 country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+Tunisia,TN,TUN,788,Urban,1,Flush and pour flush - to piped sewer system,0.656,Multiple Indicator Cluster Survey - MICS00
+Tunisia,TN,TUN,788,Urban,2,Flush and pour flush - to septic tank,0.266,Multiple Indicator Cluster Survey - MICS00
+Tunisia,TN,TUN,788,Urban,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Tunisia,TN,TUN,788,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS00
+Tunisia,TN,TUN,788,Urban,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS00
+Tunisia,TN,TUN,788,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Tunisia,TN,TUN,788,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Tunisia,TN,TUN,788,Urban,8,Dry latrines - Traditional latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Tunisia,TN,TUN,788,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.037,Multiple Indicator Cluster Survey - MICS00
+Tunisia,TN,TUN,788,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Tunisia,TN,TUN,788,Urban,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Tunisia,TN,TUN,788,Urban,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS00
+Tunisia,TN,TUN,788,Urban,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS00
+Tunisia,TN,TUN,788,Urban,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS00
+Tunisia,TN,TUN,788,Urban,15,"No facility, bush, field",0.011,Multiple Indicator Cluster Survey - MICS00
+Tunisia,TN,TUN,788,Urban,16,Other unimproved,0.0,Multiple Indicator Cluster Survey - MICS00
+Tunisia,TN,TUN,788,Urban,17,DK/missing information,0.031,Multiple Indicator Cluster Survey - MICS00
+Tunisia,TN,TUN,788,Rural,1,Flush and pour flush - to piped sewer system,0.356,Multiple Indicator Cluster Survey - MICS00
+Tunisia,TN,TUN,788,Rural,2,Flush and pour flush - to septic tank,0.27,Multiple Indicator Cluster Survey - MICS00
+Tunisia,TN,TUN,788,Rural,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Tunisia,TN,TUN,788,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS00
+Tunisia,TN,TUN,788,Rural,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS00
+Tunisia,TN,TUN,788,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Tunisia,TN,TUN,788,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Tunisia,TN,TUN,788,Rural,8,Dry latrines - Traditional latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Tunisia,TN,TUN,788,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.199,Multiple Indicator Cluster Survey - MICS00
+Tunisia,TN,TUN,788,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Tunisia,TN,TUN,788,Rural,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Tunisia,TN,TUN,788,Rural,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS00
+Tunisia,TN,TUN,788,Rural,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS00
+Tunisia,TN,TUN,788,Rural,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS00
+Tunisia,TN,TUN,788,Rural,15,"No facility, bush, field",0.148,Multiple Indicator Cluster Survey - MICS00
+Tunisia,TN,TUN,788,Rural,16,Other unimproved,0.0,Multiple Indicator Cluster Survey - MICS00
+Tunisia,TN,TUN,788,Rural,17,DK/missing information,0.019,Multiple Indicator Cluster Survey - MICS00
+Tunisia,TN,TUN,788,National,1,Flush and pour flush - to piped sewer system,0.0,Multiple Indicator Cluster Survey - MICS00
+Tunisia,TN,TUN,788,National,2,Flush and pour flush - to septic tank,0.0,Multiple Indicator Cluster Survey - MICS00
+Tunisia,TN,TUN,788,National,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Tunisia,TN,TUN,788,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS00
+Tunisia,TN,TUN,788,National,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS00
+Tunisia,TN,TUN,788,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Tunisia,TN,TUN,788,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Tunisia,TN,TUN,788,National,8,Dry latrines - Traditional latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Tunisia,TN,TUN,788,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Tunisia,TN,TUN,788,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Tunisia,TN,TUN,788,National,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Tunisia,TN,TUN,788,National,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS00
+Tunisia,TN,TUN,788,National,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS00
+Tunisia,TN,TUN,788,National,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS00
+Tunisia,TN,TUN,788,National,15,"No facility, bush, field",0.0,Multiple Indicator Cluster Survey - MICS00
+Tunisia,TN,TUN,788,National,16,Other unimproved,0.0,Multiple Indicator Cluster Survey - MICS00
+Tunisia,TN,TUN,788,National,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS00
 Tunisia,TN,TUN,788,Urban,1,Flush and pour flush - to piped sewer system,0.781,Pan Arab Project for Family Health - PAPFAM02
 Tunisia,TN,TUN,788,Urban,2,Flush and pour flush - to septic tank,0.199,Pan Arab Project for Family Health - PAPFAM02
 Tunisia,TN,TUN,788,Urban,3,Flush and pour flush - to pit,0.0,Pan Arab Project for Family Health - PAPFAM02
@@ -33,6 +84,23 @@ Tunisia,TN,TUN,788,Rural,14,Other improved,0.0,Pan Arab Project for Family Healt
 Tunisia,TN,TUN,788,Rural,15,"No facility, bush, field",0.268,Pan Arab Project for Family Health - PAPFAM02
 Tunisia,TN,TUN,788,Rural,16,Other unimproved,0.02,Pan Arab Project for Family Health - PAPFAM02
 Tunisia,TN,TUN,788,Rural,17,DK/missing information,0.007,Pan Arab Project for Family Health - PAPFAM02
+Tunisia,TN,TUN,788,National,1,Flush and pour flush - to piped sewer system,0.0,Pan Arab Project for Family Health - PAPFAM02
+Tunisia,TN,TUN,788,National,2,Flush and pour flush - to septic tank,0.0,Pan Arab Project for Family Health - PAPFAM02
+Tunisia,TN,TUN,788,National,3,Flush and pour flush - to pit,0.0,Pan Arab Project for Family Health - PAPFAM02
+Tunisia,TN,TUN,788,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Pan Arab Project for Family Health - PAPFAM02
+Tunisia,TN,TUN,788,National,5,Flush and pour flush - to elsewhere,0.0,Pan Arab Project for Family Health - PAPFAM02
+Tunisia,TN,TUN,788,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Pan Arab Project for Family Health - PAPFAM02
+Tunisia,TN,TUN,788,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Pan Arab Project for Family Health - PAPFAM02
+Tunisia,TN,TUN,788,National,8,Dry latrines - Traditional latrine,0.0,Pan Arab Project for Family Health - PAPFAM02
+Tunisia,TN,TUN,788,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Pan Arab Project for Family Health - PAPFAM02
+Tunisia,TN,TUN,788,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Pan Arab Project for Family Health - PAPFAM02
+Tunisia,TN,TUN,788,National,11,Dry latrines - Bucket latrine,0.0,Pan Arab Project for Family Health - PAPFAM02
+Tunisia,TN,TUN,788,National,12,Dry latrines - Other,0.0,Pan Arab Project for Family Health - PAPFAM02
+Tunisia,TN,TUN,788,National,13,Composting toilets,0.0,Pan Arab Project for Family Health - PAPFAM02
+Tunisia,TN,TUN,788,National,14,Other improved,0.0,Pan Arab Project for Family Health - PAPFAM02
+Tunisia,TN,TUN,788,National,15,"No facility, bush, field",0.0,Pan Arab Project for Family Health - PAPFAM02
+Tunisia,TN,TUN,788,National,16,Other unimproved,0.0,Pan Arab Project for Family Health - PAPFAM02
+Tunisia,TN,TUN,788,National,17,DK/missing information,0.0,Pan Arab Project for Family Health - PAPFAM02
 Tunisia,TN,TUN,788,Urban,1,Flush and pour flush - to piped sewer system,0.79,World Health Survey - WHS03
 Tunisia,TN,TUN,788,Urban,2,Flush and pour flush - to septic tank,0.175,World Health Survey - WHS03
 Tunisia,TN,TUN,788,Urban,3,Flush and pour flush - to pit,0.0,World Health Survey - WHS03
@@ -79,6 +147,23 @@ Tunisia,TN,TUN,788,Rural,14,Other improved,0.0,World Health Survey - WHS03
 Tunisia,TN,TUN,788,Rural,15,"No facility, bush, field",0.207,World Health Survey - WHS03
 Tunisia,TN,TUN,788,Rural,16,Other unimproved,0.027,World Health Survey - WHS03
 Tunisia,TN,TUN,788,Rural,17,DK/missing information,0.0,World Health Survey - WHS03
+Tunisia,TN,TUN,788,National,1,Flush and pour flush - to piped sewer system,0.0,World Health Survey - WHS03
+Tunisia,TN,TUN,788,National,2,Flush and pour flush - to septic tank,0.0,World Health Survey - WHS03
+Tunisia,TN,TUN,788,National,3,Flush and pour flush - to pit,0.0,World Health Survey - WHS03
+Tunisia,TN,TUN,788,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,World Health Survey - WHS03
+Tunisia,TN,TUN,788,National,5,Flush and pour flush - to elsewhere,0.0,World Health Survey - WHS03
+Tunisia,TN,TUN,788,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,World Health Survey - WHS03
+Tunisia,TN,TUN,788,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,World Health Survey - WHS03
+Tunisia,TN,TUN,788,National,8,Dry latrines - Traditional latrine,0.0,World Health Survey - WHS03
+Tunisia,TN,TUN,788,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,World Health Survey - WHS03
+Tunisia,TN,TUN,788,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,World Health Survey - WHS03
+Tunisia,TN,TUN,788,National,11,Dry latrines - Bucket latrine,0.0,World Health Survey - WHS03
+Tunisia,TN,TUN,788,National,12,Dry latrines - Other,0.0,World Health Survey - WHS03
+Tunisia,TN,TUN,788,National,13,Composting toilets,0.0,World Health Survey - WHS03
+Tunisia,TN,TUN,788,National,14,Other improved,0.0,World Health Survey - WHS03
+Tunisia,TN,TUN,788,National,15,"No facility, bush, field",0.0,World Health Survey - WHS03
+Tunisia,TN,TUN,788,National,16,Other unimproved,0.0,World Health Survey - WHS03
+Tunisia,TN,TUN,788,National,17,DK/missing information,0.0,World Health Survey - WHS03
 Tunisia,TN,TUN,788,Urban,1,Flush and pour flush - to piped sewer system,0.823,Multiple Indicator Cluster Survey - MICS12
 Tunisia,TN,TUN,788,Urban,2,Flush and pour flush - to septic tank,0.101,Multiple Indicator Cluster Survey - MICS12
 Tunisia,TN,TUN,788,Urban,3,Flush and pour flush - to pit,0.053,Multiple Indicator Cluster Survey - MICS12
@@ -113,6 +198,74 @@ Tunisia,TN,TUN,788,Rural,14,Other improved,0.0,Multiple Indicator Cluster Survey
 Tunisia,TN,TUN,788,Rural,15,"No facility, bush, field",0.066,Multiple Indicator Cluster Survey - MICS12
 Tunisia,TN,TUN,788,Rural,16,Other unimproved,0.0,Multiple Indicator Cluster Survey - MICS12
 Tunisia,TN,TUN,788,Rural,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS12
+Tunisia,TN,TUN,788,National,1,Flush and pour flush - to piped sewer system,0.561,Multiple Indicator Cluster Survey - MICS12
+Tunisia,TN,TUN,788,National,2,Flush and pour flush - to septic tank,0.143,Multiple Indicator Cluster Survey - MICS12
+Tunisia,TN,TUN,788,National,3,Flush and pour flush - to pit,0.137,Multiple Indicator Cluster Survey - MICS12
+Tunisia,TN,TUN,788,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS12
+Tunisia,TN,TUN,788,National,5,Flush and pour flush - to elsewhere,0.002,Multiple Indicator Cluster Survey - MICS12
+Tunisia,TN,TUN,788,National,6,Dry latrines - Ventilated Improved Pit latrine,0.025,Multiple Indicator Cluster Survey - MICS12
+Tunisia,TN,TUN,788,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.095,Multiple Indicator Cluster Survey - MICS12
+Tunisia,TN,TUN,788,National,8,Dry latrines - Traditional latrine,0.0,Multiple Indicator Cluster Survey - MICS12
+Tunisia,TN,TUN,788,National,9,Dry latrines - Pit latrine without slab/open pit,0.013,Multiple Indicator Cluster Survey - MICS12
+Tunisia,TN,TUN,788,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS12
+Tunisia,TN,TUN,788,National,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS12
+Tunisia,TN,TUN,788,National,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS12
+Tunisia,TN,TUN,788,National,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS12
+Tunisia,TN,TUN,788,National,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS12
+Tunisia,TN,TUN,788,National,15,"No facility, bush, field",0.023,Multiple Indicator Cluster Survey - MICS12
+Tunisia,TN,TUN,788,National,16,Other unimproved,0.0,Multiple Indicator Cluster Survey - MICS12
+Tunisia,TN,TUN,788,National,17,DK/missing information,0.001,Multiple Indicator Cluster Survey - MICS12
+Tunisia,TN,TUN,788,Urban,1,Flush and pour flush - to piped sewer system,0.0,Recensement 2014 - CEN14
+Tunisia,TN,TUN,788,Urban,2,Flush and pour flush - to septic tank,0.0,Recensement 2014 - CEN14
+Tunisia,TN,TUN,788,Urban,3,Flush and pour flush - to pit,0.0,Recensement 2014 - CEN14
+Tunisia,TN,TUN,788,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Recensement 2014 - CEN14
+Tunisia,TN,TUN,788,Urban,5,Flush and pour flush - to elsewhere,0.0,Recensement 2014 - CEN14
+Tunisia,TN,TUN,788,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Recensement 2014 - CEN14
+Tunisia,TN,TUN,788,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Recensement 2014 - CEN14
+Tunisia,TN,TUN,788,Urban,8,Dry latrines - Traditional latrine,0.0,Recensement 2014 - CEN14
+Tunisia,TN,TUN,788,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Recensement 2014 - CEN14
+Tunisia,TN,TUN,788,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Recensement 2014 - CEN14
+Tunisia,TN,TUN,788,Urban,11,Dry latrines - Bucket latrine,0.0,Recensement 2014 - CEN14
+Tunisia,TN,TUN,788,Urban,12,Dry latrines - Other,0.0,Recensement 2014 - CEN14
+Tunisia,TN,TUN,788,Urban,13,Composting toilets,0.0,Recensement 2014 - CEN14
+Tunisia,TN,TUN,788,Urban,14,Other improved,0.98,Recensement 2014 - CEN14
+Tunisia,TN,TUN,788,Urban,15,"No facility, bush, field",0.0,Recensement 2014 - CEN14
+Tunisia,TN,TUN,788,Urban,16,Other unimproved,0.02,Recensement 2014 - CEN14
+Tunisia,TN,TUN,788,Urban,17,DK/missing information,0.0,Recensement 2014 - CEN14
+Tunisia,TN,TUN,788,Rural,1,Flush and pour flush - to piped sewer system,0.0,Recensement 2014 - CEN14
+Tunisia,TN,TUN,788,Rural,2,Flush and pour flush - to septic tank,0.0,Recensement 2014 - CEN14
+Tunisia,TN,TUN,788,Rural,3,Flush and pour flush - to pit,0.0,Recensement 2014 - CEN14
+Tunisia,TN,TUN,788,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Recensement 2014 - CEN14
+Tunisia,TN,TUN,788,Rural,5,Flush and pour flush - to elsewhere,0.0,Recensement 2014 - CEN14
+Tunisia,TN,TUN,788,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Recensement 2014 - CEN14
+Tunisia,TN,TUN,788,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Recensement 2014 - CEN14
+Tunisia,TN,TUN,788,Rural,8,Dry latrines - Traditional latrine,0.0,Recensement 2014 - CEN14
+Tunisia,TN,TUN,788,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Recensement 2014 - CEN14
+Tunisia,TN,TUN,788,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Recensement 2014 - CEN14
+Tunisia,TN,TUN,788,Rural,11,Dry latrines - Bucket latrine,0.0,Recensement 2014 - CEN14
+Tunisia,TN,TUN,788,Rural,12,Dry latrines - Other,0.0,Recensement 2014 - CEN14
+Tunisia,TN,TUN,788,Rural,13,Composting toilets,0.0,Recensement 2014 - CEN14
+Tunisia,TN,TUN,788,Rural,14,Other improved,0.796,Recensement 2014 - CEN14
+Tunisia,TN,TUN,788,Rural,15,"No facility, bush, field",0.0,Recensement 2014 - CEN14
+Tunisia,TN,TUN,788,Rural,16,Other unimproved,0.204,Recensement 2014 - CEN14
+Tunisia,TN,TUN,788,Rural,17,DK/missing information,0.0,Recensement 2014 - CEN14
+Tunisia,TN,TUN,788,National,1,Flush and pour flush - to piped sewer system,0.0,Recensement 2014 - CEN14
+Tunisia,TN,TUN,788,National,2,Flush and pour flush - to septic tank,0.0,Recensement 2014 - CEN14
+Tunisia,TN,TUN,788,National,3,Flush and pour flush - to pit,0.0,Recensement 2014 - CEN14
+Tunisia,TN,TUN,788,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Recensement 2014 - CEN14
+Tunisia,TN,TUN,788,National,5,Flush and pour flush - to elsewhere,0.0,Recensement 2014 - CEN14
+Tunisia,TN,TUN,788,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Recensement 2014 - CEN14
+Tunisia,TN,TUN,788,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Recensement 2014 - CEN14
+Tunisia,TN,TUN,788,National,8,Dry latrines - Traditional latrine,0.0,Recensement 2014 - CEN14
+Tunisia,TN,TUN,788,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Recensement 2014 - CEN14
+Tunisia,TN,TUN,788,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Recensement 2014 - CEN14
+Tunisia,TN,TUN,788,National,11,Dry latrines - Bucket latrine,0.0,Recensement 2014 - CEN14
+Tunisia,TN,TUN,788,National,12,Dry latrines - Other,0.0,Recensement 2014 - CEN14
+Tunisia,TN,TUN,788,National,13,Composting toilets,0.0,Recensement 2014 - CEN14
+Tunisia,TN,TUN,788,National,14,Other improved,0.904,Recensement 2014 - CEN14
+Tunisia,TN,TUN,788,National,15,"No facility, bush, field",0.0,Recensement 2014 - CEN14
+Tunisia,TN,TUN,788,National,16,Other unimproved,0.096,Recensement 2014 - CEN14
+Tunisia,TN,TUN,788,National,17,DK/missing information,0.0,Recensement 2014 - CEN14
 Tunisia,TN,TUN,788,Urban,1,Flush and pour flush - to piped sewer system,0.682,Labor Market Panel Survey - LMPS14
 Tunisia,TN,TUN,788,Urban,2,Flush and pour flush - to septic tank,0.186,Labor Market Panel Survey - LMPS14
 Tunisia,TN,TUN,788,Urban,3,Flush and pour flush - to pit,0.0,Labor Market Panel Survey - LMPS14
@@ -147,3 +300,173 @@ Tunisia,TN,TUN,788,Rural,14,Other improved,0.0,Labor Market Panel Survey - LMPS1
 Tunisia,TN,TUN,788,Rural,15,"No facility, bush, field",0.028,Labor Market Panel Survey - LMPS14
 Tunisia,TN,TUN,788,Rural,16,Other unimproved,0.069,Labor Market Panel Survey - LMPS14
 Tunisia,TN,TUN,788,Rural,17,DK/missing information,0.0,Labor Market Panel Survey - LMPS14
+Tunisia,TN,TUN,788,National,1,Flush and pour flush - to piped sewer system,0.495,Labor Market Panel Survey - LMPS14
+Tunisia,TN,TUN,788,National,2,Flush and pour flush - to septic tank,0.355,Labor Market Panel Survey - LMPS14
+Tunisia,TN,TUN,788,National,3,Flush and pour flush - to pit,0.0,Labor Market Panel Survey - LMPS14
+Tunisia,TN,TUN,788,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Labor Market Panel Survey - LMPS14
+Tunisia,TN,TUN,788,National,5,Flush and pour flush - to elsewhere,0.035,Labor Market Panel Survey - LMPS14
+Tunisia,TN,TUN,788,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Labor Market Panel Survey - LMPS14
+Tunisia,TN,TUN,788,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Labor Market Panel Survey - LMPS14
+Tunisia,TN,TUN,788,National,8,Dry latrines - Traditional latrine,0.0,Labor Market Panel Survey - LMPS14
+Tunisia,TN,TUN,788,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Labor Market Panel Survey - LMPS14
+Tunisia,TN,TUN,788,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Labor Market Panel Survey - LMPS14
+Tunisia,TN,TUN,788,National,11,Dry latrines - Bucket latrine,0.0,Labor Market Panel Survey - LMPS14
+Tunisia,TN,TUN,788,National,12,Dry latrines - Other,0.0,Labor Market Panel Survey - LMPS14
+Tunisia,TN,TUN,788,National,13,Composting toilets,0.0,Labor Market Panel Survey - LMPS14
+Tunisia,TN,TUN,788,National,14,Other improved,0.0,Labor Market Panel Survey - LMPS14
+Tunisia,TN,TUN,788,National,15,"No facility, bush, field",0.01,Labor Market Panel Survey - LMPS14
+Tunisia,TN,TUN,788,National,16,Other unimproved,0.105,Labor Market Panel Survey - LMPS14
+Tunisia,TN,TUN,788,National,17,DK/missing information,0.0,Labor Market Panel Survey - LMPS14
+Tunisia,TN,TUN,788,Urban,1,Flush and pour flush - to piped sewer system,0.754,Census - CEN04
+Tunisia,TN,TUN,788,Urban,2,Flush and pour flush - to septic tank,0.0,Census - CEN04
+Tunisia,TN,TUN,788,Urban,3,Flush and pour flush - to pit,0.0,Census - CEN04
+Tunisia,TN,TUN,788,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN04
+Tunisia,TN,TUN,788,Urban,5,Flush and pour flush - to elsewhere,0.0,Census - CEN04
+Tunisia,TN,TUN,788,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN04
+Tunisia,TN,TUN,788,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN04
+Tunisia,TN,TUN,788,Urban,8,Dry latrines - Traditional latrine,0.0,Census - CEN04
+Tunisia,TN,TUN,788,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN04
+Tunisia,TN,TUN,788,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN04
+Tunisia,TN,TUN,788,Urban,11,Dry latrines - Bucket latrine,0.0,Census - CEN04
+Tunisia,TN,TUN,788,Urban,12,Dry latrines - Other,0.0,Census - CEN04
+Tunisia,TN,TUN,788,Urban,13,Composting toilets,0.0,Census - CEN04
+Tunisia,TN,TUN,788,Urban,14,Other improved,0.0,Census - CEN04
+Tunisia,TN,TUN,788,Urban,15,"No facility, bush, field",0.0,Census - CEN04
+Tunisia,TN,TUN,788,Urban,16,Other unimproved,0.0,Census - CEN04
+Tunisia,TN,TUN,788,Urban,17,DK/missing information,0.0,Census - CEN04
+Tunisia,TN,TUN,788,Rural,1,Flush and pour flush - to piped sewer system,0.048,Census - CEN04
+Tunisia,TN,TUN,788,Rural,2,Flush and pour flush - to septic tank,0.0,Census - CEN04
+Tunisia,TN,TUN,788,Rural,3,Flush and pour flush - to pit,0.0,Census - CEN04
+Tunisia,TN,TUN,788,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN04
+Tunisia,TN,TUN,788,Rural,5,Flush and pour flush - to elsewhere,0.0,Census - CEN04
+Tunisia,TN,TUN,788,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN04
+Tunisia,TN,TUN,788,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN04
+Tunisia,TN,TUN,788,Rural,8,Dry latrines - Traditional latrine,0.0,Census - CEN04
+Tunisia,TN,TUN,788,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN04
+Tunisia,TN,TUN,788,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN04
+Tunisia,TN,TUN,788,Rural,11,Dry latrines - Bucket latrine,0.0,Census - CEN04
+Tunisia,TN,TUN,788,Rural,12,Dry latrines - Other,0.0,Census - CEN04
+Tunisia,TN,TUN,788,Rural,13,Composting toilets,0.0,Census - CEN04
+Tunisia,TN,TUN,788,Rural,14,Other improved,0.0,Census - CEN04
+Tunisia,TN,TUN,788,Rural,15,"No facility, bush, field",0.0,Census - CEN04
+Tunisia,TN,TUN,788,Rural,16,Other unimproved,0.0,Census - CEN04
+Tunisia,TN,TUN,788,Rural,17,DK/missing information,0.0,Census - CEN04
+Tunisia,TN,TUN,788,National,1,Flush and pour flush - to piped sewer system,0.534,Census - CEN04
+Tunisia,TN,TUN,788,National,2,Flush and pour flush - to septic tank,0.0,Census - CEN04
+Tunisia,TN,TUN,788,National,3,Flush and pour flush - to pit,0.0,Census - CEN04
+Tunisia,TN,TUN,788,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN04
+Tunisia,TN,TUN,788,National,5,Flush and pour flush - to elsewhere,0.0,Census - CEN04
+Tunisia,TN,TUN,788,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN04
+Tunisia,TN,TUN,788,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN04
+Tunisia,TN,TUN,788,National,8,Dry latrines - Traditional latrine,0.0,Census - CEN04
+Tunisia,TN,TUN,788,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN04
+Tunisia,TN,TUN,788,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN04
+Tunisia,TN,TUN,788,National,11,Dry latrines - Bucket latrine,0.0,Census - CEN04
+Tunisia,TN,TUN,788,National,12,Dry latrines - Other,0.0,Census - CEN04
+Tunisia,TN,TUN,788,National,13,Composting toilets,0.0,Census - CEN04
+Tunisia,TN,TUN,788,National,14,Other improved,0.0,Census - CEN04
+Tunisia,TN,TUN,788,National,15,"No facility, bush, field",0.0,Census - CEN04
+Tunisia,TN,TUN,788,National,16,Other unimproved,0.0,Census - CEN04
+Tunisia,TN,TUN,788,National,17,DK/missing information,0.0,Census - CEN04
+Tunisia,TN,TUN,788,Urban,1,Flush and pour flush - to piped sewer system,0.759,"Enquête Nationale sur le Budget, la Consommation et le Niveau de vie des Ménages 2005 - ENCV05"
+Tunisia,TN,TUN,788,Urban,2,Flush and pour flush - to septic tank,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de vie des Ménages 2005 - ENCV05"
+Tunisia,TN,TUN,788,Urban,3,Flush and pour flush - to pit,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de vie des Ménages 2005 - ENCV05"
+Tunisia,TN,TUN,788,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de vie des Ménages 2005 - ENCV05"
+Tunisia,TN,TUN,788,Urban,5,Flush and pour flush - to elsewhere,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de vie des Ménages 2005 - ENCV05"
+Tunisia,TN,TUN,788,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de vie des Ménages 2005 - ENCV05"
+Tunisia,TN,TUN,788,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de vie des Ménages 2005 - ENCV05"
+Tunisia,TN,TUN,788,Urban,8,Dry latrines - Traditional latrine,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de vie des Ménages 2005 - ENCV05"
+Tunisia,TN,TUN,788,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de vie des Ménages 2005 - ENCV05"
+Tunisia,TN,TUN,788,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de vie des Ménages 2005 - ENCV05"
+Tunisia,TN,TUN,788,Urban,11,Dry latrines - Bucket latrine,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de vie des Ménages 2005 - ENCV05"
+Tunisia,TN,TUN,788,Urban,12,Dry latrines - Other,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de vie des Ménages 2005 - ENCV05"
+Tunisia,TN,TUN,788,Urban,13,Composting toilets,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de vie des Ménages 2005 - ENCV05"
+Tunisia,TN,TUN,788,Urban,14,Other improved,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de vie des Ménages 2005 - ENCV05"
+Tunisia,TN,TUN,788,Urban,15,"No facility, bush, field",0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de vie des Ménages 2005 - ENCV05"
+Tunisia,TN,TUN,788,Urban,16,Other unimproved,0.241,"Enquête Nationale sur le Budget, la Consommation et le Niveau de vie des Ménages 2005 - ENCV05"
+Tunisia,TN,TUN,788,Urban,17,DK/missing information,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de vie des Ménages 2005 - ENCV05"
+Tunisia,TN,TUN,788,Rural,1,Flush and pour flush - to piped sewer system,0.06,"Enquête Nationale sur le Budget, la Consommation et le Niveau de vie des Ménages 2005 - ENCV05"
+Tunisia,TN,TUN,788,Rural,2,Flush and pour flush - to septic tank,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de vie des Ménages 2005 - ENCV05"
+Tunisia,TN,TUN,788,Rural,3,Flush and pour flush - to pit,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de vie des Ménages 2005 - ENCV05"
+Tunisia,TN,TUN,788,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de vie des Ménages 2005 - ENCV05"
+Tunisia,TN,TUN,788,Rural,5,Flush and pour flush - to elsewhere,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de vie des Ménages 2005 - ENCV05"
+Tunisia,TN,TUN,788,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de vie des Ménages 2005 - ENCV05"
+Tunisia,TN,TUN,788,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de vie des Ménages 2005 - ENCV05"
+Tunisia,TN,TUN,788,Rural,8,Dry latrines - Traditional latrine,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de vie des Ménages 2005 - ENCV05"
+Tunisia,TN,TUN,788,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de vie des Ménages 2005 - ENCV05"
+Tunisia,TN,TUN,788,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de vie des Ménages 2005 - ENCV05"
+Tunisia,TN,TUN,788,Rural,11,Dry latrines - Bucket latrine,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de vie des Ménages 2005 - ENCV05"
+Tunisia,TN,TUN,788,Rural,12,Dry latrines - Other,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de vie des Ménages 2005 - ENCV05"
+Tunisia,TN,TUN,788,Rural,13,Composting toilets,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de vie des Ménages 2005 - ENCV05"
+Tunisia,TN,TUN,788,Rural,14,Other improved,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de vie des Ménages 2005 - ENCV05"
+Tunisia,TN,TUN,788,Rural,15,"No facility, bush, field",0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de vie des Ménages 2005 - ENCV05"
+Tunisia,TN,TUN,788,Rural,16,Other unimproved,0.94,"Enquête Nationale sur le Budget, la Consommation et le Niveau de vie des Ménages 2005 - ENCV05"
+Tunisia,TN,TUN,788,Rural,17,DK/missing information,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de vie des Ménages 2005 - ENCV05"
+Tunisia,TN,TUN,788,National,1,Flush and pour flush - to piped sewer system,0.516,"Enquête Nationale sur le Budget, la Consommation et le Niveau de vie des Ménages 2005 - ENCV05"
+Tunisia,TN,TUN,788,National,2,Flush and pour flush - to septic tank,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de vie des Ménages 2005 - ENCV05"
+Tunisia,TN,TUN,788,National,3,Flush and pour flush - to pit,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de vie des Ménages 2005 - ENCV05"
+Tunisia,TN,TUN,788,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de vie des Ménages 2005 - ENCV05"
+Tunisia,TN,TUN,788,National,5,Flush and pour flush - to elsewhere,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de vie des Ménages 2005 - ENCV05"
+Tunisia,TN,TUN,788,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de vie des Ménages 2005 - ENCV05"
+Tunisia,TN,TUN,788,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de vie des Ménages 2005 - ENCV05"
+Tunisia,TN,TUN,788,National,8,Dry latrines - Traditional latrine,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de vie des Ménages 2005 - ENCV05"
+Tunisia,TN,TUN,788,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de vie des Ménages 2005 - ENCV05"
+Tunisia,TN,TUN,788,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de vie des Ménages 2005 - ENCV05"
+Tunisia,TN,TUN,788,National,11,Dry latrines - Bucket latrine,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de vie des Ménages 2005 - ENCV05"
+Tunisia,TN,TUN,788,National,12,Dry latrines - Other,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de vie des Ménages 2005 - ENCV05"
+Tunisia,TN,TUN,788,National,13,Composting toilets,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de vie des Ménages 2005 - ENCV05"
+Tunisia,TN,TUN,788,National,14,Other improved,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de vie des Ménages 2005 - ENCV05"
+Tunisia,TN,TUN,788,National,15,"No facility, bush, field",0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de vie des Ménages 2005 - ENCV05"
+Tunisia,TN,TUN,788,National,16,Other unimproved,0.484,"Enquête Nationale sur le Budget, la Consommation et le Niveau de vie des Ménages 2005 - ENCV05"
+Tunisia,TN,TUN,788,National,17,DK/missing information,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de vie des Ménages 2005 - ENCV05"
+Tunisia,TN,TUN,788,Urban,1,Flush and pour flush - to piped sewer system,0.835,"Enquête Nationale sur le Budget, la Consommation et le Niveau de Vie des ménages - ENBCNV10"
+Tunisia,TN,TUN,788,Urban,2,Flush and pour flush - to septic tank,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de Vie des ménages - ENBCNV10"
+Tunisia,TN,TUN,788,Urban,3,Flush and pour flush - to pit,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de Vie des ménages - ENBCNV10"
+Tunisia,TN,TUN,788,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de Vie des ménages - ENBCNV10"
+Tunisia,TN,TUN,788,Urban,5,Flush and pour flush - to elsewhere,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de Vie des ménages - ENBCNV10"
+Tunisia,TN,TUN,788,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de Vie des ménages - ENBCNV10"
+Tunisia,TN,TUN,788,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de Vie des ménages - ENBCNV10"
+Tunisia,TN,TUN,788,Urban,8,Dry latrines - Traditional latrine,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de Vie des ménages - ENBCNV10"
+Tunisia,TN,TUN,788,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de Vie des ménages - ENBCNV10"
+Tunisia,TN,TUN,788,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de Vie des ménages - ENBCNV10"
+Tunisia,TN,TUN,788,Urban,11,Dry latrines - Bucket latrine,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de Vie des ménages - ENBCNV10"
+Tunisia,TN,TUN,788,Urban,12,Dry latrines - Other,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de Vie des ménages - ENBCNV10"
+Tunisia,TN,TUN,788,Urban,13,Composting toilets,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de Vie des ménages - ENBCNV10"
+Tunisia,TN,TUN,788,Urban,14,Other improved,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de Vie des ménages - ENBCNV10"
+Tunisia,TN,TUN,788,Urban,15,"No facility, bush, field",0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de Vie des ménages - ENBCNV10"
+Tunisia,TN,TUN,788,Urban,16,Other unimproved,0.165,"Enquête Nationale sur le Budget, la Consommation et le Niveau de Vie des ménages - ENBCNV10"
+Tunisia,TN,TUN,788,Urban,17,DK/missing information,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de Vie des ménages - ENBCNV10"
+Tunisia,TN,TUN,788,Rural,1,Flush and pour flush - to piped sewer system,0.094,"Enquête Nationale sur le Budget, la Consommation et le Niveau de Vie des ménages - ENBCNV10"
+Tunisia,TN,TUN,788,Rural,2,Flush and pour flush - to septic tank,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de Vie des ménages - ENBCNV10"
+Tunisia,TN,TUN,788,Rural,3,Flush and pour flush - to pit,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de Vie des ménages - ENBCNV10"
+Tunisia,TN,TUN,788,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de Vie des ménages - ENBCNV10"
+Tunisia,TN,TUN,788,Rural,5,Flush and pour flush - to elsewhere,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de Vie des ménages - ENBCNV10"
+Tunisia,TN,TUN,788,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de Vie des ménages - ENBCNV10"
+Tunisia,TN,TUN,788,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de Vie des ménages - ENBCNV10"
+Tunisia,TN,TUN,788,Rural,8,Dry latrines - Traditional latrine,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de Vie des ménages - ENBCNV10"
+Tunisia,TN,TUN,788,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de Vie des ménages - ENBCNV10"
+Tunisia,TN,TUN,788,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de Vie des ménages - ENBCNV10"
+Tunisia,TN,TUN,788,Rural,11,Dry latrines - Bucket latrine,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de Vie des ménages - ENBCNV10"
+Tunisia,TN,TUN,788,Rural,12,Dry latrines - Other,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de Vie des ménages - ENBCNV10"
+Tunisia,TN,TUN,788,Rural,13,Composting toilets,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de Vie des ménages - ENBCNV10"
+Tunisia,TN,TUN,788,Rural,14,Other improved,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de Vie des ménages - ENBCNV10"
+Tunisia,TN,TUN,788,Rural,15,"No facility, bush, field",0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de Vie des ménages - ENBCNV10"
+Tunisia,TN,TUN,788,Rural,16,Other unimproved,0.906,"Enquête Nationale sur le Budget, la Consommation et le Niveau de Vie des ménages - ENBCNV10"
+Tunisia,TN,TUN,788,Rural,17,DK/missing information,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de Vie des ménages - ENBCNV10"
+Tunisia,TN,TUN,788,National,1,Flush and pour flush - to piped sewer system,0.609,"Enquête Nationale sur le Budget, la Consommation et le Niveau de Vie des ménages - ENBCNV10"
+Tunisia,TN,TUN,788,National,2,Flush and pour flush - to septic tank,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de Vie des ménages - ENBCNV10"
+Tunisia,TN,TUN,788,National,3,Flush and pour flush - to pit,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de Vie des ménages - ENBCNV10"
+Tunisia,TN,TUN,788,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de Vie des ménages - ENBCNV10"
+Tunisia,TN,TUN,788,National,5,Flush and pour flush - to elsewhere,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de Vie des ménages - ENBCNV10"
+Tunisia,TN,TUN,788,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de Vie des ménages - ENBCNV10"
+Tunisia,TN,TUN,788,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de Vie des ménages - ENBCNV10"
+Tunisia,TN,TUN,788,National,8,Dry latrines - Traditional latrine,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de Vie des ménages - ENBCNV10"
+Tunisia,TN,TUN,788,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de Vie des ménages - ENBCNV10"
+Tunisia,TN,TUN,788,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de Vie des ménages - ENBCNV10"
+Tunisia,TN,TUN,788,National,11,Dry latrines - Bucket latrine,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de Vie des ménages - ENBCNV10"
+Tunisia,TN,TUN,788,National,12,Dry latrines - Other,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de Vie des ménages - ENBCNV10"
+Tunisia,TN,TUN,788,National,13,Composting toilets,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de Vie des ménages - ENBCNV10"
+Tunisia,TN,TUN,788,National,14,Other improved,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de Vie des ménages - ENBCNV10"
+Tunisia,TN,TUN,788,National,15,"No facility, bush, field",0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de Vie des ménages - ENBCNV10"
+Tunisia,TN,TUN,788,National,16,Other unimproved,0.391,"Enquête Nationale sur le Budget, la Consommation et le Niveau de Vie des ménages - ENBCNV10"
+Tunisia,TN,TUN,788,National,17,DK/missing information,0.0,"Enquête Nationale sur le Budget, la Consommation et le Niveau de Vie des ménages - ENBCNV10"

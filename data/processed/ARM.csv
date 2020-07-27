@@ -1,4 +1,412 @@
 country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+Armenia,AM,ARM,051,Urban,1,Flush and pour flush - to piped sewer system,0.822,Armenia Stat Bank - ASB00
+Armenia,AM,ARM,051,Urban,2,Flush and pour flush - to septic tank,0.0,Armenia Stat Bank - ASB00
+Armenia,AM,ARM,051,Urban,3,Flush and pour flush - to pit,0.0,Armenia Stat Bank - ASB00
+Armenia,AM,ARM,051,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Armenia Stat Bank - ASB00
+Armenia,AM,ARM,051,Urban,5,Flush and pour flush - to elsewhere,0.0,Armenia Stat Bank - ASB00
+Armenia,AM,ARM,051,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Armenia Stat Bank - ASB00
+Armenia,AM,ARM,051,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Armenia Stat Bank - ASB00
+Armenia,AM,ARM,051,Urban,8,Dry latrines - Traditional latrine,0.0,Armenia Stat Bank - ASB00
+Armenia,AM,ARM,051,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Armenia Stat Bank - ASB00
+Armenia,AM,ARM,051,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Armenia Stat Bank - ASB00
+Armenia,AM,ARM,051,Urban,11,Dry latrines - Bucket latrine,0.0,Armenia Stat Bank - ASB00
+Armenia,AM,ARM,051,Urban,12,Dry latrines - Other,0.0,Armenia Stat Bank - ASB00
+Armenia,AM,ARM,051,Urban,13,Composting toilets,0.0,Armenia Stat Bank - ASB00
+Armenia,AM,ARM,051,Urban,14,Other improved,0.0,Armenia Stat Bank - ASB00
+Armenia,AM,ARM,051,Urban,15,"No facility, bush, field",0.0,Armenia Stat Bank - ASB00
+Armenia,AM,ARM,051,Urban,16,Other unimproved,0.178,Armenia Stat Bank - ASB00
+Armenia,AM,ARM,051,Urban,17,DK/missing information,0.0,Armenia Stat Bank - ASB00
+Armenia,AM,ARM,051,Rural,1,Flush and pour flush - to piped sewer system,0.177,Armenia Stat Bank - ASB00
+Armenia,AM,ARM,051,Rural,2,Flush and pour flush - to septic tank,0.0,Armenia Stat Bank - ASB00
+Armenia,AM,ARM,051,Rural,3,Flush and pour flush - to pit,0.0,Armenia Stat Bank - ASB00
+Armenia,AM,ARM,051,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Armenia Stat Bank - ASB00
+Armenia,AM,ARM,051,Rural,5,Flush and pour flush - to elsewhere,0.0,Armenia Stat Bank - ASB00
+Armenia,AM,ARM,051,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Armenia Stat Bank - ASB00
+Armenia,AM,ARM,051,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Armenia Stat Bank - ASB00
+Armenia,AM,ARM,051,Rural,8,Dry latrines - Traditional latrine,0.0,Armenia Stat Bank - ASB00
+Armenia,AM,ARM,051,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Armenia Stat Bank - ASB00
+Armenia,AM,ARM,051,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Armenia Stat Bank - ASB00
+Armenia,AM,ARM,051,Rural,11,Dry latrines - Bucket latrine,0.0,Armenia Stat Bank - ASB00
+Armenia,AM,ARM,051,Rural,12,Dry latrines - Other,0.0,Armenia Stat Bank - ASB00
+Armenia,AM,ARM,051,Rural,13,Composting toilets,0.0,Armenia Stat Bank - ASB00
+Armenia,AM,ARM,051,Rural,14,Other improved,0.0,Armenia Stat Bank - ASB00
+Armenia,AM,ARM,051,Rural,15,"No facility, bush, field",0.0,Armenia Stat Bank - ASB00
+Armenia,AM,ARM,051,Rural,16,Other unimproved,0.823,Armenia Stat Bank - ASB00
+Armenia,AM,ARM,051,Rural,17,DK/missing information,0.0,Armenia Stat Bank - ASB00
+Armenia,AM,ARM,051,National,1,Flush and pour flush - to piped sewer system,0.633,Armenia Stat Bank - ASB00
+Armenia,AM,ARM,051,National,2,Flush and pour flush - to septic tank,0.0,Armenia Stat Bank - ASB00
+Armenia,AM,ARM,051,National,3,Flush and pour flush - to pit,0.0,Armenia Stat Bank - ASB00
+Armenia,AM,ARM,051,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Armenia Stat Bank - ASB00
+Armenia,AM,ARM,051,National,5,Flush and pour flush - to elsewhere,0.0,Armenia Stat Bank - ASB00
+Armenia,AM,ARM,051,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Armenia Stat Bank - ASB00
+Armenia,AM,ARM,051,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Armenia Stat Bank - ASB00
+Armenia,AM,ARM,051,National,8,Dry latrines - Traditional latrine,0.0,Armenia Stat Bank - ASB00
+Armenia,AM,ARM,051,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Armenia Stat Bank - ASB00
+Armenia,AM,ARM,051,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Armenia Stat Bank - ASB00
+Armenia,AM,ARM,051,National,11,Dry latrines - Bucket latrine,0.0,Armenia Stat Bank - ASB00
+Armenia,AM,ARM,051,National,12,Dry latrines - Other,0.0,Armenia Stat Bank - ASB00
+Armenia,AM,ARM,051,National,13,Composting toilets,0.0,Armenia Stat Bank - ASB00
+Armenia,AM,ARM,051,National,14,Other improved,0.0,Armenia Stat Bank - ASB00
+Armenia,AM,ARM,051,National,15,"No facility, bush, field",0.0,Armenia Stat Bank - ASB00
+Armenia,AM,ARM,051,National,16,Other unimproved,0.367,Armenia Stat Bank - ASB00
+Armenia,AM,ARM,051,National,17,DK/missing information,0.0,Armenia Stat Bank - ASB00
+Armenia,AM,ARM,051,Urban,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS00
+Armenia,AM,ARM,051,Urban,2,Flush and pour flush - to septic tank,0.0,Demographic and Health Survey - DHS00
+Armenia,AM,ARM,051,Urban,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS00
+Armenia,AM,ARM,051,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS00
+Armenia,AM,ARM,051,Urban,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS00
+Armenia,AM,ARM,051,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - DHS00
+Armenia,AM,ARM,051,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS00
+Armenia,AM,ARM,051,Urban,8,Dry latrines - Traditional latrine,0.092,Demographic and Health Survey - DHS00
+Armenia,AM,ARM,051,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Survey - DHS00
+Armenia,AM,ARM,051,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS00
+Armenia,AM,ARM,051,Urban,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS00
+Armenia,AM,ARM,051,Urban,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS00
+Armenia,AM,ARM,051,Urban,13,Composting toilets,0.0,Demographic and Health Survey - DHS00
+Armenia,AM,ARM,051,Urban,14,Other improved,0.0,Demographic and Health Survey - DHS00
+Armenia,AM,ARM,051,Urban,15,"No facility, bush, field",0.0,Demographic and Health Survey - DHS00
+Armenia,AM,ARM,051,Urban,16,Other unimproved,0.005,Demographic and Health Survey - DHS00
+Armenia,AM,ARM,051,Urban,17,DK/missing information,0.0,Demographic and Health Survey - DHS00
+Armenia,AM,ARM,051,Rural,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS00
+Armenia,AM,ARM,051,Rural,2,Flush and pour flush - to septic tank,0.0,Demographic and Health Survey - DHS00
+Armenia,AM,ARM,051,Rural,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS00
+Armenia,AM,ARM,051,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS00
+Armenia,AM,ARM,051,Rural,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS00
+Armenia,AM,ARM,051,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - DHS00
+Armenia,AM,ARM,051,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS00
+Armenia,AM,ARM,051,Rural,8,Dry latrines - Traditional latrine,0.791,Demographic and Health Survey - DHS00
+Armenia,AM,ARM,051,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Survey - DHS00
+Armenia,AM,ARM,051,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS00
+Armenia,AM,ARM,051,Rural,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS00
+Armenia,AM,ARM,051,Rural,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS00
+Armenia,AM,ARM,051,Rural,13,Composting toilets,0.0,Demographic and Health Survey - DHS00
+Armenia,AM,ARM,051,Rural,14,Other improved,0.0,Demographic and Health Survey - DHS00
+Armenia,AM,ARM,051,Rural,15,"No facility, bush, field",0.0,Demographic and Health Survey - DHS00
+Armenia,AM,ARM,051,Rural,16,Other unimproved,0.004,Demographic and Health Survey - DHS00
+Armenia,AM,ARM,051,Rural,17,DK/missing information,0.0,Demographic and Health Survey - DHS00
+Armenia,AM,ARM,051,National,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS00
+Armenia,AM,ARM,051,National,2,Flush and pour flush - to septic tank,0.0,Demographic and Health Survey - DHS00
+Armenia,AM,ARM,051,National,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS00
+Armenia,AM,ARM,051,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS00
+Armenia,AM,ARM,051,National,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS00
+Armenia,AM,ARM,051,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - DHS00
+Armenia,AM,ARM,051,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS00
+Armenia,AM,ARM,051,National,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS00
+Armenia,AM,ARM,051,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Survey - DHS00
+Armenia,AM,ARM,051,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS00
+Armenia,AM,ARM,051,National,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS00
+Armenia,AM,ARM,051,National,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS00
+Armenia,AM,ARM,051,National,13,Composting toilets,0.0,Demographic and Health Survey - DHS00
+Armenia,AM,ARM,051,National,14,Other improved,0.0,Demographic and Health Survey - DHS00
+Armenia,AM,ARM,051,National,15,"No facility, bush, field",0.0,Demographic and Health Survey - DHS00
+Armenia,AM,ARM,051,National,16,Other unimproved,0.0,Demographic and Health Survey - DHS00
+Armenia,AM,ARM,051,National,17,DK/missing information,0.0,Demographic and Health Survey - DHS00
+Armenia,AM,ARM,051,Urban,1,Flush and pour flush - to piped sewer system,0.808,Armenia Stat Bank - ASB01
+Armenia,AM,ARM,051,Urban,2,Flush and pour flush - to septic tank,0.0,Armenia Stat Bank - ASB01
+Armenia,AM,ARM,051,Urban,3,Flush and pour flush - to pit,0.0,Armenia Stat Bank - ASB01
+Armenia,AM,ARM,051,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Armenia Stat Bank - ASB01
+Armenia,AM,ARM,051,Urban,5,Flush and pour flush - to elsewhere,0.0,Armenia Stat Bank - ASB01
+Armenia,AM,ARM,051,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Armenia Stat Bank - ASB01
+Armenia,AM,ARM,051,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Armenia Stat Bank - ASB01
+Armenia,AM,ARM,051,Urban,8,Dry latrines - Traditional latrine,0.0,Armenia Stat Bank - ASB01
+Armenia,AM,ARM,051,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Armenia Stat Bank - ASB01
+Armenia,AM,ARM,051,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Armenia Stat Bank - ASB01
+Armenia,AM,ARM,051,Urban,11,Dry latrines - Bucket latrine,0.0,Armenia Stat Bank - ASB01
+Armenia,AM,ARM,051,Urban,12,Dry latrines - Other,0.0,Armenia Stat Bank - ASB01
+Armenia,AM,ARM,051,Urban,13,Composting toilets,0.0,Armenia Stat Bank - ASB01
+Armenia,AM,ARM,051,Urban,14,Other improved,0.0,Armenia Stat Bank - ASB01
+Armenia,AM,ARM,051,Urban,15,"No facility, bush, field",0.0,Armenia Stat Bank - ASB01
+Armenia,AM,ARM,051,Urban,16,Other unimproved,0.192,Armenia Stat Bank - ASB01
+Armenia,AM,ARM,051,Urban,17,DK/missing information,0.0,Armenia Stat Bank - ASB01
+Armenia,AM,ARM,051,Rural,1,Flush and pour flush - to piped sewer system,0.246,Armenia Stat Bank - ASB01
+Armenia,AM,ARM,051,Rural,2,Flush and pour flush - to septic tank,0.0,Armenia Stat Bank - ASB01
+Armenia,AM,ARM,051,Rural,3,Flush and pour flush - to pit,0.0,Armenia Stat Bank - ASB01
+Armenia,AM,ARM,051,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Armenia Stat Bank - ASB01
+Armenia,AM,ARM,051,Rural,5,Flush and pour flush - to elsewhere,0.0,Armenia Stat Bank - ASB01
+Armenia,AM,ARM,051,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Armenia Stat Bank - ASB01
+Armenia,AM,ARM,051,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Armenia Stat Bank - ASB01
+Armenia,AM,ARM,051,Rural,8,Dry latrines - Traditional latrine,0.0,Armenia Stat Bank - ASB01
+Armenia,AM,ARM,051,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Armenia Stat Bank - ASB01
+Armenia,AM,ARM,051,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Armenia Stat Bank - ASB01
+Armenia,AM,ARM,051,Rural,11,Dry latrines - Bucket latrine,0.0,Armenia Stat Bank - ASB01
+Armenia,AM,ARM,051,Rural,12,Dry latrines - Other,0.0,Armenia Stat Bank - ASB01
+Armenia,AM,ARM,051,Rural,13,Composting toilets,0.0,Armenia Stat Bank - ASB01
+Armenia,AM,ARM,051,Rural,14,Other improved,0.0,Armenia Stat Bank - ASB01
+Armenia,AM,ARM,051,Rural,15,"No facility, bush, field",0.0,Armenia Stat Bank - ASB01
+Armenia,AM,ARM,051,Rural,16,Other unimproved,0.754,Armenia Stat Bank - ASB01
+Armenia,AM,ARM,051,Rural,17,DK/missing information,0.0,Armenia Stat Bank - ASB01
+Armenia,AM,ARM,051,National,1,Flush and pour flush - to piped sewer system,0.628,Armenia Stat Bank - ASB01
+Armenia,AM,ARM,051,National,2,Flush and pour flush - to septic tank,0.0,Armenia Stat Bank - ASB01
+Armenia,AM,ARM,051,National,3,Flush and pour flush - to pit,0.0,Armenia Stat Bank - ASB01
+Armenia,AM,ARM,051,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Armenia Stat Bank - ASB01
+Armenia,AM,ARM,051,National,5,Flush and pour flush - to elsewhere,0.0,Armenia Stat Bank - ASB01
+Armenia,AM,ARM,051,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Armenia Stat Bank - ASB01
+Armenia,AM,ARM,051,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Armenia Stat Bank - ASB01
+Armenia,AM,ARM,051,National,8,Dry latrines - Traditional latrine,0.0,Armenia Stat Bank - ASB01
+Armenia,AM,ARM,051,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Armenia Stat Bank - ASB01
+Armenia,AM,ARM,051,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Armenia Stat Bank - ASB01
+Armenia,AM,ARM,051,National,11,Dry latrines - Bucket latrine,0.0,Armenia Stat Bank - ASB01
+Armenia,AM,ARM,051,National,12,Dry latrines - Other,0.0,Armenia Stat Bank - ASB01
+Armenia,AM,ARM,051,National,13,Composting toilets,0.0,Armenia Stat Bank - ASB01
+Armenia,AM,ARM,051,National,14,Other improved,0.0,Armenia Stat Bank - ASB01
+Armenia,AM,ARM,051,National,15,"No facility, bush, field",0.0,Armenia Stat Bank - ASB01
+Armenia,AM,ARM,051,National,16,Other unimproved,0.372,Armenia Stat Bank - ASB01
+Armenia,AM,ARM,051,National,17,DK/missing information,0.0,Armenia Stat Bank - ASB01
+Armenia,AM,ARM,051,Urban,1,Flush and pour flush - to piped sewer system,0.0,National Census  - CEN01
+Armenia,AM,ARM,051,Urban,2,Flush and pour flush - to septic tank,0.0,National Census  - CEN01
+Armenia,AM,ARM,051,Urban,3,Flush and pour flush - to pit,0.0,National Census  - CEN01
+Armenia,AM,ARM,051,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Census  - CEN01
+Armenia,AM,ARM,051,Urban,5,Flush and pour flush - to elsewhere,0.0,National Census  - CEN01
+Armenia,AM,ARM,051,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,National Census  - CEN01
+Armenia,AM,ARM,051,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Census  - CEN01
+Armenia,AM,ARM,051,Urban,8,Dry latrines - Traditional latrine,0.0,National Census  - CEN01
+Armenia,AM,ARM,051,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Census  - CEN01
+Armenia,AM,ARM,051,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Census  - CEN01
+Armenia,AM,ARM,051,Urban,11,Dry latrines - Bucket latrine,0.0,National Census  - CEN01
+Armenia,AM,ARM,051,Urban,12,Dry latrines - Other,0.0,National Census  - CEN01
+Armenia,AM,ARM,051,Urban,13,Composting toilets,0.0,National Census  - CEN01
+Armenia,AM,ARM,051,Urban,14,Other improved,0.0,National Census  - CEN01
+Armenia,AM,ARM,051,Urban,15,"No facility, bush, field",0.0,National Census  - CEN01
+Armenia,AM,ARM,051,Urban,16,Other unimproved,0.007,National Census  - CEN01
+Armenia,AM,ARM,051,Urban,17,DK/missing information,0.0,National Census  - CEN01
+Armenia,AM,ARM,051,Rural,1,Flush and pour flush - to piped sewer system,0.0,National Census  - CEN01
+Armenia,AM,ARM,051,Rural,2,Flush and pour flush - to septic tank,0.0,National Census  - CEN01
+Armenia,AM,ARM,051,Rural,3,Flush and pour flush - to pit,0.0,National Census  - CEN01
+Armenia,AM,ARM,051,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Census  - CEN01
+Armenia,AM,ARM,051,Rural,5,Flush and pour flush - to elsewhere,0.0,National Census  - CEN01
+Armenia,AM,ARM,051,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,National Census  - CEN01
+Armenia,AM,ARM,051,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Census  - CEN01
+Armenia,AM,ARM,051,Rural,8,Dry latrines - Traditional latrine,0.0,National Census  - CEN01
+Armenia,AM,ARM,051,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Census  - CEN01
+Armenia,AM,ARM,051,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Census  - CEN01
+Armenia,AM,ARM,051,Rural,11,Dry latrines - Bucket latrine,0.0,National Census  - CEN01
+Armenia,AM,ARM,051,Rural,12,Dry latrines - Other,0.0,National Census  - CEN01
+Armenia,AM,ARM,051,Rural,13,Composting toilets,0.0,National Census  - CEN01
+Armenia,AM,ARM,051,Rural,14,Other improved,0.0,National Census  - CEN01
+Armenia,AM,ARM,051,Rural,15,"No facility, bush, field",0.0,National Census  - CEN01
+Armenia,AM,ARM,051,Rural,16,Other unimproved,0.035,National Census  - CEN01
+Armenia,AM,ARM,051,Rural,17,DK/missing information,0.0,National Census  - CEN01
+Armenia,AM,ARM,051,National,1,Flush and pour flush - to piped sewer system,0.0,National Census  - CEN01
+Armenia,AM,ARM,051,National,2,Flush and pour flush - to septic tank,0.0,National Census  - CEN01
+Armenia,AM,ARM,051,National,3,Flush and pour flush - to pit,0.0,National Census  - CEN01
+Armenia,AM,ARM,051,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Census  - CEN01
+Armenia,AM,ARM,051,National,5,Flush and pour flush - to elsewhere,0.0,National Census  - CEN01
+Armenia,AM,ARM,051,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,National Census  - CEN01
+Armenia,AM,ARM,051,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Census  - CEN01
+Armenia,AM,ARM,051,National,8,Dry latrines - Traditional latrine,0.0,National Census  - CEN01
+Armenia,AM,ARM,051,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Census  - CEN01
+Armenia,AM,ARM,051,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Census  - CEN01
+Armenia,AM,ARM,051,National,11,Dry latrines - Bucket latrine,0.0,National Census  - CEN01
+Armenia,AM,ARM,051,National,12,Dry latrines - Other,0.0,National Census  - CEN01
+Armenia,AM,ARM,051,National,13,Composting toilets,0.0,National Census  - CEN01
+Armenia,AM,ARM,051,National,14,Other improved,0.0,National Census  - CEN01
+Armenia,AM,ARM,051,National,15,"No facility, bush, field",0.0,National Census  - CEN01
+Armenia,AM,ARM,051,National,16,Other unimproved,0.0,National Census  - CEN01
+Armenia,AM,ARM,051,National,17,DK/missing information,0.0,National Census  - CEN01
+Armenia,AM,ARM,051,Urban,1,Flush and pour flush - to piped sewer system,0.822,Armenia Stat Bank - ASB02
+Armenia,AM,ARM,051,Urban,2,Flush and pour flush - to septic tank,0.0,Armenia Stat Bank - ASB02
+Armenia,AM,ARM,051,Urban,3,Flush and pour flush - to pit,0.0,Armenia Stat Bank - ASB02
+Armenia,AM,ARM,051,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Armenia Stat Bank - ASB02
+Armenia,AM,ARM,051,Urban,5,Flush and pour flush - to elsewhere,0.0,Armenia Stat Bank - ASB02
+Armenia,AM,ARM,051,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Armenia Stat Bank - ASB02
+Armenia,AM,ARM,051,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Armenia Stat Bank - ASB02
+Armenia,AM,ARM,051,Urban,8,Dry latrines - Traditional latrine,0.0,Armenia Stat Bank - ASB02
+Armenia,AM,ARM,051,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Armenia Stat Bank - ASB02
+Armenia,AM,ARM,051,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Armenia Stat Bank - ASB02
+Armenia,AM,ARM,051,Urban,11,Dry latrines - Bucket latrine,0.0,Armenia Stat Bank - ASB02
+Armenia,AM,ARM,051,Urban,12,Dry latrines - Other,0.0,Armenia Stat Bank - ASB02
+Armenia,AM,ARM,051,Urban,13,Composting toilets,0.0,Armenia Stat Bank - ASB02
+Armenia,AM,ARM,051,Urban,14,Other improved,0.0,Armenia Stat Bank - ASB02
+Armenia,AM,ARM,051,Urban,15,"No facility, bush, field",0.0,Armenia Stat Bank - ASB02
+Armenia,AM,ARM,051,Urban,16,Other unimproved,0.178,Armenia Stat Bank - ASB02
+Armenia,AM,ARM,051,Urban,17,DK/missing information,0.0,Armenia Stat Bank - ASB02
+Armenia,AM,ARM,051,Rural,1,Flush and pour flush - to piped sewer system,0.225,Armenia Stat Bank - ASB02
+Armenia,AM,ARM,051,Rural,2,Flush and pour flush - to septic tank,0.0,Armenia Stat Bank - ASB02
+Armenia,AM,ARM,051,Rural,3,Flush and pour flush - to pit,0.0,Armenia Stat Bank - ASB02
+Armenia,AM,ARM,051,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Armenia Stat Bank - ASB02
+Armenia,AM,ARM,051,Rural,5,Flush and pour flush - to elsewhere,0.0,Armenia Stat Bank - ASB02
+Armenia,AM,ARM,051,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Armenia Stat Bank - ASB02
+Armenia,AM,ARM,051,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Armenia Stat Bank - ASB02
+Armenia,AM,ARM,051,Rural,8,Dry latrines - Traditional latrine,0.0,Armenia Stat Bank - ASB02
+Armenia,AM,ARM,051,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Armenia Stat Bank - ASB02
+Armenia,AM,ARM,051,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Armenia Stat Bank - ASB02
+Armenia,AM,ARM,051,Rural,11,Dry latrines - Bucket latrine,0.0,Armenia Stat Bank - ASB02
+Armenia,AM,ARM,051,Rural,12,Dry latrines - Other,0.0,Armenia Stat Bank - ASB02
+Armenia,AM,ARM,051,Rural,13,Composting toilets,0.0,Armenia Stat Bank - ASB02
+Armenia,AM,ARM,051,Rural,14,Other improved,0.0,Armenia Stat Bank - ASB02
+Armenia,AM,ARM,051,Rural,15,"No facility, bush, field",0.0,Armenia Stat Bank - ASB02
+Armenia,AM,ARM,051,Rural,16,Other unimproved,0.775,Armenia Stat Bank - ASB02
+Armenia,AM,ARM,051,Rural,17,DK/missing information,0.0,Armenia Stat Bank - ASB02
+Armenia,AM,ARM,051,National,1,Flush and pour flush - to piped sewer system,0.588,Armenia Stat Bank - ASB02
+Armenia,AM,ARM,051,National,2,Flush and pour flush - to septic tank,0.0,Armenia Stat Bank - ASB02
+Armenia,AM,ARM,051,National,3,Flush and pour flush - to pit,0.0,Armenia Stat Bank - ASB02
+Armenia,AM,ARM,051,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Armenia Stat Bank - ASB02
+Armenia,AM,ARM,051,National,5,Flush and pour flush - to elsewhere,0.0,Armenia Stat Bank - ASB02
+Armenia,AM,ARM,051,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Armenia Stat Bank - ASB02
+Armenia,AM,ARM,051,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Armenia Stat Bank - ASB02
+Armenia,AM,ARM,051,National,8,Dry latrines - Traditional latrine,0.0,Armenia Stat Bank - ASB02
+Armenia,AM,ARM,051,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Armenia Stat Bank - ASB02
+Armenia,AM,ARM,051,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Armenia Stat Bank - ASB02
+Armenia,AM,ARM,051,National,11,Dry latrines - Bucket latrine,0.0,Armenia Stat Bank - ASB02
+Armenia,AM,ARM,051,National,12,Dry latrines - Other,0.0,Armenia Stat Bank - ASB02
+Armenia,AM,ARM,051,National,13,Composting toilets,0.0,Armenia Stat Bank - ASB02
+Armenia,AM,ARM,051,National,14,Other improved,0.0,Armenia Stat Bank - ASB02
+Armenia,AM,ARM,051,National,15,"No facility, bush, field",0.0,Armenia Stat Bank - ASB02
+Armenia,AM,ARM,051,National,16,Other unimproved,0.412,Armenia Stat Bank - ASB02
+Armenia,AM,ARM,051,National,17,DK/missing information,0.0,Armenia Stat Bank - ASB02
+Armenia,AM,ARM,051,Urban,1,Flush and pour flush - to piped sewer system,0.849,Armenia Stat Bank - ASB03
+Armenia,AM,ARM,051,Urban,2,Flush and pour flush - to septic tank,0.0,Armenia Stat Bank - ASB03
+Armenia,AM,ARM,051,Urban,3,Flush and pour flush - to pit,0.0,Armenia Stat Bank - ASB03
+Armenia,AM,ARM,051,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Armenia Stat Bank - ASB03
+Armenia,AM,ARM,051,Urban,5,Flush and pour flush - to elsewhere,0.0,Armenia Stat Bank - ASB03
+Armenia,AM,ARM,051,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Armenia Stat Bank - ASB03
+Armenia,AM,ARM,051,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Armenia Stat Bank - ASB03
+Armenia,AM,ARM,051,Urban,8,Dry latrines - Traditional latrine,0.0,Armenia Stat Bank - ASB03
+Armenia,AM,ARM,051,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Armenia Stat Bank - ASB03
+Armenia,AM,ARM,051,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Armenia Stat Bank - ASB03
+Armenia,AM,ARM,051,Urban,11,Dry latrines - Bucket latrine,0.0,Armenia Stat Bank - ASB03
+Armenia,AM,ARM,051,Urban,12,Dry latrines - Other,0.0,Armenia Stat Bank - ASB03
+Armenia,AM,ARM,051,Urban,13,Composting toilets,0.0,Armenia Stat Bank - ASB03
+Armenia,AM,ARM,051,Urban,14,Other improved,0.0,Armenia Stat Bank - ASB03
+Armenia,AM,ARM,051,Urban,15,"No facility, bush, field",0.0,Armenia Stat Bank - ASB03
+Armenia,AM,ARM,051,Urban,16,Other unimproved,0.151,Armenia Stat Bank - ASB03
+Armenia,AM,ARM,051,Urban,17,DK/missing information,0.0,Armenia Stat Bank - ASB03
+Armenia,AM,ARM,051,Rural,1,Flush and pour flush - to piped sewer system,0.223,Armenia Stat Bank - ASB03
+Armenia,AM,ARM,051,Rural,2,Flush and pour flush - to septic tank,0.0,Armenia Stat Bank - ASB03
+Armenia,AM,ARM,051,Rural,3,Flush and pour flush - to pit,0.0,Armenia Stat Bank - ASB03
+Armenia,AM,ARM,051,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Armenia Stat Bank - ASB03
+Armenia,AM,ARM,051,Rural,5,Flush and pour flush - to elsewhere,0.0,Armenia Stat Bank - ASB03
+Armenia,AM,ARM,051,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Armenia Stat Bank - ASB03
+Armenia,AM,ARM,051,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Armenia Stat Bank - ASB03
+Armenia,AM,ARM,051,Rural,8,Dry latrines - Traditional latrine,0.0,Armenia Stat Bank - ASB03
+Armenia,AM,ARM,051,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Armenia Stat Bank - ASB03
+Armenia,AM,ARM,051,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Armenia Stat Bank - ASB03
+Armenia,AM,ARM,051,Rural,11,Dry latrines - Bucket latrine,0.0,Armenia Stat Bank - ASB03
+Armenia,AM,ARM,051,Rural,12,Dry latrines - Other,0.0,Armenia Stat Bank - ASB03
+Armenia,AM,ARM,051,Rural,13,Composting toilets,0.0,Armenia Stat Bank - ASB03
+Armenia,AM,ARM,051,Rural,14,Other improved,0.0,Armenia Stat Bank - ASB03
+Armenia,AM,ARM,051,Rural,15,"No facility, bush, field",0.0,Armenia Stat Bank - ASB03
+Armenia,AM,ARM,051,Rural,16,Other unimproved,0.777,Armenia Stat Bank - ASB03
+Armenia,AM,ARM,051,Rural,17,DK/missing information,0.0,Armenia Stat Bank - ASB03
+Armenia,AM,ARM,051,National,1,Flush and pour flush - to piped sewer system,0.602,Armenia Stat Bank - ASB03
+Armenia,AM,ARM,051,National,2,Flush and pour flush - to septic tank,0.0,Armenia Stat Bank - ASB03
+Armenia,AM,ARM,051,National,3,Flush and pour flush - to pit,0.0,Armenia Stat Bank - ASB03
+Armenia,AM,ARM,051,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Armenia Stat Bank - ASB03
+Armenia,AM,ARM,051,National,5,Flush and pour flush - to elsewhere,0.0,Armenia Stat Bank - ASB03
+Armenia,AM,ARM,051,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Armenia Stat Bank - ASB03
+Armenia,AM,ARM,051,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Armenia Stat Bank - ASB03
+Armenia,AM,ARM,051,National,8,Dry latrines - Traditional latrine,0.0,Armenia Stat Bank - ASB03
+Armenia,AM,ARM,051,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Armenia Stat Bank - ASB03
+Armenia,AM,ARM,051,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Armenia Stat Bank - ASB03
+Armenia,AM,ARM,051,National,11,Dry latrines - Bucket latrine,0.0,Armenia Stat Bank - ASB03
+Armenia,AM,ARM,051,National,12,Dry latrines - Other,0.0,Armenia Stat Bank - ASB03
+Armenia,AM,ARM,051,National,13,Composting toilets,0.0,Armenia Stat Bank - ASB03
+Armenia,AM,ARM,051,National,14,Other improved,0.0,Armenia Stat Bank - ASB03
+Armenia,AM,ARM,051,National,15,"No facility, bush, field",0.0,Armenia Stat Bank - ASB03
+Armenia,AM,ARM,051,National,16,Other unimproved,0.398,Armenia Stat Bank - ASB03
+Armenia,AM,ARM,051,National,17,DK/missing information,0.0,Armenia Stat Bank - ASB03
+Armenia,AM,ARM,051,Urban,1,Flush and pour flush - to piped sewer system,0.79,Armenia Stat Bank - ASB04
+Armenia,AM,ARM,051,Urban,2,Flush and pour flush - to septic tank,0.0,Armenia Stat Bank - ASB04
+Armenia,AM,ARM,051,Urban,3,Flush and pour flush - to pit,0.0,Armenia Stat Bank - ASB04
+Armenia,AM,ARM,051,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Armenia Stat Bank - ASB04
+Armenia,AM,ARM,051,Urban,5,Flush and pour flush - to elsewhere,0.0,Armenia Stat Bank - ASB04
+Armenia,AM,ARM,051,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Armenia Stat Bank - ASB04
+Armenia,AM,ARM,051,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Armenia Stat Bank - ASB04
+Armenia,AM,ARM,051,Urban,8,Dry latrines - Traditional latrine,0.0,Armenia Stat Bank - ASB04
+Armenia,AM,ARM,051,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Armenia Stat Bank - ASB04
+Armenia,AM,ARM,051,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Armenia Stat Bank - ASB04
+Armenia,AM,ARM,051,Urban,11,Dry latrines - Bucket latrine,0.0,Armenia Stat Bank - ASB04
+Armenia,AM,ARM,051,Urban,12,Dry latrines - Other,0.0,Armenia Stat Bank - ASB04
+Armenia,AM,ARM,051,Urban,13,Composting toilets,0.0,Armenia Stat Bank - ASB04
+Armenia,AM,ARM,051,Urban,14,Other improved,0.0,Armenia Stat Bank - ASB04
+Armenia,AM,ARM,051,Urban,15,"No facility, bush, field",0.0,Armenia Stat Bank - ASB04
+Armenia,AM,ARM,051,Urban,16,Other unimproved,0.21,Armenia Stat Bank - ASB04
+Armenia,AM,ARM,051,Urban,17,DK/missing information,0.0,Armenia Stat Bank - ASB04
+Armenia,AM,ARM,051,Rural,1,Flush and pour flush - to piped sewer system,0.128,Armenia Stat Bank - ASB04
+Armenia,AM,ARM,051,Rural,2,Flush and pour flush - to septic tank,0.0,Armenia Stat Bank - ASB04
+Armenia,AM,ARM,051,Rural,3,Flush and pour flush - to pit,0.0,Armenia Stat Bank - ASB04
+Armenia,AM,ARM,051,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Armenia Stat Bank - ASB04
+Armenia,AM,ARM,051,Rural,5,Flush and pour flush - to elsewhere,0.0,Armenia Stat Bank - ASB04
+Armenia,AM,ARM,051,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Armenia Stat Bank - ASB04
+Armenia,AM,ARM,051,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Armenia Stat Bank - ASB04
+Armenia,AM,ARM,051,Rural,8,Dry latrines - Traditional latrine,0.0,Armenia Stat Bank - ASB04
+Armenia,AM,ARM,051,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Armenia Stat Bank - ASB04
+Armenia,AM,ARM,051,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Armenia Stat Bank - ASB04
+Armenia,AM,ARM,051,Rural,11,Dry latrines - Bucket latrine,0.0,Armenia Stat Bank - ASB04
+Armenia,AM,ARM,051,Rural,12,Dry latrines - Other,0.0,Armenia Stat Bank - ASB04
+Armenia,AM,ARM,051,Rural,13,Composting toilets,0.0,Armenia Stat Bank - ASB04
+Armenia,AM,ARM,051,Rural,14,Other improved,0.0,Armenia Stat Bank - ASB04
+Armenia,AM,ARM,051,Rural,15,"No facility, bush, field",0.0,Armenia Stat Bank - ASB04
+Armenia,AM,ARM,051,Rural,16,Other unimproved,0.872,Armenia Stat Bank - ASB04
+Armenia,AM,ARM,051,Rural,17,DK/missing information,0.0,Armenia Stat Bank - ASB04
+Armenia,AM,ARM,051,National,1,Flush and pour flush - to piped sewer system,0.602,Armenia Stat Bank - ASB04
+Armenia,AM,ARM,051,National,2,Flush and pour flush - to septic tank,0.0,Armenia Stat Bank - ASB04
+Armenia,AM,ARM,051,National,3,Flush and pour flush - to pit,0.0,Armenia Stat Bank - ASB04
+Armenia,AM,ARM,051,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Armenia Stat Bank - ASB04
+Armenia,AM,ARM,051,National,5,Flush and pour flush - to elsewhere,0.0,Armenia Stat Bank - ASB04
+Armenia,AM,ARM,051,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Armenia Stat Bank - ASB04
+Armenia,AM,ARM,051,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Armenia Stat Bank - ASB04
+Armenia,AM,ARM,051,National,8,Dry latrines - Traditional latrine,0.0,Armenia Stat Bank - ASB04
+Armenia,AM,ARM,051,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Armenia Stat Bank - ASB04
+Armenia,AM,ARM,051,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Armenia Stat Bank - ASB04
+Armenia,AM,ARM,051,National,11,Dry latrines - Bucket latrine,0.0,Armenia Stat Bank - ASB04
+Armenia,AM,ARM,051,National,12,Dry latrines - Other,0.0,Armenia Stat Bank - ASB04
+Armenia,AM,ARM,051,National,13,Composting toilets,0.0,Armenia Stat Bank - ASB04
+Armenia,AM,ARM,051,National,14,Other improved,0.0,Armenia Stat Bank - ASB04
+Armenia,AM,ARM,051,National,15,"No facility, bush, field",0.0,Armenia Stat Bank - ASB04
+Armenia,AM,ARM,051,National,16,Other unimproved,0.398,Armenia Stat Bank - ASB04
+Armenia,AM,ARM,051,National,17,DK/missing information,0.0,Armenia Stat Bank - ASB04
+Armenia,AM,ARM,051,Urban,1,Flush and pour flush - to piped sewer system,0.833,Armenia Stat Bank - ASB05
+Armenia,AM,ARM,051,Urban,2,Flush and pour flush - to septic tank,0.0,Armenia Stat Bank - ASB05
+Armenia,AM,ARM,051,Urban,3,Flush and pour flush - to pit,0.0,Armenia Stat Bank - ASB05
+Armenia,AM,ARM,051,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Armenia Stat Bank - ASB05
+Armenia,AM,ARM,051,Urban,5,Flush and pour flush - to elsewhere,0.0,Armenia Stat Bank - ASB05
+Armenia,AM,ARM,051,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Armenia Stat Bank - ASB05
+Armenia,AM,ARM,051,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Armenia Stat Bank - ASB05
+Armenia,AM,ARM,051,Urban,8,Dry latrines - Traditional latrine,0.0,Armenia Stat Bank - ASB05
+Armenia,AM,ARM,051,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Armenia Stat Bank - ASB05
+Armenia,AM,ARM,051,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Armenia Stat Bank - ASB05
+Armenia,AM,ARM,051,Urban,11,Dry latrines - Bucket latrine,0.0,Armenia Stat Bank - ASB05
+Armenia,AM,ARM,051,Urban,12,Dry latrines - Other,0.0,Armenia Stat Bank - ASB05
+Armenia,AM,ARM,051,Urban,13,Composting toilets,0.0,Armenia Stat Bank - ASB05
+Armenia,AM,ARM,051,Urban,14,Other improved,0.0,Armenia Stat Bank - ASB05
+Armenia,AM,ARM,051,Urban,15,"No facility, bush, field",0.0,Armenia Stat Bank - ASB05
+Armenia,AM,ARM,051,Urban,16,Other unimproved,0.167,Armenia Stat Bank - ASB05
+Armenia,AM,ARM,051,Urban,17,DK/missing information,0.0,Armenia Stat Bank - ASB05
+Armenia,AM,ARM,051,Rural,1,Flush and pour flush - to piped sewer system,0.177,Armenia Stat Bank - ASB05
+Armenia,AM,ARM,051,Rural,2,Flush and pour flush - to septic tank,0.0,Armenia Stat Bank - ASB05
+Armenia,AM,ARM,051,Rural,3,Flush and pour flush - to pit,0.0,Armenia Stat Bank - ASB05
+Armenia,AM,ARM,051,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Armenia Stat Bank - ASB05
+Armenia,AM,ARM,051,Rural,5,Flush and pour flush - to elsewhere,0.0,Armenia Stat Bank - ASB05
+Armenia,AM,ARM,051,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Armenia Stat Bank - ASB05
+Armenia,AM,ARM,051,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Armenia Stat Bank - ASB05
+Armenia,AM,ARM,051,Rural,8,Dry latrines - Traditional latrine,0.0,Armenia Stat Bank - ASB05
+Armenia,AM,ARM,051,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Armenia Stat Bank - ASB05
+Armenia,AM,ARM,051,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Armenia Stat Bank - ASB05
+Armenia,AM,ARM,051,Rural,11,Dry latrines - Bucket latrine,0.0,Armenia Stat Bank - ASB05
+Armenia,AM,ARM,051,Rural,12,Dry latrines - Other,0.0,Armenia Stat Bank - ASB05
+Armenia,AM,ARM,051,Rural,13,Composting toilets,0.0,Armenia Stat Bank - ASB05
+Armenia,AM,ARM,051,Rural,14,Other improved,0.0,Armenia Stat Bank - ASB05
+Armenia,AM,ARM,051,Rural,15,"No facility, bush, field",0.0,Armenia Stat Bank - ASB05
+Armenia,AM,ARM,051,Rural,16,Other unimproved,0.823,Armenia Stat Bank - ASB05
+Armenia,AM,ARM,051,Rural,17,DK/missing information,0.0,Armenia Stat Bank - ASB05
+Armenia,AM,ARM,051,National,1,Flush and pour flush - to piped sewer system,0.651,Armenia Stat Bank - ASB05
+Armenia,AM,ARM,051,National,2,Flush and pour flush - to septic tank,0.0,Armenia Stat Bank - ASB05
+Armenia,AM,ARM,051,National,3,Flush and pour flush - to pit,0.0,Armenia Stat Bank - ASB05
+Armenia,AM,ARM,051,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Armenia Stat Bank - ASB05
+Armenia,AM,ARM,051,National,5,Flush and pour flush - to elsewhere,0.0,Armenia Stat Bank - ASB05
+Armenia,AM,ARM,051,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Armenia Stat Bank - ASB05
+Armenia,AM,ARM,051,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Armenia Stat Bank - ASB05
+Armenia,AM,ARM,051,National,8,Dry latrines - Traditional latrine,0.0,Armenia Stat Bank - ASB05
+Armenia,AM,ARM,051,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Armenia Stat Bank - ASB05
+Armenia,AM,ARM,051,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Armenia Stat Bank - ASB05
+Armenia,AM,ARM,051,National,11,Dry latrines - Bucket latrine,0.0,Armenia Stat Bank - ASB05
+Armenia,AM,ARM,051,National,12,Dry latrines - Other,0.0,Armenia Stat Bank - ASB05
+Armenia,AM,ARM,051,National,13,Composting toilets,0.0,Armenia Stat Bank - ASB05
+Armenia,AM,ARM,051,National,14,Other improved,0.0,Armenia Stat Bank - ASB05
+Armenia,AM,ARM,051,National,15,"No facility, bush, field",0.0,Armenia Stat Bank - ASB05
+Armenia,AM,ARM,051,National,16,Other unimproved,0.349,Armenia Stat Bank - ASB05
+Armenia,AM,ARM,051,National,17,DK/missing information,0.0,Armenia Stat Bank - ASB05
 Armenia,AM,ARM,051,Urban,1,Flush and pour flush - to piped sewer system,0.921,Demographic and Health Survey - DHS05
 Armenia,AM,ARM,051,Urban,2,Flush and pour flush - to septic tank,0.003,Demographic and Health Survey - DHS05
 Armenia,AM,ARM,051,Urban,3,Flush and pour flush - to pit,0.01,Demographic and Health Survey - DHS05
@@ -33,6 +441,176 @@ Armenia,AM,ARM,051,Rural,14,Other improved,0.031,Demographic and Health Survey -
 Armenia,AM,ARM,051,Rural,15,"No facility, bush, field",0.0,Demographic and Health Survey - DHS05
 Armenia,AM,ARM,051,Rural,16,Other unimproved,0.001,Demographic and Health Survey - DHS05
 Armenia,AM,ARM,051,Rural,17,DK/missing information,0.0,Demographic and Health Survey - DHS05
+Armenia,AM,ARM,051,National,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS05
+Armenia,AM,ARM,051,National,2,Flush and pour flush - to septic tank,0.0,Demographic and Health Survey - DHS05
+Armenia,AM,ARM,051,National,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS05
+Armenia,AM,ARM,051,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS05
+Armenia,AM,ARM,051,National,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS05
+Armenia,AM,ARM,051,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - DHS05
+Armenia,AM,ARM,051,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS05
+Armenia,AM,ARM,051,National,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS05
+Armenia,AM,ARM,051,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Survey - DHS05
+Armenia,AM,ARM,051,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS05
+Armenia,AM,ARM,051,National,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS05
+Armenia,AM,ARM,051,National,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS05
+Armenia,AM,ARM,051,National,13,Composting toilets,0.0,Demographic and Health Survey - DHS05
+Armenia,AM,ARM,051,National,14,Other improved,0.0,Demographic and Health Survey - DHS05
+Armenia,AM,ARM,051,National,15,"No facility, bush, field",0.0,Demographic and Health Survey - DHS05
+Armenia,AM,ARM,051,National,16,Other unimproved,0.0,Demographic and Health Survey - DHS05
+Armenia,AM,ARM,051,National,17,DK/missing information,0.0,Demographic and Health Survey - DHS05
+Armenia,AM,ARM,051,Urban,1,Flush and pour flush - to piped sewer system,0.901,Armenia Stat Bank - ASB06
+Armenia,AM,ARM,051,Urban,2,Flush and pour flush - to septic tank,0.0,Armenia Stat Bank - ASB06
+Armenia,AM,ARM,051,Urban,3,Flush and pour flush - to pit,0.0,Armenia Stat Bank - ASB06
+Armenia,AM,ARM,051,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Armenia Stat Bank - ASB06
+Armenia,AM,ARM,051,Urban,5,Flush and pour flush - to elsewhere,0.0,Armenia Stat Bank - ASB06
+Armenia,AM,ARM,051,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Armenia Stat Bank - ASB06
+Armenia,AM,ARM,051,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Armenia Stat Bank - ASB06
+Armenia,AM,ARM,051,Urban,8,Dry latrines - Traditional latrine,0.0,Armenia Stat Bank - ASB06
+Armenia,AM,ARM,051,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Armenia Stat Bank - ASB06
+Armenia,AM,ARM,051,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Armenia Stat Bank - ASB06
+Armenia,AM,ARM,051,Urban,11,Dry latrines - Bucket latrine,0.0,Armenia Stat Bank - ASB06
+Armenia,AM,ARM,051,Urban,12,Dry latrines - Other,0.0,Armenia Stat Bank - ASB06
+Armenia,AM,ARM,051,Urban,13,Composting toilets,0.0,Armenia Stat Bank - ASB06
+Armenia,AM,ARM,051,Urban,14,Other improved,0.0,Armenia Stat Bank - ASB06
+Armenia,AM,ARM,051,Urban,15,"No facility, bush, field",0.0,Armenia Stat Bank - ASB06
+Armenia,AM,ARM,051,Urban,16,Other unimproved,0.099,Armenia Stat Bank - ASB06
+Armenia,AM,ARM,051,Urban,17,DK/missing information,0.0,Armenia Stat Bank - ASB06
+Armenia,AM,ARM,051,Rural,1,Flush and pour flush - to piped sewer system,0.191,Armenia Stat Bank - ASB06
+Armenia,AM,ARM,051,Rural,2,Flush and pour flush - to septic tank,0.0,Armenia Stat Bank - ASB06
+Armenia,AM,ARM,051,Rural,3,Flush and pour flush - to pit,0.0,Armenia Stat Bank - ASB06
+Armenia,AM,ARM,051,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Armenia Stat Bank - ASB06
+Armenia,AM,ARM,051,Rural,5,Flush and pour flush - to elsewhere,0.0,Armenia Stat Bank - ASB06
+Armenia,AM,ARM,051,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Armenia Stat Bank - ASB06
+Armenia,AM,ARM,051,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Armenia Stat Bank - ASB06
+Armenia,AM,ARM,051,Rural,8,Dry latrines - Traditional latrine,0.0,Armenia Stat Bank - ASB06
+Armenia,AM,ARM,051,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Armenia Stat Bank - ASB06
+Armenia,AM,ARM,051,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Armenia Stat Bank - ASB06
+Armenia,AM,ARM,051,Rural,11,Dry latrines - Bucket latrine,0.0,Armenia Stat Bank - ASB06
+Armenia,AM,ARM,051,Rural,12,Dry latrines - Other,0.0,Armenia Stat Bank - ASB06
+Armenia,AM,ARM,051,Rural,13,Composting toilets,0.0,Armenia Stat Bank - ASB06
+Armenia,AM,ARM,051,Rural,14,Other improved,0.0,Armenia Stat Bank - ASB06
+Armenia,AM,ARM,051,Rural,15,"No facility, bush, field",0.0,Armenia Stat Bank - ASB06
+Armenia,AM,ARM,051,Rural,16,Other unimproved,0.809,Armenia Stat Bank - ASB06
+Armenia,AM,ARM,051,Rural,17,DK/missing information,0.0,Armenia Stat Bank - ASB06
+Armenia,AM,ARM,051,National,1,Flush and pour flush - to piped sewer system,0.661,Armenia Stat Bank - ASB06
+Armenia,AM,ARM,051,National,2,Flush and pour flush - to septic tank,0.0,Armenia Stat Bank - ASB06
+Armenia,AM,ARM,051,National,3,Flush and pour flush - to pit,0.0,Armenia Stat Bank - ASB06
+Armenia,AM,ARM,051,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Armenia Stat Bank - ASB06
+Armenia,AM,ARM,051,National,5,Flush and pour flush - to elsewhere,0.0,Armenia Stat Bank - ASB06
+Armenia,AM,ARM,051,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Armenia Stat Bank - ASB06
+Armenia,AM,ARM,051,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Armenia Stat Bank - ASB06
+Armenia,AM,ARM,051,National,8,Dry latrines - Traditional latrine,0.0,Armenia Stat Bank - ASB06
+Armenia,AM,ARM,051,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Armenia Stat Bank - ASB06
+Armenia,AM,ARM,051,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Armenia Stat Bank - ASB06
+Armenia,AM,ARM,051,National,11,Dry latrines - Bucket latrine,0.0,Armenia Stat Bank - ASB06
+Armenia,AM,ARM,051,National,12,Dry latrines - Other,0.0,Armenia Stat Bank - ASB06
+Armenia,AM,ARM,051,National,13,Composting toilets,0.0,Armenia Stat Bank - ASB06
+Armenia,AM,ARM,051,National,14,Other improved,0.0,Armenia Stat Bank - ASB06
+Armenia,AM,ARM,051,National,15,"No facility, bush, field",0.0,Armenia Stat Bank - ASB06
+Armenia,AM,ARM,051,National,16,Other unimproved,0.339,Armenia Stat Bank - ASB06
+Armenia,AM,ARM,051,National,17,DK/missing information,0.0,Armenia Stat Bank - ASB06
+Armenia,AM,ARM,051,Urban,1,Flush and pour flush - to piped sewer system,0.904,Armenia Stat Bank - ASB07
+Armenia,AM,ARM,051,Urban,2,Flush and pour flush - to septic tank,0.0,Armenia Stat Bank - ASB07
+Armenia,AM,ARM,051,Urban,3,Flush and pour flush - to pit,0.0,Armenia Stat Bank - ASB07
+Armenia,AM,ARM,051,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Armenia Stat Bank - ASB07
+Armenia,AM,ARM,051,Urban,5,Flush and pour flush - to elsewhere,0.0,Armenia Stat Bank - ASB07
+Armenia,AM,ARM,051,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Armenia Stat Bank - ASB07
+Armenia,AM,ARM,051,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Armenia Stat Bank - ASB07
+Armenia,AM,ARM,051,Urban,8,Dry latrines - Traditional latrine,0.0,Armenia Stat Bank - ASB07
+Armenia,AM,ARM,051,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Armenia Stat Bank - ASB07
+Armenia,AM,ARM,051,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Armenia Stat Bank - ASB07
+Armenia,AM,ARM,051,Urban,11,Dry latrines - Bucket latrine,0.0,Armenia Stat Bank - ASB07
+Armenia,AM,ARM,051,Urban,12,Dry latrines - Other,0.0,Armenia Stat Bank - ASB07
+Armenia,AM,ARM,051,Urban,13,Composting toilets,0.0,Armenia Stat Bank - ASB07
+Armenia,AM,ARM,051,Urban,14,Other improved,0.0,Armenia Stat Bank - ASB07
+Armenia,AM,ARM,051,Urban,15,"No facility, bush, field",0.0,Armenia Stat Bank - ASB07
+Armenia,AM,ARM,051,Urban,16,Other unimproved,0.096,Armenia Stat Bank - ASB07
+Armenia,AM,ARM,051,Urban,17,DK/missing information,0.0,Armenia Stat Bank - ASB07
+Armenia,AM,ARM,051,Rural,1,Flush and pour flush - to piped sewer system,0.211,Armenia Stat Bank - ASB07
+Armenia,AM,ARM,051,Rural,2,Flush and pour flush - to septic tank,0.0,Armenia Stat Bank - ASB07
+Armenia,AM,ARM,051,Rural,3,Flush and pour flush - to pit,0.0,Armenia Stat Bank - ASB07
+Armenia,AM,ARM,051,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Armenia Stat Bank - ASB07
+Armenia,AM,ARM,051,Rural,5,Flush and pour flush - to elsewhere,0.0,Armenia Stat Bank - ASB07
+Armenia,AM,ARM,051,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Armenia Stat Bank - ASB07
+Armenia,AM,ARM,051,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Armenia Stat Bank - ASB07
+Armenia,AM,ARM,051,Rural,8,Dry latrines - Traditional latrine,0.0,Armenia Stat Bank - ASB07
+Armenia,AM,ARM,051,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Armenia Stat Bank - ASB07
+Armenia,AM,ARM,051,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Armenia Stat Bank - ASB07
+Armenia,AM,ARM,051,Rural,11,Dry latrines - Bucket latrine,0.0,Armenia Stat Bank - ASB07
+Armenia,AM,ARM,051,Rural,12,Dry latrines - Other,0.0,Armenia Stat Bank - ASB07
+Armenia,AM,ARM,051,Rural,13,Composting toilets,0.0,Armenia Stat Bank - ASB07
+Armenia,AM,ARM,051,Rural,14,Other improved,0.0,Armenia Stat Bank - ASB07
+Armenia,AM,ARM,051,Rural,15,"No facility, bush, field",0.0,Armenia Stat Bank - ASB07
+Armenia,AM,ARM,051,Rural,16,Other unimproved,0.789,Armenia Stat Bank - ASB07
+Armenia,AM,ARM,051,Rural,17,DK/missing information,0.0,Armenia Stat Bank - ASB07
+Armenia,AM,ARM,051,National,1,Flush and pour flush - to piped sewer system,0.67,Armenia Stat Bank - ASB07
+Armenia,AM,ARM,051,National,2,Flush and pour flush - to septic tank,0.0,Armenia Stat Bank - ASB07
+Armenia,AM,ARM,051,National,3,Flush and pour flush - to pit,0.0,Armenia Stat Bank - ASB07
+Armenia,AM,ARM,051,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Armenia Stat Bank - ASB07
+Armenia,AM,ARM,051,National,5,Flush and pour flush - to elsewhere,0.0,Armenia Stat Bank - ASB07
+Armenia,AM,ARM,051,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Armenia Stat Bank - ASB07
+Armenia,AM,ARM,051,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Armenia Stat Bank - ASB07
+Armenia,AM,ARM,051,National,8,Dry latrines - Traditional latrine,0.0,Armenia Stat Bank - ASB07
+Armenia,AM,ARM,051,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Armenia Stat Bank - ASB07
+Armenia,AM,ARM,051,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Armenia Stat Bank - ASB07
+Armenia,AM,ARM,051,National,11,Dry latrines - Bucket latrine,0.0,Armenia Stat Bank - ASB07
+Armenia,AM,ARM,051,National,12,Dry latrines - Other,0.0,Armenia Stat Bank - ASB07
+Armenia,AM,ARM,051,National,13,Composting toilets,0.0,Armenia Stat Bank - ASB07
+Armenia,AM,ARM,051,National,14,Other improved,0.0,Armenia Stat Bank - ASB07
+Armenia,AM,ARM,051,National,15,"No facility, bush, field",0.0,Armenia Stat Bank - ASB07
+Armenia,AM,ARM,051,National,16,Other unimproved,0.33,Armenia Stat Bank - ASB07
+Armenia,AM,ARM,051,National,17,DK/missing information,0.0,Armenia Stat Bank - ASB07
+Armenia,AM,ARM,051,Urban,1,Flush and pour flush - to piped sewer system,0.911,Armenia Stat Bank - ASB08
+Armenia,AM,ARM,051,Urban,2,Flush and pour flush - to septic tank,0.0,Armenia Stat Bank - ASB08
+Armenia,AM,ARM,051,Urban,3,Flush and pour flush - to pit,0.0,Armenia Stat Bank - ASB08
+Armenia,AM,ARM,051,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Armenia Stat Bank - ASB08
+Armenia,AM,ARM,051,Urban,5,Flush and pour flush - to elsewhere,0.0,Armenia Stat Bank - ASB08
+Armenia,AM,ARM,051,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Armenia Stat Bank - ASB08
+Armenia,AM,ARM,051,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Armenia Stat Bank - ASB08
+Armenia,AM,ARM,051,Urban,8,Dry latrines - Traditional latrine,0.0,Armenia Stat Bank - ASB08
+Armenia,AM,ARM,051,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Armenia Stat Bank - ASB08
+Armenia,AM,ARM,051,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Armenia Stat Bank - ASB08
+Armenia,AM,ARM,051,Urban,11,Dry latrines - Bucket latrine,0.0,Armenia Stat Bank - ASB08
+Armenia,AM,ARM,051,Urban,12,Dry latrines - Other,0.0,Armenia Stat Bank - ASB08
+Armenia,AM,ARM,051,Urban,13,Composting toilets,0.0,Armenia Stat Bank - ASB08
+Armenia,AM,ARM,051,Urban,14,Other improved,0.0,Armenia Stat Bank - ASB08
+Armenia,AM,ARM,051,Urban,15,"No facility, bush, field",0.0,Armenia Stat Bank - ASB08
+Armenia,AM,ARM,051,Urban,16,Other unimproved,0.089,Armenia Stat Bank - ASB08
+Armenia,AM,ARM,051,Urban,17,DK/missing information,0.0,Armenia Stat Bank - ASB08
+Armenia,AM,ARM,051,Rural,1,Flush and pour flush - to piped sewer system,0.19,Armenia Stat Bank - ASB08
+Armenia,AM,ARM,051,Rural,2,Flush and pour flush - to septic tank,0.0,Armenia Stat Bank - ASB08
+Armenia,AM,ARM,051,Rural,3,Flush and pour flush - to pit,0.0,Armenia Stat Bank - ASB08
+Armenia,AM,ARM,051,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Armenia Stat Bank - ASB08
+Armenia,AM,ARM,051,Rural,5,Flush and pour flush - to elsewhere,0.0,Armenia Stat Bank - ASB08
+Armenia,AM,ARM,051,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Armenia Stat Bank - ASB08
+Armenia,AM,ARM,051,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Armenia Stat Bank - ASB08
+Armenia,AM,ARM,051,Rural,8,Dry latrines - Traditional latrine,0.0,Armenia Stat Bank - ASB08
+Armenia,AM,ARM,051,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Armenia Stat Bank - ASB08
+Armenia,AM,ARM,051,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Armenia Stat Bank - ASB08
+Armenia,AM,ARM,051,Rural,11,Dry latrines - Bucket latrine,0.0,Armenia Stat Bank - ASB08
+Armenia,AM,ARM,051,Rural,12,Dry latrines - Other,0.0,Armenia Stat Bank - ASB08
+Armenia,AM,ARM,051,Rural,13,Composting toilets,0.0,Armenia Stat Bank - ASB08
+Armenia,AM,ARM,051,Rural,14,Other improved,0.0,Armenia Stat Bank - ASB08
+Armenia,AM,ARM,051,Rural,15,"No facility, bush, field",0.0,Armenia Stat Bank - ASB08
+Armenia,AM,ARM,051,Rural,16,Other unimproved,0.81,Armenia Stat Bank - ASB08
+Armenia,AM,ARM,051,Rural,17,DK/missing information,0.0,Armenia Stat Bank - ASB08
+Armenia,AM,ARM,051,National,1,Flush and pour flush - to piped sewer system,0.667,Armenia Stat Bank - ASB08
+Armenia,AM,ARM,051,National,2,Flush and pour flush - to septic tank,0.0,Armenia Stat Bank - ASB08
+Armenia,AM,ARM,051,National,3,Flush and pour flush - to pit,0.0,Armenia Stat Bank - ASB08
+Armenia,AM,ARM,051,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Armenia Stat Bank - ASB08
+Armenia,AM,ARM,051,National,5,Flush and pour flush - to elsewhere,0.0,Armenia Stat Bank - ASB08
+Armenia,AM,ARM,051,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Armenia Stat Bank - ASB08
+Armenia,AM,ARM,051,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Armenia Stat Bank - ASB08
+Armenia,AM,ARM,051,National,8,Dry latrines - Traditional latrine,0.0,Armenia Stat Bank - ASB08
+Armenia,AM,ARM,051,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Armenia Stat Bank - ASB08
+Armenia,AM,ARM,051,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Armenia Stat Bank - ASB08
+Armenia,AM,ARM,051,National,11,Dry latrines - Bucket latrine,0.0,Armenia Stat Bank - ASB08
+Armenia,AM,ARM,051,National,12,Dry latrines - Other,0.0,Armenia Stat Bank - ASB08
+Armenia,AM,ARM,051,National,13,Composting toilets,0.0,Armenia Stat Bank - ASB08
+Armenia,AM,ARM,051,National,14,Other improved,0.0,Armenia Stat Bank - ASB08
+Armenia,AM,ARM,051,National,15,"No facility, bush, field",0.0,Armenia Stat Bank - ASB08
+Armenia,AM,ARM,051,National,16,Other unimproved,0.333,Armenia Stat Bank - ASB08
+Armenia,AM,ARM,051,National,17,DK/missing information,0.0,Armenia Stat Bank - ASB08
 Armenia,AM,ARM,051,Urban,1,Flush and pour flush - to piped sewer system,0.958,Demographic and Health Survey - DHS10
 Armenia,AM,ARM,051,Urban,2,Flush and pour flush - to septic tank,0.001,Demographic and Health Survey - DHS10
 Armenia,AM,ARM,051,Urban,3,Flush and pour flush - to pit,0.007,Demographic and Health Survey - DHS10
@@ -67,6 +645,431 @@ Armenia,AM,ARM,051,Rural,14,Other improved,0.0,Demographic and Health Survey - D
 Armenia,AM,ARM,051,Rural,15,"No facility, bush, field",0.0,Demographic and Health Survey - DHS10
 Armenia,AM,ARM,051,Rural,16,Other unimproved,0.0,Demographic and Health Survey - DHS10
 Armenia,AM,ARM,051,Rural,17,DK/missing information,0.0,Demographic and Health Survey - DHS10
+Armenia,AM,ARM,051,National,1,Flush and pour flush - to piped sewer system,0.686,Demographic and Health Survey - DHS10
+Armenia,AM,ARM,051,National,2,Flush and pour flush - to septic tank,0.006,Demographic and Health Survey - DHS10
+Armenia,AM,ARM,051,National,3,Flush and pour flush - to pit,0.022,Demographic and Health Survey - DHS10
+Armenia,AM,ARM,051,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS10
+Armenia,AM,ARM,051,National,5,Flush and pour flush - to elsewhere,0.002,Demographic and Health Survey - DHS10
+Armenia,AM,ARM,051,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - DHS10
+Armenia,AM,ARM,051,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.084,Demographic and Health Survey - DHS10
+Armenia,AM,ARM,051,National,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS10
+Armenia,AM,ARM,051,National,9,Dry latrines - Pit latrine without slab/open pit,0.198,Demographic and Health Survey - DHS10
+Armenia,AM,ARM,051,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS10
+Armenia,AM,ARM,051,National,11,Dry latrines - Bucket latrine,0.001,Demographic and Health Survey - DHS10
+Armenia,AM,ARM,051,National,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS10
+Armenia,AM,ARM,051,National,13,Composting toilets,0.0,Demographic and Health Survey - DHS10
+Armenia,AM,ARM,051,National,14,Other improved,0.0,Demographic and Health Survey - DHS10
+Armenia,AM,ARM,051,National,15,"No facility, bush, field",0.0,Demographic and Health Survey - DHS10
+Armenia,AM,ARM,051,National,16,Other unimproved,0.0,Demographic and Health Survey - DHS10
+Armenia,AM,ARM,051,National,17,DK/missing information,0.001,Demographic and Health Survey - DHS10
+Armenia,AM,ARM,051,Urban,1,Flush and pour flush - to piped sewer system,0.961,Armenia Stat Bank - ASB10
+Armenia,AM,ARM,051,Urban,2,Flush and pour flush - to septic tank,0.0,Armenia Stat Bank - ASB10
+Armenia,AM,ARM,051,Urban,3,Flush and pour flush - to pit,0.0,Armenia Stat Bank - ASB10
+Armenia,AM,ARM,051,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Armenia Stat Bank - ASB10
+Armenia,AM,ARM,051,Urban,5,Flush and pour flush - to elsewhere,0.0,Armenia Stat Bank - ASB10
+Armenia,AM,ARM,051,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Armenia Stat Bank - ASB10
+Armenia,AM,ARM,051,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Armenia Stat Bank - ASB10
+Armenia,AM,ARM,051,Urban,8,Dry latrines - Traditional latrine,0.0,Armenia Stat Bank - ASB10
+Armenia,AM,ARM,051,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Armenia Stat Bank - ASB10
+Armenia,AM,ARM,051,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Armenia Stat Bank - ASB10
+Armenia,AM,ARM,051,Urban,11,Dry latrines - Bucket latrine,0.0,Armenia Stat Bank - ASB10
+Armenia,AM,ARM,051,Urban,12,Dry latrines - Other,0.0,Armenia Stat Bank - ASB10
+Armenia,AM,ARM,051,Urban,13,Composting toilets,0.0,Armenia Stat Bank - ASB10
+Armenia,AM,ARM,051,Urban,14,Other improved,0.0,Armenia Stat Bank - ASB10
+Armenia,AM,ARM,051,Urban,15,"No facility, bush, field",0.0,Armenia Stat Bank - ASB10
+Armenia,AM,ARM,051,Urban,16,Other unimproved,0.039,Armenia Stat Bank - ASB10
+Armenia,AM,ARM,051,Urban,17,DK/missing information,0.0,Armenia Stat Bank - ASB10
+Armenia,AM,ARM,051,Rural,1,Flush and pour flush - to piped sewer system,0.164,Armenia Stat Bank - ASB10
+Armenia,AM,ARM,051,Rural,2,Flush and pour flush - to septic tank,0.0,Armenia Stat Bank - ASB10
+Armenia,AM,ARM,051,Rural,3,Flush and pour flush - to pit,0.0,Armenia Stat Bank - ASB10
+Armenia,AM,ARM,051,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Armenia Stat Bank - ASB10
+Armenia,AM,ARM,051,Rural,5,Flush and pour flush - to elsewhere,0.0,Armenia Stat Bank - ASB10
+Armenia,AM,ARM,051,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Armenia Stat Bank - ASB10
+Armenia,AM,ARM,051,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Armenia Stat Bank - ASB10
+Armenia,AM,ARM,051,Rural,8,Dry latrines - Traditional latrine,0.0,Armenia Stat Bank - ASB10
+Armenia,AM,ARM,051,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Armenia Stat Bank - ASB10
+Armenia,AM,ARM,051,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Armenia Stat Bank - ASB10
+Armenia,AM,ARM,051,Rural,11,Dry latrines - Bucket latrine,0.0,Armenia Stat Bank - ASB10
+Armenia,AM,ARM,051,Rural,12,Dry latrines - Other,0.0,Armenia Stat Bank - ASB10
+Armenia,AM,ARM,051,Rural,13,Composting toilets,0.0,Armenia Stat Bank - ASB10
+Armenia,AM,ARM,051,Rural,14,Other improved,0.0,Armenia Stat Bank - ASB10
+Armenia,AM,ARM,051,Rural,15,"No facility, bush, field",0.0,Armenia Stat Bank - ASB10
+Armenia,AM,ARM,051,Rural,16,Other unimproved,0.836,Armenia Stat Bank - ASB10
+Armenia,AM,ARM,051,Rural,17,DK/missing information,0.0,Armenia Stat Bank - ASB10
+Armenia,AM,ARM,051,National,1,Flush and pour flush - to piped sewer system,0.692,Armenia Stat Bank - ASB10
+Armenia,AM,ARM,051,National,2,Flush and pour flush - to septic tank,0.0,Armenia Stat Bank - ASB10
+Armenia,AM,ARM,051,National,3,Flush and pour flush - to pit,0.0,Armenia Stat Bank - ASB10
+Armenia,AM,ARM,051,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Armenia Stat Bank - ASB10
+Armenia,AM,ARM,051,National,5,Flush and pour flush - to elsewhere,0.0,Armenia Stat Bank - ASB10
+Armenia,AM,ARM,051,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Armenia Stat Bank - ASB10
+Armenia,AM,ARM,051,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Armenia Stat Bank - ASB10
+Armenia,AM,ARM,051,National,8,Dry latrines - Traditional latrine,0.0,Armenia Stat Bank - ASB10
+Armenia,AM,ARM,051,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Armenia Stat Bank - ASB10
+Armenia,AM,ARM,051,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Armenia Stat Bank - ASB10
+Armenia,AM,ARM,051,National,11,Dry latrines - Bucket latrine,0.0,Armenia Stat Bank - ASB10
+Armenia,AM,ARM,051,National,12,Dry latrines - Other,0.0,Armenia Stat Bank - ASB10
+Armenia,AM,ARM,051,National,13,Composting toilets,0.0,Armenia Stat Bank - ASB10
+Armenia,AM,ARM,051,National,14,Other improved,0.0,Armenia Stat Bank - ASB10
+Armenia,AM,ARM,051,National,15,"No facility, bush, field",0.0,Armenia Stat Bank - ASB10
+Armenia,AM,ARM,051,National,16,Other unimproved,0.308,Armenia Stat Bank - ASB10
+Armenia,AM,ARM,051,National,17,DK/missing information,0.0,Armenia Stat Bank - ASB10
+Armenia,AM,ARM,051,Urban,1,Flush and pour flush - to piped sewer system,0.964,Armenia Stat Bank - ASB11
+Armenia,AM,ARM,051,Urban,2,Flush and pour flush - to septic tank,0.0,Armenia Stat Bank - ASB11
+Armenia,AM,ARM,051,Urban,3,Flush and pour flush - to pit,0.0,Armenia Stat Bank - ASB11
+Armenia,AM,ARM,051,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Armenia Stat Bank - ASB11
+Armenia,AM,ARM,051,Urban,5,Flush and pour flush - to elsewhere,0.0,Armenia Stat Bank - ASB11
+Armenia,AM,ARM,051,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Armenia Stat Bank - ASB11
+Armenia,AM,ARM,051,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Armenia Stat Bank - ASB11
+Armenia,AM,ARM,051,Urban,8,Dry latrines - Traditional latrine,0.0,Armenia Stat Bank - ASB11
+Armenia,AM,ARM,051,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Armenia Stat Bank - ASB11
+Armenia,AM,ARM,051,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Armenia Stat Bank - ASB11
+Armenia,AM,ARM,051,Urban,11,Dry latrines - Bucket latrine,0.0,Armenia Stat Bank - ASB11
+Armenia,AM,ARM,051,Urban,12,Dry latrines - Other,0.0,Armenia Stat Bank - ASB11
+Armenia,AM,ARM,051,Urban,13,Composting toilets,0.0,Armenia Stat Bank - ASB11
+Armenia,AM,ARM,051,Urban,14,Other improved,0.0,Armenia Stat Bank - ASB11
+Armenia,AM,ARM,051,Urban,15,"No facility, bush, field",0.0,Armenia Stat Bank - ASB11
+Armenia,AM,ARM,051,Urban,16,Other unimproved,0.036,Armenia Stat Bank - ASB11
+Armenia,AM,ARM,051,Urban,17,DK/missing information,0.0,Armenia Stat Bank - ASB11
+Armenia,AM,ARM,051,Rural,1,Flush and pour flush - to piped sewer system,0.17,Armenia Stat Bank - ASB11
+Armenia,AM,ARM,051,Rural,2,Flush and pour flush - to septic tank,0.0,Armenia Stat Bank - ASB11
+Armenia,AM,ARM,051,Rural,3,Flush and pour flush - to pit,0.0,Armenia Stat Bank - ASB11
+Armenia,AM,ARM,051,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Armenia Stat Bank - ASB11
+Armenia,AM,ARM,051,Rural,5,Flush and pour flush - to elsewhere,0.0,Armenia Stat Bank - ASB11
+Armenia,AM,ARM,051,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Armenia Stat Bank - ASB11
+Armenia,AM,ARM,051,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Armenia Stat Bank - ASB11
+Armenia,AM,ARM,051,Rural,8,Dry latrines - Traditional latrine,0.0,Armenia Stat Bank - ASB11
+Armenia,AM,ARM,051,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Armenia Stat Bank - ASB11
+Armenia,AM,ARM,051,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Armenia Stat Bank - ASB11
+Armenia,AM,ARM,051,Rural,11,Dry latrines - Bucket latrine,0.0,Armenia Stat Bank - ASB11
+Armenia,AM,ARM,051,Rural,12,Dry latrines - Other,0.0,Armenia Stat Bank - ASB11
+Armenia,AM,ARM,051,Rural,13,Composting toilets,0.0,Armenia Stat Bank - ASB11
+Armenia,AM,ARM,051,Rural,14,Other improved,0.0,Armenia Stat Bank - ASB11
+Armenia,AM,ARM,051,Rural,15,"No facility, bush, field",0.0,Armenia Stat Bank - ASB11
+Armenia,AM,ARM,051,Rural,16,Other unimproved,0.83,Armenia Stat Bank - ASB11
+Armenia,AM,ARM,051,Rural,17,DK/missing information,0.0,Armenia Stat Bank - ASB11
+Armenia,AM,ARM,051,National,1,Flush and pour flush - to piped sewer system,0.696,Armenia Stat Bank - ASB11
+Armenia,AM,ARM,051,National,2,Flush and pour flush - to septic tank,0.0,Armenia Stat Bank - ASB11
+Armenia,AM,ARM,051,National,3,Flush and pour flush - to pit,0.0,Armenia Stat Bank - ASB11
+Armenia,AM,ARM,051,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Armenia Stat Bank - ASB11
+Armenia,AM,ARM,051,National,5,Flush and pour flush - to elsewhere,0.0,Armenia Stat Bank - ASB11
+Armenia,AM,ARM,051,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Armenia Stat Bank - ASB11
+Armenia,AM,ARM,051,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Armenia Stat Bank - ASB11
+Armenia,AM,ARM,051,National,8,Dry latrines - Traditional latrine,0.0,Armenia Stat Bank - ASB11
+Armenia,AM,ARM,051,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Armenia Stat Bank - ASB11
+Armenia,AM,ARM,051,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Armenia Stat Bank - ASB11
+Armenia,AM,ARM,051,National,11,Dry latrines - Bucket latrine,0.0,Armenia Stat Bank - ASB11
+Armenia,AM,ARM,051,National,12,Dry latrines - Other,0.0,Armenia Stat Bank - ASB11
+Armenia,AM,ARM,051,National,13,Composting toilets,0.0,Armenia Stat Bank - ASB11
+Armenia,AM,ARM,051,National,14,Other improved,0.0,Armenia Stat Bank - ASB11
+Armenia,AM,ARM,051,National,15,"No facility, bush, field",0.0,Armenia Stat Bank - ASB11
+Armenia,AM,ARM,051,National,16,Other unimproved,0.304,Armenia Stat Bank - ASB11
+Armenia,AM,ARM,051,National,17,DK/missing information,0.0,Armenia Stat Bank - ASB11
+Armenia,AM,ARM,051,Urban,1,Flush and pour flush - to piped sewer system,0.0,Census - CEN11
+Armenia,AM,ARM,051,Urban,2,Flush and pour flush - to septic tank,0.0,Census - CEN11
+Armenia,AM,ARM,051,Urban,3,Flush and pour flush - to pit,0.0,Census - CEN11
+Armenia,AM,ARM,051,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN11
+Armenia,AM,ARM,051,Urban,5,Flush and pour flush - to elsewhere,0.0,Census - CEN11
+Armenia,AM,ARM,051,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN11
+Armenia,AM,ARM,051,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN11
+Armenia,AM,ARM,051,Urban,8,Dry latrines - Traditional latrine,0.0,Census - CEN11
+Armenia,AM,ARM,051,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN11
+Armenia,AM,ARM,051,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN11
+Armenia,AM,ARM,051,Urban,11,Dry latrines - Bucket latrine,0.0,Census - CEN11
+Armenia,AM,ARM,051,Urban,12,Dry latrines - Other,0.0,Census - CEN11
+Armenia,AM,ARM,051,Urban,13,Composting toilets,0.0,Census - CEN11
+Armenia,AM,ARM,051,Urban,14,Other improved,0.0,Census - CEN11
+Armenia,AM,ARM,051,Urban,15,"No facility, bush, field",0.0,Census - CEN11
+Armenia,AM,ARM,051,Urban,16,Other unimproved,0.002,Census - CEN11
+Armenia,AM,ARM,051,Urban,17,DK/missing information,0.027,Census - CEN11
+Armenia,AM,ARM,051,Rural,1,Flush and pour flush - to piped sewer system,0.0,Census - CEN11
+Armenia,AM,ARM,051,Rural,2,Flush and pour flush - to septic tank,0.0,Census - CEN11
+Armenia,AM,ARM,051,Rural,3,Flush and pour flush - to pit,0.0,Census - CEN11
+Armenia,AM,ARM,051,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN11
+Armenia,AM,ARM,051,Rural,5,Flush and pour flush - to elsewhere,0.0,Census - CEN11
+Armenia,AM,ARM,051,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN11
+Armenia,AM,ARM,051,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN11
+Armenia,AM,ARM,051,Rural,8,Dry latrines - Traditional latrine,0.0,Census - CEN11
+Armenia,AM,ARM,051,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN11
+Armenia,AM,ARM,051,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN11
+Armenia,AM,ARM,051,Rural,11,Dry latrines - Bucket latrine,0.0,Census - CEN11
+Armenia,AM,ARM,051,Rural,12,Dry latrines - Other,0.0,Census - CEN11
+Armenia,AM,ARM,051,Rural,13,Composting toilets,0.0,Census - CEN11
+Armenia,AM,ARM,051,Rural,14,Other improved,0.0,Census - CEN11
+Armenia,AM,ARM,051,Rural,15,"No facility, bush, field",0.0,Census - CEN11
+Armenia,AM,ARM,051,Rural,16,Other unimproved,0.017,Census - CEN11
+Armenia,AM,ARM,051,Rural,17,DK/missing information,0.041,Census - CEN11
+Armenia,AM,ARM,051,National,1,Flush and pour flush - to piped sewer system,0.0,Census - CEN11
+Armenia,AM,ARM,051,National,2,Flush and pour flush - to septic tank,0.0,Census - CEN11
+Armenia,AM,ARM,051,National,3,Flush and pour flush - to pit,0.0,Census - CEN11
+Armenia,AM,ARM,051,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN11
+Armenia,AM,ARM,051,National,5,Flush and pour flush - to elsewhere,0.0,Census - CEN11
+Armenia,AM,ARM,051,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN11
+Armenia,AM,ARM,051,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN11
+Armenia,AM,ARM,051,National,8,Dry latrines - Traditional latrine,0.0,Census - CEN11
+Armenia,AM,ARM,051,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN11
+Armenia,AM,ARM,051,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN11
+Armenia,AM,ARM,051,National,11,Dry latrines - Bucket latrine,0.0,Census - CEN11
+Armenia,AM,ARM,051,National,12,Dry latrines - Other,0.0,Census - CEN11
+Armenia,AM,ARM,051,National,13,Composting toilets,0.0,Census - CEN11
+Armenia,AM,ARM,051,National,14,Other improved,0.0,Census - CEN11
+Armenia,AM,ARM,051,National,15,"No facility, bush, field",0.0,Census - CEN11
+Armenia,AM,ARM,051,National,16,Other unimproved,0.007,Census - CEN11
+Armenia,AM,ARM,051,National,17,DK/missing information,0.032,Census - CEN11
+Armenia,AM,ARM,051,Urban,1,Flush and pour flush - to piped sewer system,0.959,Armenia Stat Bank - ASB12
+Armenia,AM,ARM,051,Urban,2,Flush and pour flush - to septic tank,0.0,Armenia Stat Bank - ASB12
+Armenia,AM,ARM,051,Urban,3,Flush and pour flush - to pit,0.0,Armenia Stat Bank - ASB12
+Armenia,AM,ARM,051,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Armenia Stat Bank - ASB12
+Armenia,AM,ARM,051,Urban,5,Flush and pour flush - to elsewhere,0.0,Armenia Stat Bank - ASB12
+Armenia,AM,ARM,051,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Armenia Stat Bank - ASB12
+Armenia,AM,ARM,051,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Armenia Stat Bank - ASB12
+Armenia,AM,ARM,051,Urban,8,Dry latrines - Traditional latrine,0.0,Armenia Stat Bank - ASB12
+Armenia,AM,ARM,051,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Armenia Stat Bank - ASB12
+Armenia,AM,ARM,051,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Armenia Stat Bank - ASB12
+Armenia,AM,ARM,051,Urban,11,Dry latrines - Bucket latrine,0.0,Armenia Stat Bank - ASB12
+Armenia,AM,ARM,051,Urban,12,Dry latrines - Other,0.0,Armenia Stat Bank - ASB12
+Armenia,AM,ARM,051,Urban,13,Composting toilets,0.0,Armenia Stat Bank - ASB12
+Armenia,AM,ARM,051,Urban,14,Other improved,0.0,Armenia Stat Bank - ASB12
+Armenia,AM,ARM,051,Urban,15,"No facility, bush, field",0.0,Armenia Stat Bank - ASB12
+Armenia,AM,ARM,051,Urban,16,Other unimproved,0.041,Armenia Stat Bank - ASB12
+Armenia,AM,ARM,051,Urban,17,DK/missing information,0.0,Armenia Stat Bank - ASB12
+Armenia,AM,ARM,051,Rural,1,Flush and pour flush - to piped sewer system,0.13,Armenia Stat Bank - ASB12
+Armenia,AM,ARM,051,Rural,2,Flush and pour flush - to septic tank,0.0,Armenia Stat Bank - ASB12
+Armenia,AM,ARM,051,Rural,3,Flush and pour flush - to pit,0.0,Armenia Stat Bank - ASB12
+Armenia,AM,ARM,051,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Armenia Stat Bank - ASB12
+Armenia,AM,ARM,051,Rural,5,Flush and pour flush - to elsewhere,0.0,Armenia Stat Bank - ASB12
+Armenia,AM,ARM,051,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Armenia Stat Bank - ASB12
+Armenia,AM,ARM,051,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Armenia Stat Bank - ASB12
+Armenia,AM,ARM,051,Rural,8,Dry latrines - Traditional latrine,0.0,Armenia Stat Bank - ASB12
+Armenia,AM,ARM,051,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Armenia Stat Bank - ASB12
+Armenia,AM,ARM,051,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Armenia Stat Bank - ASB12
+Armenia,AM,ARM,051,Rural,11,Dry latrines - Bucket latrine,0.0,Armenia Stat Bank - ASB12
+Armenia,AM,ARM,051,Rural,12,Dry latrines - Other,0.0,Armenia Stat Bank - ASB12
+Armenia,AM,ARM,051,Rural,13,Composting toilets,0.0,Armenia Stat Bank - ASB12
+Armenia,AM,ARM,051,Rural,14,Other improved,0.0,Armenia Stat Bank - ASB12
+Armenia,AM,ARM,051,Rural,15,"No facility, bush, field",0.0,Armenia Stat Bank - ASB12
+Armenia,AM,ARM,051,Rural,16,Other unimproved,0.87,Armenia Stat Bank - ASB12
+Armenia,AM,ARM,051,Rural,17,DK/missing information,0.0,Armenia Stat Bank - ASB12
+Armenia,AM,ARM,051,National,1,Flush and pour flush - to piped sewer system,0.68,Armenia Stat Bank - ASB12
+Armenia,AM,ARM,051,National,2,Flush and pour flush - to septic tank,0.0,Armenia Stat Bank - ASB12
+Armenia,AM,ARM,051,National,3,Flush and pour flush - to pit,0.0,Armenia Stat Bank - ASB12
+Armenia,AM,ARM,051,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Armenia Stat Bank - ASB12
+Armenia,AM,ARM,051,National,5,Flush and pour flush - to elsewhere,0.0,Armenia Stat Bank - ASB12
+Armenia,AM,ARM,051,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Armenia Stat Bank - ASB12
+Armenia,AM,ARM,051,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Armenia Stat Bank - ASB12
+Armenia,AM,ARM,051,National,8,Dry latrines - Traditional latrine,0.0,Armenia Stat Bank - ASB12
+Armenia,AM,ARM,051,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Armenia Stat Bank - ASB12
+Armenia,AM,ARM,051,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Armenia Stat Bank - ASB12
+Armenia,AM,ARM,051,National,11,Dry latrines - Bucket latrine,0.0,Armenia Stat Bank - ASB12
+Armenia,AM,ARM,051,National,12,Dry latrines - Other,0.0,Armenia Stat Bank - ASB12
+Armenia,AM,ARM,051,National,13,Composting toilets,0.0,Armenia Stat Bank - ASB12
+Armenia,AM,ARM,051,National,14,Other improved,0.0,Armenia Stat Bank - ASB12
+Armenia,AM,ARM,051,National,15,"No facility, bush, field",0.0,Armenia Stat Bank - ASB12
+Armenia,AM,ARM,051,National,16,Other unimproved,0.32,Armenia Stat Bank - ASB12
+Armenia,AM,ARM,051,National,17,DK/missing information,0.0,Armenia Stat Bank - ASB12
+Armenia,AM,ARM,051,Urban,1,Flush and pour flush - to piped sewer system,0.962,Armenia Stat Bank - ASB13
+Armenia,AM,ARM,051,Urban,2,Flush and pour flush - to septic tank,0.0,Armenia Stat Bank - ASB13
+Armenia,AM,ARM,051,Urban,3,Flush and pour flush - to pit,0.0,Armenia Stat Bank - ASB13
+Armenia,AM,ARM,051,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Armenia Stat Bank - ASB13
+Armenia,AM,ARM,051,Urban,5,Flush and pour flush - to elsewhere,0.0,Armenia Stat Bank - ASB13
+Armenia,AM,ARM,051,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Armenia Stat Bank - ASB13
+Armenia,AM,ARM,051,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Armenia Stat Bank - ASB13
+Armenia,AM,ARM,051,Urban,8,Dry latrines - Traditional latrine,0.0,Armenia Stat Bank - ASB13
+Armenia,AM,ARM,051,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Armenia Stat Bank - ASB13
+Armenia,AM,ARM,051,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Armenia Stat Bank - ASB13
+Armenia,AM,ARM,051,Urban,11,Dry latrines - Bucket latrine,0.0,Armenia Stat Bank - ASB13
+Armenia,AM,ARM,051,Urban,12,Dry latrines - Other,0.0,Armenia Stat Bank - ASB13
+Armenia,AM,ARM,051,Urban,13,Composting toilets,0.0,Armenia Stat Bank - ASB13
+Armenia,AM,ARM,051,Urban,14,Other improved,0.0,Armenia Stat Bank - ASB13
+Armenia,AM,ARM,051,Urban,15,"No facility, bush, field",0.0,Armenia Stat Bank - ASB13
+Armenia,AM,ARM,051,Urban,16,Other unimproved,0.038,Armenia Stat Bank - ASB13
+Armenia,AM,ARM,051,Urban,17,DK/missing information,0.0,Armenia Stat Bank - ASB13
+Armenia,AM,ARM,051,Rural,1,Flush and pour flush - to piped sewer system,0.175,Armenia Stat Bank - ASB13
+Armenia,AM,ARM,051,Rural,2,Flush and pour flush - to septic tank,0.0,Armenia Stat Bank - ASB13
+Armenia,AM,ARM,051,Rural,3,Flush and pour flush - to pit,0.0,Armenia Stat Bank - ASB13
+Armenia,AM,ARM,051,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Armenia Stat Bank - ASB13
+Armenia,AM,ARM,051,Rural,5,Flush and pour flush - to elsewhere,0.0,Armenia Stat Bank - ASB13
+Armenia,AM,ARM,051,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Armenia Stat Bank - ASB13
+Armenia,AM,ARM,051,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Armenia Stat Bank - ASB13
+Armenia,AM,ARM,051,Rural,8,Dry latrines - Traditional latrine,0.0,Armenia Stat Bank - ASB13
+Armenia,AM,ARM,051,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Armenia Stat Bank - ASB13
+Armenia,AM,ARM,051,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Armenia Stat Bank - ASB13
+Armenia,AM,ARM,051,Rural,11,Dry latrines - Bucket latrine,0.0,Armenia Stat Bank - ASB13
+Armenia,AM,ARM,051,Rural,12,Dry latrines - Other,0.0,Armenia Stat Bank - ASB13
+Armenia,AM,ARM,051,Rural,13,Composting toilets,0.0,Armenia Stat Bank - ASB13
+Armenia,AM,ARM,051,Rural,14,Other improved,0.0,Armenia Stat Bank - ASB13
+Armenia,AM,ARM,051,Rural,15,"No facility, bush, field",0.0,Armenia Stat Bank - ASB13
+Armenia,AM,ARM,051,Rural,16,Other unimproved,0.825,Armenia Stat Bank - ASB13
+Armenia,AM,ARM,051,Rural,17,DK/missing information,0.0,Armenia Stat Bank - ASB13
+Armenia,AM,ARM,051,National,1,Flush and pour flush - to piped sewer system,0.697,Armenia Stat Bank - ASB13
+Armenia,AM,ARM,051,National,2,Flush and pour flush - to septic tank,0.0,Armenia Stat Bank - ASB13
+Armenia,AM,ARM,051,National,3,Flush and pour flush - to pit,0.0,Armenia Stat Bank - ASB13
+Armenia,AM,ARM,051,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Armenia Stat Bank - ASB13
+Armenia,AM,ARM,051,National,5,Flush and pour flush - to elsewhere,0.0,Armenia Stat Bank - ASB13
+Armenia,AM,ARM,051,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Armenia Stat Bank - ASB13
+Armenia,AM,ARM,051,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Armenia Stat Bank - ASB13
+Armenia,AM,ARM,051,National,8,Dry latrines - Traditional latrine,0.0,Armenia Stat Bank - ASB13
+Armenia,AM,ARM,051,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Armenia Stat Bank - ASB13
+Armenia,AM,ARM,051,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Armenia Stat Bank - ASB13
+Armenia,AM,ARM,051,National,11,Dry latrines - Bucket latrine,0.0,Armenia Stat Bank - ASB13
+Armenia,AM,ARM,051,National,12,Dry latrines - Other,0.0,Armenia Stat Bank - ASB13
+Armenia,AM,ARM,051,National,13,Composting toilets,0.0,Armenia Stat Bank - ASB13
+Armenia,AM,ARM,051,National,14,Other improved,0.0,Armenia Stat Bank - ASB13
+Armenia,AM,ARM,051,National,15,"No facility, bush, field",0.0,Armenia Stat Bank - ASB13
+Armenia,AM,ARM,051,National,16,Other unimproved,0.303,Armenia Stat Bank - ASB13
+Armenia,AM,ARM,051,National,17,DK/missing information,0.0,Armenia Stat Bank - ASB13
+Armenia,AM,ARM,051,Urban,1,Flush and pour flush - to piped sewer system,0.949,Armenia Stat Bank - ASB14
+Armenia,AM,ARM,051,Urban,2,Flush and pour flush - to septic tank,0.0,Armenia Stat Bank - ASB14
+Armenia,AM,ARM,051,Urban,3,Flush and pour flush - to pit,0.0,Armenia Stat Bank - ASB14
+Armenia,AM,ARM,051,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Armenia Stat Bank - ASB14
+Armenia,AM,ARM,051,Urban,5,Flush and pour flush - to elsewhere,0.0,Armenia Stat Bank - ASB14
+Armenia,AM,ARM,051,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Armenia Stat Bank - ASB14
+Armenia,AM,ARM,051,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Armenia Stat Bank - ASB14
+Armenia,AM,ARM,051,Urban,8,Dry latrines - Traditional latrine,0.0,Armenia Stat Bank - ASB14
+Armenia,AM,ARM,051,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Armenia Stat Bank - ASB14
+Armenia,AM,ARM,051,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Armenia Stat Bank - ASB14
+Armenia,AM,ARM,051,Urban,11,Dry latrines - Bucket latrine,0.0,Armenia Stat Bank - ASB14
+Armenia,AM,ARM,051,Urban,12,Dry latrines - Other,0.0,Armenia Stat Bank - ASB14
+Armenia,AM,ARM,051,Urban,13,Composting toilets,0.0,Armenia Stat Bank - ASB14
+Armenia,AM,ARM,051,Urban,14,Other improved,0.0,Armenia Stat Bank - ASB14
+Armenia,AM,ARM,051,Urban,15,"No facility, bush, field",0.0,Armenia Stat Bank - ASB14
+Armenia,AM,ARM,051,Urban,16,Other unimproved,0.051,Armenia Stat Bank - ASB14
+Armenia,AM,ARM,051,Urban,17,DK/missing information,0.0,Armenia Stat Bank - ASB14
+Armenia,AM,ARM,051,Rural,1,Flush and pour flush - to piped sewer system,0.165,Armenia Stat Bank - ASB14
+Armenia,AM,ARM,051,Rural,2,Flush and pour flush - to septic tank,0.0,Armenia Stat Bank - ASB14
+Armenia,AM,ARM,051,Rural,3,Flush and pour flush - to pit,0.0,Armenia Stat Bank - ASB14
+Armenia,AM,ARM,051,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Armenia Stat Bank - ASB14
+Armenia,AM,ARM,051,Rural,5,Flush and pour flush - to elsewhere,0.0,Armenia Stat Bank - ASB14
+Armenia,AM,ARM,051,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Armenia Stat Bank - ASB14
+Armenia,AM,ARM,051,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Armenia Stat Bank - ASB14
+Armenia,AM,ARM,051,Rural,8,Dry latrines - Traditional latrine,0.0,Armenia Stat Bank - ASB14
+Armenia,AM,ARM,051,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Armenia Stat Bank - ASB14
+Armenia,AM,ARM,051,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Armenia Stat Bank - ASB14
+Armenia,AM,ARM,051,Rural,11,Dry latrines - Bucket latrine,0.0,Armenia Stat Bank - ASB14
+Armenia,AM,ARM,051,Rural,12,Dry latrines - Other,0.0,Armenia Stat Bank - ASB14
+Armenia,AM,ARM,051,Rural,13,Composting toilets,0.0,Armenia Stat Bank - ASB14
+Armenia,AM,ARM,051,Rural,14,Other improved,0.0,Armenia Stat Bank - ASB14
+Armenia,AM,ARM,051,Rural,15,"No facility, bush, field",0.0,Armenia Stat Bank - ASB14
+Armenia,AM,ARM,051,Rural,16,Other unimproved,0.835,Armenia Stat Bank - ASB14
+Armenia,AM,ARM,051,Rural,17,DK/missing information,0.0,Armenia Stat Bank - ASB14
+Armenia,AM,ARM,051,National,1,Flush and pour flush - to piped sewer system,0.685,Armenia Stat Bank - ASB14
+Armenia,AM,ARM,051,National,2,Flush and pour flush - to septic tank,0.0,Armenia Stat Bank - ASB14
+Armenia,AM,ARM,051,National,3,Flush and pour flush - to pit,0.0,Armenia Stat Bank - ASB14
+Armenia,AM,ARM,051,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Armenia Stat Bank - ASB14
+Armenia,AM,ARM,051,National,5,Flush and pour flush - to elsewhere,0.0,Armenia Stat Bank - ASB14
+Armenia,AM,ARM,051,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Armenia Stat Bank - ASB14
+Armenia,AM,ARM,051,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Armenia Stat Bank - ASB14
+Armenia,AM,ARM,051,National,8,Dry latrines - Traditional latrine,0.0,Armenia Stat Bank - ASB14
+Armenia,AM,ARM,051,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Armenia Stat Bank - ASB14
+Armenia,AM,ARM,051,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Armenia Stat Bank - ASB14
+Armenia,AM,ARM,051,National,11,Dry latrines - Bucket latrine,0.0,Armenia Stat Bank - ASB14
+Armenia,AM,ARM,051,National,12,Dry latrines - Other,0.0,Armenia Stat Bank - ASB14
+Armenia,AM,ARM,051,National,13,Composting toilets,0.0,Armenia Stat Bank - ASB14
+Armenia,AM,ARM,051,National,14,Other improved,0.0,Armenia Stat Bank - ASB14
+Armenia,AM,ARM,051,National,15,"No facility, bush, field",0.0,Armenia Stat Bank - ASB14
+Armenia,AM,ARM,051,National,16,Other unimproved,0.315,Armenia Stat Bank - ASB14
+Armenia,AM,ARM,051,National,17,DK/missing information,0.0,Armenia Stat Bank - ASB14
+Armenia,AM,ARM,051,Urban,1,Flush and pour flush - to piped sewer system,0.964,Armenia Stat Bank - ASB15
+Armenia,AM,ARM,051,Urban,2,Flush and pour flush - to septic tank,0.0,Armenia Stat Bank - ASB15
+Armenia,AM,ARM,051,Urban,3,Flush and pour flush - to pit,0.0,Armenia Stat Bank - ASB15
+Armenia,AM,ARM,051,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Armenia Stat Bank - ASB15
+Armenia,AM,ARM,051,Urban,5,Flush and pour flush - to elsewhere,0.0,Armenia Stat Bank - ASB15
+Armenia,AM,ARM,051,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Armenia Stat Bank - ASB15
+Armenia,AM,ARM,051,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Armenia Stat Bank - ASB15
+Armenia,AM,ARM,051,Urban,8,Dry latrines - Traditional latrine,0.0,Armenia Stat Bank - ASB15
+Armenia,AM,ARM,051,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Armenia Stat Bank - ASB15
+Armenia,AM,ARM,051,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Armenia Stat Bank - ASB15
+Armenia,AM,ARM,051,Urban,11,Dry latrines - Bucket latrine,0.0,Armenia Stat Bank - ASB15
+Armenia,AM,ARM,051,Urban,12,Dry latrines - Other,0.0,Armenia Stat Bank - ASB15
+Armenia,AM,ARM,051,Urban,13,Composting toilets,0.0,Armenia Stat Bank - ASB15
+Armenia,AM,ARM,051,Urban,14,Other improved,0.0,Armenia Stat Bank - ASB15
+Armenia,AM,ARM,051,Urban,15,"No facility, bush, field",0.0,Armenia Stat Bank - ASB15
+Armenia,AM,ARM,051,Urban,16,Other unimproved,0.036,Armenia Stat Bank - ASB15
+Armenia,AM,ARM,051,Urban,17,DK/missing information,0.0,Armenia Stat Bank - ASB15
+Armenia,AM,ARM,051,Rural,1,Flush and pour flush - to piped sewer system,0.203,Armenia Stat Bank - ASB15
+Armenia,AM,ARM,051,Rural,2,Flush and pour flush - to septic tank,0.0,Armenia Stat Bank - ASB15
+Armenia,AM,ARM,051,Rural,3,Flush and pour flush - to pit,0.0,Armenia Stat Bank - ASB15
+Armenia,AM,ARM,051,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Armenia Stat Bank - ASB15
+Armenia,AM,ARM,051,Rural,5,Flush and pour flush - to elsewhere,0.0,Armenia Stat Bank - ASB15
+Armenia,AM,ARM,051,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Armenia Stat Bank - ASB15
+Armenia,AM,ARM,051,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Armenia Stat Bank - ASB15
+Armenia,AM,ARM,051,Rural,8,Dry latrines - Traditional latrine,0.0,Armenia Stat Bank - ASB15
+Armenia,AM,ARM,051,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Armenia Stat Bank - ASB15
+Armenia,AM,ARM,051,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Armenia Stat Bank - ASB15
+Armenia,AM,ARM,051,Rural,11,Dry latrines - Bucket latrine,0.0,Armenia Stat Bank - ASB15
+Armenia,AM,ARM,051,Rural,12,Dry latrines - Other,0.0,Armenia Stat Bank - ASB15
+Armenia,AM,ARM,051,Rural,13,Composting toilets,0.0,Armenia Stat Bank - ASB15
+Armenia,AM,ARM,051,Rural,14,Other improved,0.0,Armenia Stat Bank - ASB15
+Armenia,AM,ARM,051,Rural,15,"No facility, bush, field",0.0,Armenia Stat Bank - ASB15
+Armenia,AM,ARM,051,Rural,16,Other unimproved,0.797,Armenia Stat Bank - ASB15
+Armenia,AM,ARM,051,Rural,17,DK/missing information,0.0,Armenia Stat Bank - ASB15
+Armenia,AM,ARM,051,National,1,Flush and pour flush - to piped sewer system,0.699,Armenia Stat Bank - ASB15
+Armenia,AM,ARM,051,National,2,Flush and pour flush - to septic tank,0.0,Armenia Stat Bank - ASB15
+Armenia,AM,ARM,051,National,3,Flush and pour flush - to pit,0.0,Armenia Stat Bank - ASB15
+Armenia,AM,ARM,051,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Armenia Stat Bank - ASB15
+Armenia,AM,ARM,051,National,5,Flush and pour flush - to elsewhere,0.0,Armenia Stat Bank - ASB15
+Armenia,AM,ARM,051,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Armenia Stat Bank - ASB15
+Armenia,AM,ARM,051,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Armenia Stat Bank - ASB15
+Armenia,AM,ARM,051,National,8,Dry latrines - Traditional latrine,0.0,Armenia Stat Bank - ASB15
+Armenia,AM,ARM,051,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Armenia Stat Bank - ASB15
+Armenia,AM,ARM,051,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Armenia Stat Bank - ASB15
+Armenia,AM,ARM,051,National,11,Dry latrines - Bucket latrine,0.0,Armenia Stat Bank - ASB15
+Armenia,AM,ARM,051,National,12,Dry latrines - Other,0.0,Armenia Stat Bank - ASB15
+Armenia,AM,ARM,051,National,13,Composting toilets,0.0,Armenia Stat Bank - ASB15
+Armenia,AM,ARM,051,National,14,Other improved,0.0,Armenia Stat Bank - ASB15
+Armenia,AM,ARM,051,National,15,"No facility, bush, field",0.0,Armenia Stat Bank - ASB15
+Armenia,AM,ARM,051,National,16,Other unimproved,0.301,Armenia Stat Bank - ASB15
+Armenia,AM,ARM,051,National,17,DK/missing information,0.0,Armenia Stat Bank - ASB15
+Armenia,AM,ARM,051,Urban,1,Flush and pour flush - to piped sewer system,0.961,Armenia Stat Bank - ASB16
+Armenia,AM,ARM,051,Urban,2,Flush and pour flush - to septic tank,0.0,Armenia Stat Bank - ASB16
+Armenia,AM,ARM,051,Urban,3,Flush and pour flush - to pit,0.0,Armenia Stat Bank - ASB16
+Armenia,AM,ARM,051,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Armenia Stat Bank - ASB16
+Armenia,AM,ARM,051,Urban,5,Flush and pour flush - to elsewhere,0.0,Armenia Stat Bank - ASB16
+Armenia,AM,ARM,051,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Armenia Stat Bank - ASB16
+Armenia,AM,ARM,051,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Armenia Stat Bank - ASB16
+Armenia,AM,ARM,051,Urban,8,Dry latrines - Traditional latrine,0.0,Armenia Stat Bank - ASB16
+Armenia,AM,ARM,051,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Armenia Stat Bank - ASB16
+Armenia,AM,ARM,051,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Armenia Stat Bank - ASB16
+Armenia,AM,ARM,051,Urban,11,Dry latrines - Bucket latrine,0.0,Armenia Stat Bank - ASB16
+Armenia,AM,ARM,051,Urban,12,Dry latrines - Other,0.0,Armenia Stat Bank - ASB16
+Armenia,AM,ARM,051,Urban,13,Composting toilets,0.0,Armenia Stat Bank - ASB16
+Armenia,AM,ARM,051,Urban,14,Other improved,0.0,Armenia Stat Bank - ASB16
+Armenia,AM,ARM,051,Urban,15,"No facility, bush, field",0.0,Armenia Stat Bank - ASB16
+Armenia,AM,ARM,051,Urban,16,Other unimproved,0.039,Armenia Stat Bank - ASB16
+Armenia,AM,ARM,051,Urban,17,DK/missing information,0.0,Armenia Stat Bank - ASB16
+Armenia,AM,ARM,051,Rural,1,Flush and pour flush - to piped sewer system,0.203,Armenia Stat Bank - ASB16
+Armenia,AM,ARM,051,Rural,2,Flush and pour flush - to septic tank,0.0,Armenia Stat Bank - ASB16
+Armenia,AM,ARM,051,Rural,3,Flush and pour flush - to pit,0.0,Armenia Stat Bank - ASB16
+Armenia,AM,ARM,051,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Armenia Stat Bank - ASB16
+Armenia,AM,ARM,051,Rural,5,Flush and pour flush - to elsewhere,0.0,Armenia Stat Bank - ASB16
+Armenia,AM,ARM,051,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Armenia Stat Bank - ASB16
+Armenia,AM,ARM,051,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Armenia Stat Bank - ASB16
+Armenia,AM,ARM,051,Rural,8,Dry latrines - Traditional latrine,0.0,Armenia Stat Bank - ASB16
+Armenia,AM,ARM,051,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Armenia Stat Bank - ASB16
+Armenia,AM,ARM,051,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Armenia Stat Bank - ASB16
+Armenia,AM,ARM,051,Rural,11,Dry latrines - Bucket latrine,0.0,Armenia Stat Bank - ASB16
+Armenia,AM,ARM,051,Rural,12,Dry latrines - Other,0.0,Armenia Stat Bank - ASB16
+Armenia,AM,ARM,051,Rural,13,Composting toilets,0.0,Armenia Stat Bank - ASB16
+Armenia,AM,ARM,051,Rural,14,Other improved,0.0,Armenia Stat Bank - ASB16
+Armenia,AM,ARM,051,Rural,15,"No facility, bush, field",0.0,Armenia Stat Bank - ASB16
+Armenia,AM,ARM,051,Rural,16,Other unimproved,0.797,Armenia Stat Bank - ASB16
+Armenia,AM,ARM,051,Rural,17,DK/missing information,0.0,Armenia Stat Bank - ASB16
+Armenia,AM,ARM,051,National,1,Flush and pour flush - to piped sewer system,0.697,Armenia Stat Bank - ASB16
+Armenia,AM,ARM,051,National,2,Flush and pour flush - to septic tank,0.0,Armenia Stat Bank - ASB16
+Armenia,AM,ARM,051,National,3,Flush and pour flush - to pit,0.0,Armenia Stat Bank - ASB16
+Armenia,AM,ARM,051,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Armenia Stat Bank - ASB16
+Armenia,AM,ARM,051,National,5,Flush and pour flush - to elsewhere,0.0,Armenia Stat Bank - ASB16
+Armenia,AM,ARM,051,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Armenia Stat Bank - ASB16
+Armenia,AM,ARM,051,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Armenia Stat Bank - ASB16
+Armenia,AM,ARM,051,National,8,Dry latrines - Traditional latrine,0.0,Armenia Stat Bank - ASB16
+Armenia,AM,ARM,051,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Armenia Stat Bank - ASB16
+Armenia,AM,ARM,051,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Armenia Stat Bank - ASB16
+Armenia,AM,ARM,051,National,11,Dry latrines - Bucket latrine,0.0,Armenia Stat Bank - ASB16
+Armenia,AM,ARM,051,National,12,Dry latrines - Other,0.0,Armenia Stat Bank - ASB16
+Armenia,AM,ARM,051,National,13,Composting toilets,0.0,Armenia Stat Bank - ASB16
+Armenia,AM,ARM,051,National,14,Other improved,0.0,Armenia Stat Bank - ASB16
+Armenia,AM,ARM,051,National,15,"No facility, bush, field",0.0,Armenia Stat Bank - ASB16
+Armenia,AM,ARM,051,National,16,Other unimproved,0.303,Armenia Stat Bank - ASB16
+Armenia,AM,ARM,051,National,17,DK/missing information,0.0,Armenia Stat Bank - ASB16
 Armenia,AM,ARM,051,Urban,1,Flush and pour flush - to piped sewer system,0.953,Demographic and Health Survey - DHS16
 Armenia,AM,ARM,051,Urban,2,Flush and pour flush - to septic tank,0.003,Demographic and Health Survey - DHS16
 Armenia,AM,ARM,051,Urban,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS16
@@ -101,3 +1104,71 @@ Armenia,AM,ARM,051,Rural,14,Other improved,0.0,Demographic and Health Survey - D
 Armenia,AM,ARM,051,Rural,15,"No facility, bush, field",0.0,Demographic and Health Survey - DHS16
 Armenia,AM,ARM,051,Rural,16,Other unimproved,0.0,Demographic and Health Survey - DHS16
 Armenia,AM,ARM,051,Rural,17,DK/missing information,0.0,Demographic and Health Survey - DHS16
+Armenia,AM,ARM,051,National,1,Flush and pour flush - to piped sewer system,0.678,Demographic and Health Survey - DHS16
+Armenia,AM,ARM,051,National,2,Flush and pour flush - to septic tank,0.025,Demographic and Health Survey - DHS16
+Armenia,AM,ARM,051,National,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS16
+Armenia,AM,ARM,051,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.002,Demographic and Health Survey - DHS16
+Armenia,AM,ARM,051,National,5,Flush and pour flush - to elsewhere,0.027,Demographic and Health Survey - DHS16
+Armenia,AM,ARM,051,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - DHS16
+Armenia,AM,ARM,051,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.067,Demographic and Health Survey - DHS16
+Armenia,AM,ARM,051,National,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS16
+Armenia,AM,ARM,051,National,9,Dry latrines - Pit latrine without slab/open pit,0.202,Demographic and Health Survey - DHS16
+Armenia,AM,ARM,051,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS16
+Armenia,AM,ARM,051,National,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS16
+Armenia,AM,ARM,051,National,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS16
+Armenia,AM,ARM,051,National,13,Composting toilets,0.0,Demographic and Health Survey - DHS16
+Armenia,AM,ARM,051,National,14,Other improved,0.0,Demographic and Health Survey - DHS16
+Armenia,AM,ARM,051,National,15,"No facility, bush, field",0.0,Demographic and Health Survey - DHS16
+Armenia,AM,ARM,051,National,16,Other unimproved,0.0,Demographic and Health Survey - DHS16
+Armenia,AM,ARM,051,National,17,DK/missing information,0.0,Demographic and Health Survey - DHS16
+Armenia,AM,ARM,051,Urban,1,Flush and pour flush - to piped sewer system,0.635,Armenia Stat Bank - ASB09
+Armenia,AM,ARM,051,Urban,2,Flush and pour flush - to septic tank,0.0,Armenia Stat Bank - ASB09
+Armenia,AM,ARM,051,Urban,3,Flush and pour flush - to pit,0.0,Armenia Stat Bank - ASB09
+Armenia,AM,ARM,051,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Armenia Stat Bank - ASB09
+Armenia,AM,ARM,051,Urban,5,Flush and pour flush - to elsewhere,0.0,Armenia Stat Bank - ASB09
+Armenia,AM,ARM,051,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Armenia Stat Bank - ASB09
+Armenia,AM,ARM,051,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Armenia Stat Bank - ASB09
+Armenia,AM,ARM,051,Urban,8,Dry latrines - Traditional latrine,0.0,Armenia Stat Bank - ASB09
+Armenia,AM,ARM,051,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Armenia Stat Bank - ASB09
+Armenia,AM,ARM,051,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Armenia Stat Bank - ASB09
+Armenia,AM,ARM,051,Urban,11,Dry latrines - Bucket latrine,0.0,Armenia Stat Bank - ASB09
+Armenia,AM,ARM,051,Urban,12,Dry latrines - Other,0.0,Armenia Stat Bank - ASB09
+Armenia,AM,ARM,051,Urban,13,Composting toilets,0.0,Armenia Stat Bank - ASB09
+Armenia,AM,ARM,051,Urban,14,Other improved,0.0,Armenia Stat Bank - ASB09
+Armenia,AM,ARM,051,Urban,15,"No facility, bush, field",0.0,Armenia Stat Bank - ASB09
+Armenia,AM,ARM,051,Urban,16,Other unimproved,0.365,Armenia Stat Bank - ASB09
+Armenia,AM,ARM,051,Urban,17,DK/missing information,0.0,Armenia Stat Bank - ASB09
+Armenia,AM,ARM,051,Rural,1,Flush and pour flush - to piped sewer system,0.214,Armenia Stat Bank - ASB09
+Armenia,AM,ARM,051,Rural,2,Flush and pour flush - to septic tank,0.0,Armenia Stat Bank - ASB09
+Armenia,AM,ARM,051,Rural,3,Flush and pour flush - to pit,0.0,Armenia Stat Bank - ASB09
+Armenia,AM,ARM,051,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Armenia Stat Bank - ASB09
+Armenia,AM,ARM,051,Rural,5,Flush and pour flush - to elsewhere,0.0,Armenia Stat Bank - ASB09
+Armenia,AM,ARM,051,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Armenia Stat Bank - ASB09
+Armenia,AM,ARM,051,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Armenia Stat Bank - ASB09
+Armenia,AM,ARM,051,Rural,8,Dry latrines - Traditional latrine,0.0,Armenia Stat Bank - ASB09
+Armenia,AM,ARM,051,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Armenia Stat Bank - ASB09
+Armenia,AM,ARM,051,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Armenia Stat Bank - ASB09
+Armenia,AM,ARM,051,Rural,11,Dry latrines - Bucket latrine,0.0,Armenia Stat Bank - ASB09
+Armenia,AM,ARM,051,Rural,12,Dry latrines - Other,0.0,Armenia Stat Bank - ASB09
+Armenia,AM,ARM,051,Rural,13,Composting toilets,0.0,Armenia Stat Bank - ASB09
+Armenia,AM,ARM,051,Rural,14,Other improved,0.0,Armenia Stat Bank - ASB09
+Armenia,AM,ARM,051,Rural,15,"No facility, bush, field",0.0,Armenia Stat Bank - ASB09
+Armenia,AM,ARM,051,Rural,16,Other unimproved,0.786,Armenia Stat Bank - ASB09
+Armenia,AM,ARM,051,Rural,17,DK/missing information,0.0,Armenia Stat Bank - ASB09
+Armenia,AM,ARM,051,National,1,Flush and pour flush - to piped sewer system,0.667,Armenia Stat Bank - ASB09
+Armenia,AM,ARM,051,National,2,Flush and pour flush - to septic tank,0.0,Armenia Stat Bank - ASB09
+Armenia,AM,ARM,051,National,3,Flush and pour flush - to pit,0.0,Armenia Stat Bank - ASB09
+Armenia,AM,ARM,051,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Armenia Stat Bank - ASB09
+Armenia,AM,ARM,051,National,5,Flush and pour flush - to elsewhere,0.0,Armenia Stat Bank - ASB09
+Armenia,AM,ARM,051,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Armenia Stat Bank - ASB09
+Armenia,AM,ARM,051,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Armenia Stat Bank - ASB09
+Armenia,AM,ARM,051,National,8,Dry latrines - Traditional latrine,0.0,Armenia Stat Bank - ASB09
+Armenia,AM,ARM,051,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Armenia Stat Bank - ASB09
+Armenia,AM,ARM,051,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Armenia Stat Bank - ASB09
+Armenia,AM,ARM,051,National,11,Dry latrines - Bucket latrine,0.0,Armenia Stat Bank - ASB09
+Armenia,AM,ARM,051,National,12,Dry latrines - Other,0.0,Armenia Stat Bank - ASB09
+Armenia,AM,ARM,051,National,13,Composting toilets,0.0,Armenia Stat Bank - ASB09
+Armenia,AM,ARM,051,National,14,Other improved,0.0,Armenia Stat Bank - ASB09
+Armenia,AM,ARM,051,National,15,"No facility, bush, field",0.0,Armenia Stat Bank - ASB09
+Armenia,AM,ARM,051,National,16,Other unimproved,0.333,Armenia Stat Bank - ASB09
+Armenia,AM,ARM,051,National,17,DK/missing information,0.0,Armenia Stat Bank - ASB09

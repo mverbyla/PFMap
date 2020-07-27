@@ -1,4 +1,208 @@
 country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+Nepal,NP,NPL,524,Urban,1,Flush and pour flush - to piped sewer system,0.167,NMIP DWSS - NMIP08
+Nepal,NP,NPL,524,Urban,2,Flush and pour flush - to septic tank,0.0,NMIP DWSS - NMIP08
+Nepal,NP,NPL,524,Urban,3,Flush and pour flush - to pit,0.5,NMIP DWSS - NMIP08
+Nepal,NP,NPL,524,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,NMIP DWSS - NMIP08
+Nepal,NP,NPL,524,Urban,5,Flush and pour flush - to elsewhere,0.0,NMIP DWSS - NMIP08
+Nepal,NP,NPL,524,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,NMIP DWSS - NMIP08
+Nepal,NP,NPL,524,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.12,NMIP DWSS - NMIP08
+Nepal,NP,NPL,524,Urban,8,Dry latrines - Traditional latrine,0.0,NMIP DWSS - NMIP08
+Nepal,NP,NPL,524,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,NMIP DWSS - NMIP08
+Nepal,NP,NPL,524,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,NMIP DWSS - NMIP08
+Nepal,NP,NPL,524,Urban,11,Dry latrines - Bucket latrine,0.0,NMIP DWSS - NMIP08
+Nepal,NP,NPL,524,Urban,12,Dry latrines - Other,0.0,NMIP DWSS - NMIP08
+Nepal,NP,NPL,524,Urban,13,Composting toilets,0.0,NMIP DWSS - NMIP08
+Nepal,NP,NPL,524,Urban,14,Other improved,0.0,NMIP DWSS - NMIP08
+Nepal,NP,NPL,524,Urban,15,"No facility, bush, field",0.203,NMIP DWSS - NMIP08
+Nepal,NP,NPL,524,Urban,16,Other unimproved,0.0,NMIP DWSS - NMIP08
+Nepal,NP,NPL,524,Urban,17,DK/missing information,0.0,NMIP DWSS - NMIP08
+Nepal,NP,NPL,524,Rural,1,Flush and pour flush - to piped sewer system,0.0,NMIP DWSS - NMIP08
+Nepal,NP,NPL,524,Rural,2,Flush and pour flush - to septic tank,0.0,NMIP DWSS - NMIP08
+Nepal,NP,NPL,524,Rural,3,Flush and pour flush - to pit,0.165,NMIP DWSS - NMIP08
+Nepal,NP,NPL,524,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,NMIP DWSS - NMIP08
+Nepal,NP,NPL,524,Rural,5,Flush and pour flush - to elsewhere,0.0,NMIP DWSS - NMIP08
+Nepal,NP,NPL,524,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,NMIP DWSS - NMIP08
+Nepal,NP,NPL,524,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.165,NMIP DWSS - NMIP08
+Nepal,NP,NPL,524,Rural,8,Dry latrines - Traditional latrine,0.0,NMIP DWSS - NMIP08
+Nepal,NP,NPL,524,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,NMIP DWSS - NMIP08
+Nepal,NP,NPL,524,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,NMIP DWSS - NMIP08
+Nepal,NP,NPL,524,Rural,11,Dry latrines - Bucket latrine,0.0,NMIP DWSS - NMIP08
+Nepal,NP,NPL,524,Rural,12,Dry latrines - Other,0.0,NMIP DWSS - NMIP08
+Nepal,NP,NPL,524,Rural,13,Composting toilets,0.0,NMIP DWSS - NMIP08
+Nepal,NP,NPL,524,Rural,14,Other improved,0.0,NMIP DWSS - NMIP08
+Nepal,NP,NPL,524,Rural,15,"No facility, bush, field",0.671,NMIP DWSS - NMIP08
+Nepal,NP,NPL,524,Rural,16,Other unimproved,0.0,NMIP DWSS - NMIP08
+Nepal,NP,NPL,524,Rural,17,DK/missing information,0.0,NMIP DWSS - NMIP08
+Nepal,NP,NPL,524,National,1,Flush and pour flush - to piped sewer system,0.027,NMIP DWSS - NMIP08
+Nepal,NP,NPL,524,National,2,Flush and pour flush - to septic tank,0.0,NMIP DWSS - NMIP08
+Nepal,NP,NPL,524,National,3,Flush and pour flush - to pit,0.219,NMIP DWSS - NMIP08
+Nepal,NP,NPL,524,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,NMIP DWSS - NMIP08
+Nepal,NP,NPL,524,National,5,Flush and pour flush - to elsewhere,0.0,NMIP DWSS - NMIP08
+Nepal,NP,NPL,524,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,NMIP DWSS - NMIP08
+Nepal,NP,NPL,524,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.158,NMIP DWSS - NMIP08
+Nepal,NP,NPL,524,National,8,Dry latrines - Traditional latrine,0.0,NMIP DWSS - NMIP08
+Nepal,NP,NPL,524,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,NMIP DWSS - NMIP08
+Nepal,NP,NPL,524,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,NMIP DWSS - NMIP08
+Nepal,NP,NPL,524,National,11,Dry latrines - Bucket latrine,0.0,NMIP DWSS - NMIP08
+Nepal,NP,NPL,524,National,12,Dry latrines - Other,0.0,NMIP DWSS - NMIP08
+Nepal,NP,NPL,524,National,13,Composting toilets,0.0,NMIP DWSS - NMIP08
+Nepal,NP,NPL,524,National,14,Other improved,0.0,NMIP DWSS - NMIP08
+Nepal,NP,NPL,524,National,15,"No facility, bush, field",0.596,NMIP DWSS - NMIP08
+Nepal,NP,NPL,524,National,16,Other unimproved,0.0,NMIP DWSS - NMIP08
+Nepal,NP,NPL,524,National,17,DK/missing information,0.0,NMIP DWSS - NMIP08
+Nepal,NP,NPL,524,Urban,1,Flush and pour flush - to piped sewer system,0.0,Between Census Household Information Monitoring and Evaluation System - BCHIMES00
+Nepal,NP,NPL,524,Urban,2,Flush and pour flush - to septic tank,0.0,Between Census Household Information Monitoring and Evaluation System - BCHIMES00
+Nepal,NP,NPL,524,Urban,3,Flush and pour flush - to pit,0.0,Between Census Household Information Monitoring and Evaluation System - BCHIMES00
+Nepal,NP,NPL,524,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Between Census Household Information Monitoring and Evaluation System - BCHIMES00
+Nepal,NP,NPL,524,Urban,5,Flush and pour flush - to elsewhere,0.0,Between Census Household Information Monitoring and Evaluation System - BCHIMES00
+Nepal,NP,NPL,524,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.069,Between Census Household Information Monitoring and Evaluation System - BCHIMES00
+Nepal,NP,NPL,524,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.258,Between Census Household Information Monitoring and Evaluation System - BCHIMES00
+Nepal,NP,NPL,524,Urban,8,Dry latrines - Traditional latrine,0.264,Between Census Household Information Monitoring and Evaluation System - BCHIMES00
+Nepal,NP,NPL,524,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Between Census Household Information Monitoring and Evaluation System - BCHIMES00
+Nepal,NP,NPL,524,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Between Census Household Information Monitoring and Evaluation System - BCHIMES00
+Nepal,NP,NPL,524,Urban,11,Dry latrines - Bucket latrine,0.0,Between Census Household Information Monitoring and Evaluation System - BCHIMES00
+Nepal,NP,NPL,524,Urban,12,Dry latrines - Other,0.0,Between Census Household Information Monitoring and Evaluation System - BCHIMES00
+Nepal,NP,NPL,524,Urban,13,Composting toilets,0.0,Between Census Household Information Monitoring and Evaluation System - BCHIMES00
+Nepal,NP,NPL,524,Urban,14,Other improved,0.0,Between Census Household Information Monitoring and Evaluation System - BCHIMES00
+Nepal,NP,NPL,524,Urban,15,"No facility, bush, field",0.0,Between Census Household Information Monitoring and Evaluation System - BCHIMES00
+Nepal,NP,NPL,524,Urban,16,Other unimproved,0.022,Between Census Household Information Monitoring and Evaluation System - BCHIMES00
+Nepal,NP,NPL,524,Urban,17,DK/missing information,0.0,Between Census Household Information Monitoring and Evaluation System - BCHIMES00
+Nepal,NP,NPL,524,Rural,1,Flush and pour flush - to piped sewer system,0.0,Between Census Household Information Monitoring and Evaluation System - BCHIMES00
+Nepal,NP,NPL,524,Rural,2,Flush and pour flush - to septic tank,0.0,Between Census Household Information Monitoring and Evaluation System - BCHIMES00
+Nepal,NP,NPL,524,Rural,3,Flush and pour flush - to pit,0.0,Between Census Household Information Monitoring and Evaluation System - BCHIMES00
+Nepal,NP,NPL,524,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Between Census Household Information Monitoring and Evaluation System - BCHIMES00
+Nepal,NP,NPL,524,Rural,5,Flush and pour flush - to elsewhere,0.0,Between Census Household Information Monitoring and Evaluation System - BCHIMES00
+Nepal,NP,NPL,524,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.144,Between Census Household Information Monitoring and Evaluation System - BCHIMES00
+Nepal,NP,NPL,524,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.06,Between Census Household Information Monitoring and Evaluation System - BCHIMES00
+Nepal,NP,NPL,524,Rural,8,Dry latrines - Traditional latrine,0.016,Between Census Household Information Monitoring and Evaluation System - BCHIMES00
+Nepal,NP,NPL,524,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Between Census Household Information Monitoring and Evaluation System - BCHIMES00
+Nepal,NP,NPL,524,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Between Census Household Information Monitoring and Evaluation System - BCHIMES00
+Nepal,NP,NPL,524,Rural,11,Dry latrines - Bucket latrine,0.0,Between Census Household Information Monitoring and Evaluation System - BCHIMES00
+Nepal,NP,NPL,524,Rural,12,Dry latrines - Other,0.0,Between Census Household Information Monitoring and Evaluation System - BCHIMES00
+Nepal,NP,NPL,524,Rural,13,Composting toilets,0.0,Between Census Household Information Monitoring and Evaluation System - BCHIMES00
+Nepal,NP,NPL,524,Rural,14,Other improved,0.0,Between Census Household Information Monitoring and Evaluation System - BCHIMES00
+Nepal,NP,NPL,524,Rural,15,"No facility, bush, field",0.0,Between Census Household Information Monitoring and Evaluation System - BCHIMES00
+Nepal,NP,NPL,524,Rural,16,Other unimproved,0.04,Between Census Household Information Monitoring and Evaluation System - BCHIMES00
+Nepal,NP,NPL,524,Rural,17,DK/missing information,0.0,Between Census Household Information Monitoring and Evaluation System - BCHIMES00
+Nepal,NP,NPL,524,National,1,Flush and pour flush - to piped sewer system,0.0,Between Census Household Information Monitoring and Evaluation System - BCHIMES00
+Nepal,NP,NPL,524,National,2,Flush and pour flush - to septic tank,0.0,Between Census Household Information Monitoring and Evaluation System - BCHIMES00
+Nepal,NP,NPL,524,National,3,Flush and pour flush - to pit,0.0,Between Census Household Information Monitoring and Evaluation System - BCHIMES00
+Nepal,NP,NPL,524,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Between Census Household Information Monitoring and Evaluation System - BCHIMES00
+Nepal,NP,NPL,524,National,5,Flush and pour flush - to elsewhere,0.0,Between Census Household Information Monitoring and Evaluation System - BCHIMES00
+Nepal,NP,NPL,524,National,6,Dry latrines - Ventilated Improved Pit latrine,0.134,Between Census Household Information Monitoring and Evaluation System - BCHIMES00
+Nepal,NP,NPL,524,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.086,Between Census Household Information Monitoring and Evaluation System - BCHIMES00
+Nepal,NP,NPL,524,National,8,Dry latrines - Traditional latrine,0.048,Between Census Household Information Monitoring and Evaluation System - BCHIMES00
+Nepal,NP,NPL,524,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Between Census Household Information Monitoring and Evaluation System - BCHIMES00
+Nepal,NP,NPL,524,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Between Census Household Information Monitoring and Evaluation System - BCHIMES00
+Nepal,NP,NPL,524,National,11,Dry latrines - Bucket latrine,0.0,Between Census Household Information Monitoring and Evaluation System - BCHIMES00
+Nepal,NP,NPL,524,National,12,Dry latrines - Other,0.0,Between Census Household Information Monitoring and Evaluation System - BCHIMES00
+Nepal,NP,NPL,524,National,13,Composting toilets,0.0,Between Census Household Information Monitoring and Evaluation System - BCHIMES00
+Nepal,NP,NPL,524,National,14,Other improved,0.0,Between Census Household Information Monitoring and Evaluation System - BCHIMES00
+Nepal,NP,NPL,524,National,15,"No facility, bush, field",0.0,Between Census Household Information Monitoring and Evaluation System - BCHIMES00
+Nepal,NP,NPL,524,National,16,Other unimproved,0.038,Between Census Household Information Monitoring and Evaluation System - BCHIMES00
+Nepal,NP,NPL,524,National,17,DK/missing information,0.0,Between Census Household Information Monitoring and Evaluation System - BCHIMES00
+Nepal,NP,NPL,524,Urban,1,Flush and pour flush - to piped sewer system,0.0,Population census - CEN01
+Nepal,NP,NPL,524,Urban,2,Flush and pour flush - to septic tank,0.0,Population census - CEN01
+Nepal,NP,NPL,524,Urban,3,Flush and pour flush - to pit,0.0,Population census - CEN01
+Nepal,NP,NPL,524,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Population census - CEN01
+Nepal,NP,NPL,524,Urban,5,Flush and pour flush - to elsewhere,0.0,Population census - CEN01
+Nepal,NP,NPL,524,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Population census - CEN01
+Nepal,NP,NPL,524,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Population census - CEN01
+Nepal,NP,NPL,524,Urban,8,Dry latrines - Traditional latrine,0.25,Population census - CEN01
+Nepal,NP,NPL,524,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Population census - CEN01
+Nepal,NP,NPL,524,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Population census - CEN01
+Nepal,NP,NPL,524,Urban,11,Dry latrines - Bucket latrine,0.0,Population census - CEN01
+Nepal,NP,NPL,524,Urban,12,Dry latrines - Other,0.0,Population census - CEN01
+Nepal,NP,NPL,524,Urban,13,Composting toilets,0.0,Population census - CEN01
+Nepal,NP,NPL,524,Urban,14,Other improved,0.0,Population census - CEN01
+Nepal,NP,NPL,524,Urban,15,"No facility, bush, field",0.219,Population census - CEN01
+Nepal,NP,NPL,524,Urban,16,Other unimproved,0.0,Population census - CEN01
+Nepal,NP,NPL,524,Urban,17,DK/missing information,0.0,Population census - CEN01
+Nepal,NP,NPL,524,Rural,1,Flush and pour flush - to piped sewer system,0.0,Population census - CEN01
+Nepal,NP,NPL,524,Rural,2,Flush and pour flush - to septic tank,0.0,Population census - CEN01
+Nepal,NP,NPL,524,Rural,3,Flush and pour flush - to pit,0.0,Population census - CEN01
+Nepal,NP,NPL,524,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Population census - CEN01
+Nepal,NP,NPL,524,Rural,5,Flush and pour flush - to elsewhere,0.0,Population census - CEN01
+Nepal,NP,NPL,524,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Population census - CEN01
+Nepal,NP,NPL,524,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Population census - CEN01
+Nepal,NP,NPL,524,Rural,8,Dry latrines - Traditional latrine,0.235,Population census - CEN01
+Nepal,NP,NPL,524,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Population census - CEN01
+Nepal,NP,NPL,524,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Population census - CEN01
+Nepal,NP,NPL,524,Rural,11,Dry latrines - Bucket latrine,0.0,Population census - CEN01
+Nepal,NP,NPL,524,Rural,12,Dry latrines - Other,0.0,Population census - CEN01
+Nepal,NP,NPL,524,Rural,13,Composting toilets,0.0,Population census - CEN01
+Nepal,NP,NPL,524,Rural,14,Other improved,0.0,Population census - CEN01
+Nepal,NP,NPL,524,Rural,15,"No facility, bush, field",0.592,Population census - CEN01
+Nepal,NP,NPL,524,Rural,16,Other unimproved,0.0,Population census - CEN01
+Nepal,NP,NPL,524,Rural,17,DK/missing information,0.0,Population census - CEN01
+Nepal,NP,NPL,524,National,1,Flush and pour flush - to piped sewer system,0.0,Population census - CEN01
+Nepal,NP,NPL,524,National,2,Flush and pour flush - to septic tank,0.0,Population census - CEN01
+Nepal,NP,NPL,524,National,3,Flush and pour flush - to pit,0.0,Population census - CEN01
+Nepal,NP,NPL,524,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Population census - CEN01
+Nepal,NP,NPL,524,National,5,Flush and pour flush - to elsewhere,0.0,Population census - CEN01
+Nepal,NP,NPL,524,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Population census - CEN01
+Nepal,NP,NPL,524,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Population census - CEN01
+Nepal,NP,NPL,524,National,8,Dry latrines - Traditional latrine,0.0,Population census - CEN01
+Nepal,NP,NPL,524,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Population census - CEN01
+Nepal,NP,NPL,524,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Population census - CEN01
+Nepal,NP,NPL,524,National,11,Dry latrines - Bucket latrine,0.0,Population census - CEN01
+Nepal,NP,NPL,524,National,12,Dry latrines - Other,0.0,Population census - CEN01
+Nepal,NP,NPL,524,National,13,Composting toilets,0.0,Population census - CEN01
+Nepal,NP,NPL,524,National,14,Other improved,0.0,Population census - CEN01
+Nepal,NP,NPL,524,National,15,"No facility, bush, field",0.0,Population census - CEN01
+Nepal,NP,NPL,524,National,16,Other unimproved,0.0,Population census - CEN01
+Nepal,NP,NPL,524,National,17,DK/missing information,0.0,Population census - CEN01
+Nepal,NP,NPL,524,Urban,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS01
+Nepal,NP,NPL,524,Urban,2,Flush and pour flush - to septic tank,0.0,Demographic and Health Survey - DHS01
+Nepal,NP,NPL,524,Urban,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS01
+Nepal,NP,NPL,524,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS01
+Nepal,NP,NPL,524,Urban,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS01
+Nepal,NP,NPL,524,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.08,Demographic and Health Survey - DHS01
+Nepal,NP,NPL,524,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS01
+Nepal,NP,NPL,524,Urban,8,Dry latrines - Traditional latrine,0.153,Demographic and Health Survey - DHS01
+Nepal,NP,NPL,524,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Survey - DHS01
+Nepal,NP,NPL,524,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS01
+Nepal,NP,NPL,524,Urban,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS01
+Nepal,NP,NPL,524,Urban,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS01
+Nepal,NP,NPL,524,Urban,13,Composting toilets,0.0,Demographic and Health Survey - DHS01
+Nepal,NP,NPL,524,Urban,14,Other improved,0.0,Demographic and Health Survey - DHS01
+Nepal,NP,NPL,524,Urban,15,"No facility, bush, field",0.191,Demographic and Health Survey - DHS01
+Nepal,NP,NPL,524,Urban,16,Other unimproved,0.0,Demographic and Health Survey - DHS01
+Nepal,NP,NPL,524,Urban,17,DK/missing information,0.0,Demographic and Health Survey - DHS01
+Nepal,NP,NPL,524,Rural,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS01
+Nepal,NP,NPL,524,Rural,2,Flush and pour flush - to septic tank,0.0,Demographic and Health Survey - DHS01
+Nepal,NP,NPL,524,Rural,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS01
+Nepal,NP,NPL,524,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS01
+Nepal,NP,NPL,524,Rural,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS01
+Nepal,NP,NPL,524,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.016,Demographic and Health Survey - DHS01
+Nepal,NP,NPL,524,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS01
+Nepal,NP,NPL,524,Rural,8,Dry latrines - Traditional latrine,0.17,Demographic and Health Survey - DHS01
+Nepal,NP,NPL,524,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Survey - DHS01
+Nepal,NP,NPL,524,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS01
+Nepal,NP,NPL,524,Rural,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS01
+Nepal,NP,NPL,524,Rural,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS01
+Nepal,NP,NPL,524,Rural,13,Composting toilets,0.0,Demographic and Health Survey - DHS01
+Nepal,NP,NPL,524,Rural,14,Other improved,0.0,Demographic and Health Survey - DHS01
+Nepal,NP,NPL,524,Rural,15,"No facility, bush, field",0.756,Demographic and Health Survey - DHS01
+Nepal,NP,NPL,524,Rural,16,Other unimproved,0.001,Demographic and Health Survey - DHS01
+Nepal,NP,NPL,524,Rural,17,DK/missing information,0.0,Demographic and Health Survey - DHS01
+Nepal,NP,NPL,524,National,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS01
+Nepal,NP,NPL,524,National,2,Flush and pour flush - to septic tank,0.0,Demographic and Health Survey - DHS01
+Nepal,NP,NPL,524,National,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS01
+Nepal,NP,NPL,524,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS01
+Nepal,NP,NPL,524,National,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS01
+Nepal,NP,NPL,524,National,6,Dry latrines - Ventilated Improved Pit latrine,0.022,Demographic and Health Survey - DHS01
+Nepal,NP,NPL,524,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS01
+Nepal,NP,NPL,524,National,8,Dry latrines - Traditional latrine,0.168,Demographic and Health Survey - DHS01
+Nepal,NP,NPL,524,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Survey - DHS01
+Nepal,NP,NPL,524,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS01
+Nepal,NP,NPL,524,National,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS01
+Nepal,NP,NPL,524,National,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS01
+Nepal,NP,NPL,524,National,13,Composting toilets,0.0,Demographic and Health Survey - DHS01
+Nepal,NP,NPL,524,National,14,Other improved,0.0,Demographic and Health Survey - DHS01
+Nepal,NP,NPL,524,National,15,"No facility, bush, field",0.7,Demographic and Health Survey - DHS01
+Nepal,NP,NPL,524,National,16,Other unimproved,0.001,Demographic and Health Survey - DHS01
+Nepal,NP,NPL,524,National,17,DK/missing information,0.0,Demographic and Health Survey - DHS01
 Nepal,NP,NPL,524,Urban,1,Flush and pour flush - to piped sewer system,0.382,World Health Survey - WHS03
 Nepal,NP,NPL,524,Urban,2,Flush and pour flush - to septic tank,0.396,World Health Survey - WHS03
 Nepal,NP,NPL,524,Urban,3,Flush and pour flush - to pit,0.0,World Health Survey - WHS03
@@ -45,6 +249,23 @@ Nepal,NP,NPL,524,Rural,14,Other improved,0.0,World Health Survey - WHS03
 Nepal,NP,NPL,524,Rural,15,"No facility, bush, field",0.597,World Health Survey - WHS03
 Nepal,NP,NPL,524,Rural,16,Other unimproved,0.006,World Health Survey - WHS03
 Nepal,NP,NPL,524,Rural,17,DK/missing information,0.0,World Health Survey - WHS03
+Nepal,NP,NPL,524,National,1,Flush and pour flush - to piped sewer system,0.0,World Health Survey - WHS03
+Nepal,NP,NPL,524,National,2,Flush and pour flush - to septic tank,0.0,World Health Survey - WHS03
+Nepal,NP,NPL,524,National,3,Flush and pour flush - to pit,0.0,World Health Survey - WHS03
+Nepal,NP,NPL,524,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,World Health Survey - WHS03
+Nepal,NP,NPL,524,National,5,Flush and pour flush - to elsewhere,0.0,World Health Survey - WHS03
+Nepal,NP,NPL,524,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,World Health Survey - WHS03
+Nepal,NP,NPL,524,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,World Health Survey - WHS03
+Nepal,NP,NPL,524,National,8,Dry latrines - Traditional latrine,0.0,World Health Survey - WHS03
+Nepal,NP,NPL,524,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,World Health Survey - WHS03
+Nepal,NP,NPL,524,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,World Health Survey - WHS03
+Nepal,NP,NPL,524,National,11,Dry latrines - Bucket latrine,0.0,World Health Survey - WHS03
+Nepal,NP,NPL,524,National,12,Dry latrines - Other,0.0,World Health Survey - WHS03
+Nepal,NP,NPL,524,National,13,Composting toilets,0.0,World Health Survey - WHS03
+Nepal,NP,NPL,524,National,14,Other improved,0.0,World Health Survey - WHS03
+Nepal,NP,NPL,524,National,15,"No facility, bush, field",0.0,World Health Survey - WHS03
+Nepal,NP,NPL,524,National,16,Other unimproved,0.0,World Health Survey - WHS03
+Nepal,NP,NPL,524,National,17,DK/missing information,0.0,World Health Survey - WHS03
 Nepal,NP,NPL,524,Urban,1,Flush and pour flush - to piped sewer system,0.344,Living Standards Survey - LSS04
 Nepal,NP,NPL,524,Urban,2,Flush and pour flush - to septic tank,0.367,Living Standards Survey - LSS04
 Nepal,NP,NPL,524,Urban,3,Flush and pour flush - to pit,0.0,Living Standards Survey - LSS04
@@ -83,6 +304,23 @@ Nepal,NP,NPL,524,Rural,14,Other improved,0.0,Living Standards Survey - LSS04
 Nepal,NP,NPL,524,Rural,15,"No facility, bush, field",0.687,Living Standards Survey - LSS04
 Nepal,NP,NPL,524,Rural,16,Other unimproved,0.0,Living Standards Survey - LSS04
 Nepal,NP,NPL,524,Rural,17,DK/missing information,0.0,Living Standards Survey - LSS04
+Nepal,NP,NPL,524,National,1,Flush and pour flush - to piped sewer system,0.0,Living Standards Survey - LSS04
+Nepal,NP,NPL,524,National,2,Flush and pour flush - to septic tank,0.0,Living Standards Survey - LSS04
+Nepal,NP,NPL,524,National,3,Flush and pour flush - to pit,0.0,Living Standards Survey - LSS04
+Nepal,NP,NPL,524,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Living Standards Survey - LSS04
+Nepal,NP,NPL,524,National,5,Flush and pour flush - to elsewhere,0.0,Living Standards Survey - LSS04
+Nepal,NP,NPL,524,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Living Standards Survey - LSS04
+Nepal,NP,NPL,524,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Living Standards Survey - LSS04
+Nepal,NP,NPL,524,National,8,Dry latrines - Traditional latrine,0.0,Living Standards Survey - LSS04
+Nepal,NP,NPL,524,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Living Standards Survey - LSS04
+Nepal,NP,NPL,524,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Living Standards Survey - LSS04
+Nepal,NP,NPL,524,National,11,Dry latrines - Bucket latrine,0.0,Living Standards Survey - LSS04
+Nepal,NP,NPL,524,National,12,Dry latrines - Other,0.0,Living Standards Survey - LSS04
+Nepal,NP,NPL,524,National,13,Composting toilets,0.0,Living Standards Survey - LSS04
+Nepal,NP,NPL,524,National,14,Other improved,0.0,Living Standards Survey - LSS04
+Nepal,NP,NPL,524,National,15,"No facility, bush, field",0.0,Living Standards Survey - LSS04
+Nepal,NP,NPL,524,National,16,Other unimproved,0.0,Living Standards Survey - LSS04
+Nepal,NP,NPL,524,National,17,DK/missing information,0.0,Living Standards Survey - LSS04
 Nepal,NP,NPL,524,Urban,1,Flush and pour flush - to piped sewer system,0.204,Demographic and Health Survey - DHS06
 Nepal,NP,NPL,524,Urban,2,Flush and pour flush - to septic tank,0.524,Demographic and Health Survey - DHS06
 Nepal,NP,NPL,524,Urban,3,Flush and pour flush - to pit,0.005,Demographic and Health Survey - DHS06
@@ -117,6 +355,74 @@ Nepal,NP,NPL,524,Rural,14,Other improved,0.0,Demographic and Health Survey - DHS
 Nepal,NP,NPL,524,Rural,15,"No facility, bush, field",0.581,Demographic and Health Survey - DHS06
 Nepal,NP,NPL,524,Rural,16,Other unimproved,0.0,Demographic and Health Survey - DHS06
 Nepal,NP,NPL,524,Rural,17,DK/missing information,0.0,Demographic and Health Survey - DHS06
+Nepal,NP,NPL,524,National,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS06
+Nepal,NP,NPL,524,National,2,Flush and pour flush - to septic tank,0.0,Demographic and Health Survey - DHS06
+Nepal,NP,NPL,524,National,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS06
+Nepal,NP,NPL,524,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS06
+Nepal,NP,NPL,524,National,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS06
+Nepal,NP,NPL,524,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - DHS06
+Nepal,NP,NPL,524,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS06
+Nepal,NP,NPL,524,National,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS06
+Nepal,NP,NPL,524,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Survey - DHS06
+Nepal,NP,NPL,524,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS06
+Nepal,NP,NPL,524,National,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS06
+Nepal,NP,NPL,524,National,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS06
+Nepal,NP,NPL,524,National,13,Composting toilets,0.0,Demographic and Health Survey - DHS06
+Nepal,NP,NPL,524,National,14,Other improved,0.0,Demographic and Health Survey - DHS06
+Nepal,NP,NPL,524,National,15,"No facility, bush, field",0.0,Demographic and Health Survey - DHS06
+Nepal,NP,NPL,524,National,16,Other unimproved,0.0,Demographic and Health Survey - DHS06
+Nepal,NP,NPL,524,National,17,DK/missing information,0.0,Demographic and Health Survey - DHS06
+Nepal,NP,NPL,524,Urban,1,Flush and pour flush - to piped sewer system,0.0,NEPAL LIVING STANDARDS SURVEY - LSMS10
+Nepal,NP,NPL,524,Urban,2,Flush and pour flush - to septic tank,0.0,NEPAL LIVING STANDARDS SURVEY - LSMS10
+Nepal,NP,NPL,524,Urban,3,Flush and pour flush - to pit,0.0,NEPAL LIVING STANDARDS SURVEY - LSMS10
+Nepal,NP,NPL,524,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,NEPAL LIVING STANDARDS SURVEY - LSMS10
+Nepal,NP,NPL,524,Urban,5,Flush and pour flush - to elsewhere,0.0,NEPAL LIVING STANDARDS SURVEY - LSMS10
+Nepal,NP,NPL,524,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,NEPAL LIVING STANDARDS SURVEY - LSMS10
+Nepal,NP,NPL,524,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,NEPAL LIVING STANDARDS SURVEY - LSMS10
+Nepal,NP,NPL,524,Urban,8,Dry latrines - Traditional latrine,0.0,NEPAL LIVING STANDARDS SURVEY - LSMS10
+Nepal,NP,NPL,524,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,NEPAL LIVING STANDARDS SURVEY - LSMS10
+Nepal,NP,NPL,524,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,NEPAL LIVING STANDARDS SURVEY - LSMS10
+Nepal,NP,NPL,524,Urban,11,Dry latrines - Bucket latrine,0.0,NEPAL LIVING STANDARDS SURVEY - LSMS10
+Nepal,NP,NPL,524,Urban,12,Dry latrines - Other,0.0,NEPAL LIVING STANDARDS SURVEY - LSMS10
+Nepal,NP,NPL,524,Urban,13,Composting toilets,0.0,NEPAL LIVING STANDARDS SURVEY - LSMS10
+Nepal,NP,NPL,524,Urban,14,Other improved,0.882,NEPAL LIVING STANDARDS SURVEY - LSMS10
+Nepal,NP,NPL,524,Urban,15,"No facility, bush, field",0.118,NEPAL LIVING STANDARDS SURVEY - LSMS10
+Nepal,NP,NPL,524,Urban,16,Other unimproved,0.0,NEPAL LIVING STANDARDS SURVEY - LSMS10
+Nepal,NP,NPL,524,Urban,17,DK/missing information,0.0,NEPAL LIVING STANDARDS SURVEY - LSMS10
+Nepal,NP,NPL,524,Rural,1,Flush and pour flush - to piped sewer system,0.0,NEPAL LIVING STANDARDS SURVEY - LSMS10
+Nepal,NP,NPL,524,Rural,2,Flush and pour flush - to septic tank,0.0,NEPAL LIVING STANDARDS SURVEY - LSMS10
+Nepal,NP,NPL,524,Rural,3,Flush and pour flush - to pit,0.0,NEPAL LIVING STANDARDS SURVEY - LSMS10
+Nepal,NP,NPL,524,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,NEPAL LIVING STANDARDS SURVEY - LSMS10
+Nepal,NP,NPL,524,Rural,5,Flush and pour flush - to elsewhere,0.0,NEPAL LIVING STANDARDS SURVEY - LSMS10
+Nepal,NP,NPL,524,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,NEPAL LIVING STANDARDS SURVEY - LSMS10
+Nepal,NP,NPL,524,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,NEPAL LIVING STANDARDS SURVEY - LSMS10
+Nepal,NP,NPL,524,Rural,8,Dry latrines - Traditional latrine,0.0,NEPAL LIVING STANDARDS SURVEY - LSMS10
+Nepal,NP,NPL,524,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,NEPAL LIVING STANDARDS SURVEY - LSMS10
+Nepal,NP,NPL,524,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,NEPAL LIVING STANDARDS SURVEY - LSMS10
+Nepal,NP,NPL,524,Rural,11,Dry latrines - Bucket latrine,0.0,NEPAL LIVING STANDARDS SURVEY - LSMS10
+Nepal,NP,NPL,524,Rural,12,Dry latrines - Other,0.0,NEPAL LIVING STANDARDS SURVEY - LSMS10
+Nepal,NP,NPL,524,Rural,13,Composting toilets,0.0,NEPAL LIVING STANDARDS SURVEY - LSMS10
+Nepal,NP,NPL,524,Rural,14,Other improved,0.472,NEPAL LIVING STANDARDS SURVEY - LSMS10
+Nepal,NP,NPL,524,Rural,15,"No facility, bush, field",0.528,NEPAL LIVING STANDARDS SURVEY - LSMS10
+Nepal,NP,NPL,524,Rural,16,Other unimproved,0.0,NEPAL LIVING STANDARDS SURVEY - LSMS10
+Nepal,NP,NPL,524,Rural,17,DK/missing information,0.0,NEPAL LIVING STANDARDS SURVEY - LSMS10
+Nepal,NP,NPL,524,National,1,Flush and pour flush - to piped sewer system,0.0,NEPAL LIVING STANDARDS SURVEY - LSMS10
+Nepal,NP,NPL,524,National,2,Flush and pour flush - to septic tank,0.0,NEPAL LIVING STANDARDS SURVEY - LSMS10
+Nepal,NP,NPL,524,National,3,Flush and pour flush - to pit,0.0,NEPAL LIVING STANDARDS SURVEY - LSMS10
+Nepal,NP,NPL,524,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,NEPAL LIVING STANDARDS SURVEY - LSMS10
+Nepal,NP,NPL,524,National,5,Flush and pour flush - to elsewhere,0.0,NEPAL LIVING STANDARDS SURVEY - LSMS10
+Nepal,NP,NPL,524,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,NEPAL LIVING STANDARDS SURVEY - LSMS10
+Nepal,NP,NPL,524,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,NEPAL LIVING STANDARDS SURVEY - LSMS10
+Nepal,NP,NPL,524,National,8,Dry latrines - Traditional latrine,0.0,NEPAL LIVING STANDARDS SURVEY - LSMS10
+Nepal,NP,NPL,524,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,NEPAL LIVING STANDARDS SURVEY - LSMS10
+Nepal,NP,NPL,524,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,NEPAL LIVING STANDARDS SURVEY - LSMS10
+Nepal,NP,NPL,524,National,11,Dry latrines - Bucket latrine,0.0,NEPAL LIVING STANDARDS SURVEY - LSMS10
+Nepal,NP,NPL,524,National,12,Dry latrines - Other,0.0,NEPAL LIVING STANDARDS SURVEY - LSMS10
+Nepal,NP,NPL,524,National,13,Composting toilets,0.0,NEPAL LIVING STANDARDS SURVEY - LSMS10
+Nepal,NP,NPL,524,National,14,Other improved,0.562,NEPAL LIVING STANDARDS SURVEY - LSMS10
+Nepal,NP,NPL,524,National,15,"No facility, bush, field",0.438,NEPAL LIVING STANDARDS SURVEY - LSMS10
+Nepal,NP,NPL,524,National,16,Other unimproved,0.0,NEPAL LIVING STANDARDS SURVEY - LSMS10
+Nepal,NP,NPL,524,National,17,DK/missing information,0.0,NEPAL LIVING STANDARDS SURVEY - LSMS10
 Nepal,NP,NPL,524,Urban,1,Flush and pour flush - to piped sewer system,0.302,National Population and Housing Census 2011 - CEN11
 Nepal,NP,NPL,524,Urban,2,Flush and pour flush - to septic tank,0.475,National Population and Housing Census 2011 - CEN11
 Nepal,NP,NPL,524,Urban,3,Flush and pour flush - to pit,0.0,National Population and Housing Census 2011 - CEN11
@@ -151,6 +457,23 @@ Nepal,NP,NPL,524,Rural,14,Other improved,0.0,National Population and Housing Cen
 Nepal,NP,NPL,524,Rural,15,"No facility, bush, field",0.451,National Population and Housing Census 2011 - CEN11
 Nepal,NP,NPL,524,Rural,16,Other unimproved,0.0,National Population and Housing Census 2011 - CEN11
 Nepal,NP,NPL,524,Rural,17,DK/missing information,0.006,National Population and Housing Census 2011 - CEN11
+Nepal,NP,NPL,524,National,1,Flush and pour flush - to piped sewer system,0.083,National Population and Housing Census 2011 - CEN11
+Nepal,NP,NPL,524,National,2,Flush and pour flush - to septic tank,0.335,National Population and Housing Census 2011 - CEN11
+Nepal,NP,NPL,524,National,3,Flush and pour flush - to pit,0.0,National Population and Housing Census 2011 - CEN11
+Nepal,NP,NPL,524,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Population and Housing Census 2011 - CEN11
+Nepal,NP,NPL,524,National,5,Flush and pour flush - to elsewhere,0.0,National Population and Housing Census 2011 - CEN11
+Nepal,NP,NPL,524,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,National Population and Housing Census 2011 - CEN11
+Nepal,NP,NPL,524,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Population and Housing Census 2011 - CEN11
+Nepal,NP,NPL,524,National,8,Dry latrines - Traditional latrine,0.195,National Population and Housing Census 2011 - CEN11
+Nepal,NP,NPL,524,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Population and Housing Census 2011 - CEN11
+Nepal,NP,NPL,524,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Population and Housing Census 2011 - CEN11
+Nepal,NP,NPL,524,National,11,Dry latrines - Bucket latrine,0.0,National Population and Housing Census 2011 - CEN11
+Nepal,NP,NPL,524,National,12,Dry latrines - Other,0.0,National Population and Housing Census 2011 - CEN11
+Nepal,NP,NPL,524,National,13,Composting toilets,0.0,National Population and Housing Census 2011 - CEN11
+Nepal,NP,NPL,524,National,14,Other improved,0.0,National Population and Housing Census 2011 - CEN11
+Nepal,NP,NPL,524,National,15,"No facility, bush, field",0.382,National Population and Housing Census 2011 - CEN11
+Nepal,NP,NPL,524,National,16,Other unimproved,0.0,National Population and Housing Census 2011 - CEN11
+Nepal,NP,NPL,524,National,17,DK/missing information,0.006,National Population and Housing Census 2011 - CEN11
 Nepal,NP,NPL,524,Urban,1,Flush and pour flush - to piped sewer system,0.273,MEASURE DHS  - DHS11
 Nepal,NP,NPL,524,Urban,2,Flush and pour flush - to septic tank,0.546,MEASURE DHS  - DHS11
 Nepal,NP,NPL,524,Urban,3,Flush and pour flush - to pit,0.034,MEASURE DHS  - DHS11
@@ -185,6 +508,23 @@ Nepal,NP,NPL,524,Rural,14,Other improved,0.0,MEASURE DHS  - DHS11
 Nepal,NP,NPL,524,Rural,15,"No facility, bush, field",0.399,MEASURE DHS  - DHS11
 Nepal,NP,NPL,524,Rural,16,Other unimproved,0.0,MEASURE DHS  - DHS11
 Nepal,NP,NPL,524,Rural,17,DK/missing information,0.0,MEASURE DHS  - DHS11
+Nepal,NP,NPL,524,National,1,Flush and pour flush - to piped sewer system,0.065,MEASURE DHS  - DHS11
+Nepal,NP,NPL,524,National,2,Flush and pour flush - to septic tank,0.367,MEASURE DHS  - DHS11
+Nepal,NP,NPL,524,National,3,Flush and pour flush - to pit,0.044,MEASURE DHS  - DHS11
+Nepal,NP,NPL,524,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,MEASURE DHS  - DHS11
+Nepal,NP,NPL,524,National,5,Flush and pour flush - to elsewhere,0.003,MEASURE DHS  - DHS11
+Nepal,NP,NPL,524,National,6,Dry latrines - Ventilated Improved Pit latrine,0.009,MEASURE DHS  - DHS11
+Nepal,NP,NPL,524,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.083,MEASURE DHS  - DHS11
+Nepal,NP,NPL,524,National,8,Dry latrines - Traditional latrine,0.0,MEASURE DHS  - DHS11
+Nepal,NP,NPL,524,National,9,Dry latrines - Pit latrine without slab/open pit,0.071,MEASURE DHS  - DHS11
+Nepal,NP,NPL,524,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,MEASURE DHS  - DHS11
+Nepal,NP,NPL,524,National,11,Dry latrines - Bucket latrine,0.0,MEASURE DHS  - DHS11
+Nepal,NP,NPL,524,National,12,Dry latrines - Other,0.0,MEASURE DHS  - DHS11
+Nepal,NP,NPL,524,National,13,Composting toilets,0.002,MEASURE DHS  - DHS11
+Nepal,NP,NPL,524,National,14,Other improved,0.0,MEASURE DHS  - DHS11
+Nepal,NP,NPL,524,National,15,"No facility, bush, field",0.355,MEASURE DHS  - DHS11
+Nepal,NP,NPL,524,National,16,Other unimproved,0.0,MEASURE DHS  - DHS11
+Nepal,NP,NPL,524,National,17,DK/missing information,0.0,MEASURE DHS  - DHS11
 Nepal,NP,NPL,524,Urban,1,Flush and pour flush - to piped sewer system,0.245,Annual Household Survey 2012-13 - AHS13
 Nepal,NP,NPL,524,Urban,2,Flush and pour flush - to septic tank,0.53,Annual Household Survey 2012-13 - AHS13
 Nepal,NP,NPL,524,Urban,3,Flush and pour flush - to pit,0.0,Annual Household Survey 2012-13 - AHS13
@@ -219,6 +559,23 @@ Nepal,NP,NPL,524,Rural,14,Other improved,0.0,Annual Household Survey 2012-13 - A
 Nepal,NP,NPL,524,Rural,15,"No facility, bush, field",0.374,Annual Household Survey 2012-13 - AHS13
 Nepal,NP,NPL,524,Rural,16,Other unimproved,0.0,Annual Household Survey 2012-13 - AHS13
 Nepal,NP,NPL,524,Rural,17,DK/missing information,0.0,Annual Household Survey 2012-13 - AHS13
+Nepal,NP,NPL,524,National,1,Flush and pour flush - to piped sewer system,0.061,Annual Household Survey 2012-13 - AHS13
+Nepal,NP,NPL,524,National,2,Flush and pour flush - to septic tank,0.437,Annual Household Survey 2012-13 - AHS13
+Nepal,NP,NPL,524,National,3,Flush and pour flush - to pit,0.0,Annual Household Survey 2012-13 - AHS13
+Nepal,NP,NPL,524,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Annual Household Survey 2012-13 - AHS13
+Nepal,NP,NPL,524,National,5,Flush and pour flush - to elsewhere,0.0,Annual Household Survey 2012-13 - AHS13
+Nepal,NP,NPL,524,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Annual Household Survey 2012-13 - AHS13
+Nepal,NP,NPL,524,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Annual Household Survey 2012-13 - AHS13
+Nepal,NP,NPL,524,National,8,Dry latrines - Traditional latrine,0.178,Annual Household Survey 2012-13 - AHS13
+Nepal,NP,NPL,524,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Annual Household Survey 2012-13 - AHS13
+Nepal,NP,NPL,524,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Annual Household Survey 2012-13 - AHS13
+Nepal,NP,NPL,524,National,11,Dry latrines - Bucket latrine,0.0,Annual Household Survey 2012-13 - AHS13
+Nepal,NP,NPL,524,National,12,Dry latrines - Other,0.0,Annual Household Survey 2012-13 - AHS13
+Nepal,NP,NPL,524,National,13,Composting toilets,0.0,Annual Household Survey 2012-13 - AHS13
+Nepal,NP,NPL,524,National,14,Other improved,0.0,Annual Household Survey 2012-13 - AHS13
+Nepal,NP,NPL,524,National,15,"No facility, bush, field",0.316,Annual Household Survey 2012-13 - AHS13
+Nepal,NP,NPL,524,National,16,Other unimproved,0.0,Annual Household Survey 2012-13 - AHS13
+Nepal,NP,NPL,524,National,17,DK/missing information,0.0,Annual Household Survey 2012-13 - AHS13
 Nepal,NP,NPL,524,Urban,1,Flush and pour flush - to piped sewer system,0.249,Multiple Indicator Cluster Surveys - MICS14
 Nepal,NP,NPL,524,Urban,2,Flush and pour flush - to septic tank,0.611,Multiple Indicator Cluster Surveys - MICS14
 Nepal,NP,NPL,524,Urban,3,Flush and pour flush - to pit,0.048,Multiple Indicator Cluster Surveys - MICS14
@@ -253,6 +610,23 @@ Nepal,NP,NPL,524,Rural,14,Other improved,0.0,Multiple Indicator Cluster Surveys 
 Nepal,NP,NPL,524,Rural,15,"No facility, bush, field",0.306,Multiple Indicator Cluster Surveys - MICS14
 Nepal,NP,NPL,524,Rural,16,Other unimproved,0.013,Multiple Indicator Cluster Surveys - MICS14
 Nepal,NP,NPL,524,Rural,17,DK/missing information,0.0,Multiple Indicator Cluster Surveys - MICS14
+Nepal,NP,NPL,524,National,1,Flush and pour flush - to piped sewer system,0.061,Multiple Indicator Cluster Surveys - MICS14
+Nepal,NP,NPL,524,National,2,Flush and pour flush - to septic tank,0.434,Multiple Indicator Cluster Surveys - MICS14
+Nepal,NP,NPL,524,National,3,Flush and pour flush - to pit,0.154,Multiple Indicator Cluster Surveys - MICS14
+Nepal,NP,NPL,524,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.001,Multiple Indicator Cluster Surveys - MICS14
+Nepal,NP,NPL,524,National,5,Flush and pour flush - to elsewhere,0.002,Multiple Indicator Cluster Surveys - MICS14
+Nepal,NP,NPL,524,National,6,Dry latrines - Ventilated Improved Pit latrine,0.014,Multiple Indicator Cluster Surveys - MICS14
+Nepal,NP,NPL,524,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.04,Multiple Indicator Cluster Surveys - MICS14
+Nepal,NP,NPL,524,National,8,Dry latrines - Traditional latrine,0.0,Multiple Indicator Cluster Surveys - MICS14
+Nepal,NP,NPL,524,National,9,Dry latrines - Pit latrine without slab/open pit,0.007,Multiple Indicator Cluster Surveys - MICS14
+Nepal,NP,NPL,524,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Surveys - MICS14
+Nepal,NP,NPL,524,National,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Surveys - MICS14
+Nepal,NP,NPL,524,National,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Surveys - MICS14
+Nepal,NP,NPL,524,National,13,Composting toilets,0.013,Multiple Indicator Cluster Surveys - MICS14
+Nepal,NP,NPL,524,National,14,Other improved,0.0,Multiple Indicator Cluster Surveys - MICS14
+Nepal,NP,NPL,524,National,15,"No facility, bush, field",0.263,Multiple Indicator Cluster Surveys - MICS14
+Nepal,NP,NPL,524,National,16,Other unimproved,0.011,Multiple Indicator Cluster Surveys - MICS14
+Nepal,NP,NPL,524,National,17,DK/missing information,0.0,Multiple Indicator Cluster Surveys - MICS14
 Nepal,NP,NPL,524,Urban,1,Flush and pour flush - to piped sewer system,0.134,Annual Household Survey 2015 - AHS15
 Nepal,NP,NPL,524,Urban,2,Flush and pour flush - to septic tank,0.551,Annual Household Survey 2015 - AHS15
 Nepal,NP,NPL,524,Urban,3,Flush and pour flush - to pit,0.0,Annual Household Survey 2015 - AHS15
@@ -287,6 +661,23 @@ Nepal,NP,NPL,524,Rural,14,Other improved,0.0,Annual Household Survey 2015 - AHS1
 Nepal,NP,NPL,524,Rural,15,"No facility, bush, field",0.278,Annual Household Survey 2015 - AHS15
 Nepal,NP,NPL,524,Rural,16,Other unimproved,0.0,Annual Household Survey 2015 - AHS15
 Nepal,NP,NPL,524,Rural,17,DK/missing information,0.0,Annual Household Survey 2015 - AHS15
+Nepal,NP,NPL,524,National,1,Flush and pour flush - to piped sewer system,0.056,Annual Household Survey 2015 - AHS15
+Nepal,NP,NPL,524,National,2,Flush and pour flush - to septic tank,0.447,Annual Household Survey 2015 - AHS15
+Nepal,NP,NPL,524,National,3,Flush and pour flush - to pit,0.0,Annual Household Survey 2015 - AHS15
+Nepal,NP,NPL,524,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Annual Household Survey 2015 - AHS15
+Nepal,NP,NPL,524,National,5,Flush and pour flush - to elsewhere,0.0,Annual Household Survey 2015 - AHS15
+Nepal,NP,NPL,524,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Annual Household Survey 2015 - AHS15
+Nepal,NP,NPL,524,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Annual Household Survey 2015 - AHS15
+Nepal,NP,NPL,524,National,8,Dry latrines - Traditional latrine,0.27,Annual Household Survey 2015 - AHS15
+Nepal,NP,NPL,524,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Annual Household Survey 2015 - AHS15
+Nepal,NP,NPL,524,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Annual Household Survey 2015 - AHS15
+Nepal,NP,NPL,524,National,11,Dry latrines - Bucket latrine,0.0,Annual Household Survey 2015 - AHS15
+Nepal,NP,NPL,524,National,12,Dry latrines - Other,0.0,Annual Household Survey 2015 - AHS15
+Nepal,NP,NPL,524,National,13,Composting toilets,0.0,Annual Household Survey 2015 - AHS15
+Nepal,NP,NPL,524,National,14,Other improved,0.0,Annual Household Survey 2015 - AHS15
+Nepal,NP,NPL,524,National,15,"No facility, bush, field",0.22,Annual Household Survey 2015 - AHS15
+Nepal,NP,NPL,524,National,16,Other unimproved,0.0,Annual Household Survey 2015 - AHS15
+Nepal,NP,NPL,524,National,17,DK/missing information,0.0,Annual Household Survey 2015 - AHS15
 Nepal,NP,NPL,524,Urban,1,Flush and pour flush - to piped sewer system,0.167,Annual Household Survey 2016 - AHS16
 Nepal,NP,NPL,524,Urban,2,Flush and pour flush - to septic tank,0.479,Annual Household Survey 2016 - AHS16
 Nepal,NP,NPL,524,Urban,3,Flush and pour flush - to pit,0.0,Annual Household Survey 2016 - AHS16
@@ -321,6 +712,23 @@ Nepal,NP,NPL,524,Rural,14,Other improved,0.0,Annual Household Survey 2016 - AHS1
 Nepal,NP,NPL,524,Rural,15,"No facility, bush, field",0.25,Annual Household Survey 2016 - AHS16
 Nepal,NP,NPL,524,Rural,16,Other unimproved,0.0,Annual Household Survey 2016 - AHS16
 Nepal,NP,NPL,524,Rural,17,DK/missing information,0.0,Annual Household Survey 2016 - AHS16
+Nepal,NP,NPL,524,National,1,Flush and pour flush - to piped sewer system,0.073,Annual Household Survey 2016 - AHS16
+Nepal,NP,NPL,524,National,2,Flush and pour flush - to septic tank,0.442,Annual Household Survey 2016 - AHS16
+Nepal,NP,NPL,524,National,3,Flush and pour flush - to pit,0.0,Annual Household Survey 2016 - AHS16
+Nepal,NP,NPL,524,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Annual Household Survey 2016 - AHS16
+Nepal,NP,NPL,524,National,5,Flush and pour flush - to elsewhere,0.0,Annual Household Survey 2016 - AHS16
+Nepal,NP,NPL,524,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Annual Household Survey 2016 - AHS16
+Nepal,NP,NPL,524,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Annual Household Survey 2016 - AHS16
+Nepal,NP,NPL,524,National,8,Dry latrines - Traditional latrine,0.29,Annual Household Survey 2016 - AHS16
+Nepal,NP,NPL,524,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Annual Household Survey 2016 - AHS16
+Nepal,NP,NPL,524,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Annual Household Survey 2016 - AHS16
+Nepal,NP,NPL,524,National,11,Dry latrines - Bucket latrine,0.0,Annual Household Survey 2016 - AHS16
+Nepal,NP,NPL,524,National,12,Dry latrines - Other,0.0,Annual Household Survey 2016 - AHS16
+Nepal,NP,NPL,524,National,13,Composting toilets,0.0,Annual Household Survey 2016 - AHS16
+Nepal,NP,NPL,524,National,14,Other improved,0.0,Annual Household Survey 2016 - AHS16
+Nepal,NP,NPL,524,National,15,"No facility, bush, field",0.187,Annual Household Survey 2016 - AHS16
+Nepal,NP,NPL,524,National,16,Other unimproved,0.0,Annual Household Survey 2016 - AHS16
+Nepal,NP,NPL,524,National,17,DK/missing information,0.0,Annual Household Survey 2016 - AHS16
 Nepal,NP,NPL,524,Urban,1,Flush and pour flush - to piped sewer system,0.11,Demographic and Health Survey - DHS16
 Nepal,NP,NPL,524,Urban,2,Flush and pour flush - to septic tank,0.563,Demographic and Health Survey - DHS16
 Nepal,NP,NPL,524,Urban,3,Flush and pour flush - to pit,0.115,Demographic and Health Survey - DHS16
@@ -355,3 +763,20 @@ Nepal,NP,NPL,524,Rural,14,Other improved,0.0,Demographic and Health Survey - DHS
 Nepal,NP,NPL,524,Rural,15,"No facility, bush, field",0.219,Demographic and Health Survey - DHS16
 Nepal,NP,NPL,524,Rural,16,Other unimproved,0.0,Demographic and Health Survey - DHS16
 Nepal,NP,NPL,524,Rural,17,DK/missing information,0.0,Demographic and Health Survey - DHS16
+Nepal,NP,NPL,524,National,1,Flush and pour flush - to piped sewer system,0.067,Demographic and Health Survey - DHS16
+Nepal,NP,NPL,524,National,2,Flush and pour flush - to septic tank,0.528,Demographic and Health Survey - DHS16
+Nepal,NP,NPL,524,National,3,Flush and pour flush - to pit,0.137,Demographic and Health Survey - DHS16
+Nepal,NP,NPL,524,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.001,Demographic and Health Survey - DHS16
+Nepal,NP,NPL,524,National,5,Flush and pour flush - to elsewhere,0.004,Demographic and Health Survey - DHS16
+Nepal,NP,NPL,524,National,6,Dry latrines - Ventilated Improved Pit latrine,0.042,Demographic and Health Survey - DHS16
+Nepal,NP,NPL,524,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.035,Demographic and Health Survey - DHS16
+Nepal,NP,NPL,524,National,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS16
+Nepal,NP,NPL,524,National,9,Dry latrines - Pit latrine without slab/open pit,0.01,Demographic and Health Survey - DHS16
+Nepal,NP,NPL,524,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS16
+Nepal,NP,NPL,524,National,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS16
+Nepal,NP,NPL,524,National,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS16
+Nepal,NP,NPL,524,National,13,Composting toilets,0.015,Demographic and Health Survey - DHS16
+Nepal,NP,NPL,524,National,14,Other improved,0.0,Demographic and Health Survey - DHS16
+Nepal,NP,NPL,524,National,15,"No facility, bush, field",0.16,Demographic and Health Survey - DHS16
+Nepal,NP,NPL,524,National,16,Other unimproved,0.001,Demographic and Health Survey - DHS16
+Nepal,NP,NPL,524,National,17,DK/missing information,0.0,Demographic and Health Survey - DHS16

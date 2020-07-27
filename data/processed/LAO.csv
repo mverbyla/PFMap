@@ -1,4 +1,106 @@
 country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+Lao People's Democratic Republic,LA,LAO,418,Urban,1,Flush and pour flush - to piped sewer system,0.0,Multiple Indicator Cluster Surve - MICS00
+Lao People's Democratic Republic,LA,LAO,418,Urban,2,Flush and pour flush - to septic tank,0.0,Multiple Indicator Cluster Surve - MICS00
+Lao People's Democratic Republic,LA,LAO,418,Urban,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Surve - MICS00
+Lao People's Democratic Republic,LA,LAO,418,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Surve - MICS00
+Lao People's Democratic Republic,LA,LAO,418,Urban,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Surve - MICS00
+Lao People's Democratic Republic,LA,LAO,418,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Multiple Indicator Cluster Surve - MICS00
+Lao People's Democratic Republic,LA,LAO,418,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Multiple Indicator Cluster Surve - MICS00
+Lao People's Democratic Republic,LA,LAO,418,Urban,8,Dry latrines - Traditional latrine,0.086,Multiple Indicator Cluster Surve - MICS00
+Lao People's Democratic Republic,LA,LAO,418,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Multiple Indicator Cluster Surve - MICS00
+Lao People's Democratic Republic,LA,LAO,418,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Surve - MICS00
+Lao People's Democratic Republic,LA,LAO,418,Urban,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Surve - MICS00
+Lao People's Democratic Republic,LA,LAO,418,Urban,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Surve - MICS00
+Lao People's Democratic Republic,LA,LAO,418,Urban,13,Composting toilets,0.0,Multiple Indicator Cluster Surve - MICS00
+Lao People's Democratic Republic,LA,LAO,418,Urban,14,Other improved,0.0,Multiple Indicator Cluster Surve - MICS00
+Lao People's Democratic Republic,LA,LAO,418,Urban,15,"No facility, bush, field",0.327,Multiple Indicator Cluster Surve - MICS00
+Lao People's Democratic Republic,LA,LAO,418,Urban,16,Other unimproved,0.0,Multiple Indicator Cluster Surve - MICS00
+Lao People's Democratic Republic,LA,LAO,418,Urban,17,DK/missing information,0.022,Multiple Indicator Cluster Surve - MICS00
+Lao People's Democratic Republic,LA,LAO,418,Rural,1,Flush and pour flush - to piped sewer system,0.0,Multiple Indicator Cluster Surve - MICS00
+Lao People's Democratic Republic,LA,LAO,418,Rural,2,Flush and pour flush - to septic tank,0.0,Multiple Indicator Cluster Surve - MICS00
+Lao People's Democratic Republic,LA,LAO,418,Rural,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Surve - MICS00
+Lao People's Democratic Republic,LA,LAO,418,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Surve - MICS00
+Lao People's Democratic Republic,LA,LAO,418,Rural,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Surve - MICS00
+Lao People's Democratic Republic,LA,LAO,418,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Multiple Indicator Cluster Surve - MICS00
+Lao People's Democratic Republic,LA,LAO,418,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Multiple Indicator Cluster Surve - MICS00
+Lao People's Democratic Republic,LA,LAO,418,Rural,8,Dry latrines - Traditional latrine,0.087,Multiple Indicator Cluster Surve - MICS00
+Lao People's Democratic Republic,LA,LAO,418,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Multiple Indicator Cluster Surve - MICS00
+Lao People's Democratic Republic,LA,LAO,418,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Surve - MICS00
+Lao People's Democratic Republic,LA,LAO,418,Rural,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Surve - MICS00
+Lao People's Democratic Republic,LA,LAO,418,Rural,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Surve - MICS00
+Lao People's Democratic Republic,LA,LAO,418,Rural,13,Composting toilets,0.0,Multiple Indicator Cluster Surve - MICS00
+Lao People's Democratic Republic,LA,LAO,418,Rural,14,Other improved,0.0,Multiple Indicator Cluster Surve - MICS00
+Lao People's Democratic Republic,LA,LAO,418,Rural,15,"No facility, bush, field",0.789,Multiple Indicator Cluster Surve - MICS00
+Lao People's Democratic Republic,LA,LAO,418,Rural,16,Other unimproved,0.001,Multiple Indicator Cluster Surve - MICS00
+Lao People's Democratic Republic,LA,LAO,418,Rural,17,DK/missing information,0.022,Multiple Indicator Cluster Surve - MICS00
+Lao People's Democratic Republic,LA,LAO,418,National,1,Flush and pour flush - to piped sewer system,0.0,Multiple Indicator Cluster Surve - MICS00
+Lao People's Democratic Republic,LA,LAO,418,National,2,Flush and pour flush - to septic tank,0.0,Multiple Indicator Cluster Surve - MICS00
+Lao People's Democratic Republic,LA,LAO,418,National,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Surve - MICS00
+Lao People's Democratic Republic,LA,LAO,418,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Surve - MICS00
+Lao People's Democratic Republic,LA,LAO,418,National,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Surve - MICS00
+Lao People's Democratic Republic,LA,LAO,418,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Multiple Indicator Cluster Surve - MICS00
+Lao People's Democratic Republic,LA,LAO,418,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Multiple Indicator Cluster Surve - MICS00
+Lao People's Democratic Republic,LA,LAO,418,National,8,Dry latrines - Traditional latrine,0.0,Multiple Indicator Cluster Surve - MICS00
+Lao People's Democratic Republic,LA,LAO,418,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Multiple Indicator Cluster Surve - MICS00
+Lao People's Democratic Republic,LA,LAO,418,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Surve - MICS00
+Lao People's Democratic Republic,LA,LAO,418,National,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Surve - MICS00
+Lao People's Democratic Republic,LA,LAO,418,National,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Surve - MICS00
+Lao People's Democratic Republic,LA,LAO,418,National,13,Composting toilets,0.0,Multiple Indicator Cluster Surve - MICS00
+Lao People's Democratic Republic,LA,LAO,418,National,14,Other improved,0.0,Multiple Indicator Cluster Surve - MICS00
+Lao People's Democratic Republic,LA,LAO,418,National,15,"No facility, bush, field",0.0,Multiple Indicator Cluster Surve - MICS00
+Lao People's Democratic Republic,LA,LAO,418,National,16,Other unimproved,0.0,Multiple Indicator Cluster Surve - MICS00
+Lao People's Democratic Republic,LA,LAO,418,National,17,DK/missing information,0.0,Multiple Indicator Cluster Surve - MICS00
+Lao People's Democratic Republic,LA,LAO,418,Urban,1,Flush and pour flush - to piped sewer system,0.0,Reproductive Health Survey 2000 - RHS00
+Lao People's Democratic Republic,LA,LAO,418,Urban,2,Flush and pour flush - to septic tank,0.0,Reproductive Health Survey 2000 - RHS00
+Lao People's Democratic Republic,LA,LAO,418,Urban,3,Flush and pour flush - to pit,0.0,Reproductive Health Survey 2000 - RHS00
+Lao People's Democratic Republic,LA,LAO,418,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Reproductive Health Survey 2000 - RHS00
+Lao People's Democratic Republic,LA,LAO,418,Urban,5,Flush and pour flush - to elsewhere,0.0,Reproductive Health Survey 2000 - RHS00
+Lao People's Democratic Republic,LA,LAO,418,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Reproductive Health Survey 2000 - RHS00
+Lao People's Democratic Republic,LA,LAO,418,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Reproductive Health Survey 2000 - RHS00
+Lao People's Democratic Republic,LA,LAO,418,Urban,8,Dry latrines - Traditional latrine,0.081,Reproductive Health Survey 2000 - RHS00
+Lao People's Democratic Republic,LA,LAO,418,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Reproductive Health Survey 2000 - RHS00
+Lao People's Democratic Republic,LA,LAO,418,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Reproductive Health Survey 2000 - RHS00
+Lao People's Democratic Republic,LA,LAO,418,Urban,11,Dry latrines - Bucket latrine,0.0,Reproductive Health Survey 2000 - RHS00
+Lao People's Democratic Republic,LA,LAO,418,Urban,12,Dry latrines - Other,0.0,Reproductive Health Survey 2000 - RHS00
+Lao People's Democratic Republic,LA,LAO,418,Urban,13,Composting toilets,0.0,Reproductive Health Survey 2000 - RHS00
+Lao People's Democratic Republic,LA,LAO,418,Urban,14,Other improved,0.0,Reproductive Health Survey 2000 - RHS00
+Lao People's Democratic Republic,LA,LAO,418,Urban,15,"No facility, bush, field",0.223,Reproductive Health Survey 2000 - RHS00
+Lao People's Democratic Republic,LA,LAO,418,Urban,16,Other unimproved,0.001,Reproductive Health Survey 2000 - RHS00
+Lao People's Democratic Republic,LA,LAO,418,Urban,17,DK/missing information,0.0,Reproductive Health Survey 2000 - RHS00
+Lao People's Democratic Republic,LA,LAO,418,Rural,1,Flush and pour flush - to piped sewer system,0.0,Reproductive Health Survey 2000 - RHS00
+Lao People's Democratic Republic,LA,LAO,418,Rural,2,Flush and pour flush - to septic tank,0.0,Reproductive Health Survey 2000 - RHS00
+Lao People's Democratic Republic,LA,LAO,418,Rural,3,Flush and pour flush - to pit,0.0,Reproductive Health Survey 2000 - RHS00
+Lao People's Democratic Republic,LA,LAO,418,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Reproductive Health Survey 2000 - RHS00
+Lao People's Democratic Republic,LA,LAO,418,Rural,5,Flush and pour flush - to elsewhere,0.0,Reproductive Health Survey 2000 - RHS00
+Lao People's Democratic Republic,LA,LAO,418,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Reproductive Health Survey 2000 - RHS00
+Lao People's Democratic Republic,LA,LAO,418,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Reproductive Health Survey 2000 - RHS00
+Lao People's Democratic Republic,LA,LAO,418,Rural,8,Dry latrines - Traditional latrine,0.085,Reproductive Health Survey 2000 - RHS00
+Lao People's Democratic Republic,LA,LAO,418,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Reproductive Health Survey 2000 - RHS00
+Lao People's Democratic Republic,LA,LAO,418,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Reproductive Health Survey 2000 - RHS00
+Lao People's Democratic Republic,LA,LAO,418,Rural,11,Dry latrines - Bucket latrine,0.0,Reproductive Health Survey 2000 - RHS00
+Lao People's Democratic Republic,LA,LAO,418,Rural,12,Dry latrines - Other,0.0,Reproductive Health Survey 2000 - RHS00
+Lao People's Democratic Republic,LA,LAO,418,Rural,13,Composting toilets,0.0,Reproductive Health Survey 2000 - RHS00
+Lao People's Democratic Republic,LA,LAO,418,Rural,14,Other improved,0.0,Reproductive Health Survey 2000 - RHS00
+Lao People's Democratic Republic,LA,LAO,418,Rural,15,"No facility, bush, field",0.745,Reproductive Health Survey 2000 - RHS00
+Lao People's Democratic Republic,LA,LAO,418,Rural,16,Other unimproved,0.002,Reproductive Health Survey 2000 - RHS00
+Lao People's Democratic Republic,LA,LAO,418,Rural,17,DK/missing information,0.0,Reproductive Health Survey 2000 - RHS00
+Lao People's Democratic Republic,LA,LAO,418,National,1,Flush and pour flush - to piped sewer system,0.0,Reproductive Health Survey 2000 - RHS00
+Lao People's Democratic Republic,LA,LAO,418,National,2,Flush and pour flush - to septic tank,0.0,Reproductive Health Survey 2000 - RHS00
+Lao People's Democratic Republic,LA,LAO,418,National,3,Flush and pour flush - to pit,0.0,Reproductive Health Survey 2000 - RHS00
+Lao People's Democratic Republic,LA,LAO,418,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Reproductive Health Survey 2000 - RHS00
+Lao People's Democratic Republic,LA,LAO,418,National,5,Flush and pour flush - to elsewhere,0.0,Reproductive Health Survey 2000 - RHS00
+Lao People's Democratic Republic,LA,LAO,418,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Reproductive Health Survey 2000 - RHS00
+Lao People's Democratic Republic,LA,LAO,418,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Reproductive Health Survey 2000 - RHS00
+Lao People's Democratic Republic,LA,LAO,418,National,8,Dry latrines - Traditional latrine,0.0,Reproductive Health Survey 2000 - RHS00
+Lao People's Democratic Republic,LA,LAO,418,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Reproductive Health Survey 2000 - RHS00
+Lao People's Democratic Republic,LA,LAO,418,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Reproductive Health Survey 2000 - RHS00
+Lao People's Democratic Republic,LA,LAO,418,National,11,Dry latrines - Bucket latrine,0.0,Reproductive Health Survey 2000 - RHS00
+Lao People's Democratic Republic,LA,LAO,418,National,12,Dry latrines - Other,0.0,Reproductive Health Survey 2000 - RHS00
+Lao People's Democratic Republic,LA,LAO,418,National,13,Composting toilets,0.0,Reproductive Health Survey 2000 - RHS00
+Lao People's Democratic Republic,LA,LAO,418,National,14,Other improved,0.0,Reproductive Health Survey 2000 - RHS00
+Lao People's Democratic Republic,LA,LAO,418,National,15,"No facility, bush, field",0.0,Reproductive Health Survey 2000 - RHS00
+Lao People's Democratic Republic,LA,LAO,418,National,16,Other unimproved,0.0,Reproductive Health Survey 2000 - RHS00
+Lao People's Democratic Republic,LA,LAO,418,National,17,DK/missing information,0,Reproductive Health Survey 2000 - RHS00
 Lao People's Democratic Republic,LA,LAO,418,Urban,1,Flush and pour flush - to piped sewer system,0.039,World Health Survey - WHS03
 Lao People's Democratic Republic,LA,LAO,418,Urban,2,Flush and pour flush - to septic tank,0.055,World Health Survey - WHS03
 Lao People's Democratic Republic,LA,LAO,418,Urban,3,Flush and pour flush - to pit,0.0,World Health Survey - WHS03
@@ -45,6 +147,176 @@ Lao People's Democratic Republic,LA,LAO,418,Rural,14,Other improved,0.0,World He
 Lao People's Democratic Republic,LA,LAO,418,Rural,15,"No facility, bush, field",0.621,World Health Survey - WHS03
 Lao People's Democratic Republic,LA,LAO,418,Rural,16,Other unimproved,0.001,World Health Survey - WHS03
 Lao People's Democratic Republic,LA,LAO,418,Rural,17,DK/missing information,0.0,World Health Survey - WHS03
+Lao People's Democratic Republic,LA,LAO,418,National,1,Flush and pour flush - to piped sewer system,0.0,World Health Survey - WHS03
+Lao People's Democratic Republic,LA,LAO,418,National,2,Flush and pour flush - to septic tank,0.0,World Health Survey - WHS03
+Lao People's Democratic Republic,LA,LAO,418,National,3,Flush and pour flush - to pit,0.0,World Health Survey - WHS03
+Lao People's Democratic Republic,LA,LAO,418,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,World Health Survey - WHS03
+Lao People's Democratic Republic,LA,LAO,418,National,5,Flush and pour flush - to elsewhere,0.0,World Health Survey - WHS03
+Lao People's Democratic Republic,LA,LAO,418,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,World Health Survey - WHS03
+Lao People's Democratic Republic,LA,LAO,418,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,World Health Survey - WHS03
+Lao People's Democratic Republic,LA,LAO,418,National,8,Dry latrines - Traditional latrine,0.0,World Health Survey - WHS03
+Lao People's Democratic Republic,LA,LAO,418,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,World Health Survey - WHS03
+Lao People's Democratic Republic,LA,LAO,418,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,World Health Survey - WHS03
+Lao People's Democratic Republic,LA,LAO,418,National,11,Dry latrines - Bucket latrine,0.0,World Health Survey - WHS03
+Lao People's Democratic Republic,LA,LAO,418,National,12,Dry latrines - Other,0.0,World Health Survey - WHS03
+Lao People's Democratic Republic,LA,LAO,418,National,13,Composting toilets,0.0,World Health Survey - WHS03
+Lao People's Democratic Republic,LA,LAO,418,National,14,Other improved,0.0,World Health Survey - WHS03
+Lao People's Democratic Republic,LA,LAO,418,National,15,"No facility, bush, field",0.0,World Health Survey - WHS03
+Lao People's Democratic Republic,LA,LAO,418,National,16,Other unimproved,0.0,World Health Survey - WHS03
+Lao People's Democratic Republic,LA,LAO,418,National,17,DK/missing information,0.0,World Health Survey - WHS03
+Lao People's Democratic Republic,LA,LAO,418,Urban,1,Flush and pour flush - to piped sewer system,0.0,Expenditure and Consumption Survey III (LECS III) - ECS03
+Lao People's Democratic Republic,LA,LAO,418,Urban,2,Flush and pour flush - to septic tank,0.0,Expenditure and Consumption Survey III (LECS III) - ECS03
+Lao People's Democratic Republic,LA,LAO,418,Urban,3,Flush and pour flush - to pit,0.0,Expenditure and Consumption Survey III (LECS III) - ECS03
+Lao People's Democratic Republic,LA,LAO,418,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Expenditure and Consumption Survey III (LECS III) - ECS03
+Lao People's Democratic Republic,LA,LAO,418,Urban,5,Flush and pour flush - to elsewhere,0.0,Expenditure and Consumption Survey III (LECS III) - ECS03
+Lao People's Democratic Republic,LA,LAO,418,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Expenditure and Consumption Survey III (LECS III) - ECS03
+Lao People's Democratic Republic,LA,LAO,418,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Expenditure and Consumption Survey III (LECS III) - ECS03
+Lao People's Democratic Republic,LA,LAO,418,Urban,8,Dry latrines - Traditional latrine,0.104,Expenditure and Consumption Survey III (LECS III) - ECS03
+Lao People's Democratic Republic,LA,LAO,418,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Expenditure and Consumption Survey III (LECS III) - ECS03
+Lao People's Democratic Republic,LA,LAO,418,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Expenditure and Consumption Survey III (LECS III) - ECS03
+Lao People's Democratic Republic,LA,LAO,418,Urban,11,Dry latrines - Bucket latrine,0.0,Expenditure and Consumption Survey III (LECS III) - ECS03
+Lao People's Democratic Republic,LA,LAO,418,Urban,12,Dry latrines - Other,0.0,Expenditure and Consumption Survey III (LECS III) - ECS03
+Lao People's Democratic Republic,LA,LAO,418,Urban,13,Composting toilets,0.0,Expenditure and Consumption Survey III (LECS III) - ECS03
+Lao People's Democratic Republic,LA,LAO,418,Urban,14,Other improved,0.0,Expenditure and Consumption Survey III (LECS III) - ECS03
+Lao People's Democratic Republic,LA,LAO,418,Urban,15,"No facility, bush, field",0.123,Expenditure and Consumption Survey III (LECS III) - ECS03
+Lao People's Democratic Republic,LA,LAO,418,Urban,16,Other unimproved,0.008,Expenditure and Consumption Survey III (LECS III) - ECS03
+Lao People's Democratic Republic,LA,LAO,418,Urban,17,DK/missing information,0.0,Expenditure and Consumption Survey III (LECS III) - ECS03
+Lao People's Democratic Republic,LA,LAO,418,Rural,1,Flush and pour flush - to piped sewer system,0.0,Expenditure and Consumption Survey III (LECS III) - ECS03
+Lao People's Democratic Republic,LA,LAO,418,Rural,2,Flush and pour flush - to septic tank,0.0,Expenditure and Consumption Survey III (LECS III) - ECS03
+Lao People's Democratic Republic,LA,LAO,418,Rural,3,Flush and pour flush - to pit,0.0,Expenditure and Consumption Survey III (LECS III) - ECS03
+Lao People's Democratic Republic,LA,LAO,418,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Expenditure and Consumption Survey III (LECS III) - ECS03
+Lao People's Democratic Republic,LA,LAO,418,Rural,5,Flush and pour flush - to elsewhere,0.0,Expenditure and Consumption Survey III (LECS III) - ECS03
+Lao People's Democratic Republic,LA,LAO,418,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Expenditure and Consumption Survey III (LECS III) - ECS03
+Lao People's Democratic Republic,LA,LAO,418,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Expenditure and Consumption Survey III (LECS III) - ECS03
+Lao People's Democratic Republic,LA,LAO,418,Rural,8,Dry latrines - Traditional latrine,0.1,Expenditure and Consumption Survey III (LECS III) - ECS03
+Lao People's Democratic Republic,LA,LAO,418,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Expenditure and Consumption Survey III (LECS III) - ECS03
+Lao People's Democratic Republic,LA,LAO,418,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Expenditure and Consumption Survey III (LECS III) - ECS03
+Lao People's Democratic Republic,LA,LAO,418,Rural,11,Dry latrines - Bucket latrine,0.0,Expenditure and Consumption Survey III (LECS III) - ECS03
+Lao People's Democratic Republic,LA,LAO,418,Rural,12,Dry latrines - Other,0.0,Expenditure and Consumption Survey III (LECS III) - ECS03
+Lao People's Democratic Republic,LA,LAO,418,Rural,13,Composting toilets,0.0,Expenditure and Consumption Survey III (LECS III) - ECS03
+Lao People's Democratic Republic,LA,LAO,418,Rural,14,Other improved,0.0,Expenditure and Consumption Survey III (LECS III) - ECS03
+Lao People's Democratic Republic,LA,LAO,418,Rural,15,"No facility, bush, field",0.624,Expenditure and Consumption Survey III (LECS III) - ECS03
+Lao People's Democratic Republic,LA,LAO,418,Rural,16,Other unimproved,0.013,Expenditure and Consumption Survey III (LECS III) - ECS03
+Lao People's Democratic Republic,LA,LAO,418,Rural,17,DK/missing information,0.0,Expenditure and Consumption Survey III (LECS III) - ECS03
+Lao People's Democratic Republic,LA,LAO,418,National,1,Flush and pour flush - to piped sewer system,0.0,Expenditure and Consumption Survey III (LECS III) - ECS03
+Lao People's Democratic Republic,LA,LAO,418,National,2,Flush and pour flush - to septic tank,0.0,Expenditure and Consumption Survey III (LECS III) - ECS03
+Lao People's Democratic Republic,LA,LAO,418,National,3,Flush and pour flush - to pit,0.0,Expenditure and Consumption Survey III (LECS III) - ECS03
+Lao People's Democratic Republic,LA,LAO,418,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Expenditure and Consumption Survey III (LECS III) - ECS03
+Lao People's Democratic Republic,LA,LAO,418,National,5,Flush and pour flush - to elsewhere,0.0,Expenditure and Consumption Survey III (LECS III) - ECS03
+Lao People's Democratic Republic,LA,LAO,418,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Expenditure and Consumption Survey III (LECS III) - ECS03
+Lao People's Democratic Republic,LA,LAO,418,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Expenditure and Consumption Survey III (LECS III) - ECS03
+Lao People's Democratic Republic,LA,LAO,418,National,8,Dry latrines - Traditional latrine,0.0,Expenditure and Consumption Survey III (LECS III) - ECS03
+Lao People's Democratic Republic,LA,LAO,418,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Expenditure and Consumption Survey III (LECS III) - ECS03
+Lao People's Democratic Republic,LA,LAO,418,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Expenditure and Consumption Survey III (LECS III) - ECS03
+Lao People's Democratic Republic,LA,LAO,418,National,11,Dry latrines - Bucket latrine,0.0,Expenditure and Consumption Survey III (LECS III) - ECS03
+Lao People's Democratic Republic,LA,LAO,418,National,12,Dry latrines - Other,0.0,Expenditure and Consumption Survey III (LECS III) - ECS03
+Lao People's Democratic Republic,LA,LAO,418,National,13,Composting toilets,0.0,Expenditure and Consumption Survey III (LECS III) - ECS03
+Lao People's Democratic Republic,LA,LAO,418,National,14,Other improved,0.0,Expenditure and Consumption Survey III (LECS III) - ECS03
+Lao People's Democratic Republic,LA,LAO,418,National,15,"No facility, bush, field",0.0,Expenditure and Consumption Survey III (LECS III) - ECS03
+Lao People's Democratic Republic,LA,LAO,418,National,16,Other unimproved,0.0,Expenditure and Consumption Survey III (LECS III) - ECS03
+Lao People's Democratic Republic,LA,LAO,418,National,17,DK/missing information,0.0,Expenditure and Consumption Survey III (LECS III) - ECS03
+Lao People's Democratic Republic,LA,LAO,418,Urban,1,Flush and pour flush - to piped sewer system,0.0,Census - CEN05
+Lao People's Democratic Republic,LA,LAO,418,Urban,2,Flush and pour flush - to septic tank,0.0,Census - CEN05
+Lao People's Democratic Republic,LA,LAO,418,Urban,3,Flush and pour flush - to pit,0.0,Census - CEN05
+Lao People's Democratic Republic,LA,LAO,418,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN05
+Lao People's Democratic Republic,LA,LAO,418,Urban,5,Flush and pour flush - to elsewhere,0.0,Census - CEN05
+Lao People's Democratic Republic,LA,LAO,418,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN05
+Lao People's Democratic Republic,LA,LAO,418,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN05
+Lao People's Democratic Republic,LA,LAO,418,Urban,8,Dry latrines - Traditional latrine,0.0,Census - CEN05
+Lao People's Democratic Republic,LA,LAO,418,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN05
+Lao People's Democratic Republic,LA,LAO,418,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN05
+Lao People's Democratic Republic,LA,LAO,418,Urban,11,Dry latrines - Bucket latrine,0.0,Census - CEN05
+Lao People's Democratic Republic,LA,LAO,418,Urban,12,Dry latrines - Other,0.0,Census - CEN05
+Lao People's Democratic Republic,LA,LAO,418,Urban,13,Composting toilets,0.0,Census - CEN05
+Lao People's Democratic Republic,LA,LAO,418,Urban,14,Other improved,0.0,Census - CEN05
+Lao People's Democratic Republic,LA,LAO,418,Urban,15,"No facility, bush, field",0.155,Census - CEN05
+Lao People's Democratic Republic,LA,LAO,418,Urban,16,Other unimproved,0.068,Census - CEN05
+Lao People's Democratic Republic,LA,LAO,418,Urban,17,DK/missing information,0.015,Census - CEN05
+Lao People's Democratic Republic,LA,LAO,418,Rural,1,Flush and pour flush - to piped sewer system,0.0,Census - CEN05
+Lao People's Democratic Republic,LA,LAO,418,Rural,2,Flush and pour flush - to septic tank,0.0,Census - CEN05
+Lao People's Democratic Republic,LA,LAO,418,Rural,3,Flush and pour flush - to pit,0.0,Census - CEN05
+Lao People's Democratic Republic,LA,LAO,418,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN05
+Lao People's Democratic Republic,LA,LAO,418,Rural,5,Flush and pour flush - to elsewhere,0.0,Census - CEN05
+Lao People's Democratic Republic,LA,LAO,418,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN05
+Lao People's Democratic Republic,LA,LAO,418,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN05
+Lao People's Democratic Republic,LA,LAO,418,Rural,8,Dry latrines - Traditional latrine,0.0,Census - CEN05
+Lao People's Democratic Republic,LA,LAO,418,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN05
+Lao People's Democratic Republic,LA,LAO,418,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN05
+Lao People's Democratic Republic,LA,LAO,418,Rural,11,Dry latrines - Bucket latrine,0.0,Census - CEN05
+Lao People's Democratic Republic,LA,LAO,418,Rural,12,Dry latrines - Other,0.0,Census - CEN05
+Lao People's Democratic Republic,LA,LAO,418,Rural,13,Composting toilets,0.0,Census - CEN05
+Lao People's Democratic Republic,LA,LAO,418,Rural,14,Other improved,0.0,Census - CEN05
+Lao People's Democratic Republic,LA,LAO,418,Rural,15,"No facility, bush, field",0.621,Census - CEN05
+Lao People's Democratic Republic,LA,LAO,418,Rural,16,Other unimproved,0.098,Census - CEN05
+Lao People's Democratic Republic,LA,LAO,418,Rural,17,DK/missing information,0.015,Census - CEN05
+Lao People's Democratic Republic,LA,LAO,418,National,1,Flush and pour flush - to piped sewer system,0.0,Census - CEN05
+Lao People's Democratic Republic,LA,LAO,418,National,2,Flush and pour flush - to septic tank,0.0,Census - CEN05
+Lao People's Democratic Republic,LA,LAO,418,National,3,Flush and pour flush - to pit,0.0,Census - CEN05
+Lao People's Democratic Republic,LA,LAO,418,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN05
+Lao People's Democratic Republic,LA,LAO,418,National,5,Flush and pour flush - to elsewhere,0.0,Census - CEN05
+Lao People's Democratic Republic,LA,LAO,418,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN05
+Lao People's Democratic Republic,LA,LAO,418,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN05
+Lao People's Democratic Republic,LA,LAO,418,National,8,Dry latrines - Traditional latrine,0.0,Census - CEN05
+Lao People's Democratic Republic,LA,LAO,418,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN05
+Lao People's Democratic Republic,LA,LAO,418,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN05
+Lao People's Democratic Republic,LA,LAO,418,National,11,Dry latrines - Bucket latrine,0.0,Census - CEN05
+Lao People's Democratic Republic,LA,LAO,418,National,12,Dry latrines - Other,0.0,Census - CEN05
+Lao People's Democratic Republic,LA,LAO,418,National,13,Composting toilets,0.0,Census - CEN05
+Lao People's Democratic Republic,LA,LAO,418,National,14,Other improved,0.0,Census - CEN05
+Lao People's Democratic Republic,LA,LAO,418,National,15,"No facility, bush, field",0.0,Census - CEN05
+Lao People's Democratic Republic,LA,LAO,418,National,16,Other unimproved,0.0,Census - CEN05
+Lao People's Democratic Republic,LA,LAO,418,National,17,DK/missing information,0.0,Census - CEN05
+Lao People's Democratic Republic,LA,LAO,418,Urban,1,Flush and pour flush - to piped sewer system,0.0,Reproductive Health Survey 2005 - RHS05
+Lao People's Democratic Republic,LA,LAO,418,Urban,2,Flush and pour flush - to septic tank,0.0,Reproductive Health Survey 2005 - RHS05
+Lao People's Democratic Republic,LA,LAO,418,Urban,3,Flush and pour flush - to pit,0.0,Reproductive Health Survey 2005 - RHS05
+Lao People's Democratic Republic,LA,LAO,418,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Reproductive Health Survey 2005 - RHS05
+Lao People's Democratic Republic,LA,LAO,418,Urban,5,Flush and pour flush - to elsewhere,0.0,Reproductive Health Survey 2005 - RHS05
+Lao People's Democratic Republic,LA,LAO,418,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Reproductive Health Survey 2005 - RHS05
+Lao People's Democratic Republic,LA,LAO,418,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Reproductive Health Survey 2005 - RHS05
+Lao People's Democratic Republic,LA,LAO,418,Urban,8,Dry latrines - Traditional latrine,0.0,Reproductive Health Survey 2005 - RHS05
+Lao People's Democratic Republic,LA,LAO,418,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Reproductive Health Survey 2005 - RHS05
+Lao People's Democratic Republic,LA,LAO,418,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Reproductive Health Survey 2005 - RHS05
+Lao People's Democratic Republic,LA,LAO,418,Urban,11,Dry latrines - Bucket latrine,0.0,Reproductive Health Survey 2005 - RHS05
+Lao People's Democratic Republic,LA,LAO,418,Urban,12,Dry latrines - Other,0.0,Reproductive Health Survey 2005 - RHS05
+Lao People's Democratic Republic,LA,LAO,418,Urban,13,Composting toilets,0.0,Reproductive Health Survey 2005 - RHS05
+Lao People's Democratic Republic,LA,LAO,418,Urban,14,Other improved,0.0,Reproductive Health Survey 2005 - RHS05
+Lao People's Democratic Republic,LA,LAO,418,Urban,15,"No facility, bush, field",0.11,Reproductive Health Survey 2005 - RHS05
+Lao People's Democratic Republic,LA,LAO,418,Urban,16,Other unimproved,0.066,Reproductive Health Survey 2005 - RHS05
+Lao People's Democratic Republic,LA,LAO,418,Urban,17,DK/missing information,0.0,Reproductive Health Survey 2005 - RHS05
+Lao People's Democratic Republic,LA,LAO,418,Rural,1,Flush and pour flush - to piped sewer system,0.0,Reproductive Health Survey 2005 - RHS05
+Lao People's Democratic Republic,LA,LAO,418,Rural,2,Flush and pour flush - to septic tank,0.0,Reproductive Health Survey 2005 - RHS05
+Lao People's Democratic Republic,LA,LAO,418,Rural,3,Flush and pour flush - to pit,0.0,Reproductive Health Survey 2005 - RHS05
+Lao People's Democratic Republic,LA,LAO,418,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Reproductive Health Survey 2005 - RHS05
+Lao People's Democratic Republic,LA,LAO,418,Rural,5,Flush and pour flush - to elsewhere,0.0,Reproductive Health Survey 2005 - RHS05
+Lao People's Democratic Republic,LA,LAO,418,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Reproductive Health Survey 2005 - RHS05
+Lao People's Democratic Republic,LA,LAO,418,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Reproductive Health Survey 2005 - RHS05
+Lao People's Democratic Republic,LA,LAO,418,Rural,8,Dry latrines - Traditional latrine,0.0,Reproductive Health Survey 2005 - RHS05
+Lao People's Democratic Republic,LA,LAO,418,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Reproductive Health Survey 2005 - RHS05
+Lao People's Democratic Republic,LA,LAO,418,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Reproductive Health Survey 2005 - RHS05
+Lao People's Democratic Republic,LA,LAO,418,Rural,11,Dry latrines - Bucket latrine,0.0,Reproductive Health Survey 2005 - RHS05
+Lao People's Democratic Republic,LA,LAO,418,Rural,12,Dry latrines - Other,0.0,Reproductive Health Survey 2005 - RHS05
+Lao People's Democratic Republic,LA,LAO,418,Rural,13,Composting toilets,0.0,Reproductive Health Survey 2005 - RHS05
+Lao People's Democratic Republic,LA,LAO,418,Rural,14,Other improved,0.0,Reproductive Health Survey 2005 - RHS05
+Lao People's Democratic Republic,LA,LAO,418,Rural,15,"No facility, bush, field",0.567,Reproductive Health Survey 2005 - RHS05
+Lao People's Democratic Republic,LA,LAO,418,Rural,16,Other unimproved,0.108,Reproductive Health Survey 2005 - RHS05
+Lao People's Democratic Republic,LA,LAO,418,Rural,17,DK/missing information,0.0,Reproductive Health Survey 2005 - RHS05
+Lao People's Democratic Republic,LA,LAO,418,National,1,Flush and pour flush - to piped sewer system,0.0,Reproductive Health Survey 2005 - RHS05
+Lao People's Democratic Republic,LA,LAO,418,National,2,Flush and pour flush - to septic tank,0.0,Reproductive Health Survey 2005 - RHS05
+Lao People's Democratic Republic,LA,LAO,418,National,3,Flush and pour flush - to pit,0.0,Reproductive Health Survey 2005 - RHS05
+Lao People's Democratic Republic,LA,LAO,418,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Reproductive Health Survey 2005 - RHS05
+Lao People's Democratic Republic,LA,LAO,418,National,5,Flush and pour flush - to elsewhere,0.0,Reproductive Health Survey 2005 - RHS05
+Lao People's Democratic Republic,LA,LAO,418,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Reproductive Health Survey 2005 - RHS05
+Lao People's Democratic Republic,LA,LAO,418,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Reproductive Health Survey 2005 - RHS05
+Lao People's Democratic Republic,LA,LAO,418,National,8,Dry latrines - Traditional latrine,0.0,Reproductive Health Survey 2005 - RHS05
+Lao People's Democratic Republic,LA,LAO,418,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Reproductive Health Survey 2005 - RHS05
+Lao People's Democratic Republic,LA,LAO,418,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Reproductive Health Survey 2005 - RHS05
+Lao People's Democratic Republic,LA,LAO,418,National,11,Dry latrines - Bucket latrine,0.0,Reproductive Health Survey 2005 - RHS05
+Lao People's Democratic Republic,LA,LAO,418,National,12,Dry latrines - Other,0.0,Reproductive Health Survey 2005 - RHS05
+Lao People's Democratic Republic,LA,LAO,418,National,13,Composting toilets,0.0,Reproductive Health Survey 2005 - RHS05
+Lao People's Democratic Republic,LA,LAO,418,National,14,Other improved,0.0,Reproductive Health Survey 2005 - RHS05
+Lao People's Democratic Republic,LA,LAO,418,National,15,"No facility, bush, field",0.0,Reproductive Health Survey 2005 - RHS05
+Lao People's Democratic Republic,LA,LAO,418,National,16,Other unimproved,0.0,Reproductive Health Survey 2005 - RHS05
+Lao People's Democratic Republic,LA,LAO,418,National,17,DK/missing information,0.0,Reproductive Health Survey 2005 - RHS05
 Lao People's Democratic Republic,LA,LAO,418,Urban,1,Flush and pour flush - to piped sewer system,0.068,Multiple Indicator Cluster Survey - MICS06
 Lao People's Democratic Republic,LA,LAO,418,Urban,2,Flush and pour flush - to septic tank,0.384,Multiple Indicator Cluster Survey - MICS06
 Lao People's Democratic Republic,LA,LAO,418,Urban,3,Flush and pour flush - to pit,0.379,Multiple Indicator Cluster Survey - MICS06
@@ -79,6 +351,74 @@ Lao People's Democratic Republic,LA,LAO,418,Rural,14,Other improved,0.0,Multiple
 Lao People's Democratic Republic,LA,LAO,418,Rural,15,"No facility, bush, field",0.617,Multiple Indicator Cluster Survey - MICS06
 Lao People's Democratic Republic,LA,LAO,418,Rural,16,Other unimproved,0.0,Multiple Indicator Cluster Survey - MICS06
 Lao People's Democratic Republic,LA,LAO,418,Rural,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS06
+Lao People's Democratic Republic,LA,LAO,418,National,1,Flush and pour flush - to piped sewer system,0.0,Multiple Indicator Cluster Survey - MICS06
+Lao People's Democratic Republic,LA,LAO,418,National,2,Flush and pour flush - to septic tank,0.0,Multiple Indicator Cluster Survey - MICS06
+Lao People's Democratic Republic,LA,LAO,418,National,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS06
+Lao People's Democratic Republic,LA,LAO,418,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS06
+Lao People's Democratic Republic,LA,LAO,418,National,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS06
+Lao People's Democratic Republic,LA,LAO,418,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Multiple Indicator Cluster Survey - MICS06
+Lao People's Democratic Republic,LA,LAO,418,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Multiple Indicator Cluster Survey - MICS06
+Lao People's Democratic Republic,LA,LAO,418,National,8,Dry latrines - Traditional latrine,0.0,Multiple Indicator Cluster Survey - MICS06
+Lao People's Democratic Republic,LA,LAO,418,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Multiple Indicator Cluster Survey - MICS06
+Lao People's Democratic Republic,LA,LAO,418,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS06
+Lao People's Democratic Republic,LA,LAO,418,National,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS06
+Lao People's Democratic Republic,LA,LAO,418,National,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS06
+Lao People's Democratic Republic,LA,LAO,418,National,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS06
+Lao People's Democratic Republic,LA,LAO,418,National,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS06
+Lao People's Democratic Republic,LA,LAO,418,National,15,"No facility, bush, field",0.0,Multiple Indicator Cluster Survey - MICS06
+Lao People's Democratic Republic,LA,LAO,418,National,16,Other unimproved,0.0,Multiple Indicator Cluster Survey - MICS06
+Lao People's Democratic Republic,LA,LAO,418,National,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS06
+Lao People's Democratic Republic,LA,LAO,418,Urban,1,Flush and pour flush - to piped sewer system,0.0,Expenditure and Consumption Survey IV (LECS IV) - ECS08
+Lao People's Democratic Republic,LA,LAO,418,Urban,2,Flush and pour flush - to septic tank,0.0,Expenditure and Consumption Survey IV (LECS IV) - ECS08
+Lao People's Democratic Republic,LA,LAO,418,Urban,3,Flush and pour flush - to pit,0.0,Expenditure and Consumption Survey IV (LECS IV) - ECS08
+Lao People's Democratic Republic,LA,LAO,418,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Expenditure and Consumption Survey IV (LECS IV) - ECS08
+Lao People's Democratic Republic,LA,LAO,418,Urban,5,Flush and pour flush - to elsewhere,0.0,Expenditure and Consumption Survey IV (LECS IV) - ECS08
+Lao People's Democratic Republic,LA,LAO,418,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Expenditure and Consumption Survey IV (LECS IV) - ECS08
+Lao People's Democratic Republic,LA,LAO,418,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Expenditure and Consumption Survey IV (LECS IV) - ECS08
+Lao People's Democratic Republic,LA,LAO,418,Urban,8,Dry latrines - Traditional latrine,0.033,Expenditure and Consumption Survey IV (LECS IV) - ECS08
+Lao People's Democratic Republic,LA,LAO,418,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Expenditure and Consumption Survey IV (LECS IV) - ECS08
+Lao People's Democratic Republic,LA,LAO,418,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Expenditure and Consumption Survey IV (LECS IV) - ECS08
+Lao People's Democratic Republic,LA,LAO,418,Urban,11,Dry latrines - Bucket latrine,0.0,Expenditure and Consumption Survey IV (LECS IV) - ECS08
+Lao People's Democratic Republic,LA,LAO,418,Urban,12,Dry latrines - Other,0.0,Expenditure and Consumption Survey IV (LECS IV) - ECS08
+Lao People's Democratic Republic,LA,LAO,418,Urban,13,Composting toilets,0.0,Expenditure and Consumption Survey IV (LECS IV) - ECS08
+Lao People's Democratic Republic,LA,LAO,418,Urban,14,Other improved,0.0,Expenditure and Consumption Survey IV (LECS IV) - ECS08
+Lao People's Democratic Republic,LA,LAO,418,Urban,15,"No facility, bush, field",0.108,Expenditure and Consumption Survey IV (LECS IV) - ECS08
+Lao People's Democratic Republic,LA,LAO,418,Urban,16,Other unimproved,0.002,Expenditure and Consumption Survey IV (LECS IV) - ECS08
+Lao People's Democratic Republic,LA,LAO,418,Urban,17,DK/missing information,0.0,Expenditure and Consumption Survey IV (LECS IV) - ECS08
+Lao People's Democratic Republic,LA,LAO,418,Rural,1,Flush and pour flush - to piped sewer system,0.0,Expenditure and Consumption Survey IV (LECS IV) - ECS08
+Lao People's Democratic Republic,LA,LAO,418,Rural,2,Flush and pour flush - to septic tank,0.0,Expenditure and Consumption Survey IV (LECS IV) - ECS08
+Lao People's Democratic Republic,LA,LAO,418,Rural,3,Flush and pour flush - to pit,0.0,Expenditure and Consumption Survey IV (LECS IV) - ECS08
+Lao People's Democratic Republic,LA,LAO,418,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Expenditure and Consumption Survey IV (LECS IV) - ECS08
+Lao People's Democratic Republic,LA,LAO,418,Rural,5,Flush and pour flush - to elsewhere,0.0,Expenditure and Consumption Survey IV (LECS IV) - ECS08
+Lao People's Democratic Republic,LA,LAO,418,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Expenditure and Consumption Survey IV (LECS IV) - ECS08
+Lao People's Democratic Republic,LA,LAO,418,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Expenditure and Consumption Survey IV (LECS IV) - ECS08
+Lao People's Democratic Republic,LA,LAO,418,Rural,8,Dry latrines - Traditional latrine,0.072,Expenditure and Consumption Survey IV (LECS IV) - ECS08
+Lao People's Democratic Republic,LA,LAO,418,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Expenditure and Consumption Survey IV (LECS IV) - ECS08
+Lao People's Democratic Republic,LA,LAO,418,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Expenditure and Consumption Survey IV (LECS IV) - ECS08
+Lao People's Democratic Republic,LA,LAO,418,Rural,11,Dry latrines - Bucket latrine,0.0,Expenditure and Consumption Survey IV (LECS IV) - ECS08
+Lao People's Democratic Republic,LA,LAO,418,Rural,12,Dry latrines - Other,0.0,Expenditure and Consumption Survey IV (LECS IV) - ECS08
+Lao People's Democratic Republic,LA,LAO,418,Rural,13,Composting toilets,0.0,Expenditure and Consumption Survey IV (LECS IV) - ECS08
+Lao People's Democratic Republic,LA,LAO,418,Rural,14,Other improved,0.0,Expenditure and Consumption Survey IV (LECS IV) - ECS08
+Lao People's Democratic Republic,LA,LAO,418,Rural,15,"No facility, bush, field",0.448,Expenditure and Consumption Survey IV (LECS IV) - ECS08
+Lao People's Democratic Republic,LA,LAO,418,Rural,16,Other unimproved,0.01,Expenditure and Consumption Survey IV (LECS IV) - ECS08
+Lao People's Democratic Republic,LA,LAO,418,Rural,17,DK/missing information,0.0,Expenditure and Consumption Survey IV (LECS IV) - ECS08
+Lao People's Democratic Republic,LA,LAO,418,National,1,Flush and pour flush - to piped sewer system,0.0,Expenditure and Consumption Survey IV (LECS IV) - ECS08
+Lao People's Democratic Republic,LA,LAO,418,National,2,Flush and pour flush - to septic tank,0.0,Expenditure and Consumption Survey IV (LECS IV) - ECS08
+Lao People's Democratic Republic,LA,LAO,418,National,3,Flush and pour flush - to pit,0.0,Expenditure and Consumption Survey IV (LECS IV) - ECS08
+Lao People's Democratic Republic,LA,LAO,418,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Expenditure and Consumption Survey IV (LECS IV) - ECS08
+Lao People's Democratic Republic,LA,LAO,418,National,5,Flush and pour flush - to elsewhere,0.0,Expenditure and Consumption Survey IV (LECS IV) - ECS08
+Lao People's Democratic Republic,LA,LAO,418,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Expenditure and Consumption Survey IV (LECS IV) - ECS08
+Lao People's Democratic Republic,LA,LAO,418,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Expenditure and Consumption Survey IV (LECS IV) - ECS08
+Lao People's Democratic Republic,LA,LAO,418,National,8,Dry latrines - Traditional latrine,0.0,Expenditure and Consumption Survey IV (LECS IV) - ECS08
+Lao People's Democratic Republic,LA,LAO,418,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Expenditure and Consumption Survey IV (LECS IV) - ECS08
+Lao People's Democratic Republic,LA,LAO,418,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Expenditure and Consumption Survey IV (LECS IV) - ECS08
+Lao People's Democratic Republic,LA,LAO,418,National,11,Dry latrines - Bucket latrine,0.0,Expenditure and Consumption Survey IV (LECS IV) - ECS08
+Lao People's Democratic Republic,LA,LAO,418,National,12,Dry latrines - Other,0.0,Expenditure and Consumption Survey IV (LECS IV) - ECS08
+Lao People's Democratic Republic,LA,LAO,418,National,13,Composting toilets,0.0,Expenditure and Consumption Survey IV (LECS IV) - ECS08
+Lao People's Democratic Republic,LA,LAO,418,National,14,Other improved,0.0,Expenditure and Consumption Survey IV (LECS IV) - ECS08
+Lao People's Democratic Republic,LA,LAO,418,National,15,"No facility, bush, field",0.0,Expenditure and Consumption Survey IV (LECS IV) - ECS08
+Lao People's Democratic Republic,LA,LAO,418,National,16,Other unimproved,0.0,Expenditure and Consumption Survey IV (LECS IV) - ECS08
+Lao People's Democratic Republic,LA,LAO,418,National,17,DK/missing information,0.0,Expenditure and Consumption Survey IV (LECS IV) - ECS08
 Lao People's Democratic Republic,LA,LAO,418,Urban,1,Flush and pour flush - to piped sewer system,0.013,Multiple Indicator Cluster Survey (MICS) & PDRLao Social Indicator Survey (LSIS) 2011-2012 - MICS12
 Lao People's Democratic Republic,LA,LAO,418,Urban,2,Flush and pour flush - to septic tank,0.479,Multiple Indicator Cluster Survey (MICS) & PDRLao Social Indicator Survey (LSIS) 2011-2012 - MICS12
 Lao People's Democratic Republic,LA,LAO,418,Urban,3,Flush and pour flush - to pit,0.414,Multiple Indicator Cluster Survey (MICS) & PDRLao Social Indicator Survey (LSIS) 2011-2012 - MICS12
@@ -113,6 +453,74 @@ Lao People's Democratic Republic,LA,LAO,418,Rural,14,Other improved,0.0,Multiple
 Lao People's Democratic Republic,LA,LAO,418,Rural,15,"No facility, bush, field",0.482,Multiple Indicator Cluster Survey (MICS) & PDRLao Social Indicator Survey (LSIS) 2011-2012 - MICS12
 Lao People's Democratic Republic,LA,LAO,418,Rural,16,Other unimproved,0.005,Multiple Indicator Cluster Survey (MICS) & PDRLao Social Indicator Survey (LSIS) 2011-2012 - MICS12
 Lao People's Democratic Republic,LA,LAO,418,Rural,17,DK/missing information,0.0,Multiple Indicator Cluster Survey (MICS) & PDRLao Social Indicator Survey (LSIS) 2011-2012 - MICS12
+Lao People's Democratic Republic,LA,LAO,418,National,1,Flush and pour flush - to piped sewer system,0.004,Multiple Indicator Cluster Survey (MICS) & PDRLao Social Indicator Survey (LSIS) 2011-2012 - MICS12
+Lao People's Democratic Republic,LA,LAO,418,National,2,Flush and pour flush - to septic tank,0.226,Multiple Indicator Cluster Survey (MICS) & PDRLao Social Indicator Survey (LSIS) 2011-2012 - MICS12
+Lao People's Democratic Republic,LA,LAO,418,National,3,Flush and pour flush - to pit,0.353,Multiple Indicator Cluster Survey (MICS) & PDRLao Social Indicator Survey (LSIS) 2011-2012 - MICS12
+Lao People's Democratic Republic,LA,LAO,418,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey (MICS) & PDRLao Social Indicator Survey (LSIS) 2011-2012 - MICS12
+Lao People's Democratic Republic,LA,LAO,418,National,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey (MICS) & PDRLao Social Indicator Survey (LSIS) 2011-2012 - MICS12
+Lao People's Democratic Republic,LA,LAO,418,National,6,Dry latrines - Ventilated Improved Pit latrine,0.001,Multiple Indicator Cluster Survey (MICS) & PDRLao Social Indicator Survey (LSIS) 2011-2012 - MICS12
+Lao People's Democratic Republic,LA,LAO,418,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.006,Multiple Indicator Cluster Survey (MICS) & PDRLao Social Indicator Survey (LSIS) 2011-2012 - MICS12
+Lao People's Democratic Republic,LA,LAO,418,National,8,Dry latrines - Traditional latrine,0.0,Multiple Indicator Cluster Survey (MICS) & PDRLao Social Indicator Survey (LSIS) 2011-2012 - MICS12
+Lao People's Democratic Republic,LA,LAO,418,National,9,Dry latrines - Pit latrine without slab/open pit,0.023,Multiple Indicator Cluster Survey (MICS) & PDRLao Social Indicator Survey (LSIS) 2011-2012 - MICS12
+Lao People's Democratic Republic,LA,LAO,418,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey (MICS) & PDRLao Social Indicator Survey (LSIS) 2011-2012 - MICS12
+Lao People's Democratic Republic,LA,LAO,418,National,11,Dry latrines - Bucket latrine,0.001,Multiple Indicator Cluster Survey (MICS) & PDRLao Social Indicator Survey (LSIS) 2011-2012 - MICS12
+Lao People's Democratic Republic,LA,LAO,418,National,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey (MICS) & PDRLao Social Indicator Survey (LSIS) 2011-2012 - MICS12
+Lao People's Democratic Republic,LA,LAO,418,National,13,Composting toilets,0.002,Multiple Indicator Cluster Survey (MICS) & PDRLao Social Indicator Survey (LSIS) 2011-2012 - MICS12
+Lao People's Democratic Republic,LA,LAO,418,National,14,Other improved,0.0,Multiple Indicator Cluster Survey (MICS) & PDRLao Social Indicator Survey (LSIS) 2011-2012 - MICS12
+Lao People's Democratic Republic,LA,LAO,418,National,15,"No facility, bush, field",0.379,Multiple Indicator Cluster Survey (MICS) & PDRLao Social Indicator Survey (LSIS) 2011-2012 - MICS12
+Lao People's Democratic Republic,LA,LAO,418,National,16,Other unimproved,0.005,Multiple Indicator Cluster Survey (MICS) & PDRLao Social Indicator Survey (LSIS) 2011-2012 - MICS12
+Lao People's Democratic Republic,LA,LAO,418,National,17,DK/missing information,0.0,Multiple Indicator Cluster Survey (MICS) & PDRLao Social Indicator Survey (LSIS) 2011-2012 - MICS12
+Lao People's Democratic Republic,LA,LAO,418,Urban,1,Flush and pour flush - to piped sewer system,0.0,Population and Housing Census - CEN15
+Lao People's Democratic Republic,LA,LAO,418,Urban,2,Flush and pour flush - to septic tank,0.0,Population and Housing Census - CEN15
+Lao People's Democratic Republic,LA,LAO,418,Urban,3,Flush and pour flush - to pit,0.0,Population and Housing Census - CEN15
+Lao People's Democratic Republic,LA,LAO,418,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Population and Housing Census - CEN15
+Lao People's Democratic Republic,LA,LAO,418,Urban,5,Flush and pour flush - to elsewhere,0.0,Population and Housing Census - CEN15
+Lao People's Democratic Republic,LA,LAO,418,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.021,Population and Housing Census - CEN15
+Lao People's Democratic Republic,LA,LAO,418,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Population and Housing Census - CEN15
+Lao People's Democratic Republic,LA,LAO,418,Urban,8,Dry latrines - Traditional latrine,0.007,Population and Housing Census - CEN15
+Lao People's Democratic Republic,LA,LAO,418,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Population and Housing Census - CEN15
+Lao People's Democratic Republic,LA,LAO,418,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Population and Housing Census - CEN15
+Lao People's Democratic Republic,LA,LAO,418,Urban,11,Dry latrines - Bucket latrine,0.002,Population and Housing Census - CEN15
+Lao People's Democratic Republic,LA,LAO,418,Urban,12,Dry latrines - Other,0.0,Population and Housing Census - CEN15
+Lao People's Democratic Republic,LA,LAO,418,Urban,13,Composting toilets,0.002,Population and Housing Census - CEN15
+Lao People's Democratic Republic,LA,LAO,418,Urban,14,Other improved,0.0,Population and Housing Census - CEN15
+Lao People's Democratic Republic,LA,LAO,418,Urban,15,"No facility, bush, field",0.044,Population and Housing Census - CEN15
+Lao People's Democratic Republic,LA,LAO,418,Urban,16,Other unimproved,0.0,Population and Housing Census - CEN15
+Lao People's Democratic Republic,LA,LAO,418,Urban,17,DK/missing information,0.009,Population and Housing Census - CEN15
+Lao People's Democratic Republic,LA,LAO,418,Rural,1,Flush and pour flush - to piped sewer system,0.0,Population and Housing Census - CEN15
+Lao People's Democratic Republic,LA,LAO,418,Rural,2,Flush and pour flush - to septic tank,0.0,Population and Housing Census - CEN15
+Lao People's Democratic Republic,LA,LAO,418,Rural,3,Flush and pour flush - to pit,0.0,Population and Housing Census - CEN15
+Lao People's Democratic Republic,LA,LAO,418,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Population and Housing Census - CEN15
+Lao People's Democratic Republic,LA,LAO,418,Rural,5,Flush and pour flush - to elsewhere,0.0,Population and Housing Census - CEN15
+Lao People's Democratic Republic,LA,LAO,418,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.016,Population and Housing Census - CEN15
+Lao People's Democratic Republic,LA,LAO,418,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Population and Housing Census - CEN15
+Lao People's Democratic Republic,LA,LAO,418,Rural,8,Dry latrines - Traditional latrine,0.019,Population and Housing Census - CEN15
+Lao People's Democratic Republic,LA,LAO,418,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Population and Housing Census - CEN15
+Lao People's Democratic Republic,LA,LAO,418,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.001,Population and Housing Census - CEN15
+Lao People's Democratic Republic,LA,LAO,418,Rural,11,Dry latrines - Bucket latrine,0.001,Population and Housing Census - CEN15
+Lao People's Democratic Republic,LA,LAO,418,Rural,12,Dry latrines - Other,0.0,Population and Housing Census - CEN15
+Lao People's Democratic Republic,LA,LAO,418,Rural,13,Composting toilets,0.002,Population and Housing Census - CEN15
+Lao People's Democratic Republic,LA,LAO,418,Rural,14,Other improved,0.0,Population and Housing Census - CEN15
+Lao People's Democratic Republic,LA,LAO,418,Rural,15,"No facility, bush, field",0.347,Population and Housing Census - CEN15
+Lao People's Democratic Republic,LA,LAO,418,Rural,16,Other unimproved,0.0,Population and Housing Census - CEN15
+Lao People's Democratic Republic,LA,LAO,418,Rural,17,DK/missing information,0.008,Population and Housing Census - CEN15
+Lao People's Democratic Republic,LA,LAO,418,National,1,Flush and pour flush - to piped sewer system,0.0,Population and Housing Census - CEN15
+Lao People's Democratic Republic,LA,LAO,418,National,2,Flush and pour flush - to septic tank,0.0,Population and Housing Census - CEN15
+Lao People's Democratic Republic,LA,LAO,418,National,3,Flush and pour flush - to pit,0.0,Population and Housing Census - CEN15
+Lao People's Democratic Republic,LA,LAO,418,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Population and Housing Census - CEN15
+Lao People's Democratic Republic,LA,LAO,418,National,5,Flush and pour flush - to elsewhere,0.0,Population and Housing Census - CEN15
+Lao People's Democratic Republic,LA,LAO,418,National,6,Dry latrines - Ventilated Improved Pit latrine,0.018,Population and Housing Census - CEN15
+Lao People's Democratic Republic,LA,LAO,418,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Population and Housing Census - CEN15
+Lao People's Democratic Republic,LA,LAO,418,National,8,Dry latrines - Traditional latrine,0.015,Population and Housing Census - CEN15
+Lao People's Democratic Republic,LA,LAO,418,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Population and Housing Census - CEN15
+Lao People's Democratic Republic,LA,LAO,418,National,10,Dry latrines - Hanging toilet/hanging latrine,0.001,Population and Housing Census - CEN15
+Lao People's Democratic Republic,LA,LAO,418,National,11,Dry latrines - Bucket latrine,0.002,Population and Housing Census - CEN15
+Lao People's Democratic Republic,LA,LAO,418,National,12,Dry latrines - Other,0.0,Population and Housing Census - CEN15
+Lao People's Democratic Republic,LA,LAO,418,National,13,Composting toilets,0.002,Population and Housing Census - CEN15
+Lao People's Democratic Republic,LA,LAO,418,National,14,Other improved,0.0,Population and Housing Census - CEN15
+Lao People's Democratic Republic,LA,LAO,418,National,15,"No facility, bush, field",0.243,Population and Housing Census - CEN15
+Lao People's Democratic Republic,LA,LAO,418,National,16,Other unimproved,0.0,Population and Housing Census - CEN15
+Lao People's Democratic Republic,LA,LAO,418,National,17,DK/missing information,0.009,Population and Housing Census - CEN15
 Lao People's Democratic Republic,LA,LAO,418,Urban,1,Flush and pour flush - to piped sewer system,0.013,Lao Social Indicator Survey 2017 - LSIS17
 Lao People's Democratic Republic,LA,LAO,418,Urban,2,Flush and pour flush - to septic tank,0.223,Lao Social Indicator Survey 2017 - LSIS17
 Lao People's Democratic Republic,LA,LAO,418,Urban,3,Flush and pour flush - to pit,0.698,Lao Social Indicator Survey 2017 - LSIS17
@@ -147,3 +555,20 @@ Lao People's Democratic Republic,LA,LAO,418,Rural,14,Other improved,0.0,Lao Soci
 Lao People's Democratic Republic,LA,LAO,418,Rural,15,"No facility, bush, field",0.326,Lao Social Indicator Survey 2017 - LSIS17
 Lao People's Democratic Republic,LA,LAO,418,Rural,16,Other unimproved,0.006,Lao Social Indicator Survey 2017 - LSIS17
 Lao People's Democratic Republic,LA,LAO,418,Rural,17,DK/missing information,0.0,Lao Social Indicator Survey 2017 - LSIS17
+Lao People's Democratic Republic,LA,LAO,418,National,1,Flush and pour flush - to piped sewer system,0.01,Lao Social Indicator Survey 2017 - LSIS17
+Lao People's Democratic Republic,LA,LAO,418,National,2,Flush and pour flush - to septic tank,0.107,Lao Social Indicator Survey 2017 - LSIS17
+Lao People's Democratic Republic,LA,LAO,418,National,3,Flush and pour flush - to pit,0.61,Lao Social Indicator Survey 2017 - LSIS17
+Lao People's Democratic Republic,LA,LAO,418,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.008,Lao Social Indicator Survey 2017 - LSIS17
+Lao People's Democratic Republic,LA,LAO,418,National,5,Flush and pour flush - to elsewhere,0.014,Lao Social Indicator Survey 2017 - LSIS17
+Lao People's Democratic Republic,LA,LAO,418,National,6,Dry latrines - Ventilated Improved Pit latrine,0.001,Lao Social Indicator Survey 2017 - LSIS17
+Lao People's Democratic Republic,LA,LAO,418,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.003,Lao Social Indicator Survey 2017 - LSIS17
+Lao People's Democratic Republic,LA,LAO,418,National,8,Dry latrines - Traditional latrine,0.0,Lao Social Indicator Survey 2017 - LSIS17
+Lao People's Democratic Republic,LA,LAO,418,National,9,Dry latrines - Pit latrine without slab/open pit,0.003,Lao Social Indicator Survey 2017 - LSIS17
+Lao People's Democratic Republic,LA,LAO,418,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Lao Social Indicator Survey 2017 - LSIS17
+Lao People's Democratic Republic,LA,LAO,418,National,11,Dry latrines - Bucket latrine,0.0,Lao Social Indicator Survey 2017 - LSIS17
+Lao People's Democratic Republic,LA,LAO,418,National,12,Dry latrines - Other,0.0,Lao Social Indicator Survey 2017 - LSIS17
+Lao People's Democratic Republic,LA,LAO,418,National,13,Composting toilets,0.0,Lao Social Indicator Survey 2017 - LSIS17
+Lao People's Democratic Republic,LA,LAO,418,National,14,Other improved,0.0,Lao Social Indicator Survey 2017 - LSIS17
+Lao People's Democratic Republic,LA,LAO,418,National,15,"No facility, bush, field",0.239,Lao Social Indicator Survey 2017 - LSIS17
+Lao People's Democratic Republic,LA,LAO,418,National,16,Other unimproved,0.005,Lao Social Indicator Survey 2017 - LSIS17
+Lao People's Democratic Republic,LA,LAO,418,National,17,DK/missing information,0.0,Lao Social Indicator Survey 2017 - LSIS17

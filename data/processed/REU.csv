@@ -1,0 +1,511 @@
+country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+Réunion,RE,REU,638,Urban,1,Flush and pour flush - to piped sewer system,0.0,CENSUS 2007 - CEN07
+Réunion,RE,REU,638,Urban,2,Flush and pour flush - to septic tank,0.0,CENSUS 2007 - CEN07
+Réunion,RE,REU,638,Urban,3,Flush and pour flush - to pit,0.0,CENSUS 2007 - CEN07
+Réunion,RE,REU,638,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,CENSUS 2007 - CEN07
+Réunion,RE,REU,638,Urban,5,Flush and pour flush - to elsewhere,0.0,CENSUS 2007 - CEN07
+Réunion,RE,REU,638,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,CENSUS 2007 - CEN07
+Réunion,RE,REU,638,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,CENSUS 2007 - CEN07
+Réunion,RE,REU,638,Urban,8,Dry latrines - Traditional latrine,0.0,CENSUS 2007 - CEN07
+Réunion,RE,REU,638,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,CENSUS 2007 - CEN07
+Réunion,RE,REU,638,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,CENSUS 2007 - CEN07
+Réunion,RE,REU,638,Urban,11,Dry latrines - Bucket latrine,0.0,CENSUS 2007 - CEN07
+Réunion,RE,REU,638,Urban,12,Dry latrines - Other,0.0,CENSUS 2007 - CEN07
+Réunion,RE,REU,638,Urban,13,Composting toilets,0.0,CENSUS 2007 - CEN07
+Réunion,RE,REU,638,Urban,14,Other improved,0.0,CENSUS 2007 - CEN07
+Réunion,RE,REU,638,Urban,15,"No facility, bush, field",0.0,CENSUS 2007 - CEN07
+Réunion,RE,REU,638,Urban,16,Other unimproved,0.0,CENSUS 2007 - CEN07
+Réunion,RE,REU,638,Urban,17,DK/missing information,0.0,CENSUS 2007 - CEN07
+Réunion,RE,REU,638,Rural,1,Flush and pour flush - to piped sewer system,0.0,CENSUS 2007 - CEN07
+Réunion,RE,REU,638,Rural,2,Flush and pour flush - to septic tank,0.0,CENSUS 2007 - CEN07
+Réunion,RE,REU,638,Rural,3,Flush and pour flush - to pit,0.0,CENSUS 2007 - CEN07
+Réunion,RE,REU,638,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,CENSUS 2007 - CEN07
+Réunion,RE,REU,638,Rural,5,Flush and pour flush - to elsewhere,0.0,CENSUS 2007 - CEN07
+Réunion,RE,REU,638,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,CENSUS 2007 - CEN07
+Réunion,RE,REU,638,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,CENSUS 2007 - CEN07
+Réunion,RE,REU,638,Rural,8,Dry latrines - Traditional latrine,0.0,CENSUS 2007 - CEN07
+Réunion,RE,REU,638,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,CENSUS 2007 - CEN07
+Réunion,RE,REU,638,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,CENSUS 2007 - CEN07
+Réunion,RE,REU,638,Rural,11,Dry latrines - Bucket latrine,0.0,CENSUS 2007 - CEN07
+Réunion,RE,REU,638,Rural,12,Dry latrines - Other,0.0,CENSUS 2007 - CEN07
+Réunion,RE,REU,638,Rural,13,Composting toilets,0.0,CENSUS 2007 - CEN07
+Réunion,RE,REU,638,Rural,14,Other improved,0.0,CENSUS 2007 - CEN07
+Réunion,RE,REU,638,Rural,15,"No facility, bush, field",0.0,CENSUS 2007 - CEN07
+Réunion,RE,REU,638,Rural,16,Other unimproved,0.0,CENSUS 2007 - CEN07
+Réunion,RE,REU,638,Rural,17,DK/missing information,0.0,CENSUS 2007 - CEN07
+Réunion,RE,REU,638,National,1,Flush and pour flush - to piped sewer system,0.423,CENSUS 2007 - CEN07
+Réunion,RE,REU,638,National,2,Flush and pour flush - to septic tank,0.522,CENSUS 2007 - CEN07
+Réunion,RE,REU,638,National,3,Flush and pour flush - to pit,0.038,CENSUS 2007 - CEN07
+Réunion,RE,REU,638,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,CENSUS 2007 - CEN07
+Réunion,RE,REU,638,National,5,Flush and pour flush - to elsewhere,0.0,CENSUS 2007 - CEN07
+Réunion,RE,REU,638,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,CENSUS 2007 - CEN07
+Réunion,RE,REU,638,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,CENSUS 2007 - CEN07
+Réunion,RE,REU,638,National,8,Dry latrines - Traditional latrine,0.018,CENSUS 2007 - CEN07
+Réunion,RE,REU,638,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,CENSUS 2007 - CEN07
+Réunion,RE,REU,638,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,CENSUS 2007 - CEN07
+Réunion,RE,REU,638,National,11,Dry latrines - Bucket latrine,0.0,CENSUS 2007 - CEN07
+Réunion,RE,REU,638,National,12,Dry latrines - Other,0.0,CENSUS 2007 - CEN07
+Réunion,RE,REU,638,National,13,Composting toilets,0.0,CENSUS 2007 - CEN07
+Réunion,RE,REU,638,National,14,Other improved,0.0,CENSUS 2007 - CEN07
+Réunion,RE,REU,638,National,15,"No facility, bush, field",0.0,CENSUS 2007 - CEN07
+Réunion,RE,REU,638,National,16,Other unimproved,0.0,CENSUS 2007 - CEN07
+Réunion,RE,REU,638,National,17,DK/missing information,0.0,CENSUS 2007 - CEN07
+Réunion,RE,REU,638,Urban,1,Flush and pour flush - to piped sewer system,0.404,Census - CEN08
+Réunion,RE,REU,638,Urban,2,Flush and pour flush - to septic tank,0.525,Census - CEN08
+Réunion,RE,REU,638,Urban,3,Flush and pour flush - to pit,0.045,Census - CEN08
+Réunion,RE,REU,638,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN08
+Réunion,RE,REU,638,Urban,5,Flush and pour flush - to elsewhere,0.0,Census - CEN08
+Réunion,RE,REU,638,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN08
+Réunion,RE,REU,638,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN08
+Réunion,RE,REU,638,Urban,8,Dry latrines - Traditional latrine,0.02,Census - CEN08
+Réunion,RE,REU,638,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN08
+Réunion,RE,REU,638,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN08
+Réunion,RE,REU,638,Urban,11,Dry latrines - Bucket latrine,0.0,Census - CEN08
+Réunion,RE,REU,638,Urban,12,Dry latrines - Other,0.0,Census - CEN08
+Réunion,RE,REU,638,Urban,13,Composting toilets,0.0,Census - CEN08
+Réunion,RE,REU,638,Urban,14,Other improved,0.0,Census - CEN08
+Réunion,RE,REU,638,Urban,15,"No facility, bush, field",0.0,Census - CEN08
+Réunion,RE,REU,638,Urban,16,Other unimproved,0.0,Census - CEN08
+Réunion,RE,REU,638,Urban,17,DK/missing information,0.006,Census - CEN08
+Réunion,RE,REU,638,Rural,1,Flush and pour flush - to piped sewer system,0.016,Census - CEN08
+Réunion,RE,REU,638,Rural,2,Flush and pour flush - to septic tank,0.821,Census - CEN08
+Réunion,RE,REU,638,Rural,3,Flush and pour flush - to pit,0.079,Census - CEN08
+Réunion,RE,REU,638,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN08
+Réunion,RE,REU,638,Rural,5,Flush and pour flush - to elsewhere,0.0,Census - CEN08
+Réunion,RE,REU,638,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN08
+Réunion,RE,REU,638,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN08
+Réunion,RE,REU,638,Rural,8,Dry latrines - Traditional latrine,0.073,Census - CEN08
+Réunion,RE,REU,638,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN08
+Réunion,RE,REU,638,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN08
+Réunion,RE,REU,638,Rural,11,Dry latrines - Bucket latrine,0.0,Census - CEN08
+Réunion,RE,REU,638,Rural,12,Dry latrines - Other,0.0,Census - CEN08
+Réunion,RE,REU,638,Rural,13,Composting toilets,0.0,Census - CEN08
+Réunion,RE,REU,638,Rural,14,Other improved,0.0,Census - CEN08
+Réunion,RE,REU,638,Rural,15,"No facility, bush, field",0.0,Census - CEN08
+Réunion,RE,REU,638,Rural,16,Other unimproved,0.0,Census - CEN08
+Réunion,RE,REU,638,Rural,17,DK/missing information,0.009,Census - CEN08
+Réunion,RE,REU,638,National,1,Flush and pour flush - to piped sewer system,0.4,Census - CEN08
+Réunion,RE,REU,638,National,2,Flush and pour flush - to septic tank,0.528,Census - CEN08
+Réunion,RE,REU,638,National,3,Flush and pour flush - to pit,0.046,Census - CEN08
+Réunion,RE,REU,638,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN08
+Réunion,RE,REU,638,National,5,Flush and pour flush - to elsewhere,0.0,Census - CEN08
+Réunion,RE,REU,638,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN08
+Réunion,RE,REU,638,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN08
+Réunion,RE,REU,638,National,8,Dry latrines - Traditional latrine,0.021,Census - CEN08
+Réunion,RE,REU,638,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN08
+Réunion,RE,REU,638,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN08
+Réunion,RE,REU,638,National,11,Dry latrines - Bucket latrine,0.0,Census - CEN08
+Réunion,RE,REU,638,National,12,Dry latrines - Other,0.0,Census - CEN08
+Réunion,RE,REU,638,National,13,Composting toilets,0.0,Census - CEN08
+Réunion,RE,REU,638,National,14,Other improved,0.0,Census - CEN08
+Réunion,RE,REU,638,National,15,"No facility, bush, field",0.0,Census - CEN08
+Réunion,RE,REU,638,National,16,Other unimproved,0.0,Census - CEN08
+Réunion,RE,REU,638,National,17,DK/missing information,0.006,Census - CEN08
+Réunion,RE,REU,638,Urban,1,Flush and pour flush - to piped sewer system,0.0,CENSUS 2009 - CEN09
+Réunion,RE,REU,638,Urban,2,Flush and pour flush - to septic tank,0.0,CENSUS 2009 - CEN09
+Réunion,RE,REU,638,Urban,3,Flush and pour flush - to pit,0.0,CENSUS 2009 - CEN09
+Réunion,RE,REU,638,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,CENSUS 2009 - CEN09
+Réunion,RE,REU,638,Urban,5,Flush and pour flush - to elsewhere,0.0,CENSUS 2009 - CEN09
+Réunion,RE,REU,638,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,CENSUS 2009 - CEN09
+Réunion,RE,REU,638,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,CENSUS 2009 - CEN09
+Réunion,RE,REU,638,Urban,8,Dry latrines - Traditional latrine,0.0,CENSUS 2009 - CEN09
+Réunion,RE,REU,638,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,CENSUS 2009 - CEN09
+Réunion,RE,REU,638,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,CENSUS 2009 - CEN09
+Réunion,RE,REU,638,Urban,11,Dry latrines - Bucket latrine,0.0,CENSUS 2009 - CEN09
+Réunion,RE,REU,638,Urban,12,Dry latrines - Other,0.0,CENSUS 2009 - CEN09
+Réunion,RE,REU,638,Urban,13,Composting toilets,0.0,CENSUS 2009 - CEN09
+Réunion,RE,REU,638,Urban,14,Other improved,0.0,CENSUS 2009 - CEN09
+Réunion,RE,REU,638,Urban,15,"No facility, bush, field",0.0,CENSUS 2009 - CEN09
+Réunion,RE,REU,638,Urban,16,Other unimproved,0.0,CENSUS 2009 - CEN09
+Réunion,RE,REU,638,Urban,17,DK/missing information,0.0,CENSUS 2009 - CEN09
+Réunion,RE,REU,638,Rural,1,Flush and pour flush - to piped sewer system,0.0,CENSUS 2009 - CEN09
+Réunion,RE,REU,638,Rural,2,Flush and pour flush - to septic tank,0.0,CENSUS 2009 - CEN09
+Réunion,RE,REU,638,Rural,3,Flush and pour flush - to pit,0.0,CENSUS 2009 - CEN09
+Réunion,RE,REU,638,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,CENSUS 2009 - CEN09
+Réunion,RE,REU,638,Rural,5,Flush and pour flush - to elsewhere,0.0,CENSUS 2009 - CEN09
+Réunion,RE,REU,638,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,CENSUS 2009 - CEN09
+Réunion,RE,REU,638,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,CENSUS 2009 - CEN09
+Réunion,RE,REU,638,Rural,8,Dry latrines - Traditional latrine,0.0,CENSUS 2009 - CEN09
+Réunion,RE,REU,638,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,CENSUS 2009 - CEN09
+Réunion,RE,REU,638,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,CENSUS 2009 - CEN09
+Réunion,RE,REU,638,Rural,11,Dry latrines - Bucket latrine,0.0,CENSUS 2009 - CEN09
+Réunion,RE,REU,638,Rural,12,Dry latrines - Other,0.0,CENSUS 2009 - CEN09
+Réunion,RE,REU,638,Rural,13,Composting toilets,0.0,CENSUS 2009 - CEN09
+Réunion,RE,REU,638,Rural,14,Other improved,0.0,CENSUS 2009 - CEN09
+Réunion,RE,REU,638,Rural,15,"No facility, bush, field",0.0,CENSUS 2009 - CEN09
+Réunion,RE,REU,638,Rural,16,Other unimproved,0.0,CENSUS 2009 - CEN09
+Réunion,RE,REU,638,Rural,17,DK/missing information,0.0,CENSUS 2009 - CEN09
+Réunion,RE,REU,638,National,1,Flush and pour flush - to piped sewer system,0.439,CENSUS 2009 - CEN09
+Réunion,RE,REU,638,National,2,Flush and pour flush - to septic tank,0.517,CENSUS 2009 - CEN09
+Réunion,RE,REU,638,National,3,Flush and pour flush - to pit,0.031,CENSUS 2009 - CEN09
+Réunion,RE,REU,638,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,CENSUS 2009 - CEN09
+Réunion,RE,REU,638,National,5,Flush and pour flush - to elsewhere,0.0,CENSUS 2009 - CEN09
+Réunion,RE,REU,638,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,CENSUS 2009 - CEN09
+Réunion,RE,REU,638,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,CENSUS 2009 - CEN09
+Réunion,RE,REU,638,National,8,Dry latrines - Traditional latrine,0.013,CENSUS 2009 - CEN09
+Réunion,RE,REU,638,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,CENSUS 2009 - CEN09
+Réunion,RE,REU,638,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,CENSUS 2009 - CEN09
+Réunion,RE,REU,638,National,11,Dry latrines - Bucket latrine,0.0,CENSUS 2009 - CEN09
+Réunion,RE,REU,638,National,12,Dry latrines - Other,0.0,CENSUS 2009 - CEN09
+Réunion,RE,REU,638,National,13,Composting toilets,0.0,CENSUS 2009 - CEN09
+Réunion,RE,REU,638,National,14,Other improved,0.0,CENSUS 2009 - CEN09
+Réunion,RE,REU,638,National,15,"No facility, bush, field",0.0,CENSUS 2009 - CEN09
+Réunion,RE,REU,638,National,16,Other unimproved,0.0,CENSUS 2009 - CEN09
+Réunion,RE,REU,638,National,17,DK/missing information,0.0,CENSUS 2009 - CEN09
+Réunion,RE,REU,638,Urban,1,Flush and pour flush - to piped sewer system,0.0,CENSUS 2009 - CEN10
+Réunion,RE,REU,638,Urban,2,Flush and pour flush - to septic tank,0.0,CENSUS 2009 - CEN10
+Réunion,RE,REU,638,Urban,3,Flush and pour flush - to pit,0.0,CENSUS 2009 - CEN10
+Réunion,RE,REU,638,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,CENSUS 2009 - CEN10
+Réunion,RE,REU,638,Urban,5,Flush and pour flush - to elsewhere,0.0,CENSUS 2009 - CEN10
+Réunion,RE,REU,638,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,CENSUS 2009 - CEN10
+Réunion,RE,REU,638,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,CENSUS 2009 - CEN10
+Réunion,RE,REU,638,Urban,8,Dry latrines - Traditional latrine,0.0,CENSUS 2009 - CEN10
+Réunion,RE,REU,638,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,CENSUS 2009 - CEN10
+Réunion,RE,REU,638,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,CENSUS 2009 - CEN10
+Réunion,RE,REU,638,Urban,11,Dry latrines - Bucket latrine,0.0,CENSUS 2009 - CEN10
+Réunion,RE,REU,638,Urban,12,Dry latrines - Other,0.0,CENSUS 2009 - CEN10
+Réunion,RE,REU,638,Urban,13,Composting toilets,0.0,CENSUS 2009 - CEN10
+Réunion,RE,REU,638,Urban,14,Other improved,0.0,CENSUS 2009 - CEN10
+Réunion,RE,REU,638,Urban,15,"No facility, bush, field",0.0,CENSUS 2009 - CEN10
+Réunion,RE,REU,638,Urban,16,Other unimproved,0.0,CENSUS 2009 - CEN10
+Réunion,RE,REU,638,Urban,17,DK/missing information,0.0,CENSUS 2009 - CEN10
+Réunion,RE,REU,638,Rural,1,Flush and pour flush - to piped sewer system,0.0,CENSUS 2009 - CEN10
+Réunion,RE,REU,638,Rural,2,Flush and pour flush - to septic tank,0.0,CENSUS 2009 - CEN10
+Réunion,RE,REU,638,Rural,3,Flush and pour flush - to pit,0.0,CENSUS 2009 - CEN10
+Réunion,RE,REU,638,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,CENSUS 2009 - CEN10
+Réunion,RE,REU,638,Rural,5,Flush and pour flush - to elsewhere,0.0,CENSUS 2009 - CEN10
+Réunion,RE,REU,638,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,CENSUS 2009 - CEN10
+Réunion,RE,REU,638,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,CENSUS 2009 - CEN10
+Réunion,RE,REU,638,Rural,8,Dry latrines - Traditional latrine,0.0,CENSUS 2009 - CEN10
+Réunion,RE,REU,638,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,CENSUS 2009 - CEN10
+Réunion,RE,REU,638,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,CENSUS 2009 - CEN10
+Réunion,RE,REU,638,Rural,11,Dry latrines - Bucket latrine,0.0,CENSUS 2009 - CEN10
+Réunion,RE,REU,638,Rural,12,Dry latrines - Other,0.0,CENSUS 2009 - CEN10
+Réunion,RE,REU,638,Rural,13,Composting toilets,0.0,CENSUS 2009 - CEN10
+Réunion,RE,REU,638,Rural,14,Other improved,0.0,CENSUS 2009 - CEN10
+Réunion,RE,REU,638,Rural,15,"No facility, bush, field",0.0,CENSUS 2009 - CEN10
+Réunion,RE,REU,638,Rural,16,Other unimproved,0.0,CENSUS 2009 - CEN10
+Réunion,RE,REU,638,Rural,17,DK/missing information,0.0,CENSUS 2009 - CEN10
+Réunion,RE,REU,638,National,1,Flush and pour flush - to piped sewer system,0.445,CENSUS 2009 - CEN10
+Réunion,RE,REU,638,National,2,Flush and pour flush - to septic tank,0.514,CENSUS 2009 - CEN10
+Réunion,RE,REU,638,National,3,Flush and pour flush - to pit,0.03,CENSUS 2009 - CEN10
+Réunion,RE,REU,638,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,CENSUS 2009 - CEN10
+Réunion,RE,REU,638,National,5,Flush and pour flush - to elsewhere,0.0,CENSUS 2009 - CEN10
+Réunion,RE,REU,638,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,CENSUS 2009 - CEN10
+Réunion,RE,REU,638,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,CENSUS 2009 - CEN10
+Réunion,RE,REU,638,National,8,Dry latrines - Traditional latrine,0.012,CENSUS 2009 - CEN10
+Réunion,RE,REU,638,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,CENSUS 2009 - CEN10
+Réunion,RE,REU,638,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,CENSUS 2009 - CEN10
+Réunion,RE,REU,638,National,11,Dry latrines - Bucket latrine,0.0,CENSUS 2009 - CEN10
+Réunion,RE,REU,638,National,12,Dry latrines - Other,0.0,CENSUS 2009 - CEN10
+Réunion,RE,REU,638,National,13,Composting toilets,0.0,CENSUS 2009 - CEN10
+Réunion,RE,REU,638,National,14,Other improved,0.0,CENSUS 2009 - CEN10
+Réunion,RE,REU,638,National,15,"No facility, bush, field",0.0,CENSUS 2009 - CEN10
+Réunion,RE,REU,638,National,16,Other unimproved,0.0,CENSUS 2009 - CEN10
+Réunion,RE,REU,638,National,17,DK/missing information,0.0,CENSUS 2009 - CEN10
+Réunion,RE,REU,638,Urban,1,Flush and pour flush - to piped sewer system,0.0,CENSUS 2011 - CEN11
+Réunion,RE,REU,638,Urban,2,Flush and pour flush - to septic tank,0.0,CENSUS 2011 - CEN11
+Réunion,RE,REU,638,Urban,3,Flush and pour flush - to pit,0.0,CENSUS 2011 - CEN11
+Réunion,RE,REU,638,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,CENSUS 2011 - CEN11
+Réunion,RE,REU,638,Urban,5,Flush and pour flush - to elsewhere,0.0,CENSUS 2011 - CEN11
+Réunion,RE,REU,638,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,CENSUS 2011 - CEN11
+Réunion,RE,REU,638,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,CENSUS 2011 - CEN11
+Réunion,RE,REU,638,Urban,8,Dry latrines - Traditional latrine,0.0,CENSUS 2011 - CEN11
+Réunion,RE,REU,638,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,CENSUS 2011 - CEN11
+Réunion,RE,REU,638,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,CENSUS 2011 - CEN11
+Réunion,RE,REU,638,Urban,11,Dry latrines - Bucket latrine,0.0,CENSUS 2011 - CEN11
+Réunion,RE,REU,638,Urban,12,Dry latrines - Other,0.0,CENSUS 2011 - CEN11
+Réunion,RE,REU,638,Urban,13,Composting toilets,0.0,CENSUS 2011 - CEN11
+Réunion,RE,REU,638,Urban,14,Other improved,0.0,CENSUS 2011 - CEN11
+Réunion,RE,REU,638,Urban,15,"No facility, bush, field",0.0,CENSUS 2011 - CEN11
+Réunion,RE,REU,638,Urban,16,Other unimproved,0.0,CENSUS 2011 - CEN11
+Réunion,RE,REU,638,Urban,17,DK/missing information,0.0,CENSUS 2011 - CEN11
+Réunion,RE,REU,638,Rural,1,Flush and pour flush - to piped sewer system,0.0,CENSUS 2011 - CEN11
+Réunion,RE,REU,638,Rural,2,Flush and pour flush - to septic tank,0.0,CENSUS 2011 - CEN11
+Réunion,RE,REU,638,Rural,3,Flush and pour flush - to pit,0.0,CENSUS 2011 - CEN11
+Réunion,RE,REU,638,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,CENSUS 2011 - CEN11
+Réunion,RE,REU,638,Rural,5,Flush and pour flush - to elsewhere,0.0,CENSUS 2011 - CEN11
+Réunion,RE,REU,638,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,CENSUS 2011 - CEN11
+Réunion,RE,REU,638,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,CENSUS 2011 - CEN11
+Réunion,RE,REU,638,Rural,8,Dry latrines - Traditional latrine,0.0,CENSUS 2011 - CEN11
+Réunion,RE,REU,638,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,CENSUS 2011 - CEN11
+Réunion,RE,REU,638,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,CENSUS 2011 - CEN11
+Réunion,RE,REU,638,Rural,11,Dry latrines - Bucket latrine,0.0,CENSUS 2011 - CEN11
+Réunion,RE,REU,638,Rural,12,Dry latrines - Other,0.0,CENSUS 2011 - CEN11
+Réunion,RE,REU,638,Rural,13,Composting toilets,0.0,CENSUS 2011 - CEN11
+Réunion,RE,REU,638,Rural,14,Other improved,0.0,CENSUS 2011 - CEN11
+Réunion,RE,REU,638,Rural,15,"No facility, bush, field",0.0,CENSUS 2011 - CEN11
+Réunion,RE,REU,638,Rural,16,Other unimproved,0.0,CENSUS 2011 - CEN11
+Réunion,RE,REU,638,Rural,17,DK/missing information,0.0,CENSUS 2011 - CEN11
+Réunion,RE,REU,638,National,1,Flush and pour flush - to piped sewer system,0.455,CENSUS 2011 - CEN11
+Réunion,RE,REU,638,National,2,Flush and pour flush - to septic tank,0.506,CENSUS 2011 - CEN11
+Réunion,RE,REU,638,National,3,Flush and pour flush - to pit,0.028,CENSUS 2011 - CEN11
+Réunion,RE,REU,638,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,CENSUS 2011 - CEN11
+Réunion,RE,REU,638,National,5,Flush and pour flush - to elsewhere,0.0,CENSUS 2011 - CEN11
+Réunion,RE,REU,638,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,CENSUS 2011 - CEN11
+Réunion,RE,REU,638,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,CENSUS 2011 - CEN11
+Réunion,RE,REU,638,National,8,Dry latrines - Traditional latrine,0.011,CENSUS 2011 - CEN11
+Réunion,RE,REU,638,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,CENSUS 2011 - CEN11
+Réunion,RE,REU,638,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,CENSUS 2011 - CEN11
+Réunion,RE,REU,638,National,11,Dry latrines - Bucket latrine,0.0,CENSUS 2011 - CEN11
+Réunion,RE,REU,638,National,12,Dry latrines - Other,0.0,CENSUS 2011 - CEN11
+Réunion,RE,REU,638,National,13,Composting toilets,0.0,CENSUS 2011 - CEN11
+Réunion,RE,REU,638,National,14,Other improved,0.0,CENSUS 2011 - CEN11
+Réunion,RE,REU,638,National,15,"No facility, bush, field",0.0,CENSUS 2011 - CEN11
+Réunion,RE,REU,638,National,16,Other unimproved,0.0,CENSUS 2011 - CEN11
+Réunion,RE,REU,638,National,17,DK/missing information,0.0,CENSUS 2011 - CEN11
+Réunion,RE,REU,638,Urban,1,Flush and pour flush - to piped sewer system,0.0,CENSUS 2012 - CEN12
+Réunion,RE,REU,638,Urban,2,Flush and pour flush - to septic tank,0.0,CENSUS 2012 - CEN12
+Réunion,RE,REU,638,Urban,3,Flush and pour flush - to pit,0.0,CENSUS 2012 - CEN12
+Réunion,RE,REU,638,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,CENSUS 2012 - CEN12
+Réunion,RE,REU,638,Urban,5,Flush and pour flush - to elsewhere,0.0,CENSUS 2012 - CEN12
+Réunion,RE,REU,638,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,CENSUS 2012 - CEN12
+Réunion,RE,REU,638,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,CENSUS 2012 - CEN12
+Réunion,RE,REU,638,Urban,8,Dry latrines - Traditional latrine,0.0,CENSUS 2012 - CEN12
+Réunion,RE,REU,638,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,CENSUS 2012 - CEN12
+Réunion,RE,REU,638,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,CENSUS 2012 - CEN12
+Réunion,RE,REU,638,Urban,11,Dry latrines - Bucket latrine,0.0,CENSUS 2012 - CEN12
+Réunion,RE,REU,638,Urban,12,Dry latrines - Other,0.0,CENSUS 2012 - CEN12
+Réunion,RE,REU,638,Urban,13,Composting toilets,0.0,CENSUS 2012 - CEN12
+Réunion,RE,REU,638,Urban,14,Other improved,0.0,CENSUS 2012 - CEN12
+Réunion,RE,REU,638,Urban,15,"No facility, bush, field",0.0,CENSUS 2012 - CEN12
+Réunion,RE,REU,638,Urban,16,Other unimproved,0.0,CENSUS 2012 - CEN12
+Réunion,RE,REU,638,Urban,17,DK/missing information,0.0,CENSUS 2012 - CEN12
+Réunion,RE,REU,638,Rural,1,Flush and pour flush - to piped sewer system,0.0,CENSUS 2012 - CEN12
+Réunion,RE,REU,638,Rural,2,Flush and pour flush - to septic tank,0.0,CENSUS 2012 - CEN12
+Réunion,RE,REU,638,Rural,3,Flush and pour flush - to pit,0.0,CENSUS 2012 - CEN12
+Réunion,RE,REU,638,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,CENSUS 2012 - CEN12
+Réunion,RE,REU,638,Rural,5,Flush and pour flush - to elsewhere,0.0,CENSUS 2012 - CEN12
+Réunion,RE,REU,638,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,CENSUS 2012 - CEN12
+Réunion,RE,REU,638,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,CENSUS 2012 - CEN12
+Réunion,RE,REU,638,Rural,8,Dry latrines - Traditional latrine,0.0,CENSUS 2012 - CEN12
+Réunion,RE,REU,638,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,CENSUS 2012 - CEN12
+Réunion,RE,REU,638,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,CENSUS 2012 - CEN12
+Réunion,RE,REU,638,Rural,11,Dry latrines - Bucket latrine,0.0,CENSUS 2012 - CEN12
+Réunion,RE,REU,638,Rural,12,Dry latrines - Other,0.0,CENSUS 2012 - CEN12
+Réunion,RE,REU,638,Rural,13,Composting toilets,0.0,CENSUS 2012 - CEN12
+Réunion,RE,REU,638,Rural,14,Other improved,0.0,CENSUS 2012 - CEN12
+Réunion,RE,REU,638,Rural,15,"No facility, bush, field",0.0,CENSUS 2012 - CEN12
+Réunion,RE,REU,638,Rural,16,Other unimproved,0.0,CENSUS 2012 - CEN12
+Réunion,RE,REU,638,Rural,17,DK/missing information,0.0,CENSUS 2012 - CEN12
+Réunion,RE,REU,638,National,1,Flush and pour flush - to piped sewer system,0.46,CENSUS 2012 - CEN12
+Réunion,RE,REU,638,National,2,Flush and pour flush - to septic tank,0.5,CENSUS 2012 - CEN12
+Réunion,RE,REU,638,National,3,Flush and pour flush - to pit,0.029,CENSUS 2012 - CEN12
+Réunion,RE,REU,638,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,CENSUS 2012 - CEN12
+Réunion,RE,REU,638,National,5,Flush and pour flush - to elsewhere,0.0,CENSUS 2012 - CEN12
+Réunion,RE,REU,638,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,CENSUS 2012 - CEN12
+Réunion,RE,REU,638,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,CENSUS 2012 - CEN12
+Réunion,RE,REU,638,National,8,Dry latrines - Traditional latrine,0.011,CENSUS 2012 - CEN12
+Réunion,RE,REU,638,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,CENSUS 2012 - CEN12
+Réunion,RE,REU,638,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,CENSUS 2012 - CEN12
+Réunion,RE,REU,638,National,11,Dry latrines - Bucket latrine,0.0,CENSUS 2012 - CEN12
+Réunion,RE,REU,638,National,12,Dry latrines - Other,0.0,CENSUS 2012 - CEN12
+Réunion,RE,REU,638,National,13,Composting toilets,0.0,CENSUS 2012 - CEN12
+Réunion,RE,REU,638,National,14,Other improved,0.0,CENSUS 2012 - CEN12
+Réunion,RE,REU,638,National,15,"No facility, bush, field",0.0,CENSUS 2012 - CEN12
+Réunion,RE,REU,638,National,16,Other unimproved,0.0,CENSUS 2012 - CEN12
+Réunion,RE,REU,638,National,17,DK/missing information,0.0,CENSUS 2012 - CEN12
+Réunion,RE,REU,638,Urban,1,Flush and pour flush - to piped sewer system,0.0,Enquete logement 2013 - EL13
+Réunion,RE,REU,638,Urban,2,Flush and pour flush - to septic tank,0.0,Enquete logement 2013 - EL13
+Réunion,RE,REU,638,Urban,3,Flush and pour flush - to pit,0.0,Enquete logement 2013 - EL13
+Réunion,RE,REU,638,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquete logement 2013 - EL13
+Réunion,RE,REU,638,Urban,5,Flush and pour flush - to elsewhere,0.0,Enquete logement 2013 - EL13
+Réunion,RE,REU,638,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Enquete logement 2013 - EL13
+Réunion,RE,REU,638,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Enquete logement 2013 - EL13
+Réunion,RE,REU,638,Urban,8,Dry latrines - Traditional latrine,0.0,Enquete logement 2013 - EL13
+Réunion,RE,REU,638,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Enquete logement 2013 - EL13
+Réunion,RE,REU,638,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquete logement 2013 - EL13
+Réunion,RE,REU,638,Urban,11,Dry latrines - Bucket latrine,0.0,Enquete logement 2013 - EL13
+Réunion,RE,REU,638,Urban,12,Dry latrines - Other,0.0,Enquete logement 2013 - EL13
+Réunion,RE,REU,638,Urban,13,Composting toilets,0.0,Enquete logement 2013 - EL13
+Réunion,RE,REU,638,Urban,14,Other improved,0.0,Enquete logement 2013 - EL13
+Réunion,RE,REU,638,Urban,15,"No facility, bush, field",0.0,Enquete logement 2013 - EL13
+Réunion,RE,REU,638,Urban,16,Other unimproved,0.0,Enquete logement 2013 - EL13
+Réunion,RE,REU,638,Urban,17,DK/missing information,0.0,Enquete logement 2013 - EL13
+Réunion,RE,REU,638,Rural,1,Flush and pour flush - to piped sewer system,0.0,Enquete logement 2013 - EL13
+Réunion,RE,REU,638,Rural,2,Flush and pour flush - to septic tank,0.0,Enquete logement 2013 - EL13
+Réunion,RE,REU,638,Rural,3,Flush and pour flush - to pit,0.0,Enquete logement 2013 - EL13
+Réunion,RE,REU,638,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquete logement 2013 - EL13
+Réunion,RE,REU,638,Rural,5,Flush and pour flush - to elsewhere,0.0,Enquete logement 2013 - EL13
+Réunion,RE,REU,638,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Enquete logement 2013 - EL13
+Réunion,RE,REU,638,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Enquete logement 2013 - EL13
+Réunion,RE,REU,638,Rural,8,Dry latrines - Traditional latrine,0.0,Enquete logement 2013 - EL13
+Réunion,RE,REU,638,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Enquete logement 2013 - EL13
+Réunion,RE,REU,638,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquete logement 2013 - EL13
+Réunion,RE,REU,638,Rural,11,Dry latrines - Bucket latrine,0.0,Enquete logement 2013 - EL13
+Réunion,RE,REU,638,Rural,12,Dry latrines - Other,0.0,Enquete logement 2013 - EL13
+Réunion,RE,REU,638,Rural,13,Composting toilets,0.0,Enquete logement 2013 - EL13
+Réunion,RE,REU,638,Rural,14,Other improved,0.0,Enquete logement 2013 - EL13
+Réunion,RE,REU,638,Rural,15,"No facility, bush, field",0.0,Enquete logement 2013 - EL13
+Réunion,RE,REU,638,Rural,16,Other unimproved,0.0,Enquete logement 2013 - EL13
+Réunion,RE,REU,638,Rural,17,DK/missing information,0.0,Enquete logement 2013 - EL13
+Réunion,RE,REU,638,National,1,Flush and pour flush - to piped sewer system,0.0,Enquete logement 2013 - EL13
+Réunion,RE,REU,638,National,2,Flush and pour flush - to septic tank,0.0,Enquete logement 2013 - EL13
+Réunion,RE,REU,638,National,3,Flush and pour flush - to pit,0.0,Enquete logement 2013 - EL13
+Réunion,RE,REU,638,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquete logement 2013 - EL13
+Réunion,RE,REU,638,National,5,Flush and pour flush - to elsewhere,0.0,Enquete logement 2013 - EL13
+Réunion,RE,REU,638,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Enquete logement 2013 - EL13
+Réunion,RE,REU,638,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Enquete logement 2013 - EL13
+Réunion,RE,REU,638,National,8,Dry latrines - Traditional latrine,0.0,Enquete logement 2013 - EL13
+Réunion,RE,REU,638,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Enquete logement 2013 - EL13
+Réunion,RE,REU,638,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquete logement 2013 - EL13
+Réunion,RE,REU,638,National,11,Dry latrines - Bucket latrine,0.0,Enquete logement 2013 - EL13
+Réunion,RE,REU,638,National,12,Dry latrines - Other,0.0,Enquete logement 2013 - EL13
+Réunion,RE,REU,638,National,13,Composting toilets,0.0,Enquete logement 2013 - EL13
+Réunion,RE,REU,638,National,14,Other improved,0.0,Enquete logement 2013 - EL13
+Réunion,RE,REU,638,National,15,"No facility, bush, field",0.0,Enquete logement 2013 - EL13
+Réunion,RE,REU,638,National,16,Other unimproved,0.018,Enquete logement 2013 - EL13
+Réunion,RE,REU,638,National,17,DK/missing information,0.0,Enquete logement 2013 - EL13
+Réunion,RE,REU,638,Urban,1,Flush and pour flush - to piped sewer system,0.0,CENSUS 2013 - CEN13
+Réunion,RE,REU,638,Urban,2,Flush and pour flush - to septic tank,0.0,CENSUS 2013 - CEN13
+Réunion,RE,REU,638,Urban,3,Flush and pour flush - to pit,0.0,CENSUS 2013 - CEN13
+Réunion,RE,REU,638,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,CENSUS 2013 - CEN13
+Réunion,RE,REU,638,Urban,5,Flush and pour flush - to elsewhere,0.0,CENSUS 2013 - CEN13
+Réunion,RE,REU,638,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,CENSUS 2013 - CEN13
+Réunion,RE,REU,638,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,CENSUS 2013 - CEN13
+Réunion,RE,REU,638,Urban,8,Dry latrines - Traditional latrine,0.0,CENSUS 2013 - CEN13
+Réunion,RE,REU,638,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,CENSUS 2013 - CEN13
+Réunion,RE,REU,638,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,CENSUS 2013 - CEN13
+Réunion,RE,REU,638,Urban,11,Dry latrines - Bucket latrine,0.0,CENSUS 2013 - CEN13
+Réunion,RE,REU,638,Urban,12,Dry latrines - Other,0.0,CENSUS 2013 - CEN13
+Réunion,RE,REU,638,Urban,13,Composting toilets,0.0,CENSUS 2013 - CEN13
+Réunion,RE,REU,638,Urban,14,Other improved,0.0,CENSUS 2013 - CEN13
+Réunion,RE,REU,638,Urban,15,"No facility, bush, field",0.0,CENSUS 2013 - CEN13
+Réunion,RE,REU,638,Urban,16,Other unimproved,0.0,CENSUS 2013 - CEN13
+Réunion,RE,REU,638,Urban,17,DK/missing information,0.0,CENSUS 2013 - CEN13
+Réunion,RE,REU,638,Rural,1,Flush and pour flush - to piped sewer system,0.0,CENSUS 2013 - CEN13
+Réunion,RE,REU,638,Rural,2,Flush and pour flush - to septic tank,0.0,CENSUS 2013 - CEN13
+Réunion,RE,REU,638,Rural,3,Flush and pour flush - to pit,0.0,CENSUS 2013 - CEN13
+Réunion,RE,REU,638,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,CENSUS 2013 - CEN13
+Réunion,RE,REU,638,Rural,5,Flush and pour flush - to elsewhere,0.0,CENSUS 2013 - CEN13
+Réunion,RE,REU,638,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,CENSUS 2013 - CEN13
+Réunion,RE,REU,638,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,CENSUS 2013 - CEN13
+Réunion,RE,REU,638,Rural,8,Dry latrines - Traditional latrine,0.0,CENSUS 2013 - CEN13
+Réunion,RE,REU,638,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,CENSUS 2013 - CEN13
+Réunion,RE,REU,638,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,CENSUS 2013 - CEN13
+Réunion,RE,REU,638,Rural,11,Dry latrines - Bucket latrine,0.0,CENSUS 2013 - CEN13
+Réunion,RE,REU,638,Rural,12,Dry latrines - Other,0.0,CENSUS 2013 - CEN13
+Réunion,RE,REU,638,Rural,13,Composting toilets,0.0,CENSUS 2013 - CEN13
+Réunion,RE,REU,638,Rural,14,Other improved,0.0,CENSUS 2013 - CEN13
+Réunion,RE,REU,638,Rural,15,"No facility, bush, field",0.0,CENSUS 2013 - CEN13
+Réunion,RE,REU,638,Rural,16,Other unimproved,0.0,CENSUS 2013 - CEN13
+Réunion,RE,REU,638,Rural,17,DK/missing information,0.0,CENSUS 2013 - CEN13
+Réunion,RE,REU,638,National,1,Flush and pour flush - to piped sewer system,0.466,CENSUS 2013 - CEN13
+Réunion,RE,REU,638,National,2,Flush and pour flush - to septic tank,0.494,CENSUS 2013 - CEN13
+Réunion,RE,REU,638,National,3,Flush and pour flush - to pit,0.029,CENSUS 2013 - CEN13
+Réunion,RE,REU,638,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,CENSUS 2013 - CEN13
+Réunion,RE,REU,638,National,5,Flush and pour flush - to elsewhere,0.0,CENSUS 2013 - CEN13
+Réunion,RE,REU,638,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,CENSUS 2013 - CEN13
+Réunion,RE,REU,638,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,CENSUS 2013 - CEN13
+Réunion,RE,REU,638,National,8,Dry latrines - Traditional latrine,0.011,CENSUS 2013 - CEN13
+Réunion,RE,REU,638,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,CENSUS 2013 - CEN13
+Réunion,RE,REU,638,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,CENSUS 2013 - CEN13
+Réunion,RE,REU,638,National,11,Dry latrines - Bucket latrine,0.0,CENSUS 2013 - CEN13
+Réunion,RE,REU,638,National,12,Dry latrines - Other,0.0,CENSUS 2013 - CEN13
+Réunion,RE,REU,638,National,13,Composting toilets,0.0,CENSUS 2013 - CEN13
+Réunion,RE,REU,638,National,14,Other improved,0.0,CENSUS 2013 - CEN13
+Réunion,RE,REU,638,National,15,"No facility, bush, field",0.0,CENSUS 2013 - CEN13
+Réunion,RE,REU,638,National,16,Other unimproved,0.0,CENSUS 2013 - CEN13
+Réunion,RE,REU,638,National,17,DK/missing information,0.0,CENSUS 2013 - CEN13
+Réunion,RE,REU,638,Urban,1,Flush and pour flush - to piped sewer system,0.0,CENSUS 2014 - CEN14
+Réunion,RE,REU,638,Urban,2,Flush and pour flush - to septic tank,0.0,CENSUS 2014 - CEN14
+Réunion,RE,REU,638,Urban,3,Flush and pour flush - to pit,0.0,CENSUS 2014 - CEN14
+Réunion,RE,REU,638,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,CENSUS 2014 - CEN14
+Réunion,RE,REU,638,Urban,5,Flush and pour flush - to elsewhere,0.0,CENSUS 2014 - CEN14
+Réunion,RE,REU,638,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,CENSUS 2014 - CEN14
+Réunion,RE,REU,638,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,CENSUS 2014 - CEN14
+Réunion,RE,REU,638,Urban,8,Dry latrines - Traditional latrine,0.0,CENSUS 2014 - CEN14
+Réunion,RE,REU,638,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,CENSUS 2014 - CEN14
+Réunion,RE,REU,638,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,CENSUS 2014 - CEN14
+Réunion,RE,REU,638,Urban,11,Dry latrines - Bucket latrine,0.0,CENSUS 2014 - CEN14
+Réunion,RE,REU,638,Urban,12,Dry latrines - Other,0.0,CENSUS 2014 - CEN14
+Réunion,RE,REU,638,Urban,13,Composting toilets,0.0,CENSUS 2014 - CEN14
+Réunion,RE,REU,638,Urban,14,Other improved,0.0,CENSUS 2014 - CEN14
+Réunion,RE,REU,638,Urban,15,"No facility, bush, field",0.0,CENSUS 2014 - CEN14
+Réunion,RE,REU,638,Urban,16,Other unimproved,0.0,CENSUS 2014 - CEN14
+Réunion,RE,REU,638,Urban,17,DK/missing information,0.0,CENSUS 2014 - CEN14
+Réunion,RE,REU,638,Rural,1,Flush and pour flush - to piped sewer system,0.0,CENSUS 2014 - CEN14
+Réunion,RE,REU,638,Rural,2,Flush and pour flush - to septic tank,0.0,CENSUS 2014 - CEN14
+Réunion,RE,REU,638,Rural,3,Flush and pour flush - to pit,0.0,CENSUS 2014 - CEN14
+Réunion,RE,REU,638,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,CENSUS 2014 - CEN14
+Réunion,RE,REU,638,Rural,5,Flush and pour flush - to elsewhere,0.0,CENSUS 2014 - CEN14
+Réunion,RE,REU,638,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,CENSUS 2014 - CEN14
+Réunion,RE,REU,638,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,CENSUS 2014 - CEN14
+Réunion,RE,REU,638,Rural,8,Dry latrines - Traditional latrine,0.0,CENSUS 2014 - CEN14
+Réunion,RE,REU,638,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,CENSUS 2014 - CEN14
+Réunion,RE,REU,638,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,CENSUS 2014 - CEN14
+Réunion,RE,REU,638,Rural,11,Dry latrines - Bucket latrine,0.0,CENSUS 2014 - CEN14
+Réunion,RE,REU,638,Rural,12,Dry latrines - Other,0.0,CENSUS 2014 - CEN14
+Réunion,RE,REU,638,Rural,13,Composting toilets,0.0,CENSUS 2014 - CEN14
+Réunion,RE,REU,638,Rural,14,Other improved,0.0,CENSUS 2014 - CEN14
+Réunion,RE,REU,638,Rural,15,"No facility, bush, field",0.0,CENSUS 2014 - CEN14
+Réunion,RE,REU,638,Rural,16,Other unimproved,0.0,CENSUS 2014 - CEN14
+Réunion,RE,REU,638,Rural,17,DK/missing information,0.0,CENSUS 2014 - CEN14
+Réunion,RE,REU,638,National,1,Flush and pour flush - to piped sewer system,0.473,CENSUS 2014 - CEN14
+Réunion,RE,REU,638,National,2,Flush and pour flush - to septic tank,0.486,CENSUS 2014 - CEN14
+Réunion,RE,REU,638,National,3,Flush and pour flush - to pit,0.029,CENSUS 2014 - CEN14
+Réunion,RE,REU,638,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,CENSUS 2014 - CEN14
+Réunion,RE,REU,638,National,5,Flush and pour flush - to elsewhere,0.0,CENSUS 2014 - CEN14
+Réunion,RE,REU,638,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,CENSUS 2014 - CEN14
+Réunion,RE,REU,638,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,CENSUS 2014 - CEN14
+Réunion,RE,REU,638,National,8,Dry latrines - Traditional latrine,0.012,CENSUS 2014 - CEN14
+Réunion,RE,REU,638,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,CENSUS 2014 - CEN14
+Réunion,RE,REU,638,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,CENSUS 2014 - CEN14
+Réunion,RE,REU,638,National,11,Dry latrines - Bucket latrine,0.0,CENSUS 2014 - CEN14
+Réunion,RE,REU,638,National,12,Dry latrines - Other,0.0,CENSUS 2014 - CEN14
+Réunion,RE,REU,638,National,13,Composting toilets,0.0,CENSUS 2014 - CEN14
+Réunion,RE,REU,638,National,14,Other improved,0.0,CENSUS 2014 - CEN14
+Réunion,RE,REU,638,National,15,"No facility, bush, field",0.0,CENSUS 2014 - CEN14
+Réunion,RE,REU,638,National,16,Other unimproved,0.0,CENSUS 2014 - CEN14
+Réunion,RE,REU,638,National,17,DK/missing information,0.0,CENSUS 2014 - CEN14
+Réunion,RE,REU,638,Urban,1,Flush and pour flush - to piped sewer system,0.0,CENSUS 2015 - CEN15
+Réunion,RE,REU,638,Urban,2,Flush and pour flush - to septic tank,0.0,CENSUS 2015 - CEN15
+Réunion,RE,REU,638,Urban,3,Flush and pour flush - to pit,0.0,CENSUS 2015 - CEN15
+Réunion,RE,REU,638,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,CENSUS 2015 - CEN15
+Réunion,RE,REU,638,Urban,5,Flush and pour flush - to elsewhere,0.0,CENSUS 2015 - CEN15
+Réunion,RE,REU,638,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,CENSUS 2015 - CEN15
+Réunion,RE,REU,638,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,CENSUS 2015 - CEN15
+Réunion,RE,REU,638,Urban,8,Dry latrines - Traditional latrine,0.0,CENSUS 2015 - CEN15
+Réunion,RE,REU,638,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,CENSUS 2015 - CEN15
+Réunion,RE,REU,638,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,CENSUS 2015 - CEN15
+Réunion,RE,REU,638,Urban,11,Dry latrines - Bucket latrine,0.0,CENSUS 2015 - CEN15
+Réunion,RE,REU,638,Urban,12,Dry latrines - Other,0.0,CENSUS 2015 - CEN15
+Réunion,RE,REU,638,Urban,13,Composting toilets,0.0,CENSUS 2015 - CEN15
+Réunion,RE,REU,638,Urban,14,Other improved,0.0,CENSUS 2015 - CEN15
+Réunion,RE,REU,638,Urban,15,"No facility, bush, field",0.0,CENSUS 2015 - CEN15
+Réunion,RE,REU,638,Urban,16,Other unimproved,0.0,CENSUS 2015 - CEN15
+Réunion,RE,REU,638,Urban,17,DK/missing information,0.0,CENSUS 2015 - CEN15
+Réunion,RE,REU,638,Rural,1,Flush and pour flush - to piped sewer system,0.0,CENSUS 2015 - CEN15
+Réunion,RE,REU,638,Rural,2,Flush and pour flush - to septic tank,0.0,CENSUS 2015 - CEN15
+Réunion,RE,REU,638,Rural,3,Flush and pour flush - to pit,0.0,CENSUS 2015 - CEN15
+Réunion,RE,REU,638,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,CENSUS 2015 - CEN15
+Réunion,RE,REU,638,Rural,5,Flush and pour flush - to elsewhere,0.0,CENSUS 2015 - CEN15
+Réunion,RE,REU,638,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,CENSUS 2015 - CEN15
+Réunion,RE,REU,638,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,CENSUS 2015 - CEN15
+Réunion,RE,REU,638,Rural,8,Dry latrines - Traditional latrine,0.0,CENSUS 2015 - CEN15
+Réunion,RE,REU,638,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,CENSUS 2015 - CEN15
+Réunion,RE,REU,638,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,CENSUS 2015 - CEN15
+Réunion,RE,REU,638,Rural,11,Dry latrines - Bucket latrine,0.0,CENSUS 2015 - CEN15
+Réunion,RE,REU,638,Rural,12,Dry latrines - Other,0.0,CENSUS 2015 - CEN15
+Réunion,RE,REU,638,Rural,13,Composting toilets,0.0,CENSUS 2015 - CEN15
+Réunion,RE,REU,638,Rural,14,Other improved,0.0,CENSUS 2015 - CEN15
+Réunion,RE,REU,638,Rural,15,"No facility, bush, field",0.0,CENSUS 2015 - CEN15
+Réunion,RE,REU,638,Rural,16,Other unimproved,0.0,CENSUS 2015 - CEN15
+Réunion,RE,REU,638,Rural,17,DK/missing information,0.0,CENSUS 2015 - CEN15
+Réunion,RE,REU,638,National,1,Flush and pour flush - to piped sewer system,0.483,CENSUS 2015 - CEN15
+Réunion,RE,REU,638,National,2,Flush and pour flush - to septic tank,0.476,CENSUS 2015 - CEN15
+Réunion,RE,REU,638,National,3,Flush and pour flush - to pit,0.029,CENSUS 2015 - CEN15
+Réunion,RE,REU,638,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,CENSUS 2015 - CEN15
+Réunion,RE,REU,638,National,5,Flush and pour flush - to elsewhere,0.0,CENSUS 2015 - CEN15
+Réunion,RE,REU,638,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,CENSUS 2015 - CEN15
+Réunion,RE,REU,638,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,CENSUS 2015 - CEN15
+Réunion,RE,REU,638,National,8,Dry latrines - Traditional latrine,0.013,CENSUS 2015 - CEN15
+Réunion,RE,REU,638,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,CENSUS 2015 - CEN15
+Réunion,RE,REU,638,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,CENSUS 2015 - CEN15
+Réunion,RE,REU,638,National,11,Dry latrines - Bucket latrine,0.0,CENSUS 2015 - CEN15
+Réunion,RE,REU,638,National,12,Dry latrines - Other,0.0,CENSUS 2015 - CEN15
+Réunion,RE,REU,638,National,13,Composting toilets,0.0,CENSUS 2015 - CEN15
+Réunion,RE,REU,638,National,14,Other improved,0.0,CENSUS 2015 - CEN15
+Réunion,RE,REU,638,National,15,"No facility, bush, field",0.0,CENSUS 2015 - CEN15
+Réunion,RE,REU,638,National,16,Other unimproved,0.0,CENSUS 2015 - CEN15
+Réunion,RE,REU,638,National,17,DK/missing information,0.0,CENSUS 2015 - CEN15

@@ -1,4 +1,127 @@
 country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+Haiti,HT,HTI,332,Urban,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS00
+Haiti,HT,HTI,332,Urban,2,Flush and pour flush - to septic tank,0.0,Demographic and Health Survey - DHS00
+Haiti,HT,HTI,332,Urban,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS00
+Haiti,HT,HTI,332,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS00
+Haiti,HT,HTI,332,Urban,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS00
+Haiti,HT,HTI,332,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - DHS00
+Haiti,HT,HTI,332,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.658,Demographic and Health Survey - DHS00
+Haiti,HT,HTI,332,Urban,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS00
+Haiti,HT,HTI,332,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.154,Demographic and Health Survey - DHS00
+Haiti,HT,HTI,332,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.436,Demographic and Health Survey - DHS00
+Haiti,HT,HTI,332,Urban,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS00
+Haiti,HT,HTI,332,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.122,Demographic and Health Survey - DHS00
+Haiti,HT,HTI,332,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.222,Demographic and Health Survey - DHS00
+Haiti,HT,HTI,332,Urban,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS00
+Haiti,HT,HTI,332,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.032,Demographic and Health Survey - DHS00
+Haiti,HT,HTI,332,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS00
+Haiti,HT,HTI,332,Urban,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS00
+Haiti,HT,HTI,332,Urban,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS00
+Haiti,HT,HTI,332,Urban,13,Composting toilets,0.0,Demographic and Health Survey - DHS00
+Haiti,HT,HTI,332,Urban,14,Other improved,0.0,Demographic and Health Survey - DHS00
+Haiti,HT,HTI,332,Urban,15,"No facility, bush, field",0.099,Demographic and Health Survey - DHS00
+Haiti,HT,HTI,332,Urban,16,Other unimproved,0.0,Demographic and Health Survey - DHS00
+Haiti,HT,HTI,332,Urban,17,DK/missing information,0.0,Demographic and Health Survey - DHS00
+Haiti,HT,HTI,332,Rural,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS00
+Haiti,HT,HTI,332,Rural,2,Flush and pour flush - to septic tank,0.0,Demographic and Health Survey - DHS00
+Haiti,HT,HTI,332,Rural,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS00
+Haiti,HT,HTI,332,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS00
+Haiti,HT,HTI,332,Rural,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS00
+Haiti,HT,HTI,332,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - DHS00
+Haiti,HT,HTI,332,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.256,Demographic and Health Survey - DHS00
+Haiti,HT,HTI,332,Rural,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS00
+Haiti,HT,HTI,332,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.181,Demographic and Health Survey - DHS00
+Haiti,HT,HTI,332,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.116,Demographic and Health Survey - DHS00
+Haiti,HT,HTI,332,Rural,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS00
+Haiti,HT,HTI,332,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.085,Demographic and Health Survey - DHS00
+Haiti,HT,HTI,332,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.14,Demographic and Health Survey - DHS00
+Haiti,HT,HTI,332,Rural,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS00
+Haiti,HT,HTI,332,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.096,Demographic and Health Survey - DHS00
+Haiti,HT,HTI,332,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS00
+Haiti,HT,HTI,332,Rural,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS00
+Haiti,HT,HTI,332,Rural,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS00
+Haiti,HT,HTI,332,Rural,13,Composting toilets,0.0,Demographic and Health Survey - DHS00
+Haiti,HT,HTI,332,Rural,14,Other improved,0.0,Demographic and Health Survey - DHS00
+Haiti,HT,HTI,332,Rural,15,"No facility, bush, field",0.559,Demographic and Health Survey - DHS00
+Haiti,HT,HTI,332,Rural,16,Other unimproved,0.0,Demographic and Health Survey - DHS00
+Haiti,HT,HTI,332,Rural,17,DK/missing information,0.0,Demographic and Health Survey - DHS00
+Haiti,HT,HTI,332,National,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS00
+Haiti,HT,HTI,332,National,2,Flush and pour flush - to septic tank,0.0,Demographic and Health Survey - DHS00
+Haiti,HT,HTI,332,National,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS00
+Haiti,HT,HTI,332,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS00
+Haiti,HT,HTI,332,National,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS00
+Haiti,HT,HTI,332,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - DHS00
+Haiti,HT,HTI,332,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS00
+Haiti,HT,HTI,332,National,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS00
+Haiti,HT,HTI,332,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Survey - DHS00
+Haiti,HT,HTI,332,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS00
+Haiti,HT,HTI,332,National,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS00
+Haiti,HT,HTI,332,National,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS00
+Haiti,HT,HTI,332,National,13,Composting toilets,0.0,Demographic and Health Survey - DHS00
+Haiti,HT,HTI,332,National,14,Other improved,0.0,Demographic and Health Survey - DHS00
+Haiti,HT,HTI,332,National,15,"No facility, bush, field",0.0,Demographic and Health Survey - DHS00
+Haiti,HT,HTI,332,National,16,Other unimproved,0.0,Demographic and Health Survey - DHS00
+Haiti,HT,HTI,332,National,17,DK/missing information,0.0,Demographic and Health Survey - DHS00
+Haiti,HT,HTI,332,Urban,1,Flush and pour flush - to piped sewer system,0.0,Census - CEN03
+Haiti,HT,HTI,332,Urban,2,Flush and pour flush - to septic tank,0.0,Census - CEN03
+Haiti,HT,HTI,332,Urban,3,Flush and pour flush - to pit,0.0,Census - CEN03
+Haiti,HT,HTI,332,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN03
+Haiti,HT,HTI,332,Urban,5,Flush and pour flush - to elsewhere,0.0,Census - CEN03
+Haiti,HT,HTI,332,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN03
+Haiti,HT,HTI,332,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN03
+Haiti,HT,HTI,332,Urban,8,Dry latrines - Traditional latrine,0.738,Census - CEN03
+Haiti,HT,HTI,332,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.049,Census - CEN03
+Haiti,HT,HTI,332,Urban,8,Dry latrines - Traditional latrine,0.545,Census - CEN03
+Haiti,HT,HTI,332,Urban,8,Dry latrines - Traditional latrine,0.193,Census - CEN03
+Haiti,HT,HTI,332,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN03
+Haiti,HT,HTI,332,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN03
+Haiti,HT,HTI,332,Urban,11,Dry latrines - Bucket latrine,0.0,Census - CEN03
+Haiti,HT,HTI,332,Urban,12,Dry latrines - Other,0.0,Census - CEN03
+Haiti,HT,HTI,332,Urban,13,Composting toilets,0.0,Census - CEN03
+Haiti,HT,HTI,332,Urban,14,Other improved,0.0,Census - CEN03
+Haiti,HT,HTI,332,Urban,15,"No facility, bush, field",0.108,Census - CEN03
+Haiti,HT,HTI,332,Urban,16,Other unimproved,0.0,Census - CEN03
+Haiti,HT,HTI,332,Urban,17,DK/missing information,0.0,Census - CEN03
+Haiti,HT,HTI,332,Rural,1,Flush and pour flush - to piped sewer system,0.0,Census - CEN03
+Haiti,HT,HTI,332,Rural,2,Flush and pour flush - to septic tank,0.0,Census - CEN03
+Haiti,HT,HTI,332,Rural,3,Flush and pour flush - to pit,0.0,Census - CEN03
+Haiti,HT,HTI,332,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN03
+Haiti,HT,HTI,332,Rural,5,Flush and pour flush - to elsewhere,0.0,Census - CEN03
+Haiti,HT,HTI,332,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN03
+Haiti,HT,HTI,332,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN03
+Haiti,HT,HTI,332,Rural,8,Dry latrines - Traditional latrine,0.336,Census - CEN03
+Haiti,HT,HTI,332,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.242,Census - CEN03
+Haiti,HT,HTI,332,Rural,8,Dry latrines - Traditional latrine,0.286,Census - CEN03
+Haiti,HT,HTI,332,Rural,8,Dry latrines - Traditional latrine,0.05,Census - CEN03
+Haiti,HT,HTI,332,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN03
+Haiti,HT,HTI,332,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN03
+Haiti,HT,HTI,332,Rural,11,Dry latrines - Bucket latrine,0.0,Census - CEN03
+Haiti,HT,HTI,332,Rural,12,Dry latrines - Other,0.0,Census - CEN03
+Haiti,HT,HTI,332,Rural,13,Composting toilets,0.0,Census - CEN03
+Haiti,HT,HTI,332,Rural,14,Other improved,0.0,Census - CEN03
+Haiti,HT,HTI,332,Rural,15,"No facility, bush, field",0.411,Census - CEN03
+Haiti,HT,HTI,332,Rural,16,Other unimproved,0.0,Census - CEN03
+Haiti,HT,HTI,332,Rural,17,DK/missing information,0.0,Census - CEN03
+Haiti,HT,HTI,332,National,1,Flush and pour flush - to piped sewer system,0.0,Census - CEN03
+Haiti,HT,HTI,332,National,2,Flush and pour flush - to septic tank,0.0,Census - CEN03
+Haiti,HT,HTI,332,National,3,Flush and pour flush - to pit,0.0,Census - CEN03
+Haiti,HT,HTI,332,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN03
+Haiti,HT,HTI,332,National,5,Flush and pour flush - to elsewhere,0.0,Census - CEN03
+Haiti,HT,HTI,332,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN03
+Haiti,HT,HTI,332,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN03
+Haiti,HT,HTI,332,National,8,Dry latrines - Traditional latrine,0.5,Census - CEN03
+Haiti,HT,HTI,332,National,9,Dry latrines - Pit latrine without slab/open pit,0.163,Census - CEN03
+Haiti,HT,HTI,332,National,8,Dry latrines - Traditional latrine,0.391,Census - CEN03
+Haiti,HT,HTI,332,National,8,Dry latrines - Traditional latrine,0.108,Census - CEN03
+Haiti,HT,HTI,332,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN03
+Haiti,HT,HTI,332,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN03
+Haiti,HT,HTI,332,National,11,Dry latrines - Bucket latrine,0.0,Census - CEN03
+Haiti,HT,HTI,332,National,12,Dry latrines - Other,0.0,Census - CEN03
+Haiti,HT,HTI,332,National,13,Composting toilets,0.0,Census - CEN03
+Haiti,HT,HTI,332,National,14,Other improved,0.0,Census - CEN03
+Haiti,HT,HTI,332,National,15,"No facility, bush, field",0.287,Census - CEN03
+Haiti,HT,HTI,332,National,16,Other unimproved,0.0,Census - CEN03
+Haiti,HT,HTI,332,National,17,DK/missing information,0.0,Census - CEN03
 Haiti,HT,HTI,332,Urban,1,Flush and pour flush - to piped sewer system,0.03,Demographic and Health Survey - DHS06
 Haiti,HT,HTI,332,Urban,2,Flush and pour flush - to septic tank,0.087,Demographic and Health Survey - DHS06
 Haiti,HT,HTI,332,Urban,3,Flush and pour flush - to pit,0.026,Demographic and Health Survey - DHS06
@@ -33,6 +156,23 @@ Haiti,HT,HTI,332,Rural,14,Other improved,0.0,Demographic and Health Survey - DHS
 Haiti,HT,HTI,332,Rural,15,"No facility, bush, field",0.506,Demographic and Health Survey - DHS06
 Haiti,HT,HTI,332,Rural,16,Other unimproved,0.0,Demographic and Health Survey - DHS06
 Haiti,HT,HTI,332,Rural,17,DK/missing information,0.0,Demographic and Health Survey - DHS06
+Haiti,HT,HTI,332,National,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS06
+Haiti,HT,HTI,332,National,2,Flush and pour flush - to septic tank,0.0,Demographic and Health Survey - DHS06
+Haiti,HT,HTI,332,National,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS06
+Haiti,HT,HTI,332,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS06
+Haiti,HT,HTI,332,National,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS06
+Haiti,HT,HTI,332,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - DHS06
+Haiti,HT,HTI,332,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS06
+Haiti,HT,HTI,332,National,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS06
+Haiti,HT,HTI,332,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Survey - DHS06
+Haiti,HT,HTI,332,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS06
+Haiti,HT,HTI,332,National,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS06
+Haiti,HT,HTI,332,National,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS06
+Haiti,HT,HTI,332,National,13,Composting toilets,0.0,Demographic and Health Survey - DHS06
+Haiti,HT,HTI,332,National,14,Other improved,0.0,Demographic and Health Survey - DHS06
+Haiti,HT,HTI,332,National,15,"No facility, bush, field",0.0,Demographic and Health Survey - DHS06
+Haiti,HT,HTI,332,National,16,Other unimproved,0.0,Demographic and Health Survey - DHS06
+Haiti,HT,HTI,332,National,17,DK/missing information,0.0,Demographic and Health Survey - DHS06
 Haiti,HT,HTI,332,Urban,1,Flush and pour flush - to piped sewer system,0.02,Demographic and Health Survey - DHS12
 Haiti,HT,HTI,332,Urban,2,Flush and pour flush - to septic tank,0.155,Demographic and Health Survey - DHS12
 Haiti,HT,HTI,332,Urban,3,Flush and pour flush - to pit,0.038,Demographic and Health Survey - DHS12
@@ -67,6 +207,92 @@ Haiti,HT,HTI,332,Rural,14,Other improved,0.002,Demographic and Health Survey - D
 Haiti,HT,HTI,332,Rural,15,"No facility, bush, field",0.375,Demographic and Health Survey - DHS12
 Haiti,HT,HTI,332,Rural,16,Other unimproved,0.0,Demographic and Health Survey - DHS12
 Haiti,HT,HTI,332,Rural,17,DK/missing information,0.0,Demographic and Health Survey - DHS12
+Haiti,HT,HTI,332,National,1,Flush and pour flush - to piped sewer system,0.01,Demographic and Health Survey - DHS12
+Haiti,HT,HTI,332,National,2,Flush and pour flush - to septic tank,0.073,Demographic and Health Survey - DHS12
+Haiti,HT,HTI,332,National,3,Flush and pour flush - to pit,0.02,Demographic and Health Survey - DHS12
+Haiti,HT,HTI,332,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS12
+Haiti,HT,HTI,332,National,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS12
+Haiti,HT,HTI,332,National,6,Dry latrines - Ventilated Improved Pit latrine,0.066,Demographic and Health Survey - DHS12
+Haiti,HT,HTI,332,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.376,Demographic and Health Survey - DHS12
+Haiti,HT,HTI,332,National,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS12
+Haiti,HT,HTI,332,National,9,Dry latrines - Pit latrine without slab/open pit,0.186,Demographic and Health Survey - DHS12
+Haiti,HT,HTI,332,National,10,Dry latrines - Hanging toilet/hanging latrine,0.002,Demographic and Health Survey - DHS12
+Haiti,HT,HTI,332,National,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS12
+Haiti,HT,HTI,332,National,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS12
+Haiti,HT,HTI,332,National,13,Composting toilets,0.0,Demographic and Health Survey - DHS12
+Haiti,HT,HTI,332,National,14,Other improved,0.011,Demographic and Health Survey - DHS12
+Haiti,HT,HTI,332,National,15,"No facility, bush, field",0.251,Demographic and Health Survey - DHS12
+Haiti,HT,HTI,332,National,16,Other unimproved,0.002,Demographic and Health Survey - DHS12
+Haiti,HT,HTI,332,National,17,DK/missing information,0.0,Demographic and Health Survey - DHS12
+Haiti,HT,HTI,332,Urban,1,Flush and pour flush - to piped sewer system,0.0,"Enquête Sur Les Conditions De Vie Des Ménages Après Seisme, 2012 - ECVMAS12"
+Haiti,HT,HTI,332,Urban,2,Flush and pour flush - to septic tank,0.0,"Enquête Sur Les Conditions De Vie Des Ménages Après Seisme, 2012 - ECVMAS12"
+Haiti,HT,HTI,332,Urban,3,Flush and pour flush - to pit,0.0,"Enquête Sur Les Conditions De Vie Des Ménages Après Seisme, 2012 - ECVMAS12"
+Haiti,HT,HTI,332,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Enquête Sur Les Conditions De Vie Des Ménages Après Seisme, 2012 - ECVMAS12"
+Haiti,HT,HTI,332,Urban,5,Flush and pour flush - to elsewhere,0.0,"Enquête Sur Les Conditions De Vie Des Ménages Après Seisme, 2012 - ECVMAS12"
+Haiti,HT,HTI,332,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Enquête Sur Les Conditions De Vie Des Ménages Après Seisme, 2012 - ECVMAS12"
+Haiti,HT,HTI,332,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.363,"Enquête Sur Les Conditions De Vie Des Ménages Après Seisme, 2012 - ECVMAS12"
+Haiti,HT,HTI,332,Urban,8,Dry latrines - Traditional latrine,0.026,"Enquête Sur Les Conditions De Vie Des Ménages Après Seisme, 2012 - ECVMAS12"
+Haiti,HT,HTI,332,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.412,"Enquête Sur Les Conditions De Vie Des Ménages Après Seisme, 2012 - ECVMAS12"
+Haiti,HT,HTI,332,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.28,"Enquête Sur Les Conditions De Vie Des Ménages Après Seisme, 2012 - ECVMAS12"
+Haiti,HT,HTI,332,Urban,8,Dry latrines - Traditional latrine,0.026,"Enquête Sur Les Conditions De Vie Des Ménages Après Seisme, 2012 - ECVMAS12"
+Haiti,HT,HTI,332,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.275,"Enquête Sur Les Conditions De Vie Des Ménages Après Seisme, 2012 - ECVMAS12"
+Haiti,HT,HTI,332,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.083,"Enquête Sur Les Conditions De Vie Des Ménages Après Seisme, 2012 - ECVMAS12"
+Haiti,HT,HTI,332,Urban,8,Dry latrines - Traditional latrine,0.0,"Enquête Sur Les Conditions De Vie Des Ménages Après Seisme, 2012 - ECVMAS12"
+Haiti,HT,HTI,332,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.137,"Enquête Sur Les Conditions De Vie Des Ménages Après Seisme, 2012 - ECVMAS12"
+Haiti,HT,HTI,332,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Enquête Sur Les Conditions De Vie Des Ménages Après Seisme, 2012 - ECVMAS12"
+Haiti,HT,HTI,332,Urban,11,Dry latrines - Bucket latrine,0.0,"Enquête Sur Les Conditions De Vie Des Ménages Après Seisme, 2012 - ECVMAS12"
+Haiti,HT,HTI,332,Urban,12,Dry latrines - Other,0.0,"Enquête Sur Les Conditions De Vie Des Ménages Après Seisme, 2012 - ECVMAS12"
+Haiti,HT,HTI,332,Urban,13,Composting toilets,0.0,"Enquête Sur Les Conditions De Vie Des Ménages Après Seisme, 2012 - ECVMAS12"
+Haiti,HT,HTI,332,Urban,14,Other improved,0.0,"Enquête Sur Les Conditions De Vie Des Ménages Après Seisme, 2012 - ECVMAS12"
+Haiti,HT,HTI,332,Urban,15,"No facility, bush, field",0.088,"Enquête Sur Les Conditions De Vie Des Ménages Après Seisme, 2012 - ECVMAS12"
+Haiti,HT,HTI,332,Urban,16,Other unimproved,0.0,"Enquête Sur Les Conditions De Vie Des Ménages Après Seisme, 2012 - ECVMAS12"
+Haiti,HT,HTI,332,Urban,17,DK/missing information,0.0,"Enquête Sur Les Conditions De Vie Des Ménages Après Seisme, 2012 - ECVMAS12"
+Haiti,HT,HTI,332,Rural,1,Flush and pour flush - to piped sewer system,0.0,"Enquête Sur Les Conditions De Vie Des Ménages Après Seisme, 2012 - ECVMAS12"
+Haiti,HT,HTI,332,Rural,2,Flush and pour flush - to septic tank,0.0,"Enquête Sur Les Conditions De Vie Des Ménages Après Seisme, 2012 - ECVMAS12"
+Haiti,HT,HTI,332,Rural,3,Flush and pour flush - to pit,0.0,"Enquête Sur Les Conditions De Vie Des Ménages Après Seisme, 2012 - ECVMAS12"
+Haiti,HT,HTI,332,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Enquête Sur Les Conditions De Vie Des Ménages Après Seisme, 2012 - ECVMAS12"
+Haiti,HT,HTI,332,Rural,5,Flush and pour flush - to elsewhere,0.0,"Enquête Sur Les Conditions De Vie Des Ménages Après Seisme, 2012 - ECVMAS12"
+Haiti,HT,HTI,332,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Enquête Sur Les Conditions De Vie Des Ménages Après Seisme, 2012 - ECVMAS12"
+Haiti,HT,HTI,332,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.151,"Enquête Sur Les Conditions De Vie Des Ménages Après Seisme, 2012 - ECVMAS12"
+Haiti,HT,HTI,332,Rural,8,Dry latrines - Traditional latrine,0.155,"Enquête Sur Les Conditions De Vie Des Ménages Après Seisme, 2012 - ECVMAS12"
+Haiti,HT,HTI,332,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.318,"Enquête Sur Les Conditions De Vie Des Ménages Après Seisme, 2012 - ECVMAS12"
+Haiti,HT,HTI,332,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.122,"Enquête Sur Les Conditions De Vie Des Ménages Après Seisme, 2012 - ECVMAS12"
+Haiti,HT,HTI,332,Rural,8,Dry latrines - Traditional latrine,0.155,"Enquête Sur Les Conditions De Vie Des Ménages Après Seisme, 2012 - ECVMAS12"
+Haiti,HT,HTI,332,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.274,"Enquête Sur Les Conditions De Vie Des Ménages Après Seisme, 2012 - ECVMAS12"
+Haiti,HT,HTI,332,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.028,"Enquête Sur Les Conditions De Vie Des Ménages Après Seisme, 2012 - ECVMAS12"
+Haiti,HT,HTI,332,Rural,8,Dry latrines - Traditional latrine,0.0,"Enquête Sur Les Conditions De Vie Des Ménages Après Seisme, 2012 - ECVMAS12"
+Haiti,HT,HTI,332,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.044,"Enquête Sur Les Conditions De Vie Des Ménages Après Seisme, 2012 - ECVMAS12"
+Haiti,HT,HTI,332,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Enquête Sur Les Conditions De Vie Des Ménages Après Seisme, 2012 - ECVMAS12"
+Haiti,HT,HTI,332,Rural,11,Dry latrines - Bucket latrine,0.0,"Enquête Sur Les Conditions De Vie Des Ménages Après Seisme, 2012 - ECVMAS12"
+Haiti,HT,HTI,332,Rural,12,Dry latrines - Other,0.0,"Enquête Sur Les Conditions De Vie Des Ménages Après Seisme, 2012 - ECVMAS12"
+Haiti,HT,HTI,332,Rural,13,Composting toilets,0.0,"Enquête Sur Les Conditions De Vie Des Ménages Après Seisme, 2012 - ECVMAS12"
+Haiti,HT,HTI,332,Rural,14,Other improved,0.0,"Enquête Sur Les Conditions De Vie Des Ménages Après Seisme, 2012 - ECVMAS12"
+Haiti,HT,HTI,332,Rural,15,"No facility, bush, field",0.366,"Enquête Sur Les Conditions De Vie Des Ménages Après Seisme, 2012 - ECVMAS12"
+Haiti,HT,HTI,332,Rural,16,Other unimproved,0.0,"Enquête Sur Les Conditions De Vie Des Ménages Après Seisme, 2012 - ECVMAS12"
+Haiti,HT,HTI,332,Rural,17,DK/missing information,0.0,"Enquête Sur Les Conditions De Vie Des Ménages Après Seisme, 2012 - ECVMAS12"
+Haiti,HT,HTI,332,National,1,Flush and pour flush - to piped sewer system,0.0,"Enquête Sur Les Conditions De Vie Des Ménages Après Seisme, 2012 - ECVMAS12"
+Haiti,HT,HTI,332,National,2,Flush and pour flush - to septic tank,0.0,"Enquête Sur Les Conditions De Vie Des Ménages Après Seisme, 2012 - ECVMAS12"
+Haiti,HT,HTI,332,National,3,Flush and pour flush - to pit,0.0,"Enquête Sur Les Conditions De Vie Des Ménages Après Seisme, 2012 - ECVMAS12"
+Haiti,HT,HTI,332,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Enquête Sur Les Conditions De Vie Des Ménages Après Seisme, 2012 - ECVMAS12"
+Haiti,HT,HTI,332,National,5,Flush and pour flush - to elsewhere,0.0,"Enquête Sur Les Conditions De Vie Des Ménages Après Seisme, 2012 - ECVMAS12"
+Haiti,HT,HTI,332,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Enquête Sur Les Conditions De Vie Des Ménages Après Seisme, 2012 - ECVMAS12"
+Haiti,HT,HTI,332,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.255,"Enquête Sur Les Conditions De Vie Des Ménages Après Seisme, 2012 - ECVMAS12"
+Haiti,HT,HTI,332,National,8,Dry latrines - Traditional latrine,0.092,"Enquête Sur Les Conditions De Vie Des Ménages Après Seisme, 2012 - ECVMAS12"
+Haiti,HT,HTI,332,National,9,Dry latrines - Pit latrine without slab/open pit,0.364,"Enquête Sur Les Conditions De Vie Des Ménages Après Seisme, 2012 - ECVMAS12"
+Haiti,HT,HTI,332,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.2,"Enquête Sur Les Conditions De Vie Des Ménages Après Seisme, 2012 - ECVMAS12"
+Haiti,HT,HTI,332,National,8,Dry latrines - Traditional latrine,0.092,"Enquête Sur Les Conditions De Vie Des Ménages Après Seisme, 2012 - ECVMAS12"
+Haiti,HT,HTI,332,National,9,Dry latrines - Pit latrine without slab/open pit,0.274,"Enquête Sur Les Conditions De Vie Des Ménages Après Seisme, 2012 - ECVMAS12"
+Haiti,HT,HTI,332,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.055,"Enquête Sur Les Conditions De Vie Des Ménages Après Seisme, 2012 - ECVMAS12"
+Haiti,HT,HTI,332,National,8,Dry latrines - Traditional latrine,0.0,"Enquête Sur Les Conditions De Vie Des Ménages Après Seisme, 2012 - ECVMAS12"
+Haiti,HT,HTI,332,National,9,Dry latrines - Pit latrine without slab/open pit,0.09,"Enquête Sur Les Conditions De Vie Des Ménages Après Seisme, 2012 - ECVMAS12"
+Haiti,HT,HTI,332,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Enquête Sur Les Conditions De Vie Des Ménages Après Seisme, 2012 - ECVMAS12"
+Haiti,HT,HTI,332,National,11,Dry latrines - Bucket latrine,0.0,"Enquête Sur Les Conditions De Vie Des Ménages Après Seisme, 2012 - ECVMAS12"
+Haiti,HT,HTI,332,National,12,Dry latrines - Other,0.0,"Enquête Sur Les Conditions De Vie Des Ménages Après Seisme, 2012 - ECVMAS12"
+Haiti,HT,HTI,332,National,13,Composting toilets,0.0,"Enquête Sur Les Conditions De Vie Des Ménages Après Seisme, 2012 - ECVMAS12"
+Haiti,HT,HTI,332,National,14,Other improved,0.0,"Enquête Sur Les Conditions De Vie Des Ménages Après Seisme, 2012 - ECVMAS12"
+Haiti,HT,HTI,332,National,15,"No facility, bush, field",0.229,"Enquête Sur Les Conditions De Vie Des Ménages Après Seisme, 2012 - ECVMAS12"
+Haiti,HT,HTI,332,National,16,Other unimproved,0.0,"Enquête Sur Les Conditions De Vie Des Ménages Après Seisme, 2012 - ECVMAS12"
+Haiti,HT,HTI,332,National,17,DK/missing information,0.0,"Enquête Sur Les Conditions De Vie Des Ménages Après Seisme, 2012 - ECVMAS12"
 Haiti,HT,HTI,332,Urban,1,Flush and pour flush - to piped sewer system,0.006,Demographic and Health Survey - DHS17
 Haiti,HT,HTI,332,Urban,2,Flush and pour flush - to septic tank,0.245,Demographic and Health Survey - DHS17
 Haiti,HT,HTI,332,Urban,3,Flush and pour flush - to pit,0.023,Demographic and Health Survey - DHS17
@@ -101,3 +327,77 @@ Haiti,HT,HTI,332,Rural,14,Other improved,0.0,Demographic and Health Survey - DHS
 Haiti,HT,HTI,332,Rural,15,"No facility, bush, field",0.358,Demographic and Health Survey - DHS17
 Haiti,HT,HTI,332,Rural,16,Other unimproved,0.003,Demographic and Health Survey - DHS17
 Haiti,HT,HTI,332,Rural,17,DK/missing information,0.0,Demographic and Health Survey - DHS17
+Haiti,HT,HTI,332,National,1,Flush and pour flush - to piped sewer system,0.003,Demographic and Health Survey - DHS17
+Haiti,HT,HTI,332,National,2,Flush and pour flush - to septic tank,0.113,Demographic and Health Survey - DHS17
+Haiti,HT,HTI,332,National,3,Flush and pour flush - to pit,0.01,Demographic and Health Survey - DHS17
+Haiti,HT,HTI,332,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS17
+Haiti,HT,HTI,332,National,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS17
+Haiti,HT,HTI,332,National,6,Dry latrines - Ventilated Improved Pit latrine,0.033,Demographic and Health Survey - DHS17
+Haiti,HT,HTI,332,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.389,Demographic and Health Survey - DHS17
+Haiti,HT,HTI,332,National,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS17
+Haiti,HT,HTI,332,National,9,Dry latrines - Pit latrine without slab/open pit,0.183,Demographic and Health Survey - DHS17
+Haiti,HT,HTI,332,National,10,Dry latrines - Hanging toilet/hanging latrine,0.011,Demographic and Health Survey - DHS17
+Haiti,HT,HTI,332,National,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS17
+Haiti,HT,HTI,332,National,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS17
+Haiti,HT,HTI,332,National,13,Composting toilets,0.0,Demographic and Health Survey - DHS17
+Haiti,HT,HTI,332,National,14,Other improved,0.0,Demographic and Health Survey - DHS17
+Haiti,HT,HTI,332,National,15,"No facility, bush, field",0.254,Demographic and Health Survey - DHS17
+Haiti,HT,HTI,332,National,16,Other unimproved,0.003,Demographic and Health Survey - DHS17
+Haiti,HT,HTI,332,National,17,DK/missing information,0.0,Demographic and Health Survey - DHS17
+Haiti,HT,HTI,332,Urban,1,Flush and pour flush - to piped sewer system,0.085,Encuesta de Condiciones de Vida  - ECV01
+Haiti,HT,HTI,332,Urban,2,Flush and pour flush - to septic tank,0.0,Encuesta de Condiciones de Vida  - ECV01
+Haiti,HT,HTI,332,Urban,3,Flush and pour flush - to pit,0.0,Encuesta de Condiciones de Vida  - ECV01
+Haiti,HT,HTI,332,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta de Condiciones de Vida  - ECV01
+Haiti,HT,HTI,332,Urban,5,Flush and pour flush - to elsewhere,0.0,Encuesta de Condiciones de Vida  - ECV01
+Haiti,HT,HTI,332,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta de Condiciones de Vida  - ECV01
+Haiti,HT,HTI,332,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta de Condiciones de Vida  - ECV01
+Haiti,HT,HTI,332,Urban,8,Dry latrines - Traditional latrine,0.483,Encuesta de Condiciones de Vida  - ECV01
+Haiti,HT,HTI,332,Urban,8,Dry latrines - Traditional latrine,0.213,Encuesta de Condiciones de Vida  - ECV01
+Haiti,HT,HTI,332,Urban,8,Dry latrines - Traditional latrine,0.27,Encuesta de Condiciones de Vida  - ECV01
+Haiti,HT,HTI,332,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta de Condiciones de Vida  - ECV01
+Haiti,HT,HTI,332,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta de Condiciones de Vida  - ECV01
+Haiti,HT,HTI,332,Urban,11,Dry latrines - Bucket latrine,0.0,Encuesta de Condiciones de Vida  - ECV01
+Haiti,HT,HTI,332,Urban,12,Dry latrines - Other,0.0,Encuesta de Condiciones de Vida  - ECV01
+Haiti,HT,HTI,332,Urban,13,Composting toilets,0.0,Encuesta de Condiciones de Vida  - ECV01
+Haiti,HT,HTI,332,Urban,14,Other improved,0.0,Encuesta de Condiciones de Vida  - ECV01
+Haiti,HT,HTI,332,Urban,15,"No facility, bush, field",0.0,Encuesta de Condiciones de Vida  - ECV01
+Haiti,HT,HTI,332,Urban,16,Other unimproved,0.21,Encuesta de Condiciones de Vida  - ECV01
+Haiti,HT,HTI,332,Urban,17,DK/missing information,0.223,Encuesta de Condiciones de Vida  - ECV01
+Haiti,HT,HTI,332,Rural,1,Flush and pour flush - to piped sewer system,0.005,Encuesta de Condiciones de Vida  - ECV01
+Haiti,HT,HTI,332,Rural,2,Flush and pour flush - to septic tank,0.0,Encuesta de Condiciones de Vida  - ECV01
+Haiti,HT,HTI,332,Rural,3,Flush and pour flush - to pit,0.0,Encuesta de Condiciones de Vida  - ECV01
+Haiti,HT,HTI,332,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta de Condiciones de Vida  - ECV01
+Haiti,HT,HTI,332,Rural,5,Flush and pour flush - to elsewhere,0.0,Encuesta de Condiciones de Vida  - ECV01
+Haiti,HT,HTI,332,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta de Condiciones de Vida  - ECV01
+Haiti,HT,HTI,332,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta de Condiciones de Vida  - ECV01
+Haiti,HT,HTI,332,Rural,8,Dry latrines - Traditional latrine,0.228,Encuesta de Condiciones de Vida  - ECV01
+Haiti,HT,HTI,332,Rural,8,Dry latrines - Traditional latrine,0.154,Encuesta de Condiciones de Vida  - ECV01
+Haiti,HT,HTI,332,Rural,8,Dry latrines - Traditional latrine,0.073,Encuesta de Condiciones de Vida  - ECV01
+Haiti,HT,HTI,332,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta de Condiciones de Vida  - ECV01
+Haiti,HT,HTI,332,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta de Condiciones de Vida  - ECV01
+Haiti,HT,HTI,332,Rural,11,Dry latrines - Bucket latrine,0.0,Encuesta de Condiciones de Vida  - ECV01
+Haiti,HT,HTI,332,Rural,12,Dry latrines - Other,0.0,Encuesta de Condiciones de Vida  - ECV01
+Haiti,HT,HTI,332,Rural,13,Composting toilets,0.0,Encuesta de Condiciones de Vida  - ECV01
+Haiti,HT,HTI,332,Rural,14,Other improved,0.0,Encuesta de Condiciones de Vida  - ECV01
+Haiti,HT,HTI,332,Rural,15,"No facility, bush, field",0.0,Encuesta de Condiciones de Vida  - ECV01
+Haiti,HT,HTI,332,Rural,16,Other unimproved,0.173,Encuesta de Condiciones de Vida  - ECV01
+Haiti,HT,HTI,332,Rural,17,DK/missing information,0.595,Encuesta de Condiciones de Vida  - ECV01
+Haiti,HT,HTI,332,National,1,Flush and pour flush - to piped sewer system,0.037,Encuesta de Condiciones de Vida  - ECV01
+Haiti,HT,HTI,332,National,2,Flush and pour flush - to septic tank,0.0,Encuesta de Condiciones de Vida  - ECV01
+Haiti,HT,HTI,332,National,3,Flush and pour flush - to pit,0.0,Encuesta de Condiciones de Vida  - ECV01
+Haiti,HT,HTI,332,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta de Condiciones de Vida  - ECV01
+Haiti,HT,HTI,332,National,5,Flush and pour flush - to elsewhere,0.0,Encuesta de Condiciones de Vida  - ECV01
+Haiti,HT,HTI,332,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta de Condiciones de Vida  - ECV01
+Haiti,HT,HTI,332,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta de Condiciones de Vida  - ECV01
+Haiti,HT,HTI,332,National,8,Dry latrines - Traditional latrine,0.331,Encuesta de Condiciones de Vida  - ECV01
+Haiti,HT,HTI,332,National,8,Dry latrines - Traditional latrine,0.178,Encuesta de Condiciones de Vida  - ECV01
+Haiti,HT,HTI,332,National,8,Dry latrines - Traditional latrine,0.153,Encuesta de Condiciones de Vida  - ECV01
+Haiti,HT,HTI,332,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta de Condiciones de Vida  - ECV01
+Haiti,HT,HTI,332,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta de Condiciones de Vida  - ECV01
+Haiti,HT,HTI,332,National,11,Dry latrines - Bucket latrine,0.0,Encuesta de Condiciones de Vida  - ECV01
+Haiti,HT,HTI,332,National,12,Dry latrines - Other,0.0,Encuesta de Condiciones de Vida  - ECV01
+Haiti,HT,HTI,332,National,13,Composting toilets,0.0,Encuesta de Condiciones de Vida  - ECV01
+Haiti,HT,HTI,332,National,14,Other improved,0.0,Encuesta de Condiciones de Vida  - ECV01
+Haiti,HT,HTI,332,National,15,"No facility, bush, field",0.0,Encuesta de Condiciones de Vida  - ECV01
+Haiti,HT,HTI,332,National,16,Other unimproved,0.188,Encuesta de Condiciones de Vida  - ECV01
+Haiti,HT,HTI,332,National,17,DK/missing information,0.445,Encuesta de Condiciones de Vida  - ECV01

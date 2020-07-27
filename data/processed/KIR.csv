@@ -1,0 +1,325 @@
+country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+Kiribati,KI,KIR,296,Urban,1,Flush and pour flush - to piped sewer system,0.0,National Census  - CEN00
+Kiribati,KI,KIR,296,Urban,2,Flush and pour flush - to septic tank,0.0,National Census  - CEN00
+Kiribati,KI,KIR,296,Urban,3,Flush and pour flush - to pit,0.0,National Census  - CEN00
+Kiribati,KI,KIR,296,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Census  - CEN00
+Kiribati,KI,KIR,296,Urban,5,Flush and pour flush - to elsewhere,0.0,National Census  - CEN00
+Kiribati,KI,KIR,296,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,National Census  - CEN00
+Kiribati,KI,KIR,296,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Census  - CEN00
+Kiribati,KI,KIR,296,Urban,8,Dry latrines - Traditional latrine,0.0,National Census  - CEN00
+Kiribati,KI,KIR,296,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Census  - CEN00
+Kiribati,KI,KIR,296,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Census  - CEN00
+Kiribati,KI,KIR,296,Urban,11,Dry latrines - Bucket latrine,0.0,National Census  - CEN00
+Kiribati,KI,KIR,296,Urban,12,Dry latrines - Other,0.0,National Census  - CEN00
+Kiribati,KI,KIR,296,Urban,13,Composting toilets,0.014,National Census  - CEN00
+Kiribati,KI,KIR,296,Urban,14,Other improved,0.0,National Census  - CEN00
+Kiribati,KI,KIR,296,Urban,15,"No facility, bush, field",0.412,National Census  - CEN00
+Kiribati,KI,KIR,296,Urban,16,Other unimproved,0.03,National Census  - CEN00
+Kiribati,KI,KIR,296,Urban,17,DK/missing information,0.0,National Census  - CEN00
+Kiribati,KI,KIR,296,Rural,1,Flush and pour flush - to piped sewer system,0.0,National Census  - CEN00
+Kiribati,KI,KIR,296,Rural,2,Flush and pour flush - to septic tank,0.0,National Census  - CEN00
+Kiribati,KI,KIR,296,Rural,3,Flush and pour flush - to pit,0.0,National Census  - CEN00
+Kiribati,KI,KIR,296,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Census  - CEN00
+Kiribati,KI,KIR,296,Rural,5,Flush and pour flush - to elsewhere,0.0,National Census  - CEN00
+Kiribati,KI,KIR,296,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,National Census  - CEN00
+Kiribati,KI,KIR,296,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Census  - CEN00
+Kiribati,KI,KIR,296,Rural,8,Dry latrines - Traditional latrine,0.0,National Census  - CEN00
+Kiribati,KI,KIR,296,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Census  - CEN00
+Kiribati,KI,KIR,296,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Census  - CEN00
+Kiribati,KI,KIR,296,Rural,11,Dry latrines - Bucket latrine,0.0,National Census  - CEN00
+Kiribati,KI,KIR,296,Rural,12,Dry latrines - Other,0.0,National Census  - CEN00
+Kiribati,KI,KIR,296,Rural,13,Composting toilets,0.018,National Census  - CEN00
+Kiribati,KI,KIR,296,Rural,14,Other improved,0.0,National Census  - CEN00
+Kiribati,KI,KIR,296,Rural,15,"No facility, bush, field",0.55,National Census  - CEN00
+Kiribati,KI,KIR,296,Rural,16,Other unimproved,0.21,National Census  - CEN00
+Kiribati,KI,KIR,296,Rural,17,DK/missing information,0.0,National Census  - CEN00
+Kiribati,KI,KIR,296,National,1,Flush and pour flush - to piped sewer system,0.0,National Census  - CEN00
+Kiribati,KI,KIR,296,National,2,Flush and pour flush - to septic tank,0.0,National Census  - CEN00
+Kiribati,KI,KIR,296,National,3,Flush and pour flush - to pit,0.0,National Census  - CEN00
+Kiribati,KI,KIR,296,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Census  - CEN00
+Kiribati,KI,KIR,296,National,5,Flush and pour flush - to elsewhere,0.0,National Census  - CEN00
+Kiribati,KI,KIR,296,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,National Census  - CEN00
+Kiribati,KI,KIR,296,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Census  - CEN00
+Kiribati,KI,KIR,296,National,8,Dry latrines - Traditional latrine,0.0,National Census  - CEN00
+Kiribati,KI,KIR,296,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Census  - CEN00
+Kiribati,KI,KIR,296,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Census  - CEN00
+Kiribati,KI,KIR,296,National,11,Dry latrines - Bucket latrine,0.0,National Census  - CEN00
+Kiribati,KI,KIR,296,National,12,Dry latrines - Other,0.0,National Census  - CEN00
+Kiribati,KI,KIR,296,National,13,Composting toilets,0.017,National Census  - CEN00
+Kiribati,KI,KIR,296,National,14,Other improved,0.0,National Census  - CEN00
+Kiribati,KI,KIR,296,National,15,"No facility, bush, field",0.511,National Census  - CEN00
+Kiribati,KI,KIR,296,National,16,Other unimproved,0.16,National Census  - CEN00
+Kiribati,KI,KIR,296,National,17,DK/missing information,0.0,National Census  - CEN00
+Kiribati,KI,KIR,296,Urban,1,Flush and pour flush - to piped sewer system,0.0,Census - CEN05
+Kiribati,KI,KIR,296,Urban,2,Flush and pour flush - to septic tank,0.0,Census - CEN05
+Kiribati,KI,KIR,296,Urban,3,Flush and pour flush - to pit,0.0,Census - CEN05
+Kiribati,KI,KIR,296,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN05
+Kiribati,KI,KIR,296,Urban,5,Flush and pour flush - to elsewhere,0.0,Census - CEN05
+Kiribati,KI,KIR,296,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN05
+Kiribati,KI,KIR,296,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN05
+Kiribati,KI,KIR,296,Urban,8,Dry latrines - Traditional latrine,0.0,Census - CEN05
+Kiribati,KI,KIR,296,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN05
+Kiribati,KI,KIR,296,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN05
+Kiribati,KI,KIR,296,Urban,11,Dry latrines - Bucket latrine,0.0,Census - CEN05
+Kiribati,KI,KIR,296,Urban,12,Dry latrines - Other,0.0,Census - CEN05
+Kiribati,KI,KIR,296,Urban,13,Composting toilets,0.0,Census - CEN05
+Kiribati,KI,KIR,296,Urban,14,Other improved,0.0,Census - CEN05
+Kiribati,KI,KIR,296,Urban,15,"No facility, bush, field",0.0,Census - CEN05
+Kiribati,KI,KIR,296,Urban,16,Other unimproved,0.0,Census - CEN05
+Kiribati,KI,KIR,296,Urban,17,DK/missing information,0.0,Census - CEN05
+Kiribati,KI,KIR,296,Rural,1,Flush and pour flush - to piped sewer system,0.0,Census - CEN05
+Kiribati,KI,KIR,296,Rural,2,Flush and pour flush - to septic tank,0.0,Census - CEN05
+Kiribati,KI,KIR,296,Rural,3,Flush and pour flush - to pit,0.0,Census - CEN05
+Kiribati,KI,KIR,296,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN05
+Kiribati,KI,KIR,296,Rural,5,Flush and pour flush - to elsewhere,0.0,Census - CEN05
+Kiribati,KI,KIR,296,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN05
+Kiribati,KI,KIR,296,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN05
+Kiribati,KI,KIR,296,Rural,8,Dry latrines - Traditional latrine,0.0,Census - CEN05
+Kiribati,KI,KIR,296,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN05
+Kiribati,KI,KIR,296,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN05
+Kiribati,KI,KIR,296,Rural,11,Dry latrines - Bucket latrine,0.0,Census - CEN05
+Kiribati,KI,KIR,296,Rural,12,Dry latrines - Other,0.0,Census - CEN05
+Kiribati,KI,KIR,296,Rural,13,Composting toilets,0.0,Census - CEN05
+Kiribati,KI,KIR,296,Rural,14,Other improved,0.0,Census - CEN05
+Kiribati,KI,KIR,296,Rural,15,"No facility, bush, field",0.0,Census - CEN05
+Kiribati,KI,KIR,296,Rural,16,Other unimproved,0.0,Census - CEN05
+Kiribati,KI,KIR,296,Rural,17,DK/missing information,0.0,Census - CEN05
+Kiribati,KI,KIR,296,National,1,Flush and pour flush - to piped sewer system,0.175,Census - CEN05
+Kiribati,KI,KIR,296,National,2,Flush and pour flush - to septic tank,0.0,Census - CEN05
+Kiribati,KI,KIR,296,National,3,Flush and pour flush - to pit,0.0,Census - CEN05
+Kiribati,KI,KIR,296,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN05
+Kiribati,KI,KIR,296,National,5,Flush and pour flush - to elsewhere,0.0,Census - CEN05
+Kiribati,KI,KIR,296,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN05
+Kiribati,KI,KIR,296,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN05
+Kiribati,KI,KIR,296,National,8,Dry latrines - Traditional latrine,0.19,Census - CEN05
+Kiribati,KI,KIR,296,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN05
+Kiribati,KI,KIR,296,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN05
+Kiribati,KI,KIR,296,National,11,Dry latrines - Bucket latrine,0.0,Census - CEN05
+Kiribati,KI,KIR,296,National,12,Dry latrines - Other,0.0,Census - CEN05
+Kiribati,KI,KIR,296,National,13,Composting toilets,0.0,Census - CEN05
+Kiribati,KI,KIR,296,National,14,Other improved,0.0,Census - CEN05
+Kiribati,KI,KIR,296,National,15,"No facility, bush, field",0.611,Census - CEN05
+Kiribati,KI,KIR,296,National,16,Other unimproved,0.025,Census - CEN05
+Kiribati,KI,KIR,296,National,17,DK/missing information,0.0,Census - CEN05
+Kiribati,KI,KIR,296,Urban,1,Flush and pour flush - to piped sewer system,0.0,HIES - HIES05
+Kiribati,KI,KIR,296,Urban,2,Flush and pour flush - to septic tank,0.0,HIES - HIES05
+Kiribati,KI,KIR,296,Urban,3,Flush and pour flush - to pit,0.0,HIES - HIES05
+Kiribati,KI,KIR,296,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,HIES - HIES05
+Kiribati,KI,KIR,296,Urban,5,Flush and pour flush - to elsewhere,0.0,HIES - HIES05
+Kiribati,KI,KIR,296,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,HIES - HIES05
+Kiribati,KI,KIR,296,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,HIES - HIES05
+Kiribati,KI,KIR,296,Urban,8,Dry latrines - Traditional latrine,0.0,HIES - HIES05
+Kiribati,KI,KIR,296,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,HIES - HIES05
+Kiribati,KI,KIR,296,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,HIES - HIES05
+Kiribati,KI,KIR,296,Urban,11,Dry latrines - Bucket latrine,0.0,HIES - HIES05
+Kiribati,KI,KIR,296,Urban,12,Dry latrines - Other,0.0,HIES - HIES05
+Kiribati,KI,KIR,296,Urban,13,Composting toilets,0.0,HIES - HIES05
+Kiribati,KI,KIR,296,Urban,14,Other improved,0.0,HIES - HIES05
+Kiribati,KI,KIR,296,Urban,15,"No facility, bush, field",0.0,HIES - HIES05
+Kiribati,KI,KIR,296,Urban,16,Other unimproved,0.0,HIES - HIES05
+Kiribati,KI,KIR,296,Urban,17,DK/missing information,0.0,HIES - HIES05
+Kiribati,KI,KIR,296,Rural,1,Flush and pour flush - to piped sewer system,0.0,HIES - HIES05
+Kiribati,KI,KIR,296,Rural,2,Flush and pour flush - to septic tank,0.0,HIES - HIES05
+Kiribati,KI,KIR,296,Rural,3,Flush and pour flush - to pit,0.0,HIES - HIES05
+Kiribati,KI,KIR,296,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,HIES - HIES05
+Kiribati,KI,KIR,296,Rural,5,Flush and pour flush - to elsewhere,0.0,HIES - HIES05
+Kiribati,KI,KIR,296,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,HIES - HIES05
+Kiribati,KI,KIR,296,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,HIES - HIES05
+Kiribati,KI,KIR,296,Rural,8,Dry latrines - Traditional latrine,0.0,HIES - HIES05
+Kiribati,KI,KIR,296,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,HIES - HIES05
+Kiribati,KI,KIR,296,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,HIES - HIES05
+Kiribati,KI,KIR,296,Rural,11,Dry latrines - Bucket latrine,0.0,HIES - HIES05
+Kiribati,KI,KIR,296,Rural,12,Dry latrines - Other,0.0,HIES - HIES05
+Kiribati,KI,KIR,296,Rural,13,Composting toilets,0.0,HIES - HIES05
+Kiribati,KI,KIR,296,Rural,14,Other improved,0.0,HIES - HIES05
+Kiribati,KI,KIR,296,Rural,15,"No facility, bush, field",0.0,HIES - HIES05
+Kiribati,KI,KIR,296,Rural,16,Other unimproved,0.0,HIES - HIES05
+Kiribati,KI,KIR,296,Rural,17,DK/missing information,0.0,HIES - HIES05
+Kiribati,KI,KIR,296,National,1,Flush and pour flush - to piped sewer system,0.071,HIES - HIES05
+Kiribati,KI,KIR,296,National,2,Flush and pour flush - to septic tank,0.28,HIES - HIES05
+Kiribati,KI,KIR,296,National,3,Flush and pour flush - to pit,0.0,HIES - HIES05
+Kiribati,KI,KIR,296,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,HIES - HIES05
+Kiribati,KI,KIR,296,National,5,Flush and pour flush - to elsewhere,0.0,HIES - HIES05
+Kiribati,KI,KIR,296,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,HIES - HIES05
+Kiribati,KI,KIR,296,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,HIES - HIES05
+Kiribati,KI,KIR,296,National,8,Dry latrines - Traditional latrine,0.146,HIES - HIES05
+Kiribati,KI,KIR,296,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,HIES - HIES05
+Kiribati,KI,KIR,296,National,10,Dry latrines - Hanging toilet/hanging latrine,0.182,HIES - HIES05
+Kiribati,KI,KIR,296,National,11,Dry latrines - Bucket latrine,0.0,HIES - HIES05
+Kiribati,KI,KIR,296,National,12,Dry latrines - Other,0.0,HIES - HIES05
+Kiribati,KI,KIR,296,National,13,Composting toilets,0.0,HIES - HIES05
+Kiribati,KI,KIR,296,National,14,Other improved,0.0,HIES - HIES05
+Kiribati,KI,KIR,296,National,15,"No facility, bush, field",0.212,HIES - HIES05
+Kiribati,KI,KIR,296,National,16,Other unimproved,0.064,HIES - HIES05
+Kiribati,KI,KIR,296,National,17,DK/missing information,0.0,HIES - HIES05
+Kiribati,KI,KIR,296,Urban,1,Flush and pour flush - to piped sewer system,0.148,DHS - DHS09
+Kiribati,KI,KIR,296,Urban,2,Flush and pour flush - to septic tank,0.254,DHS - DHS09
+Kiribati,KI,KIR,296,Urban,3,Flush and pour flush - to pit,0.007,DHS - DHS09
+Kiribati,KI,KIR,296,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,DHS - DHS09
+Kiribati,KI,KIR,296,Urban,5,Flush and pour flush - to elsewhere,0.021,DHS - DHS09
+Kiribati,KI,KIR,296,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.004,DHS - DHS09
+Kiribati,KI,KIR,296,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,DHS - DHS09
+Kiribati,KI,KIR,296,Urban,8,Dry latrines - Traditional latrine,0.0,DHS - DHS09
+Kiribati,KI,KIR,296,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,DHS - DHS09
+Kiribati,KI,KIR,296,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,DHS - DHS09
+Kiribati,KI,KIR,296,Urban,11,Dry latrines - Bucket latrine,0.263,DHS - DHS09
+Kiribati,KI,KIR,296,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.004,DHS - DHS09
+Kiribati,KI,KIR,296,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,DHS - DHS09
+Kiribati,KI,KIR,296,Urban,8,Dry latrines - Traditional latrine,0.0,DHS - DHS09
+Kiribati,KI,KIR,296,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,DHS - DHS09
+Kiribati,KI,KIR,296,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,DHS - DHS09
+Kiribati,KI,KIR,296,Urban,11,Dry latrines - Bucket latrine,0.0,DHS - DHS09
+Kiribati,KI,KIR,296,Urban,12,Dry latrines - Other,0.0,DHS - DHS09
+Kiribati,KI,KIR,296,Urban,13,Composting toilets,0.0,DHS - DHS09
+Kiribati,KI,KIR,296,Urban,14,Other improved,0.114,DHS - DHS09
+Kiribati,KI,KIR,296,Urban,15,"No facility, bush, field",0.184,DHS - DHS09
+Kiribati,KI,KIR,296,Urban,16,Other unimproved,0.004,DHS - DHS09
+Kiribati,KI,KIR,296,Urban,17,DK/missing information,0.0,DHS - DHS09
+Kiribati,KI,KIR,296,Rural,1,Flush and pour flush - to piped sewer system,0.096,DHS - DHS09
+Kiribati,KI,KIR,296,Rural,2,Flush and pour flush - to septic tank,0.093,DHS - DHS09
+Kiribati,KI,KIR,296,Rural,3,Flush and pour flush - to pit,0.022,DHS - DHS09
+Kiribati,KI,KIR,296,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,DHS - DHS09
+Kiribati,KI,KIR,296,Rural,5,Flush and pour flush - to elsewhere,0.02,DHS - DHS09
+Kiribati,KI,KIR,296,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.014,DHS - DHS09
+Kiribati,KI,KIR,296,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,DHS - DHS09
+Kiribati,KI,KIR,296,Rural,8,Dry latrines - Traditional latrine,0.0,DHS - DHS09
+Kiribati,KI,KIR,296,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,DHS - DHS09
+Kiribati,KI,KIR,296,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,DHS - DHS09
+Kiribati,KI,KIR,296,Rural,11,Dry latrines - Bucket latrine,0.228,DHS - DHS09
+Kiribati,KI,KIR,296,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.014,DHS - DHS09
+Kiribati,KI,KIR,296,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,DHS - DHS09
+Kiribati,KI,KIR,296,Rural,8,Dry latrines - Traditional latrine,0.0,DHS - DHS09
+Kiribati,KI,KIR,296,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,DHS - DHS09
+Kiribati,KI,KIR,296,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,DHS - DHS09
+Kiribati,KI,KIR,296,Rural,11,Dry latrines - Bucket latrine,0.0,DHS - DHS09
+Kiribati,KI,KIR,296,Rural,12,Dry latrines - Other,0.0,DHS - DHS09
+Kiribati,KI,KIR,296,Rural,13,Composting toilets,0.0,DHS - DHS09
+Kiribati,KI,KIR,296,Rural,14,Other improved,0.029,DHS - DHS09
+Kiribati,KI,KIR,296,Rural,15,"No facility, bush, field",0.494,DHS - DHS09
+Kiribati,KI,KIR,296,Rural,16,Other unimproved,0.003,DHS - DHS09
+Kiribati,KI,KIR,296,Rural,17,DK/missing information,0.0,DHS - DHS09
+Kiribati,KI,KIR,296,National,1,Flush and pour flush - to piped sewer system,0.12,DHS - DHS09
+Kiribati,KI,KIR,296,National,2,Flush and pour flush - to septic tank,0.167,DHS - DHS09
+Kiribati,KI,KIR,296,National,3,Flush and pour flush - to pit,0.015,DHS - DHS09
+Kiribati,KI,KIR,296,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,DHS - DHS09
+Kiribati,KI,KIR,296,National,5,Flush and pour flush - to elsewhere,0.02,DHS - DHS09
+Kiribati,KI,KIR,296,National,6,Dry latrines - Ventilated Improved Pit latrine,0.01,DHS - DHS09
+Kiribati,KI,KIR,296,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,DHS - DHS09
+Kiribati,KI,KIR,296,National,8,Dry latrines - Traditional latrine,0.0,DHS - DHS09
+Kiribati,KI,KIR,296,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,DHS - DHS09
+Kiribati,KI,KIR,296,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,DHS - DHS09
+Kiribati,KI,KIR,296,National,11,Dry latrines - Bucket latrine,0.244,DHS - DHS09
+Kiribati,KI,KIR,296,National,6,Dry latrines - Ventilated Improved Pit latrine,0.01,DHS - DHS09
+Kiribati,KI,KIR,296,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,DHS - DHS09
+Kiribati,KI,KIR,296,National,8,Dry latrines - Traditional latrine,0.0,DHS - DHS09
+Kiribati,KI,KIR,296,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,DHS - DHS09
+Kiribati,KI,KIR,296,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,DHS - DHS09
+Kiribati,KI,KIR,296,National,11,Dry latrines - Bucket latrine,0.0,DHS - DHS09
+Kiribati,KI,KIR,296,National,12,Dry latrines - Other,0.0,DHS - DHS09
+Kiribati,KI,KIR,296,National,13,Composting toilets,0.0,DHS - DHS09
+Kiribati,KI,KIR,296,National,14,Other improved,0.068,DHS - DHS09
+Kiribati,KI,KIR,296,National,15,"No facility, bush, field",0.351,DHS - DHS09
+Kiribati,KI,KIR,296,National,16,Other unimproved,0.003,DHS - DHS09
+Kiribati,KI,KIR,296,National,17,DK/missing information,0.0,DHS - DHS09
+Kiribati,KI,KIR,296,Urban,1,Flush and pour flush - to piped sewer system,0.265,Census - CEN10
+Kiribati,KI,KIR,296,Urban,2,Flush and pour flush - to septic tank,0.389,Census - CEN10
+Kiribati,KI,KIR,296,Urban,3,Flush and pour flush - to pit,0.0,Census - CEN10
+Kiribati,KI,KIR,296,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN10
+Kiribati,KI,KIR,296,Urban,5,Flush and pour flush - to elsewhere,0.0,Census - CEN10
+Kiribati,KI,KIR,296,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN10
+Kiribati,KI,KIR,296,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN10
+Kiribati,KI,KIR,296,Urban,8,Dry latrines - Traditional latrine,0.079,Census - CEN10
+Kiribati,KI,KIR,296,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN10
+Kiribati,KI,KIR,296,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN10
+Kiribati,KI,KIR,296,Urban,11,Dry latrines - Bucket latrine,0.0,Census - CEN10
+Kiribati,KI,KIR,296,Urban,12,Dry latrines - Other,0.0,Census - CEN10
+Kiribati,KI,KIR,296,Urban,13,Composting toilets,0.0,Census - CEN10
+Kiribati,KI,KIR,296,Urban,14,Other improved,0.0,Census - CEN10
+Kiribati,KI,KIR,296,Urban,15,"No facility, bush, field",0.223,Census - CEN10
+Kiribati,KI,KIR,296,Urban,16,Other unimproved,0.044,Census - CEN10
+Kiribati,KI,KIR,296,Urban,17,DK/missing information,0.0,Census - CEN10
+Kiribati,KI,KIR,296,Rural,1,Flush and pour flush - to piped sewer system,0.015,Census - CEN10
+Kiribati,KI,KIR,296,Rural,2,Flush and pour flush - to septic tank,0.353,Census - CEN10
+Kiribati,KI,KIR,296,Rural,3,Flush and pour flush - to pit,0.0,Census - CEN10
+Kiribati,KI,KIR,296,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN10
+Kiribati,KI,KIR,296,Rural,5,Flush and pour flush - to elsewhere,0.0,Census - CEN10
+Kiribati,KI,KIR,296,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN10
+Kiribati,KI,KIR,296,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN10
+Kiribati,KI,KIR,296,Rural,8,Dry latrines - Traditional latrine,0.081,Census - CEN10
+Kiribati,KI,KIR,296,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN10
+Kiribati,KI,KIR,296,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN10
+Kiribati,KI,KIR,296,Rural,11,Dry latrines - Bucket latrine,0.0,Census - CEN10
+Kiribati,KI,KIR,296,Rural,12,Dry latrines - Other,0.0,Census - CEN10
+Kiribati,KI,KIR,296,Rural,13,Composting toilets,0.0,Census - CEN10
+Kiribati,KI,KIR,296,Rural,14,Other improved,0.0,Census - CEN10
+Kiribati,KI,KIR,296,Rural,15,"No facility, bush, field",0.526,Census - CEN10
+Kiribati,KI,KIR,296,Rural,16,Other unimproved,0.025,Census - CEN10
+Kiribati,KI,KIR,296,Rural,17,DK/missing information,0.0,Census - CEN10
+Kiribati,KI,KIR,296,National,1,Flush and pour flush - to piped sewer system,0.12,Census - CEN10
+Kiribati,KI,KIR,296,National,2,Flush and pour flush - to septic tank,0.368,Census - CEN10
+Kiribati,KI,KIR,296,National,3,Flush and pour flush - to pit,0.0,Census - CEN10
+Kiribati,KI,KIR,296,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN10
+Kiribati,KI,KIR,296,National,5,Flush and pour flush - to elsewhere,0.0,Census - CEN10
+Kiribati,KI,KIR,296,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN10
+Kiribati,KI,KIR,296,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN10
+Kiribati,KI,KIR,296,National,8,Dry latrines - Traditional latrine,0.08,Census - CEN10
+Kiribati,KI,KIR,296,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN10
+Kiribati,KI,KIR,296,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN10
+Kiribati,KI,KIR,296,National,11,Dry latrines - Bucket latrine,0.0,Census - CEN10
+Kiribati,KI,KIR,296,National,12,Dry latrines - Other,0.0,Census - CEN10
+Kiribati,KI,KIR,296,National,13,Composting toilets,0.0,Census - CEN10
+Kiribati,KI,KIR,296,National,14,Other improved,0.0,Census - CEN10
+Kiribati,KI,KIR,296,National,15,"No facility, bush, field",0.4,Census - CEN10
+Kiribati,KI,KIR,296,National,16,Other unimproved,0.033,Census - CEN10
+Kiribati,KI,KIR,296,National,17,DK/missing information,0.0,Census - CEN10
+Kiribati,KI,KIR,296,Urban,1,Flush and pour flush - to piped sewer system,0.0,2015 Population and housing census - CEN15
+Kiribati,KI,KIR,296,Urban,2,Flush and pour flush - to septic tank,0.0,2015 Population and housing census - CEN15
+Kiribati,KI,KIR,296,Urban,3,Flush and pour flush - to pit,0.0,2015 Population and housing census - CEN15
+Kiribati,KI,KIR,296,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,2015 Population and housing census - CEN15
+Kiribati,KI,KIR,296,Urban,5,Flush and pour flush - to elsewhere,0.0,2015 Population and housing census - CEN15
+Kiribati,KI,KIR,296,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,2015 Population and housing census - CEN15
+Kiribati,KI,KIR,296,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,2015 Population and housing census - CEN15
+Kiribati,KI,KIR,296,Urban,8,Dry latrines - Traditional latrine,0.0,2015 Population and housing census - CEN15
+Kiribati,KI,KIR,296,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,2015 Population and housing census - CEN15
+Kiribati,KI,KIR,296,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,2015 Population and housing census - CEN15
+Kiribati,KI,KIR,296,Urban,11,Dry latrines - Bucket latrine,0.0,2015 Population and housing census - CEN15
+Kiribati,KI,KIR,296,Urban,12,Dry latrines - Other,0.0,2015 Population and housing census - CEN15
+Kiribati,KI,KIR,296,Urban,13,Composting toilets,0.0,2015 Population and housing census - CEN15
+Kiribati,KI,KIR,296,Urban,14,Other improved,0.0,2015 Population and housing census - CEN15
+Kiribati,KI,KIR,296,Urban,15,"No facility, bush, field",0.0,2015 Population and housing census - CEN15
+Kiribati,KI,KIR,296,Urban,16,Other unimproved,0.0,2015 Population and housing census - CEN15
+Kiribati,KI,KIR,296,Urban,17,DK/missing information,0.0,2015 Population and housing census - CEN15
+Kiribati,KI,KIR,296,Rural,1,Flush and pour flush - to piped sewer system,0.0,2015 Population and housing census - CEN15
+Kiribati,KI,KIR,296,Rural,2,Flush and pour flush - to septic tank,0.0,2015 Population and housing census - CEN15
+Kiribati,KI,KIR,296,Rural,3,Flush and pour flush - to pit,0.0,2015 Population and housing census - CEN15
+Kiribati,KI,KIR,296,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,2015 Population and housing census - CEN15
+Kiribati,KI,KIR,296,Rural,5,Flush and pour flush - to elsewhere,0.0,2015 Population and housing census - CEN15
+Kiribati,KI,KIR,296,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,2015 Population and housing census - CEN15
+Kiribati,KI,KIR,296,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,2015 Population and housing census - CEN15
+Kiribati,KI,KIR,296,Rural,8,Dry latrines - Traditional latrine,0.0,2015 Population and housing census - CEN15
+Kiribati,KI,KIR,296,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,2015 Population and housing census - CEN15
+Kiribati,KI,KIR,296,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,2015 Population and housing census - CEN15
+Kiribati,KI,KIR,296,Rural,11,Dry latrines - Bucket latrine,0.0,2015 Population and housing census - CEN15
+Kiribati,KI,KIR,296,Rural,12,Dry latrines - Other,0.0,2015 Population and housing census - CEN15
+Kiribati,KI,KIR,296,Rural,13,Composting toilets,0.0,2015 Population and housing census - CEN15
+Kiribati,KI,KIR,296,Rural,14,Other improved,0.0,2015 Population and housing census - CEN15
+Kiribati,KI,KIR,296,Rural,15,"No facility, bush, field",0.0,2015 Population and housing census - CEN15
+Kiribati,KI,KIR,296,Rural,16,Other unimproved,0.0,2015 Population and housing census - CEN15
+Kiribati,KI,KIR,296,Rural,17,DK/missing information,0.0,2015 Population and housing census - CEN15
+Kiribati,KI,KIR,296,National,1,Flush and pour flush - to piped sewer system,0.058,2015 Population and housing census - CEN15
+Kiribati,KI,KIR,296,National,2,Flush and pour flush - to septic tank,0.012,2015 Population and housing census - CEN15
+Kiribati,KI,KIR,296,National,3,Flush and pour flush - to pit,0.365,2015 Population and housing census - CEN15
+Kiribati,KI,KIR,296,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.185,2015 Population and housing census - CEN15
+Kiribati,KI,KIR,296,National,5,Flush and pour flush - to elsewhere,0.0,2015 Population and housing census - CEN15
+Kiribati,KI,KIR,296,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,2015 Population and housing census - CEN15
+Kiribati,KI,KIR,296,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,2015 Population and housing census - CEN15
+Kiribati,KI,KIR,296,National,8,Dry latrines - Traditional latrine,0.0,2015 Population and housing census - CEN15
+Kiribati,KI,KIR,296,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,2015 Population and housing census - CEN15
+Kiribati,KI,KIR,296,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,2015 Population and housing census - CEN15
+Kiribati,KI,KIR,296,National,11,Dry latrines - Bucket latrine,0.0,2015 Population and housing census - CEN15
+Kiribati,KI,KIR,296,National,12,Dry latrines - Other,0.0,2015 Population and housing census - CEN15
+Kiribati,KI,KIR,296,National,13,Composting toilets,0.0,2015 Population and housing census - CEN15
+Kiribati,KI,KIR,296,National,14,Other improved,0.0,2015 Population and housing census - CEN15
+Kiribati,KI,KIR,296,National,15,"No facility, bush, field",0.316,2015 Population and housing census - CEN15
+Kiribati,KI,KIR,296,National,16,Other unimproved,0.063,2015 Population and housing census - CEN15
+Kiribati,KI,KIR,296,National,17,DK/missing information,0.0,2015 Population and housing census - CEN15

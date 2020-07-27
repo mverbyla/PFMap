@@ -1,4 +1,55 @@
 country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+Azerbaijan,AZ,AZE,031,Urban,1,Flush and pour flush - to piped sewer system,0.0,Multiple Indicator Cluster Survey - MICS00
+Azerbaijan,AZ,AZE,031,Urban,2,Flush and pour flush - to septic tank,0.0,Multiple Indicator Cluster Survey - MICS00
+Azerbaijan,AZ,AZE,031,Urban,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Azerbaijan,AZ,AZE,031,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS00
+Azerbaijan,AZ,AZE,031,Urban,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS00
+Azerbaijan,AZ,AZE,031,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Azerbaijan,AZ,AZE,031,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.015,Multiple Indicator Cluster Survey - MICS00
+Azerbaijan,AZ,AZE,031,Urban,8,Dry latrines - Traditional latrine,0.33,Multiple Indicator Cluster Survey - MICS00
+Azerbaijan,AZ,AZE,031,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.097,Multiple Indicator Cluster Survey - MICS00
+Azerbaijan,AZ,AZE,031,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Azerbaijan,AZ,AZE,031,Urban,11,Dry latrines - Bucket latrine,0.001,Multiple Indicator Cluster Survey - MICS00
+Azerbaijan,AZ,AZE,031,Urban,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS00
+Azerbaijan,AZ,AZE,031,Urban,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS00
+Azerbaijan,AZ,AZE,031,Urban,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS00
+Azerbaijan,AZ,AZE,031,Urban,15,"No facility, bush, field",0.001,Multiple Indicator Cluster Survey - MICS00
+Azerbaijan,AZ,AZE,031,Urban,16,Other unimproved,0.003,Multiple Indicator Cluster Survey - MICS00
+Azerbaijan,AZ,AZE,031,Urban,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS00
+Azerbaijan,AZ,AZE,031,Rural,1,Flush and pour flush - to piped sewer system,0.0,Multiple Indicator Cluster Survey - MICS00
+Azerbaijan,AZ,AZE,031,Rural,2,Flush and pour flush - to septic tank,0.0,Multiple Indicator Cluster Survey - MICS00
+Azerbaijan,AZ,AZE,031,Rural,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Azerbaijan,AZ,AZE,031,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS00
+Azerbaijan,AZ,AZE,031,Rural,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS00
+Azerbaijan,AZ,AZE,031,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Azerbaijan,AZ,AZE,031,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.001,Multiple Indicator Cluster Survey - MICS00
+Azerbaijan,AZ,AZE,031,Rural,8,Dry latrines - Traditional latrine,0.69,Multiple Indicator Cluster Survey - MICS00
+Azerbaijan,AZ,AZE,031,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.293,Multiple Indicator Cluster Survey - MICS00
+Azerbaijan,AZ,AZE,031,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Azerbaijan,AZ,AZE,031,Rural,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Azerbaijan,AZ,AZE,031,Rural,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS00
+Azerbaijan,AZ,AZE,031,Rural,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS00
+Azerbaijan,AZ,AZE,031,Rural,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS00
+Azerbaijan,AZ,AZE,031,Rural,15,"No facility, bush, field",0.001,Multiple Indicator Cluster Survey - MICS00
+Azerbaijan,AZ,AZE,031,Rural,16,Other unimproved,0.002,Multiple Indicator Cluster Survey - MICS00
+Azerbaijan,AZ,AZE,031,Rural,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS00
+Azerbaijan,AZ,AZE,031,National,1,Flush and pour flush - to piped sewer system,0.0,Multiple Indicator Cluster Survey - MICS00
+Azerbaijan,AZ,AZE,031,National,2,Flush and pour flush - to septic tank,0.0,Multiple Indicator Cluster Survey - MICS00
+Azerbaijan,AZ,AZE,031,National,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Azerbaijan,AZ,AZE,031,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS00
+Azerbaijan,AZ,AZE,031,National,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS00
+Azerbaijan,AZ,AZE,031,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Azerbaijan,AZ,AZE,031,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.008,Multiple Indicator Cluster Survey - MICS00
+Azerbaijan,AZ,AZE,031,National,8,Dry latrines - Traditional latrine,0.497,Multiple Indicator Cluster Survey - MICS00
+Azerbaijan,AZ,AZE,031,National,9,Dry latrines - Pit latrine without slab/open pit,0.188,Multiple Indicator Cluster Survey - MICS00
+Azerbaijan,AZ,AZE,031,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Azerbaijan,AZ,AZE,031,National,11,Dry latrines - Bucket latrine,0.001,Multiple Indicator Cluster Survey - MICS00
+Azerbaijan,AZ,AZE,031,National,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS00
+Azerbaijan,AZ,AZE,031,National,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS00
+Azerbaijan,AZ,AZE,031,National,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS00
+Azerbaijan,AZ,AZE,031,National,15,"No facility, bush, field",0.001,Multiple Indicator Cluster Survey - MICS00
+Azerbaijan,AZ,AZE,031,National,16,Other unimproved,0.003,Multiple Indicator Cluster Survey - MICS00
+Azerbaijan,AZ,AZE,031,National,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS00
 Azerbaijan,AZ,AZE,031,Urban,1,Flush and pour flush - to piped sewer system,0.74,Demographic and Health Survey - DHS06
 Azerbaijan,AZ,AZE,031,Urban,2,Flush and pour flush - to septic tank,0.011,Demographic and Health Survey - DHS06
 Azerbaijan,AZ,AZE,031,Urban,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS06
@@ -33,6 +84,23 @@ Azerbaijan,AZ,AZE,031,Rural,14,Other improved,0.0,Demographic and Health Survey 
 Azerbaijan,AZ,AZE,031,Rural,15,"No facility, bush, field",0.005,Demographic and Health Survey - DHS06
 Azerbaijan,AZ,AZE,031,Rural,16,Other unimproved,0.001,Demographic and Health Survey - DHS06
 Azerbaijan,AZ,AZE,031,Rural,17,DK/missing information,0.0,Demographic and Health Survey - DHS06
+Azerbaijan,AZ,AZE,031,National,1,Flush and pour flush - to piped sewer system,0.444,Demographic and Health Survey - DHS06
+Azerbaijan,AZ,AZE,031,National,2,Flush and pour flush - to septic tank,0.01,Demographic and Health Survey - DHS06
+Azerbaijan,AZ,AZE,031,National,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS06
+Azerbaijan,AZ,AZE,031,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS06
+Azerbaijan,AZ,AZE,031,National,5,Flush and pour flush - to elsewhere,0.009,Demographic and Health Survey - DHS06
+Azerbaijan,AZ,AZE,031,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - DHS06
+Azerbaijan,AZ,AZE,031,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.396,Demographic and Health Survey - DHS06
+Azerbaijan,AZ,AZE,031,National,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS06
+Azerbaijan,AZ,AZE,031,National,9,Dry latrines - Pit latrine without slab/open pit,0.136,Demographic and Health Survey - DHS06
+Azerbaijan,AZ,AZE,031,National,10,Dry latrines - Hanging toilet/hanging latrine,0.098,Demographic and Health Survey - DHS06
+Azerbaijan,AZ,AZE,031,National,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS06
+Azerbaijan,AZ,AZE,031,National,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS06
+Azerbaijan,AZ,AZE,031,National,13,Composting toilets,0.0,Demographic and Health Survey - DHS06
+Azerbaijan,AZ,AZE,031,National,14,Other improved,0.0,Demographic and Health Survey - DHS06
+Azerbaijan,AZ,AZE,031,National,15,"No facility, bush, field",0.003,Demographic and Health Survey - DHS06
+Azerbaijan,AZ,AZE,031,National,16,Other unimproved,0.003,Demographic and Health Survey - DHS06
+Azerbaijan,AZ,AZE,031,National,17,DK/missing information,0.0,Demographic and Health Survey - DHS06
 Azerbaijan,AZ,AZE,031,Urban,1,Flush and pour flush - to piped sewer system,0.684,Azerbaijan demographic and health suvey - DHS11
 Azerbaijan,AZ,AZE,031,Urban,2,Flush and pour flush - to septic tank,0.008,Azerbaijan demographic and health suvey - DHS11
 Azerbaijan,AZ,AZE,031,Urban,3,Flush and pour flush - to pit,0.014,Azerbaijan demographic and health suvey - DHS11
@@ -67,3 +135,122 @@ Azerbaijan,AZ,AZE,031,Rural,14,Other improved,0.0,Azerbaijan demographic and hea
 Azerbaijan,AZ,AZE,031,Rural,15,"No facility, bush, field",0.002,Azerbaijan demographic and health suvey - DHS11
 Azerbaijan,AZ,AZE,031,Rural,16,Other unimproved,0.0,Azerbaijan demographic and health suvey - DHS11
 Azerbaijan,AZ,AZE,031,Rural,17,DK/missing information,0.0,Azerbaijan demographic and health suvey - DHS11
+Azerbaijan,AZ,AZE,031,National,1,Flush and pour flush - to piped sewer system,0.405,Azerbaijan demographic and health suvey - DHS11
+Azerbaijan,AZ,AZE,031,National,2,Flush and pour flush - to septic tank,0.01,Azerbaijan demographic and health suvey - DHS11
+Azerbaijan,AZ,AZE,031,National,3,Flush and pour flush - to pit,0.012,Azerbaijan demographic and health suvey - DHS11
+Azerbaijan,AZ,AZE,031,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Azerbaijan demographic and health suvey - DHS11
+Azerbaijan,AZ,AZE,031,National,5,Flush and pour flush - to elsewhere,0.0,Azerbaijan demographic and health suvey - DHS11
+Azerbaijan,AZ,AZE,031,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Azerbaijan demographic and health suvey - DHS11
+Azerbaijan,AZ,AZE,031,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.487,Azerbaijan demographic and health suvey - DHS11
+Azerbaijan,AZ,AZE,031,National,8,Dry latrines - Traditional latrine,0.0,Azerbaijan demographic and health suvey - DHS11
+Azerbaijan,AZ,AZE,031,National,9,Dry latrines - Pit latrine without slab/open pit,0.085,Azerbaijan demographic and health suvey - DHS11
+Azerbaijan,AZ,AZE,031,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Azerbaijan demographic and health suvey - DHS11
+Azerbaijan,AZ,AZE,031,National,11,Dry latrines - Bucket latrine,0.0,Azerbaijan demographic and health suvey - DHS11
+Azerbaijan,AZ,AZE,031,National,12,Dry latrines - Other,0.0,Azerbaijan demographic and health suvey - DHS11
+Azerbaijan,AZ,AZE,031,National,13,Composting toilets,0.0,Azerbaijan demographic and health suvey - DHS11
+Azerbaijan,AZ,AZE,031,National,14,Other improved,0.0,Azerbaijan demographic and health suvey - DHS11
+Azerbaijan,AZ,AZE,031,National,15,"No facility, bush, field",0.002,Azerbaijan demographic and health suvey - DHS11
+Azerbaijan,AZ,AZE,031,National,16,Other unimproved,0.0,Azerbaijan demographic and health suvey - DHS11
+Azerbaijan,AZ,AZE,031,National,17,DK/missing information,0.0,Azerbaijan demographic and health suvey - DHS11
+Azerbaijan,AZ,AZE,031,Urban,1,Flush and pour flush - to piped sewer system,0.0,Household budget survey - HBS13
+Azerbaijan,AZ,AZE,031,Urban,2,Flush and pour flush - to septic tank,0.0,Household budget survey - HBS13
+Azerbaijan,AZ,AZE,031,Urban,3,Flush and pour flush - to pit,0.0,Household budget survey - HBS13
+Azerbaijan,AZ,AZE,031,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household budget survey - HBS13
+Azerbaijan,AZ,AZE,031,Urban,5,Flush and pour flush - to elsewhere,0.0,Household budget survey - HBS13
+Azerbaijan,AZ,AZE,031,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household budget survey - HBS13
+Azerbaijan,AZ,AZE,031,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household budget survey - HBS13
+Azerbaijan,AZ,AZE,031,Urban,8,Dry latrines - Traditional latrine,0.0,Household budget survey - HBS13
+Azerbaijan,AZ,AZE,031,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household budget survey - HBS13
+Azerbaijan,AZ,AZE,031,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household budget survey - HBS13
+Azerbaijan,AZ,AZE,031,Urban,11,Dry latrines - Bucket latrine,0.0,Household budget survey - HBS13
+Azerbaijan,AZ,AZE,031,Urban,12,Dry latrines - Other,0.0,Household budget survey - HBS13
+Azerbaijan,AZ,AZE,031,Urban,13,Composting toilets,0.0,Household budget survey - HBS13
+Azerbaijan,AZ,AZE,031,Urban,14,Other improved,1.0,Household budget survey - HBS13
+Azerbaijan,AZ,AZE,031,Urban,15,"No facility, bush, field",0.0,Household budget survey - HBS13
+Azerbaijan,AZ,AZE,031,Urban,16,Other unimproved,0.0,Household budget survey - HBS13
+Azerbaijan,AZ,AZE,031,Urban,17,DK/missing information,0.0,Household budget survey - HBS13
+Azerbaijan,AZ,AZE,031,Rural,1,Flush and pour flush - to piped sewer system,0.0,Household budget survey - HBS13
+Azerbaijan,AZ,AZE,031,Rural,2,Flush and pour flush - to septic tank,0.0,Household budget survey - HBS13
+Azerbaijan,AZ,AZE,031,Rural,3,Flush and pour flush - to pit,0.0,Household budget survey - HBS13
+Azerbaijan,AZ,AZE,031,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household budget survey - HBS13
+Azerbaijan,AZ,AZE,031,Rural,5,Flush and pour flush - to elsewhere,0.0,Household budget survey - HBS13
+Azerbaijan,AZ,AZE,031,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household budget survey - HBS13
+Azerbaijan,AZ,AZE,031,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household budget survey - HBS13
+Azerbaijan,AZ,AZE,031,Rural,8,Dry latrines - Traditional latrine,0.0,Household budget survey - HBS13
+Azerbaijan,AZ,AZE,031,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household budget survey - HBS13
+Azerbaijan,AZ,AZE,031,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household budget survey - HBS13
+Azerbaijan,AZ,AZE,031,Rural,11,Dry latrines - Bucket latrine,0.0,Household budget survey - HBS13
+Azerbaijan,AZ,AZE,031,Rural,12,Dry latrines - Other,0.0,Household budget survey - HBS13
+Azerbaijan,AZ,AZE,031,Rural,13,Composting toilets,0.0,Household budget survey - HBS13
+Azerbaijan,AZ,AZE,031,Rural,14,Other improved,0.92,Household budget survey - HBS13
+Azerbaijan,AZ,AZE,031,Rural,15,"No facility, bush, field",0.0,Household budget survey - HBS13
+Azerbaijan,AZ,AZE,031,Rural,16,Other unimproved,0.08,Household budget survey - HBS13
+Azerbaijan,AZ,AZE,031,Rural,17,DK/missing information,0.0,Household budget survey - HBS13
+Azerbaijan,AZ,AZE,031,National,1,Flush and pour flush - to piped sewer system,0.0,Household budget survey - HBS13
+Azerbaijan,AZ,AZE,031,National,2,Flush and pour flush - to septic tank,0.0,Household budget survey - HBS13
+Azerbaijan,AZ,AZE,031,National,3,Flush and pour flush - to pit,0.0,Household budget survey - HBS13
+Azerbaijan,AZ,AZE,031,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household budget survey - HBS13
+Azerbaijan,AZ,AZE,031,National,5,Flush and pour flush - to elsewhere,0.0,Household budget survey - HBS13
+Azerbaijan,AZ,AZE,031,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household budget survey - HBS13
+Azerbaijan,AZ,AZE,031,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household budget survey - HBS13
+Azerbaijan,AZ,AZE,031,National,8,Dry latrines - Traditional latrine,0.0,Household budget survey - HBS13
+Azerbaijan,AZ,AZE,031,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household budget survey - HBS13
+Azerbaijan,AZ,AZE,031,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household budget survey - HBS13
+Azerbaijan,AZ,AZE,031,National,11,Dry latrines - Bucket latrine,0.0,Household budget survey - HBS13
+Azerbaijan,AZ,AZE,031,National,12,Dry latrines - Other,0.0,Household budget survey - HBS13
+Azerbaijan,AZ,AZE,031,National,13,Composting toilets,0.0,Household budget survey - HBS13
+Azerbaijan,AZ,AZE,031,National,14,Other improved,0.964,Household budget survey - HBS13
+Azerbaijan,AZ,AZE,031,National,15,"No facility, bush, field",0.0,Household budget survey - HBS13
+Azerbaijan,AZ,AZE,031,National,16,Other unimproved,0.036,Household budget survey - HBS13
+Azerbaijan,AZ,AZE,031,National,17,DK/missing information,0.0,Household budget survey - HBS13
+Azerbaijan,AZ,AZE,031,Urban,1,Flush and pour flush - to piped sewer system,0.999,Statistical Office - SO15
+Azerbaijan,AZ,AZE,031,Urban,2,Flush and pour flush - to septic tank,0.0,Statistical Office - SO15
+Azerbaijan,AZ,AZE,031,Urban,3,Flush and pour flush - to pit,0.0,Statistical Office - SO15
+Azerbaijan,AZ,AZE,031,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Statistical Office - SO15
+Azerbaijan,AZ,AZE,031,Urban,5,Flush and pour flush - to elsewhere,0.0,Statistical Office - SO15
+Azerbaijan,AZ,AZE,031,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Statistical Office - SO15
+Azerbaijan,AZ,AZE,031,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Statistical Office - SO15
+Azerbaijan,AZ,AZE,031,Urban,8,Dry latrines - Traditional latrine,0.0,Statistical Office - SO15
+Azerbaijan,AZ,AZE,031,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Statistical Office - SO15
+Azerbaijan,AZ,AZE,031,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Statistical Office - SO15
+Azerbaijan,AZ,AZE,031,Urban,11,Dry latrines - Bucket latrine,0.0,Statistical Office - SO15
+Azerbaijan,AZ,AZE,031,Urban,12,Dry latrines - Other,0.0,Statistical Office - SO15
+Azerbaijan,AZ,AZE,031,Urban,13,Composting toilets,0.0,Statistical Office - SO15
+Azerbaijan,AZ,AZE,031,Urban,14,Other improved,0.0,Statistical Office - SO15
+Azerbaijan,AZ,AZE,031,Urban,15,"No facility, bush, field",0.0,Statistical Office - SO15
+Azerbaijan,AZ,AZE,031,Urban,16,Other unimproved,0.0,Statistical Office - SO15
+Azerbaijan,AZ,AZE,031,Urban,17,DK/missing information,0.0,Statistical Office - SO15
+Azerbaijan,AZ,AZE,031,Rural,1,Flush and pour flush - to piped sewer system,0.968,Statistical Office - SO15
+Azerbaijan,AZ,AZE,031,Rural,2,Flush and pour flush - to septic tank,0.0,Statistical Office - SO15
+Azerbaijan,AZ,AZE,031,Rural,3,Flush and pour flush - to pit,0.0,Statistical Office - SO15
+Azerbaijan,AZ,AZE,031,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Statistical Office - SO15
+Azerbaijan,AZ,AZE,031,Rural,5,Flush and pour flush - to elsewhere,0.0,Statistical Office - SO15
+Azerbaijan,AZ,AZE,031,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Statistical Office - SO15
+Azerbaijan,AZ,AZE,031,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Statistical Office - SO15
+Azerbaijan,AZ,AZE,031,Rural,8,Dry latrines - Traditional latrine,0.0,Statistical Office - SO15
+Azerbaijan,AZ,AZE,031,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Statistical Office - SO15
+Azerbaijan,AZ,AZE,031,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Statistical Office - SO15
+Azerbaijan,AZ,AZE,031,Rural,11,Dry latrines - Bucket latrine,0.0,Statistical Office - SO15
+Azerbaijan,AZ,AZE,031,Rural,12,Dry latrines - Other,0.0,Statistical Office - SO15
+Azerbaijan,AZ,AZE,031,Rural,13,Composting toilets,0.0,Statistical Office - SO15
+Azerbaijan,AZ,AZE,031,Rural,14,Other improved,0.0,Statistical Office - SO15
+Azerbaijan,AZ,AZE,031,Rural,15,"No facility, bush, field",0.0,Statistical Office - SO15
+Azerbaijan,AZ,AZE,031,Rural,16,Other unimproved,0.0,Statistical Office - SO15
+Azerbaijan,AZ,AZE,031,Rural,17,DK/missing information,0.0,Statistical Office - SO15
+Azerbaijan,AZ,AZE,031,National,1,Flush and pour flush - to piped sewer system,0.985,Statistical Office - SO15
+Azerbaijan,AZ,AZE,031,National,2,Flush and pour flush - to septic tank,0.0,Statistical Office - SO15
+Azerbaijan,AZ,AZE,031,National,3,Flush and pour flush - to pit,0.0,Statistical Office - SO15
+Azerbaijan,AZ,AZE,031,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Statistical Office - SO15
+Azerbaijan,AZ,AZE,031,National,5,Flush and pour flush - to elsewhere,0.0,Statistical Office - SO15
+Azerbaijan,AZ,AZE,031,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Statistical Office - SO15
+Azerbaijan,AZ,AZE,031,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Statistical Office - SO15
+Azerbaijan,AZ,AZE,031,National,8,Dry latrines - Traditional latrine,0.0,Statistical Office - SO15
+Azerbaijan,AZ,AZE,031,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Statistical Office - SO15
+Azerbaijan,AZ,AZE,031,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Statistical Office - SO15
+Azerbaijan,AZ,AZE,031,National,11,Dry latrines - Bucket latrine,0.0,Statistical Office - SO15
+Azerbaijan,AZ,AZE,031,National,12,Dry latrines - Other,0.0,Statistical Office - SO15
+Azerbaijan,AZ,AZE,031,National,13,Composting toilets,0.0,Statistical Office - SO15
+Azerbaijan,AZ,AZE,031,National,14,Other improved,0.0,Statistical Office - SO15
+Azerbaijan,AZ,AZE,031,National,15,"No facility, bush, field",0.0,Statistical Office - SO15
+Azerbaijan,AZ,AZE,031,National,16,Other unimproved,0.0,Statistical Office - SO15
+Azerbaijan,AZ,AZE,031,National,17,DK/missing information,0.0,Statistical Office - SO15

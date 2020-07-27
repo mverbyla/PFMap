@@ -1,0 +1,817 @@
+country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+Sweden,SE,SWE,752,Urban,1,Flush and pour flush - to piped sewer system,0.0,Utsläpp från små avloppsanläggningar 2017 - SMED17
+Sweden,SE,SWE,752,Urban,2,Flush and pour flush - to septic tank,0.0,Utsläpp från små avloppsanläggningar 2017 - SMED17
+Sweden,SE,SWE,752,Urban,3,Flush and pour flush - to pit,0.0,Utsläpp från små avloppsanläggningar 2017 - SMED17
+Sweden,SE,SWE,752,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Utsläpp från små avloppsanläggningar 2017 - SMED17
+Sweden,SE,SWE,752,Urban,5,Flush and pour flush - to elsewhere,0.0,Utsläpp från små avloppsanläggningar 2017 - SMED17
+Sweden,SE,SWE,752,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Utsläpp från små avloppsanläggningar 2017 - SMED17
+Sweden,SE,SWE,752,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Utsläpp från små avloppsanläggningar 2017 - SMED17
+Sweden,SE,SWE,752,Urban,8,Dry latrines - Traditional latrine,0.0,Utsläpp från små avloppsanläggningar 2017 - SMED17
+Sweden,SE,SWE,752,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Utsläpp från små avloppsanläggningar 2017 - SMED17
+Sweden,SE,SWE,752,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Utsläpp från små avloppsanläggningar 2017 - SMED17
+Sweden,SE,SWE,752,Urban,11,Dry latrines - Bucket latrine,0.0,Utsläpp från små avloppsanläggningar 2017 - SMED17
+Sweden,SE,SWE,752,Urban,12,Dry latrines - Other,0.0,Utsläpp från små avloppsanläggningar 2017 - SMED17
+Sweden,SE,SWE,752,Urban,13,Composting toilets,0.0,Utsläpp från små avloppsanläggningar 2017 - SMED17
+Sweden,SE,SWE,752,Urban,14,Other improved,0.0,Utsläpp från små avloppsanläggningar 2017 - SMED17
+Sweden,SE,SWE,752,Urban,15,"No facility, bush, field",0.0,Utsläpp från små avloppsanläggningar 2017 - SMED17
+Sweden,SE,SWE,752,Urban,16,Other unimproved,0.0,Utsläpp från små avloppsanläggningar 2017 - SMED17
+Sweden,SE,SWE,752,Urban,17,DK/missing information,0.0,Utsläpp från små avloppsanläggningar 2017 - SMED17
+Sweden,SE,SWE,752,Rural,1,Flush and pour flush - to piped sewer system,0.0,Utsläpp från små avloppsanläggningar 2017 - SMED17
+Sweden,SE,SWE,752,Rural,2,Flush and pour flush - to septic tank,0.0,Utsläpp från små avloppsanläggningar 2017 - SMED17
+Sweden,SE,SWE,752,Rural,3,Flush and pour flush - to pit,0.0,Utsläpp från små avloppsanläggningar 2017 - SMED17
+Sweden,SE,SWE,752,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Utsläpp från små avloppsanläggningar 2017 - SMED17
+Sweden,SE,SWE,752,Rural,5,Flush and pour flush - to elsewhere,0.0,Utsläpp från små avloppsanläggningar 2017 - SMED17
+Sweden,SE,SWE,752,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Utsläpp från små avloppsanläggningar 2017 - SMED17
+Sweden,SE,SWE,752,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Utsläpp från små avloppsanläggningar 2017 - SMED17
+Sweden,SE,SWE,752,Rural,8,Dry latrines - Traditional latrine,0.0,Utsläpp från små avloppsanläggningar 2017 - SMED17
+Sweden,SE,SWE,752,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Utsläpp från små avloppsanläggningar 2017 - SMED17
+Sweden,SE,SWE,752,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Utsläpp från små avloppsanläggningar 2017 - SMED17
+Sweden,SE,SWE,752,Rural,11,Dry latrines - Bucket latrine,0.0,Utsläpp från små avloppsanläggningar 2017 - SMED17
+Sweden,SE,SWE,752,Rural,12,Dry latrines - Other,0.0,Utsläpp från små avloppsanläggningar 2017 - SMED17
+Sweden,SE,SWE,752,Rural,13,Composting toilets,0.0,Utsläpp från små avloppsanläggningar 2017 - SMED17
+Sweden,SE,SWE,752,Rural,14,Other improved,0.0,Utsläpp från små avloppsanläggningar 2017 - SMED17
+Sweden,SE,SWE,752,Rural,15,"No facility, bush, field",0.0,Utsläpp från små avloppsanläggningar 2017 - SMED17
+Sweden,SE,SWE,752,Rural,16,Other unimproved,0.0,Utsläpp från små avloppsanläggningar 2017 - SMED17
+Sweden,SE,SWE,752,Rural,17,DK/missing information,0.0,Utsläpp från små avloppsanläggningar 2017 - SMED17
+Sweden,SE,SWE,752,National,1,Flush and pour flush - to piped sewer system,0.87,Utsläpp från små avloppsanläggningar 2017 - SMED17
+Sweden,SE,SWE,752,National,2,Flush and pour flush - to septic tank,0.019,Utsläpp från små avloppsanläggningar 2017 - SMED17
+Sweden,SE,SWE,752,National,3,Flush and pour flush - to pit,0.0,Utsläpp från små avloppsanläggningar 2017 - SMED17
+Sweden,SE,SWE,752,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.012,Utsläpp från små avloppsanläggningar 2017 - SMED17
+Sweden,SE,SWE,752,National,5,Flush and pour flush - to elsewhere,0.0,Utsläpp från små avloppsanläggningar 2017 - SMED17
+Sweden,SE,SWE,752,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Utsläpp från små avloppsanläggningar 2017 - SMED17
+Sweden,SE,SWE,752,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Utsläpp från små avloppsanläggningar 2017 - SMED17
+Sweden,SE,SWE,752,National,8,Dry latrines - Traditional latrine,0.0,Utsläpp från små avloppsanläggningar 2017 - SMED17
+Sweden,SE,SWE,752,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Utsläpp från små avloppsanläggningar 2017 - SMED17
+Sweden,SE,SWE,752,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Utsläpp från små avloppsanläggningar 2017 - SMED17
+Sweden,SE,SWE,752,National,11,Dry latrines - Bucket latrine,0.0,Utsläpp från små avloppsanläggningar 2017 - SMED17
+Sweden,SE,SWE,752,National,12,Dry latrines - Other,0.0,Utsläpp från små avloppsanläggningar 2017 - SMED17
+Sweden,SE,SWE,752,National,13,Composting toilets,0.001,Utsläpp från små avloppsanläggningar 2017 - SMED17
+Sweden,SE,SWE,752,National,14,Other improved,0.099,Utsläpp från små avloppsanläggningar 2017 - SMED17
+Sweden,SE,SWE,752,National,15,"No facility, bush, field",0.0,Utsläpp från små avloppsanläggningar 2017 - SMED17
+Sweden,SE,SWE,752,National,16,Other unimproved,0.0,Utsläpp från små avloppsanläggningar 2017 - SMED17
+Sweden,SE,SWE,752,National,17,DK/missing information,0.0,Utsläpp från små avloppsanläggningar 2017 - SMED17
+Sweden,SE,SWE,752,Urban,1,Flush and pour flush - to piped sewer system,0.858,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS00"
+Sweden,SE,SWE,752,Urban,2,Flush and pour flush - to septic tank,0.116,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS00"
+Sweden,SE,SWE,752,Urban,3,Flush and pour flush - to pit,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS00"
+Sweden,SE,SWE,752,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS00"
+Sweden,SE,SWE,752,Urban,5,Flush and pour flush - to elsewhere,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS00"
+Sweden,SE,SWE,752,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS00"
+Sweden,SE,SWE,752,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS00"
+Sweden,SE,SWE,752,Urban,8,Dry latrines - Traditional latrine,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS00"
+Sweden,SE,SWE,752,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS00"
+Sweden,SE,SWE,752,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS00"
+Sweden,SE,SWE,752,Urban,11,Dry latrines - Bucket latrine,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS00"
+Sweden,SE,SWE,752,Urban,12,Dry latrines - Other,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS00"
+Sweden,SE,SWE,752,Urban,13,Composting toilets,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS00"
+Sweden,SE,SWE,752,Urban,14,Other improved,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS00"
+Sweden,SE,SWE,752,Urban,15,"No facility, bush, field",0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS00"
+Sweden,SE,SWE,752,Urban,16,Other unimproved,0.007,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS00"
+Sweden,SE,SWE,752,Urban,17,DK/missing information,0.02,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS00"
+Sweden,SE,SWE,752,Rural,1,Flush and pour flush - to piped sewer system,0.736,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS00"
+Sweden,SE,SWE,752,Rural,2,Flush and pour flush - to septic tank,0.243,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS00"
+Sweden,SE,SWE,752,Rural,3,Flush and pour flush - to pit,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS00"
+Sweden,SE,SWE,752,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS00"
+Sweden,SE,SWE,752,Rural,5,Flush and pour flush - to elsewhere,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS00"
+Sweden,SE,SWE,752,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS00"
+Sweden,SE,SWE,752,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS00"
+Sweden,SE,SWE,752,Rural,8,Dry latrines - Traditional latrine,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS00"
+Sweden,SE,SWE,752,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS00"
+Sweden,SE,SWE,752,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS00"
+Sweden,SE,SWE,752,Rural,11,Dry latrines - Bucket latrine,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS00"
+Sweden,SE,SWE,752,Rural,12,Dry latrines - Other,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS00"
+Sweden,SE,SWE,752,Rural,13,Composting toilets,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS00"
+Sweden,SE,SWE,752,Rural,14,Other improved,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS00"
+Sweden,SE,SWE,752,Rural,15,"No facility, bush, field",0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS00"
+Sweden,SE,SWE,752,Rural,16,Other unimproved,0.011,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS00"
+Sweden,SE,SWE,752,Rural,17,DK/missing information,0.01,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS00"
+Sweden,SE,SWE,752,National,1,Flush and pour flush - to piped sewer system,0.851,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS00"
+Sweden,SE,SWE,752,National,2,Flush and pour flush - to septic tank,0.123,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS00"
+Sweden,SE,SWE,752,National,3,Flush and pour flush - to pit,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS00"
+Sweden,SE,SWE,752,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS00"
+Sweden,SE,SWE,752,National,5,Flush and pour flush - to elsewhere,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS00"
+Sweden,SE,SWE,752,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS00"
+Sweden,SE,SWE,752,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS00"
+Sweden,SE,SWE,752,National,8,Dry latrines - Traditional latrine,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS00"
+Sweden,SE,SWE,752,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS00"
+Sweden,SE,SWE,752,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS00"
+Sweden,SE,SWE,752,National,11,Dry latrines - Bucket latrine,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS00"
+Sweden,SE,SWE,752,National,12,Dry latrines - Other,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS00"
+Sweden,SE,SWE,752,National,13,Composting toilets,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS00"
+Sweden,SE,SWE,752,National,14,Other improved,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS00"
+Sweden,SE,SWE,752,National,15,"No facility, bush, field",0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS00"
+Sweden,SE,SWE,752,National,16,Other unimproved,0.007,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS00"
+Sweden,SE,SWE,752,National,17,DK/missing information,0.019,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS00"
+Sweden,SE,SWE,752,Urban,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES00
+Sweden,SE,SWE,752,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES00
+Sweden,SE,SWE,752,Urban,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES00
+Sweden,SE,SWE,752,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES00
+Sweden,SE,SWE,752,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES00
+Sweden,SE,SWE,752,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES00
+Sweden,SE,SWE,752,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES00
+Sweden,SE,SWE,752,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES00
+Sweden,SE,SWE,752,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES00
+Sweden,SE,SWE,752,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES00
+Sweden,SE,SWE,752,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES00
+Sweden,SE,SWE,752,Urban,12,Dry latrines - Other,0.0,Eurostat environmental database - ES00
+Sweden,SE,SWE,752,Urban,13,Composting toilets,0.0,Eurostat environmental database - ES00
+Sweden,SE,SWE,752,Urban,14,Other improved,0.0,Eurostat environmental database - ES00
+Sweden,SE,SWE,752,Urban,15,"No facility, bush, field",0.0,Eurostat environmental database - ES00
+Sweden,SE,SWE,752,Urban,16,Other unimproved,0.0,Eurostat environmental database - ES00
+Sweden,SE,SWE,752,Urban,17,DK/missing information,0.0,Eurostat environmental database - ES00
+Sweden,SE,SWE,752,Rural,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES00
+Sweden,SE,SWE,752,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES00
+Sweden,SE,SWE,752,Rural,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES00
+Sweden,SE,SWE,752,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES00
+Sweden,SE,SWE,752,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES00
+Sweden,SE,SWE,752,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES00
+Sweden,SE,SWE,752,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES00
+Sweden,SE,SWE,752,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES00
+Sweden,SE,SWE,752,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES00
+Sweden,SE,SWE,752,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES00
+Sweden,SE,SWE,752,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES00
+Sweden,SE,SWE,752,Rural,12,Dry latrines - Other,0.0,Eurostat environmental database - ES00
+Sweden,SE,SWE,752,Rural,13,Composting toilets,0.0,Eurostat environmental database - ES00
+Sweden,SE,SWE,752,Rural,14,Other improved,0.0,Eurostat environmental database - ES00
+Sweden,SE,SWE,752,Rural,15,"No facility, bush, field",0.0,Eurostat environmental database - ES00
+Sweden,SE,SWE,752,Rural,16,Other unimproved,0.0,Eurostat environmental database - ES00
+Sweden,SE,SWE,752,Rural,17,DK/missing information,0.0,Eurostat environmental database - ES00
+Sweden,SE,SWE,752,National,1,Flush and pour flush - to piped sewer system,0.86,Eurostat environmental database - ES00
+Sweden,SE,SWE,752,National,2,Flush and pour flush - to septic tank,0.14,Eurostat environmental database - ES00
+Sweden,SE,SWE,752,National,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES00
+Sweden,SE,SWE,752,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES00
+Sweden,SE,SWE,752,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES00
+Sweden,SE,SWE,752,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES00
+Sweden,SE,SWE,752,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES00
+Sweden,SE,SWE,752,National,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES00
+Sweden,SE,SWE,752,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES00
+Sweden,SE,SWE,752,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES00
+Sweden,SE,SWE,752,National,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES00
+Sweden,SE,SWE,752,National,12,Dry latrines - Other,0.0,Eurostat environmental database - ES00
+Sweden,SE,SWE,752,National,13,Composting toilets,0.0,Eurostat environmental database - ES00
+Sweden,SE,SWE,752,National,14,Other improved,0.0,Eurostat environmental database - ES00
+Sweden,SE,SWE,752,National,15,"No facility, bush, field",0.0,Eurostat environmental database - ES00
+Sweden,SE,SWE,752,National,16,Other unimproved,0.0,Eurostat environmental database - ES00
+Sweden,SE,SWE,752,National,17,DK/missing information,0.0,Eurostat environmental database - ES00
+Sweden,SE,SWE,752,Urban,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES02
+Sweden,SE,SWE,752,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES02
+Sweden,SE,SWE,752,Urban,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES02
+Sweden,SE,SWE,752,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES02
+Sweden,SE,SWE,752,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES02
+Sweden,SE,SWE,752,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES02
+Sweden,SE,SWE,752,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES02
+Sweden,SE,SWE,752,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES02
+Sweden,SE,SWE,752,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES02
+Sweden,SE,SWE,752,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES02
+Sweden,SE,SWE,752,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES02
+Sweden,SE,SWE,752,Urban,12,Dry latrines - Other,0.0,Eurostat environmental database - ES02
+Sweden,SE,SWE,752,Urban,13,Composting toilets,0.0,Eurostat environmental database - ES02
+Sweden,SE,SWE,752,Urban,14,Other improved,0.0,Eurostat environmental database - ES02
+Sweden,SE,SWE,752,Urban,15,"No facility, bush, field",0.0,Eurostat environmental database - ES02
+Sweden,SE,SWE,752,Urban,16,Other unimproved,0.0,Eurostat environmental database - ES02
+Sweden,SE,SWE,752,Urban,17,DK/missing information,0.0,Eurostat environmental database - ES02
+Sweden,SE,SWE,752,Rural,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES02
+Sweden,SE,SWE,752,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES02
+Sweden,SE,SWE,752,Rural,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES02
+Sweden,SE,SWE,752,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES02
+Sweden,SE,SWE,752,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES02
+Sweden,SE,SWE,752,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES02
+Sweden,SE,SWE,752,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES02
+Sweden,SE,SWE,752,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES02
+Sweden,SE,SWE,752,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES02
+Sweden,SE,SWE,752,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES02
+Sweden,SE,SWE,752,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES02
+Sweden,SE,SWE,752,Rural,12,Dry latrines - Other,0.0,Eurostat environmental database - ES02
+Sweden,SE,SWE,752,Rural,13,Composting toilets,0.0,Eurostat environmental database - ES02
+Sweden,SE,SWE,752,Rural,14,Other improved,0.0,Eurostat environmental database - ES02
+Sweden,SE,SWE,752,Rural,15,"No facility, bush, field",0.0,Eurostat environmental database - ES02
+Sweden,SE,SWE,752,Rural,16,Other unimproved,0.0,Eurostat environmental database - ES02
+Sweden,SE,SWE,752,Rural,17,DK/missing information,0.0,Eurostat environmental database - ES02
+Sweden,SE,SWE,752,National,1,Flush and pour flush - to piped sewer system,0.85,Eurostat environmental database - ES02
+Sweden,SE,SWE,752,National,2,Flush and pour flush - to septic tank,0.14,Eurostat environmental database - ES02
+Sweden,SE,SWE,752,National,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES02
+Sweden,SE,SWE,752,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES02
+Sweden,SE,SWE,752,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES02
+Sweden,SE,SWE,752,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES02
+Sweden,SE,SWE,752,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES02
+Sweden,SE,SWE,752,National,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES02
+Sweden,SE,SWE,752,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES02
+Sweden,SE,SWE,752,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES02
+Sweden,SE,SWE,752,National,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES02
+Sweden,SE,SWE,752,National,12,Dry latrines - Other,0.0,Eurostat environmental database - ES02
+Sweden,SE,SWE,752,National,13,Composting toilets,0.0,Eurostat environmental database - ES02
+Sweden,SE,SWE,752,National,14,Other improved,0.0,Eurostat environmental database - ES02
+Sweden,SE,SWE,752,National,15,"No facility, bush, field",0.0,Eurostat environmental database - ES02
+Sweden,SE,SWE,752,National,16,Other unimproved,0.0,Eurostat environmental database - ES02
+Sweden,SE,SWE,752,National,17,DK/missing information,0.0,Eurostat environmental database - ES02
+Sweden,SE,SWE,752,Urban,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES03
+Sweden,SE,SWE,752,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES03
+Sweden,SE,SWE,752,Urban,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES03
+Sweden,SE,SWE,752,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES03
+Sweden,SE,SWE,752,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES03
+Sweden,SE,SWE,752,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES03
+Sweden,SE,SWE,752,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES03
+Sweden,SE,SWE,752,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES03
+Sweden,SE,SWE,752,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES03
+Sweden,SE,SWE,752,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES03
+Sweden,SE,SWE,752,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES03
+Sweden,SE,SWE,752,Urban,12,Dry latrines - Other,0.0,Eurostat environmental database - ES03
+Sweden,SE,SWE,752,Urban,13,Composting toilets,0.0,Eurostat environmental database - ES03
+Sweden,SE,SWE,752,Urban,14,Other improved,0.0,Eurostat environmental database - ES03
+Sweden,SE,SWE,752,Urban,15,"No facility, bush, field",0.0,Eurostat environmental database - ES03
+Sweden,SE,SWE,752,Urban,16,Other unimproved,0.0,Eurostat environmental database - ES03
+Sweden,SE,SWE,752,Urban,17,DK/missing information,0.0,Eurostat environmental database - ES03
+Sweden,SE,SWE,752,Rural,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES03
+Sweden,SE,SWE,752,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES03
+Sweden,SE,SWE,752,Rural,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES03
+Sweden,SE,SWE,752,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES03
+Sweden,SE,SWE,752,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES03
+Sweden,SE,SWE,752,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES03
+Sweden,SE,SWE,752,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES03
+Sweden,SE,SWE,752,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES03
+Sweden,SE,SWE,752,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES03
+Sweden,SE,SWE,752,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES03
+Sweden,SE,SWE,752,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES03
+Sweden,SE,SWE,752,Rural,12,Dry latrines - Other,0.0,Eurostat environmental database - ES03
+Sweden,SE,SWE,752,Rural,13,Composting toilets,0.0,Eurostat environmental database - ES03
+Sweden,SE,SWE,752,Rural,14,Other improved,0.0,Eurostat environmental database - ES03
+Sweden,SE,SWE,752,Rural,15,"No facility, bush, field",0.0,Eurostat environmental database - ES03
+Sweden,SE,SWE,752,Rural,16,Other unimproved,0.0,Eurostat environmental database - ES03
+Sweden,SE,SWE,752,Rural,17,DK/missing information,0.0,Eurostat environmental database - ES03
+Sweden,SE,SWE,752,National,1,Flush and pour flush - to piped sewer system,0.86,Eurostat environmental database - ES03
+Sweden,SE,SWE,752,National,2,Flush and pour flush - to septic tank,0.14,Eurostat environmental database - ES03
+Sweden,SE,SWE,752,National,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES03
+Sweden,SE,SWE,752,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES03
+Sweden,SE,SWE,752,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES03
+Sweden,SE,SWE,752,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES03
+Sweden,SE,SWE,752,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES03
+Sweden,SE,SWE,752,National,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES03
+Sweden,SE,SWE,752,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES03
+Sweden,SE,SWE,752,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES03
+Sweden,SE,SWE,752,National,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES03
+Sweden,SE,SWE,752,National,12,Dry latrines - Other,0.0,Eurostat environmental database - ES03
+Sweden,SE,SWE,752,National,13,Composting toilets,0.0,Eurostat environmental database - ES03
+Sweden,SE,SWE,752,National,14,Other improved,0.0,Eurostat environmental database - ES03
+Sweden,SE,SWE,752,National,15,"No facility, bush, field",0.0,Eurostat environmental database - ES03
+Sweden,SE,SWE,752,National,16,Other unimproved,0.0,Eurostat environmental database - ES03
+Sweden,SE,SWE,752,National,17,DK/missing information,0.0,Eurostat environmental database - ES03
+Sweden,SE,SWE,752,Urban,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES04
+Sweden,SE,SWE,752,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES04
+Sweden,SE,SWE,752,Urban,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES04
+Sweden,SE,SWE,752,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES04
+Sweden,SE,SWE,752,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES04
+Sweden,SE,SWE,752,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES04
+Sweden,SE,SWE,752,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES04
+Sweden,SE,SWE,752,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES04
+Sweden,SE,SWE,752,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES04
+Sweden,SE,SWE,752,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES04
+Sweden,SE,SWE,752,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES04
+Sweden,SE,SWE,752,Urban,12,Dry latrines - Other,0.0,Eurostat environmental database - ES04
+Sweden,SE,SWE,752,Urban,13,Composting toilets,0.0,Eurostat environmental database - ES04
+Sweden,SE,SWE,752,Urban,14,Other improved,0.0,Eurostat environmental database - ES04
+Sweden,SE,SWE,752,Urban,15,"No facility, bush, field",0.0,Eurostat environmental database - ES04
+Sweden,SE,SWE,752,Urban,16,Other unimproved,0.0,Eurostat environmental database - ES04
+Sweden,SE,SWE,752,Urban,17,DK/missing information,0.0,Eurostat environmental database - ES04
+Sweden,SE,SWE,752,Rural,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES04
+Sweden,SE,SWE,752,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES04
+Sweden,SE,SWE,752,Rural,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES04
+Sweden,SE,SWE,752,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES04
+Sweden,SE,SWE,752,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES04
+Sweden,SE,SWE,752,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES04
+Sweden,SE,SWE,752,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES04
+Sweden,SE,SWE,752,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES04
+Sweden,SE,SWE,752,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES04
+Sweden,SE,SWE,752,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES04
+Sweden,SE,SWE,752,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES04
+Sweden,SE,SWE,752,Rural,12,Dry latrines - Other,0.0,Eurostat environmental database - ES04
+Sweden,SE,SWE,752,Rural,13,Composting toilets,0.0,Eurostat environmental database - ES04
+Sweden,SE,SWE,752,Rural,14,Other improved,0.0,Eurostat environmental database - ES04
+Sweden,SE,SWE,752,Rural,15,"No facility, bush, field",0.0,Eurostat environmental database - ES04
+Sweden,SE,SWE,752,Rural,16,Other unimproved,0.0,Eurostat environmental database - ES04
+Sweden,SE,SWE,752,Rural,17,DK/missing information,0.0,Eurostat environmental database - ES04
+Sweden,SE,SWE,752,National,1,Flush and pour flush - to piped sewer system,0.86,Eurostat environmental database - ES04
+Sweden,SE,SWE,752,National,2,Flush and pour flush - to septic tank,0.14,Eurostat environmental database - ES04
+Sweden,SE,SWE,752,National,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES04
+Sweden,SE,SWE,752,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES04
+Sweden,SE,SWE,752,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES04
+Sweden,SE,SWE,752,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES04
+Sweden,SE,SWE,752,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES04
+Sweden,SE,SWE,752,National,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES04
+Sweden,SE,SWE,752,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES04
+Sweden,SE,SWE,752,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES04
+Sweden,SE,SWE,752,National,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES04
+Sweden,SE,SWE,752,National,12,Dry latrines - Other,0.0,Eurostat environmental database - ES04
+Sweden,SE,SWE,752,National,13,Composting toilets,0.0,Eurostat environmental database - ES04
+Sweden,SE,SWE,752,National,14,Other improved,0.0,Eurostat environmental database - ES04
+Sweden,SE,SWE,752,National,15,"No facility, bush, field",0.0,Eurostat environmental database - ES04
+Sweden,SE,SWE,752,National,16,Other unimproved,0.0,Eurostat environmental database - ES04
+Sweden,SE,SWE,752,National,17,DK/missing information,0.0,Eurostat environmental database - ES04
+Sweden,SE,SWE,752,Urban,1,Flush and pour flush - to piped sewer system,0.862,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS05"
+Sweden,SE,SWE,752,Urban,2,Flush and pour flush - to septic tank,0.114,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS05"
+Sweden,SE,SWE,752,Urban,3,Flush and pour flush - to pit,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS05"
+Sweden,SE,SWE,752,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS05"
+Sweden,SE,SWE,752,Urban,5,Flush and pour flush - to elsewhere,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS05"
+Sweden,SE,SWE,752,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS05"
+Sweden,SE,SWE,752,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS05"
+Sweden,SE,SWE,752,Urban,8,Dry latrines - Traditional latrine,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS05"
+Sweden,SE,SWE,752,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS05"
+Sweden,SE,SWE,752,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS05"
+Sweden,SE,SWE,752,Urban,11,Dry latrines - Bucket latrine,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS05"
+Sweden,SE,SWE,752,Urban,12,Dry latrines - Other,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS05"
+Sweden,SE,SWE,752,Urban,13,Composting toilets,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS05"
+Sweden,SE,SWE,752,Urban,14,Other improved,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS05"
+Sweden,SE,SWE,752,Urban,15,"No facility, bush, field",0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS05"
+Sweden,SE,SWE,752,Urban,16,Other unimproved,0.007,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS05"
+Sweden,SE,SWE,752,Urban,17,DK/missing information,0.017,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS05"
+Sweden,SE,SWE,752,Rural,1,Flush and pour flush - to piped sewer system,0.739,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS05"
+Sweden,SE,SWE,752,Rural,2,Flush and pour flush - to septic tank,0.245,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS05"
+Sweden,SE,SWE,752,Rural,3,Flush and pour flush - to pit,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS05"
+Sweden,SE,SWE,752,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS05"
+Sweden,SE,SWE,752,Rural,5,Flush and pour flush - to elsewhere,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS05"
+Sweden,SE,SWE,752,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS05"
+Sweden,SE,SWE,752,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS05"
+Sweden,SE,SWE,752,Rural,8,Dry latrines - Traditional latrine,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS05"
+Sweden,SE,SWE,752,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS05"
+Sweden,SE,SWE,752,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS05"
+Sweden,SE,SWE,752,Rural,11,Dry latrines - Bucket latrine,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS05"
+Sweden,SE,SWE,752,Rural,12,Dry latrines - Other,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS05"
+Sweden,SE,SWE,752,Rural,13,Composting toilets,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS05"
+Sweden,SE,SWE,752,Rural,14,Other improved,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS05"
+Sweden,SE,SWE,752,Rural,15,"No facility, bush, field",0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS05"
+Sweden,SE,SWE,752,Rural,16,Other unimproved,0.008,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS05"
+Sweden,SE,SWE,752,Rural,17,DK/missing information,0.008,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS05"
+Sweden,SE,SWE,752,National,1,Flush and pour flush - to piped sewer system,0.855,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS05"
+Sweden,SE,SWE,752,National,2,Flush and pour flush - to septic tank,0.121,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS05"
+Sweden,SE,SWE,752,National,3,Flush and pour flush - to pit,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS05"
+Sweden,SE,SWE,752,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS05"
+Sweden,SE,SWE,752,National,5,Flush and pour flush - to elsewhere,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS05"
+Sweden,SE,SWE,752,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS05"
+Sweden,SE,SWE,752,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS05"
+Sweden,SE,SWE,752,National,8,Dry latrines - Traditional latrine,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS05"
+Sweden,SE,SWE,752,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS05"
+Sweden,SE,SWE,752,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS05"
+Sweden,SE,SWE,752,National,11,Dry latrines - Bucket latrine,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS05"
+Sweden,SE,SWE,752,National,12,Dry latrines - Other,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS05"
+Sweden,SE,SWE,752,National,13,Composting toilets,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS05"
+Sweden,SE,SWE,752,National,14,Other improved,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS05"
+Sweden,SE,SWE,752,National,15,"No facility, bush, field",0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS05"
+Sweden,SE,SWE,752,National,16,Other unimproved,0.007,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS05"
+Sweden,SE,SWE,752,National,17,DK/missing information,0.017,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS05"
+Sweden,SE,SWE,752,Urban,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES09
+Sweden,SE,SWE,752,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES09
+Sweden,SE,SWE,752,Urban,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES09
+Sweden,SE,SWE,752,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES09
+Sweden,SE,SWE,752,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES09
+Sweden,SE,SWE,752,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES09
+Sweden,SE,SWE,752,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES09
+Sweden,SE,SWE,752,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES09
+Sweden,SE,SWE,752,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES09
+Sweden,SE,SWE,752,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES09
+Sweden,SE,SWE,752,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES09
+Sweden,SE,SWE,752,Urban,12,Dry latrines - Other,0.0,Eurostat environmental database - ES09
+Sweden,SE,SWE,752,Urban,13,Composting toilets,0.0,Eurostat environmental database - ES09
+Sweden,SE,SWE,752,Urban,14,Other improved,0.0,Eurostat environmental database - ES09
+Sweden,SE,SWE,752,Urban,15,"No facility, bush, field",0.0,Eurostat environmental database - ES09
+Sweden,SE,SWE,752,Urban,16,Other unimproved,0.0,Eurostat environmental database - ES09
+Sweden,SE,SWE,752,Urban,17,DK/missing information,0.0,Eurostat environmental database - ES09
+Sweden,SE,SWE,752,Rural,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES09
+Sweden,SE,SWE,752,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES09
+Sweden,SE,SWE,752,Rural,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES09
+Sweden,SE,SWE,752,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES09
+Sweden,SE,SWE,752,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES09
+Sweden,SE,SWE,752,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES09
+Sweden,SE,SWE,752,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES09
+Sweden,SE,SWE,752,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES09
+Sweden,SE,SWE,752,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES09
+Sweden,SE,SWE,752,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES09
+Sweden,SE,SWE,752,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES09
+Sweden,SE,SWE,752,Rural,12,Dry latrines - Other,0.0,Eurostat environmental database - ES09
+Sweden,SE,SWE,752,Rural,13,Composting toilets,0.0,Eurostat environmental database - ES09
+Sweden,SE,SWE,752,Rural,14,Other improved,0.0,Eurostat environmental database - ES09
+Sweden,SE,SWE,752,Rural,15,"No facility, bush, field",0.0,Eurostat environmental database - ES09
+Sweden,SE,SWE,752,Rural,16,Other unimproved,0.0,Eurostat environmental database - ES09
+Sweden,SE,SWE,752,Rural,17,DK/missing information,0.0,Eurostat environmental database - ES09
+Sweden,SE,SWE,752,National,1,Flush and pour flush - to piped sewer system,0.86,Eurostat environmental database - ES09
+Sweden,SE,SWE,752,National,2,Flush and pour flush - to septic tank,0.14,Eurostat environmental database - ES09
+Sweden,SE,SWE,752,National,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES09
+Sweden,SE,SWE,752,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES09
+Sweden,SE,SWE,752,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES09
+Sweden,SE,SWE,752,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES09
+Sweden,SE,SWE,752,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES09
+Sweden,SE,SWE,752,National,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES09
+Sweden,SE,SWE,752,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES09
+Sweden,SE,SWE,752,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES09
+Sweden,SE,SWE,752,National,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES09
+Sweden,SE,SWE,752,National,12,Dry latrines - Other,0.0,Eurostat environmental database - ES09
+Sweden,SE,SWE,752,National,13,Composting toilets,0.0,Eurostat environmental database - ES09
+Sweden,SE,SWE,752,National,14,Other improved,0.0,Eurostat environmental database - ES09
+Sweden,SE,SWE,752,National,15,"No facility, bush, field",0.0,Eurostat environmental database - ES09
+Sweden,SE,SWE,752,National,16,Other unimproved,0.0,Eurostat environmental database - ES09
+Sweden,SE,SWE,752,National,17,DK/missing information,0.0,Eurostat environmental database - ES09
+Sweden,SE,SWE,752,Urban,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES10
+Sweden,SE,SWE,752,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES10
+Sweden,SE,SWE,752,Urban,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES10
+Sweden,SE,SWE,752,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES10
+Sweden,SE,SWE,752,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES10
+Sweden,SE,SWE,752,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES10
+Sweden,SE,SWE,752,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES10
+Sweden,SE,SWE,752,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES10
+Sweden,SE,SWE,752,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES10
+Sweden,SE,SWE,752,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES10
+Sweden,SE,SWE,752,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES10
+Sweden,SE,SWE,752,Urban,12,Dry latrines - Other,0.0,Eurostat environmental database - ES10
+Sweden,SE,SWE,752,Urban,13,Composting toilets,0.0,Eurostat environmental database - ES10
+Sweden,SE,SWE,752,Urban,14,Other improved,0.0,Eurostat environmental database - ES10
+Sweden,SE,SWE,752,Urban,15,"No facility, bush, field",0.0,Eurostat environmental database - ES10
+Sweden,SE,SWE,752,Urban,16,Other unimproved,0.0,Eurostat environmental database - ES10
+Sweden,SE,SWE,752,Urban,17,DK/missing information,0.0,Eurostat environmental database - ES10
+Sweden,SE,SWE,752,Rural,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES10
+Sweden,SE,SWE,752,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES10
+Sweden,SE,SWE,752,Rural,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES10
+Sweden,SE,SWE,752,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES10
+Sweden,SE,SWE,752,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES10
+Sweden,SE,SWE,752,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES10
+Sweden,SE,SWE,752,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES10
+Sweden,SE,SWE,752,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES10
+Sweden,SE,SWE,752,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES10
+Sweden,SE,SWE,752,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES10
+Sweden,SE,SWE,752,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES10
+Sweden,SE,SWE,752,Rural,12,Dry latrines - Other,0.0,Eurostat environmental database - ES10
+Sweden,SE,SWE,752,Rural,13,Composting toilets,0.0,Eurostat environmental database - ES10
+Sweden,SE,SWE,752,Rural,14,Other improved,0.0,Eurostat environmental database - ES10
+Sweden,SE,SWE,752,Rural,15,"No facility, bush, field",0.0,Eurostat environmental database - ES10
+Sweden,SE,SWE,752,Rural,16,Other unimproved,0.0,Eurostat environmental database - ES10
+Sweden,SE,SWE,752,Rural,17,DK/missing information,0.0,Eurostat environmental database - ES10
+Sweden,SE,SWE,752,National,1,Flush and pour flush - to piped sewer system,0.86,Eurostat environmental database - ES10
+Sweden,SE,SWE,752,National,2,Flush and pour flush - to septic tank,0.14,Eurostat environmental database - ES10
+Sweden,SE,SWE,752,National,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES10
+Sweden,SE,SWE,752,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES10
+Sweden,SE,SWE,752,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES10
+Sweden,SE,SWE,752,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES10
+Sweden,SE,SWE,752,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES10
+Sweden,SE,SWE,752,National,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES10
+Sweden,SE,SWE,752,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES10
+Sweden,SE,SWE,752,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES10
+Sweden,SE,SWE,752,National,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES10
+Sweden,SE,SWE,752,National,12,Dry latrines - Other,0.0,Eurostat environmental database - ES10
+Sweden,SE,SWE,752,National,13,Composting toilets,0.0,Eurostat environmental database - ES10
+Sweden,SE,SWE,752,National,14,Other improved,0.0,Eurostat environmental database - ES10
+Sweden,SE,SWE,752,National,15,"No facility, bush, field",0.0,Eurostat environmental database - ES10
+Sweden,SE,SWE,752,National,16,Other unimproved,0.0,Eurostat environmental database - ES10
+Sweden,SE,SWE,752,National,17,DK/missing information,0.0,Eurostat environmental database - ES10
+Sweden,SE,SWE,752,Urban,1,Flush and pour flush - to piped sewer system,0.868,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS10"
+Sweden,SE,SWE,752,Urban,2,Flush and pour flush - to septic tank,0.108,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS10"
+Sweden,SE,SWE,752,Urban,3,Flush and pour flush - to pit,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS10"
+Sweden,SE,SWE,752,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS10"
+Sweden,SE,SWE,752,Urban,5,Flush and pour flush - to elsewhere,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS10"
+Sweden,SE,SWE,752,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS10"
+Sweden,SE,SWE,752,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS10"
+Sweden,SE,SWE,752,Urban,8,Dry latrines - Traditional latrine,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS10"
+Sweden,SE,SWE,752,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS10"
+Sweden,SE,SWE,752,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS10"
+Sweden,SE,SWE,752,Urban,11,Dry latrines - Bucket latrine,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS10"
+Sweden,SE,SWE,752,Urban,12,Dry latrines - Other,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS10"
+Sweden,SE,SWE,752,Urban,13,Composting toilets,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS10"
+Sweden,SE,SWE,752,Urban,14,Other improved,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS10"
+Sweden,SE,SWE,752,Urban,15,"No facility, bush, field",0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS10"
+Sweden,SE,SWE,752,Urban,16,Other unimproved,0.005,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS10"
+Sweden,SE,SWE,752,Urban,17,DK/missing information,0.018,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS10"
+Sweden,SE,SWE,752,Rural,1,Flush and pour flush - to piped sewer system,0.746,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS10"
+Sweden,SE,SWE,752,Rural,2,Flush and pour flush - to septic tank,0.243,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS10"
+Sweden,SE,SWE,752,Rural,3,Flush and pour flush - to pit,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS10"
+Sweden,SE,SWE,752,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS10"
+Sweden,SE,SWE,752,Rural,5,Flush and pour flush - to elsewhere,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS10"
+Sweden,SE,SWE,752,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS10"
+Sweden,SE,SWE,752,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS10"
+Sweden,SE,SWE,752,Rural,8,Dry latrines - Traditional latrine,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS10"
+Sweden,SE,SWE,752,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS10"
+Sweden,SE,SWE,752,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS10"
+Sweden,SE,SWE,752,Rural,11,Dry latrines - Bucket latrine,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS10"
+Sweden,SE,SWE,752,Rural,12,Dry latrines - Other,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS10"
+Sweden,SE,SWE,752,Rural,13,Composting toilets,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS10"
+Sweden,SE,SWE,752,Rural,14,Other improved,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS10"
+Sweden,SE,SWE,752,Rural,15,"No facility, bush, field",0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS10"
+Sweden,SE,SWE,752,Rural,16,Other unimproved,0.008,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS10"
+Sweden,SE,SWE,752,Rural,17,DK/missing information,0.004,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS10"
+Sweden,SE,SWE,752,National,1,Flush and pour flush - to piped sewer system,0.862,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS10"
+Sweden,SE,SWE,752,National,2,Flush and pour flush - to septic tank,0.115,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS10"
+Sweden,SE,SWE,752,National,3,Flush and pour flush - to pit,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS10"
+Sweden,SE,SWE,752,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS10"
+Sweden,SE,SWE,752,National,5,Flush and pour flush - to elsewhere,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS10"
+Sweden,SE,SWE,752,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS10"
+Sweden,SE,SWE,752,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS10"
+Sweden,SE,SWE,752,National,8,Dry latrines - Traditional latrine,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS10"
+Sweden,SE,SWE,752,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS10"
+Sweden,SE,SWE,752,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS10"
+Sweden,SE,SWE,752,National,11,Dry latrines - Bucket latrine,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS10"
+Sweden,SE,SWE,752,National,12,Dry latrines - Other,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS10"
+Sweden,SE,SWE,752,National,13,Composting toilets,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS10"
+Sweden,SE,SWE,752,National,14,Other improved,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS10"
+Sweden,SE,SWE,752,National,15,"No facility, bush, field",0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS10"
+Sweden,SE,SWE,752,National,16,Other unimproved,0.005,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS10"
+Sweden,SE,SWE,752,National,17,DK/missing information,0.017,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS10"
+Sweden,SE,SWE,752,Urban,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES11
+Sweden,SE,SWE,752,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES11
+Sweden,SE,SWE,752,Urban,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES11
+Sweden,SE,SWE,752,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES11
+Sweden,SE,SWE,752,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES11
+Sweden,SE,SWE,752,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES11
+Sweden,SE,SWE,752,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES11
+Sweden,SE,SWE,752,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES11
+Sweden,SE,SWE,752,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES11
+Sweden,SE,SWE,752,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES11
+Sweden,SE,SWE,752,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES11
+Sweden,SE,SWE,752,Urban,12,Dry latrines - Other,0.0,Eurostat environmental database - ES11
+Sweden,SE,SWE,752,Urban,13,Composting toilets,0.0,Eurostat environmental database - ES11
+Sweden,SE,SWE,752,Urban,14,Other improved,0.0,Eurostat environmental database - ES11
+Sweden,SE,SWE,752,Urban,15,"No facility, bush, field",0.0,Eurostat environmental database - ES11
+Sweden,SE,SWE,752,Urban,16,Other unimproved,0.0,Eurostat environmental database - ES11
+Sweden,SE,SWE,752,Urban,17,DK/missing information,0.0,Eurostat environmental database - ES11
+Sweden,SE,SWE,752,Rural,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES11
+Sweden,SE,SWE,752,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES11
+Sweden,SE,SWE,752,Rural,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES11
+Sweden,SE,SWE,752,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES11
+Sweden,SE,SWE,752,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES11
+Sweden,SE,SWE,752,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES11
+Sweden,SE,SWE,752,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES11
+Sweden,SE,SWE,752,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES11
+Sweden,SE,SWE,752,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES11
+Sweden,SE,SWE,752,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES11
+Sweden,SE,SWE,752,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES11
+Sweden,SE,SWE,752,Rural,12,Dry latrines - Other,0.0,Eurostat environmental database - ES11
+Sweden,SE,SWE,752,Rural,13,Composting toilets,0.0,Eurostat environmental database - ES11
+Sweden,SE,SWE,752,Rural,14,Other improved,0.0,Eurostat environmental database - ES11
+Sweden,SE,SWE,752,Rural,15,"No facility, bush, field",0.0,Eurostat environmental database - ES11
+Sweden,SE,SWE,752,Rural,16,Other unimproved,0.0,Eurostat environmental database - ES11
+Sweden,SE,SWE,752,Rural,17,DK/missing information,0.0,Eurostat environmental database - ES11
+Sweden,SE,SWE,752,National,1,Flush and pour flush - to piped sewer system,0.86,Eurostat environmental database - ES11
+Sweden,SE,SWE,752,National,2,Flush and pour flush - to septic tank,0.14,Eurostat environmental database - ES11
+Sweden,SE,SWE,752,National,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES11
+Sweden,SE,SWE,752,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES11
+Sweden,SE,SWE,752,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES11
+Sweden,SE,SWE,752,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES11
+Sweden,SE,SWE,752,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES11
+Sweden,SE,SWE,752,National,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES11
+Sweden,SE,SWE,752,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES11
+Sweden,SE,SWE,752,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES11
+Sweden,SE,SWE,752,National,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES11
+Sweden,SE,SWE,752,National,12,Dry latrines - Other,0.0,Eurostat environmental database - ES11
+Sweden,SE,SWE,752,National,13,Composting toilets,0.0,Eurostat environmental database - ES11
+Sweden,SE,SWE,752,National,14,Other improved,0.0,Eurostat environmental database - ES11
+Sweden,SE,SWE,752,National,15,"No facility, bush, field",0.0,Eurostat environmental database - ES11
+Sweden,SE,SWE,752,National,16,Other unimproved,0.0,Eurostat environmental database - ES11
+Sweden,SE,SWE,752,National,17,DK/missing information,0.0,Eurostat environmental database - ES11
+Sweden,SE,SWE,752,Urban,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES12
+Sweden,SE,SWE,752,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES12
+Sweden,SE,SWE,752,Urban,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES12
+Sweden,SE,SWE,752,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES12
+Sweden,SE,SWE,752,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES12
+Sweden,SE,SWE,752,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES12
+Sweden,SE,SWE,752,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES12
+Sweden,SE,SWE,752,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES12
+Sweden,SE,SWE,752,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES12
+Sweden,SE,SWE,752,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES12
+Sweden,SE,SWE,752,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES12
+Sweden,SE,SWE,752,Urban,12,Dry latrines - Other,0.0,Eurostat environmental database - ES12
+Sweden,SE,SWE,752,Urban,13,Composting toilets,0.0,Eurostat environmental database - ES12
+Sweden,SE,SWE,752,Urban,14,Other improved,0.0,Eurostat environmental database - ES12
+Sweden,SE,SWE,752,Urban,15,"No facility, bush, field",0.0,Eurostat environmental database - ES12
+Sweden,SE,SWE,752,Urban,16,Other unimproved,0.0,Eurostat environmental database - ES12
+Sweden,SE,SWE,752,Urban,17,DK/missing information,0.0,Eurostat environmental database - ES12
+Sweden,SE,SWE,752,Rural,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES12
+Sweden,SE,SWE,752,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES12
+Sweden,SE,SWE,752,Rural,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES12
+Sweden,SE,SWE,752,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES12
+Sweden,SE,SWE,752,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES12
+Sweden,SE,SWE,752,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES12
+Sweden,SE,SWE,752,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES12
+Sweden,SE,SWE,752,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES12
+Sweden,SE,SWE,752,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES12
+Sweden,SE,SWE,752,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES12
+Sweden,SE,SWE,752,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES12
+Sweden,SE,SWE,752,Rural,12,Dry latrines - Other,0.0,Eurostat environmental database - ES12
+Sweden,SE,SWE,752,Rural,13,Composting toilets,0.0,Eurostat environmental database - ES12
+Sweden,SE,SWE,752,Rural,14,Other improved,0.0,Eurostat environmental database - ES12
+Sweden,SE,SWE,752,Rural,15,"No facility, bush, field",0.0,Eurostat environmental database - ES12
+Sweden,SE,SWE,752,Rural,16,Other unimproved,0.0,Eurostat environmental database - ES12
+Sweden,SE,SWE,752,Rural,17,DK/missing information,0.0,Eurostat environmental database - ES12
+Sweden,SE,SWE,752,National,1,Flush and pour flush - to piped sewer system,0.87,Eurostat environmental database - ES12
+Sweden,SE,SWE,752,National,2,Flush and pour flush - to septic tank,0.13,Eurostat environmental database - ES12
+Sweden,SE,SWE,752,National,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES12
+Sweden,SE,SWE,752,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES12
+Sweden,SE,SWE,752,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES12
+Sweden,SE,SWE,752,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES12
+Sweden,SE,SWE,752,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES12
+Sweden,SE,SWE,752,National,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES12
+Sweden,SE,SWE,752,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES12
+Sweden,SE,SWE,752,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES12
+Sweden,SE,SWE,752,National,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES12
+Sweden,SE,SWE,752,National,12,Dry latrines - Other,0.0,Eurostat environmental database - ES12
+Sweden,SE,SWE,752,National,13,Composting toilets,0.0,Eurostat environmental database - ES12
+Sweden,SE,SWE,752,National,14,Other improved,0.0,Eurostat environmental database - ES12
+Sweden,SE,SWE,752,National,15,"No facility, bush, field",0.0,Eurostat environmental database - ES12
+Sweden,SE,SWE,752,National,16,Other unimproved,0.0,Eurostat environmental database - ES12
+Sweden,SE,SWE,752,National,17,DK/missing information,0.0,Eurostat environmental database - ES12
+Sweden,SE,SWE,752,Urban,1,Flush and pour flush - to piped sewer system,0.0,Eurostat - ES14
+Sweden,SE,SWE,752,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat - ES14
+Sweden,SE,SWE,752,Urban,3,Flush and pour flush - to pit,0.0,Eurostat - ES14
+Sweden,SE,SWE,752,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat - ES14
+Sweden,SE,SWE,752,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat - ES14
+Sweden,SE,SWE,752,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat - ES14
+Sweden,SE,SWE,752,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat - ES14
+Sweden,SE,SWE,752,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat - ES14
+Sweden,SE,SWE,752,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat - ES14
+Sweden,SE,SWE,752,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat - ES14
+Sweden,SE,SWE,752,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat - ES14
+Sweden,SE,SWE,752,Urban,12,Dry latrines - Other,0.0,Eurostat - ES14
+Sweden,SE,SWE,752,Urban,13,Composting toilets,0.0,Eurostat - ES14
+Sweden,SE,SWE,752,Urban,14,Other improved,0.0,Eurostat - ES14
+Sweden,SE,SWE,752,Urban,15,"No facility, bush, field",0.0,Eurostat - ES14
+Sweden,SE,SWE,752,Urban,16,Other unimproved,0.0,Eurostat - ES14
+Sweden,SE,SWE,752,Urban,17,DK/missing information,0.0,Eurostat - ES14
+Sweden,SE,SWE,752,Rural,1,Flush and pour flush - to piped sewer system,0.0,Eurostat - ES14
+Sweden,SE,SWE,752,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat - ES14
+Sweden,SE,SWE,752,Rural,3,Flush and pour flush - to pit,0.0,Eurostat - ES14
+Sweden,SE,SWE,752,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat - ES14
+Sweden,SE,SWE,752,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat - ES14
+Sweden,SE,SWE,752,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat - ES14
+Sweden,SE,SWE,752,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat - ES14
+Sweden,SE,SWE,752,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat - ES14
+Sweden,SE,SWE,752,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat - ES14
+Sweden,SE,SWE,752,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat - ES14
+Sweden,SE,SWE,752,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat - ES14
+Sweden,SE,SWE,752,Rural,12,Dry latrines - Other,0.0,Eurostat - ES14
+Sweden,SE,SWE,752,Rural,13,Composting toilets,0.0,Eurostat - ES14
+Sweden,SE,SWE,752,Rural,14,Other improved,0.0,Eurostat - ES14
+Sweden,SE,SWE,752,Rural,15,"No facility, bush, field",0.0,Eurostat - ES14
+Sweden,SE,SWE,752,Rural,16,Other unimproved,0.0,Eurostat - ES14
+Sweden,SE,SWE,752,Rural,17,DK/missing information,0.0,Eurostat - ES14
+Sweden,SE,SWE,752,National,1,Flush and pour flush - to piped sewer system,0.87,Eurostat - ES14
+Sweden,SE,SWE,752,National,2,Flush and pour flush - to septic tank,0.13,Eurostat - ES14
+Sweden,SE,SWE,752,National,3,Flush and pour flush - to pit,0.0,Eurostat - ES14
+Sweden,SE,SWE,752,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat - ES14
+Sweden,SE,SWE,752,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat - ES14
+Sweden,SE,SWE,752,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat - ES14
+Sweden,SE,SWE,752,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat - ES14
+Sweden,SE,SWE,752,National,8,Dry latrines - Traditional latrine,0.0,Eurostat - ES14
+Sweden,SE,SWE,752,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat - ES14
+Sweden,SE,SWE,752,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat - ES14
+Sweden,SE,SWE,752,National,11,Dry latrines - Bucket latrine,0.0,Eurostat - ES14
+Sweden,SE,SWE,752,National,12,Dry latrines - Other,0.0,Eurostat - ES14
+Sweden,SE,SWE,752,National,13,Composting toilets,0.0,Eurostat - ES14
+Sweden,SE,SWE,752,National,14,Other improved,0.0,Eurostat - ES14
+Sweden,SE,SWE,752,National,15,"No facility, bush, field",0.0,Eurostat - ES14
+Sweden,SE,SWE,752,National,16,Other unimproved,0.0,Eurostat - ES14
+Sweden,SE,SWE,752,National,17,DK/missing information,0.0,Eurostat - ES14
+Sweden,SE,SWE,752,Urban,1,Flush and pour flush - to piped sewer system,0.877,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS14"
+Sweden,SE,SWE,752,Urban,2,Flush and pour flush - to septic tank,0.102,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS14"
+Sweden,SE,SWE,752,Urban,3,Flush and pour flush - to pit,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS14"
+Sweden,SE,SWE,752,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS14"
+Sweden,SE,SWE,752,Urban,5,Flush and pour flush - to elsewhere,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS14"
+Sweden,SE,SWE,752,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS14"
+Sweden,SE,SWE,752,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS14"
+Sweden,SE,SWE,752,Urban,8,Dry latrines - Traditional latrine,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS14"
+Sweden,SE,SWE,752,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS14"
+Sweden,SE,SWE,752,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS14"
+Sweden,SE,SWE,752,Urban,11,Dry latrines - Bucket latrine,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS14"
+Sweden,SE,SWE,752,Urban,12,Dry latrines - Other,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS14"
+Sweden,SE,SWE,752,Urban,13,Composting toilets,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS14"
+Sweden,SE,SWE,752,Urban,14,Other improved,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS14"
+Sweden,SE,SWE,752,Urban,15,"No facility, bush, field",0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS14"
+Sweden,SE,SWE,752,Urban,16,Other unimproved,0.004,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS14"
+Sweden,SE,SWE,752,Urban,17,DK/missing information,0.017,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS14"
+Sweden,SE,SWE,752,Rural,1,Flush and pour flush - to piped sewer system,0.753,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS14"
+Sweden,SE,SWE,752,Rural,2,Flush and pour flush - to septic tank,0.236,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS14"
+Sweden,SE,SWE,752,Rural,3,Flush and pour flush - to pit,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS14"
+Sweden,SE,SWE,752,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS14"
+Sweden,SE,SWE,752,Rural,5,Flush and pour flush - to elsewhere,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS14"
+Sweden,SE,SWE,752,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS14"
+Sweden,SE,SWE,752,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS14"
+Sweden,SE,SWE,752,Rural,8,Dry latrines - Traditional latrine,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS14"
+Sweden,SE,SWE,752,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS14"
+Sweden,SE,SWE,752,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS14"
+Sweden,SE,SWE,752,Rural,11,Dry latrines - Bucket latrine,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS14"
+Sweden,SE,SWE,752,Rural,12,Dry latrines - Other,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS14"
+Sweden,SE,SWE,752,Rural,13,Composting toilets,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS14"
+Sweden,SE,SWE,752,Rural,14,Other improved,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS14"
+Sweden,SE,SWE,752,Rural,15,"No facility, bush, field",0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS14"
+Sweden,SE,SWE,752,Rural,16,Other unimproved,0.007,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS14"
+Sweden,SE,SWE,752,Rural,17,DK/missing information,0.003,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS14"
+Sweden,SE,SWE,752,National,1,Flush and pour flush - to piped sewer system,0.871,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS14"
+Sweden,SE,SWE,752,National,2,Flush and pour flush - to septic tank,0.109,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS14"
+Sweden,SE,SWE,752,National,3,Flush and pour flush - to pit,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS14"
+Sweden,SE,SWE,752,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS14"
+Sweden,SE,SWE,752,National,5,Flush and pour flush - to elsewhere,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS14"
+Sweden,SE,SWE,752,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS14"
+Sweden,SE,SWE,752,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS14"
+Sweden,SE,SWE,752,National,8,Dry latrines - Traditional latrine,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS14"
+Sweden,SE,SWE,752,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS14"
+Sweden,SE,SWE,752,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS14"
+Sweden,SE,SWE,752,National,11,Dry latrines - Bucket latrine,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS14"
+Sweden,SE,SWE,752,National,12,Dry latrines - Other,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS14"
+Sweden,SE,SWE,752,National,13,Composting toilets,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS14"
+Sweden,SE,SWE,752,National,14,Other improved,0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS14"
+Sweden,SE,SWE,752,National,15,"No facility, bush, field",0.0,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS14"
+Sweden,SE,SWE,752,National,16,Other unimproved,0.004,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS14"
+Sweden,SE,SWE,752,National,17,DK/missing information,0.016,"The Real Estate Tax Assessment Register 2015 and the Total Population Register 2014, Statistics Sweden - SS14"
+Sweden,SE,SWE,752,Urban,1,Flush and pour flush - to piped sewer system,1.0,Eurostat SILC database - EUSILC14
+Sweden,SE,SWE,752,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC14
+Sweden,SE,SWE,752,Urban,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC14
+Sweden,SE,SWE,752,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC14
+Sweden,SE,SWE,752,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC14
+Sweden,SE,SWE,752,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC14
+Sweden,SE,SWE,752,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC14
+Sweden,SE,SWE,752,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC14
+Sweden,SE,SWE,752,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC14
+Sweden,SE,SWE,752,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC14
+Sweden,SE,SWE,752,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC14
+Sweden,SE,SWE,752,Urban,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC14
+Sweden,SE,SWE,752,Urban,13,Composting toilets,0.0,Eurostat SILC database - EUSILC14
+Sweden,SE,SWE,752,Urban,14,Other improved,0.0,Eurostat SILC database - EUSILC14
+Sweden,SE,SWE,752,Urban,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC14
+Sweden,SE,SWE,752,Urban,16,Other unimproved,0.0,Eurostat SILC database - EUSILC14
+Sweden,SE,SWE,752,Urban,17,DK/missing information,0.0,Eurostat SILC database - EUSILC14
+Sweden,SE,SWE,752,Rural,1,Flush and pour flush - to piped sewer system,1.0,Eurostat SILC database - EUSILC14
+Sweden,SE,SWE,752,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC14
+Sweden,SE,SWE,752,Rural,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC14
+Sweden,SE,SWE,752,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC14
+Sweden,SE,SWE,752,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC14
+Sweden,SE,SWE,752,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC14
+Sweden,SE,SWE,752,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC14
+Sweden,SE,SWE,752,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC14
+Sweden,SE,SWE,752,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC14
+Sweden,SE,SWE,752,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC14
+Sweden,SE,SWE,752,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC14
+Sweden,SE,SWE,752,Rural,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC14
+Sweden,SE,SWE,752,Rural,13,Composting toilets,0.0,Eurostat SILC database - EUSILC14
+Sweden,SE,SWE,752,Rural,14,Other improved,0.0,Eurostat SILC database - EUSILC14
+Sweden,SE,SWE,752,Rural,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC14
+Sweden,SE,SWE,752,Rural,16,Other unimproved,0.0,Eurostat SILC database - EUSILC14
+Sweden,SE,SWE,752,Rural,17,DK/missing information,0.0,Eurostat SILC database - EUSILC14
+Sweden,SE,SWE,752,National,1,Flush and pour flush - to piped sewer system,1.0,Eurostat SILC database - EUSILC14
+Sweden,SE,SWE,752,National,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC14
+Sweden,SE,SWE,752,National,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC14
+Sweden,SE,SWE,752,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC14
+Sweden,SE,SWE,752,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC14
+Sweden,SE,SWE,752,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC14
+Sweden,SE,SWE,752,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC14
+Sweden,SE,SWE,752,National,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC14
+Sweden,SE,SWE,752,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC14
+Sweden,SE,SWE,752,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC14
+Sweden,SE,SWE,752,National,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC14
+Sweden,SE,SWE,752,National,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC14
+Sweden,SE,SWE,752,National,13,Composting toilets,0.0,Eurostat SILC database - EUSILC14
+Sweden,SE,SWE,752,National,14,Other improved,0.0,Eurostat SILC database - EUSILC14
+Sweden,SE,SWE,752,National,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC14
+Sweden,SE,SWE,752,National,16,Other unimproved,0.0,Eurostat SILC database - EUSILC14
+Sweden,SE,SWE,752,National,17,DK/missing information,0.0,Eurostat SILC database - EUSILC14
+Sweden,SE,SWE,752,Urban,1,Flush and pour flush - to piped sewer system,1.0,Eurostat SILC database - EUSILC15
+Sweden,SE,SWE,752,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC15
+Sweden,SE,SWE,752,Urban,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC15
+Sweden,SE,SWE,752,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC15
+Sweden,SE,SWE,752,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC15
+Sweden,SE,SWE,752,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC15
+Sweden,SE,SWE,752,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC15
+Sweden,SE,SWE,752,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC15
+Sweden,SE,SWE,752,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC15
+Sweden,SE,SWE,752,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC15
+Sweden,SE,SWE,752,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC15
+Sweden,SE,SWE,752,Urban,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC15
+Sweden,SE,SWE,752,Urban,13,Composting toilets,0.0,Eurostat SILC database - EUSILC15
+Sweden,SE,SWE,752,Urban,14,Other improved,0.0,Eurostat SILC database - EUSILC15
+Sweden,SE,SWE,752,Urban,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC15
+Sweden,SE,SWE,752,Urban,16,Other unimproved,0.0,Eurostat SILC database - EUSILC15
+Sweden,SE,SWE,752,Urban,17,DK/missing information,0.0,Eurostat SILC database - EUSILC15
+Sweden,SE,SWE,752,Rural,1,Flush and pour flush - to piped sewer system,1.0,Eurostat SILC database - EUSILC15
+Sweden,SE,SWE,752,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC15
+Sweden,SE,SWE,752,Rural,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC15
+Sweden,SE,SWE,752,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC15
+Sweden,SE,SWE,752,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC15
+Sweden,SE,SWE,752,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC15
+Sweden,SE,SWE,752,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC15
+Sweden,SE,SWE,752,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC15
+Sweden,SE,SWE,752,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC15
+Sweden,SE,SWE,752,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC15
+Sweden,SE,SWE,752,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC15
+Sweden,SE,SWE,752,Rural,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC15
+Sweden,SE,SWE,752,Rural,13,Composting toilets,0.0,Eurostat SILC database - EUSILC15
+Sweden,SE,SWE,752,Rural,14,Other improved,0.0,Eurostat SILC database - EUSILC15
+Sweden,SE,SWE,752,Rural,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC15
+Sweden,SE,SWE,752,Rural,16,Other unimproved,0.0,Eurostat SILC database - EUSILC15
+Sweden,SE,SWE,752,Rural,17,DK/missing information,0.0,Eurostat SILC database - EUSILC15
+Sweden,SE,SWE,752,National,1,Flush and pour flush - to piped sewer system,1.0,Eurostat SILC database - EUSILC15
+Sweden,SE,SWE,752,National,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC15
+Sweden,SE,SWE,752,National,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC15
+Sweden,SE,SWE,752,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC15
+Sweden,SE,SWE,752,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC15
+Sweden,SE,SWE,752,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC15
+Sweden,SE,SWE,752,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC15
+Sweden,SE,SWE,752,National,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC15
+Sweden,SE,SWE,752,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC15
+Sweden,SE,SWE,752,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC15
+Sweden,SE,SWE,752,National,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC15
+Sweden,SE,SWE,752,National,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC15
+Sweden,SE,SWE,752,National,13,Composting toilets,0.0,Eurostat SILC database - EUSILC15
+Sweden,SE,SWE,752,National,14,Other improved,0.0,Eurostat SILC database - EUSILC15
+Sweden,SE,SWE,752,National,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC15
+Sweden,SE,SWE,752,National,16,Other unimproved,0.0,Eurostat SILC database - EUSILC15
+Sweden,SE,SWE,752,National,17,DK/missing information,0.0,Eurostat SILC database - EUSILC15

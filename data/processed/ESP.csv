@@ -1,0 +1,715 @@
+country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+Spain,ES,ESP,724,Urban,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES02
+Spain,ES,ESP,724,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES02
+Spain,ES,ESP,724,Urban,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES02
+Spain,ES,ESP,724,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES02
+Spain,ES,ESP,724,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES02
+Spain,ES,ESP,724,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES02
+Spain,ES,ESP,724,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES02
+Spain,ES,ESP,724,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES02
+Spain,ES,ESP,724,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES02
+Spain,ES,ESP,724,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES02
+Spain,ES,ESP,724,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES02
+Spain,ES,ESP,724,Urban,12,Dry latrines - Other,0.0,Eurostat environmental database - ES02
+Spain,ES,ESP,724,Urban,13,Composting toilets,0.0,Eurostat environmental database - ES02
+Spain,ES,ESP,724,Urban,14,Other improved,0.0,Eurostat environmental database - ES02
+Spain,ES,ESP,724,Urban,15,"No facility, bush, field",0.0,Eurostat environmental database - ES02
+Spain,ES,ESP,724,Urban,16,Other unimproved,0.0,Eurostat environmental database - ES02
+Spain,ES,ESP,724,Urban,17,DK/missing information,0.0,Eurostat environmental database - ES02
+Spain,ES,ESP,724,Rural,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES02
+Spain,ES,ESP,724,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES02
+Spain,ES,ESP,724,Rural,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES02
+Spain,ES,ESP,724,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES02
+Spain,ES,ESP,724,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES02
+Spain,ES,ESP,724,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES02
+Spain,ES,ESP,724,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES02
+Spain,ES,ESP,724,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES02
+Spain,ES,ESP,724,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES02
+Spain,ES,ESP,724,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES02
+Spain,ES,ESP,724,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES02
+Spain,ES,ESP,724,Rural,12,Dry latrines - Other,0.0,Eurostat environmental database - ES02
+Spain,ES,ESP,724,Rural,13,Composting toilets,0.0,Eurostat environmental database - ES02
+Spain,ES,ESP,724,Rural,14,Other improved,0.0,Eurostat environmental database - ES02
+Spain,ES,ESP,724,Rural,15,"No facility, bush, field",0.0,Eurostat environmental database - ES02
+Spain,ES,ESP,724,Rural,16,Other unimproved,0.0,Eurostat environmental database - ES02
+Spain,ES,ESP,724,Rural,17,DK/missing information,0.0,Eurostat environmental database - ES02
+Spain,ES,ESP,724,National,1,Flush and pour flush - to piped sewer system,1.0,Eurostat environmental database - ES02
+Spain,ES,ESP,724,National,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES02
+Spain,ES,ESP,724,National,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES02
+Spain,ES,ESP,724,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES02
+Spain,ES,ESP,724,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES02
+Spain,ES,ESP,724,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES02
+Spain,ES,ESP,724,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES02
+Spain,ES,ESP,724,National,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES02
+Spain,ES,ESP,724,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES02
+Spain,ES,ESP,724,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES02
+Spain,ES,ESP,724,National,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES02
+Spain,ES,ESP,724,National,12,Dry latrines - Other,0.0,Eurostat environmental database - ES02
+Spain,ES,ESP,724,National,13,Composting toilets,0.0,Eurostat environmental database - ES02
+Spain,ES,ESP,724,National,14,Other improved,0.0,Eurostat environmental database - ES02
+Spain,ES,ESP,724,National,15,"No facility, bush, field",0.0,Eurostat environmental database - ES02
+Spain,ES,ESP,724,National,16,Other unimproved,0.0,Eurostat environmental database - ES02
+Spain,ES,ESP,724,National,17,DK/missing information,0.0,Eurostat environmental database - ES02
+Spain,ES,ESP,724,Urban,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES00
+Spain,ES,ESP,724,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES00
+Spain,ES,ESP,724,Urban,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES00
+Spain,ES,ESP,724,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES00
+Spain,ES,ESP,724,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES00
+Spain,ES,ESP,724,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES00
+Spain,ES,ESP,724,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES00
+Spain,ES,ESP,724,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES00
+Spain,ES,ESP,724,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES00
+Spain,ES,ESP,724,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES00
+Spain,ES,ESP,724,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES00
+Spain,ES,ESP,724,Urban,12,Dry latrines - Other,0.0,Eurostat environmental database - ES00
+Spain,ES,ESP,724,Urban,13,Composting toilets,0.0,Eurostat environmental database - ES00
+Spain,ES,ESP,724,Urban,14,Other improved,0.0,Eurostat environmental database - ES00
+Spain,ES,ESP,724,Urban,15,"No facility, bush, field",0.0,Eurostat environmental database - ES00
+Spain,ES,ESP,724,Urban,16,Other unimproved,0.0,Eurostat environmental database - ES00
+Spain,ES,ESP,724,Urban,17,DK/missing information,0.0,Eurostat environmental database - ES00
+Spain,ES,ESP,724,Rural,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES00
+Spain,ES,ESP,724,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES00
+Spain,ES,ESP,724,Rural,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES00
+Spain,ES,ESP,724,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES00
+Spain,ES,ESP,724,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES00
+Spain,ES,ESP,724,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES00
+Spain,ES,ESP,724,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES00
+Spain,ES,ESP,724,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES00
+Spain,ES,ESP,724,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES00
+Spain,ES,ESP,724,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES00
+Spain,ES,ESP,724,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES00
+Spain,ES,ESP,724,Rural,12,Dry latrines - Other,0.0,Eurostat environmental database - ES00
+Spain,ES,ESP,724,Rural,13,Composting toilets,0.0,Eurostat environmental database - ES00
+Spain,ES,ESP,724,Rural,14,Other improved,0.0,Eurostat environmental database - ES00
+Spain,ES,ESP,724,Rural,15,"No facility, bush, field",0.0,Eurostat environmental database - ES00
+Spain,ES,ESP,724,Rural,16,Other unimproved,0.0,Eurostat environmental database - ES00
+Spain,ES,ESP,724,Rural,17,DK/missing information,0.0,Eurostat environmental database - ES00
+Spain,ES,ESP,724,National,1,Flush and pour flush - to piped sewer system,1.0,Eurostat environmental database - ES00
+Spain,ES,ESP,724,National,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES00
+Spain,ES,ESP,724,National,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES00
+Spain,ES,ESP,724,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES00
+Spain,ES,ESP,724,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES00
+Spain,ES,ESP,724,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES00
+Spain,ES,ESP,724,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES00
+Spain,ES,ESP,724,National,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES00
+Spain,ES,ESP,724,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES00
+Spain,ES,ESP,724,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES00
+Spain,ES,ESP,724,National,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES00
+Spain,ES,ESP,724,National,12,Dry latrines - Other,0.0,Eurostat environmental database - ES00
+Spain,ES,ESP,724,National,13,Composting toilets,0.0,Eurostat environmental database - ES00
+Spain,ES,ESP,724,National,14,Other improved,0.0,Eurostat environmental database - ES00
+Spain,ES,ESP,724,National,15,"No facility, bush, field",0.0,Eurostat environmental database - ES00
+Spain,ES,ESP,724,National,16,Other unimproved,0.0,Eurostat environmental database - ES00
+Spain,ES,ESP,724,National,17,DK/missing information,0.0,Eurostat environmental database - ES00
+Spain,ES,ESP,724,Urban,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES05
+Spain,ES,ESP,724,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES05
+Spain,ES,ESP,724,Urban,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES05
+Spain,ES,ESP,724,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES05
+Spain,ES,ESP,724,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES05
+Spain,ES,ESP,724,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES05
+Spain,ES,ESP,724,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES05
+Spain,ES,ESP,724,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES05
+Spain,ES,ESP,724,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES05
+Spain,ES,ESP,724,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES05
+Spain,ES,ESP,724,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES05
+Spain,ES,ESP,724,Urban,12,Dry latrines - Other,0.0,Eurostat environmental database - ES05
+Spain,ES,ESP,724,Urban,13,Composting toilets,0.0,Eurostat environmental database - ES05
+Spain,ES,ESP,724,Urban,14,Other improved,0.0,Eurostat environmental database - ES05
+Spain,ES,ESP,724,Urban,15,"No facility, bush, field",0.0,Eurostat environmental database - ES05
+Spain,ES,ESP,724,Urban,16,Other unimproved,0.0,Eurostat environmental database - ES05
+Spain,ES,ESP,724,Urban,17,DK/missing information,0.0,Eurostat environmental database - ES05
+Spain,ES,ESP,724,Rural,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES05
+Spain,ES,ESP,724,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES05
+Spain,ES,ESP,724,Rural,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES05
+Spain,ES,ESP,724,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES05
+Spain,ES,ESP,724,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES05
+Spain,ES,ESP,724,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES05
+Spain,ES,ESP,724,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES05
+Spain,ES,ESP,724,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES05
+Spain,ES,ESP,724,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES05
+Spain,ES,ESP,724,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES05
+Spain,ES,ESP,724,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES05
+Spain,ES,ESP,724,Rural,12,Dry latrines - Other,0.0,Eurostat environmental database - ES05
+Spain,ES,ESP,724,Rural,13,Composting toilets,0.0,Eurostat environmental database - ES05
+Spain,ES,ESP,724,Rural,14,Other improved,0.0,Eurostat environmental database - ES05
+Spain,ES,ESP,724,Rural,15,"No facility, bush, field",0.0,Eurostat environmental database - ES05
+Spain,ES,ESP,724,Rural,16,Other unimproved,0.0,Eurostat environmental database - ES05
+Spain,ES,ESP,724,Rural,17,DK/missing information,0.0,Eurostat environmental database - ES05
+Spain,ES,ESP,724,National,1,Flush and pour flush - to piped sewer system,1.0,Eurostat environmental database - ES05
+Spain,ES,ESP,724,National,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES05
+Spain,ES,ESP,724,National,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES05
+Spain,ES,ESP,724,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES05
+Spain,ES,ESP,724,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES05
+Spain,ES,ESP,724,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES05
+Spain,ES,ESP,724,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES05
+Spain,ES,ESP,724,National,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES05
+Spain,ES,ESP,724,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES05
+Spain,ES,ESP,724,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES05
+Spain,ES,ESP,724,National,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES05
+Spain,ES,ESP,724,National,12,Dry latrines - Other,0.0,Eurostat environmental database - ES05
+Spain,ES,ESP,724,National,13,Composting toilets,0.0,Eurostat environmental database - ES05
+Spain,ES,ESP,724,National,14,Other improved,0.0,Eurostat environmental database - ES05
+Spain,ES,ESP,724,National,15,"No facility, bush, field",0.0,Eurostat environmental database - ES05
+Spain,ES,ESP,724,National,16,Other unimproved,0.0,Eurostat environmental database - ES05
+Spain,ES,ESP,724,National,17,DK/missing information,0.0,Eurostat environmental database - ES05
+Spain,ES,ESP,724,Urban,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES06
+Spain,ES,ESP,724,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES06
+Spain,ES,ESP,724,Urban,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES06
+Spain,ES,ESP,724,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES06
+Spain,ES,ESP,724,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES06
+Spain,ES,ESP,724,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES06
+Spain,ES,ESP,724,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES06
+Spain,ES,ESP,724,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES06
+Spain,ES,ESP,724,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES06
+Spain,ES,ESP,724,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES06
+Spain,ES,ESP,724,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES06
+Spain,ES,ESP,724,Urban,12,Dry latrines - Other,0.0,Eurostat environmental database - ES06
+Spain,ES,ESP,724,Urban,13,Composting toilets,0.0,Eurostat environmental database - ES06
+Spain,ES,ESP,724,Urban,14,Other improved,0.0,Eurostat environmental database - ES06
+Spain,ES,ESP,724,Urban,15,"No facility, bush, field",0.0,Eurostat environmental database - ES06
+Spain,ES,ESP,724,Urban,16,Other unimproved,0.0,Eurostat environmental database - ES06
+Spain,ES,ESP,724,Urban,17,DK/missing information,0.0,Eurostat environmental database - ES06
+Spain,ES,ESP,724,Rural,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES06
+Spain,ES,ESP,724,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES06
+Spain,ES,ESP,724,Rural,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES06
+Spain,ES,ESP,724,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES06
+Spain,ES,ESP,724,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES06
+Spain,ES,ESP,724,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES06
+Spain,ES,ESP,724,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES06
+Spain,ES,ESP,724,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES06
+Spain,ES,ESP,724,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES06
+Spain,ES,ESP,724,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES06
+Spain,ES,ESP,724,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES06
+Spain,ES,ESP,724,Rural,12,Dry latrines - Other,0.0,Eurostat environmental database - ES06
+Spain,ES,ESP,724,Rural,13,Composting toilets,0.0,Eurostat environmental database - ES06
+Spain,ES,ESP,724,Rural,14,Other improved,0.0,Eurostat environmental database - ES06
+Spain,ES,ESP,724,Rural,15,"No facility, bush, field",0.0,Eurostat environmental database - ES06
+Spain,ES,ESP,724,Rural,16,Other unimproved,0.0,Eurostat environmental database - ES06
+Spain,ES,ESP,724,Rural,17,DK/missing information,0.0,Eurostat environmental database - ES06
+Spain,ES,ESP,724,National,1,Flush and pour flush - to piped sewer system,0.92,Eurostat environmental database - ES06
+Spain,ES,ESP,724,National,2,Flush and pour flush - to septic tank,0.02,Eurostat environmental database - ES06
+Spain,ES,ESP,724,National,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES06
+Spain,ES,ESP,724,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES06
+Spain,ES,ESP,724,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES06
+Spain,ES,ESP,724,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES06
+Spain,ES,ESP,724,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES06
+Spain,ES,ESP,724,National,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES06
+Spain,ES,ESP,724,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES06
+Spain,ES,ESP,724,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES06
+Spain,ES,ESP,724,National,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES06
+Spain,ES,ESP,724,National,12,Dry latrines - Other,0.0,Eurostat environmental database - ES06
+Spain,ES,ESP,724,National,13,Composting toilets,0.0,Eurostat environmental database - ES06
+Spain,ES,ESP,724,National,14,Other improved,0.0,Eurostat environmental database - ES06
+Spain,ES,ESP,724,National,15,"No facility, bush, field",0.0,Eurostat environmental database - ES06
+Spain,ES,ESP,724,National,16,Other unimproved,0.06,Eurostat environmental database - ES06
+Spain,ES,ESP,724,National,17,DK/missing information,0.0,Eurostat environmental database - ES06
+Spain,ES,ESP,724,Urban,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES07
+Spain,ES,ESP,724,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES07
+Spain,ES,ESP,724,Urban,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES07
+Spain,ES,ESP,724,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES07
+Spain,ES,ESP,724,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES07
+Spain,ES,ESP,724,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES07
+Spain,ES,ESP,724,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES07
+Spain,ES,ESP,724,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES07
+Spain,ES,ESP,724,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES07
+Spain,ES,ESP,724,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES07
+Spain,ES,ESP,724,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES07
+Spain,ES,ESP,724,Urban,12,Dry latrines - Other,0.0,Eurostat environmental database - ES07
+Spain,ES,ESP,724,Urban,13,Composting toilets,0.0,Eurostat environmental database - ES07
+Spain,ES,ESP,724,Urban,14,Other improved,0.0,Eurostat environmental database - ES07
+Spain,ES,ESP,724,Urban,15,"No facility, bush, field",0.0,Eurostat environmental database - ES07
+Spain,ES,ESP,724,Urban,16,Other unimproved,0.0,Eurostat environmental database - ES07
+Spain,ES,ESP,724,Urban,17,DK/missing information,0.0,Eurostat environmental database - ES07
+Spain,ES,ESP,724,Rural,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES07
+Spain,ES,ESP,724,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES07
+Spain,ES,ESP,724,Rural,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES07
+Spain,ES,ESP,724,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES07
+Spain,ES,ESP,724,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES07
+Spain,ES,ESP,724,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES07
+Spain,ES,ESP,724,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES07
+Spain,ES,ESP,724,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES07
+Spain,ES,ESP,724,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES07
+Spain,ES,ESP,724,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES07
+Spain,ES,ESP,724,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES07
+Spain,ES,ESP,724,Rural,12,Dry latrines - Other,0.0,Eurostat environmental database - ES07
+Spain,ES,ESP,724,Rural,13,Composting toilets,0.0,Eurostat environmental database - ES07
+Spain,ES,ESP,724,Rural,14,Other improved,0.0,Eurostat environmental database - ES07
+Spain,ES,ESP,724,Rural,15,"No facility, bush, field",0.0,Eurostat environmental database - ES07
+Spain,ES,ESP,724,Rural,16,Other unimproved,0.0,Eurostat environmental database - ES07
+Spain,ES,ESP,724,Rural,17,DK/missing information,0.0,Eurostat environmental database - ES07
+Spain,ES,ESP,724,National,1,Flush and pour flush - to piped sewer system,1.0,Eurostat environmental database - ES07
+Spain,ES,ESP,724,National,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES07
+Spain,ES,ESP,724,National,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES07
+Spain,ES,ESP,724,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES07
+Spain,ES,ESP,724,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES07
+Spain,ES,ESP,724,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES07
+Spain,ES,ESP,724,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES07
+Spain,ES,ESP,724,National,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES07
+Spain,ES,ESP,724,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES07
+Spain,ES,ESP,724,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES07
+Spain,ES,ESP,724,National,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES07
+Spain,ES,ESP,724,National,12,Dry latrines - Other,0.0,Eurostat environmental database - ES07
+Spain,ES,ESP,724,National,13,Composting toilets,0.0,Eurostat environmental database - ES07
+Spain,ES,ESP,724,National,14,Other improved,0.0,Eurostat environmental database - ES07
+Spain,ES,ESP,724,National,15,"No facility, bush, field",0.0,Eurostat environmental database - ES07
+Spain,ES,ESP,724,National,16,Other unimproved,0.0,Eurostat environmental database - ES07
+Spain,ES,ESP,724,National,17,DK/missing information,0.0,Eurostat environmental database - ES07
+Spain,ES,ESP,724,Urban,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES08
+Spain,ES,ESP,724,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES08
+Spain,ES,ESP,724,Urban,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES08
+Spain,ES,ESP,724,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES08
+Spain,ES,ESP,724,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES08
+Spain,ES,ESP,724,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES08
+Spain,ES,ESP,724,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES08
+Spain,ES,ESP,724,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES08
+Spain,ES,ESP,724,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES08
+Spain,ES,ESP,724,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES08
+Spain,ES,ESP,724,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES08
+Spain,ES,ESP,724,Urban,12,Dry latrines - Other,0.0,Eurostat environmental database - ES08
+Spain,ES,ESP,724,Urban,13,Composting toilets,0.0,Eurostat environmental database - ES08
+Spain,ES,ESP,724,Urban,14,Other improved,0.0,Eurostat environmental database - ES08
+Spain,ES,ESP,724,Urban,15,"No facility, bush, field",0.0,Eurostat environmental database - ES08
+Spain,ES,ESP,724,Urban,16,Other unimproved,0.0,Eurostat environmental database - ES08
+Spain,ES,ESP,724,Urban,17,DK/missing information,0.0,Eurostat environmental database - ES08
+Spain,ES,ESP,724,Rural,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES08
+Spain,ES,ESP,724,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES08
+Spain,ES,ESP,724,Rural,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES08
+Spain,ES,ESP,724,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES08
+Spain,ES,ESP,724,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES08
+Spain,ES,ESP,724,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES08
+Spain,ES,ESP,724,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES08
+Spain,ES,ESP,724,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES08
+Spain,ES,ESP,724,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES08
+Spain,ES,ESP,724,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES08
+Spain,ES,ESP,724,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES08
+Spain,ES,ESP,724,Rural,12,Dry latrines - Other,0.0,Eurostat environmental database - ES08
+Spain,ES,ESP,724,Rural,13,Composting toilets,0.0,Eurostat environmental database - ES08
+Spain,ES,ESP,724,Rural,14,Other improved,0.0,Eurostat environmental database - ES08
+Spain,ES,ESP,724,Rural,15,"No facility, bush, field",0.0,Eurostat environmental database - ES08
+Spain,ES,ESP,724,Rural,16,Other unimproved,0.0,Eurostat environmental database - ES08
+Spain,ES,ESP,724,Rural,17,DK/missing information,0.0,Eurostat environmental database - ES08
+Spain,ES,ESP,724,National,1,Flush and pour flush - to piped sewer system,0.92,Eurostat environmental database - ES08
+Spain,ES,ESP,724,National,2,Flush and pour flush - to septic tank,0.02,Eurostat environmental database - ES08
+Spain,ES,ESP,724,National,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES08
+Spain,ES,ESP,724,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES08
+Spain,ES,ESP,724,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES08
+Spain,ES,ESP,724,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES08
+Spain,ES,ESP,724,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES08
+Spain,ES,ESP,724,National,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES08
+Spain,ES,ESP,724,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES08
+Spain,ES,ESP,724,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES08
+Spain,ES,ESP,724,National,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES08
+Spain,ES,ESP,724,National,12,Dry latrines - Other,0.0,Eurostat environmental database - ES08
+Spain,ES,ESP,724,National,13,Composting toilets,0.0,Eurostat environmental database - ES08
+Spain,ES,ESP,724,National,14,Other improved,0.0,Eurostat environmental database - ES08
+Spain,ES,ESP,724,National,15,"No facility, bush, field",0.0,Eurostat environmental database - ES08
+Spain,ES,ESP,724,National,16,Other unimproved,0.06,Eurostat environmental database - ES08
+Spain,ES,ESP,724,National,17,DK/missing information,0.0,Eurostat environmental database - ES08
+Spain,ES,ESP,724,Urban,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES10
+Spain,ES,ESP,724,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES10
+Spain,ES,ESP,724,Urban,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES10
+Spain,ES,ESP,724,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES10
+Spain,ES,ESP,724,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES10
+Spain,ES,ESP,724,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES10
+Spain,ES,ESP,724,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES10
+Spain,ES,ESP,724,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES10
+Spain,ES,ESP,724,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES10
+Spain,ES,ESP,724,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES10
+Spain,ES,ESP,724,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES10
+Spain,ES,ESP,724,Urban,12,Dry latrines - Other,0.0,Eurostat environmental database - ES10
+Spain,ES,ESP,724,Urban,13,Composting toilets,0.0,Eurostat environmental database - ES10
+Spain,ES,ESP,724,Urban,14,Other improved,0.0,Eurostat environmental database - ES10
+Spain,ES,ESP,724,Urban,15,"No facility, bush, field",0.0,Eurostat environmental database - ES10
+Spain,ES,ESP,724,Urban,16,Other unimproved,0.0,Eurostat environmental database - ES10
+Spain,ES,ESP,724,Urban,17,DK/missing information,0.0,Eurostat environmental database - ES10
+Spain,ES,ESP,724,Rural,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES10
+Spain,ES,ESP,724,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES10
+Spain,ES,ESP,724,Rural,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES10
+Spain,ES,ESP,724,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES10
+Spain,ES,ESP,724,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES10
+Spain,ES,ESP,724,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES10
+Spain,ES,ESP,724,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES10
+Spain,ES,ESP,724,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES10
+Spain,ES,ESP,724,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES10
+Spain,ES,ESP,724,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES10
+Spain,ES,ESP,724,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES10
+Spain,ES,ESP,724,Rural,12,Dry latrines - Other,0.0,Eurostat environmental database - ES10
+Spain,ES,ESP,724,Rural,13,Composting toilets,0.0,Eurostat environmental database - ES10
+Spain,ES,ESP,724,Rural,14,Other improved,0.0,Eurostat environmental database - ES10
+Spain,ES,ESP,724,Rural,15,"No facility, bush, field",0.0,Eurostat environmental database - ES10
+Spain,ES,ESP,724,Rural,16,Other unimproved,0.0,Eurostat environmental database - ES10
+Spain,ES,ESP,724,Rural,17,DK/missing information,0.0,Eurostat environmental database - ES10
+Spain,ES,ESP,724,National,1,Flush and pour flush - to piped sewer system,0.96,Eurostat environmental database - ES10
+Spain,ES,ESP,724,National,2,Flush and pour flush - to septic tank,0.02,Eurostat environmental database - ES10
+Spain,ES,ESP,724,National,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES10
+Spain,ES,ESP,724,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES10
+Spain,ES,ESP,724,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES10
+Spain,ES,ESP,724,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES10
+Spain,ES,ESP,724,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES10
+Spain,ES,ESP,724,National,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES10
+Spain,ES,ESP,724,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES10
+Spain,ES,ESP,724,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES10
+Spain,ES,ESP,724,National,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES10
+Spain,ES,ESP,724,National,12,Dry latrines - Other,0.0,Eurostat environmental database - ES10
+Spain,ES,ESP,724,National,13,Composting toilets,0.0,Eurostat environmental database - ES10
+Spain,ES,ESP,724,National,14,Other improved,0.0,Eurostat environmental database - ES10
+Spain,ES,ESP,724,National,15,"No facility, bush, field",0.0,Eurostat environmental database - ES10
+Spain,ES,ESP,724,National,16,Other unimproved,0.02,Eurostat environmental database - ES10
+Spain,ES,ESP,724,National,17,DK/missing information,0.0,Eurostat environmental database - ES10
+Spain,ES,ESP,724,Urban,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES12
+Spain,ES,ESP,724,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES12
+Spain,ES,ESP,724,Urban,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES12
+Spain,ES,ESP,724,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES12
+Spain,ES,ESP,724,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES12
+Spain,ES,ESP,724,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES12
+Spain,ES,ESP,724,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES12
+Spain,ES,ESP,724,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES12
+Spain,ES,ESP,724,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES12
+Spain,ES,ESP,724,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES12
+Spain,ES,ESP,724,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES12
+Spain,ES,ESP,724,Urban,12,Dry latrines - Other,0.0,Eurostat environmental database - ES12
+Spain,ES,ESP,724,Urban,13,Composting toilets,0.0,Eurostat environmental database - ES12
+Spain,ES,ESP,724,Urban,14,Other improved,0.0,Eurostat environmental database - ES12
+Spain,ES,ESP,724,Urban,15,"No facility, bush, field",0.0,Eurostat environmental database - ES12
+Spain,ES,ESP,724,Urban,16,Other unimproved,0.0,Eurostat environmental database - ES12
+Spain,ES,ESP,724,Urban,17,DK/missing information,0.0,Eurostat environmental database - ES12
+Spain,ES,ESP,724,Rural,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES12
+Spain,ES,ESP,724,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES12
+Spain,ES,ESP,724,Rural,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES12
+Spain,ES,ESP,724,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES12
+Spain,ES,ESP,724,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES12
+Spain,ES,ESP,724,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES12
+Spain,ES,ESP,724,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES12
+Spain,ES,ESP,724,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES12
+Spain,ES,ESP,724,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES12
+Spain,ES,ESP,724,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES12
+Spain,ES,ESP,724,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES12
+Spain,ES,ESP,724,Rural,12,Dry latrines - Other,0.0,Eurostat environmental database - ES12
+Spain,ES,ESP,724,Rural,13,Composting toilets,0.0,Eurostat environmental database - ES12
+Spain,ES,ESP,724,Rural,14,Other improved,0.0,Eurostat environmental database - ES12
+Spain,ES,ESP,724,Rural,15,"No facility, bush, field",0.0,Eurostat environmental database - ES12
+Spain,ES,ESP,724,Rural,16,Other unimproved,0.0,Eurostat environmental database - ES12
+Spain,ES,ESP,724,Rural,17,DK/missing information,0.0,Eurostat environmental database - ES12
+Spain,ES,ESP,724,National,1,Flush and pour flush - to piped sewer system,0.978,Eurostat environmental database - ES12
+Spain,ES,ESP,724,National,2,Flush and pour flush - to septic tank,0.009,Eurostat environmental database - ES12
+Spain,ES,ESP,724,National,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES12
+Spain,ES,ESP,724,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES12
+Spain,ES,ESP,724,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES12
+Spain,ES,ESP,724,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES12
+Spain,ES,ESP,724,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES12
+Spain,ES,ESP,724,National,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES12
+Spain,ES,ESP,724,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES12
+Spain,ES,ESP,724,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES12
+Spain,ES,ESP,724,National,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES12
+Spain,ES,ESP,724,National,12,Dry latrines - Other,0.0,Eurostat environmental database - ES12
+Spain,ES,ESP,724,National,13,Composting toilets,0.0,Eurostat environmental database - ES12
+Spain,ES,ESP,724,National,14,Other improved,0.0,Eurostat environmental database - ES12
+Spain,ES,ESP,724,National,15,"No facility, bush, field",0.0,Eurostat environmental database - ES12
+Spain,ES,ESP,724,National,16,Other unimproved,0.013,Eurostat environmental database - ES12
+Spain,ES,ESP,724,National,17,DK/missing information,0.0,Eurostat environmental database - ES12
+Spain,ES,ESP,724,Urban,1,Flush and pour flush - to piped sewer system,0.0,EUROSTAT - ES14
+Spain,ES,ESP,724,Urban,2,Flush and pour flush - to septic tank,0.0,EUROSTAT - ES14
+Spain,ES,ESP,724,Urban,3,Flush and pour flush - to pit,0.0,EUROSTAT - ES14
+Spain,ES,ESP,724,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,EUROSTAT - ES14
+Spain,ES,ESP,724,Urban,5,Flush and pour flush - to elsewhere,0.0,EUROSTAT - ES14
+Spain,ES,ESP,724,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,EUROSTAT - ES14
+Spain,ES,ESP,724,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,EUROSTAT - ES14
+Spain,ES,ESP,724,Urban,8,Dry latrines - Traditional latrine,0.0,EUROSTAT - ES14
+Spain,ES,ESP,724,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,EUROSTAT - ES14
+Spain,ES,ESP,724,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,EUROSTAT - ES14
+Spain,ES,ESP,724,Urban,11,Dry latrines - Bucket latrine,0.0,EUROSTAT - ES14
+Spain,ES,ESP,724,Urban,12,Dry latrines - Other,0.0,EUROSTAT - ES14
+Spain,ES,ESP,724,Urban,13,Composting toilets,0.0,EUROSTAT - ES14
+Spain,ES,ESP,724,Urban,14,Other improved,0.0,EUROSTAT - ES14
+Spain,ES,ESP,724,Urban,15,"No facility, bush, field",0.0,EUROSTAT - ES14
+Spain,ES,ESP,724,Urban,16,Other unimproved,0.0,EUROSTAT - ES14
+Spain,ES,ESP,724,Urban,17,DK/missing information,0.0,EUROSTAT - ES14
+Spain,ES,ESP,724,Rural,1,Flush and pour flush - to piped sewer system,0.0,EUROSTAT - ES14
+Spain,ES,ESP,724,Rural,2,Flush and pour flush - to septic tank,0.0,EUROSTAT - ES14
+Spain,ES,ESP,724,Rural,3,Flush and pour flush - to pit,0.0,EUROSTAT - ES14
+Spain,ES,ESP,724,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,EUROSTAT - ES14
+Spain,ES,ESP,724,Rural,5,Flush and pour flush - to elsewhere,0.0,EUROSTAT - ES14
+Spain,ES,ESP,724,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,EUROSTAT - ES14
+Spain,ES,ESP,724,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,EUROSTAT - ES14
+Spain,ES,ESP,724,Rural,8,Dry latrines - Traditional latrine,0.0,EUROSTAT - ES14
+Spain,ES,ESP,724,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,EUROSTAT - ES14
+Spain,ES,ESP,724,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,EUROSTAT - ES14
+Spain,ES,ESP,724,Rural,11,Dry latrines - Bucket latrine,0.0,EUROSTAT - ES14
+Spain,ES,ESP,724,Rural,12,Dry latrines - Other,0.0,EUROSTAT - ES14
+Spain,ES,ESP,724,Rural,13,Composting toilets,0.0,EUROSTAT - ES14
+Spain,ES,ESP,724,Rural,14,Other improved,0.0,EUROSTAT - ES14
+Spain,ES,ESP,724,Rural,15,"No facility, bush, field",0.0,EUROSTAT - ES14
+Spain,ES,ESP,724,Rural,16,Other unimproved,0.0,EUROSTAT - ES14
+Spain,ES,ESP,724,Rural,17,DK/missing information,0.0,EUROSTAT - ES14
+Spain,ES,ESP,724,National,1,Flush and pour flush - to piped sewer system,0.969,EUROSTAT - ES14
+Spain,ES,ESP,724,National,2,Flush and pour flush - to septic tank,0.015,EUROSTAT - ES14
+Spain,ES,ESP,724,National,3,Flush and pour flush - to pit,0.0,EUROSTAT - ES14
+Spain,ES,ESP,724,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,EUROSTAT - ES14
+Spain,ES,ESP,724,National,5,Flush and pour flush - to elsewhere,0.0,EUROSTAT - ES14
+Spain,ES,ESP,724,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,EUROSTAT - ES14
+Spain,ES,ESP,724,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,EUROSTAT - ES14
+Spain,ES,ESP,724,National,8,Dry latrines - Traditional latrine,0.0,EUROSTAT - ES14
+Spain,ES,ESP,724,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,EUROSTAT - ES14
+Spain,ES,ESP,724,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,EUROSTAT - ES14
+Spain,ES,ESP,724,National,11,Dry latrines - Bucket latrine,0.0,EUROSTAT - ES14
+Spain,ES,ESP,724,National,12,Dry latrines - Other,0.0,EUROSTAT - ES14
+Spain,ES,ESP,724,National,13,Composting toilets,0.0,EUROSTAT - ES14
+Spain,ES,ESP,724,National,14,Other improved,0.0,EUROSTAT - ES14
+Spain,ES,ESP,724,National,15,"No facility, bush, field",0.0,EUROSTAT - ES14
+Spain,ES,ESP,724,National,16,Other unimproved,0.003,EUROSTAT - ES14
+Spain,ES,ESP,724,National,17,DK/missing information,0.013,EUROSTAT - ES14
+Spain,ES,ESP,724,Urban,1,Flush and pour flush - to piped sewer system,0.979,World Health Survey - WHS03
+Spain,ES,ESP,724,Urban,2,Flush and pour flush - to septic tank,0.019,World Health Survey - WHS03
+Spain,ES,ESP,724,Urban,3,Flush and pour flush - to pit,0.0,World Health Survey - WHS03
+Spain,ES,ESP,724,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,World Health Survey - WHS03
+Spain,ES,ESP,724,Urban,5,Flush and pour flush - to elsewhere,0.0,World Health Survey - WHS03
+Spain,ES,ESP,724,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,World Health Survey - WHS03
+Spain,ES,ESP,724,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,World Health Survey - WHS03
+Spain,ES,ESP,724,Urban,8,Dry latrines - Traditional latrine,0.0,World Health Survey - WHS03
+Spain,ES,ESP,724,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,World Health Survey - WHS03
+Spain,ES,ESP,724,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,World Health Survey - WHS03
+Spain,ES,ESP,724,Urban,11,Dry latrines - Bucket latrine,0.0,World Health Survey - WHS03
+Spain,ES,ESP,724,Urban,12,Dry latrines - Other,0.0,World Health Survey - WHS03
+Spain,ES,ESP,724,Urban,13,Composting toilets,0.0,World Health Survey - WHS03
+Spain,ES,ESP,724,Urban,14,Other improved,0.0,World Health Survey - WHS03
+Spain,ES,ESP,724,Urban,15,"No facility, bush, field",0.001,World Health Survey - WHS03
+Spain,ES,ESP,724,Urban,16,Other unimproved,0.0,World Health Survey - WHS03
+Spain,ES,ESP,724,Urban,17,DK/missing information,0.0,World Health Survey - WHS03
+Spain,ES,ESP,724,Rural,1,Flush and pour flush - to piped sewer system,0.951,World Health Survey - WHS03
+Spain,ES,ESP,724,Rural,2,Flush and pour flush - to septic tank,0.047,World Health Survey - WHS03
+Spain,ES,ESP,724,Rural,3,Flush and pour flush - to pit,0.0,World Health Survey - WHS03
+Spain,ES,ESP,724,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,World Health Survey - WHS03
+Spain,ES,ESP,724,Rural,5,Flush and pour flush - to elsewhere,0.0,World Health Survey - WHS03
+Spain,ES,ESP,724,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,World Health Survey - WHS03
+Spain,ES,ESP,724,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,World Health Survey - WHS03
+Spain,ES,ESP,724,Rural,8,Dry latrines - Traditional latrine,0.0,World Health Survey - WHS03
+Spain,ES,ESP,724,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,World Health Survey - WHS03
+Spain,ES,ESP,724,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,World Health Survey - WHS03
+Spain,ES,ESP,724,Rural,11,Dry latrines - Bucket latrine,0.0,World Health Survey - WHS03
+Spain,ES,ESP,724,Rural,12,Dry latrines - Other,0.0,World Health Survey - WHS03
+Spain,ES,ESP,724,Rural,13,Composting toilets,0.0,World Health Survey - WHS03
+Spain,ES,ESP,724,Rural,14,Other improved,0.0,World Health Survey - WHS03
+Spain,ES,ESP,724,Rural,15,"No facility, bush, field",0.0,World Health Survey - WHS03
+Spain,ES,ESP,724,Rural,16,Other unimproved,0.0,World Health Survey - WHS03
+Spain,ES,ESP,724,Rural,17,DK/missing information,0.0,World Health Survey - WHS03
+Spain,ES,ESP,724,National,1,Flush and pour flush - to piped sewer system,0.0,World Health Survey - WHS03
+Spain,ES,ESP,724,National,2,Flush and pour flush - to septic tank,0.0,World Health Survey - WHS03
+Spain,ES,ESP,724,National,3,Flush and pour flush - to pit,0.0,World Health Survey - WHS03
+Spain,ES,ESP,724,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,World Health Survey - WHS03
+Spain,ES,ESP,724,National,5,Flush and pour flush - to elsewhere,0.0,World Health Survey - WHS03
+Spain,ES,ESP,724,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,World Health Survey - WHS03
+Spain,ES,ESP,724,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,World Health Survey - WHS03
+Spain,ES,ESP,724,National,8,Dry latrines - Traditional latrine,0.0,World Health Survey - WHS03
+Spain,ES,ESP,724,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,World Health Survey - WHS03
+Spain,ES,ESP,724,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,World Health Survey - WHS03
+Spain,ES,ESP,724,National,11,Dry latrines - Bucket latrine,0.0,World Health Survey - WHS03
+Spain,ES,ESP,724,National,12,Dry latrines - Other,0.0,World Health Survey - WHS03
+Spain,ES,ESP,724,National,13,Composting toilets,0.0,World Health Survey - WHS03
+Spain,ES,ESP,724,National,14,Other improved,0.0,World Health Survey - WHS03
+Spain,ES,ESP,724,National,15,"No facility, bush, field",0.0,World Health Survey - WHS03
+Spain,ES,ESP,724,National,16,Other unimproved,0.0,World Health Survey - WHS03
+Spain,ES,ESP,724,National,17,DK/missing information,0.0,World Health Survey - WHS03
+Spain,ES,ESP,724,Urban,1,Flush and pour flush - to piped sewer system,1.0,Eurostat SILC database - EUSILC13
+Spain,ES,ESP,724,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC13
+Spain,ES,ESP,724,Urban,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC13
+Spain,ES,ESP,724,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC13
+Spain,ES,ESP,724,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC13
+Spain,ES,ESP,724,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC13
+Spain,ES,ESP,724,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC13
+Spain,ES,ESP,724,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC13
+Spain,ES,ESP,724,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC13
+Spain,ES,ESP,724,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC13
+Spain,ES,ESP,724,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC13
+Spain,ES,ESP,724,Urban,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC13
+Spain,ES,ESP,724,Urban,13,Composting toilets,0.0,Eurostat SILC database - EUSILC13
+Spain,ES,ESP,724,Urban,14,Other improved,0.0,Eurostat SILC database - EUSILC13
+Spain,ES,ESP,724,Urban,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC13
+Spain,ES,ESP,724,Urban,16,Other unimproved,0.0,Eurostat SILC database - EUSILC13
+Spain,ES,ESP,724,Urban,17,DK/missing information,0.0,Eurostat SILC database - EUSILC13
+Spain,ES,ESP,724,Rural,1,Flush and pour flush - to piped sewer system,0.999,Eurostat SILC database - EUSILC13
+Spain,ES,ESP,724,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC13
+Spain,ES,ESP,724,Rural,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC13
+Spain,ES,ESP,724,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC13
+Spain,ES,ESP,724,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC13
+Spain,ES,ESP,724,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC13
+Spain,ES,ESP,724,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC13
+Spain,ES,ESP,724,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC13
+Spain,ES,ESP,724,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC13
+Spain,ES,ESP,724,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC13
+Spain,ES,ESP,724,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC13
+Spain,ES,ESP,724,Rural,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC13
+Spain,ES,ESP,724,Rural,13,Composting toilets,0.0,Eurostat SILC database - EUSILC13
+Spain,ES,ESP,724,Rural,14,Other improved,0.0,Eurostat SILC database - EUSILC13
+Spain,ES,ESP,724,Rural,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC13
+Spain,ES,ESP,724,Rural,16,Other unimproved,0.001,Eurostat SILC database - EUSILC13
+Spain,ES,ESP,724,Rural,17,DK/missing information,0.0,Eurostat SILC database - EUSILC13
+Spain,ES,ESP,724,National,1,Flush and pour flush - to piped sewer system,0.999,Eurostat SILC database - EUSILC13
+Spain,ES,ESP,724,National,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC13
+Spain,ES,ESP,724,National,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC13
+Spain,ES,ESP,724,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC13
+Spain,ES,ESP,724,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC13
+Spain,ES,ESP,724,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC13
+Spain,ES,ESP,724,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC13
+Spain,ES,ESP,724,National,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC13
+Spain,ES,ESP,724,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC13
+Spain,ES,ESP,724,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC13
+Spain,ES,ESP,724,National,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC13
+Spain,ES,ESP,724,National,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC13
+Spain,ES,ESP,724,National,13,Composting toilets,0.0,Eurostat SILC database - EUSILC13
+Spain,ES,ESP,724,National,14,Other improved,0.0,Eurostat SILC database - EUSILC13
+Spain,ES,ESP,724,National,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC13
+Spain,ES,ESP,724,National,16,Other unimproved,0.001,Eurostat SILC database - EUSILC13
+Spain,ES,ESP,724,National,17,DK/missing information,0.0,Eurostat SILC database - EUSILC13
+Spain,ES,ESP,724,Urban,1,Flush and pour flush - to piped sewer system,1.0,Eurostat SILC database - EUSILC14
+Spain,ES,ESP,724,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC14
+Spain,ES,ESP,724,Urban,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC14
+Spain,ES,ESP,724,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC14
+Spain,ES,ESP,724,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC14
+Spain,ES,ESP,724,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC14
+Spain,ES,ESP,724,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC14
+Spain,ES,ESP,724,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC14
+Spain,ES,ESP,724,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC14
+Spain,ES,ESP,724,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC14
+Spain,ES,ESP,724,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC14
+Spain,ES,ESP,724,Urban,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC14
+Spain,ES,ESP,724,Urban,13,Composting toilets,0.0,Eurostat SILC database - EUSILC14
+Spain,ES,ESP,724,Urban,14,Other improved,0.0,Eurostat SILC database - EUSILC14
+Spain,ES,ESP,724,Urban,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC14
+Spain,ES,ESP,724,Urban,16,Other unimproved,0.0,Eurostat SILC database - EUSILC14
+Spain,ES,ESP,724,Urban,17,DK/missing information,0.0,Eurostat SILC database - EUSILC14
+Spain,ES,ESP,724,Rural,1,Flush and pour flush - to piped sewer system,0.998,Eurostat SILC database - EUSILC14
+Spain,ES,ESP,724,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC14
+Spain,ES,ESP,724,Rural,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC14
+Spain,ES,ESP,724,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC14
+Spain,ES,ESP,724,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC14
+Spain,ES,ESP,724,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC14
+Spain,ES,ESP,724,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC14
+Spain,ES,ESP,724,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC14
+Spain,ES,ESP,724,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC14
+Spain,ES,ESP,724,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC14
+Spain,ES,ESP,724,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC14
+Spain,ES,ESP,724,Rural,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC14
+Spain,ES,ESP,724,Rural,13,Composting toilets,0.0,Eurostat SILC database - EUSILC14
+Spain,ES,ESP,724,Rural,14,Other improved,0.0,Eurostat SILC database - EUSILC14
+Spain,ES,ESP,724,Rural,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC14
+Spain,ES,ESP,724,Rural,16,Other unimproved,0.002,Eurostat SILC database - EUSILC14
+Spain,ES,ESP,724,Rural,17,DK/missing information,0.0,Eurostat SILC database - EUSILC14
+Spain,ES,ESP,724,National,1,Flush and pour flush - to piped sewer system,0.999,Eurostat SILC database - EUSILC14
+Spain,ES,ESP,724,National,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC14
+Spain,ES,ESP,724,National,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC14
+Spain,ES,ESP,724,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC14
+Spain,ES,ESP,724,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC14
+Spain,ES,ESP,724,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC14
+Spain,ES,ESP,724,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC14
+Spain,ES,ESP,724,National,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC14
+Spain,ES,ESP,724,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC14
+Spain,ES,ESP,724,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC14
+Spain,ES,ESP,724,National,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC14
+Spain,ES,ESP,724,National,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC14
+Spain,ES,ESP,724,National,13,Composting toilets,0.0,Eurostat SILC database - EUSILC14
+Spain,ES,ESP,724,National,14,Other improved,0.0,Eurostat SILC database - EUSILC14
+Spain,ES,ESP,724,National,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC14
+Spain,ES,ESP,724,National,16,Other unimproved,0.001,Eurostat SILC database - EUSILC14
+Spain,ES,ESP,724,National,17,DK/missing information,0.0,Eurostat SILC database - EUSILC14
+Spain,ES,ESP,724,Urban,1,Flush and pour flush - to piped sewer system,0.999,Eurostat SILC database - EUSILC15
+Spain,ES,ESP,724,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC15
+Spain,ES,ESP,724,Urban,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC15
+Spain,ES,ESP,724,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC15
+Spain,ES,ESP,724,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC15
+Spain,ES,ESP,724,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC15
+Spain,ES,ESP,724,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC15
+Spain,ES,ESP,724,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC15
+Spain,ES,ESP,724,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC15
+Spain,ES,ESP,724,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC15
+Spain,ES,ESP,724,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC15
+Spain,ES,ESP,724,Urban,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC15
+Spain,ES,ESP,724,Urban,13,Composting toilets,0.0,Eurostat SILC database - EUSILC15
+Spain,ES,ESP,724,Urban,14,Other improved,0.0,Eurostat SILC database - EUSILC15
+Spain,ES,ESP,724,Urban,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC15
+Spain,ES,ESP,724,Urban,16,Other unimproved,0.001,Eurostat SILC database - EUSILC15
+Spain,ES,ESP,724,Urban,17,DK/missing information,0.0,Eurostat SILC database - EUSILC15
+Spain,ES,ESP,724,Rural,1,Flush and pour flush - to piped sewer system,0.999,Eurostat SILC database - EUSILC15
+Spain,ES,ESP,724,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC15
+Spain,ES,ESP,724,Rural,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC15
+Spain,ES,ESP,724,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC15
+Spain,ES,ESP,724,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC15
+Spain,ES,ESP,724,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC15
+Spain,ES,ESP,724,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC15
+Spain,ES,ESP,724,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC15
+Spain,ES,ESP,724,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC15
+Spain,ES,ESP,724,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC15
+Spain,ES,ESP,724,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC15
+Spain,ES,ESP,724,Rural,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC15
+Spain,ES,ESP,724,Rural,13,Composting toilets,0.0,Eurostat SILC database - EUSILC15
+Spain,ES,ESP,724,Rural,14,Other improved,0.0,Eurostat SILC database - EUSILC15
+Spain,ES,ESP,724,Rural,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC15
+Spain,ES,ESP,724,Rural,16,Other unimproved,0.001,Eurostat SILC database - EUSILC15
+Spain,ES,ESP,724,Rural,17,DK/missing information,0.0,Eurostat SILC database - EUSILC15
+Spain,ES,ESP,724,National,1,Flush and pour flush - to piped sewer system,0.999,Eurostat SILC database - EUSILC15
+Spain,ES,ESP,724,National,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC15
+Spain,ES,ESP,724,National,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC15
+Spain,ES,ESP,724,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC15
+Spain,ES,ESP,724,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC15
+Spain,ES,ESP,724,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC15
+Spain,ES,ESP,724,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC15
+Spain,ES,ESP,724,National,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC15
+Spain,ES,ESP,724,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC15
+Spain,ES,ESP,724,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC15
+Spain,ES,ESP,724,National,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC15
+Spain,ES,ESP,724,National,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC15
+Spain,ES,ESP,724,National,13,Composting toilets,0.0,Eurostat SILC database - EUSILC15
+Spain,ES,ESP,724,National,14,Other improved,0.0,Eurostat SILC database - EUSILC15
+Spain,ES,ESP,724,National,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC15
+Spain,ES,ESP,724,National,16,Other unimproved,0.001,Eurostat SILC database - EUSILC15
+Spain,ES,ESP,724,National,17,DK/missing information,0.0,Eurostat SILC database - EUSILC15
+Spain,ES,ESP,724,Urban,1,Flush and pour flush - to piped sewer system,0.999,Eurostat SILC database - EUSILC12
+Spain,ES,ESP,724,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC12
+Spain,ES,ESP,724,Urban,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC12
+Spain,ES,ESP,724,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC12
+Spain,ES,ESP,724,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC12
+Spain,ES,ESP,724,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC12
+Spain,ES,ESP,724,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC12
+Spain,ES,ESP,724,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC12
+Spain,ES,ESP,724,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC12
+Spain,ES,ESP,724,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC12
+Spain,ES,ESP,724,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC12
+Spain,ES,ESP,724,Urban,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC12
+Spain,ES,ESP,724,Urban,13,Composting toilets,0.0,Eurostat SILC database - EUSILC12
+Spain,ES,ESP,724,Urban,14,Other improved,0.0,Eurostat SILC database - EUSILC12
+Spain,ES,ESP,724,Urban,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC12
+Spain,ES,ESP,724,Urban,16,Other unimproved,0.0,Eurostat SILC database - EUSILC12
+Spain,ES,ESP,724,Urban,17,DK/missing information,0.0,Eurostat SILC database - EUSILC12
+Spain,ES,ESP,724,Rural,1,Flush and pour flush - to piped sewer system,0.996,Eurostat SILC database - EUSILC12
+Spain,ES,ESP,724,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC12
+Spain,ES,ESP,724,Rural,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC12
+Spain,ES,ESP,724,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC12
+Spain,ES,ESP,724,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC12
+Spain,ES,ESP,724,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC12
+Spain,ES,ESP,724,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC12
+Spain,ES,ESP,724,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC12
+Spain,ES,ESP,724,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC12
+Spain,ES,ESP,724,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC12
+Spain,ES,ESP,724,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC12
+Spain,ES,ESP,724,Rural,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC12
+Spain,ES,ESP,724,Rural,13,Composting toilets,0.0,Eurostat SILC database - EUSILC12
+Spain,ES,ESP,724,Rural,14,Other improved,0.0,Eurostat SILC database - EUSILC12
+Spain,ES,ESP,724,Rural,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC12
+Spain,ES,ESP,724,Rural,16,Other unimproved,0.004,Eurostat SILC database - EUSILC12
+Spain,ES,ESP,724,Rural,17,DK/missing information,0.0,Eurostat SILC database - EUSILC12
+Spain,ES,ESP,724,National,1,Flush and pour flush - to piped sewer system,0.999,Eurostat SILC database - EUSILC12
+Spain,ES,ESP,724,National,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC12
+Spain,ES,ESP,724,National,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC12
+Spain,ES,ESP,724,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC12
+Spain,ES,ESP,724,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC12
+Spain,ES,ESP,724,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC12
+Spain,ES,ESP,724,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC12
+Spain,ES,ESP,724,National,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC12
+Spain,ES,ESP,724,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC12
+Spain,ES,ESP,724,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC12
+Spain,ES,ESP,724,National,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC12
+Spain,ES,ESP,724,National,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC12
+Spain,ES,ESP,724,National,13,Composting toilets,0.0,Eurostat SILC database - EUSILC12
+Spain,ES,ESP,724,National,14,Other improved,0.0,Eurostat SILC database - EUSILC12
+Spain,ES,ESP,724,National,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC12
+Spain,ES,ESP,724,National,16,Other unimproved,0.001,Eurostat SILC database - EUSILC12
+Spain,ES,ESP,724,National,17,DK/missing information,0.0,Eurostat SILC database - EUSILC12

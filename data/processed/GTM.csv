@@ -33,6 +33,23 @@ Guatemala,GT,GTM,320,Rural,14,Other improved,0.0,Encuesta Nacional de Condicione
 Guatemala,GT,GTM,320,Rural,15,"No facility, bush, field",0.213,Encuesta Nacional de Condiciones de Vida - ENCOVI00
 Guatemala,GT,GTM,320,Rural,16,Other unimproved,0.0,Encuesta Nacional de Condiciones de Vida - ENCOVI00
 Guatemala,GT,GTM,320,Rural,17,DK/missing information,0.0,Encuesta Nacional de Condiciones de Vida - ENCOVI00
+Guatemala,GT,GTM,320,National,1,Flush and pour flush - to piped sewer system,0.303,Encuesta Nacional de Condiciones de Vida - ENCOVI00
+Guatemala,GT,GTM,320,National,2,Flush and pour flush - to septic tank,0.032,Encuesta Nacional de Condiciones de Vida - ENCOVI00
+Guatemala,GT,GTM,320,National,3,Flush and pour flush - to pit,0.0,Encuesta Nacional de Condiciones de Vida - ENCOVI00
+Guatemala,GT,GTM,320,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Nacional de Condiciones de Vida - ENCOVI00
+Guatemala,GT,GTM,320,National,5,Flush and pour flush - to elsewhere,0.0,Encuesta Nacional de Condiciones de Vida - ENCOVI00
+Guatemala,GT,GTM,320,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Nacional de Condiciones de Vida - ENCOVI00
+Guatemala,GT,GTM,320,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta Nacional de Condiciones de Vida - ENCOVI00
+Guatemala,GT,GTM,320,National,8,Dry latrines - Traditional latrine,0.426,Encuesta Nacional de Condiciones de Vida - ENCOVI00
+Guatemala,GT,GTM,320,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta Nacional de Condiciones de Vida - ENCOVI00
+Guatemala,GT,GTM,320,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Nacional de Condiciones de Vida - ENCOVI00
+Guatemala,GT,GTM,320,National,11,Dry latrines - Bucket latrine,0.0,Encuesta Nacional de Condiciones de Vida - ENCOVI00
+Guatemala,GT,GTM,320,National,12,Dry latrines - Other,0.0,Encuesta Nacional de Condiciones de Vida - ENCOVI00
+Guatemala,GT,GTM,320,National,13,Composting toilets,0.0,Encuesta Nacional de Condiciones de Vida - ENCOVI00
+Guatemala,GT,GTM,320,National,14,Other improved,0.0,Encuesta Nacional de Condiciones de Vida - ENCOVI00
+Guatemala,GT,GTM,320,National,15,"No facility, bush, field",0.132,Encuesta Nacional de Condiciones de Vida - ENCOVI00
+Guatemala,GT,GTM,320,National,16,Other unimproved,0.0,Encuesta Nacional de Condiciones de Vida - ENCOVI00
+Guatemala,GT,GTM,320,National,17,DK/missing information,0.0,Encuesta Nacional de Condiciones de Vida - ENCOVI00
 Guatemala,GT,GTM,320,Urban,1,Flush and pour flush - to piped sewer system,0.698,Encuesta Nacional de Salud Materno Infantil - ENSMI02
 Guatemala,GT,GTM,320,Urban,2,Flush and pour flush - to septic tank,0.062,Encuesta Nacional de Salud Materno Infantil - ENSMI02
 Guatemala,GT,GTM,320,Urban,3,Flush and pour flush - to pit,0.0,Encuesta Nacional de Salud Materno Infantil - ENSMI02
@@ -67,6 +84,74 @@ Guatemala,GT,GTM,320,Rural,14,Other improved,0.0,Encuesta Nacional de Salud Mate
 Guatemala,GT,GTM,320,Rural,15,"No facility, bush, field",0.18,Encuesta Nacional de Salud Materno Infantil - ENSMI02
 Guatemala,GT,GTM,320,Rural,16,Other unimproved,0.007,Encuesta Nacional de Salud Materno Infantil - ENSMI02
 Guatemala,GT,GTM,320,Rural,17,DK/missing information,0.0,Encuesta Nacional de Salud Materno Infantil - ENSMI02
+Guatemala,GT,GTM,320,National,1,Flush and pour flush - to piped sewer system,0.0,Encuesta Nacional de Salud Materno Infantil - ENSMI02
+Guatemala,GT,GTM,320,National,2,Flush and pour flush - to septic tank,0.0,Encuesta Nacional de Salud Materno Infantil - ENSMI02
+Guatemala,GT,GTM,320,National,3,Flush and pour flush - to pit,0.0,Encuesta Nacional de Salud Materno Infantil - ENSMI02
+Guatemala,GT,GTM,320,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Nacional de Salud Materno Infantil - ENSMI02
+Guatemala,GT,GTM,320,National,5,Flush and pour flush - to elsewhere,0.0,Encuesta Nacional de Salud Materno Infantil - ENSMI02
+Guatemala,GT,GTM,320,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Nacional de Salud Materno Infantil - ENSMI02
+Guatemala,GT,GTM,320,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta Nacional de Salud Materno Infantil - ENSMI02
+Guatemala,GT,GTM,320,National,8,Dry latrines - Traditional latrine,0.0,Encuesta Nacional de Salud Materno Infantil - ENSMI02
+Guatemala,GT,GTM,320,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta Nacional de Salud Materno Infantil - ENSMI02
+Guatemala,GT,GTM,320,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Nacional de Salud Materno Infantil - ENSMI02
+Guatemala,GT,GTM,320,National,11,Dry latrines - Bucket latrine,0.0,Encuesta Nacional de Salud Materno Infantil - ENSMI02
+Guatemala,GT,GTM,320,National,12,Dry latrines - Other,0.0,Encuesta Nacional de Salud Materno Infantil - ENSMI02
+Guatemala,GT,GTM,320,National,13,Composting toilets,0.0,Encuesta Nacional de Salud Materno Infantil - ENSMI02
+Guatemala,GT,GTM,320,National,14,Other improved,0.0,Encuesta Nacional de Salud Materno Infantil - ENSMI02
+Guatemala,GT,GTM,320,National,15,"No facility, bush, field",0.0,Encuesta Nacional de Salud Materno Infantil - ENSMI02
+Guatemala,GT,GTM,320,National,16,Other unimproved,0.0,Encuesta Nacional de Salud Materno Infantil - ENSMI02
+Guatemala,GT,GTM,320,National,17,DK/missing information,0.0,Encuesta Nacional de Salud Materno Infantil - ENSMI02
+Guatemala,GT,GTM,320,Urban,1,Flush and pour flush - to piped sewer system,0.72,"Censos de Poblacion y Habitacion, 2002 - CEN02"
+Guatemala,GT,GTM,320,Urban,2,Flush and pour flush - to septic tank,0.0,"Censos de Poblacion y Habitacion, 2002 - CEN02"
+Guatemala,GT,GTM,320,Urban,3,Flush and pour flush - to pit,0.0,"Censos de Poblacion y Habitacion, 2002 - CEN02"
+Guatemala,GT,GTM,320,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Censos de Poblacion y Habitacion, 2002 - CEN02"
+Guatemala,GT,GTM,320,Urban,5,Flush and pour flush - to elsewhere,0.0,"Censos de Poblacion y Habitacion, 2002 - CEN02"
+Guatemala,GT,GTM,320,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Censos de Poblacion y Habitacion, 2002 - CEN02"
+Guatemala,GT,GTM,320,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Censos de Poblacion y Habitacion, 2002 - CEN02"
+Guatemala,GT,GTM,320,Urban,8,Dry latrines - Traditional latrine,0.179,"Censos de Poblacion y Habitacion, 2002 - CEN02"
+Guatemala,GT,GTM,320,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Censos de Poblacion y Habitacion, 2002 - CEN02"
+Guatemala,GT,GTM,320,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Censos de Poblacion y Habitacion, 2002 - CEN02"
+Guatemala,GT,GTM,320,Urban,11,Dry latrines - Bucket latrine,0.0,"Censos de Poblacion y Habitacion, 2002 - CEN02"
+Guatemala,GT,GTM,320,Urban,12,Dry latrines - Other,0.0,"Censos de Poblacion y Habitacion, 2002 - CEN02"
+Guatemala,GT,GTM,320,Urban,13,Composting toilets,0.0,"Censos de Poblacion y Habitacion, 2002 - CEN02"
+Guatemala,GT,GTM,320,Urban,14,Other improved,0.0,"Censos de Poblacion y Habitacion, 2002 - CEN02"
+Guatemala,GT,GTM,320,Urban,15,"No facility, bush, field",0.054,"Censos de Poblacion y Habitacion, 2002 - CEN02"
+Guatemala,GT,GTM,320,Urban,16,Other unimproved,0.0,"Censos de Poblacion y Habitacion, 2002 - CEN02"
+Guatemala,GT,GTM,320,Urban,17,DK/missing information,0.0,"Censos de Poblacion y Habitacion, 2002 - CEN02"
+Guatemala,GT,GTM,320,Rural,1,Flush and pour flush - to piped sewer system,0.115,"Censos de Poblacion y Habitacion, 2002 - CEN02"
+Guatemala,GT,GTM,320,Rural,2,Flush and pour flush - to septic tank,0.0,"Censos de Poblacion y Habitacion, 2002 - CEN02"
+Guatemala,GT,GTM,320,Rural,3,Flush and pour flush - to pit,0.0,"Censos de Poblacion y Habitacion, 2002 - CEN02"
+Guatemala,GT,GTM,320,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Censos de Poblacion y Habitacion, 2002 - CEN02"
+Guatemala,GT,GTM,320,Rural,5,Flush and pour flush - to elsewhere,0.0,"Censos de Poblacion y Habitacion, 2002 - CEN02"
+Guatemala,GT,GTM,320,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Censos de Poblacion y Habitacion, 2002 - CEN02"
+Guatemala,GT,GTM,320,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Censos de Poblacion y Habitacion, 2002 - CEN02"
+Guatemala,GT,GTM,320,Rural,8,Dry latrines - Traditional latrine,0.595,"Censos de Poblacion y Habitacion, 2002 - CEN02"
+Guatemala,GT,GTM,320,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Censos de Poblacion y Habitacion, 2002 - CEN02"
+Guatemala,GT,GTM,320,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Censos de Poblacion y Habitacion, 2002 - CEN02"
+Guatemala,GT,GTM,320,Rural,11,Dry latrines - Bucket latrine,0.0,"Censos de Poblacion y Habitacion, 2002 - CEN02"
+Guatemala,GT,GTM,320,Rural,12,Dry latrines - Other,0.0,"Censos de Poblacion y Habitacion, 2002 - CEN02"
+Guatemala,GT,GTM,320,Rural,13,Composting toilets,0.0,"Censos de Poblacion y Habitacion, 2002 - CEN02"
+Guatemala,GT,GTM,320,Rural,14,Other improved,0.0,"Censos de Poblacion y Habitacion, 2002 - CEN02"
+Guatemala,GT,GTM,320,Rural,15,"No facility, bush, field",0.237,"Censos de Poblacion y Habitacion, 2002 - CEN02"
+Guatemala,GT,GTM,320,Rural,16,Other unimproved,0.0,"Censos de Poblacion y Habitacion, 2002 - CEN02"
+Guatemala,GT,GTM,320,Rural,17,DK/missing information,0.0,"Censos de Poblacion y Habitacion, 2002 - CEN02"
+Guatemala,GT,GTM,320,National,1,Flush and pour flush - to piped sewer system,0.0,"Censos de Poblacion y Habitacion, 2002 - CEN02"
+Guatemala,GT,GTM,320,National,2,Flush and pour flush - to septic tank,0.0,"Censos de Poblacion y Habitacion, 2002 - CEN02"
+Guatemala,GT,GTM,320,National,3,Flush and pour flush - to pit,0.0,"Censos de Poblacion y Habitacion, 2002 - CEN02"
+Guatemala,GT,GTM,320,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Censos de Poblacion y Habitacion, 2002 - CEN02"
+Guatemala,GT,GTM,320,National,5,Flush and pour flush - to elsewhere,0.0,"Censos de Poblacion y Habitacion, 2002 - CEN02"
+Guatemala,GT,GTM,320,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Censos de Poblacion y Habitacion, 2002 - CEN02"
+Guatemala,GT,GTM,320,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Censos de Poblacion y Habitacion, 2002 - CEN02"
+Guatemala,GT,GTM,320,National,8,Dry latrines - Traditional latrine,0.0,"Censos de Poblacion y Habitacion, 2002 - CEN02"
+Guatemala,GT,GTM,320,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Censos de Poblacion y Habitacion, 2002 - CEN02"
+Guatemala,GT,GTM,320,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Censos de Poblacion y Habitacion, 2002 - CEN02"
+Guatemala,GT,GTM,320,National,11,Dry latrines - Bucket latrine,0.0,"Censos de Poblacion y Habitacion, 2002 - CEN02"
+Guatemala,GT,GTM,320,National,12,Dry latrines - Other,0.0,"Censos de Poblacion y Habitacion, 2002 - CEN02"
+Guatemala,GT,GTM,320,National,13,Composting toilets,0.0,"Censos de Poblacion y Habitacion, 2002 - CEN02"
+Guatemala,GT,GTM,320,National,14,Other improved,0.0,"Censos de Poblacion y Habitacion, 2002 - CEN02"
+Guatemala,GT,GTM,320,National,15,"No facility, bush, field",0.0,"Censos de Poblacion y Habitacion, 2002 - CEN02"
+Guatemala,GT,GTM,320,National,16,Other unimproved,0.0,"Censos de Poblacion y Habitacion, 2002 - CEN02"
+Guatemala,GT,GTM,320,National,17,DK/missing information,0.0,"Censos de Poblacion y Habitacion, 2002 - CEN02"
 Guatemala,GT,GTM,320,Urban,1,Flush and pour flush - to piped sewer system,0.684,Encuesta Nacional de Condiciones de Vida - ENCOVI06
 Guatemala,GT,GTM,320,Urban,2,Flush and pour flush - to septic tank,0.064,Encuesta Nacional de Condiciones de Vida - ENCOVI06
 Guatemala,GT,GTM,320,Urban,3,Flush and pour flush - to pit,0.0,Encuesta Nacional de Condiciones de Vida - ENCOVI06
@@ -101,6 +186,23 @@ Guatemala,GT,GTM,320,Rural,14,Other improved,0.0,Encuesta Nacional de Condicione
 Guatemala,GT,GTM,320,Rural,15,"No facility, bush, field",0.174,Encuesta Nacional de Condiciones de Vida - ENCOVI06
 Guatemala,GT,GTM,320,Rural,16,Other unimproved,0.0,Encuesta Nacional de Condiciones de Vida - ENCOVI06
 Guatemala,GT,GTM,320,Rural,17,DK/missing information,0.0,Encuesta Nacional de Condiciones de Vida - ENCOVI06
+Guatemala,GT,GTM,320,National,1,Flush and pour flush - to piped sewer system,0.403,Encuesta Nacional de Condiciones de Vida - ENCOVI06
+Guatemala,GT,GTM,320,National,2,Flush and pour flush - to septic tank,0.07,Encuesta Nacional de Condiciones de Vida - ENCOVI06
+Guatemala,GT,GTM,320,National,3,Flush and pour flush - to pit,0.0,Encuesta Nacional de Condiciones de Vida - ENCOVI06
+Guatemala,GT,GTM,320,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Nacional de Condiciones de Vida - ENCOVI06
+Guatemala,GT,GTM,320,National,5,Flush and pour flush - to elsewhere,0.0,Encuesta Nacional de Condiciones de Vida - ENCOVI06
+Guatemala,GT,GTM,320,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Nacional de Condiciones de Vida - ENCOVI06
+Guatemala,GT,GTM,320,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta Nacional de Condiciones de Vida - ENCOVI06
+Guatemala,GT,GTM,320,National,8,Dry latrines - Traditional latrine,0.365,Encuesta Nacional de Condiciones de Vida - ENCOVI06
+Guatemala,GT,GTM,320,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta Nacional de Condiciones de Vida - ENCOVI06
+Guatemala,GT,GTM,320,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Nacional de Condiciones de Vida - ENCOVI06
+Guatemala,GT,GTM,320,National,11,Dry latrines - Bucket latrine,0.0,Encuesta Nacional de Condiciones de Vida - ENCOVI06
+Guatemala,GT,GTM,320,National,12,Dry latrines - Other,0.0,Encuesta Nacional de Condiciones de Vida - ENCOVI06
+Guatemala,GT,GTM,320,National,13,Composting toilets,0.0,Encuesta Nacional de Condiciones de Vida - ENCOVI06
+Guatemala,GT,GTM,320,National,14,Other improved,0.0,Encuesta Nacional de Condiciones de Vida - ENCOVI06
+Guatemala,GT,GTM,320,National,15,"No facility, bush, field",0.09,Encuesta Nacional de Condiciones de Vida - ENCOVI06
+Guatemala,GT,GTM,320,National,16,Other unimproved,0.0,Encuesta Nacional de Condiciones de Vida - ENCOVI06
+Guatemala,GT,GTM,320,National,17,DK/missing information,0.0,Encuesta Nacional de Condiciones de Vida - ENCOVI06
 Guatemala,GT,GTM,320,Urban,1,Flush and pour flush - to piped sewer system,0.721,Reproductive Health Surveys - ENSMI-RHS09
 Guatemala,GT,GTM,320,Urban,2,Flush and pour flush - to septic tank,0.079,Reproductive Health Surveys - ENSMI-RHS09
 Guatemala,GT,GTM,320,Urban,3,Flush and pour flush - to pit,0.0,Reproductive Health Surveys - ENSMI-RHS09
@@ -135,6 +237,23 @@ Guatemala,GT,GTM,320,Rural,14,Other improved,0.0,Reproductive Health Surveys - E
 Guatemala,GT,GTM,320,Rural,15,"No facility, bush, field",0.177,Reproductive Health Surveys - ENSMI-RHS09
 Guatemala,GT,GTM,320,Rural,16,Other unimproved,0.001,Reproductive Health Surveys - ENSMI-RHS09
 Guatemala,GT,GTM,320,Rural,17,DK/missing information,0.0,Reproductive Health Surveys - ENSMI-RHS09
+Guatemala,GT,GTM,320,National,1,Flush and pour flush - to piped sewer system,0.386,Reproductive Health Surveys - ENSMI-RHS09
+Guatemala,GT,GTM,320,National,2,Flush and pour flush - to septic tank,0.108,Reproductive Health Surveys - ENSMI-RHS09
+Guatemala,GT,GTM,320,National,3,Flush and pour flush - to pit,0.0,Reproductive Health Surveys - ENSMI-RHS09
+Guatemala,GT,GTM,320,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Reproductive Health Surveys - ENSMI-RHS09
+Guatemala,GT,GTM,320,National,5,Flush and pour flush - to elsewhere,0.005,Reproductive Health Surveys - ENSMI-RHS09
+Guatemala,GT,GTM,320,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Reproductive Health Surveys - ENSMI-RHS09
+Guatemala,GT,GTM,320,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Reproductive Health Surveys - ENSMI-RHS09
+Guatemala,GT,GTM,320,National,8,Dry latrines - Traditional latrine,0.39,Reproductive Health Surveys - ENSMI-RHS09
+Guatemala,GT,GTM,320,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Reproductive Health Surveys - ENSMI-RHS09
+Guatemala,GT,GTM,320,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Reproductive Health Surveys - ENSMI-RHS09
+Guatemala,GT,GTM,320,National,11,Dry latrines - Bucket latrine,0.0,Reproductive Health Surveys - ENSMI-RHS09
+Guatemala,GT,GTM,320,National,12,Dry latrines - Other,0.0,Reproductive Health Surveys - ENSMI-RHS09
+Guatemala,GT,GTM,320,National,13,Composting toilets,0.002,Reproductive Health Surveys - ENSMI-RHS09
+Guatemala,GT,GTM,320,National,14,Other improved,0.0,Reproductive Health Surveys - ENSMI-RHS09
+Guatemala,GT,GTM,320,National,15,"No facility, bush, field",0.108,Reproductive Health Surveys - ENSMI-RHS09
+Guatemala,GT,GTM,320,National,16,Other unimproved,0.001,Reproductive Health Surveys - ENSMI-RHS09
+Guatemala,GT,GTM,320,National,17,DK/missing information,0.0,Reproductive Health Surveys - ENSMI-RHS09
 Guatemala,GT,GTM,320,Urban,1,Flush and pour flush - to piped sewer system,0.724,Encuesta Nacional de Condiciones de Vida - ENCOVI11
 Guatemala,GT,GTM,320,Urban,2,Flush and pour flush - to septic tank,0.049,Encuesta Nacional de Condiciones de Vida - ENCOVI11
 Guatemala,GT,GTM,320,Urban,3,Flush and pour flush - to pit,0.0,Encuesta Nacional de Condiciones de Vida - ENCOVI11
@@ -169,6 +288,23 @@ Guatemala,GT,GTM,320,Rural,14,Other improved,0.0,Encuesta Nacional de Condicione
 Guatemala,GT,GTM,320,Rural,15,"No facility, bush, field",0.142,Encuesta Nacional de Condiciones de Vida - ENCOVI11
 Guatemala,GT,GTM,320,Rural,16,Other unimproved,0.0,Encuesta Nacional de Condiciones de Vida - ENCOVI11
 Guatemala,GT,GTM,320,Rural,17,DK/missing information,0.0,Encuesta Nacional de Condiciones de Vida - ENCOVI11
+Guatemala,GT,GTM,320,National,1,Flush and pour flush - to piped sewer system,0.424,Encuesta Nacional de Condiciones de Vida - ENCOVI11
+Guatemala,GT,GTM,320,National,2,Flush and pour flush - to septic tank,0.065,Encuesta Nacional de Condiciones de Vida - ENCOVI11
+Guatemala,GT,GTM,320,National,3,Flush and pour flush - to pit,0.0,Encuesta Nacional de Condiciones de Vida - ENCOVI11
+Guatemala,GT,GTM,320,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Nacional de Condiciones de Vida - ENCOVI11
+Guatemala,GT,GTM,320,National,5,Flush and pour flush - to elsewhere,0.0,Encuesta Nacional de Condiciones de Vida - ENCOVI11
+Guatemala,GT,GTM,320,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Nacional de Condiciones de Vida - ENCOVI11
+Guatemala,GT,GTM,320,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Encuesta Nacional de Condiciones de Vida - ENCOVI11
+Guatemala,GT,GTM,320,National,8,Dry latrines - Traditional latrine,0.362,Encuesta Nacional de Condiciones de Vida - ENCOVI11
+Guatemala,GT,GTM,320,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta Nacional de Condiciones de Vida - ENCOVI11
+Guatemala,GT,GTM,320,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Nacional de Condiciones de Vida - ENCOVI11
+Guatemala,GT,GTM,320,National,11,Dry latrines - Bucket latrine,0.0,Encuesta Nacional de Condiciones de Vida - ENCOVI11
+Guatemala,GT,GTM,320,National,12,Dry latrines - Other,0.0,Encuesta Nacional de Condiciones de Vida - ENCOVI11
+Guatemala,GT,GTM,320,National,13,Composting toilets,0.0,Encuesta Nacional de Condiciones de Vida - ENCOVI11
+Guatemala,GT,GTM,320,National,14,Other improved,0.0,Encuesta Nacional de Condiciones de Vida - ENCOVI11
+Guatemala,GT,GTM,320,National,15,"No facility, bush, field",0.078,Encuesta Nacional de Condiciones de Vida - ENCOVI11
+Guatemala,GT,GTM,320,National,16,Other unimproved,0.0,Encuesta Nacional de Condiciones de Vida - ENCOVI11
+Guatemala,GT,GTM,320,National,17,DK/missing information,0.0,Encuesta Nacional de Condiciones de Vida - ENCOVI11
 Guatemala,GT,GTM,320,Urban,1,Flush and pour flush - to piped sewer system,0.681,Encuesta Nacional de Condiciones de Vida - ENCOVI14
 Guatemala,GT,GTM,320,Urban,2,Flush and pour flush - to septic tank,0.069,Encuesta Nacional de Condiciones de Vida - ENCOVI14
 Guatemala,GT,GTM,320,Urban,3,Flush and pour flush - to pit,0.0,Encuesta Nacional de Condiciones de Vida - ENCOVI14
@@ -203,6 +339,23 @@ Guatemala,GT,GTM,320,Rural,14,Other improved,0.0,Encuesta Nacional de Condicione
 Guatemala,GT,GTM,320,Rural,15,"No facility, bush, field",0.089,Encuesta Nacional de Condiciones de Vida - ENCOVI14
 Guatemala,GT,GTM,320,Rural,16,Other unimproved,0.0,Encuesta Nacional de Condiciones de Vida - ENCOVI14
 Guatemala,GT,GTM,320,Rural,17,DK/missing information,0.0,Encuesta Nacional de Condiciones de Vida - ENCOVI14
+Guatemala,GT,GTM,320,National,1,Flush and pour flush - to piped sewer system,0.383,Encuesta Nacional de Condiciones de Vida - ENCOVI14
+Guatemala,GT,GTM,320,National,2,Flush and pour flush - to septic tank,0.076,Encuesta Nacional de Condiciones de Vida - ENCOVI14
+Guatemala,GT,GTM,320,National,3,Flush and pour flush - to pit,0.0,Encuesta Nacional de Condiciones de Vida - ENCOVI14
+Guatemala,GT,GTM,320,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Encuesta Nacional de Condiciones de Vida - ENCOVI14
+Guatemala,GT,GTM,320,National,5,Flush and pour flush - to elsewhere,0.0,Encuesta Nacional de Condiciones de Vida - ENCOVI14
+Guatemala,GT,GTM,320,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Encuesta Nacional de Condiciones de Vida - ENCOVI14
+Guatemala,GT,GTM,320,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.074,Encuesta Nacional de Condiciones de Vida - ENCOVI14
+Guatemala,GT,GTM,320,National,8,Dry latrines - Traditional latrine,0.414,Encuesta Nacional de Condiciones de Vida - ENCOVI14
+Guatemala,GT,GTM,320,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Encuesta Nacional de Condiciones de Vida - ENCOVI14
+Guatemala,GT,GTM,320,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Encuesta Nacional de Condiciones de Vida - ENCOVI14
+Guatemala,GT,GTM,320,National,11,Dry latrines - Bucket latrine,0.0,Encuesta Nacional de Condiciones de Vida - ENCOVI14
+Guatemala,GT,GTM,320,National,12,Dry latrines - Other,0.0,Encuesta Nacional de Condiciones de Vida - ENCOVI14
+Guatemala,GT,GTM,320,National,13,Composting toilets,0.0,Encuesta Nacional de Condiciones de Vida - ENCOVI14
+Guatemala,GT,GTM,320,National,14,Other improved,0.0,Encuesta Nacional de Condiciones de Vida - ENCOVI14
+Guatemala,GT,GTM,320,National,15,"No facility, bush, field",0.053,Encuesta Nacional de Condiciones de Vida - ENCOVI14
+Guatemala,GT,GTM,320,National,16,Other unimproved,0.0,Encuesta Nacional de Condiciones de Vida - ENCOVI14
+Guatemala,GT,GTM,320,National,17,DK/missing information,0.0,Encuesta Nacional de Condiciones de Vida - ENCOVI14
 Guatemala,GT,GTM,320,Urban,1,Flush and pour flush - to piped sewer system,0.734,Demographic and Health Survey - DHS15
 Guatemala,GT,GTM,320,Urban,2,Flush and pour flush - to septic tank,0.098,Demographic and Health Survey - DHS15
 Guatemala,GT,GTM,320,Urban,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS15
@@ -237,3 +390,20 @@ Guatemala,GT,GTM,320,Rural,14,Other improved,0.0,Demographic and Health Survey -
 Guatemala,GT,GTM,320,Rural,15,"No facility, bush, field",0.099,Demographic and Health Survey - DHS15
 Guatemala,GT,GTM,320,Rural,16,Other unimproved,0.0,Demographic and Health Survey - DHS15
 Guatemala,GT,GTM,320,Rural,17,DK/missing information,0.0,Demographic and Health Survey - DHS15
+Guatemala,GT,GTM,320,National,1,Flush and pour flush - to piped sewer system,0.384,Demographic and Health Survey - DHS15
+Guatemala,GT,GTM,320,National,2,Flush and pour flush - to septic tank,0.157,Demographic and Health Survey - DHS15
+Guatemala,GT,GTM,320,National,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS15
+Guatemala,GT,GTM,320,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS15
+Guatemala,GT,GTM,320,National,5,Flush and pour flush - to elsewhere,0.023,Demographic and Health Survey - DHS15
+Guatemala,GT,GTM,320,National,6,Dry latrines - Ventilated Improved Pit latrine,0.009,Demographic and Health Survey - DHS15
+Guatemala,GT,GTM,320,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS15
+Guatemala,GT,GTM,320,National,8,Dry latrines - Traditional latrine,0.361,Demographic and Health Survey - DHS15
+Guatemala,GT,GTM,320,National,9,Dry latrines - Pit latrine without slab/open pit,0.004,Demographic and Health Survey - DHS15
+Guatemala,GT,GTM,320,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS15
+Guatemala,GT,GTM,320,National,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS15
+Guatemala,GT,GTM,320,National,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS15
+Guatemala,GT,GTM,320,National,13,Composting toilets,0.0,Demographic and Health Survey - DHS15
+Guatemala,GT,GTM,320,National,14,Other improved,0.0,Demographic and Health Survey - DHS15
+Guatemala,GT,GTM,320,National,15,"No facility, bush, field",0.062,Demographic and Health Survey - DHS15
+Guatemala,GT,GTM,320,National,16,Other unimproved,0.0,Demographic and Health Survey - DHS15
+Guatemala,GT,GTM,320,National,17,DK/missing information,0.0,Demographic and Health Survey - DHS15

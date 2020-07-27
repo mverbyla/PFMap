@@ -1,4 +1,106 @@
 country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+Somalia,SO,SOM,706,Urban,1,Flush and pour flush - to piped sewer system,0.0,"Multiple Indicator Cluster Survey, 1999-2000 - MICS00"
+Somalia,SO,SOM,706,Urban,2,Flush and pour flush - to septic tank,0.0,"Multiple Indicator Cluster Survey, 1999-2000 - MICS00"
+Somalia,SO,SOM,706,Urban,3,Flush and pour flush - to pit,0.0,"Multiple Indicator Cluster Survey, 1999-2000 - MICS00"
+Somalia,SO,SOM,706,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Multiple Indicator Cluster Survey, 1999-2000 - MICS00"
+Somalia,SO,SOM,706,Urban,5,Flush and pour flush - to elsewhere,0.0,"Multiple Indicator Cluster Survey, 1999-2000 - MICS00"
+Somalia,SO,SOM,706,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Multiple Indicator Cluster Survey, 1999-2000 - MICS00"
+Somalia,SO,SOM,706,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.066,"Multiple Indicator Cluster Survey, 1999-2000 - MICS00"
+Somalia,SO,SOM,706,Urban,8,Dry latrines - Traditional latrine,0.73,"Multiple Indicator Cluster Survey, 1999-2000 - MICS00"
+Somalia,SO,SOM,706,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Multiple Indicator Cluster Survey, 1999-2000 - MICS00"
+Somalia,SO,SOM,706,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Multiple Indicator Cluster Survey, 1999-2000 - MICS00"
+Somalia,SO,SOM,706,Urban,11,Dry latrines - Bucket latrine,0.0,"Multiple Indicator Cluster Survey, 1999-2000 - MICS00"
+Somalia,SO,SOM,706,Urban,12,Dry latrines - Other,0.0,"Multiple Indicator Cluster Survey, 1999-2000 - MICS00"
+Somalia,SO,SOM,706,Urban,13,Composting toilets,0.0,"Multiple Indicator Cluster Survey, 1999-2000 - MICS00"
+Somalia,SO,SOM,706,Urban,14,Other improved,0.0,"Multiple Indicator Cluster Survey, 1999-2000 - MICS00"
+Somalia,SO,SOM,706,Urban,15,"No facility, bush, field",0.167,"Multiple Indicator Cluster Survey, 1999-2000 - MICS00"
+Somalia,SO,SOM,706,Urban,16,Other unimproved,0.003,"Multiple Indicator Cluster Survey, 1999-2000 - MICS00"
+Somalia,SO,SOM,706,Urban,17,DK/missing information,0.0,"Multiple Indicator Cluster Survey, 1999-2000 - MICS00"
+Somalia,SO,SOM,706,Rural,1,Flush and pour flush - to piped sewer system,0.0,"Multiple Indicator Cluster Survey, 1999-2000 - MICS00"
+Somalia,SO,SOM,706,Rural,2,Flush and pour flush - to septic tank,0.0,"Multiple Indicator Cluster Survey, 1999-2000 - MICS00"
+Somalia,SO,SOM,706,Rural,3,Flush and pour flush - to pit,0.0,"Multiple Indicator Cluster Survey, 1999-2000 - MICS00"
+Somalia,SO,SOM,706,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Multiple Indicator Cluster Survey, 1999-2000 - MICS00"
+Somalia,SO,SOM,706,Rural,5,Flush and pour flush - to elsewhere,0.0,"Multiple Indicator Cluster Survey, 1999-2000 - MICS00"
+Somalia,SO,SOM,706,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Multiple Indicator Cluster Survey, 1999-2000 - MICS00"
+Somalia,SO,SOM,706,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.011,"Multiple Indicator Cluster Survey, 1999-2000 - MICS00"
+Somalia,SO,SOM,706,Rural,8,Dry latrines - Traditional latrine,0.169,"Multiple Indicator Cluster Survey, 1999-2000 - MICS00"
+Somalia,SO,SOM,706,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Multiple Indicator Cluster Survey, 1999-2000 - MICS00"
+Somalia,SO,SOM,706,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Multiple Indicator Cluster Survey, 1999-2000 - MICS00"
+Somalia,SO,SOM,706,Rural,11,Dry latrines - Bucket latrine,0.0,"Multiple Indicator Cluster Survey, 1999-2000 - MICS00"
+Somalia,SO,SOM,706,Rural,12,Dry latrines - Other,0.0,"Multiple Indicator Cluster Survey, 1999-2000 - MICS00"
+Somalia,SO,SOM,706,Rural,13,Composting toilets,0.0,"Multiple Indicator Cluster Survey, 1999-2000 - MICS00"
+Somalia,SO,SOM,706,Rural,14,Other improved,0.0,"Multiple Indicator Cluster Survey, 1999-2000 - MICS00"
+Somalia,SO,SOM,706,Rural,15,"No facility, bush, field",0.806,"Multiple Indicator Cluster Survey, 1999-2000 - MICS00"
+Somalia,SO,SOM,706,Rural,16,Other unimproved,0.013,"Multiple Indicator Cluster Survey, 1999-2000 - MICS00"
+Somalia,SO,SOM,706,Rural,17,DK/missing information,0.0,"Multiple Indicator Cluster Survey, 1999-2000 - MICS00"
+Somalia,SO,SOM,706,National,1,Flush and pour flush - to piped sewer system,0.0,"Multiple Indicator Cluster Survey, 1999-2000 - MICS00"
+Somalia,SO,SOM,706,National,2,Flush and pour flush - to septic tank,0.0,"Multiple Indicator Cluster Survey, 1999-2000 - MICS00"
+Somalia,SO,SOM,706,National,3,Flush and pour flush - to pit,0.0,"Multiple Indicator Cluster Survey, 1999-2000 - MICS00"
+Somalia,SO,SOM,706,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Multiple Indicator Cluster Survey, 1999-2000 - MICS00"
+Somalia,SO,SOM,706,National,5,Flush and pour flush - to elsewhere,0.0,"Multiple Indicator Cluster Survey, 1999-2000 - MICS00"
+Somalia,SO,SOM,706,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Multiple Indicator Cluster Survey, 1999-2000 - MICS00"
+Somalia,SO,SOM,706,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.035,"Multiple Indicator Cluster Survey, 1999-2000 - MICS00"
+Somalia,SO,SOM,706,National,8,Dry latrines - Traditional latrine,0.425,"Multiple Indicator Cluster Survey, 1999-2000 - MICS00"
+Somalia,SO,SOM,706,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Multiple Indicator Cluster Survey, 1999-2000 - MICS00"
+Somalia,SO,SOM,706,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Multiple Indicator Cluster Survey, 1999-2000 - MICS00"
+Somalia,SO,SOM,706,National,11,Dry latrines - Bucket latrine,0.0,"Multiple Indicator Cluster Survey, 1999-2000 - MICS00"
+Somalia,SO,SOM,706,National,12,Dry latrines - Other,0.0,"Multiple Indicator Cluster Survey, 1999-2000 - MICS00"
+Somalia,SO,SOM,706,National,13,Composting toilets,0.0,"Multiple Indicator Cluster Survey, 1999-2000 - MICS00"
+Somalia,SO,SOM,706,National,14,Other improved,0.0,"Multiple Indicator Cluster Survey, 1999-2000 - MICS00"
+Somalia,SO,SOM,706,National,15,"No facility, bush, field",0.515,"Multiple Indicator Cluster Survey, 1999-2000 - MICS00"
+Somalia,SO,SOM,706,National,16,Other unimproved,0.009,"Multiple Indicator Cluster Survey, 1999-2000 - MICS00"
+Somalia,SO,SOM,706,National,17,DK/missing information,0.0,"Multiple Indicator Cluster Survey, 1999-2000 - MICS00"
+Somalia,SO,SOM,706,Urban,1,Flush and pour flush - to piped sewer system,0.0,Socio-Economic-Survey - SES02
+Somalia,SO,SOM,706,Urban,2,Flush and pour flush - to septic tank,0.0,Socio-Economic-Survey - SES02
+Somalia,SO,SOM,706,Urban,3,Flush and pour flush - to pit,0.0,Socio-Economic-Survey - SES02
+Somalia,SO,SOM,706,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Socio-Economic-Survey - SES02
+Somalia,SO,SOM,706,Urban,5,Flush and pour flush - to elsewhere,0.0,Socio-Economic-Survey - SES02
+Somalia,SO,SOM,706,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Socio-Economic-Survey - SES02
+Somalia,SO,SOM,706,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Socio-Economic-Survey - SES02
+Somalia,SO,SOM,706,Urban,8,Dry latrines - Traditional latrine,0.0,Socio-Economic-Survey - SES02
+Somalia,SO,SOM,706,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Socio-Economic-Survey - SES02
+Somalia,SO,SOM,706,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Socio-Economic-Survey - SES02
+Somalia,SO,SOM,706,Urban,11,Dry latrines - Bucket latrine,0.0,Socio-Economic-Survey - SES02
+Somalia,SO,SOM,706,Urban,12,Dry latrines - Other,0.0,Socio-Economic-Survey - SES02
+Somalia,SO,SOM,706,Urban,13,Composting toilets,0.0,Socio-Economic-Survey - SES02
+Somalia,SO,SOM,706,Urban,14,Other improved,0.0,Socio-Economic-Survey - SES02
+Somalia,SO,SOM,706,Urban,15,"No facility, bush, field",0.065,Socio-Economic-Survey - SES02
+Somalia,SO,SOM,706,Urban,16,Other unimproved,0.0,Socio-Economic-Survey - SES02
+Somalia,SO,SOM,706,Urban,17,DK/missing information,0.005,Socio-Economic-Survey - SES02
+Somalia,SO,SOM,706,Rural,1,Flush and pour flush - to piped sewer system,0.0,Socio-Economic-Survey - SES02
+Somalia,SO,SOM,706,Rural,2,Flush and pour flush - to septic tank,0.0,Socio-Economic-Survey - SES02
+Somalia,SO,SOM,706,Rural,3,Flush and pour flush - to pit,0.0,Socio-Economic-Survey - SES02
+Somalia,SO,SOM,706,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Socio-Economic-Survey - SES02
+Somalia,SO,SOM,706,Rural,5,Flush and pour flush - to elsewhere,0.0,Socio-Economic-Survey - SES02
+Somalia,SO,SOM,706,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Socio-Economic-Survey - SES02
+Somalia,SO,SOM,706,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Socio-Economic-Survey - SES02
+Somalia,SO,SOM,706,Rural,8,Dry latrines - Traditional latrine,0.0,Socio-Economic-Survey - SES02
+Somalia,SO,SOM,706,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Socio-Economic-Survey - SES02
+Somalia,SO,SOM,706,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Socio-Economic-Survey - SES02
+Somalia,SO,SOM,706,Rural,11,Dry latrines - Bucket latrine,0.0,Socio-Economic-Survey - SES02
+Somalia,SO,SOM,706,Rural,12,Dry latrines - Other,0.0,Socio-Economic-Survey - SES02
+Somalia,SO,SOM,706,Rural,13,Composting toilets,0.0,Socio-Economic-Survey - SES02
+Somalia,SO,SOM,706,Rural,14,Other improved,0.0,Socio-Economic-Survey - SES02
+Somalia,SO,SOM,706,Rural,15,"No facility, bush, field",0.705,Socio-Economic-Survey - SES02
+Somalia,SO,SOM,706,Rural,16,Other unimproved,0.0,Socio-Economic-Survey - SES02
+Somalia,SO,SOM,706,Rural,17,DK/missing information,0.013,Socio-Economic-Survey - SES02
+Somalia,SO,SOM,706,National,1,Flush and pour flush - to piped sewer system,0.0,Socio-Economic-Survey - SES02
+Somalia,SO,SOM,706,National,2,Flush and pour flush - to septic tank,0.0,Socio-Economic-Survey - SES02
+Somalia,SO,SOM,706,National,3,Flush and pour flush - to pit,0.0,Socio-Economic-Survey - SES02
+Somalia,SO,SOM,706,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Socio-Economic-Survey - SES02
+Somalia,SO,SOM,706,National,5,Flush and pour flush - to elsewhere,0.0,Socio-Economic-Survey - SES02
+Somalia,SO,SOM,706,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Socio-Economic-Survey - SES02
+Somalia,SO,SOM,706,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Socio-Economic-Survey - SES02
+Somalia,SO,SOM,706,National,8,Dry latrines - Traditional latrine,0.0,Socio-Economic-Survey - SES02
+Somalia,SO,SOM,706,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Socio-Economic-Survey - SES02
+Somalia,SO,SOM,706,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Socio-Economic-Survey - SES02
+Somalia,SO,SOM,706,National,11,Dry latrines - Bucket latrine,0.0,Socio-Economic-Survey - SES02
+Somalia,SO,SOM,706,National,12,Dry latrines - Other,0.0,Socio-Economic-Survey - SES02
+Somalia,SO,SOM,706,National,13,Composting toilets,0.0,Socio-Economic-Survey - SES02
+Somalia,SO,SOM,706,National,14,Other improved,0.0,Socio-Economic-Survey - SES02
+Somalia,SO,SOM,706,National,15,"No facility, bush, field",0.491,Socio-Economic-Survey - SES02
+Somalia,SO,SOM,706,National,16,Other unimproved,0.0,Socio-Economic-Survey - SES02
+Somalia,SO,SOM,706,National,17,DK/missing information,0.011,Socio-Economic-Survey - SES02
 Somalia,SO,SOM,706,Urban,1,Flush and pour flush - to piped sewer system,0.206,Multiple Indicator Cluster Survey - MICS06
 Somalia,SO,SOM,706,Urban,2,Flush and pour flush - to septic tank,0.014,Multiple Indicator Cluster Survey - MICS06
 Somalia,SO,SOM,706,Urban,3,Flush and pour flush - to pit,0.413,Multiple Indicator Cluster Survey - MICS06
@@ -33,6 +135,74 @@ Somalia,SO,SOM,706,Rural,14,Other improved,0.0,Multiple Indicator Cluster Survey
 Somalia,SO,SOM,706,Rural,15,"No facility, bush, field",0.822,Multiple Indicator Cluster Survey - MICS06
 Somalia,SO,SOM,706,Rural,16,Other unimproved,0.002,Multiple Indicator Cluster Survey - MICS06
 Somalia,SO,SOM,706,Rural,17,DK/missing information,0.002,Multiple Indicator Cluster Survey - MICS06
+Somalia,SO,SOM,706,National,1,Flush and pour flush - to piped sewer system,0.08,Multiple Indicator Cluster Survey - MICS06
+Somalia,SO,SOM,706,National,2,Flush and pour flush - to septic tank,0.006,Multiple Indicator Cluster Survey - MICS06
+Somalia,SO,SOM,706,National,3,Flush and pour flush - to pit,0.204,Multiple Indicator Cluster Survey - MICS06
+Somalia,SO,SOM,706,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS06
+Somalia,SO,SOM,706,National,5,Flush and pour flush - to elsewhere,0.001,Multiple Indicator Cluster Survey - MICS06
+Somalia,SO,SOM,706,National,6,Dry latrines - Ventilated Improved Pit latrine,0.011,Multiple Indicator Cluster Survey - MICS06
+Somalia,SO,SOM,706,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.073,Multiple Indicator Cluster Survey - MICS06
+Somalia,SO,SOM,706,National,8,Dry latrines - Traditional latrine,0.0,Multiple Indicator Cluster Survey - MICS06
+Somalia,SO,SOM,706,National,9,Dry latrines - Pit latrine without slab/open pit,0.084,Multiple Indicator Cluster Survey - MICS06
+Somalia,SO,SOM,706,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS06
+Somalia,SO,SOM,706,National,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS06
+Somalia,SO,SOM,706,National,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS06
+Somalia,SO,SOM,706,National,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS06
+Somalia,SO,SOM,706,National,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS06
+Somalia,SO,SOM,706,National,15,"No facility, bush, field",0.538,Multiple Indicator Cluster Survey - MICS06
+Somalia,SO,SOM,706,National,16,Other unimproved,0.002,Multiple Indicator Cluster Survey - MICS06
+Somalia,SO,SOM,706,National,17,DK/missing information,0.002,Multiple Indicator Cluster Survey - MICS06
+Somalia,SO,SOM,706,Urban,1,Flush and pour flush - to piped sewer system,0.0,"Somalia High Frequency Survey, 2016 - HFS16"
+Somalia,SO,SOM,706,Urban,2,Flush and pour flush - to septic tank,0.0,"Somalia High Frequency Survey, 2016 - HFS16"
+Somalia,SO,SOM,706,Urban,3,Flush and pour flush - to pit,0.0,"Somalia High Frequency Survey, 2016 - HFS16"
+Somalia,SO,SOM,706,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Somalia High Frequency Survey, 2016 - HFS16"
+Somalia,SO,SOM,706,Urban,5,Flush and pour flush - to elsewhere,0.0,"Somalia High Frequency Survey, 2016 - HFS16"
+Somalia,SO,SOM,706,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Somalia High Frequency Survey, 2016 - HFS16"
+Somalia,SO,SOM,706,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Somalia High Frequency Survey, 2016 - HFS16"
+Somalia,SO,SOM,706,Urban,8,Dry latrines - Traditional latrine,0.778,"Somalia High Frequency Survey, 2016 - HFS16"
+Somalia,SO,SOM,706,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Somalia High Frequency Survey, 2016 - HFS16"
+Somalia,SO,SOM,706,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Somalia High Frequency Survey, 2016 - HFS16"
+Somalia,SO,SOM,706,Urban,11,Dry latrines - Bucket latrine,0.0,"Somalia High Frequency Survey, 2016 - HFS16"
+Somalia,SO,SOM,706,Urban,12,Dry latrines - Other,0.0,"Somalia High Frequency Survey, 2016 - HFS16"
+Somalia,SO,SOM,706,Urban,13,Composting toilets,0.0,"Somalia High Frequency Survey, 2016 - HFS16"
+Somalia,SO,SOM,706,Urban,14,Other improved,0.0,"Somalia High Frequency Survey, 2016 - HFS16"
+Somalia,SO,SOM,706,Urban,15,"No facility, bush, field",0.036,"Somalia High Frequency Survey, 2016 - HFS16"
+Somalia,SO,SOM,706,Urban,16,Other unimproved,0.046,"Somalia High Frequency Survey, 2016 - HFS16"
+Somalia,SO,SOM,706,Urban,17,DK/missing information,0.0,"Somalia High Frequency Survey, 2016 - HFS16"
+Somalia,SO,SOM,706,Rural,1,Flush and pour flush - to piped sewer system,0.0,"Somalia High Frequency Survey, 2016 - HFS16"
+Somalia,SO,SOM,706,Rural,2,Flush and pour flush - to septic tank,0.0,"Somalia High Frequency Survey, 2016 - HFS16"
+Somalia,SO,SOM,706,Rural,3,Flush and pour flush - to pit,0.0,"Somalia High Frequency Survey, 2016 - HFS16"
+Somalia,SO,SOM,706,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Somalia High Frequency Survey, 2016 - HFS16"
+Somalia,SO,SOM,706,Rural,5,Flush and pour flush - to elsewhere,0.0,"Somalia High Frequency Survey, 2016 - HFS16"
+Somalia,SO,SOM,706,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Somalia High Frequency Survey, 2016 - HFS16"
+Somalia,SO,SOM,706,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Somalia High Frequency Survey, 2016 - HFS16"
+Somalia,SO,SOM,706,Rural,8,Dry latrines - Traditional latrine,0.374,"Somalia High Frequency Survey, 2016 - HFS16"
+Somalia,SO,SOM,706,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Somalia High Frequency Survey, 2016 - HFS16"
+Somalia,SO,SOM,706,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Somalia High Frequency Survey, 2016 - HFS16"
+Somalia,SO,SOM,706,Rural,11,Dry latrines - Bucket latrine,0.0,"Somalia High Frequency Survey, 2016 - HFS16"
+Somalia,SO,SOM,706,Rural,12,Dry latrines - Other,0.0,"Somalia High Frequency Survey, 2016 - HFS16"
+Somalia,SO,SOM,706,Rural,13,Composting toilets,0.0,"Somalia High Frequency Survey, 2016 - HFS16"
+Somalia,SO,SOM,706,Rural,14,Other improved,0.0,"Somalia High Frequency Survey, 2016 - HFS16"
+Somalia,SO,SOM,706,Rural,15,"No facility, bush, field",0.135,"Somalia High Frequency Survey, 2016 - HFS16"
+Somalia,SO,SOM,706,Rural,16,Other unimproved,0.478,"Somalia High Frequency Survey, 2016 - HFS16"
+Somalia,SO,SOM,706,Rural,17,DK/missing information,0.0,"Somalia High Frequency Survey, 2016 - HFS16"
+Somalia,SO,SOM,706,National,1,Flush and pour flush - to piped sewer system,0.0,"Somalia High Frequency Survey, 2016 - HFS16"
+Somalia,SO,SOM,706,National,2,Flush and pour flush - to septic tank,0.0,"Somalia High Frequency Survey, 2016 - HFS16"
+Somalia,SO,SOM,706,National,3,Flush and pour flush - to pit,0.0,"Somalia High Frequency Survey, 2016 - HFS16"
+Somalia,SO,SOM,706,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Somalia High Frequency Survey, 2016 - HFS16"
+Somalia,SO,SOM,706,National,5,Flush and pour flush - to elsewhere,0.0,"Somalia High Frequency Survey, 2016 - HFS16"
+Somalia,SO,SOM,706,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Somalia High Frequency Survey, 2016 - HFS16"
+Somalia,SO,SOM,706,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Somalia High Frequency Survey, 2016 - HFS16"
+Somalia,SO,SOM,706,National,8,Dry latrines - Traditional latrine,0.652,"Somalia High Frequency Survey, 2016 - HFS16"
+Somalia,SO,SOM,706,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Somalia High Frequency Survey, 2016 - HFS16"
+Somalia,SO,SOM,706,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Somalia High Frequency Survey, 2016 - HFS16"
+Somalia,SO,SOM,706,National,11,Dry latrines - Bucket latrine,0.0,"Somalia High Frequency Survey, 2016 - HFS16"
+Somalia,SO,SOM,706,National,12,Dry latrines - Other,0.0,"Somalia High Frequency Survey, 2016 - HFS16"
+Somalia,SO,SOM,706,National,13,Composting toilets,0.0,"Somalia High Frequency Survey, 2016 - HFS16"
+Somalia,SO,SOM,706,National,14,Other improved,0.0,"Somalia High Frequency Survey, 2016 - HFS16"
+Somalia,SO,SOM,706,National,15,"No facility, bush, field",0.067,"Somalia High Frequency Survey, 2016 - HFS16"
+Somalia,SO,SOM,706,National,16,Other unimproved,0.181,"Somalia High Frequency Survey, 2016 - HFS16"
+Somalia,SO,SOM,706,National,17,DK/missing information,0.0,"Somalia High Frequency Survey, 2016 - HFS16"
 Somalia,SO,SOM,706,Urban,1,Flush and pour flush - to piped sewer system,0.219,"Somalia High Frequency Survey, 2017 wave 2 - HFS17"
 Somalia,SO,SOM,706,Urban,2,Flush and pour flush - to septic tank,0.076,"Somalia High Frequency Survey, 2017 wave 2 - HFS17"
 Somalia,SO,SOM,706,Urban,3,Flush and pour flush - to pit,0.307,"Somalia High Frequency Survey, 2017 wave 2 - HFS17"
@@ -67,3 +237,20 @@ Somalia,SO,SOM,706,Rural,14,Other improved,0.0,"Somalia High Frequency Survey, 2
 Somalia,SO,SOM,706,Rural,15,"No facility, bush, field",0.452,"Somalia High Frequency Survey, 2017 wave 2 - HFS17"
 Somalia,SO,SOM,706,Rural,16,Other unimproved,0.06,"Somalia High Frequency Survey, 2017 wave 2 - HFS17"
 Somalia,SO,SOM,706,Rural,17,DK/missing information,0.0,"Somalia High Frequency Survey, 2017 wave 2 - HFS17"
+Somalia,SO,SOM,706,National,1,Flush and pour flush - to piped sewer system,0.125,"Somalia High Frequency Survey, 2017 wave 2 - HFS17"
+Somalia,SO,SOM,706,National,2,Flush and pour flush - to septic tank,0.045,"Somalia High Frequency Survey, 2017 wave 2 - HFS17"
+Somalia,SO,SOM,706,National,3,Flush and pour flush - to pit,0.201,"Somalia High Frequency Survey, 2017 wave 2 - HFS17"
+Somalia,SO,SOM,706,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.007,"Somalia High Frequency Survey, 2017 wave 2 - HFS17"
+Somalia,SO,SOM,706,National,5,Flush and pour flush - to elsewhere,0.009,"Somalia High Frequency Survey, 2017 wave 2 - HFS17"
+Somalia,SO,SOM,706,National,6,Dry latrines - Ventilated Improved Pit latrine,0.048,"Somalia High Frequency Survey, 2017 wave 2 - HFS17"
+Somalia,SO,SOM,706,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.183,"Somalia High Frequency Survey, 2017 wave 2 - HFS17"
+Somalia,SO,SOM,706,National,8,Dry latrines - Traditional latrine,0.0,"Somalia High Frequency Survey, 2017 wave 2 - HFS17"
+Somalia,SO,SOM,706,National,9,Dry latrines - Pit latrine without slab/open pit,0.121,"Somalia High Frequency Survey, 2017 wave 2 - HFS17"
+Somalia,SO,SOM,706,National,10,Dry latrines - Hanging toilet/hanging latrine,0.005,"Somalia High Frequency Survey, 2017 wave 2 - HFS17"
+Somalia,SO,SOM,706,National,11,Dry latrines - Bucket latrine,0.005,"Somalia High Frequency Survey, 2017 wave 2 - HFS17"
+Somalia,SO,SOM,706,National,12,Dry latrines - Other,0.0,"Somalia High Frequency Survey, 2017 wave 2 - HFS17"
+Somalia,SO,SOM,706,National,13,Composting toilets,0.003,"Somalia High Frequency Survey, 2017 wave 2 - HFS17"
+Somalia,SO,SOM,706,National,14,Other improved,0.0,"Somalia High Frequency Survey, 2017 wave 2 - HFS17"
+Somalia,SO,SOM,706,National,15,"No facility, bush, field",0.218,"Somalia High Frequency Survey, 2017 wave 2 - HFS17"
+Somalia,SO,SOM,706,National,16,Other unimproved,0.03,"Somalia High Frequency Survey, 2017 wave 2 - HFS17"
+Somalia,SO,SOM,706,National,17,DK/missing information,0.0,"Somalia High Frequency Survey, 2017 wave 2 - HFS17"

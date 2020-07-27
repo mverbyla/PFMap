@@ -33,6 +33,74 @@ Chile,CL,CHL,152,Rural,14,Other improved,0.0,Caracterizacion Socioeconomica Naci
 Chile,CL,CHL,152,Rural,15,"No facility, bush, field",0.035,Caracterizacion Socioeconomica Nacional  - CASEN00
 Chile,CL,CHL,152,Rural,16,Other unimproved,0.0,Caracterizacion Socioeconomica Nacional  - CASEN00
 Chile,CL,CHL,152,Rural,17,DK/missing information,0.0,Caracterizacion Socioeconomica Nacional  - CASEN00
+Chile,CL,CHL,152,National,1,Flush and pour flush - to piped sewer system,0.81,Caracterizacion Socioeconomica Nacional  - CASEN00
+Chile,CL,CHL,152,National,2,Flush and pour flush - to septic tank,0.064,Caracterizacion Socioeconomica Nacional  - CASEN00
+Chile,CL,CHL,152,National,3,Flush and pour flush - to pit,0.0,Caracterizacion Socioeconomica Nacional  - CASEN00
+Chile,CL,CHL,152,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Caracterizacion Socioeconomica Nacional  - CASEN00
+Chile,CL,CHL,152,National,5,Flush and pour flush - to elsewhere,0.0,Caracterizacion Socioeconomica Nacional  - CASEN00
+Chile,CL,CHL,152,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Caracterizacion Socioeconomica Nacional  - CASEN00
+Chile,CL,CHL,152,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Caracterizacion Socioeconomica Nacional  - CASEN00
+Chile,CL,CHL,152,National,8,Dry latrines - Traditional latrine,0.095,Caracterizacion Socioeconomica Nacional  - CASEN00
+Chile,CL,CHL,152,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Caracterizacion Socioeconomica Nacional  - CASEN00
+Chile,CL,CHL,152,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Caracterizacion Socioeconomica Nacional  - CASEN00
+Chile,CL,CHL,152,National,11,Dry latrines - Bucket latrine,0.0,Caracterizacion Socioeconomica Nacional  - CASEN00
+Chile,CL,CHL,152,National,12,Dry latrines - Other,0.001,Caracterizacion Socioeconomica Nacional  - CASEN00
+Chile,CL,CHL,152,National,13,Composting toilets,0.0,Caracterizacion Socioeconomica Nacional  - CASEN00
+Chile,CL,CHL,152,National,14,Other improved,0.0,Caracterizacion Socioeconomica Nacional  - CASEN00
+Chile,CL,CHL,152,National,15,"No facility, bush, field",0.029,Caracterizacion Socioeconomica Nacional  - CASEN00
+Chile,CL,CHL,152,National,16,Other unimproved,0.0,Caracterizacion Socioeconomica Nacional  - CASEN00
+Chile,CL,CHL,152,National,17,DK/missing information,0.0,Caracterizacion Socioeconomica Nacional  - CASEN00
+Chile,CL,CHL,152,Urban,1,Flush and pour flush - to piped sewer system,0.951,National Census  - CEN02
+Chile,CL,CHL,152,Urban,2,Flush and pour flush - to septic tank,0.001,National Census  - CEN02
+Chile,CL,CHL,152,Urban,3,Flush and pour flush - to pit,0.0,National Census  - CEN02
+Chile,CL,CHL,152,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Census  - CEN02
+Chile,CL,CHL,152,Urban,5,Flush and pour flush - to elsewhere,0.0,National Census  - CEN02
+Chile,CL,CHL,152,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,National Census  - CEN02
+Chile,CL,CHL,152,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Census  - CEN02
+Chile,CL,CHL,152,Urban,8,Dry latrines - Traditional latrine,0.024,National Census  - CEN02
+Chile,CL,CHL,152,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Census  - CEN02
+Chile,CL,CHL,152,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Census  - CEN02
+Chile,CL,CHL,152,Urban,11,Dry latrines - Bucket latrine,0.0,National Census  - CEN02
+Chile,CL,CHL,152,Urban,12,Dry latrines - Other,0.0,National Census  - CEN02
+Chile,CL,CHL,152,Urban,13,Composting toilets,0.0,National Census  - CEN02
+Chile,CL,CHL,152,Urban,14,Other improved,0.0,National Census  - CEN02
+Chile,CL,CHL,152,Urban,15,"No facility, bush, field",0.004,National Census  - CEN02
+Chile,CL,CHL,152,Urban,16,Other unimproved,0.0,National Census  - CEN02
+Chile,CL,CHL,152,Urban,17,DK/missing information,0.019,National Census  - CEN02
+Chile,CL,CHL,152,Rural,1,Flush and pour flush - to piped sewer system,0.503,National Census  - CEN02
+Chile,CL,CHL,152,Rural,2,Flush and pour flush - to septic tank,0.006,National Census  - CEN02
+Chile,CL,CHL,152,Rural,3,Flush and pour flush - to pit,0.0,National Census  - CEN02
+Chile,CL,CHL,152,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Census  - CEN02
+Chile,CL,CHL,152,Rural,5,Flush and pour flush - to elsewhere,0.0,National Census  - CEN02
+Chile,CL,CHL,152,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,National Census  - CEN02
+Chile,CL,CHL,152,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Census  - CEN02
+Chile,CL,CHL,152,Rural,8,Dry latrines - Traditional latrine,0.427,National Census  - CEN02
+Chile,CL,CHL,152,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Census  - CEN02
+Chile,CL,CHL,152,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.002,National Census  - CEN02
+Chile,CL,CHL,152,Rural,11,Dry latrines - Bucket latrine,0.0,National Census  - CEN02
+Chile,CL,CHL,152,Rural,12,Dry latrines - Other,0.0,National Census  - CEN02
+Chile,CL,CHL,152,Rural,13,Composting toilets,0.0,National Census  - CEN02
+Chile,CL,CHL,152,Rural,14,Other improved,0.0,National Census  - CEN02
+Chile,CL,CHL,152,Rural,15,"No facility, bush, field",0.029,National Census  - CEN02
+Chile,CL,CHL,152,Rural,16,Other unimproved,0.001,National Census  - CEN02
+Chile,CL,CHL,152,Rural,17,DK/missing information,0.032,National Census  - CEN02
+Chile,CL,CHL,152,National,1,Flush and pour flush - to piped sewer system,0.0,National Census  - CEN02
+Chile,CL,CHL,152,National,2,Flush and pour flush - to septic tank,0.0,National Census  - CEN02
+Chile,CL,CHL,152,National,3,Flush and pour flush - to pit,0.0,National Census  - CEN02
+Chile,CL,CHL,152,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Census  - CEN02
+Chile,CL,CHL,152,National,5,Flush and pour flush - to elsewhere,0.0,National Census  - CEN02
+Chile,CL,CHL,152,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,National Census  - CEN02
+Chile,CL,CHL,152,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Census  - CEN02
+Chile,CL,CHL,152,National,8,Dry latrines - Traditional latrine,0.0,National Census  - CEN02
+Chile,CL,CHL,152,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Census  - CEN02
+Chile,CL,CHL,152,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Census  - CEN02
+Chile,CL,CHL,152,National,11,Dry latrines - Bucket latrine,0.0,National Census  - CEN02
+Chile,CL,CHL,152,National,12,Dry latrines - Other,0.0,National Census  - CEN02
+Chile,CL,CHL,152,National,13,Composting toilets,0.0,National Census  - CEN02
+Chile,CL,CHL,152,National,14,Other improved,0.0,National Census  - CEN02
+Chile,CL,CHL,152,National,15,"No facility, bush, field",0.0,National Census  - CEN02
+Chile,CL,CHL,152,National,16,Other unimproved,0.0,National Census  - CEN02
+Chile,CL,CHL,152,National,17,DK/missing information,0.0,National Census  - CEN02
 Chile,CL,CHL,152,Urban,1,Flush and pour flush - to piped sewer system,0.917,Caracterizacion Socioeconomica Nacional  - CASEN03
 Chile,CL,CHL,152,Urban,2,Flush and pour flush - to septic tank,0.031,Caracterizacion Socioeconomica Nacional  - CASEN03
 Chile,CL,CHL,152,Urban,3,Flush and pour flush - to pit,0.006,Caracterizacion Socioeconomica Nacional  - CASEN03
@@ -67,6 +135,23 @@ Chile,CL,CHL,152,Rural,14,Other improved,0.0,Caracterizacion Socioeconomica Naci
 Chile,CL,CHL,152,Rural,15,"No facility, bush, field",0.034,Caracterizacion Socioeconomica Nacional  - CASEN03
 Chile,CL,CHL,152,Rural,16,Other unimproved,0.0,Caracterizacion Socioeconomica Nacional  - CASEN03
 Chile,CL,CHL,152,Rural,17,DK/missing information,0.0,Caracterizacion Socioeconomica Nacional  - CASEN03
+Chile,CL,CHL,152,National,1,Flush and pour flush - to piped sewer system,0.0,Caracterizacion Socioeconomica Nacional  - CASEN03
+Chile,CL,CHL,152,National,2,Flush and pour flush - to septic tank,0.0,Caracterizacion Socioeconomica Nacional  - CASEN03
+Chile,CL,CHL,152,National,3,Flush and pour flush - to pit,0.0,Caracterizacion Socioeconomica Nacional  - CASEN03
+Chile,CL,CHL,152,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Caracterizacion Socioeconomica Nacional  - CASEN03
+Chile,CL,CHL,152,National,5,Flush and pour flush - to elsewhere,0.0,Caracterizacion Socioeconomica Nacional  - CASEN03
+Chile,CL,CHL,152,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Caracterizacion Socioeconomica Nacional  - CASEN03
+Chile,CL,CHL,152,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Caracterizacion Socioeconomica Nacional  - CASEN03
+Chile,CL,CHL,152,National,8,Dry latrines - Traditional latrine,0.0,Caracterizacion Socioeconomica Nacional  - CASEN03
+Chile,CL,CHL,152,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Caracterizacion Socioeconomica Nacional  - CASEN03
+Chile,CL,CHL,152,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Caracterizacion Socioeconomica Nacional  - CASEN03
+Chile,CL,CHL,152,National,11,Dry latrines - Bucket latrine,0.0,Caracterizacion Socioeconomica Nacional  - CASEN03
+Chile,CL,CHL,152,National,12,Dry latrines - Other,0.0,Caracterizacion Socioeconomica Nacional  - CASEN03
+Chile,CL,CHL,152,National,13,Composting toilets,0.0,Caracterizacion Socioeconomica Nacional  - CASEN03
+Chile,CL,CHL,152,National,14,Other improved,0.0,Caracterizacion Socioeconomica Nacional  - CASEN03
+Chile,CL,CHL,152,National,15,"No facility, bush, field",0.0,Caracterizacion Socioeconomica Nacional  - CASEN03
+Chile,CL,CHL,152,National,16,Other unimproved,0.0,Caracterizacion Socioeconomica Nacional  - CASEN03
+Chile,CL,CHL,152,National,17,DK/missing information,0.0,Caracterizacion Socioeconomica Nacional  - CASEN03
 Chile,CL,CHL,152,Urban,1,Flush and pour flush - to piped sewer system,0.939,Caracterizacion Socioeconomica Nacional  - CASEN06
 Chile,CL,CHL,152,Urban,2,Flush and pour flush - to septic tank,0.035,Caracterizacion Socioeconomica Nacional  - CASEN06
 Chile,CL,CHL,152,Urban,3,Flush and pour flush - to pit,0.0,Caracterizacion Socioeconomica Nacional  - CASEN06
@@ -101,6 +186,23 @@ Chile,CL,CHL,152,Rural,14,Other improved,0.0,Caracterizacion Socioeconomica Naci
 Chile,CL,CHL,152,Rural,15,"No facility, bush, field",0.022,Caracterizacion Socioeconomica Nacional  - CASEN06
 Chile,CL,CHL,152,Rural,16,Other unimproved,0.0,Caracterizacion Socioeconomica Nacional  - CASEN06
 Chile,CL,CHL,152,Rural,17,DK/missing information,0.001,Caracterizacion Socioeconomica Nacional  - CASEN06
+Chile,CL,CHL,152,National,1,Flush and pour flush - to piped sewer system,0.842,Caracterizacion Socioeconomica Nacional  - CASEN06
+Chile,CL,CHL,152,National,2,Flush and pour flush - to septic tank,0.088,Caracterizacion Socioeconomica Nacional  - CASEN06
+Chile,CL,CHL,152,National,3,Flush and pour flush - to pit,0.0,Caracterizacion Socioeconomica Nacional  - CASEN06
+Chile,CL,CHL,152,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Caracterizacion Socioeconomica Nacional  - CASEN06
+Chile,CL,CHL,152,National,5,Flush and pour flush - to elsewhere,0.0,Caracterizacion Socioeconomica Nacional  - CASEN06
+Chile,CL,CHL,152,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Caracterizacion Socioeconomica Nacional  - CASEN06
+Chile,CL,CHL,152,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Caracterizacion Socioeconomica Nacional  - CASEN06
+Chile,CL,CHL,152,National,8,Dry latrines - Traditional latrine,0.054,Caracterizacion Socioeconomica Nacional  - CASEN06
+Chile,CL,CHL,152,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Caracterizacion Socioeconomica Nacional  - CASEN06
+Chile,CL,CHL,152,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Caracterizacion Socioeconomica Nacional  - CASEN06
+Chile,CL,CHL,152,National,11,Dry latrines - Bucket latrine,0.0,Caracterizacion Socioeconomica Nacional  - CASEN06
+Chile,CL,CHL,152,National,12,Dry latrines - Other,0.001,Caracterizacion Socioeconomica Nacional  - CASEN06
+Chile,CL,CHL,152,National,13,Composting toilets,0.0,Caracterizacion Socioeconomica Nacional  - CASEN06
+Chile,CL,CHL,152,National,14,Other improved,0.0,Caracterizacion Socioeconomica Nacional  - CASEN06
+Chile,CL,CHL,152,National,15,"No facility, bush, field",0.015,Caracterizacion Socioeconomica Nacional  - CASEN06
+Chile,CL,CHL,152,National,16,Other unimproved,0.0,Caracterizacion Socioeconomica Nacional  - CASEN06
+Chile,CL,CHL,152,National,17,DK/missing information,0.0,Caracterizacion Socioeconomica Nacional  - CASEN06
 Chile,CL,CHL,152,Urban,1,Flush and pour flush - to piped sewer system,0.947,Caracterizacion Socioeconomica Nacional  - CASEN09
 Chile,CL,CHL,152,Urban,2,Flush and pour flush - to septic tank,0.035,Caracterizacion Socioeconomica Nacional  - CASEN09
 Chile,CL,CHL,152,Urban,3,Flush and pour flush - to pit,0.0,Caracterizacion Socioeconomica Nacional  - CASEN09
@@ -135,6 +237,23 @@ Chile,CL,CHL,152,Rural,14,Other improved,0.0,Caracterizacion Socioeconomica Naci
 Chile,CL,CHL,152,Rural,15,"No facility, bush, field",0.026,Caracterizacion Socioeconomica Nacional  - CASEN09
 Chile,CL,CHL,152,Rural,16,Other unimproved,0.0,Caracterizacion Socioeconomica Nacional  - CASEN09
 Chile,CL,CHL,152,Rural,17,DK/missing information,0.0,Caracterizacion Socioeconomica Nacional  - CASEN09
+Chile,CL,CHL,152,National,1,Flush and pour flush - to piped sewer system,0.86,Caracterizacion Socioeconomica Nacional  - CASEN09
+Chile,CL,CHL,152,National,2,Flush and pour flush - to septic tank,0.093,Caracterizacion Socioeconomica Nacional  - CASEN09
+Chile,CL,CHL,152,National,3,Flush and pour flush - to pit,0.0,Caracterizacion Socioeconomica Nacional  - CASEN09
+Chile,CL,CHL,152,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Caracterizacion Socioeconomica Nacional  - CASEN09
+Chile,CL,CHL,152,National,5,Flush and pour flush - to elsewhere,0.0,Caracterizacion Socioeconomica Nacional  - CASEN09
+Chile,CL,CHL,152,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Caracterizacion Socioeconomica Nacional  - CASEN09
+Chile,CL,CHL,152,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Caracterizacion Socioeconomica Nacional  - CASEN09
+Chile,CL,CHL,152,National,8,Dry latrines - Traditional latrine,0.034,Caracterizacion Socioeconomica Nacional  - CASEN09
+Chile,CL,CHL,152,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Caracterizacion Socioeconomica Nacional  - CASEN09
+Chile,CL,CHL,152,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Caracterizacion Socioeconomica Nacional  - CASEN09
+Chile,CL,CHL,152,National,11,Dry latrines - Bucket latrine,0.0,Caracterizacion Socioeconomica Nacional  - CASEN09
+Chile,CL,CHL,152,National,12,Dry latrines - Other,0.001,Caracterizacion Socioeconomica Nacional  - CASEN09
+Chile,CL,CHL,152,National,13,Composting toilets,0.0,Caracterizacion Socioeconomica Nacional  - CASEN09
+Chile,CL,CHL,152,National,14,Other improved,0.0,Caracterizacion Socioeconomica Nacional  - CASEN09
+Chile,CL,CHL,152,National,15,"No facility, bush, field",0.013,Caracterizacion Socioeconomica Nacional  - CASEN09
+Chile,CL,CHL,152,National,16,Other unimproved,0.0,Caracterizacion Socioeconomica Nacional  - CASEN09
+Chile,CL,CHL,152,National,17,DK/missing information,0.0,Caracterizacion Socioeconomica Nacional  - CASEN09
 Chile,CL,CHL,152,Urban,1,Flush and pour flush - to piped sewer system,0.979,Caracterizacion Socioeconomica Nacional  - CASEN11
 Chile,CL,CHL,152,Urban,2,Flush and pour flush - to septic tank,0.014,Caracterizacion Socioeconomica Nacional  - CASEN11
 Chile,CL,CHL,152,Urban,3,Flush and pour flush - to pit,0.0,Caracterizacion Socioeconomica Nacional  - CASEN11
@@ -169,6 +288,23 @@ Chile,CL,CHL,152,Rural,14,Other improved,0.0,Caracterizacion Socioeconomica Naci
 Chile,CL,CHL,152,Rural,15,"No facility, bush, field",0.012,Caracterizacion Socioeconomica Nacional  - CASEN11
 Chile,CL,CHL,152,Rural,16,Other unimproved,0.001,Caracterizacion Socioeconomica Nacional  - CASEN11
 Chile,CL,CHL,152,Rural,17,DK/missing information,0.0,Caracterizacion Socioeconomica Nacional  - CASEN11
+Chile,CL,CHL,152,National,1,Flush and pour flush - to piped sewer system,0.877,Caracterizacion Socioeconomica Nacional  - CASEN11
+Chile,CL,CHL,152,National,2,Flush and pour flush - to septic tank,0.09,Caracterizacion Socioeconomica Nacional  - CASEN11
+Chile,CL,CHL,152,National,3,Flush and pour flush - to pit,0.0,Caracterizacion Socioeconomica Nacional  - CASEN11
+Chile,CL,CHL,152,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Caracterizacion Socioeconomica Nacional  - CASEN11
+Chile,CL,CHL,152,National,5,Flush and pour flush - to elsewhere,0.0,Caracterizacion Socioeconomica Nacional  - CASEN11
+Chile,CL,CHL,152,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Caracterizacion Socioeconomica Nacional  - CASEN11
+Chile,CL,CHL,152,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Caracterizacion Socioeconomica Nacional  - CASEN11
+Chile,CL,CHL,152,National,8,Dry latrines - Traditional latrine,0.028,Caracterizacion Socioeconomica Nacional  - CASEN11
+Chile,CL,CHL,152,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Caracterizacion Socioeconomica Nacional  - CASEN11
+Chile,CL,CHL,152,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Caracterizacion Socioeconomica Nacional  - CASEN11
+Chile,CL,CHL,152,National,11,Dry latrines - Bucket latrine,0.0,Caracterizacion Socioeconomica Nacional  - CASEN11
+Chile,CL,CHL,152,National,12,Dry latrines - Other,0.0,Caracterizacion Socioeconomica Nacional  - CASEN11
+Chile,CL,CHL,152,National,13,Composting toilets,0.0,Caracterizacion Socioeconomica Nacional  - CASEN11
+Chile,CL,CHL,152,National,14,Other improved,0.0,Caracterizacion Socioeconomica Nacional  - CASEN11
+Chile,CL,CHL,152,National,15,"No facility, bush, field",0.005,Caracterizacion Socioeconomica Nacional  - CASEN11
+Chile,CL,CHL,152,National,16,Other unimproved,0.0,Caracterizacion Socioeconomica Nacional  - CASEN11
+Chile,CL,CHL,152,National,17,DK/missing information,0.0,Caracterizacion Socioeconomica Nacional  - CASEN11
 Chile,CL,CHL,152,Urban,1,Flush and pour flush - to piped sewer system,0.956,"Caracterizacion Socioeconomica Nacional, 2013 - CASEN13"
 Chile,CL,CHL,152,Urban,2,Flush and pour flush - to septic tank,0.031,"Caracterizacion Socioeconomica Nacional, 2013 - CASEN13"
 Chile,CL,CHL,152,Urban,3,Flush and pour flush - to pit,0.003,"Caracterizacion Socioeconomica Nacional, 2013 - CASEN13"
@@ -203,6 +339,23 @@ Chile,CL,CHL,152,Rural,14,Other improved,0.0,"Caracterizacion Socioeconomica Nac
 Chile,CL,CHL,152,Rural,15,"No facility, bush, field",0.015,"Caracterizacion Socioeconomica Nacional, 2013 - CASEN13"
 Chile,CL,CHL,152,Rural,16,Other unimproved,0.003,"Caracterizacion Socioeconomica Nacional, 2013 - CASEN13"
 Chile,CL,CHL,152,Rural,17,DK/missing information,0.001,"Caracterizacion Socioeconomica Nacional, 2013 - CASEN13"
+Chile,CL,CHL,152,National,1,Flush and pour flush - to piped sewer system,0.794,"Caracterizacion Socioeconomica Nacional, 2013 - CASEN13"
+Chile,CL,CHL,152,National,2,Flush and pour flush - to septic tank,0.133,"Caracterizacion Socioeconomica Nacional, 2013 - CASEN13"
+Chile,CL,CHL,152,National,3,Flush and pour flush - to pit,0.026,"Caracterizacion Socioeconomica Nacional, 2013 - CASEN13"
+Chile,CL,CHL,152,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Caracterizacion Socioeconomica Nacional, 2013 - CASEN13"
+Chile,CL,CHL,152,National,5,Flush and pour flush - to elsewhere,0.0,"Caracterizacion Socioeconomica Nacional, 2013 - CASEN13"
+Chile,CL,CHL,152,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Caracterizacion Socioeconomica Nacional, 2013 - CASEN13"
+Chile,CL,CHL,152,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.04,"Caracterizacion Socioeconomica Nacional, 2013 - CASEN13"
+Chile,CL,CHL,152,National,8,Dry latrines - Traditional latrine,0.0,"Caracterizacion Socioeconomica Nacional, 2013 - CASEN13"
+Chile,CL,CHL,152,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Caracterizacion Socioeconomica Nacional, 2013 - CASEN13"
+Chile,CL,CHL,152,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Caracterizacion Socioeconomica Nacional, 2013 - CASEN13"
+Chile,CL,CHL,152,National,11,Dry latrines - Bucket latrine,0.0,"Caracterizacion Socioeconomica Nacional, 2013 - CASEN13"
+Chile,CL,CHL,152,National,12,Dry latrines - Other,0.0,"Caracterizacion Socioeconomica Nacional, 2013 - CASEN13"
+Chile,CL,CHL,152,National,13,Composting toilets,0.0,"Caracterizacion Socioeconomica Nacional, 2013 - CASEN13"
+Chile,CL,CHL,152,National,14,Other improved,0.0,"Caracterizacion Socioeconomica Nacional, 2013 - CASEN13"
+Chile,CL,CHL,152,National,15,"No facility, bush, field",0.006,"Caracterizacion Socioeconomica Nacional, 2013 - CASEN13"
+Chile,CL,CHL,152,National,16,Other unimproved,0.001,"Caracterizacion Socioeconomica Nacional, 2013 - CASEN13"
+Chile,CL,CHL,152,National,17,DK/missing information,0.001,"Caracterizacion Socioeconomica Nacional, 2013 - CASEN13"
 Chile,CL,CHL,152,Urban,1,Flush and pour flush - to piped sewer system,0.973,"Caracterizacion Socioeconomica Nacional, 2016 - CASEN16"
 Chile,CL,CHL,152,Urban,2,Flush and pour flush - to septic tank,0.019,"Caracterizacion Socioeconomica Nacional, 2016 - CASEN16"
 Chile,CL,CHL,152,Urban,3,Flush and pour flush - to pit,0.003,"Caracterizacion Socioeconomica Nacional, 2016 - CASEN16"
@@ -237,3 +390,20 @@ Chile,CL,CHL,152,Rural,14,Other improved,0.003,"Caracterizacion Socioeconomica N
 Chile,CL,CHL,152,Rural,15,"No facility, bush, field",0.012,"Caracterizacion Socioeconomica Nacional, 2016 - CASEN16"
 Chile,CL,CHL,152,Rural,16,Other unimproved,0.0,"Caracterizacion Socioeconomica Nacional, 2016 - CASEN16"
 Chile,CL,CHL,152,Rural,17,DK/missing information,0.0,"Caracterizacion Socioeconomica Nacional, 2016 - CASEN16"
+Chile,CL,CHL,152,National,1,Flush and pour flush - to piped sewer system,0.87,"Caracterizacion Socioeconomica Nacional, 2016 - CASEN16"
+Chile,CL,CHL,152,National,2,Flush and pour flush - to septic tank,0.097,"Caracterizacion Socioeconomica Nacional, 2016 - CASEN16"
+Chile,CL,CHL,152,National,3,Flush and pour flush - to pit,0.013,"Caracterizacion Socioeconomica Nacional, 2016 - CASEN16"
+Chile,CL,CHL,152,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Caracterizacion Socioeconomica Nacional, 2016 - CASEN16"
+Chile,CL,CHL,152,National,5,Flush and pour flush - to elsewhere,0.0,"Caracterizacion Socioeconomica Nacional, 2016 - CASEN16"
+Chile,CL,CHL,152,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Caracterizacion Socioeconomica Nacional, 2016 - CASEN16"
+Chile,CL,CHL,152,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.015,"Caracterizacion Socioeconomica Nacional, 2016 - CASEN16"
+Chile,CL,CHL,152,National,8,Dry latrines - Traditional latrine,0.0,"Caracterizacion Socioeconomica Nacional, 2016 - CASEN16"
+Chile,CL,CHL,152,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Caracterizacion Socioeconomica Nacional, 2016 - CASEN16"
+Chile,CL,CHL,152,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Caracterizacion Socioeconomica Nacional, 2016 - CASEN16"
+Chile,CL,CHL,152,National,11,Dry latrines - Bucket latrine,0.0,"Caracterizacion Socioeconomica Nacional, 2016 - CASEN16"
+Chile,CL,CHL,152,National,12,Dry latrines - Other,0.0,"Caracterizacion Socioeconomica Nacional, 2016 - CASEN16"
+Chile,CL,CHL,152,National,13,Composting toilets,0.0,"Caracterizacion Socioeconomica Nacional, 2016 - CASEN16"
+Chile,CL,CHL,152,National,14,Other improved,0.0,"Caracterizacion Socioeconomica Nacional, 2016 - CASEN16"
+Chile,CL,CHL,152,National,15,"No facility, bush, field",0.004,"Caracterizacion Socioeconomica Nacional, 2016 - CASEN16"
+Chile,CL,CHL,152,National,16,Other unimproved,0.0,"Caracterizacion Socioeconomica Nacional, 2016 - CASEN16"
+Chile,CL,CHL,152,National,17,DK/missing information,0.0,"Caracterizacion Socioeconomica Nacional, 2016 - CASEN16"

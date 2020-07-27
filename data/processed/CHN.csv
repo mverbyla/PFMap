@@ -1,0 +1,511 @@
+country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+China,CN,CHN,156,Urban,1,Flush and pour flush - to piped sewer system,0.0,Census 2000 - CEN00
+China,CN,CHN,156,Urban,2,Flush and pour flush - to septic tank,0.0,Census 2000 - CEN00
+China,CN,CHN,156,Urban,3,Flush and pour flush - to pit,0.0,Census 2000 - CEN00
+China,CN,CHN,156,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census 2000 - CEN00
+China,CN,CHN,156,Urban,5,Flush and pour flush - to elsewhere,0.0,Census 2000 - CEN00
+China,CN,CHN,156,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census 2000 - CEN00
+China,CN,CHN,156,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census 2000 - CEN00
+China,CN,CHN,156,Urban,8,Dry latrines - Traditional latrine,0.0,Census 2000 - CEN00
+China,CN,CHN,156,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census 2000 - CEN00
+China,CN,CHN,156,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census 2000 - CEN00
+China,CN,CHN,156,Urban,11,Dry latrines - Bucket latrine,0.0,Census 2000 - CEN00
+China,CN,CHN,156,Urban,12,Dry latrines - Other,0.0,Census 2000 - CEN00
+China,CN,CHN,156,Urban,13,Composting toilets,0.0,Census 2000 - CEN00
+China,CN,CHN,156,Urban,14,Other improved,0.0,Census 2000 - CEN00
+China,CN,CHN,156,Urban,15,"No facility, bush, field",0.0,Census 2000 - CEN00
+China,CN,CHN,156,Urban,16,Other unimproved,0.255,Census 2000 - CEN00
+China,CN,CHN,156,Urban,17,DK/missing information,0.0,Census 2000 - CEN00
+China,CN,CHN,156,Rural,1,Flush and pour flush - to piped sewer system,0.0,Census 2000 - CEN00
+China,CN,CHN,156,Rural,2,Flush and pour flush - to septic tank,0.0,Census 2000 - CEN00
+China,CN,CHN,156,Rural,3,Flush and pour flush - to pit,0.0,Census 2000 - CEN00
+China,CN,CHN,156,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census 2000 - CEN00
+China,CN,CHN,156,Rural,5,Flush and pour flush - to elsewhere,0.0,Census 2000 - CEN00
+China,CN,CHN,156,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census 2000 - CEN00
+China,CN,CHN,156,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census 2000 - CEN00
+China,CN,CHN,156,Rural,8,Dry latrines - Traditional latrine,0.0,Census 2000 - CEN00
+China,CN,CHN,156,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census 2000 - CEN00
+China,CN,CHN,156,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census 2000 - CEN00
+China,CN,CHN,156,Rural,11,Dry latrines - Bucket latrine,0.0,Census 2000 - CEN00
+China,CN,CHN,156,Rural,12,Dry latrines - Other,0.0,Census 2000 - CEN00
+China,CN,CHN,156,Rural,13,Composting toilets,0.0,Census 2000 - CEN00
+China,CN,CHN,156,Rural,14,Other improved,0.0,Census 2000 - CEN00
+China,CN,CHN,156,Rural,15,"No facility, bush, field",0.0,Census 2000 - CEN00
+China,CN,CHN,156,Rural,16,Other unimproved,0.296,Census 2000 - CEN00
+China,CN,CHN,156,Rural,17,DK/missing information,0.0,Census 2000 - CEN00
+China,CN,CHN,156,National,1,Flush and pour flush - to piped sewer system,0.0,Census 2000 - CEN00
+China,CN,CHN,156,National,2,Flush and pour flush - to septic tank,0.0,Census 2000 - CEN00
+China,CN,CHN,156,National,3,Flush and pour flush - to pit,0.0,Census 2000 - CEN00
+China,CN,CHN,156,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census 2000 - CEN00
+China,CN,CHN,156,National,5,Flush and pour flush - to elsewhere,0.0,Census 2000 - CEN00
+China,CN,CHN,156,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census 2000 - CEN00
+China,CN,CHN,156,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census 2000 - CEN00
+China,CN,CHN,156,National,8,Dry latrines - Traditional latrine,0.0,Census 2000 - CEN00
+China,CN,CHN,156,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census 2000 - CEN00
+China,CN,CHN,156,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census 2000 - CEN00
+China,CN,CHN,156,National,11,Dry latrines - Bucket latrine,0.0,Census 2000 - CEN00
+China,CN,CHN,156,National,12,Dry latrines - Other,0.0,Census 2000 - CEN00
+China,CN,CHN,156,National,13,Composting toilets,0.0,Census 2000 - CEN00
+China,CN,CHN,156,National,14,Other improved,0.0,Census 2000 - CEN00
+China,CN,CHN,156,National,15,"No facility, bush, field",0.0,Census 2000 - CEN00
+China,CN,CHN,156,National,16,Other unimproved,0.28,Census 2000 - CEN00
+China,CN,CHN,156,National,17,DK/missing information,0.0,Census 2000 - CEN00
+China,CN,CHN,156,Urban,1,Flush and pour flush - to piped sewer system,0.79,National Health Service Survey - NHSS03
+China,CN,CHN,156,Urban,2,Flush and pour flush - to septic tank,0.034,National Health Service Survey - NHSS03
+China,CN,CHN,156,Urban,3,Flush and pour flush - to pit,0.0,National Health Service Survey - NHSS03
+China,CN,CHN,156,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Health Service Survey - NHSS03
+China,CN,CHN,156,Urban,5,Flush and pour flush - to elsewhere,0.0,National Health Service Survey - NHSS03
+China,CN,CHN,156,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,National Health Service Survey - NHSS03
+China,CN,CHN,156,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Health Service Survey - NHSS03
+China,CN,CHN,156,Urban,8,Dry latrines - Traditional latrine,0.0,National Health Service Survey - NHSS03
+China,CN,CHN,156,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Health Service Survey - NHSS03
+China,CN,CHN,156,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Health Service Survey - NHSS03
+China,CN,CHN,156,Urban,11,Dry latrines - Bucket latrine,0.0,National Health Service Survey - NHSS03
+China,CN,CHN,156,Urban,12,Dry latrines - Other,0.0,National Health Service Survey - NHSS03
+China,CN,CHN,156,Urban,13,Composting toilets,0.042,National Health Service Survey - NHSS03
+China,CN,CHN,156,Urban,14,Other improved,0.0,National Health Service Survey - NHSS03
+China,CN,CHN,156,Urban,15,"No facility, bush, field",0.0,National Health Service Survey - NHSS03
+China,CN,CHN,156,Urban,16,Other unimproved,0.134,National Health Service Survey - NHSS03
+China,CN,CHN,156,Urban,17,DK/missing information,0.0,National Health Service Survey - NHSS03
+China,CN,CHN,156,Rural,1,Flush and pour flush - to piped sewer system,0.053,National Health Service Survey - NHSS03
+China,CN,CHN,156,Rural,2,Flush and pour flush - to septic tank,0.084,National Health Service Survey - NHSS03
+China,CN,CHN,156,Rural,3,Flush and pour flush - to pit,0.0,National Health Service Survey - NHSS03
+China,CN,CHN,156,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Health Service Survey - NHSS03
+China,CN,CHN,156,Rural,5,Flush and pour flush - to elsewhere,0.0,National Health Service Survey - NHSS03
+China,CN,CHN,156,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,National Health Service Survey - NHSS03
+China,CN,CHN,156,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Health Service Survey - NHSS03
+China,CN,CHN,156,Rural,8,Dry latrines - Traditional latrine,0.0,National Health Service Survey - NHSS03
+China,CN,CHN,156,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Health Service Survey - NHSS03
+China,CN,CHN,156,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Health Service Survey - NHSS03
+China,CN,CHN,156,Rural,11,Dry latrines - Bucket latrine,0.0,National Health Service Survey - NHSS03
+China,CN,CHN,156,Rural,12,Dry latrines - Other,0.0,National Health Service Survey - NHSS03
+China,CN,CHN,156,Rural,13,Composting toilets,0.071,National Health Service Survey - NHSS03
+China,CN,CHN,156,Rural,14,Other improved,0.0,National Health Service Survey - NHSS03
+China,CN,CHN,156,Rural,15,"No facility, bush, field",0.043,National Health Service Survey - NHSS03
+China,CN,CHN,156,Rural,16,Other unimproved,0.792,National Health Service Survey - NHSS03
+China,CN,CHN,156,Rural,17,DK/missing information,0.0,National Health Service Survey - NHSS03
+China,CN,CHN,156,National,1,Flush and pour flush - to piped sewer system,0.271,National Health Service Survey - NHSS03
+China,CN,CHN,156,National,2,Flush and pour flush - to septic tank,0.068,National Health Service Survey - NHSS03
+China,CN,CHN,156,National,3,Flush and pour flush - to pit,0.0,National Health Service Survey - NHSS03
+China,CN,CHN,156,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Health Service Survey - NHSS03
+China,CN,CHN,156,National,5,Flush and pour flush - to elsewhere,0.0,National Health Service Survey - NHSS03
+China,CN,CHN,156,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,National Health Service Survey - NHSS03
+China,CN,CHN,156,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Health Service Survey - NHSS03
+China,CN,CHN,156,National,8,Dry latrines - Traditional latrine,0.0,National Health Service Survey - NHSS03
+China,CN,CHN,156,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Health Service Survey - NHSS03
+China,CN,CHN,156,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Health Service Survey - NHSS03
+China,CN,CHN,156,National,11,Dry latrines - Bucket latrine,0.0,National Health Service Survey - NHSS03
+China,CN,CHN,156,National,12,Dry latrines - Other,0.0,National Health Service Survey - NHSS03
+China,CN,CHN,156,National,13,Composting toilets,0.062,National Health Service Survey - NHSS03
+China,CN,CHN,156,National,14,Other improved,0.0,National Health Service Survey - NHSS03
+China,CN,CHN,156,National,15,"No facility, bush, field",0.0,National Health Service Survey - NHSS03
+China,CN,CHN,156,National,16,Other unimproved,0.599,National Health Service Survey - NHSS03
+China,CN,CHN,156,National,17,DK/missing information,0.0,National Health Service Survey - NHSS03
+China,CN,CHN,156,Urban,1,Flush and pour flush - to piped sewer system,0.0,Urban and rural household survey - NBS08
+China,CN,CHN,156,Urban,2,Flush and pour flush - to septic tank,0.0,Urban and rural household survey - NBS08
+China,CN,CHN,156,Urban,3,Flush and pour flush - to pit,0.0,Urban and rural household survey - NBS08
+China,CN,CHN,156,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Urban and rural household survey - NBS08
+China,CN,CHN,156,Urban,5,Flush and pour flush - to elsewhere,0.0,Urban and rural household survey - NBS08
+China,CN,CHN,156,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Urban and rural household survey - NBS08
+China,CN,CHN,156,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Urban and rural household survey - NBS08
+China,CN,CHN,156,Urban,8,Dry latrines - Traditional latrine,0.0,Urban and rural household survey - NBS08
+China,CN,CHN,156,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Urban and rural household survey - NBS08
+China,CN,CHN,156,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Urban and rural household survey - NBS08
+China,CN,CHN,156,Urban,11,Dry latrines - Bucket latrine,0.0,Urban and rural household survey - NBS08
+China,CN,CHN,156,Urban,12,Dry latrines - Other,0.0,Urban and rural household survey - NBS08
+China,CN,CHN,156,Urban,13,Composting toilets,0.0,Urban and rural household survey - NBS08
+China,CN,CHN,156,Urban,14,Other improved,0.0,Urban and rural household survey - NBS08
+China,CN,CHN,156,Urban,15,"No facility, bush, field",0.0,Urban and rural household survey - NBS08
+China,CN,CHN,156,Urban,16,Other unimproved,0.0,Urban and rural household survey - NBS08
+China,CN,CHN,156,Urban,17,DK/missing information,0.0,Urban and rural household survey - NBS08
+China,CN,CHN,156,Rural,1,Flush and pour flush - to piped sewer system,0.0,Urban and rural household survey - NBS08
+China,CN,CHN,156,Rural,2,Flush and pour flush - to septic tank,0.0,Urban and rural household survey - NBS08
+China,CN,CHN,156,Rural,3,Flush and pour flush - to pit,0.0,Urban and rural household survey - NBS08
+China,CN,CHN,156,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Urban and rural household survey - NBS08
+China,CN,CHN,156,Rural,5,Flush and pour flush - to elsewhere,0.0,Urban and rural household survey - NBS08
+China,CN,CHN,156,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Urban and rural household survey - NBS08
+China,CN,CHN,156,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Urban and rural household survey - NBS08
+China,CN,CHN,156,Rural,8,Dry latrines - Traditional latrine,0.0,Urban and rural household survey - NBS08
+China,CN,CHN,156,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Urban and rural household survey - NBS08
+China,CN,CHN,156,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Urban and rural household survey - NBS08
+China,CN,CHN,156,Rural,11,Dry latrines - Bucket latrine,0.0,Urban and rural household survey - NBS08
+China,CN,CHN,156,Rural,12,Dry latrines - Other,0.0,Urban and rural household survey - NBS08
+China,CN,CHN,156,Rural,13,Composting toilets,0.0,Urban and rural household survey - NBS08
+China,CN,CHN,156,Rural,14,Other improved,0.0,Urban and rural household survey - NBS08
+China,CN,CHN,156,Rural,15,"No facility, bush, field",0.0,Urban and rural household survey - NBS08
+China,CN,CHN,156,Rural,16,Other unimproved,0.0,Urban and rural household survey - NBS08
+China,CN,CHN,156,Rural,17,DK/missing information,0.0,Urban and rural household survey - NBS08
+China,CN,CHN,156,National,1,Flush and pour flush - to piped sewer system,0.0,Urban and rural household survey - NBS08
+China,CN,CHN,156,National,2,Flush and pour flush - to septic tank,0.0,Urban and rural household survey - NBS08
+China,CN,CHN,156,National,3,Flush and pour flush - to pit,0.0,Urban and rural household survey - NBS08
+China,CN,CHN,156,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Urban and rural household survey - NBS08
+China,CN,CHN,156,National,5,Flush and pour flush - to elsewhere,0.0,Urban and rural household survey - NBS08
+China,CN,CHN,156,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Urban and rural household survey - NBS08
+China,CN,CHN,156,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Urban and rural household survey - NBS08
+China,CN,CHN,156,National,8,Dry latrines - Traditional latrine,0.0,Urban and rural household survey - NBS08
+China,CN,CHN,156,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Urban and rural household survey - NBS08
+China,CN,CHN,156,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Urban and rural household survey - NBS08
+China,CN,CHN,156,National,11,Dry latrines - Bucket latrine,0.0,Urban and rural household survey - NBS08
+China,CN,CHN,156,National,12,Dry latrines - Other,0.0,Urban and rural household survey - NBS08
+China,CN,CHN,156,National,13,Composting toilets,0.0,Urban and rural household survey - NBS08
+China,CN,CHN,156,National,14,Other improved,0.0,Urban and rural household survey - NBS08
+China,CN,CHN,156,National,15,"No facility, bush, field",0.0,Urban and rural household survey - NBS08
+China,CN,CHN,156,National,16,Other unimproved,0.0,Urban and rural household survey - NBS08
+China,CN,CHN,156,National,17,DK/missing information,0.0,Urban and rural household survey - NBS08
+China,CN,CHN,156,Urban,1,Flush and pour flush - to piped sewer system,0.859,"National Health Services Survey, 2008 - NHSS08"
+China,CN,CHN,156,Urban,2,Flush and pour flush - to septic tank,0.033,"National Health Services Survey, 2008 - NHSS08"
+China,CN,CHN,156,Urban,3,Flush and pour flush - to pit,0.001,"National Health Services Survey, 2008 - NHSS08"
+China,CN,CHN,156,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"National Health Services Survey, 2008 - NHSS08"
+China,CN,CHN,156,Urban,5,Flush and pour flush - to elsewhere,0.0,"National Health Services Survey, 2008 - NHSS08"
+China,CN,CHN,156,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.001,"National Health Services Survey, 2008 - NHSS08"
+China,CN,CHN,156,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.037,"National Health Services Survey, 2008 - NHSS08"
+China,CN,CHN,156,Urban,8,Dry latrines - Traditional latrine,0.03,"National Health Services Survey, 2008 - NHSS08"
+China,CN,CHN,156,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,"National Health Services Survey, 2008 - NHSS08"
+China,CN,CHN,156,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"National Health Services Survey, 2008 - NHSS08"
+China,CN,CHN,156,Urban,11,Dry latrines - Bucket latrine,0.009,"National Health Services Survey, 2008 - NHSS08"
+China,CN,CHN,156,Urban,12,Dry latrines - Other,0.0,"National Health Services Survey, 2008 - NHSS08"
+China,CN,CHN,156,Urban,13,Composting toilets,0.006,"National Health Services Survey, 2008 - NHSS08"
+China,CN,CHN,156,Urban,14,Other improved,0.001,"National Health Services Survey, 2008 - NHSS08"
+China,CN,CHN,156,Urban,15,"No facility, bush, field",0.002,"National Health Services Survey, 2008 - NHSS08"
+China,CN,CHN,156,Urban,16,Other unimproved,0.02,"National Health Services Survey, 2008 - NHSS08"
+China,CN,CHN,156,Urban,17,DK/missing information,0.0,"National Health Services Survey, 2008 - NHSS08"
+China,CN,CHN,156,Rural,1,Flush and pour flush - to piped sewer system,0.111,"National Health Services Survey, 2008 - NHSS08"
+China,CN,CHN,156,Rural,2,Flush and pour flush - to septic tank,0.055,"National Health Services Survey, 2008 - NHSS08"
+China,CN,CHN,156,Rural,3,Flush and pour flush - to pit,0.014,"National Health Services Survey, 2008 - NHSS08"
+China,CN,CHN,156,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"National Health Services Survey, 2008 - NHSS08"
+China,CN,CHN,156,Rural,5,Flush and pour flush - to elsewhere,0.0,"National Health Services Survey, 2008 - NHSS08"
+China,CN,CHN,156,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.005,"National Health Services Survey, 2008 - NHSS08"
+China,CN,CHN,156,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.182,"National Health Services Survey, 2008 - NHSS08"
+China,CN,CHN,156,Rural,8,Dry latrines - Traditional latrine,0.497,"National Health Services Survey, 2008 - NHSS08"
+China,CN,CHN,156,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,"National Health Services Survey, 2008 - NHSS08"
+China,CN,CHN,156,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"National Health Services Survey, 2008 - NHSS08"
+China,CN,CHN,156,Rural,11,Dry latrines - Bucket latrine,0.014,"National Health Services Survey, 2008 - NHSS08"
+China,CN,CHN,156,Rural,12,Dry latrines - Other,0.0,"National Health Services Survey, 2008 - NHSS08"
+China,CN,CHN,156,Rural,13,Composting toilets,0.034,"National Health Services Survey, 2008 - NHSS08"
+China,CN,CHN,156,Rural,14,Other improved,0.031,"National Health Services Survey, 2008 - NHSS08"
+China,CN,CHN,156,Rural,15,"No facility, bush, field",0.02,"National Health Services Survey, 2008 - NHSS08"
+China,CN,CHN,156,Rural,16,Other unimproved,0.035,"National Health Services Survey, 2008 - NHSS08"
+China,CN,CHN,156,Rural,17,DK/missing information,0.0,"National Health Services Survey, 2008 - NHSS08"
+China,CN,CHN,156,National,1,Flush and pour flush - to piped sewer system,0.334,"National Health Services Survey, 2008 - NHSS08"
+China,CN,CHN,156,National,2,Flush and pour flush - to septic tank,0.049,"National Health Services Survey, 2008 - NHSS08"
+China,CN,CHN,156,National,3,Flush and pour flush - to pit,0.01,"National Health Services Survey, 2008 - NHSS08"
+China,CN,CHN,156,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"National Health Services Survey, 2008 - NHSS08"
+China,CN,CHN,156,National,5,Flush and pour flush - to elsewhere,0.0,"National Health Services Survey, 2008 - NHSS08"
+China,CN,CHN,156,National,6,Dry latrines - Ventilated Improved Pit latrine,0.004,"National Health Services Survey, 2008 - NHSS08"
+China,CN,CHN,156,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.139,"National Health Services Survey, 2008 - NHSS08"
+China,CN,CHN,156,National,8,Dry latrines - Traditional latrine,0.358,"National Health Services Survey, 2008 - NHSS08"
+China,CN,CHN,156,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,"National Health Services Survey, 2008 - NHSS08"
+China,CN,CHN,156,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"National Health Services Survey, 2008 - NHSS08"
+China,CN,CHN,156,National,11,Dry latrines - Bucket latrine,0.013,"National Health Services Survey, 2008 - NHSS08"
+China,CN,CHN,156,National,12,Dry latrines - Other,0.0,"National Health Services Survey, 2008 - NHSS08"
+China,CN,CHN,156,National,13,Composting toilets,0.026,"National Health Services Survey, 2008 - NHSS08"
+China,CN,CHN,156,National,14,Other improved,0.022,"National Health Services Survey, 2008 - NHSS08"
+China,CN,CHN,156,National,15,"No facility, bush, field",0.015,"National Health Services Survey, 2008 - NHSS08"
+China,CN,CHN,156,National,16,Other unimproved,0.03,"National Health Services Survey, 2008 - NHSS08"
+China,CN,CHN,156,National,17,DK/missing information,0.0,"National Health Services Survey, 2008 - NHSS08"
+China,CN,CHN,156,Urban,1,Flush and pour flush - to piped sewer system,0.0,Census 2010 - CEN10
+China,CN,CHN,156,Urban,2,Flush and pour flush - to septic tank,0.0,Census 2010 - CEN10
+China,CN,CHN,156,Urban,3,Flush and pour flush - to pit,0.0,Census 2010 - CEN10
+China,CN,CHN,156,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census 2010 - CEN10
+China,CN,CHN,156,Urban,5,Flush and pour flush - to elsewhere,0.0,Census 2010 - CEN10
+China,CN,CHN,156,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census 2010 - CEN10
+China,CN,CHN,156,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census 2010 - CEN10
+China,CN,CHN,156,Urban,8,Dry latrines - Traditional latrine,0.0,Census 2010 - CEN10
+China,CN,CHN,156,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census 2010 - CEN10
+China,CN,CHN,156,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census 2010 - CEN10
+China,CN,CHN,156,Urban,11,Dry latrines - Bucket latrine,0.0,Census 2010 - CEN10
+China,CN,CHN,156,Urban,12,Dry latrines - Other,0.0,Census 2010 - CEN10
+China,CN,CHN,156,Urban,13,Composting toilets,0.0,Census 2010 - CEN10
+China,CN,CHN,156,Urban,14,Other improved,0.0,Census 2010 - CEN10
+China,CN,CHN,156,Urban,15,"No facility, bush, field",0.0,Census 2010 - CEN10
+China,CN,CHN,156,Urban,16,Other unimproved,0.156,Census 2010 - CEN10
+China,CN,CHN,156,Urban,17,DK/missing information,0.0,Census 2010 - CEN10
+China,CN,CHN,156,Rural,1,Flush and pour flush - to piped sewer system,0.0,Census 2010 - CEN10
+China,CN,CHN,156,Rural,2,Flush and pour flush - to septic tank,0.0,Census 2010 - CEN10
+China,CN,CHN,156,Rural,3,Flush and pour flush - to pit,0.0,Census 2010 - CEN10
+China,CN,CHN,156,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census 2010 - CEN10
+China,CN,CHN,156,Rural,5,Flush and pour flush - to elsewhere,0.0,Census 2010 - CEN10
+China,CN,CHN,156,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census 2010 - CEN10
+China,CN,CHN,156,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census 2010 - CEN10
+China,CN,CHN,156,Rural,8,Dry latrines - Traditional latrine,0.0,Census 2010 - CEN10
+China,CN,CHN,156,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census 2010 - CEN10
+China,CN,CHN,156,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census 2010 - CEN10
+China,CN,CHN,156,Rural,11,Dry latrines - Bucket latrine,0.0,Census 2010 - CEN10
+China,CN,CHN,156,Rural,12,Dry latrines - Other,0.0,Census 2010 - CEN10
+China,CN,CHN,156,Rural,13,Composting toilets,0.0,Census 2010 - CEN10
+China,CN,CHN,156,Rural,14,Other improved,0.0,Census 2010 - CEN10
+China,CN,CHN,156,Rural,15,"No facility, bush, field",0.0,Census 2010 - CEN10
+China,CN,CHN,156,Rural,16,Other unimproved,0.398,Census 2010 - CEN10
+China,CN,CHN,156,Rural,17,DK/missing information,0.0,Census 2010 - CEN10
+China,CN,CHN,156,National,1,Flush and pour flush - to piped sewer system,0.0,Census 2010 - CEN10
+China,CN,CHN,156,National,2,Flush and pour flush - to septic tank,0.0,Census 2010 - CEN10
+China,CN,CHN,156,National,3,Flush and pour flush - to pit,0.0,Census 2010 - CEN10
+China,CN,CHN,156,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census 2010 - CEN10
+China,CN,CHN,156,National,5,Flush and pour flush - to elsewhere,0.0,Census 2010 - CEN10
+China,CN,CHN,156,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census 2010 - CEN10
+China,CN,CHN,156,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census 2010 - CEN10
+China,CN,CHN,156,National,8,Dry latrines - Traditional latrine,0.0,Census 2010 - CEN10
+China,CN,CHN,156,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census 2010 - CEN10
+China,CN,CHN,156,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census 2010 - CEN10
+China,CN,CHN,156,National,11,Dry latrines - Bucket latrine,0.0,Census 2010 - CEN10
+China,CN,CHN,156,National,12,Dry latrines - Other,0.0,Census 2010 - CEN10
+China,CN,CHN,156,National,13,Composting toilets,0.0,Census 2010 - CEN10
+China,CN,CHN,156,National,14,Other improved,0.0,Census 2010 - CEN10
+China,CN,CHN,156,National,15,"No facility, bush, field",0.0,Census 2010 - CEN10
+China,CN,CHN,156,National,16,Other unimproved,0.275,Census 2010 - CEN10
+China,CN,CHN,156,National,17,DK/missing information,0.0,Census 2010 - CEN10
+China,CN,CHN,156,Urban,1,Flush and pour flush - to piped sewer system,0.793,National Health Survices Survey - NHSS13
+China,CN,CHN,156,Urban,2,Flush and pour flush - to septic tank,0.033,National Health Survices Survey - NHSS13
+China,CN,CHN,156,Urban,3,Flush and pour flush - to pit,0.001,National Health Survices Survey - NHSS13
+China,CN,CHN,156,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Health Survices Survey - NHSS13
+China,CN,CHN,156,Urban,5,Flush and pour flush - to elsewhere,0.0,National Health Survices Survey - NHSS13
+China,CN,CHN,156,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.004,National Health Survices Survey - NHSS13
+China,CN,CHN,156,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.06,National Health Survices Survey - NHSS13
+China,CN,CHN,156,Urban,8,Dry latrines - Traditional latrine,0.0,National Health Survices Survey - NHSS13
+China,CN,CHN,156,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.078,National Health Survices Survey - NHSS13
+China,CN,CHN,156,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Health Survices Survey - NHSS13
+China,CN,CHN,156,Urban,11,Dry latrines - Bucket latrine,0.004,National Health Survices Survey - NHSS13
+China,CN,CHN,156,Urban,12,Dry latrines - Other,0.0,National Health Survices Survey - NHSS13
+China,CN,CHN,156,Urban,13,Composting toilets,0.007,National Health Survices Survey - NHSS13
+China,CN,CHN,156,Urban,14,Other improved,0.014,National Health Survices Survey - NHSS13
+China,CN,CHN,156,Urban,15,"No facility, bush, field",0.001,National Health Survices Survey - NHSS13
+China,CN,CHN,156,Urban,16,Other unimproved,0.007,National Health Survices Survey - NHSS13
+China,CN,CHN,156,Urban,17,DK/missing information,0.0,National Health Survices Survey - NHSS13
+China,CN,CHN,156,Rural,1,Flush and pour flush - to piped sewer system,0.289,National Health Survices Survey - NHSS13
+China,CN,CHN,156,Rural,2,Flush and pour flush - to septic tank,0.065,National Health Survices Survey - NHSS13
+China,CN,CHN,156,Rural,3,Flush and pour flush - to pit,0.011,National Health Survices Survey - NHSS13
+China,CN,CHN,156,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Health Survices Survey - NHSS13
+China,CN,CHN,156,Rural,5,Flush and pour flush - to elsewhere,0.0,National Health Survices Survey - NHSS13
+China,CN,CHN,156,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.01,National Health Survices Survey - NHSS13
+China,CN,CHN,156,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.211,National Health Survices Survey - NHSS13
+China,CN,CHN,156,Rural,8,Dry latrines - Traditional latrine,0.0,National Health Survices Survey - NHSS13
+China,CN,CHN,156,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.323,National Health Survices Survey - NHSS13
+China,CN,CHN,156,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Health Survices Survey - NHSS13
+China,CN,CHN,156,Rural,11,Dry latrines - Bucket latrine,0.009,National Health Survices Survey - NHSS13
+China,CN,CHN,156,Rural,12,Dry latrines - Other,0.0,National Health Survices Survey - NHSS13
+China,CN,CHN,156,Rural,13,Composting toilets,0.04,National Health Survices Survey - NHSS13
+China,CN,CHN,156,Rural,14,Other improved,0.028,National Health Survices Survey - NHSS13
+China,CN,CHN,156,Rural,15,"No facility, bush, field",0.009,National Health Survices Survey - NHSS13
+China,CN,CHN,156,Rural,16,Other unimproved,0.006,National Health Survices Survey - NHSS13
+China,CN,CHN,156,Rural,17,DK/missing information,0.0,National Health Survices Survey - NHSS13
+China,CN,CHN,156,National,1,Flush and pour flush - to piped sewer system,0.541,National Health Survices Survey - NHSS13
+China,CN,CHN,156,National,2,Flush and pour flush - to septic tank,0.049,National Health Survices Survey - NHSS13
+China,CN,CHN,156,National,3,Flush and pour flush - to pit,0.006,National Health Survices Survey - NHSS13
+China,CN,CHN,156,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Health Survices Survey - NHSS13
+China,CN,CHN,156,National,5,Flush and pour flush - to elsewhere,0.0,National Health Survices Survey - NHSS13
+China,CN,CHN,156,National,6,Dry latrines - Ventilated Improved Pit latrine,0.007,National Health Survices Survey - NHSS13
+China,CN,CHN,156,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.135,National Health Survices Survey - NHSS13
+China,CN,CHN,156,National,8,Dry latrines - Traditional latrine,0.0,National Health Survices Survey - NHSS13
+China,CN,CHN,156,National,9,Dry latrines - Pit latrine without slab/open pit,0.201,National Health Survices Survey - NHSS13
+China,CN,CHN,156,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Health Survices Survey - NHSS13
+China,CN,CHN,156,National,11,Dry latrines - Bucket latrine,0.006,National Health Survices Survey - NHSS13
+China,CN,CHN,156,National,12,Dry latrines - Other,0.0,National Health Survices Survey - NHSS13
+China,CN,CHN,156,National,13,Composting toilets,0.024,National Health Survices Survey - NHSS13
+China,CN,CHN,156,National,14,Other improved,0.021,National Health Survices Survey - NHSS13
+China,CN,CHN,156,National,15,"No facility, bush, field",0.005,National Health Survices Survey - NHSS13
+China,CN,CHN,156,National,16,Other unimproved,0.006,National Health Survices Survey - NHSS13
+China,CN,CHN,156,National,17,DK/missing information,0.0,National Health Survices Survey - NHSS13
+China,CN,CHN,156,Urban,1,Flush and pour flush - to piped sewer system,0.0,National Rural-Urban Integrated Household Survey - NIRU13
+China,CN,CHN,156,Urban,2,Flush and pour flush - to septic tank,0.0,National Rural-Urban Integrated Household Survey - NIRU13
+China,CN,CHN,156,Urban,3,Flush and pour flush - to pit,0.0,National Rural-Urban Integrated Household Survey - NIRU13
+China,CN,CHN,156,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Rural-Urban Integrated Household Survey - NIRU13
+China,CN,CHN,156,Urban,5,Flush and pour flush - to elsewhere,0.0,National Rural-Urban Integrated Household Survey - NIRU13
+China,CN,CHN,156,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,National Rural-Urban Integrated Household Survey - NIRU13
+China,CN,CHN,156,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Rural-Urban Integrated Household Survey - NIRU13
+China,CN,CHN,156,Urban,8,Dry latrines - Traditional latrine,0.0,National Rural-Urban Integrated Household Survey - NIRU13
+China,CN,CHN,156,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Rural-Urban Integrated Household Survey - NIRU13
+China,CN,CHN,156,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Rural-Urban Integrated Household Survey - NIRU13
+China,CN,CHN,156,Urban,11,Dry latrines - Bucket latrine,0.0,National Rural-Urban Integrated Household Survey - NIRU13
+China,CN,CHN,156,Urban,12,Dry latrines - Other,0.0,National Rural-Urban Integrated Household Survey - NIRU13
+China,CN,CHN,156,Urban,13,Composting toilets,0.0,National Rural-Urban Integrated Household Survey - NIRU13
+China,CN,CHN,156,Urban,14,Other improved,0.0,National Rural-Urban Integrated Household Survey - NIRU13
+China,CN,CHN,156,Urban,15,"No facility, bush, field",0.001,National Rural-Urban Integrated Household Survey - NIRU13
+China,CN,CHN,156,Urban,16,Other unimproved,0.0,National Rural-Urban Integrated Household Survey - NIRU13
+China,CN,CHN,156,Urban,17,DK/missing information,0.0,National Rural-Urban Integrated Household Survey - NIRU13
+China,CN,CHN,156,Rural,1,Flush and pour flush - to piped sewer system,0.0,National Rural-Urban Integrated Household Survey - NIRU13
+China,CN,CHN,156,Rural,2,Flush and pour flush - to septic tank,0.0,National Rural-Urban Integrated Household Survey - NIRU13
+China,CN,CHN,156,Rural,3,Flush and pour flush - to pit,0.0,National Rural-Urban Integrated Household Survey - NIRU13
+China,CN,CHN,156,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Rural-Urban Integrated Household Survey - NIRU13
+China,CN,CHN,156,Rural,5,Flush and pour flush - to elsewhere,0.0,National Rural-Urban Integrated Household Survey - NIRU13
+China,CN,CHN,156,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,National Rural-Urban Integrated Household Survey - NIRU13
+China,CN,CHN,156,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Rural-Urban Integrated Household Survey - NIRU13
+China,CN,CHN,156,Rural,8,Dry latrines - Traditional latrine,0.0,National Rural-Urban Integrated Household Survey - NIRU13
+China,CN,CHN,156,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Rural-Urban Integrated Household Survey - NIRU13
+China,CN,CHN,156,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Rural-Urban Integrated Household Survey - NIRU13
+China,CN,CHN,156,Rural,11,Dry latrines - Bucket latrine,0.0,National Rural-Urban Integrated Household Survey - NIRU13
+China,CN,CHN,156,Rural,12,Dry latrines - Other,0.0,National Rural-Urban Integrated Household Survey - NIRU13
+China,CN,CHN,156,Rural,13,Composting toilets,0.0,National Rural-Urban Integrated Household Survey - NIRU13
+China,CN,CHN,156,Rural,14,Other improved,0.0,National Rural-Urban Integrated Household Survey - NIRU13
+China,CN,CHN,156,Rural,15,"No facility, bush, field",0.008,National Rural-Urban Integrated Household Survey - NIRU13
+China,CN,CHN,156,Rural,16,Other unimproved,0.0,National Rural-Urban Integrated Household Survey - NIRU13
+China,CN,CHN,156,Rural,17,DK/missing information,0.0,National Rural-Urban Integrated Household Survey - NIRU13
+China,CN,CHN,156,National,1,Flush and pour flush - to piped sewer system,0.0,National Rural-Urban Integrated Household Survey - NIRU13
+China,CN,CHN,156,National,2,Flush and pour flush - to septic tank,0.0,National Rural-Urban Integrated Household Survey - NIRU13
+China,CN,CHN,156,National,3,Flush and pour flush - to pit,0.0,National Rural-Urban Integrated Household Survey - NIRU13
+China,CN,CHN,156,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Rural-Urban Integrated Household Survey - NIRU13
+China,CN,CHN,156,National,5,Flush and pour flush - to elsewhere,0.0,National Rural-Urban Integrated Household Survey - NIRU13
+China,CN,CHN,156,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,National Rural-Urban Integrated Household Survey - NIRU13
+China,CN,CHN,156,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Rural-Urban Integrated Household Survey - NIRU13
+China,CN,CHN,156,National,8,Dry latrines - Traditional latrine,0.0,National Rural-Urban Integrated Household Survey - NIRU13
+China,CN,CHN,156,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Rural-Urban Integrated Household Survey - NIRU13
+China,CN,CHN,156,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Rural-Urban Integrated Household Survey - NIRU13
+China,CN,CHN,156,National,11,Dry latrines - Bucket latrine,0.0,National Rural-Urban Integrated Household Survey - NIRU13
+China,CN,CHN,156,National,12,Dry latrines - Other,0.0,National Rural-Urban Integrated Household Survey - NIRU13
+China,CN,CHN,156,National,13,Composting toilets,0.0,National Rural-Urban Integrated Household Survey - NIRU13
+China,CN,CHN,156,National,14,Other improved,0.0,National Rural-Urban Integrated Household Survey - NIRU13
+China,CN,CHN,156,National,15,"No facility, bush, field",0.004,National Rural-Urban Integrated Household Survey - NIRU13
+China,CN,CHN,156,National,16,Other unimproved,0.0,National Rural-Urban Integrated Household Survey - NIRU13
+China,CN,CHN,156,National,17,DK/missing information,0.0,National Rural-Urban Integrated Household Survey - NIRU13
+China,CN,CHN,156,Urban,1,Flush and pour flush - to piped sewer system,0.0,National Rural-Urban Integrated Household Survey - NIRU16
+China,CN,CHN,156,Urban,2,Flush and pour flush - to septic tank,0.0,National Rural-Urban Integrated Household Survey - NIRU16
+China,CN,CHN,156,Urban,3,Flush and pour flush - to pit,0.0,National Rural-Urban Integrated Household Survey - NIRU16
+China,CN,CHN,156,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Rural-Urban Integrated Household Survey - NIRU16
+China,CN,CHN,156,Urban,5,Flush and pour flush - to elsewhere,0.0,National Rural-Urban Integrated Household Survey - NIRU16
+China,CN,CHN,156,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,National Rural-Urban Integrated Household Survey - NIRU16
+China,CN,CHN,156,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Rural-Urban Integrated Household Survey - NIRU16
+China,CN,CHN,156,Urban,8,Dry latrines - Traditional latrine,0.0,National Rural-Urban Integrated Household Survey - NIRU16
+China,CN,CHN,156,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Rural-Urban Integrated Household Survey - NIRU16
+China,CN,CHN,156,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Rural-Urban Integrated Household Survey - NIRU16
+China,CN,CHN,156,Urban,11,Dry latrines - Bucket latrine,0.0,National Rural-Urban Integrated Household Survey - NIRU16
+China,CN,CHN,156,Urban,12,Dry latrines - Other,0.0,National Rural-Urban Integrated Household Survey - NIRU16
+China,CN,CHN,156,Urban,13,Composting toilets,0.0,National Rural-Urban Integrated Household Survey - NIRU16
+China,CN,CHN,156,Urban,14,Other improved,0.0,National Rural-Urban Integrated Household Survey - NIRU16
+China,CN,CHN,156,Urban,15,"No facility, bush, field",0.001,National Rural-Urban Integrated Household Survey - NIRU16
+China,CN,CHN,156,Urban,16,Other unimproved,0.0,National Rural-Urban Integrated Household Survey - NIRU16
+China,CN,CHN,156,Urban,17,DK/missing information,0.0,National Rural-Urban Integrated Household Survey - NIRU16
+China,CN,CHN,156,Rural,1,Flush and pour flush - to piped sewer system,0.0,National Rural-Urban Integrated Household Survey - NIRU16
+China,CN,CHN,156,Rural,2,Flush and pour flush - to septic tank,0.0,National Rural-Urban Integrated Household Survey - NIRU16
+China,CN,CHN,156,Rural,3,Flush and pour flush - to pit,0.0,National Rural-Urban Integrated Household Survey - NIRU16
+China,CN,CHN,156,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Rural-Urban Integrated Household Survey - NIRU16
+China,CN,CHN,156,Rural,5,Flush and pour flush - to elsewhere,0.0,National Rural-Urban Integrated Household Survey - NIRU16
+China,CN,CHN,156,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,National Rural-Urban Integrated Household Survey - NIRU16
+China,CN,CHN,156,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Rural-Urban Integrated Household Survey - NIRU16
+China,CN,CHN,156,Rural,8,Dry latrines - Traditional latrine,0.0,National Rural-Urban Integrated Household Survey - NIRU16
+China,CN,CHN,156,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Rural-Urban Integrated Household Survey - NIRU16
+China,CN,CHN,156,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Rural-Urban Integrated Household Survey - NIRU16
+China,CN,CHN,156,Rural,11,Dry latrines - Bucket latrine,0.0,National Rural-Urban Integrated Household Survey - NIRU16
+China,CN,CHN,156,Rural,12,Dry latrines - Other,0.0,National Rural-Urban Integrated Household Survey - NIRU16
+China,CN,CHN,156,Rural,13,Composting toilets,0.0,National Rural-Urban Integrated Household Survey - NIRU16
+China,CN,CHN,156,Rural,14,Other improved,0.0,National Rural-Urban Integrated Household Survey - NIRU16
+China,CN,CHN,156,Rural,15,"No facility, bush, field",0.004,National Rural-Urban Integrated Household Survey - NIRU16
+China,CN,CHN,156,Rural,16,Other unimproved,0.0,National Rural-Urban Integrated Household Survey - NIRU16
+China,CN,CHN,156,Rural,17,DK/missing information,0.0,National Rural-Urban Integrated Household Survey - NIRU16
+China,CN,CHN,156,National,1,Flush and pour flush - to piped sewer system,0.0,National Rural-Urban Integrated Household Survey - NIRU16
+China,CN,CHN,156,National,2,Flush and pour flush - to septic tank,0.0,National Rural-Urban Integrated Household Survey - NIRU16
+China,CN,CHN,156,National,3,Flush and pour flush - to pit,0.0,National Rural-Urban Integrated Household Survey - NIRU16
+China,CN,CHN,156,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Rural-Urban Integrated Household Survey - NIRU16
+China,CN,CHN,156,National,5,Flush and pour flush - to elsewhere,0.0,National Rural-Urban Integrated Household Survey - NIRU16
+China,CN,CHN,156,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,National Rural-Urban Integrated Household Survey - NIRU16
+China,CN,CHN,156,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Rural-Urban Integrated Household Survey - NIRU16
+China,CN,CHN,156,National,8,Dry latrines - Traditional latrine,0.0,National Rural-Urban Integrated Household Survey - NIRU16
+China,CN,CHN,156,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Rural-Urban Integrated Household Survey - NIRU16
+China,CN,CHN,156,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Rural-Urban Integrated Household Survey - NIRU16
+China,CN,CHN,156,National,11,Dry latrines - Bucket latrine,0.0,National Rural-Urban Integrated Household Survey - NIRU16
+China,CN,CHN,156,National,12,Dry latrines - Other,0.0,National Rural-Urban Integrated Household Survey - NIRU16
+China,CN,CHN,156,National,13,Composting toilets,0.0,National Rural-Urban Integrated Household Survey - NIRU16
+China,CN,CHN,156,National,14,Other improved,0.0,National Rural-Urban Integrated Household Survey - NIRU16
+China,CN,CHN,156,National,15,"No facility, bush, field",0.002,National Rural-Urban Integrated Household Survey - NIRU16
+China,CN,CHN,156,National,16,Other unimproved,0.0,National Rural-Urban Integrated Household Survey - NIRU16
+China,CN,CHN,156,National,17,DK/missing information,0.0,National Rural-Urban Integrated Household Survey - NIRU16
+China,CN,CHN,156,Urban,1,Flush and pour flush - to piped sewer system,0.0,Agricultural Census - AC06
+China,CN,CHN,156,Urban,2,Flush and pour flush - to septic tank,0.0,Agricultural Census - AC06
+China,CN,CHN,156,Urban,3,Flush and pour flush - to pit,0.0,Agricultural Census - AC06
+China,CN,CHN,156,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Agricultural Census - AC06
+China,CN,CHN,156,Urban,5,Flush and pour flush - to elsewhere,0.0,Agricultural Census - AC06
+China,CN,CHN,156,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Agricultural Census - AC06
+China,CN,CHN,156,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Agricultural Census - AC06
+China,CN,CHN,156,Urban,8,Dry latrines - Traditional latrine,0.0,Agricultural Census - AC06
+China,CN,CHN,156,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Agricultural Census - AC06
+China,CN,CHN,156,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Agricultural Census - AC06
+China,CN,CHN,156,Urban,11,Dry latrines - Bucket latrine,0.0,Agricultural Census - AC06
+China,CN,CHN,156,Urban,12,Dry latrines - Other,0.0,Agricultural Census - AC06
+China,CN,CHN,156,Urban,13,Composting toilets,0.0,Agricultural Census - AC06
+China,CN,CHN,156,Urban,14,Other improved,0.0,Agricultural Census - AC06
+China,CN,CHN,156,Urban,15,"No facility, bush, field",0.0,Agricultural Census - AC06
+China,CN,CHN,156,Urban,16,Other unimproved,0.0,Agricultural Census - AC06
+China,CN,CHN,156,Urban,17,DK/missing information,0.0,Agricultural Census - AC06
+China,CN,CHN,156,Rural,1,Flush and pour flush - to piped sewer system,0.128,Agricultural Census - AC06
+China,CN,CHN,156,Rural,2,Flush and pour flush - to septic tank,0.0,Agricultural Census - AC06
+China,CN,CHN,156,Rural,3,Flush and pour flush - to pit,0.0,Agricultural Census - AC06
+China,CN,CHN,156,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Agricultural Census - AC06
+China,CN,CHN,156,Rural,5,Flush and pour flush - to elsewhere,0.0,Agricultural Census - AC06
+China,CN,CHN,156,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Agricultural Census - AC06
+China,CN,CHN,156,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Agricultural Census - AC06
+China,CN,CHN,156,Rural,8,Dry latrines - Traditional latrine,0.443,Agricultural Census - AC06
+China,CN,CHN,156,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Agricultural Census - AC06
+China,CN,CHN,156,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Agricultural Census - AC06
+China,CN,CHN,156,Rural,11,Dry latrines - Bucket latrine,0.0,Agricultural Census - AC06
+China,CN,CHN,156,Rural,12,Dry latrines - Other,0.0,Agricultural Census - AC06
+China,CN,CHN,156,Rural,13,Composting toilets,0.0,Agricultural Census - AC06
+China,CN,CHN,156,Rural,14,Other improved,0.0,Agricultural Census - AC06
+China,CN,CHN,156,Rural,15,"No facility, bush, field",0.0,Agricultural Census - AC06
+China,CN,CHN,156,Rural,16,Other unimproved,0.429,Agricultural Census - AC06
+China,CN,CHN,156,Rural,17,DK/missing information,0.0,Agricultural Census - AC06
+China,CN,CHN,156,National,1,Flush and pour flush - to piped sewer system,0.0,Agricultural Census - AC06
+China,CN,CHN,156,National,2,Flush and pour flush - to septic tank,0.0,Agricultural Census - AC06
+China,CN,CHN,156,National,3,Flush and pour flush - to pit,0.0,Agricultural Census - AC06
+China,CN,CHN,156,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Agricultural Census - AC06
+China,CN,CHN,156,National,5,Flush and pour flush - to elsewhere,0.0,Agricultural Census - AC06
+China,CN,CHN,156,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Agricultural Census - AC06
+China,CN,CHN,156,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Agricultural Census - AC06
+China,CN,CHN,156,National,8,Dry latrines - Traditional latrine,0.0,Agricultural Census - AC06
+China,CN,CHN,156,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Agricultural Census - AC06
+China,CN,CHN,156,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Agricultural Census - AC06
+China,CN,CHN,156,National,11,Dry latrines - Bucket latrine,0.0,Agricultural Census - AC06
+China,CN,CHN,156,National,12,Dry latrines - Other,0.0,Agricultural Census - AC06
+China,CN,CHN,156,National,13,Composting toilets,0.0,Agricultural Census - AC06
+China,CN,CHN,156,National,14,Other improved,0.0,Agricultural Census - AC06
+China,CN,CHN,156,National,15,"No facility, bush, field",0.0,Agricultural Census - AC06
+China,CN,CHN,156,National,16,Other unimproved,0.0,Agricultural Census - AC06
+China,CN,CHN,156,National,17,DK/missing information,0.0,Agricultural Census - AC06
+China,CN,CHN,156,Urban,1,Flush and pour flush - to piped sewer system,0.0,China agricultral census 2016 - CAC16
+China,CN,CHN,156,Urban,2,Flush and pour flush - to septic tank,0.0,China agricultral census 2016 - CAC16
+China,CN,CHN,156,Urban,3,Flush and pour flush - to pit,0.0,China agricultral census 2016 - CAC16
+China,CN,CHN,156,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,China agricultral census 2016 - CAC16
+China,CN,CHN,156,Urban,5,Flush and pour flush - to elsewhere,0.0,China agricultral census 2016 - CAC16
+China,CN,CHN,156,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,China agricultral census 2016 - CAC16
+China,CN,CHN,156,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,China agricultral census 2016 - CAC16
+China,CN,CHN,156,Urban,8,Dry latrines - Traditional latrine,0.0,China agricultral census 2016 - CAC16
+China,CN,CHN,156,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,China agricultral census 2016 - CAC16
+China,CN,CHN,156,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,China agricultral census 2016 - CAC16
+China,CN,CHN,156,Urban,11,Dry latrines - Bucket latrine,0.0,China agricultral census 2016 - CAC16
+China,CN,CHN,156,Urban,12,Dry latrines - Other,0.0,China agricultral census 2016 - CAC16
+China,CN,CHN,156,Urban,13,Composting toilets,0.0,China agricultral census 2016 - CAC16
+China,CN,CHN,156,Urban,14,Other improved,0.0,China agricultral census 2016 - CAC16
+China,CN,CHN,156,Urban,15,"No facility, bush, field",0.0,China agricultral census 2016 - CAC16
+China,CN,CHN,156,Urban,16,Other unimproved,0.0,China agricultral census 2016 - CAC16
+China,CN,CHN,156,Urban,17,DK/missing information,0.0,China agricultral census 2016 - CAC16
+China,CN,CHN,156,Rural,1,Flush and pour flush - to piped sewer system,0.362,China agricultral census 2016 - CAC16
+China,CN,CHN,156,Rural,2,Flush and pour flush - to septic tank,0.0,China agricultral census 2016 - CAC16
+China,CN,CHN,156,Rural,3,Flush and pour flush - to pit,0.0,China agricultral census 2016 - CAC16
+China,CN,CHN,156,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,China agricultral census 2016 - CAC16
+China,CN,CHN,156,Rural,5,Flush and pour flush - to elsewhere,0.031,China agricultral census 2016 - CAC16
+China,CN,CHN,156,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,China agricultral census 2016 - CAC16
+China,CN,CHN,156,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.124,China agricultral census 2016 - CAC16
+China,CN,CHN,156,Rural,8,Dry latrines - Traditional latrine,0.0,China agricultral census 2016 - CAC16
+China,CN,CHN,156,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,China agricultral census 2016 - CAC16
+China,CN,CHN,156,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,China agricultral census 2016 - CAC16
+China,CN,CHN,156,Rural,11,Dry latrines - Bucket latrine,0.0,China agricultral census 2016 - CAC16
+China,CN,CHN,156,Rural,12,Dry latrines - Other,0.0,China agricultral census 2016 - CAC16
+China,CN,CHN,156,Rural,13,Composting toilets,0.0,China agricultral census 2016 - CAC16
+China,CN,CHN,156,Rural,14,Other improved,0.0,China agricultral census 2016 - CAC16
+China,CN,CHN,156,Rural,15,"No facility, bush, field",0.02,China agricultral census 2016 - CAC16
+China,CN,CHN,156,Rural,16,Other unimproved,0.462,China agricultral census 2016 - CAC16
+China,CN,CHN,156,Rural,17,DK/missing information,0.0,China agricultral census 2016 - CAC16
+China,CN,CHN,156,National,1,Flush and pour flush - to piped sewer system,0.0,China agricultral census 2016 - CAC16
+China,CN,CHN,156,National,2,Flush and pour flush - to septic tank,0.0,China agricultral census 2016 - CAC16
+China,CN,CHN,156,National,3,Flush and pour flush - to pit,0.0,China agricultral census 2016 - CAC16
+China,CN,CHN,156,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,China agricultral census 2016 - CAC16
+China,CN,CHN,156,National,5,Flush and pour flush - to elsewhere,0.0,China agricultral census 2016 - CAC16
+China,CN,CHN,156,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,China agricultral census 2016 - CAC16
+China,CN,CHN,156,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,China agricultral census 2016 - CAC16
+China,CN,CHN,156,National,8,Dry latrines - Traditional latrine,0.0,China agricultral census 2016 - CAC16
+China,CN,CHN,156,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,China agricultral census 2016 - CAC16
+China,CN,CHN,156,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,China agricultral census 2016 - CAC16
+China,CN,CHN,156,National,11,Dry latrines - Bucket latrine,0.0,China agricultral census 2016 - CAC16
+China,CN,CHN,156,National,12,Dry latrines - Other,0.0,China agricultral census 2016 - CAC16
+China,CN,CHN,156,National,13,Composting toilets,0.0,China agricultral census 2016 - CAC16
+China,CN,CHN,156,National,14,Other improved,0.0,China agricultral census 2016 - CAC16
+China,CN,CHN,156,National,15,"No facility, bush, field",0.0,China agricultral census 2016 - CAC16
+China,CN,CHN,156,National,16,Other unimproved,0.0,China agricultral census 2016 - CAC16
+China,CN,CHN,156,National,17,DK/missing information,0.0,China agricultral census 2016 - CAC16

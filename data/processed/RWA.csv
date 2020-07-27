@@ -1,4 +1,157 @@
 country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+Rwanda,RW,RWA,646,Urban,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS00
+Rwanda,RW,RWA,646,Urban,2,Flush and pour flush - to septic tank,0.0,Demographic and Health Survey - DHS00
+Rwanda,RW,RWA,646,Urban,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS00
+Rwanda,RW,RWA,646,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS00
+Rwanda,RW,RWA,646,Urban,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS00
+Rwanda,RW,RWA,646,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - DHS00
+Rwanda,RW,RWA,646,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS00
+Rwanda,RW,RWA,646,Urban,8,Dry latrines - Traditional latrine,0.915,Demographic and Health Survey - DHS00
+Rwanda,RW,RWA,646,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Survey - DHS00
+Rwanda,RW,RWA,646,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS00
+Rwanda,RW,RWA,646,Urban,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS00
+Rwanda,RW,RWA,646,Urban,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS00
+Rwanda,RW,RWA,646,Urban,13,Composting toilets,0.0,Demographic and Health Survey - DHS00
+Rwanda,RW,RWA,646,Urban,14,Other improved,0.0,Demographic and Health Survey - DHS00
+Rwanda,RW,RWA,646,Urban,15,"No facility, bush, field",0.015,Demographic and Health Survey - DHS00
+Rwanda,RW,RWA,646,Urban,16,Other unimproved,0.0,Demographic and Health Survey - DHS00
+Rwanda,RW,RWA,646,Urban,17,DK/missing information,0.0,Demographic and Health Survey - DHS00
+Rwanda,RW,RWA,646,Rural,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS00
+Rwanda,RW,RWA,646,Rural,2,Flush and pour flush - to septic tank,0.0,Demographic and Health Survey - DHS00
+Rwanda,RW,RWA,646,Rural,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS00
+Rwanda,RW,RWA,646,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS00
+Rwanda,RW,RWA,646,Rural,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS00
+Rwanda,RW,RWA,646,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - DHS00
+Rwanda,RW,RWA,646,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS00
+Rwanda,RW,RWA,646,Rural,8,Dry latrines - Traditional latrine,0.951,Demographic and Health Survey - DHS00
+Rwanda,RW,RWA,646,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Survey - DHS00
+Rwanda,RW,RWA,646,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS00
+Rwanda,RW,RWA,646,Rural,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS00
+Rwanda,RW,RWA,646,Rural,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS00
+Rwanda,RW,RWA,646,Rural,13,Composting toilets,0.0,Demographic and Health Survey - DHS00
+Rwanda,RW,RWA,646,Rural,14,Other improved,0.0,Demographic and Health Survey - DHS00
+Rwanda,RW,RWA,646,Rural,15,"No facility, bush, field",0.044,Demographic and Health Survey - DHS00
+Rwanda,RW,RWA,646,Rural,16,Other unimproved,0.0,Demographic and Health Survey - DHS00
+Rwanda,RW,RWA,646,Rural,17,DK/missing information,0.002,Demographic and Health Survey - DHS00
+Rwanda,RW,RWA,646,National,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS00
+Rwanda,RW,RWA,646,National,2,Flush and pour flush - to septic tank,0.0,Demographic and Health Survey - DHS00
+Rwanda,RW,RWA,646,National,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS00
+Rwanda,RW,RWA,646,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS00
+Rwanda,RW,RWA,646,National,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS00
+Rwanda,RW,RWA,646,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - DHS00
+Rwanda,RW,RWA,646,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS00
+Rwanda,RW,RWA,646,National,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS00
+Rwanda,RW,RWA,646,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Survey - DHS00
+Rwanda,RW,RWA,646,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS00
+Rwanda,RW,RWA,646,National,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS00
+Rwanda,RW,RWA,646,National,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS00
+Rwanda,RW,RWA,646,National,13,Composting toilets,0.0,Demographic and Health Survey - DHS00
+Rwanda,RW,RWA,646,National,14,Other improved,0.0,Demographic and Health Survey - DHS00
+Rwanda,RW,RWA,646,National,15,"No facility, bush, field",0.0,Demographic and Health Survey - DHS00
+Rwanda,RW,RWA,646,National,16,Other unimproved,0.0,Demographic and Health Survey - DHS00
+Rwanda,RW,RWA,646,National,17,DK/missing information,0.0,Demographic and Health Survey - DHS00
+Rwanda,RW,RWA,646,Urban,1,Flush and pour flush - to piped sewer system,0.0,Multiple Indicator Cluster Survey - MICS00
+Rwanda,RW,RWA,646,Urban,2,Flush and pour flush - to septic tank,0.0,Multiple Indicator Cluster Survey - MICS00
+Rwanda,RW,RWA,646,Urban,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Rwanda,RW,RWA,646,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS00
+Rwanda,RW,RWA,646,Urban,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS00
+Rwanda,RW,RWA,646,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.085,Multiple Indicator Cluster Survey - MICS00
+Rwanda,RW,RWA,646,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Rwanda,RW,RWA,646,Urban,8,Dry latrines - Traditional latrine,0.717,Multiple Indicator Cluster Survey - MICS00
+Rwanda,RW,RWA,646,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.064,Multiple Indicator Cluster Survey - MICS00
+Rwanda,RW,RWA,646,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Rwanda,RW,RWA,646,Urban,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Rwanda,RW,RWA,646,Urban,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS00
+Rwanda,RW,RWA,646,Urban,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS00
+Rwanda,RW,RWA,646,Urban,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS00
+Rwanda,RW,RWA,646,Urban,15,"No facility, bush, field",0.019,Multiple Indicator Cluster Survey - MICS00
+Rwanda,RW,RWA,646,Urban,16,Other unimproved,0.018,Multiple Indicator Cluster Survey - MICS00
+Rwanda,RW,RWA,646,Urban,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS00
+Rwanda,RW,RWA,646,Rural,1,Flush and pour flush - to piped sewer system,0.0,Multiple Indicator Cluster Survey - MICS00
+Rwanda,RW,RWA,646,Rural,2,Flush and pour flush - to septic tank,0.0,Multiple Indicator Cluster Survey - MICS00
+Rwanda,RW,RWA,646,Rural,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Rwanda,RW,RWA,646,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS00
+Rwanda,RW,RWA,646,Rural,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS00
+Rwanda,RW,RWA,646,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.007,Multiple Indicator Cluster Survey - MICS00
+Rwanda,RW,RWA,646,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Rwanda,RW,RWA,646,Rural,8,Dry latrines - Traditional latrine,0.711,Multiple Indicator Cluster Survey - MICS00
+Rwanda,RW,RWA,646,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.197,Multiple Indicator Cluster Survey - MICS00
+Rwanda,RW,RWA,646,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Rwanda,RW,RWA,646,Rural,11,Dry latrines - Bucket latrine,0.001,Multiple Indicator Cluster Survey - MICS00
+Rwanda,RW,RWA,646,Rural,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS00
+Rwanda,RW,RWA,646,Rural,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS00
+Rwanda,RW,RWA,646,Rural,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS00
+Rwanda,RW,RWA,646,Rural,15,"No facility, bush, field",0.033,Multiple Indicator Cluster Survey - MICS00
+Rwanda,RW,RWA,646,Rural,16,Other unimproved,0.045,Multiple Indicator Cluster Survey - MICS00
+Rwanda,RW,RWA,646,Rural,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS00
+Rwanda,RW,RWA,646,National,1,Flush and pour flush - to piped sewer system,0.0,Multiple Indicator Cluster Survey - MICS00
+Rwanda,RW,RWA,646,National,2,Flush and pour flush - to septic tank,0.0,Multiple Indicator Cluster Survey - MICS00
+Rwanda,RW,RWA,646,National,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Rwanda,RW,RWA,646,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS00
+Rwanda,RW,RWA,646,National,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS00
+Rwanda,RW,RWA,646,National,6,Dry latrines - Ventilated Improved Pit latrine,0.018,Multiple Indicator Cluster Survey - MICS00
+Rwanda,RW,RWA,646,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Rwanda,RW,RWA,646,National,8,Dry latrines - Traditional latrine,0.712,Multiple Indicator Cluster Survey - MICS00
+Rwanda,RW,RWA,646,National,9,Dry latrines - Pit latrine without slab/open pit,0.177,Multiple Indicator Cluster Survey - MICS00
+Rwanda,RW,RWA,646,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Rwanda,RW,RWA,646,National,11,Dry latrines - Bucket latrine,0.001,Multiple Indicator Cluster Survey - MICS00
+Rwanda,RW,RWA,646,National,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS00
+Rwanda,RW,RWA,646,National,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS00
+Rwanda,RW,RWA,646,National,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS00
+Rwanda,RW,RWA,646,National,15,"No facility, bush, field",0.031,Multiple Indicator Cluster Survey - MICS00
+Rwanda,RW,RWA,646,National,16,Other unimproved,0.041,Multiple Indicator Cluster Survey - MICS00
+Rwanda,RW,RWA,646,National,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS00
+Rwanda,RW,RWA,646,Urban,1,Flush and pour flush - to piped sewer system,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV00
+Rwanda,RW,RWA,646,Urban,2,Flush and pour flush - to septic tank,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV00
+Rwanda,RW,RWA,646,Urban,3,Flush and pour flush - to pit,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV00
+Rwanda,RW,RWA,646,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV00
+Rwanda,RW,RWA,646,Urban,5,Flush and pour flush - to elsewhere,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV00
+Rwanda,RW,RWA,646,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV00
+Rwanda,RW,RWA,646,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.799,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV00
+Rwanda,RW,RWA,646,Urban,8,Dry latrines - Traditional latrine,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV00
+Rwanda,RW,RWA,646,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.096,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV00
+Rwanda,RW,RWA,646,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV00
+Rwanda,RW,RWA,646,Urban,11,Dry latrines - Bucket latrine,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV00
+Rwanda,RW,RWA,646,Urban,12,Dry latrines - Other,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV00
+Rwanda,RW,RWA,646,Urban,13,Composting toilets,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV00
+Rwanda,RW,RWA,646,Urban,14,Other improved,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV00
+Rwanda,RW,RWA,646,Urban,15,"No facility, bush, field",0.01,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV00
+Rwanda,RW,RWA,646,Urban,16,Other unimproved,0.007,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV00
+Rwanda,RW,RWA,646,Urban,17,DK/missing information,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV00
+Rwanda,RW,RWA,646,Rural,1,Flush and pour flush - to piped sewer system,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV00
+Rwanda,RW,RWA,646,Rural,2,Flush and pour flush - to septic tank,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV00
+Rwanda,RW,RWA,646,Rural,3,Flush and pour flush - to pit,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV00
+Rwanda,RW,RWA,646,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV00
+Rwanda,RW,RWA,646,Rural,5,Flush and pour flush - to elsewhere,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV00
+Rwanda,RW,RWA,646,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV00
+Rwanda,RW,RWA,646,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.505,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV00
+Rwanda,RW,RWA,646,Rural,8,Dry latrines - Traditional latrine,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV00
+Rwanda,RW,RWA,646,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.431,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV00
+Rwanda,RW,RWA,646,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV00
+Rwanda,RW,RWA,646,Rural,11,Dry latrines - Bucket latrine,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV00
+Rwanda,RW,RWA,646,Rural,12,Dry latrines - Other,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV00
+Rwanda,RW,RWA,646,Rural,13,Composting toilets,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV00
+Rwanda,RW,RWA,646,Rural,14,Other improved,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV00
+Rwanda,RW,RWA,646,Rural,15,"No facility, bush, field",0.049,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV00
+Rwanda,RW,RWA,646,Rural,16,Other unimproved,0.012,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV00
+Rwanda,RW,RWA,646,Rural,17,DK/missing information,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV00
+Rwanda,RW,RWA,646,National,1,Flush and pour flush - to piped sewer system,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV00
+Rwanda,RW,RWA,646,National,2,Flush and pour flush - to septic tank,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV00
+Rwanda,RW,RWA,646,National,3,Flush and pour flush - to pit,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV00
+Rwanda,RW,RWA,646,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV00
+Rwanda,RW,RWA,646,National,5,Flush and pour flush - to elsewhere,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV00
+Rwanda,RW,RWA,646,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV00
+Rwanda,RW,RWA,646,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.536,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV00
+Rwanda,RW,RWA,646,National,8,Dry latrines - Traditional latrine,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV00
+Rwanda,RW,RWA,646,National,9,Dry latrines - Pit latrine without slab/open pit,0.395,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV00
+Rwanda,RW,RWA,646,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV00
+Rwanda,RW,RWA,646,National,11,Dry latrines - Bucket latrine,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV00
+Rwanda,RW,RWA,646,National,12,Dry latrines - Other,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV00
+Rwanda,RW,RWA,646,National,13,Composting toilets,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV00
+Rwanda,RW,RWA,646,National,14,Other improved,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV00
+Rwanda,RW,RWA,646,National,15,"No facility, bush, field",0.045,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV00
+Rwanda,RW,RWA,646,National,16,Other unimproved,0.012,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV00
+Rwanda,RW,RWA,646,National,17,DK/missing information,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV00
 Rwanda,RW,RWA,646,Urban,1,Flush and pour flush - to piped sewer system,0.035,Questionnaire unifiee sur les indicateurs de development - QUID01
 Rwanda,RW,RWA,646,Urban,2,Flush and pour flush - to septic tank,0.07,Questionnaire unifiee sur les indicateurs de development - QUID01
 Rwanda,RW,RWA,646,Urban,3,Flush and pour flush - to pit,0.0,Questionnaire unifiee sur les indicateurs de development - QUID01
@@ -33,6 +186,278 @@ Rwanda,RW,RWA,646,Rural,14,Other improved,0.0,Questionnaire unifiee sur les indi
 Rwanda,RW,RWA,646,Rural,15,"No facility, bush, field",0.044,Questionnaire unifiee sur les indicateurs de development - QUID01
 Rwanda,RW,RWA,646,Rural,16,Other unimproved,0.006,Questionnaire unifiee sur les indicateurs de development - QUID01
 Rwanda,RW,RWA,646,Rural,17,DK/missing information,0.0,Questionnaire unifiee sur les indicateurs de development - QUID01
+Rwanda,RW,RWA,646,National,1,Flush and pour flush - to piped sewer system,0.002,Questionnaire unifiee sur les indicateurs de development - QUID01
+Rwanda,RW,RWA,646,National,2,Flush and pour flush - to septic tank,0.005,Questionnaire unifiee sur les indicateurs de development - QUID01
+Rwanda,RW,RWA,646,National,3,Flush and pour flush - to pit,0.0,Questionnaire unifiee sur les indicateurs de development - QUID01
+Rwanda,RW,RWA,646,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Questionnaire unifiee sur les indicateurs de development - QUID01
+Rwanda,RW,RWA,646,National,5,Flush and pour flush - to elsewhere,0.0,Questionnaire unifiee sur les indicateurs de development - QUID01
+Rwanda,RW,RWA,646,National,6,Dry latrines - Ventilated Improved Pit latrine,0.008,Questionnaire unifiee sur les indicateurs de development - QUID01
+Rwanda,RW,RWA,646,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.436,Questionnaire unifiee sur les indicateurs de development - QUID01
+Rwanda,RW,RWA,646,National,8,Dry latrines - Traditional latrine,0.0,Questionnaire unifiee sur les indicateurs de development - QUID01
+Rwanda,RW,RWA,646,National,9,Dry latrines - Pit latrine without slab/open pit,0.501,Questionnaire unifiee sur les indicateurs de development - QUID01
+Rwanda,RW,RWA,646,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Questionnaire unifiee sur les indicateurs de development - QUID01
+Rwanda,RW,RWA,646,National,11,Dry latrines - Bucket latrine,0.0,Questionnaire unifiee sur les indicateurs de development - QUID01
+Rwanda,RW,RWA,646,National,12,Dry latrines - Other,0.0,Questionnaire unifiee sur les indicateurs de development - QUID01
+Rwanda,RW,RWA,646,National,13,Composting toilets,0.0,Questionnaire unifiee sur les indicateurs de development - QUID01
+Rwanda,RW,RWA,646,National,14,Other improved,0.0,Questionnaire unifiee sur les indicateurs de development - QUID01
+Rwanda,RW,RWA,646,National,15,"No facility, bush, field",0.042,Questionnaire unifiee sur les indicateurs de development - QUID01
+Rwanda,RW,RWA,646,National,16,Other unimproved,0.006,Questionnaire unifiee sur les indicateurs de development - QUID01
+Rwanda,RW,RWA,646,National,17,DK/missing information,0.0,Questionnaire unifiee sur les indicateurs de development - QUID01
+Rwanda,RW,RWA,646,Urban,1,Flush and pour flush - to piped sewer system,0.0,Census - CEN02
+Rwanda,RW,RWA,646,Urban,2,Flush and pour flush - to septic tank,0.0,Census - CEN02
+Rwanda,RW,RWA,646,Urban,3,Flush and pour flush - to pit,0.0,Census - CEN02
+Rwanda,RW,RWA,646,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN02
+Rwanda,RW,RWA,646,Urban,5,Flush and pour flush - to elsewhere,0.0,Census - CEN02
+Rwanda,RW,RWA,646,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN02
+Rwanda,RW,RWA,646,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN02
+Rwanda,RW,RWA,646,Urban,8,Dry latrines - Traditional latrine,0.0,Census - CEN02
+Rwanda,RW,RWA,646,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN02
+Rwanda,RW,RWA,646,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN02
+Rwanda,RW,RWA,646,Urban,11,Dry latrines - Bucket latrine,0.0,Census - CEN02
+Rwanda,RW,RWA,646,Urban,12,Dry latrines - Other,0.0,Census - CEN02
+Rwanda,RW,RWA,646,Urban,13,Composting toilets,0.0,Census - CEN02
+Rwanda,RW,RWA,646,Urban,14,Other improved,0.0,Census - CEN02
+Rwanda,RW,RWA,646,Urban,15,"No facility, bush, field",0.006,Census - CEN02
+Rwanda,RW,RWA,646,Urban,16,Other unimproved,0.007,Census - CEN02
+Rwanda,RW,RWA,646,Urban,17,DK/missing information,0.011,Census - CEN02
+Rwanda,RW,RWA,646,Rural,1,Flush and pour flush - to piped sewer system,0.0,Census - CEN02
+Rwanda,RW,RWA,646,Rural,2,Flush and pour flush - to septic tank,0.0,Census - CEN02
+Rwanda,RW,RWA,646,Rural,3,Flush and pour flush - to pit,0.0,Census - CEN02
+Rwanda,RW,RWA,646,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN02
+Rwanda,RW,RWA,646,Rural,5,Flush and pour flush - to elsewhere,0.0,Census - CEN02
+Rwanda,RW,RWA,646,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN02
+Rwanda,RW,RWA,646,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN02
+Rwanda,RW,RWA,646,Rural,8,Dry latrines - Traditional latrine,0.0,Census - CEN02
+Rwanda,RW,RWA,646,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN02
+Rwanda,RW,RWA,646,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN02
+Rwanda,RW,RWA,646,Rural,11,Dry latrines - Bucket latrine,0.0,Census - CEN02
+Rwanda,RW,RWA,646,Rural,12,Dry latrines - Other,0.0,Census - CEN02
+Rwanda,RW,RWA,646,Rural,13,Composting toilets,0.0,Census - CEN02
+Rwanda,RW,RWA,646,Rural,14,Other improved,0.0,Census - CEN02
+Rwanda,RW,RWA,646,Rural,15,"No facility, bush, field",0.015,Census - CEN02
+Rwanda,RW,RWA,646,Rural,16,Other unimproved,0.012,Census - CEN02
+Rwanda,RW,RWA,646,Rural,17,DK/missing information,0.007,Census - CEN02
+Rwanda,RW,RWA,646,National,1,Flush and pour flush - to piped sewer system,0.0,Census - CEN02
+Rwanda,RW,RWA,646,National,2,Flush and pour flush - to septic tank,0.0,Census - CEN02
+Rwanda,RW,RWA,646,National,3,Flush and pour flush - to pit,0.0,Census - CEN02
+Rwanda,RW,RWA,646,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN02
+Rwanda,RW,RWA,646,National,5,Flush and pour flush - to elsewhere,0.0,Census - CEN02
+Rwanda,RW,RWA,646,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN02
+Rwanda,RW,RWA,646,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN02
+Rwanda,RW,RWA,646,National,8,Dry latrines - Traditional latrine,0.0,Census - CEN02
+Rwanda,RW,RWA,646,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN02
+Rwanda,RW,RWA,646,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN02
+Rwanda,RW,RWA,646,National,11,Dry latrines - Bucket latrine,0.0,Census - CEN02
+Rwanda,RW,RWA,646,National,12,Dry latrines - Other,0.0,Census - CEN02
+Rwanda,RW,RWA,646,National,13,Composting toilets,0.0,Census - CEN02
+Rwanda,RW,RWA,646,National,14,Other improved,0.0,Census - CEN02
+Rwanda,RW,RWA,646,National,15,"No facility, bush, field",0.0,Census - CEN02
+Rwanda,RW,RWA,646,National,16,Other unimproved,0.0,Census - CEN02
+Rwanda,RW,RWA,646,National,17,DK/missing information,0.0,Census - CEN02
+Rwanda,RW,RWA,646,Urban,1,Flush and pour flush - to piped sewer system,0.0,Questionnaire Unifié sur les Indicateurs de Bien-être de Base - QUIBB03
+Rwanda,RW,RWA,646,Urban,2,Flush and pour flush - to septic tank,0.0,Questionnaire Unifié sur les Indicateurs de Bien-être de Base - QUIBB03
+Rwanda,RW,RWA,646,Urban,3,Flush and pour flush - to pit,0.0,Questionnaire Unifié sur les Indicateurs de Bien-être de Base - QUIBB03
+Rwanda,RW,RWA,646,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Questionnaire Unifié sur les Indicateurs de Bien-être de Base - QUIBB03
+Rwanda,RW,RWA,646,Urban,5,Flush and pour flush - to elsewhere,0.0,Questionnaire Unifié sur les Indicateurs de Bien-être de Base - QUIBB03
+Rwanda,RW,RWA,646,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Questionnaire Unifié sur les Indicateurs de Bien-être de Base - QUIBB03
+Rwanda,RW,RWA,646,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.084,Questionnaire Unifié sur les Indicateurs de Bien-être de Base - QUIBB03
+Rwanda,RW,RWA,646,Urban,8,Dry latrines - Traditional latrine,0.0,Questionnaire Unifié sur les Indicateurs de Bien-être de Base - QUIBB03
+Rwanda,RW,RWA,646,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.021,Questionnaire Unifié sur les Indicateurs de Bien-être de Base - QUIBB03
+Rwanda,RW,RWA,646,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Questionnaire Unifié sur les Indicateurs de Bien-être de Base - QUIBB03
+Rwanda,RW,RWA,646,Urban,11,Dry latrines - Bucket latrine,0.0,Questionnaire Unifié sur les Indicateurs de Bien-être de Base - QUIBB03
+Rwanda,RW,RWA,646,Urban,12,Dry latrines - Other,0.0,Questionnaire Unifié sur les Indicateurs de Bien-être de Base - QUIBB03
+Rwanda,RW,RWA,646,Urban,13,Composting toilets,0.0,Questionnaire Unifié sur les Indicateurs de Bien-être de Base - QUIBB03
+Rwanda,RW,RWA,646,Urban,14,Other improved,0.0,Questionnaire Unifié sur les Indicateurs de Bien-être de Base - QUIBB03
+Rwanda,RW,RWA,646,Urban,15,"No facility, bush, field",0.0,Questionnaire Unifié sur les Indicateurs de Bien-être de Base - QUIBB03
+Rwanda,RW,RWA,646,Urban,16,Other unimproved,0.155,Questionnaire Unifié sur les Indicateurs de Bien-être de Base - QUIBB03
+Rwanda,RW,RWA,646,Urban,17,DK/missing information,0.0,Questionnaire Unifié sur les Indicateurs de Bien-être de Base - QUIBB03
+Rwanda,RW,RWA,646,Rural,1,Flush and pour flush - to piped sewer system,0.0,Questionnaire Unifié sur les Indicateurs de Bien-être de Base - QUIBB03
+Rwanda,RW,RWA,646,Rural,2,Flush and pour flush - to septic tank,0.0,Questionnaire Unifié sur les Indicateurs de Bien-être de Base - QUIBB03
+Rwanda,RW,RWA,646,Rural,3,Flush and pour flush - to pit,0.0,Questionnaire Unifié sur les Indicateurs de Bien-être de Base - QUIBB03
+Rwanda,RW,RWA,646,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Questionnaire Unifié sur les Indicateurs de Bien-être de Base - QUIBB03
+Rwanda,RW,RWA,646,Rural,5,Flush and pour flush - to elsewhere,0.0,Questionnaire Unifié sur les Indicateurs de Bien-être de Base - QUIBB03
+Rwanda,RW,RWA,646,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Questionnaire Unifié sur les Indicateurs de Bien-être de Base - QUIBB03
+Rwanda,RW,RWA,646,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Questionnaire Unifié sur les Indicateurs de Bien-être de Base - QUIBB03
+Rwanda,RW,RWA,646,Rural,8,Dry latrines - Traditional latrine,0.0,Questionnaire Unifié sur les Indicateurs de Bien-être de Base - QUIBB03
+Rwanda,RW,RWA,646,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.043,Questionnaire Unifié sur les Indicateurs de Bien-être de Base - QUIBB03
+Rwanda,RW,RWA,646,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Questionnaire Unifié sur les Indicateurs de Bien-être de Base - QUIBB03
+Rwanda,RW,RWA,646,Rural,11,Dry latrines - Bucket latrine,0.0,Questionnaire Unifié sur les Indicateurs de Bien-être de Base - QUIBB03
+Rwanda,RW,RWA,646,Rural,12,Dry latrines - Other,0.0,Questionnaire Unifié sur les Indicateurs de Bien-être de Base - QUIBB03
+Rwanda,RW,RWA,646,Rural,13,Composting toilets,0.0,Questionnaire Unifié sur les Indicateurs de Bien-être de Base - QUIBB03
+Rwanda,RW,RWA,646,Rural,14,Other improved,0.0,Questionnaire Unifié sur les Indicateurs de Bien-être de Base - QUIBB03
+Rwanda,RW,RWA,646,Rural,15,"No facility, bush, field",0.0,Questionnaire Unifié sur les Indicateurs de Bien-être de Base - QUIBB03
+Rwanda,RW,RWA,646,Rural,16,Other unimproved,0.355,Questionnaire Unifié sur les Indicateurs de Bien-être de Base - QUIBB03
+Rwanda,RW,RWA,646,Rural,17,DK/missing information,0.0,Questionnaire Unifié sur les Indicateurs de Bien-être de Base - QUIBB03
+Rwanda,RW,RWA,646,National,1,Flush and pour flush - to piped sewer system,0.0,Questionnaire Unifié sur les Indicateurs de Bien-être de Base - QUIBB03
+Rwanda,RW,RWA,646,National,2,Flush and pour flush - to septic tank,0.0,Questionnaire Unifié sur les Indicateurs de Bien-être de Base - QUIBB03
+Rwanda,RW,RWA,646,National,3,Flush and pour flush - to pit,0.0,Questionnaire Unifié sur les Indicateurs de Bien-être de Base - QUIBB03
+Rwanda,RW,RWA,646,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Questionnaire Unifié sur les Indicateurs de Bien-être de Base - QUIBB03
+Rwanda,RW,RWA,646,National,5,Flush and pour flush - to elsewhere,0.0,Questionnaire Unifié sur les Indicateurs de Bien-être de Base - QUIBB03
+Rwanda,RW,RWA,646,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Questionnaire Unifié sur les Indicateurs de Bien-être de Base - QUIBB03
+Rwanda,RW,RWA,646,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Questionnaire Unifié sur les Indicateurs de Bien-être de Base - QUIBB03
+Rwanda,RW,RWA,646,National,8,Dry latrines - Traditional latrine,0.0,Questionnaire Unifié sur les Indicateurs de Bien-être de Base - QUIBB03
+Rwanda,RW,RWA,646,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Questionnaire Unifié sur les Indicateurs de Bien-être de Base - QUIBB03
+Rwanda,RW,RWA,646,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Questionnaire Unifié sur les Indicateurs de Bien-être de Base - QUIBB03
+Rwanda,RW,RWA,646,National,11,Dry latrines - Bucket latrine,0.0,Questionnaire Unifié sur les Indicateurs de Bien-être de Base - QUIBB03
+Rwanda,RW,RWA,646,National,12,Dry latrines - Other,0.0,Questionnaire Unifié sur les Indicateurs de Bien-être de Base - QUIBB03
+Rwanda,RW,RWA,646,National,13,Composting toilets,0.0,Questionnaire Unifié sur les Indicateurs de Bien-être de Base - QUIBB03
+Rwanda,RW,RWA,646,National,14,Other improved,0.0,Questionnaire Unifié sur les Indicateurs de Bien-être de Base - QUIBB03
+Rwanda,RW,RWA,646,National,15,"No facility, bush, field",0.0,Questionnaire Unifié sur les Indicateurs de Bien-être de Base - QUIBB03
+Rwanda,RW,RWA,646,National,16,Other unimproved,0.0,Questionnaire Unifié sur les Indicateurs de Bien-être de Base - QUIBB03
+Rwanda,RW,RWA,646,National,17,DK/missing information,0.0,Questionnaire Unifié sur les Indicateurs de Bien-être de Base - QUIBB03
+Rwanda,RW,RWA,646,Urban,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Household Survey - DHS05
+Rwanda,RW,RWA,646,Urban,2,Flush and pour flush - to septic tank,0.0,Demographic and Household Survey - DHS05
+Rwanda,RW,RWA,646,Urban,3,Flush and pour flush - to pit,0.0,Demographic and Household Survey - DHS05
+Rwanda,RW,RWA,646,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Household Survey - DHS05
+Rwanda,RW,RWA,646,Urban,5,Flush and pour flush - to elsewhere,0.0,Demographic and Household Survey - DHS05
+Rwanda,RW,RWA,646,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.471,Demographic and Household Survey - DHS05
+Rwanda,RW,RWA,646,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Household Survey - DHS05
+Rwanda,RW,RWA,646,Urban,8,Dry latrines - Traditional latrine,0.44,Demographic and Household Survey - DHS05
+Rwanda,RW,RWA,646,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Household Survey - DHS05
+Rwanda,RW,RWA,646,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Household Survey - DHS05
+Rwanda,RW,RWA,646,Urban,11,Dry latrines - Bucket latrine,0.0,Demographic and Household Survey - DHS05
+Rwanda,RW,RWA,646,Urban,12,Dry latrines - Other,0.0,Demographic and Household Survey - DHS05
+Rwanda,RW,RWA,646,Urban,13,Composting toilets,0.0,Demographic and Household Survey - DHS05
+Rwanda,RW,RWA,646,Urban,14,Other improved,0.0,Demographic and Household Survey - DHS05
+Rwanda,RW,RWA,646,Urban,15,"No facility, bush, field",0.034,Demographic and Household Survey - DHS05
+Rwanda,RW,RWA,646,Urban,16,Other unimproved,0.001,Demographic and Household Survey - DHS05
+Rwanda,RW,RWA,646,Urban,17,DK/missing information,0.0,Demographic and Household Survey - DHS05
+Rwanda,RW,RWA,646,Rural,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Household Survey - DHS05
+Rwanda,RW,RWA,646,Rural,2,Flush and pour flush - to septic tank,0.0,Demographic and Household Survey - DHS05
+Rwanda,RW,RWA,646,Rural,3,Flush and pour flush - to pit,0.0,Demographic and Household Survey - DHS05
+Rwanda,RW,RWA,646,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Household Survey - DHS05
+Rwanda,RW,RWA,646,Rural,5,Flush and pour flush - to elsewhere,0.0,Demographic and Household Survey - DHS05
+Rwanda,RW,RWA,646,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.241,Demographic and Household Survey - DHS05
+Rwanda,RW,RWA,646,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Household Survey - DHS05
+Rwanda,RW,RWA,646,Rural,8,Dry latrines - Traditional latrine,0.708,Demographic and Household Survey - DHS05
+Rwanda,RW,RWA,646,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Household Survey - DHS05
+Rwanda,RW,RWA,646,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Household Survey - DHS05
+Rwanda,RW,RWA,646,Rural,11,Dry latrines - Bucket latrine,0.0,Demographic and Household Survey - DHS05
+Rwanda,RW,RWA,646,Rural,12,Dry latrines - Other,0.0,Demographic and Household Survey - DHS05
+Rwanda,RW,RWA,646,Rural,13,Composting toilets,0.0,Demographic and Household Survey - DHS05
+Rwanda,RW,RWA,646,Rural,14,Other improved,0.0,Demographic and Household Survey - DHS05
+Rwanda,RW,RWA,646,Rural,15,"No facility, bush, field",0.048,Demographic and Household Survey - DHS05
+Rwanda,RW,RWA,646,Rural,16,Other unimproved,0.001,Demographic and Household Survey - DHS05
+Rwanda,RW,RWA,646,Rural,17,DK/missing information,0.0,Demographic and Household Survey - DHS05
+Rwanda,RW,RWA,646,National,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Household Survey - DHS05
+Rwanda,RW,RWA,646,National,2,Flush and pour flush - to septic tank,0.0,Demographic and Household Survey - DHS05
+Rwanda,RW,RWA,646,National,3,Flush and pour flush - to pit,0.0,Demographic and Household Survey - DHS05
+Rwanda,RW,RWA,646,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Household Survey - DHS05
+Rwanda,RW,RWA,646,National,5,Flush and pour flush - to elsewhere,0.0,Demographic and Household Survey - DHS05
+Rwanda,RW,RWA,646,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Household Survey - DHS05
+Rwanda,RW,RWA,646,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Household Survey - DHS05
+Rwanda,RW,RWA,646,National,8,Dry latrines - Traditional latrine,0.0,Demographic and Household Survey - DHS05
+Rwanda,RW,RWA,646,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Household Survey - DHS05
+Rwanda,RW,RWA,646,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Household Survey - DHS05
+Rwanda,RW,RWA,646,National,11,Dry latrines - Bucket latrine,0.0,Demographic and Household Survey - DHS05
+Rwanda,RW,RWA,646,National,12,Dry latrines - Other,0.0,Demographic and Household Survey - DHS05
+Rwanda,RW,RWA,646,National,13,Composting toilets,0.0,Demographic and Household Survey - DHS05
+Rwanda,RW,RWA,646,National,14,Other improved,0.0,Demographic and Household Survey - DHS05
+Rwanda,RW,RWA,646,National,15,"No facility, bush, field",0.0,Demographic and Household Survey - DHS05
+Rwanda,RW,RWA,646,National,16,Other unimproved,0.0,Demographic and Household Survey - DHS05
+Rwanda,RW,RWA,646,National,17,DK/missing information,0.0,Demographic and Household Survey - DHS05
+Rwanda,RW,RWA,646,Urban,1,Flush and pour flush - to piped sewer system,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV05
+Rwanda,RW,RWA,646,Urban,2,Flush and pour flush - to septic tank,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV05
+Rwanda,RW,RWA,646,Urban,3,Flush and pour flush - to pit,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV05
+Rwanda,RW,RWA,646,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV05
+Rwanda,RW,RWA,646,Urban,5,Flush and pour flush - to elsewhere,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV05
+Rwanda,RW,RWA,646,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV05
+Rwanda,RW,RWA,646,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.712,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV05
+Rwanda,RW,RWA,646,Urban,8,Dry latrines - Traditional latrine,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV05
+Rwanda,RW,RWA,646,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.194,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV05
+Rwanda,RW,RWA,646,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV05
+Rwanda,RW,RWA,646,Urban,11,Dry latrines - Bucket latrine,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV05
+Rwanda,RW,RWA,646,Urban,12,Dry latrines - Other,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV05
+Rwanda,RW,RWA,646,Urban,13,Composting toilets,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV05
+Rwanda,RW,RWA,646,Urban,14,Other improved,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV05
+Rwanda,RW,RWA,646,Urban,15,"No facility, bush, field",0.038,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV05
+Rwanda,RW,RWA,646,Urban,16,Other unimproved,0.001,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV05
+Rwanda,RW,RWA,646,Urban,17,DK/missing information,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV05
+Rwanda,RW,RWA,646,Rural,1,Flush and pour flush - to piped sewer system,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV05
+Rwanda,RW,RWA,646,Rural,2,Flush and pour flush - to septic tank,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV05
+Rwanda,RW,RWA,646,Rural,3,Flush and pour flush - to pit,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV05
+Rwanda,RW,RWA,646,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV05
+Rwanda,RW,RWA,646,Rural,5,Flush and pour flush - to elsewhere,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV05
+Rwanda,RW,RWA,646,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV05
+Rwanda,RW,RWA,646,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.583,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV05
+Rwanda,RW,RWA,646,Rural,8,Dry latrines - Traditional latrine,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV05
+Rwanda,RW,RWA,646,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.362,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV05
+Rwanda,RW,RWA,646,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV05
+Rwanda,RW,RWA,646,Rural,11,Dry latrines - Bucket latrine,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV05
+Rwanda,RW,RWA,646,Rural,12,Dry latrines - Other,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV05
+Rwanda,RW,RWA,646,Rural,13,Composting toilets,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV05
+Rwanda,RW,RWA,646,Rural,14,Other improved,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV05
+Rwanda,RW,RWA,646,Rural,15,"No facility, bush, field",0.05,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV05
+Rwanda,RW,RWA,646,Rural,16,Other unimproved,0.003,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV05
+Rwanda,RW,RWA,646,Rural,17,DK/missing information,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV05
+Rwanda,RW,RWA,646,National,1,Flush and pour flush - to piped sewer system,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV05
+Rwanda,RW,RWA,646,National,2,Flush and pour flush - to septic tank,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV05
+Rwanda,RW,RWA,646,National,3,Flush and pour flush - to pit,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV05
+Rwanda,RW,RWA,646,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV05
+Rwanda,RW,RWA,646,National,5,Flush and pour flush - to elsewhere,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV05
+Rwanda,RW,RWA,646,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV05
+Rwanda,RW,RWA,646,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.604,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV05
+Rwanda,RW,RWA,646,National,8,Dry latrines - Traditional latrine,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV05
+Rwanda,RW,RWA,646,National,9,Dry latrines - Pit latrine without slab/open pit,0.334,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV05
+Rwanda,RW,RWA,646,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV05
+Rwanda,RW,RWA,646,National,11,Dry latrines - Bucket latrine,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV05
+Rwanda,RW,RWA,646,National,12,Dry latrines - Other,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV05
+Rwanda,RW,RWA,646,National,13,Composting toilets,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV05
+Rwanda,RW,RWA,646,National,14,Other improved,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV05
+Rwanda,RW,RWA,646,National,15,"No facility, bush, field",0.048,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV05
+Rwanda,RW,RWA,646,National,16,Other unimproved,0.002,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV05
+Rwanda,RW,RWA,646,National,17,DK/missing information,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV05
+Rwanda,RW,RWA,646,Urban,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS08
+Rwanda,RW,RWA,646,Urban,2,Flush and pour flush - to septic tank,0.0,Demographic and Health Survey - DHS08
+Rwanda,RW,RWA,646,Urban,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS08
+Rwanda,RW,RWA,646,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS08
+Rwanda,RW,RWA,646,Urban,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS08
+Rwanda,RW,RWA,646,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.404,Demographic and Health Survey - DHS08
+Rwanda,RW,RWA,646,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS08
+Rwanda,RW,RWA,646,Urban,8,Dry latrines - Traditional latrine,0.536,Demographic and Health Survey - DHS08
+Rwanda,RW,RWA,646,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Survey - DHS08
+Rwanda,RW,RWA,646,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS08
+Rwanda,RW,RWA,646,Urban,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS08
+Rwanda,RW,RWA,646,Urban,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS08
+Rwanda,RW,RWA,646,Urban,13,Composting toilets,0.0,Demographic and Health Survey - DHS08
+Rwanda,RW,RWA,646,Urban,14,Other improved,0.0,Demographic and Health Survey - DHS08
+Rwanda,RW,RWA,646,Urban,15,"No facility, bush, field",0.012,Demographic and Health Survey - DHS08
+Rwanda,RW,RWA,646,Urban,16,Other unimproved,0.002,Demographic and Health Survey - DHS08
+Rwanda,RW,RWA,646,Urban,17,DK/missing information,0.003,Demographic and Health Survey - DHS08
+Rwanda,RW,RWA,646,Rural,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS08
+Rwanda,RW,RWA,646,Rural,2,Flush and pour flush - to septic tank,0.0,Demographic and Health Survey - DHS08
+Rwanda,RW,RWA,646,Rural,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS08
+Rwanda,RW,RWA,646,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS08
+Rwanda,RW,RWA,646,Rural,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS08
+Rwanda,RW,RWA,646,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.572,Demographic and Health Survey - DHS08
+Rwanda,RW,RWA,646,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS08
+Rwanda,RW,RWA,646,Rural,8,Dry latrines - Traditional latrine,0.393,Demographic and Health Survey - DHS08
+Rwanda,RW,RWA,646,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Survey - DHS08
+Rwanda,RW,RWA,646,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS08
+Rwanda,RW,RWA,646,Rural,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS08
+Rwanda,RW,RWA,646,Rural,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS08
+Rwanda,RW,RWA,646,Rural,13,Composting toilets,0.0,Demographic and Health Survey - DHS08
+Rwanda,RW,RWA,646,Rural,14,Other improved,0.0,Demographic and Health Survey - DHS08
+Rwanda,RW,RWA,646,Rural,15,"No facility, bush, field",0.024,Demographic and Health Survey - DHS08
+Rwanda,RW,RWA,646,Rural,16,Other unimproved,0.003,Demographic and Health Survey - DHS08
+Rwanda,RW,RWA,646,Rural,17,DK/missing information,0.004,Demographic and Health Survey - DHS08
+Rwanda,RW,RWA,646,National,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS08
+Rwanda,RW,RWA,646,National,2,Flush and pour flush - to septic tank,0.0,Demographic and Health Survey - DHS08
+Rwanda,RW,RWA,646,National,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS08
+Rwanda,RW,RWA,646,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS08
+Rwanda,RW,RWA,646,National,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS08
+Rwanda,RW,RWA,646,National,6,Dry latrines - Ventilated Improved Pit latrine,0.545,Demographic and Health Survey - DHS08
+Rwanda,RW,RWA,646,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS08
+Rwanda,RW,RWA,646,National,8,Dry latrines - Traditional latrine,0.416,Demographic and Health Survey - DHS08
+Rwanda,RW,RWA,646,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Survey - DHS08
+Rwanda,RW,RWA,646,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS08
+Rwanda,RW,RWA,646,National,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS08
+Rwanda,RW,RWA,646,National,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS08
+Rwanda,RW,RWA,646,National,13,Composting toilets,0.0,Demographic and Health Survey - DHS08
+Rwanda,RW,RWA,646,National,14,Other improved,0.0,Demographic and Health Survey - DHS08
+Rwanda,RW,RWA,646,National,15,"No facility, bush, field",0.022,Demographic and Health Survey - DHS08
+Rwanda,RW,RWA,646,National,16,Other unimproved,0.003,Demographic and Health Survey - DHS08
+Rwanda,RW,RWA,646,National,17,DK/missing information,0.004,Demographic and Health Survey - DHS08
 Rwanda,RW,RWA,646,Urban,1,Flush and pour flush - to piped sewer system,0.032,Demographic and Health Survey - DHS10
 Rwanda,RW,RWA,646,Urban,2,Flush and pour flush - to septic tank,0.003,Demographic and Health Survey - DHS10
 Rwanda,RW,RWA,646,Urban,3,Flush and pour flush - to pit,0.017,Demographic and Health Survey - DHS10
@@ -67,6 +492,131 @@ Rwanda,RW,RWA,646,Rural,14,Other improved,0.0,Demographic and Health Survey - DH
 Rwanda,RW,RWA,646,Rural,15,"No facility, bush, field",0.015,Demographic and Health Survey - DHS10
 Rwanda,RW,RWA,646,Rural,16,Other unimproved,0.008,Demographic and Health Survey - DHS10
 Rwanda,RW,RWA,646,Rural,17,DK/missing information,0.0,Demographic and Health Survey - DHS10
+Rwanda,RW,RWA,646,National,1,Flush and pour flush - to piped sewer system,0.006,Demographic and Health Survey - DHS10
+Rwanda,RW,RWA,646,National,2,Flush and pour flush - to septic tank,0.001,Demographic and Health Survey - DHS10
+Rwanda,RW,RWA,646,National,3,Flush and pour flush - to pit,0.004,Demographic and Health Survey - DHS10
+Rwanda,RW,RWA,646,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS10
+Rwanda,RW,RWA,646,National,5,Flush and pour flush - to elsewhere,0.004,Demographic and Health Survey - DHS10
+Rwanda,RW,RWA,646,National,6,Dry latrines - Ventilated Improved Pit latrine,0.019,Demographic and Health Survey - DHS10
+Rwanda,RW,RWA,646,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.71,Demographic and Health Survey - DHS10
+Rwanda,RW,RWA,646,National,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS10
+Rwanda,RW,RWA,646,National,9,Dry latrines - Pit latrine without slab/open pit,0.231,Demographic and Health Survey - DHS10
+Rwanda,RW,RWA,646,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS10
+Rwanda,RW,RWA,646,National,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS10
+Rwanda,RW,RWA,646,National,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS10
+Rwanda,RW,RWA,646,National,13,Composting toilets,0.004,Demographic and Health Survey - DHS10
+Rwanda,RW,RWA,646,National,14,Other improved,0.0,Demographic and Health Survey - DHS10
+Rwanda,RW,RWA,646,National,15,"No facility, bush, field",0.014,Demographic and Health Survey - DHS10
+Rwanda,RW,RWA,646,National,16,Other unimproved,0.008,Demographic and Health Survey - DHS10
+Rwanda,RW,RWA,646,National,17,DK/missing information,0.0,Demographic and Health Survey - DHS10
+Rwanda,RW,RWA,646,Urban,1,Flush and pour flush - to piped sewer system,0.0,Third Integrated Household Living Conditions Survey (EICV III) - EICV10
+Rwanda,RW,RWA,646,Urban,2,Flush and pour flush - to septic tank,0.0,Third Integrated Household Living Conditions Survey (EICV III) - EICV10
+Rwanda,RW,RWA,646,Urban,3,Flush and pour flush - to pit,0.0,Third Integrated Household Living Conditions Survey (EICV III) - EICV10
+Rwanda,RW,RWA,646,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Third Integrated Household Living Conditions Survey (EICV III) - EICV10
+Rwanda,RW,RWA,646,Urban,5,Flush and pour flush - to elsewhere,0.0,Third Integrated Household Living Conditions Survey (EICV III) - EICV10
+Rwanda,RW,RWA,646,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Third Integrated Household Living Conditions Survey (EICV III) - EICV10
+Rwanda,RW,RWA,646,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.751,Third Integrated Household Living Conditions Survey (EICV III) - EICV10
+Rwanda,RW,RWA,646,Urban,8,Dry latrines - Traditional latrine,0.0,Third Integrated Household Living Conditions Survey (EICV III) - EICV10
+Rwanda,RW,RWA,646,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.141,Third Integrated Household Living Conditions Survey (EICV III) - EICV10
+Rwanda,RW,RWA,646,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Third Integrated Household Living Conditions Survey (EICV III) - EICV10
+Rwanda,RW,RWA,646,Urban,11,Dry latrines - Bucket latrine,0.0,Third Integrated Household Living Conditions Survey (EICV III) - EICV10
+Rwanda,RW,RWA,646,Urban,12,Dry latrines - Other,0.0,Third Integrated Household Living Conditions Survey (EICV III) - EICV10
+Rwanda,RW,RWA,646,Urban,13,Composting toilets,0.0,Third Integrated Household Living Conditions Survey (EICV III) - EICV10
+Rwanda,RW,RWA,646,Urban,14,Other improved,0.0,Third Integrated Household Living Conditions Survey (EICV III) - EICV10
+Rwanda,RW,RWA,646,Urban,15,"No facility, bush, field",0.033,Third Integrated Household Living Conditions Survey (EICV III) - EICV10
+Rwanda,RW,RWA,646,Urban,16,Other unimproved,0.0,Third Integrated Household Living Conditions Survey (EICV III) - EICV10
+Rwanda,RW,RWA,646,Urban,17,DK/missing information,0.0,Third Integrated Household Living Conditions Survey (EICV III) - EICV10
+Rwanda,RW,RWA,646,Rural,1,Flush and pour flush - to piped sewer system,0.0,Third Integrated Household Living Conditions Survey (EICV III) - EICV10
+Rwanda,RW,RWA,646,Rural,2,Flush and pour flush - to septic tank,0.0,Third Integrated Household Living Conditions Survey (EICV III) - EICV10
+Rwanda,RW,RWA,646,Rural,3,Flush and pour flush - to pit,0.0,Third Integrated Household Living Conditions Survey (EICV III) - EICV10
+Rwanda,RW,RWA,646,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Third Integrated Household Living Conditions Survey (EICV III) - EICV10
+Rwanda,RW,RWA,646,Rural,5,Flush and pour flush - to elsewhere,0.0,Third Integrated Household Living Conditions Survey (EICV III) - EICV10
+Rwanda,RW,RWA,646,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Third Integrated Household Living Conditions Survey (EICV III) - EICV10
+Rwanda,RW,RWA,646,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.724,Third Integrated Household Living Conditions Survey (EICV III) - EICV10
+Rwanda,RW,RWA,646,Rural,8,Dry latrines - Traditional latrine,0.0,Third Integrated Household Living Conditions Survey (EICV III) - EICV10
+Rwanda,RW,RWA,646,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.203,Third Integrated Household Living Conditions Survey (EICV III) - EICV10
+Rwanda,RW,RWA,646,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Third Integrated Household Living Conditions Survey (EICV III) - EICV10
+Rwanda,RW,RWA,646,Rural,11,Dry latrines - Bucket latrine,0.0,Third Integrated Household Living Conditions Survey (EICV III) - EICV10
+Rwanda,RW,RWA,646,Rural,12,Dry latrines - Other,0.0,Third Integrated Household Living Conditions Survey (EICV III) - EICV10
+Rwanda,RW,RWA,646,Rural,13,Composting toilets,0.0,Third Integrated Household Living Conditions Survey (EICV III) - EICV10
+Rwanda,RW,RWA,646,Rural,14,Other improved,0.0,Third Integrated Household Living Conditions Survey (EICV III) - EICV10
+Rwanda,RW,RWA,646,Rural,15,"No facility, bush, field",0.066,Third Integrated Household Living Conditions Survey (EICV III) - EICV10
+Rwanda,RW,RWA,646,Rural,16,Other unimproved,0.0,Third Integrated Household Living Conditions Survey (EICV III) - EICV10
+Rwanda,RW,RWA,646,Rural,17,DK/missing information,0.0,Third Integrated Household Living Conditions Survey (EICV III) - EICV10
+Rwanda,RW,RWA,646,National,1,Flush and pour flush - to piped sewer system,0.0,Third Integrated Household Living Conditions Survey (EICV III) - EICV10
+Rwanda,RW,RWA,646,National,2,Flush and pour flush - to septic tank,0.0,Third Integrated Household Living Conditions Survey (EICV III) - EICV10
+Rwanda,RW,RWA,646,National,3,Flush and pour flush - to pit,0.0,Third Integrated Household Living Conditions Survey (EICV III) - EICV10
+Rwanda,RW,RWA,646,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Third Integrated Household Living Conditions Survey (EICV III) - EICV10
+Rwanda,RW,RWA,646,National,5,Flush and pour flush - to elsewhere,0.0,Third Integrated Household Living Conditions Survey (EICV III) - EICV10
+Rwanda,RW,RWA,646,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Third Integrated Household Living Conditions Survey (EICV III) - EICV10
+Rwanda,RW,RWA,646,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.728,Third Integrated Household Living Conditions Survey (EICV III) - EICV10
+Rwanda,RW,RWA,646,National,8,Dry latrines - Traditional latrine,0.0,Third Integrated Household Living Conditions Survey (EICV III) - EICV10
+Rwanda,RW,RWA,646,National,9,Dry latrines - Pit latrine without slab/open pit,0.194,Third Integrated Household Living Conditions Survey (EICV III) - EICV10
+Rwanda,RW,RWA,646,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Third Integrated Household Living Conditions Survey (EICV III) - EICV10
+Rwanda,RW,RWA,646,National,11,Dry latrines - Bucket latrine,0.0,Third Integrated Household Living Conditions Survey (EICV III) - EICV10
+Rwanda,RW,RWA,646,National,12,Dry latrines - Other,0.0,Third Integrated Household Living Conditions Survey (EICV III) - EICV10
+Rwanda,RW,RWA,646,National,13,Composting toilets,0.0,Third Integrated Household Living Conditions Survey (EICV III) - EICV10
+Rwanda,RW,RWA,646,National,14,Other improved,0.0,Third Integrated Household Living Conditions Survey (EICV III) - EICV10
+Rwanda,RW,RWA,646,National,15,"No facility, bush, field",0.061,Third Integrated Household Living Conditions Survey (EICV III) - EICV10
+Rwanda,RW,RWA,646,National,16,Other unimproved,0.0,Third Integrated Household Living Conditions Survey (EICV III) - EICV10
+Rwanda,RW,RWA,646,National,17,DK/missing information,0.0,Third Integrated Household Living Conditions Survey (EICV III) - EICV10
+Rwanda,RW,RWA,646,Urban,1,Flush and pour flush - to piped sewer system,0.046,Population and Housing Census - CEN12
+Rwanda,RW,RWA,646,Urban,2,Flush and pour flush - to septic tank,0.0,Population and Housing Census - CEN12
+Rwanda,RW,RWA,646,Urban,3,Flush and pour flush - to pit,0.0,Population and Housing Census - CEN12
+Rwanda,RW,RWA,646,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Population and Housing Census - CEN12
+Rwanda,RW,RWA,646,Urban,5,Flush and pour flush - to elsewhere,0.0,Population and Housing Census - CEN12
+Rwanda,RW,RWA,646,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Population and Housing Census - CEN12
+Rwanda,RW,RWA,646,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Population and Housing Census - CEN12
+Rwanda,RW,RWA,646,Urban,8,Dry latrines - Traditional latrine,0.911,Population and Housing Census - CEN12
+Rwanda,RW,RWA,646,Urban,8,Dry latrines - Traditional latrine,0.557,Population and Housing Census - CEN12
+Rwanda,RW,RWA,646,Urban,8,Dry latrines - Traditional latrine,0.354,Population and Housing Census - CEN12
+Rwanda,RW,RWA,646,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Population and Housing Census - CEN12
+Rwanda,RW,RWA,646,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Population and Housing Census - CEN12
+Rwanda,RW,RWA,646,Urban,11,Dry latrines - Bucket latrine,0.0,Population and Housing Census - CEN12
+Rwanda,RW,RWA,646,Urban,12,Dry latrines - Other,0.0,Population and Housing Census - CEN12
+Rwanda,RW,RWA,646,Urban,13,Composting toilets,0.0,Population and Housing Census - CEN12
+Rwanda,RW,RWA,646,Urban,14,Other improved,0.0,Population and Housing Census - CEN12
+Rwanda,RW,RWA,646,Urban,15,"No facility, bush, field",0.003,Population and Housing Census - CEN12
+Rwanda,RW,RWA,646,Urban,16,Other unimproved,0.007,Population and Housing Census - CEN12
+Rwanda,RW,RWA,646,Urban,17,DK/missing information,0.033,Population and Housing Census - CEN12
+Rwanda,RW,RWA,646,Rural,1,Flush and pour flush - to piped sewer system,0.001,Population and Housing Census - CEN12
+Rwanda,RW,RWA,646,Rural,2,Flush and pour flush - to septic tank,0.0,Population and Housing Census - CEN12
+Rwanda,RW,RWA,646,Rural,3,Flush and pour flush - to pit,0.0,Population and Housing Census - CEN12
+Rwanda,RW,RWA,646,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Population and Housing Census - CEN12
+Rwanda,RW,RWA,646,Rural,5,Flush and pour flush - to elsewhere,0.0,Population and Housing Census - CEN12
+Rwanda,RW,RWA,646,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Population and Housing Census - CEN12
+Rwanda,RW,RWA,646,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Population and Housing Census - CEN12
+Rwanda,RW,RWA,646,Rural,8,Dry latrines - Traditional latrine,0.955,Population and Housing Census - CEN12
+Rwanda,RW,RWA,646,Rural,8,Dry latrines - Traditional latrine,0.879,Population and Housing Census - CEN12
+Rwanda,RW,RWA,646,Rural,8,Dry latrines - Traditional latrine,0.076,Population and Housing Census - CEN12
+Rwanda,RW,RWA,646,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Population and Housing Census - CEN12
+Rwanda,RW,RWA,646,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Population and Housing Census - CEN12
+Rwanda,RW,RWA,646,Rural,11,Dry latrines - Bucket latrine,0.0,Population and Housing Census - CEN12
+Rwanda,RW,RWA,646,Rural,12,Dry latrines - Other,0.0,Population and Housing Census - CEN12
+Rwanda,RW,RWA,646,Rural,13,Composting toilets,0.0,Population and Housing Census - CEN12
+Rwanda,RW,RWA,646,Rural,14,Other improved,0.0,Population and Housing Census - CEN12
+Rwanda,RW,RWA,646,Rural,15,"No facility, bush, field",0.01,Population and Housing Census - CEN12
+Rwanda,RW,RWA,646,Rural,16,Other unimproved,0.019,Population and Housing Census - CEN12
+Rwanda,RW,RWA,646,Rural,17,DK/missing information,0.014,Population and Housing Census - CEN12
+Rwanda,RW,RWA,646,National,1,Flush and pour flush - to piped sewer system,0.008,Population and Housing Census - CEN12
+Rwanda,RW,RWA,646,National,2,Flush and pour flush - to septic tank,0.0,Population and Housing Census - CEN12
+Rwanda,RW,RWA,646,National,3,Flush and pour flush - to pit,0.0,Population and Housing Census - CEN12
+Rwanda,RW,RWA,646,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Population and Housing Census - CEN12
+Rwanda,RW,RWA,646,National,5,Flush and pour flush - to elsewhere,0.0,Population and Housing Census - CEN12
+Rwanda,RW,RWA,646,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Population and Housing Census - CEN12
+Rwanda,RW,RWA,646,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Population and Housing Census - CEN12
+Rwanda,RW,RWA,646,National,8,Dry latrines - Traditional latrine,0.948,Population and Housing Census - CEN12
+Rwanda,RW,RWA,646,National,8,Dry latrines - Traditional latrine,0.824,Population and Housing Census - CEN12
+Rwanda,RW,RWA,646,National,8,Dry latrines - Traditional latrine,0.124,Population and Housing Census - CEN12
+Rwanda,RW,RWA,646,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Population and Housing Census - CEN12
+Rwanda,RW,RWA,646,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Population and Housing Census - CEN12
+Rwanda,RW,RWA,646,National,11,Dry latrines - Bucket latrine,0.0,Population and Housing Census - CEN12
+Rwanda,RW,RWA,646,National,12,Dry latrines - Other,0.0,Population and Housing Census - CEN12
+Rwanda,RW,RWA,646,National,13,Composting toilets,0.0,Population and Housing Census - CEN12
+Rwanda,RW,RWA,646,National,14,Other improved,0.0,Population and Housing Census - CEN12
+Rwanda,RW,RWA,646,National,15,"No facility, bush, field",0.009,Population and Housing Census - CEN12
+Rwanda,RW,RWA,646,National,16,Other unimproved,0.017,Population and Housing Census - CEN12
+Rwanda,RW,RWA,646,National,17,DK/missing information,0.018,Population and Housing Census - CEN12
 Rwanda,RW,RWA,646,Urban,1,Flush and pour flush - to piped sewer system,0.061,Malaria Indicator Survey - MIS13
 Rwanda,RW,RWA,646,Urban,2,Flush and pour flush - to septic tank,0.034,Malaria Indicator Survey - MIS13
 Rwanda,RW,RWA,646,Urban,3,Flush and pour flush - to pit,0.0,Malaria Indicator Survey - MIS13
@@ -101,6 +651,23 @@ Rwanda,RW,RWA,646,Rural,14,Other improved,0.0,Malaria Indicator Survey - MIS13
 Rwanda,RW,RWA,646,Rural,15,"No facility, bush, field",0.021,Malaria Indicator Survey - MIS13
 Rwanda,RW,RWA,646,Rural,16,Other unimproved,0.0,Malaria Indicator Survey - MIS13
 Rwanda,RW,RWA,646,Rural,17,DK/missing information,0.0,Malaria Indicator Survey - MIS13
+Rwanda,RW,RWA,646,National,1,Flush and pour flush - to piped sewer system,0.009,Malaria Indicator Survey - MIS13
+Rwanda,RW,RWA,646,National,2,Flush and pour flush - to septic tank,0.007,Malaria Indicator Survey - MIS13
+Rwanda,RW,RWA,646,National,3,Flush and pour flush - to pit,0.0,Malaria Indicator Survey - MIS13
+Rwanda,RW,RWA,646,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Malaria Indicator Survey - MIS13
+Rwanda,RW,RWA,646,National,5,Flush and pour flush - to elsewhere,0.0,Malaria Indicator Survey - MIS13
+Rwanda,RW,RWA,646,National,6,Dry latrines - Ventilated Improved Pit latrine,0.004,Malaria Indicator Survey - MIS13
+Rwanda,RW,RWA,646,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.628,Malaria Indicator Survey - MIS13
+Rwanda,RW,RWA,646,National,8,Dry latrines - Traditional latrine,0.0,Malaria Indicator Survey - MIS13
+Rwanda,RW,RWA,646,National,9,Dry latrines - Pit latrine without slab/open pit,0.331,Malaria Indicator Survey - MIS13
+Rwanda,RW,RWA,646,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Malaria Indicator Survey - MIS13
+Rwanda,RW,RWA,646,National,11,Dry latrines - Bucket latrine,0.0,Malaria Indicator Survey - MIS13
+Rwanda,RW,RWA,646,National,12,Dry latrines - Other,0.0,Malaria Indicator Survey - MIS13
+Rwanda,RW,RWA,646,National,13,Composting toilets,0.003,Malaria Indicator Survey - MIS13
+Rwanda,RW,RWA,646,National,14,Other improved,0.0,Malaria Indicator Survey - MIS13
+Rwanda,RW,RWA,646,National,15,"No facility, bush, field",0.018,Malaria Indicator Survey - MIS13
+Rwanda,RW,RWA,646,National,16,Other unimproved,0.0,Malaria Indicator Survey - MIS13
+Rwanda,RW,RWA,646,National,17,DK/missing information,0.0,Malaria Indicator Survey - MIS13
 Rwanda,RW,RWA,646,Urban,1,Flush and pour flush - to piped sewer system,0.073,"Demographic and Health Survey, 2014-2015 - DHS15"
 Rwanda,RW,RWA,646,Urban,2,Flush and pour flush - to septic tank,0.016,"Demographic and Health Survey, 2014-2015 - DHS15"
 Rwanda,RW,RWA,646,Urban,3,Flush and pour flush - to pit,0.018,"Demographic and Health Survey, 2014-2015 - DHS15"
@@ -135,6 +702,23 @@ Rwanda,RW,RWA,646,Rural,14,Other improved,0.0,"Demographic and Health Survey, 20
 Rwanda,RW,RWA,646,Rural,15,"No facility, bush, field",0.034,"Demographic and Health Survey, 2014-2015 - DHS15"
 Rwanda,RW,RWA,646,Rural,16,Other unimproved,0.001,"Demographic and Health Survey, 2014-2015 - DHS15"
 Rwanda,RW,RWA,646,Rural,17,DK/missing information,0.0,"Demographic and Health Survey, 2014-2015 - DHS15"
+Rwanda,RW,RWA,646,National,1,Flush and pour flush - to piped sewer system,0.014,"Demographic and Health Survey, 2014-2015 - DHS15"
+Rwanda,RW,RWA,646,National,2,Flush and pour flush - to septic tank,0.003,"Demographic and Health Survey, 2014-2015 - DHS15"
+Rwanda,RW,RWA,646,National,3,Flush and pour flush - to pit,0.004,"Demographic and Health Survey, 2014-2015 - DHS15"
+Rwanda,RW,RWA,646,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Demographic and Health Survey, 2014-2015 - DHS15"
+Rwanda,RW,RWA,646,National,5,Flush and pour flush - to elsewhere,0.003,"Demographic and Health Survey, 2014-2015 - DHS15"
+Rwanda,RW,RWA,646,National,6,Dry latrines - Ventilated Improved Pit latrine,0.054,"Demographic and Health Survey, 2014-2015 - DHS15"
+Rwanda,RW,RWA,646,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.641,"Demographic and Health Survey, 2014-2015 - DHS15"
+Rwanda,RW,RWA,646,National,8,Dry latrines - Traditional latrine,0.0,"Demographic and Health Survey, 2014-2015 - DHS15"
+Rwanda,RW,RWA,646,National,9,Dry latrines - Pit latrine without slab/open pit,0.244,"Demographic and Health Survey, 2014-2015 - DHS15"
+Rwanda,RW,RWA,646,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Demographic and Health Survey, 2014-2015 - DHS15"
+Rwanda,RW,RWA,646,National,11,Dry latrines - Bucket latrine,0.0,"Demographic and Health Survey, 2014-2015 - DHS15"
+Rwanda,RW,RWA,646,National,12,Dry latrines - Other,0.0,"Demographic and Health Survey, 2014-2015 - DHS15"
+Rwanda,RW,RWA,646,National,13,Composting toilets,0.006,"Demographic and Health Survey, 2014-2015 - DHS15"
+Rwanda,RW,RWA,646,National,14,Other improved,0.0,"Demographic and Health Survey, 2014-2015 - DHS15"
+Rwanda,RW,RWA,646,National,15,"No facility, bush, field",0.03,"Demographic and Health Survey, 2014-2015 - DHS15"
+Rwanda,RW,RWA,646,National,16,Other unimproved,0.001,"Demographic and Health Survey, 2014-2015 - DHS15"
+Rwanda,RW,RWA,646,National,17,DK/missing information,0.0,"Demographic and Health Survey, 2014-2015 - DHS15"
 Rwanda,RW,RWA,646,Urban,1,Flush and pour flush - to piped sewer system,0.051,Malaria Indicator Survey - MIS17
 Rwanda,RW,RWA,646,Urban,2,Flush and pour flush - to septic tank,0.031,Malaria Indicator Survey - MIS17
 Rwanda,RW,RWA,646,Urban,3,Flush and pour flush - to pit,0.01,Malaria Indicator Survey - MIS17
@@ -169,3 +753,275 @@ Rwanda,RW,RWA,646,Rural,14,Other improved,0.0,Malaria Indicator Survey - MIS17
 Rwanda,RW,RWA,646,Rural,15,"No facility, bush, field",0.017,Malaria Indicator Survey - MIS17
 Rwanda,RW,RWA,646,Rural,16,Other unimproved,0.003,Malaria Indicator Survey - MIS17
 Rwanda,RW,RWA,646,Rural,17,DK/missing information,0.0,Malaria Indicator Survey - MIS17
+Rwanda,RW,RWA,646,National,1,Flush and pour flush - to piped sewer system,0.01,Malaria Indicator Survey - MIS17
+Rwanda,RW,RWA,646,National,2,Flush and pour flush - to septic tank,0.008,Malaria Indicator Survey - MIS17
+Rwanda,RW,RWA,646,National,3,Flush and pour flush - to pit,0.002,Malaria Indicator Survey - MIS17
+Rwanda,RW,RWA,646,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Malaria Indicator Survey - MIS17
+Rwanda,RW,RWA,646,National,5,Flush and pour flush - to elsewhere,0.002,Malaria Indicator Survey - MIS17
+Rwanda,RW,RWA,646,National,6,Dry latrines - Ventilated Improved Pit latrine,0.048,Malaria Indicator Survey - MIS17
+Rwanda,RW,RWA,646,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.752,Malaria Indicator Survey - MIS17
+Rwanda,RW,RWA,646,National,8,Dry latrines - Traditional latrine,0.0,Malaria Indicator Survey - MIS17
+Rwanda,RW,RWA,646,National,9,Dry latrines - Pit latrine without slab/open pit,0.142,Malaria Indicator Survey - MIS17
+Rwanda,RW,RWA,646,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Malaria Indicator Survey - MIS17
+Rwanda,RW,RWA,646,National,11,Dry latrines - Bucket latrine,0.0,Malaria Indicator Survey - MIS17
+Rwanda,RW,RWA,646,National,12,Dry latrines - Other,0.0,Malaria Indicator Survey - MIS17
+Rwanda,RW,RWA,646,National,13,Composting toilets,0.016,Malaria Indicator Survey - MIS17
+Rwanda,RW,RWA,646,National,14,Other improved,0.0,Malaria Indicator Survey - MIS17
+Rwanda,RW,RWA,646,National,15,"No facility, bush, field",0.015,Malaria Indicator Survey - MIS17
+Rwanda,RW,RWA,646,National,16,Other unimproved,0.003,Malaria Indicator Survey - MIS17
+Rwanda,RW,RWA,646,National,17,DK/missing information,0.0,Malaria Indicator Survey - MIS17
+Rwanda,RW,RWA,646,Urban,1,Flush and pour flush - to piped sewer system,0.0,"Integrated Household Living Conditions Survey, 2016-2017 - EICV17"
+Rwanda,RW,RWA,646,Urban,2,Flush and pour flush - to septic tank,0.0,"Integrated Household Living Conditions Survey, 2016-2017 - EICV17"
+Rwanda,RW,RWA,646,Urban,3,Flush and pour flush - to pit,0.0,"Integrated Household Living Conditions Survey, 2016-2017 - EICV17"
+Rwanda,RW,RWA,646,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Integrated Household Living Conditions Survey, 2016-2017 - EICV17"
+Rwanda,RW,RWA,646,Urban,5,Flush and pour flush - to elsewhere,0.0,"Integrated Household Living Conditions Survey, 2016-2017 - EICV17"
+Rwanda,RW,RWA,646,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Integrated Household Living Conditions Survey, 2016-2017 - EICV17"
+Rwanda,RW,RWA,646,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.844,"Integrated Household Living Conditions Survey, 2016-2017 - EICV17"
+Rwanda,RW,RWA,646,Urban,8,Dry latrines - Traditional latrine,0.0,"Integrated Household Living Conditions Survey, 2016-2017 - EICV17"
+Rwanda,RW,RWA,646,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.043,"Integrated Household Living Conditions Survey, 2016-2017 - EICV17"
+Rwanda,RW,RWA,646,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Integrated Household Living Conditions Survey, 2016-2017 - EICV17"
+Rwanda,RW,RWA,646,Urban,11,Dry latrines - Bucket latrine,0.0,"Integrated Household Living Conditions Survey, 2016-2017 - EICV17"
+Rwanda,RW,RWA,646,Urban,12,Dry latrines - Other,0.0,"Integrated Household Living Conditions Survey, 2016-2017 - EICV17"
+Rwanda,RW,RWA,646,Urban,13,Composting toilets,0.0,"Integrated Household Living Conditions Survey, 2016-2017 - EICV17"
+Rwanda,RW,RWA,646,Urban,14,Other improved,0.0,"Integrated Household Living Conditions Survey, 2016-2017 - EICV17"
+Rwanda,RW,RWA,646,Urban,15,"No facility, bush, field",0.021,"Integrated Household Living Conditions Survey, 2016-2017 - EICV17"
+Rwanda,RW,RWA,646,Urban,16,Other unimproved,0.001,"Integrated Household Living Conditions Survey, 2016-2017 - EICV17"
+Rwanda,RW,RWA,646,Urban,17,DK/missing information,0.0,"Integrated Household Living Conditions Survey, 2016-2017 - EICV17"
+Rwanda,RW,RWA,646,Rural,1,Flush and pour flush - to piped sewer system,0.0,"Integrated Household Living Conditions Survey, 2016-2017 - EICV17"
+Rwanda,RW,RWA,646,Rural,2,Flush and pour flush - to septic tank,0.0,"Integrated Household Living Conditions Survey, 2016-2017 - EICV17"
+Rwanda,RW,RWA,646,Rural,3,Flush and pour flush - to pit,0.0,"Integrated Household Living Conditions Survey, 2016-2017 - EICV17"
+Rwanda,RW,RWA,646,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Integrated Household Living Conditions Survey, 2016-2017 - EICV17"
+Rwanda,RW,RWA,646,Rural,5,Flush and pour flush - to elsewhere,0.0,"Integrated Household Living Conditions Survey, 2016-2017 - EICV17"
+Rwanda,RW,RWA,646,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Integrated Household Living Conditions Survey, 2016-2017 - EICV17"
+Rwanda,RW,RWA,646,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.843,"Integrated Household Living Conditions Survey, 2016-2017 - EICV17"
+Rwanda,RW,RWA,646,Rural,8,Dry latrines - Traditional latrine,0.0,"Integrated Household Living Conditions Survey, 2016-2017 - EICV17"
+Rwanda,RW,RWA,646,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.112,"Integrated Household Living Conditions Survey, 2016-2017 - EICV17"
+Rwanda,RW,RWA,646,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Integrated Household Living Conditions Survey, 2016-2017 - EICV17"
+Rwanda,RW,RWA,646,Rural,11,Dry latrines - Bucket latrine,0.0,"Integrated Household Living Conditions Survey, 2016-2017 - EICV17"
+Rwanda,RW,RWA,646,Rural,12,Dry latrines - Other,0.0,"Integrated Household Living Conditions Survey, 2016-2017 - EICV17"
+Rwanda,RW,RWA,646,Rural,13,Composting toilets,0.0,"Integrated Household Living Conditions Survey, 2016-2017 - EICV17"
+Rwanda,RW,RWA,646,Rural,14,Other improved,0.0,"Integrated Household Living Conditions Survey, 2016-2017 - EICV17"
+Rwanda,RW,RWA,646,Rural,15,"No facility, bush, field",0.042,"Integrated Household Living Conditions Survey, 2016-2017 - EICV17"
+Rwanda,RW,RWA,646,Rural,16,Other unimproved,0.002,"Integrated Household Living Conditions Survey, 2016-2017 - EICV17"
+Rwanda,RW,RWA,646,Rural,17,DK/missing information,0.0,"Integrated Household Living Conditions Survey, 2016-2017 - EICV17"
+Rwanda,RW,RWA,646,National,1,Flush and pour flush - to piped sewer system,0.0,"Integrated Household Living Conditions Survey, 2016-2017 - EICV17"
+Rwanda,RW,RWA,646,National,2,Flush and pour flush - to septic tank,0.0,"Integrated Household Living Conditions Survey, 2016-2017 - EICV17"
+Rwanda,RW,RWA,646,National,3,Flush and pour flush - to pit,0.0,"Integrated Household Living Conditions Survey, 2016-2017 - EICV17"
+Rwanda,RW,RWA,646,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Integrated Household Living Conditions Survey, 2016-2017 - EICV17"
+Rwanda,RW,RWA,646,National,5,Flush and pour flush - to elsewhere,0.0,"Integrated Household Living Conditions Survey, 2016-2017 - EICV17"
+Rwanda,RW,RWA,646,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Integrated Household Living Conditions Survey, 2016-2017 - EICV17"
+Rwanda,RW,RWA,646,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.843,"Integrated Household Living Conditions Survey, 2016-2017 - EICV17"
+Rwanda,RW,RWA,646,National,8,Dry latrines - Traditional latrine,0.0,"Integrated Household Living Conditions Survey, 2016-2017 - EICV17"
+Rwanda,RW,RWA,646,National,9,Dry latrines - Pit latrine without slab/open pit,0.098,"Integrated Household Living Conditions Survey, 2016-2017 - EICV17"
+Rwanda,RW,RWA,646,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Integrated Household Living Conditions Survey, 2016-2017 - EICV17"
+Rwanda,RW,RWA,646,National,11,Dry latrines - Bucket latrine,0.0,"Integrated Household Living Conditions Survey, 2016-2017 - EICV17"
+Rwanda,RW,RWA,646,National,12,Dry latrines - Other,0.0,"Integrated Household Living Conditions Survey, 2016-2017 - EICV17"
+Rwanda,RW,RWA,646,National,13,Composting toilets,0.0,"Integrated Household Living Conditions Survey, 2016-2017 - EICV17"
+Rwanda,RW,RWA,646,National,14,Other improved,0.0,"Integrated Household Living Conditions Survey, 2016-2017 - EICV17"
+Rwanda,RW,RWA,646,National,15,"No facility, bush, field",0.038,"Integrated Household Living Conditions Survey, 2016-2017 - EICV17"
+Rwanda,RW,RWA,646,National,16,Other unimproved,0.002,"Integrated Household Living Conditions Survey, 2016-2017 - EICV17"
+Rwanda,RW,RWA,646,National,17,DK/missing information,0.0,"Integrated Household Living Conditions Survey, 2016-2017 - EICV17"
+Rwanda,RW,RWA,646,Urban,1,Flush and pour flush - to piped sewer system,0.0,"Integrated Household Living Conditions Survey, 2013-2014 - EICV14"
+Rwanda,RW,RWA,646,Urban,2,Flush and pour flush - to septic tank,0.0,"Integrated Household Living Conditions Survey, 2013-2014 - EICV14"
+Rwanda,RW,RWA,646,Urban,3,Flush and pour flush - to pit,0.0,"Integrated Household Living Conditions Survey, 2013-2014 - EICV14"
+Rwanda,RW,RWA,646,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Integrated Household Living Conditions Survey, 2013-2014 - EICV14"
+Rwanda,RW,RWA,646,Urban,5,Flush and pour flush - to elsewhere,0.0,"Integrated Household Living Conditions Survey, 2013-2014 - EICV14"
+Rwanda,RW,RWA,646,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Integrated Household Living Conditions Survey, 2013-2014 - EICV14"
+Rwanda,RW,RWA,646,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.809,"Integrated Household Living Conditions Survey, 2013-2014 - EICV14"
+Rwanda,RW,RWA,646,Urban,8,Dry latrines - Traditional latrine,0.0,"Integrated Household Living Conditions Survey, 2013-2014 - EICV14"
+Rwanda,RW,RWA,646,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.151,"Integrated Household Living Conditions Survey, 2013-2014 - EICV14"
+Rwanda,RW,RWA,646,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Integrated Household Living Conditions Survey, 2013-2014 - EICV14"
+Rwanda,RW,RWA,646,Urban,11,Dry latrines - Bucket latrine,0.0,"Integrated Household Living Conditions Survey, 2013-2014 - EICV14"
+Rwanda,RW,RWA,646,Urban,12,Dry latrines - Other,0.0,"Integrated Household Living Conditions Survey, 2013-2014 - EICV14"
+Rwanda,RW,RWA,646,Urban,13,Composting toilets,0.0,"Integrated Household Living Conditions Survey, 2013-2014 - EICV14"
+Rwanda,RW,RWA,646,Urban,14,Other improved,0.0,"Integrated Household Living Conditions Survey, 2013-2014 - EICV14"
+Rwanda,RW,RWA,646,Urban,15,"No facility, bush, field",0.036,"Integrated Household Living Conditions Survey, 2013-2014 - EICV14"
+Rwanda,RW,RWA,646,Urban,16,Other unimproved,0.0,"Integrated Household Living Conditions Survey, 2013-2014 - EICV14"
+Rwanda,RW,RWA,646,Urban,17,DK/missing information,0.0,"Integrated Household Living Conditions Survey, 2013-2014 - EICV14"
+Rwanda,RW,RWA,646,Rural,1,Flush and pour flush - to piped sewer system,0.0,"Integrated Household Living Conditions Survey, 2013-2014 - EICV14"
+Rwanda,RW,RWA,646,Rural,2,Flush and pour flush - to septic tank,0.0,"Integrated Household Living Conditions Survey, 2013-2014 - EICV14"
+Rwanda,RW,RWA,646,Rural,3,Flush and pour flush - to pit,0.0,"Integrated Household Living Conditions Survey, 2013-2014 - EICV14"
+Rwanda,RW,RWA,646,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Integrated Household Living Conditions Survey, 2013-2014 - EICV14"
+Rwanda,RW,RWA,646,Rural,5,Flush and pour flush - to elsewhere,0.0,"Integrated Household Living Conditions Survey, 2013-2014 - EICV14"
+Rwanda,RW,RWA,646,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Integrated Household Living Conditions Survey, 2013-2014 - EICV14"
+Rwanda,RW,RWA,646,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.849,"Integrated Household Living Conditions Survey, 2013-2014 - EICV14"
+Rwanda,RW,RWA,646,Rural,8,Dry latrines - Traditional latrine,0.0,"Integrated Household Living Conditions Survey, 2013-2014 - EICV14"
+Rwanda,RW,RWA,646,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.053,"Integrated Household Living Conditions Survey, 2013-2014 - EICV14"
+Rwanda,RW,RWA,646,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Integrated Household Living Conditions Survey, 2013-2014 - EICV14"
+Rwanda,RW,RWA,646,Rural,11,Dry latrines - Bucket latrine,0.0,"Integrated Household Living Conditions Survey, 2013-2014 - EICV14"
+Rwanda,RW,RWA,646,Rural,12,Dry latrines - Other,0.0,"Integrated Household Living Conditions Survey, 2013-2014 - EICV14"
+Rwanda,RW,RWA,646,Rural,13,Composting toilets,0.0,"Integrated Household Living Conditions Survey, 2013-2014 - EICV14"
+Rwanda,RW,RWA,646,Rural,14,Other improved,0.0,"Integrated Household Living Conditions Survey, 2013-2014 - EICV14"
+Rwanda,RW,RWA,646,Rural,15,"No facility, bush, field",0.012,"Integrated Household Living Conditions Survey, 2013-2014 - EICV14"
+Rwanda,RW,RWA,646,Rural,16,Other unimproved,0.0,"Integrated Household Living Conditions Survey, 2013-2014 - EICV14"
+Rwanda,RW,RWA,646,Rural,17,DK/missing information,0.0,"Integrated Household Living Conditions Survey, 2013-2014 - EICV14"
+Rwanda,RW,RWA,646,National,1,Flush and pour flush - to piped sewer system,0.0,"Integrated Household Living Conditions Survey, 2013-2014 - EICV14"
+Rwanda,RW,RWA,646,National,2,Flush and pour flush - to septic tank,0.0,"Integrated Household Living Conditions Survey, 2013-2014 - EICV14"
+Rwanda,RW,RWA,646,National,3,Flush and pour flush - to pit,0.0,"Integrated Household Living Conditions Survey, 2013-2014 - EICV14"
+Rwanda,RW,RWA,646,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Integrated Household Living Conditions Survey, 2013-2014 - EICV14"
+Rwanda,RW,RWA,646,National,5,Flush and pour flush - to elsewhere,0.0,"Integrated Household Living Conditions Survey, 2013-2014 - EICV14"
+Rwanda,RW,RWA,646,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Integrated Household Living Conditions Survey, 2013-2014 - EICV14"
+Rwanda,RW,RWA,646,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.816,"Integrated Household Living Conditions Survey, 2013-2014 - EICV14"
+Rwanda,RW,RWA,646,National,8,Dry latrines - Traditional latrine,0.0,"Integrated Household Living Conditions Survey, 2013-2014 - EICV14"
+Rwanda,RW,RWA,646,National,9,Dry latrines - Pit latrine without slab/open pit,0.135,"Integrated Household Living Conditions Survey, 2013-2014 - EICV14"
+Rwanda,RW,RWA,646,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Integrated Household Living Conditions Survey, 2013-2014 - EICV14"
+Rwanda,RW,RWA,646,National,11,Dry latrines - Bucket latrine,0.0,"Integrated Household Living Conditions Survey, 2013-2014 - EICV14"
+Rwanda,RW,RWA,646,National,12,Dry latrines - Other,0.0,"Integrated Household Living Conditions Survey, 2013-2014 - EICV14"
+Rwanda,RW,RWA,646,National,13,Composting toilets,0.0,"Integrated Household Living Conditions Survey, 2013-2014 - EICV14"
+Rwanda,RW,RWA,646,National,14,Other improved,0.0,"Integrated Household Living Conditions Survey, 2013-2014 - EICV14"
+Rwanda,RW,RWA,646,National,15,"No facility, bush, field",0.032,"Integrated Household Living Conditions Survey, 2013-2014 - EICV14"
+Rwanda,RW,RWA,646,National,16,Other unimproved,0.0,"Integrated Household Living Conditions Survey, 2013-2014 - EICV14"
+Rwanda,RW,RWA,646,National,17,DK/missing information,0.0,"Integrated Household Living Conditions Survey, 2013-2014 - EICV14"
+Rwanda,RW,RWA,646,Urban,1,Flush and pour flush - to piped sewer system,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV02
+Rwanda,RW,RWA,646,Urban,2,Flush and pour flush - to septic tank,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV02
+Rwanda,RW,RWA,646,Urban,3,Flush and pour flush - to pit,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV02
+Rwanda,RW,RWA,646,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV02
+Rwanda,RW,RWA,646,Urban,5,Flush and pour flush - to elsewhere,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV02
+Rwanda,RW,RWA,646,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV02
+Rwanda,RW,RWA,646,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV02
+Rwanda,RW,RWA,646,Urban,8,Dry latrines - Traditional latrine,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV02
+Rwanda,RW,RWA,646,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.233,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV02
+Rwanda,RW,RWA,646,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV02
+Rwanda,RW,RWA,646,Urban,11,Dry latrines - Bucket latrine,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV02
+Rwanda,RW,RWA,646,Urban,12,Dry latrines - Other,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV02
+Rwanda,RW,RWA,646,Urban,13,Composting toilets,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV02
+Rwanda,RW,RWA,646,Urban,14,Other improved,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV02
+Rwanda,RW,RWA,646,Urban,15,"No facility, bush, field",0.03,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV02
+Rwanda,RW,RWA,646,Urban,16,Other unimproved,0.005,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV02
+Rwanda,RW,RWA,646,Urban,17,DK/missing information,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV02
+Rwanda,RW,RWA,646,Rural,1,Flush and pour flush - to piped sewer system,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV02
+Rwanda,RW,RWA,646,Rural,2,Flush and pour flush - to septic tank,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV02
+Rwanda,RW,RWA,646,Rural,3,Flush and pour flush - to pit,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV02
+Rwanda,RW,RWA,646,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV02
+Rwanda,RW,RWA,646,Rural,5,Flush and pour flush - to elsewhere,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV02
+Rwanda,RW,RWA,646,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV02
+Rwanda,RW,RWA,646,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV02
+Rwanda,RW,RWA,646,Rural,8,Dry latrines - Traditional latrine,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV02
+Rwanda,RW,RWA,646,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.446,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV02
+Rwanda,RW,RWA,646,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV02
+Rwanda,RW,RWA,646,Rural,11,Dry latrines - Bucket latrine,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV02
+Rwanda,RW,RWA,646,Rural,12,Dry latrines - Other,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV02
+Rwanda,RW,RWA,646,Rural,13,Composting toilets,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV02
+Rwanda,RW,RWA,646,Rural,14,Other improved,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV02
+Rwanda,RW,RWA,646,Rural,15,"No facility, bush, field",0.065,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV02
+Rwanda,RW,RWA,646,Rural,16,Other unimproved,0.014,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV02
+Rwanda,RW,RWA,646,Rural,17,DK/missing information,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV02
+Rwanda,RW,RWA,646,National,1,Flush and pour flush - to piped sewer system,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV02
+Rwanda,RW,RWA,646,National,2,Flush and pour flush - to septic tank,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV02
+Rwanda,RW,RWA,646,National,3,Flush and pour flush - to pit,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV02
+Rwanda,RW,RWA,646,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV02
+Rwanda,RW,RWA,646,National,5,Flush and pour flush - to elsewhere,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV02
+Rwanda,RW,RWA,646,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV02
+Rwanda,RW,RWA,646,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV02
+Rwanda,RW,RWA,646,National,8,Dry latrines - Traditional latrine,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV02
+Rwanda,RW,RWA,646,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV02
+Rwanda,RW,RWA,646,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV02
+Rwanda,RW,RWA,646,National,11,Dry latrines - Bucket latrine,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV02
+Rwanda,RW,RWA,646,National,12,Dry latrines - Other,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV02
+Rwanda,RW,RWA,646,National,13,Composting toilets,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV02
+Rwanda,RW,RWA,646,National,14,Other improved,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV02
+Rwanda,RW,RWA,646,National,15,"No facility, bush, field",0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV02
+Rwanda,RW,RWA,646,National,16,Other unimproved,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV02
+Rwanda,RW,RWA,646,National,17,DK/missing information,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV02
+Rwanda,RW,RWA,646,Urban,1,Flush and pour flush - to piped sewer system,0.0,Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey - CFSVA06
+Rwanda,RW,RWA,646,Urban,2,Flush and pour flush - to septic tank,0.0,Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey - CFSVA06
+Rwanda,RW,RWA,646,Urban,3,Flush and pour flush - to pit,0.0,Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey - CFSVA06
+Rwanda,RW,RWA,646,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey - CFSVA06
+Rwanda,RW,RWA,646,Urban,5,Flush and pour flush - to elsewhere,0.0,Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey - CFSVA06
+Rwanda,RW,RWA,646,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey - CFSVA06
+Rwanda,RW,RWA,646,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey - CFSVA06
+Rwanda,RW,RWA,646,Urban,8,Dry latrines - Traditional latrine,0.0,Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey - CFSVA06
+Rwanda,RW,RWA,646,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey - CFSVA06
+Rwanda,RW,RWA,646,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey - CFSVA06
+Rwanda,RW,RWA,646,Urban,11,Dry latrines - Bucket latrine,0.0,Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey - CFSVA06
+Rwanda,RW,RWA,646,Urban,12,Dry latrines - Other,0.0,Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey - CFSVA06
+Rwanda,RW,RWA,646,Urban,13,Composting toilets,0.0,Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey - CFSVA06
+Rwanda,RW,RWA,646,Urban,14,Other improved,0.0,Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey - CFSVA06
+Rwanda,RW,RWA,646,Urban,15,"No facility, bush, field",0.0,Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey - CFSVA06
+Rwanda,RW,RWA,646,Urban,16,Other unimproved,0.0,Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey - CFSVA06
+Rwanda,RW,RWA,646,Urban,17,DK/missing information,0.0,Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey - CFSVA06
+Rwanda,RW,RWA,646,Rural,1,Flush and pour flush - to piped sewer system,0.0,Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey - CFSVA06
+Rwanda,RW,RWA,646,Rural,2,Flush and pour flush - to septic tank,0.0,Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey - CFSVA06
+Rwanda,RW,RWA,646,Rural,3,Flush and pour flush - to pit,0.0,Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey - CFSVA06
+Rwanda,RW,RWA,646,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey - CFSVA06
+Rwanda,RW,RWA,646,Rural,5,Flush and pour flush - to elsewhere,0.0,Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey - CFSVA06
+Rwanda,RW,RWA,646,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.021,Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey - CFSVA06
+Rwanda,RW,RWA,646,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey - CFSVA06
+Rwanda,RW,RWA,646,Rural,8,Dry latrines - Traditional latrine,0.715,Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey - CFSVA06
+Rwanda,RW,RWA,646,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.221,Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey - CFSVA06
+Rwanda,RW,RWA,646,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey - CFSVA06
+Rwanda,RW,RWA,646,Rural,11,Dry latrines - Bucket latrine,0.0,Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey - CFSVA06
+Rwanda,RW,RWA,646,Rural,12,Dry latrines - Other,0.0,Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey - CFSVA06
+Rwanda,RW,RWA,646,Rural,13,Composting toilets,0.0,Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey - CFSVA06
+Rwanda,RW,RWA,646,Rural,14,Other improved,0.0,Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey - CFSVA06
+Rwanda,RW,RWA,646,Rural,15,"No facility, bush, field",0.031,Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey - CFSVA06
+Rwanda,RW,RWA,646,Rural,16,Other unimproved,0.0,Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey - CFSVA06
+Rwanda,RW,RWA,646,Rural,17,DK/missing information,0.0,Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey - CFSVA06
+Rwanda,RW,RWA,646,National,1,Flush and pour flush - to piped sewer system,0.0,Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey - CFSVA06
+Rwanda,RW,RWA,646,National,2,Flush and pour flush - to septic tank,0.0,Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey - CFSVA06
+Rwanda,RW,RWA,646,National,3,Flush and pour flush - to pit,0.0,Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey - CFSVA06
+Rwanda,RW,RWA,646,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey - CFSVA06
+Rwanda,RW,RWA,646,National,5,Flush and pour flush - to elsewhere,0.0,Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey - CFSVA06
+Rwanda,RW,RWA,646,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey - CFSVA06
+Rwanda,RW,RWA,646,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey - CFSVA06
+Rwanda,RW,RWA,646,National,8,Dry latrines - Traditional latrine,0.0,Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey - CFSVA06
+Rwanda,RW,RWA,646,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey - CFSVA06
+Rwanda,RW,RWA,646,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey - CFSVA06
+Rwanda,RW,RWA,646,National,11,Dry latrines - Bucket latrine,0.0,Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey - CFSVA06
+Rwanda,RW,RWA,646,National,12,Dry latrines - Other,0.0,Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey - CFSVA06
+Rwanda,RW,RWA,646,National,13,Composting toilets,0.0,Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey - CFSVA06
+Rwanda,RW,RWA,646,National,14,Other improved,0.0,Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey - CFSVA06
+Rwanda,RW,RWA,646,National,15,"No facility, bush, field",0.0,Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey - CFSVA06
+Rwanda,RW,RWA,646,National,16,Other unimproved,0.0,Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey - CFSVA06
+Rwanda,RW,RWA,646,National,17,DK/missing information,0.0,Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey - CFSVA06
+Rwanda,RW,RWA,646,Urban,1,Flush and pour flush - to piped sewer system,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV06
+Rwanda,RW,RWA,646,Urban,2,Flush and pour flush - to septic tank,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV06
+Rwanda,RW,RWA,646,Urban,3,Flush and pour flush - to pit,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV06
+Rwanda,RW,RWA,646,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV06
+Rwanda,RW,RWA,646,Urban,5,Flush and pour flush - to elsewhere,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV06
+Rwanda,RW,RWA,646,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV06
+Rwanda,RW,RWA,646,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV06
+Rwanda,RW,RWA,646,Urban,8,Dry latrines - Traditional latrine,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV06
+Rwanda,RW,RWA,646,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.193,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV06
+Rwanda,RW,RWA,646,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV06
+Rwanda,RW,RWA,646,Urban,11,Dry latrines - Bucket latrine,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV06
+Rwanda,RW,RWA,646,Urban,12,Dry latrines - Other,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV06
+Rwanda,RW,RWA,646,Urban,13,Composting toilets,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV06
+Rwanda,RW,RWA,646,Urban,14,Other improved,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV06
+Rwanda,RW,RWA,646,Urban,15,"No facility, bush, field",0.045,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV06
+Rwanda,RW,RWA,646,Urban,16,Other unimproved,0.001,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV06
+Rwanda,RW,RWA,646,Urban,17,DK/missing information,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV06
+Rwanda,RW,RWA,646,Rural,1,Flush and pour flush - to piped sewer system,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV06
+Rwanda,RW,RWA,646,Rural,2,Flush and pour flush - to septic tank,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV06
+Rwanda,RW,RWA,646,Rural,3,Flush and pour flush - to pit,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV06
+Rwanda,RW,RWA,646,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV06
+Rwanda,RW,RWA,646,Rural,5,Flush and pour flush - to elsewhere,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV06
+Rwanda,RW,RWA,646,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV06
+Rwanda,RW,RWA,646,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV06
+Rwanda,RW,RWA,646,Rural,8,Dry latrines - Traditional latrine,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV06
+Rwanda,RW,RWA,646,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.377,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV06
+Rwanda,RW,RWA,646,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV06
+Rwanda,RW,RWA,646,Rural,11,Dry latrines - Bucket latrine,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV06
+Rwanda,RW,RWA,646,Rural,12,Dry latrines - Other,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV06
+Rwanda,RW,RWA,646,Rural,13,Composting toilets,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV06
+Rwanda,RW,RWA,646,Rural,14,Other improved,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV06
+Rwanda,RW,RWA,646,Rural,15,"No facility, bush, field",0.067,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV06
+Rwanda,RW,RWA,646,Rural,16,Other unimproved,0.003,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV06
+Rwanda,RW,RWA,646,Rural,17,DK/missing information,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV06
+Rwanda,RW,RWA,646,National,1,Flush and pour flush - to piped sewer system,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV06
+Rwanda,RW,RWA,646,National,2,Flush and pour flush - to septic tank,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV06
+Rwanda,RW,RWA,646,National,3,Flush and pour flush - to pit,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV06
+Rwanda,RW,RWA,646,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV06
+Rwanda,RW,RWA,646,National,5,Flush and pour flush - to elsewhere,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV06
+Rwanda,RW,RWA,646,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV06
+Rwanda,RW,RWA,646,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV06
+Rwanda,RW,RWA,646,National,8,Dry latrines - Traditional latrine,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV06
+Rwanda,RW,RWA,646,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV06
+Rwanda,RW,RWA,646,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV06
+Rwanda,RW,RWA,646,National,11,Dry latrines - Bucket latrine,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV06
+Rwanda,RW,RWA,646,National,12,Dry latrines - Other,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV06
+Rwanda,RW,RWA,646,National,13,Composting toilets,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV06
+Rwanda,RW,RWA,646,National,14,Other improved,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV06
+Rwanda,RW,RWA,646,National,15,"No facility, bush, field",0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV06
+Rwanda,RW,RWA,646,National,16,Other unimproved,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV06
+Rwanda,RW,RWA,646,National,17,DK/missing information,0.0,Enquête Intégrale sur les Conditions de Vie des Ménages - EICV06

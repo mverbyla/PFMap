@@ -1,4 +1,214 @@
 country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+Cameroon,CM,CMR,120,Urban,1,Flush and pour flush - to piped sewer system,0.0,Enquête à Indicateurs Multiples - MICS00
+Cameroon,CM,CMR,120,Urban,2,Flush and pour flush - to septic tank,0.0,Enquête à Indicateurs Multiples - MICS00
+Cameroon,CM,CMR,120,Urban,3,Flush and pour flush - to pit,0.0,Enquête à Indicateurs Multiples - MICS00
+Cameroon,CM,CMR,120,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.031,Enquête à Indicateurs Multiples - MICS00
+Cameroon,CM,CMR,120,Urban,5,Flush and pour flush - to elsewhere,0.0,Enquête à Indicateurs Multiples - MICS00
+Cameroon,CM,CMR,120,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.045,Enquête à Indicateurs Multiples - MICS00
+Cameroon,CM,CMR,120,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Enquête à Indicateurs Multiples - MICS00
+Cameroon,CM,CMR,120,Urban,8,Dry latrines - Traditional latrine,0.676,Enquête à Indicateurs Multiples - MICS00
+Cameroon,CM,CMR,120,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.09,Enquête à Indicateurs Multiples - MICS00
+Cameroon,CM,CMR,120,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquête à Indicateurs Multiples - MICS00
+Cameroon,CM,CMR,120,Urban,11,Dry latrines - Bucket latrine,0.0,Enquête à Indicateurs Multiples - MICS00
+Cameroon,CM,CMR,120,Urban,12,Dry latrines - Other,0.0,Enquête à Indicateurs Multiples - MICS00
+Cameroon,CM,CMR,120,Urban,13,Composting toilets,0.0,Enquête à Indicateurs Multiples - MICS00
+Cameroon,CM,CMR,120,Urban,14,Other improved,0.0,Enquête à Indicateurs Multiples - MICS00
+Cameroon,CM,CMR,120,Urban,15,"No facility, bush, field",0.0,Enquête à Indicateurs Multiples - MICS00
+Cameroon,CM,CMR,120,Urban,16,Other unimproved,0.0,Enquête à Indicateurs Multiples - MICS00
+Cameroon,CM,CMR,120,Urban,17,DK/missing information,0.0,Enquête à Indicateurs Multiples - MICS00
+Cameroon,CM,CMR,120,Rural,1,Flush and pour flush - to piped sewer system,0.0,Enquête à Indicateurs Multiples - MICS00
+Cameroon,CM,CMR,120,Rural,2,Flush and pour flush - to septic tank,0.0,Enquête à Indicateurs Multiples - MICS00
+Cameroon,CM,CMR,120,Rural,3,Flush and pour flush - to pit,0.0,Enquête à Indicateurs Multiples - MICS00
+Cameroon,CM,CMR,120,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.002,Enquête à Indicateurs Multiples - MICS00
+Cameroon,CM,CMR,120,Rural,5,Flush and pour flush - to elsewhere,0.0,Enquête à Indicateurs Multiples - MICS00
+Cameroon,CM,CMR,120,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.036,Enquête à Indicateurs Multiples - MICS00
+Cameroon,CM,CMR,120,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Enquête à Indicateurs Multiples - MICS00
+Cameroon,CM,CMR,120,Rural,8,Dry latrines - Traditional latrine,0.624,Enquête à Indicateurs Multiples - MICS00
+Cameroon,CM,CMR,120,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.245,Enquête à Indicateurs Multiples - MICS00
+Cameroon,CM,CMR,120,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquête à Indicateurs Multiples - MICS00
+Cameroon,CM,CMR,120,Rural,11,Dry latrines - Bucket latrine,0.0,Enquête à Indicateurs Multiples - MICS00
+Cameroon,CM,CMR,120,Rural,12,Dry latrines - Other,0.0,Enquête à Indicateurs Multiples - MICS00
+Cameroon,CM,CMR,120,Rural,13,Composting toilets,0.0,Enquête à Indicateurs Multiples - MICS00
+Cameroon,CM,CMR,120,Rural,14,Other improved,0.0,Enquête à Indicateurs Multiples - MICS00
+Cameroon,CM,CMR,120,Rural,15,"No facility, bush, field",0.0,Enquête à Indicateurs Multiples - MICS00
+Cameroon,CM,CMR,120,Rural,16,Other unimproved,0.0,Enquête à Indicateurs Multiples - MICS00
+Cameroon,CM,CMR,120,Rural,17,DK/missing information,0.0,Enquête à Indicateurs Multiples - MICS00
+Cameroon,CM,CMR,120,National,1,Flush and pour flush - to piped sewer system,0.0,Enquête à Indicateurs Multiples - MICS00
+Cameroon,CM,CMR,120,National,2,Flush and pour flush - to septic tank,0.0,Enquête à Indicateurs Multiples - MICS00
+Cameroon,CM,CMR,120,National,3,Flush and pour flush - to pit,0.0,Enquête à Indicateurs Multiples - MICS00
+Cameroon,CM,CMR,120,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquête à Indicateurs Multiples - MICS00
+Cameroon,CM,CMR,120,National,5,Flush and pour flush - to elsewhere,0.0,Enquête à Indicateurs Multiples - MICS00
+Cameroon,CM,CMR,120,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Enquête à Indicateurs Multiples - MICS00
+Cameroon,CM,CMR,120,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Enquête à Indicateurs Multiples - MICS00
+Cameroon,CM,CMR,120,National,8,Dry latrines - Traditional latrine,0.0,Enquête à Indicateurs Multiples - MICS00
+Cameroon,CM,CMR,120,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Enquête à Indicateurs Multiples - MICS00
+Cameroon,CM,CMR,120,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquête à Indicateurs Multiples - MICS00
+Cameroon,CM,CMR,120,National,11,Dry latrines - Bucket latrine,0.0,Enquête à Indicateurs Multiples - MICS00
+Cameroon,CM,CMR,120,National,12,Dry latrines - Other,0.0,Enquête à Indicateurs Multiples - MICS00
+Cameroon,CM,CMR,120,National,13,Composting toilets,0.0,Enquête à Indicateurs Multiples - MICS00
+Cameroon,CM,CMR,120,National,14,Other improved,0.0,Enquête à Indicateurs Multiples - MICS00
+Cameroon,CM,CMR,120,National,15,"No facility, bush, field",0.0,Enquête à Indicateurs Multiples - MICS00
+Cameroon,CM,CMR,120,National,16,Other unimproved,0.0,Enquête à Indicateurs Multiples - MICS00
+Cameroon,CM,CMR,120,National,17,DK/missing information,0.0,Enquête à Indicateurs Multiples - MICS00
+Cameroon,CM,CMR,120,Urban,1,Flush and pour flush - to piped sewer system,0.0,ENQUETE CAMEROUNAISE AUPRES DES MENAGES - ECAM01
+Cameroon,CM,CMR,120,Urban,2,Flush and pour flush - to septic tank,0.0,ENQUETE CAMEROUNAISE AUPRES DES MENAGES - ECAM01
+Cameroon,CM,CMR,120,Urban,3,Flush and pour flush - to pit,0.0,ENQUETE CAMEROUNAISE AUPRES DES MENAGES - ECAM01
+Cameroon,CM,CMR,120,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,ENQUETE CAMEROUNAISE AUPRES DES MENAGES - ECAM01
+Cameroon,CM,CMR,120,Urban,5,Flush and pour flush - to elsewhere,0.0,ENQUETE CAMEROUNAISE AUPRES DES MENAGES - ECAM01
+Cameroon,CM,CMR,120,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,ENQUETE CAMEROUNAISE AUPRES DES MENAGES - ECAM01
+Cameroon,CM,CMR,120,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,ENQUETE CAMEROUNAISE AUPRES DES MENAGES - ECAM01
+Cameroon,CM,CMR,120,Urban,8,Dry latrines - Traditional latrine,0.571,ENQUETE CAMEROUNAISE AUPRES DES MENAGES - ECAM01
+Cameroon,CM,CMR,120,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.243,ENQUETE CAMEROUNAISE AUPRES DES MENAGES - ECAM01
+Cameroon,CM,CMR,120,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,ENQUETE CAMEROUNAISE AUPRES DES MENAGES - ECAM01
+Cameroon,CM,CMR,120,Urban,11,Dry latrines - Bucket latrine,0.0,ENQUETE CAMEROUNAISE AUPRES DES MENAGES - ECAM01
+Cameroon,CM,CMR,120,Urban,12,Dry latrines - Other,0.0,ENQUETE CAMEROUNAISE AUPRES DES MENAGES - ECAM01
+Cameroon,CM,CMR,120,Urban,13,Composting toilets,0.0,ENQUETE CAMEROUNAISE AUPRES DES MENAGES - ECAM01
+Cameroon,CM,CMR,120,Urban,14,Other improved,0.0,ENQUETE CAMEROUNAISE AUPRES DES MENAGES - ECAM01
+Cameroon,CM,CMR,120,Urban,15,"No facility, bush, field",0.004,ENQUETE CAMEROUNAISE AUPRES DES MENAGES - ECAM01
+Cameroon,CM,CMR,120,Urban,16,Other unimproved,0.001,ENQUETE CAMEROUNAISE AUPRES DES MENAGES - ECAM01
+Cameroon,CM,CMR,120,Urban,17,DK/missing information,0.0,ENQUETE CAMEROUNAISE AUPRES DES MENAGES - ECAM01
+Cameroon,CM,CMR,120,Rural,1,Flush and pour flush - to piped sewer system,0.0,ENQUETE CAMEROUNAISE AUPRES DES MENAGES - ECAM01
+Cameroon,CM,CMR,120,Rural,2,Flush and pour flush - to septic tank,0.0,ENQUETE CAMEROUNAISE AUPRES DES MENAGES - ECAM01
+Cameroon,CM,CMR,120,Rural,3,Flush and pour flush - to pit,0.0,ENQUETE CAMEROUNAISE AUPRES DES MENAGES - ECAM01
+Cameroon,CM,CMR,120,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,ENQUETE CAMEROUNAISE AUPRES DES MENAGES - ECAM01
+Cameroon,CM,CMR,120,Rural,5,Flush and pour flush - to elsewhere,0.0,ENQUETE CAMEROUNAISE AUPRES DES MENAGES - ECAM01
+Cameroon,CM,CMR,120,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,ENQUETE CAMEROUNAISE AUPRES DES MENAGES - ECAM01
+Cameroon,CM,CMR,120,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,ENQUETE CAMEROUNAISE AUPRES DES MENAGES - ECAM01
+Cameroon,CM,CMR,120,Rural,8,Dry latrines - Traditional latrine,0.239,ENQUETE CAMEROUNAISE AUPRES DES MENAGES - ECAM01
+Cameroon,CM,CMR,120,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.639,ENQUETE CAMEROUNAISE AUPRES DES MENAGES - ECAM01
+Cameroon,CM,CMR,120,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,ENQUETE CAMEROUNAISE AUPRES DES MENAGES - ECAM01
+Cameroon,CM,CMR,120,Rural,11,Dry latrines - Bucket latrine,0.0,ENQUETE CAMEROUNAISE AUPRES DES MENAGES - ECAM01
+Cameroon,CM,CMR,120,Rural,12,Dry latrines - Other,0.0,ENQUETE CAMEROUNAISE AUPRES DES MENAGES - ECAM01
+Cameroon,CM,CMR,120,Rural,13,Composting toilets,0.0,ENQUETE CAMEROUNAISE AUPRES DES MENAGES - ECAM01
+Cameroon,CM,CMR,120,Rural,14,Other improved,0.0,ENQUETE CAMEROUNAISE AUPRES DES MENAGES - ECAM01
+Cameroon,CM,CMR,120,Rural,15,"No facility, bush, field",0.103,ENQUETE CAMEROUNAISE AUPRES DES MENAGES - ECAM01
+Cameroon,CM,CMR,120,Rural,16,Other unimproved,0.004,ENQUETE CAMEROUNAISE AUPRES DES MENAGES - ECAM01
+Cameroon,CM,CMR,120,Rural,17,DK/missing information,0.0,ENQUETE CAMEROUNAISE AUPRES DES MENAGES - ECAM01
+Cameroon,CM,CMR,120,National,1,Flush and pour flush - to piped sewer system,0.0,ENQUETE CAMEROUNAISE AUPRES DES MENAGES - ECAM01
+Cameroon,CM,CMR,120,National,2,Flush and pour flush - to septic tank,0.0,ENQUETE CAMEROUNAISE AUPRES DES MENAGES - ECAM01
+Cameroon,CM,CMR,120,National,3,Flush and pour flush - to pit,0.0,ENQUETE CAMEROUNAISE AUPRES DES MENAGES - ECAM01
+Cameroon,CM,CMR,120,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,ENQUETE CAMEROUNAISE AUPRES DES MENAGES - ECAM01
+Cameroon,CM,CMR,120,National,5,Flush and pour flush - to elsewhere,0.0,ENQUETE CAMEROUNAISE AUPRES DES MENAGES - ECAM01
+Cameroon,CM,CMR,120,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,ENQUETE CAMEROUNAISE AUPRES DES MENAGES - ECAM01
+Cameroon,CM,CMR,120,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,ENQUETE CAMEROUNAISE AUPRES DES MENAGES - ECAM01
+Cameroon,CM,CMR,120,National,8,Dry latrines - Traditional latrine,0.0,ENQUETE CAMEROUNAISE AUPRES DES MENAGES - ECAM01
+Cameroon,CM,CMR,120,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,ENQUETE CAMEROUNAISE AUPRES DES MENAGES - ECAM01
+Cameroon,CM,CMR,120,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,ENQUETE CAMEROUNAISE AUPRES DES MENAGES - ECAM01
+Cameroon,CM,CMR,120,National,11,Dry latrines - Bucket latrine,0.0,ENQUETE CAMEROUNAISE AUPRES DES MENAGES - ECAM01
+Cameroon,CM,CMR,120,National,12,Dry latrines - Other,0.0,ENQUETE CAMEROUNAISE AUPRES DES MENAGES - ECAM01
+Cameroon,CM,CMR,120,National,13,Composting toilets,0.0,ENQUETE CAMEROUNAISE AUPRES DES MENAGES - ECAM01
+Cameroon,CM,CMR,120,National,14,Other improved,0.0,ENQUETE CAMEROUNAISE AUPRES DES MENAGES - ECAM01
+Cameroon,CM,CMR,120,National,15,"No facility, bush, field",0.0,ENQUETE CAMEROUNAISE AUPRES DES MENAGES - ECAM01
+Cameroon,CM,CMR,120,National,16,Other unimproved,0.0,ENQUETE CAMEROUNAISE AUPRES DES MENAGES - ECAM01
+Cameroon,CM,CMR,120,National,17,DK/missing information,0.0,ENQUETE CAMEROUNAISE AUPRES DES MENAGES - ECAM01
+Cameroon,CM,CMR,120,Urban,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS04
+Cameroon,CM,CMR,120,Urban,2,Flush and pour flush - to septic tank,0.0,Demographic and Health Survey - DHS04
+Cameroon,CM,CMR,120,Urban,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS04
+Cameroon,CM,CMR,120,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS04
+Cameroon,CM,CMR,120,Urban,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS04
+Cameroon,CM,CMR,120,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - DHS04
+Cameroon,CM,CMR,120,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS04
+Cameroon,CM,CMR,120,Urban,8,Dry latrines - Traditional latrine,0.421,Demographic and Health Survey - DHS04
+Cameroon,CM,CMR,120,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Survey - DHS04
+Cameroon,CM,CMR,120,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS04
+Cameroon,CM,CMR,120,Urban,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS04
+Cameroon,CM,CMR,120,Urban,12,Dry latrines - Other,0.421,Demographic and Health Survey - DHS04
+Cameroon,CM,CMR,120,Urban,13,Composting toilets,0.0,Demographic and Health Survey - DHS04
+Cameroon,CM,CMR,120,Urban,14,Other improved,0.0,Demographic and Health Survey - DHS04
+Cameroon,CM,CMR,120,Urban,15,"No facility, bush, field",0.017,Demographic and Health Survey - DHS04
+Cameroon,CM,CMR,120,Urban,16,Other unimproved,0.001,Demographic and Health Survey - DHS04
+Cameroon,CM,CMR,120,Urban,17,DK/missing information,0.0,Demographic and Health Survey - DHS04
+Cameroon,CM,CMR,120,Rural,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS04
+Cameroon,CM,CMR,120,Rural,2,Flush and pour flush - to septic tank,0.0,Demographic and Health Survey - DHS04
+Cameroon,CM,CMR,120,Rural,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS04
+Cameroon,CM,CMR,120,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS04
+Cameroon,CM,CMR,120,Rural,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS04
+Cameroon,CM,CMR,120,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - DHS04
+Cameroon,CM,CMR,120,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS04
+Cameroon,CM,CMR,120,Rural,8,Dry latrines - Traditional latrine,0.127,Demographic and Health Survey - DHS04
+Cameroon,CM,CMR,120,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Survey - DHS04
+Cameroon,CM,CMR,120,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS04
+Cameroon,CM,CMR,120,Rural,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS04
+Cameroon,CM,CMR,120,Rural,12,Dry latrines - Other,0.733,Demographic and Health Survey - DHS04
+Cameroon,CM,CMR,120,Rural,13,Composting toilets,0.0,Demographic and Health Survey - DHS04
+Cameroon,CM,CMR,120,Rural,14,Other improved,0.0,Demographic and Health Survey - DHS04
+Cameroon,CM,CMR,120,Rural,15,"No facility, bush, field",0.13,Demographic and Health Survey - DHS04
+Cameroon,CM,CMR,120,Rural,16,Other unimproved,0.001,Demographic and Health Survey - DHS04
+Cameroon,CM,CMR,120,Rural,17,DK/missing information,0.0,Demographic and Health Survey - DHS04
+Cameroon,CM,CMR,120,National,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS04
+Cameroon,CM,CMR,120,National,2,Flush and pour flush - to septic tank,0.0,Demographic and Health Survey - DHS04
+Cameroon,CM,CMR,120,National,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS04
+Cameroon,CM,CMR,120,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS04
+Cameroon,CM,CMR,120,National,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS04
+Cameroon,CM,CMR,120,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - DHS04
+Cameroon,CM,CMR,120,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS04
+Cameroon,CM,CMR,120,National,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS04
+Cameroon,CM,CMR,120,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Survey - DHS04
+Cameroon,CM,CMR,120,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS04
+Cameroon,CM,CMR,120,National,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS04
+Cameroon,CM,CMR,120,National,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS04
+Cameroon,CM,CMR,120,National,13,Composting toilets,0.0,Demographic and Health Survey - DHS04
+Cameroon,CM,CMR,120,National,14,Other improved,0.0,Demographic and Health Survey - DHS04
+Cameroon,CM,CMR,120,National,15,"No facility, bush, field",0.0,Demographic and Health Survey - DHS04
+Cameroon,CM,CMR,120,National,16,Other unimproved,0.0,Demographic and Health Survey - DHS04
+Cameroon,CM,CMR,120,National,17,DK/missing information,0.0,Demographic and Health Survey - DHS04
+Cameroon,CM,CMR,120,Urban,1,Flush and pour flush - to piped sewer system,0.0,Census - CEN05
+Cameroon,CM,CMR,120,Urban,2,Flush and pour flush - to septic tank,0.0,Census - CEN05
+Cameroon,CM,CMR,120,Urban,3,Flush and pour flush - to pit,0.0,Census - CEN05
+Cameroon,CM,CMR,120,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.169,Census - CEN05
+Cameroon,CM,CMR,120,Urban,5,Flush and pour flush - to elsewhere,0.0,Census - CEN05
+Cameroon,CM,CMR,120,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN05
+Cameroon,CM,CMR,120,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN05
+Cameroon,CM,CMR,120,Urban,8,Dry latrines - Traditional latrine,0.75,Census - CEN05
+Cameroon,CM,CMR,120,Urban,8,Dry latrines - Traditional latrine,0.284,Census - CEN05
+Cameroon,CM,CMR,120,Urban,8,Dry latrines - Traditional latrine,0.466,Census - CEN05
+Cameroon,CM,CMR,120,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN05
+Cameroon,CM,CMR,120,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN05
+Cameroon,CM,CMR,120,Urban,11,Dry latrines - Bucket latrine,0.0,Census - CEN05
+Cameroon,CM,CMR,120,Urban,12,Dry latrines - Other,0.0,Census - CEN05
+Cameroon,CM,CMR,120,Urban,13,Composting toilets,0.0,Census - CEN05
+Cameroon,CM,CMR,120,Urban,14,Other improved,0.0,Census - CEN05
+Cameroon,CM,CMR,120,Urban,15,"No facility, bush, field",0.013,Census - CEN05
+Cameroon,CM,CMR,120,Urban,16,Other unimproved,0.005,Census - CEN05
+Cameroon,CM,CMR,120,Urban,17,DK/missing information,0.008,Census - CEN05
+Cameroon,CM,CMR,120,Rural,1,Flush and pour flush - to piped sewer system,0.0,Census - CEN05
+Cameroon,CM,CMR,120,Rural,2,Flush and pour flush - to septic tank,0.0,Census - CEN05
+Cameroon,CM,CMR,120,Rural,3,Flush and pour flush - to pit,0.0,Census - CEN05
+Cameroon,CM,CMR,120,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.02,Census - CEN05
+Cameroon,CM,CMR,120,Rural,5,Flush and pour flush - to elsewhere,0.0,Census - CEN05
+Cameroon,CM,CMR,120,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN05
+Cameroon,CM,CMR,120,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN05
+Cameroon,CM,CMR,120,Rural,8,Dry latrines - Traditional latrine,0.794,Census - CEN05
+Cameroon,CM,CMR,120,Rural,8,Dry latrines - Traditional latrine,0.214,Census - CEN05
+Cameroon,CM,CMR,120,Rural,8,Dry latrines - Traditional latrine,0.58,Census - CEN05
+Cameroon,CM,CMR,120,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN05
+Cameroon,CM,CMR,120,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN05
+Cameroon,CM,CMR,120,Rural,11,Dry latrines - Bucket latrine,0.0,Census - CEN05
+Cameroon,CM,CMR,120,Rural,12,Dry latrines - Other,0.0,Census - CEN05
+Cameroon,CM,CMR,120,Rural,13,Composting toilets,0.0,Census - CEN05
+Cameroon,CM,CMR,120,Rural,14,Other improved,0.0,Census - CEN05
+Cameroon,CM,CMR,120,Rural,15,"No facility, bush, field",0.147,Census - CEN05
+Cameroon,CM,CMR,120,Rural,16,Other unimproved,0.019,Census - CEN05
+Cameroon,CM,CMR,120,Rural,17,DK/missing information,0.003,Census - CEN05
+Cameroon,CM,CMR,120,National,1,Flush and pour flush - to piped sewer system,0.0,Census - CEN05
+Cameroon,CM,CMR,120,National,2,Flush and pour flush - to septic tank,0.0,Census - CEN05
+Cameroon,CM,CMR,120,National,3,Flush and pour flush - to pit,0.0,Census - CEN05
+Cameroon,CM,CMR,120,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.093,Census - CEN05
+Cameroon,CM,CMR,120,National,5,Flush and pour flush - to elsewhere,0.0,Census - CEN05
+Cameroon,CM,CMR,120,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN05
+Cameroon,CM,CMR,120,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN05
+Cameroon,CM,CMR,120,National,8,Dry latrines - Traditional latrine,0.773,Census - CEN05
+Cameroon,CM,CMR,120,National,8,Dry latrines - Traditional latrine,0.248,Census - CEN05
+Cameroon,CM,CMR,120,National,8,Dry latrines - Traditional latrine,0.524,Census - CEN05
+Cameroon,CM,CMR,120,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN05
+Cameroon,CM,CMR,120,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN05
+Cameroon,CM,CMR,120,National,11,Dry latrines - Bucket latrine,0.0,Census - CEN05
+Cameroon,CM,CMR,120,National,12,Dry latrines - Other,0.0,Census - CEN05
+Cameroon,CM,CMR,120,National,13,Composting toilets,0.0,Census - CEN05
+Cameroon,CM,CMR,120,National,14,Other improved,0.0,Census - CEN05
+Cameroon,CM,CMR,120,National,15,"No facility, bush, field",0.082,Census - CEN05
+Cameroon,CM,CMR,120,National,16,Other unimproved,0.012,Census - CEN05
+Cameroon,CM,CMR,120,National,17,DK/missing information,0.005,Census - CEN05
 Cameroon,CM,CMR,120,Urban,1,Flush and pour flush - to piped sewer system,0.018,Enquête à Indicateurs Multiples - MICS06
 Cameroon,CM,CMR,120,Urban,2,Flush and pour flush - to septic tank,0.167,Enquête à Indicateurs Multiples - MICS06
 Cameroon,CM,CMR,120,Urban,3,Flush and pour flush - to pit,0.02,Enquête à Indicateurs Multiples - MICS06
@@ -33,6 +243,74 @@ Cameroon,CM,CMR,120,Rural,14,Other improved,0.0,Enquête à Indicateurs Multiple
 Cameroon,CM,CMR,120,Rural,15,"No facility, bush, field",0.138,Enquête à Indicateurs Multiples - MICS06
 Cameroon,CM,CMR,120,Rural,16,Other unimproved,0.006,Enquête à Indicateurs Multiples - MICS06
 Cameroon,CM,CMR,120,Rural,17,DK/missing information,0.0,Enquête à Indicateurs Multiples - MICS06
+Cameroon,CM,CMR,120,National,1,Flush and pour flush - to piped sewer system,0.009,Enquête à Indicateurs Multiples - MICS06
+Cameroon,CM,CMR,120,National,2,Flush and pour flush - to septic tank,0.085,Enquête à Indicateurs Multiples - MICS06
+Cameroon,CM,CMR,120,National,3,Flush and pour flush - to pit,0.01,Enquête à Indicateurs Multiples - MICS06
+Cameroon,CM,CMR,120,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquête à Indicateurs Multiples - MICS06
+Cameroon,CM,CMR,120,National,5,Flush and pour flush - to elsewhere,0.0,Enquête à Indicateurs Multiples - MICS06
+Cameroon,CM,CMR,120,National,6,Dry latrines - Ventilated Improved Pit latrine,0.016,Enquête à Indicateurs Multiples - MICS06
+Cameroon,CM,CMR,120,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Enquête à Indicateurs Multiples - MICS06
+Cameroon,CM,CMR,120,National,8,Dry latrines - Traditional latrine,0.21,Enquête à Indicateurs Multiples - MICS06
+Cameroon,CM,CMR,120,National,9,Dry latrines - Pit latrine without slab/open pit,0.59,Enquête à Indicateurs Multiples - MICS06
+Cameroon,CM,CMR,120,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquête à Indicateurs Multiples - MICS06
+Cameroon,CM,CMR,120,National,11,Dry latrines - Bucket latrine,0.0,Enquête à Indicateurs Multiples - MICS06
+Cameroon,CM,CMR,120,National,12,Dry latrines - Other,0.0,Enquête à Indicateurs Multiples - MICS06
+Cameroon,CM,CMR,120,National,13,Composting toilets,0.0,Enquête à Indicateurs Multiples - MICS06
+Cameroon,CM,CMR,120,National,14,Other improved,0.0,Enquête à Indicateurs Multiples - MICS06
+Cameroon,CM,CMR,120,National,15,"No facility, bush, field",0.075,Enquête à Indicateurs Multiples - MICS06
+Cameroon,CM,CMR,120,National,16,Other unimproved,0.004,Enquête à Indicateurs Multiples - MICS06
+Cameroon,CM,CMR,120,National,17,DK/missing information,0.0,Enquête à Indicateurs Multiples - MICS06
+Cameroon,CM,CMR,120,Urban,1,Flush and pour flush - to piped sewer system,0.0,Enquête Camerounaise auprès des Ménages ECAM III - ECAM07
+Cameroon,CM,CMR,120,Urban,2,Flush and pour flush - to septic tank,0.0,Enquête Camerounaise auprès des Ménages ECAM III - ECAM07
+Cameroon,CM,CMR,120,Urban,3,Flush and pour flush - to pit,0.0,Enquête Camerounaise auprès des Ménages ECAM III - ECAM07
+Cameroon,CM,CMR,120,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquête Camerounaise auprès des Ménages ECAM III - ECAM07
+Cameroon,CM,CMR,120,Urban,5,Flush and pour flush - to elsewhere,0.0,Enquête Camerounaise auprès des Ménages ECAM III - ECAM07
+Cameroon,CM,CMR,120,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Enquête Camerounaise auprès des Ménages ECAM III - ECAM07
+Cameroon,CM,CMR,120,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Enquête Camerounaise auprès des Ménages ECAM III - ECAM07
+Cameroon,CM,CMR,120,Urban,8,Dry latrines - Traditional latrine,0.495,Enquête Camerounaise auprès des Ménages ECAM III - ECAM07
+Cameroon,CM,CMR,120,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.329,Enquête Camerounaise auprès des Ménages ECAM III - ECAM07
+Cameroon,CM,CMR,120,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquête Camerounaise auprès des Ménages ECAM III - ECAM07
+Cameroon,CM,CMR,120,Urban,11,Dry latrines - Bucket latrine,0.0,Enquête Camerounaise auprès des Ménages ECAM III - ECAM07
+Cameroon,CM,CMR,120,Urban,12,Dry latrines - Other,0.0,Enquête Camerounaise auprès des Ménages ECAM III - ECAM07
+Cameroon,CM,CMR,120,Urban,13,Composting toilets,0.0,Enquête Camerounaise auprès des Ménages ECAM III - ECAM07
+Cameroon,CM,CMR,120,Urban,14,Other improved,0.0,Enquête Camerounaise auprès des Ménages ECAM III - ECAM07
+Cameroon,CM,CMR,120,Urban,15,"No facility, bush, field",0.006,Enquête Camerounaise auprès des Ménages ECAM III - ECAM07
+Cameroon,CM,CMR,120,Urban,16,Other unimproved,0.0,Enquête Camerounaise auprès des Ménages ECAM III - ECAM07
+Cameroon,CM,CMR,120,Urban,17,DK/missing information,0.001,Enquête Camerounaise auprès des Ménages ECAM III - ECAM07
+Cameroon,CM,CMR,120,Rural,1,Flush and pour flush - to piped sewer system,0.0,Enquête Camerounaise auprès des Ménages ECAM III - ECAM07
+Cameroon,CM,CMR,120,Rural,2,Flush and pour flush - to septic tank,0.0,Enquête Camerounaise auprès des Ménages ECAM III - ECAM07
+Cameroon,CM,CMR,120,Rural,3,Flush and pour flush - to pit,0.0,Enquête Camerounaise auprès des Ménages ECAM III - ECAM07
+Cameroon,CM,CMR,120,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquête Camerounaise auprès des Ménages ECAM III - ECAM07
+Cameroon,CM,CMR,120,Rural,5,Flush and pour flush - to elsewhere,0.0,Enquête Camerounaise auprès des Ménages ECAM III - ECAM07
+Cameroon,CM,CMR,120,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Enquête Camerounaise auprès des Ménages ECAM III - ECAM07
+Cameroon,CM,CMR,120,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Enquête Camerounaise auprès des Ménages ECAM III - ECAM07
+Cameroon,CM,CMR,120,Rural,8,Dry latrines - Traditional latrine,0.134,Enquête Camerounaise auprès des Ménages ECAM III - ECAM07
+Cameroon,CM,CMR,120,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.689,Enquête Camerounaise auprès des Ménages ECAM III - ECAM07
+Cameroon,CM,CMR,120,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquête Camerounaise auprès des Ménages ECAM III - ECAM07
+Cameroon,CM,CMR,120,Rural,11,Dry latrines - Bucket latrine,0.0,Enquête Camerounaise auprès des Ménages ECAM III - ECAM07
+Cameroon,CM,CMR,120,Rural,12,Dry latrines - Other,0.0,Enquête Camerounaise auprès des Ménages ECAM III - ECAM07
+Cameroon,CM,CMR,120,Rural,13,Composting toilets,0.0,Enquête Camerounaise auprès des Ménages ECAM III - ECAM07
+Cameroon,CM,CMR,120,Rural,14,Other improved,0.0,Enquête Camerounaise auprès des Ménages ECAM III - ECAM07
+Cameroon,CM,CMR,120,Rural,15,"No facility, bush, field",0.167,Enquête Camerounaise auprès des Ménages ECAM III - ECAM07
+Cameroon,CM,CMR,120,Rural,16,Other unimproved,0.0,Enquête Camerounaise auprès des Ménages ECAM III - ECAM07
+Cameroon,CM,CMR,120,Rural,17,DK/missing information,0.002,Enquête Camerounaise auprès des Ménages ECAM III - ECAM07
+Cameroon,CM,CMR,120,National,1,Flush and pour flush - to piped sewer system,0.0,Enquête Camerounaise auprès des Ménages ECAM III - ECAM07
+Cameroon,CM,CMR,120,National,2,Flush and pour flush - to septic tank,0.0,Enquête Camerounaise auprès des Ménages ECAM III - ECAM07
+Cameroon,CM,CMR,120,National,3,Flush and pour flush - to pit,0.0,Enquête Camerounaise auprès des Ménages ECAM III - ECAM07
+Cameroon,CM,CMR,120,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquête Camerounaise auprès des Ménages ECAM III - ECAM07
+Cameroon,CM,CMR,120,National,5,Flush and pour flush - to elsewhere,0.0,Enquête Camerounaise auprès des Ménages ECAM III - ECAM07
+Cameroon,CM,CMR,120,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Enquête Camerounaise auprès des Ménages ECAM III - ECAM07
+Cameroon,CM,CMR,120,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Enquête Camerounaise auprès des Ménages ECAM III - ECAM07
+Cameroon,CM,CMR,120,National,8,Dry latrines - Traditional latrine,0.0,Enquête Camerounaise auprès des Ménages ECAM III - ECAM07
+Cameroon,CM,CMR,120,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Enquête Camerounaise auprès des Ménages ECAM III - ECAM07
+Cameroon,CM,CMR,120,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquête Camerounaise auprès des Ménages ECAM III - ECAM07
+Cameroon,CM,CMR,120,National,11,Dry latrines - Bucket latrine,0.0,Enquête Camerounaise auprès des Ménages ECAM III - ECAM07
+Cameroon,CM,CMR,120,National,12,Dry latrines - Other,0.0,Enquête Camerounaise auprès des Ménages ECAM III - ECAM07
+Cameroon,CM,CMR,120,National,13,Composting toilets,0.0,Enquête Camerounaise auprès des Ménages ECAM III - ECAM07
+Cameroon,CM,CMR,120,National,14,Other improved,0.0,Enquête Camerounaise auprès des Ménages ECAM III - ECAM07
+Cameroon,CM,CMR,120,National,15,"No facility, bush, field",0.0,Enquête Camerounaise auprès des Ménages ECAM III - ECAM07
+Cameroon,CM,CMR,120,National,16,Other unimproved,0.0,Enquête Camerounaise auprès des Ménages ECAM III - ECAM07
+Cameroon,CM,CMR,120,National,17,DK/missing information,0.0,Enquête Camerounaise auprès des Ménages ECAM III - ECAM07
 Cameroon,CM,CMR,120,Urban,1,Flush and pour flush - to piped sewer system,0.015,Enquête démographique et de santé et à indicateurs multiples (EDS-MICS) - DHS11
 Cameroon,CM,CMR,120,Urban,2,Flush and pour flush - to septic tank,0.175,Enquête démographique et de santé et à indicateurs multiples (EDS-MICS) - DHS11
 Cameroon,CM,CMR,120,Urban,3,Flush and pour flush - to pit,0.016,Enquête démographique et de santé et à indicateurs multiples (EDS-MICS) - DHS11
@@ -67,6 +345,23 @@ Cameroon,CM,CMR,120,Rural,14,Other improved,0.0,Enquête démographique et de sa
 Cameroon,CM,CMR,120,Rural,15,"No facility, bush, field",0.121,Enquête démographique et de santé et à indicateurs multiples (EDS-MICS) - DHS11
 Cameroon,CM,CMR,120,Rural,16,Other unimproved,0.001,Enquête démographique et de santé et à indicateurs multiples (EDS-MICS) - DHS11
 Cameroon,CM,CMR,120,Rural,17,DK/missing information,0.0,Enquête démographique et de santé et à indicateurs multiples (EDS-MICS) - DHS11
+Cameroon,CM,CMR,120,National,1,Flush and pour flush - to piped sewer system,0.008,Enquête démographique et de santé et à indicateurs multiples (EDS-MICS) - DHS11
+Cameroon,CM,CMR,120,National,2,Flush and pour flush - to septic tank,0.087,Enquête démographique et de santé et à indicateurs multiples (EDS-MICS) - DHS11
+Cameroon,CM,CMR,120,National,3,Flush and pour flush - to pit,0.009,Enquête démographique et de santé et à indicateurs multiples (EDS-MICS) - DHS11
+Cameroon,CM,CMR,120,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquête démographique et de santé et à indicateurs multiples (EDS-MICS) - DHS11
+Cameroon,CM,CMR,120,National,5,Flush and pour flush - to elsewhere,0.0,Enquête démographique et de santé et à indicateurs multiples (EDS-MICS) - DHS11
+Cameroon,CM,CMR,120,National,6,Dry latrines - Ventilated Improved Pit latrine,0.011,Enquête démographique et de santé et à indicateurs multiples (EDS-MICS) - DHS11
+Cameroon,CM,CMR,120,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.458,Enquête démographique et de santé et à indicateurs multiples (EDS-MICS) - DHS11
+Cameroon,CM,CMR,120,National,8,Dry latrines - Traditional latrine,0.0,Enquête démographique et de santé et à indicateurs multiples (EDS-MICS) - DHS11
+Cameroon,CM,CMR,120,National,9,Dry latrines - Pit latrine without slab/open pit,0.352,Enquête démographique et de santé et à indicateurs multiples (EDS-MICS) - DHS11
+Cameroon,CM,CMR,120,National,10,Dry latrines - Hanging toilet/hanging latrine,0.003,Enquête démographique et de santé et à indicateurs multiples (EDS-MICS) - DHS11
+Cameroon,CM,CMR,120,National,11,Dry latrines - Bucket latrine,0.0,Enquête démographique et de santé et à indicateurs multiples (EDS-MICS) - DHS11
+Cameroon,CM,CMR,120,National,12,Dry latrines - Other,0.0,Enquête démographique et de santé et à indicateurs multiples (EDS-MICS) - DHS11
+Cameroon,CM,CMR,120,National,13,Composting toilets,0.0,Enquête démographique et de santé et à indicateurs multiples (EDS-MICS) - DHS11
+Cameroon,CM,CMR,120,National,14,Other improved,0.0,Enquête démographique et de santé et à indicateurs multiples (EDS-MICS) - DHS11
+Cameroon,CM,CMR,120,National,15,"No facility, bush, field",0.071,Enquête démographique et de santé et à indicateurs multiples (EDS-MICS) - DHS11
+Cameroon,CM,CMR,120,National,16,Other unimproved,0.001,Enquête démographique et de santé et à indicateurs multiples (EDS-MICS) - DHS11
+Cameroon,CM,CMR,120,National,17,DK/missing information,0.0,Enquête démographique et de santé et à indicateurs multiples (EDS-MICS) - DHS11
 Cameroon,CM,CMR,120,Urban,1,Flush and pour flush - to piped sewer system,0.003,"Enquête par grappes à indicateurs multiples, 2014 - MICS14"
 Cameroon,CM,CMR,120,Urban,2,Flush and pour flush - to septic tank,0.224,"Enquête par grappes à indicateurs multiples, 2014 - MICS14"
 Cameroon,CM,CMR,120,Urban,3,Flush and pour flush - to pit,0.008,"Enquête par grappes à indicateurs multiples, 2014 - MICS14"
@@ -101,3 +396,20 @@ Cameroon,CM,CMR,120,Rural,14,Other improved,0.0,"Enquête par grappes à indicat
 Cameroon,CM,CMR,120,Rural,15,"No facility, bush, field",0.13,"Enquête par grappes à indicateurs multiples, 2014 - MICS14"
 Cameroon,CM,CMR,120,Rural,16,Other unimproved,0.001,"Enquête par grappes à indicateurs multiples, 2014 - MICS14"
 Cameroon,CM,CMR,120,Rural,17,DK/missing information,0.001,"Enquête par grappes à indicateurs multiples, 2014 - MICS14"
+Cameroon,CM,CMR,120,National,1,Flush and pour flush - to piped sewer system,0.002,"Enquête par grappes à indicateurs multiples, 2014 - MICS14"
+Cameroon,CM,CMR,120,National,2,Flush and pour flush - to septic tank,0.112,"Enquête par grappes à indicateurs multiples, 2014 - MICS14"
+Cameroon,CM,CMR,120,National,3,Flush and pour flush - to pit,0.004,"Enquête par grappes à indicateurs multiples, 2014 - MICS14"
+Cameroon,CM,CMR,120,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Enquête par grappes à indicateurs multiples, 2014 - MICS14"
+Cameroon,CM,CMR,120,National,5,Flush and pour flush - to elsewhere,0.0,"Enquête par grappes à indicateurs multiples, 2014 - MICS14"
+Cameroon,CM,CMR,120,National,6,Dry latrines - Ventilated Improved Pit latrine,0.003,"Enquête par grappes à indicateurs multiples, 2014 - MICS14"
+Cameroon,CM,CMR,120,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.401,"Enquête par grappes à indicateurs multiples, 2014 - MICS14"
+Cameroon,CM,CMR,120,National,8,Dry latrines - Traditional latrine,0.0,"Enquête par grappes à indicateurs multiples, 2014 - MICS14"
+Cameroon,CM,CMR,120,National,9,Dry latrines - Pit latrine without slab/open pit,0.4,"Enquête par grappes à indicateurs multiples, 2014 - MICS14"
+Cameroon,CM,CMR,120,National,10,Dry latrines - Hanging toilet/hanging latrine,0.003,"Enquête par grappes à indicateurs multiples, 2014 - MICS14"
+Cameroon,CM,CMR,120,National,11,Dry latrines - Bucket latrine,0.001,"Enquête par grappes à indicateurs multiples, 2014 - MICS14"
+Cameroon,CM,CMR,120,National,12,Dry latrines - Other,0.0,"Enquête par grappes à indicateurs multiples, 2014 - MICS14"
+Cameroon,CM,CMR,120,National,13,Composting toilets,0.001,"Enquête par grappes à indicateurs multiples, 2014 - MICS14"
+Cameroon,CM,CMR,120,National,14,Other improved,0.0,"Enquête par grappes à indicateurs multiples, 2014 - MICS14"
+Cameroon,CM,CMR,120,National,15,"No facility, bush, field",0.072,"Enquête par grappes à indicateurs multiples, 2014 - MICS14"
+Cameroon,CM,CMR,120,National,16,Other unimproved,0.001,"Enquête par grappes à indicateurs multiples, 2014 - MICS14"
+Cameroon,CM,CMR,120,National,17,DK/missing information,0.001,"Enquête par grappes à indicateurs multiples, 2014 - MICS14"

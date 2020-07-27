@@ -1,4 +1,320 @@
 country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+Mali,ML,MLI,466,Urban,1,Flush and pour flush - to piped sewer system,0.095,Enquête Malienne sur l'Evaluation de la Pauvreté - EMEP2001
+Mali,ML,MLI,466,Urban,2,Flush and pour flush - to septic tank,0.0,Enquête Malienne sur l'Evaluation de la Pauvreté - EMEP2001
+Mali,ML,MLI,466,Urban,3,Flush and pour flush - to pit,0.0,Enquête Malienne sur l'Evaluation de la Pauvreté - EMEP2001
+Mali,ML,MLI,466,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquête Malienne sur l'Evaluation de la Pauvreté - EMEP2001
+Mali,ML,MLI,466,Urban,5,Flush and pour flush - to elsewhere,0.0,Enquête Malienne sur l'Evaluation de la Pauvreté - EMEP2001
+Mali,ML,MLI,466,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Enquête Malienne sur l'Evaluation de la Pauvreté - EMEP2001
+Mali,ML,MLI,466,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Enquête Malienne sur l'Evaluation de la Pauvreté - EMEP2001
+Mali,ML,MLI,466,Urban,8,Dry latrines - Traditional latrine,0.798,Enquête Malienne sur l'Evaluation de la Pauvreté - EMEP2001
+Mali,ML,MLI,466,Urban,8,Dry latrines - Traditional latrine,0.258,Enquête Malienne sur l'Evaluation de la Pauvreté - EMEP2001
+Mali,ML,MLI,466,Urban,8,Dry latrines - Traditional latrine,0.54,Enquête Malienne sur l'Evaluation de la Pauvreté - EMEP2001
+Mali,ML,MLI,466,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Enquête Malienne sur l'Evaluation de la Pauvreté - EMEP2001
+Mali,ML,MLI,466,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquête Malienne sur l'Evaluation de la Pauvreté - EMEP2001
+Mali,ML,MLI,466,Urban,11,Dry latrines - Bucket latrine,0.0,Enquête Malienne sur l'Evaluation de la Pauvreté - EMEP2001
+Mali,ML,MLI,466,Urban,12,Dry latrines - Other,0.0,Enquête Malienne sur l'Evaluation de la Pauvreté - EMEP2001
+Mali,ML,MLI,466,Urban,13,Composting toilets,0.0,Enquête Malienne sur l'Evaluation de la Pauvreté - EMEP2001
+Mali,ML,MLI,466,Urban,14,Other improved,0.033,Enquête Malienne sur l'Evaluation de la Pauvreté - EMEP2001
+Mali,ML,MLI,466,Urban,15,"No facility, bush, field",0.062,Enquête Malienne sur l'Evaluation de la Pauvreté - EMEP2001
+Mali,ML,MLI,466,Urban,16,Other unimproved,0.011,Enquête Malienne sur l'Evaluation de la Pauvreté - EMEP2001
+Mali,ML,MLI,466,Urban,17,DK/missing information,0.0,Enquête Malienne sur l'Evaluation de la Pauvreté - EMEP2001
+Mali,ML,MLI,466,Rural,1,Flush and pour flush - to piped sewer system,0.045,Enquête Malienne sur l'Evaluation de la Pauvreté - EMEP2001
+Mali,ML,MLI,466,Rural,2,Flush and pour flush - to septic tank,0.0,Enquête Malienne sur l'Evaluation de la Pauvreté - EMEP2001
+Mali,ML,MLI,466,Rural,3,Flush and pour flush - to pit,0.0,Enquête Malienne sur l'Evaluation de la Pauvreté - EMEP2001
+Mali,ML,MLI,466,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquête Malienne sur l'Evaluation de la Pauvreté - EMEP2001
+Mali,ML,MLI,466,Rural,5,Flush and pour flush - to elsewhere,0.0,Enquête Malienne sur l'Evaluation de la Pauvreté - EMEP2001
+Mali,ML,MLI,466,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Enquête Malienne sur l'Evaluation de la Pauvreté - EMEP2001
+Mali,ML,MLI,466,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Enquête Malienne sur l'Evaluation de la Pauvreté - EMEP2001
+Mali,ML,MLI,466,Rural,8,Dry latrines - Traditional latrine,0.631,Enquête Malienne sur l'Evaluation de la Pauvreté - EMEP2001
+Mali,ML,MLI,466,Rural,8,Dry latrines - Traditional latrine,0.297,Enquête Malienne sur l'Evaluation de la Pauvreté - EMEP2001
+Mali,ML,MLI,466,Rural,8,Dry latrines - Traditional latrine,0.335,Enquête Malienne sur l'Evaluation de la Pauvreté - EMEP2001
+Mali,ML,MLI,466,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Enquête Malienne sur l'Evaluation de la Pauvreté - EMEP2001
+Mali,ML,MLI,466,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquête Malienne sur l'Evaluation de la Pauvreté - EMEP2001
+Mali,ML,MLI,466,Rural,11,Dry latrines - Bucket latrine,0.0,Enquête Malienne sur l'Evaluation de la Pauvreté - EMEP2001
+Mali,ML,MLI,466,Rural,12,Dry latrines - Other,0.0,Enquête Malienne sur l'Evaluation de la Pauvreté - EMEP2001
+Mali,ML,MLI,466,Rural,13,Composting toilets,0.0,Enquête Malienne sur l'Evaluation de la Pauvreté - EMEP2001
+Mali,ML,MLI,466,Rural,14,Other improved,0.023,Enquête Malienne sur l'Evaluation de la Pauvreté - EMEP2001
+Mali,ML,MLI,466,Rural,15,"No facility, bush, field",0.297,Enquête Malienne sur l'Evaluation de la Pauvreté - EMEP2001
+Mali,ML,MLI,466,Rural,16,Other unimproved,0.004,Enquête Malienne sur l'Evaluation de la Pauvreté - EMEP2001
+Mali,ML,MLI,466,Rural,17,DK/missing information,0.0,Enquête Malienne sur l'Evaluation de la Pauvreté - EMEP2001
+Mali,ML,MLI,466,National,1,Flush and pour flush - to piped sewer system,0.0,Enquête Malienne sur l'Evaluation de la Pauvreté - EMEP2001
+Mali,ML,MLI,466,National,2,Flush and pour flush - to septic tank,0.0,Enquête Malienne sur l'Evaluation de la Pauvreté - EMEP2001
+Mali,ML,MLI,466,National,3,Flush and pour flush - to pit,0.0,Enquête Malienne sur l'Evaluation de la Pauvreté - EMEP2001
+Mali,ML,MLI,466,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquête Malienne sur l'Evaluation de la Pauvreté - EMEP2001
+Mali,ML,MLI,466,National,5,Flush and pour flush - to elsewhere,0.0,Enquête Malienne sur l'Evaluation de la Pauvreté - EMEP2001
+Mali,ML,MLI,466,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Enquête Malienne sur l'Evaluation de la Pauvreté - EMEP2001
+Mali,ML,MLI,466,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Enquête Malienne sur l'Evaluation de la Pauvreté - EMEP2001
+Mali,ML,MLI,466,National,8,Dry latrines - Traditional latrine,0.0,Enquête Malienne sur l'Evaluation de la Pauvreté - EMEP2001
+Mali,ML,MLI,466,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Enquête Malienne sur l'Evaluation de la Pauvreté - EMEP2001
+Mali,ML,MLI,466,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquête Malienne sur l'Evaluation de la Pauvreté - EMEP2001
+Mali,ML,MLI,466,National,11,Dry latrines - Bucket latrine,0.0,Enquête Malienne sur l'Evaluation de la Pauvreté - EMEP2001
+Mali,ML,MLI,466,National,12,Dry latrines - Other,0.0,Enquête Malienne sur l'Evaluation de la Pauvreté - EMEP2001
+Mali,ML,MLI,466,National,13,Composting toilets,0.0,Enquête Malienne sur l'Evaluation de la Pauvreté - EMEP2001
+Mali,ML,MLI,466,National,14,Other improved,0.0,Enquête Malienne sur l'Evaluation de la Pauvreté - EMEP2001
+Mali,ML,MLI,466,National,15,"No facility, bush, field",0.0,Enquête Malienne sur l'Evaluation de la Pauvreté - EMEP2001
+Mali,ML,MLI,466,National,16,Other unimproved,0.0,Enquête Malienne sur l'Evaluation de la Pauvreté - EMEP2001
+Mali,ML,MLI,466,National,17,DK/missing information,0.0,Enquête Malienne sur l'Evaluation de la Pauvreté - EMEP2001
+Mali,ML,MLI,466,Urban,1,Flush and pour flush - to piped sewer system,0.0,Enquête démographique et de santé - DHS01
+Mali,ML,MLI,466,Urban,2,Flush and pour flush - to septic tank,0.0,Enquête démographique et de santé - DHS01
+Mali,ML,MLI,466,Urban,3,Flush and pour flush - to pit,0.0,Enquête démographique et de santé - DHS01
+Mali,ML,MLI,466,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquête démographique et de santé - DHS01
+Mali,ML,MLI,466,Urban,5,Flush and pour flush - to elsewhere,0.0,Enquête démographique et de santé - DHS01
+Mali,ML,MLI,466,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Enquête démographique et de santé - DHS01
+Mali,ML,MLI,466,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Enquête démographique et de santé - DHS01
+Mali,ML,MLI,466,Urban,8,Dry latrines - Traditional latrine,0.0,Enquête démographique et de santé - DHS01
+Mali,ML,MLI,466,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Enquête démographique et de santé - DHS01
+Mali,ML,MLI,466,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquête démographique et de santé - DHS01
+Mali,ML,MLI,466,Urban,11,Dry latrines - Bucket latrine,0.0,Enquête démographique et de santé - DHS01
+Mali,ML,MLI,466,Urban,12,Dry latrines - Other,0.0,Enquête démographique et de santé - DHS01
+Mali,ML,MLI,466,Urban,13,Composting toilets,0.0,Enquête démographique et de santé - DHS01
+Mali,ML,MLI,466,Urban,14,Other improved,0.0,Enquête démographique et de santé - DHS01
+Mali,ML,MLI,466,Urban,15,"No facility, bush, field",0.0,Enquête démographique et de santé - DHS01
+Mali,ML,MLI,466,Urban,16,Other unimproved,0.0,Enquête démographique et de santé - DHS01
+Mali,ML,MLI,466,Urban,17,DK/missing information,0.0,Enquête démographique et de santé - DHS01
+Mali,ML,MLI,466,Rural,1,Flush and pour flush - to piped sewer system,0.0,Enquête démographique et de santé - DHS01
+Mali,ML,MLI,466,Rural,2,Flush and pour flush - to septic tank,0.0,Enquête démographique et de santé - DHS01
+Mali,ML,MLI,466,Rural,3,Flush and pour flush - to pit,0.0,Enquête démographique et de santé - DHS01
+Mali,ML,MLI,466,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquête démographique et de santé - DHS01
+Mali,ML,MLI,466,Rural,5,Flush and pour flush - to elsewhere,0.0,Enquête démographique et de santé - DHS01
+Mali,ML,MLI,466,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Enquête démographique et de santé - DHS01
+Mali,ML,MLI,466,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Enquête démographique et de santé - DHS01
+Mali,ML,MLI,466,Rural,8,Dry latrines - Traditional latrine,0.0,Enquête démographique et de santé - DHS01
+Mali,ML,MLI,466,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Enquête démographique et de santé - DHS01
+Mali,ML,MLI,466,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquête démographique et de santé - DHS01
+Mali,ML,MLI,466,Rural,11,Dry latrines - Bucket latrine,0.0,Enquête démographique et de santé - DHS01
+Mali,ML,MLI,466,Rural,12,Dry latrines - Other,0.0,Enquête démographique et de santé - DHS01
+Mali,ML,MLI,466,Rural,13,Composting toilets,0.0,Enquête démographique et de santé - DHS01
+Mali,ML,MLI,466,Rural,14,Other improved,0.0,Enquête démographique et de santé - DHS01
+Mali,ML,MLI,466,Rural,15,"No facility, bush, field",0.0,Enquête démographique et de santé - DHS01
+Mali,ML,MLI,466,Rural,16,Other unimproved,0.0,Enquête démographique et de santé - DHS01
+Mali,ML,MLI,466,Rural,17,DK/missing information,0.0,Enquête démographique et de santé - DHS01
+Mali,ML,MLI,466,National,1,Flush and pour flush - to piped sewer system,0.0,Enquête démographique et de santé - DHS01
+Mali,ML,MLI,466,National,2,Flush and pour flush - to septic tank,0.0,Enquête démographique et de santé - DHS01
+Mali,ML,MLI,466,National,3,Flush and pour flush - to pit,0.0,Enquête démographique et de santé - DHS01
+Mali,ML,MLI,466,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquête démographique et de santé - DHS01
+Mali,ML,MLI,466,National,5,Flush and pour flush - to elsewhere,0.0,Enquête démographique et de santé - DHS01
+Mali,ML,MLI,466,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Enquête démographique et de santé - DHS01
+Mali,ML,MLI,466,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Enquête démographique et de santé - DHS01
+Mali,ML,MLI,466,National,8,Dry latrines - Traditional latrine,0.0,Enquête démographique et de santé - DHS01
+Mali,ML,MLI,466,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Enquête démographique et de santé - DHS01
+Mali,ML,MLI,466,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquête démographique et de santé - DHS01
+Mali,ML,MLI,466,National,11,Dry latrines - Bucket latrine,0.0,Enquête démographique et de santé - DHS01
+Mali,ML,MLI,466,National,12,Dry latrines - Other,0.0,Enquête démographique et de santé - DHS01
+Mali,ML,MLI,466,National,13,Composting toilets,0.0,Enquête démographique et de santé - DHS01
+Mali,ML,MLI,466,National,14,Other improved,0.0,Enquête démographique et de santé - DHS01
+Mali,ML,MLI,466,National,15,"No facility, bush, field",0.0,Enquête démographique et de santé - DHS01
+Mali,ML,MLI,466,National,16,Other unimproved,0.0,Enquête démographique et de santé - DHS01
+Mali,ML,MLI,466,National,17,DK/missing information,0.0,Enquête démographique et de santé - DHS01
+Mali,ML,MLI,466,Urban,1,Flush and pour flush - to piped sewer system,0.0,Enquête légère intégrée auprès des ménages - ELIM03
+Mali,ML,MLI,466,Urban,2,Flush and pour flush - to septic tank,0.0,Enquête légère intégrée auprès des ménages - ELIM03
+Mali,ML,MLI,466,Urban,3,Flush and pour flush - to pit,0.0,Enquête légère intégrée auprès des ménages - ELIM03
+Mali,ML,MLI,466,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquête légère intégrée auprès des ménages - ELIM03
+Mali,ML,MLI,466,Urban,5,Flush and pour flush - to elsewhere,0.0,Enquête légère intégrée auprès des ménages - ELIM03
+Mali,ML,MLI,466,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Enquête légère intégrée auprès des ménages - ELIM03
+Mali,ML,MLI,466,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Enquête légère intégrée auprès des ménages - ELIM03
+Mali,ML,MLI,466,Urban,8,Dry latrines - Traditional latrine,0.0,Enquête légère intégrée auprès des ménages - ELIM03
+Mali,ML,MLI,466,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Enquête légère intégrée auprès des ménages - ELIM03
+Mali,ML,MLI,466,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquête légère intégrée auprès des ménages - ELIM03
+Mali,ML,MLI,466,Urban,11,Dry latrines - Bucket latrine,0.0,Enquête légère intégrée auprès des ménages - ELIM03
+Mali,ML,MLI,466,Urban,12,Dry latrines - Other,0.0,Enquête légère intégrée auprès des ménages - ELIM03
+Mali,ML,MLI,466,Urban,13,Composting toilets,0.0,Enquête légère intégrée auprès des ménages - ELIM03
+Mali,ML,MLI,466,Urban,14,Other improved,0.0,Enquête légère intégrée auprès des ménages - ELIM03
+Mali,ML,MLI,466,Urban,15,"No facility, bush, field",0.0,Enquête légère intégrée auprès des ménages - ELIM03
+Mali,ML,MLI,466,Urban,16,Other unimproved,0.0,Enquête légère intégrée auprès des ménages - ELIM03
+Mali,ML,MLI,466,Urban,17,DK/missing information,0.0,Enquête légère intégrée auprès des ménages - ELIM03
+Mali,ML,MLI,466,Rural,1,Flush and pour flush - to piped sewer system,0.0,Enquête légère intégrée auprès des ménages - ELIM03
+Mali,ML,MLI,466,Rural,2,Flush and pour flush - to septic tank,0.0,Enquête légère intégrée auprès des ménages - ELIM03
+Mali,ML,MLI,466,Rural,3,Flush and pour flush - to pit,0.0,Enquête légère intégrée auprès des ménages - ELIM03
+Mali,ML,MLI,466,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquête légère intégrée auprès des ménages - ELIM03
+Mali,ML,MLI,466,Rural,5,Flush and pour flush - to elsewhere,0.0,Enquête légère intégrée auprès des ménages - ELIM03
+Mali,ML,MLI,466,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Enquête légère intégrée auprès des ménages - ELIM03
+Mali,ML,MLI,466,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Enquête légère intégrée auprès des ménages - ELIM03
+Mali,ML,MLI,466,Rural,8,Dry latrines - Traditional latrine,0.0,Enquête légère intégrée auprès des ménages - ELIM03
+Mali,ML,MLI,466,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Enquête légère intégrée auprès des ménages - ELIM03
+Mali,ML,MLI,466,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquête légère intégrée auprès des ménages - ELIM03
+Mali,ML,MLI,466,Rural,11,Dry latrines - Bucket latrine,0.0,Enquête légère intégrée auprès des ménages - ELIM03
+Mali,ML,MLI,466,Rural,12,Dry latrines - Other,0.0,Enquête légère intégrée auprès des ménages - ELIM03
+Mali,ML,MLI,466,Rural,13,Composting toilets,0.0,Enquête légère intégrée auprès des ménages - ELIM03
+Mali,ML,MLI,466,Rural,14,Other improved,0.0,Enquête légère intégrée auprès des ménages - ELIM03
+Mali,ML,MLI,466,Rural,15,"No facility, bush, field",0.0,Enquête légère intégrée auprès des ménages - ELIM03
+Mali,ML,MLI,466,Rural,16,Other unimproved,0.0,Enquête légère intégrée auprès des ménages - ELIM03
+Mali,ML,MLI,466,Rural,17,DK/missing information,0.0,Enquête légère intégrée auprès des ménages - ELIM03
+Mali,ML,MLI,466,National,1,Flush and pour flush - to piped sewer system,0.0,Enquête légère intégrée auprès des ménages - ELIM03
+Mali,ML,MLI,466,National,2,Flush and pour flush - to septic tank,0.0,Enquête légère intégrée auprès des ménages - ELIM03
+Mali,ML,MLI,466,National,3,Flush and pour flush - to pit,0.0,Enquête légère intégrée auprès des ménages - ELIM03
+Mali,ML,MLI,466,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquête légère intégrée auprès des ménages - ELIM03
+Mali,ML,MLI,466,National,5,Flush and pour flush - to elsewhere,0.0,Enquête légère intégrée auprès des ménages - ELIM03
+Mali,ML,MLI,466,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Enquête légère intégrée auprès des ménages - ELIM03
+Mali,ML,MLI,466,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Enquête légère intégrée auprès des ménages - ELIM03
+Mali,ML,MLI,466,National,8,Dry latrines - Traditional latrine,0.0,Enquête légère intégrée auprès des ménages - ELIM03
+Mali,ML,MLI,466,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Enquête légère intégrée auprès des ménages - ELIM03
+Mali,ML,MLI,466,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquête légère intégrée auprès des ménages - ELIM03
+Mali,ML,MLI,466,National,11,Dry latrines - Bucket latrine,0.0,Enquête légère intégrée auprès des ménages - ELIM03
+Mali,ML,MLI,466,National,12,Dry latrines - Other,0.0,Enquête légère intégrée auprès des ménages - ELIM03
+Mali,ML,MLI,466,National,13,Composting toilets,0.0,Enquête légère intégrée auprès des ménages - ELIM03
+Mali,ML,MLI,466,National,14,Other improved,0.0,Enquête légère intégrée auprès des ménages - ELIM03
+Mali,ML,MLI,466,National,15,"No facility, bush, field",0.0,Enquête légère intégrée auprès des ménages - ELIM03
+Mali,ML,MLI,466,National,16,Other unimproved,0.0,Enquête légère intégrée auprès des ménages - ELIM03
+Mali,ML,MLI,466,National,17,DK/missing information,0.0,Enquête légère intégrée auprès des ménages - ELIM03
+Mali,ML,MLI,466,Urban,1,Flush and pour flush - to piped sewer system,0.0,Enquête démographique et de santé - DHS06
+Mali,ML,MLI,466,Urban,2,Flush and pour flush - to septic tank,0.0,Enquête démographique et de santé - DHS06
+Mali,ML,MLI,466,Urban,3,Flush and pour flush - to pit,0.0,Enquête démographique et de santé - DHS06
+Mali,ML,MLI,466,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquête démographique et de santé - DHS06
+Mali,ML,MLI,466,Urban,5,Flush and pour flush - to elsewhere,0.0,Enquête démographique et de santé - DHS06
+Mali,ML,MLI,466,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Enquête démographique et de santé - DHS06
+Mali,ML,MLI,466,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Enquête démographique et de santé - DHS06
+Mali,ML,MLI,466,Urban,8,Dry latrines - Traditional latrine,0.0,Enquête démographique et de santé - DHS06
+Mali,ML,MLI,466,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Enquête démographique et de santé - DHS06
+Mali,ML,MLI,466,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquête démographique et de santé - DHS06
+Mali,ML,MLI,466,Urban,11,Dry latrines - Bucket latrine,0.0,Enquête démographique et de santé - DHS06
+Mali,ML,MLI,466,Urban,12,Dry latrines - Other,0.0,Enquête démographique et de santé - DHS06
+Mali,ML,MLI,466,Urban,13,Composting toilets,0.0,Enquête démographique et de santé - DHS06
+Mali,ML,MLI,466,Urban,14,Other improved,0.0,Enquête démographique et de santé - DHS06
+Mali,ML,MLI,466,Urban,15,"No facility, bush, field",0.0,Enquête démographique et de santé - DHS06
+Mali,ML,MLI,466,Urban,16,Other unimproved,0.0,Enquête démographique et de santé - DHS06
+Mali,ML,MLI,466,Urban,17,DK/missing information,0.0,Enquête démographique et de santé - DHS06
+Mali,ML,MLI,466,Rural,1,Flush and pour flush - to piped sewer system,0.0,Enquête démographique et de santé - DHS06
+Mali,ML,MLI,466,Rural,2,Flush and pour flush - to septic tank,0.0,Enquête démographique et de santé - DHS06
+Mali,ML,MLI,466,Rural,3,Flush and pour flush - to pit,0.0,Enquête démographique et de santé - DHS06
+Mali,ML,MLI,466,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquête démographique et de santé - DHS06
+Mali,ML,MLI,466,Rural,5,Flush and pour flush - to elsewhere,0.0,Enquête démographique et de santé - DHS06
+Mali,ML,MLI,466,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Enquête démographique et de santé - DHS06
+Mali,ML,MLI,466,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Enquête démographique et de santé - DHS06
+Mali,ML,MLI,466,Rural,8,Dry latrines - Traditional latrine,0.0,Enquête démographique et de santé - DHS06
+Mali,ML,MLI,466,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Enquête démographique et de santé - DHS06
+Mali,ML,MLI,466,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquête démographique et de santé - DHS06
+Mali,ML,MLI,466,Rural,11,Dry latrines - Bucket latrine,0.0,Enquête démographique et de santé - DHS06
+Mali,ML,MLI,466,Rural,12,Dry latrines - Other,0.0,Enquête démographique et de santé - DHS06
+Mali,ML,MLI,466,Rural,13,Composting toilets,0.0,Enquête démographique et de santé - DHS06
+Mali,ML,MLI,466,Rural,14,Other improved,0.0,Enquête démographique et de santé - DHS06
+Mali,ML,MLI,466,Rural,15,"No facility, bush, field",0.0,Enquête démographique et de santé - DHS06
+Mali,ML,MLI,466,Rural,16,Other unimproved,0.0,Enquête démographique et de santé - DHS06
+Mali,ML,MLI,466,Rural,17,DK/missing information,0.0,Enquête démographique et de santé - DHS06
+Mali,ML,MLI,466,National,1,Flush and pour flush - to piped sewer system,0.0,Enquête démographique et de santé - DHS06
+Mali,ML,MLI,466,National,2,Flush and pour flush - to septic tank,0.0,Enquête démographique et de santé - DHS06
+Mali,ML,MLI,466,National,3,Flush and pour flush - to pit,0.0,Enquête démographique et de santé - DHS06
+Mali,ML,MLI,466,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquête démographique et de santé - DHS06
+Mali,ML,MLI,466,National,5,Flush and pour flush - to elsewhere,0.0,Enquête démographique et de santé - DHS06
+Mali,ML,MLI,466,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Enquête démographique et de santé - DHS06
+Mali,ML,MLI,466,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Enquête démographique et de santé - DHS06
+Mali,ML,MLI,466,National,8,Dry latrines - Traditional latrine,0.0,Enquête démographique et de santé - DHS06
+Mali,ML,MLI,466,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Enquête démographique et de santé - DHS06
+Mali,ML,MLI,466,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquête démographique et de santé - DHS06
+Mali,ML,MLI,466,National,11,Dry latrines - Bucket latrine,0.0,Enquête démographique et de santé - DHS06
+Mali,ML,MLI,466,National,12,Dry latrines - Other,0.0,Enquête démographique et de santé - DHS06
+Mali,ML,MLI,466,National,13,Composting toilets,0.0,Enquête démographique et de santé - DHS06
+Mali,ML,MLI,466,National,14,Other improved,0.0,Enquête démographique et de santé - DHS06
+Mali,ML,MLI,466,National,15,"No facility, bush, field",0.0,Enquête démographique et de santé - DHS06
+Mali,ML,MLI,466,National,16,Other unimproved,0.0,Enquête démographique et de santé - DHS06
+Mali,ML,MLI,466,National,17,DK/missing information,0.0,Enquête démographique et de santé - DHS06
+Mali,ML,MLI,466,Urban,1,Flush and pour flush - to piped sewer system,0.0,Enquête Légère Intégrée auprès des Ménages - ELIM06
+Mali,ML,MLI,466,Urban,2,Flush and pour flush - to septic tank,0.0,Enquête Légère Intégrée auprès des Ménages - ELIM06
+Mali,ML,MLI,466,Urban,3,Flush and pour flush - to pit,0.0,Enquête Légère Intégrée auprès des Ménages - ELIM06
+Mali,ML,MLI,466,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquête Légère Intégrée auprès des Ménages - ELIM06
+Mali,ML,MLI,466,Urban,5,Flush and pour flush - to elsewhere,0.0,Enquête Légère Intégrée auprès des Ménages - ELIM06
+Mali,ML,MLI,466,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Enquête Légère Intégrée auprès des Ménages - ELIM06
+Mali,ML,MLI,466,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Enquête Légère Intégrée auprès des Ménages - ELIM06
+Mali,ML,MLI,466,Urban,8,Dry latrines - Traditional latrine,0.0,Enquête Légère Intégrée auprès des Ménages - ELIM06
+Mali,ML,MLI,466,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Enquête Légère Intégrée auprès des Ménages - ELIM06
+Mali,ML,MLI,466,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquête Légère Intégrée auprès des Ménages - ELIM06
+Mali,ML,MLI,466,Urban,11,Dry latrines - Bucket latrine,0.0,Enquête Légère Intégrée auprès des Ménages - ELIM06
+Mali,ML,MLI,466,Urban,12,Dry latrines - Other,0.0,Enquête Légère Intégrée auprès des Ménages - ELIM06
+Mali,ML,MLI,466,Urban,13,Composting toilets,0.0,Enquête Légère Intégrée auprès des Ménages - ELIM06
+Mali,ML,MLI,466,Urban,14,Other improved,0.0,Enquête Légère Intégrée auprès des Ménages - ELIM06
+Mali,ML,MLI,466,Urban,15,"No facility, bush, field",0.0,Enquête Légère Intégrée auprès des Ménages - ELIM06
+Mali,ML,MLI,466,Urban,16,Other unimproved,0.0,Enquête Légère Intégrée auprès des Ménages - ELIM06
+Mali,ML,MLI,466,Urban,17,DK/missing information,0.002,Enquête Légère Intégrée auprès des Ménages - ELIM06
+Mali,ML,MLI,466,Rural,1,Flush and pour flush - to piped sewer system,0.0,Enquête Légère Intégrée auprès des Ménages - ELIM06
+Mali,ML,MLI,466,Rural,2,Flush and pour flush - to septic tank,0.0,Enquête Légère Intégrée auprès des Ménages - ELIM06
+Mali,ML,MLI,466,Rural,3,Flush and pour flush - to pit,0.0,Enquête Légère Intégrée auprès des Ménages - ELIM06
+Mali,ML,MLI,466,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquête Légère Intégrée auprès des Ménages - ELIM06
+Mali,ML,MLI,466,Rural,5,Flush and pour flush - to elsewhere,0.0,Enquête Légère Intégrée auprès des Ménages - ELIM06
+Mali,ML,MLI,466,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Enquête Légère Intégrée auprès des Ménages - ELIM06
+Mali,ML,MLI,466,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Enquête Légère Intégrée auprès des Ménages - ELIM06
+Mali,ML,MLI,466,Rural,8,Dry latrines - Traditional latrine,0.0,Enquête Légère Intégrée auprès des Ménages - ELIM06
+Mali,ML,MLI,466,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Enquête Légère Intégrée auprès des Ménages - ELIM06
+Mali,ML,MLI,466,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquête Légère Intégrée auprès des Ménages - ELIM06
+Mali,ML,MLI,466,Rural,11,Dry latrines - Bucket latrine,0.0,Enquête Légère Intégrée auprès des Ménages - ELIM06
+Mali,ML,MLI,466,Rural,12,Dry latrines - Other,0.0,Enquête Légère Intégrée auprès des Ménages - ELIM06
+Mali,ML,MLI,466,Rural,13,Composting toilets,0.0,Enquête Légère Intégrée auprès des Ménages - ELIM06
+Mali,ML,MLI,466,Rural,14,Other improved,0.0,Enquête Légère Intégrée auprès des Ménages - ELIM06
+Mali,ML,MLI,466,Rural,15,"No facility, bush, field",0.0,Enquête Légère Intégrée auprès des Ménages - ELIM06
+Mali,ML,MLI,466,Rural,16,Other unimproved,0.0,Enquête Légère Intégrée auprès des Ménages - ELIM06
+Mali,ML,MLI,466,Rural,17,DK/missing information,0.003,Enquête Légère Intégrée auprès des Ménages - ELIM06
+Mali,ML,MLI,466,National,1,Flush and pour flush - to piped sewer system,0.0,Enquête Légère Intégrée auprès des Ménages - ELIM06
+Mali,ML,MLI,466,National,2,Flush and pour flush - to septic tank,0.0,Enquête Légère Intégrée auprès des Ménages - ELIM06
+Mali,ML,MLI,466,National,3,Flush and pour flush - to pit,0.0,Enquête Légère Intégrée auprès des Ménages - ELIM06
+Mali,ML,MLI,466,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquête Légère Intégrée auprès des Ménages - ELIM06
+Mali,ML,MLI,466,National,5,Flush and pour flush - to elsewhere,0.0,Enquête Légère Intégrée auprès des Ménages - ELIM06
+Mali,ML,MLI,466,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Enquête Légère Intégrée auprès des Ménages - ELIM06
+Mali,ML,MLI,466,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Enquête Légère Intégrée auprès des Ménages - ELIM06
+Mali,ML,MLI,466,National,8,Dry latrines - Traditional latrine,0.0,Enquête Légère Intégrée auprès des Ménages - ELIM06
+Mali,ML,MLI,466,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Enquête Légère Intégrée auprès des Ménages - ELIM06
+Mali,ML,MLI,466,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquête Légère Intégrée auprès des Ménages - ELIM06
+Mali,ML,MLI,466,National,11,Dry latrines - Bucket latrine,0.0,Enquête Légère Intégrée auprès des Ménages - ELIM06
+Mali,ML,MLI,466,National,12,Dry latrines - Other,0.0,Enquête Légère Intégrée auprès des Ménages - ELIM06
+Mali,ML,MLI,466,National,13,Composting toilets,0.0,Enquête Légère Intégrée auprès des Ménages - ELIM06
+Mali,ML,MLI,466,National,14,Other improved,0.0,Enquête Légère Intégrée auprès des Ménages - ELIM06
+Mali,ML,MLI,466,National,15,"No facility, bush, field",0.0,Enquête Légère Intégrée auprès des Ménages - ELIM06
+Mali,ML,MLI,466,National,16,Other unimproved,0.0,Enquête Légère Intégrée auprès des Ménages - ELIM06
+Mali,ML,MLI,466,National,17,DK/missing information,0.0,Enquête Légère Intégrée auprès des Ménages - ELIM06
+Mali,ML,MLI,466,Urban,1,Flush and pour flush - to piped sewer system,0.0,Recensement Général de la Population et de l’Habitat 2009 (RGPH-2009) - CEN09
+Mali,ML,MLI,466,Urban,2,Flush and pour flush - to septic tank,0.0,Recensement Général de la Population et de l’Habitat 2009 (RGPH-2009) - CEN09
+Mali,ML,MLI,466,Urban,3,Flush and pour flush - to pit,0.0,Recensement Général de la Population et de l’Habitat 2009 (RGPH-2009) - CEN09
+Mali,ML,MLI,466,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Recensement Général de la Population et de l’Habitat 2009 (RGPH-2009) - CEN09
+Mali,ML,MLI,466,Urban,5,Flush and pour flush - to elsewhere,0.0,Recensement Général de la Population et de l’Habitat 2009 (RGPH-2009) - CEN09
+Mali,ML,MLI,466,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Recensement Général de la Population et de l’Habitat 2009 (RGPH-2009) - CEN09
+Mali,ML,MLI,466,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Recensement Général de la Population et de l’Habitat 2009 (RGPH-2009) - CEN09
+Mali,ML,MLI,466,Urban,8,Dry latrines - Traditional latrine,0.763,Recensement Général de la Population et de l’Habitat 2009 (RGPH-2009) - CEN09
+Mali,ML,MLI,466,Urban,8,Dry latrines - Traditional latrine,0.094,Recensement Général de la Population et de l’Habitat 2009 (RGPH-2009) - CEN09
+Mali,ML,MLI,466,Urban,8,Dry latrines - Traditional latrine,0.669,Recensement Général de la Population et de l’Habitat 2009 (RGPH-2009) - CEN09
+Mali,ML,MLI,466,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Recensement Général de la Population et de l’Habitat 2009 (RGPH-2009) - CEN09
+Mali,ML,MLI,466,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Recensement Général de la Population et de l’Habitat 2009 (RGPH-2009) - CEN09
+Mali,ML,MLI,466,Urban,11,Dry latrines - Bucket latrine,0.0,Recensement Général de la Population et de l’Habitat 2009 (RGPH-2009) - CEN09
+Mali,ML,MLI,466,Urban,12,Dry latrines - Other,0.0,Recensement Général de la Population et de l’Habitat 2009 (RGPH-2009) - CEN09
+Mali,ML,MLI,466,Urban,13,Composting toilets,0.0,Recensement Général de la Population et de l’Habitat 2009 (RGPH-2009) - CEN09
+Mali,ML,MLI,466,Urban,14,Other improved,0.0,Recensement Général de la Population et de l’Habitat 2009 (RGPH-2009) - CEN09
+Mali,ML,MLI,466,Urban,15,"No facility, bush, field",0.024,Recensement Général de la Population et de l’Habitat 2009 (RGPH-2009) - CEN09
+Mali,ML,MLI,466,Urban,16,Other unimproved,0.005,Recensement Général de la Population et de l’Habitat 2009 (RGPH-2009) - CEN09
+Mali,ML,MLI,466,Urban,17,DK/missing information,0.03,Recensement Général de la Population et de l’Habitat 2009 (RGPH-2009) - CEN09
+Mali,ML,MLI,466,Rural,1,Flush and pour flush - to piped sewer system,0.0,Recensement Général de la Population et de l’Habitat 2009 (RGPH-2009) - CEN09
+Mali,ML,MLI,466,Rural,2,Flush and pour flush - to septic tank,0.0,Recensement Général de la Population et de l’Habitat 2009 (RGPH-2009) - CEN09
+Mali,ML,MLI,466,Rural,3,Flush and pour flush - to pit,0.0,Recensement Général de la Population et de l’Habitat 2009 (RGPH-2009) - CEN09
+Mali,ML,MLI,466,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Recensement Général de la Population et de l’Habitat 2009 (RGPH-2009) - CEN09
+Mali,ML,MLI,466,Rural,5,Flush and pour flush - to elsewhere,0.0,Recensement Général de la Population et de l’Habitat 2009 (RGPH-2009) - CEN09
+Mali,ML,MLI,466,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Recensement Général de la Population et de l’Habitat 2009 (RGPH-2009) - CEN09
+Mali,ML,MLI,466,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Recensement Général de la Population et de l’Habitat 2009 (RGPH-2009) - CEN09
+Mali,ML,MLI,466,Rural,8,Dry latrines - Traditional latrine,0.665,Recensement Général de la Population et de l’Habitat 2009 (RGPH-2009) - CEN09
+Mali,ML,MLI,466,Rural,8,Dry latrines - Traditional latrine,0.158,Recensement Général de la Population et de l’Habitat 2009 (RGPH-2009) - CEN09
+Mali,ML,MLI,466,Rural,8,Dry latrines - Traditional latrine,0.507,Recensement Général de la Population et de l’Habitat 2009 (RGPH-2009) - CEN09
+Mali,ML,MLI,466,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Recensement Général de la Population et de l’Habitat 2009 (RGPH-2009) - CEN09
+Mali,ML,MLI,466,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Recensement Général de la Population et de l’Habitat 2009 (RGPH-2009) - CEN09
+Mali,ML,MLI,466,Rural,11,Dry latrines - Bucket latrine,0.0,Recensement Général de la Population et de l’Habitat 2009 (RGPH-2009) - CEN09
+Mali,ML,MLI,466,Rural,12,Dry latrines - Other,0.0,Recensement Général de la Population et de l’Habitat 2009 (RGPH-2009) - CEN09
+Mali,ML,MLI,466,Rural,13,Composting toilets,0.0,Recensement Général de la Population et de l’Habitat 2009 (RGPH-2009) - CEN09
+Mali,ML,MLI,466,Rural,14,Other improved,0.0,Recensement Général de la Population et de l’Habitat 2009 (RGPH-2009) - CEN09
+Mali,ML,MLI,466,Rural,15,"No facility, bush, field",0.239,Recensement Général de la Population et de l’Habitat 2009 (RGPH-2009) - CEN09
+Mali,ML,MLI,466,Rural,16,Other unimproved,0.01,Recensement Général de la Population et de l’Habitat 2009 (RGPH-2009) - CEN09
+Mali,ML,MLI,466,Rural,17,DK/missing information,0.023,Recensement Général de la Population et de l’Habitat 2009 (RGPH-2009) - CEN09
+Mali,ML,MLI,466,National,1,Flush and pour flush - to piped sewer system,0.0,Recensement Général de la Population et de l’Habitat 2009 (RGPH-2009) - CEN09
+Mali,ML,MLI,466,National,2,Flush and pour flush - to septic tank,0.0,Recensement Général de la Population et de l’Habitat 2009 (RGPH-2009) - CEN09
+Mali,ML,MLI,466,National,3,Flush and pour flush - to pit,0.0,Recensement Général de la Population et de l’Habitat 2009 (RGPH-2009) - CEN09
+Mali,ML,MLI,466,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Recensement Général de la Population et de l’Habitat 2009 (RGPH-2009) - CEN09
+Mali,ML,MLI,466,National,5,Flush and pour flush - to elsewhere,0.0,Recensement Général de la Population et de l’Habitat 2009 (RGPH-2009) - CEN09
+Mali,ML,MLI,466,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Recensement Général de la Population et de l’Habitat 2009 (RGPH-2009) - CEN09
+Mali,ML,MLI,466,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Recensement Général de la Population et de l’Habitat 2009 (RGPH-2009) - CEN09
+Mali,ML,MLI,466,National,8,Dry latrines - Traditional latrine,0.687,Recensement Général de la Population et de l’Habitat 2009 (RGPH-2009) - CEN09
+Mali,ML,MLI,466,National,8,Dry latrines - Traditional latrine,0.144,Recensement Général de la Population et de l’Habitat 2009 (RGPH-2009) - CEN09
+Mali,ML,MLI,466,National,8,Dry latrines - Traditional latrine,0.543,Recensement Général de la Population et de l’Habitat 2009 (RGPH-2009) - CEN09
+Mali,ML,MLI,466,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Recensement Général de la Population et de l’Habitat 2009 (RGPH-2009) - CEN09
+Mali,ML,MLI,466,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Recensement Général de la Population et de l’Habitat 2009 (RGPH-2009) - CEN09
+Mali,ML,MLI,466,National,11,Dry latrines - Bucket latrine,0.0,Recensement Général de la Population et de l’Habitat 2009 (RGPH-2009) - CEN09
+Mali,ML,MLI,466,National,12,Dry latrines - Other,0.0,Recensement Général de la Population et de l’Habitat 2009 (RGPH-2009) - CEN09
+Mali,ML,MLI,466,National,13,Composting toilets,0.0,Recensement Général de la Population et de l’Habitat 2009 (RGPH-2009) - CEN09
+Mali,ML,MLI,466,National,14,Other improved,0.0,Recensement Général de la Population et de l’Habitat 2009 (RGPH-2009) - CEN09
+Mali,ML,MLI,466,National,15,"No facility, bush, field",0.19,Recensement Général de la Population et de l’Habitat 2009 (RGPH-2009) - CEN09
+Mali,ML,MLI,466,National,16,Other unimproved,0.009,Recensement Général de la Population et de l’Habitat 2009 (RGPH-2009) - CEN09
+Mali,ML,MLI,466,National,17,DK/missing information,0.025,Recensement Général de la Population et de l’Habitat 2009 (RGPH-2009) - CEN09
 Mali,ML,MLI,466,Urban,1,Flush and pour flush - to piped sewer system,0.038,Multiple Indicator Cluster Survey - MICS10
 Mali,ML,MLI,466,Urban,2,Flush and pour flush - to septic tank,0.06,Multiple Indicator Cluster Survey - MICS10
 Mali,ML,MLI,466,Urban,3,Flush and pour flush - to pit,0.032,Multiple Indicator Cluster Survey - MICS10
@@ -33,6 +349,80 @@ Mali,ML,MLI,466,Rural,14,Other improved,0.0,Multiple Indicator Cluster Survey - 
 Mali,ML,MLI,466,Rural,15,"No facility, bush, field",0.183,Multiple Indicator Cluster Survey - MICS10
 Mali,ML,MLI,466,Rural,16,Other unimproved,0.005,Multiple Indicator Cluster Survey - MICS10
 Mali,ML,MLI,466,Rural,17,DK/missing information,0.002,Multiple Indicator Cluster Survey - MICS10
+Mali,ML,MLI,466,National,1,Flush and pour flush - to piped sewer system,0.015,Multiple Indicator Cluster Survey - MICS10
+Mali,ML,MLI,466,National,2,Flush and pour flush - to septic tank,0.021,Multiple Indicator Cluster Survey - MICS10
+Mali,ML,MLI,466,National,3,Flush and pour flush - to pit,0.013,Multiple Indicator Cluster Survey - MICS10
+Mali,ML,MLI,466,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.001,Multiple Indicator Cluster Survey - MICS10
+Mali,ML,MLI,466,National,5,Flush and pour flush - to elsewhere,0.001,Multiple Indicator Cluster Survey - MICS10
+Mali,ML,MLI,466,National,6,Dry latrines - Ventilated Improved Pit latrine,0.003,Multiple Indicator Cluster Survey - MICS10
+Mali,ML,MLI,466,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.304,Multiple Indicator Cluster Survey - MICS10
+Mali,ML,MLI,466,National,8,Dry latrines - Traditional latrine,0.0,Multiple Indicator Cluster Survey - MICS10
+Mali,ML,MLI,466,National,9,Dry latrines - Pit latrine without slab/open pit,0.496,Multiple Indicator Cluster Survey - MICS10
+Mali,ML,MLI,466,National,10,Dry latrines - Hanging toilet/hanging latrine,0.002,Multiple Indicator Cluster Survey - MICS10
+Mali,ML,MLI,466,National,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS10
+Mali,ML,MLI,466,National,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS10
+Mali,ML,MLI,466,National,13,Composting toilets,0.001,Multiple Indicator Cluster Survey - MICS10
+Mali,ML,MLI,466,National,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS10
+Mali,ML,MLI,466,National,15,"No facility, bush, field",0.138,Multiple Indicator Cluster Survey - MICS10
+Mali,ML,MLI,466,National,16,Other unimproved,0.005,Multiple Indicator Cluster Survey - MICS10
+Mali,ML,MLI,466,National,17,DK/missing information,0.001,Multiple Indicator Cluster Survey - MICS10
+Mali,ML,MLI,466,Urban,1,Flush and pour flush - to piped sewer system,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP11
+Mali,ML,MLI,466,Urban,2,Flush and pour flush - to septic tank,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP11
+Mali,ML,MLI,466,Urban,3,Flush and pour flush - to pit,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP11
+Mali,ML,MLI,466,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP11
+Mali,ML,MLI,466,Urban,5,Flush and pour flush - to elsewhere,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP11
+Mali,ML,MLI,466,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP11
+Mali,ML,MLI,466,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP11
+Mali,ML,MLI,466,Urban,8,Dry latrines - Traditional latrine,0.85,Enquête Modulaire et Permanente Auprès des Ménages - EMOP11
+Mali,ML,MLI,466,Urban,8,Dry latrines - Traditional latrine,0.343,Enquête Modulaire et Permanente Auprès des Ménages - EMOP11
+Mali,ML,MLI,466,Urban,8,Dry latrines - Traditional latrine,0.507,Enquête Modulaire et Permanente Auprès des Ménages - EMOP11
+Mali,ML,MLI,466,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP11
+Mali,ML,MLI,466,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP11
+Mali,ML,MLI,466,Urban,11,Dry latrines - Bucket latrine,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP11
+Mali,ML,MLI,466,Urban,12,Dry latrines - Other,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP11
+Mali,ML,MLI,466,Urban,13,Composting toilets,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP11
+Mali,ML,MLI,466,Urban,14,Other improved,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP11
+Mali,ML,MLI,466,Urban,15,"No facility, bush, field",0.031,Enquête Modulaire et Permanente Auprès des Ménages - EMOP11
+Mali,ML,MLI,466,Urban,16,Other unimproved,0.005,Enquête Modulaire et Permanente Auprès des Ménages - EMOP11
+Mali,ML,MLI,466,Urban,17,DK/missing information,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP11
+Mali,ML,MLI,466,Rural,1,Flush and pour flush - to piped sewer system,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP11
+Mali,ML,MLI,466,Rural,2,Flush and pour flush - to septic tank,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP11
+Mali,ML,MLI,466,Rural,3,Flush and pour flush - to pit,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP11
+Mali,ML,MLI,466,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP11
+Mali,ML,MLI,466,Rural,5,Flush and pour flush - to elsewhere,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP11
+Mali,ML,MLI,466,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP11
+Mali,ML,MLI,466,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP11
+Mali,ML,MLI,466,Rural,8,Dry latrines - Traditional latrine,0.84,Enquête Modulaire et Permanente Auprès des Ménages - EMOP11
+Mali,ML,MLI,466,Rural,8,Dry latrines - Traditional latrine,0.473,Enquête Modulaire et Permanente Auprès des Ménages - EMOP11
+Mali,ML,MLI,466,Rural,8,Dry latrines - Traditional latrine,0.367,Enquête Modulaire et Permanente Auprès des Ménages - EMOP11
+Mali,ML,MLI,466,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP11
+Mali,ML,MLI,466,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP11
+Mali,ML,MLI,466,Rural,11,Dry latrines - Bucket latrine,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP11
+Mali,ML,MLI,466,Rural,12,Dry latrines - Other,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP11
+Mali,ML,MLI,466,Rural,13,Composting toilets,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP11
+Mali,ML,MLI,466,Rural,14,Other improved,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP11
+Mali,ML,MLI,466,Rural,15,"No facility, bush, field",0.123,Enquête Modulaire et Permanente Auprès des Ménages - EMOP11
+Mali,ML,MLI,466,Rural,16,Other unimproved,0.007,Enquête Modulaire et Permanente Auprès des Ménages - EMOP11
+Mali,ML,MLI,466,Rural,17,DK/missing information,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP11
+Mali,ML,MLI,466,National,1,Flush and pour flush - to piped sewer system,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP11
+Mali,ML,MLI,466,National,2,Flush and pour flush - to septic tank,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP11
+Mali,ML,MLI,466,National,3,Flush and pour flush - to pit,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP11
+Mali,ML,MLI,466,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP11
+Mali,ML,MLI,466,National,5,Flush and pour flush - to elsewhere,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP11
+Mali,ML,MLI,466,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP11
+Mali,ML,MLI,466,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP11
+Mali,ML,MLI,466,National,8,Dry latrines - Traditional latrine,0.843,Enquête Modulaire et Permanente Auprès des Ménages - EMOP11
+Mali,ML,MLI,466,National,8,Dry latrines - Traditional latrine,0.441,Enquête Modulaire et Permanente Auprès des Ménages - EMOP11
+Mali,ML,MLI,466,National,8,Dry latrines - Traditional latrine,0.402,Enquête Modulaire et Permanente Auprès des Ménages - EMOP11
+Mali,ML,MLI,466,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP11
+Mali,ML,MLI,466,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP11
+Mali,ML,MLI,466,National,11,Dry latrines - Bucket latrine,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP11
+Mali,ML,MLI,466,National,12,Dry latrines - Other,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP11
+Mali,ML,MLI,466,National,13,Composting toilets,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP11
+Mali,ML,MLI,466,National,14,Other improved,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP11
+Mali,ML,MLI,466,National,15,"No facility, bush, field",0.1,Enquête Modulaire et Permanente Auprès des Ménages - EMOP11
+Mali,ML,MLI,466,National,16,Other unimproved,0.006,Enquête Modulaire et Permanente Auprès des Ménages - EMOP11
+Mali,ML,MLI,466,National,17,DK/missing information,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP11
 Mali,ML,MLI,466,Urban,1,Flush and pour flush - to piped sewer system,0.068,Enquête Démographique et de Santé (EDSM V) 2012-2013 - DHS13
 Mali,ML,MLI,466,Urban,2,Flush and pour flush - to septic tank,0.041,Enquête Démographique et de Santé (EDSM V) 2012-2013 - DHS13
 Mali,ML,MLI,466,Urban,3,Flush and pour flush - to pit,0.047,Enquête Démographique et de Santé (EDSM V) 2012-2013 - DHS13
@@ -81,6 +471,138 @@ Mali,ML,MLI,466,Rural,14,Other improved,0.0,Enquête Démographique et de Santé
 Mali,ML,MLI,466,Rural,15,"No facility, bush, field",0.137,Enquête Démographique et de Santé (EDSM V) 2012-2013 - DHS13
 Mali,ML,MLI,466,Rural,16,Other unimproved,0.0,Enquête Démographique et de Santé (EDSM V) 2012-2013 - DHS13
 Mali,ML,MLI,466,Rural,17,DK/missing information,0.0,Enquête Démographique et de Santé (EDSM V) 2012-2013 - DHS13
+Mali,ML,MLI,466,National,1,Flush and pour flush - to piped sewer system,0.015,Enquête Démographique et de Santé (EDSM V) 2012-2013 - DHS13
+Mali,ML,MLI,466,National,2,Flush and pour flush - to septic tank,0.019,Enquête Démographique et de Santé (EDSM V) 2012-2013 - DHS13
+Mali,ML,MLI,466,National,3,Flush and pour flush - to pit,0.038,Enquête Démographique et de Santé (EDSM V) 2012-2013 - DHS13
+Mali,ML,MLI,466,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.002,Enquête Démographique et de Santé (EDSM V) 2012-2013 - DHS13
+Mali,ML,MLI,466,National,5,Flush and pour flush - to elsewhere,0.0,Enquête Démographique et de Santé (EDSM V) 2012-2013 - DHS13
+Mali,ML,MLI,466,National,6,Dry latrines - Ventilated Improved Pit latrine,0.01,Enquête Démographique et de Santé (EDSM V) 2012-2013 - DHS13
+Mali,ML,MLI,466,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.332,Enquête Démographique et de Santé (EDSM V) 2012-2013 - DHS13
+Mali,ML,MLI,466,National,8,Dry latrines - Traditional latrine,0.0,Enquête Démographique et de Santé (EDSM V) 2012-2013 - DHS13
+Mali,ML,MLI,466,National,9,Dry latrines - Pit latrine without slab/open pit,0.468,Enquête Démographique et de Santé (EDSM V) 2012-2013 - DHS13
+Mali,ML,MLI,466,National,10,Dry latrines - Hanging toilet/hanging latrine,0.007,Enquête Démographique et de Santé (EDSM V) 2012-2013 - DHS13
+Mali,ML,MLI,466,National,6,Dry latrines - Ventilated Improved Pit latrine,0.007,Enquête Démographique et de Santé (EDSM V) 2012-2013 - DHS13
+Mali,ML,MLI,466,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.183,Enquête Démographique et de Santé (EDSM V) 2012-2013 - DHS13
+Mali,ML,MLI,466,National,6,Dry latrines - Ventilated Improved Pit latrine,0.003,Enquête Démographique et de Santé (EDSM V) 2012-2013 - DHS13
+Mali,ML,MLI,466,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.149,Enquête Démographique et de Santé (EDSM V) 2012-2013 - DHS13
+Mali,ML,MLI,466,National,8,Dry latrines - Traditional latrine,0.0,Enquête Démographique et de Santé (EDSM V) 2012-2013 - DHS13
+Mali,ML,MLI,466,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Enquête Démographique et de Santé (EDSM V) 2012-2013 - DHS13
+Mali,ML,MLI,466,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquête Démographique et de Santé (EDSM V) 2012-2013 - DHS13
+Mali,ML,MLI,466,National,11,Dry latrines - Bucket latrine,0.0,Enquête Démographique et de Santé (EDSM V) 2012-2013 - DHS13
+Mali,ML,MLI,466,National,12,Dry latrines - Other,0.0,Enquête Démographique et de Santé (EDSM V) 2012-2013 - DHS13
+Mali,ML,MLI,466,National,13,Composting toilets,0.002,Enquête Démographique et de Santé (EDSM V) 2012-2013 - DHS13
+Mali,ML,MLI,466,National,14,Other improved,0.0,Enquête Démographique et de Santé (EDSM V) 2012-2013 - DHS13
+Mali,ML,MLI,466,National,15,"No facility, bush, field",0.109,Enquête Démographique et de Santé (EDSM V) 2012-2013 - DHS13
+Mali,ML,MLI,466,National,16,Other unimproved,0.0,Enquête Démographique et de Santé (EDSM V) 2012-2013 - DHS13
+Mali,ML,MLI,466,National,17,DK/missing information,0.0,Enquête Démographique et de Santé (EDSM V) 2012-2013 - DHS13
+Mali,ML,MLI,466,Urban,1,Flush and pour flush - to piped sewer system,0.0,Enquête Agricole de Conjoncture Intégrée 2014 - LSMS14
+Mali,ML,MLI,466,Urban,2,Flush and pour flush - to septic tank,0.0,Enquête Agricole de Conjoncture Intégrée 2014 - LSMS14
+Mali,ML,MLI,466,Urban,3,Flush and pour flush - to pit,0.0,Enquête Agricole de Conjoncture Intégrée 2014 - LSMS14
+Mali,ML,MLI,466,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquête Agricole de Conjoncture Intégrée 2014 - LSMS14
+Mali,ML,MLI,466,Urban,5,Flush and pour flush - to elsewhere,0.0,Enquête Agricole de Conjoncture Intégrée 2014 - LSMS14
+Mali,ML,MLI,466,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Enquête Agricole de Conjoncture Intégrée 2014 - LSMS14
+Mali,ML,MLI,466,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.571,Enquête Agricole de Conjoncture Intégrée 2014 - LSMS14
+Mali,ML,MLI,466,Urban,8,Dry latrines - Traditional latrine,0.0,Enquête Agricole de Conjoncture Intégrée 2014 - LSMS14
+Mali,ML,MLI,466,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.126,Enquête Agricole de Conjoncture Intégrée 2014 - LSMS14
+Mali,ML,MLI,466,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquête Agricole de Conjoncture Intégrée 2014 - LSMS14
+Mali,ML,MLI,466,Urban,11,Dry latrines - Bucket latrine,0.0,Enquête Agricole de Conjoncture Intégrée 2014 - LSMS14
+Mali,ML,MLI,466,Urban,12,Dry latrines - Other,0.0,Enquête Agricole de Conjoncture Intégrée 2014 - LSMS14
+Mali,ML,MLI,466,Urban,13,Composting toilets,0.0,Enquête Agricole de Conjoncture Intégrée 2014 - LSMS14
+Mali,ML,MLI,466,Urban,14,Other improved,0.0,Enquête Agricole de Conjoncture Intégrée 2014 - LSMS14
+Mali,ML,MLI,466,Urban,15,"No facility, bush, field",0.009,Enquête Agricole de Conjoncture Intégrée 2014 - LSMS14
+Mali,ML,MLI,466,Urban,16,Other unimproved,0.022,Enquête Agricole de Conjoncture Intégrée 2014 - LSMS14
+Mali,ML,MLI,466,Urban,17,DK/missing information,0.009,Enquête Agricole de Conjoncture Intégrée 2014 - LSMS14
+Mali,ML,MLI,466,Rural,1,Flush and pour flush - to piped sewer system,0.0,Enquête Agricole de Conjoncture Intégrée 2014 - LSMS14
+Mali,ML,MLI,466,Rural,2,Flush and pour flush - to septic tank,0.0,Enquête Agricole de Conjoncture Intégrée 2014 - LSMS14
+Mali,ML,MLI,466,Rural,3,Flush and pour flush - to pit,0.0,Enquête Agricole de Conjoncture Intégrée 2014 - LSMS14
+Mali,ML,MLI,466,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquête Agricole de Conjoncture Intégrée 2014 - LSMS14
+Mali,ML,MLI,466,Rural,5,Flush and pour flush - to elsewhere,0.0,Enquête Agricole de Conjoncture Intégrée 2014 - LSMS14
+Mali,ML,MLI,466,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Enquête Agricole de Conjoncture Intégrée 2014 - LSMS14
+Mali,ML,MLI,466,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.349,Enquête Agricole de Conjoncture Intégrée 2014 - LSMS14
+Mali,ML,MLI,466,Rural,8,Dry latrines - Traditional latrine,0.0,Enquête Agricole de Conjoncture Intégrée 2014 - LSMS14
+Mali,ML,MLI,466,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.334,Enquête Agricole de Conjoncture Intégrée 2014 - LSMS14
+Mali,ML,MLI,466,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquête Agricole de Conjoncture Intégrée 2014 - LSMS14
+Mali,ML,MLI,466,Rural,11,Dry latrines - Bucket latrine,0.0,Enquête Agricole de Conjoncture Intégrée 2014 - LSMS14
+Mali,ML,MLI,466,Rural,12,Dry latrines - Other,0.0,Enquête Agricole de Conjoncture Intégrée 2014 - LSMS14
+Mali,ML,MLI,466,Rural,13,Composting toilets,0.0,Enquête Agricole de Conjoncture Intégrée 2014 - LSMS14
+Mali,ML,MLI,466,Rural,14,Other improved,0.0,Enquête Agricole de Conjoncture Intégrée 2014 - LSMS14
+Mali,ML,MLI,466,Rural,15,"No facility, bush, field",0.144,Enquête Agricole de Conjoncture Intégrée 2014 - LSMS14
+Mali,ML,MLI,466,Rural,16,Other unimproved,0.033,Enquête Agricole de Conjoncture Intégrée 2014 - LSMS14
+Mali,ML,MLI,466,Rural,17,DK/missing information,0.007,Enquête Agricole de Conjoncture Intégrée 2014 - LSMS14
+Mali,ML,MLI,466,National,1,Flush and pour flush - to piped sewer system,0.0,Enquête Agricole de Conjoncture Intégrée 2014 - LSMS14
+Mali,ML,MLI,466,National,2,Flush and pour flush - to septic tank,0.0,Enquête Agricole de Conjoncture Intégrée 2014 - LSMS14
+Mali,ML,MLI,466,National,3,Flush and pour flush - to pit,0.0,Enquête Agricole de Conjoncture Intégrée 2014 - LSMS14
+Mali,ML,MLI,466,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquête Agricole de Conjoncture Intégrée 2014 - LSMS14
+Mali,ML,MLI,466,National,5,Flush and pour flush - to elsewhere,0.0,Enquête Agricole de Conjoncture Intégrée 2014 - LSMS14
+Mali,ML,MLI,466,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Enquête Agricole de Conjoncture Intégrée 2014 - LSMS14
+Mali,ML,MLI,466,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.399,Enquête Agricole de Conjoncture Intégrée 2014 - LSMS14
+Mali,ML,MLI,466,National,8,Dry latrines - Traditional latrine,0.0,Enquête Agricole de Conjoncture Intégrée 2014 - LSMS14
+Mali,ML,MLI,466,National,9,Dry latrines - Pit latrine without slab/open pit,0.287,Enquête Agricole de Conjoncture Intégrée 2014 - LSMS14
+Mali,ML,MLI,466,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquête Agricole de Conjoncture Intégrée 2014 - LSMS14
+Mali,ML,MLI,466,National,11,Dry latrines - Bucket latrine,0.0,Enquête Agricole de Conjoncture Intégrée 2014 - LSMS14
+Mali,ML,MLI,466,National,12,Dry latrines - Other,0.0,Enquête Agricole de Conjoncture Intégrée 2014 - LSMS14
+Mali,ML,MLI,466,National,13,Composting toilets,0.0,Enquête Agricole de Conjoncture Intégrée 2014 - LSMS14
+Mali,ML,MLI,466,National,14,Other improved,0.0,Enquête Agricole de Conjoncture Intégrée 2014 - LSMS14
+Mali,ML,MLI,466,National,15,"No facility, bush, field",0.113,Enquête Agricole de Conjoncture Intégrée 2014 - LSMS14
+Mali,ML,MLI,466,National,16,Other unimproved,0.03,Enquête Agricole de Conjoncture Intégrée 2014 - LSMS14
+Mali,ML,MLI,466,National,17,DK/missing information,0.007,Enquête Agricole de Conjoncture Intégrée 2014 - LSMS14
+Mali,ML,MLI,466,Urban,1,Flush and pour flush - to piped sewer system,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP14
+Mali,ML,MLI,466,Urban,2,Flush and pour flush - to septic tank,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP14
+Mali,ML,MLI,466,Urban,3,Flush and pour flush - to pit,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP14
+Mali,ML,MLI,466,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP14
+Mali,ML,MLI,466,Urban,5,Flush and pour flush - to elsewhere,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP14
+Mali,ML,MLI,466,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP14
+Mali,ML,MLI,466,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP14
+Mali,ML,MLI,466,Urban,8,Dry latrines - Traditional latrine,0.873,Enquête Modulaire et Permanente Auprès des Ménages - EMOP14
+Mali,ML,MLI,466,Urban,8,Dry latrines - Traditional latrine,0.294,Enquête Modulaire et Permanente Auprès des Ménages - EMOP14
+Mali,ML,MLI,466,Urban,8,Dry latrines - Traditional latrine,0.579,Enquête Modulaire et Permanente Auprès des Ménages - EMOP14
+Mali,ML,MLI,466,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP14
+Mali,ML,MLI,466,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP14
+Mali,ML,MLI,466,Urban,11,Dry latrines - Bucket latrine,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP14
+Mali,ML,MLI,466,Urban,12,Dry latrines - Other,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP14
+Mali,ML,MLI,466,Urban,13,Composting toilets,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP14
+Mali,ML,MLI,466,Urban,14,Other improved,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP14
+Mali,ML,MLI,466,Urban,15,"No facility, bush, field",0.012,Enquête Modulaire et Permanente Auprès des Ménages - EMOP14
+Mali,ML,MLI,466,Urban,16,Other unimproved,0.004,Enquête Modulaire et Permanente Auprès des Ménages - EMOP14
+Mali,ML,MLI,466,Urban,17,DK/missing information,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP14
+Mali,ML,MLI,466,Rural,1,Flush and pour flush - to piped sewer system,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP14
+Mali,ML,MLI,466,Rural,2,Flush and pour flush - to septic tank,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP14
+Mali,ML,MLI,466,Rural,3,Flush and pour flush - to pit,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP14
+Mali,ML,MLI,466,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP14
+Mali,ML,MLI,466,Rural,5,Flush and pour flush - to elsewhere,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP14
+Mali,ML,MLI,466,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP14
+Mali,ML,MLI,466,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP14
+Mali,ML,MLI,466,Rural,8,Dry latrines - Traditional latrine,0.831,Enquête Modulaire et Permanente Auprès des Ménages - EMOP14
+Mali,ML,MLI,466,Rural,8,Dry latrines - Traditional latrine,0.478,Enquête Modulaire et Permanente Auprès des Ménages - EMOP14
+Mali,ML,MLI,466,Rural,8,Dry latrines - Traditional latrine,0.353,Enquête Modulaire et Permanente Auprès des Ménages - EMOP14
+Mali,ML,MLI,466,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP14
+Mali,ML,MLI,466,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP14
+Mali,ML,MLI,466,Rural,11,Dry latrines - Bucket latrine,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP14
+Mali,ML,MLI,466,Rural,12,Dry latrines - Other,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP14
+Mali,ML,MLI,466,Rural,13,Composting toilets,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP14
+Mali,ML,MLI,466,Rural,14,Other improved,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP14
+Mali,ML,MLI,466,Rural,15,"No facility, bush, field",0.139,Enquête Modulaire et Permanente Auprès des Ménages - EMOP14
+Mali,ML,MLI,466,Rural,16,Other unimproved,0.003,Enquête Modulaire et Permanente Auprès des Ménages - EMOP14
+Mali,ML,MLI,466,Rural,17,DK/missing information,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP14
+Mali,ML,MLI,466,National,1,Flush and pour flush - to piped sewer system,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP14
+Mali,ML,MLI,466,National,2,Flush and pour flush - to septic tank,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP14
+Mali,ML,MLI,466,National,3,Flush and pour flush - to pit,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP14
+Mali,ML,MLI,466,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP14
+Mali,ML,MLI,466,National,5,Flush and pour flush - to elsewhere,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP14
+Mali,ML,MLI,466,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP14
+Mali,ML,MLI,466,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP14
+Mali,ML,MLI,466,National,8,Dry latrines - Traditional latrine,0.843,Enquête Modulaire et Permanente Auprès des Ménages - EMOP14
+Mali,ML,MLI,466,National,8,Dry latrines - Traditional latrine,0.427,Enquête Modulaire et Permanente Auprès des Ménages - EMOP14
+Mali,ML,MLI,466,National,8,Dry latrines - Traditional latrine,0.416,Enquête Modulaire et Permanente Auprès des Ménages - EMOP14
+Mali,ML,MLI,466,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP14
+Mali,ML,MLI,466,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP14
+Mali,ML,MLI,466,National,11,Dry latrines - Bucket latrine,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP14
+Mali,ML,MLI,466,National,12,Dry latrines - Other,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP14
+Mali,ML,MLI,466,National,13,Composting toilets,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP14
+Mali,ML,MLI,466,National,14,Other improved,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP14
+Mali,ML,MLI,466,National,15,"No facility, bush, field",0.104,Enquête Modulaire et Permanente Auprès des Ménages - EMOP14
+Mali,ML,MLI,466,National,16,Other unimproved,0.003,Enquête Modulaire et Permanente Auprès des Ménages - EMOP14
+Mali,ML,MLI,466,National,17,DK/missing information,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP14
 Mali,ML,MLI,466,Urban,1,Flush and pour flush - to piped sewer system,0.023,"Malaria Indicator Survey, 2015 - MIS15"
 Mali,ML,MLI,466,Urban,2,Flush and pour flush - to septic tank,0.074,"Malaria Indicator Survey, 2015 - MIS15"
 Mali,ML,MLI,466,Urban,3,Flush and pour flush - to pit,0.023,"Malaria Indicator Survey, 2015 - MIS15"
@@ -115,6 +637,23 @@ Mali,ML,MLI,466,Rural,14,Other improved,0.0,"Malaria Indicator Survey, 2015 - MI
 Mali,ML,MLI,466,Rural,15,"No facility, bush, field",0.088,"Malaria Indicator Survey, 2015 - MIS15"
 Mali,ML,MLI,466,Rural,16,Other unimproved,0.001,"Malaria Indicator Survey, 2015 - MIS15"
 Mali,ML,MLI,466,Rural,17,DK/missing information,0.0,"Malaria Indicator Survey, 2015 - MIS15"
+Mali,ML,MLI,466,National,1,Flush and pour flush - to piped sewer system,0.008,"Malaria Indicator Survey, 2015 - MIS15"
+Mali,ML,MLI,466,National,2,Flush and pour flush - to septic tank,0.018,"Malaria Indicator Survey, 2015 - MIS15"
+Mali,ML,MLI,466,National,3,Flush and pour flush - to pit,0.007,"Malaria Indicator Survey, 2015 - MIS15"
+Mali,ML,MLI,466,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Malaria Indicator Survey, 2015 - MIS15"
+Mali,ML,MLI,466,National,5,Flush and pour flush - to elsewhere,0.0,"Malaria Indicator Survey, 2015 - MIS15"
+Mali,ML,MLI,466,National,6,Dry latrines - Ventilated Improved Pit latrine,0.003,"Malaria Indicator Survey, 2015 - MIS15"
+Mali,ML,MLI,466,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.435,"Malaria Indicator Survey, 2015 - MIS15"
+Mali,ML,MLI,466,National,8,Dry latrines - Traditional latrine,0.0,"Malaria Indicator Survey, 2015 - MIS15"
+Mali,ML,MLI,466,National,9,Dry latrines - Pit latrine without slab/open pit,0.457,"Malaria Indicator Survey, 2015 - MIS15"
+Mali,ML,MLI,466,National,10,Dry latrines - Hanging toilet/hanging latrine,0.001,"Malaria Indicator Survey, 2015 - MIS15"
+Mali,ML,MLI,466,National,11,Dry latrines - Bucket latrine,0.0,"Malaria Indicator Survey, 2015 - MIS15"
+Mali,ML,MLI,466,National,12,Dry latrines - Other,0.0,"Malaria Indicator Survey, 2015 - MIS15"
+Mali,ML,MLI,466,National,13,Composting toilets,0.0,"Malaria Indicator Survey, 2015 - MIS15"
+Mali,ML,MLI,466,National,14,Other improved,0.0,"Malaria Indicator Survey, 2015 - MIS15"
+Mali,ML,MLI,466,National,15,"No facility, bush, field",0.069,"Malaria Indicator Survey, 2015 - MIS15"
+Mali,ML,MLI,466,National,16,Other unimproved,0.001,"Malaria Indicator Survey, 2015 - MIS15"
+Mali,ML,MLI,466,National,17,DK/missing information,0.0,"Malaria Indicator Survey, 2015 - MIS15"
 Mali,ML,MLI,466,Urban,1,Flush and pour flush - to piped sewer system,0.035,"Multiple Indicator Cluster Survey, 2015 - MICS15"
 Mali,ML,MLI,466,Urban,2,Flush and pour flush - to septic tank,0.0,"Multiple Indicator Cluster Survey, 2015 - MICS15"
 Mali,ML,MLI,466,Urban,3,Flush and pour flush - to pit,0.0,"Multiple Indicator Cluster Survey, 2015 - MICS15"
@@ -149,3 +688,299 @@ Mali,ML,MLI,466,Rural,14,Other improved,0.0,"Multiple Indicator Cluster Survey, 
 Mali,ML,MLI,466,Rural,15,"No facility, bush, field",0.141,"Multiple Indicator Cluster Survey, 2015 - MICS15"
 Mali,ML,MLI,466,Rural,16,Other unimproved,0.002,"Multiple Indicator Cluster Survey, 2015 - MICS15"
 Mali,ML,MLI,466,Rural,17,DK/missing information,0.0,"Multiple Indicator Cluster Survey, 2015 - MICS15"
+Mali,ML,MLI,466,National,1,Flush and pour flush - to piped sewer system,0.01,"Multiple Indicator Cluster Survey, 2015 - MICS15"
+Mali,ML,MLI,466,National,2,Flush and pour flush - to septic tank,0.0,"Multiple Indicator Cluster Survey, 2015 - MICS15"
+Mali,ML,MLI,466,National,3,Flush and pour flush - to pit,0.0,"Multiple Indicator Cluster Survey, 2015 - MICS15"
+Mali,ML,MLI,466,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Multiple Indicator Cluster Survey, 2015 - MICS15"
+Mali,ML,MLI,466,National,5,Flush and pour flush - to elsewhere,0.0,"Multiple Indicator Cluster Survey, 2015 - MICS15"
+Mali,ML,MLI,466,National,6,Dry latrines - Ventilated Improved Pit latrine,0.023,"Multiple Indicator Cluster Survey, 2015 - MICS15"
+Mali,ML,MLI,466,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.337,"Multiple Indicator Cluster Survey, 2015 - MICS15"
+Mali,ML,MLI,466,National,8,Dry latrines - Traditional latrine,0.0,"Multiple Indicator Cluster Survey, 2015 - MICS15"
+Mali,ML,MLI,466,National,9,Dry latrines - Pit latrine without slab/open pit,0.445,"Multiple Indicator Cluster Survey, 2015 - MICS15"
+Mali,ML,MLI,466,National,10,Dry latrines - Hanging toilet/hanging latrine,0.006,"Multiple Indicator Cluster Survey, 2015 - MICS15"
+Mali,ML,MLI,466,National,11,Dry latrines - Bucket latrine,0.0,"Multiple Indicator Cluster Survey, 2015 - MICS15"
+Mali,ML,MLI,466,National,12,Dry latrines - Other,0.0,"Multiple Indicator Cluster Survey, 2015 - MICS15"
+Mali,ML,MLI,466,National,13,Composting toilets,0.009,"Multiple Indicator Cluster Survey, 2015 - MICS15"
+Mali,ML,MLI,466,National,14,Other improved,0.0,"Multiple Indicator Cluster Survey, 2015 - MICS15"
+Mali,ML,MLI,466,National,15,"No facility, bush, field",0.112,"Multiple Indicator Cluster Survey, 2015 - MICS15"
+Mali,ML,MLI,466,National,16,Other unimproved,0.002,"Multiple Indicator Cluster Survey, 2015 - MICS15"
+Mali,ML,MLI,466,National,17,DK/missing information,0.0,"Multiple Indicator Cluster Survey, 2015 - MICS15"
+Mali,ML,MLI,466,Urban,1,Flush and pour flush - to piped sewer system,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP15
+Mali,ML,MLI,466,Urban,2,Flush and pour flush - to septic tank,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP15
+Mali,ML,MLI,466,Urban,3,Flush and pour flush - to pit,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP15
+Mali,ML,MLI,466,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP15
+Mali,ML,MLI,466,Urban,5,Flush and pour flush - to elsewhere,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP15
+Mali,ML,MLI,466,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP15
+Mali,ML,MLI,466,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP15
+Mali,ML,MLI,466,Urban,8,Dry latrines - Traditional latrine,0.879,Enquête Modulaire et Permanente Auprès des Ménages - EMOP15
+Mali,ML,MLI,466,Urban,8,Dry latrines - Traditional latrine,0.282,Enquête Modulaire et Permanente Auprès des Ménages - EMOP15
+Mali,ML,MLI,466,Urban,8,Dry latrines - Traditional latrine,0.597,Enquête Modulaire et Permanente Auprès des Ménages - EMOP15
+Mali,ML,MLI,466,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP15
+Mali,ML,MLI,466,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP15
+Mali,ML,MLI,466,Urban,11,Dry latrines - Bucket latrine,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP15
+Mali,ML,MLI,466,Urban,12,Dry latrines - Other,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP15
+Mali,ML,MLI,466,Urban,13,Composting toilets,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP15
+Mali,ML,MLI,466,Urban,14,Other improved,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP15
+Mali,ML,MLI,466,Urban,15,"No facility, bush, field",0.014,Enquête Modulaire et Permanente Auprès des Ménages - EMOP15
+Mali,ML,MLI,466,Urban,16,Other unimproved,0.004,Enquête Modulaire et Permanente Auprès des Ménages - EMOP15
+Mali,ML,MLI,466,Urban,17,DK/missing information,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP15
+Mali,ML,MLI,466,Rural,1,Flush and pour flush - to piped sewer system,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP15
+Mali,ML,MLI,466,Rural,2,Flush and pour flush - to septic tank,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP15
+Mali,ML,MLI,466,Rural,3,Flush and pour flush - to pit,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP15
+Mali,ML,MLI,466,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP15
+Mali,ML,MLI,466,Rural,5,Flush and pour flush - to elsewhere,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP15
+Mali,ML,MLI,466,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP15
+Mali,ML,MLI,466,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP15
+Mali,ML,MLI,466,Rural,8,Dry latrines - Traditional latrine,0.826,Enquête Modulaire et Permanente Auprès des Ménages - EMOP15
+Mali,ML,MLI,466,Rural,8,Dry latrines - Traditional latrine,0.458,Enquête Modulaire et Permanente Auprès des Ménages - EMOP15
+Mali,ML,MLI,466,Rural,8,Dry latrines - Traditional latrine,0.368,Enquête Modulaire et Permanente Auprès des Ménages - EMOP15
+Mali,ML,MLI,466,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP15
+Mali,ML,MLI,466,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP15
+Mali,ML,MLI,466,Rural,11,Dry latrines - Bucket latrine,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP15
+Mali,ML,MLI,466,Rural,12,Dry latrines - Other,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP15
+Mali,ML,MLI,466,Rural,13,Composting toilets,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP15
+Mali,ML,MLI,466,Rural,14,Other improved,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP15
+Mali,ML,MLI,466,Rural,15,"No facility, bush, field",0.152,Enquête Modulaire et Permanente Auprès des Ménages - EMOP15
+Mali,ML,MLI,466,Rural,16,Other unimproved,0.004,Enquête Modulaire et Permanente Auprès des Ménages - EMOP15
+Mali,ML,MLI,466,Rural,17,DK/missing information,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP15
+Mali,ML,MLI,466,National,1,Flush and pour flush - to piped sewer system,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP15
+Mali,ML,MLI,466,National,2,Flush and pour flush - to septic tank,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP15
+Mali,ML,MLI,466,National,3,Flush and pour flush - to pit,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP15
+Mali,ML,MLI,466,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP15
+Mali,ML,MLI,466,National,5,Flush and pour flush - to elsewhere,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP15
+Mali,ML,MLI,466,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP15
+Mali,ML,MLI,466,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP15
+Mali,ML,MLI,466,National,8,Dry latrines - Traditional latrine,0.841,Enquête Modulaire et Permanente Auprès des Ménages - EMOP15
+Mali,ML,MLI,466,National,8,Dry latrines - Traditional latrine,0.41,Enquête Modulaire et Permanente Auprès des Ménages - EMOP15
+Mali,ML,MLI,466,National,8,Dry latrines - Traditional latrine,0.431,Enquête Modulaire et Permanente Auprès des Ménages - EMOP15
+Mali,ML,MLI,466,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP15
+Mali,ML,MLI,466,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP15
+Mali,ML,MLI,466,National,11,Dry latrines - Bucket latrine,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP15
+Mali,ML,MLI,466,National,12,Dry latrines - Other,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP15
+Mali,ML,MLI,466,National,13,Composting toilets,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP15
+Mali,ML,MLI,466,National,14,Other improved,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP15
+Mali,ML,MLI,466,National,15,"No facility, bush, field",0.114,Enquête Modulaire et Permanente Auprès des Ménages - EMOP15
+Mali,ML,MLI,466,National,16,Other unimproved,0.004,Enquête Modulaire et Permanente Auprès des Ménages - EMOP15
+Mali,ML,MLI,466,National,17,DK/missing information,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP15
+Mali,ML,MLI,466,Urban,1,Flush and pour flush - to piped sewer system,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP16
+Mali,ML,MLI,466,Urban,2,Flush and pour flush - to septic tank,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP16
+Mali,ML,MLI,466,Urban,3,Flush and pour flush - to pit,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP16
+Mali,ML,MLI,466,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP16
+Mali,ML,MLI,466,Urban,5,Flush and pour flush - to elsewhere,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP16
+Mali,ML,MLI,466,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP16
+Mali,ML,MLI,466,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP16
+Mali,ML,MLI,466,Urban,8,Dry latrines - Traditional latrine,0.895,Enquête Modulaire et Permanente Auprès des Ménages - EMOP16
+Mali,ML,MLI,466,Urban,8,Dry latrines - Traditional latrine,0.32,Enquête Modulaire et Permanente Auprès des Ménages - EMOP16
+Mali,ML,MLI,466,Urban,8,Dry latrines - Traditional latrine,0.575,Enquête Modulaire et Permanente Auprès des Ménages - EMOP16
+Mali,ML,MLI,466,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP16
+Mali,ML,MLI,466,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP16
+Mali,ML,MLI,466,Urban,11,Dry latrines - Bucket latrine,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP16
+Mali,ML,MLI,466,Urban,12,Dry latrines - Other,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP16
+Mali,ML,MLI,466,Urban,13,Composting toilets,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP16
+Mali,ML,MLI,466,Urban,14,Other improved,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP16
+Mali,ML,MLI,466,Urban,15,"No facility, bush, field",0.016,Enquête Modulaire et Permanente Auprès des Ménages - EMOP16
+Mali,ML,MLI,466,Urban,16,Other unimproved,0.004,Enquête Modulaire et Permanente Auprès des Ménages - EMOP16
+Mali,ML,MLI,466,Urban,17,DK/missing information,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP16
+Mali,ML,MLI,466,Rural,1,Flush and pour flush - to piped sewer system,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP16
+Mali,ML,MLI,466,Rural,2,Flush and pour flush - to septic tank,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP16
+Mali,ML,MLI,466,Rural,3,Flush and pour flush - to pit,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP16
+Mali,ML,MLI,466,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP16
+Mali,ML,MLI,466,Rural,5,Flush and pour flush - to elsewhere,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP16
+Mali,ML,MLI,466,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP16
+Mali,ML,MLI,466,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP16
+Mali,ML,MLI,466,Rural,8,Dry latrines - Traditional latrine,0.848,Enquête Modulaire et Permanente Auprès des Ménages - EMOP16
+Mali,ML,MLI,466,Rural,8,Dry latrines - Traditional latrine,0.451,Enquête Modulaire et Permanente Auprès des Ménages - EMOP16
+Mali,ML,MLI,466,Rural,8,Dry latrines - Traditional latrine,0.397,Enquête Modulaire et Permanente Auprès des Ménages - EMOP16
+Mali,ML,MLI,466,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP16
+Mali,ML,MLI,466,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP16
+Mali,ML,MLI,466,Rural,11,Dry latrines - Bucket latrine,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP16
+Mali,ML,MLI,466,Rural,12,Dry latrines - Other,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP16
+Mali,ML,MLI,466,Rural,13,Composting toilets,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP16
+Mali,ML,MLI,466,Rural,14,Other improved,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP16
+Mali,ML,MLI,466,Rural,15,"No facility, bush, field",0.132,Enquête Modulaire et Permanente Auprès des Ménages - EMOP16
+Mali,ML,MLI,466,Rural,16,Other unimproved,0.004,Enquête Modulaire et Permanente Auprès des Ménages - EMOP16
+Mali,ML,MLI,466,Rural,17,DK/missing information,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP16
+Mali,ML,MLI,466,National,1,Flush and pour flush - to piped sewer system,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP16
+Mali,ML,MLI,466,National,2,Flush and pour flush - to septic tank,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP16
+Mali,ML,MLI,466,National,3,Flush and pour flush - to pit,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP16
+Mali,ML,MLI,466,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP16
+Mali,ML,MLI,466,National,5,Flush and pour flush - to elsewhere,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP16
+Mali,ML,MLI,466,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP16
+Mali,ML,MLI,466,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP16
+Mali,ML,MLI,466,National,8,Dry latrines - Traditional latrine,0.862,Enquête Modulaire et Permanente Auprès des Ménages - EMOP16
+Mali,ML,MLI,466,National,8,Dry latrines - Traditional latrine,0.414,Enquête Modulaire et Permanente Auprès des Ménages - EMOP16
+Mali,ML,MLI,466,National,8,Dry latrines - Traditional latrine,0.448,Enquête Modulaire et Permanente Auprès des Ménages - EMOP16
+Mali,ML,MLI,466,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP16
+Mali,ML,MLI,466,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP16
+Mali,ML,MLI,466,National,11,Dry latrines - Bucket latrine,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP16
+Mali,ML,MLI,466,National,12,Dry latrines - Other,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP16
+Mali,ML,MLI,466,National,13,Composting toilets,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP16
+Mali,ML,MLI,466,National,14,Other improved,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP16
+Mali,ML,MLI,466,National,15,"No facility, bush, field",0.099,Enquête Modulaire et Permanente Auprès des Ménages - EMOP16
+Mali,ML,MLI,466,National,16,Other unimproved,0.004,Enquête Modulaire et Permanente Auprès des Ménages - EMOP16
+Mali,ML,MLI,466,National,17,DK/missing information,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP16
+Mali,ML,MLI,466,Urban,1,Flush and pour flush - to piped sewer system,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP17
+Mali,ML,MLI,466,Urban,2,Flush and pour flush - to septic tank,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP17
+Mali,ML,MLI,466,Urban,3,Flush and pour flush - to pit,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP17
+Mali,ML,MLI,466,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP17
+Mali,ML,MLI,466,Urban,5,Flush and pour flush - to elsewhere,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP17
+Mali,ML,MLI,466,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP17
+Mali,ML,MLI,466,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP17
+Mali,ML,MLI,466,Urban,8,Dry latrines - Traditional latrine,0.867,Enquête Modulaire et Permanente Auprès des Ménages - EMOP17
+Mali,ML,MLI,466,Urban,8,Dry latrines - Traditional latrine,0.279,Enquête Modulaire et Permanente Auprès des Ménages - EMOP17
+Mali,ML,MLI,466,Urban,8,Dry latrines - Traditional latrine,0.589,Enquête Modulaire et Permanente Auprès des Ménages - EMOP17
+Mali,ML,MLI,466,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP17
+Mali,ML,MLI,466,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP17
+Mali,ML,MLI,466,Urban,11,Dry latrines - Bucket latrine,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP17
+Mali,ML,MLI,466,Urban,12,Dry latrines - Other,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP17
+Mali,ML,MLI,466,Urban,13,Composting toilets,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP17
+Mali,ML,MLI,466,Urban,14,Other improved,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP17
+Mali,ML,MLI,466,Urban,15,"No facility, bush, field",0.021,Enquête Modulaire et Permanente Auprès des Ménages - EMOP17
+Mali,ML,MLI,466,Urban,16,Other unimproved,0.005,Enquête Modulaire et Permanente Auprès des Ménages - EMOP17
+Mali,ML,MLI,466,Urban,17,DK/missing information,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP17
+Mali,ML,MLI,466,Rural,1,Flush and pour flush - to piped sewer system,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP17
+Mali,ML,MLI,466,Rural,2,Flush and pour flush - to septic tank,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP17
+Mali,ML,MLI,466,Rural,3,Flush and pour flush - to pit,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP17
+Mali,ML,MLI,466,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP17
+Mali,ML,MLI,466,Rural,5,Flush and pour flush - to elsewhere,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP17
+Mali,ML,MLI,466,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP17
+Mali,ML,MLI,466,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP17
+Mali,ML,MLI,466,Rural,8,Dry latrines - Traditional latrine,0.796,Enquête Modulaire et Permanente Auprès des Ménages - EMOP17
+Mali,ML,MLI,466,Rural,8,Dry latrines - Traditional latrine,0.317,Enquête Modulaire et Permanente Auprès des Ménages - EMOP17
+Mali,ML,MLI,466,Rural,8,Dry latrines - Traditional latrine,0.479,Enquête Modulaire et Permanente Auprès des Ménages - EMOP17
+Mali,ML,MLI,466,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP17
+Mali,ML,MLI,466,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP17
+Mali,ML,MLI,466,Rural,11,Dry latrines - Bucket latrine,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP17
+Mali,ML,MLI,466,Rural,12,Dry latrines - Other,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP17
+Mali,ML,MLI,466,Rural,13,Composting toilets,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP17
+Mali,ML,MLI,466,Rural,14,Other improved,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP17
+Mali,ML,MLI,466,Rural,15,"No facility, bush, field",0.14,Enquête Modulaire et Permanente Auprès des Ménages - EMOP17
+Mali,ML,MLI,466,Rural,16,Other unimproved,0.021,Enquête Modulaire et Permanente Auprès des Ménages - EMOP17
+Mali,ML,MLI,466,Rural,17,DK/missing information,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP17
+Mali,ML,MLI,466,National,1,Flush and pour flush - to piped sewer system,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP17
+Mali,ML,MLI,466,National,2,Flush and pour flush - to septic tank,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP17
+Mali,ML,MLI,466,National,3,Flush and pour flush - to pit,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP17
+Mali,ML,MLI,466,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP17
+Mali,ML,MLI,466,National,5,Flush and pour flush - to elsewhere,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP17
+Mali,ML,MLI,466,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP17
+Mali,ML,MLI,466,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP17
+Mali,ML,MLI,466,National,8,Dry latrines - Traditional latrine,0.816,Enquête Modulaire et Permanente Auprès des Ménages - EMOP17
+Mali,ML,MLI,466,National,8,Dry latrines - Traditional latrine,0.306,Enquête Modulaire et Permanente Auprès des Ménages - EMOP17
+Mali,ML,MLI,466,National,8,Dry latrines - Traditional latrine,0.51,Enquête Modulaire et Permanente Auprès des Ménages - EMOP17
+Mali,ML,MLI,466,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP17
+Mali,ML,MLI,466,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP17
+Mali,ML,MLI,466,National,11,Dry latrines - Bucket latrine,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP17
+Mali,ML,MLI,466,National,12,Dry latrines - Other,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP17
+Mali,ML,MLI,466,National,13,Composting toilets,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP17
+Mali,ML,MLI,466,National,14,Other improved,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP17
+Mali,ML,MLI,466,National,15,"No facility, bush, field",0.106,Enquête Modulaire et Permanente Auprès des Ménages - EMOP17
+Mali,ML,MLI,466,National,16,Other unimproved,0.016,Enquête Modulaire et Permanente Auprès des Ménages - EMOP17
+Mali,ML,MLI,466,National,17,DK/missing information,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP17
+Mali,ML,MLI,466,Urban,1,Flush and pour flush - to piped sewer system,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP18
+Mali,ML,MLI,466,Urban,2,Flush and pour flush - to septic tank,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP18
+Mali,ML,MLI,466,Urban,3,Flush and pour flush - to pit,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP18
+Mali,ML,MLI,466,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP18
+Mali,ML,MLI,466,Urban,5,Flush and pour flush - to elsewhere,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP18
+Mali,ML,MLI,466,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP18
+Mali,ML,MLI,466,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP18
+Mali,ML,MLI,466,Urban,8,Dry latrines - Traditional latrine,0.852,Enquête Modulaire et Permanente Auprès des Ménages - EMOP18
+Mali,ML,MLI,466,Urban,8,Dry latrines - Traditional latrine,0.252,Enquête Modulaire et Permanente Auprès des Ménages - EMOP18
+Mali,ML,MLI,466,Urban,8,Dry latrines - Traditional latrine,0.6,Enquête Modulaire et Permanente Auprès des Ménages - EMOP18
+Mali,ML,MLI,466,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP18
+Mali,ML,MLI,466,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP18
+Mali,ML,MLI,466,Urban,11,Dry latrines - Bucket latrine,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP18
+Mali,ML,MLI,466,Urban,12,Dry latrines - Other,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP18
+Mali,ML,MLI,466,Urban,13,Composting toilets,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP18
+Mali,ML,MLI,466,Urban,14,Other improved,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP18
+Mali,ML,MLI,466,Urban,15,"No facility, bush, field",0.019,Enquête Modulaire et Permanente Auprès des Ménages - EMOP18
+Mali,ML,MLI,466,Urban,16,Other unimproved,0.006,Enquête Modulaire et Permanente Auprès des Ménages - EMOP18
+Mali,ML,MLI,466,Urban,17,DK/missing information,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP18
+Mali,ML,MLI,466,Rural,1,Flush and pour flush - to piped sewer system,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP18
+Mali,ML,MLI,466,Rural,2,Flush and pour flush - to septic tank,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP18
+Mali,ML,MLI,466,Rural,3,Flush and pour flush - to pit,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP18
+Mali,ML,MLI,466,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP18
+Mali,ML,MLI,466,Rural,5,Flush and pour flush - to elsewhere,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP18
+Mali,ML,MLI,466,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP18
+Mali,ML,MLI,466,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP18
+Mali,ML,MLI,466,Rural,8,Dry latrines - Traditional latrine,0.832,Enquête Modulaire et Permanente Auprès des Ménages - EMOP18
+Mali,ML,MLI,466,Rural,8,Dry latrines - Traditional latrine,0.31,Enquête Modulaire et Permanente Auprès des Ménages - EMOP18
+Mali,ML,MLI,466,Rural,8,Dry latrines - Traditional latrine,0.521,Enquête Modulaire et Permanente Auprès des Ménages - EMOP18
+Mali,ML,MLI,466,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP18
+Mali,ML,MLI,466,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP18
+Mali,ML,MLI,466,Rural,11,Dry latrines - Bucket latrine,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP18
+Mali,ML,MLI,466,Rural,12,Dry latrines - Other,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP18
+Mali,ML,MLI,466,Rural,13,Composting toilets,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP18
+Mali,ML,MLI,466,Rural,14,Other improved,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP18
+Mali,ML,MLI,466,Rural,15,"No facility, bush, field",0.128,Enquête Modulaire et Permanente Auprès des Ménages - EMOP18
+Mali,ML,MLI,466,Rural,16,Other unimproved,0.002,Enquête Modulaire et Permanente Auprès des Ménages - EMOP18
+Mali,ML,MLI,466,Rural,17,DK/missing information,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP18
+Mali,ML,MLI,466,National,1,Flush and pour flush - to piped sewer system,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP18
+Mali,ML,MLI,466,National,2,Flush and pour flush - to septic tank,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP18
+Mali,ML,MLI,466,National,3,Flush and pour flush - to pit,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP18
+Mali,ML,MLI,466,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP18
+Mali,ML,MLI,466,National,5,Flush and pour flush - to elsewhere,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP18
+Mali,ML,MLI,466,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP18
+Mali,ML,MLI,466,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP18
+Mali,ML,MLI,466,National,8,Dry latrines - Traditional latrine,0.838,Enquête Modulaire et Permanente Auprès des Ménages - EMOP18
+Mali,ML,MLI,466,National,8,Dry latrines - Traditional latrine,0.293,Enquête Modulaire et Permanente Auprès des Ménages - EMOP18
+Mali,ML,MLI,466,National,8,Dry latrines - Traditional latrine,0.545,Enquête Modulaire et Permanente Auprès des Ménages - EMOP18
+Mali,ML,MLI,466,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP18
+Mali,ML,MLI,466,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP18
+Mali,ML,MLI,466,National,11,Dry latrines - Bucket latrine,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP18
+Mali,ML,MLI,466,National,12,Dry latrines - Other,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP18
+Mali,ML,MLI,466,National,13,Composting toilets,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP18
+Mali,ML,MLI,466,National,14,Other improved,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP18
+Mali,ML,MLI,466,National,15,"No facility, bush, field",0.095,Enquête Modulaire et Permanente Auprès des Ménages - EMOP18
+Mali,ML,MLI,466,National,16,Other unimproved,0.003,Enquête Modulaire et Permanente Auprès des Ménages - EMOP18
+Mali,ML,MLI,466,National,17,DK/missing information,0.0,Enquête Modulaire et Permanente Auprès des Ménages - EMOP18
+Mali,ML,MLI,466,Urban,1,Flush and pour flush - to piped sewer system,0.0,"Enquête sanitaire mondiale, OMS, 2003 - WHS03"
+Mali,ML,MLI,466,Urban,2,Flush and pour flush - to septic tank,0.0,"Enquête sanitaire mondiale, OMS, 2003 - WHS03"
+Mali,ML,MLI,466,Urban,3,Flush and pour flush - to pit,0.0,"Enquête sanitaire mondiale, OMS, 2003 - WHS03"
+Mali,ML,MLI,466,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Enquête sanitaire mondiale, OMS, 2003 - WHS03"
+Mali,ML,MLI,466,Urban,5,Flush and pour flush - to elsewhere,0.0,"Enquête sanitaire mondiale, OMS, 2003 - WHS03"
+Mali,ML,MLI,466,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Enquête sanitaire mondiale, OMS, 2003 - WHS03"
+Mali,ML,MLI,466,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Enquête sanitaire mondiale, OMS, 2003 - WHS03"
+Mali,ML,MLI,466,Urban,8,Dry latrines - Traditional latrine,0.0,"Enquête sanitaire mondiale, OMS, 2003 - WHS03"
+Mali,ML,MLI,466,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Enquête sanitaire mondiale, OMS, 2003 - WHS03"
+Mali,ML,MLI,466,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Enquête sanitaire mondiale, OMS, 2003 - WHS03"
+Mali,ML,MLI,466,Urban,11,Dry latrines - Bucket latrine,0.0,"Enquête sanitaire mondiale, OMS, 2003 - WHS03"
+Mali,ML,MLI,466,Urban,12,Dry latrines - Other,0.0,"Enquête sanitaire mondiale, OMS, 2003 - WHS03"
+Mali,ML,MLI,466,Urban,13,Composting toilets,0.0,"Enquête sanitaire mondiale, OMS, 2003 - WHS03"
+Mali,ML,MLI,466,Urban,14,Other improved,0.0,"Enquête sanitaire mondiale, OMS, 2003 - WHS03"
+Mali,ML,MLI,466,Urban,15,"No facility, bush, field",0.0,"Enquête sanitaire mondiale, OMS, 2003 - WHS03"
+Mali,ML,MLI,466,Urban,16,Other unimproved,0.0,"Enquête sanitaire mondiale, OMS, 2003 - WHS03"
+Mali,ML,MLI,466,Urban,17,DK/missing information,0.0,"Enquête sanitaire mondiale, OMS, 2003 - WHS03"
+Mali,ML,MLI,466,Rural,1,Flush and pour flush - to piped sewer system,0.0,"Enquête sanitaire mondiale, OMS, 2003 - WHS03"
+Mali,ML,MLI,466,Rural,2,Flush and pour flush - to septic tank,0.0,"Enquête sanitaire mondiale, OMS, 2003 - WHS03"
+Mali,ML,MLI,466,Rural,3,Flush and pour flush - to pit,0.0,"Enquête sanitaire mondiale, OMS, 2003 - WHS03"
+Mali,ML,MLI,466,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Enquête sanitaire mondiale, OMS, 2003 - WHS03"
+Mali,ML,MLI,466,Rural,5,Flush and pour flush - to elsewhere,0.0,"Enquête sanitaire mondiale, OMS, 2003 - WHS03"
+Mali,ML,MLI,466,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Enquête sanitaire mondiale, OMS, 2003 - WHS03"
+Mali,ML,MLI,466,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Enquête sanitaire mondiale, OMS, 2003 - WHS03"
+Mali,ML,MLI,466,Rural,8,Dry latrines - Traditional latrine,0.0,"Enquête sanitaire mondiale, OMS, 2003 - WHS03"
+Mali,ML,MLI,466,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Enquête sanitaire mondiale, OMS, 2003 - WHS03"
+Mali,ML,MLI,466,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Enquête sanitaire mondiale, OMS, 2003 - WHS03"
+Mali,ML,MLI,466,Rural,11,Dry latrines - Bucket latrine,0.0,"Enquête sanitaire mondiale, OMS, 2003 - WHS03"
+Mali,ML,MLI,466,Rural,12,Dry latrines - Other,0.0,"Enquête sanitaire mondiale, OMS, 2003 - WHS03"
+Mali,ML,MLI,466,Rural,13,Composting toilets,0.0,"Enquête sanitaire mondiale, OMS, 2003 - WHS03"
+Mali,ML,MLI,466,Rural,14,Other improved,0.0,"Enquête sanitaire mondiale, OMS, 2003 - WHS03"
+Mali,ML,MLI,466,Rural,15,"No facility, bush, field",0.0,"Enquête sanitaire mondiale, OMS, 2003 - WHS03"
+Mali,ML,MLI,466,Rural,16,Other unimproved,0.0,"Enquête sanitaire mondiale, OMS, 2003 - WHS03"
+Mali,ML,MLI,466,Rural,17,DK/missing information,0.0,"Enquête sanitaire mondiale, OMS, 2003 - WHS03"
+Mali,ML,MLI,466,National,1,Flush and pour flush - to piped sewer system,0.0,"Enquête sanitaire mondiale, OMS, 2003 - WHS03"
+Mali,ML,MLI,466,National,2,Flush and pour flush - to septic tank,0.0,"Enquête sanitaire mondiale, OMS, 2003 - WHS03"
+Mali,ML,MLI,466,National,3,Flush and pour flush - to pit,0.0,"Enquête sanitaire mondiale, OMS, 2003 - WHS03"
+Mali,ML,MLI,466,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Enquête sanitaire mondiale, OMS, 2003 - WHS03"
+Mali,ML,MLI,466,National,5,Flush and pour flush - to elsewhere,0.0,"Enquête sanitaire mondiale, OMS, 2003 - WHS03"
+Mali,ML,MLI,466,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Enquête sanitaire mondiale, OMS, 2003 - WHS03"
+Mali,ML,MLI,466,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Enquête sanitaire mondiale, OMS, 2003 - WHS03"
+Mali,ML,MLI,466,National,8,Dry latrines - Traditional latrine,0.0,"Enquête sanitaire mondiale, OMS, 2003 - WHS03"
+Mali,ML,MLI,466,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Enquête sanitaire mondiale, OMS, 2003 - WHS03"
+Mali,ML,MLI,466,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Enquête sanitaire mondiale, OMS, 2003 - WHS03"
+Mali,ML,MLI,466,National,11,Dry latrines - Bucket latrine,0.0,"Enquête sanitaire mondiale, OMS, 2003 - WHS03"
+Mali,ML,MLI,466,National,12,Dry latrines - Other,0.0,"Enquête sanitaire mondiale, OMS, 2003 - WHS03"
+Mali,ML,MLI,466,National,13,Composting toilets,0.0,"Enquête sanitaire mondiale, OMS, 2003 - WHS03"
+Mali,ML,MLI,466,National,14,Other improved,0.0,"Enquête sanitaire mondiale, OMS, 2003 - WHS03"
+Mali,ML,MLI,466,National,15,"No facility, bush, field",0.0,"Enquête sanitaire mondiale, OMS, 2003 - WHS03"
+Mali,ML,MLI,466,National,16,Other unimproved,0.0,"Enquête sanitaire mondiale, OMS, 2003 - WHS03"
+Mali,ML,MLI,466,National,17,DK/missing information,0.0,"Enquête sanitaire mondiale, OMS, 2003 - WHS03"

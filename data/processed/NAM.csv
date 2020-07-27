@@ -1,4 +1,106 @@
 country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+Namibia,NA,NAM,516,Urban,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS00
+Namibia,NA,NAM,516,Urban,2,Flush and pour flush - to septic tank,0.0,Demographic and Health Survey - DHS00
+Namibia,NA,NAM,516,Urban,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS00
+Namibia,NA,NAM,516,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS00
+Namibia,NA,NAM,516,Urban,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS00
+Namibia,NA,NAM,516,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - DHS00
+Namibia,NA,NAM,516,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS00
+Namibia,NA,NAM,516,Urban,8,Dry latrines - Traditional latrine,0.049,Demographic and Health Survey - DHS00
+Namibia,NA,NAM,516,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Survey - DHS00
+Namibia,NA,NAM,516,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS00
+Namibia,NA,NAM,516,Urban,11,Dry latrines - Bucket latrine,0.011,Demographic and Health Survey - DHS00
+Namibia,NA,NAM,516,Urban,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS00
+Namibia,NA,NAM,516,Urban,13,Composting toilets,0.0,Demographic and Health Survey - DHS00
+Namibia,NA,NAM,516,Urban,14,Other improved,0.0,Demographic and Health Survey - DHS00
+Namibia,NA,NAM,516,Urban,15,"No facility, bush, field",0.114,Demographic and Health Survey - DHS00
+Namibia,NA,NAM,516,Urban,16,Other unimproved,0.025,Demographic and Health Survey - DHS00
+Namibia,NA,NAM,516,Urban,17,DK/missing information,0.004,Demographic and Health Survey - DHS00
+Namibia,NA,NAM,516,Rural,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS00
+Namibia,NA,NAM,516,Rural,2,Flush and pour flush - to septic tank,0.0,Demographic and Health Survey - DHS00
+Namibia,NA,NAM,516,Rural,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS00
+Namibia,NA,NAM,516,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS00
+Namibia,NA,NAM,516,Rural,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS00
+Namibia,NA,NAM,516,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - DHS00
+Namibia,NA,NAM,516,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS00
+Namibia,NA,NAM,516,Rural,8,Dry latrines - Traditional latrine,0.076,Demographic and Health Survey - DHS00
+Namibia,NA,NAM,516,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Survey - DHS00
+Namibia,NA,NAM,516,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS00
+Namibia,NA,NAM,516,Rural,11,Dry latrines - Bucket latrine,0.012,Demographic and Health Survey - DHS00
+Namibia,NA,NAM,516,Rural,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS00
+Namibia,NA,NAM,516,Rural,13,Composting toilets,0.0,Demographic and Health Survey - DHS00
+Namibia,NA,NAM,516,Rural,14,Other improved,0.0,Demographic and Health Survey - DHS00
+Namibia,NA,NAM,516,Rural,15,"No facility, bush, field",0.785,Demographic and Health Survey - DHS00
+Namibia,NA,NAM,516,Rural,16,Other unimproved,0.001,Demographic and Health Survey - DHS00
+Namibia,NA,NAM,516,Rural,17,DK/missing information,0.005,Demographic and Health Survey - DHS00
+Namibia,NA,NAM,516,National,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS00
+Namibia,NA,NAM,516,National,2,Flush and pour flush - to septic tank,0.0,Demographic and Health Survey - DHS00
+Namibia,NA,NAM,516,National,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS00
+Namibia,NA,NAM,516,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS00
+Namibia,NA,NAM,516,National,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS00
+Namibia,NA,NAM,516,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - DHS00
+Namibia,NA,NAM,516,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS00
+Namibia,NA,NAM,516,National,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS00
+Namibia,NA,NAM,516,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Survey - DHS00
+Namibia,NA,NAM,516,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS00
+Namibia,NA,NAM,516,National,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS00
+Namibia,NA,NAM,516,National,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS00
+Namibia,NA,NAM,516,National,13,Composting toilets,0.0,Demographic and Health Survey - DHS00
+Namibia,NA,NAM,516,National,14,Other improved,0.0,Demographic and Health Survey - DHS00
+Namibia,NA,NAM,516,National,15,"No facility, bush, field",0.0,Demographic and Health Survey - DHS00
+Namibia,NA,NAM,516,National,16,Other unimproved,0.0,Demographic and Health Survey - DHS00
+Namibia,NA,NAM,516,National,17,DK/missing information,0.0,Demographic and Health Survey - DHS00
+Namibia,NA,NAM,516,Urban,1,Flush and pour flush - to piped sewer system,0.0,Census - CEN01
+Namibia,NA,NAM,516,Urban,2,Flush and pour flush - to septic tank,0.0,Census - CEN01
+Namibia,NA,NAM,516,Urban,3,Flush and pour flush - to pit,0.0,Census - CEN01
+Namibia,NA,NAM,516,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN01
+Namibia,NA,NAM,516,Urban,5,Flush and pour flush - to elsewhere,0.0,Census - CEN01
+Namibia,NA,NAM,516,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.021,Census - CEN01
+Namibia,NA,NAM,516,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN01
+Namibia,NA,NAM,516,Urban,8,Dry latrines - Traditional latrine,0.057,Census - CEN01
+Namibia,NA,NAM,516,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN01
+Namibia,NA,NAM,516,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN01
+Namibia,NA,NAM,516,Urban,11,Dry latrines - Bucket latrine,0.016,Census - CEN01
+Namibia,NA,NAM,516,Urban,12,Dry latrines - Other,0.0,Census - CEN01
+Namibia,NA,NAM,516,Urban,13,Composting toilets,0.0,Census - CEN01
+Namibia,NA,NAM,516,Urban,14,Other improved,0.0,Census - CEN01
+Namibia,NA,NAM,516,Urban,15,"No facility, bush, field",0.174,Census - CEN01
+Namibia,NA,NAM,516,Urban,16,Other unimproved,0.005,Census - CEN01
+Namibia,NA,NAM,516,Urban,17,DK/missing information,0.003,Census - CEN01
+Namibia,NA,NAM,516,Rural,1,Flush and pour flush - to piped sewer system,0.0,Census - CEN01
+Namibia,NA,NAM,516,Rural,2,Flush and pour flush - to septic tank,0.0,Census - CEN01
+Namibia,NA,NAM,516,Rural,3,Flush and pour flush - to pit,0.0,Census - CEN01
+Namibia,NA,NAM,516,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN01
+Namibia,NA,NAM,516,Rural,5,Flush and pour flush - to elsewhere,0.0,Census - CEN01
+Namibia,NA,NAM,516,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.02,Census - CEN01
+Namibia,NA,NAM,516,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN01
+Namibia,NA,NAM,516,Rural,8,Dry latrines - Traditional latrine,0.081,Census - CEN01
+Namibia,NA,NAM,516,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN01
+Namibia,NA,NAM,516,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN01
+Namibia,NA,NAM,516,Rural,11,Dry latrines - Bucket latrine,0.015,Census - CEN01
+Namibia,NA,NAM,516,Rural,12,Dry latrines - Other,0.0,Census - CEN01
+Namibia,NA,NAM,516,Rural,13,Composting toilets,0.0,Census - CEN01
+Namibia,NA,NAM,516,Rural,14,Other improved,0.0,Census - CEN01
+Namibia,NA,NAM,516,Rural,15,"No facility, bush, field",0.783,Census - CEN01
+Namibia,NA,NAM,516,Rural,16,Other unimproved,0.002,Census - CEN01
+Namibia,NA,NAM,516,Rural,17,DK/missing information,0.004,Census - CEN01
+Namibia,NA,NAM,516,National,1,Flush and pour flush - to piped sewer system,0.0,Census - CEN01
+Namibia,NA,NAM,516,National,2,Flush and pour flush - to septic tank,0.0,Census - CEN01
+Namibia,NA,NAM,516,National,3,Flush and pour flush - to pit,0.0,Census - CEN01
+Namibia,NA,NAM,516,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN01
+Namibia,NA,NAM,516,National,5,Flush and pour flush - to elsewhere,0.0,Census - CEN01
+Namibia,NA,NAM,516,National,6,Dry latrines - Ventilated Improved Pit latrine,0.02,Census - CEN01
+Namibia,NA,NAM,516,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN01
+Namibia,NA,NAM,516,National,8,Dry latrines - Traditional latrine,0.071,Census - CEN01
+Namibia,NA,NAM,516,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN01
+Namibia,NA,NAM,516,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN01
+Namibia,NA,NAM,516,National,11,Dry latrines - Bucket latrine,0.015,Census - CEN01
+Namibia,NA,NAM,516,National,12,Dry latrines - Other,0.0,Census - CEN01
+Namibia,NA,NAM,516,National,13,Composting toilets,0.0,Census - CEN01
+Namibia,NA,NAM,516,National,14,Other improved,0.0,Census - CEN01
+Namibia,NA,NAM,516,National,15,"No facility, bush, field",0.542,Census - CEN01
+Namibia,NA,NAM,516,National,16,Other unimproved,0.003,Census - CEN01
+Namibia,NA,NAM,516,National,17,DK/missing information,0.004,Census - CEN01
 Namibia,NA,NAM,516,Urban,1,Flush and pour flush - to piped sewer system,0.622,World Health Survey - WHS03
 Namibia,NA,NAM,516,Urban,2,Flush and pour flush - to septic tank,0.05,World Health Survey - WHS03
 Namibia,NA,NAM,516,Urban,3,Flush and pour flush - to pit,0.0,World Health Survey - WHS03
@@ -45,6 +147,23 @@ Namibia,NA,NAM,516,Rural,14,Other improved,0.0,World Health Survey - WHS03
 Namibia,NA,NAM,516,Rural,15,"No facility, bush, field",0.648,World Health Survey - WHS03
 Namibia,NA,NAM,516,Rural,16,Other unimproved,0.047,World Health Survey - WHS03
 Namibia,NA,NAM,516,Rural,17,DK/missing information,0.0,World Health Survey - WHS03
+Namibia,NA,NAM,516,National,1,Flush and pour flush - to piped sewer system,0.0,World Health Survey - WHS03
+Namibia,NA,NAM,516,National,2,Flush and pour flush - to septic tank,0.0,World Health Survey - WHS03
+Namibia,NA,NAM,516,National,3,Flush and pour flush - to pit,0.0,World Health Survey - WHS03
+Namibia,NA,NAM,516,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,World Health Survey - WHS03
+Namibia,NA,NAM,516,National,5,Flush and pour flush - to elsewhere,0.0,World Health Survey - WHS03
+Namibia,NA,NAM,516,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,World Health Survey - WHS03
+Namibia,NA,NAM,516,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,World Health Survey - WHS03
+Namibia,NA,NAM,516,National,8,Dry latrines - Traditional latrine,0.0,World Health Survey - WHS03
+Namibia,NA,NAM,516,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,World Health Survey - WHS03
+Namibia,NA,NAM,516,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,World Health Survey - WHS03
+Namibia,NA,NAM,516,National,11,Dry latrines - Bucket latrine,0.0,World Health Survey - WHS03
+Namibia,NA,NAM,516,National,12,Dry latrines - Other,0.0,World Health Survey - WHS03
+Namibia,NA,NAM,516,National,13,Composting toilets,0.0,World Health Survey - WHS03
+Namibia,NA,NAM,516,National,14,Other improved,0.0,World Health Survey - WHS03
+Namibia,NA,NAM,516,National,15,"No facility, bush, field",0.0,World Health Survey - WHS03
+Namibia,NA,NAM,516,National,16,Other unimproved,0.0,World Health Survey - WHS03
+Namibia,NA,NAM,516,National,17,DK/missing information,0.0,World Health Survey - WHS03
 Namibia,NA,NAM,516,Urban,1,Flush and pour flush - to piped sewer system,0.73,Demographic and Health Survey - DHS07
 Namibia,NA,NAM,516,Urban,2,Flush and pour flush - to septic tank,0.007,Demographic and Health Survey - DHS07
 Namibia,NA,NAM,516,Urban,3,Flush and pour flush - to pit,0.013,Demographic and Health Survey - DHS07
@@ -79,6 +198,74 @@ Namibia,NA,NAM,516,Rural,14,Other improved,0.0,Demographic and Health Survey - D
 Namibia,NA,NAM,516,Rural,15,"No facility, bush, field",0.797,Demographic and Health Survey - DHS07
 Namibia,NA,NAM,516,Rural,16,Other unimproved,0.0,Demographic and Health Survey - DHS07
 Namibia,NA,NAM,516,Rural,17,DK/missing information,0.0,Demographic and Health Survey - DHS07
+Namibia,NA,NAM,516,National,1,Flush and pour flush - to piped sewer system,0.334,Demographic and Health Survey - DHS07
+Namibia,NA,NAM,516,National,2,Flush and pour flush - to septic tank,0.004,Demographic and Health Survey - DHS07
+Namibia,NA,NAM,516,National,3,Flush and pour flush - to pit,0.008,Demographic and Health Survey - DHS07
+Namibia,NA,NAM,516,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.003,Demographic and Health Survey - DHS07
+Namibia,NA,NAM,516,National,5,Flush and pour flush - to elsewhere,0.007,Demographic and Health Survey - DHS07
+Namibia,NA,NAM,516,National,6,Dry latrines - Ventilated Improved Pit latrine,0.051,Demographic and Health Survey - DHS07
+Namibia,NA,NAM,516,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.004,Demographic and Health Survey - DHS07
+Namibia,NA,NAM,516,National,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS07
+Namibia,NA,NAM,516,National,9,Dry latrines - Pit latrine without slab/open pit,0.024,Demographic and Health Survey - DHS07
+Namibia,NA,NAM,516,National,10,Dry latrines - Hanging toilet/hanging latrine,0.003,Demographic and Health Survey - DHS07
+Namibia,NA,NAM,516,National,11,Dry latrines - Bucket latrine,0.01,Demographic and Health Survey - DHS07
+Namibia,NA,NAM,516,National,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS07
+Namibia,NA,NAM,516,National,13,Composting toilets,0.004,Demographic and Health Survey - DHS07
+Namibia,NA,NAM,516,National,14,Other improved,0.0,Demographic and Health Survey - DHS07
+Namibia,NA,NAM,516,National,15,"No facility, bush, field",0.534,Demographic and Health Survey - DHS07
+Namibia,NA,NAM,516,National,16,Other unimproved,0.0,Demographic and Health Survey - DHS07
+Namibia,NA,NAM,516,National,17,DK/missing information,0.0,Demographic and Health Survey - DHS07
+Namibia,NA,NAM,516,Urban,1,Flush and pour flush - to piped sewer system,0.0,Namibia Household Income & Expenditure Survey (NHIES) 2009/2010 - HIES10
+Namibia,NA,NAM,516,Urban,2,Flush and pour flush - to septic tank,0.0,Namibia Household Income & Expenditure Survey (NHIES) 2009/2010 - HIES10
+Namibia,NA,NAM,516,Urban,3,Flush and pour flush - to pit,0.0,Namibia Household Income & Expenditure Survey (NHIES) 2009/2010 - HIES10
+Namibia,NA,NAM,516,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Namibia Household Income & Expenditure Survey (NHIES) 2009/2010 - HIES10
+Namibia,NA,NAM,516,Urban,5,Flush and pour flush - to elsewhere,0.0,Namibia Household Income & Expenditure Survey (NHIES) 2009/2010 - HIES10
+Namibia,NA,NAM,516,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Namibia Household Income & Expenditure Survey (NHIES) 2009/2010 - HIES10
+Namibia,NA,NAM,516,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Namibia Household Income & Expenditure Survey (NHIES) 2009/2010 - HIES10
+Namibia,NA,NAM,516,Urban,8,Dry latrines - Traditional latrine,0.068,Namibia Household Income & Expenditure Survey (NHIES) 2009/2010 - HIES10
+Namibia,NA,NAM,516,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Namibia Household Income & Expenditure Survey (NHIES) 2009/2010 - HIES10
+Namibia,NA,NAM,516,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Namibia Household Income & Expenditure Survey (NHIES) 2009/2010 - HIES10
+Namibia,NA,NAM,516,Urban,11,Dry latrines - Bucket latrine,0.005,Namibia Household Income & Expenditure Survey (NHIES) 2009/2010 - HIES10
+Namibia,NA,NAM,516,Urban,12,Dry latrines - Other,0.0,Namibia Household Income & Expenditure Survey (NHIES) 2009/2010 - HIES10
+Namibia,NA,NAM,516,Urban,13,Composting toilets,0.0,Namibia Household Income & Expenditure Survey (NHIES) 2009/2010 - HIES10
+Namibia,NA,NAM,516,Urban,14,Other improved,0.0,Namibia Household Income & Expenditure Survey (NHIES) 2009/2010 - HIES10
+Namibia,NA,NAM,516,Urban,15,"No facility, bush, field",0.135,Namibia Household Income & Expenditure Survey (NHIES) 2009/2010 - HIES10
+Namibia,NA,NAM,516,Urban,16,Other unimproved,0.009,Namibia Household Income & Expenditure Survey (NHIES) 2009/2010 - HIES10
+Namibia,NA,NAM,516,Urban,17,DK/missing information,0.0,Namibia Household Income & Expenditure Survey (NHIES) 2009/2010 - HIES10
+Namibia,NA,NAM,516,Rural,1,Flush and pour flush - to piped sewer system,0.0,Namibia Household Income & Expenditure Survey (NHIES) 2009/2010 - HIES10
+Namibia,NA,NAM,516,Rural,2,Flush and pour flush - to septic tank,0.0,Namibia Household Income & Expenditure Survey (NHIES) 2009/2010 - HIES10
+Namibia,NA,NAM,516,Rural,3,Flush and pour flush - to pit,0.0,Namibia Household Income & Expenditure Survey (NHIES) 2009/2010 - HIES10
+Namibia,NA,NAM,516,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Namibia Household Income & Expenditure Survey (NHIES) 2009/2010 - HIES10
+Namibia,NA,NAM,516,Rural,5,Flush and pour flush - to elsewhere,0.0,Namibia Household Income & Expenditure Survey (NHIES) 2009/2010 - HIES10
+Namibia,NA,NAM,516,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Namibia Household Income & Expenditure Survey (NHIES) 2009/2010 - HIES10
+Namibia,NA,NAM,516,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Namibia Household Income & Expenditure Survey (NHIES) 2009/2010 - HIES10
+Namibia,NA,NAM,516,Rural,8,Dry latrines - Traditional latrine,0.115,Namibia Household Income & Expenditure Survey (NHIES) 2009/2010 - HIES10
+Namibia,NA,NAM,516,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Namibia Household Income & Expenditure Survey (NHIES) 2009/2010 - HIES10
+Namibia,NA,NAM,516,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Namibia Household Income & Expenditure Survey (NHIES) 2009/2010 - HIES10
+Namibia,NA,NAM,516,Rural,11,Dry latrines - Bucket latrine,0.007,Namibia Household Income & Expenditure Survey (NHIES) 2009/2010 - HIES10
+Namibia,NA,NAM,516,Rural,12,Dry latrines - Other,0.0,Namibia Household Income & Expenditure Survey (NHIES) 2009/2010 - HIES10
+Namibia,NA,NAM,516,Rural,13,Composting toilets,0.0,Namibia Household Income & Expenditure Survey (NHIES) 2009/2010 - HIES10
+Namibia,NA,NAM,516,Rural,14,Other improved,0.0,Namibia Household Income & Expenditure Survey (NHIES) 2009/2010 - HIES10
+Namibia,NA,NAM,516,Rural,15,"No facility, bush, field",0.767,Namibia Household Income & Expenditure Survey (NHIES) 2009/2010 - HIES10
+Namibia,NA,NAM,516,Rural,16,Other unimproved,0.011,Namibia Household Income & Expenditure Survey (NHIES) 2009/2010 - HIES10
+Namibia,NA,NAM,516,Rural,17,DK/missing information,0.0,Namibia Household Income & Expenditure Survey (NHIES) 2009/2010 - HIES10
+Namibia,NA,NAM,516,National,1,Flush and pour flush - to piped sewer system,0.0,Namibia Household Income & Expenditure Survey (NHIES) 2009/2010 - HIES10
+Namibia,NA,NAM,516,National,2,Flush and pour flush - to septic tank,0.0,Namibia Household Income & Expenditure Survey (NHIES) 2009/2010 - HIES10
+Namibia,NA,NAM,516,National,3,Flush and pour flush - to pit,0.0,Namibia Household Income & Expenditure Survey (NHIES) 2009/2010 - HIES10
+Namibia,NA,NAM,516,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Namibia Household Income & Expenditure Survey (NHIES) 2009/2010 - HIES10
+Namibia,NA,NAM,516,National,5,Flush and pour flush - to elsewhere,0.0,Namibia Household Income & Expenditure Survey (NHIES) 2009/2010 - HIES10
+Namibia,NA,NAM,516,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Namibia Household Income & Expenditure Survey (NHIES) 2009/2010 - HIES10
+Namibia,NA,NAM,516,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Namibia Household Income & Expenditure Survey (NHIES) 2009/2010 - HIES10
+Namibia,NA,NAM,516,National,8,Dry latrines - Traditional latrine,0.095,Namibia Household Income & Expenditure Survey (NHIES) 2009/2010 - HIES10
+Namibia,NA,NAM,516,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Namibia Household Income & Expenditure Survey (NHIES) 2009/2010 - HIES10
+Namibia,NA,NAM,516,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Namibia Household Income & Expenditure Survey (NHIES) 2009/2010 - HIES10
+Namibia,NA,NAM,516,National,11,Dry latrines - Bucket latrine,0.006,Namibia Household Income & Expenditure Survey (NHIES) 2009/2010 - HIES10
+Namibia,NA,NAM,516,National,12,Dry latrines - Other,0.0,Namibia Household Income & Expenditure Survey (NHIES) 2009/2010 - HIES10
+Namibia,NA,NAM,516,National,13,Composting toilets,0.0,Namibia Household Income & Expenditure Survey (NHIES) 2009/2010 - HIES10
+Namibia,NA,NAM,516,National,14,Other improved,0.0,Namibia Household Income & Expenditure Survey (NHIES) 2009/2010 - HIES10
+Namibia,NA,NAM,516,National,15,"No facility, bush, field",0.493,Namibia Household Income & Expenditure Survey (NHIES) 2009/2010 - HIES10
+Namibia,NA,NAM,516,National,16,Other unimproved,0.01,Namibia Household Income & Expenditure Survey (NHIES) 2009/2010 - HIES10
+Namibia,NA,NAM,516,National,17,DK/missing information,0.0,Namibia Household Income & Expenditure Survey (NHIES) 2009/2010 - HIES10
 Namibia,NA,NAM,516,Urban,1,Flush and pour flush - to piped sewer system,0.656,Census - CEN11
 Namibia,NA,NAM,516,Urban,2,Flush and pour flush - to septic tank,0.031,Census - CEN11
 Namibia,NA,NAM,516,Urban,3,Flush and pour flush - to pit,0.0,Census - CEN11
@@ -113,6 +300,23 @@ Namibia,NA,NAM,516,Rural,14,Other improved,0.0,Census - CEN11
 Namibia,NA,NAM,516,Rural,15,"No facility, bush, field",0.74,Census - CEN11
 Namibia,NA,NAM,516,Rural,16,Other unimproved,0.01,Census - CEN11
 Namibia,NA,NAM,516,Rural,17,DK/missing information,0.0,Census - CEN11
+Namibia,NA,NAM,516,National,1,Flush and pour flush - to piped sewer system,0.365,Census - CEN11
+Namibia,NA,NAM,516,National,2,Flush and pour flush - to septic tank,0.03,Census - CEN11
+Namibia,NA,NAM,516,National,3,Flush and pour flush - to pit,0.0,Census - CEN11
+Namibia,NA,NAM,516,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN11
+Namibia,NA,NAM,516,National,5,Flush and pour flush - to elsewhere,0.0,Census - CEN11
+Namibia,NA,NAM,516,National,6,Dry latrines - Ventilated Improved Pit latrine,0.043,Census - CEN11
+Namibia,NA,NAM,516,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.032,Census - CEN11
+Namibia,NA,NAM,516,National,8,Dry latrines - Traditional latrine,0.0,Census - CEN11
+Namibia,NA,NAM,516,National,9,Dry latrines - Pit latrine without slab/open pit,0.018,Census - CEN11
+Namibia,NA,NAM,516,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN11
+Namibia,NA,NAM,516,National,11,Dry latrines - Bucket latrine,0.018,Census - CEN11
+Namibia,NA,NAM,516,National,12,Dry latrines - Other,0.0,Census - CEN11
+Namibia,NA,NAM,516,National,13,Composting toilets,0.0,Census - CEN11
+Namibia,NA,NAM,516,National,14,Other improved,0.0,Census - CEN11
+Namibia,NA,NAM,516,National,15,"No facility, bush, field",0.486,Census - CEN11
+Namibia,NA,NAM,516,National,16,Other unimproved,0.007,Census - CEN11
+Namibia,NA,NAM,516,National,17,DK/missing information,0.0,Census - CEN11
 Namibia,NA,NAM,516,Urban,1,Flush and pour flush - to piped sewer system,0.634,"Demographic and Health Survey, ICF Macro - DHS13"
 Namibia,NA,NAM,516,Urban,2,Flush and pour flush - to septic tank,0.01,"Demographic and Health Survey, ICF Macro - DHS13"
 Namibia,NA,NAM,516,Urban,3,Flush and pour flush - to pit,0.032,"Demographic and Health Survey, ICF Macro - DHS13"
@@ -163,6 +367,82 @@ Namibia,NA,NAM,516,Rural,14,Other improved,0.0,"Demographic and Health Survey, I
 Namibia,NA,NAM,516,Rural,15,"No facility, bush, field",0.764,"Demographic and Health Survey, ICF Macro - DHS13"
 Namibia,NA,NAM,516,Rural,16,Other unimproved,0.0,"Demographic and Health Survey, ICF Macro - DHS13"
 Namibia,NA,NAM,516,Rural,17,DK/missing information,0.001,"Demographic and Health Survey, ICF Macro - DHS13"
+Namibia,NA,NAM,516,National,1,Flush and pour flush - to piped sewer system,0.329,"Demographic and Health Survey, ICF Macro - DHS13"
+Namibia,NA,NAM,516,National,2,Flush and pour flush - to septic tank,0.01,"Demographic and Health Survey, ICF Macro - DHS13"
+Namibia,NA,NAM,516,National,3,Flush and pour flush - to pit,0.023,"Demographic and Health Survey, ICF Macro - DHS13"
+Namibia,NA,NAM,516,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Demographic and Health Survey, ICF Macro - DHS13"
+Namibia,NA,NAM,516,National,5,Flush and pour flush - to elsewhere,0.0,"Demographic and Health Survey, ICF Macro - DHS13"
+Namibia,NA,NAM,516,National,6,Dry latrines - Ventilated Improved Pit latrine,0.07,"Demographic and Health Survey, ICF Macro - DHS13"
+Namibia,NA,NAM,516,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.015,"Demographic and Health Survey, ICF Macro - DHS13"
+Namibia,NA,NAM,516,National,8,Dry latrines - Traditional latrine,0.0,"Demographic and Health Survey, ICF Macro - DHS13"
+Namibia,NA,NAM,516,National,9,Dry latrines - Pit latrine without slab/open pit,0.03,"Demographic and Health Survey, ICF Macro - DHS13"
+Namibia,NA,NAM,516,National,10,Dry latrines - Hanging toilet/hanging latrine,0.001,"Demographic and Health Survey, ICF Macro - DHS13"
+Namibia,NA,NAM,516,National,11,Dry latrines - Bucket latrine,0.005,"Demographic and Health Survey, ICF Macro - DHS13"
+Namibia,NA,NAM,516,National,6,Dry latrines - Ventilated Improved Pit latrine,0.048,"Demographic and Health Survey, ICF Macro - DHS13"
+Namibia,NA,NAM,516,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.013,"Demographic and Health Survey, ICF Macro - DHS13"
+Namibia,NA,NAM,516,National,6,Dry latrines - Ventilated Improved Pit latrine,0.022,"Demographic and Health Survey, ICF Macro - DHS13"
+Namibia,NA,NAM,516,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.002,"Demographic and Health Survey, ICF Macro - DHS13"
+Namibia,NA,NAM,516,National,8,Dry latrines - Traditional latrine,0.0,"Demographic and Health Survey, ICF Macro - DHS13"
+Namibia,NA,NAM,516,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Demographic and Health Survey, ICF Macro - DHS13"
+Namibia,NA,NAM,516,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Demographic and Health Survey, ICF Macro - DHS13"
+Namibia,NA,NAM,516,National,11,Dry latrines - Bucket latrine,0.0,"Demographic and Health Survey, ICF Macro - DHS13"
+Namibia,NA,NAM,516,National,12,Dry latrines - Other,0.0,"Demographic and Health Survey, ICF Macro - DHS13"
+Namibia,NA,NAM,516,National,13,Composting toilets,0.001,"Demographic and Health Survey, ICF Macro - DHS13"
+Namibia,NA,NAM,516,National,14,Other improved,0.0,"Demographic and Health Survey, ICF Macro - DHS13"
+Namibia,NA,NAM,516,National,15,"No facility, bush, field",0.5,"Demographic and Health Survey, ICF Macro - DHS13"
+Namibia,NA,NAM,516,National,16,Other unimproved,0.003,"Demographic and Health Survey, ICF Macro - DHS13"
+Namibia,NA,NAM,516,National,17,DK/missing information,0.001,"Demographic and Health Survey, ICF Macro - DHS13"
+Namibia,NA,NAM,516,Urban,1,Flush and pour flush - to piped sewer system,0.0,Namibia Intercensal Survey - NIDS16
+Namibia,NA,NAM,516,Urban,2,Flush and pour flush - to septic tank,0.0,Namibia Intercensal Survey - NIDS16
+Namibia,NA,NAM,516,Urban,3,Flush and pour flush - to pit,0.0,Namibia Intercensal Survey - NIDS16
+Namibia,NA,NAM,516,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Namibia Intercensal Survey - NIDS16
+Namibia,NA,NAM,516,Urban,5,Flush and pour flush - to elsewhere,0.0,Namibia Intercensal Survey - NIDS16
+Namibia,NA,NAM,516,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.037,Namibia Intercensal Survey - NIDS16
+Namibia,NA,NAM,516,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.03,Namibia Intercensal Survey - NIDS16
+Namibia,NA,NAM,516,Urban,8,Dry latrines - Traditional latrine,0.0,Namibia Intercensal Survey - NIDS16
+Namibia,NA,NAM,516,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.028,Namibia Intercensal Survey - NIDS16
+Namibia,NA,NAM,516,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Namibia Intercensal Survey - NIDS16
+Namibia,NA,NAM,516,Urban,11,Dry latrines - Bucket latrine,0.011,Namibia Intercensal Survey - NIDS16
+Namibia,NA,NAM,516,Urban,12,Dry latrines - Other,0.0,Namibia Intercensal Survey - NIDS16
+Namibia,NA,NAM,516,Urban,13,Composting toilets,0.0,Namibia Intercensal Survey - NIDS16
+Namibia,NA,NAM,516,Urban,14,Other improved,0.0,Namibia Intercensal Survey - NIDS16
+Namibia,NA,NAM,516,Urban,15,"No facility, bush, field",0.26,Namibia Intercensal Survey - NIDS16
+Namibia,NA,NAM,516,Urban,16,Other unimproved,0.001,Namibia Intercensal Survey - NIDS16
+Namibia,NA,NAM,516,Urban,17,DK/missing information,0.0,Namibia Intercensal Survey - NIDS16
+Namibia,NA,NAM,516,Rural,1,Flush and pour flush - to piped sewer system,0.0,Namibia Intercensal Survey - NIDS16
+Namibia,NA,NAM,516,Rural,2,Flush and pour flush - to septic tank,0.0,Namibia Intercensal Survey - NIDS16
+Namibia,NA,NAM,516,Rural,3,Flush and pour flush - to pit,0.0,Namibia Intercensal Survey - NIDS16
+Namibia,NA,NAM,516,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Namibia Intercensal Survey - NIDS16
+Namibia,NA,NAM,516,Rural,5,Flush and pour flush - to elsewhere,0.0,Namibia Intercensal Survey - NIDS16
+Namibia,NA,NAM,516,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.078,Namibia Intercensal Survey - NIDS16
+Namibia,NA,NAM,516,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.053,Namibia Intercensal Survey - NIDS16
+Namibia,NA,NAM,516,Rural,8,Dry latrines - Traditional latrine,0.0,Namibia Intercensal Survey - NIDS16
+Namibia,NA,NAM,516,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.027,Namibia Intercensal Survey - NIDS16
+Namibia,NA,NAM,516,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Namibia Intercensal Survey - NIDS16
+Namibia,NA,NAM,516,Rural,11,Dry latrines - Bucket latrine,0.008,Namibia Intercensal Survey - NIDS16
+Namibia,NA,NAM,516,Rural,12,Dry latrines - Other,0.0,Namibia Intercensal Survey - NIDS16
+Namibia,NA,NAM,516,Rural,13,Composting toilets,0.0,Namibia Intercensal Survey - NIDS16
+Namibia,NA,NAM,516,Rural,14,Other improved,0.0,Namibia Intercensal Survey - NIDS16
+Namibia,NA,NAM,516,Rural,15,"No facility, bush, field",0.7,Namibia Intercensal Survey - NIDS16
+Namibia,NA,NAM,516,Rural,16,Other unimproved,0.0,Namibia Intercensal Survey - NIDS16
+Namibia,NA,NAM,516,Rural,17,DK/missing information,0.0,Namibia Intercensal Survey - NIDS16
+Namibia,NA,NAM,516,National,1,Flush and pour flush - to piped sewer system,0.0,Namibia Intercensal Survey - NIDS16
+Namibia,NA,NAM,516,National,2,Flush and pour flush - to septic tank,0.0,Namibia Intercensal Survey - NIDS16
+Namibia,NA,NAM,516,National,3,Flush and pour flush - to pit,0.0,Namibia Intercensal Survey - NIDS16
+Namibia,NA,NAM,516,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Namibia Intercensal Survey - NIDS16
+Namibia,NA,NAM,516,National,5,Flush and pour flush - to elsewhere,0.0,Namibia Intercensal Survey - NIDS16
+Namibia,NA,NAM,516,National,6,Dry latrines - Ventilated Improved Pit latrine,0.056,Namibia Intercensal Survey - NIDS16
+Namibia,NA,NAM,516,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.04,Namibia Intercensal Survey - NIDS16
+Namibia,NA,NAM,516,National,8,Dry latrines - Traditional latrine,0.0,Namibia Intercensal Survey - NIDS16
+Namibia,NA,NAM,516,National,9,Dry latrines - Pit latrine without slab/open pit,0.028,Namibia Intercensal Survey - NIDS16
+Namibia,NA,NAM,516,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Namibia Intercensal Survey - NIDS16
+Namibia,NA,NAM,516,National,11,Dry latrines - Bucket latrine,0.01,Namibia Intercensal Survey - NIDS16
+Namibia,NA,NAM,516,National,12,Dry latrines - Other,0.0,Namibia Intercensal Survey - NIDS16
+Namibia,NA,NAM,516,National,13,Composting toilets,0.0,Namibia Intercensal Survey - NIDS16
+Namibia,NA,NAM,516,National,14,Other improved,0.0,Namibia Intercensal Survey - NIDS16
+Namibia,NA,NAM,516,National,15,"No facility, bush, field",0.457,Namibia Intercensal Survey - NIDS16
+Namibia,NA,NAM,516,National,16,Other unimproved,0.001,Namibia Intercensal Survey - NIDS16
+Namibia,NA,NAM,516,National,17,DK/missing information,0.0,Namibia Intercensal Survey - NIDS16
 Namibia,NA,NAM,516,Urban,1,Flush and pour flush - to piped sewer system,0.638,Household Income and Expenditure Survey - HIES16
 Namibia,NA,NAM,516,Urban,2,Flush and pour flush - to septic tank,0.018,Household Income and Expenditure Survey - HIES16
 Namibia,NA,NAM,516,Urban,3,Flush and pour flush - to pit,0.037,Household Income and Expenditure Survey - HIES16
@@ -197,3 +477,20 @@ Namibia,NA,NAM,516,Rural,14,Other improved,0.0,Household Income and Expenditure 
 Namibia,NA,NAM,516,Rural,15,"No facility, bush, field",0.735,Household Income and Expenditure Survey - HIES16
 Namibia,NA,NAM,516,Rural,16,Other unimproved,0.0,Household Income and Expenditure Survey - HIES16
 Namibia,NA,NAM,516,Rural,17,DK/missing information,0.0,Household Income and Expenditure Survey - HIES16
+Namibia,NA,NAM,516,National,1,Flush and pour flush - to piped sewer system,0.335,Household Income and Expenditure Survey - HIES16
+Namibia,NA,NAM,516,National,2,Flush and pour flush - to septic tank,0.014,Household Income and Expenditure Survey - HIES16
+Namibia,NA,NAM,516,National,3,Flush and pour flush - to pit,0.025,Household Income and Expenditure Survey - HIES16
+Namibia,NA,NAM,516,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.001,Household Income and Expenditure Survey - HIES16
+Namibia,NA,NAM,516,National,5,Flush and pour flush - to elsewhere,0.006,Household Income and Expenditure Survey - HIES16
+Namibia,NA,NAM,516,National,6,Dry latrines - Ventilated Improved Pit latrine,0.053,Household Income and Expenditure Survey - HIES16
+Namibia,NA,NAM,516,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.029,Household Income and Expenditure Survey - HIES16
+Namibia,NA,NAM,516,National,8,Dry latrines - Traditional latrine,0.0,Household Income and Expenditure Survey - HIES16
+Namibia,NA,NAM,516,National,9,Dry latrines - Pit latrine without slab/open pit,0.035,Household Income and Expenditure Survey - HIES16
+Namibia,NA,NAM,516,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Income and Expenditure Survey - HIES16
+Namibia,NA,NAM,516,National,11,Dry latrines - Bucket latrine,0.003,Household Income and Expenditure Survey - HIES16
+Namibia,NA,NAM,516,National,12,Dry latrines - Other,0.0,Household Income and Expenditure Survey - HIES16
+Namibia,NA,NAM,516,National,13,Composting toilets,0.0,Household Income and Expenditure Survey - HIES16
+Namibia,NA,NAM,516,National,14,Other improved,0.0,Household Income and Expenditure Survey - HIES16
+Namibia,NA,NAM,516,National,15,"No facility, bush, field",0.495,Household Income and Expenditure Survey - HIES16
+Namibia,NA,NAM,516,National,16,Other unimproved,0.004,Household Income and Expenditure Survey - HIES16
+Namibia,NA,NAM,516,National,17,DK/missing information,0.0,Household Income and Expenditure Survey - HIES16

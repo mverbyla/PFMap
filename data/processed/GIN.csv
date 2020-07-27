@@ -1,4 +1,259 @@
 country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+Guinea,GN,GIN,324,Urban,1,Flush and pour flush - to piped sewer system,0.033,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB02
+Guinea,GN,GIN,324,Urban,2,Flush and pour flush - to septic tank,0.035,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB02
+Guinea,GN,GIN,324,Urban,3,Flush and pour flush - to pit,0.0,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB02
+Guinea,GN,GIN,324,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB02
+Guinea,GN,GIN,324,Urban,5,Flush and pour flush - to elsewhere,0.0,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB02
+Guinea,GN,GIN,324,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.01,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB02
+Guinea,GN,GIN,324,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.543,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB02
+Guinea,GN,GIN,324,Urban,8,Dry latrines - Traditional latrine,0.0,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB02
+Guinea,GN,GIN,324,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.346,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB02
+Guinea,GN,GIN,324,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB02
+Guinea,GN,GIN,324,Urban,11,Dry latrines - Bucket latrine,0.01,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB02
+Guinea,GN,GIN,324,Urban,12,Dry latrines - Other,0.0,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB02
+Guinea,GN,GIN,324,Urban,13,Composting toilets,0.0,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB02
+Guinea,GN,GIN,324,Urban,14,Other improved,0.0,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB02
+Guinea,GN,GIN,324,Urban,15,"No facility, bush, field",0.008,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB02
+Guinea,GN,GIN,324,Urban,16,Other unimproved,0.003,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB02
+Guinea,GN,GIN,324,Urban,17,DK/missing information,0.0,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB02
+Guinea,GN,GIN,324,Rural,1,Flush and pour flush - to piped sewer system,0.0,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB02
+Guinea,GN,GIN,324,Rural,2,Flush and pour flush - to septic tank,0.0,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB02
+Guinea,GN,GIN,324,Rural,3,Flush and pour flush - to pit,0.0,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB02
+Guinea,GN,GIN,324,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB02
+Guinea,GN,GIN,324,Rural,5,Flush and pour flush - to elsewhere,0.0,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB02
+Guinea,GN,GIN,324,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.003,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB02
+Guinea,GN,GIN,324,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.099,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB02
+Guinea,GN,GIN,324,Rural,8,Dry latrines - Traditional latrine,0.0,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB02
+Guinea,GN,GIN,324,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.484,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB02
+Guinea,GN,GIN,324,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB02
+Guinea,GN,GIN,324,Rural,11,Dry latrines - Bucket latrine,0.001,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB02
+Guinea,GN,GIN,324,Rural,12,Dry latrines - Other,0.0,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB02
+Guinea,GN,GIN,324,Rural,13,Composting toilets,0.0,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB02
+Guinea,GN,GIN,324,Rural,14,Other improved,0.0,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB02
+Guinea,GN,GIN,324,Rural,15,"No facility, bush, field",0.361,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB02
+Guinea,GN,GIN,324,Rural,16,Other unimproved,0.036,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB02
+Guinea,GN,GIN,324,Rural,17,DK/missing information,0.0,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB02
+Guinea,GN,GIN,324,National,1,Flush and pour flush - to piped sewer system,0.01,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB02
+Guinea,GN,GIN,324,National,2,Flush and pour flush - to septic tank,0.01,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB02
+Guinea,GN,GIN,324,National,3,Flush and pour flush - to pit,0.0,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB02
+Guinea,GN,GIN,324,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB02
+Guinea,GN,GIN,324,National,5,Flush and pour flush - to elsewhere,0.0,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB02
+Guinea,GN,GIN,324,National,6,Dry latrines - Ventilated Improved Pit latrine,0.005,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB02
+Guinea,GN,GIN,324,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.227,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB02
+Guinea,GN,GIN,324,National,8,Dry latrines - Traditional latrine,0.0,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB02
+Guinea,GN,GIN,324,National,9,Dry latrines - Pit latrine without slab/open pit,0.444,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB02
+Guinea,GN,GIN,324,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB02
+Guinea,GN,GIN,324,National,11,Dry latrines - Bucket latrine,0.004,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB02
+Guinea,GN,GIN,324,National,12,Dry latrines - Other,0.0,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB02
+Guinea,GN,GIN,324,National,13,Composting toilets,0.0,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB02
+Guinea,GN,GIN,324,National,14,Other improved,0.0,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB02
+Guinea,GN,GIN,324,National,15,"No facility, bush, field",0.259,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB02
+Guinea,GN,GIN,324,National,16,Other unimproved,0.027,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB02
+Guinea,GN,GIN,324,National,17,DK/missing information,0.0,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB02
+Guinea,GN,GIN,324,Urban,1,Flush and pour flush - to piped sewer system,0.0,Enquête intégrale sur le budget et l'évaluation de la pauvreté (EIBEP) - EIBEP02
+Guinea,GN,GIN,324,Urban,2,Flush and pour flush - to septic tank,0.0,Enquête intégrale sur le budget et l'évaluation de la pauvreté (EIBEP) - EIBEP02
+Guinea,GN,GIN,324,Urban,3,Flush and pour flush - to pit,0.0,Enquête intégrale sur le budget et l'évaluation de la pauvreté (EIBEP) - EIBEP02
+Guinea,GN,GIN,324,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquête intégrale sur le budget et l'évaluation de la pauvreté (EIBEP) - EIBEP02
+Guinea,GN,GIN,324,Urban,5,Flush and pour flush - to elsewhere,0.0,Enquête intégrale sur le budget et l'évaluation de la pauvreté (EIBEP) - EIBEP02
+Guinea,GN,GIN,324,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.009,Enquête intégrale sur le budget et l'évaluation de la pauvreté (EIBEP) - EIBEP02
+Guinea,GN,GIN,324,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.46,Enquête intégrale sur le budget et l'évaluation de la pauvreté (EIBEP) - EIBEP02
+Guinea,GN,GIN,324,Urban,8,Dry latrines - Traditional latrine,0.0,Enquête intégrale sur le budget et l'évaluation de la pauvreté (EIBEP) - EIBEP02
+Guinea,GN,GIN,324,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.44,Enquête intégrale sur le budget et l'évaluation de la pauvreté (EIBEP) - EIBEP02
+Guinea,GN,GIN,324,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquête intégrale sur le budget et l'évaluation de la pauvreté (EIBEP) - EIBEP02
+Guinea,GN,GIN,324,Urban,11,Dry latrines - Bucket latrine,0.011,Enquête intégrale sur le budget et l'évaluation de la pauvreté (EIBEP) - EIBEP02
+Guinea,GN,GIN,324,Urban,12,Dry latrines - Other,0.0,Enquête intégrale sur le budget et l'évaluation de la pauvreté (EIBEP) - EIBEP02
+Guinea,GN,GIN,324,Urban,13,Composting toilets,0.0,Enquête intégrale sur le budget et l'évaluation de la pauvreté (EIBEP) - EIBEP02
+Guinea,GN,GIN,324,Urban,14,Other improved,0.0,Enquête intégrale sur le budget et l'évaluation de la pauvreté (EIBEP) - EIBEP02
+Guinea,GN,GIN,324,Urban,15,"No facility, bush, field",0.013,Enquête intégrale sur le budget et l'évaluation de la pauvreté (EIBEP) - EIBEP02
+Guinea,GN,GIN,324,Urban,16,Other unimproved,0.005,Enquête intégrale sur le budget et l'évaluation de la pauvreté (EIBEP) - EIBEP02
+Guinea,GN,GIN,324,Urban,17,DK/missing information,0.0,Enquête intégrale sur le budget et l'évaluation de la pauvreté (EIBEP) - EIBEP02
+Guinea,GN,GIN,324,Rural,1,Flush and pour flush - to piped sewer system,0.0,Enquête intégrale sur le budget et l'évaluation de la pauvreté (EIBEP) - EIBEP02
+Guinea,GN,GIN,324,Rural,2,Flush and pour flush - to septic tank,0.0,Enquête intégrale sur le budget et l'évaluation de la pauvreté (EIBEP) - EIBEP02
+Guinea,GN,GIN,324,Rural,3,Flush and pour flush - to pit,0.0,Enquête intégrale sur le budget et l'évaluation de la pauvreté (EIBEP) - EIBEP02
+Guinea,GN,GIN,324,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquête intégrale sur le budget et l'évaluation de la pauvreté (EIBEP) - EIBEP02
+Guinea,GN,GIN,324,Rural,5,Flush and pour flush - to elsewhere,0.0,Enquête intégrale sur le budget et l'évaluation de la pauvreté (EIBEP) - EIBEP02
+Guinea,GN,GIN,324,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.004,Enquête intégrale sur le budget et l'évaluation de la pauvreté (EIBEP) - EIBEP02
+Guinea,GN,GIN,324,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.099,Enquête intégrale sur le budget et l'évaluation de la pauvreté (EIBEP) - EIBEP02
+Guinea,GN,GIN,324,Rural,8,Dry latrines - Traditional latrine,0.0,Enquête intégrale sur le budget et l'évaluation de la pauvreté (EIBEP) - EIBEP02
+Guinea,GN,GIN,324,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.494,Enquête intégrale sur le budget et l'évaluation de la pauvreté (EIBEP) - EIBEP02
+Guinea,GN,GIN,324,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquête intégrale sur le budget et l'évaluation de la pauvreté (EIBEP) - EIBEP02
+Guinea,GN,GIN,324,Rural,11,Dry latrines - Bucket latrine,0.002,Enquête intégrale sur le budget et l'évaluation de la pauvreté (EIBEP) - EIBEP02
+Guinea,GN,GIN,324,Rural,12,Dry latrines - Other,0.0,Enquête intégrale sur le budget et l'évaluation de la pauvreté (EIBEP) - EIBEP02
+Guinea,GN,GIN,324,Rural,13,Composting toilets,0.0,Enquête intégrale sur le budget et l'évaluation de la pauvreté (EIBEP) - EIBEP02
+Guinea,GN,GIN,324,Rural,14,Other improved,0.0,Enquête intégrale sur le budget et l'évaluation de la pauvreté (EIBEP) - EIBEP02
+Guinea,GN,GIN,324,Rural,15,"No facility, bush, field",0.36,Enquête intégrale sur le budget et l'évaluation de la pauvreté (EIBEP) - EIBEP02
+Guinea,GN,GIN,324,Rural,16,Other unimproved,0.038,Enquête intégrale sur le budget et l'évaluation de la pauvreté (EIBEP) - EIBEP02
+Guinea,GN,GIN,324,Rural,17,DK/missing information,0.0,Enquête intégrale sur le budget et l'évaluation de la pauvreté (EIBEP) - EIBEP02
+Guinea,GN,GIN,324,National,1,Flush and pour flush - to piped sewer system,0.0,Enquête intégrale sur le budget et l'évaluation de la pauvreté (EIBEP) - EIBEP02
+Guinea,GN,GIN,324,National,2,Flush and pour flush - to septic tank,0.0,Enquête intégrale sur le budget et l'évaluation de la pauvreté (EIBEP) - EIBEP02
+Guinea,GN,GIN,324,National,3,Flush and pour flush - to pit,0.0,Enquête intégrale sur le budget et l'évaluation de la pauvreté (EIBEP) - EIBEP02
+Guinea,GN,GIN,324,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquête intégrale sur le budget et l'évaluation de la pauvreté (EIBEP) - EIBEP02
+Guinea,GN,GIN,324,National,5,Flush and pour flush - to elsewhere,0.0,Enquête intégrale sur le budget et l'évaluation de la pauvreté (EIBEP) - EIBEP02
+Guinea,GN,GIN,324,National,6,Dry latrines - Ventilated Improved Pit latrine,0.007,Enquête intégrale sur le budget et l'évaluation de la pauvreté (EIBEP) - EIBEP02
+Guinea,GN,GIN,324,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.288,Enquête intégrale sur le budget et l'évaluation de la pauvreté (EIBEP) - EIBEP02
+Guinea,GN,GIN,324,National,8,Dry latrines - Traditional latrine,0.0,Enquête intégrale sur le budget et l'évaluation de la pauvreté (EIBEP) - EIBEP02
+Guinea,GN,GIN,324,National,9,Dry latrines - Pit latrine without slab/open pit,0.466,Enquête intégrale sur le budget et l'évaluation de la pauvreté (EIBEP) - EIBEP02
+Guinea,GN,GIN,324,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquête intégrale sur le budget et l'évaluation de la pauvreté (EIBEP) - EIBEP02
+Guinea,GN,GIN,324,National,11,Dry latrines - Bucket latrine,0.007,Enquête intégrale sur le budget et l'évaluation de la pauvreté (EIBEP) - EIBEP02
+Guinea,GN,GIN,324,National,12,Dry latrines - Other,0.0,Enquête intégrale sur le budget et l'évaluation de la pauvreté (EIBEP) - EIBEP02
+Guinea,GN,GIN,324,National,13,Composting toilets,0.0,Enquête intégrale sur le budget et l'évaluation de la pauvreté (EIBEP) - EIBEP02
+Guinea,GN,GIN,324,National,14,Other improved,0.0,Enquête intégrale sur le budget et l'évaluation de la pauvreté (EIBEP) - EIBEP02
+Guinea,GN,GIN,324,National,15,"No facility, bush, field",0.179,Enquête intégrale sur le budget et l'évaluation de la pauvreté (EIBEP) - EIBEP02
+Guinea,GN,GIN,324,National,16,Other unimproved,0.021,Enquête intégrale sur le budget et l'évaluation de la pauvreté (EIBEP) - EIBEP02
+Guinea,GN,GIN,324,National,17,DK/missing information,0.0,Enquête intégrale sur le budget et l'évaluation de la pauvreté (EIBEP) - EIBEP02
+Guinea,GN,GIN,324,Urban,1,Flush and pour flush - to piped sewer system,0.0,Multiple Indicator Cluster Survey - MICS03
+Guinea,GN,GIN,324,Urban,2,Flush and pour flush - to septic tank,0.0,Multiple Indicator Cluster Survey - MICS03
+Guinea,GN,GIN,324,Urban,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS03
+Guinea,GN,GIN,324,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS03
+Guinea,GN,GIN,324,Urban,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS03
+Guinea,GN,GIN,324,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Multiple Indicator Cluster Survey - MICS03
+Guinea,GN,GIN,324,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Multiple Indicator Cluster Survey - MICS03
+Guinea,GN,GIN,324,Urban,8,Dry latrines - Traditional latrine,0.68,Multiple Indicator Cluster Survey - MICS03
+Guinea,GN,GIN,324,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.198,Multiple Indicator Cluster Survey - MICS03
+Guinea,GN,GIN,324,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS03
+Guinea,GN,GIN,324,Urban,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS03
+Guinea,GN,GIN,324,Urban,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS03
+Guinea,GN,GIN,324,Urban,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS03
+Guinea,GN,GIN,324,Urban,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS03
+Guinea,GN,GIN,324,Urban,15,"No facility, bush, field",0.018,Multiple Indicator Cluster Survey - MICS03
+Guinea,GN,GIN,324,Urban,16,Other unimproved,0.002,Multiple Indicator Cluster Survey - MICS03
+Guinea,GN,GIN,324,Urban,17,DK/missing information,0.006,Multiple Indicator Cluster Survey - MICS03
+Guinea,GN,GIN,324,Rural,1,Flush and pour flush - to piped sewer system,0.0,Multiple Indicator Cluster Survey - MICS03
+Guinea,GN,GIN,324,Rural,2,Flush and pour flush - to septic tank,0.0,Multiple Indicator Cluster Survey - MICS03
+Guinea,GN,GIN,324,Rural,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS03
+Guinea,GN,GIN,324,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS03
+Guinea,GN,GIN,324,Rural,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS03
+Guinea,GN,GIN,324,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Multiple Indicator Cluster Survey - MICS03
+Guinea,GN,GIN,324,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Multiple Indicator Cluster Survey - MICS03
+Guinea,GN,GIN,324,Rural,8,Dry latrines - Traditional latrine,0.162,Multiple Indicator Cluster Survey - MICS03
+Guinea,GN,GIN,324,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.486,Multiple Indicator Cluster Survey - MICS03
+Guinea,GN,GIN,324,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS03
+Guinea,GN,GIN,324,Rural,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS03
+Guinea,GN,GIN,324,Rural,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS03
+Guinea,GN,GIN,324,Rural,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS03
+Guinea,GN,GIN,324,Rural,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS03
+Guinea,GN,GIN,324,Rural,15,"No facility, bush, field",0.337,Multiple Indicator Cluster Survey - MICS03
+Guinea,GN,GIN,324,Rural,16,Other unimproved,0.006,Multiple Indicator Cluster Survey - MICS03
+Guinea,GN,GIN,324,Rural,17,DK/missing information,0.002,Multiple Indicator Cluster Survey - MICS03
+Guinea,GN,GIN,324,National,1,Flush and pour flush - to piped sewer system,0.0,Multiple Indicator Cluster Survey - MICS03
+Guinea,GN,GIN,324,National,2,Flush and pour flush - to septic tank,0.0,Multiple Indicator Cluster Survey - MICS03
+Guinea,GN,GIN,324,National,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS03
+Guinea,GN,GIN,324,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS03
+Guinea,GN,GIN,324,National,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS03
+Guinea,GN,GIN,324,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Multiple Indicator Cluster Survey - MICS03
+Guinea,GN,GIN,324,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Multiple Indicator Cluster Survey - MICS03
+Guinea,GN,GIN,324,National,8,Dry latrines - Traditional latrine,0.366,Multiple Indicator Cluster Survey - MICS03
+Guinea,GN,GIN,324,National,9,Dry latrines - Pit latrine without slab/open pit,0.373,Multiple Indicator Cluster Survey - MICS03
+Guinea,GN,GIN,324,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS03
+Guinea,GN,GIN,324,National,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS03
+Guinea,GN,GIN,324,National,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS03
+Guinea,GN,GIN,324,National,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS03
+Guinea,GN,GIN,324,National,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS03
+Guinea,GN,GIN,324,National,15,"No facility, bush, field",0.211,Multiple Indicator Cluster Survey - MICS03
+Guinea,GN,GIN,324,National,16,Other unimproved,0.005,Multiple Indicator Cluster Survey - MICS03
+Guinea,GN,GIN,324,National,17,DK/missing information,0.003,Multiple Indicator Cluster Survey - MICS03
+Guinea,GN,GIN,324,Urban,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS05
+Guinea,GN,GIN,324,Urban,2,Flush and pour flush - to septic tank,0.0,Demographic and Health Survey - DHS05
+Guinea,GN,GIN,324,Urban,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS05
+Guinea,GN,GIN,324,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS05
+Guinea,GN,GIN,324,Urban,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS05
+Guinea,GN,GIN,324,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.031,Demographic and Health Survey - DHS05
+Guinea,GN,GIN,324,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.498,Demographic and Health Survey - DHS05
+Guinea,GN,GIN,324,Urban,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS05
+Guinea,GN,GIN,324,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.377,Demographic and Health Survey - DHS05
+Guinea,GN,GIN,324,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS05
+Guinea,GN,GIN,324,Urban,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS05
+Guinea,GN,GIN,324,Urban,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS05
+Guinea,GN,GIN,324,Urban,13,Composting toilets,0.0,Demographic and Health Survey - DHS05
+Guinea,GN,GIN,324,Urban,14,Other improved,0.0,Demographic and Health Survey - DHS05
+Guinea,GN,GIN,324,Urban,15,"No facility, bush, field",0.022,Demographic and Health Survey - DHS05
+Guinea,GN,GIN,324,Urban,16,Other unimproved,0.0,Demographic and Health Survey - DHS05
+Guinea,GN,GIN,324,Urban,17,DK/missing information,0.002,Demographic and Health Survey - DHS05
+Guinea,GN,GIN,324,Rural,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS05
+Guinea,GN,GIN,324,Rural,2,Flush and pour flush - to septic tank,0.0,Demographic and Health Survey - DHS05
+Guinea,GN,GIN,324,Rural,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS05
+Guinea,GN,GIN,324,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS05
+Guinea,GN,GIN,324,Rural,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS05
+Guinea,GN,GIN,324,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.015,Demographic and Health Survey - DHS05
+Guinea,GN,GIN,324,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.128,Demographic and Health Survey - DHS05
+Guinea,GN,GIN,324,Rural,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS05
+Guinea,GN,GIN,324,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.436,Demographic and Health Survey - DHS05
+Guinea,GN,GIN,324,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS05
+Guinea,GN,GIN,324,Rural,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS05
+Guinea,GN,GIN,324,Rural,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS05
+Guinea,GN,GIN,324,Rural,13,Composting toilets,0.0,Demographic and Health Survey - DHS05
+Guinea,GN,GIN,324,Rural,14,Other improved,0.0,Demographic and Health Survey - DHS05
+Guinea,GN,GIN,324,Rural,15,"No facility, bush, field",0.415,Demographic and Health Survey - DHS05
+Guinea,GN,GIN,324,Rural,16,Other unimproved,0.0,Demographic and Health Survey - DHS05
+Guinea,GN,GIN,324,Rural,17,DK/missing information,0.002,Demographic and Health Survey - DHS05
+Guinea,GN,GIN,324,National,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS05
+Guinea,GN,GIN,324,National,2,Flush and pour flush - to septic tank,0.0,Demographic and Health Survey - DHS05
+Guinea,GN,GIN,324,National,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS05
+Guinea,GN,GIN,324,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS05
+Guinea,GN,GIN,324,National,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS05
+Guinea,GN,GIN,324,National,6,Dry latrines - Ventilated Improved Pit latrine,0.02,Demographic and Health Survey - DHS05
+Guinea,GN,GIN,324,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.233,Demographic and Health Survey - DHS05
+Guinea,GN,GIN,324,National,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS05
+Guinea,GN,GIN,324,National,9,Dry latrines - Pit latrine without slab/open pit,0.419,Demographic and Health Survey - DHS05
+Guinea,GN,GIN,324,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS05
+Guinea,GN,GIN,324,National,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS05
+Guinea,GN,GIN,324,National,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS05
+Guinea,GN,GIN,324,National,13,Composting toilets,0.0,Demographic and Health Survey - DHS05
+Guinea,GN,GIN,324,National,14,Other improved,0.0,Demographic and Health Survey - DHS05
+Guinea,GN,GIN,324,National,15,"No facility, bush, field",0.303,Demographic and Health Survey - DHS05
+Guinea,GN,GIN,324,National,16,Other unimproved,0.0,Demographic and Health Survey - DHS05
+Guinea,GN,GIN,324,National,17,DK/missing information,0.002,Demographic and Health Survey - DHS05
+Guinea,GN,GIN,324,Urban,1,Flush and pour flush - to piped sewer system,0.0,Enquete Nacional Sur L'etat Nutritionel et le suivi des principeaux indicateur de suivi de l'enfant - ENS07
+Guinea,GN,GIN,324,Urban,2,Flush and pour flush - to septic tank,0.0,Enquete Nacional Sur L'etat Nutritionel et le suivi des principeaux indicateur de suivi de l'enfant - ENS07
+Guinea,GN,GIN,324,Urban,3,Flush and pour flush - to pit,0.0,Enquete Nacional Sur L'etat Nutritionel et le suivi des principeaux indicateur de suivi de l'enfant - ENS07
+Guinea,GN,GIN,324,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquete Nacional Sur L'etat Nutritionel et le suivi des principeaux indicateur de suivi de l'enfant - ENS07
+Guinea,GN,GIN,324,Urban,5,Flush and pour flush - to elsewhere,0.0,Enquete Nacional Sur L'etat Nutritionel et le suivi des principeaux indicateur de suivi de l'enfant - ENS07
+Guinea,GN,GIN,324,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.136,Enquete Nacional Sur L'etat Nutritionel et le suivi des principeaux indicateur de suivi de l'enfant - ENS07
+Guinea,GN,GIN,324,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.54,Enquete Nacional Sur L'etat Nutritionel et le suivi des principeaux indicateur de suivi de l'enfant - ENS07
+Guinea,GN,GIN,324,Urban,8,Dry latrines - Traditional latrine,0.0,Enquete Nacional Sur L'etat Nutritionel et le suivi des principeaux indicateur de suivi de l'enfant - ENS07
+Guinea,GN,GIN,324,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.204,Enquete Nacional Sur L'etat Nutritionel et le suivi des principeaux indicateur de suivi de l'enfant - ENS07
+Guinea,GN,GIN,324,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquete Nacional Sur L'etat Nutritionel et le suivi des principeaux indicateur de suivi de l'enfant - ENS07
+Guinea,GN,GIN,324,Urban,11,Dry latrines - Bucket latrine,0.0,Enquete Nacional Sur L'etat Nutritionel et le suivi des principeaux indicateur de suivi de l'enfant - ENS07
+Guinea,GN,GIN,324,Urban,12,Dry latrines - Other,0.0,Enquete Nacional Sur L'etat Nutritionel et le suivi des principeaux indicateur de suivi de l'enfant - ENS07
+Guinea,GN,GIN,324,Urban,13,Composting toilets,0.0,Enquete Nacional Sur L'etat Nutritionel et le suivi des principeaux indicateur de suivi de l'enfant - ENS07
+Guinea,GN,GIN,324,Urban,14,Other improved,0.0,Enquete Nacional Sur L'etat Nutritionel et le suivi des principeaux indicateur de suivi de l'enfant - ENS07
+Guinea,GN,GIN,324,Urban,15,"No facility, bush, field",0.023,Enquete Nacional Sur L'etat Nutritionel et le suivi des principeaux indicateur de suivi de l'enfant - ENS07
+Guinea,GN,GIN,324,Urban,16,Other unimproved,0.015,Enquete Nacional Sur L'etat Nutritionel et le suivi des principeaux indicateur de suivi de l'enfant - ENS07
+Guinea,GN,GIN,324,Urban,17,DK/missing information,0.005,Enquete Nacional Sur L'etat Nutritionel et le suivi des principeaux indicateur de suivi de l'enfant - ENS07
+Guinea,GN,GIN,324,Rural,1,Flush and pour flush - to piped sewer system,0.0,Enquete Nacional Sur L'etat Nutritionel et le suivi des principeaux indicateur de suivi de l'enfant - ENS07
+Guinea,GN,GIN,324,Rural,2,Flush and pour flush - to septic tank,0.0,Enquete Nacional Sur L'etat Nutritionel et le suivi des principeaux indicateur de suivi de l'enfant - ENS07
+Guinea,GN,GIN,324,Rural,3,Flush and pour flush - to pit,0.0,Enquete Nacional Sur L'etat Nutritionel et le suivi des principeaux indicateur de suivi de l'enfant - ENS07
+Guinea,GN,GIN,324,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquete Nacional Sur L'etat Nutritionel et le suivi des principeaux indicateur de suivi de l'enfant - ENS07
+Guinea,GN,GIN,324,Rural,5,Flush and pour flush - to elsewhere,0.0,Enquete Nacional Sur L'etat Nutritionel et le suivi des principeaux indicateur de suivi de l'enfant - ENS07
+Guinea,GN,GIN,324,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.031,Enquete Nacional Sur L'etat Nutritionel et le suivi des principeaux indicateur de suivi de l'enfant - ENS07
+Guinea,GN,GIN,324,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.18,Enquete Nacional Sur L'etat Nutritionel et le suivi des principeaux indicateur de suivi de l'enfant - ENS07
+Guinea,GN,GIN,324,Rural,8,Dry latrines - Traditional latrine,0.0,Enquete Nacional Sur L'etat Nutritionel et le suivi des principeaux indicateur de suivi de l'enfant - ENS07
+Guinea,GN,GIN,324,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.409,Enquete Nacional Sur L'etat Nutritionel et le suivi des principeaux indicateur de suivi de l'enfant - ENS07
+Guinea,GN,GIN,324,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquete Nacional Sur L'etat Nutritionel et le suivi des principeaux indicateur de suivi de l'enfant - ENS07
+Guinea,GN,GIN,324,Rural,11,Dry latrines - Bucket latrine,0.0,Enquete Nacional Sur L'etat Nutritionel et le suivi des principeaux indicateur de suivi de l'enfant - ENS07
+Guinea,GN,GIN,324,Rural,12,Dry latrines - Other,0.0,Enquete Nacional Sur L'etat Nutritionel et le suivi des principeaux indicateur de suivi de l'enfant - ENS07
+Guinea,GN,GIN,324,Rural,13,Composting toilets,0.0,Enquete Nacional Sur L'etat Nutritionel et le suivi des principeaux indicateur de suivi de l'enfant - ENS07
+Guinea,GN,GIN,324,Rural,14,Other improved,0.0,Enquete Nacional Sur L'etat Nutritionel et le suivi des principeaux indicateur de suivi de l'enfant - ENS07
+Guinea,GN,GIN,324,Rural,15,"No facility, bush, field",0.318,Enquete Nacional Sur L'etat Nutritionel et le suivi des principeaux indicateur de suivi de l'enfant - ENS07
+Guinea,GN,GIN,324,Rural,16,Other unimproved,0.053,Enquete Nacional Sur L'etat Nutritionel et le suivi des principeaux indicateur de suivi de l'enfant - ENS07
+Guinea,GN,GIN,324,Rural,17,DK/missing information,0.002,Enquete Nacional Sur L'etat Nutritionel et le suivi des principeaux indicateur de suivi de l'enfant - ENS07
+Guinea,GN,GIN,324,National,1,Flush and pour flush - to piped sewer system,0.0,Enquete Nacional Sur L'etat Nutritionel et le suivi des principeaux indicateur de suivi de l'enfant - ENS07
+Guinea,GN,GIN,324,National,2,Flush and pour flush - to septic tank,0.0,Enquete Nacional Sur L'etat Nutritionel et le suivi des principeaux indicateur de suivi de l'enfant - ENS07
+Guinea,GN,GIN,324,National,3,Flush and pour flush - to pit,0.0,Enquete Nacional Sur L'etat Nutritionel et le suivi des principeaux indicateur de suivi de l'enfant - ENS07
+Guinea,GN,GIN,324,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquete Nacional Sur L'etat Nutritionel et le suivi des principeaux indicateur de suivi de l'enfant - ENS07
+Guinea,GN,GIN,324,National,5,Flush and pour flush - to elsewhere,0.0,Enquete Nacional Sur L'etat Nutritionel et le suivi des principeaux indicateur de suivi de l'enfant - ENS07
+Guinea,GN,GIN,324,National,6,Dry latrines - Ventilated Improved Pit latrine,0.064,Enquete Nacional Sur L'etat Nutritionel et le suivi des principeaux indicateur de suivi de l'enfant - ENS07
+Guinea,GN,GIN,324,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.293,Enquete Nacional Sur L'etat Nutritionel et le suivi des principeaux indicateur de suivi de l'enfant - ENS07
+Guinea,GN,GIN,324,National,8,Dry latrines - Traditional latrine,0.0,Enquete Nacional Sur L'etat Nutritionel et le suivi des principeaux indicateur de suivi de l'enfant - ENS07
+Guinea,GN,GIN,324,National,9,Dry latrines - Pit latrine without slab/open pit,0.345,Enquete Nacional Sur L'etat Nutritionel et le suivi des principeaux indicateur de suivi de l'enfant - ENS07
+Guinea,GN,GIN,324,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquete Nacional Sur L'etat Nutritionel et le suivi des principeaux indicateur de suivi de l'enfant - ENS07
+Guinea,GN,GIN,324,National,11,Dry latrines - Bucket latrine,0.0,Enquete Nacional Sur L'etat Nutritionel et le suivi des principeaux indicateur de suivi de l'enfant - ENS07
+Guinea,GN,GIN,324,National,12,Dry latrines - Other,0.0,Enquete Nacional Sur L'etat Nutritionel et le suivi des principeaux indicateur de suivi de l'enfant - ENS07
+Guinea,GN,GIN,324,National,13,Composting toilets,0.0,Enquete Nacional Sur L'etat Nutritionel et le suivi des principeaux indicateur de suivi de l'enfant - ENS07
+Guinea,GN,GIN,324,National,14,Other improved,0.0,Enquete Nacional Sur L'etat Nutritionel et le suivi des principeaux indicateur de suivi de l'enfant - ENS07
+Guinea,GN,GIN,324,National,15,"No facility, bush, field",0.225,Enquete Nacional Sur L'etat Nutritionel et le suivi des principeaux indicateur de suivi de l'enfant - ENS07
+Guinea,GN,GIN,324,National,16,Other unimproved,0.041,Enquete Nacional Sur L'etat Nutritionel et le suivi des principeaux indicateur de suivi de l'enfant - ENS07
+Guinea,GN,GIN,324,National,17,DK/missing information,0.003,Enquete Nacional Sur L'etat Nutritionel et le suivi des principeaux indicateur de suivi de l'enfant - ENS07
 Guinea,GN,GIN,324,Urban,1,Flush and pour flush - to piped sewer system,0.017,Enquête Légère pour l'Evaluation de la Pauvreté (ELEP/QUIBB) - ELEP07
 Guinea,GN,GIN,324,Urban,2,Flush and pour flush - to septic tank,0.074,Enquête Légère pour l'Evaluation de la Pauvreté (ELEP/QUIBB) - ELEP07
 Guinea,GN,GIN,324,Urban,3,Flush and pour flush - to pit,0.0,Enquête Légère pour l'Evaluation de la Pauvreté (ELEP/QUIBB) - ELEP07
@@ -33,6 +288,23 @@ Guinea,GN,GIN,324,Rural,14,Other improved,0.0,Enquête Légère pour l'Evaluatio
 Guinea,GN,GIN,324,Rural,15,"No facility, bush, field",0.283,Enquête Légère pour l'Evaluation de la Pauvreté (ELEP/QUIBB) - ELEP07
 Guinea,GN,GIN,324,Rural,16,Other unimproved,0.001,Enquête Légère pour l'Evaluation de la Pauvreté (ELEP/QUIBB) - ELEP07
 Guinea,GN,GIN,324,Rural,17,DK/missing information,0.007,Enquête Légère pour l'Evaluation de la Pauvreté (ELEP/QUIBB) - ELEP07
+Guinea,GN,GIN,324,National,1,Flush and pour flush - to piped sewer system,0.005,Enquête Légère pour l'Evaluation de la Pauvreté (ELEP/QUIBB) - ELEP07
+Guinea,GN,GIN,324,National,2,Flush and pour flush - to septic tank,0.021,Enquête Légère pour l'Evaluation de la Pauvreté (ELEP/QUIBB) - ELEP07
+Guinea,GN,GIN,324,National,3,Flush and pour flush - to pit,0.0,Enquête Légère pour l'Evaluation de la Pauvreté (ELEP/QUIBB) - ELEP07
+Guinea,GN,GIN,324,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquête Légère pour l'Evaluation de la Pauvreté (ELEP/QUIBB) - ELEP07
+Guinea,GN,GIN,324,National,5,Flush and pour flush - to elsewhere,0.0,Enquête Légère pour l'Evaluation de la Pauvreté (ELEP/QUIBB) - ELEP07
+Guinea,GN,GIN,324,National,6,Dry latrines - Ventilated Improved Pit latrine,0.003,Enquête Légère pour l'Evaluation de la Pauvreté (ELEP/QUIBB) - ELEP07
+Guinea,GN,GIN,324,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.283,Enquête Légère pour l'Evaluation de la Pauvreté (ELEP/QUIBB) - ELEP07
+Guinea,GN,GIN,324,National,8,Dry latrines - Traditional latrine,0.0,Enquête Légère pour l'Evaluation de la Pauvreté (ELEP/QUIBB) - ELEP07
+Guinea,GN,GIN,324,National,9,Dry latrines - Pit latrine without slab/open pit,0.472,Enquête Légère pour l'Evaluation de la Pauvreté (ELEP/QUIBB) - ELEP07
+Guinea,GN,GIN,324,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquête Légère pour l'Evaluation de la Pauvreté (ELEP/QUIBB) - ELEP07
+Guinea,GN,GIN,324,National,11,Dry latrines - Bucket latrine,0.0,Enquête Légère pour l'Evaluation de la Pauvreté (ELEP/QUIBB) - ELEP07
+Guinea,GN,GIN,324,National,12,Dry latrines - Other,0.0,Enquête Légère pour l'Evaluation de la Pauvreté (ELEP/QUIBB) - ELEP07
+Guinea,GN,GIN,324,National,13,Composting toilets,0.0,Enquête Légère pour l'Evaluation de la Pauvreté (ELEP/QUIBB) - ELEP07
+Guinea,GN,GIN,324,National,14,Other improved,0.0,Enquête Légère pour l'Evaluation de la Pauvreté (ELEP/QUIBB) - ELEP07
+Guinea,GN,GIN,324,National,15,"No facility, bush, field",0.208,Enquête Légère pour l'Evaluation de la Pauvreté (ELEP/QUIBB) - ELEP07
+Guinea,GN,GIN,324,National,16,Other unimproved,0.001,Enquête Légère pour l'Evaluation de la Pauvreté (ELEP/QUIBB) - ELEP07
+Guinea,GN,GIN,324,National,17,DK/missing information,0.007,Enquête Légère pour l'Evaluation de la Pauvreté (ELEP/QUIBB) - ELEP07
 Guinea,GN,GIN,324,Urban,1,Flush and pour flush - to piped sewer system,0.041,Enquête Légère pour l'Evaluation de la Pauvreté (ELEP) - ELEP12
 Guinea,GN,GIN,324,Urban,2,Flush and pour flush - to septic tank,0.106,Enquête Légère pour l'Evaluation de la Pauvreté (ELEP) - ELEP12
 Guinea,GN,GIN,324,Urban,3,Flush and pour flush - to pit,0.0,Enquête Légère pour l'Evaluation de la Pauvreté (ELEP) - ELEP12
@@ -67,6 +339,23 @@ Guinea,GN,GIN,324,Rural,14,Other improved,0.0,Enquête Légère pour l'Evaluatio
 Guinea,GN,GIN,324,Rural,15,"No facility, bush, field",0.268,Enquête Légère pour l'Evaluation de la Pauvreté (ELEP) - ELEP12
 Guinea,GN,GIN,324,Rural,16,Other unimproved,0.01,Enquête Légère pour l'Evaluation de la Pauvreté (ELEP) - ELEP12
 Guinea,GN,GIN,324,Rural,17,DK/missing information,0.0,Enquête Légère pour l'Evaluation de la Pauvreté (ELEP) - ELEP12
+Guinea,GN,GIN,324,National,1,Flush and pour flush - to piped sewer system,0.015,Enquête Légère pour l'Evaluation de la Pauvreté (ELEP) - ELEP12
+Guinea,GN,GIN,324,National,2,Flush and pour flush - to septic tank,0.035,Enquête Légère pour l'Evaluation de la Pauvreté (ELEP) - ELEP12
+Guinea,GN,GIN,324,National,3,Flush and pour flush - to pit,0.0,Enquête Légère pour l'Evaluation de la Pauvreté (ELEP) - ELEP12
+Guinea,GN,GIN,324,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquête Légère pour l'Evaluation de la Pauvreté (ELEP) - ELEP12
+Guinea,GN,GIN,324,National,5,Flush and pour flush - to elsewhere,0.0,Enquête Légère pour l'Evaluation de la Pauvreté (ELEP) - ELEP12
+Guinea,GN,GIN,324,National,6,Dry latrines - Ventilated Improved Pit latrine,0.039,Enquête Légère pour l'Evaluation de la Pauvreté (ELEP) - ELEP12
+Guinea,GN,GIN,324,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.243,Enquête Légère pour l'Evaluation de la Pauvreté (ELEP) - ELEP12
+Guinea,GN,GIN,324,National,8,Dry latrines - Traditional latrine,0.0,Enquête Légère pour l'Evaluation de la Pauvreté (ELEP) - ELEP12
+Guinea,GN,GIN,324,National,9,Dry latrines - Pit latrine without slab/open pit,0.464,Enquête Légère pour l'Evaluation de la Pauvreté (ELEP) - ELEP12
+Guinea,GN,GIN,324,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquête Légère pour l'Evaluation de la Pauvreté (ELEP) - ELEP12
+Guinea,GN,GIN,324,National,11,Dry latrines - Bucket latrine,0.0,Enquête Légère pour l'Evaluation de la Pauvreté (ELEP) - ELEP12
+Guinea,GN,GIN,324,National,12,Dry latrines - Other,0.0,Enquête Légère pour l'Evaluation de la Pauvreté (ELEP) - ELEP12
+Guinea,GN,GIN,324,National,13,Composting toilets,0.0,Enquête Légère pour l'Evaluation de la Pauvreté (ELEP) - ELEP12
+Guinea,GN,GIN,324,National,14,Other improved,0.0,Enquête Légère pour l'Evaluation de la Pauvreté (ELEP) - ELEP12
+Guinea,GN,GIN,324,National,15,"No facility, bush, field",0.193,Enquête Légère pour l'Evaluation de la Pauvreté (ELEP) - ELEP12
+Guinea,GN,GIN,324,National,16,Other unimproved,0.01,Enquête Légère pour l'Evaluation de la Pauvreté (ELEP) - ELEP12
+Guinea,GN,GIN,324,National,17,DK/missing information,0.0,Enquête Légère pour l'Evaluation de la Pauvreté (ELEP) - ELEP12
 Guinea,GN,GIN,324,Urban,1,Flush and pour flush - to piped sewer system,0.073,Demographic and Health Survey - DHS12
 Guinea,GN,GIN,324,Urban,2,Flush and pour flush - to septic tank,0.301,Demographic and Health Survey - DHS12
 Guinea,GN,GIN,324,Urban,3,Flush and pour flush - to pit,0.083,Demographic and Health Survey - DHS12
@@ -117,6 +406,82 @@ Guinea,GN,GIN,324,Rural,14,Other improved,0.0,Demographic and Health Survey - DH
 Guinea,GN,GIN,324,Rural,15,"No facility, bush, field",0.287,Demographic and Health Survey - DHS12
 Guinea,GN,GIN,324,Rural,16,Other unimproved,0.001,Demographic and Health Survey - DHS12
 Guinea,GN,GIN,324,Rural,17,DK/missing information,0.0,Demographic and Health Survey - DHS12
+Guinea,GN,GIN,324,National,1,Flush and pour flush - to piped sewer system,0.029,Demographic and Health Survey - DHS12
+Guinea,GN,GIN,324,National,2,Flush and pour flush - to septic tank,0.116,Demographic and Health Survey - DHS12
+Guinea,GN,GIN,324,National,3,Flush and pour flush - to pit,0.037,Demographic and Health Survey - DHS12
+Guinea,GN,GIN,324,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS12
+Guinea,GN,GIN,324,National,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS12
+Guinea,GN,GIN,324,National,6,Dry latrines - Ventilated Improved Pit latrine,0.025,Demographic and Health Survey - DHS12
+Guinea,GN,GIN,324,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.235,Demographic and Health Survey - DHS12
+Guinea,GN,GIN,324,National,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS12
+Guinea,GN,GIN,324,National,9,Dry latrines - Pit latrine without slab/open pit,0.38,Demographic and Health Survey - DHS12
+Guinea,GN,GIN,324,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS12
+Guinea,GN,GIN,324,National,11,Dry latrines - Bucket latrine,0.002,Demographic and Health Survey - DHS12
+Guinea,GN,GIN,324,National,6,Dry latrines - Ventilated Improved Pit latrine,0.015,Demographic and Health Survey - DHS12
+Guinea,GN,GIN,324,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.103,Demographic and Health Survey - DHS12
+Guinea,GN,GIN,324,National,6,Dry latrines - Ventilated Improved Pit latrine,0.01,Demographic and Health Survey - DHS12
+Guinea,GN,GIN,324,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.132,Demographic and Health Survey - DHS12
+Guinea,GN,GIN,324,National,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS12
+Guinea,GN,GIN,324,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Survey - DHS12
+Guinea,GN,GIN,324,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS12
+Guinea,GN,GIN,324,National,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS12
+Guinea,GN,GIN,324,National,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS12
+Guinea,GN,GIN,324,National,13,Composting toilets,0.001,Demographic and Health Survey - DHS12
+Guinea,GN,GIN,324,National,14,Other improved,0.0,Demographic and Health Survey - DHS12
+Guinea,GN,GIN,324,National,15,"No facility, bush, field",0.173,Demographic and Health Survey - DHS12
+Guinea,GN,GIN,324,National,16,Other unimproved,0.0,Demographic and Health Survey - DHS12
+Guinea,GN,GIN,324,National,17,DK/missing information,0.0,Demographic and Health Survey - DHS12
+Guinea,GN,GIN,324,Urban,1,Flush and pour flush - to piped sewer system,0.0,Recensement General de la Population et de l'Habitation - CEN14
+Guinea,GN,GIN,324,Urban,2,Flush and pour flush - to septic tank,0.0,Recensement General de la Population et de l'Habitation - CEN14
+Guinea,GN,GIN,324,Urban,3,Flush and pour flush - to pit,0.0,Recensement General de la Population et de l'Habitation - CEN14
+Guinea,GN,GIN,324,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Recensement General de la Population et de l'Habitation - CEN14
+Guinea,GN,GIN,324,Urban,5,Flush and pour flush - to elsewhere,0.0,Recensement General de la Population et de l'Habitation - CEN14
+Guinea,GN,GIN,324,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.25,Recensement General de la Population et de l'Habitation - CEN14
+Guinea,GN,GIN,324,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.237,Recensement General de la Population et de l'Habitation - CEN14
+Guinea,GN,GIN,324,Urban,8,Dry latrines - Traditional latrine,0.0,Recensement General de la Population et de l'Habitation - CEN14
+Guinea,GN,GIN,324,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.191,Recensement General de la Population et de l'Habitation - CEN14
+Guinea,GN,GIN,324,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Recensement General de la Population et de l'Habitation - CEN14
+Guinea,GN,GIN,324,Urban,11,Dry latrines - Bucket latrine,0.0,Recensement General de la Population et de l'Habitation - CEN14
+Guinea,GN,GIN,324,Urban,12,Dry latrines - Other,0.0,Recensement General de la Population et de l'Habitation - CEN14
+Guinea,GN,GIN,324,Urban,13,Composting toilets,0.0,Recensement General de la Population et de l'Habitation - CEN14
+Guinea,GN,GIN,324,Urban,14,Other improved,0.035,Recensement General de la Population et de l'Habitation - CEN14
+Guinea,GN,GIN,324,Urban,15,"No facility, bush, field",0.011,Recensement General de la Population et de l'Habitation - CEN14
+Guinea,GN,GIN,324,Urban,16,Other unimproved,0.156,Recensement General de la Population et de l'Habitation - CEN14
+Guinea,GN,GIN,324,Urban,17,DK/missing information,0.0,Recensement General de la Population et de l'Habitation - CEN14
+Guinea,GN,GIN,324,Rural,1,Flush and pour flush - to piped sewer system,0.0,Recensement General de la Population et de l'Habitation - CEN14
+Guinea,GN,GIN,324,Rural,2,Flush and pour flush - to septic tank,0.0,Recensement General de la Population et de l'Habitation - CEN14
+Guinea,GN,GIN,324,Rural,3,Flush and pour flush - to pit,0.0,Recensement General de la Population et de l'Habitation - CEN14
+Guinea,GN,GIN,324,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Recensement General de la Population et de l'Habitation - CEN14
+Guinea,GN,GIN,324,Rural,5,Flush and pour flush - to elsewhere,0.0,Recensement General de la Population et de l'Habitation - CEN14
+Guinea,GN,GIN,324,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.039,Recensement General de la Population et de l'Habitation - CEN14
+Guinea,GN,GIN,324,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.125,Recensement General de la Population et de l'Habitation - CEN14
+Guinea,GN,GIN,324,Rural,8,Dry latrines - Traditional latrine,0.0,Recensement General de la Population et de l'Habitation - CEN14
+Guinea,GN,GIN,324,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.235,Recensement General de la Population et de l'Habitation - CEN14
+Guinea,GN,GIN,324,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Recensement General de la Population et de l'Habitation - CEN14
+Guinea,GN,GIN,324,Rural,11,Dry latrines - Bucket latrine,0.0,Recensement General de la Population et de l'Habitation - CEN14
+Guinea,GN,GIN,324,Rural,12,Dry latrines - Other,0.0,Recensement General de la Population et de l'Habitation - CEN14
+Guinea,GN,GIN,324,Rural,13,Composting toilets,0.0,Recensement General de la Population et de l'Habitation - CEN14
+Guinea,GN,GIN,324,Rural,14,Other improved,0.191,Recensement General de la Population et de l'Habitation - CEN14
+Guinea,GN,GIN,324,Rural,15,"No facility, bush, field",0.346,Recensement General de la Population et de l'Habitation - CEN14
+Guinea,GN,GIN,324,Rural,16,Other unimproved,0.04,Recensement General de la Population et de l'Habitation - CEN14
+Guinea,GN,GIN,324,Rural,17,DK/missing information,0.0,Recensement General de la Population et de l'Habitation - CEN14
+Guinea,GN,GIN,324,National,1,Flush and pour flush - to piped sewer system,0.0,Recensement General de la Population et de l'Habitation - CEN14
+Guinea,GN,GIN,324,National,2,Flush and pour flush - to septic tank,0.0,Recensement General de la Population et de l'Habitation - CEN14
+Guinea,GN,GIN,324,National,3,Flush and pour flush - to pit,0.0,Recensement General de la Population et de l'Habitation - CEN14
+Guinea,GN,GIN,324,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Recensement General de la Population et de l'Habitation - CEN14
+Guinea,GN,GIN,324,National,5,Flush and pour flush - to elsewhere,0.0,Recensement General de la Population et de l'Habitation - CEN14
+Guinea,GN,GIN,324,National,6,Dry latrines - Ventilated Improved Pit latrine,0.111,Recensement General de la Population et de l'Habitation - CEN14
+Guinea,GN,GIN,324,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.163,Recensement General de la Population et de l'Habitation - CEN14
+Guinea,GN,GIN,324,National,8,Dry latrines - Traditional latrine,0.0,Recensement General de la Population et de l'Habitation - CEN14
+Guinea,GN,GIN,324,National,9,Dry latrines - Pit latrine without slab/open pit,0.22,Recensement General de la Population et de l'Habitation - CEN14
+Guinea,GN,GIN,324,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Recensement General de la Population et de l'Habitation - CEN14
+Guinea,GN,GIN,324,National,11,Dry latrines - Bucket latrine,0.0,Recensement General de la Population et de l'Habitation - CEN14
+Guinea,GN,GIN,324,National,12,Dry latrines - Other,0.0,Recensement General de la Population et de l'Habitation - CEN14
+Guinea,GN,GIN,324,National,13,Composting toilets,0.0,Recensement General de la Population et de l'Habitation - CEN14
+Guinea,GN,GIN,324,National,14,Other improved,0.138,Recensement General de la Population et de l'Habitation - CEN14
+Guinea,GN,GIN,324,National,15,"No facility, bush, field",0.231,Recensement General de la Population et de l'Habitation - CEN14
+Guinea,GN,GIN,324,National,16,Other unimproved,0.08,Recensement General de la Population et de l'Habitation - CEN14
+Guinea,GN,GIN,324,National,17,DK/missing information,0.0,Recensement General de la Population et de l'Habitation - CEN14
 Guinea,GN,GIN,324,Urban,1,Flush and pour flush - to piped sewer system,0.027,Multiple Indicator Cluster Survey - MICS16
 Guinea,GN,GIN,324,Urban,2,Flush and pour flush - to septic tank,0.245,Multiple Indicator Cluster Survey - MICS16
 Guinea,GN,GIN,324,Urban,3,Flush and pour flush - to pit,0.073,Multiple Indicator Cluster Survey - MICS16
@@ -151,3 +516,20 @@ Guinea,GN,GIN,324,Rural,14,Other improved,0.0,Multiple Indicator Cluster Survey 
 Guinea,GN,GIN,324,Rural,15,"No facility, bush, field",0.212,Multiple Indicator Cluster Survey - MICS16
 Guinea,GN,GIN,324,Rural,16,Other unimproved,0.0,Multiple Indicator Cluster Survey - MICS16
 Guinea,GN,GIN,324,Rural,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS16
+Guinea,GN,GIN,324,National,1,Flush and pour flush - to piped sewer system,0.011,Multiple Indicator Cluster Survey - MICS16
+Guinea,GN,GIN,324,National,2,Flush and pour flush - to septic tank,0.11,Multiple Indicator Cluster Survey - MICS16
+Guinea,GN,GIN,324,National,3,Flush and pour flush - to pit,0.044,Multiple Indicator Cluster Survey - MICS16
+Guinea,GN,GIN,324,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.001,Multiple Indicator Cluster Survey - MICS16
+Guinea,GN,GIN,324,National,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS16
+Guinea,GN,GIN,324,National,6,Dry latrines - Ventilated Improved Pit latrine,0.04,Multiple Indicator Cluster Survey - MICS16
+Guinea,GN,GIN,324,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.321,Multiple Indicator Cluster Survey - MICS16
+Guinea,GN,GIN,324,National,8,Dry latrines - Traditional latrine,0.0,Multiple Indicator Cluster Survey - MICS16
+Guinea,GN,GIN,324,National,9,Dry latrines - Pit latrine without slab/open pit,0.29,Multiple Indicator Cluster Survey - MICS16
+Guinea,GN,GIN,324,National,10,Dry latrines - Hanging toilet/hanging latrine,0.041,Multiple Indicator Cluster Survey - MICS16
+Guinea,GN,GIN,324,National,11,Dry latrines - Bucket latrine,0.001,Multiple Indicator Cluster Survey - MICS16
+Guinea,GN,GIN,324,National,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS16
+Guinea,GN,GIN,324,National,13,Composting toilets,0.008,Multiple Indicator Cluster Survey - MICS16
+Guinea,GN,GIN,324,National,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS16
+Guinea,GN,GIN,324,National,15,"No facility, bush, field",0.133,Multiple Indicator Cluster Survey - MICS16
+Guinea,GN,GIN,324,National,16,Other unimproved,0.0,Multiple Indicator Cluster Survey - MICS16
+Guinea,GN,GIN,324,National,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS16

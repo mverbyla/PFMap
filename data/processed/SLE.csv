@@ -1,4 +1,173 @@
 country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+Sierra Leone,SL,SLE,694,Urban,1,Flush and pour flush - to piped sewer system,0.0,Multiple Indicator Cluster Survey - MICS00
+Sierra Leone,SL,SLE,694,Urban,2,Flush and pour flush - to septic tank,0.0,Multiple Indicator Cluster Survey - MICS00
+Sierra Leone,SL,SLE,694,Urban,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Sierra Leone,SL,SLE,694,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS00
+Sierra Leone,SL,SLE,694,Urban,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS00
+Sierra Leone,SL,SLE,694,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Sierra Leone,SL,SLE,694,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.03,Multiple Indicator Cluster Survey - MICS00
+Sierra Leone,SL,SLE,694,Urban,8,Dry latrines - Traditional latrine,0.699,Multiple Indicator Cluster Survey - MICS00
+Sierra Leone,SL,SLE,694,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.038,Multiple Indicator Cluster Survey - MICS00
+Sierra Leone,SL,SLE,694,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Sierra Leone,SL,SLE,694,Urban,11,Dry latrines - Bucket latrine,0.001,Multiple Indicator Cluster Survey - MICS00
+Sierra Leone,SL,SLE,694,Urban,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS00
+Sierra Leone,SL,SLE,694,Urban,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS00
+Sierra Leone,SL,SLE,694,Urban,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS00
+Sierra Leone,SL,SLE,694,Urban,15,"No facility, bush, field",0.033,Multiple Indicator Cluster Survey - MICS00
+Sierra Leone,SL,SLE,694,Urban,16,Other unimproved,0.044,Multiple Indicator Cluster Survey - MICS00
+Sierra Leone,SL,SLE,694,Urban,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS00
+Sierra Leone,SL,SLE,694,Rural,1,Flush and pour flush - to piped sewer system,0.0,Multiple Indicator Cluster Survey - MICS00
+Sierra Leone,SL,SLE,694,Rural,2,Flush and pour flush - to septic tank,0.0,Multiple Indicator Cluster Survey - MICS00
+Sierra Leone,SL,SLE,694,Rural,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Sierra Leone,SL,SLE,694,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS00
+Sierra Leone,SL,SLE,694,Rural,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS00
+Sierra Leone,SL,SLE,694,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Sierra Leone,SL,SLE,694,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.053,Multiple Indicator Cluster Survey - MICS00
+Sierra Leone,SL,SLE,694,Rural,8,Dry latrines - Traditional latrine,0.468,Multiple Indicator Cluster Survey - MICS00
+Sierra Leone,SL,SLE,694,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.158,Multiple Indicator Cluster Survey - MICS00
+Sierra Leone,SL,SLE,694,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Sierra Leone,SL,SLE,694,Rural,11,Dry latrines - Bucket latrine,0.002,Multiple Indicator Cluster Survey - MICS00
+Sierra Leone,SL,SLE,694,Rural,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS00
+Sierra Leone,SL,SLE,694,Rural,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS00
+Sierra Leone,SL,SLE,694,Rural,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS00
+Sierra Leone,SL,SLE,694,Rural,15,"No facility, bush, field",0.21,Multiple Indicator Cluster Survey - MICS00
+Sierra Leone,SL,SLE,694,Rural,16,Other unimproved,0.1,Multiple Indicator Cluster Survey - MICS00
+Sierra Leone,SL,SLE,694,Rural,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS00
+Sierra Leone,SL,SLE,694,National,1,Flush and pour flush - to piped sewer system,0.0,Multiple Indicator Cluster Survey - MICS00
+Sierra Leone,SL,SLE,694,National,2,Flush and pour flush - to septic tank,0.0,Multiple Indicator Cluster Survey - MICS00
+Sierra Leone,SL,SLE,694,National,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Sierra Leone,SL,SLE,694,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS00
+Sierra Leone,SL,SLE,694,National,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS00
+Sierra Leone,SL,SLE,694,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Sierra Leone,SL,SLE,694,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Sierra Leone,SL,SLE,694,National,8,Dry latrines - Traditional latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Sierra Leone,SL,SLE,694,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Sierra Leone,SL,SLE,694,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Sierra Leone,SL,SLE,694,National,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Sierra Leone,SL,SLE,694,National,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS00
+Sierra Leone,SL,SLE,694,National,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS00
+Sierra Leone,SL,SLE,694,National,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS00
+Sierra Leone,SL,SLE,694,National,15,"No facility, bush, field",0.0,Multiple Indicator Cluster Survey - MICS00
+Sierra Leone,SL,SLE,694,National,16,Other unimproved,0.0,Multiple Indicator Cluster Survey - MICS00
+Sierra Leone,SL,SLE,694,National,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS00
+Sierra Leone,SL,SLE,694,Urban,1,Flush and pour flush - to piped sewer system,0.0,INTEGRATED HOUSEHOLD SURVEY - IHS03
+Sierra Leone,SL,SLE,694,Urban,2,Flush and pour flush - to septic tank,0.0,INTEGRATED HOUSEHOLD SURVEY - IHS03
+Sierra Leone,SL,SLE,694,Urban,3,Flush and pour flush - to pit,0.0,INTEGRATED HOUSEHOLD SURVEY - IHS03
+Sierra Leone,SL,SLE,694,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,INTEGRATED HOUSEHOLD SURVEY - IHS03
+Sierra Leone,SL,SLE,694,Urban,5,Flush and pour flush - to elsewhere,0.0,INTEGRATED HOUSEHOLD SURVEY - IHS03
+Sierra Leone,SL,SLE,694,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.004,INTEGRATED HOUSEHOLD SURVEY - IHS03
+Sierra Leone,SL,SLE,694,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,INTEGRATED HOUSEHOLD SURVEY - IHS03
+Sierra Leone,SL,SLE,694,Urban,8,Dry latrines - Traditional latrine,0.859,INTEGRATED HOUSEHOLD SURVEY - IHS03
+Sierra Leone,SL,SLE,694,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,INTEGRATED HOUSEHOLD SURVEY - IHS03
+Sierra Leone,SL,SLE,694,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,INTEGRATED HOUSEHOLD SURVEY - IHS03
+Sierra Leone,SL,SLE,694,Urban,11,Dry latrines - Bucket latrine,0.007,INTEGRATED HOUSEHOLD SURVEY - IHS03
+Sierra Leone,SL,SLE,694,Urban,8,Dry latrines - Traditional latrine,0.364,INTEGRATED HOUSEHOLD SURVEY - IHS03
+Sierra Leone,SL,SLE,694,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,INTEGRATED HOUSEHOLD SURVEY - IHS03
+Sierra Leone,SL,SLE,694,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,INTEGRATED HOUSEHOLD SURVEY - IHS03
+Sierra Leone,SL,SLE,694,Urban,11,Dry latrines - Bucket latrine,0.005,INTEGRATED HOUSEHOLD SURVEY - IHS03
+Sierra Leone,SL,SLE,694,Urban,8,Dry latrines - Traditional latrine,0.495,INTEGRATED HOUSEHOLD SURVEY - IHS03
+Sierra Leone,SL,SLE,694,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,INTEGRATED HOUSEHOLD SURVEY - IHS03
+Sierra Leone,SL,SLE,694,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,INTEGRATED HOUSEHOLD SURVEY - IHS03
+Sierra Leone,SL,SLE,694,Urban,11,Dry latrines - Bucket latrine,0.002,INTEGRATED HOUSEHOLD SURVEY - IHS03
+Sierra Leone,SL,SLE,694,Urban,12,Dry latrines - Other,0.0,INTEGRATED HOUSEHOLD SURVEY - IHS03
+Sierra Leone,SL,SLE,694,Urban,13,Composting toilets,0.0,INTEGRATED HOUSEHOLD SURVEY - IHS03
+Sierra Leone,SL,SLE,694,Urban,14,Other improved,0.0,INTEGRATED HOUSEHOLD SURVEY - IHS03
+Sierra Leone,SL,SLE,694,Urban,15,"No facility, bush, field",0.022,INTEGRATED HOUSEHOLD SURVEY - IHS03
+Sierra Leone,SL,SLE,694,Urban,16,Other unimproved,0.015,INTEGRATED HOUSEHOLD SURVEY - IHS03
+Sierra Leone,SL,SLE,694,Urban,17,DK/missing information,0.0,INTEGRATED HOUSEHOLD SURVEY - IHS03
+Sierra Leone,SL,SLE,694,Rural,1,Flush and pour flush - to piped sewer system,0.0,INTEGRATED HOUSEHOLD SURVEY - IHS03
+Sierra Leone,SL,SLE,694,Rural,2,Flush and pour flush - to septic tank,0.0,INTEGRATED HOUSEHOLD SURVEY - IHS03
+Sierra Leone,SL,SLE,694,Rural,3,Flush and pour flush - to pit,0.0,INTEGRATED HOUSEHOLD SURVEY - IHS03
+Sierra Leone,SL,SLE,694,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,INTEGRATED HOUSEHOLD SURVEY - IHS03
+Sierra Leone,SL,SLE,694,Rural,5,Flush and pour flush - to elsewhere,0.0,INTEGRATED HOUSEHOLD SURVEY - IHS03
+Sierra Leone,SL,SLE,694,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.012,INTEGRATED HOUSEHOLD SURVEY - IHS03
+Sierra Leone,SL,SLE,694,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,INTEGRATED HOUSEHOLD SURVEY - IHS03
+Sierra Leone,SL,SLE,694,Rural,8,Dry latrines - Traditional latrine,0.559,INTEGRATED HOUSEHOLD SURVEY - IHS03
+Sierra Leone,SL,SLE,694,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,INTEGRATED HOUSEHOLD SURVEY - IHS03
+Sierra Leone,SL,SLE,694,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,INTEGRATED HOUSEHOLD SURVEY - IHS03
+Sierra Leone,SL,SLE,694,Rural,11,Dry latrines - Bucket latrine,0.008,INTEGRATED HOUSEHOLD SURVEY - IHS03
+Sierra Leone,SL,SLE,694,Rural,8,Dry latrines - Traditional latrine,0.158,INTEGRATED HOUSEHOLD SURVEY - IHS03
+Sierra Leone,SL,SLE,694,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,INTEGRATED HOUSEHOLD SURVEY - IHS03
+Sierra Leone,SL,SLE,694,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,INTEGRATED HOUSEHOLD SURVEY - IHS03
+Sierra Leone,SL,SLE,694,Rural,11,Dry latrines - Bucket latrine,0.002,INTEGRATED HOUSEHOLD SURVEY - IHS03
+Sierra Leone,SL,SLE,694,Rural,8,Dry latrines - Traditional latrine,0.401,INTEGRATED HOUSEHOLD SURVEY - IHS03
+Sierra Leone,SL,SLE,694,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,INTEGRATED HOUSEHOLD SURVEY - IHS03
+Sierra Leone,SL,SLE,694,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,INTEGRATED HOUSEHOLD SURVEY - IHS03
+Sierra Leone,SL,SLE,694,Rural,11,Dry latrines - Bucket latrine,0.006,INTEGRATED HOUSEHOLD SURVEY - IHS03
+Sierra Leone,SL,SLE,694,Rural,12,Dry latrines - Other,0.0,INTEGRATED HOUSEHOLD SURVEY - IHS03
+Sierra Leone,SL,SLE,694,Rural,13,Composting toilets,0.0,INTEGRATED HOUSEHOLD SURVEY - IHS03
+Sierra Leone,SL,SLE,694,Rural,14,Other improved,0.0,INTEGRATED HOUSEHOLD SURVEY - IHS03
+Sierra Leone,SL,SLE,694,Rural,15,"No facility, bush, field",0.378,INTEGRATED HOUSEHOLD SURVEY - IHS03
+Sierra Leone,SL,SLE,694,Rural,16,Other unimproved,0.022,INTEGRATED HOUSEHOLD SURVEY - IHS03
+Sierra Leone,SL,SLE,694,Rural,17,DK/missing information,0.0,INTEGRATED HOUSEHOLD SURVEY - IHS03
+Sierra Leone,SL,SLE,694,National,1,Flush and pour flush - to piped sewer system,0.0,INTEGRATED HOUSEHOLD SURVEY - IHS03
+Sierra Leone,SL,SLE,694,National,2,Flush and pour flush - to septic tank,0.0,INTEGRATED HOUSEHOLD SURVEY - IHS03
+Sierra Leone,SL,SLE,694,National,3,Flush and pour flush - to pit,0.0,INTEGRATED HOUSEHOLD SURVEY - IHS03
+Sierra Leone,SL,SLE,694,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,INTEGRATED HOUSEHOLD SURVEY - IHS03
+Sierra Leone,SL,SLE,694,National,5,Flush and pour flush - to elsewhere,0.0,INTEGRATED HOUSEHOLD SURVEY - IHS03
+Sierra Leone,SL,SLE,694,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,INTEGRATED HOUSEHOLD SURVEY - IHS03
+Sierra Leone,SL,SLE,694,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,INTEGRATED HOUSEHOLD SURVEY - IHS03
+Sierra Leone,SL,SLE,694,National,8,Dry latrines - Traditional latrine,0.0,INTEGRATED HOUSEHOLD SURVEY - IHS03
+Sierra Leone,SL,SLE,694,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,INTEGRATED HOUSEHOLD SURVEY - IHS03
+Sierra Leone,SL,SLE,694,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,INTEGRATED HOUSEHOLD SURVEY - IHS03
+Sierra Leone,SL,SLE,694,National,11,Dry latrines - Bucket latrine,0.0,INTEGRATED HOUSEHOLD SURVEY - IHS03
+Sierra Leone,SL,SLE,694,National,12,Dry latrines - Other,0.0,INTEGRATED HOUSEHOLD SURVEY - IHS03
+Sierra Leone,SL,SLE,694,National,13,Composting toilets,0.0,INTEGRATED HOUSEHOLD SURVEY - IHS03
+Sierra Leone,SL,SLE,694,National,14,Other improved,0.0,INTEGRATED HOUSEHOLD SURVEY - IHS03
+Sierra Leone,SL,SLE,694,National,15,"No facility, bush, field",0.0,INTEGRATED HOUSEHOLD SURVEY - IHS03
+Sierra Leone,SL,SLE,694,National,16,Other unimproved,0.0,INTEGRATED HOUSEHOLD SURVEY - IHS03
+Sierra Leone,SL,SLE,694,National,17,DK/missing information,0.0,INTEGRATED HOUSEHOLD SURVEY - IHS03
+Sierra Leone,SL,SLE,694,Urban,1,Flush and pour flush - to piped sewer system,0.0,Census - CEN04
+Sierra Leone,SL,SLE,694,Urban,2,Flush and pour flush - to septic tank,0.0,Census - CEN04
+Sierra Leone,SL,SLE,694,Urban,3,Flush and pour flush - to pit,0.0,Census - CEN04
+Sierra Leone,SL,SLE,694,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN04
+Sierra Leone,SL,SLE,694,Urban,5,Flush and pour flush - to elsewhere,0.0,Census - CEN04
+Sierra Leone,SL,SLE,694,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.015,Census - CEN04
+Sierra Leone,SL,SLE,694,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN04
+Sierra Leone,SL,SLE,694,Urban,8,Dry latrines - Traditional latrine,0.751,Census - CEN04
+Sierra Leone,SL,SLE,694,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN04
+Sierra Leone,SL,SLE,694,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN04
+Sierra Leone,SL,SLE,694,Urban,11,Dry latrines - Bucket latrine,0.002,Census - CEN04
+Sierra Leone,SL,SLE,694,Urban,12,Dry latrines - Other,0.0,Census - CEN04
+Sierra Leone,SL,SLE,694,Urban,13,Composting toilets,0.0,Census - CEN04
+Sierra Leone,SL,SLE,694,Urban,14,Other improved,0.0,Census - CEN04
+Sierra Leone,SL,SLE,694,Urban,15,"No facility, bush, field",0.106,Census - CEN04
+Sierra Leone,SL,SLE,694,Urban,16,Other unimproved,0.01,Census - CEN04
+Sierra Leone,SL,SLE,694,Urban,17,DK/missing information,0.055,Census - CEN04
+Sierra Leone,SL,SLE,694,Rural,1,Flush and pour flush - to piped sewer system,0.0,Census - CEN04
+Sierra Leone,SL,SLE,694,Rural,2,Flush and pour flush - to septic tank,0.0,Census - CEN04
+Sierra Leone,SL,SLE,694,Rural,3,Flush and pour flush - to pit,0.0,Census - CEN04
+Sierra Leone,SL,SLE,694,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN04
+Sierra Leone,SL,SLE,694,Rural,5,Flush and pour flush - to elsewhere,0.0,Census - CEN04
+Sierra Leone,SL,SLE,694,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.015,Census - CEN04
+Sierra Leone,SL,SLE,694,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN04
+Sierra Leone,SL,SLE,694,Rural,8,Dry latrines - Traditional latrine,0.502,Census - CEN04
+Sierra Leone,SL,SLE,694,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN04
+Sierra Leone,SL,SLE,694,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN04
+Sierra Leone,SL,SLE,694,Rural,11,Dry latrines - Bucket latrine,0.0,Census - CEN04
+Sierra Leone,SL,SLE,694,Rural,12,Dry latrines - Other,0.0,Census - CEN04
+Sierra Leone,SL,SLE,694,Rural,13,Composting toilets,0.0,Census - CEN04
+Sierra Leone,SL,SLE,694,Rural,14,Other improved,0.0,Census - CEN04
+Sierra Leone,SL,SLE,694,Rural,15,"No facility, bush, field",0.444,Census - CEN04
+Sierra Leone,SL,SLE,694,Rural,16,Other unimproved,0.008,Census - CEN04
+Sierra Leone,SL,SLE,694,Rural,17,DK/missing information,0.027,Census - CEN04
+Sierra Leone,SL,SLE,694,National,1,Flush and pour flush - to piped sewer system,0.0,Census - CEN04
+Sierra Leone,SL,SLE,694,National,2,Flush and pour flush - to septic tank,0.0,Census - CEN04
+Sierra Leone,SL,SLE,694,National,3,Flush and pour flush - to pit,0.0,Census - CEN04
+Sierra Leone,SL,SLE,694,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN04
+Sierra Leone,SL,SLE,694,National,5,Flush and pour flush - to elsewhere,0.0,Census - CEN04
+Sierra Leone,SL,SLE,694,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN04
+Sierra Leone,SL,SLE,694,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN04
+Sierra Leone,SL,SLE,694,National,8,Dry latrines - Traditional latrine,0.0,Census - CEN04
+Sierra Leone,SL,SLE,694,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN04
+Sierra Leone,SL,SLE,694,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN04
+Sierra Leone,SL,SLE,694,National,11,Dry latrines - Bucket latrine,0.0,Census - CEN04
+Sierra Leone,SL,SLE,694,National,12,Dry latrines - Other,0.0,Census - CEN04
+Sierra Leone,SL,SLE,694,National,13,Composting toilets,0.0,Census - CEN04
+Sierra Leone,SL,SLE,694,National,14,Other improved,0.0,Census - CEN04
+Sierra Leone,SL,SLE,694,National,15,"No facility, bush, field",0.0,Census - CEN04
+Sierra Leone,SL,SLE,694,National,16,Other unimproved,0.0,Census - CEN04
+Sierra Leone,SL,SLE,694,National,17,DK/missing information,0.0,Census - CEN04
 Sierra Leone,SL,SLE,694,Urban,1,Flush and pour flush - to piped sewer system,0.017,Multiple Indicator Cluster Survey - MICS05
 Sierra Leone,SL,SLE,694,Urban,2,Flush and pour flush - to septic tank,0.063,Multiple Indicator Cluster Survey - MICS05
 Sierra Leone,SL,SLE,694,Urban,3,Flush and pour flush - to pit,0.022,Multiple Indicator Cluster Survey - MICS05
@@ -33,6 +202,23 @@ Sierra Leone,SL,SLE,694,Rural,14,Other improved,0.0,Multiple Indicator Cluster S
 Sierra Leone,SL,SLE,694,Rural,15,"No facility, bush, field",0.422,Multiple Indicator Cluster Survey - MICS05
 Sierra Leone,SL,SLE,694,Rural,16,Other unimproved,0.03,Multiple Indicator Cluster Survey - MICS05
 Sierra Leone,SL,SLE,694,Rural,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS05
+Sierra Leone,SL,SLE,694,National,1,Flush and pour flush - to piped sewer system,0.0,Multiple Indicator Cluster Survey - MICS05
+Sierra Leone,SL,SLE,694,National,2,Flush and pour flush - to septic tank,0.0,Multiple Indicator Cluster Survey - MICS05
+Sierra Leone,SL,SLE,694,National,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS05
+Sierra Leone,SL,SLE,694,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS05
+Sierra Leone,SL,SLE,694,National,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS05
+Sierra Leone,SL,SLE,694,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Multiple Indicator Cluster Survey - MICS05
+Sierra Leone,SL,SLE,694,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Multiple Indicator Cluster Survey - MICS05
+Sierra Leone,SL,SLE,694,National,8,Dry latrines - Traditional latrine,0.0,Multiple Indicator Cluster Survey - MICS05
+Sierra Leone,SL,SLE,694,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Multiple Indicator Cluster Survey - MICS05
+Sierra Leone,SL,SLE,694,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS05
+Sierra Leone,SL,SLE,694,National,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS05
+Sierra Leone,SL,SLE,694,National,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS05
+Sierra Leone,SL,SLE,694,National,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS05
+Sierra Leone,SL,SLE,694,National,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS05
+Sierra Leone,SL,SLE,694,National,15,"No facility, bush, field",0.0,Multiple Indicator Cluster Survey - MICS05
+Sierra Leone,SL,SLE,694,National,16,Other unimproved,0.0,Multiple Indicator Cluster Survey - MICS05
+Sierra Leone,SL,SLE,694,National,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS05
 Sierra Leone,SL,SLE,694,Urban,1,Flush and pour flush - to piped sewer system,0.002,Demographic and Health Survey - DHS08
 Sierra Leone,SL,SLE,694,Urban,2,Flush and pour flush - to septic tank,0.096,Demographic and Health Survey - DHS08
 Sierra Leone,SL,SLE,694,Urban,3,Flush and pour flush - to pit,0.026,Demographic and Health Survey - DHS08
@@ -67,6 +253,74 @@ Sierra Leone,SL,SLE,694,Rural,14,Other improved,0.0,Demographic and Health Surve
 Sierra Leone,SL,SLE,694,Rural,15,"No facility, bush, field",0.327,Demographic and Health Survey - DHS08
 Sierra Leone,SL,SLE,694,Rural,16,Other unimproved,0.009,Demographic and Health Survey - DHS08
 Sierra Leone,SL,SLE,694,Rural,17,DK/missing information,0.0,Demographic and Health Survey - DHS08
+Sierra Leone,SL,SLE,694,National,1,Flush and pour flush - to piped sewer system,0.001,Demographic and Health Survey - DHS08
+Sierra Leone,SL,SLE,694,National,2,Flush and pour flush - to septic tank,0.033,Demographic and Health Survey - DHS08
+Sierra Leone,SL,SLE,694,National,3,Flush and pour flush - to pit,0.009,Demographic and Health Survey - DHS08
+Sierra Leone,SL,SLE,694,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS08
+Sierra Leone,SL,SLE,694,National,5,Flush and pour flush - to elsewhere,0.003,Demographic and Health Survey - DHS08
+Sierra Leone,SL,SLE,694,National,6,Dry latrines - Ventilated Improved Pit latrine,0.158,Demographic and Health Survey - DHS08
+Sierra Leone,SL,SLE,694,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.238,Demographic and Health Survey - DHS08
+Sierra Leone,SL,SLE,694,National,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS08
+Sierra Leone,SL,SLE,694,National,9,Dry latrines - Pit latrine without slab/open pit,0.285,Demographic and Health Survey - DHS08
+Sierra Leone,SL,SLE,694,National,10,Dry latrines - Hanging toilet/hanging latrine,0.029,Demographic and Health Survey - DHS08
+Sierra Leone,SL,SLE,694,National,11,Dry latrines - Bucket latrine,0.002,Demographic and Health Survey - DHS08
+Sierra Leone,SL,SLE,694,National,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS08
+Sierra Leone,SL,SLE,694,National,13,Composting toilets,0.0,Demographic and Health Survey - DHS08
+Sierra Leone,SL,SLE,694,National,14,Other improved,0.0,Demographic and Health Survey - DHS08
+Sierra Leone,SL,SLE,694,National,15,"No facility, bush, field",0.231,Demographic and Health Survey - DHS08
+Sierra Leone,SL,SLE,694,National,16,Other unimproved,0.009,Demographic and Health Survey - DHS08
+Sierra Leone,SL,SLE,694,National,17,DK/missing information,0.0,Demographic and Health Survey - DHS08
+Sierra Leone,SL,SLE,694,Urban,1,Flush and pour flush - to piped sewer system,0.0,Multiple Indicator Cluster Survey - MICS10
+Sierra Leone,SL,SLE,694,Urban,2,Flush and pour flush - to septic tank,0.0,Multiple Indicator Cluster Survey - MICS10
+Sierra Leone,SL,SLE,694,Urban,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS10
+Sierra Leone,SL,SLE,694,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS10
+Sierra Leone,SL,SLE,694,Urban,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS10
+Sierra Leone,SL,SLE,694,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.028,Multiple Indicator Cluster Survey - MICS10
+Sierra Leone,SL,SLE,694,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.431,Multiple Indicator Cluster Survey - MICS10
+Sierra Leone,SL,SLE,694,Urban,8,Dry latrines - Traditional latrine,0.0,Multiple Indicator Cluster Survey - MICS10
+Sierra Leone,SL,SLE,694,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.243,Multiple Indicator Cluster Survey - MICS10
+Sierra Leone,SL,SLE,694,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.009,Multiple Indicator Cluster Survey - MICS10
+Sierra Leone,SL,SLE,694,Urban,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS10
+Sierra Leone,SL,SLE,694,Urban,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS10
+Sierra Leone,SL,SLE,694,Urban,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS10
+Sierra Leone,SL,SLE,694,Urban,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS10
+Sierra Leone,SL,SLE,694,Urban,15,"No facility, bush, field",0.153,Multiple Indicator Cluster Survey - MICS10
+Sierra Leone,SL,SLE,694,Urban,16,Other unimproved,0.019,Multiple Indicator Cluster Survey - MICS10
+Sierra Leone,SL,SLE,694,Urban,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS10
+Sierra Leone,SL,SLE,694,Rural,1,Flush and pour flush - to piped sewer system,0.0,Multiple Indicator Cluster Survey - MICS10
+Sierra Leone,SL,SLE,694,Rural,2,Flush and pour flush - to septic tank,0.0,Multiple Indicator Cluster Survey - MICS10
+Sierra Leone,SL,SLE,694,Rural,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS10
+Sierra Leone,SL,SLE,694,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS10
+Sierra Leone,SL,SLE,694,Rural,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS10
+Sierra Leone,SL,SLE,694,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.025,Multiple Indicator Cluster Survey - MICS10
+Sierra Leone,SL,SLE,694,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.291,Multiple Indicator Cluster Survey - MICS10
+Sierra Leone,SL,SLE,694,Rural,8,Dry latrines - Traditional latrine,0.0,Multiple Indicator Cluster Survey - MICS10
+Sierra Leone,SL,SLE,694,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.286,Multiple Indicator Cluster Survey - MICS10
+Sierra Leone,SL,SLE,694,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.028,Multiple Indicator Cluster Survey - MICS10
+Sierra Leone,SL,SLE,694,Rural,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS10
+Sierra Leone,SL,SLE,694,Rural,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS10
+Sierra Leone,SL,SLE,694,Rural,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS10
+Sierra Leone,SL,SLE,694,Rural,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS10
+Sierra Leone,SL,SLE,694,Rural,15,"No facility, bush, field",0.352,Multiple Indicator Cluster Survey - MICS10
+Sierra Leone,SL,SLE,694,Rural,16,Other unimproved,0.009,Multiple Indicator Cluster Survey - MICS10
+Sierra Leone,SL,SLE,694,Rural,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS10
+Sierra Leone,SL,SLE,694,National,1,Flush and pour flush - to piped sewer system,0.0,Multiple Indicator Cluster Survey - MICS10
+Sierra Leone,SL,SLE,694,National,2,Flush and pour flush - to septic tank,0.0,Multiple Indicator Cluster Survey - MICS10
+Sierra Leone,SL,SLE,694,National,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS10
+Sierra Leone,SL,SLE,694,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS10
+Sierra Leone,SL,SLE,694,National,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS10
+Sierra Leone,SL,SLE,694,National,6,Dry latrines - Ventilated Improved Pit latrine,0.026,Multiple Indicator Cluster Survey - MICS10
+Sierra Leone,SL,SLE,694,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.336,Multiple Indicator Cluster Survey - MICS10
+Sierra Leone,SL,SLE,694,National,8,Dry latrines - Traditional latrine,0.0,Multiple Indicator Cluster Survey - MICS10
+Sierra Leone,SL,SLE,694,National,9,Dry latrines - Pit latrine without slab/open pit,0.272,Multiple Indicator Cluster Survey - MICS10
+Sierra Leone,SL,SLE,694,National,10,Dry latrines - Hanging toilet/hanging latrine,0.022,Multiple Indicator Cluster Survey - MICS10
+Sierra Leone,SL,SLE,694,National,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS10
+Sierra Leone,SL,SLE,694,National,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS10
+Sierra Leone,SL,SLE,694,National,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS10
+Sierra Leone,SL,SLE,694,National,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS10
+Sierra Leone,SL,SLE,694,National,15,"No facility, bush, field",0.289,Multiple Indicator Cluster Survey - MICS10
+Sierra Leone,SL,SLE,694,National,16,Other unimproved,0.012,Multiple Indicator Cluster Survey - MICS10
+Sierra Leone,SL,SLE,694,National,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS10
 Sierra Leone,SL,SLE,694,Urban,1,Flush and pour flush - to piped sewer system,0.016,Opportunities for Sanitation Marketing in Sierra Leone (OSM) - OSM11
 Sierra Leone,SL,SLE,694,Urban,2,Flush and pour flush - to septic tank,0.11,Opportunities for Sanitation Marketing in Sierra Leone (OSM) - OSM11
 Sierra Leone,SL,SLE,694,Urban,3,Flush and pour flush - to pit,0.031,Opportunities for Sanitation Marketing in Sierra Leone (OSM) - OSM11
@@ -101,6 +355,23 @@ Sierra Leone,SL,SLE,694,Rural,14,Other improved,0.0,Opportunities for Sanitation
 Sierra Leone,SL,SLE,694,Rural,15,"No facility, bush, field",0.356,Opportunities for Sanitation Marketing in Sierra Leone (OSM) - OSM11
 Sierra Leone,SL,SLE,694,Rural,16,Other unimproved,0.0,Opportunities for Sanitation Marketing in Sierra Leone (OSM) - OSM11
 Sierra Leone,SL,SLE,694,Rural,17,DK/missing information,0.0,Opportunities for Sanitation Marketing in Sierra Leone (OSM) - OSM11
+Sierra Leone,SL,SLE,694,National,1,Flush and pour flush - to piped sewer system,0.006,Opportunities for Sanitation Marketing in Sierra Leone (OSM) - OSM11
+Sierra Leone,SL,SLE,694,National,2,Flush and pour flush - to septic tank,0.042,Opportunities for Sanitation Marketing in Sierra Leone (OSM) - OSM11
+Sierra Leone,SL,SLE,694,National,3,Flush and pour flush - to pit,0.015,Opportunities for Sanitation Marketing in Sierra Leone (OSM) - OSM11
+Sierra Leone,SL,SLE,694,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Opportunities for Sanitation Marketing in Sierra Leone (OSM) - OSM11
+Sierra Leone,SL,SLE,694,National,5,Flush and pour flush - to elsewhere,0.0,Opportunities for Sanitation Marketing in Sierra Leone (OSM) - OSM11
+Sierra Leone,SL,SLE,694,National,6,Dry latrines - Ventilated Improved Pit latrine,0.023,Opportunities for Sanitation Marketing in Sierra Leone (OSM) - OSM11
+Sierra Leone,SL,SLE,694,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.312,Opportunities for Sanitation Marketing in Sierra Leone (OSM) - OSM11
+Sierra Leone,SL,SLE,694,National,8,Dry latrines - Traditional latrine,0.0,Opportunities for Sanitation Marketing in Sierra Leone (OSM) - OSM11
+Sierra Leone,SL,SLE,694,National,9,Dry latrines - Pit latrine without slab/open pit,0.344,Opportunities for Sanitation Marketing in Sierra Leone (OSM) - OSM11
+Sierra Leone,SL,SLE,694,National,10,Dry latrines - Hanging toilet/hanging latrine,0.009,Opportunities for Sanitation Marketing in Sierra Leone (OSM) - OSM11
+Sierra Leone,SL,SLE,694,National,11,Dry latrines - Bucket latrine,0.0,Opportunities for Sanitation Marketing in Sierra Leone (OSM) - OSM11
+Sierra Leone,SL,SLE,694,National,12,Dry latrines - Other,0.0,Opportunities for Sanitation Marketing in Sierra Leone (OSM) - OSM11
+Sierra Leone,SL,SLE,694,National,13,Composting toilets,0.0,Opportunities for Sanitation Marketing in Sierra Leone (OSM) - OSM11
+Sierra Leone,SL,SLE,694,National,14,Other improved,0.0,Opportunities for Sanitation Marketing in Sierra Leone (OSM) - OSM11
+Sierra Leone,SL,SLE,694,National,15,"No facility, bush, field",0.25,Opportunities for Sanitation Marketing in Sierra Leone (OSM) - OSM11
+Sierra Leone,SL,SLE,694,National,16,Other unimproved,0.0,Opportunities for Sanitation Marketing in Sierra Leone (OSM) - OSM11
+Sierra Leone,SL,SLE,694,National,17,DK/missing information,0.0,Opportunities for Sanitation Marketing in Sierra Leone (OSM) - OSM11
 Sierra Leone,SL,SLE,694,Urban,1,Flush and pour flush - to piped sewer system,0.005,Malaria Indicator Survey - MIS13
 Sierra Leone,SL,SLE,694,Urban,2,Flush and pour flush - to septic tank,0.099,Malaria Indicator Survey - MIS13
 Sierra Leone,SL,SLE,694,Urban,3,Flush and pour flush - to pit,0.021,Malaria Indicator Survey - MIS13
@@ -151,6 +422,31 @@ Sierra Leone,SL,SLE,694,Rural,14,Other improved,0.006,Malaria Indicator Survey -
 Sierra Leone,SL,SLE,694,Rural,15,"No facility, bush, field",0.226,Malaria Indicator Survey - MIS13
 Sierra Leone,SL,SLE,694,Rural,16,Other unimproved,0.009,Malaria Indicator Survey - MIS13
 Sierra Leone,SL,SLE,694,Rural,17,DK/missing information,0.0,Malaria Indicator Survey - MIS13
+Sierra Leone,SL,SLE,694,National,1,Flush and pour flush - to piped sewer system,0.002,Malaria Indicator Survey - MIS13
+Sierra Leone,SL,SLE,694,National,2,Flush and pour flush - to septic tank,0.035,Malaria Indicator Survey - MIS13
+Sierra Leone,SL,SLE,694,National,3,Flush and pour flush - to pit,0.008,Malaria Indicator Survey - MIS13
+Sierra Leone,SL,SLE,694,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Malaria Indicator Survey - MIS13
+Sierra Leone,SL,SLE,694,National,5,Flush and pour flush - to elsewhere,0.0,Malaria Indicator Survey - MIS13
+Sierra Leone,SL,SLE,694,National,6,Dry latrines - Ventilated Improved Pit latrine,0.016,Malaria Indicator Survey - MIS13
+Sierra Leone,SL,SLE,694,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.302,Malaria Indicator Survey - MIS13
+Sierra Leone,SL,SLE,694,National,8,Dry latrines - Traditional latrine,0.0,Malaria Indicator Survey - MIS13
+Sierra Leone,SL,SLE,694,National,9,Dry latrines - Pit latrine without slab/open pit,0.433,Malaria Indicator Survey - MIS13
+Sierra Leone,SL,SLE,694,National,10,Dry latrines - Hanging toilet/hanging latrine,0.027,Malaria Indicator Survey - MIS13
+Sierra Leone,SL,SLE,694,National,11,Dry latrines - Bucket latrine,0.001,Malaria Indicator Survey - MIS13
+Sierra Leone,SL,SLE,694,National,6,Dry latrines - Ventilated Improved Pit latrine,0.002,Malaria Indicator Survey - MIS13
+Sierra Leone,SL,SLE,694,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.08,Malaria Indicator Survey - MIS13
+Sierra Leone,SL,SLE,694,National,6,Dry latrines - Ventilated Improved Pit latrine,0.014,Malaria Indicator Survey - MIS13
+Sierra Leone,SL,SLE,694,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.222,Malaria Indicator Survey - MIS13
+Sierra Leone,SL,SLE,694,National,8,Dry latrines - Traditional latrine,0.0,Malaria Indicator Survey - MIS13
+Sierra Leone,SL,SLE,694,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Malaria Indicator Survey - MIS13
+Sierra Leone,SL,SLE,694,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Malaria Indicator Survey - MIS13
+Sierra Leone,SL,SLE,694,National,11,Dry latrines - Bucket latrine,0.0,Malaria Indicator Survey - MIS13
+Sierra Leone,SL,SLE,694,National,12,Dry latrines - Other,0.0,Malaria Indicator Survey - MIS13
+Sierra Leone,SL,SLE,694,National,13,Composting toilets,0.0,Malaria Indicator Survey - MIS13
+Sierra Leone,SL,SLE,694,National,14,Other improved,0.006,Malaria Indicator Survey - MIS13
+Sierra Leone,SL,SLE,694,National,15,"No facility, bush, field",0.163,Malaria Indicator Survey - MIS13
+Sierra Leone,SL,SLE,694,National,16,Other unimproved,0.009,Malaria Indicator Survey - MIS13
+Sierra Leone,SL,SLE,694,National,17,DK/missing information,0.0,Malaria Indicator Survey - MIS13
 Sierra Leone,SL,SLE,694,Urban,1,Flush and pour flush - to piped sewer system,0.007,Demographic and Health Survey - DHS13
 Sierra Leone,SL,SLE,694,Urban,2,Flush and pour flush - to septic tank,0.091,Demographic and Health Survey - DHS13
 Sierra Leone,SL,SLE,694,Urban,3,Flush and pour flush - to pit,0.029,Demographic and Health Survey - DHS13
@@ -201,6 +497,118 @@ Sierra Leone,SL,SLE,694,Rural,14,Other improved,0.005,Demographic and Health Sur
 Sierra Leone,SL,SLE,694,Rural,15,"No facility, bush, field",0.264,Demographic and Health Survey - DHS13
 Sierra Leone,SL,SLE,694,Rural,16,Other unimproved,0.001,Demographic and Health Survey - DHS13
 Sierra Leone,SL,SLE,694,Rural,17,DK/missing information,0.002,Demographic and Health Survey - DHS13
+Sierra Leone,SL,SLE,694,National,1,Flush and pour flush - to piped sewer system,0.002,Demographic and Health Survey - DHS13
+Sierra Leone,SL,SLE,694,National,2,Flush and pour flush - to septic tank,0.029,Demographic and Health Survey - DHS13
+Sierra Leone,SL,SLE,694,National,3,Flush and pour flush - to pit,0.011,Demographic and Health Survey - DHS13
+Sierra Leone,SL,SLE,694,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS13
+Sierra Leone,SL,SLE,694,National,5,Flush and pour flush - to elsewhere,0.003,Demographic and Health Survey - DHS13
+Sierra Leone,SL,SLE,694,National,6,Dry latrines - Ventilated Improved Pit latrine,0.178,Demographic and Health Survey - DHS13
+Sierra Leone,SL,SLE,694,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.263,Demographic and Health Survey - DHS13
+Sierra Leone,SL,SLE,694,National,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS13
+Sierra Leone,SL,SLE,694,National,9,Dry latrines - Pit latrine without slab/open pit,0.286,Demographic and Health Survey - DHS13
+Sierra Leone,SL,SLE,694,National,10,Dry latrines - Hanging toilet/hanging latrine,0.015,Demographic and Health Survey - DHS13
+Sierra Leone,SL,SLE,694,National,11,Dry latrines - Bucket latrine,0.001,Demographic and Health Survey - DHS13
+Sierra Leone,SL,SLE,694,National,6,Dry latrines - Ventilated Improved Pit latrine,0.028,Demographic and Health Survey - DHS13
+Sierra Leone,SL,SLE,694,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.046,Demographic and Health Survey - DHS13
+Sierra Leone,SL,SLE,694,National,6,Dry latrines - Ventilated Improved Pit latrine,0.15,Demographic and Health Survey - DHS13
+Sierra Leone,SL,SLE,694,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.217,Demographic and Health Survey - DHS13
+Sierra Leone,SL,SLE,694,National,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS13
+Sierra Leone,SL,SLE,694,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Survey - DHS13
+Sierra Leone,SL,SLE,694,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS13
+Sierra Leone,SL,SLE,694,National,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS13
+Sierra Leone,SL,SLE,694,National,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS13
+Sierra Leone,SL,SLE,694,National,13,Composting toilets,0.0,Demographic and Health Survey - DHS13
+Sierra Leone,SL,SLE,694,National,14,Other improved,0.003,Demographic and Health Survey - DHS13
+Sierra Leone,SL,SLE,694,National,15,"No facility, bush, field",0.202,Demographic and Health Survey - DHS13
+Sierra Leone,SL,SLE,694,National,16,Other unimproved,0.002,Demographic and Health Survey - DHS13
+Sierra Leone,SL,SLE,694,National,17,DK/missing information,0.004,Demographic and Health Survey - DHS13
+Sierra Leone,SL,SLE,694,Urban,1,Flush and pour flush - to piped sewer system,0.0,Census - CEN15
+Sierra Leone,SL,SLE,694,Urban,2,Flush and pour flush - to septic tank,0.0,Census - CEN15
+Sierra Leone,SL,SLE,694,Urban,3,Flush and pour flush - to pit,0.0,Census - CEN15
+Sierra Leone,SL,SLE,694,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN15
+Sierra Leone,SL,SLE,694,Urban,5,Flush and pour flush - to elsewhere,0.0,Census - CEN15
+Sierra Leone,SL,SLE,694,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.033,Census - CEN15
+Sierra Leone,SL,SLE,694,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN15
+Sierra Leone,SL,SLE,694,Urban,8,Dry latrines - Traditional latrine,0.745,Census - CEN15
+Sierra Leone,SL,SLE,694,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN15
+Sierra Leone,SL,SLE,694,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN15
+Sierra Leone,SL,SLE,694,Urban,11,Dry latrines - Bucket latrine,0.005,Census - CEN15
+Sierra Leone,SL,SLE,694,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.017,Census - CEN15
+Sierra Leone,SL,SLE,694,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN15
+Sierra Leone,SL,SLE,694,Urban,8,Dry latrines - Traditional latrine,0.2,Census - CEN15
+Sierra Leone,SL,SLE,694,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN15
+Sierra Leone,SL,SLE,694,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN15
+Sierra Leone,SL,SLE,694,Urban,11,Dry latrines - Bucket latrine,0.001,Census - CEN15
+Sierra Leone,SL,SLE,694,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.016,Census - CEN15
+Sierra Leone,SL,SLE,694,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN15
+Sierra Leone,SL,SLE,694,Urban,8,Dry latrines - Traditional latrine,0.544,Census - CEN15
+Sierra Leone,SL,SLE,694,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN15
+Sierra Leone,SL,SLE,694,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN15
+Sierra Leone,SL,SLE,694,Urban,11,Dry latrines - Bucket latrine,0.004,Census - CEN15
+Sierra Leone,SL,SLE,694,Urban,12,Dry latrines - Other,0.0,Census - CEN15
+Sierra Leone,SL,SLE,694,Urban,13,Composting toilets,0.0,Census - CEN15
+Sierra Leone,SL,SLE,694,Urban,14,Other improved,0.0,Census - CEN15
+Sierra Leone,SL,SLE,694,Urban,15,"No facility, bush, field",0.031,Census - CEN15
+Sierra Leone,SL,SLE,694,Urban,16,Other unimproved,0.011,Census - CEN15
+Sierra Leone,SL,SLE,694,Urban,17,DK/missing information,0.0,Census - CEN15
+Sierra Leone,SL,SLE,694,Rural,1,Flush and pour flush - to piped sewer system,0.0,Census - CEN15
+Sierra Leone,SL,SLE,694,Rural,2,Flush and pour flush - to septic tank,0.0,Census - CEN15
+Sierra Leone,SL,SLE,694,Rural,3,Flush and pour flush - to pit,0.0,Census - CEN15
+Sierra Leone,SL,SLE,694,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN15
+Sierra Leone,SL,SLE,694,Rural,5,Flush and pour flush - to elsewhere,0.0,Census - CEN15
+Sierra Leone,SL,SLE,694,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.02,Census - CEN15
+Sierra Leone,SL,SLE,694,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN15
+Sierra Leone,SL,SLE,694,Rural,8,Dry latrines - Traditional latrine,0.733,Census - CEN15
+Sierra Leone,SL,SLE,694,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN15
+Sierra Leone,SL,SLE,694,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN15
+Sierra Leone,SL,SLE,694,Rural,11,Dry latrines - Bucket latrine,0.002,Census - CEN15
+Sierra Leone,SL,SLE,694,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.006,Census - CEN15
+Sierra Leone,SL,SLE,694,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN15
+Sierra Leone,SL,SLE,694,Rural,8,Dry latrines - Traditional latrine,0.207,Census - CEN15
+Sierra Leone,SL,SLE,694,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN15
+Sierra Leone,SL,SLE,694,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN15
+Sierra Leone,SL,SLE,694,Rural,11,Dry latrines - Bucket latrine,0.001,Census - CEN15
+Sierra Leone,SL,SLE,694,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.013,Census - CEN15
+Sierra Leone,SL,SLE,694,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN15
+Sierra Leone,SL,SLE,694,Rural,8,Dry latrines - Traditional latrine,0.526,Census - CEN15
+Sierra Leone,SL,SLE,694,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN15
+Sierra Leone,SL,SLE,694,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN15
+Sierra Leone,SL,SLE,694,Rural,11,Dry latrines - Bucket latrine,0.001,Census - CEN15
+Sierra Leone,SL,SLE,694,Rural,12,Dry latrines - Other,0.0,Census - CEN15
+Sierra Leone,SL,SLE,694,Rural,13,Composting toilets,0.0,Census - CEN15
+Sierra Leone,SL,SLE,694,Rural,14,Other improved,0.0,Census - CEN15
+Sierra Leone,SL,SLE,694,Rural,15,"No facility, bush, field",0.208,Census - CEN15
+Sierra Leone,SL,SLE,694,Rural,16,Other unimproved,0.023,Census - CEN15
+Sierra Leone,SL,SLE,694,Rural,17,DK/missing information,0.0,Census - CEN15
+Sierra Leone,SL,SLE,694,National,1,Flush and pour flush - to piped sewer system,0.0,Census - CEN15
+Sierra Leone,SL,SLE,694,National,2,Flush and pour flush - to septic tank,0.0,Census - CEN15
+Sierra Leone,SL,SLE,694,National,3,Flush and pour flush - to pit,0.0,Census - CEN15
+Sierra Leone,SL,SLE,694,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN15
+Sierra Leone,SL,SLE,694,National,5,Flush and pour flush - to elsewhere,0.0,Census - CEN15
+Sierra Leone,SL,SLE,694,National,6,Dry latrines - Ventilated Improved Pit latrine,0.026,Census - CEN15
+Sierra Leone,SL,SLE,694,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN15
+Sierra Leone,SL,SLE,694,National,8,Dry latrines - Traditional latrine,0.738,Census - CEN15
+Sierra Leone,SL,SLE,694,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN15
+Sierra Leone,SL,SLE,694,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN15
+Sierra Leone,SL,SLE,694,National,11,Dry latrines - Bucket latrine,0.004,Census - CEN15
+Sierra Leone,SL,SLE,694,National,6,Dry latrines - Ventilated Improved Pit latrine,0.011,Census - CEN15
+Sierra Leone,SL,SLE,694,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN15
+Sierra Leone,SL,SLE,694,National,8,Dry latrines - Traditional latrine,0.204,Census - CEN15
+Sierra Leone,SL,SLE,694,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN15
+Sierra Leone,SL,SLE,694,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN15
+Sierra Leone,SL,SLE,694,National,11,Dry latrines - Bucket latrine,0.001,Census - CEN15
+Sierra Leone,SL,SLE,694,National,6,Dry latrines - Ventilated Improved Pit latrine,0.015,Census - CEN15
+Sierra Leone,SL,SLE,694,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN15
+Sierra Leone,SL,SLE,694,National,8,Dry latrines - Traditional latrine,0.534,Census - CEN15
+Sierra Leone,SL,SLE,694,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN15
+Sierra Leone,SL,SLE,694,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN15
+Sierra Leone,SL,SLE,694,National,11,Dry latrines - Bucket latrine,0.003,Census - CEN15
+Sierra Leone,SL,SLE,694,National,12,Dry latrines - Other,0.0,Census - CEN15
+Sierra Leone,SL,SLE,694,National,13,Composting toilets,0.0,Census - CEN15
+Sierra Leone,SL,SLE,694,National,14,Other improved,0.0,Census - CEN15
+Sierra Leone,SL,SLE,694,National,15,"No facility, bush, field",0.129,Census - CEN15
+Sierra Leone,SL,SLE,694,National,16,Other unimproved,0.017,Census - CEN15
+Sierra Leone,SL,SLE,694,National,17,DK/missing information,0.0,Census - CEN15
 Sierra Leone,SL,SLE,694,Urban,1,Flush and pour flush - to piped sewer system,0.012,Malaria Indicator Survey - MIS16
 Sierra Leone,SL,SLE,694,Urban,2,Flush and pour flush - to septic tank,0.097,Malaria Indicator Survey - MIS16
 Sierra Leone,SL,SLE,694,Urban,3,Flush and pour flush - to pit,0.053,Malaria Indicator Survey - MIS16
@@ -235,6 +643,23 @@ Sierra Leone,SL,SLE,694,Rural,14,Other improved,0.0,Malaria Indicator Survey - M
 Sierra Leone,SL,SLE,694,Rural,15,"No facility, bush, field",0.253,Malaria Indicator Survey - MIS16
 Sierra Leone,SL,SLE,694,Rural,16,Other unimproved,0.0,Malaria Indicator Survey - MIS16
 Sierra Leone,SL,SLE,694,Rural,17,DK/missing information,0.0,Malaria Indicator Survey - MIS16
+Sierra Leone,SL,SLE,694,National,1,Flush and pour flush - to piped sewer system,0.006,Malaria Indicator Survey - MIS16
+Sierra Leone,SL,SLE,694,National,2,Flush and pour flush - to septic tank,0.042,Malaria Indicator Survey - MIS16
+Sierra Leone,SL,SLE,694,National,3,Flush and pour flush - to pit,0.023,Malaria Indicator Survey - MIS16
+Sierra Leone,SL,SLE,694,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Malaria Indicator Survey - MIS16
+Sierra Leone,SL,SLE,694,National,5,Flush and pour flush - to elsewhere,0.003,Malaria Indicator Survey - MIS16
+Sierra Leone,SL,SLE,694,National,6,Dry latrines - Ventilated Improved Pit latrine,0.027,Malaria Indicator Survey - MIS16
+Sierra Leone,SL,SLE,694,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.392,Malaria Indicator Survey - MIS16
+Sierra Leone,SL,SLE,694,National,8,Dry latrines - Traditional latrine,0.0,Malaria Indicator Survey - MIS16
+Sierra Leone,SL,SLE,694,National,9,Dry latrines - Pit latrine without slab/open pit,0.275,Malaria Indicator Survey - MIS16
+Sierra Leone,SL,SLE,694,National,10,Dry latrines - Hanging toilet/hanging latrine,0.036,Malaria Indicator Survey - MIS16
+Sierra Leone,SL,SLE,694,National,11,Dry latrines - Bucket latrine,0.004,Malaria Indicator Survey - MIS16
+Sierra Leone,SL,SLE,694,National,12,Dry latrines - Other,0.0,Malaria Indicator Survey - MIS16
+Sierra Leone,SL,SLE,694,National,13,Composting toilets,0.01,Malaria Indicator Survey - MIS16
+Sierra Leone,SL,SLE,694,National,14,Other improved,0.0,Malaria Indicator Survey - MIS16
+Sierra Leone,SL,SLE,694,National,15,"No facility, bush, field",0.179,Malaria Indicator Survey - MIS16
+Sierra Leone,SL,SLE,694,National,16,Other unimproved,0.001,Malaria Indicator Survey - MIS16
+Sierra Leone,SL,SLE,694,National,17,DK/missing information,0.0,Malaria Indicator Survey - MIS16
 Sierra Leone,SL,SLE,694,Urban,1,Flush and pour flush - to piped sewer system,0.024,Multiple Indicator Cluster Survey - MICS17
 Sierra Leone,SL,SLE,694,Urban,2,Flush and pour flush - to septic tank,0.114,Multiple Indicator Cluster Survey - MICS17
 Sierra Leone,SL,SLE,694,Urban,3,Flush and pour flush - to pit,0.052,Multiple Indicator Cluster Survey - MICS17
@@ -269,3 +694,20 @@ Sierra Leone,SL,SLE,694,Rural,14,Other improved,0.0,Multiple Indicator Cluster S
 Sierra Leone,SL,SLE,694,Rural,15,"No facility, bush, field",0.277,Multiple Indicator Cluster Survey - MICS17
 Sierra Leone,SL,SLE,694,Rural,16,Other unimproved,0.002,Multiple Indicator Cluster Survey - MICS17
 Sierra Leone,SL,SLE,694,Rural,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS17
+Sierra Leone,SL,SLE,694,National,1,Flush and pour flush - to piped sewer system,0.011,Multiple Indicator Cluster Survey - MICS17
+Sierra Leone,SL,SLE,694,National,2,Flush and pour flush - to septic tank,0.054,Multiple Indicator Cluster Survey - MICS17
+Sierra Leone,SL,SLE,694,National,3,Flush and pour flush - to pit,0.028,Multiple Indicator Cluster Survey - MICS17
+Sierra Leone,SL,SLE,694,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.003,Multiple Indicator Cluster Survey - MICS17
+Sierra Leone,SL,SLE,694,National,5,Flush and pour flush - to elsewhere,0.007,Multiple Indicator Cluster Survey - MICS17
+Sierra Leone,SL,SLE,694,National,6,Dry latrines - Ventilated Improved Pit latrine,0.054,Multiple Indicator Cluster Survey - MICS17
+Sierra Leone,SL,SLE,694,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.331,Multiple Indicator Cluster Survey - MICS17
+Sierra Leone,SL,SLE,694,National,8,Dry latrines - Traditional latrine,0.0,Multiple Indicator Cluster Survey - MICS17
+Sierra Leone,SL,SLE,694,National,9,Dry latrines - Pit latrine without slab/open pit,0.3,Multiple Indicator Cluster Survey - MICS17
+Sierra Leone,SL,SLE,694,National,10,Dry latrines - Hanging toilet/hanging latrine,0.032,Multiple Indicator Cluster Survey - MICS17
+Sierra Leone,SL,SLE,694,National,11,Dry latrines - Bucket latrine,0.002,Multiple Indicator Cluster Survey - MICS17
+Sierra Leone,SL,SLE,694,National,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS17
+Sierra Leone,SL,SLE,694,National,13,Composting toilets,0.002,Multiple Indicator Cluster Survey - MICS17
+Sierra Leone,SL,SLE,694,National,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS17
+Sierra Leone,SL,SLE,694,National,15,"No facility, bush, field",0.171,Multiple Indicator Cluster Survey - MICS17
+Sierra Leone,SL,SLE,694,National,16,Other unimproved,0.005,Multiple Indicator Cluster Survey - MICS17
+Sierra Leone,SL,SLE,694,National,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS17

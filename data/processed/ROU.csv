@@ -1,0 +1,1225 @@
+country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+Romania,RO,ROU,642,Urban,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES05
+Romania,RO,ROU,642,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES05
+Romania,RO,ROU,642,Urban,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES05
+Romania,RO,ROU,642,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES05
+Romania,RO,ROU,642,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES05
+Romania,RO,ROU,642,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES05
+Romania,RO,ROU,642,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES05
+Romania,RO,ROU,642,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES05
+Romania,RO,ROU,642,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES05
+Romania,RO,ROU,642,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES05
+Romania,RO,ROU,642,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES05
+Romania,RO,ROU,642,Urban,12,Dry latrines - Other,0.0,Eurostat environmental database - ES05
+Romania,RO,ROU,642,Urban,13,Composting toilets,0.0,Eurostat environmental database - ES05
+Romania,RO,ROU,642,Urban,14,Other improved,0.0,Eurostat environmental database - ES05
+Romania,RO,ROU,642,Urban,15,"No facility, bush, field",0.0,Eurostat environmental database - ES05
+Romania,RO,ROU,642,Urban,16,Other unimproved,0.0,Eurostat environmental database - ES05
+Romania,RO,ROU,642,Urban,17,DK/missing information,0.0,Eurostat environmental database - ES05
+Romania,RO,ROU,642,Rural,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES05
+Romania,RO,ROU,642,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES05
+Romania,RO,ROU,642,Rural,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES05
+Romania,RO,ROU,642,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES05
+Romania,RO,ROU,642,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES05
+Romania,RO,ROU,642,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES05
+Romania,RO,ROU,642,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES05
+Romania,RO,ROU,642,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES05
+Romania,RO,ROU,642,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES05
+Romania,RO,ROU,642,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES05
+Romania,RO,ROU,642,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES05
+Romania,RO,ROU,642,Rural,12,Dry latrines - Other,0.0,Eurostat environmental database - ES05
+Romania,RO,ROU,642,Rural,13,Composting toilets,0.0,Eurostat environmental database - ES05
+Romania,RO,ROU,642,Rural,14,Other improved,0.0,Eurostat environmental database - ES05
+Romania,RO,ROU,642,Rural,15,"No facility, bush, field",0.0,Eurostat environmental database - ES05
+Romania,RO,ROU,642,Rural,16,Other unimproved,0.0,Eurostat environmental database - ES05
+Romania,RO,ROU,642,Rural,17,DK/missing information,0.0,Eurostat environmental database - ES05
+Romania,RO,ROU,642,National,1,Flush and pour flush - to piped sewer system,0.275,Eurostat environmental database - ES05
+Romania,RO,ROU,642,National,2,Flush and pour flush - to septic tank,0.018,Eurostat environmental database - ES05
+Romania,RO,ROU,642,National,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES05
+Romania,RO,ROU,642,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES05
+Romania,RO,ROU,642,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES05
+Romania,RO,ROU,642,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES05
+Romania,RO,ROU,642,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES05
+Romania,RO,ROU,642,National,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES05
+Romania,RO,ROU,642,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES05
+Romania,RO,ROU,642,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES05
+Romania,RO,ROU,642,National,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES05
+Romania,RO,ROU,642,National,12,Dry latrines - Other,0.0,Eurostat environmental database - ES05
+Romania,RO,ROU,642,National,13,Composting toilets,0.0,Eurostat environmental database - ES05
+Romania,RO,ROU,642,National,14,Other improved,0.0,Eurostat environmental database - ES05
+Romania,RO,ROU,642,National,15,"No facility, bush, field",0.0,Eurostat environmental database - ES05
+Romania,RO,ROU,642,National,16,Other unimproved,0.127,Eurostat environmental database - ES05
+Romania,RO,ROU,642,National,17,DK/missing information,0.0,Eurostat environmental database - ES05
+Romania,RO,ROU,642,Urban,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES06
+Romania,RO,ROU,642,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES06
+Romania,RO,ROU,642,Urban,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES06
+Romania,RO,ROU,642,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES06
+Romania,RO,ROU,642,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES06
+Romania,RO,ROU,642,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES06
+Romania,RO,ROU,642,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES06
+Romania,RO,ROU,642,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES06
+Romania,RO,ROU,642,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES06
+Romania,RO,ROU,642,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES06
+Romania,RO,ROU,642,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES06
+Romania,RO,ROU,642,Urban,12,Dry latrines - Other,0.0,Eurostat environmental database - ES06
+Romania,RO,ROU,642,Urban,13,Composting toilets,0.0,Eurostat environmental database - ES06
+Romania,RO,ROU,642,Urban,14,Other improved,0.0,Eurostat environmental database - ES06
+Romania,RO,ROU,642,Urban,15,"No facility, bush, field",0.0,Eurostat environmental database - ES06
+Romania,RO,ROU,642,Urban,16,Other unimproved,0.0,Eurostat environmental database - ES06
+Romania,RO,ROU,642,Urban,17,DK/missing information,0.0,Eurostat environmental database - ES06
+Romania,RO,ROU,642,Rural,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES06
+Romania,RO,ROU,642,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES06
+Romania,RO,ROU,642,Rural,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES06
+Romania,RO,ROU,642,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES06
+Romania,RO,ROU,642,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES06
+Romania,RO,ROU,642,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES06
+Romania,RO,ROU,642,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES06
+Romania,RO,ROU,642,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES06
+Romania,RO,ROU,642,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES06
+Romania,RO,ROU,642,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES06
+Romania,RO,ROU,642,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES06
+Romania,RO,ROU,642,Rural,12,Dry latrines - Other,0.0,Eurostat environmental database - ES06
+Romania,RO,ROU,642,Rural,13,Composting toilets,0.0,Eurostat environmental database - ES06
+Romania,RO,ROU,642,Rural,14,Other improved,0.0,Eurostat environmental database - ES06
+Romania,RO,ROU,642,Rural,15,"No facility, bush, field",0.0,Eurostat environmental database - ES06
+Romania,RO,ROU,642,Rural,16,Other unimproved,0.0,Eurostat environmental database - ES06
+Romania,RO,ROU,642,Rural,17,DK/missing information,0.0,Eurostat environmental database - ES06
+Romania,RO,ROU,642,National,1,Flush and pour flush - to piped sewer system,0.28,Eurostat environmental database - ES06
+Romania,RO,ROU,642,National,2,Flush and pour flush - to septic tank,0.033,Eurostat environmental database - ES06
+Romania,RO,ROU,642,National,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES06
+Romania,RO,ROU,642,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES06
+Romania,RO,ROU,642,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES06
+Romania,RO,ROU,642,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES06
+Romania,RO,ROU,642,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES06
+Romania,RO,ROU,642,National,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES06
+Romania,RO,ROU,642,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES06
+Romania,RO,ROU,642,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES06
+Romania,RO,ROU,642,National,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES06
+Romania,RO,ROU,642,National,12,Dry latrines - Other,0.0,Eurostat environmental database - ES06
+Romania,RO,ROU,642,National,13,Composting toilets,0.0,Eurostat environmental database - ES06
+Romania,RO,ROU,642,National,14,Other improved,0.0,Eurostat environmental database - ES06
+Romania,RO,ROU,642,National,15,"No facility, bush, field",0.0,Eurostat environmental database - ES06
+Romania,RO,ROU,642,National,16,Other unimproved,0.139,Eurostat environmental database - ES06
+Romania,RO,ROU,642,National,17,DK/missing information,0.0,Eurostat environmental database - ES06
+Romania,RO,ROU,642,Urban,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES07
+Romania,RO,ROU,642,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES07
+Romania,RO,ROU,642,Urban,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES07
+Romania,RO,ROU,642,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES07
+Romania,RO,ROU,642,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES07
+Romania,RO,ROU,642,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES07
+Romania,RO,ROU,642,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES07
+Romania,RO,ROU,642,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES07
+Romania,RO,ROU,642,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES07
+Romania,RO,ROU,642,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES07
+Romania,RO,ROU,642,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES07
+Romania,RO,ROU,642,Urban,12,Dry latrines - Other,0.0,Eurostat environmental database - ES07
+Romania,RO,ROU,642,Urban,13,Composting toilets,0.0,Eurostat environmental database - ES07
+Romania,RO,ROU,642,Urban,14,Other improved,0.0,Eurostat environmental database - ES07
+Romania,RO,ROU,642,Urban,15,"No facility, bush, field",0.0,Eurostat environmental database - ES07
+Romania,RO,ROU,642,Urban,16,Other unimproved,0.0,Eurostat environmental database - ES07
+Romania,RO,ROU,642,Urban,17,DK/missing information,0.0,Eurostat environmental database - ES07
+Romania,RO,ROU,642,Rural,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES07
+Romania,RO,ROU,642,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES07
+Romania,RO,ROU,642,Rural,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES07
+Romania,RO,ROU,642,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES07
+Romania,RO,ROU,642,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES07
+Romania,RO,ROU,642,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES07
+Romania,RO,ROU,642,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES07
+Romania,RO,ROU,642,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES07
+Romania,RO,ROU,642,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES07
+Romania,RO,ROU,642,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES07
+Romania,RO,ROU,642,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES07
+Romania,RO,ROU,642,Rural,12,Dry latrines - Other,0.0,Eurostat environmental database - ES07
+Romania,RO,ROU,642,Rural,13,Composting toilets,0.0,Eurostat environmental database - ES07
+Romania,RO,ROU,642,Rural,14,Other improved,0.0,Eurostat environmental database - ES07
+Romania,RO,ROU,642,Rural,15,"No facility, bush, field",0.0,Eurostat environmental database - ES07
+Romania,RO,ROU,642,Rural,16,Other unimproved,0.0,Eurostat environmental database - ES07
+Romania,RO,ROU,642,Rural,17,DK/missing information,0.0,Eurostat environmental database - ES07
+Romania,RO,ROU,642,National,1,Flush and pour flush - to piped sewer system,0.283,Eurostat environmental database - ES07
+Romania,RO,ROU,642,National,2,Flush and pour flush - to septic tank,0.035,Eurostat environmental database - ES07
+Romania,RO,ROU,642,National,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES07
+Romania,RO,ROU,642,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES07
+Romania,RO,ROU,642,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES07
+Romania,RO,ROU,642,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES07
+Romania,RO,ROU,642,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES07
+Romania,RO,ROU,642,National,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES07
+Romania,RO,ROU,642,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES07
+Romania,RO,ROU,642,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES07
+Romania,RO,ROU,642,National,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES07
+Romania,RO,ROU,642,National,12,Dry latrines - Other,0.0,Eurostat environmental database - ES07
+Romania,RO,ROU,642,National,13,Composting toilets,0.0,Eurostat environmental database - ES07
+Romania,RO,ROU,642,National,14,Other improved,0.0,Eurostat environmental database - ES07
+Romania,RO,ROU,642,National,15,"No facility, bush, field",0.0,Eurostat environmental database - ES07
+Romania,RO,ROU,642,National,16,Other unimproved,0.142,Eurostat environmental database - ES07
+Romania,RO,ROU,642,National,17,DK/missing information,0.0,Eurostat environmental database - ES07
+Romania,RO,ROU,642,Urban,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES08
+Romania,RO,ROU,642,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES08
+Romania,RO,ROU,642,Urban,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES08
+Romania,RO,ROU,642,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES08
+Romania,RO,ROU,642,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES08
+Romania,RO,ROU,642,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES08
+Romania,RO,ROU,642,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES08
+Romania,RO,ROU,642,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES08
+Romania,RO,ROU,642,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES08
+Romania,RO,ROU,642,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES08
+Romania,RO,ROU,642,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES08
+Romania,RO,ROU,642,Urban,12,Dry latrines - Other,0.0,Eurostat environmental database - ES08
+Romania,RO,ROU,642,Urban,13,Composting toilets,0.0,Eurostat environmental database - ES08
+Romania,RO,ROU,642,Urban,14,Other improved,0.0,Eurostat environmental database - ES08
+Romania,RO,ROU,642,Urban,15,"No facility, bush, field",0.0,Eurostat environmental database - ES08
+Romania,RO,ROU,642,Urban,16,Other unimproved,0.0,Eurostat environmental database - ES08
+Romania,RO,ROU,642,Urban,17,DK/missing information,0.0,Eurostat environmental database - ES08
+Romania,RO,ROU,642,Rural,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES08
+Romania,RO,ROU,642,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES08
+Romania,RO,ROU,642,Rural,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES08
+Romania,RO,ROU,642,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES08
+Romania,RO,ROU,642,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES08
+Romania,RO,ROU,642,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES08
+Romania,RO,ROU,642,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES08
+Romania,RO,ROU,642,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES08
+Romania,RO,ROU,642,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES08
+Romania,RO,ROU,642,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES08
+Romania,RO,ROU,642,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES08
+Romania,RO,ROU,642,Rural,12,Dry latrines - Other,0.0,Eurostat environmental database - ES08
+Romania,RO,ROU,642,Rural,13,Composting toilets,0.0,Eurostat environmental database - ES08
+Romania,RO,ROU,642,Rural,14,Other improved,0.0,Eurostat environmental database - ES08
+Romania,RO,ROU,642,Rural,15,"No facility, bush, field",0.0,Eurostat environmental database - ES08
+Romania,RO,ROU,642,Rural,16,Other unimproved,0.0,Eurostat environmental database - ES08
+Romania,RO,ROU,642,Rural,17,DK/missing information,0.0,Eurostat environmental database - ES08
+Romania,RO,ROU,642,National,1,Flush and pour flush - to piped sewer system,0.286,Eurostat environmental database - ES08
+Romania,RO,ROU,642,National,2,Flush and pour flush - to septic tank,0.034,Eurostat environmental database - ES08
+Romania,RO,ROU,642,National,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES08
+Romania,RO,ROU,642,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES08
+Romania,RO,ROU,642,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES08
+Romania,RO,ROU,642,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES08
+Romania,RO,ROU,642,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES08
+Romania,RO,ROU,642,National,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES08
+Romania,RO,ROU,642,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES08
+Romania,RO,ROU,642,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES08
+Romania,RO,ROU,642,National,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES08
+Romania,RO,ROU,642,National,12,Dry latrines - Other,0.0,Eurostat environmental database - ES08
+Romania,RO,ROU,642,National,13,Composting toilets,0.0,Eurostat environmental database - ES08
+Romania,RO,ROU,642,National,14,Other improved,0.0,Eurostat environmental database - ES08
+Romania,RO,ROU,642,National,15,"No facility, bush, field",0.0,Eurostat environmental database - ES08
+Romania,RO,ROU,642,National,16,Other unimproved,0.141,Eurostat environmental database - ES08
+Romania,RO,ROU,642,National,17,DK/missing information,0.0,Eurostat environmental database - ES08
+Romania,RO,ROU,642,Urban,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES09
+Romania,RO,ROU,642,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES09
+Romania,RO,ROU,642,Urban,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES09
+Romania,RO,ROU,642,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES09
+Romania,RO,ROU,642,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES09
+Romania,RO,ROU,642,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES09
+Romania,RO,ROU,642,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES09
+Romania,RO,ROU,642,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES09
+Romania,RO,ROU,642,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES09
+Romania,RO,ROU,642,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES09
+Romania,RO,ROU,642,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES09
+Romania,RO,ROU,642,Urban,12,Dry latrines - Other,0.0,Eurostat environmental database - ES09
+Romania,RO,ROU,642,Urban,13,Composting toilets,0.0,Eurostat environmental database - ES09
+Romania,RO,ROU,642,Urban,14,Other improved,0.0,Eurostat environmental database - ES09
+Romania,RO,ROU,642,Urban,15,"No facility, bush, field",0.0,Eurostat environmental database - ES09
+Romania,RO,ROU,642,Urban,16,Other unimproved,0.0,Eurostat environmental database - ES09
+Romania,RO,ROU,642,Urban,17,DK/missing information,0.0,Eurostat environmental database - ES09
+Romania,RO,ROU,642,Rural,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES09
+Romania,RO,ROU,642,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES09
+Romania,RO,ROU,642,Rural,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES09
+Romania,RO,ROU,642,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES09
+Romania,RO,ROU,642,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES09
+Romania,RO,ROU,642,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES09
+Romania,RO,ROU,642,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES09
+Romania,RO,ROU,642,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES09
+Romania,RO,ROU,642,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES09
+Romania,RO,ROU,642,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES09
+Romania,RO,ROU,642,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES09
+Romania,RO,ROU,642,Rural,12,Dry latrines - Other,0.0,Eurostat environmental database - ES09
+Romania,RO,ROU,642,Rural,13,Composting toilets,0.0,Eurostat environmental database - ES09
+Romania,RO,ROU,642,Rural,14,Other improved,0.0,Eurostat environmental database - ES09
+Romania,RO,ROU,642,Rural,15,"No facility, bush, field",0.0,Eurostat environmental database - ES09
+Romania,RO,ROU,642,Rural,16,Other unimproved,0.0,Eurostat environmental database - ES09
+Romania,RO,ROU,642,Rural,17,DK/missing information,0.0,Eurostat environmental database - ES09
+Romania,RO,ROU,642,National,1,Flush and pour flush - to piped sewer system,0.289,Eurostat environmental database - ES09
+Romania,RO,ROU,642,National,2,Flush and pour flush - to septic tank,0.032,Eurostat environmental database - ES09
+Romania,RO,ROU,642,National,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES09
+Romania,RO,ROU,642,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES09
+Romania,RO,ROU,642,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES09
+Romania,RO,ROU,642,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES09
+Romania,RO,ROU,642,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES09
+Romania,RO,ROU,642,National,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES09
+Romania,RO,ROU,642,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES09
+Romania,RO,ROU,642,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES09
+Romania,RO,ROU,642,National,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES09
+Romania,RO,ROU,642,National,12,Dry latrines - Other,0.0,Eurostat environmental database - ES09
+Romania,RO,ROU,642,National,13,Composting toilets,0.0,Eurostat environmental database - ES09
+Romania,RO,ROU,642,National,14,Other improved,0.0,Eurostat environmental database - ES09
+Romania,RO,ROU,642,National,15,"No facility, bush, field",0.0,Eurostat environmental database - ES09
+Romania,RO,ROU,642,National,16,Other unimproved,0.14,Eurostat environmental database - ES09
+Romania,RO,ROU,642,National,17,DK/missing information,0.0,Eurostat environmental database - ES09
+Romania,RO,ROU,642,Urban,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES10
+Romania,RO,ROU,642,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES10
+Romania,RO,ROU,642,Urban,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES10
+Romania,RO,ROU,642,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES10
+Romania,RO,ROU,642,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES10
+Romania,RO,ROU,642,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES10
+Romania,RO,ROU,642,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES10
+Romania,RO,ROU,642,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES10
+Romania,RO,ROU,642,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES10
+Romania,RO,ROU,642,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES10
+Romania,RO,ROU,642,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES10
+Romania,RO,ROU,642,Urban,12,Dry latrines - Other,0.0,Eurostat environmental database - ES10
+Romania,RO,ROU,642,Urban,13,Composting toilets,0.0,Eurostat environmental database - ES10
+Romania,RO,ROU,642,Urban,14,Other improved,0.0,Eurostat environmental database - ES10
+Romania,RO,ROU,642,Urban,15,"No facility, bush, field",0.0,Eurostat environmental database - ES10
+Romania,RO,ROU,642,Urban,16,Other unimproved,0.0,Eurostat environmental database - ES10
+Romania,RO,ROU,642,Urban,17,DK/missing information,0.0,Eurostat environmental database - ES10
+Romania,RO,ROU,642,Rural,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES10
+Romania,RO,ROU,642,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES10
+Romania,RO,ROU,642,Rural,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES10
+Romania,RO,ROU,642,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES10
+Romania,RO,ROU,642,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES10
+Romania,RO,ROU,642,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES10
+Romania,RO,ROU,642,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES10
+Romania,RO,ROU,642,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES10
+Romania,RO,ROU,642,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES10
+Romania,RO,ROU,642,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES10
+Romania,RO,ROU,642,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES10
+Romania,RO,ROU,642,Rural,12,Dry latrines - Other,0.0,Eurostat environmental database - ES10
+Romania,RO,ROU,642,Rural,13,Composting toilets,0.0,Eurostat environmental database - ES10
+Romania,RO,ROU,642,Rural,14,Other improved,0.0,Eurostat environmental database - ES10
+Romania,RO,ROU,642,Rural,15,"No facility, bush, field",0.0,Eurostat environmental database - ES10
+Romania,RO,ROU,642,Rural,16,Other unimproved,0.0,Eurostat environmental database - ES10
+Romania,RO,ROU,642,Rural,17,DK/missing information,0.0,Eurostat environmental database - ES10
+Romania,RO,ROU,642,National,1,Flush and pour flush - to piped sewer system,0.307,Eurostat environmental database - ES10
+Romania,RO,ROU,642,National,2,Flush and pour flush - to septic tank,0.034,Eurostat environmental database - ES10
+Romania,RO,ROU,642,National,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES10
+Romania,RO,ROU,642,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES10
+Romania,RO,ROU,642,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES10
+Romania,RO,ROU,642,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES10
+Romania,RO,ROU,642,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES10
+Romania,RO,ROU,642,National,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES10
+Romania,RO,ROU,642,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES10
+Romania,RO,ROU,642,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES10
+Romania,RO,ROU,642,National,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES10
+Romania,RO,ROU,642,National,12,Dry latrines - Other,0.0,Eurostat environmental database - ES10
+Romania,RO,ROU,642,National,13,Composting toilets,0.0,Eurostat environmental database - ES10
+Romania,RO,ROU,642,National,14,Other improved,0.0,Eurostat environmental database - ES10
+Romania,RO,ROU,642,National,15,"No facility, bush, field",0.0,Eurostat environmental database - ES10
+Romania,RO,ROU,642,National,16,Other unimproved,0.128,Eurostat environmental database - ES10
+Romania,RO,ROU,642,National,17,DK/missing information,0.0,Eurostat environmental database - ES10
+Romania,RO,ROU,642,Urban,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES11
+Romania,RO,ROU,642,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES11
+Romania,RO,ROU,642,Urban,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES11
+Romania,RO,ROU,642,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES11
+Romania,RO,ROU,642,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES11
+Romania,RO,ROU,642,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES11
+Romania,RO,ROU,642,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES11
+Romania,RO,ROU,642,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES11
+Romania,RO,ROU,642,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES11
+Romania,RO,ROU,642,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES11
+Romania,RO,ROU,642,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES11
+Romania,RO,ROU,642,Urban,12,Dry latrines - Other,0.0,Eurostat environmental database - ES11
+Romania,RO,ROU,642,Urban,13,Composting toilets,0.0,Eurostat environmental database - ES11
+Romania,RO,ROU,642,Urban,14,Other improved,0.0,Eurostat environmental database - ES11
+Romania,RO,ROU,642,Urban,15,"No facility, bush, field",0.0,Eurostat environmental database - ES11
+Romania,RO,ROU,642,Urban,16,Other unimproved,0.0,Eurostat environmental database - ES11
+Romania,RO,ROU,642,Urban,17,DK/missing information,0.0,Eurostat environmental database - ES11
+Romania,RO,ROU,642,Rural,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES11
+Romania,RO,ROU,642,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES11
+Romania,RO,ROU,642,Rural,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES11
+Romania,RO,ROU,642,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES11
+Romania,RO,ROU,642,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES11
+Romania,RO,ROU,642,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES11
+Romania,RO,ROU,642,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES11
+Romania,RO,ROU,642,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES11
+Romania,RO,ROU,642,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES11
+Romania,RO,ROU,642,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES11
+Romania,RO,ROU,642,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES11
+Romania,RO,ROU,642,Rural,12,Dry latrines - Other,0.0,Eurostat environmental database - ES11
+Romania,RO,ROU,642,Rural,13,Composting toilets,0.0,Eurostat environmental database - ES11
+Romania,RO,ROU,642,Rural,14,Other improved,0.0,Eurostat environmental database - ES11
+Romania,RO,ROU,642,Rural,15,"No facility, bush, field",0.0,Eurostat environmental database - ES11
+Romania,RO,ROU,642,Rural,16,Other unimproved,0.0,Eurostat environmental database - ES11
+Romania,RO,ROU,642,Rural,17,DK/missing information,0.0,Eurostat environmental database - ES11
+Romania,RO,ROU,642,National,1,Flush and pour flush - to piped sewer system,0.4,Eurostat environmental database - ES11
+Romania,RO,ROU,642,National,2,Flush and pour flush - to septic tank,0.016,Eurostat environmental database - ES11
+Romania,RO,ROU,642,National,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES11
+Romania,RO,ROU,642,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES11
+Romania,RO,ROU,642,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES11
+Romania,RO,ROU,642,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES11
+Romania,RO,ROU,642,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES11
+Romania,RO,ROU,642,National,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES11
+Romania,RO,ROU,642,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES11
+Romania,RO,ROU,642,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES11
+Romania,RO,ROU,642,National,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES11
+Romania,RO,ROU,642,National,12,Dry latrines - Other,0.0,Eurostat environmental database - ES11
+Romania,RO,ROU,642,National,13,Composting toilets,0.0,Eurostat environmental database - ES11
+Romania,RO,ROU,642,National,14,Other improved,0.0,Eurostat environmental database - ES11
+Romania,RO,ROU,642,National,15,"No facility, bush, field",0.0,Eurostat environmental database - ES11
+Romania,RO,ROU,642,National,16,Other unimproved,0.035,Eurostat environmental database - ES11
+Romania,RO,ROU,642,National,17,DK/missing information,0.0,Eurostat environmental database - ES11
+Romania,RO,ROU,642,Urban,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES12
+Romania,RO,ROU,642,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES12
+Romania,RO,ROU,642,Urban,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES12
+Romania,RO,ROU,642,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES12
+Romania,RO,ROU,642,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES12
+Romania,RO,ROU,642,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES12
+Romania,RO,ROU,642,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES12
+Romania,RO,ROU,642,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES12
+Romania,RO,ROU,642,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES12
+Romania,RO,ROU,642,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES12
+Romania,RO,ROU,642,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES12
+Romania,RO,ROU,642,Urban,12,Dry latrines - Other,0.0,Eurostat environmental database - ES12
+Romania,RO,ROU,642,Urban,13,Composting toilets,0.0,Eurostat environmental database - ES12
+Romania,RO,ROU,642,Urban,14,Other improved,0.0,Eurostat environmental database - ES12
+Romania,RO,ROU,642,Urban,15,"No facility, bush, field",0.0,Eurostat environmental database - ES12
+Romania,RO,ROU,642,Urban,16,Other unimproved,0.0,Eurostat environmental database - ES12
+Romania,RO,ROU,642,Urban,17,DK/missing information,0.0,Eurostat environmental database - ES12
+Romania,RO,ROU,642,Rural,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES12
+Romania,RO,ROU,642,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES12
+Romania,RO,ROU,642,Rural,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES12
+Romania,RO,ROU,642,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES12
+Romania,RO,ROU,642,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES12
+Romania,RO,ROU,642,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES12
+Romania,RO,ROU,642,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES12
+Romania,RO,ROU,642,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES12
+Romania,RO,ROU,642,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES12
+Romania,RO,ROU,642,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES12
+Romania,RO,ROU,642,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES12
+Romania,RO,ROU,642,Rural,12,Dry latrines - Other,0.0,Eurostat environmental database - ES12
+Romania,RO,ROU,642,Rural,13,Composting toilets,0.0,Eurostat environmental database - ES12
+Romania,RO,ROU,642,Rural,14,Other improved,0.0,Eurostat environmental database - ES12
+Romania,RO,ROU,642,Rural,15,"No facility, bush, field",0.0,Eurostat environmental database - ES12
+Romania,RO,ROU,642,Rural,16,Other unimproved,0.0,Eurostat environmental database - ES12
+Romania,RO,ROU,642,Rural,17,DK/missing information,0.0,Eurostat environmental database - ES12
+Romania,RO,ROU,642,National,1,Flush and pour flush - to piped sewer system,0.431,Eurostat environmental database - ES12
+Romania,RO,ROU,642,National,2,Flush and pour flush - to septic tank,0.019,Eurostat environmental database - ES12
+Romania,RO,ROU,642,National,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES12
+Romania,RO,ROU,642,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES12
+Romania,RO,ROU,642,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES12
+Romania,RO,ROU,642,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES12
+Romania,RO,ROU,642,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES12
+Romania,RO,ROU,642,National,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES12
+Romania,RO,ROU,642,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES12
+Romania,RO,ROU,642,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES12
+Romania,RO,ROU,642,National,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES12
+Romania,RO,ROU,642,National,12,Dry latrines - Other,0.0,Eurostat environmental database - ES12
+Romania,RO,ROU,642,National,13,Composting toilets,0.0,Eurostat environmental database - ES12
+Romania,RO,ROU,642,National,14,Other improved,0.0,Eurostat environmental database - ES12
+Romania,RO,ROU,642,National,15,"No facility, bush, field",0.0,Eurostat environmental database - ES12
+Romania,RO,ROU,642,National,16,Other unimproved,0.036,Eurostat environmental database - ES12
+Romania,RO,ROU,642,National,17,DK/missing information,0.0,Eurostat environmental database - ES12
+Romania,RO,ROU,642,Urban,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES13
+Romania,RO,ROU,642,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES13
+Romania,RO,ROU,642,Urban,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES13
+Romania,RO,ROU,642,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES13
+Romania,RO,ROU,642,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES13
+Romania,RO,ROU,642,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES13
+Romania,RO,ROU,642,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES13
+Romania,RO,ROU,642,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES13
+Romania,RO,ROU,642,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES13
+Romania,RO,ROU,642,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES13
+Romania,RO,ROU,642,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES13
+Romania,RO,ROU,642,Urban,12,Dry latrines - Other,0.0,Eurostat environmental database - ES13
+Romania,RO,ROU,642,Urban,13,Composting toilets,0.0,Eurostat environmental database - ES13
+Romania,RO,ROU,642,Urban,14,Other improved,0.0,Eurostat environmental database - ES13
+Romania,RO,ROU,642,Urban,15,"No facility, bush, field",0.0,Eurostat environmental database - ES13
+Romania,RO,ROU,642,Urban,16,Other unimproved,0.0,Eurostat environmental database - ES13
+Romania,RO,ROU,642,Urban,17,DK/missing information,0.0,Eurostat environmental database - ES13
+Romania,RO,ROU,642,Rural,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES13
+Romania,RO,ROU,642,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES13
+Romania,RO,ROU,642,Rural,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES13
+Romania,RO,ROU,642,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES13
+Romania,RO,ROU,642,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES13
+Romania,RO,ROU,642,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES13
+Romania,RO,ROU,642,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES13
+Romania,RO,ROU,642,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES13
+Romania,RO,ROU,642,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES13
+Romania,RO,ROU,642,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES13
+Romania,RO,ROU,642,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES13
+Romania,RO,ROU,642,Rural,12,Dry latrines - Other,0.0,Eurostat environmental database - ES13
+Romania,RO,ROU,642,Rural,13,Composting toilets,0.0,Eurostat environmental database - ES13
+Romania,RO,ROU,642,Rural,14,Other improved,0.0,Eurostat environmental database - ES13
+Romania,RO,ROU,642,Rural,15,"No facility, bush, field",0.0,Eurostat environmental database - ES13
+Romania,RO,ROU,642,Rural,16,Other unimproved,0.0,Eurostat environmental database - ES13
+Romania,RO,ROU,642,Rural,17,DK/missing information,0.0,Eurostat environmental database - ES13
+Romania,RO,ROU,642,National,1,Flush and pour flush - to piped sewer system,0.441,Eurostat environmental database - ES13
+Romania,RO,ROU,642,National,2,Flush and pour flush - to septic tank,0.018,Eurostat environmental database - ES13
+Romania,RO,ROU,642,National,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES13
+Romania,RO,ROU,642,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES13
+Romania,RO,ROU,642,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES13
+Romania,RO,ROU,642,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES13
+Romania,RO,ROU,642,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES13
+Romania,RO,ROU,642,National,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES13
+Romania,RO,ROU,642,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES13
+Romania,RO,ROU,642,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES13
+Romania,RO,ROU,642,National,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES13
+Romania,RO,ROU,642,National,12,Dry latrines - Other,0.0,Eurostat environmental database - ES13
+Romania,RO,ROU,642,National,13,Composting toilets,0.0,Eurostat environmental database - ES13
+Romania,RO,ROU,642,National,14,Other improved,0.0,Eurostat environmental database - ES13
+Romania,RO,ROU,642,National,15,"No facility, bush, field",0.0,Eurostat environmental database - ES13
+Romania,RO,ROU,642,National,16,Other unimproved,0.025,Eurostat environmental database - ES13
+Romania,RO,ROU,642,National,17,DK/missing information,0.0,Eurostat environmental database - ES13
+Romania,RO,ROU,642,Urban,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES14
+Romania,RO,ROU,642,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES14
+Romania,RO,ROU,642,Urban,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES14
+Romania,RO,ROU,642,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES14
+Romania,RO,ROU,642,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES14
+Romania,RO,ROU,642,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES14
+Romania,RO,ROU,642,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES14
+Romania,RO,ROU,642,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES14
+Romania,RO,ROU,642,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES14
+Romania,RO,ROU,642,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES14
+Romania,RO,ROU,642,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES14
+Romania,RO,ROU,642,Urban,12,Dry latrines - Other,0.0,Eurostat environmental database - ES14
+Romania,RO,ROU,642,Urban,13,Composting toilets,0.0,Eurostat environmental database - ES14
+Romania,RO,ROU,642,Urban,14,Other improved,0.0,Eurostat environmental database - ES14
+Romania,RO,ROU,642,Urban,15,"No facility, bush, field",0.0,Eurostat environmental database - ES14
+Romania,RO,ROU,642,Urban,16,Other unimproved,0.0,Eurostat environmental database - ES14
+Romania,RO,ROU,642,Urban,17,DK/missing information,0.0,Eurostat environmental database - ES14
+Romania,RO,ROU,642,Rural,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES14
+Romania,RO,ROU,642,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES14
+Romania,RO,ROU,642,Rural,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES14
+Romania,RO,ROU,642,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES14
+Romania,RO,ROU,642,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES14
+Romania,RO,ROU,642,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES14
+Romania,RO,ROU,642,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES14
+Romania,RO,ROU,642,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES14
+Romania,RO,ROU,642,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES14
+Romania,RO,ROU,642,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES14
+Romania,RO,ROU,642,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES14
+Romania,RO,ROU,642,Rural,12,Dry latrines - Other,0.0,Eurostat environmental database - ES14
+Romania,RO,ROU,642,Rural,13,Composting toilets,0.0,Eurostat environmental database - ES14
+Romania,RO,ROU,642,Rural,14,Other improved,0.0,Eurostat environmental database - ES14
+Romania,RO,ROU,642,Rural,15,"No facility, bush, field",0.0,Eurostat environmental database - ES14
+Romania,RO,ROU,642,Rural,16,Other unimproved,0.0,Eurostat environmental database - ES14
+Romania,RO,ROU,642,Rural,17,DK/missing information,0.0,Eurostat environmental database - ES14
+Romania,RO,ROU,642,National,1,Flush and pour flush - to piped sewer system,0.451,Eurostat environmental database - ES14
+Romania,RO,ROU,642,National,2,Flush and pour flush - to septic tank,0.019,Eurostat environmental database - ES14
+Romania,RO,ROU,642,National,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES14
+Romania,RO,ROU,642,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES14
+Romania,RO,ROU,642,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES14
+Romania,RO,ROU,642,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES14
+Romania,RO,ROU,642,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES14
+Romania,RO,ROU,642,National,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES14
+Romania,RO,ROU,642,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES14
+Romania,RO,ROU,642,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES14
+Romania,RO,ROU,642,National,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES14
+Romania,RO,ROU,642,National,12,Dry latrines - Other,0.0,Eurostat environmental database - ES14
+Romania,RO,ROU,642,National,13,Composting toilets,0.0,Eurostat environmental database - ES14
+Romania,RO,ROU,642,National,14,Other improved,0.0,Eurostat environmental database - ES14
+Romania,RO,ROU,642,National,15,"No facility, bush, field",0.0,Eurostat environmental database - ES14
+Romania,RO,ROU,642,National,16,Other unimproved,0.02,Eurostat environmental database - ES14
+Romania,RO,ROU,642,National,17,DK/missing information,0.0,Eurostat environmental database - ES14
+Romania,RO,ROU,642,Urban,1,Flush and pour flush - to piped sewer system,0.0,Eurostat - ES15
+Romania,RO,ROU,642,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat - ES15
+Romania,RO,ROU,642,Urban,3,Flush and pour flush - to pit,0.0,Eurostat - ES15
+Romania,RO,ROU,642,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat - ES15
+Romania,RO,ROU,642,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat - ES15
+Romania,RO,ROU,642,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat - ES15
+Romania,RO,ROU,642,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat - ES15
+Romania,RO,ROU,642,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat - ES15
+Romania,RO,ROU,642,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat - ES15
+Romania,RO,ROU,642,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat - ES15
+Romania,RO,ROU,642,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat - ES15
+Romania,RO,ROU,642,Urban,12,Dry latrines - Other,0.0,Eurostat - ES15
+Romania,RO,ROU,642,Urban,13,Composting toilets,0.0,Eurostat - ES15
+Romania,RO,ROU,642,Urban,14,Other improved,0.0,Eurostat - ES15
+Romania,RO,ROU,642,Urban,15,"No facility, bush, field",0.0,Eurostat - ES15
+Romania,RO,ROU,642,Urban,16,Other unimproved,0.0,Eurostat - ES15
+Romania,RO,ROU,642,Urban,17,DK/missing information,0.0,Eurostat - ES15
+Romania,RO,ROU,642,Rural,1,Flush and pour flush - to piped sewer system,0.0,Eurostat - ES15
+Romania,RO,ROU,642,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat - ES15
+Romania,RO,ROU,642,Rural,3,Flush and pour flush - to pit,0.0,Eurostat - ES15
+Romania,RO,ROU,642,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat - ES15
+Romania,RO,ROU,642,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat - ES15
+Romania,RO,ROU,642,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat - ES15
+Romania,RO,ROU,642,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat - ES15
+Romania,RO,ROU,642,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat - ES15
+Romania,RO,ROU,642,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat - ES15
+Romania,RO,ROU,642,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat - ES15
+Romania,RO,ROU,642,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat - ES15
+Romania,RO,ROU,642,Rural,12,Dry latrines - Other,0.0,Eurostat - ES15
+Romania,RO,ROU,642,Rural,13,Composting toilets,0.0,Eurostat - ES15
+Romania,RO,ROU,642,Rural,14,Other improved,0.0,Eurostat - ES15
+Romania,RO,ROU,642,Rural,15,"No facility, bush, field",0.0,Eurostat - ES15
+Romania,RO,ROU,642,Rural,16,Other unimproved,0.0,Eurostat - ES15
+Romania,RO,ROU,642,Rural,17,DK/missing information,0.0,Eurostat - ES15
+Romania,RO,ROU,642,National,1,Flush and pour flush - to piped sewer system,0.459,Eurostat - ES15
+Romania,RO,ROU,642,National,2,Flush and pour flush - to septic tank,0.019,Eurostat - ES15
+Romania,RO,ROU,642,National,3,Flush and pour flush - to pit,0.0,Eurostat - ES15
+Romania,RO,ROU,642,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat - ES15
+Romania,RO,ROU,642,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat - ES15
+Romania,RO,ROU,642,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat - ES15
+Romania,RO,ROU,642,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat - ES15
+Romania,RO,ROU,642,National,8,Dry latrines - Traditional latrine,0.0,Eurostat - ES15
+Romania,RO,ROU,642,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat - ES15
+Romania,RO,ROU,642,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat - ES15
+Romania,RO,ROU,642,National,11,Dry latrines - Bucket latrine,0.0,Eurostat - ES15
+Romania,RO,ROU,642,National,12,Dry latrines - Other,0.0,Eurostat - ES15
+Romania,RO,ROU,642,National,13,Composting toilets,0.0,Eurostat - ES15
+Romania,RO,ROU,642,National,14,Other improved,0.0,Eurostat - ES15
+Romania,RO,ROU,642,National,15,"No facility, bush, field",0.0,Eurostat - ES15
+Romania,RO,ROU,642,National,16,Other unimproved,0.0,Eurostat - ES15
+Romania,RO,ROU,642,National,17,DK/missing information,0.0,Eurostat - ES15
+Romania,RO,ROU,642,Urban,1,Flush and pour flush - to piped sewer system,0.0,Housing living conditions survey - HLCS07
+Romania,RO,ROU,642,Urban,2,Flush and pour flush - to septic tank,0.0,Housing living conditions survey - HLCS07
+Romania,RO,ROU,642,Urban,3,Flush and pour flush - to pit,0.0,Housing living conditions survey - HLCS07
+Romania,RO,ROU,642,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Housing living conditions survey - HLCS07
+Romania,RO,ROU,642,Urban,5,Flush and pour flush - to elsewhere,0.0,Housing living conditions survey - HLCS07
+Romania,RO,ROU,642,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Housing living conditions survey - HLCS07
+Romania,RO,ROU,642,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Housing living conditions survey - HLCS07
+Romania,RO,ROU,642,Urban,8,Dry latrines - Traditional latrine,0.0,Housing living conditions survey - HLCS07
+Romania,RO,ROU,642,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Housing living conditions survey - HLCS07
+Romania,RO,ROU,642,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Housing living conditions survey - HLCS07
+Romania,RO,ROU,642,Urban,11,Dry latrines - Bucket latrine,0.0,Housing living conditions survey - HLCS07
+Romania,RO,ROU,642,Urban,12,Dry latrines - Other,0.0,Housing living conditions survey - HLCS07
+Romania,RO,ROU,642,Urban,13,Composting toilets,0.0,Housing living conditions survey - HLCS07
+Romania,RO,ROU,642,Urban,14,Other improved,0.0,Housing living conditions survey - HLCS07
+Romania,RO,ROU,642,Urban,15,"No facility, bush, field",0.0,Housing living conditions survey - HLCS07
+Romania,RO,ROU,642,Urban,16,Other unimproved,0.126,Housing living conditions survey - HLCS07
+Romania,RO,ROU,642,Urban,17,DK/missing information,0.0,Housing living conditions survey - HLCS07
+Romania,RO,ROU,642,Rural,1,Flush and pour flush - to piped sewer system,0.0,Housing living conditions survey - HLCS07
+Romania,RO,ROU,642,Rural,2,Flush and pour flush - to septic tank,0.0,Housing living conditions survey - HLCS07
+Romania,RO,ROU,642,Rural,3,Flush and pour flush - to pit,0.0,Housing living conditions survey - HLCS07
+Romania,RO,ROU,642,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Housing living conditions survey - HLCS07
+Romania,RO,ROU,642,Rural,5,Flush and pour flush - to elsewhere,0.0,Housing living conditions survey - HLCS07
+Romania,RO,ROU,642,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Housing living conditions survey - HLCS07
+Romania,RO,ROU,642,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Housing living conditions survey - HLCS07
+Romania,RO,ROU,642,Rural,8,Dry latrines - Traditional latrine,0.0,Housing living conditions survey - HLCS07
+Romania,RO,ROU,642,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Housing living conditions survey - HLCS07
+Romania,RO,ROU,642,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Housing living conditions survey - HLCS07
+Romania,RO,ROU,642,Rural,11,Dry latrines - Bucket latrine,0.0,Housing living conditions survey - HLCS07
+Romania,RO,ROU,642,Rural,12,Dry latrines - Other,0.0,Housing living conditions survey - HLCS07
+Romania,RO,ROU,642,Rural,13,Composting toilets,0.0,Housing living conditions survey - HLCS07
+Romania,RO,ROU,642,Rural,14,Other improved,0.0,Housing living conditions survey - HLCS07
+Romania,RO,ROU,642,Rural,15,"No facility, bush, field",0.0,Housing living conditions survey - HLCS07
+Romania,RO,ROU,642,Rural,16,Other unimproved,0.835,Housing living conditions survey - HLCS07
+Romania,RO,ROU,642,Rural,17,DK/missing information,0.0,Housing living conditions survey - HLCS07
+Romania,RO,ROU,642,National,1,Flush and pour flush - to piped sewer system,0.0,Housing living conditions survey - HLCS07
+Romania,RO,ROU,642,National,2,Flush and pour flush - to septic tank,0.0,Housing living conditions survey - HLCS07
+Romania,RO,ROU,642,National,3,Flush and pour flush - to pit,0.0,Housing living conditions survey - HLCS07
+Romania,RO,ROU,642,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Housing living conditions survey - HLCS07
+Romania,RO,ROU,642,National,5,Flush and pour flush - to elsewhere,0.0,Housing living conditions survey - HLCS07
+Romania,RO,ROU,642,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Housing living conditions survey - HLCS07
+Romania,RO,ROU,642,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Housing living conditions survey - HLCS07
+Romania,RO,ROU,642,National,8,Dry latrines - Traditional latrine,0.0,Housing living conditions survey - HLCS07
+Romania,RO,ROU,642,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Housing living conditions survey - HLCS07
+Romania,RO,ROU,642,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Housing living conditions survey - HLCS07
+Romania,RO,ROU,642,National,11,Dry latrines - Bucket latrine,0.0,Housing living conditions survey - HLCS07
+Romania,RO,ROU,642,National,12,Dry latrines - Other,0.0,Housing living conditions survey - HLCS07
+Romania,RO,ROU,642,National,13,Composting toilets,0.0,Housing living conditions survey - HLCS07
+Romania,RO,ROU,642,National,14,Other improved,0.0,Housing living conditions survey - HLCS07
+Romania,RO,ROU,642,National,15,"No facility, bush, field",0.0,Housing living conditions survey - HLCS07
+Romania,RO,ROU,642,National,16,Other unimproved,0.434,Housing living conditions survey - HLCS07
+Romania,RO,ROU,642,National,17,DK/missing information,0.0,Housing living conditions survey - HLCS07
+Romania,RO,ROU,642,Urban,1,Flush and pour flush - to piped sewer system,0.0,Housing living conditions survey - HLCS08
+Romania,RO,ROU,642,Urban,2,Flush and pour flush - to septic tank,0.0,Housing living conditions survey - HLCS08
+Romania,RO,ROU,642,Urban,3,Flush and pour flush - to pit,0.0,Housing living conditions survey - HLCS08
+Romania,RO,ROU,642,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Housing living conditions survey - HLCS08
+Romania,RO,ROU,642,Urban,5,Flush and pour flush - to elsewhere,0.0,Housing living conditions survey - HLCS08
+Romania,RO,ROU,642,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Housing living conditions survey - HLCS08
+Romania,RO,ROU,642,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Housing living conditions survey - HLCS08
+Romania,RO,ROU,642,Urban,8,Dry latrines - Traditional latrine,0.0,Housing living conditions survey - HLCS08
+Romania,RO,ROU,642,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Housing living conditions survey - HLCS08
+Romania,RO,ROU,642,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Housing living conditions survey - HLCS08
+Romania,RO,ROU,642,Urban,11,Dry latrines - Bucket latrine,0.0,Housing living conditions survey - HLCS08
+Romania,RO,ROU,642,Urban,12,Dry latrines - Other,0.0,Housing living conditions survey - HLCS08
+Romania,RO,ROU,642,Urban,13,Composting toilets,0.0,Housing living conditions survey - HLCS08
+Romania,RO,ROU,642,Urban,14,Other improved,0.0,Housing living conditions survey - HLCS08
+Romania,RO,ROU,642,Urban,15,"No facility, bush, field",0.0,Housing living conditions survey - HLCS08
+Romania,RO,ROU,642,Urban,16,Other unimproved,0.12,Housing living conditions survey - HLCS08
+Romania,RO,ROU,642,Urban,17,DK/missing information,0.0,Housing living conditions survey - HLCS08
+Romania,RO,ROU,642,Rural,1,Flush and pour flush - to piped sewer system,0.0,Housing living conditions survey - HLCS08
+Romania,RO,ROU,642,Rural,2,Flush and pour flush - to septic tank,0.0,Housing living conditions survey - HLCS08
+Romania,RO,ROU,642,Rural,3,Flush and pour flush - to pit,0.0,Housing living conditions survey - HLCS08
+Romania,RO,ROU,642,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Housing living conditions survey - HLCS08
+Romania,RO,ROU,642,Rural,5,Flush and pour flush - to elsewhere,0.0,Housing living conditions survey - HLCS08
+Romania,RO,ROU,642,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Housing living conditions survey - HLCS08
+Romania,RO,ROU,642,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Housing living conditions survey - HLCS08
+Romania,RO,ROU,642,Rural,8,Dry latrines - Traditional latrine,0.0,Housing living conditions survey - HLCS08
+Romania,RO,ROU,642,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Housing living conditions survey - HLCS08
+Romania,RO,ROU,642,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Housing living conditions survey - HLCS08
+Romania,RO,ROU,642,Rural,11,Dry latrines - Bucket latrine,0.0,Housing living conditions survey - HLCS08
+Romania,RO,ROU,642,Rural,12,Dry latrines - Other,0.0,Housing living conditions survey - HLCS08
+Romania,RO,ROU,642,Rural,13,Composting toilets,0.0,Housing living conditions survey - HLCS08
+Romania,RO,ROU,642,Rural,14,Other improved,0.0,Housing living conditions survey - HLCS08
+Romania,RO,ROU,642,Rural,15,"No facility, bush, field",0.0,Housing living conditions survey - HLCS08
+Romania,RO,ROU,642,Rural,16,Other unimproved,0.803,Housing living conditions survey - HLCS08
+Romania,RO,ROU,642,Rural,17,DK/missing information,0.0,Housing living conditions survey - HLCS08
+Romania,RO,ROU,642,National,1,Flush and pour flush - to piped sewer system,0.0,Housing living conditions survey - HLCS08
+Romania,RO,ROU,642,National,2,Flush and pour flush - to septic tank,0.0,Housing living conditions survey - HLCS08
+Romania,RO,ROU,642,National,3,Flush and pour flush - to pit,0.0,Housing living conditions survey - HLCS08
+Romania,RO,ROU,642,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Housing living conditions survey - HLCS08
+Romania,RO,ROU,642,National,5,Flush and pour flush - to elsewhere,0.0,Housing living conditions survey - HLCS08
+Romania,RO,ROU,642,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Housing living conditions survey - HLCS08
+Romania,RO,ROU,642,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Housing living conditions survey - HLCS08
+Romania,RO,ROU,642,National,8,Dry latrines - Traditional latrine,0.0,Housing living conditions survey - HLCS08
+Romania,RO,ROU,642,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Housing living conditions survey - HLCS08
+Romania,RO,ROU,642,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Housing living conditions survey - HLCS08
+Romania,RO,ROU,642,National,11,Dry latrines - Bucket latrine,0.0,Housing living conditions survey - HLCS08
+Romania,RO,ROU,642,National,12,Dry latrines - Other,0.0,Housing living conditions survey - HLCS08
+Romania,RO,ROU,642,National,13,Composting toilets,0.0,Housing living conditions survey - HLCS08
+Romania,RO,ROU,642,National,14,Other improved,0.0,Housing living conditions survey - HLCS08
+Romania,RO,ROU,642,National,15,"No facility, bush, field",0.0,Housing living conditions survey - HLCS08
+Romania,RO,ROU,642,National,16,Other unimproved,0.42,Housing living conditions survey - HLCS08
+Romania,RO,ROU,642,National,17,DK/missing information,0.0,Housing living conditions survey - HLCS08
+Romania,RO,ROU,642,Urban,1,Flush and pour flush - to piped sewer system,0.0,Housing living conditions survey - HLCS09
+Romania,RO,ROU,642,Urban,2,Flush and pour flush - to septic tank,0.0,Housing living conditions survey - HLCS09
+Romania,RO,ROU,642,Urban,3,Flush and pour flush - to pit,0.0,Housing living conditions survey - HLCS09
+Romania,RO,ROU,642,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Housing living conditions survey - HLCS09
+Romania,RO,ROU,642,Urban,5,Flush and pour flush - to elsewhere,0.0,Housing living conditions survey - HLCS09
+Romania,RO,ROU,642,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Housing living conditions survey - HLCS09
+Romania,RO,ROU,642,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Housing living conditions survey - HLCS09
+Romania,RO,ROU,642,Urban,8,Dry latrines - Traditional latrine,0.0,Housing living conditions survey - HLCS09
+Romania,RO,ROU,642,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Housing living conditions survey - HLCS09
+Romania,RO,ROU,642,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Housing living conditions survey - HLCS09
+Romania,RO,ROU,642,Urban,11,Dry latrines - Bucket latrine,0.0,Housing living conditions survey - HLCS09
+Romania,RO,ROU,642,Urban,12,Dry latrines - Other,0.0,Housing living conditions survey - HLCS09
+Romania,RO,ROU,642,Urban,13,Composting toilets,0.0,Housing living conditions survey - HLCS09
+Romania,RO,ROU,642,Urban,14,Other improved,0.0,Housing living conditions survey - HLCS09
+Romania,RO,ROU,642,Urban,15,"No facility, bush, field",0.0,Housing living conditions survey - HLCS09
+Romania,RO,ROU,642,Urban,16,Other unimproved,0.12,Housing living conditions survey - HLCS09
+Romania,RO,ROU,642,Urban,17,DK/missing information,0.0,Housing living conditions survey - HLCS09
+Romania,RO,ROU,642,Rural,1,Flush and pour flush - to piped sewer system,0.0,Housing living conditions survey - HLCS09
+Romania,RO,ROU,642,Rural,2,Flush and pour flush - to septic tank,0.0,Housing living conditions survey - HLCS09
+Romania,RO,ROU,642,Rural,3,Flush and pour flush - to pit,0.0,Housing living conditions survey - HLCS09
+Romania,RO,ROU,642,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Housing living conditions survey - HLCS09
+Romania,RO,ROU,642,Rural,5,Flush and pour flush - to elsewhere,0.0,Housing living conditions survey - HLCS09
+Romania,RO,ROU,642,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Housing living conditions survey - HLCS09
+Romania,RO,ROU,642,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Housing living conditions survey - HLCS09
+Romania,RO,ROU,642,Rural,8,Dry latrines - Traditional latrine,0.0,Housing living conditions survey - HLCS09
+Romania,RO,ROU,642,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Housing living conditions survey - HLCS09
+Romania,RO,ROU,642,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Housing living conditions survey - HLCS09
+Romania,RO,ROU,642,Rural,11,Dry latrines - Bucket latrine,0.0,Housing living conditions survey - HLCS09
+Romania,RO,ROU,642,Rural,12,Dry latrines - Other,0.0,Housing living conditions survey - HLCS09
+Romania,RO,ROU,642,Rural,13,Composting toilets,0.0,Housing living conditions survey - HLCS09
+Romania,RO,ROU,642,Rural,14,Other improved,0.0,Housing living conditions survey - HLCS09
+Romania,RO,ROU,642,Rural,15,"No facility, bush, field",0.0,Housing living conditions survey - HLCS09
+Romania,RO,ROU,642,Rural,16,Other unimproved,0.806,Housing living conditions survey - HLCS09
+Romania,RO,ROU,642,Rural,17,DK/missing information,0.0,Housing living conditions survey - HLCS09
+Romania,RO,ROU,642,National,1,Flush and pour flush - to piped sewer system,0.0,Housing living conditions survey - HLCS09
+Romania,RO,ROU,642,National,2,Flush and pour flush - to septic tank,0.0,Housing living conditions survey - HLCS09
+Romania,RO,ROU,642,National,3,Flush and pour flush - to pit,0.0,Housing living conditions survey - HLCS09
+Romania,RO,ROU,642,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Housing living conditions survey - HLCS09
+Romania,RO,ROU,642,National,5,Flush and pour flush - to elsewhere,0.0,Housing living conditions survey - HLCS09
+Romania,RO,ROU,642,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Housing living conditions survey - HLCS09
+Romania,RO,ROU,642,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Housing living conditions survey - HLCS09
+Romania,RO,ROU,642,National,8,Dry latrines - Traditional latrine,0.0,Housing living conditions survey - HLCS09
+Romania,RO,ROU,642,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Housing living conditions survey - HLCS09
+Romania,RO,ROU,642,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Housing living conditions survey - HLCS09
+Romania,RO,ROU,642,National,11,Dry latrines - Bucket latrine,0.0,Housing living conditions survey - HLCS09
+Romania,RO,ROU,642,National,12,Dry latrines - Other,0.0,Housing living conditions survey - HLCS09
+Romania,RO,ROU,642,National,13,Composting toilets,0.0,Housing living conditions survey - HLCS09
+Romania,RO,ROU,642,National,14,Other improved,0.0,Housing living conditions survey - HLCS09
+Romania,RO,ROU,642,National,15,"No facility, bush, field",0.0,Housing living conditions survey - HLCS09
+Romania,RO,ROU,642,National,16,Other unimproved,0.418,Housing living conditions survey - HLCS09
+Romania,RO,ROU,642,National,17,DK/missing information,0.0,Housing living conditions survey - HLCS09
+Romania,RO,ROU,642,Urban,1,Flush and pour flush - to piped sewer system,0.0,Housing living conditions survey - HLCS10
+Romania,RO,ROU,642,Urban,2,Flush and pour flush - to septic tank,0.0,Housing living conditions survey - HLCS10
+Romania,RO,ROU,642,Urban,3,Flush and pour flush - to pit,0.0,Housing living conditions survey - HLCS10
+Romania,RO,ROU,642,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Housing living conditions survey - HLCS10
+Romania,RO,ROU,642,Urban,5,Flush and pour flush - to elsewhere,0.0,Housing living conditions survey - HLCS10
+Romania,RO,ROU,642,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Housing living conditions survey - HLCS10
+Romania,RO,ROU,642,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Housing living conditions survey - HLCS10
+Romania,RO,ROU,642,Urban,8,Dry latrines - Traditional latrine,0.0,Housing living conditions survey - HLCS10
+Romania,RO,ROU,642,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Housing living conditions survey - HLCS10
+Romania,RO,ROU,642,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Housing living conditions survey - HLCS10
+Romania,RO,ROU,642,Urban,11,Dry latrines - Bucket latrine,0.0,Housing living conditions survey - HLCS10
+Romania,RO,ROU,642,Urban,12,Dry latrines - Other,0.0,Housing living conditions survey - HLCS10
+Romania,RO,ROU,642,Urban,13,Composting toilets,0.0,Housing living conditions survey - HLCS10
+Romania,RO,ROU,642,Urban,14,Other improved,0.0,Housing living conditions survey - HLCS10
+Romania,RO,ROU,642,Urban,15,"No facility, bush, field",0.0,Housing living conditions survey - HLCS10
+Romania,RO,ROU,642,Urban,16,Other unimproved,0.112,Housing living conditions survey - HLCS10
+Romania,RO,ROU,642,Urban,17,DK/missing information,0.0,Housing living conditions survey - HLCS10
+Romania,RO,ROU,642,Rural,1,Flush and pour flush - to piped sewer system,0.0,Housing living conditions survey - HLCS10
+Romania,RO,ROU,642,Rural,2,Flush and pour flush - to septic tank,0.0,Housing living conditions survey - HLCS10
+Romania,RO,ROU,642,Rural,3,Flush and pour flush - to pit,0.0,Housing living conditions survey - HLCS10
+Romania,RO,ROU,642,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Housing living conditions survey - HLCS10
+Romania,RO,ROU,642,Rural,5,Flush and pour flush - to elsewhere,0.0,Housing living conditions survey - HLCS10
+Romania,RO,ROU,642,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Housing living conditions survey - HLCS10
+Romania,RO,ROU,642,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Housing living conditions survey - HLCS10
+Romania,RO,ROU,642,Rural,8,Dry latrines - Traditional latrine,0.0,Housing living conditions survey - HLCS10
+Romania,RO,ROU,642,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Housing living conditions survey - HLCS10
+Romania,RO,ROU,642,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Housing living conditions survey - HLCS10
+Romania,RO,ROU,642,Rural,11,Dry latrines - Bucket latrine,0.0,Housing living conditions survey - HLCS10
+Romania,RO,ROU,642,Rural,12,Dry latrines - Other,0.0,Housing living conditions survey - HLCS10
+Romania,RO,ROU,642,Rural,13,Composting toilets,0.0,Housing living conditions survey - HLCS10
+Romania,RO,ROU,642,Rural,14,Other improved,0.0,Housing living conditions survey - HLCS10
+Romania,RO,ROU,642,Rural,15,"No facility, bush, field",0.0,Housing living conditions survey - HLCS10
+Romania,RO,ROU,642,Rural,16,Other unimproved,0.786,Housing living conditions survey - HLCS10
+Romania,RO,ROU,642,Rural,17,DK/missing information,0.0,Housing living conditions survey - HLCS10
+Romania,RO,ROU,642,National,1,Flush and pour flush - to piped sewer system,0.0,Housing living conditions survey - HLCS10
+Romania,RO,ROU,642,National,2,Flush and pour flush - to septic tank,0.0,Housing living conditions survey - HLCS10
+Romania,RO,ROU,642,National,3,Flush and pour flush - to pit,0.0,Housing living conditions survey - HLCS10
+Romania,RO,ROU,642,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Housing living conditions survey - HLCS10
+Romania,RO,ROU,642,National,5,Flush and pour flush - to elsewhere,0.0,Housing living conditions survey - HLCS10
+Romania,RO,ROU,642,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Housing living conditions survey - HLCS10
+Romania,RO,ROU,642,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Housing living conditions survey - HLCS10
+Romania,RO,ROU,642,National,8,Dry latrines - Traditional latrine,0.0,Housing living conditions survey - HLCS10
+Romania,RO,ROU,642,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Housing living conditions survey - HLCS10
+Romania,RO,ROU,642,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Housing living conditions survey - HLCS10
+Romania,RO,ROU,642,National,11,Dry latrines - Bucket latrine,0.0,Housing living conditions survey - HLCS10
+Romania,RO,ROU,642,National,12,Dry latrines - Other,0.0,Housing living conditions survey - HLCS10
+Romania,RO,ROU,642,National,13,Composting toilets,0.0,Housing living conditions survey - HLCS10
+Romania,RO,ROU,642,National,14,Other improved,0.0,Housing living conditions survey - HLCS10
+Romania,RO,ROU,642,National,15,"No facility, bush, field",0.0,Housing living conditions survey - HLCS10
+Romania,RO,ROU,642,National,16,Other unimproved,0.404,Housing living conditions survey - HLCS10
+Romania,RO,ROU,642,National,17,DK/missing information,0.0,Housing living conditions survey - HLCS10
+Romania,RO,ROU,642,Urban,1,Flush and pour flush - to piped sewer system,0.0,Housing living conditions survey - HLCS11
+Romania,RO,ROU,642,Urban,2,Flush and pour flush - to septic tank,0.0,Housing living conditions survey - HLCS11
+Romania,RO,ROU,642,Urban,3,Flush and pour flush - to pit,0.0,Housing living conditions survey - HLCS11
+Romania,RO,ROU,642,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Housing living conditions survey - HLCS11
+Romania,RO,ROU,642,Urban,5,Flush and pour flush - to elsewhere,0.0,Housing living conditions survey - HLCS11
+Romania,RO,ROU,642,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Housing living conditions survey - HLCS11
+Romania,RO,ROU,642,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Housing living conditions survey - HLCS11
+Romania,RO,ROU,642,Urban,8,Dry latrines - Traditional latrine,0.0,Housing living conditions survey - HLCS11
+Romania,RO,ROU,642,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Housing living conditions survey - HLCS11
+Romania,RO,ROU,642,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Housing living conditions survey - HLCS11
+Romania,RO,ROU,642,Urban,11,Dry latrines - Bucket latrine,0.0,Housing living conditions survey - HLCS11
+Romania,RO,ROU,642,Urban,12,Dry latrines - Other,0.0,Housing living conditions survey - HLCS11
+Romania,RO,ROU,642,Urban,13,Composting toilets,0.0,Housing living conditions survey - HLCS11
+Romania,RO,ROU,642,Urban,14,Other improved,0.0,Housing living conditions survey - HLCS11
+Romania,RO,ROU,642,Urban,15,"No facility, bush, field",0.0,Housing living conditions survey - HLCS11
+Romania,RO,ROU,642,Urban,16,Other unimproved,0.104,Housing living conditions survey - HLCS11
+Romania,RO,ROU,642,Urban,17,DK/missing information,0.0,Housing living conditions survey - HLCS11
+Romania,RO,ROU,642,Rural,1,Flush and pour flush - to piped sewer system,0.0,Housing living conditions survey - HLCS11
+Romania,RO,ROU,642,Rural,2,Flush and pour flush - to septic tank,0.0,Housing living conditions survey - HLCS11
+Romania,RO,ROU,642,Rural,3,Flush and pour flush - to pit,0.0,Housing living conditions survey - HLCS11
+Romania,RO,ROU,642,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Housing living conditions survey - HLCS11
+Romania,RO,ROU,642,Rural,5,Flush and pour flush - to elsewhere,0.0,Housing living conditions survey - HLCS11
+Romania,RO,ROU,642,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Housing living conditions survey - HLCS11
+Romania,RO,ROU,642,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Housing living conditions survey - HLCS11
+Romania,RO,ROU,642,Rural,8,Dry latrines - Traditional latrine,0.0,Housing living conditions survey - HLCS11
+Romania,RO,ROU,642,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Housing living conditions survey - HLCS11
+Romania,RO,ROU,642,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Housing living conditions survey - HLCS11
+Romania,RO,ROU,642,Rural,11,Dry latrines - Bucket latrine,0.0,Housing living conditions survey - HLCS11
+Romania,RO,ROU,642,Rural,12,Dry latrines - Other,0.0,Housing living conditions survey - HLCS11
+Romania,RO,ROU,642,Rural,13,Composting toilets,0.0,Housing living conditions survey - HLCS11
+Romania,RO,ROU,642,Rural,14,Other improved,0.0,Housing living conditions survey - HLCS11
+Romania,RO,ROU,642,Rural,15,"No facility, bush, field",0.0,Housing living conditions survey - HLCS11
+Romania,RO,ROU,642,Rural,16,Other unimproved,0.75,Housing living conditions survey - HLCS11
+Romania,RO,ROU,642,Rural,17,DK/missing information,0.0,Housing living conditions survey - HLCS11
+Romania,RO,ROU,642,National,1,Flush and pour flush - to piped sewer system,0.0,Housing living conditions survey - HLCS11
+Romania,RO,ROU,642,National,2,Flush and pour flush - to septic tank,0.0,Housing living conditions survey - HLCS11
+Romania,RO,ROU,642,National,3,Flush and pour flush - to pit,0.0,Housing living conditions survey - HLCS11
+Romania,RO,ROU,642,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Housing living conditions survey - HLCS11
+Romania,RO,ROU,642,National,5,Flush and pour flush - to elsewhere,0.0,Housing living conditions survey - HLCS11
+Romania,RO,ROU,642,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Housing living conditions survey - HLCS11
+Romania,RO,ROU,642,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Housing living conditions survey - HLCS11
+Romania,RO,ROU,642,National,8,Dry latrines - Traditional latrine,0.0,Housing living conditions survey - HLCS11
+Romania,RO,ROU,642,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Housing living conditions survey - HLCS11
+Romania,RO,ROU,642,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Housing living conditions survey - HLCS11
+Romania,RO,ROU,642,National,11,Dry latrines - Bucket latrine,0.0,Housing living conditions survey - HLCS11
+Romania,RO,ROU,642,National,12,Dry latrines - Other,0.0,Housing living conditions survey - HLCS11
+Romania,RO,ROU,642,National,13,Composting toilets,0.0,Housing living conditions survey - HLCS11
+Romania,RO,ROU,642,National,14,Other improved,0.0,Housing living conditions survey - HLCS11
+Romania,RO,ROU,642,National,15,"No facility, bush, field",0.0,Housing living conditions survey - HLCS11
+Romania,RO,ROU,642,National,16,Other unimproved,0.379,Housing living conditions survey - HLCS11
+Romania,RO,ROU,642,National,17,DK/missing information,0.0,Housing living conditions survey - HLCS11
+Romania,RO,ROU,642,Urban,1,Flush and pour flush - to piped sewer system,0.0,Housing living conditions survey - HLCS12
+Romania,RO,ROU,642,Urban,2,Flush and pour flush - to septic tank,0.0,Housing living conditions survey - HLCS12
+Romania,RO,ROU,642,Urban,3,Flush and pour flush - to pit,0.0,Housing living conditions survey - HLCS12
+Romania,RO,ROU,642,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Housing living conditions survey - HLCS12
+Romania,RO,ROU,642,Urban,5,Flush and pour flush - to elsewhere,0.0,Housing living conditions survey - HLCS12
+Romania,RO,ROU,642,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Housing living conditions survey - HLCS12
+Romania,RO,ROU,642,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Housing living conditions survey - HLCS12
+Romania,RO,ROU,642,Urban,8,Dry latrines - Traditional latrine,0.0,Housing living conditions survey - HLCS12
+Romania,RO,ROU,642,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Housing living conditions survey - HLCS12
+Romania,RO,ROU,642,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Housing living conditions survey - HLCS12
+Romania,RO,ROU,642,Urban,11,Dry latrines - Bucket latrine,0.0,Housing living conditions survey - HLCS12
+Romania,RO,ROU,642,Urban,12,Dry latrines - Other,0.0,Housing living conditions survey - HLCS12
+Romania,RO,ROU,642,Urban,13,Composting toilets,0.0,Housing living conditions survey - HLCS12
+Romania,RO,ROU,642,Urban,14,Other improved,0.0,Housing living conditions survey - HLCS12
+Romania,RO,ROU,642,Urban,15,"No facility, bush, field",0.0,Housing living conditions survey - HLCS12
+Romania,RO,ROU,642,Urban,16,Other unimproved,0.094,Housing living conditions survey - HLCS12
+Romania,RO,ROU,642,Urban,17,DK/missing information,0.0,Housing living conditions survey - HLCS12
+Romania,RO,ROU,642,Rural,1,Flush and pour flush - to piped sewer system,0.0,Housing living conditions survey - HLCS12
+Romania,RO,ROU,642,Rural,2,Flush and pour flush - to septic tank,0.0,Housing living conditions survey - HLCS12
+Romania,RO,ROU,642,Rural,3,Flush and pour flush - to pit,0.0,Housing living conditions survey - HLCS12
+Romania,RO,ROU,642,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Housing living conditions survey - HLCS12
+Romania,RO,ROU,642,Rural,5,Flush and pour flush - to elsewhere,0.0,Housing living conditions survey - HLCS12
+Romania,RO,ROU,642,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Housing living conditions survey - HLCS12
+Romania,RO,ROU,642,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Housing living conditions survey - HLCS12
+Romania,RO,ROU,642,Rural,8,Dry latrines - Traditional latrine,0.0,Housing living conditions survey - HLCS12
+Romania,RO,ROU,642,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Housing living conditions survey - HLCS12
+Romania,RO,ROU,642,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Housing living conditions survey - HLCS12
+Romania,RO,ROU,642,Rural,11,Dry latrines - Bucket latrine,0.0,Housing living conditions survey - HLCS12
+Romania,RO,ROU,642,Rural,12,Dry latrines - Other,0.0,Housing living conditions survey - HLCS12
+Romania,RO,ROU,642,Rural,13,Composting toilets,0.0,Housing living conditions survey - HLCS12
+Romania,RO,ROU,642,Rural,14,Other improved,0.0,Housing living conditions survey - HLCS12
+Romania,RO,ROU,642,Rural,15,"No facility, bush, field",0.0,Housing living conditions survey - HLCS12
+Romania,RO,ROU,642,Rural,16,Other unimproved,0.718,Housing living conditions survey - HLCS12
+Romania,RO,ROU,642,Rural,17,DK/missing information,0.0,Housing living conditions survey - HLCS12
+Romania,RO,ROU,642,National,1,Flush and pour flush - to piped sewer system,0.0,Housing living conditions survey - HLCS12
+Romania,RO,ROU,642,National,2,Flush and pour flush - to septic tank,0.0,Housing living conditions survey - HLCS12
+Romania,RO,ROU,642,National,3,Flush and pour flush - to pit,0.0,Housing living conditions survey - HLCS12
+Romania,RO,ROU,642,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Housing living conditions survey - HLCS12
+Romania,RO,ROU,642,National,5,Flush and pour flush - to elsewhere,0.0,Housing living conditions survey - HLCS12
+Romania,RO,ROU,642,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Housing living conditions survey - HLCS12
+Romania,RO,ROU,642,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Housing living conditions survey - HLCS12
+Romania,RO,ROU,642,National,8,Dry latrines - Traditional latrine,0.0,Housing living conditions survey - HLCS12
+Romania,RO,ROU,642,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Housing living conditions survey - HLCS12
+Romania,RO,ROU,642,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Housing living conditions survey - HLCS12
+Romania,RO,ROU,642,National,11,Dry latrines - Bucket latrine,0.0,Housing living conditions survey - HLCS12
+Romania,RO,ROU,642,National,12,Dry latrines - Other,0.0,Housing living conditions survey - HLCS12
+Romania,RO,ROU,642,National,13,Composting toilets,0.0,Housing living conditions survey - HLCS12
+Romania,RO,ROU,642,National,14,Other improved,0.0,Housing living conditions survey - HLCS12
+Romania,RO,ROU,642,National,15,"No facility, bush, field",0.0,Housing living conditions survey - HLCS12
+Romania,RO,ROU,642,National,16,Other unimproved,0.362,Housing living conditions survey - HLCS12
+Romania,RO,ROU,642,National,17,DK/missing information,0.0,Housing living conditions survey - HLCS12
+Romania,RO,ROU,642,Urban,1,Flush and pour flush - to piped sewer system,0.0,Housing living conditions survey - HLCS13
+Romania,RO,ROU,642,Urban,2,Flush and pour flush - to septic tank,0.0,Housing living conditions survey - HLCS13
+Romania,RO,ROU,642,Urban,3,Flush and pour flush - to pit,0.0,Housing living conditions survey - HLCS13
+Romania,RO,ROU,642,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Housing living conditions survey - HLCS13
+Romania,RO,ROU,642,Urban,5,Flush and pour flush - to elsewhere,0.0,Housing living conditions survey - HLCS13
+Romania,RO,ROU,642,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Housing living conditions survey - HLCS13
+Romania,RO,ROU,642,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Housing living conditions survey - HLCS13
+Romania,RO,ROU,642,Urban,8,Dry latrines - Traditional latrine,0.0,Housing living conditions survey - HLCS13
+Romania,RO,ROU,642,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Housing living conditions survey - HLCS13
+Romania,RO,ROU,642,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Housing living conditions survey - HLCS13
+Romania,RO,ROU,642,Urban,11,Dry latrines - Bucket latrine,0.0,Housing living conditions survey - HLCS13
+Romania,RO,ROU,642,Urban,12,Dry latrines - Other,0.0,Housing living conditions survey - HLCS13
+Romania,RO,ROU,642,Urban,13,Composting toilets,0.0,Housing living conditions survey - HLCS13
+Romania,RO,ROU,642,Urban,14,Other improved,0.0,Housing living conditions survey - HLCS13
+Romania,RO,ROU,642,Urban,15,"No facility, bush, field",0.0,Housing living conditions survey - HLCS13
+Romania,RO,ROU,642,Urban,16,Other unimproved,0.083,Housing living conditions survey - HLCS13
+Romania,RO,ROU,642,Urban,17,DK/missing information,0.0,Housing living conditions survey - HLCS13
+Romania,RO,ROU,642,Rural,1,Flush and pour flush - to piped sewer system,0.0,Housing living conditions survey - HLCS13
+Romania,RO,ROU,642,Rural,2,Flush and pour flush - to septic tank,0.0,Housing living conditions survey - HLCS13
+Romania,RO,ROU,642,Rural,3,Flush and pour flush - to pit,0.0,Housing living conditions survey - HLCS13
+Romania,RO,ROU,642,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Housing living conditions survey - HLCS13
+Romania,RO,ROU,642,Rural,5,Flush and pour flush - to elsewhere,0.0,Housing living conditions survey - HLCS13
+Romania,RO,ROU,642,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Housing living conditions survey - HLCS13
+Romania,RO,ROU,642,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Housing living conditions survey - HLCS13
+Romania,RO,ROU,642,Rural,8,Dry latrines - Traditional latrine,0.0,Housing living conditions survey - HLCS13
+Romania,RO,ROU,642,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Housing living conditions survey - HLCS13
+Romania,RO,ROU,642,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Housing living conditions survey - HLCS13
+Romania,RO,ROU,642,Rural,11,Dry latrines - Bucket latrine,0.0,Housing living conditions survey - HLCS13
+Romania,RO,ROU,642,Rural,12,Dry latrines - Other,0.0,Housing living conditions survey - HLCS13
+Romania,RO,ROU,642,Rural,13,Composting toilets,0.0,Housing living conditions survey - HLCS13
+Romania,RO,ROU,642,Rural,14,Other improved,0.0,Housing living conditions survey - HLCS13
+Romania,RO,ROU,642,Rural,15,"No facility, bush, field",0.0,Housing living conditions survey - HLCS13
+Romania,RO,ROU,642,Rural,16,Other unimproved,0.686,Housing living conditions survey - HLCS13
+Romania,RO,ROU,642,Rural,17,DK/missing information,0.0,Housing living conditions survey - HLCS13
+Romania,RO,ROU,642,National,1,Flush and pour flush - to piped sewer system,0.0,Housing living conditions survey - HLCS13
+Romania,RO,ROU,642,National,2,Flush and pour flush - to septic tank,0.0,Housing living conditions survey - HLCS13
+Romania,RO,ROU,642,National,3,Flush and pour flush - to pit,0.0,Housing living conditions survey - HLCS13
+Romania,RO,ROU,642,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Housing living conditions survey - HLCS13
+Romania,RO,ROU,642,National,5,Flush and pour flush - to elsewhere,0.0,Housing living conditions survey - HLCS13
+Romania,RO,ROU,642,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Housing living conditions survey - HLCS13
+Romania,RO,ROU,642,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Housing living conditions survey - HLCS13
+Romania,RO,ROU,642,National,8,Dry latrines - Traditional latrine,0.0,Housing living conditions survey - HLCS13
+Romania,RO,ROU,642,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Housing living conditions survey - HLCS13
+Romania,RO,ROU,642,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Housing living conditions survey - HLCS13
+Romania,RO,ROU,642,National,11,Dry latrines - Bucket latrine,0.0,Housing living conditions survey - HLCS13
+Romania,RO,ROU,642,National,12,Dry latrines - Other,0.0,Housing living conditions survey - HLCS13
+Romania,RO,ROU,642,National,13,Composting toilets,0.0,Housing living conditions survey - HLCS13
+Romania,RO,ROU,642,National,14,Other improved,0.0,Housing living conditions survey - HLCS13
+Romania,RO,ROU,642,National,15,"No facility, bush, field",0.0,Housing living conditions survey - HLCS13
+Romania,RO,ROU,642,National,16,Other unimproved,0.343,Housing living conditions survey - HLCS13
+Romania,RO,ROU,642,National,17,DK/missing information,0.0,Housing living conditions survey - HLCS13
+Romania,RO,ROU,642,Urban,1,Flush and pour flush - to piped sewer system,0.833,Eurostat SILC database - EUSILC13
+Romania,RO,ROU,642,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC13
+Romania,RO,ROU,642,Urban,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC13
+Romania,RO,ROU,642,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC13
+Romania,RO,ROU,642,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC13
+Romania,RO,ROU,642,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC13
+Romania,RO,ROU,642,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC13
+Romania,RO,ROU,642,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC13
+Romania,RO,ROU,642,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC13
+Romania,RO,ROU,642,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC13
+Romania,RO,ROU,642,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC13
+Romania,RO,ROU,642,Urban,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC13
+Romania,RO,ROU,642,Urban,13,Composting toilets,0.0,Eurostat SILC database - EUSILC13
+Romania,RO,ROU,642,Urban,14,Other improved,0.0,Eurostat SILC database - EUSILC13
+Romania,RO,ROU,642,Urban,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC13
+Romania,RO,ROU,642,Urban,16,Other unimproved,0.167,Eurostat SILC database - EUSILC13
+Romania,RO,ROU,642,Urban,17,DK/missing information,0.0,Eurostat SILC database - EUSILC13
+Romania,RO,ROU,642,Rural,1,Flush and pour flush - to piped sewer system,0.381,Eurostat SILC database - EUSILC13
+Romania,RO,ROU,642,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC13
+Romania,RO,ROU,642,Rural,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC13
+Romania,RO,ROU,642,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC13
+Romania,RO,ROU,642,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC13
+Romania,RO,ROU,642,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC13
+Romania,RO,ROU,642,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC13
+Romania,RO,ROU,642,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC13
+Romania,RO,ROU,642,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC13
+Romania,RO,ROU,642,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC13
+Romania,RO,ROU,642,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC13
+Romania,RO,ROU,642,Rural,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC13
+Romania,RO,ROU,642,Rural,13,Composting toilets,0.0,Eurostat SILC database - EUSILC13
+Romania,RO,ROU,642,Rural,14,Other improved,0.0,Eurostat SILC database - EUSILC13
+Romania,RO,ROU,642,Rural,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC13
+Romania,RO,ROU,642,Rural,16,Other unimproved,0.619,Eurostat SILC database - EUSILC13
+Romania,RO,ROU,642,Rural,17,DK/missing information,0.0,Eurostat SILC database - EUSILC13
+Romania,RO,ROU,642,National,1,Flush and pour flush - to piped sewer system,0.641,Eurostat SILC database - EUSILC13
+Romania,RO,ROU,642,National,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC13
+Romania,RO,ROU,642,National,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC13
+Romania,RO,ROU,642,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC13
+Romania,RO,ROU,642,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC13
+Romania,RO,ROU,642,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC13
+Romania,RO,ROU,642,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC13
+Romania,RO,ROU,642,National,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC13
+Romania,RO,ROU,642,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC13
+Romania,RO,ROU,642,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC13
+Romania,RO,ROU,642,National,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC13
+Romania,RO,ROU,642,National,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC13
+Romania,RO,ROU,642,National,13,Composting toilets,0.0,Eurostat SILC database - EUSILC13
+Romania,RO,ROU,642,National,14,Other improved,0.0,Eurostat SILC database - EUSILC13
+Romania,RO,ROU,642,National,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC13
+Romania,RO,ROU,642,National,16,Other unimproved,0.359,Eurostat SILC database - EUSILC13
+Romania,RO,ROU,642,National,17,DK/missing information,0.0,Eurostat SILC database - EUSILC13
+Romania,RO,ROU,642,Urban,1,Flush and pour flush - to piped sewer system,0.0,Housing living conditions survey - HLCS14
+Romania,RO,ROU,642,Urban,2,Flush and pour flush - to septic tank,0.0,Housing living conditions survey - HLCS14
+Romania,RO,ROU,642,Urban,3,Flush and pour flush - to pit,0.0,Housing living conditions survey - HLCS14
+Romania,RO,ROU,642,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Housing living conditions survey - HLCS14
+Romania,RO,ROU,642,Urban,5,Flush and pour flush - to elsewhere,0.0,Housing living conditions survey - HLCS14
+Romania,RO,ROU,642,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Housing living conditions survey - HLCS14
+Romania,RO,ROU,642,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Housing living conditions survey - HLCS14
+Romania,RO,ROU,642,Urban,8,Dry latrines - Traditional latrine,0.0,Housing living conditions survey - HLCS14
+Romania,RO,ROU,642,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Housing living conditions survey - HLCS14
+Romania,RO,ROU,642,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Housing living conditions survey - HLCS14
+Romania,RO,ROU,642,Urban,11,Dry latrines - Bucket latrine,0.0,Housing living conditions survey - HLCS14
+Romania,RO,ROU,642,Urban,12,Dry latrines - Other,0.0,Housing living conditions survey - HLCS14
+Romania,RO,ROU,642,Urban,13,Composting toilets,0.0,Housing living conditions survey - HLCS14
+Romania,RO,ROU,642,Urban,14,Other improved,0.0,Housing living conditions survey - HLCS14
+Romania,RO,ROU,642,Urban,15,"No facility, bush, field",0.0,Housing living conditions survey - HLCS14
+Romania,RO,ROU,642,Urban,16,Other unimproved,0.086,Housing living conditions survey - HLCS14
+Romania,RO,ROU,642,Urban,17,DK/missing information,0.0,Housing living conditions survey - HLCS14
+Romania,RO,ROU,642,Rural,1,Flush and pour flush - to piped sewer system,0.0,Housing living conditions survey - HLCS14
+Romania,RO,ROU,642,Rural,2,Flush and pour flush - to septic tank,0.0,Housing living conditions survey - HLCS14
+Romania,RO,ROU,642,Rural,3,Flush and pour flush - to pit,0.0,Housing living conditions survey - HLCS14
+Romania,RO,ROU,642,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Housing living conditions survey - HLCS14
+Romania,RO,ROU,642,Rural,5,Flush and pour flush - to elsewhere,0.0,Housing living conditions survey - HLCS14
+Romania,RO,ROU,642,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Housing living conditions survey - HLCS14
+Romania,RO,ROU,642,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Housing living conditions survey - HLCS14
+Romania,RO,ROU,642,Rural,8,Dry latrines - Traditional latrine,0.0,Housing living conditions survey - HLCS14
+Romania,RO,ROU,642,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Housing living conditions survey - HLCS14
+Romania,RO,ROU,642,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Housing living conditions survey - HLCS14
+Romania,RO,ROU,642,Rural,11,Dry latrines - Bucket latrine,0.0,Housing living conditions survey - HLCS14
+Romania,RO,ROU,642,Rural,12,Dry latrines - Other,0.0,Housing living conditions survey - HLCS14
+Romania,RO,ROU,642,Rural,13,Composting toilets,0.0,Housing living conditions survey - HLCS14
+Romania,RO,ROU,642,Rural,14,Other improved,0.0,Housing living conditions survey - HLCS14
+Romania,RO,ROU,642,Rural,15,"No facility, bush, field",0.0,Housing living conditions survey - HLCS14
+Romania,RO,ROU,642,Rural,16,Other unimproved,0.662,Housing living conditions survey - HLCS14
+Romania,RO,ROU,642,Rural,17,DK/missing information,0.0,Housing living conditions survey - HLCS14
+Romania,RO,ROU,642,National,1,Flush and pour flush - to piped sewer system,0.0,Housing living conditions survey - HLCS14
+Romania,RO,ROU,642,National,2,Flush and pour flush - to septic tank,0.0,Housing living conditions survey - HLCS14
+Romania,RO,ROU,642,National,3,Flush and pour flush - to pit,0.0,Housing living conditions survey - HLCS14
+Romania,RO,ROU,642,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Housing living conditions survey - HLCS14
+Romania,RO,ROU,642,National,5,Flush and pour flush - to elsewhere,0.0,Housing living conditions survey - HLCS14
+Romania,RO,ROU,642,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Housing living conditions survey - HLCS14
+Romania,RO,ROU,642,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Housing living conditions survey - HLCS14
+Romania,RO,ROU,642,National,8,Dry latrines - Traditional latrine,0.0,Housing living conditions survey - HLCS14
+Romania,RO,ROU,642,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Housing living conditions survey - HLCS14
+Romania,RO,ROU,642,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Housing living conditions survey - HLCS14
+Romania,RO,ROU,642,National,11,Dry latrines - Bucket latrine,0.0,Housing living conditions survey - HLCS14
+Romania,RO,ROU,642,National,12,Dry latrines - Other,0.0,Housing living conditions survey - HLCS14
+Romania,RO,ROU,642,National,13,Composting toilets,0.0,Housing living conditions survey - HLCS14
+Romania,RO,ROU,642,National,14,Other improved,0.0,Housing living conditions survey - HLCS14
+Romania,RO,ROU,642,National,15,"No facility, bush, field",0.0,Housing living conditions survey - HLCS14
+Romania,RO,ROU,642,National,16,Other unimproved,0.335,Housing living conditions survey - HLCS14
+Romania,RO,ROU,642,National,17,DK/missing information,0.0,Housing living conditions survey - HLCS14
+Romania,RO,ROU,642,Urban,1,Flush and pour flush - to piped sewer system,0.878,Eurostat SILC database - EUSILC14
+Romania,RO,ROU,642,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC14
+Romania,RO,ROU,642,Urban,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC14
+Romania,RO,ROU,642,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC14
+Romania,RO,ROU,642,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC14
+Romania,RO,ROU,642,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC14
+Romania,RO,ROU,642,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC14
+Romania,RO,ROU,642,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC14
+Romania,RO,ROU,642,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC14
+Romania,RO,ROU,642,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC14
+Romania,RO,ROU,642,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC14
+Romania,RO,ROU,642,Urban,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC14
+Romania,RO,ROU,642,Urban,13,Composting toilets,0.0,Eurostat SILC database - EUSILC14
+Romania,RO,ROU,642,Urban,14,Other improved,0.0,Eurostat SILC database - EUSILC14
+Romania,RO,ROU,642,Urban,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC14
+Romania,RO,ROU,642,Urban,16,Other unimproved,0.122,Eurostat SILC database - EUSILC14
+Romania,RO,ROU,642,Urban,17,DK/missing information,0.0,Eurostat SILC database - EUSILC14
+Romania,RO,ROU,642,Rural,1,Flush and pour flush - to piped sewer system,0.41,Eurostat SILC database - EUSILC14
+Romania,RO,ROU,642,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC14
+Romania,RO,ROU,642,Rural,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC14
+Romania,RO,ROU,642,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC14
+Romania,RO,ROU,642,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC14
+Romania,RO,ROU,642,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC14
+Romania,RO,ROU,642,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC14
+Romania,RO,ROU,642,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC14
+Romania,RO,ROU,642,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC14
+Romania,RO,ROU,642,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC14
+Romania,RO,ROU,642,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC14
+Romania,RO,ROU,642,Rural,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC14
+Romania,RO,ROU,642,Rural,13,Composting toilets,0.0,Eurostat SILC database - EUSILC14
+Romania,RO,ROU,642,Rural,14,Other improved,0.0,Eurostat SILC database - EUSILC14
+Romania,RO,ROU,642,Rural,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC14
+Romania,RO,ROU,642,Rural,16,Other unimproved,0.59,Eurostat SILC database - EUSILC14
+Romania,RO,ROU,642,Rural,17,DK/missing information,0.0,Eurostat SILC database - EUSILC14
+Romania,RO,ROU,642,National,1,Flush and pour flush - to piped sewer system,0.667,Eurostat SILC database - EUSILC14
+Romania,RO,ROU,642,National,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC14
+Romania,RO,ROU,642,National,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC14
+Romania,RO,ROU,642,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC14
+Romania,RO,ROU,642,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC14
+Romania,RO,ROU,642,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC14
+Romania,RO,ROU,642,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC14
+Romania,RO,ROU,642,National,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC14
+Romania,RO,ROU,642,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC14
+Romania,RO,ROU,642,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC14
+Romania,RO,ROU,642,National,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC14
+Romania,RO,ROU,642,National,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC14
+Romania,RO,ROU,642,National,13,Composting toilets,0.0,Eurostat SILC database - EUSILC14
+Romania,RO,ROU,642,National,14,Other improved,0.0,Eurostat SILC database - EUSILC14
+Romania,RO,ROU,642,National,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC14
+Romania,RO,ROU,642,National,16,Other unimproved,0.323,Eurostat SILC database - EUSILC14
+Romania,RO,ROU,642,National,17,DK/missing information,0.0,Eurostat SILC database - EUSILC14
+Romania,RO,ROU,642,Urban,1,Flush and pour flush - to piped sewer system,0.0,Housing living conditions survey - HLCS15
+Romania,RO,ROU,642,Urban,2,Flush and pour flush - to septic tank,0.0,Housing living conditions survey - HLCS15
+Romania,RO,ROU,642,Urban,3,Flush and pour flush - to pit,0.0,Housing living conditions survey - HLCS15
+Romania,RO,ROU,642,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Housing living conditions survey - HLCS15
+Romania,RO,ROU,642,Urban,5,Flush and pour flush - to elsewhere,0.0,Housing living conditions survey - HLCS15
+Romania,RO,ROU,642,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Housing living conditions survey - HLCS15
+Romania,RO,ROU,642,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Housing living conditions survey - HLCS15
+Romania,RO,ROU,642,Urban,8,Dry latrines - Traditional latrine,0.0,Housing living conditions survey - HLCS15
+Romania,RO,ROU,642,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Housing living conditions survey - HLCS15
+Romania,RO,ROU,642,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Housing living conditions survey - HLCS15
+Romania,RO,ROU,642,Urban,11,Dry latrines - Bucket latrine,0.0,Housing living conditions survey - HLCS15
+Romania,RO,ROU,642,Urban,12,Dry latrines - Other,0.0,Housing living conditions survey - HLCS15
+Romania,RO,ROU,642,Urban,13,Composting toilets,0.0,Housing living conditions survey - HLCS15
+Romania,RO,ROU,642,Urban,14,Other improved,0.0,Housing living conditions survey - HLCS15
+Romania,RO,ROU,642,Urban,15,"No facility, bush, field",0.0,Housing living conditions survey - HLCS15
+Romania,RO,ROU,642,Urban,16,Other unimproved,0.075,Housing living conditions survey - HLCS15
+Romania,RO,ROU,642,Urban,17,DK/missing information,0.0,Housing living conditions survey - HLCS15
+Romania,RO,ROU,642,Rural,1,Flush and pour flush - to piped sewer system,0.0,Housing living conditions survey - HLCS15
+Romania,RO,ROU,642,Rural,2,Flush and pour flush - to septic tank,0.0,Housing living conditions survey - HLCS15
+Romania,RO,ROU,642,Rural,3,Flush and pour flush - to pit,0.0,Housing living conditions survey - HLCS15
+Romania,RO,ROU,642,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Housing living conditions survey - HLCS15
+Romania,RO,ROU,642,Rural,5,Flush and pour flush - to elsewhere,0.0,Housing living conditions survey - HLCS15
+Romania,RO,ROU,642,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Housing living conditions survey - HLCS15
+Romania,RO,ROU,642,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Housing living conditions survey - HLCS15
+Romania,RO,ROU,642,Rural,8,Dry latrines - Traditional latrine,0.0,Housing living conditions survey - HLCS15
+Romania,RO,ROU,642,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Housing living conditions survey - HLCS15
+Romania,RO,ROU,642,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Housing living conditions survey - HLCS15
+Romania,RO,ROU,642,Rural,11,Dry latrines - Bucket latrine,0.0,Housing living conditions survey - HLCS15
+Romania,RO,ROU,642,Rural,12,Dry latrines - Other,0.0,Housing living conditions survey - HLCS15
+Romania,RO,ROU,642,Rural,13,Composting toilets,0.0,Housing living conditions survey - HLCS15
+Romania,RO,ROU,642,Rural,14,Other improved,0.0,Housing living conditions survey - HLCS15
+Romania,RO,ROU,642,Rural,15,"No facility, bush, field",0.0,Housing living conditions survey - HLCS15
+Romania,RO,ROU,642,Rural,16,Other unimproved,0.648,Housing living conditions survey - HLCS15
+Romania,RO,ROU,642,Rural,17,DK/missing information,0.0,Housing living conditions survey - HLCS15
+Romania,RO,ROU,642,National,1,Flush and pour flush - to piped sewer system,0.0,Housing living conditions survey - HLCS15
+Romania,RO,ROU,642,National,2,Flush and pour flush - to septic tank,0.0,Housing living conditions survey - HLCS15
+Romania,RO,ROU,642,National,3,Flush and pour flush - to pit,0.0,Housing living conditions survey - HLCS15
+Romania,RO,ROU,642,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Housing living conditions survey - HLCS15
+Romania,RO,ROU,642,National,5,Flush and pour flush - to elsewhere,0.0,Housing living conditions survey - HLCS15
+Romania,RO,ROU,642,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Housing living conditions survey - HLCS15
+Romania,RO,ROU,642,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Housing living conditions survey - HLCS15
+Romania,RO,ROU,642,National,8,Dry latrines - Traditional latrine,0.0,Housing living conditions survey - HLCS15
+Romania,RO,ROU,642,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Housing living conditions survey - HLCS15
+Romania,RO,ROU,642,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Housing living conditions survey - HLCS15
+Romania,RO,ROU,642,National,11,Dry latrines - Bucket latrine,0.0,Housing living conditions survey - HLCS15
+Romania,RO,ROU,642,National,12,Dry latrines - Other,0.0,Housing living conditions survey - HLCS15
+Romania,RO,ROU,642,National,13,Composting toilets,0.0,Housing living conditions survey - HLCS15
+Romania,RO,ROU,642,National,14,Other improved,0.0,Housing living conditions survey - HLCS15
+Romania,RO,ROU,642,National,15,"No facility, bush, field",0.0,Housing living conditions survey - HLCS15
+Romania,RO,ROU,642,National,16,Other unimproved,0.329,Housing living conditions survey - HLCS15
+Romania,RO,ROU,642,National,17,DK/missing information,0.0,Housing living conditions survey - HLCS15
+Romania,RO,ROU,642,Urban,1,Flush and pour flush - to piped sewer system,0.874,Eurostat SILC database - EUSILC15
+Romania,RO,ROU,642,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC15
+Romania,RO,ROU,642,Urban,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC15
+Romania,RO,ROU,642,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC15
+Romania,RO,ROU,642,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC15
+Romania,RO,ROU,642,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC15
+Romania,RO,ROU,642,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC15
+Romania,RO,ROU,642,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC15
+Romania,RO,ROU,642,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC15
+Romania,RO,ROU,642,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC15
+Romania,RO,ROU,642,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC15
+Romania,RO,ROU,642,Urban,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC15
+Romania,RO,ROU,642,Urban,13,Composting toilets,0.0,Eurostat SILC database - EUSILC15
+Romania,RO,ROU,642,Urban,14,Other improved,0.0,Eurostat SILC database - EUSILC15
+Romania,RO,ROU,642,Urban,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC15
+Romania,RO,ROU,642,Urban,16,Other unimproved,0.126,Eurostat SILC database - EUSILC15
+Romania,RO,ROU,642,Urban,17,DK/missing information,0.0,Eurostat SILC database - EUSILC15
+Romania,RO,ROU,642,Rural,1,Flush and pour flush - to piped sewer system,0.41,Eurostat SILC database - EUSILC15
+Romania,RO,ROU,642,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC15
+Romania,RO,ROU,642,Rural,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC15
+Romania,RO,ROU,642,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC15
+Romania,RO,ROU,642,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC15
+Romania,RO,ROU,642,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC15
+Romania,RO,ROU,642,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC15
+Romania,RO,ROU,642,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC15
+Romania,RO,ROU,642,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC15
+Romania,RO,ROU,642,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC15
+Romania,RO,ROU,642,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC15
+Romania,RO,ROU,642,Rural,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC15
+Romania,RO,ROU,642,Rural,13,Composting toilets,0.0,Eurostat SILC database - EUSILC15
+Romania,RO,ROU,642,Rural,14,Other improved,0.0,Eurostat SILC database - EUSILC15
+Romania,RO,ROU,642,Rural,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC15
+Romania,RO,ROU,642,Rural,16,Other unimproved,0.59,Eurostat SILC database - EUSILC15
+Romania,RO,ROU,642,Rural,17,DK/missing information,0.0,Eurostat SILC database - EUSILC15
+Romania,RO,ROU,642,National,1,Flush and pour flush - to piped sewer system,0.672,Eurostat SILC database - EUSILC15
+Romania,RO,ROU,642,National,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC15
+Romania,RO,ROU,642,National,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC15
+Romania,RO,ROU,642,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC15
+Romania,RO,ROU,642,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC15
+Romania,RO,ROU,642,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC15
+Romania,RO,ROU,642,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC15
+Romania,RO,ROU,642,National,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC15
+Romania,RO,ROU,642,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC15
+Romania,RO,ROU,642,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC15
+Romania,RO,ROU,642,National,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC15
+Romania,RO,ROU,642,National,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC15
+Romania,RO,ROU,642,National,13,Composting toilets,0.0,Eurostat SILC database - EUSILC15
+Romania,RO,ROU,642,National,14,Other improved,0.0,Eurostat SILC database - EUSILC15
+Romania,RO,ROU,642,National,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC15
+Romania,RO,ROU,642,National,16,Other unimproved,0.228,Eurostat SILC database - EUSILC15
+Romania,RO,ROU,642,National,17,DK/missing information,0.0,Eurostat SILC database - EUSILC15
+Romania,RO,ROU,642,Urban,1,Flush and pour flush - to piped sewer system,0.0,Housing living conditions survey - HLCS16
+Romania,RO,ROU,642,Urban,2,Flush and pour flush - to septic tank,0.0,Housing living conditions survey - HLCS16
+Romania,RO,ROU,642,Urban,3,Flush and pour flush - to pit,0.0,Housing living conditions survey - HLCS16
+Romania,RO,ROU,642,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Housing living conditions survey - HLCS16
+Romania,RO,ROU,642,Urban,5,Flush and pour flush - to elsewhere,0.0,Housing living conditions survey - HLCS16
+Romania,RO,ROU,642,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Housing living conditions survey - HLCS16
+Romania,RO,ROU,642,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Housing living conditions survey - HLCS16
+Romania,RO,ROU,642,Urban,8,Dry latrines - Traditional latrine,0.0,Housing living conditions survey - HLCS16
+Romania,RO,ROU,642,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Housing living conditions survey - HLCS16
+Romania,RO,ROU,642,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Housing living conditions survey - HLCS16
+Romania,RO,ROU,642,Urban,11,Dry latrines - Bucket latrine,0.0,Housing living conditions survey - HLCS16
+Romania,RO,ROU,642,Urban,12,Dry latrines - Other,0.0,Housing living conditions survey - HLCS16
+Romania,RO,ROU,642,Urban,13,Composting toilets,0.0,Housing living conditions survey - HLCS16
+Romania,RO,ROU,642,Urban,14,Other improved,0.0,Housing living conditions survey - HLCS16
+Romania,RO,ROU,642,Urban,15,"No facility, bush, field",0.0,Housing living conditions survey - HLCS16
+Romania,RO,ROU,642,Urban,16,Other unimproved,0.074,Housing living conditions survey - HLCS16
+Romania,RO,ROU,642,Urban,17,DK/missing information,0.0,Housing living conditions survey - HLCS16
+Romania,RO,ROU,642,Rural,1,Flush and pour flush - to piped sewer system,0.0,Housing living conditions survey - HLCS16
+Romania,RO,ROU,642,Rural,2,Flush and pour flush - to septic tank,0.0,Housing living conditions survey - HLCS16
+Romania,RO,ROU,642,Rural,3,Flush and pour flush - to pit,0.0,Housing living conditions survey - HLCS16
+Romania,RO,ROU,642,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Housing living conditions survey - HLCS16
+Romania,RO,ROU,642,Rural,5,Flush and pour flush - to elsewhere,0.0,Housing living conditions survey - HLCS16
+Romania,RO,ROU,642,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Housing living conditions survey - HLCS16
+Romania,RO,ROU,642,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Housing living conditions survey - HLCS16
+Romania,RO,ROU,642,Rural,8,Dry latrines - Traditional latrine,0.0,Housing living conditions survey - HLCS16
+Romania,RO,ROU,642,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Housing living conditions survey - HLCS16
+Romania,RO,ROU,642,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Housing living conditions survey - HLCS16
+Romania,RO,ROU,642,Rural,11,Dry latrines - Bucket latrine,0.0,Housing living conditions survey - HLCS16
+Romania,RO,ROU,642,Rural,12,Dry latrines - Other,0.0,Housing living conditions survey - HLCS16
+Romania,RO,ROU,642,Rural,13,Composting toilets,0.0,Housing living conditions survey - HLCS16
+Romania,RO,ROU,642,Rural,14,Other improved,0.0,Housing living conditions survey - HLCS16
+Romania,RO,ROU,642,Rural,15,"No facility, bush, field",0.0,Housing living conditions survey - HLCS16
+Romania,RO,ROU,642,Rural,16,Other unimproved,0.624,Housing living conditions survey - HLCS16
+Romania,RO,ROU,642,Rural,17,DK/missing information,0.0,Housing living conditions survey - HLCS16
+Romania,RO,ROU,642,National,1,Flush and pour flush - to piped sewer system,0.0,Housing living conditions survey - HLCS16
+Romania,RO,ROU,642,National,2,Flush and pour flush - to septic tank,0.0,Housing living conditions survey - HLCS16
+Romania,RO,ROU,642,National,3,Flush and pour flush - to pit,0.0,Housing living conditions survey - HLCS16
+Romania,RO,ROU,642,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Housing living conditions survey - HLCS16
+Romania,RO,ROU,642,National,5,Flush and pour flush - to elsewhere,0.0,Housing living conditions survey - HLCS16
+Romania,RO,ROU,642,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Housing living conditions survey - HLCS16
+Romania,RO,ROU,642,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Housing living conditions survey - HLCS16
+Romania,RO,ROU,642,National,8,Dry latrines - Traditional latrine,0.0,Housing living conditions survey - HLCS16
+Romania,RO,ROU,642,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Housing living conditions survey - HLCS16
+Romania,RO,ROU,642,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Housing living conditions survey - HLCS16
+Romania,RO,ROU,642,National,11,Dry latrines - Bucket latrine,0.0,Housing living conditions survey - HLCS16
+Romania,RO,ROU,642,National,12,Dry latrines - Other,0.0,Housing living conditions survey - HLCS16
+Romania,RO,ROU,642,National,13,Composting toilets,0.0,Housing living conditions survey - HLCS16
+Romania,RO,ROU,642,National,14,Other improved,0.0,Housing living conditions survey - HLCS16
+Romania,RO,ROU,642,National,15,"No facility, bush, field",0.0,Housing living conditions survey - HLCS16
+Romania,RO,ROU,642,National,16,Other unimproved,0.326,Housing living conditions survey - HLCS16
+Romania,RO,ROU,642,National,17,DK/missing information,0.0,Housing living conditions survey - HLCS16

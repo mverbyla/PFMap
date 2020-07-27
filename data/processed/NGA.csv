@@ -1,4 +1,106 @@
 country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+Nigeria,NG,NGA,566,Urban,1,Flush and pour flush - to piped sewer system,0.0,Child Labour Survey - CLS00
+Nigeria,NG,NGA,566,Urban,2,Flush and pour flush - to septic tank,0.0,Child Labour Survey - CLS00
+Nigeria,NG,NGA,566,Urban,3,Flush and pour flush - to pit,0.0,Child Labour Survey - CLS00
+Nigeria,NG,NGA,566,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Child Labour Survey - CLS00
+Nigeria,NG,NGA,566,Urban,5,Flush and pour flush - to elsewhere,0.0,Child Labour Survey - CLS00
+Nigeria,NG,NGA,566,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.008,Child Labour Survey - CLS00
+Nigeria,NG,NGA,566,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.552,Child Labour Survey - CLS00
+Nigeria,NG,NGA,566,Urban,8,Dry latrines - Traditional latrine,0.0,Child Labour Survey - CLS00
+Nigeria,NG,NGA,566,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.074,Child Labour Survey - CLS00
+Nigeria,NG,NGA,566,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.03,Child Labour Survey - CLS00
+Nigeria,NG,NGA,566,Urban,11,Dry latrines - Bucket latrine,0.009,Child Labour Survey - CLS00
+Nigeria,NG,NGA,566,Urban,12,Dry latrines - Other,0.0,Child Labour Survey - CLS00
+Nigeria,NG,NGA,566,Urban,13,Composting toilets,0.0,Child Labour Survey - CLS00
+Nigeria,NG,NGA,566,Urban,14,Other improved,0.0,Child Labour Survey - CLS00
+Nigeria,NG,NGA,566,Urban,15,"No facility, bush, field",0.082,Child Labour Survey - CLS00
+Nigeria,NG,NGA,566,Urban,16,Other unimproved,0.0,Child Labour Survey - CLS00
+Nigeria,NG,NGA,566,Urban,17,DK/missing information,0.0,Child Labour Survey - CLS00
+Nigeria,NG,NGA,566,Rural,1,Flush and pour flush - to piped sewer system,0.0,Child Labour Survey - CLS00
+Nigeria,NG,NGA,566,Rural,2,Flush and pour flush - to septic tank,0.0,Child Labour Survey - CLS00
+Nigeria,NG,NGA,566,Rural,3,Flush and pour flush - to pit,0.0,Child Labour Survey - CLS00
+Nigeria,NG,NGA,566,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Child Labour Survey - CLS00
+Nigeria,NG,NGA,566,Rural,5,Flush and pour flush - to elsewhere,0.0,Child Labour Survey - CLS00
+Nigeria,NG,NGA,566,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.003,Child Labour Survey - CLS00
+Nigeria,NG,NGA,566,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.488,Child Labour Survey - CLS00
+Nigeria,NG,NGA,566,Rural,8,Dry latrines - Traditional latrine,0.0,Child Labour Survey - CLS00
+Nigeria,NG,NGA,566,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.147,Child Labour Survey - CLS00
+Nigeria,NG,NGA,566,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.02,Child Labour Survey - CLS00
+Nigeria,NG,NGA,566,Rural,11,Dry latrines - Bucket latrine,0.004,Child Labour Survey - CLS00
+Nigeria,NG,NGA,566,Rural,12,Dry latrines - Other,0.0,Child Labour Survey - CLS00
+Nigeria,NG,NGA,566,Rural,13,Composting toilets,0.0,Child Labour Survey - CLS00
+Nigeria,NG,NGA,566,Rural,14,Other improved,0.0,Child Labour Survey - CLS00
+Nigeria,NG,NGA,566,Rural,15,"No facility, bush, field",0.312,Child Labour Survey - CLS00
+Nigeria,NG,NGA,566,Rural,16,Other unimproved,0.0,Child Labour Survey - CLS00
+Nigeria,NG,NGA,566,Rural,17,DK/missing information,0.0,Child Labour Survey - CLS00
+Nigeria,NG,NGA,566,National,1,Flush and pour flush - to piped sewer system,0.0,Child Labour Survey - CLS00
+Nigeria,NG,NGA,566,National,2,Flush and pour flush - to septic tank,0.0,Child Labour Survey - CLS00
+Nigeria,NG,NGA,566,National,3,Flush and pour flush - to pit,0.0,Child Labour Survey - CLS00
+Nigeria,NG,NGA,566,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Child Labour Survey - CLS00
+Nigeria,NG,NGA,566,National,5,Flush and pour flush - to elsewhere,0.0,Child Labour Survey - CLS00
+Nigeria,NG,NGA,566,National,6,Dry latrines - Ventilated Improved Pit latrine,0.005,Child Labour Survey - CLS00
+Nigeria,NG,NGA,566,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.511,Child Labour Survey - CLS00
+Nigeria,NG,NGA,566,National,8,Dry latrines - Traditional latrine,0.0,Child Labour Survey - CLS00
+Nigeria,NG,NGA,566,National,9,Dry latrines - Pit latrine without slab/open pit,0.121,Child Labour Survey - CLS00
+Nigeria,NG,NGA,566,National,10,Dry latrines - Hanging toilet/hanging latrine,0.024,Child Labour Survey - CLS00
+Nigeria,NG,NGA,566,National,11,Dry latrines - Bucket latrine,0.006,Child Labour Survey - CLS00
+Nigeria,NG,NGA,566,National,12,Dry latrines - Other,0.0,Child Labour Survey - CLS00
+Nigeria,NG,NGA,566,National,13,Composting toilets,0.0,Child Labour Survey - CLS00
+Nigeria,NG,NGA,566,National,14,Other improved,0.0,Child Labour Survey - CLS00
+Nigeria,NG,NGA,566,National,15,"No facility, bush, field",0.23,Child Labour Survey - CLS00
+Nigeria,NG,NGA,566,National,16,Other unimproved,0.0,Child Labour Survey - CLS00
+Nigeria,NG,NGA,566,National,17,DK/missing information,0.0,Child Labour Survey - CLS00
+Nigeria,NG,NGA,566,Urban,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS03
+Nigeria,NG,NGA,566,Urban,2,Flush and pour flush - to septic tank,0.0,Demographic and Health Survey - DHS03
+Nigeria,NG,NGA,566,Urban,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS03
+Nigeria,NG,NGA,566,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS03
+Nigeria,NG,NGA,566,Urban,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS03
+Nigeria,NG,NGA,566,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.052,Demographic and Health Survey - DHS03
+Nigeria,NG,NGA,566,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS03
+Nigeria,NG,NGA,566,Urban,8,Dry latrines - Traditional latrine,0.581,Demographic and Health Survey - DHS03
+Nigeria,NG,NGA,566,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Survey - DHS03
+Nigeria,NG,NGA,566,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS03
+Nigeria,NG,NGA,566,Urban,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS03
+Nigeria,NG,NGA,566,Urban,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS03
+Nigeria,NG,NGA,566,Urban,13,Composting toilets,0.0,Demographic and Health Survey - DHS03
+Nigeria,NG,NGA,566,Urban,14,Other improved,0.0,Demographic and Health Survey - DHS03
+Nigeria,NG,NGA,566,Urban,15,"No facility, bush, field",0.087,Demographic and Health Survey - DHS03
+Nigeria,NG,NGA,566,Urban,16,Other unimproved,0.001,Demographic and Health Survey - DHS03
+Nigeria,NG,NGA,566,Urban,17,DK/missing information,0.0,Demographic and Health Survey - DHS03
+Nigeria,NG,NGA,566,Rural,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS03
+Nigeria,NG,NGA,566,Rural,2,Flush and pour flush - to septic tank,0.0,Demographic and Health Survey - DHS03
+Nigeria,NG,NGA,566,Rural,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS03
+Nigeria,NG,NGA,566,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS03
+Nigeria,NG,NGA,566,Rural,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS03
+Nigeria,NG,NGA,566,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.017,Demographic and Health Survey - DHS03
+Nigeria,NG,NGA,566,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS03
+Nigeria,NG,NGA,566,Rural,8,Dry latrines - Traditional latrine,0.601,Demographic and Health Survey - DHS03
+Nigeria,NG,NGA,566,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Survey - DHS03
+Nigeria,NG,NGA,566,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS03
+Nigeria,NG,NGA,566,Rural,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS03
+Nigeria,NG,NGA,566,Rural,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS03
+Nigeria,NG,NGA,566,Rural,13,Composting toilets,0.0,Demographic and Health Survey - DHS03
+Nigeria,NG,NGA,566,Rural,14,Other improved,0.0,Demographic and Health Survey - DHS03
+Nigeria,NG,NGA,566,Rural,15,"No facility, bush, field",0.325,Demographic and Health Survey - DHS03
+Nigeria,NG,NGA,566,Rural,16,Other unimproved,0.0,Demographic and Health Survey - DHS03
+Nigeria,NG,NGA,566,Rural,17,DK/missing information,0.0,Demographic and Health Survey - DHS03
+Nigeria,NG,NGA,566,National,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS03
+Nigeria,NG,NGA,566,National,2,Flush and pour flush - to septic tank,0.0,Demographic and Health Survey - DHS03
+Nigeria,NG,NGA,566,National,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS03
+Nigeria,NG,NGA,566,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS03
+Nigeria,NG,NGA,566,National,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS03
+Nigeria,NG,NGA,566,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - DHS03
+Nigeria,NG,NGA,566,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS03
+Nigeria,NG,NGA,566,National,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS03
+Nigeria,NG,NGA,566,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Survey - DHS03
+Nigeria,NG,NGA,566,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS03
+Nigeria,NG,NGA,566,National,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS03
+Nigeria,NG,NGA,566,National,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS03
+Nigeria,NG,NGA,566,National,13,Composting toilets,0.0,Demographic and Health Survey - DHS03
+Nigeria,NG,NGA,566,National,14,Other improved,0.0,Demographic and Health Survey - DHS03
+Nigeria,NG,NGA,566,National,15,"No facility, bush, field",0.0,Demographic and Health Survey - DHS03
+Nigeria,NG,NGA,566,National,16,Other unimproved,0.0,Demographic and Health Survey - DHS03
+Nigeria,NG,NGA,566,National,17,DK/missing information,0.0,Demographic and Health Survey - DHS03
 Nigeria,NG,NGA,566,Urban,1,Flush and pour flush - to piped sewer system,0.106,Nigerian Living Standard Survey 2003-2004 - NLSS04
 Nigeria,NG,NGA,566,Urban,2,Flush and pour flush - to septic tank,0.145,Nigerian Living Standard Survey 2003-2004 - NLSS04
 Nigeria,NG,NGA,566,Urban,3,Flush and pour flush - to pit,0.0,Nigerian Living Standard Survey 2003-2004 - NLSS04
@@ -33,6 +135,23 @@ Nigeria,NG,NGA,566,Rural,14,Other improved,0.0,Nigerian Living Standard Survey 2
 Nigeria,NG,NGA,566,Rural,15,"No facility, bush, field",0.269,Nigerian Living Standard Survey 2003-2004 - NLSS04
 Nigeria,NG,NGA,566,Rural,16,Other unimproved,0.269,Nigerian Living Standard Survey 2003-2004 - NLSS04
 Nigeria,NG,NGA,566,Rural,17,DK/missing information,0.0,Nigerian Living Standard Survey 2003-2004 - NLSS04
+Nigeria,NG,NGA,566,National,1,Flush and pour flush - to piped sewer system,0.055,Nigerian Living Standard Survey 2003-2004 - NLSS04
+Nigeria,NG,NGA,566,National,2,Flush and pour flush - to septic tank,0.073,Nigerian Living Standard Survey 2003-2004 - NLSS04
+Nigeria,NG,NGA,566,National,3,Flush and pour flush - to pit,0.0,Nigerian Living Standard Survey 2003-2004 - NLSS04
+Nigeria,NG,NGA,566,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Nigerian Living Standard Survey 2003-2004 - NLSS04
+Nigeria,NG,NGA,566,National,5,Flush and pour flush - to elsewhere,0.0,Nigerian Living Standard Survey 2003-2004 - NLSS04
+Nigeria,NG,NGA,566,National,6,Dry latrines - Ventilated Improved Pit latrine,0.016,Nigerian Living Standard Survey 2003-2004 - NLSS04
+Nigeria,NG,NGA,566,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.458,Nigerian Living Standard Survey 2003-2004 - NLSS04
+Nigeria,NG,NGA,566,National,8,Dry latrines - Traditional latrine,0.0,Nigerian Living Standard Survey 2003-2004 - NLSS04
+Nigeria,NG,NGA,566,National,9,Dry latrines - Pit latrine without slab/open pit,0.11,Nigerian Living Standard Survey 2003-2004 - NLSS04
+Nigeria,NG,NGA,566,National,10,Dry latrines - Hanging toilet/hanging latrine,0.052,Nigerian Living Standard Survey 2003-2004 - NLSS04
+Nigeria,NG,NGA,566,National,11,Dry latrines - Bucket latrine,0.044,Nigerian Living Standard Survey 2003-2004 - NLSS04
+Nigeria,NG,NGA,566,National,12,Dry latrines - Other,0.0,Nigerian Living Standard Survey 2003-2004 - NLSS04
+Nigeria,NG,NGA,566,National,13,Composting toilets,0.0,Nigerian Living Standard Survey 2003-2004 - NLSS04
+Nigeria,NG,NGA,566,National,14,Other improved,0.0,Nigerian Living Standard Survey 2003-2004 - NLSS04
+Nigeria,NG,NGA,566,National,15,"No facility, bush, field",0.194,Nigerian Living Standard Survey 2003-2004 - NLSS04
+Nigeria,NG,NGA,566,National,16,Other unimproved,0.194,Nigerian Living Standard Survey 2003-2004 - NLSS04
+Nigeria,NG,NGA,566,National,17,DK/missing information,0.0,Nigerian Living Standard Survey 2003-2004 - NLSS04
 Nigeria,NG,NGA,566,Urban,1,Flush and pour flush - to piped sewer system,0.106,Core Welfare Indicator Questionnaire - CWIQ06
 Nigeria,NG,NGA,566,Urban,2,Flush and pour flush - to septic tank,0.175,Core Welfare Indicator Questionnaire - CWIQ06
 Nigeria,NG,NGA,566,Urban,3,Flush and pour flush - to pit,0.0,Core Welfare Indicator Questionnaire - CWIQ06
@@ -67,6 +186,23 @@ Nigeria,NG,NGA,566,Rural,14,Other improved,0.0,Core Welfare Indicator Questionna
 Nigeria,NG,NGA,566,Rural,15,"No facility, bush, field",0.283,Core Welfare Indicator Questionnaire - CWIQ06
 Nigeria,NG,NGA,566,Rural,16,Other unimproved,0.283,Core Welfare Indicator Questionnaire - CWIQ06
 Nigeria,NG,NGA,566,Rural,17,DK/missing information,0.0,Core Welfare Indicator Questionnaire - CWIQ06
+Nigeria,NG,NGA,566,National,1,Flush and pour flush - to piped sewer system,0.048,Core Welfare Indicator Questionnaire - CWIQ06
+Nigeria,NG,NGA,566,National,2,Flush and pour flush - to septic tank,0.08,Core Welfare Indicator Questionnaire - CWIQ06
+Nigeria,NG,NGA,566,National,3,Flush and pour flush - to pit,0.0,Core Welfare Indicator Questionnaire - CWIQ06
+Nigeria,NG,NGA,566,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Core Welfare Indicator Questionnaire - CWIQ06
+Nigeria,NG,NGA,566,National,5,Flush and pour flush - to elsewhere,0.0,Core Welfare Indicator Questionnaire - CWIQ06
+Nigeria,NG,NGA,566,National,6,Dry latrines - Ventilated Improved Pit latrine,0.012,Core Welfare Indicator Questionnaire - CWIQ06
+Nigeria,NG,NGA,566,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.436,Core Welfare Indicator Questionnaire - CWIQ06
+Nigeria,NG,NGA,566,National,8,Dry latrines - Traditional latrine,0.0,Core Welfare Indicator Questionnaire - CWIQ06
+Nigeria,NG,NGA,566,National,9,Dry latrines - Pit latrine without slab/open pit,0.171,Core Welfare Indicator Questionnaire - CWIQ06
+Nigeria,NG,NGA,566,National,10,Dry latrines - Hanging toilet/hanging latrine,0.024,Core Welfare Indicator Questionnaire - CWIQ06
+Nigeria,NG,NGA,566,National,11,Dry latrines - Bucket latrine,0.002,Core Welfare Indicator Questionnaire - CWIQ06
+Nigeria,NG,NGA,566,National,12,Dry latrines - Other,0.0,Core Welfare Indicator Questionnaire - CWIQ06
+Nigeria,NG,NGA,566,National,13,Composting toilets,0.0,Core Welfare Indicator Questionnaire - CWIQ06
+Nigeria,NG,NGA,566,National,14,Other improved,0.0,Core Welfare Indicator Questionnaire - CWIQ06
+Nigeria,NG,NGA,566,National,15,"No facility, bush, field",0.228,Core Welfare Indicator Questionnaire - CWIQ06
+Nigeria,NG,NGA,566,National,16,Other unimproved,0.228,Core Welfare Indicator Questionnaire - CWIQ06
+Nigeria,NG,NGA,566,National,17,DK/missing information,0.0,Core Welfare Indicator Questionnaire - CWIQ06
 Nigeria,NG,NGA,566,Urban,1,Flush and pour flush - to piped sewer system,0.127,General Household Survey - GHS06
 Nigeria,NG,NGA,566,Urban,2,Flush and pour flush - to septic tank,0.205,General Household Survey - GHS06
 Nigeria,NG,NGA,566,Urban,3,Flush and pour flush - to pit,0.0,General Household Survey - GHS06
@@ -101,6 +237,23 @@ Nigeria,NG,NGA,566,Rural,14,Other improved,0.0,General Household Survey - GHS06
 Nigeria,NG,NGA,566,Rural,15,"No facility, bush, field",0.344,General Household Survey - GHS06
 Nigeria,NG,NGA,566,Rural,16,Other unimproved,0.344,General Household Survey - GHS06
 Nigeria,NG,NGA,566,Rural,17,DK/missing information,0.0,General Household Survey - GHS06
+Nigeria,NG,NGA,566,National,1,Flush and pour flush - to piped sewer system,0.044,General Household Survey - GHS06
+Nigeria,NG,NGA,566,National,2,Flush and pour flush - to septic tank,0.074,General Household Survey - GHS06
+Nigeria,NG,NGA,566,National,3,Flush and pour flush - to pit,0.0,General Household Survey - GHS06
+Nigeria,NG,NGA,566,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,General Household Survey - GHS06
+Nigeria,NG,NGA,566,National,5,Flush and pour flush - to elsewhere,0.0,General Household Survey - GHS06
+Nigeria,NG,NGA,566,National,6,Dry latrines - Ventilated Improved Pit latrine,0.009,General Household Survey - GHS06
+Nigeria,NG,NGA,566,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.37,General Household Survey - GHS06
+Nigeria,NG,NGA,566,National,8,Dry latrines - Traditional latrine,0.0,General Household Survey - GHS06
+Nigeria,NG,NGA,566,National,9,Dry latrines - Pit latrine without slab/open pit,0.178,General Household Survey - GHS06
+Nigeria,NG,NGA,566,National,10,Dry latrines - Hanging toilet/hanging latrine,0.037,General Household Survey - GHS06
+Nigeria,NG,NGA,566,National,11,Dry latrines - Bucket latrine,0.002,General Household Survey - GHS06
+Nigeria,NG,NGA,566,National,12,Dry latrines - Other,0.0,General Household Survey - GHS06
+Nigeria,NG,NGA,566,National,13,Composting toilets,0.0,General Household Survey - GHS06
+Nigeria,NG,NGA,566,National,14,Other improved,0.0,General Household Survey - GHS06
+Nigeria,NG,NGA,566,National,15,"No facility, bush, field",0.287,General Household Survey - GHS06
+Nigeria,NG,NGA,566,National,16,Other unimproved,0.287,General Household Survey - GHS06
+Nigeria,NG,NGA,566,National,17,DK/missing information,0.0,General Household Survey - GHS06
 Nigeria,NG,NGA,566,Urban,1,Flush and pour flush - to piped sewer system,0.103,Multiple Cluster Indicator Survey - MICS07
 Nigeria,NG,NGA,566,Urban,2,Flush and pour flush - to septic tank,0.163,Multiple Cluster Indicator Survey - MICS07
 Nigeria,NG,NGA,566,Urban,3,Flush and pour flush - to pit,0.129,Multiple Cluster Indicator Survey - MICS07
@@ -135,6 +288,23 @@ Nigeria,NG,NGA,566,Rural,14,Other improved,0.0,Multiple Cluster Indicator Survey
 Nigeria,NG,NGA,566,Rural,15,"No facility, bush, field",0.339,Multiple Cluster Indicator Survey - MICS07
 Nigeria,NG,NGA,566,Rural,16,Other unimproved,0.018,Multiple Cluster Indicator Survey - MICS07
 Nigeria,NG,NGA,566,Rural,17,DK/missing information,0.0,Multiple Cluster Indicator Survey - MICS07
+Nigeria,NG,NGA,566,National,1,Flush and pour flush - to piped sewer system,0.0,Multiple Cluster Indicator Survey - MICS07
+Nigeria,NG,NGA,566,National,2,Flush and pour flush - to septic tank,0.0,Multiple Cluster Indicator Survey - MICS07
+Nigeria,NG,NGA,566,National,3,Flush and pour flush - to pit,0.0,Multiple Cluster Indicator Survey - MICS07
+Nigeria,NG,NGA,566,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Cluster Indicator Survey - MICS07
+Nigeria,NG,NGA,566,National,5,Flush and pour flush - to elsewhere,0.0,Multiple Cluster Indicator Survey - MICS07
+Nigeria,NG,NGA,566,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Multiple Cluster Indicator Survey - MICS07
+Nigeria,NG,NGA,566,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Multiple Cluster Indicator Survey - MICS07
+Nigeria,NG,NGA,566,National,8,Dry latrines - Traditional latrine,0.0,Multiple Cluster Indicator Survey - MICS07
+Nigeria,NG,NGA,566,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Multiple Cluster Indicator Survey - MICS07
+Nigeria,NG,NGA,566,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Cluster Indicator Survey - MICS07
+Nigeria,NG,NGA,566,National,11,Dry latrines - Bucket latrine,0.0,Multiple Cluster Indicator Survey - MICS07
+Nigeria,NG,NGA,566,National,12,Dry latrines - Other,0.0,Multiple Cluster Indicator Survey - MICS07
+Nigeria,NG,NGA,566,National,13,Composting toilets,0.0,Multiple Cluster Indicator Survey - MICS07
+Nigeria,NG,NGA,566,National,14,Other improved,0.0,Multiple Cluster Indicator Survey - MICS07
+Nigeria,NG,NGA,566,National,15,"No facility, bush, field",0.0,Multiple Cluster Indicator Survey - MICS07
+Nigeria,NG,NGA,566,National,16,Other unimproved,0.0,Multiple Cluster Indicator Survey - MICS07
+Nigeria,NG,NGA,566,National,17,DK/missing information,0.0,Multiple Cluster Indicator Survey - MICS07
 Nigeria,NG,NGA,566,Urban,1,Flush and pour flush - to piped sewer system,0.0,Nigeria Water Supply and Sanitation Baseline Survey - BLS08
 Nigeria,NG,NGA,566,Urban,2,Flush and pour flush - to septic tank,0.019,Nigeria Water Supply and Sanitation Baseline Survey - BLS08
 Nigeria,NG,NGA,566,Urban,3,Flush and pour flush - to pit,0.0,Nigeria Water Supply and Sanitation Baseline Survey - BLS08
@@ -169,6 +339,23 @@ Nigeria,NG,NGA,566,Rural,14,Other improved,0.022,Nigeria Water Supply and Sanita
 Nigeria,NG,NGA,566,Rural,15,"No facility, bush, field",0.227,Nigeria Water Supply and Sanitation Baseline Survey - BLS08
 Nigeria,NG,NGA,566,Rural,16,Other unimproved,0.002,Nigeria Water Supply and Sanitation Baseline Survey - BLS08
 Nigeria,NG,NGA,566,Rural,17,DK/missing information,0.0,Nigeria Water Supply and Sanitation Baseline Survey - BLS08
+Nigeria,NG,NGA,566,National,1,Flush and pour flush - to piped sewer system,0.0,Nigeria Water Supply and Sanitation Baseline Survey - BLS08
+Nigeria,NG,NGA,566,National,2,Flush and pour flush - to septic tank,0.007,Nigeria Water Supply and Sanitation Baseline Survey - BLS08
+Nigeria,NG,NGA,566,National,3,Flush and pour flush - to pit,0.0,Nigeria Water Supply and Sanitation Baseline Survey - BLS08
+Nigeria,NG,NGA,566,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Nigeria Water Supply and Sanitation Baseline Survey - BLS08
+Nigeria,NG,NGA,566,National,5,Flush and pour flush - to elsewhere,0.0,Nigeria Water Supply and Sanitation Baseline Survey - BLS08
+Nigeria,NG,NGA,566,National,6,Dry latrines - Ventilated Improved Pit latrine,0.014,Nigeria Water Supply and Sanitation Baseline Survey - BLS08
+Nigeria,NG,NGA,566,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.105,Nigeria Water Supply and Sanitation Baseline Survey - BLS08
+Nigeria,NG,NGA,566,National,8,Dry latrines - Traditional latrine,0.402,Nigeria Water Supply and Sanitation Baseline Survey - BLS08
+Nigeria,NG,NGA,566,National,9,Dry latrines - Pit latrine without slab/open pit,0.116,Nigeria Water Supply and Sanitation Baseline Survey - BLS08
+Nigeria,NG,NGA,566,National,10,Dry latrines - Hanging toilet/hanging latrine,0.02,Nigeria Water Supply and Sanitation Baseline Survey - BLS08
+Nigeria,NG,NGA,566,National,11,Dry latrines - Bucket latrine,0.001,Nigeria Water Supply and Sanitation Baseline Survey - BLS08
+Nigeria,NG,NGA,566,National,12,Dry latrines - Other,0.0,Nigeria Water Supply and Sanitation Baseline Survey - BLS08
+Nigeria,NG,NGA,566,National,13,Composting toilets,0.0,Nigeria Water Supply and Sanitation Baseline Survey - BLS08
+Nigeria,NG,NGA,566,National,14,Other improved,0.02,Nigeria Water Supply and Sanitation Baseline Survey - BLS08
+Nigeria,NG,NGA,566,National,15,"No facility, bush, field",0.188,Nigeria Water Supply and Sanitation Baseline Survey - BLS08
+Nigeria,NG,NGA,566,National,16,Other unimproved,0.002,Nigeria Water Supply and Sanitation Baseline Survey - BLS08
+Nigeria,NG,NGA,566,National,17,DK/missing information,0.0,Nigeria Water Supply and Sanitation Baseline Survey - BLS08
 Nigeria,NG,NGA,566,Urban,1,Flush and pour flush - to piped sewer system,0.107,Demographic and Health Survey - DHS08
 Nigeria,NG,NGA,566,Urban,2,Flush and pour flush - to septic tank,0.219,Demographic and Health Survey - DHS08
 Nigeria,NG,NGA,566,Urban,3,Flush and pour flush - to pit,0.066,Demographic and Health Survey - DHS08
@@ -203,6 +390,23 @@ Nigeria,NG,NGA,566,Rural,14,Other improved,0.0,Demographic and Health Survey - D
 Nigeria,NG,NGA,566,Rural,15,"No facility, bush, field",0.424,Demographic and Health Survey - DHS08
 Nigeria,NG,NGA,566,Rural,16,Other unimproved,0.008,Demographic and Health Survey - DHS08
 Nigeria,NG,NGA,566,Rural,17,DK/missing information,0.0,Demographic and Health Survey - DHS08
+Nigeria,NG,NGA,566,National,1,Flush and pour flush - to piped sewer system,0.048,Demographic and Health Survey - DHS08
+Nigeria,NG,NGA,566,National,2,Flush and pour flush - to septic tank,0.104,Demographic and Health Survey - DHS08
+Nigeria,NG,NGA,566,National,3,Flush and pour flush - to pit,0.032,Demographic and Health Survey - DHS08
+Nigeria,NG,NGA,566,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS08
+Nigeria,NG,NGA,566,National,5,Flush and pour flush - to elsewhere,0.002,Demographic and Health Survey - DHS08
+Nigeria,NG,NGA,566,National,6,Dry latrines - Ventilated Improved Pit latrine,0.22,Demographic and Health Survey - DHS08
+Nigeria,NG,NGA,566,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.128,Demographic and Health Survey - DHS08
+Nigeria,NG,NGA,566,National,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS08
+Nigeria,NG,NGA,566,National,9,Dry latrines - Pit latrine without slab/open pit,0.12,Demographic and Health Survey - DHS08
+Nigeria,NG,NGA,566,National,10,Dry latrines - Hanging toilet/hanging latrine,0.017,Demographic and Health Survey - DHS08
+Nigeria,NG,NGA,566,National,11,Dry latrines - Bucket latrine,0.001,Demographic and Health Survey - DHS08
+Nigeria,NG,NGA,566,National,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS08
+Nigeria,NG,NGA,566,National,13,Composting toilets,0.0,Demographic and Health Survey - DHS08
+Nigeria,NG,NGA,566,National,14,Other improved,0.0,Demographic and Health Survey - DHS08
+Nigeria,NG,NGA,566,National,15,"No facility, bush, field",0.322,Demographic and Health Survey - DHS08
+Nigeria,NG,NGA,566,National,16,Other unimproved,0.007,Demographic and Health Survey - DHS08
+Nigeria,NG,NGA,566,National,17,DK/missing information,0.0,Demographic and Health Survey - DHS08
 Nigeria,NG,NGA,566,Urban,1,Flush and pour flush - to piped sewer system,0.19,Nigeria Living Standards Survey - LSS09
 Nigeria,NG,NGA,566,Urban,2,Flush and pour flush - to septic tank,0.161,Nigeria Living Standards Survey - LSS09
 Nigeria,NG,NGA,566,Urban,3,Flush and pour flush - to pit,0.077,Nigeria Living Standards Survey - LSS09
@@ -237,6 +441,23 @@ Nigeria,NG,NGA,566,Rural,14,Other improved,0.0,Nigeria Living Standards Survey -
 Nigeria,NG,NGA,566,Rural,15,"No facility, bush, field",0.314,Nigeria Living Standards Survey - LSS09
 Nigeria,NG,NGA,566,Rural,16,Other unimproved,0.024,Nigeria Living Standards Survey - LSS09
 Nigeria,NG,NGA,566,Rural,17,DK/missing information,0.0,Nigeria Living Standards Survey - LSS09
+Nigeria,NG,NGA,566,National,1,Flush and pour flush - to piped sewer system,0.107,Nigeria Living Standards Survey - LSS09
+Nigeria,NG,NGA,566,National,2,Flush and pour flush - to septic tank,0.077,Nigeria Living Standards Survey - LSS09
+Nigeria,NG,NGA,566,National,3,Flush and pour flush - to pit,0.046,Nigeria Living Standards Survey - LSS09
+Nigeria,NG,NGA,566,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.004,Nigeria Living Standards Survey - LSS09
+Nigeria,NG,NGA,566,National,5,Flush and pour flush - to elsewhere,0.002,Nigeria Living Standards Survey - LSS09
+Nigeria,NG,NGA,566,National,6,Dry latrines - Ventilated Improved Pit latrine,0.01,Nigeria Living Standards Survey - LSS09
+Nigeria,NG,NGA,566,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.268,Nigeria Living Standards Survey - LSS09
+Nigeria,NG,NGA,566,National,8,Dry latrines - Traditional latrine,0.0,Nigeria Living Standards Survey - LSS09
+Nigeria,NG,NGA,566,National,9,Dry latrines - Pit latrine without slab/open pit,0.184,Nigeria Living Standards Survey - LSS09
+Nigeria,NG,NGA,566,National,10,Dry latrines - Hanging toilet/hanging latrine,0.032,Nigeria Living Standards Survey - LSS09
+Nigeria,NG,NGA,566,National,11,Dry latrines - Bucket latrine,0.001,Nigeria Living Standards Survey - LSS09
+Nigeria,NG,NGA,566,National,12,Dry latrines - Other,0.0,Nigeria Living Standards Survey - LSS09
+Nigeria,NG,NGA,566,National,13,Composting toilets,0.008,Nigeria Living Standards Survey - LSS09
+Nigeria,NG,NGA,566,National,14,Other improved,0.0,Nigeria Living Standards Survey - LSS09
+Nigeria,NG,NGA,566,National,15,"No facility, bush, field",0.243,Nigeria Living Standards Survey - LSS09
+Nigeria,NG,NGA,566,National,16,Other unimproved,0.018,Nigeria Living Standards Survey - LSS09
+Nigeria,NG,NGA,566,National,17,DK/missing information,0.0,Nigeria Living Standards Survey - LSS09
 Nigeria,NG,NGA,566,Urban,1,Flush and pour flush - to piped sewer system,0.188,MEASURE DHS - Malaria Indicators Survey (MIS) - MIS10
 Nigeria,NG,NGA,566,Urban,2,Flush and pour flush - to septic tank,0.107,MEASURE DHS - Malaria Indicators Survey (MIS) - MIS10
 Nigeria,NG,NGA,566,Urban,3,Flush and pour flush - to pit,0.049,MEASURE DHS - Malaria Indicators Survey (MIS) - MIS10
@@ -271,6 +492,74 @@ Nigeria,NG,NGA,566,Rural,14,Other improved,0.0,MEASURE DHS - Malaria Indicators 
 Nigeria,NG,NGA,566,Rural,15,"No facility, bush, field",0.396,MEASURE DHS - Malaria Indicators Survey (MIS) - MIS10
 Nigeria,NG,NGA,566,Rural,16,Other unimproved,0.0,MEASURE DHS - Malaria Indicators Survey (MIS) - MIS10
 Nigeria,NG,NGA,566,Rural,17,DK/missing information,0.0,MEASURE DHS - Malaria Indicators Survey (MIS) - MIS10
+Nigeria,NG,NGA,566,National,1,Flush and pour flush - to piped sewer system,0.082,MEASURE DHS - Malaria Indicators Survey (MIS) - MIS10
+Nigeria,NG,NGA,566,National,2,Flush and pour flush - to septic tank,0.044,MEASURE DHS - Malaria Indicators Survey (MIS) - MIS10
+Nigeria,NG,NGA,566,National,3,Flush and pour flush - to pit,0.026,MEASURE DHS - Malaria Indicators Survey (MIS) - MIS10
+Nigeria,NG,NGA,566,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,MEASURE DHS - Malaria Indicators Survey (MIS) - MIS10
+Nigeria,NG,NGA,566,National,5,Flush and pour flush - to elsewhere,0.005,MEASURE DHS - Malaria Indicators Survey (MIS) - MIS10
+Nigeria,NG,NGA,566,National,6,Dry latrines - Ventilated Improved Pit latrine,0.024,MEASURE DHS - Malaria Indicators Survey (MIS) - MIS10
+Nigeria,NG,NGA,566,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.248,MEASURE DHS - Malaria Indicators Survey (MIS) - MIS10
+Nigeria,NG,NGA,566,National,8,Dry latrines - Traditional latrine,0.0,MEASURE DHS - Malaria Indicators Survey (MIS) - MIS10
+Nigeria,NG,NGA,566,National,9,Dry latrines - Pit latrine without slab/open pit,0.197,MEASURE DHS - Malaria Indicators Survey (MIS) - MIS10
+Nigeria,NG,NGA,566,National,10,Dry latrines - Hanging toilet/hanging latrine,0.031,MEASURE DHS - Malaria Indicators Survey (MIS) - MIS10
+Nigeria,NG,NGA,566,National,11,Dry latrines - Bucket latrine,0.0,MEASURE DHS - Malaria Indicators Survey (MIS) - MIS10
+Nigeria,NG,NGA,566,National,12,Dry latrines - Other,0.0,MEASURE DHS - Malaria Indicators Survey (MIS) - MIS10
+Nigeria,NG,NGA,566,National,13,Composting toilets,0.002,MEASURE DHS - Malaria Indicators Survey (MIS) - MIS10
+Nigeria,NG,NGA,566,National,14,Other improved,0.0,MEASURE DHS - Malaria Indicators Survey (MIS) - MIS10
+Nigeria,NG,NGA,566,National,15,"No facility, bush, field",0.341,MEASURE DHS - Malaria Indicators Survey (MIS) - MIS10
+Nigeria,NG,NGA,566,National,16,Other unimproved,0.0,MEASURE DHS - Malaria Indicators Survey (MIS) - MIS10
+Nigeria,NG,NGA,566,National,17,DK/missing information,0.0,MEASURE DHS - Malaria Indicators Survey (MIS) - MIS10
+Nigeria,NG,NGA,566,Urban,1,Flush and pour flush - to piped sewer system,0.165,Census - CEN10
+Nigeria,NG,NGA,566,Urban,2,Flush and pour flush - to septic tank,0.171,Census - CEN10
+Nigeria,NG,NGA,566,Urban,3,Flush and pour flush - to pit,0.0,Census - CEN10
+Nigeria,NG,NGA,566,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN10
+Nigeria,NG,NGA,566,Urban,5,Flush and pour flush - to elsewhere,0.0,Census - CEN10
+Nigeria,NG,NGA,566,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.029,Census - CEN10
+Nigeria,NG,NGA,566,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN10
+Nigeria,NG,NGA,566,Urban,8,Dry latrines - Traditional latrine,0.339,Census - CEN10
+Nigeria,NG,NGA,566,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.075,Census - CEN10
+Nigeria,NG,NGA,566,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.083,Census - CEN10
+Nigeria,NG,NGA,566,Urban,11,Dry latrines - Bucket latrine,0.013,Census - CEN10
+Nigeria,NG,NGA,566,Urban,12,Dry latrines - Other,0.0,Census - CEN10
+Nigeria,NG,NGA,566,Urban,13,Composting toilets,0.0,Census - CEN10
+Nigeria,NG,NGA,566,Urban,14,Other improved,0.0,Census - CEN10
+Nigeria,NG,NGA,566,Urban,15,"No facility, bush, field",0.085,Census - CEN10
+Nigeria,NG,NGA,566,Urban,16,Other unimproved,0.034,Census - CEN10
+Nigeria,NG,NGA,566,Urban,17,DK/missing information,0.006,Census - CEN10
+Nigeria,NG,NGA,566,Rural,1,Flush and pour flush - to piped sewer system,0.032,Census - CEN10
+Nigeria,NG,NGA,566,Rural,2,Flush and pour flush - to septic tank,0.024,Census - CEN10
+Nigeria,NG,NGA,566,Rural,3,Flush and pour flush - to pit,0.0,Census - CEN10
+Nigeria,NG,NGA,566,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN10
+Nigeria,NG,NGA,566,Rural,5,Flush and pour flush - to elsewhere,0.0,Census - CEN10
+Nigeria,NG,NGA,566,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.028,Census - CEN10
+Nigeria,NG,NGA,566,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN10
+Nigeria,NG,NGA,566,Rural,8,Dry latrines - Traditional latrine,0.374,Census - CEN10
+Nigeria,NG,NGA,566,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.221,Census - CEN10
+Nigeria,NG,NGA,566,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.046,Census - CEN10
+Nigeria,NG,NGA,566,Rural,11,Dry latrines - Bucket latrine,0.017,Census - CEN10
+Nigeria,NG,NGA,566,Rural,12,Dry latrines - Other,0.0,Census - CEN10
+Nigeria,NG,NGA,566,Rural,13,Composting toilets,0.0,Census - CEN10
+Nigeria,NG,NGA,566,Rural,14,Other improved,0.0,Census - CEN10
+Nigeria,NG,NGA,566,Rural,15,"No facility, bush, field",0.157,Census - CEN10
+Nigeria,NG,NGA,566,Rural,16,Other unimproved,0.09,Census - CEN10
+Nigeria,NG,NGA,566,Rural,17,DK/missing information,0.011,Census - CEN10
+Nigeria,NG,NGA,566,National,1,Flush and pour flush - to piped sewer system,0.06,Census - CEN10
+Nigeria,NG,NGA,566,National,2,Flush and pour flush - to septic tank,0.056,Census - CEN10
+Nigeria,NG,NGA,566,National,3,Flush and pour flush - to pit,0.0,Census - CEN10
+Nigeria,NG,NGA,566,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN10
+Nigeria,NG,NGA,566,National,5,Flush and pour flush - to elsewhere,0.0,Census - CEN10
+Nigeria,NG,NGA,566,National,6,Dry latrines - Ventilated Improved Pit latrine,0.028,Census - CEN10
+Nigeria,NG,NGA,566,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN10
+Nigeria,NG,NGA,566,National,8,Dry latrines - Traditional latrine,0.366,Census - CEN10
+Nigeria,NG,NGA,566,National,9,Dry latrines - Pit latrine without slab/open pit,0.19,Census - CEN10
+Nigeria,NG,NGA,566,National,10,Dry latrines - Hanging toilet/hanging latrine,0.054,Census - CEN10
+Nigeria,NG,NGA,566,National,11,Dry latrines - Bucket latrine,0.016,Census - CEN10
+Nigeria,NG,NGA,566,National,12,Dry latrines - Other,0.0,Census - CEN10
+Nigeria,NG,NGA,566,National,13,Composting toilets,0.0,Census - CEN10
+Nigeria,NG,NGA,566,National,14,Other improved,0.0,Census - CEN10
+Nigeria,NG,NGA,566,National,15,"No facility, bush, field",0.141,Census - CEN10
+Nigeria,NG,NGA,566,National,16,Other unimproved,0.078,Census - CEN10
+Nigeria,NG,NGA,566,National,17,DK/missing information,0.01,Census - CEN10
 Nigeria,NG,NGA,566,Urban,1,Flush and pour flush - to piped sewer system,0.078,Living Standards Measurement Study (LSMS) - LSMS11
 Nigeria,NG,NGA,566,Urban,2,Flush and pour flush - to septic tank,0.242,Living Standards Measurement Study (LSMS) - LSMS11
 Nigeria,NG,NGA,566,Urban,3,Flush and pour flush - to pit,0.0,Living Standards Measurement Study (LSMS) - LSMS11
@@ -305,6 +594,23 @@ Nigeria,NG,NGA,566,Rural,14,Other improved,0.0,Living Standards Measurement Stud
 Nigeria,NG,NGA,566,Rural,15,"No facility, bush, field",0.213,Living Standards Measurement Study (LSMS) - LSMS11
 Nigeria,NG,NGA,566,Rural,16,Other unimproved,0.132,Living Standards Measurement Study (LSMS) - LSMS11
 Nigeria,NG,NGA,566,Rural,17,DK/missing information,0.0,Living Standards Measurement Study (LSMS) - LSMS11
+Nigeria,NG,NGA,566,National,1,Flush and pour flush - to piped sewer system,0.044,Living Standards Measurement Study (LSMS) - LSMS11
+Nigeria,NG,NGA,566,National,2,Flush and pour flush - to septic tank,0.137,Living Standards Measurement Study (LSMS) - LSMS11
+Nigeria,NG,NGA,566,National,3,Flush and pour flush - to pit,0.0,Living Standards Measurement Study (LSMS) - LSMS11
+Nigeria,NG,NGA,566,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Living Standards Measurement Study (LSMS) - LSMS11
+Nigeria,NG,NGA,566,National,5,Flush and pour flush - to elsewhere,0.0,Living Standards Measurement Study (LSMS) - LSMS11
+Nigeria,NG,NGA,566,National,6,Dry latrines - Ventilated Improved Pit latrine,0.028,Living Standards Measurement Study (LSMS) - LSMS11
+Nigeria,NG,NGA,566,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Living Standards Measurement Study (LSMS) - LSMS11
+Nigeria,NG,NGA,566,National,8,Dry latrines - Traditional latrine,0.356,Living Standards Measurement Study (LSMS) - LSMS11
+Nigeria,NG,NGA,566,National,9,Dry latrines - Pit latrine without slab/open pit,0.122,Living Standards Measurement Study (LSMS) - LSMS11
+Nigeria,NG,NGA,566,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Living Standards Measurement Study (LSMS) - LSMS11
+Nigeria,NG,NGA,566,National,11,Dry latrines - Bucket latrine,0.007,Living Standards Measurement Study (LSMS) - LSMS11
+Nigeria,NG,NGA,566,National,12,Dry latrines - Other,0.0,Living Standards Measurement Study (LSMS) - LSMS11
+Nigeria,NG,NGA,566,National,13,Composting toilets,0.0,Living Standards Measurement Study (LSMS) - LSMS11
+Nigeria,NG,NGA,566,National,14,Other improved,0.0,Living Standards Measurement Study (LSMS) - LSMS11
+Nigeria,NG,NGA,566,National,15,"No facility, bush, field",0.196,Living Standards Measurement Study (LSMS) - LSMS11
+Nigeria,NG,NGA,566,National,16,Other unimproved,0.109,Living Standards Measurement Study (LSMS) - LSMS11
+Nigeria,NG,NGA,566,National,17,DK/missing information,0.0,Living Standards Measurement Study (LSMS) - LSMS11
 Nigeria,NG,NGA,566,Urban,1,Flush and pour flush - to piped sewer system,0.078,Multiple Indicator Cluster Survey 2011 - MICS11
 Nigeria,NG,NGA,566,Urban,2,Flush and pour flush - to septic tank,0.327,Multiple Indicator Cluster Survey 2011 - MICS11
 Nigeria,NG,NGA,566,Urban,3,Flush and pour flush - to pit,0.097,Multiple Indicator Cluster Survey 2011 - MICS11
@@ -339,6 +645,23 @@ Nigeria,NG,NGA,566,Rural,14,Other improved,0.0,Multiple Indicator Cluster Survey
 Nigeria,NG,NGA,566,Rural,15,"No facility, bush, field",0.37,Multiple Indicator Cluster Survey 2011 - MICS11
 Nigeria,NG,NGA,566,Rural,16,Other unimproved,0.002,Multiple Indicator Cluster Survey 2011 - MICS11
 Nigeria,NG,NGA,566,Rural,17,DK/missing information,0.001,Multiple Indicator Cluster Survey 2011 - MICS11
+Nigeria,NG,NGA,566,National,1,Flush and pour flush - to piped sewer system,0.044,Multiple Indicator Cluster Survey 2011 - MICS11
+Nigeria,NG,NGA,566,National,2,Flush and pour flush - to septic tank,0.148,Multiple Indicator Cluster Survey 2011 - MICS11
+Nigeria,NG,NGA,566,National,3,Flush and pour flush - to pit,0.05,Multiple Indicator Cluster Survey 2011 - MICS11
+Nigeria,NG,NGA,566,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.002,Multiple Indicator Cluster Survey 2011 - MICS11
+Nigeria,NG,NGA,566,National,5,Flush and pour flush - to elsewhere,0.001,Multiple Indicator Cluster Survey 2011 - MICS11
+Nigeria,NG,NGA,566,National,6,Dry latrines - Ventilated Improved Pit latrine,0.015,Multiple Indicator Cluster Survey 2011 - MICS11
+Nigeria,NG,NGA,566,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.251,Multiple Indicator Cluster Survey 2011 - MICS11
+Nigeria,NG,NGA,566,National,8,Dry latrines - Traditional latrine,0.0,Multiple Indicator Cluster Survey 2011 - MICS11
+Nigeria,NG,NGA,566,National,9,Dry latrines - Pit latrine without slab/open pit,0.183,Multiple Indicator Cluster Survey 2011 - MICS11
+Nigeria,NG,NGA,566,National,10,Dry latrines - Hanging toilet/hanging latrine,0.015,Multiple Indicator Cluster Survey 2011 - MICS11
+Nigeria,NG,NGA,566,National,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey 2011 - MICS11
+Nigeria,NG,NGA,566,National,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey 2011 - MICS11
+Nigeria,NG,NGA,566,National,13,Composting toilets,0.002,Multiple Indicator Cluster Survey 2011 - MICS11
+Nigeria,NG,NGA,566,National,14,Other improved,0.0,Multiple Indicator Cluster Survey 2011 - MICS11
+Nigeria,NG,NGA,566,National,15,"No facility, bush, field",0.285,Multiple Indicator Cluster Survey 2011 - MICS11
+Nigeria,NG,NGA,566,National,16,Other unimproved,0.002,Multiple Indicator Cluster Survey 2011 - MICS11
+Nigeria,NG,NGA,566,National,17,DK/missing information,0.001,Multiple Indicator Cluster Survey 2011 - MICS11
 Nigeria,NG,NGA,566,Urban,1,Flush and pour flush - to piped sewer system,0.134,"General Household Survey, 2012-2013 - GHS13"
 Nigeria,NG,NGA,566,Urban,2,Flush and pour flush - to septic tank,0.335,"General Household Survey, 2012-2013 - GHS13"
 Nigeria,NG,NGA,566,Urban,3,Flush and pour flush - to pit,0.0,"General Household Survey, 2012-2013 - GHS13"
@@ -397,6 +720,35 @@ Nigeria,NG,NGA,566,Rural,14,Other improved,0.0,"General Household Survey, 2012-2
 Nigeria,NG,NGA,566,Rural,15,"No facility, bush, field",0.395,"General Household Survey, 2012-2013 - GHS13"
 Nigeria,NG,NGA,566,Rural,16,Other unimproved,0.0,"General Household Survey, 2012-2013 - GHS13"
 Nigeria,NG,NGA,566,Rural,17,DK/missing information,0.0,"General Household Survey, 2012-2013 - GHS13"
+Nigeria,NG,NGA,566,National,1,Flush and pour flush - to piped sewer system,0.071,"General Household Survey, 2012-2013 - GHS13"
+Nigeria,NG,NGA,566,National,2,Flush and pour flush - to septic tank,0.171,"General Household Survey, 2012-2013 - GHS13"
+Nigeria,NG,NGA,566,National,3,Flush and pour flush - to pit,0.0,"General Household Survey, 2012-2013 - GHS13"
+Nigeria,NG,NGA,566,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"General Household Survey, 2012-2013 - GHS13"
+Nigeria,NG,NGA,566,National,5,Flush and pour flush - to elsewhere,0.0,"General Household Survey, 2012-2013 - GHS13"
+Nigeria,NG,NGA,566,National,6,Dry latrines - Ventilated Improved Pit latrine,0.016,"General Household Survey, 2012-2013 - GHS13"
+Nigeria,NG,NGA,566,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"General Household Survey, 2012-2013 - GHS13"
+Nigeria,NG,NGA,566,National,8,Dry latrines - Traditional latrine,0.32,"General Household Survey, 2012-2013 - GHS13"
+Nigeria,NG,NGA,566,National,9,Dry latrines - Pit latrine without slab/open pit,0.108,"General Household Survey, 2012-2013 - GHS13"
+Nigeria,NG,NGA,566,National,10,Dry latrines - Hanging toilet/hanging latrine,0.022,"General Household Survey, 2012-2013 - GHS13"
+Nigeria,NG,NGA,566,National,11,Dry latrines - Bucket latrine,0.004,"General Household Survey, 2012-2013 - GHS13"
+Nigeria,NG,NGA,566,National,6,Dry latrines - Ventilated Improved Pit latrine,0.011,"General Household Survey, 2012-2013 - GHS13"
+Nigeria,NG,NGA,566,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"General Household Survey, 2012-2013 - GHS13"
+Nigeria,NG,NGA,566,National,8,Dry latrines - Traditional latrine,0.212,"General Household Survey, 2012-2013 - GHS13"
+Nigeria,NG,NGA,566,National,9,Dry latrines - Pit latrine without slab/open pit,0.082,"General Household Survey, 2012-2013 - GHS13"
+Nigeria,NG,NGA,566,National,10,Dry latrines - Hanging toilet/hanging latrine,0.008,"General Household Survey, 2012-2013 - GHS13"
+Nigeria,NG,NGA,566,National,11,Dry latrines - Bucket latrine,0.003,"General Household Survey, 2012-2013 - GHS13"
+Nigeria,NG,NGA,566,National,6,Dry latrines - Ventilated Improved Pit latrine,0.005,"General Household Survey, 2012-2013 - GHS13"
+Nigeria,NG,NGA,566,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"General Household Survey, 2012-2013 - GHS13"
+Nigeria,NG,NGA,566,National,8,Dry latrines - Traditional latrine,0.108,"General Household Survey, 2012-2013 - GHS13"
+Nigeria,NG,NGA,566,National,9,Dry latrines - Pit latrine without slab/open pit,0.026,"General Household Survey, 2012-2013 - GHS13"
+Nigeria,NG,NGA,566,National,10,Dry latrines - Hanging toilet/hanging latrine,0.014,"General Household Survey, 2012-2013 - GHS13"
+Nigeria,NG,NGA,566,National,11,Dry latrines - Bucket latrine,0.001,"General Household Survey, 2012-2013 - GHS13"
+Nigeria,NG,NGA,566,National,12,Dry latrines - Other,0.0,"General Household Survey, 2012-2013 - GHS13"
+Nigeria,NG,NGA,566,National,13,Composting toilets,0.0,"General Household Survey, 2012-2013 - GHS13"
+Nigeria,NG,NGA,566,National,14,Other improved,0.0,"General Household Survey, 2012-2013 - GHS13"
+Nigeria,NG,NGA,566,National,15,"No facility, bush, field",0.29,"General Household Survey, 2012-2013 - GHS13"
+Nigeria,NG,NGA,566,National,16,Other unimproved,0.0,"General Household Survey, 2012-2013 - GHS13"
+Nigeria,NG,NGA,566,National,17,DK/missing information,0.0,"General Household Survey, 2012-2013 - GHS13"
 Nigeria,NG,NGA,566,Urban,1,Flush and pour flush - to piped sewer system,0.085,Demographic and Health Survey (NDHS) - DHS13
 Nigeria,NG,NGA,566,Urban,2,Flush and pour flush - to septic tank,0.207,Demographic and Health Survey (NDHS) - DHS13
 Nigeria,NG,NGA,566,Urban,3,Flush and pour flush - to pit,0.091,Demographic and Health Survey (NDHS) - DHS13
@@ -431,6 +783,23 @@ Nigeria,NG,NGA,566,Rural,14,Other improved,0.0,Demographic and Health Survey (ND
 Nigeria,NG,NGA,566,Rural,15,"No facility, bush, field",0.381,Demographic and Health Survey (NDHS) - DHS13
 Nigeria,NG,NGA,566,Rural,16,Other unimproved,0.0,Demographic and Health Survey (NDHS) - DHS13
 Nigeria,NG,NGA,566,Rural,17,DK/missing information,0.0,Demographic and Health Survey (NDHS) - DHS13
+Nigeria,NG,NGA,566,National,1,Flush and pour flush - to piped sewer system,0.045,Demographic and Health Survey (NDHS) - DHS13
+Nigeria,NG,NGA,566,National,2,Flush and pour flush - to septic tank,0.097,Demographic and Health Survey (NDHS) - DHS13
+Nigeria,NG,NGA,566,National,3,Flush and pour flush - to pit,0.047,Demographic and Health Survey (NDHS) - DHS13
+Nigeria,NG,NGA,566,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey (NDHS) - DHS13
+Nigeria,NG,NGA,566,National,5,Flush and pour flush - to elsewhere,0.003,Demographic and Health Survey (NDHS) - DHS13
+Nigeria,NG,NGA,566,National,6,Dry latrines - Ventilated Improved Pit latrine,0.231,Demographic and Health Survey (NDHS) - DHS13
+Nigeria,NG,NGA,566,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.117,Demographic and Health Survey (NDHS) - DHS13
+Nigeria,NG,NGA,566,National,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey (NDHS) - DHS13
+Nigeria,NG,NGA,566,National,9,Dry latrines - Pit latrine without slab/open pit,0.156,Demographic and Health Survey (NDHS) - DHS13
+Nigeria,NG,NGA,566,National,10,Dry latrines - Hanging toilet/hanging latrine,0.014,Demographic and Health Survey (NDHS) - DHS13
+Nigeria,NG,NGA,566,National,11,Dry latrines - Bucket latrine,0.001,Demographic and Health Survey (NDHS) - DHS13
+Nigeria,NG,NGA,566,National,12,Dry latrines - Other,0.0,Demographic and Health Survey (NDHS) - DHS13
+Nigeria,NG,NGA,566,National,13,Composting toilets,0.001,Demographic and Health Survey (NDHS) - DHS13
+Nigeria,NG,NGA,566,National,14,Other improved,0.0,Demographic and Health Survey (NDHS) - DHS13
+Nigeria,NG,NGA,566,National,15,"No facility, bush, field",0.288,Demographic and Health Survey (NDHS) - DHS13
+Nigeria,NG,NGA,566,National,16,Other unimproved,0.0,Demographic and Health Survey (NDHS) - DHS13
+Nigeria,NG,NGA,566,National,17,DK/missing information,0.0,Demographic and Health Survey (NDHS) - DHS13
 Nigeria,NG,NGA,566,Urban,1,Flush and pour flush - to piped sewer system,0.143,MEASURE DHS - Malaria Indicators Survey (MIS) - MIS15
 Nigeria,NG,NGA,566,Urban,2,Flush and pour flush - to septic tank,0.173,MEASURE DHS - Malaria Indicators Survey (MIS) - MIS15
 Nigeria,NG,NGA,566,Urban,3,Flush and pour flush - to pit,0.112,MEASURE DHS - Malaria Indicators Survey (MIS) - MIS15
@@ -465,6 +834,23 @@ Nigeria,NG,NGA,566,Rural,14,Other improved,0.0,MEASURE DHS - Malaria Indicators 
 Nigeria,NG,NGA,566,Rural,15,"No facility, bush, field",0.374,MEASURE DHS - Malaria Indicators Survey (MIS) - MIS15
 Nigeria,NG,NGA,566,Rural,16,Other unimproved,0.001,MEASURE DHS - Malaria Indicators Survey (MIS) - MIS15
 Nigeria,NG,NGA,566,Rural,17,DK/missing information,0.0,MEASURE DHS - Malaria Indicators Survey (MIS) - MIS15
+Nigeria,NG,NGA,566,National,1,Flush and pour flush - to piped sewer system,0.074,MEASURE DHS - Malaria Indicators Survey (MIS) - MIS15
+Nigeria,NG,NGA,566,National,2,Flush and pour flush - to septic tank,0.088,MEASURE DHS - Malaria Indicators Survey (MIS) - MIS15
+Nigeria,NG,NGA,566,National,3,Flush and pour flush - to pit,0.058,MEASURE DHS - Malaria Indicators Survey (MIS) - MIS15
+Nigeria,NG,NGA,566,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.001,MEASURE DHS - Malaria Indicators Survey (MIS) - MIS15
+Nigeria,NG,NGA,566,National,5,Flush and pour flush - to elsewhere,0.007,MEASURE DHS - Malaria Indicators Survey (MIS) - MIS15
+Nigeria,NG,NGA,566,National,6,Dry latrines - Ventilated Improved Pit latrine,0.073,MEASURE DHS - Malaria Indicators Survey (MIS) - MIS15
+Nigeria,NG,NGA,566,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.188,MEASURE DHS - Malaria Indicators Survey (MIS) - MIS15
+Nigeria,NG,NGA,566,National,8,Dry latrines - Traditional latrine,0.0,MEASURE DHS - Malaria Indicators Survey (MIS) - MIS15
+Nigeria,NG,NGA,566,National,9,Dry latrines - Pit latrine without slab/open pit,0.201,MEASURE DHS - Malaria Indicators Survey (MIS) - MIS15
+Nigeria,NG,NGA,566,National,10,Dry latrines - Hanging toilet/hanging latrine,0.018,MEASURE DHS - Malaria Indicators Survey (MIS) - MIS15
+Nigeria,NG,NGA,566,National,11,Dry latrines - Bucket latrine,0.008,MEASURE DHS - Malaria Indicators Survey (MIS) - MIS15
+Nigeria,NG,NGA,566,National,12,Dry latrines - Other,0.0,MEASURE DHS - Malaria Indicators Survey (MIS) - MIS15
+Nigeria,NG,NGA,566,National,13,Composting toilets,0.008,MEASURE DHS - Malaria Indicators Survey (MIS) - MIS15
+Nigeria,NG,NGA,566,National,14,Other improved,0.0,MEASURE DHS - Malaria Indicators Survey (MIS) - MIS15
+Nigeria,NG,NGA,566,National,15,"No facility, bush, field",0.274,MEASURE DHS - Malaria Indicators Survey (MIS) - MIS15
+Nigeria,NG,NGA,566,National,16,Other unimproved,0.001,MEASURE DHS - Malaria Indicators Survey (MIS) - MIS15
+Nigeria,NG,NGA,566,National,17,DK/missing information,0.0,MEASURE DHS - Malaria Indicators Survey (MIS) - MIS15
 Nigeria,NG,NGA,566,Urban,1,Flush and pour flush - to piped sewer system,0.185,"General Household Survey, 2015-2016 - GHS16"
 Nigeria,NG,NGA,566,Urban,2,Flush and pour flush - to septic tank,0.317,"General Household Survey, 2015-2016 - GHS16"
 Nigeria,NG,NGA,566,Urban,3,Flush and pour flush - to pit,0.0,"General Household Survey, 2015-2016 - GHS16"
@@ -499,6 +885,23 @@ Nigeria,NG,NGA,566,Rural,14,Other improved,0.0,"General Household Survey, 2015-2
 Nigeria,NG,NGA,566,Rural,15,"No facility, bush, field",0.327,"General Household Survey, 2015-2016 - GHS16"
 Nigeria,NG,NGA,566,Rural,16,Other unimproved,0.0,"General Household Survey, 2015-2016 - GHS16"
 Nigeria,NG,NGA,566,Rural,17,DK/missing information,0.0,"General Household Survey, 2015-2016 - GHS16"
+Nigeria,NG,NGA,566,National,1,Flush and pour flush - to piped sewer system,0.092,"General Household Survey, 2015-2016 - GHS16"
+Nigeria,NG,NGA,566,National,2,Flush and pour flush - to septic tank,0.174,"General Household Survey, 2015-2016 - GHS16"
+Nigeria,NG,NGA,566,National,3,Flush and pour flush - to pit,0.0,"General Household Survey, 2015-2016 - GHS16"
+Nigeria,NG,NGA,566,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"General Household Survey, 2015-2016 - GHS16"
+Nigeria,NG,NGA,566,National,5,Flush and pour flush - to elsewhere,0.0,"General Household Survey, 2015-2016 - GHS16"
+Nigeria,NG,NGA,566,National,6,Dry latrines - Ventilated Improved Pit latrine,0.013,"General Household Survey, 2015-2016 - GHS16"
+Nigeria,NG,NGA,566,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.324,"General Household Survey, 2015-2016 - GHS16"
+Nigeria,NG,NGA,566,National,8,Dry latrines - Traditional latrine,0.0,"General Household Survey, 2015-2016 - GHS16"
+Nigeria,NG,NGA,566,National,9,Dry latrines - Pit latrine without slab/open pit,0.116,"General Household Survey, 2015-2016 - GHS16"
+Nigeria,NG,NGA,566,National,10,Dry latrines - Hanging toilet/hanging latrine,0.029,"General Household Survey, 2015-2016 - GHS16"
+Nigeria,NG,NGA,566,National,11,Dry latrines - Bucket latrine,0.009,"General Household Survey, 2015-2016 - GHS16"
+Nigeria,NG,NGA,566,National,12,Dry latrines - Other,0.0,"General Household Survey, 2015-2016 - GHS16"
+Nigeria,NG,NGA,566,National,13,Composting toilets,0.0,"General Household Survey, 2015-2016 - GHS16"
+Nigeria,NG,NGA,566,National,14,Other improved,0.0,"General Household Survey, 2015-2016 - GHS16"
+Nigeria,NG,NGA,566,National,15,"No facility, bush, field",0.243,"General Household Survey, 2015-2016 - GHS16"
+Nigeria,NG,NGA,566,National,16,Other unimproved,0.0,"General Household Survey, 2015-2016 - GHS16"
+Nigeria,NG,NGA,566,National,17,DK/missing information,0.0,"General Household Survey, 2015-2016 - GHS16"
 Nigeria,NG,NGA,566,Urban,1,Flush and pour flush - to piped sewer system,0.269,Performance Monitoring and Accountability - PMA16
 Nigeria,NG,NGA,566,Urban,2,Flush and pour flush - to septic tank,0.336,Performance Monitoring and Accountability - PMA16
 Nigeria,NG,NGA,566,Urban,3,Flush and pour flush - to pit,0.106,Performance Monitoring and Accountability - PMA16
@@ -533,6 +936,23 @@ Nigeria,NG,NGA,566,Rural,14,Other improved,0.0,Performance Monitoring and Accoun
 Nigeria,NG,NGA,566,Rural,15,"No facility, bush, field",0.234,Performance Monitoring and Accountability - PMA16
 Nigeria,NG,NGA,566,Rural,16,Other unimproved,0.005,Performance Monitoring and Accountability - PMA16
 Nigeria,NG,NGA,566,Rural,17,DK/missing information,0.0,Performance Monitoring and Accountability - PMA16
+Nigeria,NG,NGA,566,National,1,Flush and pour flush - to piped sewer system,0.178,Performance Monitoring and Accountability - PMA16
+Nigeria,NG,NGA,566,National,2,Flush and pour flush - to septic tank,0.194,Performance Monitoring and Accountability - PMA16
+Nigeria,NG,NGA,566,National,3,Flush and pour flush - to pit,0.073,Performance Monitoring and Accountability - PMA16
+Nigeria,NG,NGA,566,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.001,Performance Monitoring and Accountability - PMA16
+Nigeria,NG,NGA,566,National,5,Flush and pour flush - to elsewhere,0.003,Performance Monitoring and Accountability - PMA16
+Nigeria,NG,NGA,566,National,6,Dry latrines - Ventilated Improved Pit latrine,0.02,Performance Monitoring and Accountability - PMA16
+Nigeria,NG,NGA,566,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.2,Performance Monitoring and Accountability - PMA16
+Nigeria,NG,NGA,566,National,8,Dry latrines - Traditional latrine,0.0,Performance Monitoring and Accountability - PMA16
+Nigeria,NG,NGA,566,National,9,Dry latrines - Pit latrine without slab/open pit,0.177,Performance Monitoring and Accountability - PMA16
+Nigeria,NG,NGA,566,National,10,Dry latrines - Hanging toilet/hanging latrine,0.021,Performance Monitoring and Accountability - PMA16
+Nigeria,NG,NGA,566,National,11,Dry latrines - Bucket latrine,0.004,Performance Monitoring and Accountability - PMA16
+Nigeria,NG,NGA,566,National,12,Dry latrines - Other,0.0,Performance Monitoring and Accountability - PMA16
+Nigeria,NG,NGA,566,National,13,Composting toilets,0.004,Performance Monitoring and Accountability - PMA16
+Nigeria,NG,NGA,566,National,14,Other improved,0.0,Performance Monitoring and Accountability - PMA16
+Nigeria,NG,NGA,566,National,15,"No facility, bush, field",0.121,Performance Monitoring and Accountability - PMA16
+Nigeria,NG,NGA,566,National,16,Other unimproved,0.003,Performance Monitoring and Accountability - PMA16
+Nigeria,NG,NGA,566,National,17,DK/missing information,0.0,Performance Monitoring and Accountability - PMA16
 Nigeria,NG,NGA,566,Urban,1,Flush and pour flush - to piped sewer system,0.178,Performance Monitoring and Accountability - PMA17
 Nigeria,NG,NGA,566,Urban,2,Flush and pour flush - to septic tank,0.409,Performance Monitoring and Accountability - PMA17
 Nigeria,NG,NGA,566,Urban,3,Flush and pour flush - to pit,0.109,Performance Monitoring and Accountability - PMA17
@@ -567,6 +987,23 @@ Nigeria,NG,NGA,566,Rural,14,Other improved,0.0,Performance Monitoring and Accoun
 Nigeria,NG,NGA,566,Rural,15,"No facility, bush, field",0.217,Performance Monitoring and Accountability - PMA17
 Nigeria,NG,NGA,566,Rural,16,Other unimproved,0.003,Performance Monitoring and Accountability - PMA17
 Nigeria,NG,NGA,566,Rural,17,DK/missing information,0.0,Performance Monitoring and Accountability - PMA17
+Nigeria,NG,NGA,566,National,1,Flush and pour flush - to piped sewer system,0.123,Performance Monitoring and Accountability - PMA17
+Nigeria,NG,NGA,566,National,2,Flush and pour flush - to septic tank,0.238,Performance Monitoring and Accountability - PMA17
+Nigeria,NG,NGA,566,National,3,Flush and pour flush - to pit,0.084,Performance Monitoring and Accountability - PMA17
+Nigeria,NG,NGA,566,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.001,Performance Monitoring and Accountability - PMA17
+Nigeria,NG,NGA,566,National,5,Flush and pour flush - to elsewhere,0.006,Performance Monitoring and Accountability - PMA17
+Nigeria,NG,NGA,566,National,6,Dry latrines - Ventilated Improved Pit latrine,0.022,Performance Monitoring and Accountability - PMA17
+Nigeria,NG,NGA,566,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.207,Performance Monitoring and Accountability - PMA17
+Nigeria,NG,NGA,566,National,8,Dry latrines - Traditional latrine,0.0,Performance Monitoring and Accountability - PMA17
+Nigeria,NG,NGA,566,National,9,Dry latrines - Pit latrine without slab/open pit,0.168,Performance Monitoring and Accountability - PMA17
+Nigeria,NG,NGA,566,National,10,Dry latrines - Hanging toilet/hanging latrine,0.019,Performance Monitoring and Accountability - PMA17
+Nigeria,NG,NGA,566,National,11,Dry latrines - Bucket latrine,0.009,Performance Monitoring and Accountability - PMA17
+Nigeria,NG,NGA,566,National,12,Dry latrines - Other,0.0,Performance Monitoring and Accountability - PMA17
+Nigeria,NG,NGA,566,National,13,Composting toilets,0.006,Performance Monitoring and Accountability - PMA17
+Nigeria,NG,NGA,566,National,14,Other improved,0.0,Performance Monitoring and Accountability - PMA17
+Nigeria,NG,NGA,566,National,15,"No facility, bush, field",0.116,Performance Monitoring and Accountability - PMA17
+Nigeria,NG,NGA,566,National,16,Other unimproved,0.003,Performance Monitoring and Accountability - PMA17
+Nigeria,NG,NGA,566,National,17,DK/missing information,0.0,Performance Monitoring and Accountability - PMA17
 Nigeria,NG,NGA,566,Urban,1,Flush and pour flush - to piped sewer system,0.106,Multiple Indicator Cluster Survey - MICS17
 Nigeria,NG,NGA,566,Urban,2,Flush and pour flush - to septic tank,0.259,Multiple Indicator Cluster Survey - MICS17
 Nigeria,NG,NGA,566,Urban,3,Flush and pour flush - to pit,0.151,Multiple Indicator Cluster Survey - MICS17
@@ -601,6 +1038,23 @@ Nigeria,NG,NGA,566,Rural,14,Other improved,0.0,Multiple Indicator Cluster Survey
 Nigeria,NG,NGA,566,Rural,15,"No facility, bush, field",0.324,Multiple Indicator Cluster Survey - MICS17
 Nigeria,NG,NGA,566,Rural,16,Other unimproved,0.003,Multiple Indicator Cluster Survey - MICS17
 Nigeria,NG,NGA,566,Rural,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS17
+Nigeria,NG,NGA,566,National,1,Flush and pour flush - to piped sewer system,0.053,Multiple Indicator Cluster Survey - MICS17
+Nigeria,NG,NGA,566,National,2,Flush and pour flush - to septic tank,0.114,Multiple Indicator Cluster Survey - MICS17
+Nigeria,NG,NGA,566,National,3,Flush and pour flush - to pit,0.089,Multiple Indicator Cluster Survey - MICS17
+Nigeria,NG,NGA,566,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.001,Multiple Indicator Cluster Survey - MICS17
+Nigeria,NG,NGA,566,National,5,Flush and pour flush - to elsewhere,0.007,Multiple Indicator Cluster Survey - MICS17
+Nigeria,NG,NGA,566,National,6,Dry latrines - Ventilated Improved Pit latrine,0.013,Multiple Indicator Cluster Survey - MICS17
+Nigeria,NG,NGA,566,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.239,Multiple Indicator Cluster Survey - MICS17
+Nigeria,NG,NGA,566,National,8,Dry latrines - Traditional latrine,0.0,Multiple Indicator Cluster Survey - MICS17
+Nigeria,NG,NGA,566,National,9,Dry latrines - Pit latrine without slab/open pit,0.232,Multiple Indicator Cluster Survey - MICS17
+Nigeria,NG,NGA,566,National,10,Dry latrines - Hanging toilet/hanging latrine,0.008,Multiple Indicator Cluster Survey - MICS17
+Nigeria,NG,NGA,566,National,11,Dry latrines - Bucket latrine,0.001,Multiple Indicator Cluster Survey - MICS17
+Nigeria,NG,NGA,566,National,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS17
+Nigeria,NG,NGA,566,National,13,Composting toilets,0.007,Multiple Indicator Cluster Survey - MICS17
+Nigeria,NG,NGA,566,National,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS17
+Nigeria,NG,NGA,566,National,15,"No facility, bush, field",0.235,Multiple Indicator Cluster Survey - MICS17
+Nigeria,NG,NGA,566,National,16,Other unimproved,0.002,Multiple Indicator Cluster Survey - MICS17
+Nigeria,NG,NGA,566,National,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS17
 Nigeria,NG,NGA,566,Urban,1,Flush and pour flush - to piped sewer system,0.183,Performance Monitoring and Accountability - PMA18
 Nigeria,NG,NGA,566,Urban,2,Flush and pour flush - to septic tank,0.411,Performance Monitoring and Accountability - PMA18
 Nigeria,NG,NGA,566,Urban,3,Flush and pour flush - to pit,0.12,Performance Monitoring and Accountability - PMA18
@@ -635,6 +1089,23 @@ Nigeria,NG,NGA,566,Rural,14,Other improved,0.0,Performance Monitoring and Accoun
 Nigeria,NG,NGA,566,Rural,15,"No facility, bush, field",0.25,Performance Monitoring and Accountability - PMA18
 Nigeria,NG,NGA,566,Rural,16,Other unimproved,0.002,Performance Monitoring and Accountability - PMA18
 Nigeria,NG,NGA,566,Rural,17,DK/missing information,0.001,Performance Monitoring and Accountability - PMA18
+Nigeria,NG,NGA,566,National,1,Flush and pour flush - to piped sewer system,0.121,Performance Monitoring and Accountability - PMA18
+Nigeria,NG,NGA,566,National,2,Flush and pour flush - to septic tank,0.244,Performance Monitoring and Accountability - PMA18
+Nigeria,NG,NGA,566,National,3,Flush and pour flush - to pit,0.095,Performance Monitoring and Accountability - PMA18
+Nigeria,NG,NGA,566,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.001,Performance Monitoring and Accountability - PMA18
+Nigeria,NG,NGA,566,National,5,Flush and pour flush - to elsewhere,0.004,Performance Monitoring and Accountability - PMA18
+Nigeria,NG,NGA,566,National,6,Dry latrines - Ventilated Improved Pit latrine,0.015,Performance Monitoring and Accountability - PMA18
+Nigeria,NG,NGA,566,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.168,Performance Monitoring and Accountability - PMA18
+Nigeria,NG,NGA,566,National,8,Dry latrines - Traditional latrine,0.0,Performance Monitoring and Accountability - PMA18
+Nigeria,NG,NGA,566,National,9,Dry latrines - Pit latrine without slab/open pit,0.191,Performance Monitoring and Accountability - PMA18
+Nigeria,NG,NGA,566,National,10,Dry latrines - Hanging toilet/hanging latrine,0.022,Performance Monitoring and Accountability - PMA18
+Nigeria,NG,NGA,566,National,11,Dry latrines - Bucket latrine,0.006,Performance Monitoring and Accountability - PMA18
+Nigeria,NG,NGA,566,National,12,Dry latrines - Other,0.0,Performance Monitoring and Accountability - PMA18
+Nigeria,NG,NGA,566,National,13,Composting toilets,0.005,Performance Monitoring and Accountability - PMA18
+Nigeria,NG,NGA,566,National,14,Other improved,0.0,Performance Monitoring and Accountability - PMA18
+Nigeria,NG,NGA,566,National,15,"No facility, bush, field",0.126,Performance Monitoring and Accountability - PMA18
+Nigeria,NG,NGA,566,National,16,Other unimproved,0.001,Performance Monitoring and Accountability - PMA18
+Nigeria,NG,NGA,566,National,17,DK/missing information,0.001,Performance Monitoring and Accountability - PMA18
 Nigeria,NG,NGA,566,Urban,1,Flush and pour flush - to piped sewer system,0.109,National Outcome Routine Mapping - NORM18
 Nigeria,NG,NGA,566,Urban,2,Flush and pour flush - to septic tank,0.301,National Outcome Routine Mapping - NORM18
 Nigeria,NG,NGA,566,Urban,3,Flush and pour flush - to pit,0.14,National Outcome Routine Mapping - NORM18
@@ -669,3 +1140,20 @@ Nigeria,NG,NGA,566,Rural,14,Other improved,0.033,National Outcome Routine Mappin
 Nigeria,NG,NGA,566,Rural,15,"No facility, bush, field",0.301,National Outcome Routine Mapping - NORM18
 Nigeria,NG,NGA,566,Rural,16,Other unimproved,0.029,National Outcome Routine Mapping - NORM18
 Nigeria,NG,NGA,566,Rural,17,DK/missing information,0.0,National Outcome Routine Mapping - NORM18
+Nigeria,NG,NGA,566,National,1,Flush and pour flush - to piped sewer system,0.056,National Outcome Routine Mapping - NORM18
+Nigeria,NG,NGA,566,National,2,Flush and pour flush - to septic tank,0.133,National Outcome Routine Mapping - NORM18
+Nigeria,NG,NGA,566,National,3,Flush and pour flush - to pit,0.073,National Outcome Routine Mapping - NORM18
+Nigeria,NG,NGA,566,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.001,National Outcome Routine Mapping - NORM18
+Nigeria,NG,NGA,566,National,5,Flush and pour flush - to elsewhere,0.005,National Outcome Routine Mapping - NORM18
+Nigeria,NG,NGA,566,National,6,Dry latrines - Ventilated Improved Pit latrine,0.006,National Outcome Routine Mapping - NORM18
+Nigeria,NG,NGA,566,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.274,National Outcome Routine Mapping - NORM18
+Nigeria,NG,NGA,566,National,8,Dry latrines - Traditional latrine,0.0,National Outcome Routine Mapping - NORM18
+Nigeria,NG,NGA,566,National,9,Dry latrines - Pit latrine without slab/open pit,0.137,National Outcome Routine Mapping - NORM18
+Nigeria,NG,NGA,566,National,10,Dry latrines - Hanging toilet/hanging latrine,0.013,National Outcome Routine Mapping - NORM18
+Nigeria,NG,NGA,566,National,11,Dry latrines - Bucket latrine,0.001,National Outcome Routine Mapping - NORM18
+Nigeria,NG,NGA,566,National,12,Dry latrines - Other,0.0,National Outcome Routine Mapping - NORM18
+Nigeria,NG,NGA,566,National,13,Composting toilets,0.004,National Outcome Routine Mapping - NORM18
+Nigeria,NG,NGA,566,National,14,Other improved,0.029,National Outcome Routine Mapping - NORM18
+Nigeria,NG,NGA,566,National,15,"No facility, bush, field",0.244,National Outcome Routine Mapping - NORM18
+Nigeria,NG,NGA,566,National,16,Other unimproved,0.025,National Outcome Routine Mapping - NORM18
+Nigeria,NG,NGA,566,National,17,DK/missing information,0.0,National Outcome Routine Mapping - NORM18

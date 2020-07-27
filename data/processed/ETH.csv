@@ -1,4 +1,106 @@
 country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+Ethiopia,ET,ETH,231,Urban,1,Flush and pour flush - to piped sewer system,0.0,Ethiopia Demographic and Health Survey 2000 - DHS00
+Ethiopia,ET,ETH,231,Urban,2,Flush and pour flush - to septic tank,0.0,Ethiopia Demographic and Health Survey 2000 - DHS00
+Ethiopia,ET,ETH,231,Urban,3,Flush and pour flush - to pit,0.0,Ethiopia Demographic and Health Survey 2000 - DHS00
+Ethiopia,ET,ETH,231,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Ethiopia Demographic and Health Survey 2000 - DHS00
+Ethiopia,ET,ETH,231,Urban,5,Flush and pour flush - to elsewhere,0.0,Ethiopia Demographic and Health Survey 2000 - DHS00
+Ethiopia,ET,ETH,231,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.019,Ethiopia Demographic and Health Survey 2000 - DHS00
+Ethiopia,ET,ETH,231,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Ethiopia Demographic and Health Survey 2000 - DHS00
+Ethiopia,ET,ETH,231,Urban,8,Dry latrines - Traditional latrine,0.686,Ethiopia Demographic and Health Survey 2000 - DHS00
+Ethiopia,ET,ETH,231,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Ethiopia Demographic and Health Survey 2000 - DHS00
+Ethiopia,ET,ETH,231,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Ethiopia Demographic and Health Survey 2000 - DHS00
+Ethiopia,ET,ETH,231,Urban,11,Dry latrines - Bucket latrine,0.0,Ethiopia Demographic and Health Survey 2000 - DHS00
+Ethiopia,ET,ETH,231,Urban,12,Dry latrines - Other,0.0,Ethiopia Demographic and Health Survey 2000 - DHS00
+Ethiopia,ET,ETH,231,Urban,13,Composting toilets,0.0,Ethiopia Demographic and Health Survey 2000 - DHS00
+Ethiopia,ET,ETH,231,Urban,14,Other improved,0.0,Ethiopia Demographic and Health Survey 2000 - DHS00
+Ethiopia,ET,ETH,231,Urban,15,"No facility, bush, field",0.271,Ethiopia Demographic and Health Survey 2000 - DHS00
+Ethiopia,ET,ETH,231,Urban,16,Other unimproved,0.0,Ethiopia Demographic and Health Survey 2000 - DHS00
+Ethiopia,ET,ETH,231,Urban,17,DK/missing information,0.0,Ethiopia Demographic and Health Survey 2000 - DHS00
+Ethiopia,ET,ETH,231,Rural,1,Flush and pour flush - to piped sewer system,0.0,Ethiopia Demographic and Health Survey 2000 - DHS00
+Ethiopia,ET,ETH,231,Rural,2,Flush and pour flush - to septic tank,0.0,Ethiopia Demographic and Health Survey 2000 - DHS00
+Ethiopia,ET,ETH,231,Rural,3,Flush and pour flush - to pit,0.0,Ethiopia Demographic and Health Survey 2000 - DHS00
+Ethiopia,ET,ETH,231,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Ethiopia Demographic and Health Survey 2000 - DHS00
+Ethiopia,ET,ETH,231,Rural,5,Flush and pour flush - to elsewhere,0.0,Ethiopia Demographic and Health Survey 2000 - DHS00
+Ethiopia,ET,ETH,231,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Ethiopia Demographic and Health Survey 2000 - DHS00
+Ethiopia,ET,ETH,231,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Ethiopia Demographic and Health Survey 2000 - DHS00
+Ethiopia,ET,ETH,231,Rural,8,Dry latrines - Traditional latrine,0.083,Ethiopia Demographic and Health Survey 2000 - DHS00
+Ethiopia,ET,ETH,231,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Ethiopia Demographic and Health Survey 2000 - DHS00
+Ethiopia,ET,ETH,231,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Ethiopia Demographic and Health Survey 2000 - DHS00
+Ethiopia,ET,ETH,231,Rural,11,Dry latrines - Bucket latrine,0.0,Ethiopia Demographic and Health Survey 2000 - DHS00
+Ethiopia,ET,ETH,231,Rural,12,Dry latrines - Other,0.0,Ethiopia Demographic and Health Survey 2000 - DHS00
+Ethiopia,ET,ETH,231,Rural,13,Composting toilets,0.0,Ethiopia Demographic and Health Survey 2000 - DHS00
+Ethiopia,ET,ETH,231,Rural,14,Other improved,0.0,Ethiopia Demographic and Health Survey 2000 - DHS00
+Ethiopia,ET,ETH,231,Rural,15,"No facility, bush, field",0.917,Ethiopia Demographic and Health Survey 2000 - DHS00
+Ethiopia,ET,ETH,231,Rural,16,Other unimproved,0.0,Ethiopia Demographic and Health Survey 2000 - DHS00
+Ethiopia,ET,ETH,231,Rural,17,DK/missing information,0.0,Ethiopia Demographic and Health Survey 2000 - DHS00
+Ethiopia,ET,ETH,231,National,1,Flush and pour flush - to piped sewer system,0.0,Ethiopia Demographic and Health Survey 2000 - DHS00
+Ethiopia,ET,ETH,231,National,2,Flush and pour flush - to septic tank,0.0,Ethiopia Demographic and Health Survey 2000 - DHS00
+Ethiopia,ET,ETH,231,National,3,Flush and pour flush - to pit,0.0,Ethiopia Demographic and Health Survey 2000 - DHS00
+Ethiopia,ET,ETH,231,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Ethiopia Demographic and Health Survey 2000 - DHS00
+Ethiopia,ET,ETH,231,National,5,Flush and pour flush - to elsewhere,0.0,Ethiopia Demographic and Health Survey 2000 - DHS00
+Ethiopia,ET,ETH,231,National,6,Dry latrines - Ventilated Improved Pit latrine,0.003,Ethiopia Demographic and Health Survey 2000 - DHS00
+Ethiopia,ET,ETH,231,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Ethiopia Demographic and Health Survey 2000 - DHS00
+Ethiopia,ET,ETH,231,National,8,Dry latrines - Traditional latrine,0.169,Ethiopia Demographic and Health Survey 2000 - DHS00
+Ethiopia,ET,ETH,231,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Ethiopia Demographic and Health Survey 2000 - DHS00
+Ethiopia,ET,ETH,231,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Ethiopia Demographic and Health Survey 2000 - DHS00
+Ethiopia,ET,ETH,231,National,11,Dry latrines - Bucket latrine,0.0,Ethiopia Demographic and Health Survey 2000 - DHS00
+Ethiopia,ET,ETH,231,National,12,Dry latrines - Other,0.0,Ethiopia Demographic and Health Survey 2000 - DHS00
+Ethiopia,ET,ETH,231,National,13,Composting toilets,0.0,Ethiopia Demographic and Health Survey 2000 - DHS00
+Ethiopia,ET,ETH,231,National,14,Other improved,0.0,Ethiopia Demographic and Health Survey 2000 - DHS00
+Ethiopia,ET,ETH,231,National,15,"No facility, bush, field",0.825,Ethiopia Demographic and Health Survey 2000 - DHS00
+Ethiopia,ET,ETH,231,National,16,Other unimproved,0.0,Ethiopia Demographic and Health Survey 2000 - DHS00
+Ethiopia,ET,ETH,231,National,17,DK/missing information,0.0,Ethiopia Demographic and Health Survey 2000 - DHS00
+Ethiopia,ET,ETH,231,Urban,1,Flush and pour flush - to piped sewer system,0.0,Welfare Monitoring Survey - WMS00
+Ethiopia,ET,ETH,231,Urban,2,Flush and pour flush - to septic tank,0.0,Welfare Monitoring Survey - WMS00
+Ethiopia,ET,ETH,231,Urban,3,Flush and pour flush - to pit,0.0,Welfare Monitoring Survey - WMS00
+Ethiopia,ET,ETH,231,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Welfare Monitoring Survey - WMS00
+Ethiopia,ET,ETH,231,Urban,5,Flush and pour flush - to elsewhere,0.0,Welfare Monitoring Survey - WMS00
+Ethiopia,ET,ETH,231,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Welfare Monitoring Survey - WMS00
+Ethiopia,ET,ETH,231,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Welfare Monitoring Survey - WMS00
+Ethiopia,ET,ETH,231,Urban,8,Dry latrines - Traditional latrine,0.646,Welfare Monitoring Survey - WMS00
+Ethiopia,ET,ETH,231,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Welfare Monitoring Survey - WMS00
+Ethiopia,ET,ETH,231,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Welfare Monitoring Survey - WMS00
+Ethiopia,ET,ETH,231,Urban,11,Dry latrines - Bucket latrine,0.0,Welfare Monitoring Survey - WMS00
+Ethiopia,ET,ETH,231,Urban,12,Dry latrines - Other,0.007,Welfare Monitoring Survey - WMS00
+Ethiopia,ET,ETH,231,Urban,13,Composting toilets,0.0,Welfare Monitoring Survey - WMS00
+Ethiopia,ET,ETH,231,Urban,14,Other improved,0.0,Welfare Monitoring Survey - WMS00
+Ethiopia,ET,ETH,231,Urban,15,"No facility, bush, field",0.269,Welfare Monitoring Survey - WMS00
+Ethiopia,ET,ETH,231,Urban,16,Other unimproved,0.008,Welfare Monitoring Survey - WMS00
+Ethiopia,ET,ETH,231,Urban,17,DK/missing information,0.0,Welfare Monitoring Survey - WMS00
+Ethiopia,ET,ETH,231,Rural,1,Flush and pour flush - to piped sewer system,0.0,Welfare Monitoring Survey - WMS00
+Ethiopia,ET,ETH,231,Rural,2,Flush and pour flush - to septic tank,0.0,Welfare Monitoring Survey - WMS00
+Ethiopia,ET,ETH,231,Rural,3,Flush and pour flush - to pit,0.0,Welfare Monitoring Survey - WMS00
+Ethiopia,ET,ETH,231,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Welfare Monitoring Survey - WMS00
+Ethiopia,ET,ETH,231,Rural,5,Flush and pour flush - to elsewhere,0.0,Welfare Monitoring Survey - WMS00
+Ethiopia,ET,ETH,231,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Welfare Monitoring Survey - WMS00
+Ethiopia,ET,ETH,231,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Welfare Monitoring Survey - WMS00
+Ethiopia,ET,ETH,231,Rural,8,Dry latrines - Traditional latrine,0.081,Welfare Monitoring Survey - WMS00
+Ethiopia,ET,ETH,231,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Welfare Monitoring Survey - WMS00
+Ethiopia,ET,ETH,231,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Welfare Monitoring Survey - WMS00
+Ethiopia,ET,ETH,231,Rural,11,Dry latrines - Bucket latrine,0.0,Welfare Monitoring Survey - WMS00
+Ethiopia,ET,ETH,231,Rural,12,Dry latrines - Other,0.0,Welfare Monitoring Survey - WMS00
+Ethiopia,ET,ETH,231,Rural,13,Composting toilets,0.0,Welfare Monitoring Survey - WMS00
+Ethiopia,ET,ETH,231,Rural,14,Other improved,0.0,Welfare Monitoring Survey - WMS00
+Ethiopia,ET,ETH,231,Rural,15,"No facility, bush, field",0.907,Welfare Monitoring Survey - WMS00
+Ethiopia,ET,ETH,231,Rural,16,Other unimproved,0.004,Welfare Monitoring Survey - WMS00
+Ethiopia,ET,ETH,231,Rural,17,DK/missing information,0.0,Welfare Monitoring Survey - WMS00
+Ethiopia,ET,ETH,231,National,1,Flush and pour flush - to piped sewer system,0.0,Welfare Monitoring Survey - WMS00
+Ethiopia,ET,ETH,231,National,2,Flush and pour flush - to septic tank,0.0,Welfare Monitoring Survey - WMS00
+Ethiopia,ET,ETH,231,National,3,Flush and pour flush - to pit,0.0,Welfare Monitoring Survey - WMS00
+Ethiopia,ET,ETH,231,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Welfare Monitoring Survey - WMS00
+Ethiopia,ET,ETH,231,National,5,Flush and pour flush - to elsewhere,0.0,Welfare Monitoring Survey - WMS00
+Ethiopia,ET,ETH,231,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Welfare Monitoring Survey - WMS00
+Ethiopia,ET,ETH,231,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Welfare Monitoring Survey - WMS00
+Ethiopia,ET,ETH,231,National,8,Dry latrines - Traditional latrine,0.163,Welfare Monitoring Survey - WMS00
+Ethiopia,ET,ETH,231,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Welfare Monitoring Survey - WMS00
+Ethiopia,ET,ETH,231,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Welfare Monitoring Survey - WMS00
+Ethiopia,ET,ETH,231,National,11,Dry latrines - Bucket latrine,0.0,Welfare Monitoring Survey - WMS00
+Ethiopia,ET,ETH,231,National,12,Dry latrines - Other,0.001,Welfare Monitoring Survey - WMS00
+Ethiopia,ET,ETH,231,National,13,Composting toilets,0.0,Welfare Monitoring Survey - WMS00
+Ethiopia,ET,ETH,231,National,14,Other improved,0.0,Welfare Monitoring Survey - WMS00
+Ethiopia,ET,ETH,231,National,15,"No facility, bush, field",0.815,Welfare Monitoring Survey - WMS00
+Ethiopia,ET,ETH,231,National,16,Other unimproved,0.005,Welfare Monitoring Survey - WMS00
+Ethiopia,ET,ETH,231,National,17,DK/missing information,0.0,Welfare Monitoring Survey - WMS00
 Ethiopia,ET,ETH,231,Urban,1,Flush and pour flush - to piped sewer system,0.037,World Health Survey 2003 - WHS03
 Ethiopia,ET,ETH,231,Urban,2,Flush and pour flush - to septic tank,0.058,World Health Survey 2003 - WHS03
 Ethiopia,ET,ETH,231,Urban,3,Flush and pour flush - to pit,0.0,World Health Survey 2003 - WHS03
@@ -33,6 +135,74 @@ Ethiopia,ET,ETH,231,Rural,14,Other improved,0.0,World Health Survey 2003 - WHS03
 Ethiopia,ET,ETH,231,Rural,15,"No facility, bush, field",0.778,World Health Survey 2003 - WHS03
 Ethiopia,ET,ETH,231,Rural,16,Other unimproved,0.009,World Health Survey 2003 - WHS03
 Ethiopia,ET,ETH,231,Rural,17,DK/missing information,0.0,World Health Survey 2003 - WHS03
+Ethiopia,ET,ETH,231,National,1,Flush and pour flush - to piped sewer system,0.008,World Health Survey 2003 - WHS03
+Ethiopia,ET,ETH,231,National,2,Flush and pour flush - to septic tank,0.011,World Health Survey 2003 - WHS03
+Ethiopia,ET,ETH,231,National,3,Flush and pour flush - to pit,0.0,World Health Survey 2003 - WHS03
+Ethiopia,ET,ETH,231,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,World Health Survey 2003 - WHS03
+Ethiopia,ET,ETH,231,National,5,Flush and pour flush - to elsewhere,0.0,World Health Survey 2003 - WHS03
+Ethiopia,ET,ETH,231,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,World Health Survey 2003 - WHS03
+Ethiopia,ET,ETH,231,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.153,World Health Survey 2003 - WHS03
+Ethiopia,ET,ETH,231,National,8,Dry latrines - Traditional latrine,0.0,World Health Survey 2003 - WHS03
+Ethiopia,ET,ETH,231,National,9,Dry latrines - Pit latrine without slab/open pit,0.111,World Health Survey 2003 - WHS03
+Ethiopia,ET,ETH,231,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,World Health Survey 2003 - WHS03
+Ethiopia,ET,ETH,231,National,11,Dry latrines - Bucket latrine,0.002,World Health Survey 2003 - WHS03
+Ethiopia,ET,ETH,231,National,12,Dry latrines - Other,0.0,World Health Survey 2003 - WHS03
+Ethiopia,ET,ETH,231,National,13,Composting toilets,0.0,World Health Survey 2003 - WHS03
+Ethiopia,ET,ETH,231,National,14,Other improved,0.0,World Health Survey 2003 - WHS03
+Ethiopia,ET,ETH,231,National,15,"No facility, bush, field",0.693,World Health Survey 2003 - WHS03
+Ethiopia,ET,ETH,231,National,16,Other unimproved,0.012,World Health Survey 2003 - WHS03
+Ethiopia,ET,ETH,231,National,17,DK/missing information,0.0,World Health Survey 2003 - WHS03
+Ethiopia,ET,ETH,231,Urban,1,Flush and pour flush - to piped sewer system,0.0,Welfare Monitoring Survey - WMS04
+Ethiopia,ET,ETH,231,Urban,2,Flush and pour flush - to septic tank,0.0,Welfare Monitoring Survey - WMS04
+Ethiopia,ET,ETH,231,Urban,3,Flush and pour flush - to pit,0.0,Welfare Monitoring Survey - WMS04
+Ethiopia,ET,ETH,231,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Welfare Monitoring Survey - WMS04
+Ethiopia,ET,ETH,231,Urban,5,Flush and pour flush - to elsewhere,0.0,Welfare Monitoring Survey - WMS04
+Ethiopia,ET,ETH,231,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Welfare Monitoring Survey - WMS04
+Ethiopia,ET,ETH,231,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Welfare Monitoring Survey - WMS04
+Ethiopia,ET,ETH,231,Urban,8,Dry latrines - Traditional latrine,0.714,Welfare Monitoring Survey - WMS04
+Ethiopia,ET,ETH,231,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Welfare Monitoring Survey - WMS04
+Ethiopia,ET,ETH,231,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Welfare Monitoring Survey - WMS04
+Ethiopia,ET,ETH,231,Urban,11,Dry latrines - Bucket latrine,0.0,Welfare Monitoring Survey - WMS04
+Ethiopia,ET,ETH,231,Urban,12,Dry latrines - Other,0.003,Welfare Monitoring Survey - WMS04
+Ethiopia,ET,ETH,231,Urban,13,Composting toilets,0.0,Welfare Monitoring Survey - WMS04
+Ethiopia,ET,ETH,231,Urban,14,Other improved,0.0,Welfare Monitoring Survey - WMS04
+Ethiopia,ET,ETH,231,Urban,15,"No facility, bush, field",0.192,Welfare Monitoring Survey - WMS04
+Ethiopia,ET,ETH,231,Urban,16,Other unimproved,0.003,Welfare Monitoring Survey - WMS04
+Ethiopia,ET,ETH,231,Urban,17,DK/missing information,0.0,Welfare Monitoring Survey - WMS04
+Ethiopia,ET,ETH,231,Rural,1,Flush and pour flush - to piped sewer system,0.0,Welfare Monitoring Survey - WMS04
+Ethiopia,ET,ETH,231,Rural,2,Flush and pour flush - to septic tank,0.0,Welfare Monitoring Survey - WMS04
+Ethiopia,ET,ETH,231,Rural,3,Flush and pour flush - to pit,0.0,Welfare Monitoring Survey - WMS04
+Ethiopia,ET,ETH,231,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Welfare Monitoring Survey - WMS04
+Ethiopia,ET,ETH,231,Rural,5,Flush and pour flush - to elsewhere,0.0,Welfare Monitoring Survey - WMS04
+Ethiopia,ET,ETH,231,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Welfare Monitoring Survey - WMS04
+Ethiopia,ET,ETH,231,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Welfare Monitoring Survey - WMS04
+Ethiopia,ET,ETH,231,Rural,8,Dry latrines - Traditional latrine,0.2,Welfare Monitoring Survey - WMS04
+Ethiopia,ET,ETH,231,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Welfare Monitoring Survey - WMS04
+Ethiopia,ET,ETH,231,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Welfare Monitoring Survey - WMS04
+Ethiopia,ET,ETH,231,Rural,11,Dry latrines - Bucket latrine,0.0,Welfare Monitoring Survey - WMS04
+Ethiopia,ET,ETH,231,Rural,12,Dry latrines - Other,0.002,Welfare Monitoring Survey - WMS04
+Ethiopia,ET,ETH,231,Rural,13,Composting toilets,0.0,Welfare Monitoring Survey - WMS04
+Ethiopia,ET,ETH,231,Rural,14,Other improved,0.0,Welfare Monitoring Survey - WMS04
+Ethiopia,ET,ETH,231,Rural,15,"No facility, bush, field",0.782,Welfare Monitoring Survey - WMS04
+Ethiopia,ET,ETH,231,Rural,16,Other unimproved,0.002,Welfare Monitoring Survey - WMS04
+Ethiopia,ET,ETH,231,Rural,17,DK/missing information,0.0,Welfare Monitoring Survey - WMS04
+Ethiopia,ET,ETH,231,National,1,Flush and pour flush - to piped sewer system,0.0,Welfare Monitoring Survey - WMS04
+Ethiopia,ET,ETH,231,National,2,Flush and pour flush - to septic tank,0.0,Welfare Monitoring Survey - WMS04
+Ethiopia,ET,ETH,231,National,3,Flush and pour flush - to pit,0.0,Welfare Monitoring Survey - WMS04
+Ethiopia,ET,ETH,231,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Welfare Monitoring Survey - WMS04
+Ethiopia,ET,ETH,231,National,5,Flush and pour flush - to elsewhere,0.0,Welfare Monitoring Survey - WMS04
+Ethiopia,ET,ETH,231,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Welfare Monitoring Survey - WMS04
+Ethiopia,ET,ETH,231,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Welfare Monitoring Survey - WMS04
+Ethiopia,ET,ETH,231,National,8,Dry latrines - Traditional latrine,0.281,Welfare Monitoring Survey - WMS04
+Ethiopia,ET,ETH,231,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Welfare Monitoring Survey - WMS04
+Ethiopia,ET,ETH,231,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Welfare Monitoring Survey - WMS04
+Ethiopia,ET,ETH,231,National,11,Dry latrines - Bucket latrine,0.0,Welfare Monitoring Survey - WMS04
+Ethiopia,ET,ETH,231,National,12,Dry latrines - Other,0.002,Welfare Monitoring Survey - WMS04
+Ethiopia,ET,ETH,231,National,13,Composting toilets,0.0,Welfare Monitoring Survey - WMS04
+Ethiopia,ET,ETH,231,National,14,Other improved,0.0,Welfare Monitoring Survey - WMS04
+Ethiopia,ET,ETH,231,National,15,"No facility, bush, field",0.689,Welfare Monitoring Survey - WMS04
+Ethiopia,ET,ETH,231,National,16,Other unimproved,0.002,Welfare Monitoring Survey - WMS04
+Ethiopia,ET,ETH,231,National,17,DK/missing information,0.0,Welfare Monitoring Survey - WMS04
 Ethiopia,ET,ETH,231,Urban,1,Flush and pour flush - to piped sewer system,0.014,Ethiopia Demographic and Health Survey 2005 - DHS05
 Ethiopia,ET,ETH,231,Urban,2,Flush and pour flush - to septic tank,0.018,Ethiopia Demographic and Health Survey 2005 - DHS05
 Ethiopia,ET,ETH,231,Urban,3,Flush and pour flush - to pit,0.043,Ethiopia Demographic and Health Survey 2005 - DHS05
@@ -71,6 +241,88 @@ Ethiopia,ET,ETH,231,Rural,14,Other improved,0.0,Ethiopia Demographic and Health 
 Ethiopia,ET,ETH,231,Rural,15,"No facility, bush, field",0.692,Ethiopia Demographic and Health Survey 2005 - DHS05
 Ethiopia,ET,ETH,231,Rural,16,Other unimproved,0.0,Ethiopia Demographic and Health Survey 2005 - DHS05
 Ethiopia,ET,ETH,231,Rural,17,DK/missing information,0.0,Ethiopia Demographic and Health Survey 2005 - DHS05
+Ethiopia,ET,ETH,231,National,1,Flush and pour flush - to piped sewer system,0.002,Ethiopia Demographic and Health Survey 2005 - DHS05
+Ethiopia,ET,ETH,231,National,2,Flush and pour flush - to septic tank,0.002,Ethiopia Demographic and Health Survey 2005 - DHS05
+Ethiopia,ET,ETH,231,National,3,Flush and pour flush - to pit,0.016,Ethiopia Demographic and Health Survey 2005 - DHS05
+Ethiopia,ET,ETH,231,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.002,Ethiopia Demographic and Health Survey 2005 - DHS05
+Ethiopia,ET,ETH,231,National,5,Flush and pour flush - to elsewhere,0.0,Ethiopia Demographic and Health Survey 2005 - DHS05
+Ethiopia,ET,ETH,231,National,6,Dry latrines - Ventilated Improved Pit latrine,0.009,Ethiopia Demographic and Health Survey 2005 - DHS05
+Ethiopia,ET,ETH,231,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.056,Ethiopia Demographic and Health Survey 2005 - DHS05
+Ethiopia,ET,ETH,231,National,8,Dry latrines - Traditional latrine,0.0,Ethiopia Demographic and Health Survey 2005 - DHS05
+Ethiopia,ET,ETH,231,National,9,Dry latrines - Pit latrine without slab/open pit,0.256,Ethiopia Demographic and Health Survey 2005 - DHS05
+Ethiopia,ET,ETH,231,National,10,Dry latrines - Hanging toilet/hanging latrine,0.001,Ethiopia Demographic and Health Survey 2005 - DHS05
+Ethiopia,ET,ETH,231,National,11,Dry latrines - Bucket latrine,0.0,Ethiopia Demographic and Health Survey 2005 - DHS05
+Ethiopia,ET,ETH,231,National,10,Dry latrines - Hanging toilet/hanging latrine,0.001,Ethiopia Demographic and Health Survey 2005 - DHS05
+Ethiopia,ET,ETH,231,National,11,Dry latrines - Bucket latrine,0.0,Ethiopia Demographic and Health Survey 2005 - DHS05
+Ethiopia,ET,ETH,231,National,12,Dry latrines - Other,0.0,Ethiopia Demographic and Health Survey 2005 - DHS05
+Ethiopia,ET,ETH,231,National,13,Composting toilets,0.035,Ethiopia Demographic and Health Survey 2005 - DHS05
+Ethiopia,ET,ETH,231,National,14,Other improved,0.0,Ethiopia Demographic and Health Survey 2005 - DHS05
+Ethiopia,ET,ETH,231,National,15,"No facility, bush, field",0.622,Ethiopia Demographic and Health Survey 2005 - DHS05
+Ethiopia,ET,ETH,231,National,16,Other unimproved,0.0,Ethiopia Demographic and Health Survey 2005 - DHS05
+Ethiopia,ET,ETH,231,National,17,DK/missing information,0.0,Ethiopia Demographic and Health Survey 2005 - DHS05
+Ethiopia,ET,ETH,231,Urban,1,Flush and pour flush - to piped sewer system,0.066,Census - CEN07
+Ethiopia,ET,ETH,231,Urban,2,Flush and pour flush - to septic tank,0.0,Census - CEN07
+Ethiopia,ET,ETH,231,Urban,3,Flush and pour flush - to pit,0.0,Census - CEN07
+Ethiopia,ET,ETH,231,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN07
+Ethiopia,ET,ETH,231,Urban,5,Flush and pour flush - to elsewhere,0.0,Census - CEN07
+Ethiopia,ET,ETH,231,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.091,Census - CEN07
+Ethiopia,ET,ETH,231,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN07
+Ethiopia,ET,ETH,231,Urban,8,Dry latrines - Traditional latrine,0.561,Census - CEN07
+Ethiopia,ET,ETH,231,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.026,Census - CEN07
+Ethiopia,ET,ETH,231,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN07
+Ethiopia,ET,ETH,231,Urban,8,Dry latrines - Traditional latrine,0.189,Census - CEN07
+Ethiopia,ET,ETH,231,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.065,Census - CEN07
+Ethiopia,ET,ETH,231,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN07
+Ethiopia,ET,ETH,231,Urban,8,Dry latrines - Traditional latrine,0.372,Census - CEN07
+Ethiopia,ET,ETH,231,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN07
+Ethiopia,ET,ETH,231,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN07
+Ethiopia,ET,ETH,231,Urban,11,Dry latrines - Bucket latrine,0.0,Census - CEN07
+Ethiopia,ET,ETH,231,Urban,12,Dry latrines - Other,0.0,Census - CEN07
+Ethiopia,ET,ETH,231,Urban,13,Composting toilets,0.0,Census - CEN07
+Ethiopia,ET,ETH,231,Urban,14,Other improved,0.0,Census - CEN07
+Ethiopia,ET,ETH,231,Urban,15,"No facility, bush, field",0.282,Census - CEN07
+Ethiopia,ET,ETH,231,Urban,16,Other unimproved,0.0,Census - CEN07
+Ethiopia,ET,ETH,231,Urban,17,DK/missing information,0.0,Census - CEN07
+Ethiopia,ET,ETH,231,Rural,1,Flush and pour flush - to piped sewer system,0.004,Census - CEN07
+Ethiopia,ET,ETH,231,Rural,2,Flush and pour flush - to septic tank,0.0,Census - CEN07
+Ethiopia,ET,ETH,231,Rural,3,Flush and pour flush - to pit,0.0,Census - CEN07
+Ethiopia,ET,ETH,231,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN07
+Ethiopia,ET,ETH,231,Rural,5,Flush and pour flush - to elsewhere,0.0,Census - CEN07
+Ethiopia,ET,ETH,231,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.008,Census - CEN07
+Ethiopia,ET,ETH,231,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN07
+Ethiopia,ET,ETH,231,Rural,8,Dry latrines - Traditional latrine,0.23,Census - CEN07
+Ethiopia,ET,ETH,231,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.005,Census - CEN07
+Ethiopia,ET,ETH,231,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN07
+Ethiopia,ET,ETH,231,Rural,8,Dry latrines - Traditional latrine,0.179,Census - CEN07
+Ethiopia,ET,ETH,231,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.002,Census - CEN07
+Ethiopia,ET,ETH,231,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN07
+Ethiopia,ET,ETH,231,Rural,8,Dry latrines - Traditional latrine,0.051,Census - CEN07
+Ethiopia,ET,ETH,231,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN07
+Ethiopia,ET,ETH,231,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN07
+Ethiopia,ET,ETH,231,Rural,11,Dry latrines - Bucket latrine,0.0,Census - CEN07
+Ethiopia,ET,ETH,231,Rural,12,Dry latrines - Other,0.0,Census - CEN07
+Ethiopia,ET,ETH,231,Rural,13,Composting toilets,0.0,Census - CEN07
+Ethiopia,ET,ETH,231,Rural,14,Other improved,0.0,Census - CEN07
+Ethiopia,ET,ETH,231,Rural,15,"No facility, bush, field",0.758,Census - CEN07
+Ethiopia,ET,ETH,231,Rural,16,Other unimproved,0.0,Census - CEN07
+Ethiopia,ET,ETH,231,Rural,17,DK/missing information,0.0,Census - CEN07
+Ethiopia,ET,ETH,231,National,1,Flush and pour flush - to piped sewer system,0.0,Census - CEN07
+Ethiopia,ET,ETH,231,National,2,Flush and pour flush - to septic tank,0.0,Census - CEN07
+Ethiopia,ET,ETH,231,National,3,Flush and pour flush - to pit,0.0,Census - CEN07
+Ethiopia,ET,ETH,231,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN07
+Ethiopia,ET,ETH,231,National,5,Flush and pour flush - to elsewhere,0.0,Census - CEN07
+Ethiopia,ET,ETH,231,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN07
+Ethiopia,ET,ETH,231,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN07
+Ethiopia,ET,ETH,231,National,8,Dry latrines - Traditional latrine,0.0,Census - CEN07
+Ethiopia,ET,ETH,231,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN07
+Ethiopia,ET,ETH,231,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN07
+Ethiopia,ET,ETH,231,National,11,Dry latrines - Bucket latrine,0.0,Census - CEN07
+Ethiopia,ET,ETH,231,National,12,Dry latrines - Other,0.0,Census - CEN07
+Ethiopia,ET,ETH,231,National,13,Composting toilets,0.0,Census - CEN07
+Ethiopia,ET,ETH,231,National,14,Other improved,0.0,Census - CEN07
+Ethiopia,ET,ETH,231,National,15,"No facility, bush, field",0.0,Census - CEN07
+Ethiopia,ET,ETH,231,National,16,Other unimproved,0.0,Census - CEN07
+Ethiopia,ET,ETH,231,National,17,DK/missing information,0.0,Census - CEN07
 Ethiopia,ET,ETH,231,Urban,1,Flush and pour flush - to piped sewer system,0.028,Ethiopia Demographic and Health Survey 2011 - DHS11
 Ethiopia,ET,ETH,231,Urban,2,Flush and pour flush - to septic tank,0.025,Ethiopia Demographic and Health Survey 2011 - DHS11
 Ethiopia,ET,ETH,231,Urban,3,Flush and pour flush - to pit,0.029,Ethiopia Demographic and Health Survey 2011 - DHS11
@@ -109,6 +361,298 @@ Ethiopia,ET,ETH,231,Rural,14,Other improved,0.0,Ethiopia Demographic and Health 
 Ethiopia,ET,ETH,231,Rural,15,"No facility, bush, field",0.431,Ethiopia Demographic and Health Survey 2011 - DHS11
 Ethiopia,ET,ETH,231,Rural,16,Other unimproved,0.001,Ethiopia Demographic and Health Survey 2011 - DHS11
 Ethiopia,ET,ETH,231,Rural,17,DK/missing information,0.0,Ethiopia Demographic and Health Survey 2011 - DHS11
+Ethiopia,ET,ETH,231,National,1,Flush and pour flush - to piped sewer system,0.005,Ethiopia Demographic and Health Survey 2011 - DHS11
+Ethiopia,ET,ETH,231,National,2,Flush and pour flush - to septic tank,0.006,Ethiopia Demographic and Health Survey 2011 - DHS11
+Ethiopia,ET,ETH,231,National,3,Flush and pour flush - to pit,0.015,Ethiopia Demographic and Health Survey 2011 - DHS11
+Ethiopia,ET,ETH,231,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Ethiopia Demographic and Health Survey 2011 - DHS11
+Ethiopia,ET,ETH,231,National,5,Flush and pour flush - to elsewhere,0.0,Ethiopia Demographic and Health Survey 2011 - DHS11
+Ethiopia,ET,ETH,231,National,6,Dry latrines - Ventilated Improved Pit latrine,0.016,Ethiopia Demographic and Health Survey 2011 - DHS11
+Ethiopia,ET,ETH,231,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.069,Ethiopia Demographic and Health Survey 2011 - DHS11
+Ethiopia,ET,ETH,231,National,8,Dry latrines - Traditional latrine,0.0,Ethiopia Demographic and Health Survey 2011 - DHS11
+Ethiopia,ET,ETH,231,National,9,Dry latrines - Pit latrine without slab/open pit,0.46,Ethiopia Demographic and Health Survey 2011 - DHS11
+Ethiopia,ET,ETH,231,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Ethiopia Demographic and Health Survey 2011 - DHS11
+Ethiopia,ET,ETH,231,National,11,Dry latrines - Bucket latrine,0.0,Ethiopia Demographic and Health Survey 2011 - DHS11
+Ethiopia,ET,ETH,231,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Ethiopia Demographic and Health Survey 2011 - DHS11
+Ethiopia,ET,ETH,231,National,11,Dry latrines - Bucket latrine,0.0,Ethiopia Demographic and Health Survey 2011 - DHS11
+Ethiopia,ET,ETH,231,National,12,Dry latrines - Other,0.0,Ethiopia Demographic and Health Survey 2011 - DHS11
+Ethiopia,ET,ETH,231,National,13,Composting toilets,0.044,Ethiopia Demographic and Health Survey 2011 - DHS11
+Ethiopia,ET,ETH,231,National,14,Other improved,0.0,Ethiopia Demographic and Health Survey 2011 - DHS11
+Ethiopia,ET,ETH,231,National,15,"No facility, bush, field",0.382,Ethiopia Demographic and Health Survey 2011 - DHS11
+Ethiopia,ET,ETH,231,National,16,Other unimproved,0.001,Ethiopia Demographic and Health Survey 2011 - DHS11
+Ethiopia,ET,ETH,231,National,17,DK/missing information,0.0,Ethiopia Demographic and Health Survey 2011 - DHS11
+Ethiopia,ET,ETH,231,Urban,1,Flush and pour flush - to piped sewer system,0.0,Welfare Monitoring Survey 2011: Report - WMS11
+Ethiopia,ET,ETH,231,Urban,2,Flush and pour flush - to septic tank,0.0,Welfare Monitoring Survey 2011: Report - WMS11
+Ethiopia,ET,ETH,231,Urban,3,Flush and pour flush - to pit,0.0,Welfare Monitoring Survey 2011: Report - WMS11
+Ethiopia,ET,ETH,231,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Welfare Monitoring Survey 2011: Report - WMS11
+Ethiopia,ET,ETH,231,Urban,5,Flush and pour flush - to elsewhere,0.0,Welfare Monitoring Survey 2011: Report - WMS11
+Ethiopia,ET,ETH,231,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Welfare Monitoring Survey 2011: Report - WMS11
+Ethiopia,ET,ETH,231,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Welfare Monitoring Survey 2011: Report - WMS11
+Ethiopia,ET,ETH,231,Urban,8,Dry latrines - Traditional latrine,0.768,Welfare Monitoring Survey 2011: Report - WMS11
+Ethiopia,ET,ETH,231,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Welfare Monitoring Survey 2011: Report - WMS11
+Ethiopia,ET,ETH,231,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Welfare Monitoring Survey 2011: Report - WMS11
+Ethiopia,ET,ETH,231,Urban,11,Dry latrines - Bucket latrine,0.002,Welfare Monitoring Survey 2011: Report - WMS11
+Ethiopia,ET,ETH,231,Urban,12,Dry latrines - Other,0.0,Welfare Monitoring Survey 2011: Report - WMS11
+Ethiopia,ET,ETH,231,Urban,13,Composting toilets,0.0,Welfare Monitoring Survey 2011: Report - WMS11
+Ethiopia,ET,ETH,231,Urban,14,Other improved,0.0,Welfare Monitoring Survey 2011: Report - WMS11
+Ethiopia,ET,ETH,231,Urban,15,"No facility, bush, field",0.125,Welfare Monitoring Survey 2011: Report - WMS11
+Ethiopia,ET,ETH,231,Urban,16,Other unimproved,0.006,Welfare Monitoring Survey 2011: Report - WMS11
+Ethiopia,ET,ETH,231,Urban,17,DK/missing information,0.0,Welfare Monitoring Survey 2011: Report - WMS11
+Ethiopia,ET,ETH,231,Rural,1,Flush and pour flush - to piped sewer system,0.0,Welfare Monitoring Survey 2011: Report - WMS11
+Ethiopia,ET,ETH,231,Rural,2,Flush and pour flush - to septic tank,0.0,Welfare Monitoring Survey 2011: Report - WMS11
+Ethiopia,ET,ETH,231,Rural,3,Flush and pour flush - to pit,0.0,Welfare Monitoring Survey 2011: Report - WMS11
+Ethiopia,ET,ETH,231,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Welfare Monitoring Survey 2011: Report - WMS11
+Ethiopia,ET,ETH,231,Rural,5,Flush and pour flush - to elsewhere,0.0,Welfare Monitoring Survey 2011: Report - WMS11
+Ethiopia,ET,ETH,231,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Welfare Monitoring Survey 2011: Report - WMS11
+Ethiopia,ET,ETH,231,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Welfare Monitoring Survey 2011: Report - WMS11
+Ethiopia,ET,ETH,231,Rural,8,Dry latrines - Traditional latrine,0.603,Welfare Monitoring Survey 2011: Report - WMS11
+Ethiopia,ET,ETH,231,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Welfare Monitoring Survey 2011: Report - WMS11
+Ethiopia,ET,ETH,231,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Welfare Monitoring Survey 2011: Report - WMS11
+Ethiopia,ET,ETH,231,Rural,11,Dry latrines - Bucket latrine,0.0,Welfare Monitoring Survey 2011: Report - WMS11
+Ethiopia,ET,ETH,231,Rural,12,Dry latrines - Other,0.0,Welfare Monitoring Survey 2011: Report - WMS11
+Ethiopia,ET,ETH,231,Rural,13,Composting toilets,0.0,Welfare Monitoring Survey 2011: Report - WMS11
+Ethiopia,ET,ETH,231,Rural,14,Other improved,0.0,Welfare Monitoring Survey 2011: Report - WMS11
+Ethiopia,ET,ETH,231,Rural,15,"No facility, bush, field",0.395,Welfare Monitoring Survey 2011: Report - WMS11
+Ethiopia,ET,ETH,231,Rural,16,Other unimproved,0.001,Welfare Monitoring Survey 2011: Report - WMS11
+Ethiopia,ET,ETH,231,Rural,17,DK/missing information,0.0,Welfare Monitoring Survey 2011: Report - WMS11
+Ethiopia,ET,ETH,231,National,1,Flush and pour flush - to piped sewer system,0.0,Welfare Monitoring Survey 2011: Report - WMS11
+Ethiopia,ET,ETH,231,National,2,Flush and pour flush - to septic tank,0.0,Welfare Monitoring Survey 2011: Report - WMS11
+Ethiopia,ET,ETH,231,National,3,Flush and pour flush - to pit,0.0,Welfare Monitoring Survey 2011: Report - WMS11
+Ethiopia,ET,ETH,231,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Welfare Monitoring Survey 2011: Report - WMS11
+Ethiopia,ET,ETH,231,National,5,Flush and pour flush - to elsewhere,0.0,Welfare Monitoring Survey 2011: Report - WMS11
+Ethiopia,ET,ETH,231,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Welfare Monitoring Survey 2011: Report - WMS11
+Ethiopia,ET,ETH,231,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Welfare Monitoring Survey 2011: Report - WMS11
+Ethiopia,ET,ETH,231,National,8,Dry latrines - Traditional latrine,0.638,Welfare Monitoring Survey 2011: Report - WMS11
+Ethiopia,ET,ETH,231,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Welfare Monitoring Survey 2011: Report - WMS11
+Ethiopia,ET,ETH,231,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Welfare Monitoring Survey 2011: Report - WMS11
+Ethiopia,ET,ETH,231,National,11,Dry latrines - Bucket latrine,0.0,Welfare Monitoring Survey 2011: Report - WMS11
+Ethiopia,ET,ETH,231,National,12,Dry latrines - Other,0.0,Welfare Monitoring Survey 2011: Report - WMS11
+Ethiopia,ET,ETH,231,National,13,Composting toilets,0.0,Welfare Monitoring Survey 2011: Report - WMS11
+Ethiopia,ET,ETH,231,National,14,Other improved,0.0,Welfare Monitoring Survey 2011: Report - WMS11
+Ethiopia,ET,ETH,231,National,15,"No facility, bush, field",0.337,Welfare Monitoring Survey 2011: Report - WMS11
+Ethiopia,ET,ETH,231,National,16,Other unimproved,0.002,Welfare Monitoring Survey 2011: Report - WMS11
+Ethiopia,ET,ETH,231,National,17,DK/missing information,0.002,Welfare Monitoring Survey 2011: Report - WMS11
+Ethiopia,ET,ETH,231,Urban,1,Flush and pour flush - to piped sewer system,0.0,Ethiopia National Water Inventory - NWI11
+Ethiopia,ET,ETH,231,Urban,2,Flush and pour flush - to septic tank,0.0,Ethiopia National Water Inventory - NWI11
+Ethiopia,ET,ETH,231,Urban,3,Flush and pour flush - to pit,0.0,Ethiopia National Water Inventory - NWI11
+Ethiopia,ET,ETH,231,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.086,Ethiopia National Water Inventory - NWI11
+Ethiopia,ET,ETH,231,Urban,5,Flush and pour flush - to elsewhere,0.0,Ethiopia National Water Inventory - NWI11
+Ethiopia,ET,ETH,231,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.219,Ethiopia National Water Inventory - NWI11
+Ethiopia,ET,ETH,231,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Ethiopia National Water Inventory - NWI11
+Ethiopia,ET,ETH,231,Urban,8,Dry latrines - Traditional latrine,0.545,Ethiopia National Water Inventory - NWI11
+Ethiopia,ET,ETH,231,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.078,Ethiopia National Water Inventory - NWI11
+Ethiopia,ET,ETH,231,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Ethiopia National Water Inventory - NWI11
+Ethiopia,ET,ETH,231,Urban,8,Dry latrines - Traditional latrine,0.324,Ethiopia National Water Inventory - NWI11
+Ethiopia,ET,ETH,231,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.142,Ethiopia National Water Inventory - NWI11
+Ethiopia,ET,ETH,231,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Ethiopia National Water Inventory - NWI11
+Ethiopia,ET,ETH,231,Urban,8,Dry latrines - Traditional latrine,0.221,Ethiopia National Water Inventory - NWI11
+Ethiopia,ET,ETH,231,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Ethiopia National Water Inventory - NWI11
+Ethiopia,ET,ETH,231,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Ethiopia National Water Inventory - NWI11
+Ethiopia,ET,ETH,231,Urban,11,Dry latrines - Bucket latrine,0.0,Ethiopia National Water Inventory - NWI11
+Ethiopia,ET,ETH,231,Urban,12,Dry latrines - Other,0.0,Ethiopia National Water Inventory - NWI11
+Ethiopia,ET,ETH,231,Urban,13,Composting toilets,0.0,Ethiopia National Water Inventory - NWI11
+Ethiopia,ET,ETH,231,Urban,14,Other improved,0.0,Ethiopia National Water Inventory - NWI11
+Ethiopia,ET,ETH,231,Urban,15,"No facility, bush, field",0.15,Ethiopia National Water Inventory - NWI11
+Ethiopia,ET,ETH,231,Urban,16,Other unimproved,0.0,Ethiopia National Water Inventory - NWI11
+Ethiopia,ET,ETH,231,Urban,17,DK/missing information,0.0,Ethiopia National Water Inventory - NWI11
+Ethiopia,ET,ETH,231,Rural,1,Flush and pour flush - to piped sewer system,0.0,Ethiopia National Water Inventory - NWI11
+Ethiopia,ET,ETH,231,Rural,2,Flush and pour flush - to septic tank,0.0,Ethiopia National Water Inventory - NWI11
+Ethiopia,ET,ETH,231,Rural,3,Flush and pour flush - to pit,0.0,Ethiopia National Water Inventory - NWI11
+Ethiopia,ET,ETH,231,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.003,Ethiopia National Water Inventory - NWI11
+Ethiopia,ET,ETH,231,Rural,5,Flush and pour flush - to elsewhere,0.0,Ethiopia National Water Inventory - NWI11
+Ethiopia,ET,ETH,231,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.007,Ethiopia National Water Inventory - NWI11
+Ethiopia,ET,ETH,231,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Ethiopia National Water Inventory - NWI11
+Ethiopia,ET,ETH,231,Rural,8,Dry latrines - Traditional latrine,0.745,Ethiopia National Water Inventory - NWI11
+Ethiopia,ET,ETH,231,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.004,Ethiopia National Water Inventory - NWI11
+Ethiopia,ET,ETH,231,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Ethiopia National Water Inventory - NWI11
+Ethiopia,ET,ETH,231,Rural,8,Dry latrines - Traditional latrine,0.665,Ethiopia National Water Inventory - NWI11
+Ethiopia,ET,ETH,231,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.003,Ethiopia National Water Inventory - NWI11
+Ethiopia,ET,ETH,231,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Ethiopia National Water Inventory - NWI11
+Ethiopia,ET,ETH,231,Rural,8,Dry latrines - Traditional latrine,0.079,Ethiopia National Water Inventory - NWI11
+Ethiopia,ET,ETH,231,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Ethiopia National Water Inventory - NWI11
+Ethiopia,ET,ETH,231,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Ethiopia National Water Inventory - NWI11
+Ethiopia,ET,ETH,231,Rural,11,Dry latrines - Bucket latrine,0.0,Ethiopia National Water Inventory - NWI11
+Ethiopia,ET,ETH,231,Rural,12,Dry latrines - Other,0.0,Ethiopia National Water Inventory - NWI11
+Ethiopia,ET,ETH,231,Rural,13,Composting toilets,0.0,Ethiopia National Water Inventory - NWI11
+Ethiopia,ET,ETH,231,Rural,14,Other improved,0.0,Ethiopia National Water Inventory - NWI11
+Ethiopia,ET,ETH,231,Rural,15,"No facility, bush, field",0.245,Ethiopia National Water Inventory - NWI11
+Ethiopia,ET,ETH,231,Rural,16,Other unimproved,0.0,Ethiopia National Water Inventory - NWI11
+Ethiopia,ET,ETH,231,Rural,17,DK/missing information,0.0,Ethiopia National Water Inventory - NWI11
+Ethiopia,ET,ETH,231,National,1,Flush and pour flush - to piped sewer system,0.0,Ethiopia National Water Inventory - NWI11
+Ethiopia,ET,ETH,231,National,2,Flush and pour flush - to septic tank,0.0,Ethiopia National Water Inventory - NWI11
+Ethiopia,ET,ETH,231,National,3,Flush and pour flush - to pit,0.0,Ethiopia National Water Inventory - NWI11
+Ethiopia,ET,ETH,231,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.011,Ethiopia National Water Inventory - NWI11
+Ethiopia,ET,ETH,231,National,5,Flush and pour flush - to elsewhere,0.0,Ethiopia National Water Inventory - NWI11
+Ethiopia,ET,ETH,231,National,6,Dry latrines - Ventilated Improved Pit latrine,0.026,Ethiopia National Water Inventory - NWI11
+Ethiopia,ET,ETH,231,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Ethiopia National Water Inventory - NWI11
+Ethiopia,ET,ETH,231,National,8,Dry latrines - Traditional latrine,0.726,Ethiopia National Water Inventory - NWI11
+Ethiopia,ET,ETH,231,National,6,Dry latrines - Ventilated Improved Pit latrine,0.01,Ethiopia National Water Inventory - NWI11
+Ethiopia,ET,ETH,231,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Ethiopia National Water Inventory - NWI11
+Ethiopia,ET,ETH,231,National,8,Dry latrines - Traditional latrine,0.634,Ethiopia National Water Inventory - NWI11
+Ethiopia,ET,ETH,231,National,6,Dry latrines - Ventilated Improved Pit latrine,0.016,Ethiopia National Water Inventory - NWI11
+Ethiopia,ET,ETH,231,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Ethiopia National Water Inventory - NWI11
+Ethiopia,ET,ETH,231,National,8,Dry latrines - Traditional latrine,0.092,Ethiopia National Water Inventory - NWI11
+Ethiopia,ET,ETH,231,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Ethiopia National Water Inventory - NWI11
+Ethiopia,ET,ETH,231,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Ethiopia National Water Inventory - NWI11
+Ethiopia,ET,ETH,231,National,11,Dry latrines - Bucket latrine,0.0,Ethiopia National Water Inventory - NWI11
+Ethiopia,ET,ETH,231,National,12,Dry latrines - Other,0.0,Ethiopia National Water Inventory - NWI11
+Ethiopia,ET,ETH,231,National,13,Composting toilets,0.0,Ethiopia National Water Inventory - NWI11
+Ethiopia,ET,ETH,231,National,14,Other improved,0.0,Ethiopia National Water Inventory - NWI11
+Ethiopia,ET,ETH,231,National,15,"No facility, bush, field",0.237,Ethiopia National Water Inventory - NWI11
+Ethiopia,ET,ETH,231,National,16,Other unimproved,0.0,Ethiopia National Water Inventory - NWI11
+Ethiopia,ET,ETH,231,National,17,DK/missing information,0.0,Ethiopia National Water Inventory - NWI11
+Ethiopia,ET,ETH,231,Urban,1,Flush and pour flush - to piped sewer system,0.0,Ethiopia Mini Demographic Health Survey - EMDHS14
+Ethiopia,ET,ETH,231,Urban,2,Flush and pour flush - to septic tank,0.0,Ethiopia Mini Demographic Health Survey - EMDHS14
+Ethiopia,ET,ETH,231,Urban,3,Flush and pour flush - to pit,0.0,Ethiopia Mini Demographic Health Survey - EMDHS14
+Ethiopia,ET,ETH,231,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Ethiopia Mini Demographic Health Survey - EMDHS14
+Ethiopia,ET,ETH,231,Urban,5,Flush and pour flush - to elsewhere,0.0,Ethiopia Mini Demographic Health Survey - EMDHS14
+Ethiopia,ET,ETH,231,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.007,Ethiopia Mini Demographic Health Survey - EMDHS14
+Ethiopia,ET,ETH,231,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.335,Ethiopia Mini Demographic Health Survey - EMDHS14
+Ethiopia,ET,ETH,231,Urban,8,Dry latrines - Traditional latrine,0.0,Ethiopia Mini Demographic Health Survey - EMDHS14
+Ethiopia,ET,ETH,231,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.445,Ethiopia Mini Demographic Health Survey - EMDHS14
+Ethiopia,ET,ETH,231,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.015,Ethiopia Mini Demographic Health Survey - EMDHS14
+Ethiopia,ET,ETH,231,Urban,11,Dry latrines - Bucket latrine,0.0,Ethiopia Mini Demographic Health Survey - EMDHS14
+Ethiopia,ET,ETH,231,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.003,Ethiopia Mini Demographic Health Survey - EMDHS14
+Ethiopia,ET,ETH,231,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.096,Ethiopia Mini Demographic Health Survey - EMDHS14
+Ethiopia,ET,ETH,231,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.004,Ethiopia Mini Demographic Health Survey - EMDHS14
+Ethiopia,ET,ETH,231,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.239,Ethiopia Mini Demographic Health Survey - EMDHS14
+Ethiopia,ET,ETH,231,Urban,8,Dry latrines - Traditional latrine,0.0,Ethiopia Mini Demographic Health Survey - EMDHS14
+Ethiopia,ET,ETH,231,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Ethiopia Mini Demographic Health Survey - EMDHS14
+Ethiopia,ET,ETH,231,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Ethiopia Mini Demographic Health Survey - EMDHS14
+Ethiopia,ET,ETH,231,Urban,11,Dry latrines - Bucket latrine,0.0,Ethiopia Mini Demographic Health Survey - EMDHS14
+Ethiopia,ET,ETH,231,Urban,12,Dry latrines - Other,0.0,Ethiopia Mini Demographic Health Survey - EMDHS14
+Ethiopia,ET,ETH,231,Urban,13,Composting toilets,0.014,Ethiopia Mini Demographic Health Survey - EMDHS14
+Ethiopia,ET,ETH,231,Urban,14,Other improved,0.0,Ethiopia Mini Demographic Health Survey - EMDHS14
+Ethiopia,ET,ETH,231,Urban,15,"No facility, bush, field",0.127,Ethiopia Mini Demographic Health Survey - EMDHS14
+Ethiopia,ET,ETH,231,Urban,16,Other unimproved,0.002,Ethiopia Mini Demographic Health Survey - EMDHS14
+Ethiopia,ET,ETH,231,Urban,17,DK/missing information,0.0,Ethiopia Mini Demographic Health Survey - EMDHS14
+Ethiopia,ET,ETH,231,Rural,1,Flush and pour flush - to piped sewer system,0.0,Ethiopia Mini Demographic Health Survey - EMDHS14
+Ethiopia,ET,ETH,231,Rural,2,Flush and pour flush - to septic tank,0.0,Ethiopia Mini Demographic Health Survey - EMDHS14
+Ethiopia,ET,ETH,231,Rural,3,Flush and pour flush - to pit,0.0,Ethiopia Mini Demographic Health Survey - EMDHS14
+Ethiopia,ET,ETH,231,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Ethiopia Mini Demographic Health Survey - EMDHS14
+Ethiopia,ET,ETH,231,Rural,5,Flush and pour flush - to elsewhere,0.0,Ethiopia Mini Demographic Health Survey - EMDHS14
+Ethiopia,ET,ETH,231,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.002,Ethiopia Mini Demographic Health Survey - EMDHS14
+Ethiopia,ET,ETH,231,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.017,Ethiopia Mini Demographic Health Survey - EMDHS14
+Ethiopia,ET,ETH,231,Rural,8,Dry latrines - Traditional latrine,0.0,Ethiopia Mini Demographic Health Survey - EMDHS14
+Ethiopia,ET,ETH,231,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.579,Ethiopia Mini Demographic Health Survey - EMDHS14
+Ethiopia,ET,ETH,231,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Ethiopia Mini Demographic Health Survey - EMDHS14
+Ethiopia,ET,ETH,231,Rural,11,Dry latrines - Bucket latrine,0.0,Ethiopia Mini Demographic Health Survey - EMDHS14
+Ethiopia,ET,ETH,231,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.002,Ethiopia Mini Demographic Health Survey - EMDHS14
+Ethiopia,ET,ETH,231,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.011,Ethiopia Mini Demographic Health Survey - EMDHS14
+Ethiopia,ET,ETH,231,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Ethiopia Mini Demographic Health Survey - EMDHS14
+Ethiopia,ET,ETH,231,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.006,Ethiopia Mini Demographic Health Survey - EMDHS14
+Ethiopia,ET,ETH,231,Rural,8,Dry latrines - Traditional latrine,0.0,Ethiopia Mini Demographic Health Survey - EMDHS14
+Ethiopia,ET,ETH,231,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Ethiopia Mini Demographic Health Survey - EMDHS14
+Ethiopia,ET,ETH,231,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Ethiopia Mini Demographic Health Survey - EMDHS14
+Ethiopia,ET,ETH,231,Rural,11,Dry latrines - Bucket latrine,0.0,Ethiopia Mini Demographic Health Survey - EMDHS14
+Ethiopia,ET,ETH,231,Rural,12,Dry latrines - Other,0.0,Ethiopia Mini Demographic Health Survey - EMDHS14
+Ethiopia,ET,ETH,231,Rural,13,Composting toilets,0.014,Ethiopia Mini Demographic Health Survey - EMDHS14
+Ethiopia,ET,ETH,231,Rural,14,Other improved,0.0,Ethiopia Mini Demographic Health Survey - EMDHS14
+Ethiopia,ET,ETH,231,Rural,15,"No facility, bush, field",0.387,Ethiopia Mini Demographic Health Survey - EMDHS14
+Ethiopia,ET,ETH,231,Rural,16,Other unimproved,0.001,Ethiopia Mini Demographic Health Survey - EMDHS14
+Ethiopia,ET,ETH,231,Rural,17,DK/missing information,0.0,Ethiopia Mini Demographic Health Survey - EMDHS14
+Ethiopia,ET,ETH,231,National,1,Flush and pour flush - to piped sewer system,0.0,Ethiopia Mini Demographic Health Survey - EMDHS14
+Ethiopia,ET,ETH,231,National,2,Flush and pour flush - to septic tank,0.0,Ethiopia Mini Demographic Health Survey - EMDHS14
+Ethiopia,ET,ETH,231,National,3,Flush and pour flush - to pit,0.0,Ethiopia Mini Demographic Health Survey - EMDHS14
+Ethiopia,ET,ETH,231,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Ethiopia Mini Demographic Health Survey - EMDHS14
+Ethiopia,ET,ETH,231,National,5,Flush and pour flush - to elsewhere,0.0,Ethiopia Mini Demographic Health Survey - EMDHS14
+Ethiopia,ET,ETH,231,National,6,Dry latrines - Ventilated Improved Pit latrine,0.003,Ethiopia Mini Demographic Health Survey - EMDHS14
+Ethiopia,ET,ETH,231,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.07,Ethiopia Mini Demographic Health Survey - EMDHS14
+Ethiopia,ET,ETH,231,National,8,Dry latrines - Traditional latrine,0.0,Ethiopia Mini Demographic Health Survey - EMDHS14
+Ethiopia,ET,ETH,231,National,9,Dry latrines - Pit latrine without slab/open pit,0.556,Ethiopia Mini Demographic Health Survey - EMDHS14
+Ethiopia,ET,ETH,231,National,10,Dry latrines - Hanging toilet/hanging latrine,0.002,Ethiopia Mini Demographic Health Survey - EMDHS14
+Ethiopia,ET,ETH,231,National,11,Dry latrines - Bucket latrine,0.0,Ethiopia Mini Demographic Health Survey - EMDHS14
+Ethiopia,ET,ETH,231,National,6,Dry latrines - Ventilated Improved Pit latrine,0.002,Ethiopia Mini Demographic Health Survey - EMDHS14
+Ethiopia,ET,ETH,231,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.025,Ethiopia Mini Demographic Health Survey - EMDHS14
+Ethiopia,ET,ETH,231,National,6,Dry latrines - Ventilated Improved Pit latrine,0.001,Ethiopia Mini Demographic Health Survey - EMDHS14
+Ethiopia,ET,ETH,231,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.045,Ethiopia Mini Demographic Health Survey - EMDHS14
+Ethiopia,ET,ETH,231,National,8,Dry latrines - Traditional latrine,0.0,Ethiopia Mini Demographic Health Survey - EMDHS14
+Ethiopia,ET,ETH,231,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Ethiopia Mini Demographic Health Survey - EMDHS14
+Ethiopia,ET,ETH,231,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Ethiopia Mini Demographic Health Survey - EMDHS14
+Ethiopia,ET,ETH,231,National,11,Dry latrines - Bucket latrine,0.0,Ethiopia Mini Demographic Health Survey - EMDHS14
+Ethiopia,ET,ETH,231,National,12,Dry latrines - Other,0.0,Ethiopia Mini Demographic Health Survey - EMDHS14
+Ethiopia,ET,ETH,231,National,13,Composting toilets,0.014,Ethiopia Mini Demographic Health Survey - EMDHS14
+Ethiopia,ET,ETH,231,National,14,Other improved,0.0,Ethiopia Mini Demographic Health Survey - EMDHS14
+Ethiopia,ET,ETH,231,National,15,"No facility, bush, field",0.343,Ethiopia Mini Demographic Health Survey - EMDHS14
+Ethiopia,ET,ETH,231,National,16,Other unimproved,0.001,Ethiopia Mini Demographic Health Survey - EMDHS14
+Ethiopia,ET,ETH,231,National,17,DK/missing information,0.0,Ethiopia Mini Demographic Health Survey - EMDHS14
+Ethiopia,ET,ETH,231,Urban,1,Flush and pour flush - to piped sewer system,0.0,Socioeconomic Survey 2013 - 2014 - LSMS-ISA14
+Ethiopia,ET,ETH,231,Urban,2,Flush and pour flush - to septic tank,0.0,Socioeconomic Survey 2013 - 2014 - LSMS-ISA14
+Ethiopia,ET,ETH,231,Urban,3,Flush and pour flush - to pit,0.0,Socioeconomic Survey 2013 - 2014 - LSMS-ISA14
+Ethiopia,ET,ETH,231,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Socioeconomic Survey 2013 - 2014 - LSMS-ISA14
+Ethiopia,ET,ETH,231,Urban,5,Flush and pour flush - to elsewhere,0.0,Socioeconomic Survey 2013 - 2014 - LSMS-ISA14
+Ethiopia,ET,ETH,231,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.192,Socioeconomic Survey 2013 - 2014 - LSMS-ISA14
+Ethiopia,ET,ETH,231,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Socioeconomic Survey 2013 - 2014 - LSMS-ISA14
+Ethiopia,ET,ETH,231,Urban,8,Dry latrines - Traditional latrine,0.578,Socioeconomic Survey 2013 - 2014 - LSMS-ISA14
+Ethiopia,ET,ETH,231,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Socioeconomic Survey 2013 - 2014 - LSMS-ISA14
+Ethiopia,ET,ETH,231,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Socioeconomic Survey 2013 - 2014 - LSMS-ISA14
+Ethiopia,ET,ETH,231,Urban,11,Dry latrines - Bucket latrine,0.012,Socioeconomic Survey 2013 - 2014 - LSMS-ISA14
+Ethiopia,ET,ETH,231,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.055,Socioeconomic Survey 2013 - 2014 - LSMS-ISA14
+Ethiopia,ET,ETH,231,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Socioeconomic Survey 2013 - 2014 - LSMS-ISA14
+Ethiopia,ET,ETH,231,Urban,8,Dry latrines - Traditional latrine,0.217,Socioeconomic Survey 2013 - 2014 - LSMS-ISA14
+Ethiopia,ET,ETH,231,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.137,Socioeconomic Survey 2013 - 2014 - LSMS-ISA14
+Ethiopia,ET,ETH,231,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Socioeconomic Survey 2013 - 2014 - LSMS-ISA14
+Ethiopia,ET,ETH,231,Urban,8,Dry latrines - Traditional latrine,0.361,Socioeconomic Survey 2013 - 2014 - LSMS-ISA14
+Ethiopia,ET,ETH,231,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Socioeconomic Survey 2013 - 2014 - LSMS-ISA14
+Ethiopia,ET,ETH,231,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Socioeconomic Survey 2013 - 2014 - LSMS-ISA14
+Ethiopia,ET,ETH,231,Urban,11,Dry latrines - Bucket latrine,0.0,Socioeconomic Survey 2013 - 2014 - LSMS-ISA14
+Ethiopia,ET,ETH,231,Urban,12,Dry latrines - Other,0.0,Socioeconomic Survey 2013 - 2014 - LSMS-ISA14
+Ethiopia,ET,ETH,231,Urban,13,Composting toilets,0.0,Socioeconomic Survey 2013 - 2014 - LSMS-ISA14
+Ethiopia,ET,ETH,231,Urban,14,Other improved,0.0,Socioeconomic Survey 2013 - 2014 - LSMS-ISA14
+Ethiopia,ET,ETH,231,Urban,15,"No facility, bush, field",0.057,Socioeconomic Survey 2013 - 2014 - LSMS-ISA14
+Ethiopia,ET,ETH,231,Urban,16,Other unimproved,0.006,Socioeconomic Survey 2013 - 2014 - LSMS-ISA14
+Ethiopia,ET,ETH,231,Urban,17,DK/missing information,0.0,Socioeconomic Survey 2013 - 2014 - LSMS-ISA14
+Ethiopia,ET,ETH,231,Rural,1,Flush and pour flush - to piped sewer system,0.0,Socioeconomic Survey 2013 - 2014 - LSMS-ISA14
+Ethiopia,ET,ETH,231,Rural,2,Flush and pour flush - to septic tank,0.0,Socioeconomic Survey 2013 - 2014 - LSMS-ISA14
+Ethiopia,ET,ETH,231,Rural,3,Flush and pour flush - to pit,0.0,Socioeconomic Survey 2013 - 2014 - LSMS-ISA14
+Ethiopia,ET,ETH,231,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Socioeconomic Survey 2013 - 2014 - LSMS-ISA14
+Ethiopia,ET,ETH,231,Rural,5,Flush and pour flush - to elsewhere,0.0,Socioeconomic Survey 2013 - 2014 - LSMS-ISA14
+Ethiopia,ET,ETH,231,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.02,Socioeconomic Survey 2013 - 2014 - LSMS-ISA14
+Ethiopia,ET,ETH,231,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Socioeconomic Survey 2013 - 2014 - LSMS-ISA14
+Ethiopia,ET,ETH,231,Rural,8,Dry latrines - Traditional latrine,0.542,Socioeconomic Survey 2013 - 2014 - LSMS-ISA14
+Ethiopia,ET,ETH,231,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Socioeconomic Survey 2013 - 2014 - LSMS-ISA14
+Ethiopia,ET,ETH,231,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Socioeconomic Survey 2013 - 2014 - LSMS-ISA14
+Ethiopia,ET,ETH,231,Rural,11,Dry latrines - Bucket latrine,0.009,Socioeconomic Survey 2013 - 2014 - LSMS-ISA14
+Ethiopia,ET,ETH,231,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.015,Socioeconomic Survey 2013 - 2014 - LSMS-ISA14
+Ethiopia,ET,ETH,231,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Socioeconomic Survey 2013 - 2014 - LSMS-ISA14
+Ethiopia,ET,ETH,231,Rural,8,Dry latrines - Traditional latrine,0.468,Socioeconomic Survey 2013 - 2014 - LSMS-ISA14
+Ethiopia,ET,ETH,231,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.006,Socioeconomic Survey 2013 - 2014 - LSMS-ISA14
+Ethiopia,ET,ETH,231,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Socioeconomic Survey 2013 - 2014 - LSMS-ISA14
+Ethiopia,ET,ETH,231,Rural,8,Dry latrines - Traditional latrine,0.074,Socioeconomic Survey 2013 - 2014 - LSMS-ISA14
+Ethiopia,ET,ETH,231,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Socioeconomic Survey 2013 - 2014 - LSMS-ISA14
+Ethiopia,ET,ETH,231,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Socioeconomic Survey 2013 - 2014 - LSMS-ISA14
+Ethiopia,ET,ETH,231,Rural,11,Dry latrines - Bucket latrine,0.0,Socioeconomic Survey 2013 - 2014 - LSMS-ISA14
+Ethiopia,ET,ETH,231,Rural,12,Dry latrines - Other,0.0,Socioeconomic Survey 2013 - 2014 - LSMS-ISA14
+Ethiopia,ET,ETH,231,Rural,13,Composting toilets,0.0,Socioeconomic Survey 2013 - 2014 - LSMS-ISA14
+Ethiopia,ET,ETH,231,Rural,14,Other improved,0.0,Socioeconomic Survey 2013 - 2014 - LSMS-ISA14
+Ethiopia,ET,ETH,231,Rural,15,"No facility, bush, field",0.412,Socioeconomic Survey 2013 - 2014 - LSMS-ISA14
+Ethiopia,ET,ETH,231,Rural,16,Other unimproved,0.005,Socioeconomic Survey 2013 - 2014 - LSMS-ISA14
+Ethiopia,ET,ETH,231,Rural,17,DK/missing information,0.0,Socioeconomic Survey 2013 - 2014 - LSMS-ISA14
+Ethiopia,ET,ETH,231,National,1,Flush and pour flush - to piped sewer system,0.0,Socioeconomic Survey 2013 - 2014 - LSMS-ISA14
+Ethiopia,ET,ETH,231,National,2,Flush and pour flush - to septic tank,0.0,Socioeconomic Survey 2013 - 2014 - LSMS-ISA14
+Ethiopia,ET,ETH,231,National,3,Flush and pour flush - to pit,0.0,Socioeconomic Survey 2013 - 2014 - LSMS-ISA14
+Ethiopia,ET,ETH,231,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Socioeconomic Survey 2013 - 2014 - LSMS-ISA14
+Ethiopia,ET,ETH,231,National,5,Flush and pour flush - to elsewhere,0.0,Socioeconomic Survey 2013 - 2014 - LSMS-ISA14
+Ethiopia,ET,ETH,231,National,6,Dry latrines - Ventilated Improved Pit latrine,0.051,Socioeconomic Survey 2013 - 2014 - LSMS-ISA14
+Ethiopia,ET,ETH,231,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Socioeconomic Survey 2013 - 2014 - LSMS-ISA14
+Ethiopia,ET,ETH,231,National,8,Dry latrines - Traditional latrine,0.548,Socioeconomic Survey 2013 - 2014 - LSMS-ISA14
+Ethiopia,ET,ETH,231,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Socioeconomic Survey 2013 - 2014 - LSMS-ISA14
+Ethiopia,ET,ETH,231,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Socioeconomic Survey 2013 - 2014 - LSMS-ISA14
+Ethiopia,ET,ETH,231,National,11,Dry latrines - Bucket latrine,0.009,Socioeconomic Survey 2013 - 2014 - LSMS-ISA14
+Ethiopia,ET,ETH,231,National,6,Dry latrines - Ventilated Improved Pit latrine,0.022,Socioeconomic Survey 2013 - 2014 - LSMS-ISA14
+Ethiopia,ET,ETH,231,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Socioeconomic Survey 2013 - 2014 - LSMS-ISA14
+Ethiopia,ET,ETH,231,National,8,Dry latrines - Traditional latrine,0.422,Socioeconomic Survey 2013 - 2014 - LSMS-ISA14
+Ethiopia,ET,ETH,231,National,6,Dry latrines - Ventilated Improved Pit latrine,0.029,Socioeconomic Survey 2013 - 2014 - LSMS-ISA14
+Ethiopia,ET,ETH,231,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Socioeconomic Survey 2013 - 2014 - LSMS-ISA14
+Ethiopia,ET,ETH,231,National,8,Dry latrines - Traditional latrine,0.126,Socioeconomic Survey 2013 - 2014 - LSMS-ISA14
+Ethiopia,ET,ETH,231,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Socioeconomic Survey 2013 - 2014 - LSMS-ISA14
+Ethiopia,ET,ETH,231,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Socioeconomic Survey 2013 - 2014 - LSMS-ISA14
+Ethiopia,ET,ETH,231,National,11,Dry latrines - Bucket latrine,0.0,Socioeconomic Survey 2013 - 2014 - LSMS-ISA14
+Ethiopia,ET,ETH,231,National,12,Dry latrines - Other,0.0,Socioeconomic Survey 2013 - 2014 - LSMS-ISA14
+Ethiopia,ET,ETH,231,National,13,Composting toilets,0.0,Socioeconomic Survey 2013 - 2014 - LSMS-ISA14
+Ethiopia,ET,ETH,231,National,14,Other improved,0.0,Socioeconomic Survey 2013 - 2014 - LSMS-ISA14
+Ethiopia,ET,ETH,231,National,15,"No facility, bush, field",0.347,Socioeconomic Survey 2013 - 2014 - LSMS-ISA14
+Ethiopia,ET,ETH,231,National,16,Other unimproved,0.005,Socioeconomic Survey 2013 - 2014 - LSMS-ISA14
+Ethiopia,ET,ETH,231,National,17,DK/missing information,0.0,Socioeconomic Survey 2013 - 2014 - LSMS-ISA14
 Ethiopia,ET,ETH,231,Urban,1,Flush and pour flush - to piped sewer system,0.028,"Performance Monitoring and Accountability 2020, Ethiopia Round 3 2015 - PMA15"
 Ethiopia,ET,ETH,231,Urban,2,Flush and pour flush - to septic tank,0.212,"Performance Monitoring and Accountability 2020, Ethiopia Round 3 2015 - PMA15"
 Ethiopia,ET,ETH,231,Urban,3,Flush and pour flush - to pit,0.0,"Performance Monitoring and Accountability 2020, Ethiopia Round 3 2015 - PMA15"
@@ -145,6 +689,129 @@ Ethiopia,ET,ETH,231,Rural,14,Other improved,0.0,"Performance Monitoring and Acco
 Ethiopia,ET,ETH,231,Rural,15,"No facility, bush, field",0.21,"Performance Monitoring and Accountability 2020, Ethiopia Round 3 2015 - PMA15"
 Ethiopia,ET,ETH,231,Rural,16,Other unimproved,0.0,"Performance Monitoring and Accountability 2020, Ethiopia Round 3 2015 - PMA15"
 Ethiopia,ET,ETH,231,Rural,17,DK/missing information,0.0,"Performance Monitoring and Accountability 2020, Ethiopia Round 3 2015 - PMA15"
+Ethiopia,ET,ETH,231,National,1,Flush and pour flush - to piped sewer system,0.027,"Performance Monitoring and Accountability 2020, Ethiopia Round 3 2015 - PMA15"
+Ethiopia,ET,ETH,231,National,2,Flush and pour flush - to septic tank,0.101,"Performance Monitoring and Accountability 2020, Ethiopia Round 3 2015 - PMA15"
+Ethiopia,ET,ETH,231,National,3,Flush and pour flush - to pit,0.0,"Performance Monitoring and Accountability 2020, Ethiopia Round 3 2015 - PMA15"
+Ethiopia,ET,ETH,231,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.007,"Performance Monitoring and Accountability 2020, Ethiopia Round 3 2015 - PMA15"
+Ethiopia,ET,ETH,231,National,5,Flush and pour flush - to elsewhere,0.006,"Performance Monitoring and Accountability 2020, Ethiopia Round 3 2015 - PMA15"
+Ethiopia,ET,ETH,231,National,6,Dry latrines - Ventilated Improved Pit latrine,0.093,"Performance Monitoring and Accountability 2020, Ethiopia Round 3 2015 - PMA15"
+Ethiopia,ET,ETH,231,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.202,"Performance Monitoring and Accountability 2020, Ethiopia Round 3 2015 - PMA15"
+Ethiopia,ET,ETH,231,National,8,Dry latrines - Traditional latrine,0.0,"Performance Monitoring and Accountability 2020, Ethiopia Round 3 2015 - PMA15"
+Ethiopia,ET,ETH,231,National,9,Dry latrines - Pit latrine without slab/open pit,0.429,"Performance Monitoring and Accountability 2020, Ethiopia Round 3 2015 - PMA15"
+Ethiopia,ET,ETH,231,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Performance Monitoring and Accountability 2020, Ethiopia Round 3 2015 - PMA15"
+Ethiopia,ET,ETH,231,National,11,Dry latrines - Bucket latrine,0.001,"Performance Monitoring and Accountability 2020, Ethiopia Round 3 2015 - PMA15"
+Ethiopia,ET,ETH,231,National,11,Dry latrines - Bucket latrine,0.001,"Performance Monitoring and Accountability 2020, Ethiopia Round 3 2015 - PMA15"
+Ethiopia,ET,ETH,231,National,12,Dry latrines - Other,0.0,"Performance Monitoring and Accountability 2020, Ethiopia Round 3 2015 - PMA15"
+Ethiopia,ET,ETH,231,National,13,Composting toilets,0.01,"Performance Monitoring and Accountability 2020, Ethiopia Round 3 2015 - PMA15"
+Ethiopia,ET,ETH,231,National,14,Other improved,0.0,"Performance Monitoring and Accountability 2020, Ethiopia Round 3 2015 - PMA15"
+Ethiopia,ET,ETH,231,National,15,"No facility, bush, field",0.126,"Performance Monitoring and Accountability 2020, Ethiopia Round 3 2015 - PMA15"
+Ethiopia,ET,ETH,231,National,16,Other unimproved,0.0,"Performance Monitoring and Accountability 2020, Ethiopia Round 3 2015 - PMA15"
+Ethiopia,ET,ETH,231,National,17,DK/missing information,0.0,"Performance Monitoring and Accountability 2020, Ethiopia Round 3 2015 - PMA15"
+Ethiopia,ET,ETH,231,Urban,1,Flush and pour flush - to piped sewer system,0.0,Ethiopia Socio-Economic Survey - ESS16
+Ethiopia,ET,ETH,231,Urban,2,Flush and pour flush - to septic tank,0.0,Ethiopia Socio-Economic Survey - ESS16
+Ethiopia,ET,ETH,231,Urban,3,Flush and pour flush - to pit,0.0,Ethiopia Socio-Economic Survey - ESS16
+Ethiopia,ET,ETH,231,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Ethiopia Socio-Economic Survey - ESS16
+Ethiopia,ET,ETH,231,Urban,5,Flush and pour flush - to elsewhere,0.0,Ethiopia Socio-Economic Survey - ESS16
+Ethiopia,ET,ETH,231,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.111,Ethiopia Socio-Economic Survey - ESS16
+Ethiopia,ET,ETH,231,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.486,Ethiopia Socio-Economic Survey - ESS16
+Ethiopia,ET,ETH,231,Urban,8,Dry latrines - Traditional latrine,0.0,Ethiopia Socio-Economic Survey - ESS16
+Ethiopia,ET,ETH,231,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.177,Ethiopia Socio-Economic Survey - ESS16
+Ethiopia,ET,ETH,231,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Ethiopia Socio-Economic Survey - ESS16
+Ethiopia,ET,ETH,231,Urban,11,Dry latrines - Bucket latrine,0.009,Ethiopia Socio-Economic Survey - ESS16
+Ethiopia,ET,ETH,231,Urban,11,Dry latrines - Bucket latrine,0.009,Ethiopia Socio-Economic Survey - ESS16
+Ethiopia,ET,ETH,231,Urban,12,Dry latrines - Other,0.0,Ethiopia Socio-Economic Survey - ESS16
+Ethiopia,ET,ETH,231,Urban,13,Composting toilets,0.003,Ethiopia Socio-Economic Survey - ESS16
+Ethiopia,ET,ETH,231,Urban,14,Other improved,0.0,Ethiopia Socio-Economic Survey - ESS16
+Ethiopia,ET,ETH,231,Urban,15,"No facility, bush, field",0.078,Ethiopia Socio-Economic Survey - ESS16
+Ethiopia,ET,ETH,231,Urban,16,Other unimproved,0.003,Ethiopia Socio-Economic Survey - ESS16
+Ethiopia,ET,ETH,231,Urban,17,DK/missing information,0.0,Ethiopia Socio-Economic Survey - ESS16
+Ethiopia,ET,ETH,231,Rural,1,Flush and pour flush - to piped sewer system,0.0,Ethiopia Socio-Economic Survey - ESS16
+Ethiopia,ET,ETH,231,Rural,2,Flush and pour flush - to septic tank,0.0,Ethiopia Socio-Economic Survey - ESS16
+Ethiopia,ET,ETH,231,Rural,3,Flush and pour flush - to pit,0.0,Ethiopia Socio-Economic Survey - ESS16
+Ethiopia,ET,ETH,231,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Ethiopia Socio-Economic Survey - ESS16
+Ethiopia,ET,ETH,231,Rural,5,Flush and pour flush - to elsewhere,0.0,Ethiopia Socio-Economic Survey - ESS16
+Ethiopia,ET,ETH,231,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.003,Ethiopia Socio-Economic Survey - ESS16
+Ethiopia,ET,ETH,231,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.436,Ethiopia Socio-Economic Survey - ESS16
+Ethiopia,ET,ETH,231,Rural,8,Dry latrines - Traditional latrine,0.0,Ethiopia Socio-Economic Survey - ESS16
+Ethiopia,ET,ETH,231,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.219,Ethiopia Socio-Economic Survey - ESS16
+Ethiopia,ET,ETH,231,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Ethiopia Socio-Economic Survey - ESS16
+Ethiopia,ET,ETH,231,Rural,11,Dry latrines - Bucket latrine,0.003,Ethiopia Socio-Economic Survey - ESS16
+Ethiopia,ET,ETH,231,Rural,11,Dry latrines - Bucket latrine,0.003,Ethiopia Socio-Economic Survey - ESS16
+Ethiopia,ET,ETH,231,Rural,12,Dry latrines - Other,0.0,Ethiopia Socio-Economic Survey - ESS16
+Ethiopia,ET,ETH,231,Rural,13,Composting toilets,0.01,Ethiopia Socio-Economic Survey - ESS16
+Ethiopia,ET,ETH,231,Rural,14,Other improved,0.0,Ethiopia Socio-Economic Survey - ESS16
+Ethiopia,ET,ETH,231,Rural,15,"No facility, bush, field",0.324,Ethiopia Socio-Economic Survey - ESS16
+Ethiopia,ET,ETH,231,Rural,16,Other unimproved,0.0,Ethiopia Socio-Economic Survey - ESS16
+Ethiopia,ET,ETH,231,Rural,17,DK/missing information,0.0,Ethiopia Socio-Economic Survey - ESS16
+Ethiopia,ET,ETH,231,National,1,Flush and pour flush - to piped sewer system,0.0,Ethiopia Socio-Economic Survey - ESS16
+Ethiopia,ET,ETH,231,National,2,Flush and pour flush - to septic tank,0.0,Ethiopia Socio-Economic Survey - ESS16
+Ethiopia,ET,ETH,231,National,3,Flush and pour flush - to pit,0.0,Ethiopia Socio-Economic Survey - ESS16
+Ethiopia,ET,ETH,231,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Ethiopia Socio-Economic Survey - ESS16
+Ethiopia,ET,ETH,231,National,5,Flush and pour flush - to elsewhere,0.0,Ethiopia Socio-Economic Survey - ESS16
+Ethiopia,ET,ETH,231,National,6,Dry latrines - Ventilated Improved Pit latrine,0.026,Ethiopia Socio-Economic Survey - ESS16
+Ethiopia,ET,ETH,231,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.446,Ethiopia Socio-Economic Survey - ESS16
+Ethiopia,ET,ETH,231,National,8,Dry latrines - Traditional latrine,0.0,Ethiopia Socio-Economic Survey - ESS16
+Ethiopia,ET,ETH,231,National,9,Dry latrines - Pit latrine without slab/open pit,0.21,Ethiopia Socio-Economic Survey - ESS16
+Ethiopia,ET,ETH,231,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Ethiopia Socio-Economic Survey - ESS16
+Ethiopia,ET,ETH,231,National,11,Dry latrines - Bucket latrine,0.004,Ethiopia Socio-Economic Survey - ESS16
+Ethiopia,ET,ETH,231,National,11,Dry latrines - Bucket latrine,0.004,Ethiopia Socio-Economic Survey - ESS16
+Ethiopia,ET,ETH,231,National,12,Dry latrines - Other,0.0,Ethiopia Socio-Economic Survey - ESS16
+Ethiopia,ET,ETH,231,National,13,Composting toilets,0.009,Ethiopia Socio-Economic Survey - ESS16
+Ethiopia,ET,ETH,231,National,14,Other improved,0.0,Ethiopia Socio-Economic Survey - ESS16
+Ethiopia,ET,ETH,231,National,15,"No facility, bush, field",0.273,Ethiopia Socio-Economic Survey - ESS16
+Ethiopia,ET,ETH,231,National,16,Other unimproved,0.001,Ethiopia Socio-Economic Survey - ESS16
+Ethiopia,ET,ETH,231,National,17,DK/missing information,0.0,Ethiopia Socio-Economic Survey - ESS16
+Ethiopia,ET,ETH,231,Urban,1,Flush and pour flush - to piped sewer system,0.028,Demographic and Health Survey - DHS16
+Ethiopia,ET,ETH,231,Urban,2,Flush and pour flush - to septic tank,0.048,Demographic and Health Survey - DHS16
+Ethiopia,ET,ETH,231,Urban,3,Flush and pour flush - to pit,0.047,Demographic and Health Survey - DHS16
+Ethiopia,ET,ETH,231,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.001,Demographic and Health Survey - DHS16
+Ethiopia,ET,ETH,231,Urban,5,Flush and pour flush - to elsewhere,0.006,Demographic and Health Survey - DHS16
+Ethiopia,ET,ETH,231,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.016,Demographic and Health Survey - DHS16
+Ethiopia,ET,ETH,231,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.365,Demographic and Health Survey - DHS16
+Ethiopia,ET,ETH,231,Urban,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS16
+Ethiopia,ET,ETH,231,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.401,Demographic and Health Survey - DHS16
+Ethiopia,ET,ETH,231,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.005,Demographic and Health Survey - DHS16
+Ethiopia,ET,ETH,231,Urban,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS16
+Ethiopia,ET,ETH,231,Urban,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS16
+Ethiopia,ET,ETH,231,Urban,13,Composting toilets,0.005,Demographic and Health Survey - DHS16
+Ethiopia,ET,ETH,231,Urban,14,Other improved,0.0,Demographic and Health Survey - DHS16
+Ethiopia,ET,ETH,231,Urban,15,"No facility, bush, field",0.068,Demographic and Health Survey - DHS16
+Ethiopia,ET,ETH,231,Urban,16,Other unimproved,0.008,Demographic and Health Survey - DHS16
+Ethiopia,ET,ETH,231,Urban,17,DK/missing information,0.0,Demographic and Health Survey - DHS16
+Ethiopia,ET,ETH,231,Rural,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS16
+Ethiopia,ET,ETH,231,Rural,2,Flush and pour flush - to septic tank,0.001,Demographic and Health Survey - DHS16
+Ethiopia,ET,ETH,231,Rural,3,Flush and pour flush - to pit,0.007,Demographic and Health Survey - DHS16
+Ethiopia,ET,ETH,231,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.001,Demographic and Health Survey - DHS16
+Ethiopia,ET,ETH,231,Rural,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS16
+Ethiopia,ET,ETH,231,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - DHS16
+Ethiopia,ET,ETH,231,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.038,Demographic and Health Survey - DHS16
+Ethiopia,ET,ETH,231,Rural,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS16
+Ethiopia,ET,ETH,231,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.563,Demographic and Health Survey - DHS16
+Ethiopia,ET,ETH,231,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS16
+Ethiopia,ET,ETH,231,Rural,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS16
+Ethiopia,ET,ETH,231,Rural,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS16
+Ethiopia,ET,ETH,231,Rural,13,Composting toilets,0.01,Demographic and Health Survey - DHS16
+Ethiopia,ET,ETH,231,Rural,14,Other improved,0.0,Demographic and Health Survey - DHS16
+Ethiopia,ET,ETH,231,Rural,15,"No facility, bush, field",0.377,Demographic and Health Survey - DHS16
+Ethiopia,ET,ETH,231,Rural,16,Other unimproved,0.002,Demographic and Health Survey - DHS16
+Ethiopia,ET,ETH,231,Rural,17,DK/missing information,0.0,Demographic and Health Survey - DHS16
+Ethiopia,ET,ETH,231,National,1,Flush and pour flush - to piped sewer system,0.004,Demographic and Health Survey - DHS16
+Ethiopia,ET,ETH,231,National,2,Flush and pour flush - to septic tank,0.009,Demographic and Health Survey - DHS16
+Ethiopia,ET,ETH,231,National,3,Flush and pour flush - to pit,0.013,Demographic and Health Survey - DHS16
+Ethiopia,ET,ETH,231,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.001,Demographic and Health Survey - DHS16
+Ethiopia,ET,ETH,231,National,5,Flush and pour flush - to elsewhere,0.001,Demographic and Health Survey - DHS16
+Ethiopia,ET,ETH,231,National,6,Dry latrines - Ventilated Improved Pit latrine,0.003,Demographic and Health Survey - DHS16
+Ethiopia,ET,ETH,231,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.088,Demographic and Health Survey - DHS16
+Ethiopia,ET,ETH,231,National,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS16
+Ethiopia,ET,ETH,231,National,9,Dry latrines - Pit latrine without slab/open pit,0.538,Demographic and Health Survey - DHS16
+Ethiopia,ET,ETH,231,National,10,Dry latrines - Hanging toilet/hanging latrine,0.001,Demographic and Health Survey - DHS16
+Ethiopia,ET,ETH,231,National,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS16
+Ethiopia,ET,ETH,231,National,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS16
+Ethiopia,ET,ETH,231,National,13,Composting toilets,0.01,Demographic and Health Survey - DHS16
+Ethiopia,ET,ETH,231,National,14,Other improved,0.0,Demographic and Health Survey - DHS16
+Ethiopia,ET,ETH,231,National,15,"No facility, bush, field",0.329,Demographic and Health Survey - DHS16
+Ethiopia,ET,ETH,231,National,16,Other unimproved,0.003,Demographic and Health Survey - DHS16
+Ethiopia,ET,ETH,231,National,17,DK/missing information,0.0,Demographic and Health Survey - DHS16
 Ethiopia,ET,ETH,231,Urban,1,Flush and pour flush - to piped sewer system,0.022,Performance Monitoring and Accountability - PMA16
 Ethiopia,ET,ETH,231,Urban,2,Flush and pour flush - to septic tank,0.1,Performance Monitoring and Accountability - PMA16
 Ethiopia,ET,ETH,231,Urban,3,Flush and pour flush - to pit,0.0,Performance Monitoring and Accountability - PMA16
@@ -179,6 +846,23 @@ Ethiopia,ET,ETH,231,Rural,14,Other improved,0.0,Performance Monitoring and Accou
 Ethiopia,ET,ETH,231,Rural,15,"No facility, bush, field",0.385,Performance Monitoring and Accountability - PMA16
 Ethiopia,ET,ETH,231,Rural,16,Other unimproved,0.002,Performance Monitoring and Accountability - PMA16
 Ethiopia,ET,ETH,231,Rural,17,DK/missing information,0.0,Performance Monitoring and Accountability - PMA16
+Ethiopia,ET,ETH,231,National,1,Flush and pour flush - to piped sewer system,0.008,Performance Monitoring and Accountability - PMA16
+Ethiopia,ET,ETH,231,National,2,Flush and pour flush - to septic tank,0.036,Performance Monitoring and Accountability - PMA16
+Ethiopia,ET,ETH,231,National,3,Flush and pour flush - to pit,0.0,Performance Monitoring and Accountability - PMA16
+Ethiopia,ET,ETH,231,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.001,Performance Monitoring and Accountability - PMA16
+Ethiopia,ET,ETH,231,National,5,Flush and pour flush - to elsewhere,0.002,Performance Monitoring and Accountability - PMA16
+Ethiopia,ET,ETH,231,National,6,Dry latrines - Ventilated Improved Pit latrine,0.024,Performance Monitoring and Accountability - PMA16
+Ethiopia,ET,ETH,231,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.12,Performance Monitoring and Accountability - PMA16
+Ethiopia,ET,ETH,231,National,8,Dry latrines - Traditional latrine,0.0,Performance Monitoring and Accountability - PMA16
+Ethiopia,ET,ETH,231,National,9,Dry latrines - Pit latrine without slab/open pit,0.527,Performance Monitoring and Accountability - PMA16
+Ethiopia,ET,ETH,231,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Performance Monitoring and Accountability - PMA16
+Ethiopia,ET,ETH,231,National,11,Dry latrines - Bucket latrine,0.001,Performance Monitoring and Accountability - PMA16
+Ethiopia,ET,ETH,231,National,12,Dry latrines - Other,0.0,Performance Monitoring and Accountability - PMA16
+Ethiopia,ET,ETH,231,National,13,Composting toilets,0.003,Performance Monitoring and Accountability - PMA16
+Ethiopia,ET,ETH,231,National,14,Other improved,0.0,Performance Monitoring and Accountability - PMA16
+Ethiopia,ET,ETH,231,National,15,"No facility, bush, field",0.271,Performance Monitoring and Accountability - PMA16
+Ethiopia,ET,ETH,231,National,16,Other unimproved,0.006,Performance Monitoring and Accountability - PMA16
+Ethiopia,ET,ETH,231,National,17,DK/missing information,0.0,Performance Monitoring and Accountability - PMA16
 Ethiopia,ET,ETH,231,Urban,1,Flush and pour flush - to piped sewer system,0.023,Performance Monitoring and Accountability - PMA17
 Ethiopia,ET,ETH,231,Urban,2,Flush and pour flush - to septic tank,0.063,Performance Monitoring and Accountability - PMA17
 Ethiopia,ET,ETH,231,Urban,3,Flush and pour flush - to pit,0.026,Performance Monitoring and Accountability - PMA17
@@ -213,3 +897,80 @@ Ethiopia,ET,ETH,231,Rural,14,Other improved,0.0,Performance Monitoring and Accou
 Ethiopia,ET,ETH,231,Rural,15,"No facility, bush, field",0.318,Performance Monitoring and Accountability - PMA17
 Ethiopia,ET,ETH,231,Rural,16,Other unimproved,0.001,Performance Monitoring and Accountability - PMA17
 Ethiopia,ET,ETH,231,Rural,17,DK/missing information,0.0,Performance Monitoring and Accountability - PMA17
+Ethiopia,ET,ETH,231,National,1,Flush and pour flush - to piped sewer system,0.004,Performance Monitoring and Accountability - PMA17
+Ethiopia,ET,ETH,231,National,2,Flush and pour flush - to septic tank,0.012,Performance Monitoring and Accountability - PMA17
+Ethiopia,ET,ETH,231,National,3,Flush and pour flush - to pit,0.005,Performance Monitoring and Accountability - PMA17
+Ethiopia,ET,ETH,231,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Performance Monitoring and Accountability - PMA17
+Ethiopia,ET,ETH,231,National,5,Flush and pour flush - to elsewhere,0.0,Performance Monitoring and Accountability - PMA17
+Ethiopia,ET,ETH,231,National,6,Dry latrines - Ventilated Improved Pit latrine,0.009,Performance Monitoring and Accountability - PMA17
+Ethiopia,ET,ETH,231,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.071,Performance Monitoring and Accountability - PMA17
+Ethiopia,ET,ETH,231,National,8,Dry latrines - Traditional latrine,0.0,Performance Monitoring and Accountability - PMA17
+Ethiopia,ET,ETH,231,National,9,Dry latrines - Pit latrine without slab/open pit,0.618,Performance Monitoring and Accountability - PMA17
+Ethiopia,ET,ETH,231,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Performance Monitoring and Accountability - PMA17
+Ethiopia,ET,ETH,231,National,11,Dry latrines - Bucket latrine,0.0,Performance Monitoring and Accountability - PMA17
+Ethiopia,ET,ETH,231,National,12,Dry latrines - Other,0.0,Performance Monitoring and Accountability - PMA17
+Ethiopia,ET,ETH,231,National,13,Composting toilets,0.008,Performance Monitoring and Accountability - PMA17
+Ethiopia,ET,ETH,231,National,14,Other improved,0.0,Performance Monitoring and Accountability - PMA17
+Ethiopia,ET,ETH,231,National,15,"No facility, bush, field",0.269,Performance Monitoring and Accountability - PMA17
+Ethiopia,ET,ETH,231,National,16,Other unimproved,0.002,Performance Monitoring and Accountability - PMA17
+Ethiopia,ET,ETH,231,National,17,DK/missing information,0.0,Performance Monitoring and Accountability - PMA17
+Ethiopia,ET,ETH,231,Urban,1,Flush and pour flush - to piped sewer system,0.0,Ethiopia Rural Socio Economic Survey - ERSES12
+Ethiopia,ET,ETH,231,Urban,2,Flush and pour flush - to septic tank,0.0,Ethiopia Rural Socio Economic Survey - ERSES12
+Ethiopia,ET,ETH,231,Urban,3,Flush and pour flush - to pit,0.0,Ethiopia Rural Socio Economic Survey - ERSES12
+Ethiopia,ET,ETH,231,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Ethiopia Rural Socio Economic Survey - ERSES12
+Ethiopia,ET,ETH,231,Urban,5,Flush and pour flush - to elsewhere,0.0,Ethiopia Rural Socio Economic Survey - ERSES12
+Ethiopia,ET,ETH,231,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Ethiopia Rural Socio Economic Survey - ERSES12
+Ethiopia,ET,ETH,231,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Ethiopia Rural Socio Economic Survey - ERSES12
+Ethiopia,ET,ETH,231,Urban,8,Dry latrines - Traditional latrine,0.0,Ethiopia Rural Socio Economic Survey - ERSES12
+Ethiopia,ET,ETH,231,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Ethiopia Rural Socio Economic Survey - ERSES12
+Ethiopia,ET,ETH,231,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Ethiopia Rural Socio Economic Survey - ERSES12
+Ethiopia,ET,ETH,231,Urban,11,Dry latrines - Bucket latrine,0.0,Ethiopia Rural Socio Economic Survey - ERSES12
+Ethiopia,ET,ETH,231,Urban,12,Dry latrines - Other,0.0,Ethiopia Rural Socio Economic Survey - ERSES12
+Ethiopia,ET,ETH,231,Urban,13,Composting toilets,0.0,Ethiopia Rural Socio Economic Survey - ERSES12
+Ethiopia,ET,ETH,231,Urban,14,Other improved,0.0,Ethiopia Rural Socio Economic Survey - ERSES12
+Ethiopia,ET,ETH,231,Urban,15,"No facility, bush, field",0.0,Ethiopia Rural Socio Economic Survey - ERSES12
+Ethiopia,ET,ETH,231,Urban,16,Other unimproved,0.0,Ethiopia Rural Socio Economic Survey - ERSES12
+Ethiopia,ET,ETH,231,Urban,17,DK/missing information,0.0,Ethiopia Rural Socio Economic Survey - ERSES12
+Ethiopia,ET,ETH,231,Rural,1,Flush and pour flush - to piped sewer system,0.0,Ethiopia Rural Socio Economic Survey - ERSES12
+Ethiopia,ET,ETH,231,Rural,2,Flush and pour flush - to septic tank,0.0,Ethiopia Rural Socio Economic Survey - ERSES12
+Ethiopia,ET,ETH,231,Rural,3,Flush and pour flush - to pit,0.0,Ethiopia Rural Socio Economic Survey - ERSES12
+Ethiopia,ET,ETH,231,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Ethiopia Rural Socio Economic Survey - ERSES12
+Ethiopia,ET,ETH,231,Rural,5,Flush and pour flush - to elsewhere,0.0,Ethiopia Rural Socio Economic Survey - ERSES12
+Ethiopia,ET,ETH,231,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.017,Ethiopia Rural Socio Economic Survey - ERSES12
+Ethiopia,ET,ETH,231,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Ethiopia Rural Socio Economic Survey - ERSES12
+Ethiopia,ET,ETH,231,Rural,8,Dry latrines - Traditional latrine,0.575,Ethiopia Rural Socio Economic Survey - ERSES12
+Ethiopia,ET,ETH,231,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Ethiopia Rural Socio Economic Survey - ERSES12
+Ethiopia,ET,ETH,231,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Ethiopia Rural Socio Economic Survey - ERSES12
+Ethiopia,ET,ETH,231,Rural,11,Dry latrines - Bucket latrine,0.003,Ethiopia Rural Socio Economic Survey - ERSES12
+Ethiopia,ET,ETH,231,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.009,Ethiopia Rural Socio Economic Survey - ERSES12
+Ethiopia,ET,ETH,231,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Ethiopia Rural Socio Economic Survey - ERSES12
+Ethiopia,ET,ETH,231,Rural,8,Dry latrines - Traditional latrine,0.495,Ethiopia Rural Socio Economic Survey - ERSES12
+Ethiopia,ET,ETH,231,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.009,Ethiopia Rural Socio Economic Survey - ERSES12
+Ethiopia,ET,ETH,231,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Ethiopia Rural Socio Economic Survey - ERSES12
+Ethiopia,ET,ETH,231,Rural,8,Dry latrines - Traditional latrine,0.08,Ethiopia Rural Socio Economic Survey - ERSES12
+Ethiopia,ET,ETH,231,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Ethiopia Rural Socio Economic Survey - ERSES12
+Ethiopia,ET,ETH,231,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Ethiopia Rural Socio Economic Survey - ERSES12
+Ethiopia,ET,ETH,231,Rural,11,Dry latrines - Bucket latrine,0.0,Ethiopia Rural Socio Economic Survey - ERSES12
+Ethiopia,ET,ETH,231,Rural,12,Dry latrines - Other,0.0,Ethiopia Rural Socio Economic Survey - ERSES12
+Ethiopia,ET,ETH,231,Rural,13,Composting toilets,0.0,Ethiopia Rural Socio Economic Survey - ERSES12
+Ethiopia,ET,ETH,231,Rural,14,Other improved,0.0,Ethiopia Rural Socio Economic Survey - ERSES12
+Ethiopia,ET,ETH,231,Rural,15,"No facility, bush, field",0.383,Ethiopia Rural Socio Economic Survey - ERSES12
+Ethiopia,ET,ETH,231,Rural,16,Other unimproved,0.011,Ethiopia Rural Socio Economic Survey - ERSES12
+Ethiopia,ET,ETH,231,Rural,17,DK/missing information,0.0,Ethiopia Rural Socio Economic Survey - ERSES12
+Ethiopia,ET,ETH,231,National,1,Flush and pour flush - to piped sewer system,0.0,Ethiopia Rural Socio Economic Survey - ERSES12
+Ethiopia,ET,ETH,231,National,2,Flush and pour flush - to septic tank,0.0,Ethiopia Rural Socio Economic Survey - ERSES12
+Ethiopia,ET,ETH,231,National,3,Flush and pour flush - to pit,0.0,Ethiopia Rural Socio Economic Survey - ERSES12
+Ethiopia,ET,ETH,231,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Ethiopia Rural Socio Economic Survey - ERSES12
+Ethiopia,ET,ETH,231,National,5,Flush and pour flush - to elsewhere,0.0,Ethiopia Rural Socio Economic Survey - ERSES12
+Ethiopia,ET,ETH,231,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Ethiopia Rural Socio Economic Survey - ERSES12
+Ethiopia,ET,ETH,231,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Ethiopia Rural Socio Economic Survey - ERSES12
+Ethiopia,ET,ETH,231,National,8,Dry latrines - Traditional latrine,0.0,Ethiopia Rural Socio Economic Survey - ERSES12
+Ethiopia,ET,ETH,231,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Ethiopia Rural Socio Economic Survey - ERSES12
+Ethiopia,ET,ETH,231,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Ethiopia Rural Socio Economic Survey - ERSES12
+Ethiopia,ET,ETH,231,National,11,Dry latrines - Bucket latrine,0.0,Ethiopia Rural Socio Economic Survey - ERSES12
+Ethiopia,ET,ETH,231,National,12,Dry latrines - Other,0.0,Ethiopia Rural Socio Economic Survey - ERSES12
+Ethiopia,ET,ETH,231,National,13,Composting toilets,0.0,Ethiopia Rural Socio Economic Survey - ERSES12
+Ethiopia,ET,ETH,231,National,14,Other improved,0.0,Ethiopia Rural Socio Economic Survey - ERSES12
+Ethiopia,ET,ETH,231,National,15,"No facility, bush, field",0.0,Ethiopia Rural Socio Economic Survey - ERSES12
+Ethiopia,ET,ETH,231,National,16,Other unimproved,0.0,Ethiopia Rural Socio Economic Survey - ERSES12
+Ethiopia,ET,ETH,231,National,17,DK/missing information,0.0,Ethiopia Rural Socio Economic Survey - ERSES12

@@ -1,4 +1,55 @@
 country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+Cambodia,KH,KHM,116,Urban,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS00
+Cambodia,KH,KHM,116,Urban,2,Flush and pour flush - to septic tank,0.0,Demographic and Health Survey - DHS00
+Cambodia,KH,KHM,116,Urban,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS00
+Cambodia,KH,KHM,116,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS00
+Cambodia,KH,KHM,116,Urban,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS00
+Cambodia,KH,KHM,116,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - DHS00
+Cambodia,KH,KHM,116,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS00
+Cambodia,KH,KHM,116,Urban,8,Dry latrines - Traditional latrine,0.075,Demographic and Health Survey - DHS00
+Cambodia,KH,KHM,116,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Survey - DHS00
+Cambodia,KH,KHM,116,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS00
+Cambodia,KH,KHM,116,Urban,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS00
+Cambodia,KH,KHM,116,Urban,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS00
+Cambodia,KH,KHM,116,Urban,13,Composting toilets,0.0,Demographic and Health Survey - DHS00
+Cambodia,KH,KHM,116,Urban,14,Other improved,0.0,Demographic and Health Survey - DHS00
+Cambodia,KH,KHM,116,Urban,15,"No facility, bush, field",0.398,Demographic and Health Survey - DHS00
+Cambodia,KH,KHM,116,Urban,16,Other unimproved,0.003,Demographic and Health Survey - DHS00
+Cambodia,KH,KHM,116,Urban,17,DK/missing information,0.0,Demographic and Health Survey - DHS00
+Cambodia,KH,KHM,116,Rural,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS00
+Cambodia,KH,KHM,116,Rural,2,Flush and pour flush - to septic tank,0.0,Demographic and Health Survey - DHS00
+Cambodia,KH,KHM,116,Rural,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS00
+Cambodia,KH,KHM,116,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS00
+Cambodia,KH,KHM,116,Rural,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS00
+Cambodia,KH,KHM,116,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - DHS00
+Cambodia,KH,KHM,116,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS00
+Cambodia,KH,KHM,116,Rural,8,Dry latrines - Traditional latrine,0.057,Demographic and Health Survey - DHS00
+Cambodia,KH,KHM,116,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Survey - DHS00
+Cambodia,KH,KHM,116,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS00
+Cambodia,KH,KHM,116,Rural,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS00
+Cambodia,KH,KHM,116,Rural,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS00
+Cambodia,KH,KHM,116,Rural,13,Composting toilets,0.0,Demographic and Health Survey - DHS00
+Cambodia,KH,KHM,116,Rural,14,Other improved,0.0,Demographic and Health Survey - DHS00
+Cambodia,KH,KHM,116,Rural,15,"No facility, bush, field",0.859,Demographic and Health Survey - DHS00
+Cambodia,KH,KHM,116,Rural,16,Other unimproved,0.001,Demographic and Health Survey - DHS00
+Cambodia,KH,KHM,116,Rural,17,DK/missing information,0.0,Demographic and Health Survey - DHS00
+Cambodia,KH,KHM,116,National,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS00
+Cambodia,KH,KHM,116,National,2,Flush and pour flush - to septic tank,0.0,Demographic and Health Survey - DHS00
+Cambodia,KH,KHM,116,National,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS00
+Cambodia,KH,KHM,116,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS00
+Cambodia,KH,KHM,116,National,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS00
+Cambodia,KH,KHM,116,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - DHS00
+Cambodia,KH,KHM,116,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS00
+Cambodia,KH,KHM,116,National,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS00
+Cambodia,KH,KHM,116,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Survey - DHS00
+Cambodia,KH,KHM,116,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS00
+Cambodia,KH,KHM,116,National,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS00
+Cambodia,KH,KHM,116,National,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS00
+Cambodia,KH,KHM,116,National,13,Composting toilets,0.0,Demographic and Health Survey - DHS00
+Cambodia,KH,KHM,116,National,14,Other improved,0.0,Demographic and Health Survey - DHS00
+Cambodia,KH,KHM,116,National,15,"No facility, bush, field",0.0,Demographic and Health Survey - DHS00
+Cambodia,KH,KHM,116,National,16,Other unimproved,0.0,Demographic and Health Survey - DHS00
+Cambodia,KH,KHM,116,National,17,DK/missing information,0.0,Demographic and Health Survey - DHS00
 Cambodia,KH,KHM,116,Urban,1,Flush and pour flush - to piped sewer system,0.335,Inter-Censal Population Survey - ICPS04
 Cambodia,KH,KHM,116,Urban,2,Flush and pour flush - to septic tank,0.151,Inter-Censal Population Survey - ICPS04
 Cambodia,KH,KHM,116,Urban,3,Flush and pour flush - to pit,0.0,Inter-Censal Population Survey - ICPS04
@@ -33,6 +84,23 @@ Cambodia,KH,KHM,116,Rural,14,Other improved,0.0,Inter-Censal Population Survey -
 Cambodia,KH,KHM,116,Rural,15,"No facility, bush, field",0.836,Inter-Censal Population Survey - ICPS04
 Cambodia,KH,KHM,116,Rural,16,Other unimproved,0.01,Inter-Censal Population Survey - ICPS04
 Cambodia,KH,KHM,116,Rural,17,DK/missing information,0.0,Inter-Censal Population Survey - ICPS04
+Cambodia,KH,KHM,116,National,1,Flush and pour flush - to piped sewer system,0.086,Inter-Censal Population Survey - ICPS04
+Cambodia,KH,KHM,116,National,2,Flush and pour flush - to septic tank,0.09,Inter-Censal Population Survey - ICPS04
+Cambodia,KH,KHM,116,National,3,Flush and pour flush - to pit,0.0,Inter-Censal Population Survey - ICPS04
+Cambodia,KH,KHM,116,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.036,Inter-Censal Population Survey - ICPS04
+Cambodia,KH,KHM,116,National,5,Flush and pour flush - to elsewhere,0.0,Inter-Censal Population Survey - ICPS04
+Cambodia,KH,KHM,116,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Inter-Censal Population Survey - ICPS04
+Cambodia,KH,KHM,116,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Inter-Censal Population Survey - ICPS04
+Cambodia,KH,KHM,116,National,8,Dry latrines - Traditional latrine,0.0,Inter-Censal Population Survey - ICPS04
+Cambodia,KH,KHM,116,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Inter-Censal Population Survey - ICPS04
+Cambodia,KH,KHM,116,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Inter-Censal Population Survey - ICPS04
+Cambodia,KH,KHM,116,National,11,Dry latrines - Bucket latrine,0.0,Inter-Censal Population Survey - ICPS04
+Cambodia,KH,KHM,116,National,12,Dry latrines - Other,0.0,Inter-Censal Population Survey - ICPS04
+Cambodia,KH,KHM,116,National,13,Composting toilets,0.0,Inter-Censal Population Survey - ICPS04
+Cambodia,KH,KHM,116,National,14,Other improved,0.0,Inter-Censal Population Survey - ICPS04
+Cambodia,KH,KHM,116,National,15,"No facility, bush, field",0.781,Inter-Censal Population Survey - ICPS04
+Cambodia,KH,KHM,116,National,16,Other unimproved,0.007,Inter-Censal Population Survey - ICPS04
+Cambodia,KH,KHM,116,National,17,DK/missing information,0.0,Inter-Censal Population Survey - ICPS04
 Cambodia,KH,KHM,116,Urban,1,Flush and pour flush - to piped sewer system,0.309,Cambodia Household Socioeconomic Survey - HSES04
 Cambodia,KH,KHM,116,Urban,2,Flush and pour flush - to septic tank,0.284,Cambodia Household Socioeconomic Survey - HSES04
 Cambodia,KH,KHM,116,Urban,3,Flush and pour flush - to pit,0.0,Cambodia Household Socioeconomic Survey - HSES04
@@ -67,6 +135,23 @@ Cambodia,KH,KHM,116,Rural,14,Other improved,0.0,Cambodia Household Socioeconomic
 Cambodia,KH,KHM,116,Rural,15,"No facility, bush, field",0.795,Cambodia Household Socioeconomic Survey - HSES04
 Cambodia,KH,KHM,116,Rural,16,Other unimproved,0.004,Cambodia Household Socioeconomic Survey - HSES04
 Cambodia,KH,KHM,116,Rural,17,DK/missing information,0.001,Cambodia Household Socioeconomic Survey - HSES04
+Cambodia,KH,KHM,116,National,1,Flush and pour flush - to piped sewer system,0.06,Cambodia Household Socioeconomic Survey - HSES04
+Cambodia,KH,KHM,116,National,2,Flush and pour flush - to septic tank,0.154,Cambodia Household Socioeconomic Survey - HSES04
+Cambodia,KH,KHM,116,National,3,Flush and pour flush - to pit,0.0,Cambodia Household Socioeconomic Survey - HSES04
+Cambodia,KH,KHM,116,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.018,Cambodia Household Socioeconomic Survey - HSES04
+Cambodia,KH,KHM,116,National,5,Flush and pour flush - to elsewhere,0.0,Cambodia Household Socioeconomic Survey - HSES04
+Cambodia,KH,KHM,116,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Cambodia Household Socioeconomic Survey - HSES04
+Cambodia,KH,KHM,116,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Cambodia Household Socioeconomic Survey - HSES04
+Cambodia,KH,KHM,116,National,8,Dry latrines - Traditional latrine,0.024,Cambodia Household Socioeconomic Survey - HSES04
+Cambodia,KH,KHM,116,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Cambodia Household Socioeconomic Survey - HSES04
+Cambodia,KH,KHM,116,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Cambodia Household Socioeconomic Survey - HSES04
+Cambodia,KH,KHM,116,National,11,Dry latrines - Bucket latrine,0.0,Cambodia Household Socioeconomic Survey - HSES04
+Cambodia,KH,KHM,116,National,12,Dry latrines - Other,0.0,Cambodia Household Socioeconomic Survey - HSES04
+Cambodia,KH,KHM,116,National,13,Composting toilets,0.0,Cambodia Household Socioeconomic Survey - HSES04
+Cambodia,KH,KHM,116,National,14,Other improved,0.0,Cambodia Household Socioeconomic Survey - HSES04
+Cambodia,KH,KHM,116,National,15,"No facility, bush, field",0.726,Cambodia Household Socioeconomic Survey - HSES04
+Cambodia,KH,KHM,116,National,16,Other unimproved,0.004,Cambodia Household Socioeconomic Survey - HSES04
+Cambodia,KH,KHM,116,National,17,DK/missing information,0.001,Cambodia Household Socioeconomic Survey - HSES04
 Cambodia,KH,KHM,116,Urban,1,Flush and pour flush - to piped sewer system,0.321,Demographic and Health Survey - DHS05
 Cambodia,KH,KHM,116,Urban,2,Flush and pour flush - to septic tank,0.313,Demographic and Health Survey - DHS05
 Cambodia,KH,KHM,116,Urban,3,Flush and pour flush - to pit,0.006,Demographic and Health Survey - DHS05
@@ -101,6 +186,23 @@ Cambodia,KH,KHM,116,Rural,14,Other improved,0.0,Demographic and Health Survey - 
 Cambodia,KH,KHM,116,Rural,15,"No facility, bush, field",0.771,Demographic and Health Survey - DHS05
 Cambodia,KH,KHM,116,Rural,16,Other unimproved,0.002,Demographic and Health Survey - DHS05
 Cambodia,KH,KHM,116,Rural,17,DK/missing information,0.0,Demographic and Health Survey - DHS05
+Cambodia,KH,KHM,116,National,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS05
+Cambodia,KH,KHM,116,National,2,Flush and pour flush - to septic tank,0.0,Demographic and Health Survey - DHS05
+Cambodia,KH,KHM,116,National,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS05
+Cambodia,KH,KHM,116,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS05
+Cambodia,KH,KHM,116,National,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS05
+Cambodia,KH,KHM,116,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - DHS05
+Cambodia,KH,KHM,116,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS05
+Cambodia,KH,KHM,116,National,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS05
+Cambodia,KH,KHM,116,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Survey - DHS05
+Cambodia,KH,KHM,116,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS05
+Cambodia,KH,KHM,116,National,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS05
+Cambodia,KH,KHM,116,National,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS05
+Cambodia,KH,KHM,116,National,13,Composting toilets,0.0,Demographic and Health Survey - DHS05
+Cambodia,KH,KHM,116,National,14,Other improved,0.0,Demographic and Health Survey - DHS05
+Cambodia,KH,KHM,116,National,15,"No facility, bush, field",0.0,Demographic and Health Survey - DHS05
+Cambodia,KH,KHM,116,National,16,Other unimproved,0.0,Demographic and Health Survey - DHS05
+Cambodia,KH,KHM,116,National,17,DK/missing information,0.0,Demographic and Health Survey - DHS05
 Cambodia,KH,KHM,116,Urban,1,Flush and pour flush - to piped sewer system,0.484,Socio-Economic Survey - SES07
 Cambodia,KH,KHM,116,Urban,2,Flush and pour flush - to septic tank,0.27,Socio-Economic Survey - SES07
 Cambodia,KH,KHM,116,Urban,3,Flush and pour flush - to pit,0.0,Socio-Economic Survey - SES07
@@ -137,6 +239,24 @@ Cambodia,KH,KHM,116,Rural,14,Other improved,0.0,Socio-Economic Survey - SES07
 Cambodia,KH,KHM,116,Rural,15,"No facility, bush, field",0.688,Socio-Economic Survey - SES07
 Cambodia,KH,KHM,116,Rural,16,Other unimproved,0.039,Socio-Economic Survey - SES07
 Cambodia,KH,KHM,116,Rural,17,DK/missing information,0.0,Socio-Economic Survey - SES07
+Cambodia,KH,KHM,116,National,1,Flush and pour flush - to piped sewer system,0.107,Socio-Economic Survey - SES07
+Cambodia,KH,KHM,116,National,2,Flush and pour flush - to septic tank,0.185,Socio-Economic Survey - SES07
+Cambodia,KH,KHM,116,National,3,Flush and pour flush - to pit,0.0,Socio-Economic Survey - SES07
+Cambodia,KH,KHM,116,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Socio-Economic Survey - SES07
+Cambodia,KH,KHM,116,National,5,Flush and pour flush - to elsewhere,0.0,Socio-Economic Survey - SES07
+Cambodia,KH,KHM,116,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Socio-Economic Survey - SES07
+Cambodia,KH,KHM,116,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.013,Socio-Economic Survey - SES07
+Cambodia,KH,KHM,116,National,8,Dry latrines - Traditional latrine,0.0,Socio-Economic Survey - SES07
+Cambodia,KH,KHM,116,National,9,Dry latrines - Pit latrine without slab/open pit,0.02,Socio-Economic Survey - SES07
+Cambodia,KH,KHM,116,National,10,Dry latrines - Hanging toilet/hanging latrine,0.031,Socio-Economic Survey - SES07
+Cambodia,KH,KHM,116,National,10,Dry latrines - Hanging toilet/hanging latrine,0.031,Socio-Economic Survey - SES07
+Cambodia,KH,KHM,116,National,11,Dry latrines - Bucket latrine,0.0,Socio-Economic Survey - SES07
+Cambodia,KH,KHM,116,National,12,Dry latrines - Other,0.0,Socio-Economic Survey - SES07
+Cambodia,KH,KHM,116,National,13,Composting toilets,0.0,Socio-Economic Survey - SES07
+Cambodia,KH,KHM,116,National,14,Other improved,0.0,Socio-Economic Survey - SES07
+Cambodia,KH,KHM,116,National,15,"No facility, bush, field",0.594,Socio-Economic Survey - SES07
+Cambodia,KH,KHM,116,National,16,Other unimproved,0.033,Socio-Economic Survey - SES07
+Cambodia,KH,KHM,116,National,17,DK/missing information,0.0,Socio-Economic Survey - SES07
 Cambodia,KH,KHM,116,Urban,1,Flush and pour flush - to piped sewer system,0.457,Census 2008 - CEN08
 Cambodia,KH,KHM,116,Urban,2,Flush and pour flush - to septic tank,0.326,Census 2008 - CEN08
 Cambodia,KH,KHM,116,Urban,3,Flush and pour flush - to pit,0.0,Census 2008 - CEN08
@@ -171,6 +291,23 @@ Cambodia,KH,KHM,116,Rural,14,Other improved,0.0,Census 2008 - CEN08
 Cambodia,KH,KHM,116,Rural,15,"No facility, bush, field",0.768,Census 2008 - CEN08
 Cambodia,KH,KHM,116,Rural,16,Other unimproved,0.009,Census 2008 - CEN08
 Cambodia,KH,KHM,116,Rural,17,DK/missing information,0.0,Census 2008 - CEN08
+Cambodia,KH,KHM,116,National,1,Flush and pour flush - to piped sewer system,0.0,Census 2008 - CEN08
+Cambodia,KH,KHM,116,National,2,Flush and pour flush - to septic tank,0.0,Census 2008 - CEN08
+Cambodia,KH,KHM,116,National,3,Flush and pour flush - to pit,0.0,Census 2008 - CEN08
+Cambodia,KH,KHM,116,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census 2008 - CEN08
+Cambodia,KH,KHM,116,National,5,Flush and pour flush - to elsewhere,0.0,Census 2008 - CEN08
+Cambodia,KH,KHM,116,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census 2008 - CEN08
+Cambodia,KH,KHM,116,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census 2008 - CEN08
+Cambodia,KH,KHM,116,National,8,Dry latrines - Traditional latrine,0.0,Census 2008 - CEN08
+Cambodia,KH,KHM,116,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census 2008 - CEN08
+Cambodia,KH,KHM,116,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census 2008 - CEN08
+Cambodia,KH,KHM,116,National,11,Dry latrines - Bucket latrine,0.0,Census 2008 - CEN08
+Cambodia,KH,KHM,116,National,12,Dry latrines - Other,0.0,Census 2008 - CEN08
+Cambodia,KH,KHM,116,National,13,Composting toilets,0.0,Census 2008 - CEN08
+Cambodia,KH,KHM,116,National,14,Other improved,0.0,Census 2008 - CEN08
+Cambodia,KH,KHM,116,National,15,"No facility, bush, field",0.0,Census 2008 - CEN08
+Cambodia,KH,KHM,116,National,16,Other unimproved,0.0,Census 2008 - CEN08
+Cambodia,KH,KHM,116,National,17,DK/missing information,0.0,Census 2008 - CEN08
 Cambodia,KH,KHM,116,Urban,1,Flush and pour flush - to piped sewer system,0.44,Cambodia Household Socioeconomic Survey  - HSES09
 Cambodia,KH,KHM,116,Urban,2,Flush and pour flush - to septic tank,0.404,Cambodia Household Socioeconomic Survey  - HSES09
 Cambodia,KH,KHM,116,Urban,3,Flush and pour flush - to pit,0.0,Cambodia Household Socioeconomic Survey  - HSES09
@@ -207,6 +344,24 @@ Cambodia,KH,KHM,116,Rural,14,Other improved,0.0,Cambodia Household Socioeconomic
 Cambodia,KH,KHM,116,Rural,15,"No facility, bush, field",0.717,Cambodia Household Socioeconomic Survey  - HSES09
 Cambodia,KH,KHM,116,Rural,16,Other unimproved,0.0,Cambodia Household Socioeconomic Survey  - HSES09
 Cambodia,KH,KHM,116,Rural,17,DK/missing information,0.0,Cambodia Household Socioeconomic Survey  - HSES09
+Cambodia,KH,KHM,116,National,1,Flush and pour flush - to piped sewer system,0.096,Cambodia Household Socioeconomic Survey  - HSES09
+Cambodia,KH,KHM,116,National,2,Flush and pour flush - to septic tank,0.243,Cambodia Household Socioeconomic Survey  - HSES09
+Cambodia,KH,KHM,116,National,3,Flush and pour flush - to pit,0.0,Cambodia Household Socioeconomic Survey  - HSES09
+Cambodia,KH,KHM,116,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Cambodia Household Socioeconomic Survey  - HSES09
+Cambodia,KH,KHM,116,National,5,Flush and pour flush - to elsewhere,0.0,Cambodia Household Socioeconomic Survey  - HSES09
+Cambodia,KH,KHM,116,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Cambodia Household Socioeconomic Survey  - HSES09
+Cambodia,KH,KHM,116,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.008,Cambodia Household Socioeconomic Survey  - HSES09
+Cambodia,KH,KHM,116,National,8,Dry latrines - Traditional latrine,0.0,Cambodia Household Socioeconomic Survey  - HSES09
+Cambodia,KH,KHM,116,National,9,Dry latrines - Pit latrine without slab/open pit,0.013,Cambodia Household Socioeconomic Survey  - HSES09
+Cambodia,KH,KHM,116,National,10,Dry latrines - Hanging toilet/hanging latrine,0.016,Cambodia Household Socioeconomic Survey  - HSES09
+Cambodia,KH,KHM,116,National,10,Dry latrines - Hanging toilet/hanging latrine,0.016,Cambodia Household Socioeconomic Survey  - HSES09
+Cambodia,KH,KHM,116,National,11,Dry latrines - Bucket latrine,0.0,Cambodia Household Socioeconomic Survey  - HSES09
+Cambodia,KH,KHM,116,National,12,Dry latrines - Other,0.0,Cambodia Household Socioeconomic Survey  - HSES09
+Cambodia,KH,KHM,116,National,13,Composting toilets,0.0,Cambodia Household Socioeconomic Survey  - HSES09
+Cambodia,KH,KHM,116,National,14,Other improved,0.0,Cambodia Household Socioeconomic Survey  - HSES09
+Cambodia,KH,KHM,116,National,15,"No facility, bush, field",0.602,Cambodia Household Socioeconomic Survey  - HSES09
+Cambodia,KH,KHM,116,National,16,Other unimproved,0.0,Cambodia Household Socioeconomic Survey  - HSES09
+Cambodia,KH,KHM,116,National,17,DK/missing information,0.0,Cambodia Household Socioeconomic Survey  - HSES09
 Cambodia,KH,KHM,116,Urban,1,Flush and pour flush - to piped sewer system,0.434,Socio Economic Survey - SES10
 Cambodia,KH,KHM,116,Urban,2,Flush and pour flush - to septic tank,0.42,Socio Economic Survey - SES10
 Cambodia,KH,KHM,116,Urban,3,Flush and pour flush - to pit,0.0,Socio Economic Survey - SES10
@@ -241,6 +396,23 @@ Cambodia,KH,KHM,116,Rural,14,Other improved,0.0,Socio Economic Survey - SES10
 Cambodia,KH,KHM,116,Rural,15,"No facility, bush, field",0.66,Socio Economic Survey - SES10
 Cambodia,KH,KHM,116,Rural,16,Other unimproved,0.001,Socio Economic Survey - SES10
 Cambodia,KH,KHM,116,Rural,17,DK/missing information,0.022,Socio Economic Survey - SES10
+Cambodia,KH,KHM,116,National,1,Flush and pour flush - to piped sewer system,0.091,Socio Economic Survey - SES10
+Cambodia,KH,KHM,116,National,2,Flush and pour flush - to septic tank,0.3,Socio Economic Survey - SES10
+Cambodia,KH,KHM,116,National,3,Flush and pour flush - to pit,0.0,Socio Economic Survey - SES10
+Cambodia,KH,KHM,116,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Socio Economic Survey - SES10
+Cambodia,KH,KHM,116,National,5,Flush and pour flush - to elsewhere,0.0,Socio Economic Survey - SES10
+Cambodia,KH,KHM,116,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Socio Economic Survey - SES10
+Cambodia,KH,KHM,116,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.009,Socio Economic Survey - SES10
+Cambodia,KH,KHM,116,National,8,Dry latrines - Traditional latrine,0.0,Socio Economic Survey - SES10
+Cambodia,KH,KHM,116,National,9,Dry latrines - Pit latrine without slab/open pit,0.01,Socio Economic Survey - SES10
+Cambodia,KH,KHM,116,National,10,Dry latrines - Hanging toilet/hanging latrine,0.002,Socio Economic Survey - SES10
+Cambodia,KH,KHM,116,National,11,Dry latrines - Bucket latrine,0.0,Socio Economic Survey - SES10
+Cambodia,KH,KHM,116,National,12,Dry latrines - Other,0.0,Socio Economic Survey - SES10
+Cambodia,KH,KHM,116,National,13,Composting toilets,0.0,Socio Economic Survey - SES10
+Cambodia,KH,KHM,116,National,14,Other improved,0.0,Socio Economic Survey - SES10
+Cambodia,KH,KHM,116,National,15,"No facility, bush, field",0.551,Socio Economic Survey - SES10
+Cambodia,KH,KHM,116,National,16,Other unimproved,0.001,Socio Economic Survey - SES10
+Cambodia,KH,KHM,116,National,17,DK/missing information,0.019,Socio Economic Survey - SES10
 Cambodia,KH,KHM,116,Urban,1,Flush and pour flush - to piped sewer system,0.408,Measure DHS 2010-2011 - DHS11
 Cambodia,KH,KHM,116,Urban,2,Flush and pour flush - to septic tank,0.451,Measure DHS 2010-2011 - DHS11
 Cambodia,KH,KHM,116,Urban,3,Flush and pour flush - to pit,0.008,Measure DHS 2010-2011 - DHS11
@@ -275,6 +447,23 @@ Cambodia,KH,KHM,116,Rural,14,Other improved,0.0,Measure DHS 2010-2011 - DHS11
 Cambodia,KH,KHM,116,Rural,15,"No facility, bush, field",0.659,Measure DHS 2010-2011 - DHS11
 Cambodia,KH,KHM,116,Rural,16,Other unimproved,0.003,Measure DHS 2010-2011 - DHS11
 Cambodia,KH,KHM,116,Rural,17,DK/missing information,0.0,Measure DHS 2010-2011 - DHS11
+Cambodia,KH,KHM,116,National,1,Flush and pour flush - to piped sewer system,0.071,Measure DHS 2010-2011 - DHS11
+Cambodia,KH,KHM,116,National,2,Flush and pour flush - to septic tank,0.31,Measure DHS 2010-2011 - DHS11
+Cambodia,KH,KHM,116,National,3,Flush and pour flush - to pit,0.011,Measure DHS 2010-2011 - DHS11
+Cambodia,KH,KHM,116,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.001,Measure DHS 2010-2011 - DHS11
+Cambodia,KH,KHM,116,National,5,Flush and pour flush - to elsewhere,0.001,Measure DHS 2010-2011 - DHS11
+Cambodia,KH,KHM,116,National,6,Dry latrines - Ventilated Improved Pit latrine,0.018,Measure DHS 2010-2011 - DHS11
+Cambodia,KH,KHM,116,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.002,Measure DHS 2010-2011 - DHS11
+Cambodia,KH,KHM,116,National,8,Dry latrines - Traditional latrine,0.0,Measure DHS 2010-2011 - DHS11
+Cambodia,KH,KHM,116,National,9,Dry latrines - Pit latrine without slab/open pit,0.002,Measure DHS 2010-2011 - DHS11
+Cambodia,KH,KHM,116,National,10,Dry latrines - Hanging toilet/hanging latrine,0.01,Measure DHS 2010-2011 - DHS11
+Cambodia,KH,KHM,116,National,11,Dry latrines - Bucket latrine,0.003,Measure DHS 2010-2011 - DHS11
+Cambodia,KH,KHM,116,National,12,Dry latrines - Other,0.0,Measure DHS 2010-2011 - DHS11
+Cambodia,KH,KHM,116,National,13,Composting toilets,0.001,Measure DHS 2010-2011 - DHS11
+Cambodia,KH,KHM,116,National,14,Other improved,0.0,Measure DHS 2010-2011 - DHS11
+Cambodia,KH,KHM,116,National,15,"No facility, bush, field",0.567,Measure DHS 2010-2011 - DHS11
+Cambodia,KH,KHM,116,National,16,Other unimproved,0.003,Measure DHS 2010-2011 - DHS11
+Cambodia,KH,KHM,116,National,17,DK/missing information,0.0,Measure DHS 2010-2011 - DHS11
 Cambodia,KH,KHM,116,Urban,1,Flush and pour flush - to piped sewer system,0.438,Cambodia Socio-Economic Survey - SES11
 Cambodia,KH,KHM,116,Urban,2,Flush and pour flush - to septic tank,0.398,Cambodia Socio-Economic Survey - SES11
 Cambodia,KH,KHM,116,Urban,3,Flush and pour flush - to pit,0.0,Cambodia Socio-Economic Survey - SES11
@@ -317,6 +506,27 @@ Cambodia,KH,KHM,116,Rural,14,Other improved,0.0,Cambodia Socio-Economic Survey -
 Cambodia,KH,KHM,116,Rural,15,"No facility, bush, field",0.63,Cambodia Socio-Economic Survey - SES11
 Cambodia,KH,KHM,116,Rural,16,Other unimproved,0.0,Cambodia Socio-Economic Survey - SES11
 Cambodia,KH,KHM,116,Rural,17,DK/missing information,0.014,Cambodia Socio-Economic Survey - SES11
+Cambodia,KH,KHM,116,National,1,Flush and pour flush - to piped sewer system,0.09,Cambodia Socio-Economic Survey - SES11
+Cambodia,KH,KHM,116,National,2,Flush and pour flush - to septic tank,0.331,Cambodia Socio-Economic Survey - SES11
+Cambodia,KH,KHM,116,National,3,Flush and pour flush - to pit,0.0,Cambodia Socio-Economic Survey - SES11
+Cambodia,KH,KHM,116,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Cambodia Socio-Economic Survey - SES11
+Cambodia,KH,KHM,116,National,5,Flush and pour flush - to elsewhere,0.0,Cambodia Socio-Economic Survey - SES11
+Cambodia,KH,KHM,116,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Cambodia Socio-Economic Survey - SES11
+Cambodia,KH,KHM,116,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.015,Cambodia Socio-Economic Survey - SES11
+Cambodia,KH,KHM,116,National,8,Dry latrines - Traditional latrine,0.0,Cambodia Socio-Economic Survey - SES11
+Cambodia,KH,KHM,116,National,9,Dry latrines - Pit latrine without slab/open pit,0.011,Cambodia Socio-Economic Survey - SES11
+Cambodia,KH,KHM,116,National,10,Dry latrines - Hanging toilet/hanging latrine,0.001,Cambodia Socio-Economic Survey - SES11
+Cambodia,KH,KHM,116,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.015,Cambodia Socio-Economic Survey - SES11
+Cambodia,KH,KHM,116,National,8,Dry latrines - Traditional latrine,0.0,Cambodia Socio-Economic Survey - SES11
+Cambodia,KH,KHM,116,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Cambodia Socio-Economic Survey - SES11
+Cambodia,KH,KHM,116,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Cambodia Socio-Economic Survey - SES11
+Cambodia,KH,KHM,116,National,11,Dry latrines - Bucket latrine,0.0,Cambodia Socio-Economic Survey - SES11
+Cambodia,KH,KHM,116,National,12,Dry latrines - Other,0.0,Cambodia Socio-Economic Survey - SES11
+Cambodia,KH,KHM,116,National,13,Composting toilets,0.0,Cambodia Socio-Economic Survey - SES11
+Cambodia,KH,KHM,116,National,14,Other improved,0.0,Cambodia Socio-Economic Survey - SES11
+Cambodia,KH,KHM,116,National,15,"No facility, bush, field",0.528,Cambodia Socio-Economic Survey - SES11
+Cambodia,KH,KHM,116,National,16,Other unimproved,0.0,Cambodia Socio-Economic Survey - SES11
+Cambodia,KH,KHM,116,National,17,DK/missing information,0.012,Cambodia Socio-Economic Survey - SES11
 Cambodia,KH,KHM,116,Urban,1,Flush and pour flush - to piped sewer system,0.435,Cambodia Socio-Economic Survey - SES12
 Cambodia,KH,KHM,116,Urban,2,Flush and pour flush - to septic tank,0.418,Cambodia Socio-Economic Survey - SES12
 Cambodia,KH,KHM,116,Urban,3,Flush and pour flush - to pit,0.0,Cambodia Socio-Economic Survey - SES12
@@ -357,6 +567,26 @@ Cambodia,KH,KHM,116,Rural,14,Other improved,0.0,Cambodia Socio-Economic Survey -
 Cambodia,KH,KHM,116,Rural,15,"No facility, bush, field",0.626,Cambodia Socio-Economic Survey - SES12
 Cambodia,KH,KHM,116,Rural,16,Other unimproved,0.005,Cambodia Socio-Economic Survey - SES12
 Cambodia,KH,KHM,116,Rural,17,DK/missing information,0.001,Cambodia Socio-Economic Survey - SES12
+Cambodia,KH,KHM,116,National,1,Flush and pour flush - to piped sewer system,0.104,Cambodia Socio-Economic Survey - SES12
+Cambodia,KH,KHM,116,National,2,Flush and pour flush - to septic tank,0.335,Cambodia Socio-Economic Survey - SES12
+Cambodia,KH,KHM,116,National,3,Flush and pour flush - to pit,0.0,Cambodia Socio-Economic Survey - SES12
+Cambodia,KH,KHM,116,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Cambodia Socio-Economic Survey - SES12
+Cambodia,KH,KHM,116,National,5,Flush and pour flush - to elsewhere,0.018,Cambodia Socio-Economic Survey - SES12
+Cambodia,KH,KHM,116,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Cambodia Socio-Economic Survey - SES12
+Cambodia,KH,KHM,116,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.012,Cambodia Socio-Economic Survey - SES12
+Cambodia,KH,KHM,116,National,8,Dry latrines - Traditional latrine,0.0,Cambodia Socio-Economic Survey - SES12
+Cambodia,KH,KHM,116,National,9,Dry latrines - Pit latrine without slab/open pit,0.006,Cambodia Socio-Economic Survey - SES12
+Cambodia,KH,KHM,116,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.012,Cambodia Socio-Economic Survey - SES12
+Cambodia,KH,KHM,116,National,8,Dry latrines - Traditional latrine,0.0,Cambodia Socio-Economic Survey - SES12
+Cambodia,KH,KHM,116,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Cambodia Socio-Economic Survey - SES12
+Cambodia,KH,KHM,116,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Cambodia Socio-Economic Survey - SES12
+Cambodia,KH,KHM,116,National,11,Dry latrines - Bucket latrine,0.0,Cambodia Socio-Economic Survey - SES12
+Cambodia,KH,KHM,116,National,12,Dry latrines - Other,0.0,Cambodia Socio-Economic Survey - SES12
+Cambodia,KH,KHM,116,National,13,Composting toilets,0.0,Cambodia Socio-Economic Survey - SES12
+Cambodia,KH,KHM,116,National,14,Other improved,0.0,Cambodia Socio-Economic Survey - SES12
+Cambodia,KH,KHM,116,National,15,"No facility, bush, field",0.51,Cambodia Socio-Economic Survey - SES12
+Cambodia,KH,KHM,116,National,16,Other unimproved,0.004,Cambodia Socio-Economic Survey - SES12
+Cambodia,KH,KHM,116,National,17,DK/missing information,0.0,Cambodia Socio-Economic Survey - SES12
 Cambodia,KH,KHM,116,Urban,1,Flush and pour flush - to piped sewer system,0.534,Cambodia Inter-Censal Population Survey - IPS13
 Cambodia,KH,KHM,116,Urban,2,Flush and pour flush - to septic tank,0.322,Cambodia Inter-Censal Population Survey - IPS13
 Cambodia,KH,KHM,116,Urban,3,Flush and pour flush - to pit,0.0,Cambodia Inter-Censal Population Survey - IPS13
@@ -391,6 +621,23 @@ Cambodia,KH,KHM,116,Rural,14,Other improved,0.0,Cambodia Inter-Censal Population
 Cambodia,KH,KHM,116,Rural,15,"No facility, bush, field",0.615,Cambodia Inter-Censal Population Survey - IPS13
 Cambodia,KH,KHM,116,Rural,16,Other unimproved,0.008,Cambodia Inter-Censal Population Survey - IPS13
 Cambodia,KH,KHM,116,Rural,17,DK/missing information,0.0,Cambodia Inter-Censal Population Survey - IPS13
+Cambodia,KH,KHM,116,National,1,Flush and pour flush - to piped sewer system,0.215,Cambodia Inter-Censal Population Survey - IPS13
+Cambodia,KH,KHM,116,National,2,Flush and pour flush - to septic tank,0.238,Cambodia Inter-Censal Population Survey - IPS13
+Cambodia,KH,KHM,116,National,3,Flush and pour flush - to pit,0.0,Cambodia Inter-Censal Population Survey - IPS13
+Cambodia,KH,KHM,116,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Cambodia Inter-Censal Population Survey - IPS13
+Cambodia,KH,KHM,116,National,5,Flush and pour flush - to elsewhere,0.0,Cambodia Inter-Censal Population Survey - IPS13
+Cambodia,KH,KHM,116,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Cambodia Inter-Censal Population Survey - IPS13
+Cambodia,KH,KHM,116,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Cambodia Inter-Censal Population Survey - IPS13
+Cambodia,KH,KHM,116,National,8,Dry latrines - Traditional latrine,0.0,Cambodia Inter-Censal Population Survey - IPS13
+Cambodia,KH,KHM,116,National,9,Dry latrines - Pit latrine without slab/open pit,0.026,Cambodia Inter-Censal Population Survey - IPS13
+Cambodia,KH,KHM,116,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Cambodia Inter-Censal Population Survey - IPS13
+Cambodia,KH,KHM,116,National,11,Dry latrines - Bucket latrine,0.0,Cambodia Inter-Censal Population Survey - IPS13
+Cambodia,KH,KHM,116,National,12,Dry latrines - Other,0.0,Cambodia Inter-Censal Population Survey - IPS13
+Cambodia,KH,KHM,116,National,13,Composting toilets,0.0,Cambodia Inter-Censal Population Survey - IPS13
+Cambodia,KH,KHM,116,National,14,Other improved,0.0,Cambodia Inter-Censal Population Survey - IPS13
+Cambodia,KH,KHM,116,National,15,"No facility, bush, field",0.513,Cambodia Inter-Censal Population Survey - IPS13
+Cambodia,KH,KHM,116,National,16,Other unimproved,0.008,Cambodia Inter-Censal Population Survey - IPS13
+Cambodia,KH,KHM,116,National,17,DK/missing information,0.0,Cambodia Inter-Censal Population Survey - IPS13
 Cambodia,KH,KHM,116,Urban,1,Flush and pour flush - to piped sewer system,0.448,Cambodia Socio-Economic Survey - SES13
 Cambodia,KH,KHM,116,Urban,2,Flush and pour flush - to septic tank,0.473,Cambodia Socio-Economic Survey - SES13
 Cambodia,KH,KHM,116,Urban,3,Flush and pour flush - to pit,0.0,Cambodia Socio-Economic Survey - SES13
@@ -433,6 +680,27 @@ Cambodia,KH,KHM,116,Rural,14,Other improved,0.0,Cambodia Socio-Economic Survey -
 Cambodia,KH,KHM,116,Rural,15,"No facility, bush, field",0.56,Cambodia Socio-Economic Survey - SES13
 Cambodia,KH,KHM,116,Rural,16,Other unimproved,0.003,Cambodia Socio-Economic Survey - SES13
 Cambodia,KH,KHM,116,Rural,17,DK/missing information,0.0,Cambodia Socio-Economic Survey - SES13
+Cambodia,KH,KHM,116,National,1,Flush and pour flush - to piped sewer system,0.113,Cambodia Socio-Economic Survey - SES13
+Cambodia,KH,KHM,116,National,2,Flush and pour flush - to septic tank,0.399,Cambodia Socio-Economic Survey - SES13
+Cambodia,KH,KHM,116,National,3,Flush and pour flush - to pit,0.0,Cambodia Socio-Economic Survey - SES13
+Cambodia,KH,KHM,116,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Cambodia Socio-Economic Survey - SES13
+Cambodia,KH,KHM,116,National,5,Flush and pour flush - to elsewhere,0.0,Cambodia Socio-Economic Survey - SES13
+Cambodia,KH,KHM,116,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Cambodia Socio-Economic Survey - SES13
+Cambodia,KH,KHM,116,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.005,Cambodia Socio-Economic Survey - SES13
+Cambodia,KH,KHM,116,National,8,Dry latrines - Traditional latrine,0.0,Cambodia Socio-Economic Survey - SES13
+Cambodia,KH,KHM,116,National,9,Dry latrines - Pit latrine without slab/open pit,0.004,Cambodia Socio-Economic Survey - SES13
+Cambodia,KH,KHM,116,National,10,Dry latrines - Hanging toilet/hanging latrine,0.016,Cambodia Socio-Economic Survey - SES13
+Cambodia,KH,KHM,116,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.005,Cambodia Socio-Economic Survey - SES13
+Cambodia,KH,KHM,116,National,8,Dry latrines - Traditional latrine,0.0,Cambodia Socio-Economic Survey - SES13
+Cambodia,KH,KHM,116,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Cambodia Socio-Economic Survey - SES13
+Cambodia,KH,KHM,116,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Cambodia Socio-Economic Survey - SES13
+Cambodia,KH,KHM,116,National,11,Dry latrines - Bucket latrine,0.0,Cambodia Socio-Economic Survey - SES13
+Cambodia,KH,KHM,116,National,12,Dry latrines - Other,0.0,Cambodia Socio-Economic Survey - SES13
+Cambodia,KH,KHM,116,National,13,Composting toilets,0.0,Cambodia Socio-Economic Survey - SES13
+Cambodia,KH,KHM,116,National,14,Other improved,0.0,Cambodia Socio-Economic Survey - SES13
+Cambodia,KH,KHM,116,National,15,"No facility, bush, field",0.449,Cambodia Socio-Economic Survey - SES13
+Cambodia,KH,KHM,116,National,16,Other unimproved,0.002,Cambodia Socio-Economic Survey - SES13
+Cambodia,KH,KHM,116,National,17,DK/missing information,0.0,Cambodia Socio-Economic Survey - SES13
 Cambodia,KH,KHM,116,Urban,1,Flush and pour flush - to piped sewer system,0.406,Demographic and Health survey - DHS14
 Cambodia,KH,KHM,116,Urban,2,Flush and pour flush - to septic tank,0.512,Demographic and Health survey - DHS14
 Cambodia,KH,KHM,116,Urban,3,Flush and pour flush - to pit,0.005,Demographic and Health survey - DHS14
@@ -483,6 +751,31 @@ Cambodia,KH,KHM,116,Rural,14,Other improved,0.0,Demographic and Health survey - 
 Cambodia,KH,KHM,116,Rural,15,"No facility, bush, field",0.493,Demographic and Health survey - DHS14
 Cambodia,KH,KHM,116,Rural,16,Other unimproved,0.0,Demographic and Health survey - DHS14
 Cambodia,KH,KHM,116,Rural,17,DK/missing information,0.0,Demographic and Health survey - DHS14
+Cambodia,KH,KHM,116,National,1,Flush and pour flush - to piped sewer system,0.072,Demographic and Health survey - DHS14
+Cambodia,KH,KHM,116,National,2,Flush and pour flush - to septic tank,0.476,Demographic and Health survey - DHS14
+Cambodia,KH,KHM,116,National,3,Flush and pour flush - to pit,0.01,Demographic and Health survey - DHS14
+Cambodia,KH,KHM,116,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.003,Demographic and Health survey - DHS14
+Cambodia,KH,KHM,116,National,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health survey - DHS14
+Cambodia,KH,KHM,116,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health survey - DHS14
+Cambodia,KH,KHM,116,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.005,Demographic and Health survey - DHS14
+Cambodia,KH,KHM,116,National,8,Dry latrines - Traditional latrine,0.0,Demographic and Health survey - DHS14
+Cambodia,KH,KHM,116,National,9,Dry latrines - Pit latrine without slab/open pit,0.002,Demographic and Health survey - DHS14
+Cambodia,KH,KHM,116,National,10,Dry latrines - Hanging toilet/hanging latrine,0.004,Demographic and Health survey - DHS14
+Cambodia,KH,KHM,116,National,11,Dry latrines - Bucket latrine,0.001,Demographic and Health survey - DHS14
+Cambodia,KH,KHM,116,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.005,Demographic and Health survey - DHS14
+Cambodia,KH,KHM,116,National,8,Dry latrines - Traditional latrine,0.0,Demographic and Health survey - DHS14
+Cambodia,KH,KHM,116,National,9,Dry latrines - Pit latrine without slab/open pit,0.001,Demographic and Health survey - DHS14
+Cambodia,KH,KHM,116,National,10,Dry latrines - Hanging toilet/hanging latrine,0.004,Demographic and Health survey - DHS14
+Cambodia,KH,KHM,116,National,11,Dry latrines - Bucket latrine,0.001,Demographic and Health survey - DHS14
+Cambodia,KH,KHM,116,National,9,Dry latrines - Pit latrine without slab/open pit,0.001,Demographic and Health survey - DHS14
+Cambodia,KH,KHM,116,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health survey - DHS14
+Cambodia,KH,KHM,116,National,11,Dry latrines - Bucket latrine,0.0,Demographic and Health survey - DHS14
+Cambodia,KH,KHM,116,National,12,Dry latrines - Other,0.0,Demographic and Health survey - DHS14
+Cambodia,KH,KHM,116,National,13,Composting toilets,0.002,Demographic and Health survey - DHS14
+Cambodia,KH,KHM,116,National,14,Other improved,0.0,Demographic and Health survey - DHS14
+Cambodia,KH,KHM,116,National,15,"No facility, bush, field",0.425,Demographic and Health survey - DHS14
+Cambodia,KH,KHM,116,National,16,Other unimproved,0.0,Demographic and Health survey - DHS14
+Cambodia,KH,KHM,116,National,17,DK/missing information,0.0,Demographic and Health survey - DHS14
 Cambodia,KH,KHM,116,Urban,1,Flush and pour flush - to piped sewer system,0.454,Cambodia Socio-Economic Survey - SES14
 Cambodia,KH,KHM,116,Urban,2,Flush and pour flush - to septic tank,0.435,Cambodia Socio-Economic Survey - SES14
 Cambodia,KH,KHM,116,Urban,3,Flush and pour flush - to pit,0.0,Cambodia Socio-Economic Survey - SES14
@@ -525,6 +818,27 @@ Cambodia,KH,KHM,116,Rural,14,Other improved,0.0,Cambodia Socio-Economic Survey -
 Cambodia,KH,KHM,116,Rural,15,"No facility, bush, field",0.463,Cambodia Socio-Economic Survey - SES14
 Cambodia,KH,KHM,116,Rural,16,Other unimproved,0.009,Cambodia Socio-Economic Survey - SES14
 Cambodia,KH,KHM,116,Rural,17,DK/missing information,0.003,Cambodia Socio-Economic Survey - SES14
+Cambodia,KH,KHM,116,National,1,Flush and pour flush - to piped sewer system,0.124,Cambodia Socio-Economic Survey - SES14
+Cambodia,KH,KHM,116,National,2,Flush and pour flush - to septic tank,0.428,Cambodia Socio-Economic Survey - SES14
+Cambodia,KH,KHM,116,National,3,Flush and pour flush - to pit,0.0,Cambodia Socio-Economic Survey - SES14
+Cambodia,KH,KHM,116,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Cambodia Socio-Economic Survey - SES14
+Cambodia,KH,KHM,116,National,5,Flush and pour flush - to elsewhere,0.0,Cambodia Socio-Economic Survey - SES14
+Cambodia,KH,KHM,116,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Cambodia Socio-Economic Survey - SES14
+Cambodia,KH,KHM,116,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.007,Cambodia Socio-Economic Survey - SES14
+Cambodia,KH,KHM,116,National,8,Dry latrines - Traditional latrine,0.018,Cambodia Socio-Economic Survey - SES14
+Cambodia,KH,KHM,116,National,9,Dry latrines - Pit latrine without slab/open pit,0.004,Cambodia Socio-Economic Survey - SES14
+Cambodia,KH,KHM,116,National,10,Dry latrines - Hanging toilet/hanging latrine,0.025,Cambodia Socio-Economic Survey - SES14
+Cambodia,KH,KHM,116,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.007,Cambodia Socio-Economic Survey - SES14
+Cambodia,KH,KHM,116,National,8,Dry latrines - Traditional latrine,0.018,Cambodia Socio-Economic Survey - SES14
+Cambodia,KH,KHM,116,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Cambodia Socio-Economic Survey - SES14
+Cambodia,KH,KHM,116,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Cambodia Socio-Economic Survey - SES14
+Cambodia,KH,KHM,116,National,11,Dry latrines - Bucket latrine,0.0,Cambodia Socio-Economic Survey - SES14
+Cambodia,KH,KHM,116,National,12,Dry latrines - Other,0.0,Cambodia Socio-Economic Survey - SES14
+Cambodia,KH,KHM,116,National,13,Composting toilets,0.0,Cambodia Socio-Economic Survey - SES14
+Cambodia,KH,KHM,116,National,14,Other improved,0.0,Cambodia Socio-Economic Survey - SES14
+Cambodia,KH,KHM,116,National,15,"No facility, bush, field",0.385,Cambodia Socio-Economic Survey - SES14
+Cambodia,KH,KHM,116,National,16,Other unimproved,0.007,Cambodia Socio-Economic Survey - SES14
+Cambodia,KH,KHM,116,National,17,DK/missing information,0.002,Cambodia Socio-Economic Survey - SES14
 Cambodia,KH,KHM,116,Urban,1,Flush and pour flush - to piped sewer system,0.478,Cambodia Socio-Economic Survey - SES15
 Cambodia,KH,KHM,116,Urban,2,Flush and pour flush - to septic tank,0.446,Cambodia Socio-Economic Survey - SES15
 Cambodia,KH,KHM,116,Urban,3,Flush and pour flush - to pit,0.0,Cambodia Socio-Economic Survey - SES15
@@ -567,6 +881,27 @@ Cambodia,KH,KHM,116,Rural,14,Other improved,0.0,Cambodia Socio-Economic Survey -
 Cambodia,KH,KHM,116,Rural,15,"No facility, bush, field",0.431,Cambodia Socio-Economic Survey - SES15
 Cambodia,KH,KHM,116,Rural,16,Other unimproved,0.001,Cambodia Socio-Economic Survey - SES15
 Cambodia,KH,KHM,116,Rural,17,DK/missing information,0.0,Cambodia Socio-Economic Survey - SES15
+Cambodia,KH,KHM,116,National,1,Flush and pour flush - to piped sewer system,0.132,Cambodia Socio-Economic Survey - SES15
+Cambodia,KH,KHM,116,National,2,Flush and pour flush - to septic tank,0.485,Cambodia Socio-Economic Survey - SES15
+Cambodia,KH,KHM,116,National,3,Flush and pour flush - to pit,0.0,Cambodia Socio-Economic Survey - SES15
+Cambodia,KH,KHM,116,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Cambodia Socio-Economic Survey - SES15
+Cambodia,KH,KHM,116,National,5,Flush and pour flush - to elsewhere,0.01,Cambodia Socio-Economic Survey - SES15
+Cambodia,KH,KHM,116,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Cambodia Socio-Economic Survey - SES15
+Cambodia,KH,KHM,116,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.01,Cambodia Socio-Economic Survey - SES15
+Cambodia,KH,KHM,116,National,8,Dry latrines - Traditional latrine,0.0,Cambodia Socio-Economic Survey - SES15
+Cambodia,KH,KHM,116,National,9,Dry latrines - Pit latrine without slab/open pit,0.007,Cambodia Socio-Economic Survey - SES15
+Cambodia,KH,KHM,116,National,10,Dry latrines - Hanging toilet/hanging latrine,0.005,Cambodia Socio-Economic Survey - SES15
+Cambodia,KH,KHM,116,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.01,Cambodia Socio-Economic Survey - SES15
+Cambodia,KH,KHM,116,National,8,Dry latrines - Traditional latrine,0.0,Cambodia Socio-Economic Survey - SES15
+Cambodia,KH,KHM,116,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Cambodia Socio-Economic Survey - SES15
+Cambodia,KH,KHM,116,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Cambodia Socio-Economic Survey - SES15
+Cambodia,KH,KHM,116,National,11,Dry latrines - Bucket latrine,0.0,Cambodia Socio-Economic Survey - SES15
+Cambodia,KH,KHM,116,National,12,Dry latrines - Other,0.0,Cambodia Socio-Economic Survey - SES15
+Cambodia,KH,KHM,116,National,13,Composting toilets,0.0,Cambodia Socio-Economic Survey - SES15
+Cambodia,KH,KHM,116,National,14,Other improved,0.0,Cambodia Socio-Economic Survey - SES15
+Cambodia,KH,KHM,116,National,15,"No facility, bush, field",0.351,Cambodia Socio-Economic Survey - SES15
+Cambodia,KH,KHM,116,National,16,Other unimproved,0.0,Cambodia Socio-Economic Survey - SES15
+Cambodia,KH,KHM,116,National,17,DK/missing information,0.0,Cambodia Socio-Economic Survey - SES15
 Cambodia,KH,KHM,116,Urban,1,Flush and pour flush - to piped sewer system,0.515,Cambodia Socio-Economic Survey - SES16
 Cambodia,KH,KHM,116,Urban,2,Flush and pour flush - to septic tank,0.421,Cambodia Socio-Economic Survey - SES16
 Cambodia,KH,KHM,116,Urban,3,Flush and pour flush - to pit,0.0,Cambodia Socio-Economic Survey - SES16
@@ -607,3 +942,74 @@ Cambodia,KH,KHM,116,Rural,14,Other improved,0.0,Cambodia Socio-Economic Survey -
 Cambodia,KH,KHM,116,Rural,15,"No facility, bush, field",0.286,Cambodia Socio-Economic Survey - SES16
 Cambodia,KH,KHM,116,Rural,16,Other unimproved,0.0,Cambodia Socio-Economic Survey - SES16
 Cambodia,KH,KHM,116,Rural,17,DK/missing information,0.001,Cambodia Socio-Economic Survey - SES16
+Cambodia,KH,KHM,116,National,1,Flush and pour flush - to piped sewer system,0.134,Cambodia Socio-Economic Survey - SES16
+Cambodia,KH,KHM,116,National,2,Flush and pour flush - to septic tank,0.59,Cambodia Socio-Economic Survey - SES16
+Cambodia,KH,KHM,116,National,3,Flush and pour flush - to pit,0.0,Cambodia Socio-Economic Survey - SES16
+Cambodia,KH,KHM,116,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Cambodia Socio-Economic Survey - SES16
+Cambodia,KH,KHM,116,National,5,Flush and pour flush - to elsewhere,0.0,Cambodia Socio-Economic Survey - SES16
+Cambodia,KH,KHM,116,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Cambodia Socio-Economic Survey - SES16
+Cambodia,KH,KHM,116,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.005,Cambodia Socio-Economic Survey - SES16
+Cambodia,KH,KHM,116,National,8,Dry latrines - Traditional latrine,0.0,Cambodia Socio-Economic Survey - SES16
+Cambodia,KH,KHM,116,National,9,Dry latrines - Pit latrine without slab/open pit,0.001,Cambodia Socio-Economic Survey - SES16
+Cambodia,KH,KHM,116,National,10,Dry latrines - Hanging toilet/hanging latrine,0.006,Cambodia Socio-Economic Survey - SES16
+Cambodia,KH,KHM,116,National,8,Dry latrines - Traditional latrine,0.026,Cambodia Socio-Economic Survey - SES16
+Cambodia,KH,KHM,116,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Cambodia Socio-Economic Survey - SES16
+Cambodia,KH,KHM,116,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Cambodia Socio-Economic Survey - SES16
+Cambodia,KH,KHM,116,National,11,Dry latrines - Bucket latrine,0.0,Cambodia Socio-Economic Survey - SES16
+Cambodia,KH,KHM,116,National,12,Dry latrines - Other,0.0,Cambodia Socio-Economic Survey - SES16
+Cambodia,KH,KHM,116,National,13,Composting toilets,0.0,Cambodia Socio-Economic Survey - SES16
+Cambodia,KH,KHM,116,National,14,Other improved,0.0,Cambodia Socio-Economic Survey - SES16
+Cambodia,KH,KHM,116,National,15,"No facility, bush, field",0.237,Cambodia Socio-Economic Survey - SES16
+Cambodia,KH,KHM,116,National,16,Other unimproved,0.0,Cambodia Socio-Economic Survey - SES16
+Cambodia,KH,KHM,116,National,17,DK/missing information,0.001,Cambodia Socio-Economic Survey - SES16
+Cambodia,KH,KHM,116,Urban,1,Flush and pour flush - to piped sewer system,0.235,Child Labour Survey: Report - CLS01
+Cambodia,KH,KHM,116,Urban,2,Flush and pour flush - to septic tank,0.27,Child Labour Survey: Report - CLS01
+Cambodia,KH,KHM,116,Urban,3,Flush and pour flush - to pit,0.0,Child Labour Survey: Report - CLS01
+Cambodia,KH,KHM,116,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Child Labour Survey: Report - CLS01
+Cambodia,KH,KHM,116,Urban,5,Flush and pour flush - to elsewhere,0.0,Child Labour Survey: Report - CLS01
+Cambodia,KH,KHM,116,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Child Labour Survey: Report - CLS01
+Cambodia,KH,KHM,116,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.032,Child Labour Survey: Report - CLS01
+Cambodia,KH,KHM,116,Urban,8,Dry latrines - Traditional latrine,0.0,Child Labour Survey: Report - CLS01
+Cambodia,KH,KHM,116,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.055,Child Labour Survey: Report - CLS01
+Cambodia,KH,KHM,116,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Child Labour Survey: Report - CLS01
+Cambodia,KH,KHM,116,Urban,11,Dry latrines - Bucket latrine,0.0,Child Labour Survey: Report - CLS01
+Cambodia,KH,KHM,116,Urban,12,Dry latrines - Other,0.0,Child Labour Survey: Report - CLS01
+Cambodia,KH,KHM,116,Urban,13,Composting toilets,0.0,Child Labour Survey: Report - CLS01
+Cambodia,KH,KHM,116,Urban,14,Other improved,0.0,Child Labour Survey: Report - CLS01
+Cambodia,KH,KHM,116,Urban,15,"No facility, bush, field",0.003,Child Labour Survey: Report - CLS01
+Cambodia,KH,KHM,116,Urban,16,Other unimproved,0.389,Child Labour Survey: Report - CLS01
+Cambodia,KH,KHM,116,Urban,17,DK/missing information,0.0,Child Labour Survey: Report - CLS01
+Cambodia,KH,KHM,116,Rural,1,Flush and pour flush - to piped sewer system,0.006,Child Labour Survey: Report - CLS01
+Cambodia,KH,KHM,116,Rural,2,Flush and pour flush - to septic tank,0.078,Child Labour Survey: Report - CLS01
+Cambodia,KH,KHM,116,Rural,3,Flush and pour flush - to pit,0.0,Child Labour Survey: Report - CLS01
+Cambodia,KH,KHM,116,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Child Labour Survey: Report - CLS01
+Cambodia,KH,KHM,116,Rural,5,Flush and pour flush - to elsewhere,0.0,Child Labour Survey: Report - CLS01
+Cambodia,KH,KHM,116,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Child Labour Survey: Report - CLS01
+Cambodia,KH,KHM,116,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.025,Child Labour Survey: Report - CLS01
+Cambodia,KH,KHM,116,Rural,8,Dry latrines - Traditional latrine,0.0,Child Labour Survey: Report - CLS01
+Cambodia,KH,KHM,116,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.047,Child Labour Survey: Report - CLS01
+Cambodia,KH,KHM,116,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Child Labour Survey: Report - CLS01
+Cambodia,KH,KHM,116,Rural,11,Dry latrines - Bucket latrine,0.0,Child Labour Survey: Report - CLS01
+Cambodia,KH,KHM,116,Rural,12,Dry latrines - Other,0.0,Child Labour Survey: Report - CLS01
+Cambodia,KH,KHM,116,Rural,13,Composting toilets,0.0,Child Labour Survey: Report - CLS01
+Cambodia,KH,KHM,116,Rural,14,Other improved,0.0,Child Labour Survey: Report - CLS01
+Cambodia,KH,KHM,116,Rural,15,"No facility, bush, field",0.004,Child Labour Survey: Report - CLS01
+Cambodia,KH,KHM,116,Rural,16,Other unimproved,0.826,Child Labour Survey: Report - CLS01
+Cambodia,KH,KHM,116,Rural,17,DK/missing information,0.0,Child Labour Survey: Report - CLS01
+Cambodia,KH,KHM,116,National,1,Flush and pour flush - to piped sewer system,0.0,Child Labour Survey: Report - CLS01
+Cambodia,KH,KHM,116,National,2,Flush and pour flush - to septic tank,0.0,Child Labour Survey: Report - CLS01
+Cambodia,KH,KHM,116,National,3,Flush and pour flush - to pit,0.0,Child Labour Survey: Report - CLS01
+Cambodia,KH,KHM,116,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Child Labour Survey: Report - CLS01
+Cambodia,KH,KHM,116,National,5,Flush and pour flush - to elsewhere,0.0,Child Labour Survey: Report - CLS01
+Cambodia,KH,KHM,116,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Child Labour Survey: Report - CLS01
+Cambodia,KH,KHM,116,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Child Labour Survey: Report - CLS01
+Cambodia,KH,KHM,116,National,8,Dry latrines - Traditional latrine,0.0,Child Labour Survey: Report - CLS01
+Cambodia,KH,KHM,116,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Child Labour Survey: Report - CLS01
+Cambodia,KH,KHM,116,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Child Labour Survey: Report - CLS01
+Cambodia,KH,KHM,116,National,11,Dry latrines - Bucket latrine,0.0,Child Labour Survey: Report - CLS01
+Cambodia,KH,KHM,116,National,12,Dry latrines - Other,0.0,Child Labour Survey: Report - CLS01
+Cambodia,KH,KHM,116,National,13,Composting toilets,0.0,Child Labour Survey: Report - CLS01
+Cambodia,KH,KHM,116,National,14,Other improved,0.0,Child Labour Survey: Report - CLS01
+Cambodia,KH,KHM,116,National,15,"No facility, bush, field",0.0,Child Labour Survey: Report - CLS01
+Cambodia,KH,KHM,116,National,16,Other unimproved,0.0,Child Labour Survey: Report - CLS01
+Cambodia,KH,KHM,116,National,17,DK/missing information,0.0,Child Labour Survey: Report - CLS01

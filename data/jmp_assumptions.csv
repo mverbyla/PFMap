@@ -1,0 +1,14 @@
+classific_id,name,classification,isImproved,flushSewer,flushOnsite,initiallyContained
+1,flushSewer,Flush / pour flush to piped sewer system ,1,1,0,1
+2,flushSeptic,Flush / pour flush to septic tank ,1,0,1,1
+3,flushPit,Flush / pour flush to pit latrine ,1,0,1,1
+4,flushOpen,Flush / pour flush to open drain ,0,0,1,0
+5,flushUnknown,Flush / pour flush to don't know where,0,0,1,0
+6,pitSlab,Dry pit latrine with slab,1,0,0,1
+7,pitNoSlab,Dry pit latrine without slab / open pit,0,0,0,1
+8,compostingToilet,Composting toilet - other,1,0,0,1
+9,bucketLatrine,Bucket toilet,0,0,0,0
+10,containerBased,Container-based sanitation,1,0,0,1
+11,hangingToilet,Hanging toilet / latrine,0,0,0,0
+12,openDefecation,No facility / bush / field,0,0,0,0
+13,other,Other (specify),0,0,0,0

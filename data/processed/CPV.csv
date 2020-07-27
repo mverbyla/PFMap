@@ -1,4 +1,310 @@
 country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+Cabo Verde,CV,CPV,132,Urban,1,Flush and pour flush - to piped sewer system,0.0,"Population and Housing Census, 2000 - CEN00"
+Cabo Verde,CV,CPV,132,Urban,2,Flush and pour flush - to septic tank,0.0,"Population and Housing Census, 2000 - CEN00"
+Cabo Verde,CV,CPV,132,Urban,3,Flush and pour flush - to pit,0.0,"Population and Housing Census, 2000 - CEN00"
+Cabo Verde,CV,CPV,132,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.541,"Population and Housing Census, 2000 - CEN00"
+Cabo Verde,CV,CPV,132,Urban,5,Flush and pour flush - to elsewhere,0.0,"Population and Housing Census, 2000 - CEN00"
+Cabo Verde,CV,CPV,132,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Population and Housing Census, 2000 - CEN00"
+Cabo Verde,CV,CPV,132,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.006,"Population and Housing Census, 2000 - CEN00"
+Cabo Verde,CV,CPV,132,Urban,8,Dry latrines - Traditional latrine,0.0,"Population and Housing Census, 2000 - CEN00"
+Cabo Verde,CV,CPV,132,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Population and Housing Census, 2000 - CEN00"
+Cabo Verde,CV,CPV,132,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Population and Housing Census, 2000 - CEN00"
+Cabo Verde,CV,CPV,132,Urban,11,Dry latrines - Bucket latrine,0.0,"Population and Housing Census, 2000 - CEN00"
+Cabo Verde,CV,CPV,132,Urban,12,Dry latrines - Other,0.046,"Population and Housing Census, 2000 - CEN00"
+Cabo Verde,CV,CPV,132,Urban,13,Composting toilets,0.0,"Population and Housing Census, 2000 - CEN00"
+Cabo Verde,CV,CPV,132,Urban,14,Other improved,0.0,"Population and Housing Census, 2000 - CEN00"
+Cabo Verde,CV,CPV,132,Urban,15,"No facility, bush, field",0.397,"Population and Housing Census, 2000 - CEN00"
+Cabo Verde,CV,CPV,132,Urban,16,Other unimproved,0.0,"Population and Housing Census, 2000 - CEN00"
+Cabo Verde,CV,CPV,132,Urban,17,DK/missing information,0.009,"Population and Housing Census, 2000 - CEN00"
+Cabo Verde,CV,CPV,132,Rural,1,Flush and pour flush - to piped sewer system,0.0,"Population and Housing Census, 2000 - CEN00"
+Cabo Verde,CV,CPV,132,Rural,2,Flush and pour flush - to septic tank,0.0,"Population and Housing Census, 2000 - CEN00"
+Cabo Verde,CV,CPV,132,Rural,3,Flush and pour flush - to pit,0.0,"Population and Housing Census, 2000 - CEN00"
+Cabo Verde,CV,CPV,132,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.182,"Population and Housing Census, 2000 - CEN00"
+Cabo Verde,CV,CPV,132,Rural,5,Flush and pour flush - to elsewhere,0.0,"Population and Housing Census, 2000 - CEN00"
+Cabo Verde,CV,CPV,132,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Population and Housing Census, 2000 - CEN00"
+Cabo Verde,CV,CPV,132,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.016,"Population and Housing Census, 2000 - CEN00"
+Cabo Verde,CV,CPV,132,Rural,8,Dry latrines - Traditional latrine,0.0,"Population and Housing Census, 2000 - CEN00"
+Cabo Verde,CV,CPV,132,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Population and Housing Census, 2000 - CEN00"
+Cabo Verde,CV,CPV,132,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Population and Housing Census, 2000 - CEN00"
+Cabo Verde,CV,CPV,132,Rural,11,Dry latrines - Bucket latrine,0.0,"Population and Housing Census, 2000 - CEN00"
+Cabo Verde,CV,CPV,132,Rural,12,Dry latrines - Other,0.062,"Population and Housing Census, 2000 - CEN00"
+Cabo Verde,CV,CPV,132,Rural,13,Composting toilets,0.0,"Population and Housing Census, 2000 - CEN00"
+Cabo Verde,CV,CPV,132,Rural,14,Other improved,0.0,"Population and Housing Census, 2000 - CEN00"
+Cabo Verde,CV,CPV,132,Rural,15,"No facility, bush, field",0.731,"Population and Housing Census, 2000 - CEN00"
+Cabo Verde,CV,CPV,132,Rural,16,Other unimproved,0.0,"Population and Housing Census, 2000 - CEN00"
+Cabo Verde,CV,CPV,132,Rural,17,DK/missing information,0.009,"Population and Housing Census, 2000 - CEN00"
+Cabo Verde,CV,CPV,132,National,1,Flush and pour flush - to piped sewer system,0.0,"Population and Housing Census, 2000 - CEN00"
+Cabo Verde,CV,CPV,132,National,2,Flush and pour flush - to septic tank,0.0,"Population and Housing Census, 2000 - CEN00"
+Cabo Verde,CV,CPV,132,National,3,Flush and pour flush - to pit,0.0,"Population and Housing Census, 2000 - CEN00"
+Cabo Verde,CV,CPV,132,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.387,"Population and Housing Census, 2000 - CEN00"
+Cabo Verde,CV,CPV,132,National,5,Flush and pour flush - to elsewhere,0.0,"Population and Housing Census, 2000 - CEN00"
+Cabo Verde,CV,CPV,132,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Population and Housing Census, 2000 - CEN00"
+Cabo Verde,CV,CPV,132,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.01,"Population and Housing Census, 2000 - CEN00"
+Cabo Verde,CV,CPV,132,National,8,Dry latrines - Traditional latrine,0.0,"Population and Housing Census, 2000 - CEN00"
+Cabo Verde,CV,CPV,132,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Population and Housing Census, 2000 - CEN00"
+Cabo Verde,CV,CPV,132,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Population and Housing Census, 2000 - CEN00"
+Cabo Verde,CV,CPV,132,National,11,Dry latrines - Bucket latrine,0.0,"Population and Housing Census, 2000 - CEN00"
+Cabo Verde,CV,CPV,132,National,12,Dry latrines - Other,0.053,"Population and Housing Census, 2000 - CEN00"
+Cabo Verde,CV,CPV,132,National,13,Composting toilets,0.0,"Population and Housing Census, 2000 - CEN00"
+Cabo Verde,CV,CPV,132,National,14,Other improved,0.0,"Population and Housing Census, 2000 - CEN00"
+Cabo Verde,CV,CPV,132,National,15,"No facility, bush, field",0.54,"Population and Housing Census, 2000 - CEN00"
+Cabo Verde,CV,CPV,132,National,16,Other unimproved,0.0,"Population and Housing Census, 2000 - CEN00"
+Cabo Verde,CV,CPV,132,National,17,DK/missing information,0.009,"Population and Housing Census, 2000 - CEN00"
+Cabo Verde,CV,CPV,132,Urban,1,Flush and pour flush - to piped sewer system,0.651,INQUÉRITO ÀS DESPESAS E RECEITAS FAMILIARES 2001/02 - IDRF02
+Cabo Verde,CV,CPV,132,Urban,2,Flush and pour flush - to septic tank,0.039,INQUÉRITO ÀS DESPESAS E RECEITAS FAMILIARES 2001/02 - IDRF02
+Cabo Verde,CV,CPV,132,Urban,3,Flush and pour flush - to pit,0.0,INQUÉRITO ÀS DESPESAS E RECEITAS FAMILIARES 2001/02 - IDRF02
+Cabo Verde,CV,CPV,132,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,INQUÉRITO ÀS DESPESAS E RECEITAS FAMILIARES 2001/02 - IDRF02
+Cabo Verde,CV,CPV,132,Urban,5,Flush and pour flush - to elsewhere,0.0,INQUÉRITO ÀS DESPESAS E RECEITAS FAMILIARES 2001/02 - IDRF02
+Cabo Verde,CV,CPV,132,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,INQUÉRITO ÀS DESPESAS E RECEITAS FAMILIARES 2001/02 - IDRF02
+Cabo Verde,CV,CPV,132,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,INQUÉRITO ÀS DESPESAS E RECEITAS FAMILIARES 2001/02 - IDRF02
+Cabo Verde,CV,CPV,132,Urban,8,Dry latrines - Traditional latrine,0.096,INQUÉRITO ÀS DESPESAS E RECEITAS FAMILIARES 2001/02 - IDRF02
+Cabo Verde,CV,CPV,132,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,INQUÉRITO ÀS DESPESAS E RECEITAS FAMILIARES 2001/02 - IDRF02
+Cabo Verde,CV,CPV,132,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,INQUÉRITO ÀS DESPESAS E RECEITAS FAMILIARES 2001/02 - IDRF02
+Cabo Verde,CV,CPV,132,Urban,11,Dry latrines - Bucket latrine,0.0,INQUÉRITO ÀS DESPESAS E RECEITAS FAMILIARES 2001/02 - IDRF02
+Cabo Verde,CV,CPV,132,Urban,12,Dry latrines - Other,0.0,INQUÉRITO ÀS DESPESAS E RECEITAS FAMILIARES 2001/02 - IDRF02
+Cabo Verde,CV,CPV,132,Urban,13,Composting toilets,0.0,INQUÉRITO ÀS DESPESAS E RECEITAS FAMILIARES 2001/02 - IDRF02
+Cabo Verde,CV,CPV,132,Urban,14,Other improved,0.0,INQUÉRITO ÀS DESPESAS E RECEITAS FAMILIARES 2001/02 - IDRF02
+Cabo Verde,CV,CPV,132,Urban,15,"No facility, bush, field",0.212,INQUÉRITO ÀS DESPESAS E RECEITAS FAMILIARES 2001/02 - IDRF02
+Cabo Verde,CV,CPV,132,Urban,16,Other unimproved,0.0,INQUÉRITO ÀS DESPESAS E RECEITAS FAMILIARES 2001/02 - IDRF02
+Cabo Verde,CV,CPV,132,Urban,17,DK/missing information,0.0,INQUÉRITO ÀS DESPESAS E RECEITAS FAMILIARES 2001/02 - IDRF02
+Cabo Verde,CV,CPV,132,Rural,1,Flush and pour flush - to piped sewer system,0.291,INQUÉRITO ÀS DESPESAS E RECEITAS FAMILIARES 2001/02 - IDRF02
+Cabo Verde,CV,CPV,132,Rural,2,Flush and pour flush - to septic tank,0.02,INQUÉRITO ÀS DESPESAS E RECEITAS FAMILIARES 2001/02 - IDRF02
+Cabo Verde,CV,CPV,132,Rural,3,Flush and pour flush - to pit,0.0,INQUÉRITO ÀS DESPESAS E RECEITAS FAMILIARES 2001/02 - IDRF02
+Cabo Verde,CV,CPV,132,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,INQUÉRITO ÀS DESPESAS E RECEITAS FAMILIARES 2001/02 - IDRF02
+Cabo Verde,CV,CPV,132,Rural,5,Flush and pour flush - to elsewhere,0.0,INQUÉRITO ÀS DESPESAS E RECEITAS FAMILIARES 2001/02 - IDRF02
+Cabo Verde,CV,CPV,132,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,INQUÉRITO ÀS DESPESAS E RECEITAS FAMILIARES 2001/02 - IDRF02
+Cabo Verde,CV,CPV,132,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,INQUÉRITO ÀS DESPESAS E RECEITAS FAMILIARES 2001/02 - IDRF02
+Cabo Verde,CV,CPV,132,Rural,8,Dry latrines - Traditional latrine,0.068,INQUÉRITO ÀS DESPESAS E RECEITAS FAMILIARES 2001/02 - IDRF02
+Cabo Verde,CV,CPV,132,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,INQUÉRITO ÀS DESPESAS E RECEITAS FAMILIARES 2001/02 - IDRF02
+Cabo Verde,CV,CPV,132,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,INQUÉRITO ÀS DESPESAS E RECEITAS FAMILIARES 2001/02 - IDRF02
+Cabo Verde,CV,CPV,132,Rural,11,Dry latrines - Bucket latrine,0.0,INQUÉRITO ÀS DESPESAS E RECEITAS FAMILIARES 2001/02 - IDRF02
+Cabo Verde,CV,CPV,132,Rural,12,Dry latrines - Other,0.0,INQUÉRITO ÀS DESPESAS E RECEITAS FAMILIARES 2001/02 - IDRF02
+Cabo Verde,CV,CPV,132,Rural,13,Composting toilets,0.0,INQUÉRITO ÀS DESPESAS E RECEITAS FAMILIARES 2001/02 - IDRF02
+Cabo Verde,CV,CPV,132,Rural,14,Other improved,0.0,INQUÉRITO ÀS DESPESAS E RECEITAS FAMILIARES 2001/02 - IDRF02
+Cabo Verde,CV,CPV,132,Rural,15,"No facility, bush, field",0.62,INQUÉRITO ÀS DESPESAS E RECEITAS FAMILIARES 2001/02 - IDRF02
+Cabo Verde,CV,CPV,132,Rural,16,Other unimproved,0.0,INQUÉRITO ÀS DESPESAS E RECEITAS FAMILIARES 2001/02 - IDRF02
+Cabo Verde,CV,CPV,132,Rural,17,DK/missing information,0.0,INQUÉRITO ÀS DESPESAS E RECEITAS FAMILIARES 2001/02 - IDRF02
+Cabo Verde,CV,CPV,132,National,1,Flush and pour flush - to piped sewer system,0.453,INQUÉRITO ÀS DESPESAS E RECEITAS FAMILIARES 2001/02 - IDRF02
+Cabo Verde,CV,CPV,132,National,2,Flush and pour flush - to septic tank,0.03,INQUÉRITO ÀS DESPESAS E RECEITAS FAMILIARES 2001/02 - IDRF02
+Cabo Verde,CV,CPV,132,National,3,Flush and pour flush - to pit,0.0,INQUÉRITO ÀS DESPESAS E RECEITAS FAMILIARES 2001/02 - IDRF02
+Cabo Verde,CV,CPV,132,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,INQUÉRITO ÀS DESPESAS E RECEITAS FAMILIARES 2001/02 - IDRF02
+Cabo Verde,CV,CPV,132,National,5,Flush and pour flush - to elsewhere,0.0,INQUÉRITO ÀS DESPESAS E RECEITAS FAMILIARES 2001/02 - IDRF02
+Cabo Verde,CV,CPV,132,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,INQUÉRITO ÀS DESPESAS E RECEITAS FAMILIARES 2001/02 - IDRF02
+Cabo Verde,CV,CPV,132,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,INQUÉRITO ÀS DESPESAS E RECEITAS FAMILIARES 2001/02 - IDRF02
+Cabo Verde,CV,CPV,132,National,8,Dry latrines - Traditional latrine,0.08,INQUÉRITO ÀS DESPESAS E RECEITAS FAMILIARES 2001/02 - IDRF02
+Cabo Verde,CV,CPV,132,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,INQUÉRITO ÀS DESPESAS E RECEITAS FAMILIARES 2001/02 - IDRF02
+Cabo Verde,CV,CPV,132,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,INQUÉRITO ÀS DESPESAS E RECEITAS FAMILIARES 2001/02 - IDRF02
+Cabo Verde,CV,CPV,132,National,11,Dry latrines - Bucket latrine,0.0,INQUÉRITO ÀS DESPESAS E RECEITAS FAMILIARES 2001/02 - IDRF02
+Cabo Verde,CV,CPV,132,National,12,Dry latrines - Other,0.0,INQUÉRITO ÀS DESPESAS E RECEITAS FAMILIARES 2001/02 - IDRF02
+Cabo Verde,CV,CPV,132,National,13,Composting toilets,0.0,INQUÉRITO ÀS DESPESAS E RECEITAS FAMILIARES 2001/02 - IDRF02
+Cabo Verde,CV,CPV,132,National,14,Other improved,0.0,INQUÉRITO ÀS DESPESAS E RECEITAS FAMILIARES 2001/02 - IDRF02
+Cabo Verde,CV,CPV,132,National,15,"No facility, bush, field",0.437,INQUÉRITO ÀS DESPESAS E RECEITAS FAMILIARES 2001/02 - IDRF02
+Cabo Verde,CV,CPV,132,National,16,Other unimproved,0.0,INQUÉRITO ÀS DESPESAS E RECEITAS FAMILIARES 2001/02 - IDRF02
+Cabo Verde,CV,CPV,132,National,17,DK/missing information,0.0,INQUÉRITO ÀS DESPESAS E RECEITAS FAMILIARES 2001/02 - IDRF02
+Cabo Verde,CV,CPV,132,Urban,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS05
+Cabo Verde,CV,CPV,132,Urban,2,Flush and pour flush - to septic tank,0.0,Demographic and Health Survey - DHS05
+Cabo Verde,CV,CPV,132,Urban,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS05
+Cabo Verde,CV,CPV,132,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS05
+Cabo Verde,CV,CPV,132,Urban,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS05
+Cabo Verde,CV,CPV,132,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - DHS05
+Cabo Verde,CV,CPV,132,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.015,Demographic and Health Survey - DHS05
+Cabo Verde,CV,CPV,132,Urban,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS05
+Cabo Verde,CV,CPV,132,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Survey - DHS05
+Cabo Verde,CV,CPV,132,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS05
+Cabo Verde,CV,CPV,132,Urban,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS05
+Cabo Verde,CV,CPV,132,Urban,12,Dry latrines - Other,0.02,Demographic and Health Survey - DHS05
+Cabo Verde,CV,CPV,132,Urban,13,Composting toilets,0.0,Demographic and Health Survey - DHS05
+Cabo Verde,CV,CPV,132,Urban,14,Other improved,0.0,Demographic and Health Survey - DHS05
+Cabo Verde,CV,CPV,132,Urban,15,"No facility, bush, field",0.332,Demographic and Health Survey - DHS05
+Cabo Verde,CV,CPV,132,Urban,16,Other unimproved,0.0,Demographic and Health Survey - DHS05
+Cabo Verde,CV,CPV,132,Urban,17,DK/missing information,0.002,Demographic and Health Survey - DHS05
+Cabo Verde,CV,CPV,132,Rural,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS05
+Cabo Verde,CV,CPV,132,Rural,2,Flush and pour flush - to septic tank,0.0,Demographic and Health Survey - DHS05
+Cabo Verde,CV,CPV,132,Rural,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS05
+Cabo Verde,CV,CPV,132,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS05
+Cabo Verde,CV,CPV,132,Rural,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS05
+Cabo Verde,CV,CPV,132,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - DHS05
+Cabo Verde,CV,CPV,132,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.037,Demographic and Health Survey - DHS05
+Cabo Verde,CV,CPV,132,Rural,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS05
+Cabo Verde,CV,CPV,132,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Survey - DHS05
+Cabo Verde,CV,CPV,132,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS05
+Cabo Verde,CV,CPV,132,Rural,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS05
+Cabo Verde,CV,CPV,132,Rural,12,Dry latrines - Other,0.046,Demographic and Health Survey - DHS05
+Cabo Verde,CV,CPV,132,Rural,13,Composting toilets,0.0,Demographic and Health Survey - DHS05
+Cabo Verde,CV,CPV,132,Rural,14,Other improved,0.0,Demographic and Health Survey - DHS05
+Cabo Verde,CV,CPV,132,Rural,15,"No facility, bush, field",0.61,Demographic and Health Survey - DHS05
+Cabo Verde,CV,CPV,132,Rural,16,Other unimproved,0.0,Demographic and Health Survey - DHS05
+Cabo Verde,CV,CPV,132,Rural,17,DK/missing information,0.003,Demographic and Health Survey - DHS05
+Cabo Verde,CV,CPV,132,National,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS05
+Cabo Verde,CV,CPV,132,National,2,Flush and pour flush - to septic tank,0.0,Demographic and Health Survey - DHS05
+Cabo Verde,CV,CPV,132,National,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS05
+Cabo Verde,CV,CPV,132,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS05
+Cabo Verde,CV,CPV,132,National,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS05
+Cabo Verde,CV,CPV,132,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - DHS05
+Cabo Verde,CV,CPV,132,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.024,Demographic and Health Survey - DHS05
+Cabo Verde,CV,CPV,132,National,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS05
+Cabo Verde,CV,CPV,132,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Survey - DHS05
+Cabo Verde,CV,CPV,132,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS05
+Cabo Verde,CV,CPV,132,National,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS05
+Cabo Verde,CV,CPV,132,National,12,Dry latrines - Other,0.031,Demographic and Health Survey - DHS05
+Cabo Verde,CV,CPV,132,National,13,Composting toilets,0.0,Demographic and Health Survey - DHS05
+Cabo Verde,CV,CPV,132,National,14,Other improved,0.0,Demographic and Health Survey - DHS05
+Cabo Verde,CV,CPV,132,National,15,"No facility, bush, field",0.454,Demographic and Health Survey - DHS05
+Cabo Verde,CV,CPV,132,National,16,Other unimproved,0.0,Demographic and Health Survey - DHS05
+Cabo Verde,CV,CPV,132,National,17,DK/missing information,0.003,Demographic and Health Survey - DHS05
+Cabo Verde,CV,CPV,132,Urban,1,Flush and pour flush - to piped sewer system,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB06
+Cabo Verde,CV,CPV,132,Urban,2,Flush and pour flush - to septic tank,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB06
+Cabo Verde,CV,CPV,132,Urban,3,Flush and pour flush - to pit,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB06
+Cabo Verde,CV,CPV,132,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB06
+Cabo Verde,CV,CPV,132,Urban,5,Flush and pour flush - to elsewhere,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB06
+Cabo Verde,CV,CPV,132,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB06
+Cabo Verde,CV,CPV,132,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.009,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB06
+Cabo Verde,CV,CPV,132,Urban,8,Dry latrines - Traditional latrine,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB06
+Cabo Verde,CV,CPV,132,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB06
+Cabo Verde,CV,CPV,132,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB06
+Cabo Verde,CV,CPV,132,Urban,11,Dry latrines - Bucket latrine,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB06
+Cabo Verde,CV,CPV,132,Urban,12,Dry latrines - Other,0.039,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB06
+Cabo Verde,CV,CPV,132,Urban,13,Composting toilets,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB06
+Cabo Verde,CV,CPV,132,Urban,14,Other improved,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB06
+Cabo Verde,CV,CPV,132,Urban,15,"No facility, bush, field",0.27,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB06
+Cabo Verde,CV,CPV,132,Urban,16,Other unimproved,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB06
+Cabo Verde,CV,CPV,132,Urban,17,DK/missing information,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB06
+Cabo Verde,CV,CPV,132,Rural,1,Flush and pour flush - to piped sewer system,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB06
+Cabo Verde,CV,CPV,132,Rural,2,Flush and pour flush - to septic tank,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB06
+Cabo Verde,CV,CPV,132,Rural,3,Flush and pour flush - to pit,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB06
+Cabo Verde,CV,CPV,132,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB06
+Cabo Verde,CV,CPV,132,Rural,5,Flush and pour flush - to elsewhere,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB06
+Cabo Verde,CV,CPV,132,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB06
+Cabo Verde,CV,CPV,132,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.025,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB06
+Cabo Verde,CV,CPV,132,Rural,8,Dry latrines - Traditional latrine,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB06
+Cabo Verde,CV,CPV,132,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB06
+Cabo Verde,CV,CPV,132,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB06
+Cabo Verde,CV,CPV,132,Rural,11,Dry latrines - Bucket latrine,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB06
+Cabo Verde,CV,CPV,132,Rural,12,Dry latrines - Other,0.08,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB06
+Cabo Verde,CV,CPV,132,Rural,13,Composting toilets,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB06
+Cabo Verde,CV,CPV,132,Rural,14,Other improved,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB06
+Cabo Verde,CV,CPV,132,Rural,15,"No facility, bush, field",0.566,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB06
+Cabo Verde,CV,CPV,132,Rural,16,Other unimproved,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB06
+Cabo Verde,CV,CPV,132,Rural,17,DK/missing information,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB06
+Cabo Verde,CV,CPV,132,National,1,Flush and pour flush - to piped sewer system,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB06
+Cabo Verde,CV,CPV,132,National,2,Flush and pour flush - to septic tank,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB06
+Cabo Verde,CV,CPV,132,National,3,Flush and pour flush - to pit,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB06
+Cabo Verde,CV,CPV,132,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB06
+Cabo Verde,CV,CPV,132,National,5,Flush and pour flush - to elsewhere,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB06
+Cabo Verde,CV,CPV,132,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB06
+Cabo Verde,CV,CPV,132,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.016,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB06
+Cabo Verde,CV,CPV,132,National,8,Dry latrines - Traditional latrine,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB06
+Cabo Verde,CV,CPV,132,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB06
+Cabo Verde,CV,CPV,132,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB06
+Cabo Verde,CV,CPV,132,National,11,Dry latrines - Bucket latrine,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB06
+Cabo Verde,CV,CPV,132,National,12,Dry latrines - Other,0.055,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB06
+Cabo Verde,CV,CPV,132,National,13,Composting toilets,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB06
+Cabo Verde,CV,CPV,132,National,14,Other improved,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB06
+Cabo Verde,CV,CPV,132,National,15,"No facility, bush, field",0.389,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB06
+Cabo Verde,CV,CPV,132,National,16,Other unimproved,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB06
+Cabo Verde,CV,CPV,132,National,17,DK/missing information,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB06
+Cabo Verde,CV,CPV,132,Urban,1,Flush and pour flush - to piped sewer system,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB07
+Cabo Verde,CV,CPV,132,Urban,2,Flush and pour flush - to septic tank,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB07
+Cabo Verde,CV,CPV,132,Urban,3,Flush and pour flush - to pit,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB07
+Cabo Verde,CV,CPV,132,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB07
+Cabo Verde,CV,CPV,132,Urban,5,Flush and pour flush - to elsewhere,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB07
+Cabo Verde,CV,CPV,132,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB07
+Cabo Verde,CV,CPV,132,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB07
+Cabo Verde,CV,CPV,132,Urban,8,Dry latrines - Traditional latrine,0.06,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB07
+Cabo Verde,CV,CPV,132,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB07
+Cabo Verde,CV,CPV,132,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB07
+Cabo Verde,CV,CPV,132,Urban,11,Dry latrines - Bucket latrine,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB07
+Cabo Verde,CV,CPV,132,Urban,12,Dry latrines - Other,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB07
+Cabo Verde,CV,CPV,132,Urban,13,Composting toilets,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB07
+Cabo Verde,CV,CPV,132,Urban,14,Other improved,0.732,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB07
+Cabo Verde,CV,CPV,132,Urban,15,"No facility, bush, field",0.209,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB07
+Cabo Verde,CV,CPV,132,Urban,16,Other unimproved,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB07
+Cabo Verde,CV,CPV,132,Urban,17,DK/missing information,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB07
+Cabo Verde,CV,CPV,132,Rural,1,Flush and pour flush - to piped sewer system,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB07
+Cabo Verde,CV,CPV,132,Rural,2,Flush and pour flush - to septic tank,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB07
+Cabo Verde,CV,CPV,132,Rural,3,Flush and pour flush - to pit,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB07
+Cabo Verde,CV,CPV,132,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB07
+Cabo Verde,CV,CPV,132,Rural,5,Flush and pour flush - to elsewhere,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB07
+Cabo Verde,CV,CPV,132,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB07
+Cabo Verde,CV,CPV,132,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB07
+Cabo Verde,CV,CPV,132,Rural,8,Dry latrines - Traditional latrine,0.02,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB07
+Cabo Verde,CV,CPV,132,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB07
+Cabo Verde,CV,CPV,132,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB07
+Cabo Verde,CV,CPV,132,Rural,11,Dry latrines - Bucket latrine,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB07
+Cabo Verde,CV,CPV,132,Rural,12,Dry latrines - Other,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB07
+Cabo Verde,CV,CPV,132,Rural,13,Composting toilets,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB07
+Cabo Verde,CV,CPV,132,Rural,14,Other improved,0.439,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB07
+Cabo Verde,CV,CPV,132,Rural,15,"No facility, bush, field",0.542,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB07
+Cabo Verde,CV,CPV,132,Rural,16,Other unimproved,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB07
+Cabo Verde,CV,CPV,132,Rural,17,DK/missing information,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB07
+Cabo Verde,CV,CPV,132,National,1,Flush and pour flush - to piped sewer system,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB07
+Cabo Verde,CV,CPV,132,National,2,Flush and pour flush - to septic tank,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB07
+Cabo Verde,CV,CPV,132,National,3,Flush and pour flush - to pit,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB07
+Cabo Verde,CV,CPV,132,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB07
+Cabo Verde,CV,CPV,132,National,5,Flush and pour flush - to elsewhere,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB07
+Cabo Verde,CV,CPV,132,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB07
+Cabo Verde,CV,CPV,132,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB07
+Cabo Verde,CV,CPV,132,National,8,Dry latrines - Traditional latrine,0.042,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB07
+Cabo Verde,CV,CPV,132,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB07
+Cabo Verde,CV,CPV,132,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB07
+Cabo Verde,CV,CPV,132,National,11,Dry latrines - Bucket latrine,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB07
+Cabo Verde,CV,CPV,132,National,12,Dry latrines - Other,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB07
+Cabo Verde,CV,CPV,132,National,13,Composting toilets,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB07
+Cabo Verde,CV,CPV,132,National,14,Other improved,0.605,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB07
+Cabo Verde,CV,CPV,132,National,15,"No facility, bush, field",0.352,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB07
+Cabo Verde,CV,CPV,132,National,16,Other unimproved,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB07
+Cabo Verde,CV,CPV,132,National,17,DK/missing information,0.0,Basic Well-Being Indicator Questionnaire (QUIBB / CWIQ) - QUIBB07
+Cabo Verde,CV,CPV,132,Urban,1,Flush and pour flush - to piped sewer system,0.0,Census - CEN10
+Cabo Verde,CV,CPV,132,Urban,2,Flush and pour flush - to septic tank,0.0,Census - CEN10
+Cabo Verde,CV,CPV,132,Urban,3,Flush and pour flush - to pit,0.0,Census - CEN10
+Cabo Verde,CV,CPV,132,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.742,Census - CEN10
+Cabo Verde,CV,CPV,132,Urban,5,Flush and pour flush - to elsewhere,0.0,Census - CEN10
+Cabo Verde,CV,CPV,132,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN10
+Cabo Verde,CV,CPV,132,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN10
+Cabo Verde,CV,CPV,132,Urban,8,Dry latrines - Traditional latrine,0.004,Census - CEN10
+Cabo Verde,CV,CPV,132,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN10
+Cabo Verde,CV,CPV,132,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN10
+Cabo Verde,CV,CPV,132,Urban,11,Dry latrines - Bucket latrine,0.0,Census - CEN10
+Cabo Verde,CV,CPV,132,Urban,12,Dry latrines - Other,0.0,Census - CEN10
+Cabo Verde,CV,CPV,132,Urban,13,Composting toilets,0.0,Census - CEN10
+Cabo Verde,CV,CPV,132,Urban,14,Other improved,0.0,Census - CEN10
+Cabo Verde,CV,CPV,132,Urban,15,"No facility, bush, field",0.248,Census - CEN10
+Cabo Verde,CV,CPV,132,Urban,16,Other unimproved,0.0,Census - CEN10
+Cabo Verde,CV,CPV,132,Urban,17,DK/missing information,0.006,Census - CEN10
+Cabo Verde,CV,CPV,132,Rural,1,Flush and pour flush - to piped sewer system,0.0,Census - CEN10
+Cabo Verde,CV,CPV,132,Rural,2,Flush and pour flush - to septic tank,0.0,Census - CEN10
+Cabo Verde,CV,CPV,132,Rural,3,Flush and pour flush - to pit,0.0,Census - CEN10
+Cabo Verde,CV,CPV,132,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.422,Census - CEN10
+Cabo Verde,CV,CPV,132,Rural,5,Flush and pour flush - to elsewhere,0.0,Census - CEN10
+Cabo Verde,CV,CPV,132,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN10
+Cabo Verde,CV,CPV,132,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN10
+Cabo Verde,CV,CPV,132,Rural,8,Dry latrines - Traditional latrine,0.016,Census - CEN10
+Cabo Verde,CV,CPV,132,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN10
+Cabo Verde,CV,CPV,132,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN10
+Cabo Verde,CV,CPV,132,Rural,11,Dry latrines - Bucket latrine,0.0,Census - CEN10
+Cabo Verde,CV,CPV,132,Rural,12,Dry latrines - Other,0.0,Census - CEN10
+Cabo Verde,CV,CPV,132,Rural,13,Composting toilets,0.0,Census - CEN10
+Cabo Verde,CV,CPV,132,Rural,14,Other improved,0.0,Census - CEN10
+Cabo Verde,CV,CPV,132,Rural,15,"No facility, bush, field",0.559,Census - CEN10
+Cabo Verde,CV,CPV,132,Rural,16,Other unimproved,0.0,Census - CEN10
+Cabo Verde,CV,CPV,132,Rural,17,DK/missing information,0.003,Census - CEN10
+Cabo Verde,CV,CPV,132,National,1,Flush and pour flush - to piped sewer system,0.0,Census - CEN10
+Cabo Verde,CV,CPV,132,National,2,Flush and pour flush - to septic tank,0.0,Census - CEN10
+Cabo Verde,CV,CPV,132,National,3,Flush and pour flush - to pit,0.0,Census - CEN10
+Cabo Verde,CV,CPV,132,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.629,Census - CEN10
+Cabo Verde,CV,CPV,132,National,5,Flush and pour flush - to elsewhere,0.0,Census - CEN10
+Cabo Verde,CV,CPV,132,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN10
+Cabo Verde,CV,CPV,132,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN10
+Cabo Verde,CV,CPV,132,National,8,Dry latrines - Traditional latrine,0.008,Census - CEN10
+Cabo Verde,CV,CPV,132,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN10
+Cabo Verde,CV,CPV,132,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN10
+Cabo Verde,CV,CPV,132,National,11,Dry latrines - Bucket latrine,0.0,Census - CEN10
+Cabo Verde,CV,CPV,132,National,12,Dry latrines - Other,0.0,Census - CEN10
+Cabo Verde,CV,CPV,132,National,13,Composting toilets,0.0,Census - CEN10
+Cabo Verde,CV,CPV,132,National,14,Other improved,0.0,Census - CEN10
+Cabo Verde,CV,CPV,132,National,15,"No facility, bush, field",0.358,Census - CEN10
+Cabo Verde,CV,CPV,132,National,16,Other unimproved,0.0,Census - CEN10
+Cabo Verde,CV,CPV,132,National,17,DK/missing information,0.005,Census - CEN10
 Cabo Verde,CV,CPV,132,Urban,1,Flush and pour flush - to piped sewer system,0.31,Inquérito Multiobjectivo Contínuo - IMC12
 Cabo Verde,CV,CPV,132,Urban,2,Flush and pour flush - to septic tank,0.519,Inquérito Multiobjectivo Contínuo - IMC12
 Cabo Verde,CV,CPV,132,Urban,3,Flush and pour flush - to pit,0.0,Inquérito Multiobjectivo Contínuo - IMC12
@@ -33,6 +339,23 @@ Cabo Verde,CV,CPV,132,Rural,14,Other improved,0.0,Inquérito Multiobjectivo Cont
 Cabo Verde,CV,CPV,132,Rural,15,"No facility, bush, field",0.45,Inquérito Multiobjectivo Contínuo - IMC12
 Cabo Verde,CV,CPV,132,Rural,16,Other unimproved,0.002,Inquérito Multiobjectivo Contínuo - IMC12
 Cabo Verde,CV,CPV,132,Rural,17,DK/missing information,0.0,Inquérito Multiobjectivo Contínuo - IMC12
+Cabo Verde,CV,CPV,132,National,1,Flush and pour flush - to piped sewer system,0.21,Inquérito Multiobjectivo Contínuo - IMC12
+Cabo Verde,CV,CPV,132,National,2,Flush and pour flush - to septic tank,0.52,Inquérito Multiobjectivo Contínuo - IMC12
+Cabo Verde,CV,CPV,132,National,3,Flush and pour flush - to pit,0.0,Inquérito Multiobjectivo Contínuo - IMC12
+Cabo Verde,CV,CPV,132,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Inquérito Multiobjectivo Contínuo - IMC12
+Cabo Verde,CV,CPV,132,National,5,Flush and pour flush - to elsewhere,0.002,Inquérito Multiobjectivo Contínuo - IMC12
+Cabo Verde,CV,CPV,132,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Inquérito Multiobjectivo Contínuo - IMC12
+Cabo Verde,CV,CPV,132,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Inquérito Multiobjectivo Contínuo - IMC12
+Cabo Verde,CV,CPV,132,National,8,Dry latrines - Traditional latrine,0.005,Inquérito Multiobjectivo Contínuo - IMC12
+Cabo Verde,CV,CPV,132,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Inquérito Multiobjectivo Contínuo - IMC12
+Cabo Verde,CV,CPV,132,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Inquérito Multiobjectivo Contínuo - IMC12
+Cabo Verde,CV,CPV,132,National,11,Dry latrines - Bucket latrine,0.0,Inquérito Multiobjectivo Contínuo - IMC12
+Cabo Verde,CV,CPV,132,National,12,Dry latrines - Other,0.0,Inquérito Multiobjectivo Contínuo - IMC12
+Cabo Verde,CV,CPV,132,National,13,Composting toilets,0.0,Inquérito Multiobjectivo Contínuo - IMC12
+Cabo Verde,CV,CPV,132,National,14,Other improved,0.0,Inquérito Multiobjectivo Contínuo - IMC12
+Cabo Verde,CV,CPV,132,National,15,"No facility, bush, field",0.261,Inquérito Multiobjectivo Contínuo - IMC12
+Cabo Verde,CV,CPV,132,National,16,Other unimproved,0.002,Inquérito Multiobjectivo Contínuo - IMC12
+Cabo Verde,CV,CPV,132,National,17,DK/missing information,0.0,Inquérito Multiobjectivo Contínuo - IMC12
 Cabo Verde,CV,CPV,132,Urban,1,Flush and pour flush - to piped sewer system,0.316,Inquérito Multiobjectivo Contínuo - IMC13
 Cabo Verde,CV,CPV,132,Urban,2,Flush and pour flush - to septic tank,0.491,Inquérito Multiobjectivo Contínuo - IMC13
 Cabo Verde,CV,CPV,132,Urban,3,Flush and pour flush - to pit,0.0,Inquérito Multiobjectivo Contínuo - IMC13
@@ -67,6 +390,23 @@ Cabo Verde,CV,CPV,132,Rural,14,Other improved,0.0,Inquérito Multiobjectivo Cont
 Cabo Verde,CV,CPV,132,Rural,15,"No facility, bush, field",0.449,Inquérito Multiobjectivo Contínuo - IMC13
 Cabo Verde,CV,CPV,132,Rural,16,Other unimproved,0.002,Inquérito Multiobjectivo Contínuo - IMC13
 Cabo Verde,CV,CPV,132,Rural,17,DK/missing information,0.0,Inquérito Multiobjectivo Contínuo - IMC13
+Cabo Verde,CV,CPV,132,National,1,Flush and pour flush - to piped sewer system,0.221,Inquérito Multiobjectivo Contínuo - IMC13
+Cabo Verde,CV,CPV,132,National,2,Flush and pour flush - to septic tank,0.502,Inquérito Multiobjectivo Contínuo - IMC13
+Cabo Verde,CV,CPV,132,National,3,Flush and pour flush - to pit,0.0,Inquérito Multiobjectivo Contínuo - IMC13
+Cabo Verde,CV,CPV,132,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Inquérito Multiobjectivo Contínuo - IMC13
+Cabo Verde,CV,CPV,132,National,5,Flush and pour flush - to elsewhere,0.001,Inquérito Multiobjectivo Contínuo - IMC13
+Cabo Verde,CV,CPV,132,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Inquérito Multiobjectivo Contínuo - IMC13
+Cabo Verde,CV,CPV,132,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Inquérito Multiobjectivo Contínuo - IMC13
+Cabo Verde,CV,CPV,132,National,8,Dry latrines - Traditional latrine,0.002,Inquérito Multiobjectivo Contínuo - IMC13
+Cabo Verde,CV,CPV,132,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Inquérito Multiobjectivo Contínuo - IMC13
+Cabo Verde,CV,CPV,132,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Inquérito Multiobjectivo Contínuo - IMC13
+Cabo Verde,CV,CPV,132,National,11,Dry latrines - Bucket latrine,0.0,Inquérito Multiobjectivo Contínuo - IMC13
+Cabo Verde,CV,CPV,132,National,12,Dry latrines - Other,0.0,Inquérito Multiobjectivo Contínuo - IMC13
+Cabo Verde,CV,CPV,132,National,13,Composting toilets,0.0,Inquérito Multiobjectivo Contínuo - IMC13
+Cabo Verde,CV,CPV,132,National,14,Other improved,0.0,Inquérito Multiobjectivo Contínuo - IMC13
+Cabo Verde,CV,CPV,132,National,15,"No facility, bush, field",0.273,Inquérito Multiobjectivo Contínuo - IMC13
+Cabo Verde,CV,CPV,132,National,16,Other unimproved,0.001,Inquérito Multiobjectivo Contínuo - IMC13
+Cabo Verde,CV,CPV,132,National,17,DK/missing information,0.0,Inquérito Multiobjectivo Contínuo - IMC13
 Cabo Verde,CV,CPV,132,Urban,1,Flush and pour flush - to piped sewer system,0.319,Inquérito Multiobjectivo Contínuo - IMC14
 Cabo Verde,CV,CPV,132,Urban,2,Flush and pour flush - to septic tank,0.508,Inquérito Multiobjectivo Contínuo - IMC14
 Cabo Verde,CV,CPV,132,Urban,3,Flush and pour flush - to pit,0.0,Inquérito Multiobjectivo Contínuo - IMC14
@@ -101,6 +441,23 @@ Cabo Verde,CV,CPV,132,Rural,14,Other improved,0.0,Inquérito Multiobjectivo Cont
 Cabo Verde,CV,CPV,132,Rural,15,"No facility, bush, field",0.434,Inquérito Multiobjectivo Contínuo - IMC14
 Cabo Verde,CV,CPV,132,Rural,16,Other unimproved,0.005,Inquérito Multiobjectivo Contínuo - IMC14
 Cabo Verde,CV,CPV,132,Rural,17,DK/missing information,0.0,Inquérito Multiobjectivo Contínuo - IMC14
+Cabo Verde,CV,CPV,132,National,1,Flush and pour flush - to piped sewer system,0.217,Inquérito Multiobjectivo Contínuo - IMC14
+Cabo Verde,CV,CPV,132,National,2,Flush and pour flush - to septic tank,0.523,Inquérito Multiobjectivo Contínuo - IMC14
+Cabo Verde,CV,CPV,132,National,3,Flush and pour flush - to pit,0.0,Inquérito Multiobjectivo Contínuo - IMC14
+Cabo Verde,CV,CPV,132,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Inquérito Multiobjectivo Contínuo - IMC14
+Cabo Verde,CV,CPV,132,National,5,Flush and pour flush - to elsewhere,0.001,Inquérito Multiobjectivo Contínuo - IMC14
+Cabo Verde,CV,CPV,132,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Inquérito Multiobjectivo Contínuo - IMC14
+Cabo Verde,CV,CPV,132,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Inquérito Multiobjectivo Contínuo - IMC14
+Cabo Verde,CV,CPV,132,National,8,Dry latrines - Traditional latrine,0.002,Inquérito Multiobjectivo Contínuo - IMC14
+Cabo Verde,CV,CPV,132,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Inquérito Multiobjectivo Contínuo - IMC14
+Cabo Verde,CV,CPV,132,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Inquérito Multiobjectivo Contínuo - IMC14
+Cabo Verde,CV,CPV,132,National,11,Dry latrines - Bucket latrine,0.0,Inquérito Multiobjectivo Contínuo - IMC14
+Cabo Verde,CV,CPV,132,National,12,Dry latrines - Other,0.0,Inquérito Multiobjectivo Contínuo - IMC14
+Cabo Verde,CV,CPV,132,National,13,Composting toilets,0.0,Inquérito Multiobjectivo Contínuo - IMC14
+Cabo Verde,CV,CPV,132,National,14,Other improved,0.0,Inquérito Multiobjectivo Contínuo - IMC14
+Cabo Verde,CV,CPV,132,National,15,"No facility, bush, field",0.251,Inquérito Multiobjectivo Contínuo - IMC14
+Cabo Verde,CV,CPV,132,National,16,Other unimproved,0.005,Inquérito Multiobjectivo Contínuo - IMC14
+Cabo Verde,CV,CPV,132,National,17,DK/missing information,0.0,Inquérito Multiobjectivo Contínuo - IMC14
 Cabo Verde,CV,CPV,132,Urban,1,Flush and pour flush - to piped sewer system,0.322,Inquerito Multi-objectivo Continuo - IMC15
 Cabo Verde,CV,CPV,132,Urban,2,Flush and pour flush - to septic tank,0.517,Inquerito Multi-objectivo Continuo - IMC15
 Cabo Verde,CV,CPV,132,Urban,3,Flush and pour flush - to pit,0.007,Inquerito Multi-objectivo Continuo - IMC15
@@ -135,6 +492,23 @@ Cabo Verde,CV,CPV,132,Rural,14,Other improved,0.0,Inquerito Multi-objectivo Cont
 Cabo Verde,CV,CPV,132,Rural,15,"No facility, bush, field",0.4,Inquerito Multi-objectivo Continuo - IMC15
 Cabo Verde,CV,CPV,132,Rural,16,Other unimproved,0.0,Inquerito Multi-objectivo Continuo - IMC15
 Cabo Verde,CV,CPV,132,Rural,17,DK/missing information,0.0,Inquerito Multi-objectivo Continuo - IMC15
+Cabo Verde,CV,CPV,132,National,1,Flush and pour flush - to piped sewer system,0.226,Inquerito Multi-objectivo Continuo - IMC15
+Cabo Verde,CV,CPV,132,National,2,Flush and pour flush - to septic tank,0.535,Inquerito Multi-objectivo Continuo - IMC15
+Cabo Verde,CV,CPV,132,National,3,Flush and pour flush - to pit,0.007,Inquerito Multi-objectivo Continuo - IMC15
+Cabo Verde,CV,CPV,132,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Inquerito Multi-objectivo Continuo - IMC15
+Cabo Verde,CV,CPV,132,National,5,Flush and pour flush - to elsewhere,0.001,Inquerito Multi-objectivo Continuo - IMC15
+Cabo Verde,CV,CPV,132,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Inquerito Multi-objectivo Continuo - IMC15
+Cabo Verde,CV,CPV,132,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Inquerito Multi-objectivo Continuo - IMC15
+Cabo Verde,CV,CPV,132,National,8,Dry latrines - Traditional latrine,0.001,Inquerito Multi-objectivo Continuo - IMC15
+Cabo Verde,CV,CPV,132,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Inquerito Multi-objectivo Continuo - IMC15
+Cabo Verde,CV,CPV,132,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Inquerito Multi-objectivo Continuo - IMC15
+Cabo Verde,CV,CPV,132,National,11,Dry latrines - Bucket latrine,0.0,Inquerito Multi-objectivo Continuo - IMC15
+Cabo Verde,CV,CPV,132,National,12,Dry latrines - Other,0.0,Inquerito Multi-objectivo Continuo - IMC15
+Cabo Verde,CV,CPV,132,National,13,Composting toilets,0.0,Inquerito Multi-objectivo Continuo - IMC15
+Cabo Verde,CV,CPV,132,National,14,Other improved,0.0,Inquerito Multi-objectivo Continuo - IMC15
+Cabo Verde,CV,CPV,132,National,15,"No facility, bush, field",0.225,Inquerito Multi-objectivo Continuo - IMC15
+Cabo Verde,CV,CPV,132,National,16,Other unimproved,0.0,Inquerito Multi-objectivo Continuo - IMC15
+Cabo Verde,CV,CPV,132,National,17,DK/missing information,0.0,Inquerito Multi-objectivo Continuo - IMC15
 Cabo Verde,CV,CPV,132,Urban,1,Flush and pour flush - to piped sewer system,0.352,Inquerito Multi-objectivo Continuo - IMC16
 Cabo Verde,CV,CPV,132,Urban,2,Flush and pour flush - to septic tank,0.522,Inquerito Multi-objectivo Continuo - IMC16
 Cabo Verde,CV,CPV,132,Urban,3,Flush and pour flush - to pit,0.004,Inquerito Multi-objectivo Continuo - IMC16
@@ -169,6 +543,23 @@ Cabo Verde,CV,CPV,132,Rural,14,Other improved,0.0,Inquerito Multi-objectivo Cont
 Cabo Verde,CV,CPV,132,Rural,15,"No facility, bush, field",0.351,Inquerito Multi-objectivo Continuo - IMC16
 Cabo Verde,CV,CPV,132,Rural,16,Other unimproved,0.0,Inquerito Multi-objectivo Continuo - IMC16
 Cabo Verde,CV,CPV,132,Rural,17,DK/missing information,0.0,Inquerito Multi-objectivo Continuo - IMC16
+Cabo Verde,CV,CPV,132,National,1,Flush and pour flush - to piped sewer system,0.245,Inquerito Multi-objectivo Continuo - IMC16
+Cabo Verde,CV,CPV,132,National,2,Flush and pour flush - to septic tank,0.553,Inquerito Multi-objectivo Continuo - IMC16
+Cabo Verde,CV,CPV,132,National,3,Flush and pour flush - to pit,0.004,Inquerito Multi-objectivo Continuo - IMC16
+Cabo Verde,CV,CPV,132,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Inquerito Multi-objectivo Continuo - IMC16
+Cabo Verde,CV,CPV,132,National,5,Flush and pour flush - to elsewhere,0.0,Inquerito Multi-objectivo Continuo - IMC16
+Cabo Verde,CV,CPV,132,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Inquerito Multi-objectivo Continuo - IMC16
+Cabo Verde,CV,CPV,132,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Inquerito Multi-objectivo Continuo - IMC16
+Cabo Verde,CV,CPV,132,National,8,Dry latrines - Traditional latrine,0.002,Inquerito Multi-objectivo Continuo - IMC16
+Cabo Verde,CV,CPV,132,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Inquerito Multi-objectivo Continuo - IMC16
+Cabo Verde,CV,CPV,132,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Inquerito Multi-objectivo Continuo - IMC16
+Cabo Verde,CV,CPV,132,National,11,Dry latrines - Bucket latrine,0.0,Inquerito Multi-objectivo Continuo - IMC16
+Cabo Verde,CV,CPV,132,National,12,Dry latrines - Other,0.0,Inquerito Multi-objectivo Continuo - IMC16
+Cabo Verde,CV,CPV,132,National,13,Composting toilets,0.0,Inquerito Multi-objectivo Continuo - IMC16
+Cabo Verde,CV,CPV,132,National,14,Other improved,0.0,Inquerito Multi-objectivo Continuo - IMC16
+Cabo Verde,CV,CPV,132,National,15,"No facility, bush, field",0.197,Inquerito Multi-objectivo Continuo - IMC16
+Cabo Verde,CV,CPV,132,National,16,Other unimproved,0.0,Inquerito Multi-objectivo Continuo - IMC16
+Cabo Verde,CV,CPV,132,National,17,DK/missing information,0.0,Inquerito Multi-objectivo Continuo - IMC16
 Cabo Verde,CV,CPV,132,Urban,1,Flush and pour flush - to piped sewer system,0.366,Inquerito Multi-objectivo Continuo - IMC17
 Cabo Verde,CV,CPV,132,Urban,2,Flush and pour flush - to septic tank,0.503,Inquerito Multi-objectivo Continuo - IMC17
 Cabo Verde,CV,CPV,132,Urban,3,Flush and pour flush - to pit,0.002,Inquerito Multi-objectivo Continuo - IMC17
@@ -203,3 +594,20 @@ Cabo Verde,CV,CPV,132,Rural,14,Other improved,0.0,Inquerito Multi-objectivo Cont
 Cabo Verde,CV,CPV,132,Rural,15,"No facility, bush, field",0.329,Inquerito Multi-objectivo Continuo - IMC17
 Cabo Verde,CV,CPV,132,Rural,16,Other unimproved,0.0,Inquerito Multi-objectivo Continuo - IMC17
 Cabo Verde,CV,CPV,132,Rural,17,DK/missing information,0.0,Inquerito Multi-objectivo Continuo - IMC17
+Cabo Verde,CV,CPV,132,National,1,Flush and pour flush - to piped sewer system,0.247,Inquerito Multi-objectivo Continuo - IMC17
+Cabo Verde,CV,CPV,132,National,2,Flush and pour flush - to septic tank,0.554,Inquerito Multi-objectivo Continuo - IMC17
+Cabo Verde,CV,CPV,132,National,3,Flush and pour flush - to pit,0.004,Inquerito Multi-objectivo Continuo - IMC17
+Cabo Verde,CV,CPV,132,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Inquerito Multi-objectivo Continuo - IMC17
+Cabo Verde,CV,CPV,132,National,5,Flush and pour flush - to elsewhere,0.001,Inquerito Multi-objectivo Continuo - IMC17
+Cabo Verde,CV,CPV,132,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Inquerito Multi-objectivo Continuo - IMC17
+Cabo Verde,CV,CPV,132,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Inquerito Multi-objectivo Continuo - IMC17
+Cabo Verde,CV,CPV,132,National,8,Dry latrines - Traditional latrine,0.001,Inquerito Multi-objectivo Continuo - IMC17
+Cabo Verde,CV,CPV,132,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Inquerito Multi-objectivo Continuo - IMC17
+Cabo Verde,CV,CPV,132,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Inquerito Multi-objectivo Continuo - IMC17
+Cabo Verde,CV,CPV,132,National,11,Dry latrines - Bucket latrine,0.0,Inquerito Multi-objectivo Continuo - IMC17
+Cabo Verde,CV,CPV,132,National,12,Dry latrines - Other,0.0,Inquerito Multi-objectivo Continuo - IMC17
+Cabo Verde,CV,CPV,132,National,13,Composting toilets,0.0,Inquerito Multi-objectivo Continuo - IMC17
+Cabo Verde,CV,CPV,132,National,14,Other improved,0.0,Inquerito Multi-objectivo Continuo - IMC17
+Cabo Verde,CV,CPV,132,National,15,"No facility, bush, field",0.191,Inquerito Multi-objectivo Continuo - IMC17
+Cabo Verde,CV,CPV,132,National,16,Other unimproved,0.0,Inquerito Multi-objectivo Continuo - IMC17
+Cabo Verde,CV,CPV,132,National,17,DK/missing information,0.0,Inquerito Multi-objectivo Continuo - IMC17

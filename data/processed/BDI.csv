@@ -1,4 +1,61 @@
 country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+Burundi,BI,BDI,108,Urban,1,Flush and pour flush - to piped sewer system,0.194,Enquete Nationale d'Evaluation des Conditions de vie de l'enfant et de la Femme - ENECEF00
+Burundi,BI,BDI,108,Urban,2,Flush and pour flush - to septic tank,0.0,Enquete Nationale d'Evaluation des Conditions de vie de l'enfant et de la Femme - ENECEF00
+Burundi,BI,BDI,108,Urban,3,Flush and pour flush - to pit,0.0,Enquete Nationale d'Evaluation des Conditions de vie de l'enfant et de la Femme - ENECEF00
+Burundi,BI,BDI,108,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.125,Enquete Nationale d'Evaluation des Conditions de vie de l'enfant et de la Femme - ENECEF00
+Burundi,BI,BDI,108,Urban,5,Flush and pour flush - to elsewhere,0.0,Enquete Nationale d'Evaluation des Conditions de vie de l'enfant et de la Femme - ENECEF00
+Burundi,BI,BDI,108,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.042,Enquete Nationale d'Evaluation des Conditions de vie de l'enfant et de la Femme - ENECEF00
+Burundi,BI,BDI,108,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.034,Enquete Nationale d'Evaluation des Conditions de vie de l'enfant et de la Femme - ENECEF00
+Burundi,BI,BDI,108,Urban,8,Dry latrines - Traditional latrine,0.523,Enquete Nationale d'Evaluation des Conditions de vie de l'enfant et de la Femme - ENECEF00
+Burundi,BI,BDI,108,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.044,Enquete Nationale d'Evaluation des Conditions de vie de l'enfant et de la Femme - ENECEF00
+Burundi,BI,BDI,108,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.034,Enquete Nationale d'Evaluation des Conditions de vie de l'enfant et de la Femme - ENECEF00
+Burundi,BI,BDI,108,Urban,8,Dry latrines - Traditional latrine,0.0,Enquete Nationale d'Evaluation des Conditions de vie de l'enfant et de la Femme - ENECEF00
+Burundi,BI,BDI,108,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Enquete Nationale d'Evaluation des Conditions de vie de l'enfant et de la Femme - ENECEF00
+Burundi,BI,BDI,108,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquete Nationale d'Evaluation des Conditions de vie de l'enfant et de la Femme - ENECEF00
+Burundi,BI,BDI,108,Urban,11,Dry latrines - Bucket latrine,0.0,Enquete Nationale d'Evaluation des Conditions de vie de l'enfant et de la Femme - ENECEF00
+Burundi,BI,BDI,108,Urban,12,Dry latrines - Other,0.0,Enquete Nationale d'Evaluation des Conditions de vie de l'enfant et de la Femme - ENECEF00
+Burundi,BI,BDI,108,Urban,13,Composting toilets,0.0,Enquete Nationale d'Evaluation des Conditions de vie de l'enfant et de la Femme - ENECEF00
+Burundi,BI,BDI,108,Urban,14,Other improved,0.0,Enquete Nationale d'Evaluation des Conditions de vie de l'enfant et de la Femme - ENECEF00
+Burundi,BI,BDI,108,Urban,15,"No facility, bush, field",0.024,Enquete Nationale d'Evaluation des Conditions de vie de l'enfant et de la Femme - ENECEF00
+Burundi,BI,BDI,108,Urban,16,Other unimproved,0.014,Enquete Nationale d'Evaluation des Conditions de vie de l'enfant et de la Femme - ENECEF00
+Burundi,BI,BDI,108,Urban,17,DK/missing information,0.0,Enquete Nationale d'Evaluation des Conditions de vie de l'enfant et de la Femme - ENECEF00
+Burundi,BI,BDI,108,Rural,1,Flush and pour flush - to piped sewer system,0.007,Enquete Nationale d'Evaluation des Conditions de vie de l'enfant et de la Femme - ENECEF00
+Burundi,BI,BDI,108,Rural,2,Flush and pour flush - to septic tank,0.0,Enquete Nationale d'Evaluation des Conditions de vie de l'enfant et de la Femme - ENECEF00
+Burundi,BI,BDI,108,Rural,3,Flush and pour flush - to pit,0.0,Enquete Nationale d'Evaluation des Conditions de vie de l'enfant et de la Femme - ENECEF00
+Burundi,BI,BDI,108,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.002,Enquete Nationale d'Evaluation des Conditions de vie de l'enfant et de la Femme - ENECEF00
+Burundi,BI,BDI,108,Rural,5,Flush and pour flush - to elsewhere,0.0,Enquete Nationale d'Evaluation des Conditions de vie de l'enfant et de la Femme - ENECEF00
+Burundi,BI,BDI,108,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.009,Enquete Nationale d'Evaluation des Conditions de vie de l'enfant et de la Femme - ENECEF00
+Burundi,BI,BDI,108,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.029,Enquete Nationale d'Evaluation des Conditions de vie de l'enfant et de la Femme - ENECEF00
+Burundi,BI,BDI,108,Rural,8,Dry latrines - Traditional latrine,0.745,Enquete Nationale d'Evaluation des Conditions de vie de l'enfant et de la Femme - ENECEF00
+Burundi,BI,BDI,108,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.175,Enquete Nationale d'Evaluation des Conditions de vie de l'enfant et de la Femme - ENECEF00
+Burundi,BI,BDI,108,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.029,Enquete Nationale d'Evaluation des Conditions de vie de l'enfant et de la Femme - ENECEF00
+Burundi,BI,BDI,108,Rural,8,Dry latrines - Traditional latrine,0.0,Enquete Nationale d'Evaluation des Conditions de vie de l'enfant et de la Femme - ENECEF00
+Burundi,BI,BDI,108,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Enquete Nationale d'Evaluation des Conditions de vie de l'enfant et de la Femme - ENECEF00
+Burundi,BI,BDI,108,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquete Nationale d'Evaluation des Conditions de vie de l'enfant et de la Femme - ENECEF00
+Burundi,BI,BDI,108,Rural,11,Dry latrines - Bucket latrine,0.0,Enquete Nationale d'Evaluation des Conditions de vie de l'enfant et de la Femme - ENECEF00
+Burundi,BI,BDI,108,Rural,12,Dry latrines - Other,0.0,Enquete Nationale d'Evaluation des Conditions de vie de l'enfant et de la Femme - ENECEF00
+Burundi,BI,BDI,108,Rural,13,Composting toilets,0.0,Enquete Nationale d'Evaluation des Conditions de vie de l'enfant et de la Femme - ENECEF00
+Burundi,BI,BDI,108,Rural,14,Other improved,0.0,Enquete Nationale d'Evaluation des Conditions de vie de l'enfant et de la Femme - ENECEF00
+Burundi,BI,BDI,108,Rural,15,"No facility, bush, field",0.028,Enquete Nationale d'Evaluation des Conditions de vie de l'enfant et de la Femme - ENECEF00
+Burundi,BI,BDI,108,Rural,16,Other unimproved,0.004,Enquete Nationale d'Evaluation des Conditions de vie de l'enfant et de la Femme - ENECEF00
+Burundi,BI,BDI,108,Rural,17,DK/missing information,0.0,Enquete Nationale d'Evaluation des Conditions de vie de l'enfant et de la Femme - ENECEF00
+Burundi,BI,BDI,108,National,1,Flush and pour flush - to piped sewer system,0.0,Enquete Nationale d'Evaluation des Conditions de vie de l'enfant et de la Femme - ENECEF00
+Burundi,BI,BDI,108,National,2,Flush and pour flush - to septic tank,0.0,Enquete Nationale d'Evaluation des Conditions de vie de l'enfant et de la Femme - ENECEF00
+Burundi,BI,BDI,108,National,3,Flush and pour flush - to pit,0.0,Enquete Nationale d'Evaluation des Conditions de vie de l'enfant et de la Femme - ENECEF00
+Burundi,BI,BDI,108,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquete Nationale d'Evaluation des Conditions de vie de l'enfant et de la Femme - ENECEF00
+Burundi,BI,BDI,108,National,5,Flush and pour flush - to elsewhere,0.0,Enquete Nationale d'Evaluation des Conditions de vie de l'enfant et de la Femme - ENECEF00
+Burundi,BI,BDI,108,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Enquete Nationale d'Evaluation des Conditions de vie de l'enfant et de la Femme - ENECEF00
+Burundi,BI,BDI,108,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Enquete Nationale d'Evaluation des Conditions de vie de l'enfant et de la Femme - ENECEF00
+Burundi,BI,BDI,108,National,8,Dry latrines - Traditional latrine,0.0,Enquete Nationale d'Evaluation des Conditions de vie de l'enfant et de la Femme - ENECEF00
+Burundi,BI,BDI,108,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Enquete Nationale d'Evaluation des Conditions de vie de l'enfant et de la Femme - ENECEF00
+Burundi,BI,BDI,108,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquete Nationale d'Evaluation des Conditions de vie de l'enfant et de la Femme - ENECEF00
+Burundi,BI,BDI,108,National,11,Dry latrines - Bucket latrine,0.0,Enquete Nationale d'Evaluation des Conditions de vie de l'enfant et de la Femme - ENECEF00
+Burundi,BI,BDI,108,National,12,Dry latrines - Other,0.0,Enquete Nationale d'Evaluation des Conditions de vie de l'enfant et de la Femme - ENECEF00
+Burundi,BI,BDI,108,National,13,Composting toilets,0.0,Enquete Nationale d'Evaluation des Conditions de vie de l'enfant et de la Femme - ENECEF00
+Burundi,BI,BDI,108,National,14,Other improved,0.0,Enquete Nationale d'Evaluation des Conditions de vie de l'enfant et de la Femme - ENECEF00
+Burundi,BI,BDI,108,National,15,"No facility, bush, field",0.0,Enquete Nationale d'Evaluation des Conditions de vie de l'enfant et de la Femme - ENECEF00
+Burundi,BI,BDI,108,National,16,Other unimproved,0.0,Enquete Nationale d'Evaluation des Conditions de vie de l'enfant et de la Femme - ENECEF00
+Burundi,BI,BDI,108,National,17,DK/missing information,0.0,Enquete Nationale d'Evaluation des Conditions de vie de l'enfant et de la Femme - ENECEF00
 Burundi,BI,BDI,108,Urban,1,Flush and pour flush - to piped sewer system,0.117,Multiple Indicator Cluster Survey - MICS05
 Burundi,BI,BDI,108,Urban,2,Flush and pour flush - to septic tank,0.181,Multiple Indicator Cluster Survey - MICS05
 Burundi,BI,BDI,108,Urban,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS05
@@ -33,6 +90,23 @@ Burundi,BI,BDI,108,Rural,14,Other improved,0.0,Multiple Indicator Cluster Survey
 Burundi,BI,BDI,108,Rural,15,"No facility, bush, field",0.01,Multiple Indicator Cluster Survey - MICS05
 Burundi,BI,BDI,108,Rural,16,Other unimproved,0.001,Multiple Indicator Cluster Survey - MICS05
 Burundi,BI,BDI,108,Rural,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS05
+Burundi,BI,BDI,108,National,1,Flush and pour flush - to piped sewer system,0.0,Multiple Indicator Cluster Survey - MICS05
+Burundi,BI,BDI,108,National,2,Flush and pour flush - to septic tank,0.0,Multiple Indicator Cluster Survey - MICS05
+Burundi,BI,BDI,108,National,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS05
+Burundi,BI,BDI,108,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS05
+Burundi,BI,BDI,108,National,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS05
+Burundi,BI,BDI,108,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Multiple Indicator Cluster Survey - MICS05
+Burundi,BI,BDI,108,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Multiple Indicator Cluster Survey - MICS05
+Burundi,BI,BDI,108,National,8,Dry latrines - Traditional latrine,0.0,Multiple Indicator Cluster Survey - MICS05
+Burundi,BI,BDI,108,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Multiple Indicator Cluster Survey - MICS05
+Burundi,BI,BDI,108,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS05
+Burundi,BI,BDI,108,National,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS05
+Burundi,BI,BDI,108,National,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS05
+Burundi,BI,BDI,108,National,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS05
+Burundi,BI,BDI,108,National,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS05
+Burundi,BI,BDI,108,National,15,"No facility, bush, field",0.0,Multiple Indicator Cluster Survey - MICS05
+Burundi,BI,BDI,108,National,16,Other unimproved,0.0,Multiple Indicator Cluster Survey - MICS05
+Burundi,BI,BDI,108,National,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS05
 Burundi,BI,BDI,108,Urban,1,Flush and pour flush - to piped sewer system,0.083,Questionnaire des Indicateurs de Base du Bien Etre - QUIBB06
 Burundi,BI,BDI,108,Urban,2,Flush and pour flush - to septic tank,0.133,Questionnaire des Indicateurs de Base du Bien Etre - QUIBB06
 Burundi,BI,BDI,108,Urban,3,Flush and pour flush - to pit,0.0,Questionnaire des Indicateurs de Base du Bien Etre - QUIBB06
@@ -67,6 +141,23 @@ Burundi,BI,BDI,108,Rural,14,Other improved,0.0,Questionnaire des Indicateurs de 
 Burundi,BI,BDI,108,Rural,15,"No facility, bush, field",0.042,Questionnaire des Indicateurs de Base du Bien Etre - QUIBB06
 Burundi,BI,BDI,108,Rural,16,Other unimproved,0.001,Questionnaire des Indicateurs de Base du Bien Etre - QUIBB06
 Burundi,BI,BDI,108,Rural,17,DK/missing information,0.004,Questionnaire des Indicateurs de Base du Bien Etre - QUIBB06
+Burundi,BI,BDI,108,National,1,Flush and pour flush - to piped sewer system,0.006,Questionnaire des Indicateurs de Base du Bien Etre - QUIBB06
+Burundi,BI,BDI,108,National,2,Flush and pour flush - to septic tank,0.009,Questionnaire des Indicateurs de Base du Bien Etre - QUIBB06
+Burundi,BI,BDI,108,National,3,Flush and pour flush - to pit,0.0,Questionnaire des Indicateurs de Base du Bien Etre - QUIBB06
+Burundi,BI,BDI,108,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Questionnaire des Indicateurs de Base du Bien Etre - QUIBB06
+Burundi,BI,BDI,108,National,5,Flush and pour flush - to elsewhere,0.0,Questionnaire des Indicateurs de Base du Bien Etre - QUIBB06
+Burundi,BI,BDI,108,National,6,Dry latrines - Ventilated Improved Pit latrine,0.009,Questionnaire des Indicateurs de Base du Bien Etre - QUIBB06
+Burundi,BI,BDI,108,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.266,Questionnaire des Indicateurs de Base du Bien Etre - QUIBB06
+Burundi,BI,BDI,108,National,8,Dry latrines - Traditional latrine,0.0,Questionnaire des Indicateurs de Base du Bien Etre - QUIBB06
+Burundi,BI,BDI,108,National,9,Dry latrines - Pit latrine without slab/open pit,0.641,Questionnaire des Indicateurs de Base du Bien Etre - QUIBB06
+Burundi,BI,BDI,108,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Questionnaire des Indicateurs de Base du Bien Etre - QUIBB06
+Burundi,BI,BDI,108,National,11,Dry latrines - Bucket latrine,0.0,Questionnaire des Indicateurs de Base du Bien Etre - QUIBB06
+Burundi,BI,BDI,108,National,12,Dry latrines - Other,0.0,Questionnaire des Indicateurs de Base du Bien Etre - QUIBB06
+Burundi,BI,BDI,108,National,13,Composting toilets,0.023,Questionnaire des Indicateurs de Base du Bien Etre - QUIBB06
+Burundi,BI,BDI,108,National,14,Other improved,0.0,Questionnaire des Indicateurs de Base du Bien Etre - QUIBB06
+Burundi,BI,BDI,108,National,15,"No facility, bush, field",0.041,Questionnaire des Indicateurs de Base du Bien Etre - QUIBB06
+Burundi,BI,BDI,108,National,16,Other unimproved,0.001,Questionnaire des Indicateurs de Base du Bien Etre - QUIBB06
+Burundi,BI,BDI,108,National,17,DK/missing information,0.004,Questionnaire des Indicateurs de Base du Bien Etre - QUIBB06
 Burundi,BI,BDI,108,Urban,1,Flush and pour flush - to piped sewer system,0.076,Measure DHS - DHS10
 Burundi,BI,BDI,108,Urban,2,Flush and pour flush - to septic tank,0.178,Measure DHS - DHS10
 Burundi,BI,BDI,108,Urban,3,Flush and pour flush - to pit,0.007,Measure DHS - DHS10
@@ -101,6 +192,23 @@ Burundi,BI,BDI,108,Rural,14,Other improved,0.0,Measure DHS - DHS10
 Burundi,BI,BDI,108,Rural,15,"No facility, bush, field",0.042,Measure DHS - DHS10
 Burundi,BI,BDI,108,Rural,16,Other unimproved,0.002,Measure DHS - DHS10
 Burundi,BI,BDI,108,Rural,17,DK/missing information,0.0,Measure DHS - DHS10
+Burundi,BI,BDI,108,National,1,Flush and pour flush - to piped sewer system,0.007,Measure DHS - DHS10
+Burundi,BI,BDI,108,National,2,Flush and pour flush - to septic tank,0.017,Measure DHS - DHS10
+Burundi,BI,BDI,108,National,3,Flush and pour flush - to pit,0.001,Measure DHS - DHS10
+Burundi,BI,BDI,108,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Measure DHS - DHS10
+Burundi,BI,BDI,108,National,5,Flush and pour flush - to elsewhere,0.0,Measure DHS - DHS10
+Burundi,BI,BDI,108,National,6,Dry latrines - Ventilated Improved Pit latrine,0.005,Measure DHS - DHS10
+Burundi,BI,BDI,108,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.368,Measure DHS - DHS10
+Burundi,BI,BDI,108,National,8,Dry latrines - Traditional latrine,0.0,Measure DHS - DHS10
+Burundi,BI,BDI,108,National,9,Dry latrines - Pit latrine without slab/open pit,0.559,Measure DHS - DHS10
+Burundi,BI,BDI,108,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Measure DHS - DHS10
+Burundi,BI,BDI,108,National,11,Dry latrines - Bucket latrine,0.0,Measure DHS - DHS10
+Burundi,BI,BDI,108,National,12,Dry latrines - Other,0.0,Measure DHS - DHS10
+Burundi,BI,BDI,108,National,13,Composting toilets,0.001,Measure DHS - DHS10
+Burundi,BI,BDI,108,National,14,Other improved,0.0,Measure DHS - DHS10
+Burundi,BI,BDI,108,National,15,"No facility, bush, field",0.04,Measure DHS - DHS10
+Burundi,BI,BDI,108,National,16,Other unimproved,0.002,Measure DHS - DHS10
+Burundi,BI,BDI,108,National,17,DK/missing information,0.0,Measure DHS - DHS10
 Burundi,BI,BDI,108,Urban,1,Flush and pour flush - to piped sewer system,0.112,Enquête sur les Indicateurs du Paludisme Burundi 2012 - MIS12
 Burundi,BI,BDI,108,Urban,2,Flush and pour flush - to septic tank,0.214,Enquête sur les Indicateurs du Paludisme Burundi 2012 - MIS12
 Burundi,BI,BDI,108,Urban,3,Flush and pour flush - to pit,0.017,Enquête sur les Indicateurs du Paludisme Burundi 2012 - MIS12
@@ -135,6 +243,23 @@ Burundi,BI,BDI,108,Rural,14,Other improved,0.0,Enquête sur les Indicateurs du P
 Burundi,BI,BDI,108,Rural,15,"No facility, bush, field",0.026,Enquête sur les Indicateurs du Paludisme Burundi 2012 - MIS12
 Burundi,BI,BDI,108,Rural,16,Other unimproved,0.0,Enquête sur les Indicateurs du Paludisme Burundi 2012 - MIS12
 Burundi,BI,BDI,108,Rural,17,DK/missing information,0.0,Enquête sur les Indicateurs du Paludisme Burundi 2012 - MIS12
+Burundi,BI,BDI,108,National,1,Flush and pour flush - to piped sewer system,0.011,Enquête sur les Indicateurs du Paludisme Burundi 2012 - MIS12
+Burundi,BI,BDI,108,National,2,Flush and pour flush - to septic tank,0.021,Enquête sur les Indicateurs du Paludisme Burundi 2012 - MIS12
+Burundi,BI,BDI,108,National,3,Flush and pour flush - to pit,0.003,Enquête sur les Indicateurs du Paludisme Burundi 2012 - MIS12
+Burundi,BI,BDI,108,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquête sur les Indicateurs du Paludisme Burundi 2012 - MIS12
+Burundi,BI,BDI,108,National,5,Flush and pour flush - to elsewhere,0.0,Enquête sur les Indicateurs du Paludisme Burundi 2012 - MIS12
+Burundi,BI,BDI,108,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Enquête sur les Indicateurs du Paludisme Burundi 2012 - MIS12
+Burundi,BI,BDI,108,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.07,Enquête sur les Indicateurs du Paludisme Burundi 2012 - MIS12
+Burundi,BI,BDI,108,National,8,Dry latrines - Traditional latrine,0.0,Enquête sur les Indicateurs du Paludisme Burundi 2012 - MIS12
+Burundi,BI,BDI,108,National,9,Dry latrines - Pit latrine without slab/open pit,0.22,Enquête sur les Indicateurs du Paludisme Burundi 2012 - MIS12
+Burundi,BI,BDI,108,National,10,Dry latrines - Hanging toilet/hanging latrine,0.003,Enquête sur les Indicateurs du Paludisme Burundi 2012 - MIS12
+Burundi,BI,BDI,108,National,11,Dry latrines - Bucket latrine,0.0,Enquête sur les Indicateurs du Paludisme Burundi 2012 - MIS12
+Burundi,BI,BDI,108,National,12,Dry latrines - Other,0.648,Enquête sur les Indicateurs du Paludisme Burundi 2012 - MIS12
+Burundi,BI,BDI,108,National,13,Composting toilets,0.0,Enquête sur les Indicateurs du Paludisme Burundi 2012 - MIS12
+Burundi,BI,BDI,108,National,14,Other improved,0.0,Enquête sur les Indicateurs du Paludisme Burundi 2012 - MIS12
+Burundi,BI,BDI,108,National,15,"No facility, bush, field",0.024,Enquête sur les Indicateurs du Paludisme Burundi 2012 - MIS12
+Burundi,BI,BDI,108,National,16,Other unimproved,0.0,Enquête sur les Indicateurs du Paludisme Burundi 2012 - MIS12
+Burundi,BI,BDI,108,National,17,DK/missing information,0.0,Enquête sur les Indicateurs du Paludisme Burundi 2012 - MIS12
 Burundi,BI,BDI,108,Urban,1,Flush and pour flush - to piped sewer system,0.032,"Demographic and Health Survey, 2016-2017 - DHS17"
 Burundi,BI,BDI,108,Urban,2,Flush and pour flush - to septic tank,0.275,"Demographic and Health Survey, 2016-2017 - DHS17"
 Burundi,BI,BDI,108,Urban,3,Flush and pour flush - to pit,0.017,"Demographic and Health Survey, 2016-2017 - DHS17"
@@ -169,3 +294,20 @@ Burundi,BI,BDI,108,Rural,14,Other improved,0.0,"Demographic and Health Survey, 2
 Burundi,BI,BDI,108,Rural,15,"No facility, bush, field",0.024,"Demographic and Health Survey, 2016-2017 - DHS17"
 Burundi,BI,BDI,108,Rural,16,Other unimproved,0.0,"Demographic and Health Survey, 2016-2017 - DHS17"
 Burundi,BI,BDI,108,Rural,17,DK/missing information,0.0,"Demographic and Health Survey, 2016-2017 - DHS17"
+Burundi,BI,BDI,108,National,1,Flush and pour flush - to piped sewer system,0.004,"Demographic and Health Survey, 2016-2017 - DHS17"
+Burundi,BI,BDI,108,National,2,Flush and pour flush - to septic tank,0.033,"Demographic and Health Survey, 2016-2017 - DHS17"
+Burundi,BI,BDI,108,National,3,Flush and pour flush - to pit,0.002,"Demographic and Health Survey, 2016-2017 - DHS17"
+Burundi,BI,BDI,108,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Demographic and Health Survey, 2016-2017 - DHS17"
+Burundi,BI,BDI,108,National,5,Flush and pour flush - to elsewhere,0.0,"Demographic and Health Survey, 2016-2017 - DHS17"
+Burundi,BI,BDI,108,National,6,Dry latrines - Ventilated Improved Pit latrine,0.003,"Demographic and Health Survey, 2016-2017 - DHS17"
+Burundi,BI,BDI,108,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.48,"Demographic and Health Survey, 2016-2017 - DHS17"
+Burundi,BI,BDI,108,National,8,Dry latrines - Traditional latrine,0.0,"Demographic and Health Survey, 2016-2017 - DHS17"
+Burundi,BI,BDI,108,National,9,Dry latrines - Pit latrine without slab/open pit,0.452,"Demographic and Health Survey, 2016-2017 - DHS17"
+Burundi,BI,BDI,108,National,10,Dry latrines - Hanging toilet/hanging latrine,0.001,"Demographic and Health Survey, 2016-2017 - DHS17"
+Burundi,BI,BDI,108,National,11,Dry latrines - Bucket latrine,0.0,"Demographic and Health Survey, 2016-2017 - DHS17"
+Burundi,BI,BDI,108,National,12,Dry latrines - Other,0.0,"Demographic and Health Survey, 2016-2017 - DHS17"
+Burundi,BI,BDI,108,National,13,Composting toilets,0.002,"Demographic and Health Survey, 2016-2017 - DHS17"
+Burundi,BI,BDI,108,National,14,Other improved,0.0,"Demographic and Health Survey, 2016-2017 - DHS17"
+Burundi,BI,BDI,108,National,15,"No facility, bush, field",0.022,"Demographic and Health Survey, 2016-2017 - DHS17"
+Burundi,BI,BDI,108,National,16,Other unimproved,0.0,"Demographic and Health Survey, 2016-2017 - DHS17"
+Burundi,BI,BDI,108,National,17,DK/missing information,0.0,"Demographic and Health Survey, 2016-2017 - DHS17"

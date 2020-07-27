@@ -1,0 +1,919 @@
+country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+Russian Federation,RU,RUS,643,Urban,1,Flush and pour flush - to piped sewer system,0.829,Russia Longitudinal Monitoring Survey - RLMS00
+Russian Federation,RU,RUS,643,Urban,2,Flush and pour flush - to septic tank,0.0,Russia Longitudinal Monitoring Survey - RLMS00
+Russian Federation,RU,RUS,643,Urban,3,Flush and pour flush - to pit,0.0,Russia Longitudinal Monitoring Survey - RLMS00
+Russian Federation,RU,RUS,643,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Russia Longitudinal Monitoring Survey - RLMS00
+Russian Federation,RU,RUS,643,Urban,5,Flush and pour flush - to elsewhere,0.0,Russia Longitudinal Monitoring Survey - RLMS00
+Russian Federation,RU,RUS,643,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS00
+Russian Federation,RU,RUS,643,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS00
+Russian Federation,RU,RUS,643,Urban,8,Dry latrines - Traditional latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS00
+Russian Federation,RU,RUS,643,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Russia Longitudinal Monitoring Survey - RLMS00
+Russian Federation,RU,RUS,643,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS00
+Russian Federation,RU,RUS,643,Urban,11,Dry latrines - Bucket latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS00
+Russian Federation,RU,RUS,643,Urban,12,Dry latrines - Other,0.0,Russia Longitudinal Monitoring Survey - RLMS00
+Russian Federation,RU,RUS,643,Urban,13,Composting toilets,0.0,Russia Longitudinal Monitoring Survey - RLMS00
+Russian Federation,RU,RUS,643,Urban,14,Other improved,0.0,Russia Longitudinal Monitoring Survey - RLMS00
+Russian Federation,RU,RUS,643,Urban,15,"No facility, bush, field",0.0,Russia Longitudinal Monitoring Survey - RLMS00
+Russian Federation,RU,RUS,643,Urban,16,Other unimproved,0.0,Russia Longitudinal Monitoring Survey - RLMS00
+Russian Federation,RU,RUS,643,Urban,17,DK/missing information,0.0,Russia Longitudinal Monitoring Survey - RLMS00
+Russian Federation,RU,RUS,643,Rural,1,Flush and pour flush - to piped sewer system,0.21,Russia Longitudinal Monitoring Survey - RLMS00
+Russian Federation,RU,RUS,643,Rural,2,Flush and pour flush - to septic tank,0.0,Russia Longitudinal Monitoring Survey - RLMS00
+Russian Federation,RU,RUS,643,Rural,3,Flush and pour flush - to pit,0.0,Russia Longitudinal Monitoring Survey - RLMS00
+Russian Federation,RU,RUS,643,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Russia Longitudinal Monitoring Survey - RLMS00
+Russian Federation,RU,RUS,643,Rural,5,Flush and pour flush - to elsewhere,0.0,Russia Longitudinal Monitoring Survey - RLMS00
+Russian Federation,RU,RUS,643,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS00
+Russian Federation,RU,RUS,643,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS00
+Russian Federation,RU,RUS,643,Rural,8,Dry latrines - Traditional latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS00
+Russian Federation,RU,RUS,643,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Russia Longitudinal Monitoring Survey - RLMS00
+Russian Federation,RU,RUS,643,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS00
+Russian Federation,RU,RUS,643,Rural,11,Dry latrines - Bucket latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS00
+Russian Federation,RU,RUS,643,Rural,12,Dry latrines - Other,0.0,Russia Longitudinal Monitoring Survey - RLMS00
+Russian Federation,RU,RUS,643,Rural,13,Composting toilets,0.0,Russia Longitudinal Monitoring Survey - RLMS00
+Russian Federation,RU,RUS,643,Rural,14,Other improved,0.0,Russia Longitudinal Monitoring Survey - RLMS00
+Russian Federation,RU,RUS,643,Rural,15,"No facility, bush, field",0.0,Russia Longitudinal Monitoring Survey - RLMS00
+Russian Federation,RU,RUS,643,Rural,16,Other unimproved,0.0,Russia Longitudinal Monitoring Survey - RLMS00
+Russian Federation,RU,RUS,643,Rural,17,DK/missing information,0.0,Russia Longitudinal Monitoring Survey - RLMS00
+Russian Federation,RU,RUS,643,National,1,Flush and pour flush - to piped sewer system,0.0,Russia Longitudinal Monitoring Survey - RLMS00
+Russian Federation,RU,RUS,643,National,2,Flush and pour flush - to septic tank,0.0,Russia Longitudinal Monitoring Survey - RLMS00
+Russian Federation,RU,RUS,643,National,3,Flush and pour flush - to pit,0.0,Russia Longitudinal Monitoring Survey - RLMS00
+Russian Federation,RU,RUS,643,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Russia Longitudinal Monitoring Survey - RLMS00
+Russian Federation,RU,RUS,643,National,5,Flush and pour flush - to elsewhere,0.0,Russia Longitudinal Monitoring Survey - RLMS00
+Russian Federation,RU,RUS,643,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS00
+Russian Federation,RU,RUS,643,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS00
+Russian Federation,RU,RUS,643,National,8,Dry latrines - Traditional latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS00
+Russian Federation,RU,RUS,643,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Russia Longitudinal Monitoring Survey - RLMS00
+Russian Federation,RU,RUS,643,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS00
+Russian Federation,RU,RUS,643,National,11,Dry latrines - Bucket latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS00
+Russian Federation,RU,RUS,643,National,12,Dry latrines - Other,0.0,Russia Longitudinal Monitoring Survey - RLMS00
+Russian Federation,RU,RUS,643,National,13,Composting toilets,0.0,Russia Longitudinal Monitoring Survey - RLMS00
+Russian Federation,RU,RUS,643,National,14,Other improved,0.0,Russia Longitudinal Monitoring Survey - RLMS00
+Russian Federation,RU,RUS,643,National,15,"No facility, bush, field",0.0,Russia Longitudinal Monitoring Survey - RLMS00
+Russian Federation,RU,RUS,643,National,16,Other unimproved,0.0,Russia Longitudinal Monitoring Survey - RLMS00
+Russian Federation,RU,RUS,643,National,17,DK/missing information,0.0,Russia Longitudinal Monitoring Survey - RLMS00
+Russian Federation,RU,RUS,643,Urban,1,Flush and pour flush - to piped sewer system,0.856,Russia Longitudinal Monitoring Survey - RLMS01
+Russian Federation,RU,RUS,643,Urban,2,Flush and pour flush - to septic tank,0.0,Russia Longitudinal Monitoring Survey - RLMS01
+Russian Federation,RU,RUS,643,Urban,3,Flush and pour flush - to pit,0.0,Russia Longitudinal Monitoring Survey - RLMS01
+Russian Federation,RU,RUS,643,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Russia Longitudinal Monitoring Survey - RLMS01
+Russian Federation,RU,RUS,643,Urban,5,Flush and pour flush - to elsewhere,0.0,Russia Longitudinal Monitoring Survey - RLMS01
+Russian Federation,RU,RUS,643,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS01
+Russian Federation,RU,RUS,643,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS01
+Russian Federation,RU,RUS,643,Urban,8,Dry latrines - Traditional latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS01
+Russian Federation,RU,RUS,643,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Russia Longitudinal Monitoring Survey - RLMS01
+Russian Federation,RU,RUS,643,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS01
+Russian Federation,RU,RUS,643,Urban,11,Dry latrines - Bucket latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS01
+Russian Federation,RU,RUS,643,Urban,12,Dry latrines - Other,0.0,Russia Longitudinal Monitoring Survey - RLMS01
+Russian Federation,RU,RUS,643,Urban,13,Composting toilets,0.0,Russia Longitudinal Monitoring Survey - RLMS01
+Russian Federation,RU,RUS,643,Urban,14,Other improved,0.0,Russia Longitudinal Monitoring Survey - RLMS01
+Russian Federation,RU,RUS,643,Urban,15,"No facility, bush, field",0.0,Russia Longitudinal Monitoring Survey - RLMS01
+Russian Federation,RU,RUS,643,Urban,16,Other unimproved,0.0,Russia Longitudinal Monitoring Survey - RLMS01
+Russian Federation,RU,RUS,643,Urban,17,DK/missing information,0.0,Russia Longitudinal Monitoring Survey - RLMS01
+Russian Federation,RU,RUS,643,Rural,1,Flush and pour flush - to piped sewer system,0.216,Russia Longitudinal Monitoring Survey - RLMS01
+Russian Federation,RU,RUS,643,Rural,2,Flush and pour flush - to septic tank,0.0,Russia Longitudinal Monitoring Survey - RLMS01
+Russian Federation,RU,RUS,643,Rural,3,Flush and pour flush - to pit,0.0,Russia Longitudinal Monitoring Survey - RLMS01
+Russian Federation,RU,RUS,643,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Russia Longitudinal Monitoring Survey - RLMS01
+Russian Federation,RU,RUS,643,Rural,5,Flush and pour flush - to elsewhere,0.0,Russia Longitudinal Monitoring Survey - RLMS01
+Russian Federation,RU,RUS,643,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS01
+Russian Federation,RU,RUS,643,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS01
+Russian Federation,RU,RUS,643,Rural,8,Dry latrines - Traditional latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS01
+Russian Federation,RU,RUS,643,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Russia Longitudinal Monitoring Survey - RLMS01
+Russian Federation,RU,RUS,643,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS01
+Russian Federation,RU,RUS,643,Rural,11,Dry latrines - Bucket latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS01
+Russian Federation,RU,RUS,643,Rural,12,Dry latrines - Other,0.0,Russia Longitudinal Monitoring Survey - RLMS01
+Russian Federation,RU,RUS,643,Rural,13,Composting toilets,0.0,Russia Longitudinal Monitoring Survey - RLMS01
+Russian Federation,RU,RUS,643,Rural,14,Other improved,0.0,Russia Longitudinal Monitoring Survey - RLMS01
+Russian Federation,RU,RUS,643,Rural,15,"No facility, bush, field",0.0,Russia Longitudinal Monitoring Survey - RLMS01
+Russian Federation,RU,RUS,643,Rural,16,Other unimproved,0.0,Russia Longitudinal Monitoring Survey - RLMS01
+Russian Federation,RU,RUS,643,Rural,17,DK/missing information,0.0,Russia Longitudinal Monitoring Survey - RLMS01
+Russian Federation,RU,RUS,643,National,1,Flush and pour flush - to piped sewer system,0.0,Russia Longitudinal Monitoring Survey - RLMS01
+Russian Federation,RU,RUS,643,National,2,Flush and pour flush - to septic tank,0.0,Russia Longitudinal Monitoring Survey - RLMS01
+Russian Federation,RU,RUS,643,National,3,Flush and pour flush - to pit,0.0,Russia Longitudinal Monitoring Survey - RLMS01
+Russian Federation,RU,RUS,643,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Russia Longitudinal Monitoring Survey - RLMS01
+Russian Federation,RU,RUS,643,National,5,Flush and pour flush - to elsewhere,0.0,Russia Longitudinal Monitoring Survey - RLMS01
+Russian Federation,RU,RUS,643,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS01
+Russian Federation,RU,RUS,643,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS01
+Russian Federation,RU,RUS,643,National,8,Dry latrines - Traditional latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS01
+Russian Federation,RU,RUS,643,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Russia Longitudinal Monitoring Survey - RLMS01
+Russian Federation,RU,RUS,643,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS01
+Russian Federation,RU,RUS,643,National,11,Dry latrines - Bucket latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS01
+Russian Federation,RU,RUS,643,National,12,Dry latrines - Other,0.0,Russia Longitudinal Monitoring Survey - RLMS01
+Russian Federation,RU,RUS,643,National,13,Composting toilets,0.0,Russia Longitudinal Monitoring Survey - RLMS01
+Russian Federation,RU,RUS,643,National,14,Other improved,0.0,Russia Longitudinal Monitoring Survey - RLMS01
+Russian Federation,RU,RUS,643,National,15,"No facility, bush, field",0.0,Russia Longitudinal Monitoring Survey - RLMS01
+Russian Federation,RU,RUS,643,National,16,Other unimproved,0.0,Russia Longitudinal Monitoring Survey - RLMS01
+Russian Federation,RU,RUS,643,National,17,DK/missing information,0.0,Russia Longitudinal Monitoring Survey - RLMS01
+Russian Federation,RU,RUS,643,Urban,1,Flush and pour flush - to piped sewer system,0.86,Russia Longitudinal Monitoring Survey - RLMS02
+Russian Federation,RU,RUS,643,Urban,2,Flush and pour flush - to septic tank,0.0,Russia Longitudinal Monitoring Survey - RLMS02
+Russian Federation,RU,RUS,643,Urban,3,Flush and pour flush - to pit,0.0,Russia Longitudinal Monitoring Survey - RLMS02
+Russian Federation,RU,RUS,643,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Russia Longitudinal Monitoring Survey - RLMS02
+Russian Federation,RU,RUS,643,Urban,5,Flush and pour flush - to elsewhere,0.0,Russia Longitudinal Monitoring Survey - RLMS02
+Russian Federation,RU,RUS,643,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS02
+Russian Federation,RU,RUS,643,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS02
+Russian Federation,RU,RUS,643,Urban,8,Dry latrines - Traditional latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS02
+Russian Federation,RU,RUS,643,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Russia Longitudinal Monitoring Survey - RLMS02
+Russian Federation,RU,RUS,643,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS02
+Russian Federation,RU,RUS,643,Urban,11,Dry latrines - Bucket latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS02
+Russian Federation,RU,RUS,643,Urban,12,Dry latrines - Other,0.0,Russia Longitudinal Monitoring Survey - RLMS02
+Russian Federation,RU,RUS,643,Urban,13,Composting toilets,0.0,Russia Longitudinal Monitoring Survey - RLMS02
+Russian Federation,RU,RUS,643,Urban,14,Other improved,0.0,Russia Longitudinal Monitoring Survey - RLMS02
+Russian Federation,RU,RUS,643,Urban,15,"No facility, bush, field",0.0,Russia Longitudinal Monitoring Survey - RLMS02
+Russian Federation,RU,RUS,643,Urban,16,Other unimproved,0.0,Russia Longitudinal Monitoring Survey - RLMS02
+Russian Federation,RU,RUS,643,Urban,17,DK/missing information,0.0,Russia Longitudinal Monitoring Survey - RLMS02
+Russian Federation,RU,RUS,643,Rural,1,Flush and pour flush - to piped sewer system,0.205,Russia Longitudinal Monitoring Survey - RLMS02
+Russian Federation,RU,RUS,643,Rural,2,Flush and pour flush - to septic tank,0.0,Russia Longitudinal Monitoring Survey - RLMS02
+Russian Federation,RU,RUS,643,Rural,3,Flush and pour flush - to pit,0.0,Russia Longitudinal Monitoring Survey - RLMS02
+Russian Federation,RU,RUS,643,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Russia Longitudinal Monitoring Survey - RLMS02
+Russian Federation,RU,RUS,643,Rural,5,Flush and pour flush - to elsewhere,0.0,Russia Longitudinal Monitoring Survey - RLMS02
+Russian Federation,RU,RUS,643,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS02
+Russian Federation,RU,RUS,643,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS02
+Russian Federation,RU,RUS,643,Rural,8,Dry latrines - Traditional latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS02
+Russian Federation,RU,RUS,643,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Russia Longitudinal Monitoring Survey - RLMS02
+Russian Federation,RU,RUS,643,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS02
+Russian Federation,RU,RUS,643,Rural,11,Dry latrines - Bucket latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS02
+Russian Federation,RU,RUS,643,Rural,12,Dry latrines - Other,0.0,Russia Longitudinal Monitoring Survey - RLMS02
+Russian Federation,RU,RUS,643,Rural,13,Composting toilets,0.0,Russia Longitudinal Monitoring Survey - RLMS02
+Russian Federation,RU,RUS,643,Rural,14,Other improved,0.0,Russia Longitudinal Monitoring Survey - RLMS02
+Russian Federation,RU,RUS,643,Rural,15,"No facility, bush, field",0.0,Russia Longitudinal Monitoring Survey - RLMS02
+Russian Federation,RU,RUS,643,Rural,16,Other unimproved,0.0,Russia Longitudinal Monitoring Survey - RLMS02
+Russian Federation,RU,RUS,643,Rural,17,DK/missing information,0.0,Russia Longitudinal Monitoring Survey - RLMS02
+Russian Federation,RU,RUS,643,National,1,Flush and pour flush - to piped sewer system,0.0,Russia Longitudinal Monitoring Survey - RLMS02
+Russian Federation,RU,RUS,643,National,2,Flush and pour flush - to septic tank,0.0,Russia Longitudinal Monitoring Survey - RLMS02
+Russian Federation,RU,RUS,643,National,3,Flush and pour flush - to pit,0.0,Russia Longitudinal Monitoring Survey - RLMS02
+Russian Federation,RU,RUS,643,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Russia Longitudinal Monitoring Survey - RLMS02
+Russian Federation,RU,RUS,643,National,5,Flush and pour flush - to elsewhere,0.0,Russia Longitudinal Monitoring Survey - RLMS02
+Russian Federation,RU,RUS,643,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS02
+Russian Federation,RU,RUS,643,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS02
+Russian Federation,RU,RUS,643,National,8,Dry latrines - Traditional latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS02
+Russian Federation,RU,RUS,643,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Russia Longitudinal Monitoring Survey - RLMS02
+Russian Federation,RU,RUS,643,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS02
+Russian Federation,RU,RUS,643,National,11,Dry latrines - Bucket latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS02
+Russian Federation,RU,RUS,643,National,12,Dry latrines - Other,0.0,Russia Longitudinal Monitoring Survey - RLMS02
+Russian Federation,RU,RUS,643,National,13,Composting toilets,0.0,Russia Longitudinal Monitoring Survey - RLMS02
+Russian Federation,RU,RUS,643,National,14,Other improved,0.0,Russia Longitudinal Monitoring Survey - RLMS02
+Russian Federation,RU,RUS,643,National,15,"No facility, bush, field",0.0,Russia Longitudinal Monitoring Survey - RLMS02
+Russian Federation,RU,RUS,643,National,16,Other unimproved,0.0,Russia Longitudinal Monitoring Survey - RLMS02
+Russian Federation,RU,RUS,643,National,17,DK/missing information,0.0,Russia Longitudinal Monitoring Survey - RLMS02
+Russian Federation,RU,RUS,643,Urban,1,Flush and pour flush - to piped sewer system,0.929,Russia Longitudinal Monitoring Survey - RLMS03
+Russian Federation,RU,RUS,643,Urban,2,Flush and pour flush - to septic tank,0.0,Russia Longitudinal Monitoring Survey - RLMS03
+Russian Federation,RU,RUS,643,Urban,3,Flush and pour flush - to pit,0.0,Russia Longitudinal Monitoring Survey - RLMS03
+Russian Federation,RU,RUS,643,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Russia Longitudinal Monitoring Survey - RLMS03
+Russian Federation,RU,RUS,643,Urban,5,Flush and pour flush - to elsewhere,0.0,Russia Longitudinal Monitoring Survey - RLMS03
+Russian Federation,RU,RUS,643,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS03
+Russian Federation,RU,RUS,643,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS03
+Russian Federation,RU,RUS,643,Urban,8,Dry latrines - Traditional latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS03
+Russian Federation,RU,RUS,643,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Russia Longitudinal Monitoring Survey - RLMS03
+Russian Federation,RU,RUS,643,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS03
+Russian Federation,RU,RUS,643,Urban,11,Dry latrines - Bucket latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS03
+Russian Federation,RU,RUS,643,Urban,12,Dry latrines - Other,0.0,Russia Longitudinal Monitoring Survey - RLMS03
+Russian Federation,RU,RUS,643,Urban,13,Composting toilets,0.0,Russia Longitudinal Monitoring Survey - RLMS03
+Russian Federation,RU,RUS,643,Urban,14,Other improved,0.0,Russia Longitudinal Monitoring Survey - RLMS03
+Russian Federation,RU,RUS,643,Urban,15,"No facility, bush, field",0.0,Russia Longitudinal Monitoring Survey - RLMS03
+Russian Federation,RU,RUS,643,Urban,16,Other unimproved,0.071,Russia Longitudinal Monitoring Survey - RLMS03
+Russian Federation,RU,RUS,643,Urban,17,DK/missing information,0.0,Russia Longitudinal Monitoring Survey - RLMS03
+Russian Federation,RU,RUS,643,Rural,1,Flush and pour flush - to piped sewer system,0.353,Russia Longitudinal Monitoring Survey - RLMS03
+Russian Federation,RU,RUS,643,Rural,2,Flush and pour flush - to septic tank,0.0,Russia Longitudinal Monitoring Survey - RLMS03
+Russian Federation,RU,RUS,643,Rural,3,Flush and pour flush - to pit,0.0,Russia Longitudinal Monitoring Survey - RLMS03
+Russian Federation,RU,RUS,643,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Russia Longitudinal Monitoring Survey - RLMS03
+Russian Federation,RU,RUS,643,Rural,5,Flush and pour flush - to elsewhere,0.0,Russia Longitudinal Monitoring Survey - RLMS03
+Russian Federation,RU,RUS,643,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS03
+Russian Federation,RU,RUS,643,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS03
+Russian Federation,RU,RUS,643,Rural,8,Dry latrines - Traditional latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS03
+Russian Federation,RU,RUS,643,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Russia Longitudinal Monitoring Survey - RLMS03
+Russian Federation,RU,RUS,643,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS03
+Russian Federation,RU,RUS,643,Rural,11,Dry latrines - Bucket latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS03
+Russian Federation,RU,RUS,643,Rural,12,Dry latrines - Other,0.0,Russia Longitudinal Monitoring Survey - RLMS03
+Russian Federation,RU,RUS,643,Rural,13,Composting toilets,0.0,Russia Longitudinal Monitoring Survey - RLMS03
+Russian Federation,RU,RUS,643,Rural,14,Other improved,0.0,Russia Longitudinal Monitoring Survey - RLMS03
+Russian Federation,RU,RUS,643,Rural,15,"No facility, bush, field",0.0,Russia Longitudinal Monitoring Survey - RLMS03
+Russian Federation,RU,RUS,643,Rural,16,Other unimproved,0.647,Russia Longitudinal Monitoring Survey - RLMS03
+Russian Federation,RU,RUS,643,Rural,17,DK/missing information,0.0,Russia Longitudinal Monitoring Survey - RLMS03
+Russian Federation,RU,RUS,643,National,1,Flush and pour flush - to piped sewer system,0.831,Russia Longitudinal Monitoring Survey - RLMS03
+Russian Federation,RU,RUS,643,National,2,Flush and pour flush - to septic tank,0.0,Russia Longitudinal Monitoring Survey - RLMS03
+Russian Federation,RU,RUS,643,National,3,Flush and pour flush - to pit,0.0,Russia Longitudinal Monitoring Survey - RLMS03
+Russian Federation,RU,RUS,643,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Russia Longitudinal Monitoring Survey - RLMS03
+Russian Federation,RU,RUS,643,National,5,Flush and pour flush - to elsewhere,0.0,Russia Longitudinal Monitoring Survey - RLMS03
+Russian Federation,RU,RUS,643,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS03
+Russian Federation,RU,RUS,643,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS03
+Russian Federation,RU,RUS,643,National,8,Dry latrines - Traditional latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS03
+Russian Federation,RU,RUS,643,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Russia Longitudinal Monitoring Survey - RLMS03
+Russian Federation,RU,RUS,643,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS03
+Russian Federation,RU,RUS,643,National,11,Dry latrines - Bucket latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS03
+Russian Federation,RU,RUS,643,National,12,Dry latrines - Other,0.0,Russia Longitudinal Monitoring Survey - RLMS03
+Russian Federation,RU,RUS,643,National,13,Composting toilets,0.0,Russia Longitudinal Monitoring Survey - RLMS03
+Russian Federation,RU,RUS,643,National,14,Other improved,0.0,Russia Longitudinal Monitoring Survey - RLMS03
+Russian Federation,RU,RUS,643,National,15,"No facility, bush, field",0.0,Russia Longitudinal Monitoring Survey - RLMS03
+Russian Federation,RU,RUS,643,National,16,Other unimproved,0.169,Russia Longitudinal Monitoring Survey - RLMS03
+Russian Federation,RU,RUS,643,National,17,DK/missing information,0.0,Russia Longitudinal Monitoring Survey - RLMS03
+Russian Federation,RU,RUS,643,Urban,1,Flush and pour flush - to piped sewer system,0.871,Russia Longitudinal Monitoring Survey - RLMS04
+Russian Federation,RU,RUS,643,Urban,2,Flush and pour flush - to septic tank,0.0,Russia Longitudinal Monitoring Survey - RLMS04
+Russian Federation,RU,RUS,643,Urban,3,Flush and pour flush - to pit,0.0,Russia Longitudinal Monitoring Survey - RLMS04
+Russian Federation,RU,RUS,643,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Russia Longitudinal Monitoring Survey - RLMS04
+Russian Federation,RU,RUS,643,Urban,5,Flush and pour flush - to elsewhere,0.0,Russia Longitudinal Monitoring Survey - RLMS04
+Russian Federation,RU,RUS,643,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS04
+Russian Federation,RU,RUS,643,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS04
+Russian Federation,RU,RUS,643,Urban,8,Dry latrines - Traditional latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS04
+Russian Federation,RU,RUS,643,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Russia Longitudinal Monitoring Survey - RLMS04
+Russian Federation,RU,RUS,643,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS04
+Russian Federation,RU,RUS,643,Urban,11,Dry latrines - Bucket latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS04
+Russian Federation,RU,RUS,643,Urban,12,Dry latrines - Other,0.0,Russia Longitudinal Monitoring Survey - RLMS04
+Russian Federation,RU,RUS,643,Urban,13,Composting toilets,0.0,Russia Longitudinal Monitoring Survey - RLMS04
+Russian Federation,RU,RUS,643,Urban,14,Other improved,0.0,Russia Longitudinal Monitoring Survey - RLMS04
+Russian Federation,RU,RUS,643,Urban,15,"No facility, bush, field",0.0,Russia Longitudinal Monitoring Survey - RLMS04
+Russian Federation,RU,RUS,643,Urban,16,Other unimproved,0.129,Russia Longitudinal Monitoring Survey - RLMS04
+Russian Federation,RU,RUS,643,Urban,17,DK/missing information,0.0,Russia Longitudinal Monitoring Survey - RLMS04
+Russian Federation,RU,RUS,643,Rural,1,Flush and pour flush - to piped sewer system,0.225,Russia Longitudinal Monitoring Survey - RLMS04
+Russian Federation,RU,RUS,643,Rural,2,Flush and pour flush - to septic tank,0.0,Russia Longitudinal Monitoring Survey - RLMS04
+Russian Federation,RU,RUS,643,Rural,3,Flush and pour flush - to pit,0.0,Russia Longitudinal Monitoring Survey - RLMS04
+Russian Federation,RU,RUS,643,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Russia Longitudinal Monitoring Survey - RLMS04
+Russian Federation,RU,RUS,643,Rural,5,Flush and pour flush - to elsewhere,0.0,Russia Longitudinal Monitoring Survey - RLMS04
+Russian Federation,RU,RUS,643,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS04
+Russian Federation,RU,RUS,643,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS04
+Russian Federation,RU,RUS,643,Rural,8,Dry latrines - Traditional latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS04
+Russian Federation,RU,RUS,643,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Russia Longitudinal Monitoring Survey - RLMS04
+Russian Federation,RU,RUS,643,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS04
+Russian Federation,RU,RUS,643,Rural,11,Dry latrines - Bucket latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS04
+Russian Federation,RU,RUS,643,Rural,12,Dry latrines - Other,0.0,Russia Longitudinal Monitoring Survey - RLMS04
+Russian Federation,RU,RUS,643,Rural,13,Composting toilets,0.0,Russia Longitudinal Monitoring Survey - RLMS04
+Russian Federation,RU,RUS,643,Rural,14,Other improved,0.0,Russia Longitudinal Monitoring Survey - RLMS04
+Russian Federation,RU,RUS,643,Rural,15,"No facility, bush, field",0.0,Russia Longitudinal Monitoring Survey - RLMS04
+Russian Federation,RU,RUS,643,Rural,16,Other unimproved,0.775,Russia Longitudinal Monitoring Survey - RLMS04
+Russian Federation,RU,RUS,643,Rural,17,DK/missing information,0.0,Russia Longitudinal Monitoring Survey - RLMS04
+Russian Federation,RU,RUS,643,National,1,Flush and pour flush - to piped sewer system,0.659,Russia Longitudinal Monitoring Survey - RLMS04
+Russian Federation,RU,RUS,643,National,2,Flush and pour flush - to septic tank,0.0,Russia Longitudinal Monitoring Survey - RLMS04
+Russian Federation,RU,RUS,643,National,3,Flush and pour flush - to pit,0.0,Russia Longitudinal Monitoring Survey - RLMS04
+Russian Federation,RU,RUS,643,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Russia Longitudinal Monitoring Survey - RLMS04
+Russian Federation,RU,RUS,643,National,5,Flush and pour flush - to elsewhere,0.0,Russia Longitudinal Monitoring Survey - RLMS04
+Russian Federation,RU,RUS,643,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS04
+Russian Federation,RU,RUS,643,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS04
+Russian Federation,RU,RUS,643,National,8,Dry latrines - Traditional latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS04
+Russian Federation,RU,RUS,643,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Russia Longitudinal Monitoring Survey - RLMS04
+Russian Federation,RU,RUS,643,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS04
+Russian Federation,RU,RUS,643,National,11,Dry latrines - Bucket latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS04
+Russian Federation,RU,RUS,643,National,12,Dry latrines - Other,0.0,Russia Longitudinal Monitoring Survey - RLMS04
+Russian Federation,RU,RUS,643,National,13,Composting toilets,0.0,Russia Longitudinal Monitoring Survey - RLMS04
+Russian Federation,RU,RUS,643,National,14,Other improved,0.0,Russia Longitudinal Monitoring Survey - RLMS04
+Russian Federation,RU,RUS,643,National,15,"No facility, bush, field",0.0,Russia Longitudinal Monitoring Survey - RLMS04
+Russian Federation,RU,RUS,643,National,16,Other unimproved,0.341,Russia Longitudinal Monitoring Survey - RLMS04
+Russian Federation,RU,RUS,643,National,17,DK/missing information,0.0,Russia Longitudinal Monitoring Survey - RLMS04
+Russian Federation,RU,RUS,643,Urban,1,Flush and pour flush - to piped sewer system,0.876,Russia Longitudinal Monitoring Survey - RLMS05
+Russian Federation,RU,RUS,643,Urban,2,Flush and pour flush - to septic tank,0.0,Russia Longitudinal Monitoring Survey - RLMS05
+Russian Federation,RU,RUS,643,Urban,3,Flush and pour flush - to pit,0.0,Russia Longitudinal Monitoring Survey - RLMS05
+Russian Federation,RU,RUS,643,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Russia Longitudinal Monitoring Survey - RLMS05
+Russian Federation,RU,RUS,643,Urban,5,Flush and pour flush - to elsewhere,0.0,Russia Longitudinal Monitoring Survey - RLMS05
+Russian Federation,RU,RUS,643,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS05
+Russian Federation,RU,RUS,643,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS05
+Russian Federation,RU,RUS,643,Urban,8,Dry latrines - Traditional latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS05
+Russian Federation,RU,RUS,643,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Russia Longitudinal Monitoring Survey - RLMS05
+Russian Federation,RU,RUS,643,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS05
+Russian Federation,RU,RUS,643,Urban,11,Dry latrines - Bucket latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS05
+Russian Federation,RU,RUS,643,Urban,12,Dry latrines - Other,0.0,Russia Longitudinal Monitoring Survey - RLMS05
+Russian Federation,RU,RUS,643,Urban,13,Composting toilets,0.0,Russia Longitudinal Monitoring Survey - RLMS05
+Russian Federation,RU,RUS,643,Urban,14,Other improved,0.0,Russia Longitudinal Monitoring Survey - RLMS05
+Russian Federation,RU,RUS,643,Urban,15,"No facility, bush, field",0.0,Russia Longitudinal Monitoring Survey - RLMS05
+Russian Federation,RU,RUS,643,Urban,16,Other unimproved,0.124,Russia Longitudinal Monitoring Survey - RLMS05
+Russian Federation,RU,RUS,643,Urban,17,DK/missing information,0.0,Russia Longitudinal Monitoring Survey - RLMS05
+Russian Federation,RU,RUS,643,Rural,1,Flush and pour flush - to piped sewer system,0.244,Russia Longitudinal Monitoring Survey - RLMS05
+Russian Federation,RU,RUS,643,Rural,2,Flush and pour flush - to septic tank,0.0,Russia Longitudinal Monitoring Survey - RLMS05
+Russian Federation,RU,RUS,643,Rural,3,Flush and pour flush - to pit,0.0,Russia Longitudinal Monitoring Survey - RLMS05
+Russian Federation,RU,RUS,643,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Russia Longitudinal Monitoring Survey - RLMS05
+Russian Federation,RU,RUS,643,Rural,5,Flush and pour flush - to elsewhere,0.0,Russia Longitudinal Monitoring Survey - RLMS05
+Russian Federation,RU,RUS,643,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS05
+Russian Federation,RU,RUS,643,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS05
+Russian Federation,RU,RUS,643,Rural,8,Dry latrines - Traditional latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS05
+Russian Federation,RU,RUS,643,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Russia Longitudinal Monitoring Survey - RLMS05
+Russian Federation,RU,RUS,643,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS05
+Russian Federation,RU,RUS,643,Rural,11,Dry latrines - Bucket latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS05
+Russian Federation,RU,RUS,643,Rural,12,Dry latrines - Other,0.0,Russia Longitudinal Monitoring Survey - RLMS05
+Russian Federation,RU,RUS,643,Rural,13,Composting toilets,0.0,Russia Longitudinal Monitoring Survey - RLMS05
+Russian Federation,RU,RUS,643,Rural,14,Other improved,0.0,Russia Longitudinal Monitoring Survey - RLMS05
+Russian Federation,RU,RUS,643,Rural,15,"No facility, bush, field",0.0,Russia Longitudinal Monitoring Survey - RLMS05
+Russian Federation,RU,RUS,643,Rural,16,Other unimproved,0.756,Russia Longitudinal Monitoring Survey - RLMS05
+Russian Federation,RU,RUS,643,Rural,17,DK/missing information,0.0,Russia Longitudinal Monitoring Survey - RLMS05
+Russian Federation,RU,RUS,643,National,1,Flush and pour flush - to piped sewer system,0.666,Russia Longitudinal Monitoring Survey - RLMS05
+Russian Federation,RU,RUS,643,National,2,Flush and pour flush - to septic tank,0.0,Russia Longitudinal Monitoring Survey - RLMS05
+Russian Federation,RU,RUS,643,National,3,Flush and pour flush - to pit,0.0,Russia Longitudinal Monitoring Survey - RLMS05
+Russian Federation,RU,RUS,643,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Russia Longitudinal Monitoring Survey - RLMS05
+Russian Federation,RU,RUS,643,National,5,Flush and pour flush - to elsewhere,0.0,Russia Longitudinal Monitoring Survey - RLMS05
+Russian Federation,RU,RUS,643,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS05
+Russian Federation,RU,RUS,643,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS05
+Russian Federation,RU,RUS,643,National,8,Dry latrines - Traditional latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS05
+Russian Federation,RU,RUS,643,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Russia Longitudinal Monitoring Survey - RLMS05
+Russian Federation,RU,RUS,643,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS05
+Russian Federation,RU,RUS,643,National,11,Dry latrines - Bucket latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS05
+Russian Federation,RU,RUS,643,National,12,Dry latrines - Other,0.0,Russia Longitudinal Monitoring Survey - RLMS05
+Russian Federation,RU,RUS,643,National,13,Composting toilets,0.0,Russia Longitudinal Monitoring Survey - RLMS05
+Russian Federation,RU,RUS,643,National,14,Other improved,0.0,Russia Longitudinal Monitoring Survey - RLMS05
+Russian Federation,RU,RUS,643,National,15,"No facility, bush, field",0.0,Russia Longitudinal Monitoring Survey - RLMS05
+Russian Federation,RU,RUS,643,National,16,Other unimproved,0.334,Russia Longitudinal Monitoring Survey - RLMS05
+Russian Federation,RU,RUS,643,National,17,DK/missing information,0.0,Russia Longitudinal Monitoring Survey - RLMS05
+Russian Federation,RU,RUS,643,Urban,1,Flush and pour flush - to piped sewer system,0.944,Russia Longitudinal Monitoring Survey - RLMS06
+Russian Federation,RU,RUS,643,Urban,2,Flush and pour flush - to septic tank,0.0,Russia Longitudinal Monitoring Survey - RLMS06
+Russian Federation,RU,RUS,643,Urban,3,Flush and pour flush - to pit,0.0,Russia Longitudinal Monitoring Survey - RLMS06
+Russian Federation,RU,RUS,643,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Russia Longitudinal Monitoring Survey - RLMS06
+Russian Federation,RU,RUS,643,Urban,5,Flush and pour flush - to elsewhere,0.0,Russia Longitudinal Monitoring Survey - RLMS06
+Russian Federation,RU,RUS,643,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS06
+Russian Federation,RU,RUS,643,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS06
+Russian Federation,RU,RUS,643,Urban,8,Dry latrines - Traditional latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS06
+Russian Federation,RU,RUS,643,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Russia Longitudinal Monitoring Survey - RLMS06
+Russian Federation,RU,RUS,643,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS06
+Russian Federation,RU,RUS,643,Urban,11,Dry latrines - Bucket latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS06
+Russian Federation,RU,RUS,643,Urban,12,Dry latrines - Other,0.0,Russia Longitudinal Monitoring Survey - RLMS06
+Russian Federation,RU,RUS,643,Urban,13,Composting toilets,0.0,Russia Longitudinal Monitoring Survey - RLMS06
+Russian Federation,RU,RUS,643,Urban,14,Other improved,0.0,Russia Longitudinal Monitoring Survey - RLMS06
+Russian Federation,RU,RUS,643,Urban,15,"No facility, bush, field",0.0,Russia Longitudinal Monitoring Survey - RLMS06
+Russian Federation,RU,RUS,643,Urban,16,Other unimproved,0.056,Russia Longitudinal Monitoring Survey - RLMS06
+Russian Federation,RU,RUS,643,Urban,17,DK/missing information,0.0,Russia Longitudinal Monitoring Survey - RLMS06
+Russian Federation,RU,RUS,643,Rural,1,Flush and pour flush - to piped sewer system,0.348,Russia Longitudinal Monitoring Survey - RLMS06
+Russian Federation,RU,RUS,643,Rural,2,Flush and pour flush - to septic tank,0.0,Russia Longitudinal Monitoring Survey - RLMS06
+Russian Federation,RU,RUS,643,Rural,3,Flush and pour flush - to pit,0.0,Russia Longitudinal Monitoring Survey - RLMS06
+Russian Federation,RU,RUS,643,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Russia Longitudinal Monitoring Survey - RLMS06
+Russian Federation,RU,RUS,643,Rural,5,Flush and pour flush - to elsewhere,0.0,Russia Longitudinal Monitoring Survey - RLMS06
+Russian Federation,RU,RUS,643,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS06
+Russian Federation,RU,RUS,643,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS06
+Russian Federation,RU,RUS,643,Rural,8,Dry latrines - Traditional latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS06
+Russian Federation,RU,RUS,643,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Russia Longitudinal Monitoring Survey - RLMS06
+Russian Federation,RU,RUS,643,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS06
+Russian Federation,RU,RUS,643,Rural,11,Dry latrines - Bucket latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS06
+Russian Federation,RU,RUS,643,Rural,12,Dry latrines - Other,0.0,Russia Longitudinal Monitoring Survey - RLMS06
+Russian Federation,RU,RUS,643,Rural,13,Composting toilets,0.0,Russia Longitudinal Monitoring Survey - RLMS06
+Russian Federation,RU,RUS,643,Rural,14,Other improved,0.0,Russia Longitudinal Monitoring Survey - RLMS06
+Russian Federation,RU,RUS,643,Rural,15,"No facility, bush, field",0.0,Russia Longitudinal Monitoring Survey - RLMS06
+Russian Federation,RU,RUS,643,Rural,16,Other unimproved,0.652,Russia Longitudinal Monitoring Survey - RLMS06
+Russian Federation,RU,RUS,643,Rural,17,DK/missing information,0.0,Russia Longitudinal Monitoring Survey - RLMS06
+Russian Federation,RU,RUS,643,National,1,Flush and pour flush - to piped sewer system,0.798,Russia Longitudinal Monitoring Survey - RLMS06
+Russian Federation,RU,RUS,643,National,2,Flush and pour flush - to septic tank,0.0,Russia Longitudinal Monitoring Survey - RLMS06
+Russian Federation,RU,RUS,643,National,3,Flush and pour flush - to pit,0.0,Russia Longitudinal Monitoring Survey - RLMS06
+Russian Federation,RU,RUS,643,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Russia Longitudinal Monitoring Survey - RLMS06
+Russian Federation,RU,RUS,643,National,5,Flush and pour flush - to elsewhere,0.0,Russia Longitudinal Monitoring Survey - RLMS06
+Russian Federation,RU,RUS,643,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS06
+Russian Federation,RU,RUS,643,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS06
+Russian Federation,RU,RUS,643,National,8,Dry latrines - Traditional latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS06
+Russian Federation,RU,RUS,643,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Russia Longitudinal Monitoring Survey - RLMS06
+Russian Federation,RU,RUS,643,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS06
+Russian Federation,RU,RUS,643,National,11,Dry latrines - Bucket latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS06
+Russian Federation,RU,RUS,643,National,12,Dry latrines - Other,0.0,Russia Longitudinal Monitoring Survey - RLMS06
+Russian Federation,RU,RUS,643,National,13,Composting toilets,0.0,Russia Longitudinal Monitoring Survey - RLMS06
+Russian Federation,RU,RUS,643,National,14,Other improved,0.0,Russia Longitudinal Monitoring Survey - RLMS06
+Russian Federation,RU,RUS,643,National,15,"No facility, bush, field",0.0,Russia Longitudinal Monitoring Survey - RLMS06
+Russian Federation,RU,RUS,643,National,16,Other unimproved,0.202,Russia Longitudinal Monitoring Survey - RLMS06
+Russian Federation,RU,RUS,643,National,17,DK/missing information,0.0,Russia Longitudinal Monitoring Survey - RLMS06
+Russian Federation,RU,RUS,643,Urban,1,Flush and pour flush - to piped sewer system,0.923,Russia Longitudinal Monitoring Survey - RLMS07
+Russian Federation,RU,RUS,643,Urban,2,Flush and pour flush - to septic tank,0.0,Russia Longitudinal Monitoring Survey - RLMS07
+Russian Federation,RU,RUS,643,Urban,3,Flush and pour flush - to pit,0.0,Russia Longitudinal Monitoring Survey - RLMS07
+Russian Federation,RU,RUS,643,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Russia Longitudinal Monitoring Survey - RLMS07
+Russian Federation,RU,RUS,643,Urban,5,Flush and pour flush - to elsewhere,0.0,Russia Longitudinal Monitoring Survey - RLMS07
+Russian Federation,RU,RUS,643,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS07
+Russian Federation,RU,RUS,643,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS07
+Russian Federation,RU,RUS,643,Urban,8,Dry latrines - Traditional latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS07
+Russian Federation,RU,RUS,643,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Russia Longitudinal Monitoring Survey - RLMS07
+Russian Federation,RU,RUS,643,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS07
+Russian Federation,RU,RUS,643,Urban,11,Dry latrines - Bucket latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS07
+Russian Federation,RU,RUS,643,Urban,12,Dry latrines - Other,0.0,Russia Longitudinal Monitoring Survey - RLMS07
+Russian Federation,RU,RUS,643,Urban,13,Composting toilets,0.0,Russia Longitudinal Monitoring Survey - RLMS07
+Russian Federation,RU,RUS,643,Urban,14,Other improved,0.0,Russia Longitudinal Monitoring Survey - RLMS07
+Russian Federation,RU,RUS,643,Urban,15,"No facility, bush, field",0.0,Russia Longitudinal Monitoring Survey - RLMS07
+Russian Federation,RU,RUS,643,Urban,16,Other unimproved,0.077,Russia Longitudinal Monitoring Survey - RLMS07
+Russian Federation,RU,RUS,643,Urban,17,DK/missing information,0.0,Russia Longitudinal Monitoring Survey - RLMS07
+Russian Federation,RU,RUS,643,Rural,1,Flush and pour flush - to piped sewer system,0.38,Russia Longitudinal Monitoring Survey - RLMS07
+Russian Federation,RU,RUS,643,Rural,2,Flush and pour flush - to septic tank,0.0,Russia Longitudinal Monitoring Survey - RLMS07
+Russian Federation,RU,RUS,643,Rural,3,Flush and pour flush - to pit,0.0,Russia Longitudinal Monitoring Survey - RLMS07
+Russian Federation,RU,RUS,643,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Russia Longitudinal Monitoring Survey - RLMS07
+Russian Federation,RU,RUS,643,Rural,5,Flush and pour flush - to elsewhere,0.0,Russia Longitudinal Monitoring Survey - RLMS07
+Russian Federation,RU,RUS,643,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS07
+Russian Federation,RU,RUS,643,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS07
+Russian Federation,RU,RUS,643,Rural,8,Dry latrines - Traditional latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS07
+Russian Federation,RU,RUS,643,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Russia Longitudinal Monitoring Survey - RLMS07
+Russian Federation,RU,RUS,643,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS07
+Russian Federation,RU,RUS,643,Rural,11,Dry latrines - Bucket latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS07
+Russian Federation,RU,RUS,643,Rural,12,Dry latrines - Other,0.0,Russia Longitudinal Monitoring Survey - RLMS07
+Russian Federation,RU,RUS,643,Rural,13,Composting toilets,0.0,Russia Longitudinal Monitoring Survey - RLMS07
+Russian Federation,RU,RUS,643,Rural,14,Other improved,0.0,Russia Longitudinal Monitoring Survey - RLMS07
+Russian Federation,RU,RUS,643,Rural,15,"No facility, bush, field",0.0,Russia Longitudinal Monitoring Survey - RLMS07
+Russian Federation,RU,RUS,643,Rural,16,Other unimproved,0.62,Russia Longitudinal Monitoring Survey - RLMS07
+Russian Federation,RU,RUS,643,Rural,17,DK/missing information,0.0,Russia Longitudinal Monitoring Survey - RLMS07
+Russian Federation,RU,RUS,643,National,1,Flush and pour flush - to piped sewer system,0.854,Russia Longitudinal Monitoring Survey - RLMS07
+Russian Federation,RU,RUS,643,National,2,Flush and pour flush - to septic tank,0.0,Russia Longitudinal Monitoring Survey - RLMS07
+Russian Federation,RU,RUS,643,National,3,Flush and pour flush - to pit,0.0,Russia Longitudinal Monitoring Survey - RLMS07
+Russian Federation,RU,RUS,643,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Russia Longitudinal Monitoring Survey - RLMS07
+Russian Federation,RU,RUS,643,National,5,Flush and pour flush - to elsewhere,0.0,Russia Longitudinal Monitoring Survey - RLMS07
+Russian Federation,RU,RUS,643,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS07
+Russian Federation,RU,RUS,643,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS07
+Russian Federation,RU,RUS,643,National,8,Dry latrines - Traditional latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS07
+Russian Federation,RU,RUS,643,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Russia Longitudinal Monitoring Survey - RLMS07
+Russian Federation,RU,RUS,643,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS07
+Russian Federation,RU,RUS,643,National,11,Dry latrines - Bucket latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS07
+Russian Federation,RU,RUS,643,National,12,Dry latrines - Other,0.0,Russia Longitudinal Monitoring Survey - RLMS07
+Russian Federation,RU,RUS,643,National,13,Composting toilets,0.0,Russia Longitudinal Monitoring Survey - RLMS07
+Russian Federation,RU,RUS,643,National,14,Other improved,0.0,Russia Longitudinal Monitoring Survey - RLMS07
+Russian Federation,RU,RUS,643,National,15,"No facility, bush, field",0.0,Russia Longitudinal Monitoring Survey - RLMS07
+Russian Federation,RU,RUS,643,National,16,Other unimproved,0.146,Russia Longitudinal Monitoring Survey - RLMS07
+Russian Federation,RU,RUS,643,National,17,DK/missing information,0.0,Russia Longitudinal Monitoring Survey - RLMS07
+Russian Federation,RU,RUS,643,Urban,1,Flush and pour flush - to piped sewer system,0.899,Russia Longitudinal Monitoring Survey - RLMS08
+Russian Federation,RU,RUS,643,Urban,2,Flush and pour flush - to septic tank,0.0,Russia Longitudinal Monitoring Survey - RLMS08
+Russian Federation,RU,RUS,643,Urban,3,Flush and pour flush - to pit,0.0,Russia Longitudinal Monitoring Survey - RLMS08
+Russian Federation,RU,RUS,643,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Russia Longitudinal Monitoring Survey - RLMS08
+Russian Federation,RU,RUS,643,Urban,5,Flush and pour flush - to elsewhere,0.0,Russia Longitudinal Monitoring Survey - RLMS08
+Russian Federation,RU,RUS,643,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS08
+Russian Federation,RU,RUS,643,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS08
+Russian Federation,RU,RUS,643,Urban,8,Dry latrines - Traditional latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS08
+Russian Federation,RU,RUS,643,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Russia Longitudinal Monitoring Survey - RLMS08
+Russian Federation,RU,RUS,643,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS08
+Russian Federation,RU,RUS,643,Urban,11,Dry latrines - Bucket latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS08
+Russian Federation,RU,RUS,643,Urban,12,Dry latrines - Other,0.0,Russia Longitudinal Monitoring Survey - RLMS08
+Russian Federation,RU,RUS,643,Urban,13,Composting toilets,0.0,Russia Longitudinal Monitoring Survey - RLMS08
+Russian Federation,RU,RUS,643,Urban,14,Other improved,0.0,Russia Longitudinal Monitoring Survey - RLMS08
+Russian Federation,RU,RUS,643,Urban,15,"No facility, bush, field",0.0,Russia Longitudinal Monitoring Survey - RLMS08
+Russian Federation,RU,RUS,643,Urban,16,Other unimproved,0.101,Russia Longitudinal Monitoring Survey - RLMS08
+Russian Federation,RU,RUS,643,Urban,17,DK/missing information,0.0,Russia Longitudinal Monitoring Survey - RLMS08
+Russian Federation,RU,RUS,643,Rural,1,Flush and pour flush - to piped sewer system,0.523,Russia Longitudinal Monitoring Survey - RLMS08
+Russian Federation,RU,RUS,643,Rural,2,Flush and pour flush - to septic tank,0.0,Russia Longitudinal Monitoring Survey - RLMS08
+Russian Federation,RU,RUS,643,Rural,3,Flush and pour flush - to pit,0.0,Russia Longitudinal Monitoring Survey - RLMS08
+Russian Federation,RU,RUS,643,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Russia Longitudinal Monitoring Survey - RLMS08
+Russian Federation,RU,RUS,643,Rural,5,Flush and pour flush - to elsewhere,0.0,Russia Longitudinal Monitoring Survey - RLMS08
+Russian Federation,RU,RUS,643,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS08
+Russian Federation,RU,RUS,643,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS08
+Russian Federation,RU,RUS,643,Rural,8,Dry latrines - Traditional latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS08
+Russian Federation,RU,RUS,643,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Russia Longitudinal Monitoring Survey - RLMS08
+Russian Federation,RU,RUS,643,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS08
+Russian Federation,RU,RUS,643,Rural,11,Dry latrines - Bucket latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS08
+Russian Federation,RU,RUS,643,Rural,12,Dry latrines - Other,0.0,Russia Longitudinal Monitoring Survey - RLMS08
+Russian Federation,RU,RUS,643,Rural,13,Composting toilets,0.0,Russia Longitudinal Monitoring Survey - RLMS08
+Russian Federation,RU,RUS,643,Rural,14,Other improved,0.0,Russia Longitudinal Monitoring Survey - RLMS08
+Russian Federation,RU,RUS,643,Rural,15,"No facility, bush, field",0.0,Russia Longitudinal Monitoring Survey - RLMS08
+Russian Federation,RU,RUS,643,Rural,16,Other unimproved,0.477,Russia Longitudinal Monitoring Survey - RLMS08
+Russian Federation,RU,RUS,643,Rural,17,DK/missing information,0.0,Russia Longitudinal Monitoring Survey - RLMS08
+Russian Federation,RU,RUS,643,National,1,Flush and pour flush - to piped sewer system,0.858,Russia Longitudinal Monitoring Survey - RLMS08
+Russian Federation,RU,RUS,643,National,2,Flush and pour flush - to septic tank,0.0,Russia Longitudinal Monitoring Survey - RLMS08
+Russian Federation,RU,RUS,643,National,3,Flush and pour flush - to pit,0.0,Russia Longitudinal Monitoring Survey - RLMS08
+Russian Federation,RU,RUS,643,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Russia Longitudinal Monitoring Survey - RLMS08
+Russian Federation,RU,RUS,643,National,5,Flush and pour flush - to elsewhere,0.0,Russia Longitudinal Monitoring Survey - RLMS08
+Russian Federation,RU,RUS,643,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS08
+Russian Federation,RU,RUS,643,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS08
+Russian Federation,RU,RUS,643,National,8,Dry latrines - Traditional latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS08
+Russian Federation,RU,RUS,643,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Russia Longitudinal Monitoring Survey - RLMS08
+Russian Federation,RU,RUS,643,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS08
+Russian Federation,RU,RUS,643,National,11,Dry latrines - Bucket latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS08
+Russian Federation,RU,RUS,643,National,12,Dry latrines - Other,0.0,Russia Longitudinal Monitoring Survey - RLMS08
+Russian Federation,RU,RUS,643,National,13,Composting toilets,0.0,Russia Longitudinal Monitoring Survey - RLMS08
+Russian Federation,RU,RUS,643,National,14,Other improved,0.0,Russia Longitudinal Monitoring Survey - RLMS08
+Russian Federation,RU,RUS,643,National,15,"No facility, bush, field",0.0,Russia Longitudinal Monitoring Survey - RLMS08
+Russian Federation,RU,RUS,643,National,16,Other unimproved,0.142,Russia Longitudinal Monitoring Survey - RLMS08
+Russian Federation,RU,RUS,643,National,17,DK/missing information,0.0,Russia Longitudinal Monitoring Survey - RLMS08
+Russian Federation,RU,RUS,643,Urban,1,Flush and pour flush - to piped sewer system,0.678,Study on global Ageing and adult health - SAGE08
+Russian Federation,RU,RUS,643,Urban,2,Flush and pour flush - to septic tank,0.022,Study on global Ageing and adult health - SAGE08
+Russian Federation,RU,RUS,643,Urban,3,Flush and pour flush - to pit,0.04,Study on global Ageing and adult health - SAGE08
+Russian Federation,RU,RUS,643,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.002,Study on global Ageing and adult health - SAGE08
+Russian Federation,RU,RUS,643,Urban,5,Flush and pour flush - to elsewhere,0.006,Study on global Ageing and adult health - SAGE08
+Russian Federation,RU,RUS,643,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.046,Study on global Ageing and adult health - SAGE08
+Russian Federation,RU,RUS,643,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.045,Study on global Ageing and adult health - SAGE08
+Russian Federation,RU,RUS,643,Urban,8,Dry latrines - Traditional latrine,0.0,Study on global Ageing and adult health - SAGE08
+Russian Federation,RU,RUS,643,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.099,Study on global Ageing and adult health - SAGE08
+Russian Federation,RU,RUS,643,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Study on global Ageing and adult health - SAGE08
+Russian Federation,RU,RUS,643,Urban,11,Dry latrines - Bucket latrine,0.007,Study on global Ageing and adult health - SAGE08
+Russian Federation,RU,RUS,643,Urban,12,Dry latrines - Other,0.0,Study on global Ageing and adult health - SAGE08
+Russian Federation,RU,RUS,643,Urban,13,Composting toilets,0.04,Study on global Ageing and adult health - SAGE08
+Russian Federation,RU,RUS,643,Urban,14,Other improved,0.0,Study on global Ageing and adult health - SAGE08
+Russian Federation,RU,RUS,643,Urban,15,"No facility, bush, field",0.01,Study on global Ageing and adult health - SAGE08
+Russian Federation,RU,RUS,643,Urban,16,Other unimproved,0.004,Study on global Ageing and adult health - SAGE08
+Russian Federation,RU,RUS,643,Urban,17,DK/missing information,0.001,Study on global Ageing and adult health - SAGE08
+Russian Federation,RU,RUS,643,Rural,1,Flush and pour flush - to piped sewer system,0.257,Study on global Ageing and adult health - SAGE08
+Russian Federation,RU,RUS,643,Rural,2,Flush and pour flush - to septic tank,0.052,Study on global Ageing and adult health - SAGE08
+Russian Federation,RU,RUS,643,Rural,3,Flush and pour flush - to pit,0.107,Study on global Ageing and adult health - SAGE08
+Russian Federation,RU,RUS,643,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.004,Study on global Ageing and adult health - SAGE08
+Russian Federation,RU,RUS,643,Rural,5,Flush and pour flush - to elsewhere,0.007,Study on global Ageing and adult health - SAGE08
+Russian Federation,RU,RUS,643,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.114,Study on global Ageing and adult health - SAGE08
+Russian Federation,RU,RUS,643,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.173,Study on global Ageing and adult health - SAGE08
+Russian Federation,RU,RUS,643,Rural,8,Dry latrines - Traditional latrine,0.0,Study on global Ageing and adult health - SAGE08
+Russian Federation,RU,RUS,643,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.265,Study on global Ageing and adult health - SAGE08
+Russian Federation,RU,RUS,643,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Study on global Ageing and adult health - SAGE08
+Russian Federation,RU,RUS,643,Rural,11,Dry latrines - Bucket latrine,0.005,Study on global Ageing and adult health - SAGE08
+Russian Federation,RU,RUS,643,Rural,12,Dry latrines - Other,0.0,Study on global Ageing and adult health - SAGE08
+Russian Federation,RU,RUS,643,Rural,13,Composting toilets,0.004,Study on global Ageing and adult health - SAGE08
+Russian Federation,RU,RUS,643,Rural,14,Other improved,0.0,Study on global Ageing and adult health - SAGE08
+Russian Federation,RU,RUS,643,Rural,15,"No facility, bush, field",0.009,Study on global Ageing and adult health - SAGE08
+Russian Federation,RU,RUS,643,Rural,16,Other unimproved,0.001,Study on global Ageing and adult health - SAGE08
+Russian Federation,RU,RUS,643,Rural,17,DK/missing information,0.001,Study on global Ageing and adult health - SAGE08
+Russian Federation,RU,RUS,643,National,1,Flush and pour flush - to piped sewer system,0.0,Study on global Ageing and adult health - SAGE08
+Russian Federation,RU,RUS,643,National,2,Flush and pour flush - to septic tank,0.0,Study on global Ageing and adult health - SAGE08
+Russian Federation,RU,RUS,643,National,3,Flush and pour flush - to pit,0.0,Study on global Ageing and adult health - SAGE08
+Russian Federation,RU,RUS,643,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Study on global Ageing and adult health - SAGE08
+Russian Federation,RU,RUS,643,National,5,Flush and pour flush - to elsewhere,0.0,Study on global Ageing and adult health - SAGE08
+Russian Federation,RU,RUS,643,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Study on global Ageing and adult health - SAGE08
+Russian Federation,RU,RUS,643,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Study on global Ageing and adult health - SAGE08
+Russian Federation,RU,RUS,643,National,8,Dry latrines - Traditional latrine,0.0,Study on global Ageing and adult health - SAGE08
+Russian Federation,RU,RUS,643,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Study on global Ageing and adult health - SAGE08
+Russian Federation,RU,RUS,643,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Study on global Ageing and adult health - SAGE08
+Russian Federation,RU,RUS,643,National,11,Dry latrines - Bucket latrine,0.0,Study on global Ageing and adult health - SAGE08
+Russian Federation,RU,RUS,643,National,12,Dry latrines - Other,0.0,Study on global Ageing and adult health - SAGE08
+Russian Federation,RU,RUS,643,National,13,Composting toilets,0.0,Study on global Ageing and adult health - SAGE08
+Russian Federation,RU,RUS,643,National,14,Other improved,0.0,Study on global Ageing and adult health - SAGE08
+Russian Federation,RU,RUS,643,National,15,"No facility, bush, field",0.0,Study on global Ageing and adult health - SAGE08
+Russian Federation,RU,RUS,643,National,16,Other unimproved,0.0,Study on global Ageing and adult health - SAGE08
+Russian Federation,RU,RUS,643,National,17,DK/missing information,0.0,Study on global Ageing and adult health - SAGE08
+Russian Federation,RU,RUS,643,Urban,1,Flush and pour flush - to piped sewer system,0.858,Russia Longitudinal Monitoring Survey - RLMS09
+Russian Federation,RU,RUS,643,Urban,2,Flush and pour flush - to septic tank,0.0,Russia Longitudinal Monitoring Survey - RLMS09
+Russian Federation,RU,RUS,643,Urban,3,Flush and pour flush - to pit,0.0,Russia Longitudinal Monitoring Survey - RLMS09
+Russian Federation,RU,RUS,643,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Russia Longitudinal Monitoring Survey - RLMS09
+Russian Federation,RU,RUS,643,Urban,5,Flush and pour flush - to elsewhere,0.0,Russia Longitudinal Monitoring Survey - RLMS09
+Russian Federation,RU,RUS,643,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS09
+Russian Federation,RU,RUS,643,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS09
+Russian Federation,RU,RUS,643,Urban,8,Dry latrines - Traditional latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS09
+Russian Federation,RU,RUS,643,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Russia Longitudinal Monitoring Survey - RLMS09
+Russian Federation,RU,RUS,643,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS09
+Russian Federation,RU,RUS,643,Urban,11,Dry latrines - Bucket latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS09
+Russian Federation,RU,RUS,643,Urban,12,Dry latrines - Other,0.0,Russia Longitudinal Monitoring Survey - RLMS09
+Russian Federation,RU,RUS,643,Urban,13,Composting toilets,0.0,Russia Longitudinal Monitoring Survey - RLMS09
+Russian Federation,RU,RUS,643,Urban,14,Other improved,0.0,Russia Longitudinal Monitoring Survey - RLMS09
+Russian Federation,RU,RUS,643,Urban,15,"No facility, bush, field",0.0,Russia Longitudinal Monitoring Survey - RLMS09
+Russian Federation,RU,RUS,643,Urban,16,Other unimproved,0.142,Russia Longitudinal Monitoring Survey - RLMS09
+Russian Federation,RU,RUS,643,Urban,17,DK/missing information,0.0,Russia Longitudinal Monitoring Survey - RLMS09
+Russian Federation,RU,RUS,643,Rural,1,Flush and pour flush - to piped sewer system,0.377,Russia Longitudinal Monitoring Survey - RLMS09
+Russian Federation,RU,RUS,643,Rural,2,Flush and pour flush - to septic tank,0.0,Russia Longitudinal Monitoring Survey - RLMS09
+Russian Federation,RU,RUS,643,Rural,3,Flush and pour flush - to pit,0.0,Russia Longitudinal Monitoring Survey - RLMS09
+Russian Federation,RU,RUS,643,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Russia Longitudinal Monitoring Survey - RLMS09
+Russian Federation,RU,RUS,643,Rural,5,Flush and pour flush - to elsewhere,0.0,Russia Longitudinal Monitoring Survey - RLMS09
+Russian Federation,RU,RUS,643,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS09
+Russian Federation,RU,RUS,643,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS09
+Russian Federation,RU,RUS,643,Rural,8,Dry latrines - Traditional latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS09
+Russian Federation,RU,RUS,643,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Russia Longitudinal Monitoring Survey - RLMS09
+Russian Federation,RU,RUS,643,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS09
+Russian Federation,RU,RUS,643,Rural,11,Dry latrines - Bucket latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS09
+Russian Federation,RU,RUS,643,Rural,12,Dry latrines - Other,0.0,Russia Longitudinal Monitoring Survey - RLMS09
+Russian Federation,RU,RUS,643,Rural,13,Composting toilets,0.0,Russia Longitudinal Monitoring Survey - RLMS09
+Russian Federation,RU,RUS,643,Rural,14,Other improved,0.0,Russia Longitudinal Monitoring Survey - RLMS09
+Russian Federation,RU,RUS,643,Rural,15,"No facility, bush, field",0.0,Russia Longitudinal Monitoring Survey - RLMS09
+Russian Federation,RU,RUS,643,Rural,16,Other unimproved,0.623,Russia Longitudinal Monitoring Survey - RLMS09
+Russian Federation,RU,RUS,643,Rural,17,DK/missing information,0.0,Russia Longitudinal Monitoring Survey - RLMS09
+Russian Federation,RU,RUS,643,National,1,Flush and pour flush - to piped sewer system,0.705,Russia Longitudinal Monitoring Survey - RLMS09
+Russian Federation,RU,RUS,643,National,2,Flush and pour flush - to septic tank,0.0,Russia Longitudinal Monitoring Survey - RLMS09
+Russian Federation,RU,RUS,643,National,3,Flush and pour flush - to pit,0.0,Russia Longitudinal Monitoring Survey - RLMS09
+Russian Federation,RU,RUS,643,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Russia Longitudinal Monitoring Survey - RLMS09
+Russian Federation,RU,RUS,643,National,5,Flush and pour flush - to elsewhere,0.0,Russia Longitudinal Monitoring Survey - RLMS09
+Russian Federation,RU,RUS,643,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS09
+Russian Federation,RU,RUS,643,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS09
+Russian Federation,RU,RUS,643,National,8,Dry latrines - Traditional latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS09
+Russian Federation,RU,RUS,643,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Russia Longitudinal Monitoring Survey - RLMS09
+Russian Federation,RU,RUS,643,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS09
+Russian Federation,RU,RUS,643,National,11,Dry latrines - Bucket latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS09
+Russian Federation,RU,RUS,643,National,12,Dry latrines - Other,0.0,Russia Longitudinal Monitoring Survey - RLMS09
+Russian Federation,RU,RUS,643,National,13,Composting toilets,0.0,Russia Longitudinal Monitoring Survey - RLMS09
+Russian Federation,RU,RUS,643,National,14,Other improved,0.0,Russia Longitudinal Monitoring Survey - RLMS09
+Russian Federation,RU,RUS,643,National,15,"No facility, bush, field",0.0,Russia Longitudinal Monitoring Survey - RLMS09
+Russian Federation,RU,RUS,643,National,16,Other unimproved,0.295,Russia Longitudinal Monitoring Survey - RLMS09
+Russian Federation,RU,RUS,643,National,17,DK/missing information,0.0,Russia Longitudinal Monitoring Survey - RLMS09
+Russian Federation,RU,RUS,643,Urban,1,Flush and pour flush - to piped sewer system,0.864,Russia Longitudinal Monitoring Survey - RLMS10
+Russian Federation,RU,RUS,643,Urban,2,Flush and pour flush - to septic tank,0.0,Russia Longitudinal Monitoring Survey - RLMS10
+Russian Federation,RU,RUS,643,Urban,3,Flush and pour flush - to pit,0.0,Russia Longitudinal Monitoring Survey - RLMS10
+Russian Federation,RU,RUS,643,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Russia Longitudinal Monitoring Survey - RLMS10
+Russian Federation,RU,RUS,643,Urban,5,Flush and pour flush - to elsewhere,0.0,Russia Longitudinal Monitoring Survey - RLMS10
+Russian Federation,RU,RUS,643,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS10
+Russian Federation,RU,RUS,643,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS10
+Russian Federation,RU,RUS,643,Urban,8,Dry latrines - Traditional latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS10
+Russian Federation,RU,RUS,643,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Russia Longitudinal Monitoring Survey - RLMS10
+Russian Federation,RU,RUS,643,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS10
+Russian Federation,RU,RUS,643,Urban,11,Dry latrines - Bucket latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS10
+Russian Federation,RU,RUS,643,Urban,12,Dry latrines - Other,0.0,Russia Longitudinal Monitoring Survey - RLMS10
+Russian Federation,RU,RUS,643,Urban,13,Composting toilets,0.0,Russia Longitudinal Monitoring Survey - RLMS10
+Russian Federation,RU,RUS,643,Urban,14,Other improved,0.0,Russia Longitudinal Monitoring Survey - RLMS10
+Russian Federation,RU,RUS,643,Urban,15,"No facility, bush, field",0.0,Russia Longitudinal Monitoring Survey - RLMS10
+Russian Federation,RU,RUS,643,Urban,16,Other unimproved,0.136,Russia Longitudinal Monitoring Survey - RLMS10
+Russian Federation,RU,RUS,643,Urban,17,DK/missing information,0.0,Russia Longitudinal Monitoring Survey - RLMS10
+Russian Federation,RU,RUS,643,Rural,1,Flush and pour flush - to piped sewer system,0.384,Russia Longitudinal Monitoring Survey - RLMS10
+Russian Federation,RU,RUS,643,Rural,2,Flush and pour flush - to septic tank,0.0,Russia Longitudinal Monitoring Survey - RLMS10
+Russian Federation,RU,RUS,643,Rural,3,Flush and pour flush - to pit,0.0,Russia Longitudinal Monitoring Survey - RLMS10
+Russian Federation,RU,RUS,643,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Russia Longitudinal Monitoring Survey - RLMS10
+Russian Federation,RU,RUS,643,Rural,5,Flush and pour flush - to elsewhere,0.0,Russia Longitudinal Monitoring Survey - RLMS10
+Russian Federation,RU,RUS,643,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS10
+Russian Federation,RU,RUS,643,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS10
+Russian Federation,RU,RUS,643,Rural,8,Dry latrines - Traditional latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS10
+Russian Federation,RU,RUS,643,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Russia Longitudinal Monitoring Survey - RLMS10
+Russian Federation,RU,RUS,643,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS10
+Russian Federation,RU,RUS,643,Rural,11,Dry latrines - Bucket latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS10
+Russian Federation,RU,RUS,643,Rural,12,Dry latrines - Other,0.0,Russia Longitudinal Monitoring Survey - RLMS10
+Russian Federation,RU,RUS,643,Rural,13,Composting toilets,0.0,Russia Longitudinal Monitoring Survey - RLMS10
+Russian Federation,RU,RUS,643,Rural,14,Other improved,0.0,Russia Longitudinal Monitoring Survey - RLMS10
+Russian Federation,RU,RUS,643,Rural,15,"No facility, bush, field",0.0,Russia Longitudinal Monitoring Survey - RLMS10
+Russian Federation,RU,RUS,643,Rural,16,Other unimproved,0.616,Russia Longitudinal Monitoring Survey - RLMS10
+Russian Federation,RU,RUS,643,Rural,17,DK/missing information,0.0,Russia Longitudinal Monitoring Survey - RLMS10
+Russian Federation,RU,RUS,643,National,1,Flush and pour flush - to piped sewer system,0.715,Russia Longitudinal Monitoring Survey - RLMS10
+Russian Federation,RU,RUS,643,National,2,Flush and pour flush - to septic tank,0.0,Russia Longitudinal Monitoring Survey - RLMS10
+Russian Federation,RU,RUS,643,National,3,Flush and pour flush - to pit,0.0,Russia Longitudinal Monitoring Survey - RLMS10
+Russian Federation,RU,RUS,643,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Russia Longitudinal Monitoring Survey - RLMS10
+Russian Federation,RU,RUS,643,National,5,Flush and pour flush - to elsewhere,0.0,Russia Longitudinal Monitoring Survey - RLMS10
+Russian Federation,RU,RUS,643,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS10
+Russian Federation,RU,RUS,643,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS10
+Russian Federation,RU,RUS,643,National,8,Dry latrines - Traditional latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS10
+Russian Federation,RU,RUS,643,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Russia Longitudinal Monitoring Survey - RLMS10
+Russian Federation,RU,RUS,643,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS10
+Russian Federation,RU,RUS,643,National,11,Dry latrines - Bucket latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS10
+Russian Federation,RU,RUS,643,National,12,Dry latrines - Other,0.0,Russia Longitudinal Monitoring Survey - RLMS10
+Russian Federation,RU,RUS,643,National,13,Composting toilets,0.0,Russia Longitudinal Monitoring Survey - RLMS10
+Russian Federation,RU,RUS,643,National,14,Other improved,0.0,Russia Longitudinal Monitoring Survey - RLMS10
+Russian Federation,RU,RUS,643,National,15,"No facility, bush, field",0.0,Russia Longitudinal Monitoring Survey - RLMS10
+Russian Federation,RU,RUS,643,National,16,Other unimproved,0.285,Russia Longitudinal Monitoring Survey - RLMS10
+Russian Federation,RU,RUS,643,National,17,DK/missing information,0.0,Russia Longitudinal Monitoring Survey - RLMS10
+Russian Federation,RU,RUS,643,Urban,1,Flush and pour flush - to piped sewer system,0.86,Russia Longitudinal Monitoring Survey - RLMS11
+Russian Federation,RU,RUS,643,Urban,2,Flush and pour flush - to septic tank,0.0,Russia Longitudinal Monitoring Survey - RLMS11
+Russian Federation,RU,RUS,643,Urban,3,Flush and pour flush - to pit,0.0,Russia Longitudinal Monitoring Survey - RLMS11
+Russian Federation,RU,RUS,643,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Russia Longitudinal Monitoring Survey - RLMS11
+Russian Federation,RU,RUS,643,Urban,5,Flush and pour flush - to elsewhere,0.0,Russia Longitudinal Monitoring Survey - RLMS11
+Russian Federation,RU,RUS,643,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS11
+Russian Federation,RU,RUS,643,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS11
+Russian Federation,RU,RUS,643,Urban,8,Dry latrines - Traditional latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS11
+Russian Federation,RU,RUS,643,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Russia Longitudinal Monitoring Survey - RLMS11
+Russian Federation,RU,RUS,643,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS11
+Russian Federation,RU,RUS,643,Urban,11,Dry latrines - Bucket latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS11
+Russian Federation,RU,RUS,643,Urban,12,Dry latrines - Other,0.0,Russia Longitudinal Monitoring Survey - RLMS11
+Russian Federation,RU,RUS,643,Urban,13,Composting toilets,0.0,Russia Longitudinal Monitoring Survey - RLMS11
+Russian Federation,RU,RUS,643,Urban,14,Other improved,0.0,Russia Longitudinal Monitoring Survey - RLMS11
+Russian Federation,RU,RUS,643,Urban,15,"No facility, bush, field",0.0,Russia Longitudinal Monitoring Survey - RLMS11
+Russian Federation,RU,RUS,643,Urban,16,Other unimproved,0.14,Russia Longitudinal Monitoring Survey - RLMS11
+Russian Federation,RU,RUS,643,Urban,17,DK/missing information,0.0,Russia Longitudinal Monitoring Survey - RLMS11
+Russian Federation,RU,RUS,643,Rural,1,Flush and pour flush - to piped sewer system,0.397,Russia Longitudinal Monitoring Survey - RLMS11
+Russian Federation,RU,RUS,643,Rural,2,Flush and pour flush - to septic tank,0.0,Russia Longitudinal Monitoring Survey - RLMS11
+Russian Federation,RU,RUS,643,Rural,3,Flush and pour flush - to pit,0.0,Russia Longitudinal Monitoring Survey - RLMS11
+Russian Federation,RU,RUS,643,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Russia Longitudinal Monitoring Survey - RLMS11
+Russian Federation,RU,RUS,643,Rural,5,Flush and pour flush - to elsewhere,0.0,Russia Longitudinal Monitoring Survey - RLMS11
+Russian Federation,RU,RUS,643,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS11
+Russian Federation,RU,RUS,643,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS11
+Russian Federation,RU,RUS,643,Rural,8,Dry latrines - Traditional latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS11
+Russian Federation,RU,RUS,643,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Russia Longitudinal Monitoring Survey - RLMS11
+Russian Federation,RU,RUS,643,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS11
+Russian Federation,RU,RUS,643,Rural,11,Dry latrines - Bucket latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS11
+Russian Federation,RU,RUS,643,Rural,12,Dry latrines - Other,0.0,Russia Longitudinal Monitoring Survey - RLMS11
+Russian Federation,RU,RUS,643,Rural,13,Composting toilets,0.0,Russia Longitudinal Monitoring Survey - RLMS11
+Russian Federation,RU,RUS,643,Rural,14,Other improved,0.0,Russia Longitudinal Monitoring Survey - RLMS11
+Russian Federation,RU,RUS,643,Rural,15,"No facility, bush, field",0.0,Russia Longitudinal Monitoring Survey - RLMS11
+Russian Federation,RU,RUS,643,Rural,16,Other unimproved,0.603,Russia Longitudinal Monitoring Survey - RLMS11
+Russian Federation,RU,RUS,643,Rural,17,DK/missing information,0.0,Russia Longitudinal Monitoring Survey - RLMS11
+Russian Federation,RU,RUS,643,National,1,Flush and pour flush - to piped sewer system,0.722,Russia Longitudinal Monitoring Survey - RLMS11
+Russian Federation,RU,RUS,643,National,2,Flush and pour flush - to septic tank,0.0,Russia Longitudinal Monitoring Survey - RLMS11
+Russian Federation,RU,RUS,643,National,3,Flush and pour flush - to pit,0.0,Russia Longitudinal Monitoring Survey - RLMS11
+Russian Federation,RU,RUS,643,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Russia Longitudinal Monitoring Survey - RLMS11
+Russian Federation,RU,RUS,643,National,5,Flush and pour flush - to elsewhere,0.0,Russia Longitudinal Monitoring Survey - RLMS11
+Russian Federation,RU,RUS,643,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS11
+Russian Federation,RU,RUS,643,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS11
+Russian Federation,RU,RUS,643,National,8,Dry latrines - Traditional latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS11
+Russian Federation,RU,RUS,643,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Russia Longitudinal Monitoring Survey - RLMS11
+Russian Federation,RU,RUS,643,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS11
+Russian Federation,RU,RUS,643,National,11,Dry latrines - Bucket latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS11
+Russian Federation,RU,RUS,643,National,12,Dry latrines - Other,0.0,Russia Longitudinal Monitoring Survey - RLMS11
+Russian Federation,RU,RUS,643,National,13,Composting toilets,0.0,Russia Longitudinal Monitoring Survey - RLMS11
+Russian Federation,RU,RUS,643,National,14,Other improved,0.0,Russia Longitudinal Monitoring Survey - RLMS11
+Russian Federation,RU,RUS,643,National,15,"No facility, bush, field",0.0,Russia Longitudinal Monitoring Survey - RLMS11
+Russian Federation,RU,RUS,643,National,16,Other unimproved,0.278,Russia Longitudinal Monitoring Survey - RLMS11
+Russian Federation,RU,RUS,643,National,17,DK/missing information,0.0,Russia Longitudinal Monitoring Survey - RLMS11
+Russian Federation,RU,RUS,643,Urban,1,Flush and pour flush - to piped sewer system,0.866,Russia Longitudinal Monitoring Survey - RLMS12
+Russian Federation,RU,RUS,643,Urban,2,Flush and pour flush - to septic tank,0.0,Russia Longitudinal Monitoring Survey - RLMS12
+Russian Federation,RU,RUS,643,Urban,3,Flush and pour flush - to pit,0.0,Russia Longitudinal Monitoring Survey - RLMS12
+Russian Federation,RU,RUS,643,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Russia Longitudinal Monitoring Survey - RLMS12
+Russian Federation,RU,RUS,643,Urban,5,Flush and pour flush - to elsewhere,0.0,Russia Longitudinal Monitoring Survey - RLMS12
+Russian Federation,RU,RUS,643,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS12
+Russian Federation,RU,RUS,643,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS12
+Russian Federation,RU,RUS,643,Urban,8,Dry latrines - Traditional latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS12
+Russian Federation,RU,RUS,643,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Russia Longitudinal Monitoring Survey - RLMS12
+Russian Federation,RU,RUS,643,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS12
+Russian Federation,RU,RUS,643,Urban,11,Dry latrines - Bucket latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS12
+Russian Federation,RU,RUS,643,Urban,12,Dry latrines - Other,0.0,Russia Longitudinal Monitoring Survey - RLMS12
+Russian Federation,RU,RUS,643,Urban,13,Composting toilets,0.0,Russia Longitudinal Monitoring Survey - RLMS12
+Russian Federation,RU,RUS,643,Urban,14,Other improved,0.0,Russia Longitudinal Monitoring Survey - RLMS12
+Russian Federation,RU,RUS,643,Urban,15,"No facility, bush, field",0.0,Russia Longitudinal Monitoring Survey - RLMS12
+Russian Federation,RU,RUS,643,Urban,16,Other unimproved,0.134,Russia Longitudinal Monitoring Survey - RLMS12
+Russian Federation,RU,RUS,643,Urban,17,DK/missing information,0.0,Russia Longitudinal Monitoring Survey - RLMS12
+Russian Federation,RU,RUS,643,Rural,1,Flush and pour flush - to piped sewer system,0.385,Russia Longitudinal Monitoring Survey - RLMS12
+Russian Federation,RU,RUS,643,Rural,2,Flush and pour flush - to septic tank,0.0,Russia Longitudinal Monitoring Survey - RLMS12
+Russian Federation,RU,RUS,643,Rural,3,Flush and pour flush - to pit,0.0,Russia Longitudinal Monitoring Survey - RLMS12
+Russian Federation,RU,RUS,643,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Russia Longitudinal Monitoring Survey - RLMS12
+Russian Federation,RU,RUS,643,Rural,5,Flush and pour flush - to elsewhere,0.0,Russia Longitudinal Monitoring Survey - RLMS12
+Russian Federation,RU,RUS,643,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS12
+Russian Federation,RU,RUS,643,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS12
+Russian Federation,RU,RUS,643,Rural,8,Dry latrines - Traditional latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS12
+Russian Federation,RU,RUS,643,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Russia Longitudinal Monitoring Survey - RLMS12
+Russian Federation,RU,RUS,643,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS12
+Russian Federation,RU,RUS,643,Rural,11,Dry latrines - Bucket latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS12
+Russian Federation,RU,RUS,643,Rural,12,Dry latrines - Other,0.0,Russia Longitudinal Monitoring Survey - RLMS12
+Russian Federation,RU,RUS,643,Rural,13,Composting toilets,0.0,Russia Longitudinal Monitoring Survey - RLMS12
+Russian Federation,RU,RUS,643,Rural,14,Other improved,0.0,Russia Longitudinal Monitoring Survey - RLMS12
+Russian Federation,RU,RUS,643,Rural,15,"No facility, bush, field",0.0,Russia Longitudinal Monitoring Survey - RLMS12
+Russian Federation,RU,RUS,643,Rural,16,Other unimproved,0.615,Russia Longitudinal Monitoring Survey - RLMS12
+Russian Federation,RU,RUS,643,Rural,17,DK/missing information,0.0,Russia Longitudinal Monitoring Survey - RLMS12
+Russian Federation,RU,RUS,643,National,1,Flush and pour flush - to piped sewer system,0.72,Russia Longitudinal Monitoring Survey - RLMS12
+Russian Federation,RU,RUS,643,National,2,Flush and pour flush - to septic tank,0.0,Russia Longitudinal Monitoring Survey - RLMS12
+Russian Federation,RU,RUS,643,National,3,Flush and pour flush - to pit,0.0,Russia Longitudinal Monitoring Survey - RLMS12
+Russian Federation,RU,RUS,643,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Russia Longitudinal Monitoring Survey - RLMS12
+Russian Federation,RU,RUS,643,National,5,Flush and pour flush - to elsewhere,0.0,Russia Longitudinal Monitoring Survey - RLMS12
+Russian Federation,RU,RUS,643,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS12
+Russian Federation,RU,RUS,643,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS12
+Russian Federation,RU,RUS,643,National,8,Dry latrines - Traditional latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS12
+Russian Federation,RU,RUS,643,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Russia Longitudinal Monitoring Survey - RLMS12
+Russian Federation,RU,RUS,643,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS12
+Russian Federation,RU,RUS,643,National,11,Dry latrines - Bucket latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS12
+Russian Federation,RU,RUS,643,National,12,Dry latrines - Other,0.0,Russia Longitudinal Monitoring Survey - RLMS12
+Russian Federation,RU,RUS,643,National,13,Composting toilets,0.0,Russia Longitudinal Monitoring Survey - RLMS12
+Russian Federation,RU,RUS,643,National,14,Other improved,0.0,Russia Longitudinal Monitoring Survey - RLMS12
+Russian Federation,RU,RUS,643,National,15,"No facility, bush, field",0.0,Russia Longitudinal Monitoring Survey - RLMS12
+Russian Federation,RU,RUS,643,National,16,Other unimproved,0.28,Russia Longitudinal Monitoring Survey - RLMS12
+Russian Federation,RU,RUS,643,National,17,DK/missing information,0.0,Russia Longitudinal Monitoring Survey - RLMS12
+Russian Federation,RU,RUS,643,Urban,1,Flush and pour flush - to piped sewer system,0.891,Russia Longitudinal Monitoring Survey - RLMS13
+Russian Federation,RU,RUS,643,Urban,2,Flush and pour flush - to septic tank,0.0,Russia Longitudinal Monitoring Survey - RLMS13
+Russian Federation,RU,RUS,643,Urban,3,Flush and pour flush - to pit,0.0,Russia Longitudinal Monitoring Survey - RLMS13
+Russian Federation,RU,RUS,643,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Russia Longitudinal Monitoring Survey - RLMS13
+Russian Federation,RU,RUS,643,Urban,5,Flush and pour flush - to elsewhere,0.0,Russia Longitudinal Monitoring Survey - RLMS13
+Russian Federation,RU,RUS,643,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS13
+Russian Federation,RU,RUS,643,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS13
+Russian Federation,RU,RUS,643,Urban,8,Dry latrines - Traditional latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS13
+Russian Federation,RU,RUS,643,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Russia Longitudinal Monitoring Survey - RLMS13
+Russian Federation,RU,RUS,643,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS13
+Russian Federation,RU,RUS,643,Urban,11,Dry latrines - Bucket latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS13
+Russian Federation,RU,RUS,643,Urban,12,Dry latrines - Other,0.0,Russia Longitudinal Monitoring Survey - RLMS13
+Russian Federation,RU,RUS,643,Urban,13,Composting toilets,0.0,Russia Longitudinal Monitoring Survey - RLMS13
+Russian Federation,RU,RUS,643,Urban,14,Other improved,0.0,Russia Longitudinal Monitoring Survey - RLMS13
+Russian Federation,RU,RUS,643,Urban,15,"No facility, bush, field",0.0,Russia Longitudinal Monitoring Survey - RLMS13
+Russian Federation,RU,RUS,643,Urban,16,Other unimproved,0.109,Russia Longitudinal Monitoring Survey - RLMS13
+Russian Federation,RU,RUS,643,Urban,17,DK/missing information,0.0,Russia Longitudinal Monitoring Survey - RLMS13
+Russian Federation,RU,RUS,643,Rural,1,Flush and pour flush - to piped sewer system,0.303,Russia Longitudinal Monitoring Survey - RLMS13
+Russian Federation,RU,RUS,643,Rural,2,Flush and pour flush - to septic tank,0.0,Russia Longitudinal Monitoring Survey - RLMS13
+Russian Federation,RU,RUS,643,Rural,3,Flush and pour flush - to pit,0.0,Russia Longitudinal Monitoring Survey - RLMS13
+Russian Federation,RU,RUS,643,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Russia Longitudinal Monitoring Survey - RLMS13
+Russian Federation,RU,RUS,643,Rural,5,Flush and pour flush - to elsewhere,0.0,Russia Longitudinal Monitoring Survey - RLMS13
+Russian Federation,RU,RUS,643,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS13
+Russian Federation,RU,RUS,643,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS13
+Russian Federation,RU,RUS,643,Rural,8,Dry latrines - Traditional latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS13
+Russian Federation,RU,RUS,643,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Russia Longitudinal Monitoring Survey - RLMS13
+Russian Federation,RU,RUS,643,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS13
+Russian Federation,RU,RUS,643,Rural,11,Dry latrines - Bucket latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS13
+Russian Federation,RU,RUS,643,Rural,12,Dry latrines - Other,0.0,Russia Longitudinal Monitoring Survey - RLMS13
+Russian Federation,RU,RUS,643,Rural,13,Composting toilets,0.0,Russia Longitudinal Monitoring Survey - RLMS13
+Russian Federation,RU,RUS,643,Rural,14,Other improved,0.0,Russia Longitudinal Monitoring Survey - RLMS13
+Russian Federation,RU,RUS,643,Rural,15,"No facility, bush, field",0.0,Russia Longitudinal Monitoring Survey - RLMS13
+Russian Federation,RU,RUS,643,Rural,16,Other unimproved,0.697,Russia Longitudinal Monitoring Survey - RLMS13
+Russian Federation,RU,RUS,643,Rural,17,DK/missing information,0.0,Russia Longitudinal Monitoring Survey - RLMS13
+Russian Federation,RU,RUS,643,National,1,Flush and pour flush - to piped sewer system,0.815,Russia Longitudinal Monitoring Survey - RLMS13
+Russian Federation,RU,RUS,643,National,2,Flush and pour flush - to septic tank,0.0,Russia Longitudinal Monitoring Survey - RLMS13
+Russian Federation,RU,RUS,643,National,3,Flush and pour flush - to pit,0.0,Russia Longitudinal Monitoring Survey - RLMS13
+Russian Federation,RU,RUS,643,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Russia Longitudinal Monitoring Survey - RLMS13
+Russian Federation,RU,RUS,643,National,5,Flush and pour flush - to elsewhere,0.0,Russia Longitudinal Monitoring Survey - RLMS13
+Russian Federation,RU,RUS,643,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS13
+Russian Federation,RU,RUS,643,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS13
+Russian Federation,RU,RUS,643,National,8,Dry latrines - Traditional latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS13
+Russian Federation,RU,RUS,643,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Russia Longitudinal Monitoring Survey - RLMS13
+Russian Federation,RU,RUS,643,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS13
+Russian Federation,RU,RUS,643,National,11,Dry latrines - Bucket latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS13
+Russian Federation,RU,RUS,643,National,12,Dry latrines - Other,0.0,Russia Longitudinal Monitoring Survey - RLMS13
+Russian Federation,RU,RUS,643,National,13,Composting toilets,0.0,Russia Longitudinal Monitoring Survey - RLMS13
+Russian Federation,RU,RUS,643,National,14,Other improved,0.0,Russia Longitudinal Monitoring Survey - RLMS13
+Russian Federation,RU,RUS,643,National,15,"No facility, bush, field",0.0,Russia Longitudinal Monitoring Survey - RLMS13
+Russian Federation,RU,RUS,643,National,16,Other unimproved,0.185,Russia Longitudinal Monitoring Survey - RLMS13
+Russian Federation,RU,RUS,643,National,17,DK/missing information,0.0,Russia Longitudinal Monitoring Survey - RLMS13
+Russian Federation,RU,RUS,643,Urban,1,Flush and pour flush - to piped sewer system,0.847,Russia Longitudinal Monitoring Survey - RLMS14
+Russian Federation,RU,RUS,643,Urban,2,Flush and pour flush - to septic tank,0.0,Russia Longitudinal Monitoring Survey - RLMS14
+Russian Federation,RU,RUS,643,Urban,3,Flush and pour flush - to pit,0.0,Russia Longitudinal Monitoring Survey - RLMS14
+Russian Federation,RU,RUS,643,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Russia Longitudinal Monitoring Survey - RLMS14
+Russian Federation,RU,RUS,643,Urban,5,Flush and pour flush - to elsewhere,0.0,Russia Longitudinal Monitoring Survey - RLMS14
+Russian Federation,RU,RUS,643,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS14
+Russian Federation,RU,RUS,643,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS14
+Russian Federation,RU,RUS,643,Urban,8,Dry latrines - Traditional latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS14
+Russian Federation,RU,RUS,643,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Russia Longitudinal Monitoring Survey - RLMS14
+Russian Federation,RU,RUS,643,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS14
+Russian Federation,RU,RUS,643,Urban,11,Dry latrines - Bucket latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS14
+Russian Federation,RU,RUS,643,Urban,12,Dry latrines - Other,0.0,Russia Longitudinal Monitoring Survey - RLMS14
+Russian Federation,RU,RUS,643,Urban,13,Composting toilets,0.0,Russia Longitudinal Monitoring Survey - RLMS14
+Russian Federation,RU,RUS,643,Urban,14,Other improved,0.0,Russia Longitudinal Monitoring Survey - RLMS14
+Russian Federation,RU,RUS,643,Urban,15,"No facility, bush, field",0.0,Russia Longitudinal Monitoring Survey - RLMS14
+Russian Federation,RU,RUS,643,Urban,16,Other unimproved,0.153,Russia Longitudinal Monitoring Survey - RLMS14
+Russian Federation,RU,RUS,643,Urban,17,DK/missing information,0.0,Russia Longitudinal Monitoring Survey - RLMS14
+Russian Federation,RU,RUS,643,Rural,1,Flush and pour flush - to piped sewer system,0.325,Russia Longitudinal Monitoring Survey - RLMS14
+Russian Federation,RU,RUS,643,Rural,2,Flush and pour flush - to septic tank,0.0,Russia Longitudinal Monitoring Survey - RLMS14
+Russian Federation,RU,RUS,643,Rural,3,Flush and pour flush - to pit,0.0,Russia Longitudinal Monitoring Survey - RLMS14
+Russian Federation,RU,RUS,643,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Russia Longitudinal Monitoring Survey - RLMS14
+Russian Federation,RU,RUS,643,Rural,5,Flush and pour flush - to elsewhere,0.0,Russia Longitudinal Monitoring Survey - RLMS14
+Russian Federation,RU,RUS,643,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS14
+Russian Federation,RU,RUS,643,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS14
+Russian Federation,RU,RUS,643,Rural,8,Dry latrines - Traditional latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS14
+Russian Federation,RU,RUS,643,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Russia Longitudinal Monitoring Survey - RLMS14
+Russian Federation,RU,RUS,643,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS14
+Russian Federation,RU,RUS,643,Rural,11,Dry latrines - Bucket latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS14
+Russian Federation,RU,RUS,643,Rural,12,Dry latrines - Other,0.0,Russia Longitudinal Monitoring Survey - RLMS14
+Russian Federation,RU,RUS,643,Rural,13,Composting toilets,0.0,Russia Longitudinal Monitoring Survey - RLMS14
+Russian Federation,RU,RUS,643,Rural,14,Other improved,0.0,Russia Longitudinal Monitoring Survey - RLMS14
+Russian Federation,RU,RUS,643,Rural,15,"No facility, bush, field",0.0,Russia Longitudinal Monitoring Survey - RLMS14
+Russian Federation,RU,RUS,643,Rural,16,Other unimproved,0.675,Russia Longitudinal Monitoring Survey - RLMS14
+Russian Federation,RU,RUS,643,Rural,17,DK/missing information,0.0,Russia Longitudinal Monitoring Survey - RLMS14
+Russian Federation,RU,RUS,643,National,1,Flush and pour flush - to piped sewer system,0.798,Russia Longitudinal Monitoring Survey - RLMS14
+Russian Federation,RU,RUS,643,National,2,Flush and pour flush - to septic tank,0.0,Russia Longitudinal Monitoring Survey - RLMS14
+Russian Federation,RU,RUS,643,National,3,Flush and pour flush - to pit,0.0,Russia Longitudinal Monitoring Survey - RLMS14
+Russian Federation,RU,RUS,643,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Russia Longitudinal Monitoring Survey - RLMS14
+Russian Federation,RU,RUS,643,National,5,Flush and pour flush - to elsewhere,0.0,Russia Longitudinal Monitoring Survey - RLMS14
+Russian Federation,RU,RUS,643,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS14
+Russian Federation,RU,RUS,643,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS14
+Russian Federation,RU,RUS,643,National,8,Dry latrines - Traditional latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS14
+Russian Federation,RU,RUS,643,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Russia Longitudinal Monitoring Survey - RLMS14
+Russian Federation,RU,RUS,643,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS14
+Russian Federation,RU,RUS,643,National,11,Dry latrines - Bucket latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS14
+Russian Federation,RU,RUS,643,National,12,Dry latrines - Other,0.0,Russia Longitudinal Monitoring Survey - RLMS14
+Russian Federation,RU,RUS,643,National,13,Composting toilets,0.0,Russia Longitudinal Monitoring Survey - RLMS14
+Russian Federation,RU,RUS,643,National,14,Other improved,0.0,Russia Longitudinal Monitoring Survey - RLMS14
+Russian Federation,RU,RUS,643,National,15,"No facility, bush, field",0.0,Russia Longitudinal Monitoring Survey - RLMS14
+Russian Federation,RU,RUS,643,National,16,Other unimproved,0.202,Russia Longitudinal Monitoring Survey - RLMS14
+Russian Federation,RU,RUS,643,National,17,DK/missing information,0.0,Russia Longitudinal Monitoring Survey - RLMS14
+Russian Federation,RU,RUS,643,Urban,1,Flush and pour flush - to piped sewer system,0.904,Russia Longitudinal Monitoring Survey - RLMS15
+Russian Federation,RU,RUS,643,Urban,2,Flush and pour flush - to septic tank,0.0,Russia Longitudinal Monitoring Survey - RLMS15
+Russian Federation,RU,RUS,643,Urban,3,Flush and pour flush - to pit,0.0,Russia Longitudinal Monitoring Survey - RLMS15
+Russian Federation,RU,RUS,643,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Russia Longitudinal Monitoring Survey - RLMS15
+Russian Federation,RU,RUS,643,Urban,5,Flush and pour flush - to elsewhere,0.0,Russia Longitudinal Monitoring Survey - RLMS15
+Russian Federation,RU,RUS,643,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS15
+Russian Federation,RU,RUS,643,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS15
+Russian Federation,RU,RUS,643,Urban,8,Dry latrines - Traditional latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS15
+Russian Federation,RU,RUS,643,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Russia Longitudinal Monitoring Survey - RLMS15
+Russian Federation,RU,RUS,643,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS15
+Russian Federation,RU,RUS,643,Urban,11,Dry latrines - Bucket latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS15
+Russian Federation,RU,RUS,643,Urban,12,Dry latrines - Other,0.0,Russia Longitudinal Monitoring Survey - RLMS15
+Russian Federation,RU,RUS,643,Urban,13,Composting toilets,0.0,Russia Longitudinal Monitoring Survey - RLMS15
+Russian Federation,RU,RUS,643,Urban,14,Other improved,0.0,Russia Longitudinal Monitoring Survey - RLMS15
+Russian Federation,RU,RUS,643,Urban,15,"No facility, bush, field",0.0,Russia Longitudinal Monitoring Survey - RLMS15
+Russian Federation,RU,RUS,643,Urban,16,Other unimproved,0.096,Russia Longitudinal Monitoring Survey - RLMS15
+Russian Federation,RU,RUS,643,Urban,17,DK/missing information,0.0,Russia Longitudinal Monitoring Survey - RLMS15
+Russian Federation,RU,RUS,643,Rural,1,Flush and pour flush - to piped sewer system,0.541,Russia Longitudinal Monitoring Survey - RLMS15
+Russian Federation,RU,RUS,643,Rural,2,Flush and pour flush - to septic tank,0.0,Russia Longitudinal Monitoring Survey - RLMS15
+Russian Federation,RU,RUS,643,Rural,3,Flush and pour flush - to pit,0.0,Russia Longitudinal Monitoring Survey - RLMS15
+Russian Federation,RU,RUS,643,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Russia Longitudinal Monitoring Survey - RLMS15
+Russian Federation,RU,RUS,643,Rural,5,Flush and pour flush - to elsewhere,0.0,Russia Longitudinal Monitoring Survey - RLMS15
+Russian Federation,RU,RUS,643,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS15
+Russian Federation,RU,RUS,643,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS15
+Russian Federation,RU,RUS,643,Rural,8,Dry latrines - Traditional latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS15
+Russian Federation,RU,RUS,643,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Russia Longitudinal Monitoring Survey - RLMS15
+Russian Federation,RU,RUS,643,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS15
+Russian Federation,RU,RUS,643,Rural,11,Dry latrines - Bucket latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS15
+Russian Federation,RU,RUS,643,Rural,12,Dry latrines - Other,0.0,Russia Longitudinal Monitoring Survey - RLMS15
+Russian Federation,RU,RUS,643,Rural,13,Composting toilets,0.0,Russia Longitudinal Monitoring Survey - RLMS15
+Russian Federation,RU,RUS,643,Rural,14,Other improved,0.0,Russia Longitudinal Monitoring Survey - RLMS15
+Russian Federation,RU,RUS,643,Rural,15,"No facility, bush, field",0.0,Russia Longitudinal Monitoring Survey - RLMS15
+Russian Federation,RU,RUS,643,Rural,16,Other unimproved,0.459,Russia Longitudinal Monitoring Survey - RLMS15
+Russian Federation,RU,RUS,643,Rural,17,DK/missing information,0.0,Russia Longitudinal Monitoring Survey - RLMS15
+Russian Federation,RU,RUS,643,National,1,Flush and pour flush - to piped sewer system,0.843,Russia Longitudinal Monitoring Survey - RLMS15
+Russian Federation,RU,RUS,643,National,2,Flush and pour flush - to septic tank,0.0,Russia Longitudinal Monitoring Survey - RLMS15
+Russian Federation,RU,RUS,643,National,3,Flush and pour flush - to pit,0.0,Russia Longitudinal Monitoring Survey - RLMS15
+Russian Federation,RU,RUS,643,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Russia Longitudinal Monitoring Survey - RLMS15
+Russian Federation,RU,RUS,643,National,5,Flush and pour flush - to elsewhere,0.0,Russia Longitudinal Monitoring Survey - RLMS15
+Russian Federation,RU,RUS,643,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS15
+Russian Federation,RU,RUS,643,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS15
+Russian Federation,RU,RUS,643,National,8,Dry latrines - Traditional latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS15
+Russian Federation,RU,RUS,643,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Russia Longitudinal Monitoring Survey - RLMS15
+Russian Federation,RU,RUS,643,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS15
+Russian Federation,RU,RUS,643,National,11,Dry latrines - Bucket latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS15
+Russian Federation,RU,RUS,643,National,12,Dry latrines - Other,0.0,Russia Longitudinal Monitoring Survey - RLMS15
+Russian Federation,RU,RUS,643,National,13,Composting toilets,0.0,Russia Longitudinal Monitoring Survey - RLMS15
+Russian Federation,RU,RUS,643,National,14,Other improved,0.0,Russia Longitudinal Monitoring Survey - RLMS15
+Russian Federation,RU,RUS,643,National,15,"No facility, bush, field",0.0,Russia Longitudinal Monitoring Survey - RLMS15
+Russian Federation,RU,RUS,643,National,16,Other unimproved,0.157,Russia Longitudinal Monitoring Survey - RLMS15
+Russian Federation,RU,RUS,643,National,17,DK/missing information,0.0,Russia Longitudinal Monitoring Survey - RLMS15
+Russian Federation,RU,RUS,643,Urban,1,Flush and pour flush - to piped sewer system,0.962,Russia Longitudinal Monitoring Survey - RLMS16
+Russian Federation,RU,RUS,643,Urban,2,Flush and pour flush - to septic tank,0.0,Russia Longitudinal Monitoring Survey - RLMS16
+Russian Federation,RU,RUS,643,Urban,3,Flush and pour flush - to pit,0.0,Russia Longitudinal Monitoring Survey - RLMS16
+Russian Federation,RU,RUS,643,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Russia Longitudinal Monitoring Survey - RLMS16
+Russian Federation,RU,RUS,643,Urban,5,Flush and pour flush - to elsewhere,0.0,Russia Longitudinal Monitoring Survey - RLMS16
+Russian Federation,RU,RUS,643,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS16
+Russian Federation,RU,RUS,643,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS16
+Russian Federation,RU,RUS,643,Urban,8,Dry latrines - Traditional latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS16
+Russian Federation,RU,RUS,643,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Russia Longitudinal Monitoring Survey - RLMS16
+Russian Federation,RU,RUS,643,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS16
+Russian Federation,RU,RUS,643,Urban,11,Dry latrines - Bucket latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS16
+Russian Federation,RU,RUS,643,Urban,12,Dry latrines - Other,0.0,Russia Longitudinal Monitoring Survey - RLMS16
+Russian Federation,RU,RUS,643,Urban,13,Composting toilets,0.0,Russia Longitudinal Monitoring Survey - RLMS16
+Russian Federation,RU,RUS,643,Urban,14,Other improved,0.0,Russia Longitudinal Monitoring Survey - RLMS16
+Russian Federation,RU,RUS,643,Urban,15,"No facility, bush, field",0.0,Russia Longitudinal Monitoring Survey - RLMS16
+Russian Federation,RU,RUS,643,Urban,16,Other unimproved,0.038,Russia Longitudinal Monitoring Survey - RLMS16
+Russian Federation,RU,RUS,643,Urban,17,DK/missing information,0.0,Russia Longitudinal Monitoring Survey - RLMS16
+Russian Federation,RU,RUS,643,Rural,1,Flush and pour flush - to piped sewer system,0.46,Russia Longitudinal Monitoring Survey - RLMS16
+Russian Federation,RU,RUS,643,Rural,2,Flush and pour flush - to septic tank,0.0,Russia Longitudinal Monitoring Survey - RLMS16
+Russian Federation,RU,RUS,643,Rural,3,Flush and pour flush - to pit,0.0,Russia Longitudinal Monitoring Survey - RLMS16
+Russian Federation,RU,RUS,643,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Russia Longitudinal Monitoring Survey - RLMS16
+Russian Federation,RU,RUS,643,Rural,5,Flush and pour flush - to elsewhere,0.0,Russia Longitudinal Monitoring Survey - RLMS16
+Russian Federation,RU,RUS,643,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS16
+Russian Federation,RU,RUS,643,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS16
+Russian Federation,RU,RUS,643,Rural,8,Dry latrines - Traditional latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS16
+Russian Federation,RU,RUS,643,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Russia Longitudinal Monitoring Survey - RLMS16
+Russian Federation,RU,RUS,643,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS16
+Russian Federation,RU,RUS,643,Rural,11,Dry latrines - Bucket latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS16
+Russian Federation,RU,RUS,643,Rural,12,Dry latrines - Other,0.0,Russia Longitudinal Monitoring Survey - RLMS16
+Russian Federation,RU,RUS,643,Rural,13,Composting toilets,0.0,Russia Longitudinal Monitoring Survey - RLMS16
+Russian Federation,RU,RUS,643,Rural,14,Other improved,0.0,Russia Longitudinal Monitoring Survey - RLMS16
+Russian Federation,RU,RUS,643,Rural,15,"No facility, bush, field",0.0,Russia Longitudinal Monitoring Survey - RLMS16
+Russian Federation,RU,RUS,643,Rural,16,Other unimproved,0.54,Russia Longitudinal Monitoring Survey - RLMS16
+Russian Federation,RU,RUS,643,Rural,17,DK/missing information,0.0,Russia Longitudinal Monitoring Survey - RLMS16
+Russian Federation,RU,RUS,643,National,1,Flush and pour flush - to piped sewer system,0.928,Russia Longitudinal Monitoring Survey - RLMS16
+Russian Federation,RU,RUS,643,National,2,Flush and pour flush - to septic tank,0.0,Russia Longitudinal Monitoring Survey - RLMS16
+Russian Federation,RU,RUS,643,National,3,Flush and pour flush - to pit,0.0,Russia Longitudinal Monitoring Survey - RLMS16
+Russian Federation,RU,RUS,643,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Russia Longitudinal Monitoring Survey - RLMS16
+Russian Federation,RU,RUS,643,National,5,Flush and pour flush - to elsewhere,0.0,Russia Longitudinal Monitoring Survey - RLMS16
+Russian Federation,RU,RUS,643,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS16
+Russian Federation,RU,RUS,643,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS16
+Russian Federation,RU,RUS,643,National,8,Dry latrines - Traditional latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS16
+Russian Federation,RU,RUS,643,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Russia Longitudinal Monitoring Survey - RLMS16
+Russian Federation,RU,RUS,643,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS16
+Russian Federation,RU,RUS,643,National,11,Dry latrines - Bucket latrine,0.0,Russia Longitudinal Monitoring Survey - RLMS16
+Russian Federation,RU,RUS,643,National,12,Dry latrines - Other,0.0,Russia Longitudinal Monitoring Survey - RLMS16
+Russian Federation,RU,RUS,643,National,13,Composting toilets,0.0,Russia Longitudinal Monitoring Survey - RLMS16
+Russian Federation,RU,RUS,643,National,14,Other improved,0.0,Russia Longitudinal Monitoring Survey - RLMS16
+Russian Federation,RU,RUS,643,National,15,"No facility, bush, field",0.0,Russia Longitudinal Monitoring Survey - RLMS16
+Russian Federation,RU,RUS,643,National,16,Other unimproved,0.072,Russia Longitudinal Monitoring Survey - RLMS16
+Russian Federation,RU,RUS,643,National,17,DK/missing information,0.0,Russia Longitudinal Monitoring Survey - RLMS16

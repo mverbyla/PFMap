@@ -1,0 +1,715 @@
+country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+Virgin Islands (U.S.),VI,VIR,850,Urban,1,Flush and pour flush - to piped sewer system,0.0,Census - CEN00
+Virgin Islands (U.S.),VI,VIR,850,Urban,2,Flush and pour flush - to septic tank,0.0,Census - CEN00
+Virgin Islands (U.S.),VI,VIR,850,Urban,3,Flush and pour flush - to pit,0.0,Census - CEN00
+Virgin Islands (U.S.),VI,VIR,850,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN00
+Virgin Islands (U.S.),VI,VIR,850,Urban,5,Flush and pour flush - to elsewhere,0.0,Census - CEN00
+Virgin Islands (U.S.),VI,VIR,850,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN00
+Virgin Islands (U.S.),VI,VIR,850,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN00
+Virgin Islands (U.S.),VI,VIR,850,Urban,8,Dry latrines - Traditional latrine,0.0,Census - CEN00
+Virgin Islands (U.S.),VI,VIR,850,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN00
+Virgin Islands (U.S.),VI,VIR,850,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN00
+Virgin Islands (U.S.),VI,VIR,850,Urban,11,Dry latrines - Bucket latrine,0.0,Census - CEN00
+Virgin Islands (U.S.),VI,VIR,850,Urban,12,Dry latrines - Other,0.0,Census - CEN00
+Virgin Islands (U.S.),VI,VIR,850,Urban,13,Composting toilets,0.0,Census - CEN00
+Virgin Islands (U.S.),VI,VIR,850,Urban,14,Other improved,0.0,Census - CEN00
+Virgin Islands (U.S.),VI,VIR,850,Urban,15,"No facility, bush, field",0.0,Census - CEN00
+Virgin Islands (U.S.),VI,VIR,850,Urban,16,Other unimproved,0.0,Census - CEN00
+Virgin Islands (U.S.),VI,VIR,850,Urban,17,DK/missing information,0.0,Census - CEN00
+Virgin Islands (U.S.),VI,VIR,850,Rural,1,Flush and pour flush - to piped sewer system,0.0,Census - CEN00
+Virgin Islands (U.S.),VI,VIR,850,Rural,2,Flush and pour flush - to septic tank,0.0,Census - CEN00
+Virgin Islands (U.S.),VI,VIR,850,Rural,3,Flush and pour flush - to pit,0.0,Census - CEN00
+Virgin Islands (U.S.),VI,VIR,850,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN00
+Virgin Islands (U.S.),VI,VIR,850,Rural,5,Flush and pour flush - to elsewhere,0.0,Census - CEN00
+Virgin Islands (U.S.),VI,VIR,850,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN00
+Virgin Islands (U.S.),VI,VIR,850,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN00
+Virgin Islands (U.S.),VI,VIR,850,Rural,8,Dry latrines - Traditional latrine,0.0,Census - CEN00
+Virgin Islands (U.S.),VI,VIR,850,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN00
+Virgin Islands (U.S.),VI,VIR,850,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN00
+Virgin Islands (U.S.),VI,VIR,850,Rural,11,Dry latrines - Bucket latrine,0.0,Census - CEN00
+Virgin Islands (U.S.),VI,VIR,850,Rural,12,Dry latrines - Other,0.0,Census - CEN00
+Virgin Islands (U.S.),VI,VIR,850,Rural,13,Composting toilets,0.0,Census - CEN00
+Virgin Islands (U.S.),VI,VIR,850,Rural,14,Other improved,0.0,Census - CEN00
+Virgin Islands (U.S.),VI,VIR,850,Rural,15,"No facility, bush, field",0.0,Census - CEN00
+Virgin Islands (U.S.),VI,VIR,850,Rural,16,Other unimproved,0.0,Census - CEN00
+Virgin Islands (U.S.),VI,VIR,850,Rural,17,DK/missing information,0.0,Census - CEN00
+Virgin Islands (U.S.),VI,VIR,850,National,1,Flush and pour flush - to piped sewer system,0.515,Census - CEN00
+Virgin Islands (U.S.),VI,VIR,850,National,2,Flush and pour flush - to septic tank,0.449,Census - CEN00
+Virgin Islands (U.S.),VI,VIR,850,National,3,Flush and pour flush - to pit,0.0,Census - CEN00
+Virgin Islands (U.S.),VI,VIR,850,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN00
+Virgin Islands (U.S.),VI,VIR,850,National,5,Flush and pour flush - to elsewhere,0.0,Census - CEN00
+Virgin Islands (U.S.),VI,VIR,850,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN00
+Virgin Islands (U.S.),VI,VIR,850,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN00
+Virgin Islands (U.S.),VI,VIR,850,National,8,Dry latrines - Traditional latrine,0.0,Census - CEN00
+Virgin Islands (U.S.),VI,VIR,850,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN00
+Virgin Islands (U.S.),VI,VIR,850,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN00
+Virgin Islands (U.S.),VI,VIR,850,National,11,Dry latrines - Bucket latrine,0.0,Census - CEN00
+Virgin Islands (U.S.),VI,VIR,850,National,12,Dry latrines - Other,0.0,Census - CEN00
+Virgin Islands (U.S.),VI,VIR,850,National,13,Composting toilets,0.0,Census - CEN00
+Virgin Islands (U.S.),VI,VIR,850,National,14,Other improved,0.0,Census - CEN00
+Virgin Islands (U.S.),VI,VIR,850,National,15,"No facility, bush, field",0.0,Census - CEN00
+Virgin Islands (U.S.),VI,VIR,850,National,16,Other unimproved,0.035,Census - CEN00
+Virgin Islands (U.S.),VI,VIR,850,National,17,DK/missing information,0.0,Census - CEN00
+Virgin Islands (U.S.),VI,VIR,850,Urban,1,Flush and pour flush - to piped sewer system,0.0,Virgin Islands Community Survey - VIC01
+Virgin Islands (U.S.),VI,VIR,850,Urban,2,Flush and pour flush - to septic tank,0.0,Virgin Islands Community Survey - VIC01
+Virgin Islands (U.S.),VI,VIR,850,Urban,3,Flush and pour flush - to pit,0.0,Virgin Islands Community Survey - VIC01
+Virgin Islands (U.S.),VI,VIR,850,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Virgin Islands Community Survey - VIC01
+Virgin Islands (U.S.),VI,VIR,850,Urban,5,Flush and pour flush - to elsewhere,0.0,Virgin Islands Community Survey - VIC01
+Virgin Islands (U.S.),VI,VIR,850,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Virgin Islands Community Survey - VIC01
+Virgin Islands (U.S.),VI,VIR,850,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Virgin Islands Community Survey - VIC01
+Virgin Islands (U.S.),VI,VIR,850,Urban,8,Dry latrines - Traditional latrine,0.0,Virgin Islands Community Survey - VIC01
+Virgin Islands (U.S.),VI,VIR,850,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Virgin Islands Community Survey - VIC01
+Virgin Islands (U.S.),VI,VIR,850,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Virgin Islands Community Survey - VIC01
+Virgin Islands (U.S.),VI,VIR,850,Urban,11,Dry latrines - Bucket latrine,0.0,Virgin Islands Community Survey - VIC01
+Virgin Islands (U.S.),VI,VIR,850,Urban,12,Dry latrines - Other,0.0,Virgin Islands Community Survey - VIC01
+Virgin Islands (U.S.),VI,VIR,850,Urban,13,Composting toilets,0.0,Virgin Islands Community Survey - VIC01
+Virgin Islands (U.S.),VI,VIR,850,Urban,14,Other improved,0.0,Virgin Islands Community Survey - VIC01
+Virgin Islands (U.S.),VI,VIR,850,Urban,15,"No facility, bush, field",0.0,Virgin Islands Community Survey - VIC01
+Virgin Islands (U.S.),VI,VIR,850,Urban,16,Other unimproved,0.0,Virgin Islands Community Survey - VIC01
+Virgin Islands (U.S.),VI,VIR,850,Urban,17,DK/missing information,0.0,Virgin Islands Community Survey - VIC01
+Virgin Islands (U.S.),VI,VIR,850,Rural,1,Flush and pour flush - to piped sewer system,0.0,Virgin Islands Community Survey - VIC01
+Virgin Islands (U.S.),VI,VIR,850,Rural,2,Flush and pour flush - to septic tank,0.0,Virgin Islands Community Survey - VIC01
+Virgin Islands (U.S.),VI,VIR,850,Rural,3,Flush and pour flush - to pit,0.0,Virgin Islands Community Survey - VIC01
+Virgin Islands (U.S.),VI,VIR,850,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Virgin Islands Community Survey - VIC01
+Virgin Islands (U.S.),VI,VIR,850,Rural,5,Flush and pour flush - to elsewhere,0.0,Virgin Islands Community Survey - VIC01
+Virgin Islands (U.S.),VI,VIR,850,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Virgin Islands Community Survey - VIC01
+Virgin Islands (U.S.),VI,VIR,850,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Virgin Islands Community Survey - VIC01
+Virgin Islands (U.S.),VI,VIR,850,Rural,8,Dry latrines - Traditional latrine,0.0,Virgin Islands Community Survey - VIC01
+Virgin Islands (U.S.),VI,VIR,850,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Virgin Islands Community Survey - VIC01
+Virgin Islands (U.S.),VI,VIR,850,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Virgin Islands Community Survey - VIC01
+Virgin Islands (U.S.),VI,VIR,850,Rural,11,Dry latrines - Bucket latrine,0.0,Virgin Islands Community Survey - VIC01
+Virgin Islands (U.S.),VI,VIR,850,Rural,12,Dry latrines - Other,0.0,Virgin Islands Community Survey - VIC01
+Virgin Islands (U.S.),VI,VIR,850,Rural,13,Composting toilets,0.0,Virgin Islands Community Survey - VIC01
+Virgin Islands (U.S.),VI,VIR,850,Rural,14,Other improved,0.0,Virgin Islands Community Survey - VIC01
+Virgin Islands (U.S.),VI,VIR,850,Rural,15,"No facility, bush, field",0.0,Virgin Islands Community Survey - VIC01
+Virgin Islands (U.S.),VI,VIR,850,Rural,16,Other unimproved,0.0,Virgin Islands Community Survey - VIC01
+Virgin Islands (U.S.),VI,VIR,850,Rural,17,DK/missing information,0.0,Virgin Islands Community Survey - VIC01
+Virgin Islands (U.S.),VI,VIR,850,National,1,Flush and pour flush - to piped sewer system,0.503,Virgin Islands Community Survey - VIC01
+Virgin Islands (U.S.),VI,VIR,850,National,2,Flush and pour flush - to septic tank,0.483,Virgin Islands Community Survey - VIC01
+Virgin Islands (U.S.),VI,VIR,850,National,3,Flush and pour flush - to pit,0.0,Virgin Islands Community Survey - VIC01
+Virgin Islands (U.S.),VI,VIR,850,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Virgin Islands Community Survey - VIC01
+Virgin Islands (U.S.),VI,VIR,850,National,5,Flush and pour flush - to elsewhere,0.0,Virgin Islands Community Survey - VIC01
+Virgin Islands (U.S.),VI,VIR,850,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Virgin Islands Community Survey - VIC01
+Virgin Islands (U.S.),VI,VIR,850,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Virgin Islands Community Survey - VIC01
+Virgin Islands (U.S.),VI,VIR,850,National,8,Dry latrines - Traditional latrine,0.0,Virgin Islands Community Survey - VIC01
+Virgin Islands (U.S.),VI,VIR,850,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Virgin Islands Community Survey - VIC01
+Virgin Islands (U.S.),VI,VIR,850,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Virgin Islands Community Survey - VIC01
+Virgin Islands (U.S.),VI,VIR,850,National,11,Dry latrines - Bucket latrine,0.0,Virgin Islands Community Survey - VIC01
+Virgin Islands (U.S.),VI,VIR,850,National,12,Dry latrines - Other,0.0,Virgin Islands Community Survey - VIC01
+Virgin Islands (U.S.),VI,VIR,850,National,13,Composting toilets,0.0,Virgin Islands Community Survey - VIC01
+Virgin Islands (U.S.),VI,VIR,850,National,14,Other improved,0.0,Virgin Islands Community Survey - VIC01
+Virgin Islands (U.S.),VI,VIR,850,National,15,"No facility, bush, field",0.0,Virgin Islands Community Survey - VIC01
+Virgin Islands (U.S.),VI,VIR,850,National,16,Other unimproved,0.013,Virgin Islands Community Survey - VIC01
+Virgin Islands (U.S.),VI,VIR,850,National,17,DK/missing information,0.0,Virgin Islands Community Survey - VIC01
+Virgin Islands (U.S.),VI,VIR,850,Urban,1,Flush and pour flush - to piped sewer system,0.0,Virgin Islands Community Survey - VIC02
+Virgin Islands (U.S.),VI,VIR,850,Urban,2,Flush and pour flush - to septic tank,0.0,Virgin Islands Community Survey - VIC02
+Virgin Islands (U.S.),VI,VIR,850,Urban,3,Flush and pour flush - to pit,0.0,Virgin Islands Community Survey - VIC02
+Virgin Islands (U.S.),VI,VIR,850,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Virgin Islands Community Survey - VIC02
+Virgin Islands (U.S.),VI,VIR,850,Urban,5,Flush and pour flush - to elsewhere,0.0,Virgin Islands Community Survey - VIC02
+Virgin Islands (U.S.),VI,VIR,850,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Virgin Islands Community Survey - VIC02
+Virgin Islands (U.S.),VI,VIR,850,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Virgin Islands Community Survey - VIC02
+Virgin Islands (U.S.),VI,VIR,850,Urban,8,Dry latrines - Traditional latrine,0.0,Virgin Islands Community Survey - VIC02
+Virgin Islands (U.S.),VI,VIR,850,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Virgin Islands Community Survey - VIC02
+Virgin Islands (U.S.),VI,VIR,850,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Virgin Islands Community Survey - VIC02
+Virgin Islands (U.S.),VI,VIR,850,Urban,11,Dry latrines - Bucket latrine,0.0,Virgin Islands Community Survey - VIC02
+Virgin Islands (U.S.),VI,VIR,850,Urban,12,Dry latrines - Other,0.0,Virgin Islands Community Survey - VIC02
+Virgin Islands (U.S.),VI,VIR,850,Urban,13,Composting toilets,0.0,Virgin Islands Community Survey - VIC02
+Virgin Islands (U.S.),VI,VIR,850,Urban,14,Other improved,0.0,Virgin Islands Community Survey - VIC02
+Virgin Islands (U.S.),VI,VIR,850,Urban,15,"No facility, bush, field",0.0,Virgin Islands Community Survey - VIC02
+Virgin Islands (U.S.),VI,VIR,850,Urban,16,Other unimproved,0.0,Virgin Islands Community Survey - VIC02
+Virgin Islands (U.S.),VI,VIR,850,Urban,17,DK/missing information,0.0,Virgin Islands Community Survey - VIC02
+Virgin Islands (U.S.),VI,VIR,850,Rural,1,Flush and pour flush - to piped sewer system,0.0,Virgin Islands Community Survey - VIC02
+Virgin Islands (U.S.),VI,VIR,850,Rural,2,Flush and pour flush - to septic tank,0.0,Virgin Islands Community Survey - VIC02
+Virgin Islands (U.S.),VI,VIR,850,Rural,3,Flush and pour flush - to pit,0.0,Virgin Islands Community Survey - VIC02
+Virgin Islands (U.S.),VI,VIR,850,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Virgin Islands Community Survey - VIC02
+Virgin Islands (U.S.),VI,VIR,850,Rural,5,Flush and pour flush - to elsewhere,0.0,Virgin Islands Community Survey - VIC02
+Virgin Islands (U.S.),VI,VIR,850,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Virgin Islands Community Survey - VIC02
+Virgin Islands (U.S.),VI,VIR,850,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Virgin Islands Community Survey - VIC02
+Virgin Islands (U.S.),VI,VIR,850,Rural,8,Dry latrines - Traditional latrine,0.0,Virgin Islands Community Survey - VIC02
+Virgin Islands (U.S.),VI,VIR,850,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Virgin Islands Community Survey - VIC02
+Virgin Islands (U.S.),VI,VIR,850,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Virgin Islands Community Survey - VIC02
+Virgin Islands (U.S.),VI,VIR,850,Rural,11,Dry latrines - Bucket latrine,0.0,Virgin Islands Community Survey - VIC02
+Virgin Islands (U.S.),VI,VIR,850,Rural,12,Dry latrines - Other,0.0,Virgin Islands Community Survey - VIC02
+Virgin Islands (U.S.),VI,VIR,850,Rural,13,Composting toilets,0.0,Virgin Islands Community Survey - VIC02
+Virgin Islands (U.S.),VI,VIR,850,Rural,14,Other improved,0.0,Virgin Islands Community Survey - VIC02
+Virgin Islands (U.S.),VI,VIR,850,Rural,15,"No facility, bush, field",0.0,Virgin Islands Community Survey - VIC02
+Virgin Islands (U.S.),VI,VIR,850,Rural,16,Other unimproved,0.0,Virgin Islands Community Survey - VIC02
+Virgin Islands (U.S.),VI,VIR,850,Rural,17,DK/missing information,0.0,Virgin Islands Community Survey - VIC02
+Virgin Islands (U.S.),VI,VIR,850,National,1,Flush and pour flush - to piped sewer system,0.561,Virgin Islands Community Survey - VIC02
+Virgin Islands (U.S.),VI,VIR,850,National,2,Flush and pour flush - to septic tank,0.425,Virgin Islands Community Survey - VIC02
+Virgin Islands (U.S.),VI,VIR,850,National,3,Flush and pour flush - to pit,0.0,Virgin Islands Community Survey - VIC02
+Virgin Islands (U.S.),VI,VIR,850,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Virgin Islands Community Survey - VIC02
+Virgin Islands (U.S.),VI,VIR,850,National,5,Flush and pour flush - to elsewhere,0.0,Virgin Islands Community Survey - VIC02
+Virgin Islands (U.S.),VI,VIR,850,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Virgin Islands Community Survey - VIC02
+Virgin Islands (U.S.),VI,VIR,850,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Virgin Islands Community Survey - VIC02
+Virgin Islands (U.S.),VI,VIR,850,National,8,Dry latrines - Traditional latrine,0.0,Virgin Islands Community Survey - VIC02
+Virgin Islands (U.S.),VI,VIR,850,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Virgin Islands Community Survey - VIC02
+Virgin Islands (U.S.),VI,VIR,850,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Virgin Islands Community Survey - VIC02
+Virgin Islands (U.S.),VI,VIR,850,National,11,Dry latrines - Bucket latrine,0.0,Virgin Islands Community Survey - VIC02
+Virgin Islands (U.S.),VI,VIR,850,National,12,Dry latrines - Other,0.0,Virgin Islands Community Survey - VIC02
+Virgin Islands (U.S.),VI,VIR,850,National,13,Composting toilets,0.0,Virgin Islands Community Survey - VIC02
+Virgin Islands (U.S.),VI,VIR,850,National,14,Other improved,0.0,Virgin Islands Community Survey - VIC02
+Virgin Islands (U.S.),VI,VIR,850,National,15,"No facility, bush, field",0.0,Virgin Islands Community Survey - VIC02
+Virgin Islands (U.S.),VI,VIR,850,National,16,Other unimproved,0.013,Virgin Islands Community Survey - VIC02
+Virgin Islands (U.S.),VI,VIR,850,National,17,DK/missing information,0.0,Virgin Islands Community Survey - VIC02
+Virgin Islands (U.S.),VI,VIR,850,Urban,1,Flush and pour flush - to piped sewer system,0.0,Virgin Islands Community Survey - VIC03
+Virgin Islands (U.S.),VI,VIR,850,Urban,2,Flush and pour flush - to septic tank,0.0,Virgin Islands Community Survey - VIC03
+Virgin Islands (U.S.),VI,VIR,850,Urban,3,Flush and pour flush - to pit,0.0,Virgin Islands Community Survey - VIC03
+Virgin Islands (U.S.),VI,VIR,850,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Virgin Islands Community Survey - VIC03
+Virgin Islands (U.S.),VI,VIR,850,Urban,5,Flush and pour flush - to elsewhere,0.0,Virgin Islands Community Survey - VIC03
+Virgin Islands (U.S.),VI,VIR,850,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Virgin Islands Community Survey - VIC03
+Virgin Islands (U.S.),VI,VIR,850,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Virgin Islands Community Survey - VIC03
+Virgin Islands (U.S.),VI,VIR,850,Urban,8,Dry latrines - Traditional latrine,0.0,Virgin Islands Community Survey - VIC03
+Virgin Islands (U.S.),VI,VIR,850,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Virgin Islands Community Survey - VIC03
+Virgin Islands (U.S.),VI,VIR,850,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Virgin Islands Community Survey - VIC03
+Virgin Islands (U.S.),VI,VIR,850,Urban,11,Dry latrines - Bucket latrine,0.0,Virgin Islands Community Survey - VIC03
+Virgin Islands (U.S.),VI,VIR,850,Urban,12,Dry latrines - Other,0.0,Virgin Islands Community Survey - VIC03
+Virgin Islands (U.S.),VI,VIR,850,Urban,13,Composting toilets,0.0,Virgin Islands Community Survey - VIC03
+Virgin Islands (U.S.),VI,VIR,850,Urban,14,Other improved,0.0,Virgin Islands Community Survey - VIC03
+Virgin Islands (U.S.),VI,VIR,850,Urban,15,"No facility, bush, field",0.0,Virgin Islands Community Survey - VIC03
+Virgin Islands (U.S.),VI,VIR,850,Urban,16,Other unimproved,0.0,Virgin Islands Community Survey - VIC03
+Virgin Islands (U.S.),VI,VIR,850,Urban,17,DK/missing information,0.0,Virgin Islands Community Survey - VIC03
+Virgin Islands (U.S.),VI,VIR,850,Rural,1,Flush and pour flush - to piped sewer system,0.0,Virgin Islands Community Survey - VIC03
+Virgin Islands (U.S.),VI,VIR,850,Rural,2,Flush and pour flush - to septic tank,0.0,Virgin Islands Community Survey - VIC03
+Virgin Islands (U.S.),VI,VIR,850,Rural,3,Flush and pour flush - to pit,0.0,Virgin Islands Community Survey - VIC03
+Virgin Islands (U.S.),VI,VIR,850,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Virgin Islands Community Survey - VIC03
+Virgin Islands (U.S.),VI,VIR,850,Rural,5,Flush and pour flush - to elsewhere,0.0,Virgin Islands Community Survey - VIC03
+Virgin Islands (U.S.),VI,VIR,850,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Virgin Islands Community Survey - VIC03
+Virgin Islands (U.S.),VI,VIR,850,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Virgin Islands Community Survey - VIC03
+Virgin Islands (U.S.),VI,VIR,850,Rural,8,Dry latrines - Traditional latrine,0.0,Virgin Islands Community Survey - VIC03
+Virgin Islands (U.S.),VI,VIR,850,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Virgin Islands Community Survey - VIC03
+Virgin Islands (U.S.),VI,VIR,850,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Virgin Islands Community Survey - VIC03
+Virgin Islands (U.S.),VI,VIR,850,Rural,11,Dry latrines - Bucket latrine,0.0,Virgin Islands Community Survey - VIC03
+Virgin Islands (U.S.),VI,VIR,850,Rural,12,Dry latrines - Other,0.0,Virgin Islands Community Survey - VIC03
+Virgin Islands (U.S.),VI,VIR,850,Rural,13,Composting toilets,0.0,Virgin Islands Community Survey - VIC03
+Virgin Islands (U.S.),VI,VIR,850,Rural,14,Other improved,0.0,Virgin Islands Community Survey - VIC03
+Virgin Islands (U.S.),VI,VIR,850,Rural,15,"No facility, bush, field",0.0,Virgin Islands Community Survey - VIC03
+Virgin Islands (U.S.),VI,VIR,850,Rural,16,Other unimproved,0.0,Virgin Islands Community Survey - VIC03
+Virgin Islands (U.S.),VI,VIR,850,Rural,17,DK/missing information,0.0,Virgin Islands Community Survey - VIC03
+Virgin Islands (U.S.),VI,VIR,850,National,1,Flush and pour flush - to piped sewer system,0.625,Virgin Islands Community Survey - VIC03
+Virgin Islands (U.S.),VI,VIR,850,National,2,Flush and pour flush - to septic tank,0.363,Virgin Islands Community Survey - VIC03
+Virgin Islands (U.S.),VI,VIR,850,National,3,Flush and pour flush - to pit,0.0,Virgin Islands Community Survey - VIC03
+Virgin Islands (U.S.),VI,VIR,850,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Virgin Islands Community Survey - VIC03
+Virgin Islands (U.S.),VI,VIR,850,National,5,Flush and pour flush - to elsewhere,0.0,Virgin Islands Community Survey - VIC03
+Virgin Islands (U.S.),VI,VIR,850,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Virgin Islands Community Survey - VIC03
+Virgin Islands (U.S.),VI,VIR,850,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Virgin Islands Community Survey - VIC03
+Virgin Islands (U.S.),VI,VIR,850,National,8,Dry latrines - Traditional latrine,0.0,Virgin Islands Community Survey - VIC03
+Virgin Islands (U.S.),VI,VIR,850,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Virgin Islands Community Survey - VIC03
+Virgin Islands (U.S.),VI,VIR,850,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Virgin Islands Community Survey - VIC03
+Virgin Islands (U.S.),VI,VIR,850,National,11,Dry latrines - Bucket latrine,0.0,Virgin Islands Community Survey - VIC03
+Virgin Islands (U.S.),VI,VIR,850,National,12,Dry latrines - Other,0.0,Virgin Islands Community Survey - VIC03
+Virgin Islands (U.S.),VI,VIR,850,National,13,Composting toilets,0.0,Virgin Islands Community Survey - VIC03
+Virgin Islands (U.S.),VI,VIR,850,National,14,Other improved,0.0,Virgin Islands Community Survey - VIC03
+Virgin Islands (U.S.),VI,VIR,850,National,15,"No facility, bush, field",0.0,Virgin Islands Community Survey - VIC03
+Virgin Islands (U.S.),VI,VIR,850,National,16,Other unimproved,0.012,Virgin Islands Community Survey - VIC03
+Virgin Islands (U.S.),VI,VIR,850,National,17,DK/missing information,0.0,Virgin Islands Community Survey - VIC03
+Virgin Islands (U.S.),VI,VIR,850,Urban,1,Flush and pour flush - to piped sewer system,0.0,Virgin Islands Community Survey - VIC04
+Virgin Islands (U.S.),VI,VIR,850,Urban,2,Flush and pour flush - to septic tank,0.0,Virgin Islands Community Survey - VIC04
+Virgin Islands (U.S.),VI,VIR,850,Urban,3,Flush and pour flush - to pit,0.0,Virgin Islands Community Survey - VIC04
+Virgin Islands (U.S.),VI,VIR,850,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Virgin Islands Community Survey - VIC04
+Virgin Islands (U.S.),VI,VIR,850,Urban,5,Flush and pour flush - to elsewhere,0.0,Virgin Islands Community Survey - VIC04
+Virgin Islands (U.S.),VI,VIR,850,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Virgin Islands Community Survey - VIC04
+Virgin Islands (U.S.),VI,VIR,850,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Virgin Islands Community Survey - VIC04
+Virgin Islands (U.S.),VI,VIR,850,Urban,8,Dry latrines - Traditional latrine,0.0,Virgin Islands Community Survey - VIC04
+Virgin Islands (U.S.),VI,VIR,850,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Virgin Islands Community Survey - VIC04
+Virgin Islands (U.S.),VI,VIR,850,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Virgin Islands Community Survey - VIC04
+Virgin Islands (U.S.),VI,VIR,850,Urban,11,Dry latrines - Bucket latrine,0.0,Virgin Islands Community Survey - VIC04
+Virgin Islands (U.S.),VI,VIR,850,Urban,12,Dry latrines - Other,0.0,Virgin Islands Community Survey - VIC04
+Virgin Islands (U.S.),VI,VIR,850,Urban,13,Composting toilets,0.0,Virgin Islands Community Survey - VIC04
+Virgin Islands (U.S.),VI,VIR,850,Urban,14,Other improved,0.0,Virgin Islands Community Survey - VIC04
+Virgin Islands (U.S.),VI,VIR,850,Urban,15,"No facility, bush, field",0.0,Virgin Islands Community Survey - VIC04
+Virgin Islands (U.S.),VI,VIR,850,Urban,16,Other unimproved,0.0,Virgin Islands Community Survey - VIC04
+Virgin Islands (U.S.),VI,VIR,850,Urban,17,DK/missing information,0.0,Virgin Islands Community Survey - VIC04
+Virgin Islands (U.S.),VI,VIR,850,Rural,1,Flush and pour flush - to piped sewer system,0.0,Virgin Islands Community Survey - VIC04
+Virgin Islands (U.S.),VI,VIR,850,Rural,2,Flush and pour flush - to septic tank,0.0,Virgin Islands Community Survey - VIC04
+Virgin Islands (U.S.),VI,VIR,850,Rural,3,Flush and pour flush - to pit,0.0,Virgin Islands Community Survey - VIC04
+Virgin Islands (U.S.),VI,VIR,850,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Virgin Islands Community Survey - VIC04
+Virgin Islands (U.S.),VI,VIR,850,Rural,5,Flush and pour flush - to elsewhere,0.0,Virgin Islands Community Survey - VIC04
+Virgin Islands (U.S.),VI,VIR,850,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Virgin Islands Community Survey - VIC04
+Virgin Islands (U.S.),VI,VIR,850,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Virgin Islands Community Survey - VIC04
+Virgin Islands (U.S.),VI,VIR,850,Rural,8,Dry latrines - Traditional latrine,0.0,Virgin Islands Community Survey - VIC04
+Virgin Islands (U.S.),VI,VIR,850,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Virgin Islands Community Survey - VIC04
+Virgin Islands (U.S.),VI,VIR,850,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Virgin Islands Community Survey - VIC04
+Virgin Islands (U.S.),VI,VIR,850,Rural,11,Dry latrines - Bucket latrine,0.0,Virgin Islands Community Survey - VIC04
+Virgin Islands (U.S.),VI,VIR,850,Rural,12,Dry latrines - Other,0.0,Virgin Islands Community Survey - VIC04
+Virgin Islands (U.S.),VI,VIR,850,Rural,13,Composting toilets,0.0,Virgin Islands Community Survey - VIC04
+Virgin Islands (U.S.),VI,VIR,850,Rural,14,Other improved,0.0,Virgin Islands Community Survey - VIC04
+Virgin Islands (U.S.),VI,VIR,850,Rural,15,"No facility, bush, field",0.0,Virgin Islands Community Survey - VIC04
+Virgin Islands (U.S.),VI,VIR,850,Rural,16,Other unimproved,0.0,Virgin Islands Community Survey - VIC04
+Virgin Islands (U.S.),VI,VIR,850,Rural,17,DK/missing information,0.0,Virgin Islands Community Survey - VIC04
+Virgin Islands (U.S.),VI,VIR,850,National,1,Flush and pour flush - to piped sewer system,0.554,Virgin Islands Community Survey - VIC04
+Virgin Islands (U.S.),VI,VIR,850,National,2,Flush and pour flush - to septic tank,0.429,Virgin Islands Community Survey - VIC04
+Virgin Islands (U.S.),VI,VIR,850,National,3,Flush and pour flush - to pit,0.0,Virgin Islands Community Survey - VIC04
+Virgin Islands (U.S.),VI,VIR,850,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Virgin Islands Community Survey - VIC04
+Virgin Islands (U.S.),VI,VIR,850,National,5,Flush and pour flush - to elsewhere,0.0,Virgin Islands Community Survey - VIC04
+Virgin Islands (U.S.),VI,VIR,850,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Virgin Islands Community Survey - VIC04
+Virgin Islands (U.S.),VI,VIR,850,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Virgin Islands Community Survey - VIC04
+Virgin Islands (U.S.),VI,VIR,850,National,8,Dry latrines - Traditional latrine,0.0,Virgin Islands Community Survey - VIC04
+Virgin Islands (U.S.),VI,VIR,850,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Virgin Islands Community Survey - VIC04
+Virgin Islands (U.S.),VI,VIR,850,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Virgin Islands Community Survey - VIC04
+Virgin Islands (U.S.),VI,VIR,850,National,11,Dry latrines - Bucket latrine,0.0,Virgin Islands Community Survey - VIC04
+Virgin Islands (U.S.),VI,VIR,850,National,12,Dry latrines - Other,0.0,Virgin Islands Community Survey - VIC04
+Virgin Islands (U.S.),VI,VIR,850,National,13,Composting toilets,0.0,Virgin Islands Community Survey - VIC04
+Virgin Islands (U.S.),VI,VIR,850,National,14,Other improved,0.0,Virgin Islands Community Survey - VIC04
+Virgin Islands (U.S.),VI,VIR,850,National,15,"No facility, bush, field",0.0,Virgin Islands Community Survey - VIC04
+Virgin Islands (U.S.),VI,VIR,850,National,16,Other unimproved,0.018,Virgin Islands Community Survey - VIC04
+Virgin Islands (U.S.),VI,VIR,850,National,17,DK/missing information,0.0,Virgin Islands Community Survey - VIC04
+Virgin Islands (U.S.),VI,VIR,850,Urban,1,Flush and pour flush - to piped sewer system,0.0,Virgin Islands Community Survey - VIC05
+Virgin Islands (U.S.),VI,VIR,850,Urban,2,Flush and pour flush - to septic tank,0.0,Virgin Islands Community Survey - VIC05
+Virgin Islands (U.S.),VI,VIR,850,Urban,3,Flush and pour flush - to pit,0.0,Virgin Islands Community Survey - VIC05
+Virgin Islands (U.S.),VI,VIR,850,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Virgin Islands Community Survey - VIC05
+Virgin Islands (U.S.),VI,VIR,850,Urban,5,Flush and pour flush - to elsewhere,0.0,Virgin Islands Community Survey - VIC05
+Virgin Islands (U.S.),VI,VIR,850,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Virgin Islands Community Survey - VIC05
+Virgin Islands (U.S.),VI,VIR,850,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Virgin Islands Community Survey - VIC05
+Virgin Islands (U.S.),VI,VIR,850,Urban,8,Dry latrines - Traditional latrine,0.0,Virgin Islands Community Survey - VIC05
+Virgin Islands (U.S.),VI,VIR,850,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Virgin Islands Community Survey - VIC05
+Virgin Islands (U.S.),VI,VIR,850,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Virgin Islands Community Survey - VIC05
+Virgin Islands (U.S.),VI,VIR,850,Urban,11,Dry latrines - Bucket latrine,0.0,Virgin Islands Community Survey - VIC05
+Virgin Islands (U.S.),VI,VIR,850,Urban,12,Dry latrines - Other,0.0,Virgin Islands Community Survey - VIC05
+Virgin Islands (U.S.),VI,VIR,850,Urban,13,Composting toilets,0.0,Virgin Islands Community Survey - VIC05
+Virgin Islands (U.S.),VI,VIR,850,Urban,14,Other improved,0.0,Virgin Islands Community Survey - VIC05
+Virgin Islands (U.S.),VI,VIR,850,Urban,15,"No facility, bush, field",0.0,Virgin Islands Community Survey - VIC05
+Virgin Islands (U.S.),VI,VIR,850,Urban,16,Other unimproved,0.0,Virgin Islands Community Survey - VIC05
+Virgin Islands (U.S.),VI,VIR,850,Urban,17,DK/missing information,0.0,Virgin Islands Community Survey - VIC05
+Virgin Islands (U.S.),VI,VIR,850,Rural,1,Flush and pour flush - to piped sewer system,0.0,Virgin Islands Community Survey - VIC05
+Virgin Islands (U.S.),VI,VIR,850,Rural,2,Flush and pour flush - to septic tank,0.0,Virgin Islands Community Survey - VIC05
+Virgin Islands (U.S.),VI,VIR,850,Rural,3,Flush and pour flush - to pit,0.0,Virgin Islands Community Survey - VIC05
+Virgin Islands (U.S.),VI,VIR,850,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Virgin Islands Community Survey - VIC05
+Virgin Islands (U.S.),VI,VIR,850,Rural,5,Flush and pour flush - to elsewhere,0.0,Virgin Islands Community Survey - VIC05
+Virgin Islands (U.S.),VI,VIR,850,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Virgin Islands Community Survey - VIC05
+Virgin Islands (U.S.),VI,VIR,850,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Virgin Islands Community Survey - VIC05
+Virgin Islands (U.S.),VI,VIR,850,Rural,8,Dry latrines - Traditional latrine,0.0,Virgin Islands Community Survey - VIC05
+Virgin Islands (U.S.),VI,VIR,850,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Virgin Islands Community Survey - VIC05
+Virgin Islands (U.S.),VI,VIR,850,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Virgin Islands Community Survey - VIC05
+Virgin Islands (U.S.),VI,VIR,850,Rural,11,Dry latrines - Bucket latrine,0.0,Virgin Islands Community Survey - VIC05
+Virgin Islands (U.S.),VI,VIR,850,Rural,12,Dry latrines - Other,0.0,Virgin Islands Community Survey - VIC05
+Virgin Islands (U.S.),VI,VIR,850,Rural,13,Composting toilets,0.0,Virgin Islands Community Survey - VIC05
+Virgin Islands (U.S.),VI,VIR,850,Rural,14,Other improved,0.0,Virgin Islands Community Survey - VIC05
+Virgin Islands (U.S.),VI,VIR,850,Rural,15,"No facility, bush, field",0.0,Virgin Islands Community Survey - VIC05
+Virgin Islands (U.S.),VI,VIR,850,Rural,16,Other unimproved,0.0,Virgin Islands Community Survey - VIC05
+Virgin Islands (U.S.),VI,VIR,850,Rural,17,DK/missing information,0.0,Virgin Islands Community Survey - VIC05
+Virgin Islands (U.S.),VI,VIR,850,National,1,Flush and pour flush - to piped sewer system,0.475,Virgin Islands Community Survey - VIC05
+Virgin Islands (U.S.),VI,VIR,850,National,2,Flush and pour flush - to septic tank,0.514,Virgin Islands Community Survey - VIC05
+Virgin Islands (U.S.),VI,VIR,850,National,3,Flush and pour flush - to pit,0.0,Virgin Islands Community Survey - VIC05
+Virgin Islands (U.S.),VI,VIR,850,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Virgin Islands Community Survey - VIC05
+Virgin Islands (U.S.),VI,VIR,850,National,5,Flush and pour flush - to elsewhere,0.0,Virgin Islands Community Survey - VIC05
+Virgin Islands (U.S.),VI,VIR,850,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Virgin Islands Community Survey - VIC05
+Virgin Islands (U.S.),VI,VIR,850,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Virgin Islands Community Survey - VIC05
+Virgin Islands (U.S.),VI,VIR,850,National,8,Dry latrines - Traditional latrine,0.0,Virgin Islands Community Survey - VIC05
+Virgin Islands (U.S.),VI,VIR,850,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Virgin Islands Community Survey - VIC05
+Virgin Islands (U.S.),VI,VIR,850,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Virgin Islands Community Survey - VIC05
+Virgin Islands (U.S.),VI,VIR,850,National,11,Dry latrines - Bucket latrine,0.0,Virgin Islands Community Survey - VIC05
+Virgin Islands (U.S.),VI,VIR,850,National,12,Dry latrines - Other,0.0,Virgin Islands Community Survey - VIC05
+Virgin Islands (U.S.),VI,VIR,850,National,13,Composting toilets,0.0,Virgin Islands Community Survey - VIC05
+Virgin Islands (U.S.),VI,VIR,850,National,14,Other improved,0.0,Virgin Islands Community Survey - VIC05
+Virgin Islands (U.S.),VI,VIR,850,National,15,"No facility, bush, field",0.0,Virgin Islands Community Survey - VIC05
+Virgin Islands (U.S.),VI,VIR,850,National,16,Other unimproved,0.011,Virgin Islands Community Survey - VIC05
+Virgin Islands (U.S.),VI,VIR,850,National,17,DK/missing information,0.0,Virgin Islands Community Survey - VIC05
+Virgin Islands (U.S.),VI,VIR,850,Urban,1,Flush and pour flush - to piped sewer system,0.0,Virgin Islands Community Survey - VIC06
+Virgin Islands (U.S.),VI,VIR,850,Urban,2,Flush and pour flush - to septic tank,0.0,Virgin Islands Community Survey - VIC06
+Virgin Islands (U.S.),VI,VIR,850,Urban,3,Flush and pour flush - to pit,0.0,Virgin Islands Community Survey - VIC06
+Virgin Islands (U.S.),VI,VIR,850,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Virgin Islands Community Survey - VIC06
+Virgin Islands (U.S.),VI,VIR,850,Urban,5,Flush and pour flush - to elsewhere,0.0,Virgin Islands Community Survey - VIC06
+Virgin Islands (U.S.),VI,VIR,850,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Virgin Islands Community Survey - VIC06
+Virgin Islands (U.S.),VI,VIR,850,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Virgin Islands Community Survey - VIC06
+Virgin Islands (U.S.),VI,VIR,850,Urban,8,Dry latrines - Traditional latrine,0.0,Virgin Islands Community Survey - VIC06
+Virgin Islands (U.S.),VI,VIR,850,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Virgin Islands Community Survey - VIC06
+Virgin Islands (U.S.),VI,VIR,850,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Virgin Islands Community Survey - VIC06
+Virgin Islands (U.S.),VI,VIR,850,Urban,11,Dry latrines - Bucket latrine,0.0,Virgin Islands Community Survey - VIC06
+Virgin Islands (U.S.),VI,VIR,850,Urban,12,Dry latrines - Other,0.0,Virgin Islands Community Survey - VIC06
+Virgin Islands (U.S.),VI,VIR,850,Urban,13,Composting toilets,0.0,Virgin Islands Community Survey - VIC06
+Virgin Islands (U.S.),VI,VIR,850,Urban,14,Other improved,0.0,Virgin Islands Community Survey - VIC06
+Virgin Islands (U.S.),VI,VIR,850,Urban,15,"No facility, bush, field",0.0,Virgin Islands Community Survey - VIC06
+Virgin Islands (U.S.),VI,VIR,850,Urban,16,Other unimproved,0.0,Virgin Islands Community Survey - VIC06
+Virgin Islands (U.S.),VI,VIR,850,Urban,17,DK/missing information,0.0,Virgin Islands Community Survey - VIC06
+Virgin Islands (U.S.),VI,VIR,850,Rural,1,Flush and pour flush - to piped sewer system,0.0,Virgin Islands Community Survey - VIC06
+Virgin Islands (U.S.),VI,VIR,850,Rural,2,Flush and pour flush - to septic tank,0.0,Virgin Islands Community Survey - VIC06
+Virgin Islands (U.S.),VI,VIR,850,Rural,3,Flush and pour flush - to pit,0.0,Virgin Islands Community Survey - VIC06
+Virgin Islands (U.S.),VI,VIR,850,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Virgin Islands Community Survey - VIC06
+Virgin Islands (U.S.),VI,VIR,850,Rural,5,Flush and pour flush - to elsewhere,0.0,Virgin Islands Community Survey - VIC06
+Virgin Islands (U.S.),VI,VIR,850,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Virgin Islands Community Survey - VIC06
+Virgin Islands (U.S.),VI,VIR,850,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Virgin Islands Community Survey - VIC06
+Virgin Islands (U.S.),VI,VIR,850,Rural,8,Dry latrines - Traditional latrine,0.0,Virgin Islands Community Survey - VIC06
+Virgin Islands (U.S.),VI,VIR,850,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Virgin Islands Community Survey - VIC06
+Virgin Islands (U.S.),VI,VIR,850,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Virgin Islands Community Survey - VIC06
+Virgin Islands (U.S.),VI,VIR,850,Rural,11,Dry latrines - Bucket latrine,0.0,Virgin Islands Community Survey - VIC06
+Virgin Islands (U.S.),VI,VIR,850,Rural,12,Dry latrines - Other,0.0,Virgin Islands Community Survey - VIC06
+Virgin Islands (U.S.),VI,VIR,850,Rural,13,Composting toilets,0.0,Virgin Islands Community Survey - VIC06
+Virgin Islands (U.S.),VI,VIR,850,Rural,14,Other improved,0.0,Virgin Islands Community Survey - VIC06
+Virgin Islands (U.S.),VI,VIR,850,Rural,15,"No facility, bush, field",0.0,Virgin Islands Community Survey - VIC06
+Virgin Islands (U.S.),VI,VIR,850,Rural,16,Other unimproved,0.0,Virgin Islands Community Survey - VIC06
+Virgin Islands (U.S.),VI,VIR,850,Rural,17,DK/missing information,0.0,Virgin Islands Community Survey - VIC06
+Virgin Islands (U.S.),VI,VIR,850,National,1,Flush and pour flush - to piped sewer system,0.469,Virgin Islands Community Survey - VIC06
+Virgin Islands (U.S.),VI,VIR,850,National,2,Flush and pour flush - to septic tank,0.522,Virgin Islands Community Survey - VIC06
+Virgin Islands (U.S.),VI,VIR,850,National,3,Flush and pour flush - to pit,0.0,Virgin Islands Community Survey - VIC06
+Virgin Islands (U.S.),VI,VIR,850,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Virgin Islands Community Survey - VIC06
+Virgin Islands (U.S.),VI,VIR,850,National,5,Flush and pour flush - to elsewhere,0.0,Virgin Islands Community Survey - VIC06
+Virgin Islands (U.S.),VI,VIR,850,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Virgin Islands Community Survey - VIC06
+Virgin Islands (U.S.),VI,VIR,850,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Virgin Islands Community Survey - VIC06
+Virgin Islands (U.S.),VI,VIR,850,National,8,Dry latrines - Traditional latrine,0.0,Virgin Islands Community Survey - VIC06
+Virgin Islands (U.S.),VI,VIR,850,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Virgin Islands Community Survey - VIC06
+Virgin Islands (U.S.),VI,VIR,850,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Virgin Islands Community Survey - VIC06
+Virgin Islands (U.S.),VI,VIR,850,National,11,Dry latrines - Bucket latrine,0.0,Virgin Islands Community Survey - VIC06
+Virgin Islands (U.S.),VI,VIR,850,National,12,Dry latrines - Other,0.0,Virgin Islands Community Survey - VIC06
+Virgin Islands (U.S.),VI,VIR,850,National,13,Composting toilets,0.0,Virgin Islands Community Survey - VIC06
+Virgin Islands (U.S.),VI,VIR,850,National,14,Other improved,0.0,Virgin Islands Community Survey - VIC06
+Virgin Islands (U.S.),VI,VIR,850,National,15,"No facility, bush, field",0.0,Virgin Islands Community Survey - VIC06
+Virgin Islands (U.S.),VI,VIR,850,National,16,Other unimproved,0.009,Virgin Islands Community Survey - VIC06
+Virgin Islands (U.S.),VI,VIR,850,National,17,DK/missing information,0.0,Virgin Islands Community Survey - VIC06
+Virgin Islands (U.S.),VI,VIR,850,Urban,1,Flush and pour flush - to piped sewer system,0.0,Virgin Islands Community Survey - VIC07
+Virgin Islands (U.S.),VI,VIR,850,Urban,2,Flush and pour flush - to septic tank,0.0,Virgin Islands Community Survey - VIC07
+Virgin Islands (U.S.),VI,VIR,850,Urban,3,Flush and pour flush - to pit,0.0,Virgin Islands Community Survey - VIC07
+Virgin Islands (U.S.),VI,VIR,850,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Virgin Islands Community Survey - VIC07
+Virgin Islands (U.S.),VI,VIR,850,Urban,5,Flush and pour flush - to elsewhere,0.0,Virgin Islands Community Survey - VIC07
+Virgin Islands (U.S.),VI,VIR,850,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Virgin Islands Community Survey - VIC07
+Virgin Islands (U.S.),VI,VIR,850,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Virgin Islands Community Survey - VIC07
+Virgin Islands (U.S.),VI,VIR,850,Urban,8,Dry latrines - Traditional latrine,0.0,Virgin Islands Community Survey - VIC07
+Virgin Islands (U.S.),VI,VIR,850,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Virgin Islands Community Survey - VIC07
+Virgin Islands (U.S.),VI,VIR,850,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Virgin Islands Community Survey - VIC07
+Virgin Islands (U.S.),VI,VIR,850,Urban,11,Dry latrines - Bucket latrine,0.0,Virgin Islands Community Survey - VIC07
+Virgin Islands (U.S.),VI,VIR,850,Urban,12,Dry latrines - Other,0.0,Virgin Islands Community Survey - VIC07
+Virgin Islands (U.S.),VI,VIR,850,Urban,13,Composting toilets,0.0,Virgin Islands Community Survey - VIC07
+Virgin Islands (U.S.),VI,VIR,850,Urban,14,Other improved,0.0,Virgin Islands Community Survey - VIC07
+Virgin Islands (U.S.),VI,VIR,850,Urban,15,"No facility, bush, field",0.0,Virgin Islands Community Survey - VIC07
+Virgin Islands (U.S.),VI,VIR,850,Urban,16,Other unimproved,0.0,Virgin Islands Community Survey - VIC07
+Virgin Islands (U.S.),VI,VIR,850,Urban,17,DK/missing information,0.0,Virgin Islands Community Survey - VIC07
+Virgin Islands (U.S.),VI,VIR,850,Rural,1,Flush and pour flush - to piped sewer system,0.0,Virgin Islands Community Survey - VIC07
+Virgin Islands (U.S.),VI,VIR,850,Rural,2,Flush and pour flush - to septic tank,0.0,Virgin Islands Community Survey - VIC07
+Virgin Islands (U.S.),VI,VIR,850,Rural,3,Flush and pour flush - to pit,0.0,Virgin Islands Community Survey - VIC07
+Virgin Islands (U.S.),VI,VIR,850,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Virgin Islands Community Survey - VIC07
+Virgin Islands (U.S.),VI,VIR,850,Rural,5,Flush and pour flush - to elsewhere,0.0,Virgin Islands Community Survey - VIC07
+Virgin Islands (U.S.),VI,VIR,850,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Virgin Islands Community Survey - VIC07
+Virgin Islands (U.S.),VI,VIR,850,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Virgin Islands Community Survey - VIC07
+Virgin Islands (U.S.),VI,VIR,850,Rural,8,Dry latrines - Traditional latrine,0.0,Virgin Islands Community Survey - VIC07
+Virgin Islands (U.S.),VI,VIR,850,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Virgin Islands Community Survey - VIC07
+Virgin Islands (U.S.),VI,VIR,850,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Virgin Islands Community Survey - VIC07
+Virgin Islands (U.S.),VI,VIR,850,Rural,11,Dry latrines - Bucket latrine,0.0,Virgin Islands Community Survey - VIC07
+Virgin Islands (U.S.),VI,VIR,850,Rural,12,Dry latrines - Other,0.0,Virgin Islands Community Survey - VIC07
+Virgin Islands (U.S.),VI,VIR,850,Rural,13,Composting toilets,0.0,Virgin Islands Community Survey - VIC07
+Virgin Islands (U.S.),VI,VIR,850,Rural,14,Other improved,0.0,Virgin Islands Community Survey - VIC07
+Virgin Islands (U.S.),VI,VIR,850,Rural,15,"No facility, bush, field",0.0,Virgin Islands Community Survey - VIC07
+Virgin Islands (U.S.),VI,VIR,850,Rural,16,Other unimproved,0.0,Virgin Islands Community Survey - VIC07
+Virgin Islands (U.S.),VI,VIR,850,Rural,17,DK/missing information,0.0,Virgin Islands Community Survey - VIC07
+Virgin Islands (U.S.),VI,VIR,850,National,1,Flush and pour flush - to piped sewer system,0.459,Virgin Islands Community Survey - VIC07
+Virgin Islands (U.S.),VI,VIR,850,National,2,Flush and pour flush - to septic tank,0.52,Virgin Islands Community Survey - VIC07
+Virgin Islands (U.S.),VI,VIR,850,National,3,Flush and pour flush - to pit,0.0,Virgin Islands Community Survey - VIC07
+Virgin Islands (U.S.),VI,VIR,850,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Virgin Islands Community Survey - VIC07
+Virgin Islands (U.S.),VI,VIR,850,National,5,Flush and pour flush - to elsewhere,0.0,Virgin Islands Community Survey - VIC07
+Virgin Islands (U.S.),VI,VIR,850,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Virgin Islands Community Survey - VIC07
+Virgin Islands (U.S.),VI,VIR,850,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Virgin Islands Community Survey - VIC07
+Virgin Islands (U.S.),VI,VIR,850,National,8,Dry latrines - Traditional latrine,0.0,Virgin Islands Community Survey - VIC07
+Virgin Islands (U.S.),VI,VIR,850,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Virgin Islands Community Survey - VIC07
+Virgin Islands (U.S.),VI,VIR,850,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Virgin Islands Community Survey - VIC07
+Virgin Islands (U.S.),VI,VIR,850,National,11,Dry latrines - Bucket latrine,0.0,Virgin Islands Community Survey - VIC07
+Virgin Islands (U.S.),VI,VIR,850,National,12,Dry latrines - Other,0.0,Virgin Islands Community Survey - VIC07
+Virgin Islands (U.S.),VI,VIR,850,National,13,Composting toilets,0.0,Virgin Islands Community Survey - VIC07
+Virgin Islands (U.S.),VI,VIR,850,National,14,Other improved,0.0,Virgin Islands Community Survey - VIC07
+Virgin Islands (U.S.),VI,VIR,850,National,15,"No facility, bush, field",0.0,Virgin Islands Community Survey - VIC07
+Virgin Islands (U.S.),VI,VIR,850,National,16,Other unimproved,0.021,Virgin Islands Community Survey - VIC07
+Virgin Islands (U.S.),VI,VIR,850,National,17,DK/missing information,0.0,Virgin Islands Community Survey - VIC07
+Virgin Islands (U.S.),VI,VIR,850,Urban,1,Flush and pour flush - to piped sewer system,0.0,Virgin Islands Community Survey - VIC08
+Virgin Islands (U.S.),VI,VIR,850,Urban,2,Flush and pour flush - to septic tank,0.0,Virgin Islands Community Survey - VIC08
+Virgin Islands (U.S.),VI,VIR,850,Urban,3,Flush and pour flush - to pit,0.0,Virgin Islands Community Survey - VIC08
+Virgin Islands (U.S.),VI,VIR,850,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Virgin Islands Community Survey - VIC08
+Virgin Islands (U.S.),VI,VIR,850,Urban,5,Flush and pour flush - to elsewhere,0.0,Virgin Islands Community Survey - VIC08
+Virgin Islands (U.S.),VI,VIR,850,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Virgin Islands Community Survey - VIC08
+Virgin Islands (U.S.),VI,VIR,850,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Virgin Islands Community Survey - VIC08
+Virgin Islands (U.S.),VI,VIR,850,Urban,8,Dry latrines - Traditional latrine,0.0,Virgin Islands Community Survey - VIC08
+Virgin Islands (U.S.),VI,VIR,850,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Virgin Islands Community Survey - VIC08
+Virgin Islands (U.S.),VI,VIR,850,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Virgin Islands Community Survey - VIC08
+Virgin Islands (U.S.),VI,VIR,850,Urban,11,Dry latrines - Bucket latrine,0.0,Virgin Islands Community Survey - VIC08
+Virgin Islands (U.S.),VI,VIR,850,Urban,12,Dry latrines - Other,0.0,Virgin Islands Community Survey - VIC08
+Virgin Islands (U.S.),VI,VIR,850,Urban,13,Composting toilets,0.0,Virgin Islands Community Survey - VIC08
+Virgin Islands (U.S.),VI,VIR,850,Urban,14,Other improved,0.0,Virgin Islands Community Survey - VIC08
+Virgin Islands (U.S.),VI,VIR,850,Urban,15,"No facility, bush, field",0.0,Virgin Islands Community Survey - VIC08
+Virgin Islands (U.S.),VI,VIR,850,Urban,16,Other unimproved,0.0,Virgin Islands Community Survey - VIC08
+Virgin Islands (U.S.),VI,VIR,850,Urban,17,DK/missing information,0.0,Virgin Islands Community Survey - VIC08
+Virgin Islands (U.S.),VI,VIR,850,Rural,1,Flush and pour flush - to piped sewer system,0.0,Virgin Islands Community Survey - VIC08
+Virgin Islands (U.S.),VI,VIR,850,Rural,2,Flush and pour flush - to septic tank,0.0,Virgin Islands Community Survey - VIC08
+Virgin Islands (U.S.),VI,VIR,850,Rural,3,Flush and pour flush - to pit,0.0,Virgin Islands Community Survey - VIC08
+Virgin Islands (U.S.),VI,VIR,850,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Virgin Islands Community Survey - VIC08
+Virgin Islands (U.S.),VI,VIR,850,Rural,5,Flush and pour flush - to elsewhere,0.0,Virgin Islands Community Survey - VIC08
+Virgin Islands (U.S.),VI,VIR,850,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Virgin Islands Community Survey - VIC08
+Virgin Islands (U.S.),VI,VIR,850,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Virgin Islands Community Survey - VIC08
+Virgin Islands (U.S.),VI,VIR,850,Rural,8,Dry latrines - Traditional latrine,0.0,Virgin Islands Community Survey - VIC08
+Virgin Islands (U.S.),VI,VIR,850,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Virgin Islands Community Survey - VIC08
+Virgin Islands (U.S.),VI,VIR,850,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Virgin Islands Community Survey - VIC08
+Virgin Islands (U.S.),VI,VIR,850,Rural,11,Dry latrines - Bucket latrine,0.0,Virgin Islands Community Survey - VIC08
+Virgin Islands (U.S.),VI,VIR,850,Rural,12,Dry latrines - Other,0.0,Virgin Islands Community Survey - VIC08
+Virgin Islands (U.S.),VI,VIR,850,Rural,13,Composting toilets,0.0,Virgin Islands Community Survey - VIC08
+Virgin Islands (U.S.),VI,VIR,850,Rural,14,Other improved,0.0,Virgin Islands Community Survey - VIC08
+Virgin Islands (U.S.),VI,VIR,850,Rural,15,"No facility, bush, field",0.0,Virgin Islands Community Survey - VIC08
+Virgin Islands (U.S.),VI,VIR,850,Rural,16,Other unimproved,0.0,Virgin Islands Community Survey - VIC08
+Virgin Islands (U.S.),VI,VIR,850,Rural,17,DK/missing information,0.0,Virgin Islands Community Survey - VIC08
+Virgin Islands (U.S.),VI,VIR,850,National,1,Flush and pour flush - to piped sewer system,0.435,Virgin Islands Community Survey - VIC08
+Virgin Islands (U.S.),VI,VIR,850,National,2,Flush and pour flush - to septic tank,0.533,Virgin Islands Community Survey - VIC08
+Virgin Islands (U.S.),VI,VIR,850,National,3,Flush and pour flush - to pit,0.0,Virgin Islands Community Survey - VIC08
+Virgin Islands (U.S.),VI,VIR,850,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Virgin Islands Community Survey - VIC08
+Virgin Islands (U.S.),VI,VIR,850,National,5,Flush and pour flush - to elsewhere,0.0,Virgin Islands Community Survey - VIC08
+Virgin Islands (U.S.),VI,VIR,850,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Virgin Islands Community Survey - VIC08
+Virgin Islands (U.S.),VI,VIR,850,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Virgin Islands Community Survey - VIC08
+Virgin Islands (U.S.),VI,VIR,850,National,8,Dry latrines - Traditional latrine,0.0,Virgin Islands Community Survey - VIC08
+Virgin Islands (U.S.),VI,VIR,850,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Virgin Islands Community Survey - VIC08
+Virgin Islands (U.S.),VI,VIR,850,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Virgin Islands Community Survey - VIC08
+Virgin Islands (U.S.),VI,VIR,850,National,11,Dry latrines - Bucket latrine,0.0,Virgin Islands Community Survey - VIC08
+Virgin Islands (U.S.),VI,VIR,850,National,12,Dry latrines - Other,0.0,Virgin Islands Community Survey - VIC08
+Virgin Islands (U.S.),VI,VIR,850,National,13,Composting toilets,0.0,Virgin Islands Community Survey - VIC08
+Virgin Islands (U.S.),VI,VIR,850,National,14,Other improved,0.0,Virgin Islands Community Survey - VIC08
+Virgin Islands (U.S.),VI,VIR,850,National,15,"No facility, bush, field",0.0,Virgin Islands Community Survey - VIC08
+Virgin Islands (U.S.),VI,VIR,850,National,16,Other unimproved,0.032,Virgin Islands Community Survey - VIC08
+Virgin Islands (U.S.),VI,VIR,850,National,17,DK/missing information,0.0,Virgin Islands Community Survey - VIC08
+Virgin Islands (U.S.),VI,VIR,850,Urban,1,Flush and pour flush - to piped sewer system,0.0,Virgin Islands Community Survey - VIC09
+Virgin Islands (U.S.),VI,VIR,850,Urban,2,Flush and pour flush - to septic tank,0.0,Virgin Islands Community Survey - VIC09
+Virgin Islands (U.S.),VI,VIR,850,Urban,3,Flush and pour flush - to pit,0.0,Virgin Islands Community Survey - VIC09
+Virgin Islands (U.S.),VI,VIR,850,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Virgin Islands Community Survey - VIC09
+Virgin Islands (U.S.),VI,VIR,850,Urban,5,Flush and pour flush - to elsewhere,0.0,Virgin Islands Community Survey - VIC09
+Virgin Islands (U.S.),VI,VIR,850,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Virgin Islands Community Survey - VIC09
+Virgin Islands (U.S.),VI,VIR,850,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Virgin Islands Community Survey - VIC09
+Virgin Islands (U.S.),VI,VIR,850,Urban,8,Dry latrines - Traditional latrine,0.0,Virgin Islands Community Survey - VIC09
+Virgin Islands (U.S.),VI,VIR,850,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Virgin Islands Community Survey - VIC09
+Virgin Islands (U.S.),VI,VIR,850,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Virgin Islands Community Survey - VIC09
+Virgin Islands (U.S.),VI,VIR,850,Urban,11,Dry latrines - Bucket latrine,0.0,Virgin Islands Community Survey - VIC09
+Virgin Islands (U.S.),VI,VIR,850,Urban,12,Dry latrines - Other,0.0,Virgin Islands Community Survey - VIC09
+Virgin Islands (U.S.),VI,VIR,850,Urban,13,Composting toilets,0.0,Virgin Islands Community Survey - VIC09
+Virgin Islands (U.S.),VI,VIR,850,Urban,14,Other improved,0.0,Virgin Islands Community Survey - VIC09
+Virgin Islands (U.S.),VI,VIR,850,Urban,15,"No facility, bush, field",0.0,Virgin Islands Community Survey - VIC09
+Virgin Islands (U.S.),VI,VIR,850,Urban,16,Other unimproved,0.0,Virgin Islands Community Survey - VIC09
+Virgin Islands (U.S.),VI,VIR,850,Urban,17,DK/missing information,0.0,Virgin Islands Community Survey - VIC09
+Virgin Islands (U.S.),VI,VIR,850,Rural,1,Flush and pour flush - to piped sewer system,0.0,Virgin Islands Community Survey - VIC09
+Virgin Islands (U.S.),VI,VIR,850,Rural,2,Flush and pour flush - to septic tank,0.0,Virgin Islands Community Survey - VIC09
+Virgin Islands (U.S.),VI,VIR,850,Rural,3,Flush and pour flush - to pit,0.0,Virgin Islands Community Survey - VIC09
+Virgin Islands (U.S.),VI,VIR,850,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Virgin Islands Community Survey - VIC09
+Virgin Islands (U.S.),VI,VIR,850,Rural,5,Flush and pour flush - to elsewhere,0.0,Virgin Islands Community Survey - VIC09
+Virgin Islands (U.S.),VI,VIR,850,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Virgin Islands Community Survey - VIC09
+Virgin Islands (U.S.),VI,VIR,850,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Virgin Islands Community Survey - VIC09
+Virgin Islands (U.S.),VI,VIR,850,Rural,8,Dry latrines - Traditional latrine,0.0,Virgin Islands Community Survey - VIC09
+Virgin Islands (U.S.),VI,VIR,850,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Virgin Islands Community Survey - VIC09
+Virgin Islands (U.S.),VI,VIR,850,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Virgin Islands Community Survey - VIC09
+Virgin Islands (U.S.),VI,VIR,850,Rural,11,Dry latrines - Bucket latrine,0.0,Virgin Islands Community Survey - VIC09
+Virgin Islands (U.S.),VI,VIR,850,Rural,12,Dry latrines - Other,0.0,Virgin Islands Community Survey - VIC09
+Virgin Islands (U.S.),VI,VIR,850,Rural,13,Composting toilets,0.0,Virgin Islands Community Survey - VIC09
+Virgin Islands (U.S.),VI,VIR,850,Rural,14,Other improved,0.0,Virgin Islands Community Survey - VIC09
+Virgin Islands (U.S.),VI,VIR,850,Rural,15,"No facility, bush, field",0.0,Virgin Islands Community Survey - VIC09
+Virgin Islands (U.S.),VI,VIR,850,Rural,16,Other unimproved,0.0,Virgin Islands Community Survey - VIC09
+Virgin Islands (U.S.),VI,VIR,850,Rural,17,DK/missing information,0.0,Virgin Islands Community Survey - VIC09
+Virgin Islands (U.S.),VI,VIR,850,National,1,Flush and pour flush - to piped sewer system,0.422,Virgin Islands Community Survey - VIC09
+Virgin Islands (U.S.),VI,VIR,850,National,2,Flush and pour flush - to septic tank,0.548,Virgin Islands Community Survey - VIC09
+Virgin Islands (U.S.),VI,VIR,850,National,3,Flush and pour flush - to pit,0.0,Virgin Islands Community Survey - VIC09
+Virgin Islands (U.S.),VI,VIR,850,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Virgin Islands Community Survey - VIC09
+Virgin Islands (U.S.),VI,VIR,850,National,5,Flush and pour flush - to elsewhere,0.0,Virgin Islands Community Survey - VIC09
+Virgin Islands (U.S.),VI,VIR,850,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Virgin Islands Community Survey - VIC09
+Virgin Islands (U.S.),VI,VIR,850,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Virgin Islands Community Survey - VIC09
+Virgin Islands (U.S.),VI,VIR,850,National,8,Dry latrines - Traditional latrine,0.0,Virgin Islands Community Survey - VIC09
+Virgin Islands (U.S.),VI,VIR,850,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Virgin Islands Community Survey - VIC09
+Virgin Islands (U.S.),VI,VIR,850,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Virgin Islands Community Survey - VIC09
+Virgin Islands (U.S.),VI,VIR,850,National,11,Dry latrines - Bucket latrine,0.0,Virgin Islands Community Survey - VIC09
+Virgin Islands (U.S.),VI,VIR,850,National,12,Dry latrines - Other,0.0,Virgin Islands Community Survey - VIC09
+Virgin Islands (U.S.),VI,VIR,850,National,13,Composting toilets,0.0,Virgin Islands Community Survey - VIC09
+Virgin Islands (U.S.),VI,VIR,850,National,14,Other improved,0.0,Virgin Islands Community Survey - VIC09
+Virgin Islands (U.S.),VI,VIR,850,National,15,"No facility, bush, field",0.0,Virgin Islands Community Survey - VIC09
+Virgin Islands (U.S.),VI,VIR,850,National,16,Other unimproved,0.03,Virgin Islands Community Survey - VIC09
+Virgin Islands (U.S.),VI,VIR,850,National,17,DK/missing information,0.0,Virgin Islands Community Survey - VIC09
+Virgin Islands (U.S.),VI,VIR,850,Urban,1,Flush and pour flush - to piped sewer system,0.0,Census - CEN10
+Virgin Islands (U.S.),VI,VIR,850,Urban,2,Flush and pour flush - to septic tank,0.0,Census - CEN10
+Virgin Islands (U.S.),VI,VIR,850,Urban,3,Flush and pour flush - to pit,0.0,Census - CEN10
+Virgin Islands (U.S.),VI,VIR,850,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN10
+Virgin Islands (U.S.),VI,VIR,850,Urban,5,Flush and pour flush - to elsewhere,0.0,Census - CEN10
+Virgin Islands (U.S.),VI,VIR,850,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN10
+Virgin Islands (U.S.),VI,VIR,850,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN10
+Virgin Islands (U.S.),VI,VIR,850,Urban,8,Dry latrines - Traditional latrine,0.0,Census - CEN10
+Virgin Islands (U.S.),VI,VIR,850,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN10
+Virgin Islands (U.S.),VI,VIR,850,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN10
+Virgin Islands (U.S.),VI,VIR,850,Urban,11,Dry latrines - Bucket latrine,0.0,Census - CEN10
+Virgin Islands (U.S.),VI,VIR,850,Urban,12,Dry latrines - Other,0.0,Census - CEN10
+Virgin Islands (U.S.),VI,VIR,850,Urban,13,Composting toilets,0.0,Census - CEN10
+Virgin Islands (U.S.),VI,VIR,850,Urban,14,Other improved,0.0,Census - CEN10
+Virgin Islands (U.S.),VI,VIR,850,Urban,15,"No facility, bush, field",0.0,Census - CEN10
+Virgin Islands (U.S.),VI,VIR,850,Urban,16,Other unimproved,0.0,Census - CEN10
+Virgin Islands (U.S.),VI,VIR,850,Urban,17,DK/missing information,0.0,Census - CEN10
+Virgin Islands (U.S.),VI,VIR,850,Rural,1,Flush and pour flush - to piped sewer system,0.0,Census - CEN10
+Virgin Islands (U.S.),VI,VIR,850,Rural,2,Flush and pour flush - to septic tank,0.0,Census - CEN10
+Virgin Islands (U.S.),VI,VIR,850,Rural,3,Flush and pour flush - to pit,0.0,Census - CEN10
+Virgin Islands (U.S.),VI,VIR,850,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN10
+Virgin Islands (U.S.),VI,VIR,850,Rural,5,Flush and pour flush - to elsewhere,0.0,Census - CEN10
+Virgin Islands (U.S.),VI,VIR,850,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN10
+Virgin Islands (U.S.),VI,VIR,850,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN10
+Virgin Islands (U.S.),VI,VIR,850,Rural,8,Dry latrines - Traditional latrine,0.0,Census - CEN10
+Virgin Islands (U.S.),VI,VIR,850,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN10
+Virgin Islands (U.S.),VI,VIR,850,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN10
+Virgin Islands (U.S.),VI,VIR,850,Rural,11,Dry latrines - Bucket latrine,0.0,Census - CEN10
+Virgin Islands (U.S.),VI,VIR,850,Rural,12,Dry latrines - Other,0.0,Census - CEN10
+Virgin Islands (U.S.),VI,VIR,850,Rural,13,Composting toilets,0.0,Census - CEN10
+Virgin Islands (U.S.),VI,VIR,850,Rural,14,Other improved,0.0,Census - CEN10
+Virgin Islands (U.S.),VI,VIR,850,Rural,15,"No facility, bush, field",0.0,Census - CEN10
+Virgin Islands (U.S.),VI,VIR,850,Rural,16,Other unimproved,0.0,Census - CEN10
+Virgin Islands (U.S.),VI,VIR,850,Rural,17,DK/missing information,0.0,Census - CEN10
+Virgin Islands (U.S.),VI,VIR,850,National,1,Flush and pour flush - to piped sewer system,0.488,Census - CEN10
+Virgin Islands (U.S.),VI,VIR,850,National,2,Flush and pour flush - to septic tank,0.486,Census - CEN10
+Virgin Islands (U.S.),VI,VIR,850,National,3,Flush and pour flush - to pit,0.0,Census - CEN10
+Virgin Islands (U.S.),VI,VIR,850,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN10
+Virgin Islands (U.S.),VI,VIR,850,National,5,Flush and pour flush - to elsewhere,0.0,Census - CEN10
+Virgin Islands (U.S.),VI,VIR,850,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN10
+Virgin Islands (U.S.),VI,VIR,850,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN10
+Virgin Islands (U.S.),VI,VIR,850,National,8,Dry latrines - Traditional latrine,0.0,Census - CEN10
+Virgin Islands (U.S.),VI,VIR,850,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN10
+Virgin Islands (U.S.),VI,VIR,850,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN10
+Virgin Islands (U.S.),VI,VIR,850,National,11,Dry latrines - Bucket latrine,0.0,Census - CEN10
+Virgin Islands (U.S.),VI,VIR,850,National,12,Dry latrines - Other,0.0,Census - CEN10
+Virgin Islands (U.S.),VI,VIR,850,National,13,Composting toilets,0.0,Census - CEN10
+Virgin Islands (U.S.),VI,VIR,850,National,14,Other improved,0.0,Census - CEN10
+Virgin Islands (U.S.),VI,VIR,850,National,15,"No facility, bush, field",0.0,Census - CEN10
+Virgin Islands (U.S.),VI,VIR,850,National,16,Other unimproved,0.026,Census - CEN10
+Virgin Islands (U.S.),VI,VIR,850,National,17,DK/missing information,0.0,Census - CEN10
+Virgin Islands (U.S.),VI,VIR,850,Urban,1,Flush and pour flush - to piped sewer system,0.0,Virgin Islands Community Survey - VIC12
+Virgin Islands (U.S.),VI,VIR,850,Urban,2,Flush and pour flush - to septic tank,0.0,Virgin Islands Community Survey - VIC12
+Virgin Islands (U.S.),VI,VIR,850,Urban,3,Flush and pour flush - to pit,0.0,Virgin Islands Community Survey - VIC12
+Virgin Islands (U.S.),VI,VIR,850,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Virgin Islands Community Survey - VIC12
+Virgin Islands (U.S.),VI,VIR,850,Urban,5,Flush and pour flush - to elsewhere,0.0,Virgin Islands Community Survey - VIC12
+Virgin Islands (U.S.),VI,VIR,850,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Virgin Islands Community Survey - VIC12
+Virgin Islands (U.S.),VI,VIR,850,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Virgin Islands Community Survey - VIC12
+Virgin Islands (U.S.),VI,VIR,850,Urban,8,Dry latrines - Traditional latrine,0.0,Virgin Islands Community Survey - VIC12
+Virgin Islands (U.S.),VI,VIR,850,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Virgin Islands Community Survey - VIC12
+Virgin Islands (U.S.),VI,VIR,850,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Virgin Islands Community Survey - VIC12
+Virgin Islands (U.S.),VI,VIR,850,Urban,11,Dry latrines - Bucket latrine,0.0,Virgin Islands Community Survey - VIC12
+Virgin Islands (U.S.),VI,VIR,850,Urban,12,Dry latrines - Other,0.0,Virgin Islands Community Survey - VIC12
+Virgin Islands (U.S.),VI,VIR,850,Urban,13,Composting toilets,0.0,Virgin Islands Community Survey - VIC12
+Virgin Islands (U.S.),VI,VIR,850,Urban,14,Other improved,0.0,Virgin Islands Community Survey - VIC12
+Virgin Islands (U.S.),VI,VIR,850,Urban,15,"No facility, bush, field",0.0,Virgin Islands Community Survey - VIC12
+Virgin Islands (U.S.),VI,VIR,850,Urban,16,Other unimproved,0.0,Virgin Islands Community Survey - VIC12
+Virgin Islands (U.S.),VI,VIR,850,Urban,17,DK/missing information,0.0,Virgin Islands Community Survey - VIC12
+Virgin Islands (U.S.),VI,VIR,850,Rural,1,Flush and pour flush - to piped sewer system,0.0,Virgin Islands Community Survey - VIC12
+Virgin Islands (U.S.),VI,VIR,850,Rural,2,Flush and pour flush - to septic tank,0.0,Virgin Islands Community Survey - VIC12
+Virgin Islands (U.S.),VI,VIR,850,Rural,3,Flush and pour flush - to pit,0.0,Virgin Islands Community Survey - VIC12
+Virgin Islands (U.S.),VI,VIR,850,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Virgin Islands Community Survey - VIC12
+Virgin Islands (U.S.),VI,VIR,850,Rural,5,Flush and pour flush - to elsewhere,0.0,Virgin Islands Community Survey - VIC12
+Virgin Islands (U.S.),VI,VIR,850,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Virgin Islands Community Survey - VIC12
+Virgin Islands (U.S.),VI,VIR,850,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Virgin Islands Community Survey - VIC12
+Virgin Islands (U.S.),VI,VIR,850,Rural,8,Dry latrines - Traditional latrine,0.0,Virgin Islands Community Survey - VIC12
+Virgin Islands (U.S.),VI,VIR,850,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Virgin Islands Community Survey - VIC12
+Virgin Islands (U.S.),VI,VIR,850,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Virgin Islands Community Survey - VIC12
+Virgin Islands (U.S.),VI,VIR,850,Rural,11,Dry latrines - Bucket latrine,0.0,Virgin Islands Community Survey - VIC12
+Virgin Islands (U.S.),VI,VIR,850,Rural,12,Dry latrines - Other,0.0,Virgin Islands Community Survey - VIC12
+Virgin Islands (U.S.),VI,VIR,850,Rural,13,Composting toilets,0.0,Virgin Islands Community Survey - VIC12
+Virgin Islands (U.S.),VI,VIR,850,Rural,14,Other improved,0.0,Virgin Islands Community Survey - VIC12
+Virgin Islands (U.S.),VI,VIR,850,Rural,15,"No facility, bush, field",0.0,Virgin Islands Community Survey - VIC12
+Virgin Islands (U.S.),VI,VIR,850,Rural,16,Other unimproved,0.0,Virgin Islands Community Survey - VIC12
+Virgin Islands (U.S.),VI,VIR,850,Rural,17,DK/missing information,0.0,Virgin Islands Community Survey - VIC12
+Virgin Islands (U.S.),VI,VIR,850,National,1,Flush and pour flush - to piped sewer system,0.439,Virgin Islands Community Survey - VIC12
+Virgin Islands (U.S.),VI,VIR,850,National,2,Flush and pour flush - to septic tank,0.556,Virgin Islands Community Survey - VIC12
+Virgin Islands (U.S.),VI,VIR,850,National,3,Flush and pour flush - to pit,0.0,Virgin Islands Community Survey - VIC12
+Virgin Islands (U.S.),VI,VIR,850,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Virgin Islands Community Survey - VIC12
+Virgin Islands (U.S.),VI,VIR,850,National,5,Flush and pour flush - to elsewhere,0.0,Virgin Islands Community Survey - VIC12
+Virgin Islands (U.S.),VI,VIR,850,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Virgin Islands Community Survey - VIC12
+Virgin Islands (U.S.),VI,VIR,850,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Virgin Islands Community Survey - VIC12
+Virgin Islands (U.S.),VI,VIR,850,National,8,Dry latrines - Traditional latrine,0.0,Virgin Islands Community Survey - VIC12
+Virgin Islands (U.S.),VI,VIR,850,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Virgin Islands Community Survey - VIC12
+Virgin Islands (U.S.),VI,VIR,850,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Virgin Islands Community Survey - VIC12
+Virgin Islands (U.S.),VI,VIR,850,National,11,Dry latrines - Bucket latrine,0.0,Virgin Islands Community Survey - VIC12
+Virgin Islands (U.S.),VI,VIR,850,National,12,Dry latrines - Other,0.0,Virgin Islands Community Survey - VIC12
+Virgin Islands (U.S.),VI,VIR,850,National,13,Composting toilets,0.0,Virgin Islands Community Survey - VIC12
+Virgin Islands (U.S.),VI,VIR,850,National,14,Other improved,0.0,Virgin Islands Community Survey - VIC12
+Virgin Islands (U.S.),VI,VIR,850,National,15,"No facility, bush, field",0.0,Virgin Islands Community Survey - VIC12
+Virgin Islands (U.S.),VI,VIR,850,National,16,Other unimproved,0.005,Virgin Islands Community Survey - VIC12
+Virgin Islands (U.S.),VI,VIR,850,National,17,DK/missing information,0.0,Virgin Islands Community Survey - VIC12
+Virgin Islands (U.S.),VI,VIR,850,Urban,1,Flush and pour flush - to piped sewer system,0.0,Virgin Islands Community Survey - VIC13
+Virgin Islands (U.S.),VI,VIR,850,Urban,2,Flush and pour flush - to septic tank,0.0,Virgin Islands Community Survey - VIC13
+Virgin Islands (U.S.),VI,VIR,850,Urban,3,Flush and pour flush - to pit,0.0,Virgin Islands Community Survey - VIC13
+Virgin Islands (U.S.),VI,VIR,850,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Virgin Islands Community Survey - VIC13
+Virgin Islands (U.S.),VI,VIR,850,Urban,5,Flush and pour flush - to elsewhere,0.0,Virgin Islands Community Survey - VIC13
+Virgin Islands (U.S.),VI,VIR,850,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Virgin Islands Community Survey - VIC13
+Virgin Islands (U.S.),VI,VIR,850,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Virgin Islands Community Survey - VIC13
+Virgin Islands (U.S.),VI,VIR,850,Urban,8,Dry latrines - Traditional latrine,0.0,Virgin Islands Community Survey - VIC13
+Virgin Islands (U.S.),VI,VIR,850,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Virgin Islands Community Survey - VIC13
+Virgin Islands (U.S.),VI,VIR,850,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Virgin Islands Community Survey - VIC13
+Virgin Islands (U.S.),VI,VIR,850,Urban,11,Dry latrines - Bucket latrine,0.0,Virgin Islands Community Survey - VIC13
+Virgin Islands (U.S.),VI,VIR,850,Urban,12,Dry latrines - Other,0.0,Virgin Islands Community Survey - VIC13
+Virgin Islands (U.S.),VI,VIR,850,Urban,13,Composting toilets,0.0,Virgin Islands Community Survey - VIC13
+Virgin Islands (U.S.),VI,VIR,850,Urban,14,Other improved,0.0,Virgin Islands Community Survey - VIC13
+Virgin Islands (U.S.),VI,VIR,850,Urban,15,"No facility, bush, field",0.0,Virgin Islands Community Survey - VIC13
+Virgin Islands (U.S.),VI,VIR,850,Urban,16,Other unimproved,0.0,Virgin Islands Community Survey - VIC13
+Virgin Islands (U.S.),VI,VIR,850,Urban,17,DK/missing information,0.0,Virgin Islands Community Survey - VIC13
+Virgin Islands (U.S.),VI,VIR,850,Rural,1,Flush and pour flush - to piped sewer system,0.0,Virgin Islands Community Survey - VIC13
+Virgin Islands (U.S.),VI,VIR,850,Rural,2,Flush and pour flush - to septic tank,0.0,Virgin Islands Community Survey - VIC13
+Virgin Islands (U.S.),VI,VIR,850,Rural,3,Flush and pour flush - to pit,0.0,Virgin Islands Community Survey - VIC13
+Virgin Islands (U.S.),VI,VIR,850,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Virgin Islands Community Survey - VIC13
+Virgin Islands (U.S.),VI,VIR,850,Rural,5,Flush and pour flush - to elsewhere,0.0,Virgin Islands Community Survey - VIC13
+Virgin Islands (U.S.),VI,VIR,850,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Virgin Islands Community Survey - VIC13
+Virgin Islands (U.S.),VI,VIR,850,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Virgin Islands Community Survey - VIC13
+Virgin Islands (U.S.),VI,VIR,850,Rural,8,Dry latrines - Traditional latrine,0.0,Virgin Islands Community Survey - VIC13
+Virgin Islands (U.S.),VI,VIR,850,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Virgin Islands Community Survey - VIC13
+Virgin Islands (U.S.),VI,VIR,850,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Virgin Islands Community Survey - VIC13
+Virgin Islands (U.S.),VI,VIR,850,Rural,11,Dry latrines - Bucket latrine,0.0,Virgin Islands Community Survey - VIC13
+Virgin Islands (U.S.),VI,VIR,850,Rural,12,Dry latrines - Other,0.0,Virgin Islands Community Survey - VIC13
+Virgin Islands (U.S.),VI,VIR,850,Rural,13,Composting toilets,0.0,Virgin Islands Community Survey - VIC13
+Virgin Islands (U.S.),VI,VIR,850,Rural,14,Other improved,0.0,Virgin Islands Community Survey - VIC13
+Virgin Islands (U.S.),VI,VIR,850,Rural,15,"No facility, bush, field",0.0,Virgin Islands Community Survey - VIC13
+Virgin Islands (U.S.),VI,VIR,850,Rural,16,Other unimproved,0.0,Virgin Islands Community Survey - VIC13
+Virgin Islands (U.S.),VI,VIR,850,Rural,17,DK/missing information,0.0,Virgin Islands Community Survey - VIC13
+Virgin Islands (U.S.),VI,VIR,850,National,1,Flush and pour flush - to piped sewer system,0.457,Virgin Islands Community Survey - VIC13
+Virgin Islands (U.S.),VI,VIR,850,National,2,Flush and pour flush - to septic tank,0.533,Virgin Islands Community Survey - VIC13
+Virgin Islands (U.S.),VI,VIR,850,National,3,Flush and pour flush - to pit,0.0,Virgin Islands Community Survey - VIC13
+Virgin Islands (U.S.),VI,VIR,850,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Virgin Islands Community Survey - VIC13
+Virgin Islands (U.S.),VI,VIR,850,National,5,Flush and pour flush - to elsewhere,0.0,Virgin Islands Community Survey - VIC13
+Virgin Islands (U.S.),VI,VIR,850,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Virgin Islands Community Survey - VIC13
+Virgin Islands (U.S.),VI,VIR,850,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Virgin Islands Community Survey - VIC13
+Virgin Islands (U.S.),VI,VIR,850,National,8,Dry latrines - Traditional latrine,0.0,Virgin Islands Community Survey - VIC13
+Virgin Islands (U.S.),VI,VIR,850,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Virgin Islands Community Survey - VIC13
+Virgin Islands (U.S.),VI,VIR,850,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Virgin Islands Community Survey - VIC13
+Virgin Islands (U.S.),VI,VIR,850,National,11,Dry latrines - Bucket latrine,0.0,Virgin Islands Community Survey - VIC13
+Virgin Islands (U.S.),VI,VIR,850,National,12,Dry latrines - Other,0.0,Virgin Islands Community Survey - VIC13
+Virgin Islands (U.S.),VI,VIR,850,National,13,Composting toilets,0.0,Virgin Islands Community Survey - VIC13
+Virgin Islands (U.S.),VI,VIR,850,National,14,Other improved,0.0,Virgin Islands Community Survey - VIC13
+Virgin Islands (U.S.),VI,VIR,850,National,15,"No facility, bush, field",0.0,Virgin Islands Community Survey - VIC13
+Virgin Islands (U.S.),VI,VIR,850,National,16,Other unimproved,0.01,Virgin Islands Community Survey - VIC13
+Virgin Islands (U.S.),VI,VIR,850,National,17,DK/missing information,0.0,Virgin Islands Community Survey - VIC13
+Virgin Islands (U.S.),VI,VIR,850,Urban,1,Flush and pour flush - to piped sewer system,0.0,Virgin Islands Community Survey - VIC14
+Virgin Islands (U.S.),VI,VIR,850,Urban,2,Flush and pour flush - to septic tank,0.0,Virgin Islands Community Survey - VIC14
+Virgin Islands (U.S.),VI,VIR,850,Urban,3,Flush and pour flush - to pit,0.0,Virgin Islands Community Survey - VIC14
+Virgin Islands (U.S.),VI,VIR,850,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Virgin Islands Community Survey - VIC14
+Virgin Islands (U.S.),VI,VIR,850,Urban,5,Flush and pour flush - to elsewhere,0.0,Virgin Islands Community Survey - VIC14
+Virgin Islands (U.S.),VI,VIR,850,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Virgin Islands Community Survey - VIC14
+Virgin Islands (U.S.),VI,VIR,850,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Virgin Islands Community Survey - VIC14
+Virgin Islands (U.S.),VI,VIR,850,Urban,8,Dry latrines - Traditional latrine,0.0,Virgin Islands Community Survey - VIC14
+Virgin Islands (U.S.),VI,VIR,850,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Virgin Islands Community Survey - VIC14
+Virgin Islands (U.S.),VI,VIR,850,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Virgin Islands Community Survey - VIC14
+Virgin Islands (U.S.),VI,VIR,850,Urban,11,Dry latrines - Bucket latrine,0.0,Virgin Islands Community Survey - VIC14
+Virgin Islands (U.S.),VI,VIR,850,Urban,12,Dry latrines - Other,0.0,Virgin Islands Community Survey - VIC14
+Virgin Islands (U.S.),VI,VIR,850,Urban,13,Composting toilets,0.0,Virgin Islands Community Survey - VIC14
+Virgin Islands (U.S.),VI,VIR,850,Urban,14,Other improved,0.0,Virgin Islands Community Survey - VIC14
+Virgin Islands (U.S.),VI,VIR,850,Urban,15,"No facility, bush, field",0.0,Virgin Islands Community Survey - VIC14
+Virgin Islands (U.S.),VI,VIR,850,Urban,16,Other unimproved,0.0,Virgin Islands Community Survey - VIC14
+Virgin Islands (U.S.),VI,VIR,850,Urban,17,DK/missing information,0.0,Virgin Islands Community Survey - VIC14
+Virgin Islands (U.S.),VI,VIR,850,Rural,1,Flush and pour flush - to piped sewer system,0.0,Virgin Islands Community Survey - VIC14
+Virgin Islands (U.S.),VI,VIR,850,Rural,2,Flush and pour flush - to septic tank,0.0,Virgin Islands Community Survey - VIC14
+Virgin Islands (U.S.),VI,VIR,850,Rural,3,Flush and pour flush - to pit,0.0,Virgin Islands Community Survey - VIC14
+Virgin Islands (U.S.),VI,VIR,850,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Virgin Islands Community Survey - VIC14
+Virgin Islands (U.S.),VI,VIR,850,Rural,5,Flush and pour flush - to elsewhere,0.0,Virgin Islands Community Survey - VIC14
+Virgin Islands (U.S.),VI,VIR,850,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Virgin Islands Community Survey - VIC14
+Virgin Islands (U.S.),VI,VIR,850,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Virgin Islands Community Survey - VIC14
+Virgin Islands (U.S.),VI,VIR,850,Rural,8,Dry latrines - Traditional latrine,0.0,Virgin Islands Community Survey - VIC14
+Virgin Islands (U.S.),VI,VIR,850,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Virgin Islands Community Survey - VIC14
+Virgin Islands (U.S.),VI,VIR,850,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Virgin Islands Community Survey - VIC14
+Virgin Islands (U.S.),VI,VIR,850,Rural,11,Dry latrines - Bucket latrine,0.0,Virgin Islands Community Survey - VIC14
+Virgin Islands (U.S.),VI,VIR,850,Rural,12,Dry latrines - Other,0.0,Virgin Islands Community Survey - VIC14
+Virgin Islands (U.S.),VI,VIR,850,Rural,13,Composting toilets,0.0,Virgin Islands Community Survey - VIC14
+Virgin Islands (U.S.),VI,VIR,850,Rural,14,Other improved,0.0,Virgin Islands Community Survey - VIC14
+Virgin Islands (U.S.),VI,VIR,850,Rural,15,"No facility, bush, field",0.0,Virgin Islands Community Survey - VIC14
+Virgin Islands (U.S.),VI,VIR,850,Rural,16,Other unimproved,0.0,Virgin Islands Community Survey - VIC14
+Virgin Islands (U.S.),VI,VIR,850,Rural,17,DK/missing information,0.0,Virgin Islands Community Survey - VIC14
+Virgin Islands (U.S.),VI,VIR,850,National,1,Flush and pour flush - to piped sewer system,0.466,Virgin Islands Community Survey - VIC14
+Virgin Islands (U.S.),VI,VIR,850,National,2,Flush and pour flush - to septic tank,0.524,Virgin Islands Community Survey - VIC14
+Virgin Islands (U.S.),VI,VIR,850,National,3,Flush and pour flush - to pit,0.0,Virgin Islands Community Survey - VIC14
+Virgin Islands (U.S.),VI,VIR,850,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Virgin Islands Community Survey - VIC14
+Virgin Islands (U.S.),VI,VIR,850,National,5,Flush and pour flush - to elsewhere,0.0,Virgin Islands Community Survey - VIC14
+Virgin Islands (U.S.),VI,VIR,850,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Virgin Islands Community Survey - VIC14
+Virgin Islands (U.S.),VI,VIR,850,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Virgin Islands Community Survey - VIC14
+Virgin Islands (U.S.),VI,VIR,850,National,8,Dry latrines - Traditional latrine,0.0,Virgin Islands Community Survey - VIC14
+Virgin Islands (U.S.),VI,VIR,850,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Virgin Islands Community Survey - VIC14
+Virgin Islands (U.S.),VI,VIR,850,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Virgin Islands Community Survey - VIC14
+Virgin Islands (U.S.),VI,VIR,850,National,11,Dry latrines - Bucket latrine,0.0,Virgin Islands Community Survey - VIC14
+Virgin Islands (U.S.),VI,VIR,850,National,12,Dry latrines - Other,0.0,Virgin Islands Community Survey - VIC14
+Virgin Islands (U.S.),VI,VIR,850,National,13,Composting toilets,0.0,Virgin Islands Community Survey - VIC14
+Virgin Islands (U.S.),VI,VIR,850,National,14,Other improved,0.0,Virgin Islands Community Survey - VIC14
+Virgin Islands (U.S.),VI,VIR,850,National,15,"No facility, bush, field",0.0,Virgin Islands Community Survey - VIC14
+Virgin Islands (U.S.),VI,VIR,850,National,16,Other unimproved,0.01,Virgin Islands Community Survey - VIC14
+Virgin Islands (U.S.),VI,VIR,850,National,17,DK/missing information,0.0,Virgin Islands Community Survey - VIC14

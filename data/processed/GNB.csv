@@ -1,4 +1,55 @@
 country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+Guinea-Bissau,GW,GNB,624,Urban,1,Flush and pour flush - to piped sewer system,0.0,Multiple Indicator Cluster Survey - MICS00
+Guinea-Bissau,GW,GNB,624,Urban,2,Flush and pour flush - to septic tank,0.0,Multiple Indicator Cluster Survey - MICS00
+Guinea-Bissau,GW,GNB,624,Urban,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Guinea-Bissau,GW,GNB,624,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS00
+Guinea-Bissau,GW,GNB,624,Urban,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS00
+Guinea-Bissau,GW,GNB,624,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Guinea-Bissau,GW,GNB,624,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.036,Multiple Indicator Cluster Survey - MICS00
+Guinea-Bissau,GW,GNB,624,Urban,8,Dry latrines - Traditional latrine,0.725,Multiple Indicator Cluster Survey - MICS00
+Guinea-Bissau,GW,GNB,624,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.002,Multiple Indicator Cluster Survey - MICS00
+Guinea-Bissau,GW,GNB,624,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Guinea-Bissau,GW,GNB,624,Urban,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Guinea-Bissau,GW,GNB,624,Urban,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS00
+Guinea-Bissau,GW,GNB,624,Urban,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS00
+Guinea-Bissau,GW,GNB,624,Urban,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS00
+Guinea-Bissau,GW,GNB,624,Urban,15,"No facility, bush, field",0.047,Multiple Indicator Cluster Survey - MICS00
+Guinea-Bissau,GW,GNB,624,Urban,16,Other unimproved,0.001,Multiple Indicator Cluster Survey - MICS00
+Guinea-Bissau,GW,GNB,624,Urban,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS00
+Guinea-Bissau,GW,GNB,624,Rural,1,Flush and pour flush - to piped sewer system,0.0,Multiple Indicator Cluster Survey - MICS00
+Guinea-Bissau,GW,GNB,624,Rural,2,Flush and pour flush - to septic tank,0.0,Multiple Indicator Cluster Survey - MICS00
+Guinea-Bissau,GW,GNB,624,Rural,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Guinea-Bissau,GW,GNB,624,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS00
+Guinea-Bissau,GW,GNB,624,Rural,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS00
+Guinea-Bissau,GW,GNB,624,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Guinea-Bissau,GW,GNB,624,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.002,Multiple Indicator Cluster Survey - MICS00
+Guinea-Bissau,GW,GNB,624,Rural,8,Dry latrines - Traditional latrine,0.435,Multiple Indicator Cluster Survey - MICS00
+Guinea-Bissau,GW,GNB,624,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.001,Multiple Indicator Cluster Survey - MICS00
+Guinea-Bissau,GW,GNB,624,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Guinea-Bissau,GW,GNB,624,Rural,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Guinea-Bissau,GW,GNB,624,Rural,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS00
+Guinea-Bissau,GW,GNB,624,Rural,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS00
+Guinea-Bissau,GW,GNB,624,Rural,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS00
+Guinea-Bissau,GW,GNB,624,Rural,15,"No facility, bush, field",0.554,Multiple Indicator Cluster Survey - MICS00
+Guinea-Bissau,GW,GNB,624,Rural,16,Other unimproved,0.002,Multiple Indicator Cluster Survey - MICS00
+Guinea-Bissau,GW,GNB,624,Rural,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS00
+Guinea-Bissau,GW,GNB,624,National,1,Flush and pour flush - to piped sewer system,0.0,Multiple Indicator Cluster Survey - MICS00
+Guinea-Bissau,GW,GNB,624,National,2,Flush and pour flush - to septic tank,0.0,Multiple Indicator Cluster Survey - MICS00
+Guinea-Bissau,GW,GNB,624,National,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Guinea-Bissau,GW,GNB,624,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS00
+Guinea-Bissau,GW,GNB,624,National,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS00
+Guinea-Bissau,GW,GNB,624,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Guinea-Bissau,GW,GNB,624,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Guinea-Bissau,GW,GNB,624,National,8,Dry latrines - Traditional latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Guinea-Bissau,GW,GNB,624,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Guinea-Bissau,GW,GNB,624,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Guinea-Bissau,GW,GNB,624,National,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Guinea-Bissau,GW,GNB,624,National,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS00
+Guinea-Bissau,GW,GNB,624,National,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS00
+Guinea-Bissau,GW,GNB,624,National,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS00
+Guinea-Bissau,GW,GNB,624,National,15,"No facility, bush, field",0.0,Multiple Indicator Cluster Survey - MICS00
+Guinea-Bissau,GW,GNB,624,National,16,Other unimproved,0.0,Multiple Indicator Cluster Survey - MICS00
+Guinea-Bissau,GW,GNB,624,National,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS00
 Guinea-Bissau,GW,GNB,624,Urban,1,Flush and pour flush - to piped sewer system,0.036,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB02
 Guinea-Bissau,GW,GNB,624,Urban,2,Flush and pour flush - to septic tank,0.128,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB02
 Guinea-Bissau,GW,GNB,624,Urban,3,Flush and pour flush - to pit,0.0,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB02
@@ -33,6 +84,23 @@ Guinea-Bissau,GW,GNB,624,Rural,14,Other improved,0.0,Questionnaire Unifié sur l
 Guinea-Bissau,GW,GNB,624,Rural,15,"No facility, bush, field",0.48,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB02
 Guinea-Bissau,GW,GNB,624,Rural,16,Other unimproved,0.019,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB02
 Guinea-Bissau,GW,GNB,624,Rural,17,DK/missing information,0.0,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB02
+Guinea-Bissau,GW,GNB,624,National,1,Flush and pour flush - to piped sewer system,0.0,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB02
+Guinea-Bissau,GW,GNB,624,National,2,Flush and pour flush - to septic tank,0.0,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB02
+Guinea-Bissau,GW,GNB,624,National,3,Flush and pour flush - to pit,0.0,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB02
+Guinea-Bissau,GW,GNB,624,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB02
+Guinea-Bissau,GW,GNB,624,National,5,Flush and pour flush - to elsewhere,0.0,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB02
+Guinea-Bissau,GW,GNB,624,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB02
+Guinea-Bissau,GW,GNB,624,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB02
+Guinea-Bissau,GW,GNB,624,National,8,Dry latrines - Traditional latrine,0.0,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB02
+Guinea-Bissau,GW,GNB,624,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB02
+Guinea-Bissau,GW,GNB,624,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB02
+Guinea-Bissau,GW,GNB,624,National,11,Dry latrines - Bucket latrine,0.0,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB02
+Guinea-Bissau,GW,GNB,624,National,12,Dry latrines - Other,0.0,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB02
+Guinea-Bissau,GW,GNB,624,National,13,Composting toilets,0.0,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB02
+Guinea-Bissau,GW,GNB,624,National,14,Other improved,0.0,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB02
+Guinea-Bissau,GW,GNB,624,National,15,"No facility, bush, field",0.0,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB02
+Guinea-Bissau,GW,GNB,624,National,16,Other unimproved,0.0,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB02
+Guinea-Bissau,GW,GNB,624,National,17,DK/missing information,0.0,Questionnaire Unifié sur les Indicateurs de Base de Bien-Etre - QUIBB02
 Guinea-Bissau,GW,GNB,624,Urban,1,Flush and pour flush - to piped sewer system,0.13,Multiple Indicator Cluster Survey - MICS06
 Guinea-Bissau,GW,GNB,624,Urban,2,Flush and pour flush - to septic tank,0.068,Multiple Indicator Cluster Survey - MICS06
 Guinea-Bissau,GW,GNB,624,Urban,3,Flush and pour flush - to pit,0.09,Multiple Indicator Cluster Survey - MICS06
@@ -67,6 +135,128 @@ Guinea-Bissau,GW,GNB,624,Rural,14,Other improved,0.0,Multiple Indicator Cluster 
 Guinea-Bissau,GW,GNB,624,Rural,15,"No facility, bush, field",0.468,Multiple Indicator Cluster Survey - MICS06
 Guinea-Bissau,GW,GNB,624,Rural,16,Other unimproved,0.005,Multiple Indicator Cluster Survey - MICS06
 Guinea-Bissau,GW,GNB,624,Rural,17,DK/missing information,0.005,Multiple Indicator Cluster Survey - MICS06
+Guinea-Bissau,GW,GNB,624,National,1,Flush and pour flush - to piped sewer system,0.0,Multiple Indicator Cluster Survey - MICS06
+Guinea-Bissau,GW,GNB,624,National,2,Flush and pour flush - to septic tank,0.0,Multiple Indicator Cluster Survey - MICS06
+Guinea-Bissau,GW,GNB,624,National,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS06
+Guinea-Bissau,GW,GNB,624,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS06
+Guinea-Bissau,GW,GNB,624,National,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS06
+Guinea-Bissau,GW,GNB,624,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Multiple Indicator Cluster Survey - MICS06
+Guinea-Bissau,GW,GNB,624,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Multiple Indicator Cluster Survey - MICS06
+Guinea-Bissau,GW,GNB,624,National,8,Dry latrines - Traditional latrine,0.0,Multiple Indicator Cluster Survey - MICS06
+Guinea-Bissau,GW,GNB,624,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Multiple Indicator Cluster Survey - MICS06
+Guinea-Bissau,GW,GNB,624,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS06
+Guinea-Bissau,GW,GNB,624,National,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS06
+Guinea-Bissau,GW,GNB,624,National,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS06
+Guinea-Bissau,GW,GNB,624,National,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS06
+Guinea-Bissau,GW,GNB,624,National,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS06
+Guinea-Bissau,GW,GNB,624,National,15,"No facility, bush, field",0.0,Multiple Indicator Cluster Survey - MICS06
+Guinea-Bissau,GW,GNB,624,National,16,Other unimproved,0.0,Multiple Indicator Cluster Survey - MICS06
+Guinea-Bissau,GW,GNB,624,National,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS06
+Guinea-Bissau,GW,GNB,624,Urban,1,Flush and pour flush - to piped sewer system,0.009,"Recenseamento Geral da População e Habitação, 2009 - CEN09"
+Guinea-Bissau,GW,GNB,624,Urban,2,Flush and pour flush - to septic tank,0.245,"Recenseamento Geral da População e Habitação, 2009 - CEN09"
+Guinea-Bissau,GW,GNB,624,Urban,3,Flush and pour flush - to pit,0.0,"Recenseamento Geral da População e Habitação, 2009 - CEN09"
+Guinea-Bissau,GW,GNB,624,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Recenseamento Geral da População e Habitação, 2009 - CEN09"
+Guinea-Bissau,GW,GNB,624,Urban,5,Flush and pour flush - to elsewhere,0.0,"Recenseamento Geral da População e Habitação, 2009 - CEN09"
+Guinea-Bissau,GW,GNB,624,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Recenseamento Geral da População e Habitação, 2009 - CEN09"
+Guinea-Bissau,GW,GNB,624,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Recenseamento Geral da População e Habitação, 2009 - CEN09"
+Guinea-Bissau,GW,GNB,624,Urban,8,Dry latrines - Traditional latrine,0.674,"Recenseamento Geral da População e Habitação, 2009 - CEN09"
+Guinea-Bissau,GW,GNB,624,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Recenseamento Geral da População e Habitação, 2009 - CEN09"
+Guinea-Bissau,GW,GNB,624,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Recenseamento Geral da População e Habitação, 2009 - CEN09"
+Guinea-Bissau,GW,GNB,624,Urban,11,Dry latrines - Bucket latrine,0.0,"Recenseamento Geral da População e Habitação, 2009 - CEN09"
+Guinea-Bissau,GW,GNB,624,Urban,12,Dry latrines - Other,0.0,"Recenseamento Geral da População e Habitação, 2009 - CEN09"
+Guinea-Bissau,GW,GNB,624,Urban,13,Composting toilets,0.0,"Recenseamento Geral da População e Habitação, 2009 - CEN09"
+Guinea-Bissau,GW,GNB,624,Urban,14,Other improved,0.0,"Recenseamento Geral da População e Habitação, 2009 - CEN09"
+Guinea-Bissau,GW,GNB,624,Urban,15,"No facility, bush, field",0.037,"Recenseamento Geral da População e Habitação, 2009 - CEN09"
+Guinea-Bissau,GW,GNB,624,Urban,16,Other unimproved,0.011,"Recenseamento Geral da População e Habitação, 2009 - CEN09"
+Guinea-Bissau,GW,GNB,624,Urban,17,DK/missing information,0.024,"Recenseamento Geral da População e Habitação, 2009 - CEN09"
+Guinea-Bissau,GW,GNB,624,Rural,1,Flush and pour flush - to piped sewer system,0.002,"Recenseamento Geral da População e Habitação, 2009 - CEN09"
+Guinea-Bissau,GW,GNB,624,Rural,2,Flush and pour flush - to septic tank,0.016,"Recenseamento Geral da População e Habitação, 2009 - CEN09"
+Guinea-Bissau,GW,GNB,624,Rural,3,Flush and pour flush - to pit,0.0,"Recenseamento Geral da População e Habitação, 2009 - CEN09"
+Guinea-Bissau,GW,GNB,624,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Recenseamento Geral da População e Habitação, 2009 - CEN09"
+Guinea-Bissau,GW,GNB,624,Rural,5,Flush and pour flush - to elsewhere,0.0,"Recenseamento Geral da População e Habitação, 2009 - CEN09"
+Guinea-Bissau,GW,GNB,624,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Recenseamento Geral da População e Habitação, 2009 - CEN09"
+Guinea-Bissau,GW,GNB,624,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Recenseamento Geral da População e Habitação, 2009 - CEN09"
+Guinea-Bissau,GW,GNB,624,Rural,8,Dry latrines - Traditional latrine,0.487,"Recenseamento Geral da População e Habitação, 2009 - CEN09"
+Guinea-Bissau,GW,GNB,624,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Recenseamento Geral da População e Habitação, 2009 - CEN09"
+Guinea-Bissau,GW,GNB,624,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Recenseamento Geral da População e Habitação, 2009 - CEN09"
+Guinea-Bissau,GW,GNB,624,Rural,11,Dry latrines - Bucket latrine,0.0,"Recenseamento Geral da População e Habitação, 2009 - CEN09"
+Guinea-Bissau,GW,GNB,624,Rural,12,Dry latrines - Other,0.0,"Recenseamento Geral da População e Habitação, 2009 - CEN09"
+Guinea-Bissau,GW,GNB,624,Rural,13,Composting toilets,0.0,"Recenseamento Geral da População e Habitação, 2009 - CEN09"
+Guinea-Bissau,GW,GNB,624,Rural,14,Other improved,0.0,"Recenseamento Geral da População e Habitação, 2009 - CEN09"
+Guinea-Bissau,GW,GNB,624,Rural,15,"No facility, bush, field",0.449,"Recenseamento Geral da População e Habitação, 2009 - CEN09"
+Guinea-Bissau,GW,GNB,624,Rural,16,Other unimproved,0.015,"Recenseamento Geral da População e Habitação, 2009 - CEN09"
+Guinea-Bissau,GW,GNB,624,Rural,17,DK/missing information,0.031,"Recenseamento Geral da População e Habitação, 2009 - CEN09"
+Guinea-Bissau,GW,GNB,624,National,1,Flush and pour flush - to piped sewer system,0.005,"Recenseamento Geral da População e Habitação, 2009 - CEN09"
+Guinea-Bissau,GW,GNB,624,National,2,Flush and pour flush - to septic tank,0.12,"Recenseamento Geral da População e Habitação, 2009 - CEN09"
+Guinea-Bissau,GW,GNB,624,National,3,Flush and pour flush - to pit,0.0,"Recenseamento Geral da População e Habitação, 2009 - CEN09"
+Guinea-Bissau,GW,GNB,624,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Recenseamento Geral da População e Habitação, 2009 - CEN09"
+Guinea-Bissau,GW,GNB,624,National,5,Flush and pour flush - to elsewhere,0.0,"Recenseamento Geral da População e Habitação, 2009 - CEN09"
+Guinea-Bissau,GW,GNB,624,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Recenseamento Geral da População e Habitação, 2009 - CEN09"
+Guinea-Bissau,GW,GNB,624,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Recenseamento Geral da População e Habitação, 2009 - CEN09"
+Guinea-Bissau,GW,GNB,624,National,8,Dry latrines - Traditional latrine,0.571,"Recenseamento Geral da População e Habitação, 2009 - CEN09"
+Guinea-Bissau,GW,GNB,624,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Recenseamento Geral da População e Habitação, 2009 - CEN09"
+Guinea-Bissau,GW,GNB,624,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Recenseamento Geral da População e Habitação, 2009 - CEN09"
+Guinea-Bissau,GW,GNB,624,National,11,Dry latrines - Bucket latrine,0.0,"Recenseamento Geral da População e Habitação, 2009 - CEN09"
+Guinea-Bissau,GW,GNB,624,National,12,Dry latrines - Other,0.0,"Recenseamento Geral da População e Habitação, 2009 - CEN09"
+Guinea-Bissau,GW,GNB,624,National,13,Composting toilets,0.0,"Recenseamento Geral da População e Habitação, 2009 - CEN09"
+Guinea-Bissau,GW,GNB,624,National,14,Other improved,0.0,"Recenseamento Geral da População e Habitação, 2009 - CEN09"
+Guinea-Bissau,GW,GNB,624,National,15,"No facility, bush, field",0.263,"Recenseamento Geral da População e Habitação, 2009 - CEN09"
+Guinea-Bissau,GW,GNB,624,National,16,Other unimproved,0.013,"Recenseamento Geral da População e Habitação, 2009 - CEN09"
+Guinea-Bissau,GW,GNB,624,National,17,DK/missing information,0.028,"Recenseamento Geral da População e Habitação, 2009 - CEN09"
+Guinea-Bissau,GW,GNB,624,Urban,1,Flush and pour flush - to piped sewer system,0.0,Mulitiple Indicator Cluster Survey - MICS10
+Guinea-Bissau,GW,GNB,624,Urban,2,Flush and pour flush - to septic tank,0.0,Mulitiple Indicator Cluster Survey - MICS10
+Guinea-Bissau,GW,GNB,624,Urban,3,Flush and pour flush - to pit,0.0,Mulitiple Indicator Cluster Survey - MICS10
+Guinea-Bissau,GW,GNB,624,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Mulitiple Indicator Cluster Survey - MICS10
+Guinea-Bissau,GW,GNB,624,Urban,5,Flush and pour flush - to elsewhere,0.0,Mulitiple Indicator Cluster Survey - MICS10
+Guinea-Bissau,GW,GNB,624,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Mulitiple Indicator Cluster Survey - MICS10
+Guinea-Bissau,GW,GNB,624,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Mulitiple Indicator Cluster Survey - MICS10
+Guinea-Bissau,GW,GNB,624,Urban,8,Dry latrines - Traditional latrine,0.623,Mulitiple Indicator Cluster Survey - MICS10
+Guinea-Bissau,GW,GNB,624,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Mulitiple Indicator Cluster Survey - MICS10
+Guinea-Bissau,GW,GNB,624,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Mulitiple Indicator Cluster Survey - MICS10
+Guinea-Bissau,GW,GNB,624,Urban,11,Dry latrines - Bucket latrine,0.0,Mulitiple Indicator Cluster Survey - MICS10
+Guinea-Bissau,GW,GNB,624,Urban,11,Dry latrines - Bucket latrine,0.0,Mulitiple Indicator Cluster Survey - MICS10
+Guinea-Bissau,GW,GNB,624,Urban,12,Dry latrines - Other,0.0,Mulitiple Indicator Cluster Survey - MICS10
+Guinea-Bissau,GW,GNB,624,Urban,13,Composting toilets,0.0,Mulitiple Indicator Cluster Survey - MICS10
+Guinea-Bissau,GW,GNB,624,Urban,14,Other improved,0.0,Mulitiple Indicator Cluster Survey - MICS10
+Guinea-Bissau,GW,GNB,624,Urban,15,"No facility, bush, field",0.023,Mulitiple Indicator Cluster Survey - MICS10
+Guinea-Bissau,GW,GNB,624,Urban,16,Other unimproved,0.004,Mulitiple Indicator Cluster Survey - MICS10
+Guinea-Bissau,GW,GNB,624,Urban,17,DK/missing information,0.0,Mulitiple Indicator Cluster Survey - MICS10
+Guinea-Bissau,GW,GNB,624,Rural,1,Flush and pour flush - to piped sewer system,0.0,Mulitiple Indicator Cluster Survey - MICS10
+Guinea-Bissau,GW,GNB,624,Rural,2,Flush and pour flush - to septic tank,0.0,Mulitiple Indicator Cluster Survey - MICS10
+Guinea-Bissau,GW,GNB,624,Rural,3,Flush and pour flush - to pit,0.0,Mulitiple Indicator Cluster Survey - MICS10
+Guinea-Bissau,GW,GNB,624,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Mulitiple Indicator Cluster Survey - MICS10
+Guinea-Bissau,GW,GNB,624,Rural,5,Flush and pour flush - to elsewhere,0.0,Mulitiple Indicator Cluster Survey - MICS10
+Guinea-Bissau,GW,GNB,624,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Mulitiple Indicator Cluster Survey - MICS10
+Guinea-Bissau,GW,GNB,624,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Mulitiple Indicator Cluster Survey - MICS10
+Guinea-Bissau,GW,GNB,624,Rural,8,Dry latrines - Traditional latrine,0.596,Mulitiple Indicator Cluster Survey - MICS10
+Guinea-Bissau,GW,GNB,624,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Mulitiple Indicator Cluster Survey - MICS10
+Guinea-Bissau,GW,GNB,624,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Mulitiple Indicator Cluster Survey - MICS10
+Guinea-Bissau,GW,GNB,624,Rural,11,Dry latrines - Bucket latrine,0.0,Mulitiple Indicator Cluster Survey - MICS10
+Guinea-Bissau,GW,GNB,624,Rural,11,Dry latrines - Bucket latrine,0.0,Mulitiple Indicator Cluster Survey - MICS10
+Guinea-Bissau,GW,GNB,624,Rural,12,Dry latrines - Other,0.0,Mulitiple Indicator Cluster Survey - MICS10
+Guinea-Bissau,GW,GNB,624,Rural,13,Composting toilets,0.0,Mulitiple Indicator Cluster Survey - MICS10
+Guinea-Bissau,GW,GNB,624,Rural,14,Other improved,0.0,Mulitiple Indicator Cluster Survey - MICS10
+Guinea-Bissau,GW,GNB,624,Rural,15,"No facility, bush, field",0.349,Mulitiple Indicator Cluster Survey - MICS10
+Guinea-Bissau,GW,GNB,624,Rural,16,Other unimproved,0.006,Mulitiple Indicator Cluster Survey - MICS10
+Guinea-Bissau,GW,GNB,624,Rural,17,DK/missing information,0.0,Mulitiple Indicator Cluster Survey - MICS10
+Guinea-Bissau,GW,GNB,624,National,1,Flush and pour flush - to piped sewer system,0.0,Mulitiple Indicator Cluster Survey - MICS10
+Guinea-Bissau,GW,GNB,624,National,2,Flush and pour flush - to septic tank,0.0,Mulitiple Indicator Cluster Survey - MICS10
+Guinea-Bissau,GW,GNB,624,National,3,Flush and pour flush - to pit,0.0,Mulitiple Indicator Cluster Survey - MICS10
+Guinea-Bissau,GW,GNB,624,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Mulitiple Indicator Cluster Survey - MICS10
+Guinea-Bissau,GW,GNB,624,National,5,Flush and pour flush - to elsewhere,0.0,Mulitiple Indicator Cluster Survey - MICS10
+Guinea-Bissau,GW,GNB,624,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Mulitiple Indicator Cluster Survey - MICS10
+Guinea-Bissau,GW,GNB,624,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Mulitiple Indicator Cluster Survey - MICS10
+Guinea-Bissau,GW,GNB,624,National,8,Dry latrines - Traditional latrine,0.607,Mulitiple Indicator Cluster Survey - MICS10
+Guinea-Bissau,GW,GNB,624,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Mulitiple Indicator Cluster Survey - MICS10
+Guinea-Bissau,GW,GNB,624,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Mulitiple Indicator Cluster Survey - MICS10
+Guinea-Bissau,GW,GNB,624,National,11,Dry latrines - Bucket latrine,0.0,Mulitiple Indicator Cluster Survey - MICS10
+Guinea-Bissau,GW,GNB,624,National,11,Dry latrines - Bucket latrine,0.0,Mulitiple Indicator Cluster Survey - MICS10
+Guinea-Bissau,GW,GNB,624,National,12,Dry latrines - Other,0.0,Mulitiple Indicator Cluster Survey - MICS10
+Guinea-Bissau,GW,GNB,624,National,13,Composting toilets,0.0,Mulitiple Indicator Cluster Survey - MICS10
+Guinea-Bissau,GW,GNB,624,National,14,Other improved,0.0,Mulitiple Indicator Cluster Survey - MICS10
+Guinea-Bissau,GW,GNB,624,National,15,"No facility, bush, field",0.213,Mulitiple Indicator Cluster Survey - MICS10
+Guinea-Bissau,GW,GNB,624,National,16,Other unimproved,0.005,Mulitiple Indicator Cluster Survey - MICS10
+Guinea-Bissau,GW,GNB,624,National,17,DK/missing information,0.0,Mulitiple Indicator Cluster Survey - MICS10
 Guinea-Bissau,GW,GNB,624,Urban,1,Flush and pour flush - to piped sewer system,0.016,Mulitiple Indicator Cluster Survey - MICS14
 Guinea-Bissau,GW,GNB,624,Urban,2,Flush and pour flush - to septic tank,0.28,Mulitiple Indicator Cluster Survey - MICS14
 Guinea-Bissau,GW,GNB,624,Urban,3,Flush and pour flush - to pit,0.0,Mulitiple Indicator Cluster Survey - MICS14
@@ -101,3 +291,20 @@ Guinea-Bissau,GW,GNB,624,Rural,14,Other improved,0.0,Mulitiple Indicator Cluster
 Guinea-Bissau,GW,GNB,624,Rural,15,"No facility, bush, field",0.302,Mulitiple Indicator Cluster Survey - MICS14
 Guinea-Bissau,GW,GNB,624,Rural,16,Other unimproved,0.004,Mulitiple Indicator Cluster Survey - MICS14
 Guinea-Bissau,GW,GNB,624,Rural,17,DK/missing information,0.0,Mulitiple Indicator Cluster Survey - MICS14
+Guinea-Bissau,GW,GNB,624,National,1,Flush and pour flush - to piped sewer system,0.011,Mulitiple Indicator Cluster Survey - MICS14
+Guinea-Bissau,GW,GNB,624,National,2,Flush and pour flush - to septic tank,0.13,Mulitiple Indicator Cluster Survey - MICS14
+Guinea-Bissau,GW,GNB,624,National,3,Flush and pour flush - to pit,0.0,Mulitiple Indicator Cluster Survey - MICS14
+Guinea-Bissau,GW,GNB,624,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Mulitiple Indicator Cluster Survey - MICS14
+Guinea-Bissau,GW,GNB,624,National,5,Flush and pour flush - to elsewhere,0.007,Mulitiple Indicator Cluster Survey - MICS14
+Guinea-Bissau,GW,GNB,624,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Mulitiple Indicator Cluster Survey - MICS14
+Guinea-Bissau,GW,GNB,624,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.101,Mulitiple Indicator Cluster Survey - MICS14
+Guinea-Bissau,GW,GNB,624,National,8,Dry latrines - Traditional latrine,0.57,Mulitiple Indicator Cluster Survey - MICS14
+Guinea-Bissau,GW,GNB,624,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Mulitiple Indicator Cluster Survey - MICS14
+Guinea-Bissau,GW,GNB,624,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Mulitiple Indicator Cluster Survey - MICS14
+Guinea-Bissau,GW,GNB,624,National,11,Dry latrines - Bucket latrine,0.0,Mulitiple Indicator Cluster Survey - MICS14
+Guinea-Bissau,GW,GNB,624,National,12,Dry latrines - Other,0.0,Mulitiple Indicator Cluster Survey - MICS14
+Guinea-Bissau,GW,GNB,624,National,13,Composting toilets,0.0,Mulitiple Indicator Cluster Survey - MICS14
+Guinea-Bissau,GW,GNB,624,National,14,Other improved,0.0,Mulitiple Indicator Cluster Survey - MICS14
+Guinea-Bissau,GW,GNB,624,National,15,"No facility, bush, field",0.177,Mulitiple Indicator Cluster Survey - MICS14
+Guinea-Bissau,GW,GNB,624,National,16,Other unimproved,0.004,Mulitiple Indicator Cluster Survey - MICS14
+Guinea-Bissau,GW,GNB,624,National,17,DK/missing information,0.0,Mulitiple Indicator Cluster Survey - MICS14

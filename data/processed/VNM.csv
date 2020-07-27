@@ -1,4 +1,106 @@
 country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+Viet Nam,VN,VNM,704,Urban,1,Flush and pour flush - to piped sewer system,0.0,Multiple Indicator Cluster Survey - MICS00
+Viet Nam,VN,VNM,704,Urban,2,Flush and pour flush - to septic tank,0.0,Multiple Indicator Cluster Survey - MICS00
+Viet Nam,VN,VNM,704,Urban,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Viet Nam,VN,VNM,704,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS00
+Viet Nam,VN,VNM,704,Urban,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS00
+Viet Nam,VN,VNM,704,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Viet Nam,VN,VNM,704,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.022,Multiple Indicator Cluster Survey - MICS00
+Viet Nam,VN,VNM,704,Urban,8,Dry latrines - Traditional latrine,0.107,Multiple Indicator Cluster Survey - MICS00
+Viet Nam,VN,VNM,704,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.113,Multiple Indicator Cluster Survey - MICS00
+Viet Nam,VN,VNM,704,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Viet Nam,VN,VNM,704,Urban,11,Dry latrines - Bucket latrine,0.014,Multiple Indicator Cluster Survey - MICS00
+Viet Nam,VN,VNM,704,Urban,12,Dry latrines - Other,0.01,Multiple Indicator Cluster Survey - MICS00
+Viet Nam,VN,VNM,704,Urban,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS00
+Viet Nam,VN,VNM,704,Urban,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS00
+Viet Nam,VN,VNM,704,Urban,15,"No facility, bush, field",0.045,Multiple Indicator Cluster Survey - MICS00
+Viet Nam,VN,VNM,704,Urban,16,Other unimproved,0.0,Multiple Indicator Cluster Survey - MICS00
+Viet Nam,VN,VNM,704,Urban,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS00
+Viet Nam,VN,VNM,704,Rural,1,Flush and pour flush - to piped sewer system,0.0,Multiple Indicator Cluster Survey - MICS00
+Viet Nam,VN,VNM,704,Rural,2,Flush and pour flush - to septic tank,0.0,Multiple Indicator Cluster Survey - MICS00
+Viet Nam,VN,VNM,704,Rural,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Viet Nam,VN,VNM,704,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS00
+Viet Nam,VN,VNM,704,Rural,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS00
+Viet Nam,VN,VNM,704,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Viet Nam,VN,VNM,704,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.016,Multiple Indicator Cluster Survey - MICS00
+Viet Nam,VN,VNM,704,Rural,8,Dry latrines - Traditional latrine,0.249,Multiple Indicator Cluster Survey - MICS00
+Viet Nam,VN,VNM,704,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.389,Multiple Indicator Cluster Survey - MICS00
+Viet Nam,VN,VNM,704,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Viet Nam,VN,VNM,704,Rural,11,Dry latrines - Bucket latrine,0.023,Multiple Indicator Cluster Survey - MICS00
+Viet Nam,VN,VNM,704,Rural,12,Dry latrines - Other,0.031,Multiple Indicator Cluster Survey - MICS00
+Viet Nam,VN,VNM,704,Rural,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS00
+Viet Nam,VN,VNM,704,Rural,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS00
+Viet Nam,VN,VNM,704,Rural,15,"No facility, bush, field",0.232,Multiple Indicator Cluster Survey - MICS00
+Viet Nam,VN,VNM,704,Rural,16,Other unimproved,0.0,Multiple Indicator Cluster Survey - MICS00
+Viet Nam,VN,VNM,704,Rural,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS00
+Viet Nam,VN,VNM,704,National,1,Flush and pour flush - to piped sewer system,0.0,Multiple Indicator Cluster Survey - MICS00
+Viet Nam,VN,VNM,704,National,2,Flush and pour flush - to septic tank,0.0,Multiple Indicator Cluster Survey - MICS00
+Viet Nam,VN,VNM,704,National,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Viet Nam,VN,VNM,704,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS00
+Viet Nam,VN,VNM,704,National,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS00
+Viet Nam,VN,VNM,704,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Viet Nam,VN,VNM,704,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.017,Multiple Indicator Cluster Survey - MICS00
+Viet Nam,VN,VNM,704,National,8,Dry latrines - Traditional latrine,0.216,Multiple Indicator Cluster Survey - MICS00
+Viet Nam,VN,VNM,704,National,9,Dry latrines - Pit latrine without slab/open pit,0.324,Multiple Indicator Cluster Survey - MICS00
+Viet Nam,VN,VNM,704,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Viet Nam,VN,VNM,704,National,11,Dry latrines - Bucket latrine,0.021,Multiple Indicator Cluster Survey - MICS00
+Viet Nam,VN,VNM,704,National,12,Dry latrines - Other,0.026,Multiple Indicator Cluster Survey - MICS00
+Viet Nam,VN,VNM,704,National,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS00
+Viet Nam,VN,VNM,704,National,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS00
+Viet Nam,VN,VNM,704,National,15,"No facility, bush, field",0.188,Multiple Indicator Cluster Survey - MICS00
+Viet Nam,VN,VNM,704,National,16,Other unimproved,0.0,Multiple Indicator Cluster Survey - MICS00
+Viet Nam,VN,VNM,704,National,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS00
+Viet Nam,VN,VNM,704,Urban,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS02
+Viet Nam,VN,VNM,704,Urban,2,Flush and pour flush - to septic tank,0.0,Demographic and Health Survey - DHS02
+Viet Nam,VN,VNM,704,Urban,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS02
+Viet Nam,VN,VNM,704,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS02
+Viet Nam,VN,VNM,704,Urban,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS02
+Viet Nam,VN,VNM,704,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.04,Demographic and Health Survey - DHS02
+Viet Nam,VN,VNM,704,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS02
+Viet Nam,VN,VNM,704,Urban,8,Dry latrines - Traditional latrine,0.099,Demographic and Health Survey - DHS02
+Viet Nam,VN,VNM,704,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Survey - DHS02
+Viet Nam,VN,VNM,704,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS02
+Viet Nam,VN,VNM,704,Urban,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS02
+Viet Nam,VN,VNM,704,Urban,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS02
+Viet Nam,VN,VNM,704,Urban,13,Composting toilets,0.0,Demographic and Health Survey - DHS02
+Viet Nam,VN,VNM,704,Urban,14,Other improved,0.0,Demographic and Health Survey - DHS02
+Viet Nam,VN,VNM,704,Urban,15,"No facility, bush, field",0.039,Demographic and Health Survey - DHS02
+Viet Nam,VN,VNM,704,Urban,16,Other unimproved,0.0,Demographic and Health Survey - DHS02
+Viet Nam,VN,VNM,704,Urban,17,DK/missing information,0.0,Demographic and Health Survey - DHS02
+Viet Nam,VN,VNM,704,Rural,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS02
+Viet Nam,VN,VNM,704,Rural,2,Flush and pour flush - to septic tank,0.0,Demographic and Health Survey - DHS02
+Viet Nam,VN,VNM,704,Rural,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS02
+Viet Nam,VN,VNM,704,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS02
+Viet Nam,VN,VNM,704,Rural,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS02
+Viet Nam,VN,VNM,704,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.128,Demographic and Health Survey - DHS02
+Viet Nam,VN,VNM,704,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS02
+Viet Nam,VN,VNM,704,Rural,8,Dry latrines - Traditional latrine,0.536,Demographic and Health Survey - DHS02
+Viet Nam,VN,VNM,704,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Survey - DHS02
+Viet Nam,VN,VNM,704,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS02
+Viet Nam,VN,VNM,704,Rural,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS02
+Viet Nam,VN,VNM,704,Rural,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS02
+Viet Nam,VN,VNM,704,Rural,13,Composting toilets,0.0,Demographic and Health Survey - DHS02
+Viet Nam,VN,VNM,704,Rural,14,Other improved,0.0,Demographic and Health Survey - DHS02
+Viet Nam,VN,VNM,704,Rural,15,"No facility, bush, field",0.206,Demographic and Health Survey - DHS02
+Viet Nam,VN,VNM,704,Rural,16,Other unimproved,0.0,Demographic and Health Survey - DHS02
+Viet Nam,VN,VNM,704,Rural,17,DK/missing information,0.011,Demographic and Health Survey - DHS02
+Viet Nam,VN,VNM,704,National,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS02
+Viet Nam,VN,VNM,704,National,2,Flush and pour flush - to septic tank,0.0,Demographic and Health Survey - DHS02
+Viet Nam,VN,VNM,704,National,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS02
+Viet Nam,VN,VNM,704,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS02
+Viet Nam,VN,VNM,704,National,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS02
+Viet Nam,VN,VNM,704,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - DHS02
+Viet Nam,VN,VNM,704,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS02
+Viet Nam,VN,VNM,704,National,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS02
+Viet Nam,VN,VNM,704,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Survey - DHS02
+Viet Nam,VN,VNM,704,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS02
+Viet Nam,VN,VNM,704,National,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS02
+Viet Nam,VN,VNM,704,National,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS02
+Viet Nam,VN,VNM,704,National,13,Composting toilets,0.0,Demographic and Health Survey - DHS02
+Viet Nam,VN,VNM,704,National,14,Other improved,0.0,Demographic and Health Survey - DHS02
+Viet Nam,VN,VNM,704,National,15,"No facility, bush, field",0.0,Demographic and Health Survey - DHS02
+Viet Nam,VN,VNM,704,National,16,Other unimproved,0.0,Demographic and Health Survey - DHS02
+Viet Nam,VN,VNM,704,National,17,DK/missing information,0.0,Demographic and Health Survey - DHS02
 Viet Nam,VN,VNM,704,Urban,1,Flush and pour flush - to piped sewer system,0.032,World Health Survey - WHS03
 Viet Nam,VN,VNM,704,Urban,2,Flush and pour flush - to septic tank,0.54,World Health Survey - WHS03
 Viet Nam,VN,VNM,704,Urban,3,Flush and pour flush - to pit,0.0,World Health Survey - WHS03
@@ -45,6 +147,125 @@ Viet Nam,VN,VNM,704,Rural,14,Other improved,0.0,World Health Survey - WHS03
 Viet Nam,VN,VNM,704,Rural,15,"No facility, bush, field",0.145,World Health Survey - WHS03
 Viet Nam,VN,VNM,704,Rural,16,Other unimproved,0.093,World Health Survey - WHS03
 Viet Nam,VN,VNM,704,Rural,17,DK/missing information,0.0,World Health Survey - WHS03
+Viet Nam,VN,VNM,704,National,1,Flush and pour flush - to piped sewer system,0.0,World Health Survey - WHS03
+Viet Nam,VN,VNM,704,National,2,Flush and pour flush - to septic tank,0.0,World Health Survey - WHS03
+Viet Nam,VN,VNM,704,National,3,Flush and pour flush - to pit,0.0,World Health Survey - WHS03
+Viet Nam,VN,VNM,704,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,World Health Survey - WHS03
+Viet Nam,VN,VNM,704,National,5,Flush and pour flush - to elsewhere,0.0,World Health Survey - WHS03
+Viet Nam,VN,VNM,704,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,World Health Survey - WHS03
+Viet Nam,VN,VNM,704,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,World Health Survey - WHS03
+Viet Nam,VN,VNM,704,National,8,Dry latrines - Traditional latrine,0.0,World Health Survey - WHS03
+Viet Nam,VN,VNM,704,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,World Health Survey - WHS03
+Viet Nam,VN,VNM,704,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,World Health Survey - WHS03
+Viet Nam,VN,VNM,704,National,11,Dry latrines - Bucket latrine,0.0,World Health Survey - WHS03
+Viet Nam,VN,VNM,704,National,12,Dry latrines - Other,0.0,World Health Survey - WHS03
+Viet Nam,VN,VNM,704,National,13,Composting toilets,0.0,World Health Survey - WHS03
+Viet Nam,VN,VNM,704,National,14,Other improved,0.0,World Health Survey - WHS03
+Viet Nam,VN,VNM,704,National,15,"No facility, bush, field",0.0,World Health Survey - WHS03
+Viet Nam,VN,VNM,704,National,16,Other unimproved,0.0,World Health Survey - WHS03
+Viet Nam,VN,VNM,704,National,17,DK/missing information,0.0,World Health Survey - WHS03
+Viet Nam,VN,VNM,704,Urban,1,Flush and pour flush - to piped sewer system,0.0, Living Standards Survey - LSS04
+Viet Nam,VN,VNM,704,Urban,2,Flush and pour flush - to septic tank,0.0, Living Standards Survey - LSS04
+Viet Nam,VN,VNM,704,Urban,3,Flush and pour flush - to pit,0.0, Living Standards Survey - LSS04
+Viet Nam,VN,VNM,704,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0, Living Standards Survey - LSS04
+Viet Nam,VN,VNM,704,Urban,5,Flush and pour flush - to elsewhere,0.0, Living Standards Survey - LSS04
+Viet Nam,VN,VNM,704,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0, Living Standards Survey - LSS04
+Viet Nam,VN,VNM,704,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0, Living Standards Survey - LSS04
+Viet Nam,VN,VNM,704,Urban,8,Dry latrines - Traditional latrine,0.0, Living Standards Survey - LSS04
+Viet Nam,VN,VNM,704,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0, Living Standards Survey - LSS04
+Viet Nam,VN,VNM,704,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.033, Living Standards Survey - LSS04
+Viet Nam,VN,VNM,704,Urban,11,Dry latrines - Bucket latrine,0.0, Living Standards Survey - LSS04
+Viet Nam,VN,VNM,704,Urban,12,Dry latrines - Other,0.0, Living Standards Survey - LSS04
+Viet Nam,VN,VNM,704,Urban,13,Composting toilets,0.083, Living Standards Survey - LSS04
+Viet Nam,VN,VNM,704,Urban,14,Other improved,0.0, Living Standards Survey - LSS04
+Viet Nam,VN,VNM,704,Urban,15,"No facility, bush, field",0.063, Living Standards Survey - LSS04
+Viet Nam,VN,VNM,704,Urban,16,Other unimproved,0.071, Living Standards Survey - LSS04
+Viet Nam,VN,VNM,704,Urban,17,DK/missing information,0.0, Living Standards Survey - LSS04
+Viet Nam,VN,VNM,704,Rural,1,Flush and pour flush - to piped sewer system,0.0, Living Standards Survey - LSS04
+Viet Nam,VN,VNM,704,Rural,2,Flush and pour flush - to septic tank,0.0, Living Standards Survey - LSS04
+Viet Nam,VN,VNM,704,Rural,3,Flush and pour flush - to pit,0.0, Living Standards Survey - LSS04
+Viet Nam,VN,VNM,704,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0, Living Standards Survey - LSS04
+Viet Nam,VN,VNM,704,Rural,5,Flush and pour flush - to elsewhere,0.0, Living Standards Survey - LSS04
+Viet Nam,VN,VNM,704,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0, Living Standards Survey - LSS04
+Viet Nam,VN,VNM,704,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0, Living Standards Survey - LSS04
+Viet Nam,VN,VNM,704,Rural,8,Dry latrines - Traditional latrine,0.0, Living Standards Survey - LSS04
+Viet Nam,VN,VNM,704,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0, Living Standards Survey - LSS04
+Viet Nam,VN,VNM,704,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.135, Living Standards Survey - LSS04
+Viet Nam,VN,VNM,704,Rural,11,Dry latrines - Bucket latrine,0.0, Living Standards Survey - LSS04
+Viet Nam,VN,VNM,704,Rural,12,Dry latrines - Other,0.0, Living Standards Survey - LSS04
+Viet Nam,VN,VNM,704,Rural,13,Composting toilets,0.253, Living Standards Survey - LSS04
+Viet Nam,VN,VNM,704,Rural,14,Other improved,0.0, Living Standards Survey - LSS04
+Viet Nam,VN,VNM,704,Rural,15,"No facility, bush, field",0.165, Living Standards Survey - LSS04
+Viet Nam,VN,VNM,704,Rural,16,Other unimproved,0.284, Living Standards Survey - LSS04
+Viet Nam,VN,VNM,704,Rural,17,DK/missing information,0.0, Living Standards Survey - LSS04
+Viet Nam,VN,VNM,704,National,1,Flush and pour flush - to piped sewer system,0.0, Living Standards Survey - LSS04
+Viet Nam,VN,VNM,704,National,2,Flush and pour flush - to septic tank,0.0, Living Standards Survey - LSS04
+Viet Nam,VN,VNM,704,National,3,Flush and pour flush - to pit,0.0, Living Standards Survey - LSS04
+Viet Nam,VN,VNM,704,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0, Living Standards Survey - LSS04
+Viet Nam,VN,VNM,704,National,5,Flush and pour flush - to elsewhere,0.0, Living Standards Survey - LSS04
+Viet Nam,VN,VNM,704,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0, Living Standards Survey - LSS04
+Viet Nam,VN,VNM,704,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0, Living Standards Survey - LSS04
+Viet Nam,VN,VNM,704,National,8,Dry latrines - Traditional latrine,0.0, Living Standards Survey - LSS04
+Viet Nam,VN,VNM,704,National,9,Dry latrines - Pit latrine without slab/open pit,0.0, Living Standards Survey - LSS04
+Viet Nam,VN,VNM,704,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0, Living Standards Survey - LSS04
+Viet Nam,VN,VNM,704,National,11,Dry latrines - Bucket latrine,0.0, Living Standards Survey - LSS04
+Viet Nam,VN,VNM,704,National,12,Dry latrines - Other,0.0, Living Standards Survey - LSS04
+Viet Nam,VN,VNM,704,National,13,Composting toilets,0.0, Living Standards Survey - LSS04
+Viet Nam,VN,VNM,704,National,14,Other improved,0.0, Living Standards Survey - LSS04
+Viet Nam,VN,VNM,704,National,15,"No facility, bush, field",0.0, Living Standards Survey - LSS04
+Viet Nam,VN,VNM,704,National,16,Other unimproved,0.0, Living Standards Survey - LSS04
+Viet Nam,VN,VNM,704,National,17,DK/missing information,0.0, Living Standards Survey - LSS04
+Viet Nam,VN,VNM,704,Urban,1,Flush and pour flush - to piped sewer system,0.0,Aids Indicator Survey - AIS05
+Viet Nam,VN,VNM,704,Urban,2,Flush and pour flush - to septic tank,0.0,Aids Indicator Survey - AIS05
+Viet Nam,VN,VNM,704,Urban,3,Flush and pour flush - to pit,0.0,Aids Indicator Survey - AIS05
+Viet Nam,VN,VNM,704,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Aids Indicator Survey - AIS05
+Viet Nam,VN,VNM,704,Urban,5,Flush and pour flush - to elsewhere,0.0,Aids Indicator Survey - AIS05
+Viet Nam,VN,VNM,704,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.063,Aids Indicator Survey - AIS05
+Viet Nam,VN,VNM,704,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Aids Indicator Survey - AIS05
+Viet Nam,VN,VNM,704,Urban,8,Dry latrines - Traditional latrine,0.096,Aids Indicator Survey - AIS05
+Viet Nam,VN,VNM,704,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Aids Indicator Survey - AIS05
+Viet Nam,VN,VNM,704,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Aids Indicator Survey - AIS05
+Viet Nam,VN,VNM,704,Urban,11,Dry latrines - Bucket latrine,0.0,Aids Indicator Survey - AIS05
+Viet Nam,VN,VNM,704,Urban,12,Dry latrines - Other,0.0,Aids Indicator Survey - AIS05
+Viet Nam,VN,VNM,704,Urban,13,Composting toilets,0.0,Aids Indicator Survey - AIS05
+Viet Nam,VN,VNM,704,Urban,14,Other improved,0.0,Aids Indicator Survey - AIS05
+Viet Nam,VN,VNM,704,Urban,15,"No facility, bush, field",0.037,Aids Indicator Survey - AIS05
+Viet Nam,VN,VNM,704,Urban,16,Other unimproved,0.0,Aids Indicator Survey - AIS05
+Viet Nam,VN,VNM,704,Urban,17,DK/missing information,0.0,Aids Indicator Survey - AIS05
+Viet Nam,VN,VNM,704,Rural,1,Flush and pour flush - to piped sewer system,0.0,Aids Indicator Survey - AIS05
+Viet Nam,VN,VNM,704,Rural,2,Flush and pour flush - to septic tank,0.0,Aids Indicator Survey - AIS05
+Viet Nam,VN,VNM,704,Rural,3,Flush and pour flush - to pit,0.0,Aids Indicator Survey - AIS05
+Viet Nam,VN,VNM,704,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Aids Indicator Survey - AIS05
+Viet Nam,VN,VNM,704,Rural,5,Flush and pour flush - to elsewhere,0.0,Aids Indicator Survey - AIS05
+Viet Nam,VN,VNM,704,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.101,Aids Indicator Survey - AIS05
+Viet Nam,VN,VNM,704,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Aids Indicator Survey - AIS05
+Viet Nam,VN,VNM,704,Rural,8,Dry latrines - Traditional latrine,0.511,Aids Indicator Survey - AIS05
+Viet Nam,VN,VNM,704,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Aids Indicator Survey - AIS05
+Viet Nam,VN,VNM,704,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Aids Indicator Survey - AIS05
+Viet Nam,VN,VNM,704,Rural,11,Dry latrines - Bucket latrine,0.0,Aids Indicator Survey - AIS05
+Viet Nam,VN,VNM,704,Rural,12,Dry latrines - Other,0.0,Aids Indicator Survey - AIS05
+Viet Nam,VN,VNM,704,Rural,13,Composting toilets,0.0,Aids Indicator Survey - AIS05
+Viet Nam,VN,VNM,704,Rural,14,Other improved,0.0,Aids Indicator Survey - AIS05
+Viet Nam,VN,VNM,704,Rural,15,"No facility, bush, field",0.193,Aids Indicator Survey - AIS05
+Viet Nam,VN,VNM,704,Rural,16,Other unimproved,0.0,Aids Indicator Survey - AIS05
+Viet Nam,VN,VNM,704,Rural,17,DK/missing information,0.0,Aids Indicator Survey - AIS05
+Viet Nam,VN,VNM,704,National,1,Flush and pour flush - to piped sewer system,0.0,Aids Indicator Survey - AIS05
+Viet Nam,VN,VNM,704,National,2,Flush and pour flush - to septic tank,0.0,Aids Indicator Survey - AIS05
+Viet Nam,VN,VNM,704,National,3,Flush and pour flush - to pit,0.0,Aids Indicator Survey - AIS05
+Viet Nam,VN,VNM,704,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Aids Indicator Survey - AIS05
+Viet Nam,VN,VNM,704,National,5,Flush and pour flush - to elsewhere,0.0,Aids Indicator Survey - AIS05
+Viet Nam,VN,VNM,704,National,6,Dry latrines - Ventilated Improved Pit latrine,0.093,Aids Indicator Survey - AIS05
+Viet Nam,VN,VNM,704,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Aids Indicator Survey - AIS05
+Viet Nam,VN,VNM,704,National,8,Dry latrines - Traditional latrine,0.428,Aids Indicator Survey - AIS05
+Viet Nam,VN,VNM,704,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Aids Indicator Survey - AIS05
+Viet Nam,VN,VNM,704,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Aids Indicator Survey - AIS05
+Viet Nam,VN,VNM,704,National,11,Dry latrines - Bucket latrine,0.0,Aids Indicator Survey - AIS05
+Viet Nam,VN,VNM,704,National,12,Dry latrines - Other,0.0,Aids Indicator Survey - AIS05
+Viet Nam,VN,VNM,704,National,13,Composting toilets,0.0,Aids Indicator Survey - AIS05
+Viet Nam,VN,VNM,704,National,14,Other improved,0.0,Aids Indicator Survey - AIS05
+Viet Nam,VN,VNM,704,National,15,"No facility, bush, field",0.163,Aids Indicator Survey - AIS05
+Viet Nam,VN,VNM,704,National,16,Other unimproved,0.0,Aids Indicator Survey - AIS05
+Viet Nam,VN,VNM,704,National,17,DK/missing information,0.0,Aids Indicator Survey - AIS05
 Viet Nam,VN,VNM,704,Urban,1,Flush and pour flush - to piped sewer system,0.027,Multiple Indicator Cluster Survey - MICS06
 Viet Nam,VN,VNM,704,Urban,2,Flush and pour flush - to septic tank,0.77,Multiple Indicator Cluster Survey - MICS06
 Viet Nam,VN,VNM,704,Urban,3,Flush and pour flush - to pit,0.036,Multiple Indicator Cluster Survey - MICS06
@@ -79,6 +300,227 @@ Viet Nam,VN,VNM,704,Rural,14,Other improved,0.0,Multiple Indicator Cluster Surve
 Viet Nam,VN,VNM,704,Rural,15,"No facility, bush, field",0.153,Multiple Indicator Cluster Survey - MICS06
 Viet Nam,VN,VNM,704,Rural,16,Other unimproved,0.012,Multiple Indicator Cluster Survey - MICS06
 Viet Nam,VN,VNM,704,Rural,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS06
+Viet Nam,VN,VNM,704,National,1,Flush and pour flush - to piped sewer system,0.0,Multiple Indicator Cluster Survey - MICS06
+Viet Nam,VN,VNM,704,National,2,Flush and pour flush - to septic tank,0.0,Multiple Indicator Cluster Survey - MICS06
+Viet Nam,VN,VNM,704,National,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS06
+Viet Nam,VN,VNM,704,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS06
+Viet Nam,VN,VNM,704,National,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS06
+Viet Nam,VN,VNM,704,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Multiple Indicator Cluster Survey - MICS06
+Viet Nam,VN,VNM,704,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Multiple Indicator Cluster Survey - MICS06
+Viet Nam,VN,VNM,704,National,8,Dry latrines - Traditional latrine,0.0,Multiple Indicator Cluster Survey - MICS06
+Viet Nam,VN,VNM,704,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Multiple Indicator Cluster Survey - MICS06
+Viet Nam,VN,VNM,704,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS06
+Viet Nam,VN,VNM,704,National,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS06
+Viet Nam,VN,VNM,704,National,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS06
+Viet Nam,VN,VNM,704,National,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS06
+Viet Nam,VN,VNM,704,National,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS06
+Viet Nam,VN,VNM,704,National,15,"No facility, bush, field",0.0,Multiple Indicator Cluster Survey - MICS06
+Viet Nam,VN,VNM,704,National,16,Other unimproved,0.0,Multiple Indicator Cluster Survey - MICS06
+Viet Nam,VN,VNM,704,National,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS06
+Viet Nam,VN,VNM,704,Urban,1,Flush and pour flush - to piped sewer system,0.0,Household Living Standards Survey - HLSS06
+Viet Nam,VN,VNM,704,Urban,2,Flush and pour flush - to septic tank,0.0,Household Living Standards Survey - HLSS06
+Viet Nam,VN,VNM,704,Urban,3,Flush and pour flush - to pit,0.0,Household Living Standards Survey - HLSS06
+Viet Nam,VN,VNM,704,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Living Standards Survey - HLSS06
+Viet Nam,VN,VNM,704,Urban,5,Flush and pour flush - to elsewhere,0.0,Household Living Standards Survey - HLSS06
+Viet Nam,VN,VNM,704,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Living Standards Survey - HLSS06
+Viet Nam,VN,VNM,704,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Living Standards Survey - HLSS06
+Viet Nam,VN,VNM,704,Urban,8,Dry latrines - Traditional latrine,0.07,Household Living Standards Survey - HLSS06
+Viet Nam,VN,VNM,704,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Living Standards Survey - HLSS06
+Viet Nam,VN,VNM,704,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.037,Household Living Standards Survey - HLSS06
+Viet Nam,VN,VNM,704,Urban,11,Dry latrines - Bucket latrine,0.0,Household Living Standards Survey - HLSS06
+Viet Nam,VN,VNM,704,Urban,12,Dry latrines - Other,0.0,Household Living Standards Survey - HLSS06
+Viet Nam,VN,VNM,704,Urban,13,Composting toilets,0.078,Household Living Standards Survey - HLSS06
+Viet Nam,VN,VNM,704,Urban,14,Other improved,0.0,Household Living Standards Survey - HLSS06
+Viet Nam,VN,VNM,704,Urban,15,"No facility, bush, field",0.049,Household Living Standards Survey - HLSS06
+Viet Nam,VN,VNM,704,Urban,16,Other unimproved,0.0,Household Living Standards Survey - HLSS06
+Viet Nam,VN,VNM,704,Urban,17,DK/missing information,0.0,Household Living Standards Survey - HLSS06
+Viet Nam,VN,VNM,704,Rural,1,Flush and pour flush - to piped sewer system,0.0,Household Living Standards Survey - HLSS06
+Viet Nam,VN,VNM,704,Rural,2,Flush and pour flush - to septic tank,0.0,Household Living Standards Survey - HLSS06
+Viet Nam,VN,VNM,704,Rural,3,Flush and pour flush - to pit,0.0,Household Living Standards Survey - HLSS06
+Viet Nam,VN,VNM,704,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Living Standards Survey - HLSS06
+Viet Nam,VN,VNM,704,Rural,5,Flush and pour flush - to elsewhere,0.0,Household Living Standards Survey - HLSS06
+Viet Nam,VN,VNM,704,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Living Standards Survey - HLSS06
+Viet Nam,VN,VNM,704,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Living Standards Survey - HLSS06
+Viet Nam,VN,VNM,704,Rural,8,Dry latrines - Traditional latrine,0.266,Household Living Standards Survey - HLSS06
+Viet Nam,VN,VNM,704,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Living Standards Survey - HLSS06
+Viet Nam,VN,VNM,704,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.133,Household Living Standards Survey - HLSS06
+Viet Nam,VN,VNM,704,Rural,11,Dry latrines - Bucket latrine,0.0,Household Living Standards Survey - HLSS06
+Viet Nam,VN,VNM,704,Rural,12,Dry latrines - Other,0.0,Household Living Standards Survey - HLSS06
+Viet Nam,VN,VNM,704,Rural,13,Composting toilets,0.237,Household Living Standards Survey - HLSS06
+Viet Nam,VN,VNM,704,Rural,14,Other improved,0.0,Household Living Standards Survey - HLSS06
+Viet Nam,VN,VNM,704,Rural,15,"No facility, bush, field",0.149,Household Living Standards Survey - HLSS06
+Viet Nam,VN,VNM,704,Rural,16,Other unimproved,0.0,Household Living Standards Survey - HLSS06
+Viet Nam,VN,VNM,704,Rural,17,DK/missing information,0.0,Household Living Standards Survey - HLSS06
+Viet Nam,VN,VNM,704,National,1,Flush and pour flush - to piped sewer system,0.0,Household Living Standards Survey - HLSS06
+Viet Nam,VN,VNM,704,National,2,Flush and pour flush - to septic tank,0.0,Household Living Standards Survey - HLSS06
+Viet Nam,VN,VNM,704,National,3,Flush and pour flush - to pit,0.0,Household Living Standards Survey - HLSS06
+Viet Nam,VN,VNM,704,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Living Standards Survey - HLSS06
+Viet Nam,VN,VNM,704,National,5,Flush and pour flush - to elsewhere,0.0,Household Living Standards Survey - HLSS06
+Viet Nam,VN,VNM,704,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Living Standards Survey - HLSS06
+Viet Nam,VN,VNM,704,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Living Standards Survey - HLSS06
+Viet Nam,VN,VNM,704,National,8,Dry latrines - Traditional latrine,0.0,Household Living Standards Survey - HLSS06
+Viet Nam,VN,VNM,704,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Living Standards Survey - HLSS06
+Viet Nam,VN,VNM,704,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Household Living Standards Survey - HLSS06
+Viet Nam,VN,VNM,704,National,11,Dry latrines - Bucket latrine,0.0,Household Living Standards Survey - HLSS06
+Viet Nam,VN,VNM,704,National,12,Dry latrines - Other,0.0,Household Living Standards Survey - HLSS06
+Viet Nam,VN,VNM,704,National,13,Composting toilets,0.0,Household Living Standards Survey - HLSS06
+Viet Nam,VN,VNM,704,National,14,Other improved,0.0,Household Living Standards Survey - HLSS06
+Viet Nam,VN,VNM,704,National,15,"No facility, bush, field",0.0,Household Living Standards Survey - HLSS06
+Viet Nam,VN,VNM,704,National,16,Other unimproved,0.0,Household Living Standards Survey - HLSS06
+Viet Nam,VN,VNM,704,National,17,DK/missing information,0.0,Household Living Standards Survey - HLSS06
+Viet Nam,VN,VNM,704,Urban,1,Flush and pour flush - to piped sewer system,0.0,Household Living Standards Survey - HLSS08
+Viet Nam,VN,VNM,704,Urban,2,Flush and pour flush - to septic tank,0.0,Household Living Standards Survey - HLSS08
+Viet Nam,VN,VNM,704,Urban,3,Flush and pour flush - to pit,0.0,Household Living Standards Survey - HLSS08
+Viet Nam,VN,VNM,704,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Living Standards Survey - HLSS08
+Viet Nam,VN,VNM,704,Urban,5,Flush and pour flush - to elsewhere,0.0,Household Living Standards Survey - HLSS08
+Viet Nam,VN,VNM,704,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Living Standards Survey - HLSS08
+Viet Nam,VN,VNM,704,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Living Standards Survey - HLSS08
+Viet Nam,VN,VNM,704,Urban,8,Dry latrines - Traditional latrine,0.0,Household Living Standards Survey - HLSS08
+Viet Nam,VN,VNM,704,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Living Standards Survey - HLSS08
+Viet Nam,VN,VNM,704,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.023,Household Living Standards Survey - HLSS08
+Viet Nam,VN,VNM,704,Urban,11,Dry latrines - Bucket latrine,0.0,Household Living Standards Survey - HLSS08
+Viet Nam,VN,VNM,704,Urban,12,Dry latrines - Other,0.0,Household Living Standards Survey - HLSS08
+Viet Nam,VN,VNM,704,Urban,13,Composting toilets,0.059,Household Living Standards Survey - HLSS08
+Viet Nam,VN,VNM,704,Urban,14,Other improved,0.0,Household Living Standards Survey - HLSS08
+Viet Nam,VN,VNM,704,Urban,15,"No facility, bush, field",0.0,Household Living Standards Survey - HLSS08
+Viet Nam,VN,VNM,704,Urban,16,Other unimproved,0.041,Household Living Standards Survey - HLSS08
+Viet Nam,VN,VNM,704,Urban,17,DK/missing information,0.0,Household Living Standards Survey - HLSS08
+Viet Nam,VN,VNM,704,Rural,1,Flush and pour flush - to piped sewer system,0.0,Household Living Standards Survey - HLSS08
+Viet Nam,VN,VNM,704,Rural,2,Flush and pour flush - to septic tank,0.0,Household Living Standards Survey - HLSS08
+Viet Nam,VN,VNM,704,Rural,3,Flush and pour flush - to pit,0.0,Household Living Standards Survey - HLSS08
+Viet Nam,VN,VNM,704,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Living Standards Survey - HLSS08
+Viet Nam,VN,VNM,704,Rural,5,Flush and pour flush - to elsewhere,0.0,Household Living Standards Survey - HLSS08
+Viet Nam,VN,VNM,704,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Living Standards Survey - HLSS08
+Viet Nam,VN,VNM,704,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Living Standards Survey - HLSS08
+Viet Nam,VN,VNM,704,Rural,8,Dry latrines - Traditional latrine,0.0,Household Living Standards Survey - HLSS08
+Viet Nam,VN,VNM,704,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Living Standards Survey - HLSS08
+Viet Nam,VN,VNM,704,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.123,Household Living Standards Survey - HLSS08
+Viet Nam,VN,VNM,704,Rural,11,Dry latrines - Bucket latrine,0.0,Household Living Standards Survey - HLSS08
+Viet Nam,VN,VNM,704,Rural,12,Dry latrines - Other,0.0,Household Living Standards Survey - HLSS08
+Viet Nam,VN,VNM,704,Rural,13,Composting toilets,0.241,Household Living Standards Survey - HLSS08
+Viet Nam,VN,VNM,704,Rural,14,Other improved,0.0,Household Living Standards Survey - HLSS08
+Viet Nam,VN,VNM,704,Rural,15,"No facility, bush, field",0.0,Household Living Standards Survey - HLSS08
+Viet Nam,VN,VNM,704,Rural,16,Other unimproved,0.206,Household Living Standards Survey - HLSS08
+Viet Nam,VN,VNM,704,Rural,17,DK/missing information,0.0,Household Living Standards Survey - HLSS08
+Viet Nam,VN,VNM,704,National,1,Flush and pour flush - to piped sewer system,0.0,Household Living Standards Survey - HLSS08
+Viet Nam,VN,VNM,704,National,2,Flush and pour flush - to septic tank,0.0,Household Living Standards Survey - HLSS08
+Viet Nam,VN,VNM,704,National,3,Flush and pour flush - to pit,0.0,Household Living Standards Survey - HLSS08
+Viet Nam,VN,VNM,704,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Living Standards Survey - HLSS08
+Viet Nam,VN,VNM,704,National,5,Flush and pour flush - to elsewhere,0.0,Household Living Standards Survey - HLSS08
+Viet Nam,VN,VNM,704,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Living Standards Survey - HLSS08
+Viet Nam,VN,VNM,704,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Living Standards Survey - HLSS08
+Viet Nam,VN,VNM,704,National,8,Dry latrines - Traditional latrine,0.0,Household Living Standards Survey - HLSS08
+Viet Nam,VN,VNM,704,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Living Standards Survey - HLSS08
+Viet Nam,VN,VNM,704,National,10,Dry latrines - Hanging toilet/hanging latrine,0.095,Household Living Standards Survey - HLSS08
+Viet Nam,VN,VNM,704,National,11,Dry latrines - Bucket latrine,0.0,Household Living Standards Survey - HLSS08
+Viet Nam,VN,VNM,704,National,12,Dry latrines - Other,0.0,Household Living Standards Survey - HLSS08
+Viet Nam,VN,VNM,704,National,13,Composting toilets,0.19,Household Living Standards Survey - HLSS08
+Viet Nam,VN,VNM,704,National,14,Other improved,0.0,Household Living Standards Survey - HLSS08
+Viet Nam,VN,VNM,704,National,15,"No facility, bush, field",0.0,Household Living Standards Survey - HLSS08
+Viet Nam,VN,VNM,704,National,16,Other unimproved,0.159,Household Living Standards Survey - HLSS08
+Viet Nam,VN,VNM,704,National,17,DK/missing information,0.0,Household Living Standards Survey - HLSS08
+Viet Nam,VN,VNM,704,Urban,1,Flush and pour flush - to piped sewer system,0.0,Population and housing census 2009 - CEN09
+Viet Nam,VN,VNM,704,Urban,2,Flush and pour flush - to septic tank,0.0,Population and housing census 2009 - CEN09
+Viet Nam,VN,VNM,704,Urban,3,Flush and pour flush - to pit,0.0,Population and housing census 2009 - CEN09
+Viet Nam,VN,VNM,704,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Population and housing census 2009 - CEN09
+Viet Nam,VN,VNM,704,Urban,5,Flush and pour flush - to elsewhere,0.0,Population and housing census 2009 - CEN09
+Viet Nam,VN,VNM,704,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Population and housing census 2009 - CEN09
+Viet Nam,VN,VNM,704,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Population and housing census 2009 - CEN09
+Viet Nam,VN,VNM,704,Urban,8,Dry latrines - Traditional latrine,0.098,Population and housing census 2009 - CEN09
+Viet Nam,VN,VNM,704,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Population and housing census 2009 - CEN09
+Viet Nam,VN,VNM,704,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Population and housing census 2009 - CEN09
+Viet Nam,VN,VNM,704,Urban,11,Dry latrines - Bucket latrine,0.0,Population and housing census 2009 - CEN09
+Viet Nam,VN,VNM,704,Urban,12,Dry latrines - Other,0.0,Population and housing census 2009 - CEN09
+Viet Nam,VN,VNM,704,Urban,13,Composting toilets,0.0,Population and housing census 2009 - CEN09
+Viet Nam,VN,VNM,704,Urban,14,Other improved,0.0,Population and housing census 2009 - CEN09
+Viet Nam,VN,VNM,704,Urban,15,"No facility, bush, field",0.022,Population and housing census 2009 - CEN09
+Viet Nam,VN,VNM,704,Urban,16,Other unimproved,0.0,Population and housing census 2009 - CEN09
+Viet Nam,VN,VNM,704,Urban,17,DK/missing information,0.003,Population and housing census 2009 - CEN09
+Viet Nam,VN,VNM,704,Rural,1,Flush and pour flush - to piped sewer system,0.0,Population and housing census 2009 - CEN09
+Viet Nam,VN,VNM,704,Rural,2,Flush and pour flush - to septic tank,0.0,Population and housing census 2009 - CEN09
+Viet Nam,VN,VNM,704,Rural,3,Flush and pour flush - to pit,0.0,Population and housing census 2009 - CEN09
+Viet Nam,VN,VNM,704,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Population and housing census 2009 - CEN09
+Viet Nam,VN,VNM,704,Rural,5,Flush and pour flush - to elsewhere,0.0,Population and housing census 2009 - CEN09
+Viet Nam,VN,VNM,704,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Population and housing census 2009 - CEN09
+Viet Nam,VN,VNM,704,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Population and housing census 2009 - CEN09
+Viet Nam,VN,VNM,704,Rural,8,Dry latrines - Traditional latrine,0.504,Population and housing census 2009 - CEN09
+Viet Nam,VN,VNM,704,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Population and housing census 2009 - CEN09
+Viet Nam,VN,VNM,704,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Population and housing census 2009 - CEN09
+Viet Nam,VN,VNM,704,Rural,11,Dry latrines - Bucket latrine,0.0,Population and housing census 2009 - CEN09
+Viet Nam,VN,VNM,704,Rural,12,Dry latrines - Other,0.0,Population and housing census 2009 - CEN09
+Viet Nam,VN,VNM,704,Rural,13,Composting toilets,0.0,Population and housing census 2009 - CEN09
+Viet Nam,VN,VNM,704,Rural,14,Other improved,0.0,Population and housing census 2009 - CEN09
+Viet Nam,VN,VNM,704,Rural,15,"No facility, bush, field",0.107,Population and housing census 2009 - CEN09
+Viet Nam,VN,VNM,704,Rural,16,Other unimproved,0.0,Population and housing census 2009 - CEN09
+Viet Nam,VN,VNM,704,Rural,17,DK/missing information,0.006,Population and housing census 2009 - CEN09
+Viet Nam,VN,VNM,704,National,1,Flush and pour flush - to piped sewer system,0.0,Population and housing census 2009 - CEN09
+Viet Nam,VN,VNM,704,National,2,Flush and pour flush - to septic tank,0.0,Population and housing census 2009 - CEN09
+Viet Nam,VN,VNM,704,National,3,Flush and pour flush - to pit,0.0,Population and housing census 2009 - CEN09
+Viet Nam,VN,VNM,704,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Population and housing census 2009 - CEN09
+Viet Nam,VN,VNM,704,National,5,Flush and pour flush - to elsewhere,0.0,Population and housing census 2009 - CEN09
+Viet Nam,VN,VNM,704,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Population and housing census 2009 - CEN09
+Viet Nam,VN,VNM,704,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Population and housing census 2009 - CEN09
+Viet Nam,VN,VNM,704,National,8,Dry latrines - Traditional latrine,0.384,Population and housing census 2009 - CEN09
+Viet Nam,VN,VNM,704,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Population and housing census 2009 - CEN09
+Viet Nam,VN,VNM,704,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Population and housing census 2009 - CEN09
+Viet Nam,VN,VNM,704,National,11,Dry latrines - Bucket latrine,0.0,Population and housing census 2009 - CEN09
+Viet Nam,VN,VNM,704,National,12,Dry latrines - Other,0.0,Population and housing census 2009 - CEN09
+Viet Nam,VN,VNM,704,National,13,Composting toilets,0.0,Population and housing census 2009 - CEN09
+Viet Nam,VN,VNM,704,National,14,Other improved,0.0,Population and housing census 2009 - CEN09
+Viet Nam,VN,VNM,704,National,15,"No facility, bush, field",0.082,Population and housing census 2009 - CEN09
+Viet Nam,VN,VNM,704,National,16,Other unimproved,0.0,Population and housing census 2009 - CEN09
+Viet Nam,VN,VNM,704,National,17,DK/missing information,0.005,Population and housing census 2009 - CEN09
+Viet Nam,VN,VNM,704,Urban,1,Flush and pour flush - to piped sewer system,0.0,Household Living Standards Survey - HLSS10
+Viet Nam,VN,VNM,704,Urban,2,Flush and pour flush - to septic tank,0.0,Household Living Standards Survey - HLSS10
+Viet Nam,VN,VNM,704,Urban,3,Flush and pour flush - to pit,0.0,Household Living Standards Survey - HLSS10
+Viet Nam,VN,VNM,704,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Living Standards Survey - HLSS10
+Viet Nam,VN,VNM,704,Urban,5,Flush and pour flush - to elsewhere,0.0,Household Living Standards Survey - HLSS10
+Viet Nam,VN,VNM,704,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Living Standards Survey - HLSS10
+Viet Nam,VN,VNM,704,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Living Standards Survey - HLSS10
+Viet Nam,VN,VNM,704,Urban,8,Dry latrines - Traditional latrine,0.0,Household Living Standards Survey - HLSS10
+Viet Nam,VN,VNM,704,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Living Standards Survey - HLSS10
+Viet Nam,VN,VNM,704,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.028,Household Living Standards Survey - HLSS10
+Viet Nam,VN,VNM,704,Urban,11,Dry latrines - Bucket latrine,0.0,Household Living Standards Survey - HLSS10
+Viet Nam,VN,VNM,704,Urban,12,Dry latrines - Other,0.0,Household Living Standards Survey - HLSS10
+Viet Nam,VN,VNM,704,Urban,13,Composting toilets,0.048,Household Living Standards Survey - HLSS10
+Viet Nam,VN,VNM,704,Urban,14,Other improved,0.0,Household Living Standards Survey - HLSS10
+Viet Nam,VN,VNM,704,Urban,15,"No facility, bush, field",0.0,Household Living Standards Survey - HLSS10
+Viet Nam,VN,VNM,704,Urban,16,Other unimproved,0.034,Household Living Standards Survey - HLSS10
+Viet Nam,VN,VNM,704,Urban,17,DK/missing information,0.0,Household Living Standards Survey - HLSS10
+Viet Nam,VN,VNM,704,Rural,1,Flush and pour flush - to piped sewer system,0.0,Household Living Standards Survey - HLSS10
+Viet Nam,VN,VNM,704,Rural,2,Flush and pour flush - to septic tank,0.0,Household Living Standards Survey - HLSS10
+Viet Nam,VN,VNM,704,Rural,3,Flush and pour flush - to pit,0.0,Household Living Standards Survey - HLSS10
+Viet Nam,VN,VNM,704,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Living Standards Survey - HLSS10
+Viet Nam,VN,VNM,704,Rural,5,Flush and pour flush - to elsewhere,0.0,Household Living Standards Survey - HLSS10
+Viet Nam,VN,VNM,704,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Living Standards Survey - HLSS10
+Viet Nam,VN,VNM,704,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Living Standards Survey - HLSS10
+Viet Nam,VN,VNM,704,Rural,8,Dry latrines - Traditional latrine,0.0,Household Living Standards Survey - HLSS10
+Viet Nam,VN,VNM,704,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Living Standards Survey - HLSS10
+Viet Nam,VN,VNM,704,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.138,Household Living Standards Survey - HLSS10
+Viet Nam,VN,VNM,704,Rural,11,Dry latrines - Bucket latrine,0.0,Household Living Standards Survey - HLSS10
+Viet Nam,VN,VNM,704,Rural,12,Dry latrines - Other,0.0,Household Living Standards Survey - HLSS10
+Viet Nam,VN,VNM,704,Rural,13,Composting toilets,0.219,Household Living Standards Survey - HLSS10
+Viet Nam,VN,VNM,704,Rural,14,Other improved,0.0,Household Living Standards Survey - HLSS10
+Viet Nam,VN,VNM,704,Rural,15,"No facility, bush, field",0.0,Household Living Standards Survey - HLSS10
+Viet Nam,VN,VNM,704,Rural,16,Other unimproved,0.192,Household Living Standards Survey - HLSS10
+Viet Nam,VN,VNM,704,Rural,17,DK/missing information,0.0,Household Living Standards Survey - HLSS10
+Viet Nam,VN,VNM,704,National,1,Flush and pour flush - to piped sewer system,0.0,Household Living Standards Survey - HLSS10
+Viet Nam,VN,VNM,704,National,2,Flush and pour flush - to septic tank,0.0,Household Living Standards Survey - HLSS10
+Viet Nam,VN,VNM,704,National,3,Flush and pour flush - to pit,0.0,Household Living Standards Survey - HLSS10
+Viet Nam,VN,VNM,704,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Living Standards Survey - HLSS10
+Viet Nam,VN,VNM,704,National,5,Flush and pour flush - to elsewhere,0.0,Household Living Standards Survey - HLSS10
+Viet Nam,VN,VNM,704,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Living Standards Survey - HLSS10
+Viet Nam,VN,VNM,704,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Living Standards Survey - HLSS10
+Viet Nam,VN,VNM,704,National,8,Dry latrines - Traditional latrine,0.0,Household Living Standards Survey - HLSS10
+Viet Nam,VN,VNM,704,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Living Standards Survey - HLSS10
+Viet Nam,VN,VNM,704,National,10,Dry latrines - Hanging toilet/hanging latrine,0.103,Household Living Standards Survey - HLSS10
+Viet Nam,VN,VNM,704,National,11,Dry latrines - Bucket latrine,0.0,Household Living Standards Survey - HLSS10
+Viet Nam,VN,VNM,704,National,12,Dry latrines - Other,0.0,Household Living Standards Survey - HLSS10
+Viet Nam,VN,VNM,704,National,13,Composting toilets,0.164,Household Living Standards Survey - HLSS10
+Viet Nam,VN,VNM,704,National,14,Other improved,0.0,Household Living Standards Survey - HLSS10
+Viet Nam,VN,VNM,704,National,15,"No facility, bush, field",0.0,Household Living Standards Survey - HLSS10
+Viet Nam,VN,VNM,704,National,16,Other unimproved,0.141,Household Living Standards Survey - HLSS10
+Viet Nam,VN,VNM,704,National,17,DK/missing information,0.0,Household Living Standards Survey - HLSS10
 Viet Nam,VN,VNM,704,Urban,1,Flush and pour flush - to piped sewer system,0.039,Multiple Indicator Cluster Survey - MICS11
 Viet Nam,VN,VNM,704,Urban,2,Flush and pour flush - to septic tank,0.811,Multiple Indicator Cluster Survey - MICS11
 Viet Nam,VN,VNM,704,Urban,3,Flush and pour flush - to pit,0.031,Multiple Indicator Cluster Survey - MICS11
@@ -113,6 +555,23 @@ Viet Nam,VN,VNM,704,Rural,14,Other improved,0.0,Multiple Indicator Cluster Surve
 Viet Nam,VN,VNM,704,Rural,15,"No facility, bush, field",0.086,Multiple Indicator Cluster Survey - MICS11
 Viet Nam,VN,VNM,704,Rural,16,Other unimproved,0.005,Multiple Indicator Cluster Survey - MICS11
 Viet Nam,VN,VNM,704,Rural,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS11
+Viet Nam,VN,VNM,704,National,1,Flush and pour flush - to piped sewer system,0.017,Multiple Indicator Cluster Survey - MICS11
+Viet Nam,VN,VNM,704,National,2,Flush and pour flush - to septic tank,0.512,Multiple Indicator Cluster Survey - MICS11
+Viet Nam,VN,VNM,704,National,3,Flush and pour flush - to pit,0.038,Multiple Indicator Cluster Survey - MICS11
+Viet Nam,VN,VNM,704,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.002,Multiple Indicator Cluster Survey - MICS11
+Viet Nam,VN,VNM,704,National,5,Flush and pour flush - to elsewhere,0.005,Multiple Indicator Cluster Survey - MICS11
+Viet Nam,VN,VNM,704,National,6,Dry latrines - Ventilated Improved Pit latrine,0.005,Multiple Indicator Cluster Survey - MICS11
+Viet Nam,VN,VNM,704,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.094,Multiple Indicator Cluster Survey - MICS11
+Viet Nam,VN,VNM,704,National,8,Dry latrines - Traditional latrine,0.0,Multiple Indicator Cluster Survey - MICS11
+Viet Nam,VN,VNM,704,National,9,Dry latrines - Pit latrine without slab/open pit,0.045,Multiple Indicator Cluster Survey - MICS11
+Viet Nam,VN,VNM,704,National,10,Dry latrines - Hanging toilet/hanging latrine,0.101,Multiple Indicator Cluster Survey - MICS11
+Viet Nam,VN,VNM,704,National,11,Dry latrines - Bucket latrine,0.001,Multiple Indicator Cluster Survey - MICS11
+Viet Nam,VN,VNM,704,National,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS11
+Viet Nam,VN,VNM,704,National,13,Composting toilets,0.113,Multiple Indicator Cluster Survey - MICS11
+Viet Nam,VN,VNM,704,National,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS11
+Viet Nam,VN,VNM,704,National,15,"No facility, bush, field",0.064,Multiple Indicator Cluster Survey - MICS11
+Viet Nam,VN,VNM,704,National,16,Other unimproved,0.004,Multiple Indicator Cluster Survey - MICS11
+Viet Nam,VN,VNM,704,National,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS11
 Viet Nam,VN,VNM,704,Urban,1,Flush and pour flush - to piped sewer system,0.013,Multiple Indicator Cluster Survey - MICS14
 Viet Nam,VN,VNM,704,Urban,2,Flush and pour flush - to septic tank,0.877,Multiple Indicator Cluster Survey - MICS14
 Viet Nam,VN,VNM,704,Urban,3,Flush and pour flush - to pit,0.01,Multiple Indicator Cluster Survey - MICS14
@@ -147,3 +606,173 @@ Viet Nam,VN,VNM,704,Rural,14,Other improved,0.0,Multiple Indicator Cluster Surve
 Viet Nam,VN,VNM,704,Rural,15,"No facility, bush, field",0.073,Multiple Indicator Cluster Survey - MICS14
 Viet Nam,VN,VNM,704,Rural,16,Other unimproved,0.007,Multiple Indicator Cluster Survey - MICS14
 Viet Nam,VN,VNM,704,Rural,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS14
+Viet Nam,VN,VNM,704,National,1,Flush and pour flush - to piped sewer system,0.007,Multiple Indicator Cluster Survey - MICS14
+Viet Nam,VN,VNM,704,National,2,Flush and pour flush - to septic tank,0.645,Multiple Indicator Cluster Survey - MICS14
+Viet Nam,VN,VNM,704,National,3,Flush and pour flush - to pit,0.03,Multiple Indicator Cluster Survey - MICS14
+Viet Nam,VN,VNM,704,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.001,Multiple Indicator Cluster Survey - MICS14
+Viet Nam,VN,VNM,704,National,5,Flush and pour flush - to elsewhere,0.01,Multiple Indicator Cluster Survey - MICS14
+Viet Nam,VN,VNM,704,National,6,Dry latrines - Ventilated Improved Pit latrine,0.004,Multiple Indicator Cluster Survey - MICS14
+Viet Nam,VN,VNM,704,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.068,Multiple Indicator Cluster Survey - MICS14
+Viet Nam,VN,VNM,704,National,8,Dry latrines - Traditional latrine,0.0,Multiple Indicator Cluster Survey - MICS14
+Viet Nam,VN,VNM,704,National,9,Dry latrines - Pit latrine without slab/open pit,0.036,Multiple Indicator Cluster Survey - MICS14
+Viet Nam,VN,VNM,704,National,10,Dry latrines - Hanging toilet/hanging latrine,0.071,Multiple Indicator Cluster Survey - MICS14
+Viet Nam,VN,VNM,704,National,11,Dry latrines - Bucket latrine,0.001,Multiple Indicator Cluster Survey - MICS14
+Viet Nam,VN,VNM,704,National,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS14
+Viet Nam,VN,VNM,704,National,13,Composting toilets,0.064,Multiple Indicator Cluster Survey - MICS14
+Viet Nam,VN,VNM,704,National,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS14
+Viet Nam,VN,VNM,704,National,15,"No facility, bush, field",0.058,Multiple Indicator Cluster Survey - MICS14
+Viet Nam,VN,VNM,704,National,16,Other unimproved,0.005,Multiple Indicator Cluster Survey - MICS14
+Viet Nam,VN,VNM,704,National,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS14
+Viet Nam,VN,VNM,704,Urban,1,Flush and pour flush - to piped sewer system,0.0,Household Living Standards Survey: Report - HLSS14
+Viet Nam,VN,VNM,704,Urban,2,Flush and pour flush - to septic tank,0.0,Household Living Standards Survey: Report - HLSS14
+Viet Nam,VN,VNM,704,Urban,3,Flush and pour flush - to pit,0.0,Household Living Standards Survey: Report - HLSS14
+Viet Nam,VN,VNM,704,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Living Standards Survey: Report - HLSS14
+Viet Nam,VN,VNM,704,Urban,5,Flush and pour flush - to elsewhere,0.0,Household Living Standards Survey: Report - HLSS14
+Viet Nam,VN,VNM,704,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Living Standards Survey: Report - HLSS14
+Viet Nam,VN,VNM,704,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Living Standards Survey: Report - HLSS14
+Viet Nam,VN,VNM,704,Urban,8,Dry latrines - Traditional latrine,0.0,Household Living Standards Survey: Report - HLSS14
+Viet Nam,VN,VNM,704,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Living Standards Survey: Report - HLSS14
+Viet Nam,VN,VNM,704,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.025,Household Living Standards Survey: Report - HLSS14
+Viet Nam,VN,VNM,704,Urban,11,Dry latrines - Bucket latrine,0.0,Household Living Standards Survey: Report - HLSS14
+Viet Nam,VN,VNM,704,Urban,12,Dry latrines - Other,0.0,Household Living Standards Survey: Report - HLSS14
+Viet Nam,VN,VNM,704,Urban,13,Composting toilets,0.023,Household Living Standards Survey: Report - HLSS14
+Viet Nam,VN,VNM,704,Urban,14,Other improved,0.0,Household Living Standards Survey: Report - HLSS14
+Viet Nam,VN,VNM,704,Urban,15,"No facility, bush, field",0.0,Household Living Standards Survey: Report - HLSS14
+Viet Nam,VN,VNM,704,Urban,16,Other unimproved,0.024,Household Living Standards Survey: Report - HLSS14
+Viet Nam,VN,VNM,704,Urban,17,DK/missing information,0.0,Household Living Standards Survey: Report - HLSS14
+Viet Nam,VN,VNM,704,Rural,1,Flush and pour flush - to piped sewer system,0.0,Household Living Standards Survey: Report - HLSS14
+Viet Nam,VN,VNM,704,Rural,2,Flush and pour flush - to septic tank,0.0,Household Living Standards Survey: Report - HLSS14
+Viet Nam,VN,VNM,704,Rural,3,Flush and pour flush - to pit,0.0,Household Living Standards Survey: Report - HLSS14
+Viet Nam,VN,VNM,704,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Living Standards Survey: Report - HLSS14
+Viet Nam,VN,VNM,704,Rural,5,Flush and pour flush - to elsewhere,0.0,Household Living Standards Survey: Report - HLSS14
+Viet Nam,VN,VNM,704,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Living Standards Survey: Report - HLSS14
+Viet Nam,VN,VNM,704,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Living Standards Survey: Report - HLSS14
+Viet Nam,VN,VNM,704,Rural,8,Dry latrines - Traditional latrine,0.0,Household Living Standards Survey: Report - HLSS14
+Viet Nam,VN,VNM,704,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Living Standards Survey: Report - HLSS14
+Viet Nam,VN,VNM,704,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.095,Household Living Standards Survey: Report - HLSS14
+Viet Nam,VN,VNM,704,Rural,11,Dry latrines - Bucket latrine,0.0,Household Living Standards Survey: Report - HLSS14
+Viet Nam,VN,VNM,704,Rural,12,Dry latrines - Other,0.0,Household Living Standards Survey: Report - HLSS14
+Viet Nam,VN,VNM,704,Rural,13,Composting toilets,0.165,Household Living Standards Survey: Report - HLSS14
+Viet Nam,VN,VNM,704,Rural,14,Other improved,0.0,Household Living Standards Survey: Report - HLSS14
+Viet Nam,VN,VNM,704,Rural,15,"No facility, bush, field",0.0,Household Living Standards Survey: Report - HLSS14
+Viet Nam,VN,VNM,704,Rural,16,Other unimproved,0.128,Household Living Standards Survey: Report - HLSS14
+Viet Nam,VN,VNM,704,Rural,17,DK/missing information,0.0,Household Living Standards Survey: Report - HLSS14
+Viet Nam,VN,VNM,704,National,1,Flush and pour flush - to piped sewer system,0.0,Household Living Standards Survey: Report - HLSS14
+Viet Nam,VN,VNM,704,National,2,Flush and pour flush - to septic tank,0.0,Household Living Standards Survey: Report - HLSS14
+Viet Nam,VN,VNM,704,National,3,Flush and pour flush - to pit,0.0,Household Living Standards Survey: Report - HLSS14
+Viet Nam,VN,VNM,704,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Living Standards Survey: Report - HLSS14
+Viet Nam,VN,VNM,704,National,5,Flush and pour flush - to elsewhere,0.0,Household Living Standards Survey: Report - HLSS14
+Viet Nam,VN,VNM,704,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Living Standards Survey: Report - HLSS14
+Viet Nam,VN,VNM,704,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Living Standards Survey: Report - HLSS14
+Viet Nam,VN,VNM,704,National,8,Dry latrines - Traditional latrine,0.0,Household Living Standards Survey: Report - HLSS14
+Viet Nam,VN,VNM,704,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Living Standards Survey: Report - HLSS14
+Viet Nam,VN,VNM,704,National,10,Dry latrines - Hanging toilet/hanging latrine,0.072,Household Living Standards Survey: Report - HLSS14
+Viet Nam,VN,VNM,704,National,11,Dry latrines - Bucket latrine,0.0,Household Living Standards Survey: Report - HLSS14
+Viet Nam,VN,VNM,704,National,12,Dry latrines - Other,0.0,Household Living Standards Survey: Report - HLSS14
+Viet Nam,VN,VNM,704,National,13,Composting toilets,0.12,Household Living Standards Survey: Report - HLSS14
+Viet Nam,VN,VNM,704,National,14,Other improved,0.0,Household Living Standards Survey: Report - HLSS14
+Viet Nam,VN,VNM,704,National,15,"No facility, bush, field",0.0,Household Living Standards Survey: Report - HLSS14
+Viet Nam,VN,VNM,704,National,16,Other unimproved,0.095,Household Living Standards Survey: Report - HLSS14
+Viet Nam,VN,VNM,704,National,17,DK/missing information,0.0,Household Living Standards Survey: Report - HLSS14
+Viet Nam,VN,VNM,704,Urban,1,Flush and pour flush - to piped sewer system,0.0,Household Living Standards Survey: Report - HLSS16
+Viet Nam,VN,VNM,704,Urban,2,Flush and pour flush - to septic tank,0.0,Household Living Standards Survey: Report - HLSS16
+Viet Nam,VN,VNM,704,Urban,3,Flush and pour flush - to pit,0.0,Household Living Standards Survey: Report - HLSS16
+Viet Nam,VN,VNM,704,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Living Standards Survey: Report - HLSS16
+Viet Nam,VN,VNM,704,Urban,5,Flush and pour flush - to elsewhere,0.0,Household Living Standards Survey: Report - HLSS16
+Viet Nam,VN,VNM,704,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Living Standards Survey: Report - HLSS16
+Viet Nam,VN,VNM,704,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Living Standards Survey: Report - HLSS16
+Viet Nam,VN,VNM,704,Urban,8,Dry latrines - Traditional latrine,0.0,Household Living Standards Survey: Report - HLSS16
+Viet Nam,VN,VNM,704,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Living Standards Survey: Report - HLSS16
+Viet Nam,VN,VNM,704,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.017,Household Living Standards Survey: Report - HLSS16
+Viet Nam,VN,VNM,704,Urban,11,Dry latrines - Bucket latrine,0.0,Household Living Standards Survey: Report - HLSS16
+Viet Nam,VN,VNM,704,Urban,12,Dry latrines - Other,0.0,Household Living Standards Survey: Report - HLSS16
+Viet Nam,VN,VNM,704,Urban,13,Composting toilets,0.021,Household Living Standards Survey: Report - HLSS16
+Viet Nam,VN,VNM,704,Urban,14,Other improved,0.0,Household Living Standards Survey: Report - HLSS16
+Viet Nam,VN,VNM,704,Urban,15,"No facility, bush, field",0.0,Household Living Standards Survey: Report - HLSS16
+Viet Nam,VN,VNM,704,Urban,16,Other unimproved,0.012,Household Living Standards Survey: Report - HLSS16
+Viet Nam,VN,VNM,704,Urban,17,DK/missing information,0.0,Household Living Standards Survey: Report - HLSS16
+Viet Nam,VN,VNM,704,Rural,1,Flush and pour flush - to piped sewer system,0.0,Household Living Standards Survey: Report - HLSS16
+Viet Nam,VN,VNM,704,Rural,2,Flush and pour flush - to septic tank,0.0,Household Living Standards Survey: Report - HLSS16
+Viet Nam,VN,VNM,704,Rural,3,Flush and pour flush - to pit,0.0,Household Living Standards Survey: Report - HLSS16
+Viet Nam,VN,VNM,704,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Living Standards Survey: Report - HLSS16
+Viet Nam,VN,VNM,704,Rural,5,Flush and pour flush - to elsewhere,0.0,Household Living Standards Survey: Report - HLSS16
+Viet Nam,VN,VNM,704,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Living Standards Survey: Report - HLSS16
+Viet Nam,VN,VNM,704,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Living Standards Survey: Report - HLSS16
+Viet Nam,VN,VNM,704,Rural,8,Dry latrines - Traditional latrine,0.0,Household Living Standards Survey: Report - HLSS16
+Viet Nam,VN,VNM,704,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Living Standards Survey: Report - HLSS16
+Viet Nam,VN,VNM,704,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.073,Household Living Standards Survey: Report - HLSS16
+Viet Nam,VN,VNM,704,Rural,11,Dry latrines - Bucket latrine,0.0,Household Living Standards Survey: Report - HLSS16
+Viet Nam,VN,VNM,704,Rural,12,Dry latrines - Other,0.0,Household Living Standards Survey: Report - HLSS16
+Viet Nam,VN,VNM,704,Rural,13,Composting toilets,0.13,Household Living Standards Survey: Report - HLSS16
+Viet Nam,VN,VNM,704,Rural,14,Other improved,0.0,Household Living Standards Survey: Report - HLSS16
+Viet Nam,VN,VNM,704,Rural,15,"No facility, bush, field",0.0,Household Living Standards Survey: Report - HLSS16
+Viet Nam,VN,VNM,704,Rural,16,Other unimproved,0.104,Household Living Standards Survey: Report - HLSS16
+Viet Nam,VN,VNM,704,Rural,17,DK/missing information,0.0,Household Living Standards Survey: Report - HLSS16
+Viet Nam,VN,VNM,704,National,1,Flush and pour flush - to piped sewer system,0.0,Household Living Standards Survey: Report - HLSS16
+Viet Nam,VN,VNM,704,National,2,Flush and pour flush - to septic tank,0.0,Household Living Standards Survey: Report - HLSS16
+Viet Nam,VN,VNM,704,National,3,Flush and pour flush - to pit,0.0,Household Living Standards Survey: Report - HLSS16
+Viet Nam,VN,VNM,704,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Living Standards Survey: Report - HLSS16
+Viet Nam,VN,VNM,704,National,5,Flush and pour flush - to elsewhere,0.0,Household Living Standards Survey: Report - HLSS16
+Viet Nam,VN,VNM,704,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Living Standards Survey: Report - HLSS16
+Viet Nam,VN,VNM,704,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Living Standards Survey: Report - HLSS16
+Viet Nam,VN,VNM,704,National,8,Dry latrines - Traditional latrine,0.0,Household Living Standards Survey: Report - HLSS16
+Viet Nam,VN,VNM,704,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Living Standards Survey: Report - HLSS16
+Viet Nam,VN,VNM,704,National,10,Dry latrines - Hanging toilet/hanging latrine,0.054,Household Living Standards Survey: Report - HLSS16
+Viet Nam,VN,VNM,704,National,11,Dry latrines - Bucket latrine,0.0,Household Living Standards Survey: Report - HLSS16
+Viet Nam,VN,VNM,704,National,12,Dry latrines - Other,0.0,Household Living Standards Survey: Report - HLSS16
+Viet Nam,VN,VNM,704,National,13,Composting toilets,0.094,Household Living Standards Survey: Report - HLSS16
+Viet Nam,VN,VNM,704,National,14,Other improved,0.0,Household Living Standards Survey: Report - HLSS16
+Viet Nam,VN,VNM,704,National,15,"No facility, bush, field",0.0,Household Living Standards Survey: Report - HLSS16
+Viet Nam,VN,VNM,704,National,16,Other unimproved,0.074,Household Living Standards Survey: Report - HLSS16
+Viet Nam,VN,VNM,704,National,17,DK/missing information,0.0,Household Living Standards Survey: Report - HLSS16
+Viet Nam,VN,VNM,704,Urban,1,Flush and pour flush - to piped sewer system,0.0,Household Living Standards Survey: Report - HLSS12
+Viet Nam,VN,VNM,704,Urban,2,Flush and pour flush - to septic tank,0.0,Household Living Standards Survey: Report - HLSS12
+Viet Nam,VN,VNM,704,Urban,3,Flush and pour flush - to pit,0.0,Household Living Standards Survey: Report - HLSS12
+Viet Nam,VN,VNM,704,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Living Standards Survey: Report - HLSS12
+Viet Nam,VN,VNM,704,Urban,5,Flush and pour flush - to elsewhere,0.0,Household Living Standards Survey: Report - HLSS12
+Viet Nam,VN,VNM,704,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Living Standards Survey: Report - HLSS12
+Viet Nam,VN,VNM,704,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Living Standards Survey: Report - HLSS12
+Viet Nam,VN,VNM,704,Urban,8,Dry latrines - Traditional latrine,0.0,Household Living Standards Survey: Report - HLSS12
+Viet Nam,VN,VNM,704,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Living Standards Survey: Report - HLSS12
+Viet Nam,VN,VNM,704,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.027,Household Living Standards Survey: Report - HLSS12
+Viet Nam,VN,VNM,704,Urban,11,Dry latrines - Bucket latrine,0.0,Household Living Standards Survey: Report - HLSS12
+Viet Nam,VN,VNM,704,Urban,12,Dry latrines - Other,0.0,Household Living Standards Survey: Report - HLSS12
+Viet Nam,VN,VNM,704,Urban,13,Composting toilets,0.033,Household Living Standards Survey: Report - HLSS12
+Viet Nam,VN,VNM,704,Urban,14,Other improved,0.0,Household Living Standards Survey: Report - HLSS12
+Viet Nam,VN,VNM,704,Urban,15,"No facility, bush, field",0.0,Household Living Standards Survey: Report - HLSS12
+Viet Nam,VN,VNM,704,Urban,16,Other unimproved,0.035,Household Living Standards Survey: Report - HLSS12
+Viet Nam,VN,VNM,704,Urban,17,DK/missing information,0.0,Household Living Standards Survey: Report - HLSS12
+Viet Nam,VN,VNM,704,Rural,1,Flush and pour flush - to piped sewer system,0.0,Household Living Standards Survey: Report - HLSS12
+Viet Nam,VN,VNM,704,Rural,2,Flush and pour flush - to septic tank,0.0,Household Living Standards Survey: Report - HLSS12
+Viet Nam,VN,VNM,704,Rural,3,Flush and pour flush - to pit,0.0,Household Living Standards Survey: Report - HLSS12
+Viet Nam,VN,VNM,704,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Living Standards Survey: Report - HLSS12
+Viet Nam,VN,VNM,704,Rural,5,Flush and pour flush - to elsewhere,0.0,Household Living Standards Survey: Report - HLSS12
+Viet Nam,VN,VNM,704,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Living Standards Survey: Report - HLSS12
+Viet Nam,VN,VNM,704,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Living Standards Survey: Report - HLSS12
+Viet Nam,VN,VNM,704,Rural,8,Dry latrines - Traditional latrine,0.0,Household Living Standards Survey: Report - HLSS12
+Viet Nam,VN,VNM,704,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Living Standards Survey: Report - HLSS12
+Viet Nam,VN,VNM,704,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.115,Household Living Standards Survey: Report - HLSS12
+Viet Nam,VN,VNM,704,Rural,11,Dry latrines - Bucket latrine,0.0,Household Living Standards Survey: Report - HLSS12
+Viet Nam,VN,VNM,704,Rural,12,Dry latrines - Other,0.0,Household Living Standards Survey: Report - HLSS12
+Viet Nam,VN,VNM,704,Rural,13,Composting toilets,0.174,Household Living Standards Survey: Report - HLSS12
+Viet Nam,VN,VNM,704,Rural,14,Other improved,0.0,Household Living Standards Survey: Report - HLSS12
+Viet Nam,VN,VNM,704,Rural,15,"No facility, bush, field",0.0,Household Living Standards Survey: Report - HLSS12
+Viet Nam,VN,VNM,704,Rural,16,Other unimproved,0.185,Household Living Standards Survey: Report - HLSS12
+Viet Nam,VN,VNM,704,Rural,17,DK/missing information,0.0,Household Living Standards Survey: Report - HLSS12
+Viet Nam,VN,VNM,704,National,1,Flush and pour flush - to piped sewer system,0.0,Household Living Standards Survey: Report - HLSS12
+Viet Nam,VN,VNM,704,National,2,Flush and pour flush - to septic tank,0.0,Household Living Standards Survey: Report - HLSS12
+Viet Nam,VN,VNM,704,National,3,Flush and pour flush - to pit,0.0,Household Living Standards Survey: Report - HLSS12
+Viet Nam,VN,VNM,704,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Household Living Standards Survey: Report - HLSS12
+Viet Nam,VN,VNM,704,National,5,Flush and pour flush - to elsewhere,0.0,Household Living Standards Survey: Report - HLSS12
+Viet Nam,VN,VNM,704,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Household Living Standards Survey: Report - HLSS12
+Viet Nam,VN,VNM,704,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Household Living Standards Survey: Report - HLSS12
+Viet Nam,VN,VNM,704,National,8,Dry latrines - Traditional latrine,0.0,Household Living Standards Survey: Report - HLSS12
+Viet Nam,VN,VNM,704,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Household Living Standards Survey: Report - HLSS12
+Viet Nam,VN,VNM,704,National,10,Dry latrines - Hanging toilet/hanging latrine,0.087,Household Living Standards Survey: Report - HLSS12
+Viet Nam,VN,VNM,704,National,11,Dry latrines - Bucket latrine,0.0,Household Living Standards Survey: Report - HLSS12
+Viet Nam,VN,VNM,704,National,12,Dry latrines - Other,0.0,Household Living Standards Survey: Report - HLSS12
+Viet Nam,VN,VNM,704,National,13,Composting toilets,0.13,Household Living Standards Survey: Report - HLSS12
+Viet Nam,VN,VNM,704,National,14,Other improved,0.0,Household Living Standards Survey: Report - HLSS12
+Viet Nam,VN,VNM,704,National,15,"No facility, bush, field",0.0,Household Living Standards Survey: Report - HLSS12
+Viet Nam,VN,VNM,704,National,16,Other unimproved,0.138,Household Living Standards Survey: Report - HLSS12
+Viet Nam,VN,VNM,704,National,17,DK/missing information,0.0,Household Living Standards Survey: Report - HLSS12

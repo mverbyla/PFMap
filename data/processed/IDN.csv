@@ -1,4 +1,886 @@
 country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+Indonesia,ID,IDN,360,Urban,1,Flush and pour flush - to piped sewer system,0.0,SUSENAS - SUS01
+Indonesia,ID,IDN,360,Urban,2,Flush and pour flush - to septic tank,0.63,SUSENAS - SUS01
+Indonesia,ID,IDN,360,Urban,3,Flush and pour flush - to pit,0.0,SUSENAS - SUS01
+Indonesia,ID,IDN,360,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,SUSENAS - SUS01
+Indonesia,ID,IDN,360,Urban,5,Flush and pour flush - to elsewhere,0.0,SUSENAS - SUS01
+Indonesia,ID,IDN,360,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,SUSENAS - SUS01
+Indonesia,ID,IDN,360,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,SUSENAS - SUS01
+Indonesia,ID,IDN,360,Urban,8,Dry latrines - Traditional latrine,0.132,SUSENAS - SUS01
+Indonesia,ID,IDN,360,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,SUSENAS - SUS01
+Indonesia,ID,IDN,360,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,SUSENAS - SUS01
+Indonesia,ID,IDN,360,Urban,11,Dry latrines - Bucket latrine,0.0,SUSENAS - SUS01
+Indonesia,ID,IDN,360,Urban,12,Dry latrines - Other,0.0,SUSENAS - SUS01
+Indonesia,ID,IDN,360,Urban,13,Composting toilets,0.0,SUSENAS - SUS01
+Indonesia,ID,IDN,360,Urban,14,Other improved,0.0,SUSENAS - SUS01
+Indonesia,ID,IDN,360,Urban,15,"No facility, bush, field",0.221,SUSENAS - SUS01
+Indonesia,ID,IDN,360,Urban,16,Other unimproved,0.018,SUSENAS - SUS01
+Indonesia,ID,IDN,360,Urban,17,DK/missing information,0.0,SUSENAS - SUS01
+Indonesia,ID,IDN,360,Rural,1,Flush and pour flush - to piped sewer system,0.0,SUSENAS - SUS01
+Indonesia,ID,IDN,360,Rural,2,Flush and pour flush - to septic tank,0.198,SUSENAS - SUS01
+Indonesia,ID,IDN,360,Rural,3,Flush and pour flush - to pit,0.0,SUSENAS - SUS01
+Indonesia,ID,IDN,360,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,SUSENAS - SUS01
+Indonesia,ID,IDN,360,Rural,5,Flush and pour flush - to elsewhere,0.0,SUSENAS - SUS01
+Indonesia,ID,IDN,360,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,SUSENAS - SUS01
+Indonesia,ID,IDN,360,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,SUSENAS - SUS01
+Indonesia,ID,IDN,360,Rural,8,Dry latrines - Traditional latrine,0.305,SUSENAS - SUS01
+Indonesia,ID,IDN,360,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,SUSENAS - SUS01
+Indonesia,ID,IDN,360,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,SUSENAS - SUS01
+Indonesia,ID,IDN,360,Rural,11,Dry latrines - Bucket latrine,0.0,SUSENAS - SUS01
+Indonesia,ID,IDN,360,Rural,12,Dry latrines - Other,0.0,SUSENAS - SUS01
+Indonesia,ID,IDN,360,Rural,13,Composting toilets,0.0,SUSENAS - SUS01
+Indonesia,ID,IDN,360,Rural,14,Other improved,0.0,SUSENAS - SUS01
+Indonesia,ID,IDN,360,Rural,15,"No facility, bush, field",0.453,SUSENAS - SUS01
+Indonesia,ID,IDN,360,Rural,16,Other unimproved,0.044,SUSENAS - SUS01
+Indonesia,ID,IDN,360,Rural,17,DK/missing information,0.0,SUSENAS - SUS01
+Indonesia,ID,IDN,360,National,1,Flush and pour flush - to piped sewer system,0.0,SUSENAS - SUS01
+Indonesia,ID,IDN,360,National,2,Flush and pour flush - to septic tank,0.385,SUSENAS - SUS01
+Indonesia,ID,IDN,360,National,3,Flush and pour flush - to pit,0.0,SUSENAS - SUS01
+Indonesia,ID,IDN,360,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,SUSENAS - SUS01
+Indonesia,ID,IDN,360,National,5,Flush and pour flush - to elsewhere,0.0,SUSENAS - SUS01
+Indonesia,ID,IDN,360,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,SUSENAS - SUS01
+Indonesia,ID,IDN,360,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,SUSENAS - SUS01
+Indonesia,ID,IDN,360,National,8,Dry latrines - Traditional latrine,0.23,SUSENAS - SUS01
+Indonesia,ID,IDN,360,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,SUSENAS - SUS01
+Indonesia,ID,IDN,360,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,SUSENAS - SUS01
+Indonesia,ID,IDN,360,National,11,Dry latrines - Bucket latrine,0.0,SUSENAS - SUS01
+Indonesia,ID,IDN,360,National,12,Dry latrines - Other,0.0,SUSENAS - SUS01
+Indonesia,ID,IDN,360,National,13,Composting toilets,0.0,SUSENAS - SUS01
+Indonesia,ID,IDN,360,National,14,Other improved,0.0,SUSENAS - SUS01
+Indonesia,ID,IDN,360,National,15,"No facility, bush, field",0.352,SUSENAS - SUS01
+Indonesia,ID,IDN,360,National,16,Other unimproved,0.032,SUSENAS - SUS01
+Indonesia,ID,IDN,360,National,17,DK/missing information,0.0,SUSENAS - SUS01
+Indonesia,ID,IDN,360,Urban,1,Flush and pour flush - to piped sewer system,0.0,SUSENAS - SUS02
+Indonesia,ID,IDN,360,Urban,2,Flush and pour flush - to septic tank,0.0,SUSENAS - SUS02
+Indonesia,ID,IDN,360,Urban,3,Flush and pour flush - to pit,0.0,SUSENAS - SUS02
+Indonesia,ID,IDN,360,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,SUSENAS - SUS02
+Indonesia,ID,IDN,360,Urban,5,Flush and pour flush - to elsewhere,0.0,SUSENAS - SUS02
+Indonesia,ID,IDN,360,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,SUSENAS - SUS02
+Indonesia,ID,IDN,360,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,SUSENAS - SUS02
+Indonesia,ID,IDN,360,Urban,8,Dry latrines - Traditional latrine,0.064,SUSENAS - SUS02
+Indonesia,ID,IDN,360,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,SUSENAS - SUS02
+Indonesia,ID,IDN,360,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,SUSENAS - SUS02
+Indonesia,ID,IDN,360,Urban,11,Dry latrines - Bucket latrine,0.0,SUSENAS - SUS02
+Indonesia,ID,IDN,360,Urban,12,Dry latrines - Other,0.0,SUSENAS - SUS02
+Indonesia,ID,IDN,360,Urban,13,Composting toilets,0.0,SUSENAS - SUS02
+Indonesia,ID,IDN,360,Urban,14,Other improved,0.0,SUSENAS - SUS02
+Indonesia,ID,IDN,360,Urban,15,"No facility, bush, field",0.125,SUSENAS - SUS02
+Indonesia,ID,IDN,360,Urban,16,Other unimproved,0.0,SUSENAS - SUS02
+Indonesia,ID,IDN,360,Urban,17,DK/missing information,0.0,SUSENAS - SUS02
+Indonesia,ID,IDN,360,Rural,1,Flush and pour flush - to piped sewer system,0.0,SUSENAS - SUS02
+Indonesia,ID,IDN,360,Rural,2,Flush and pour flush - to septic tank,0.0,SUSENAS - SUS02
+Indonesia,ID,IDN,360,Rural,3,Flush and pour flush - to pit,0.0,SUSENAS - SUS02
+Indonesia,ID,IDN,360,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,SUSENAS - SUS02
+Indonesia,ID,IDN,360,Rural,5,Flush and pour flush - to elsewhere,0.0,SUSENAS - SUS02
+Indonesia,ID,IDN,360,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,SUSENAS - SUS02
+Indonesia,ID,IDN,360,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,SUSENAS - SUS02
+Indonesia,ID,IDN,360,Rural,8,Dry latrines - Traditional latrine,0.219,SUSENAS - SUS02
+Indonesia,ID,IDN,360,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,SUSENAS - SUS02
+Indonesia,ID,IDN,360,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,SUSENAS - SUS02
+Indonesia,ID,IDN,360,Rural,11,Dry latrines - Bucket latrine,0.0,SUSENAS - SUS02
+Indonesia,ID,IDN,360,Rural,12,Dry latrines - Other,0.0,SUSENAS - SUS02
+Indonesia,ID,IDN,360,Rural,13,Composting toilets,0.0,SUSENAS - SUS02
+Indonesia,ID,IDN,360,Rural,14,Other improved,0.0,SUSENAS - SUS02
+Indonesia,ID,IDN,360,Rural,15,"No facility, bush, field",0.44,SUSENAS - SUS02
+Indonesia,ID,IDN,360,Rural,16,Other unimproved,0.0,SUSENAS - SUS02
+Indonesia,ID,IDN,360,Rural,17,DK/missing information,0.0,SUSENAS - SUS02
+Indonesia,ID,IDN,360,National,1,Flush and pour flush - to piped sewer system,0.0,SUSENAS - SUS02
+Indonesia,ID,IDN,360,National,2,Flush and pour flush - to septic tank,0.0,SUSENAS - SUS02
+Indonesia,ID,IDN,360,National,3,Flush and pour flush - to pit,0.0,SUSENAS - SUS02
+Indonesia,ID,IDN,360,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,SUSENAS - SUS02
+Indonesia,ID,IDN,360,National,5,Flush and pour flush - to elsewhere,0.0,SUSENAS - SUS02
+Indonesia,ID,IDN,360,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,SUSENAS - SUS02
+Indonesia,ID,IDN,360,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,SUSENAS - SUS02
+Indonesia,ID,IDN,360,National,8,Dry latrines - Traditional latrine,0.148,SUSENAS - SUS02
+Indonesia,ID,IDN,360,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,SUSENAS - SUS02
+Indonesia,ID,IDN,360,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,SUSENAS - SUS02
+Indonesia,ID,IDN,360,National,11,Dry latrines - Bucket latrine,0.0,SUSENAS - SUS02
+Indonesia,ID,IDN,360,National,12,Dry latrines - Other,0.0,SUSENAS - SUS02
+Indonesia,ID,IDN,360,National,13,Composting toilets,0.0,SUSENAS - SUS02
+Indonesia,ID,IDN,360,National,14,Other improved,0.0,SUSENAS - SUS02
+Indonesia,ID,IDN,360,National,15,"No facility, bush, field",0.296,SUSENAS - SUS02
+Indonesia,ID,IDN,360,National,16,Other unimproved,0.0,SUSENAS - SUS02
+Indonesia,ID,IDN,360,National,17,DK/missing information,0.0,SUSENAS - SUS02
+Indonesia,ID,IDN,360,Urban,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS03
+Indonesia,ID,IDN,360,Urban,2,Flush and pour flush - to septic tank,0.646,Demographic and Health Survey - DHS03
+Indonesia,ID,IDN,360,Urban,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS03
+Indonesia,ID,IDN,360,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS03
+Indonesia,ID,IDN,360,Urban,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS03
+Indonesia,ID,IDN,360,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - DHS03
+Indonesia,ID,IDN,360,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.093,Demographic and Health Survey - DHS03
+Indonesia,ID,IDN,360,Urban,8,Dry latrines - Traditional latrine,0.089,Demographic and Health Survey - DHS03
+Indonesia,ID,IDN,360,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.029,Demographic and Health Survey - DHS03
+Indonesia,ID,IDN,360,Urban,8,Dry latrines - Traditional latrine,0.089,Demographic and Health Survey - DHS03
+Indonesia,ID,IDN,360,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.093,Demographic and Health Survey - DHS03
+Indonesia,ID,IDN,360,Urban,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS03
+Indonesia,ID,IDN,360,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Survey - DHS03
+Indonesia,ID,IDN,360,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS03
+Indonesia,ID,IDN,360,Urban,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS03
+Indonesia,ID,IDN,360,Urban,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS03
+Indonesia,ID,IDN,360,Urban,13,Composting toilets,0.0,Demographic and Health Survey - DHS03
+Indonesia,ID,IDN,360,Urban,14,Other improved,0.0,Demographic and Health Survey - DHS03
+Indonesia,ID,IDN,360,Urban,15,"No facility, bush, field",0.118,Demographic and Health Survey - DHS03
+Indonesia,ID,IDN,360,Urban,16,Other unimproved,0.022,Demographic and Health Survey - DHS03
+Indonesia,ID,IDN,360,Urban,17,DK/missing information,0.003,Demographic and Health Survey - DHS03
+Indonesia,ID,IDN,360,Rural,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS03
+Indonesia,ID,IDN,360,Rural,2,Flush and pour flush - to septic tank,0.266,Demographic and Health Survey - DHS03
+Indonesia,ID,IDN,360,Rural,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS03
+Indonesia,ID,IDN,360,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS03
+Indonesia,ID,IDN,360,Rural,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS03
+Indonesia,ID,IDN,360,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - DHS03
+Indonesia,ID,IDN,360,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.062,Demographic and Health Survey - DHS03
+Indonesia,ID,IDN,360,Rural,8,Dry latrines - Traditional latrine,0.102,Demographic and Health Survey - DHS03
+Indonesia,ID,IDN,360,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.165,Demographic and Health Survey - DHS03
+Indonesia,ID,IDN,360,Rural,8,Dry latrines - Traditional latrine,0.102,Demographic and Health Survey - DHS03
+Indonesia,ID,IDN,360,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.062,Demographic and Health Survey - DHS03
+Indonesia,ID,IDN,360,Rural,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS03
+Indonesia,ID,IDN,360,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Survey - DHS03
+Indonesia,ID,IDN,360,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS03
+Indonesia,ID,IDN,360,Rural,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS03
+Indonesia,ID,IDN,360,Rural,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS03
+Indonesia,ID,IDN,360,Rural,13,Composting toilets,0.0,Demographic and Health Survey - DHS03
+Indonesia,ID,IDN,360,Rural,14,Other improved,0.0,Demographic and Health Survey - DHS03
+Indonesia,ID,IDN,360,Rural,15,"No facility, bush, field",0.337,Demographic and Health Survey - DHS03
+Indonesia,ID,IDN,360,Rural,16,Other unimproved,0.067,Demographic and Health Survey - DHS03
+Indonesia,ID,IDN,360,Rural,17,DK/missing information,0.002,Demographic and Health Survey - DHS03
+Indonesia,ID,IDN,360,National,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS03
+Indonesia,ID,IDN,360,National,2,Flush and pour flush - to septic tank,0.0,Demographic and Health Survey - DHS03
+Indonesia,ID,IDN,360,National,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS03
+Indonesia,ID,IDN,360,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS03
+Indonesia,ID,IDN,360,National,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS03
+Indonesia,ID,IDN,360,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - DHS03
+Indonesia,ID,IDN,360,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS03
+Indonesia,ID,IDN,360,National,8,Dry latrines - Traditional latrine,0.0,Demographic and Health Survey - DHS03
+Indonesia,ID,IDN,360,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Survey - DHS03
+Indonesia,ID,IDN,360,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS03
+Indonesia,ID,IDN,360,National,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS03
+Indonesia,ID,IDN,360,National,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS03
+Indonesia,ID,IDN,360,National,13,Composting toilets,0.0,Demographic and Health Survey - DHS03
+Indonesia,ID,IDN,360,National,14,Other improved,0.0,Demographic and Health Survey - DHS03
+Indonesia,ID,IDN,360,National,15,"No facility, bush, field",0.0,Demographic and Health Survey - DHS03
+Indonesia,ID,IDN,360,National,16,Other unimproved,0.0,Demographic and Health Survey - DHS03
+Indonesia,ID,IDN,360,National,17,DK/missing information,0.0,Demographic and Health Survey - DHS03
+Indonesia,ID,IDN,360,Urban,1,Flush and pour flush - to piped sewer system,0.0,SOCIO-ECONOMIC SURVEY (SUSENAS) - SUS03
+Indonesia,ID,IDN,360,Urban,2,Flush and pour flush - to septic tank,0.0,SOCIO-ECONOMIC SURVEY (SUSENAS) - SUS03
+Indonesia,ID,IDN,360,Urban,3,Flush and pour flush - to pit,0.0,SOCIO-ECONOMIC SURVEY (SUSENAS) - SUS03
+Indonesia,ID,IDN,360,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,SOCIO-ECONOMIC SURVEY (SUSENAS) - SUS03
+Indonesia,ID,IDN,360,Urban,5,Flush and pour flush - to elsewhere,0.0,SOCIO-ECONOMIC SURVEY (SUSENAS) - SUS03
+Indonesia,ID,IDN,360,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,SOCIO-ECONOMIC SURVEY (SUSENAS) - SUS03
+Indonesia,ID,IDN,360,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,SOCIO-ECONOMIC SURVEY (SUSENAS) - SUS03
+Indonesia,ID,IDN,360,Urban,8,Dry latrines - Traditional latrine,0.063,SOCIO-ECONOMIC SURVEY (SUSENAS) - SUS03
+Indonesia,ID,IDN,360,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,SOCIO-ECONOMIC SURVEY (SUSENAS) - SUS03
+Indonesia,ID,IDN,360,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,SOCIO-ECONOMIC SURVEY (SUSENAS) - SUS03
+Indonesia,ID,IDN,360,Urban,11,Dry latrines - Bucket latrine,0.0,SOCIO-ECONOMIC SURVEY (SUSENAS) - SUS03
+Indonesia,ID,IDN,360,Urban,12,Dry latrines - Other,0.0,SOCIO-ECONOMIC SURVEY (SUSENAS) - SUS03
+Indonesia,ID,IDN,360,Urban,13,Composting toilets,0.0,SOCIO-ECONOMIC SURVEY (SUSENAS) - SUS03
+Indonesia,ID,IDN,360,Urban,14,Other improved,0.0,SOCIO-ECONOMIC SURVEY (SUSENAS) - SUS03
+Indonesia,ID,IDN,360,Urban,15,"No facility, bush, field",0.121,SOCIO-ECONOMIC SURVEY (SUSENAS) - SUS03
+Indonesia,ID,IDN,360,Urban,16,Other unimproved,0.0,SOCIO-ECONOMIC SURVEY (SUSENAS) - SUS03
+Indonesia,ID,IDN,360,Urban,17,DK/missing information,0.0,SOCIO-ECONOMIC SURVEY (SUSENAS) - SUS03
+Indonesia,ID,IDN,360,Rural,1,Flush and pour flush - to piped sewer system,0.0,SOCIO-ECONOMIC SURVEY (SUSENAS) - SUS03
+Indonesia,ID,IDN,360,Rural,2,Flush and pour flush - to septic tank,0.0,SOCIO-ECONOMIC SURVEY (SUSENAS) - SUS03
+Indonesia,ID,IDN,360,Rural,3,Flush and pour flush - to pit,0.0,SOCIO-ECONOMIC SURVEY (SUSENAS) - SUS03
+Indonesia,ID,IDN,360,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,SOCIO-ECONOMIC SURVEY (SUSENAS) - SUS03
+Indonesia,ID,IDN,360,Rural,5,Flush and pour flush - to elsewhere,0.0,SOCIO-ECONOMIC SURVEY (SUSENAS) - SUS03
+Indonesia,ID,IDN,360,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,SOCIO-ECONOMIC SURVEY (SUSENAS) - SUS03
+Indonesia,ID,IDN,360,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,SOCIO-ECONOMIC SURVEY (SUSENAS) - SUS03
+Indonesia,ID,IDN,360,Rural,8,Dry latrines - Traditional latrine,0.219,SOCIO-ECONOMIC SURVEY (SUSENAS) - SUS03
+Indonesia,ID,IDN,360,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,SOCIO-ECONOMIC SURVEY (SUSENAS) - SUS03
+Indonesia,ID,IDN,360,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,SOCIO-ECONOMIC SURVEY (SUSENAS) - SUS03
+Indonesia,ID,IDN,360,Rural,11,Dry latrines - Bucket latrine,0.0,SOCIO-ECONOMIC SURVEY (SUSENAS) - SUS03
+Indonesia,ID,IDN,360,Rural,12,Dry latrines - Other,0.0,SOCIO-ECONOMIC SURVEY (SUSENAS) - SUS03
+Indonesia,ID,IDN,360,Rural,13,Composting toilets,0.0,SOCIO-ECONOMIC SURVEY (SUSENAS) - SUS03
+Indonesia,ID,IDN,360,Rural,14,Other improved,0.0,SOCIO-ECONOMIC SURVEY (SUSENAS) - SUS03
+Indonesia,ID,IDN,360,Rural,15,"No facility, bush, field",0.401,SOCIO-ECONOMIC SURVEY (SUSENAS) - SUS03
+Indonesia,ID,IDN,360,Rural,16,Other unimproved,0.0,SOCIO-ECONOMIC SURVEY (SUSENAS) - SUS03
+Indonesia,ID,IDN,360,Rural,17,DK/missing information,0.0,SOCIO-ECONOMIC SURVEY (SUSENAS) - SUS03
+Indonesia,ID,IDN,360,National,1,Flush and pour flush - to piped sewer system,0.0,SOCIO-ECONOMIC SURVEY (SUSENAS) - SUS03
+Indonesia,ID,IDN,360,National,2,Flush and pour flush - to septic tank,0.0,SOCIO-ECONOMIC SURVEY (SUSENAS) - SUS03
+Indonesia,ID,IDN,360,National,3,Flush and pour flush - to pit,0.0,SOCIO-ECONOMIC SURVEY (SUSENAS) - SUS03
+Indonesia,ID,IDN,360,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,SOCIO-ECONOMIC SURVEY (SUSENAS) - SUS03
+Indonesia,ID,IDN,360,National,5,Flush and pour flush - to elsewhere,0.0,SOCIO-ECONOMIC SURVEY (SUSENAS) - SUS03
+Indonesia,ID,IDN,360,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,SOCIO-ECONOMIC SURVEY (SUSENAS) - SUS03
+Indonesia,ID,IDN,360,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,SOCIO-ECONOMIC SURVEY (SUSENAS) - SUS03
+Indonesia,ID,IDN,360,National,8,Dry latrines - Traditional latrine,0.153,SOCIO-ECONOMIC SURVEY (SUSENAS) - SUS03
+Indonesia,ID,IDN,360,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,SOCIO-ECONOMIC SURVEY (SUSENAS) - SUS03
+Indonesia,ID,IDN,360,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,SOCIO-ECONOMIC SURVEY (SUSENAS) - SUS03
+Indonesia,ID,IDN,360,National,11,Dry latrines - Bucket latrine,0.0,SOCIO-ECONOMIC SURVEY (SUSENAS) - SUS03
+Indonesia,ID,IDN,360,National,12,Dry latrines - Other,0.0,SOCIO-ECONOMIC SURVEY (SUSENAS) - SUS03
+Indonesia,ID,IDN,360,National,13,Composting toilets,0.0,SOCIO-ECONOMIC SURVEY (SUSENAS) - SUS03
+Indonesia,ID,IDN,360,National,14,Other improved,0.0,SOCIO-ECONOMIC SURVEY (SUSENAS) - SUS03
+Indonesia,ID,IDN,360,National,15,"No facility, bush, field",0.283,SOCIO-ECONOMIC SURVEY (SUSENAS) - SUS03
+Indonesia,ID,IDN,360,National,16,Other unimproved,0.0,SOCIO-ECONOMIC SURVEY (SUSENAS) - SUS03
+Indonesia,ID,IDN,360,National,17,DK/missing information,0.0,SOCIO-ECONOMIC SURVEY (SUSENAS) - SUS03
+Indonesia,ID,IDN,360,Urban,1,Flush and pour flush - to piped sewer system,0.0,SUSENAS - SUS06
+Indonesia,ID,IDN,360,Urban,2,Flush and pour flush - to septic tank,0.0,SUSENAS - SUS06
+Indonesia,ID,IDN,360,Urban,3,Flush and pour flush - to pit,0.0,SUSENAS - SUS06
+Indonesia,ID,IDN,360,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,SUSENAS - SUS06
+Indonesia,ID,IDN,360,Urban,5,Flush and pour flush - to elsewhere,0.0,SUSENAS - SUS06
+Indonesia,ID,IDN,360,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,SUSENAS - SUS06
+Indonesia,ID,IDN,360,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,SUSENAS - SUS06
+Indonesia,ID,IDN,360,Urban,8,Dry latrines - Traditional latrine,0.068,SUSENAS - SUS06
+Indonesia,ID,IDN,360,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,SUSENAS - SUS06
+Indonesia,ID,IDN,360,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,SUSENAS - SUS06
+Indonesia,ID,IDN,360,Urban,11,Dry latrines - Bucket latrine,0.0,SUSENAS - SUS06
+Indonesia,ID,IDN,360,Urban,12,Dry latrines - Other,0.0,SUSENAS - SUS06
+Indonesia,ID,IDN,360,Urban,13,Composting toilets,0.0,SUSENAS - SUS06
+Indonesia,ID,IDN,360,Urban,14,Other improved,0.0,SUSENAS - SUS06
+Indonesia,ID,IDN,360,Urban,15,"No facility, bush, field",0.1,SUSENAS - SUS06
+Indonesia,ID,IDN,360,Urban,16,Other unimproved,0.0,SUSENAS - SUS06
+Indonesia,ID,IDN,360,Urban,17,DK/missing information,0.0,SUSENAS - SUS06
+Indonesia,ID,IDN,360,Rural,1,Flush and pour flush - to piped sewer system,0.0,SUSENAS - SUS06
+Indonesia,ID,IDN,360,Rural,2,Flush and pour flush - to septic tank,0.0,SUSENAS - SUS06
+Indonesia,ID,IDN,360,Rural,3,Flush and pour flush - to pit,0.0,SUSENAS - SUS06
+Indonesia,ID,IDN,360,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,SUSENAS - SUS06
+Indonesia,ID,IDN,360,Rural,5,Flush and pour flush - to elsewhere,0.0,SUSENAS - SUS06
+Indonesia,ID,IDN,360,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,SUSENAS - SUS06
+Indonesia,ID,IDN,360,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,SUSENAS - SUS06
+Indonesia,ID,IDN,360,Rural,8,Dry latrines - Traditional latrine,0.222,SUSENAS - SUS06
+Indonesia,ID,IDN,360,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,SUSENAS - SUS06
+Indonesia,ID,IDN,360,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,SUSENAS - SUS06
+Indonesia,ID,IDN,360,Rural,11,Dry latrines - Bucket latrine,0.0,SUSENAS - SUS06
+Indonesia,ID,IDN,360,Rural,12,Dry latrines - Other,0.0,SUSENAS - SUS06
+Indonesia,ID,IDN,360,Rural,13,Composting toilets,0.0,SUSENAS - SUS06
+Indonesia,ID,IDN,360,Rural,14,Other improved,0.0,SUSENAS - SUS06
+Indonesia,ID,IDN,360,Rural,15,"No facility, bush, field",0.346,SUSENAS - SUS06
+Indonesia,ID,IDN,360,Rural,16,Other unimproved,0.0,SUSENAS - SUS06
+Indonesia,ID,IDN,360,Rural,17,DK/missing information,0.0,SUSENAS - SUS06
+Indonesia,ID,IDN,360,National,1,Flush and pour flush - to piped sewer system,0.0,SUSENAS - SUS06
+Indonesia,ID,IDN,360,National,2,Flush and pour flush - to septic tank,0.0,SUSENAS - SUS06
+Indonesia,ID,IDN,360,National,3,Flush and pour flush - to pit,0.0,SUSENAS - SUS06
+Indonesia,ID,IDN,360,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,SUSENAS - SUS06
+Indonesia,ID,IDN,360,National,5,Flush and pour flush - to elsewhere,0.0,SUSENAS - SUS06
+Indonesia,ID,IDN,360,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,SUSENAS - SUS06
+Indonesia,ID,IDN,360,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,SUSENAS - SUS06
+Indonesia,ID,IDN,360,National,8,Dry latrines - Traditional latrine,0.156,SUSENAS - SUS06
+Indonesia,ID,IDN,360,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,SUSENAS - SUS06
+Indonesia,ID,IDN,360,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,SUSENAS - SUS06
+Indonesia,ID,IDN,360,National,11,Dry latrines - Bucket latrine,0.0,SUSENAS - SUS06
+Indonesia,ID,IDN,360,National,12,Dry latrines - Other,0.0,SUSENAS - SUS06
+Indonesia,ID,IDN,360,National,13,Composting toilets,0.0,SUSENAS - SUS06
+Indonesia,ID,IDN,360,National,14,Other improved,0.0,SUSENAS - SUS06
+Indonesia,ID,IDN,360,National,15,"No facility, bush, field",0.24,SUSENAS - SUS06
+Indonesia,ID,IDN,360,National,16,Other unimproved,0.0,SUSENAS - SUS06
+Indonesia,ID,IDN,360,National,17,DK/missing information,0.0,SUSENAS - SUS06
+Indonesia,ID,IDN,360,Urban,1,Flush and pour flush - to piped sewer system,0.0,SUSENAS - SUS07
+Indonesia,ID,IDN,360,Urban,2,Flush and pour flush - to septic tank,0.0,SUSENAS - SUS07
+Indonesia,ID,IDN,360,Urban,3,Flush and pour flush - to pit,0.0,SUSENAS - SUS07
+Indonesia,ID,IDN,360,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,SUSENAS - SUS07
+Indonesia,ID,IDN,360,Urban,5,Flush and pour flush - to elsewhere,0.0,SUSENAS - SUS07
+Indonesia,ID,IDN,360,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,SUSENAS - SUS07
+Indonesia,ID,IDN,360,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,SUSENAS - SUS07
+Indonesia,ID,IDN,360,Urban,8,Dry latrines - Traditional latrine,0.047,SUSENAS - SUS07
+Indonesia,ID,IDN,360,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,SUSENAS - SUS07
+Indonesia,ID,IDN,360,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,SUSENAS - SUS07
+Indonesia,ID,IDN,360,Urban,11,Dry latrines - Bucket latrine,0.0,SUSENAS - SUS07
+Indonesia,ID,IDN,360,Urban,12,Dry latrines - Other,0.0,SUSENAS - SUS07
+Indonesia,ID,IDN,360,Urban,13,Composting toilets,0.0,SUSENAS - SUS07
+Indonesia,ID,IDN,360,Urban,14,Other improved,0.0,SUSENAS - SUS07
+Indonesia,ID,IDN,360,Urban,15,"No facility, bush, field",0.108,SUSENAS - SUS07
+Indonesia,ID,IDN,360,Urban,16,Other unimproved,0.0,SUSENAS - SUS07
+Indonesia,ID,IDN,360,Urban,17,DK/missing information,0.0,SUSENAS - SUS07
+Indonesia,ID,IDN,360,Rural,1,Flush and pour flush - to piped sewer system,0.0,SUSENAS - SUS07
+Indonesia,ID,IDN,360,Rural,2,Flush and pour flush - to septic tank,0.0,SUSENAS - SUS07
+Indonesia,ID,IDN,360,Rural,3,Flush and pour flush - to pit,0.0,SUSENAS - SUS07
+Indonesia,ID,IDN,360,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,SUSENAS - SUS07
+Indonesia,ID,IDN,360,Rural,5,Flush and pour flush - to elsewhere,0.0,SUSENAS - SUS07
+Indonesia,ID,IDN,360,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,SUSENAS - SUS07
+Indonesia,ID,IDN,360,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,SUSENAS - SUS07
+Indonesia,ID,IDN,360,Rural,8,Dry latrines - Traditional latrine,0.176,SUSENAS - SUS07
+Indonesia,ID,IDN,360,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,SUSENAS - SUS07
+Indonesia,ID,IDN,360,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,SUSENAS - SUS07
+Indonesia,ID,IDN,360,Rural,11,Dry latrines - Bucket latrine,0.0,SUSENAS - SUS07
+Indonesia,ID,IDN,360,Rural,12,Dry latrines - Other,0.0,SUSENAS - SUS07
+Indonesia,ID,IDN,360,Rural,13,Composting toilets,0.0,SUSENAS - SUS07
+Indonesia,ID,IDN,360,Rural,14,Other improved,0.0,SUSENAS - SUS07
+Indonesia,ID,IDN,360,Rural,15,"No facility, bush, field",0.373,SUSENAS - SUS07
+Indonesia,ID,IDN,360,Rural,16,Other unimproved,0.0,SUSENAS - SUS07
+Indonesia,ID,IDN,360,Rural,17,DK/missing information,0.0,SUSENAS - SUS07
+Indonesia,ID,IDN,360,National,1,Flush and pour flush - to piped sewer system,0.0,SUSENAS - SUS07
+Indonesia,ID,IDN,360,National,2,Flush and pour flush - to septic tank,0.0,SUSENAS - SUS07
+Indonesia,ID,IDN,360,National,3,Flush and pour flush - to pit,0.0,SUSENAS - SUS07
+Indonesia,ID,IDN,360,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,SUSENAS - SUS07
+Indonesia,ID,IDN,360,National,5,Flush and pour flush - to elsewhere,0.0,SUSENAS - SUS07
+Indonesia,ID,IDN,360,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,SUSENAS - SUS07
+Indonesia,ID,IDN,360,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,SUSENAS - SUS07
+Indonesia,ID,IDN,360,National,8,Dry latrines - Traditional latrine,0.12,SUSENAS - SUS07
+Indonesia,ID,IDN,360,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,SUSENAS - SUS07
+Indonesia,ID,IDN,360,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,SUSENAS - SUS07
+Indonesia,ID,IDN,360,National,11,Dry latrines - Bucket latrine,0.0,SUSENAS - SUS07
+Indonesia,ID,IDN,360,National,12,Dry latrines - Other,0.0,SUSENAS - SUS07
+Indonesia,ID,IDN,360,National,13,Composting toilets,0.0,SUSENAS - SUS07
+Indonesia,ID,IDN,360,National,14,Other improved,0.0,SUSENAS - SUS07
+Indonesia,ID,IDN,360,National,15,"No facility, bush, field",0.258,SUSENAS - SUS07
+Indonesia,ID,IDN,360,National,16,Other unimproved,0.0,SUSENAS - SUS07
+Indonesia,ID,IDN,360,National,17,DK/missing information,0.0,SUSENAS - SUS07
+Indonesia,ID,IDN,360,Urban,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS07
+Indonesia,ID,IDN,360,Urban,2,Flush and pour flush - to septic tank,0.669,Demographic and Health Survey - DHS07
+Indonesia,ID,IDN,360,Urban,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS07
+Indonesia,ID,IDN,360,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS07
+Indonesia,ID,IDN,360,Urban,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS07
+Indonesia,ID,IDN,360,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - DHS07
+Indonesia,ID,IDN,360,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS07
+Indonesia,ID,IDN,360,Urban,8,Dry latrines - Traditional latrine,0.022,Demographic and Health Survey - DHS07
+Indonesia,ID,IDN,360,Urban,8,Dry latrines - Traditional latrine,0.105,Demographic and Health Survey - DHS07
+Indonesia,ID,IDN,360,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Survey - DHS07
+Indonesia,ID,IDN,360,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS07
+Indonesia,ID,IDN,360,Urban,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS07
+Indonesia,ID,IDN,360,Urban,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS07
+Indonesia,ID,IDN,360,Urban,13,Composting toilets,0.0,Demographic and Health Survey - DHS07
+Indonesia,ID,IDN,360,Urban,14,Other improved,0.0,Demographic and Health Survey - DHS07
+Indonesia,ID,IDN,360,Urban,15,"No facility, bush, field",0.107,Demographic and Health Survey - DHS07
+Indonesia,ID,IDN,360,Urban,16,Other unimproved,0.006,Demographic and Health Survey - DHS07
+Indonesia,ID,IDN,360,Urban,17,DK/missing information,0.0,Demographic and Health Survey - DHS07
+Indonesia,ID,IDN,360,Rural,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS07
+Indonesia,ID,IDN,360,Rural,2,Flush and pour flush - to septic tank,0.336,Demographic and Health Survey - DHS07
+Indonesia,ID,IDN,360,Rural,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS07
+Indonesia,ID,IDN,360,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS07
+Indonesia,ID,IDN,360,Rural,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS07
+Indonesia,ID,IDN,360,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - DHS07
+Indonesia,ID,IDN,360,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS07
+Indonesia,ID,IDN,360,Rural,8,Dry latrines - Traditional latrine,0.145,Demographic and Health Survey - DHS07
+Indonesia,ID,IDN,360,Rural,8,Dry latrines - Traditional latrine,0.107,Demographic and Health Survey - DHS07
+Indonesia,ID,IDN,360,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Survey - DHS07
+Indonesia,ID,IDN,360,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS07
+Indonesia,ID,IDN,360,Rural,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS07
+Indonesia,ID,IDN,360,Rural,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS07
+Indonesia,ID,IDN,360,Rural,13,Composting toilets,0.0,Demographic and Health Survey - DHS07
+Indonesia,ID,IDN,360,Rural,14,Other improved,0.0,Demographic and Health Survey - DHS07
+Indonesia,ID,IDN,360,Rural,15,"No facility, bush, field",0.322,Demographic and Health Survey - DHS07
+Indonesia,ID,IDN,360,Rural,16,Other unimproved,0.009,Demographic and Health Survey - DHS07
+Indonesia,ID,IDN,360,Rural,17,DK/missing information,0.0,Demographic and Health Survey - DHS07
+Indonesia,ID,IDN,360,National,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS07
+Indonesia,ID,IDN,360,National,2,Flush and pour flush - to septic tank,0.478,Demographic and Health Survey - DHS07
+Indonesia,ID,IDN,360,National,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS07
+Indonesia,ID,IDN,360,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS07
+Indonesia,ID,IDN,360,National,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS07
+Indonesia,ID,IDN,360,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - DHS07
+Indonesia,ID,IDN,360,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS07
+Indonesia,ID,IDN,360,National,8,Dry latrines - Traditional latrine,0.093,Demographic and Health Survey - DHS07
+Indonesia,ID,IDN,360,National,8,Dry latrines - Traditional latrine,0.106,Demographic and Health Survey - DHS07
+Indonesia,ID,IDN,360,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Survey - DHS07
+Indonesia,ID,IDN,360,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS07
+Indonesia,ID,IDN,360,National,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS07
+Indonesia,ID,IDN,360,National,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS07
+Indonesia,ID,IDN,360,National,13,Composting toilets,0.0,Demographic and Health Survey - DHS07
+Indonesia,ID,IDN,360,National,14,Other improved,0.0,Demographic and Health Survey - DHS07
+Indonesia,ID,IDN,360,National,15,"No facility, bush, field",0.23,Demographic and Health Survey - DHS07
+Indonesia,ID,IDN,360,National,16,Other unimproved,0.008,Demographic and Health Survey - DHS07
+Indonesia,ID,IDN,360,National,17,DK/missing information,0.0,Demographic and Health Survey - DHS07
+Indonesia,ID,IDN,360,Urban,1,Flush and pour flush - to piped sewer system,0.0,SUSENAS - SUS08
+Indonesia,ID,IDN,360,Urban,2,Flush and pour flush - to septic tank,0.0,SUSENAS - SUS08
+Indonesia,ID,IDN,360,Urban,3,Flush and pour flush - to pit,0.0,SUSENAS - SUS08
+Indonesia,ID,IDN,360,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,SUSENAS - SUS08
+Indonesia,ID,IDN,360,Urban,5,Flush and pour flush - to elsewhere,0.0,SUSENAS - SUS08
+Indonesia,ID,IDN,360,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,SUSENAS - SUS08
+Indonesia,ID,IDN,360,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,SUSENAS - SUS08
+Indonesia,ID,IDN,360,Urban,8,Dry latrines - Traditional latrine,0.042,SUSENAS - SUS08
+Indonesia,ID,IDN,360,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,SUSENAS - SUS08
+Indonesia,ID,IDN,360,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,SUSENAS - SUS08
+Indonesia,ID,IDN,360,Urban,11,Dry latrines - Bucket latrine,0.0,SUSENAS - SUS08
+Indonesia,ID,IDN,360,Urban,12,Dry latrines - Other,0.0,SUSENAS - SUS08
+Indonesia,ID,IDN,360,Urban,13,Composting toilets,0.0,SUSENAS - SUS08
+Indonesia,ID,IDN,360,Urban,14,Other improved,0.0,SUSENAS - SUS08
+Indonesia,ID,IDN,360,Urban,15,"No facility, bush, field",0.112,SUSENAS - SUS08
+Indonesia,ID,IDN,360,Urban,16,Other unimproved,0.0,SUSENAS - SUS08
+Indonesia,ID,IDN,360,Urban,17,DK/missing information,0.0,SUSENAS - SUS08
+Indonesia,ID,IDN,360,Rural,1,Flush and pour flush - to piped sewer system,0.0,SUSENAS - SUS08
+Indonesia,ID,IDN,360,Rural,2,Flush and pour flush - to septic tank,0.0,SUSENAS - SUS08
+Indonesia,ID,IDN,360,Rural,3,Flush and pour flush - to pit,0.0,SUSENAS - SUS08
+Indonesia,ID,IDN,360,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,SUSENAS - SUS08
+Indonesia,ID,IDN,360,Rural,5,Flush and pour flush - to elsewhere,0.0,SUSENAS - SUS08
+Indonesia,ID,IDN,360,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,SUSENAS - SUS08
+Indonesia,ID,IDN,360,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,SUSENAS - SUS08
+Indonesia,ID,IDN,360,Rural,8,Dry latrines - Traditional latrine,0.163,SUSENAS - SUS08
+Indonesia,ID,IDN,360,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,SUSENAS - SUS08
+Indonesia,ID,IDN,360,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,SUSENAS - SUS08
+Indonesia,ID,IDN,360,Rural,11,Dry latrines - Bucket latrine,0.0,SUSENAS - SUS08
+Indonesia,ID,IDN,360,Rural,12,Dry latrines - Other,0.0,SUSENAS - SUS08
+Indonesia,ID,IDN,360,Rural,13,Composting toilets,0.0,SUSENAS - SUS08
+Indonesia,ID,IDN,360,Rural,14,Other improved,0.0,SUSENAS - SUS08
+Indonesia,ID,IDN,360,Rural,15,"No facility, bush, field",0.362,SUSENAS - SUS08
+Indonesia,ID,IDN,360,Rural,16,Other unimproved,0.0,SUSENAS - SUS08
+Indonesia,ID,IDN,360,Rural,17,DK/missing information,0.0,SUSENAS - SUS08
+Indonesia,ID,IDN,360,National,1,Flush and pour flush - to piped sewer system,0.0,SUSENAS - SUS08
+Indonesia,ID,IDN,360,National,2,Flush and pour flush - to septic tank,0.0,SUSENAS - SUS08
+Indonesia,ID,IDN,360,National,3,Flush and pour flush - to pit,0.0,SUSENAS - SUS08
+Indonesia,ID,IDN,360,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,SUSENAS - SUS08
+Indonesia,ID,IDN,360,National,5,Flush and pour flush - to elsewhere,0.0,SUSENAS - SUS08
+Indonesia,ID,IDN,360,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,SUSENAS - SUS08
+Indonesia,ID,IDN,360,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,SUSENAS - SUS08
+Indonesia,ID,IDN,360,National,8,Dry latrines - Traditional latrine,0.104,SUSENAS - SUS08
+Indonesia,ID,IDN,360,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,SUSENAS - SUS08
+Indonesia,ID,IDN,360,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,SUSENAS - SUS08
+Indonesia,ID,IDN,360,National,11,Dry latrines - Bucket latrine,0.0,SUSENAS - SUS08
+Indonesia,ID,IDN,360,National,12,Dry latrines - Other,0.0,SUSENAS - SUS08
+Indonesia,ID,IDN,360,National,13,Composting toilets,0.0,SUSENAS - SUS08
+Indonesia,ID,IDN,360,National,14,Other improved,0.0,SUSENAS - SUS08
+Indonesia,ID,IDN,360,National,15,"No facility, bush, field",0.241,SUSENAS - SUS08
+Indonesia,ID,IDN,360,National,16,Other unimproved,0.0,SUSENAS - SUS08
+Indonesia,ID,IDN,360,National,17,DK/missing information,0.0,SUSENAS - SUS08
+Indonesia,ID,IDN,360,Urban,1,Flush and pour flush - to piped sewer system,0.0,SUSENAS - SUS09
+Indonesia,ID,IDN,360,Urban,2,Flush and pour flush - to septic tank,0.0,SUSENAS - SUS09
+Indonesia,ID,IDN,360,Urban,3,Flush and pour flush - to pit,0.0,SUSENAS - SUS09
+Indonesia,ID,IDN,360,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,SUSENAS - SUS09
+Indonesia,ID,IDN,360,Urban,5,Flush and pour flush - to elsewhere,0.0,SUSENAS - SUS09
+Indonesia,ID,IDN,360,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,SUSENAS - SUS09
+Indonesia,ID,IDN,360,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,SUSENAS - SUS09
+Indonesia,ID,IDN,360,Urban,8,Dry latrines - Traditional latrine,0.042,SUSENAS - SUS09
+Indonesia,ID,IDN,360,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,SUSENAS - SUS09
+Indonesia,ID,IDN,360,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,SUSENAS - SUS09
+Indonesia,ID,IDN,360,Urban,11,Dry latrines - Bucket latrine,0.0,SUSENAS - SUS09
+Indonesia,ID,IDN,360,Urban,12,Dry latrines - Other,0.0,SUSENAS - SUS09
+Indonesia,ID,IDN,360,Urban,13,Composting toilets,0.0,SUSENAS - SUS09
+Indonesia,ID,IDN,360,Urban,14,Other improved,0.0,SUSENAS - SUS09
+Indonesia,ID,IDN,360,Urban,15,"No facility, bush, field",0.086,SUSENAS - SUS09
+Indonesia,ID,IDN,360,Urban,16,Other unimproved,0.0,SUSENAS - SUS09
+Indonesia,ID,IDN,360,Urban,17,DK/missing information,0.0,SUSENAS - SUS09
+Indonesia,ID,IDN,360,Rural,1,Flush and pour flush - to piped sewer system,0.0,SUSENAS - SUS09
+Indonesia,ID,IDN,360,Rural,2,Flush and pour flush - to septic tank,0.0,SUSENAS - SUS09
+Indonesia,ID,IDN,360,Rural,3,Flush and pour flush - to pit,0.0,SUSENAS - SUS09
+Indonesia,ID,IDN,360,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,SUSENAS - SUS09
+Indonesia,ID,IDN,360,Rural,5,Flush and pour flush - to elsewhere,0.0,SUSENAS - SUS09
+Indonesia,ID,IDN,360,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,SUSENAS - SUS09
+Indonesia,ID,IDN,360,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,SUSENAS - SUS09
+Indonesia,ID,IDN,360,Rural,8,Dry latrines - Traditional latrine,0.17,SUSENAS - SUS09
+Indonesia,ID,IDN,360,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,SUSENAS - SUS09
+Indonesia,ID,IDN,360,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,SUSENAS - SUS09
+Indonesia,ID,IDN,360,Rural,11,Dry latrines - Bucket latrine,0.0,SUSENAS - SUS09
+Indonesia,ID,IDN,360,Rural,12,Dry latrines - Other,0.0,SUSENAS - SUS09
+Indonesia,ID,IDN,360,Rural,13,Composting toilets,0.0,SUSENAS - SUS09
+Indonesia,ID,IDN,360,Rural,14,Other improved,0.0,SUSENAS - SUS09
+Indonesia,ID,IDN,360,Rural,15,"No facility, bush, field",0.318,SUSENAS - SUS09
+Indonesia,ID,IDN,360,Rural,16,Other unimproved,0.0,SUSENAS - SUS09
+Indonesia,ID,IDN,360,Rural,17,DK/missing information,0.0,SUSENAS - SUS09
+Indonesia,ID,IDN,360,National,1,Flush and pour flush - to piped sewer system,0.0,SUSENAS - SUS09
+Indonesia,ID,IDN,360,National,2,Flush and pour flush - to septic tank,0.0,SUSENAS - SUS09
+Indonesia,ID,IDN,360,National,3,Flush and pour flush - to pit,0.0,SUSENAS - SUS09
+Indonesia,ID,IDN,360,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,SUSENAS - SUS09
+Indonesia,ID,IDN,360,National,5,Flush and pour flush - to elsewhere,0.0,SUSENAS - SUS09
+Indonesia,ID,IDN,360,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,SUSENAS - SUS09
+Indonesia,ID,IDN,360,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,SUSENAS - SUS09
+Indonesia,ID,IDN,360,National,8,Dry latrines - Traditional latrine,0.108,SUSENAS - SUS09
+Indonesia,ID,IDN,360,National,8,Dry latrines - Traditional latrine,0.108,SUSENAS - SUS09
+Indonesia,ID,IDN,360,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,SUSENAS - SUS09
+Indonesia,ID,IDN,360,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,SUSENAS - SUS09
+Indonesia,ID,IDN,360,National,11,Dry latrines - Bucket latrine,0.0,SUSENAS - SUS09
+Indonesia,ID,IDN,360,National,12,Dry latrines - Other,0.0,SUSENAS - SUS09
+Indonesia,ID,IDN,360,National,13,Composting toilets,0.0,SUSENAS - SUS09
+Indonesia,ID,IDN,360,National,14,Other improved,0.0,SUSENAS - SUS09
+Indonesia,ID,IDN,360,National,15,"No facility, bush, field",0.206,SUSENAS - SUS09
+Indonesia,ID,IDN,360,National,16,Other unimproved,0.0,SUSENAS - SUS09
+Indonesia,ID,IDN,360,National,17,DK/missing information,0.0,SUSENAS - SUS09
+Indonesia,ID,IDN,360,Urban,1,Flush and pour flush - to piped sewer system,0.0,SUSENAS - SUS10
+Indonesia,ID,IDN,360,Urban,2,Flush and pour flush - to septic tank,0.0,SUSENAS - SUS10
+Indonesia,ID,IDN,360,Urban,3,Flush and pour flush - to pit,0.0,SUSENAS - SUS10
+Indonesia,ID,IDN,360,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,SUSENAS - SUS10
+Indonesia,ID,IDN,360,Urban,5,Flush and pour flush - to elsewhere,0.0,SUSENAS - SUS10
+Indonesia,ID,IDN,360,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,SUSENAS - SUS10
+Indonesia,ID,IDN,360,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,SUSENAS - SUS10
+Indonesia,ID,IDN,360,Urban,8,Dry latrines - Traditional latrine,0.039,SUSENAS - SUS10
+Indonesia,ID,IDN,360,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,SUSENAS - SUS10
+Indonesia,ID,IDN,360,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,SUSENAS - SUS10
+Indonesia,ID,IDN,360,Urban,11,Dry latrines - Bucket latrine,0.0,SUSENAS - SUS10
+Indonesia,ID,IDN,360,Urban,12,Dry latrines - Other,0.0,SUSENAS - SUS10
+Indonesia,ID,IDN,360,Urban,13,Composting toilets,0.0,SUSENAS - SUS10
+Indonesia,ID,IDN,360,Urban,14,Other improved,0.0,SUSENAS - SUS10
+Indonesia,ID,IDN,360,Urban,15,"No facility, bush, field",0.092,SUSENAS - SUS10
+Indonesia,ID,IDN,360,Urban,16,Other unimproved,0.0,SUSENAS - SUS10
+Indonesia,ID,IDN,360,Urban,17,DK/missing information,0.0,SUSENAS - SUS10
+Indonesia,ID,IDN,360,Rural,1,Flush and pour flush - to piped sewer system,0.0,SUSENAS - SUS10
+Indonesia,ID,IDN,360,Rural,2,Flush and pour flush - to septic tank,0.0,SUSENAS - SUS10
+Indonesia,ID,IDN,360,Rural,3,Flush and pour flush - to pit,0.0,SUSENAS - SUS10
+Indonesia,ID,IDN,360,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,SUSENAS - SUS10
+Indonesia,ID,IDN,360,Rural,5,Flush and pour flush - to elsewhere,0.0,SUSENAS - SUS10
+Indonesia,ID,IDN,360,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,SUSENAS - SUS10
+Indonesia,ID,IDN,360,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,SUSENAS - SUS10
+Indonesia,ID,IDN,360,Rural,8,Dry latrines - Traditional latrine,0.16,SUSENAS - SUS10
+Indonesia,ID,IDN,360,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,SUSENAS - SUS10
+Indonesia,ID,IDN,360,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,SUSENAS - SUS10
+Indonesia,ID,IDN,360,Rural,11,Dry latrines - Bucket latrine,0.0,SUSENAS - SUS10
+Indonesia,ID,IDN,360,Rural,12,Dry latrines - Other,0.0,SUSENAS - SUS10
+Indonesia,ID,IDN,360,Rural,13,Composting toilets,0.0,SUSENAS - SUS10
+Indonesia,ID,IDN,360,Rural,14,Other improved,0.0,SUSENAS - SUS10
+Indonesia,ID,IDN,360,Rural,15,"No facility, bush, field",0.313,SUSENAS - SUS10
+Indonesia,ID,IDN,360,Rural,16,Other unimproved,0.0,SUSENAS - SUS10
+Indonesia,ID,IDN,360,Rural,17,DK/missing information,0.0,SUSENAS - SUS10
+Indonesia,ID,IDN,360,National,1,Flush and pour flush - to piped sewer system,0.0,SUSENAS - SUS10
+Indonesia,ID,IDN,360,National,2,Flush and pour flush - to septic tank,0.0,SUSENAS - SUS10
+Indonesia,ID,IDN,360,National,3,Flush and pour flush - to pit,0.0,SUSENAS - SUS10
+Indonesia,ID,IDN,360,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,SUSENAS - SUS10
+Indonesia,ID,IDN,360,National,5,Flush and pour flush - to elsewhere,0.0,SUSENAS - SUS10
+Indonesia,ID,IDN,360,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,SUSENAS - SUS10
+Indonesia,ID,IDN,360,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,SUSENAS - SUS10
+Indonesia,ID,IDN,360,National,8,Dry latrines - Traditional latrine,0.1,SUSENAS - SUS10
+Indonesia,ID,IDN,360,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,SUSENAS - SUS10
+Indonesia,ID,IDN,360,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,SUSENAS - SUS10
+Indonesia,ID,IDN,360,National,11,Dry latrines - Bucket latrine,0.0,SUSENAS - SUS10
+Indonesia,ID,IDN,360,National,12,Dry latrines - Other,0.0,SUSENAS - SUS10
+Indonesia,ID,IDN,360,National,13,Composting toilets,0.0,SUSENAS - SUS10
+Indonesia,ID,IDN,360,National,14,Other improved,0.0,SUSENAS - SUS10
+Indonesia,ID,IDN,360,National,15,"No facility, bush, field",0.203,SUSENAS - SUS10
+Indonesia,ID,IDN,360,National,16,Other unimproved,0.0,SUSENAS - SUS10
+Indonesia,ID,IDN,360,National,17,DK/missing information,0.0,SUSENAS - SUS10
+Indonesia,ID,IDN,360,Urban,1,Flush and pour flush - to piped sewer system,0.0,"Riskesda 2010 Basic Health Research, MoH - RISK10"
+Indonesia,ID,IDN,360,Urban,2,Flush and pour flush - to septic tank,0.0,"Riskesda 2010 Basic Health Research, MoH - RISK10"
+Indonesia,ID,IDN,360,Urban,3,Flush and pour flush - to pit,0.0,"Riskesda 2010 Basic Health Research, MoH - RISK10"
+Indonesia,ID,IDN,360,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Riskesda 2010 Basic Health Research, MoH - RISK10"
+Indonesia,ID,IDN,360,Urban,5,Flush and pour flush - to elsewhere,0.0,"Riskesda 2010 Basic Health Research, MoH - RISK10"
+Indonesia,ID,IDN,360,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Riskesda 2010 Basic Health Research, MoH - RISK10"
+Indonesia,ID,IDN,360,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Riskesda 2010 Basic Health Research, MoH - RISK10"
+Indonesia,ID,IDN,360,Urban,8,Dry latrines - Traditional latrine,0.055,"Riskesda 2010 Basic Health Research, MoH - RISK10"
+Indonesia,ID,IDN,360,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Riskesda 2010 Basic Health Research, MoH - RISK10"
+Indonesia,ID,IDN,360,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Riskesda 2010 Basic Health Research, MoH - RISK10"
+Indonesia,ID,IDN,360,Urban,11,Dry latrines - Bucket latrine,0.0,"Riskesda 2010 Basic Health Research, MoH - RISK10"
+Indonesia,ID,IDN,360,Urban,12,Dry latrines - Other,0.0,"Riskesda 2010 Basic Health Research, MoH - RISK10"
+Indonesia,ID,IDN,360,Urban,13,Composting toilets,0.0,"Riskesda 2010 Basic Health Research, MoH - RISK10"
+Indonesia,ID,IDN,360,Urban,14,Other improved,0.0,"Riskesda 2010 Basic Health Research, MoH - RISK10"
+Indonesia,ID,IDN,360,Urban,15,"No facility, bush, field",0.079,"Riskesda 2010 Basic Health Research, MoH - RISK10"
+Indonesia,ID,IDN,360,Urban,16,Other unimproved,0.099,"Riskesda 2010 Basic Health Research, MoH - RISK10"
+Indonesia,ID,IDN,360,Urban,17,DK/missing information,0.0,"Riskesda 2010 Basic Health Research, MoH - RISK10"
+Indonesia,ID,IDN,360,Rural,1,Flush and pour flush - to piped sewer system,0.0,"Riskesda 2010 Basic Health Research, MoH - RISK10"
+Indonesia,ID,IDN,360,Rural,2,Flush and pour flush - to septic tank,0.0,"Riskesda 2010 Basic Health Research, MoH - RISK10"
+Indonesia,ID,IDN,360,Rural,3,Flush and pour flush - to pit,0.0,"Riskesda 2010 Basic Health Research, MoH - RISK10"
+Indonesia,ID,IDN,360,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Riskesda 2010 Basic Health Research, MoH - RISK10"
+Indonesia,ID,IDN,360,Rural,5,Flush and pour flush - to elsewhere,0.0,"Riskesda 2010 Basic Health Research, MoH - RISK10"
+Indonesia,ID,IDN,360,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Riskesda 2010 Basic Health Research, MoH - RISK10"
+Indonesia,ID,IDN,360,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Riskesda 2010 Basic Health Research, MoH - RISK10"
+Indonesia,ID,IDN,360,Rural,8,Dry latrines - Traditional latrine,0.191,"Riskesda 2010 Basic Health Research, MoH - RISK10"
+Indonesia,ID,IDN,360,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Riskesda 2010 Basic Health Research, MoH - RISK10"
+Indonesia,ID,IDN,360,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Riskesda 2010 Basic Health Research, MoH - RISK10"
+Indonesia,ID,IDN,360,Rural,11,Dry latrines - Bucket latrine,0.0,"Riskesda 2010 Basic Health Research, MoH - RISK10"
+Indonesia,ID,IDN,360,Rural,12,Dry latrines - Other,0.0,"Riskesda 2010 Basic Health Research, MoH - RISK10"
+Indonesia,ID,IDN,360,Rural,13,Composting toilets,0.0,"Riskesda 2010 Basic Health Research, MoH - RISK10"
+Indonesia,ID,IDN,360,Rural,14,Other improved,0.0,"Riskesda 2010 Basic Health Research, MoH - RISK10"
+Indonesia,ID,IDN,360,Rural,15,"No facility, bush, field",0.275,"Riskesda 2010 Basic Health Research, MoH - RISK10"
+Indonesia,ID,IDN,360,Rural,16,Other unimproved,0.242,"Riskesda 2010 Basic Health Research, MoH - RISK10"
+Indonesia,ID,IDN,360,Rural,17,DK/missing information,0.0,"Riskesda 2010 Basic Health Research, MoH - RISK10"
+Indonesia,ID,IDN,360,National,1,Flush and pour flush - to piped sewer system,0.0,"Riskesda 2010 Basic Health Research, MoH - RISK10"
+Indonesia,ID,IDN,360,National,2,Flush and pour flush - to septic tank,0.0,"Riskesda 2010 Basic Health Research, MoH - RISK10"
+Indonesia,ID,IDN,360,National,3,Flush and pour flush - to pit,0.0,"Riskesda 2010 Basic Health Research, MoH - RISK10"
+Indonesia,ID,IDN,360,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,"Riskesda 2010 Basic Health Research, MoH - RISK10"
+Indonesia,ID,IDN,360,National,5,Flush and pour flush - to elsewhere,0.0,"Riskesda 2010 Basic Health Research, MoH - RISK10"
+Indonesia,ID,IDN,360,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,"Riskesda 2010 Basic Health Research, MoH - RISK10"
+Indonesia,ID,IDN,360,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,"Riskesda 2010 Basic Health Research, MoH - RISK10"
+Indonesia,ID,IDN,360,National,8,Dry latrines - Traditional latrine,0.121,"Riskesda 2010 Basic Health Research, MoH - RISK10"
+Indonesia,ID,IDN,360,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,"Riskesda 2010 Basic Health Research, MoH - RISK10"
+Indonesia,ID,IDN,360,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,"Riskesda 2010 Basic Health Research, MoH - RISK10"
+Indonesia,ID,IDN,360,National,11,Dry latrines - Bucket latrine,0.0,"Riskesda 2010 Basic Health Research, MoH - RISK10"
+Indonesia,ID,IDN,360,National,12,Dry latrines - Other,0.0,"Riskesda 2010 Basic Health Research, MoH - RISK10"
+Indonesia,ID,IDN,360,National,13,Composting toilets,0.0,"Riskesda 2010 Basic Health Research, MoH - RISK10"
+Indonesia,ID,IDN,360,National,14,Other improved,0.0,"Riskesda 2010 Basic Health Research, MoH - RISK10"
+Indonesia,ID,IDN,360,National,15,"No facility, bush, field",0.178,"Riskesda 2010 Basic Health Research, MoH - RISK10"
+Indonesia,ID,IDN,360,National,16,Other unimproved,0.171,"Riskesda 2010 Basic Health Research, MoH - RISK10"
+Indonesia,ID,IDN,360,National,17,DK/missing information,0.0,"Riskesda 2010 Basic Health Research, MoH - RISK10"
+Indonesia,ID,IDN,360,Urban,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS12
+Indonesia,ID,IDN,360,Urban,2,Flush and pour flush - to septic tank,0.734,Demographic and Health Survey - DHS12
+Indonesia,ID,IDN,360,Urban,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS12
+Indonesia,ID,IDN,360,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS12
+Indonesia,ID,IDN,360,Urban,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS12
+Indonesia,ID,IDN,360,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - DHS12
+Indonesia,ID,IDN,360,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS12
+Indonesia,ID,IDN,360,Urban,8,Dry latrines - Traditional latrine,0.012,Demographic and Health Survey - DHS12
+Indonesia,ID,IDN,360,Urban,8,Dry latrines - Traditional latrine,0.082,Demographic and Health Survey - DHS12
+Indonesia,ID,IDN,360,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Survey - DHS12
+Indonesia,ID,IDN,360,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS12
+Indonesia,ID,IDN,360,Urban,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS12
+Indonesia,ID,IDN,360,Urban,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS12
+Indonesia,ID,IDN,360,Urban,13,Composting toilets,0.0,Demographic and Health Survey - DHS12
+Indonesia,ID,IDN,360,Urban,14,Other improved,0.0,Demographic and Health Survey - DHS12
+Indonesia,ID,IDN,360,Urban,15,"No facility, bush, field",0.082,Demographic and Health Survey - DHS12
+Indonesia,ID,IDN,360,Urban,16,Other unimproved,0.012,Demographic and Health Survey - DHS12
+Indonesia,ID,IDN,360,Urban,17,DK/missing information,0.0,Demographic and Health Survey - DHS12
+Indonesia,ID,IDN,360,Rural,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS12
+Indonesia,ID,IDN,360,Rural,2,Flush and pour flush - to septic tank,0.486,Demographic and Health Survey - DHS12
+Indonesia,ID,IDN,360,Rural,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS12
+Indonesia,ID,IDN,360,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS12
+Indonesia,ID,IDN,360,Rural,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS12
+Indonesia,ID,IDN,360,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - DHS12
+Indonesia,ID,IDN,360,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS12
+Indonesia,ID,IDN,360,Rural,8,Dry latrines - Traditional latrine,0.091,Demographic and Health Survey - DHS12
+Indonesia,ID,IDN,360,Rural,8,Dry latrines - Traditional latrine,0.084,Demographic and Health Survey - DHS12
+Indonesia,ID,IDN,360,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Survey - DHS12
+Indonesia,ID,IDN,360,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS12
+Indonesia,ID,IDN,360,Rural,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS12
+Indonesia,ID,IDN,360,Rural,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS12
+Indonesia,ID,IDN,360,Rural,13,Composting toilets,0.0,Demographic and Health Survey - DHS12
+Indonesia,ID,IDN,360,Rural,14,Other improved,0.0,Demographic and Health Survey - DHS12
+Indonesia,ID,IDN,360,Rural,15,"No facility, bush, field",0.219,Demographic and Health Survey - DHS12
+Indonesia,ID,IDN,360,Rural,16,Other unimproved,0.03,Demographic and Health Survey - DHS12
+Indonesia,ID,IDN,360,Rural,17,DK/missing information,0.0,Demographic and Health Survey - DHS12
+Indonesia,ID,IDN,360,National,1,Flush and pour flush - to piped sewer system,0.0,Demographic and Health Survey - DHS12
+Indonesia,ID,IDN,360,National,2,Flush and pour flush - to septic tank,0.61,Demographic and Health Survey - DHS12
+Indonesia,ID,IDN,360,National,3,Flush and pour flush - to pit,0.0,Demographic and Health Survey - DHS12
+Indonesia,ID,IDN,360,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Demographic and Health Survey - DHS12
+Indonesia,ID,IDN,360,National,5,Flush and pour flush - to elsewhere,0.0,Demographic and Health Survey - DHS12
+Indonesia,ID,IDN,360,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Demographic and Health Survey - DHS12
+Indonesia,ID,IDN,360,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Demographic and Health Survey - DHS12
+Indonesia,ID,IDN,360,National,8,Dry latrines - Traditional latrine,0.052,Demographic and Health Survey - DHS12
+Indonesia,ID,IDN,360,National,8,Dry latrines - Traditional latrine,0.083,Demographic and Health Survey - DHS12
+Indonesia,ID,IDN,360,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Demographic and Health Survey - DHS12
+Indonesia,ID,IDN,360,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Demographic and Health Survey - DHS12
+Indonesia,ID,IDN,360,National,11,Dry latrines - Bucket latrine,0.0,Demographic and Health Survey - DHS12
+Indonesia,ID,IDN,360,National,12,Dry latrines - Other,0.0,Demographic and Health Survey - DHS12
+Indonesia,ID,IDN,360,National,13,Composting toilets,0.0,Demographic and Health Survey - DHS12
+Indonesia,ID,IDN,360,National,14,Other improved,0.0,Demographic and Health Survey - DHS12
+Indonesia,ID,IDN,360,National,15,"No facility, bush, field",0.151,Demographic and Health Survey - DHS12
+Indonesia,ID,IDN,360,National,16,Other unimproved,0.021,Demographic and Health Survey - DHS12
+Indonesia,ID,IDN,360,National,17,DK/missing information,0.0,Demographic and Health Survey - DHS12
+Indonesia,ID,IDN,360,Urban,1,Flush and pour flush - to piped sewer system,0.0,National Socio-Economic Survey - SUS13
+Indonesia,ID,IDN,360,Urban,2,Flush and pour flush - to septic tank,0.0,National Socio-Economic Survey - SUS13
+Indonesia,ID,IDN,360,Urban,3,Flush and pour flush - to pit,0.0,National Socio-Economic Survey - SUS13
+Indonesia,ID,IDN,360,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Socio-Economic Survey - SUS13
+Indonesia,ID,IDN,360,Urban,5,Flush and pour flush - to elsewhere,0.0,National Socio-Economic Survey - SUS13
+Indonesia,ID,IDN,360,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,National Socio-Economic Survey - SUS13
+Indonesia,ID,IDN,360,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Socio-Economic Survey - SUS13
+Indonesia,ID,IDN,360,Urban,8,Dry latrines - Traditional latrine,0.026,National Socio-Economic Survey - SUS13
+Indonesia,ID,IDN,360,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Socio-Economic Survey - SUS13
+Indonesia,ID,IDN,360,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Socio-Economic Survey - SUS13
+Indonesia,ID,IDN,360,Urban,11,Dry latrines - Bucket latrine,0.0,National Socio-Economic Survey - SUS13
+Indonesia,ID,IDN,360,Urban,12,Dry latrines - Other,0.0,National Socio-Economic Survey - SUS13
+Indonesia,ID,IDN,360,Urban,13,Composting toilets,0.0,National Socio-Economic Survey - SUS13
+Indonesia,ID,IDN,360,Urban,14,Other improved,0.0,National Socio-Economic Survey - SUS13
+Indonesia,ID,IDN,360,Urban,15,"No facility, bush, field",0.069,National Socio-Economic Survey - SUS13
+Indonesia,ID,IDN,360,Urban,16,Other unimproved,0.0,National Socio-Economic Survey - SUS13
+Indonesia,ID,IDN,360,Urban,17,DK/missing information,0.0,National Socio-Economic Survey - SUS13
+Indonesia,ID,IDN,360,Rural,1,Flush and pour flush - to piped sewer system,0.0,National Socio-Economic Survey - SUS13
+Indonesia,ID,IDN,360,Rural,2,Flush and pour flush - to septic tank,0.0,National Socio-Economic Survey - SUS13
+Indonesia,ID,IDN,360,Rural,3,Flush and pour flush - to pit,0.0,National Socio-Economic Survey - SUS13
+Indonesia,ID,IDN,360,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Socio-Economic Survey - SUS13
+Indonesia,ID,IDN,360,Rural,5,Flush and pour flush - to elsewhere,0.0,National Socio-Economic Survey - SUS13
+Indonesia,ID,IDN,360,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,National Socio-Economic Survey - SUS13
+Indonesia,ID,IDN,360,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Socio-Economic Survey - SUS13
+Indonesia,ID,IDN,360,Rural,8,Dry latrines - Traditional latrine,0.129,National Socio-Economic Survey - SUS13
+Indonesia,ID,IDN,360,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Socio-Economic Survey - SUS13
+Indonesia,ID,IDN,360,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Socio-Economic Survey - SUS13
+Indonesia,ID,IDN,360,Rural,11,Dry latrines - Bucket latrine,0.0,National Socio-Economic Survey - SUS13
+Indonesia,ID,IDN,360,Rural,12,Dry latrines - Other,0.0,National Socio-Economic Survey - SUS13
+Indonesia,ID,IDN,360,Rural,13,Composting toilets,0.0,National Socio-Economic Survey - SUS13
+Indonesia,ID,IDN,360,Rural,14,Other improved,0.0,National Socio-Economic Survey - SUS13
+Indonesia,ID,IDN,360,Rural,15,"No facility, bush, field",0.255,National Socio-Economic Survey - SUS13
+Indonesia,ID,IDN,360,Rural,16,Other unimproved,0.0,National Socio-Economic Survey - SUS13
+Indonesia,ID,IDN,360,Rural,17,DK/missing information,0.0,National Socio-Economic Survey - SUS13
+Indonesia,ID,IDN,360,National,1,Flush and pour flush - to piped sewer system,0.0,National Socio-Economic Survey - SUS13
+Indonesia,ID,IDN,360,National,2,Flush and pour flush - to septic tank,0.0,National Socio-Economic Survey - SUS13
+Indonesia,ID,IDN,360,National,3,Flush and pour flush - to pit,0.0,National Socio-Economic Survey - SUS13
+Indonesia,ID,IDN,360,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Socio-Economic Survey - SUS13
+Indonesia,ID,IDN,360,National,5,Flush and pour flush - to elsewhere,0.0,National Socio-Economic Survey - SUS13
+Indonesia,ID,IDN,360,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,National Socio-Economic Survey - SUS13
+Indonesia,ID,IDN,360,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Socio-Economic Survey - SUS13
+Indonesia,ID,IDN,360,National,8,Dry latrines - Traditional latrine,0.078,National Socio-Economic Survey - SUS13
+Indonesia,ID,IDN,360,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Socio-Economic Survey - SUS13
+Indonesia,ID,IDN,360,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Socio-Economic Survey - SUS13
+Indonesia,ID,IDN,360,National,11,Dry latrines - Bucket latrine,0.0,National Socio-Economic Survey - SUS13
+Indonesia,ID,IDN,360,National,12,Dry latrines - Other,0.0,National Socio-Economic Survey - SUS13
+Indonesia,ID,IDN,360,National,13,Composting toilets,0.0,National Socio-Economic Survey - SUS13
+Indonesia,ID,IDN,360,National,14,Other improved,0.0,National Socio-Economic Survey - SUS13
+Indonesia,ID,IDN,360,National,15,"No facility, bush, field",0.162,National Socio-Economic Survey - SUS13
+Indonesia,ID,IDN,360,National,16,Other unimproved,0.0,National Socio-Economic Survey - SUS13
+Indonesia,ID,IDN,360,National,17,DK/missing information,0.0,National Socio-Economic Survey - SUS13
+Indonesia,ID,IDN,360,Urban,1,Flush and pour flush - to piped sewer system,0.0,Riset Kesehatan Dasar (Riskesdas) - RISK13
+Indonesia,ID,IDN,360,Urban,2,Flush and pour flush - to septic tank,0.0,Riset Kesehatan Dasar (Riskesdas) - RISK13
+Indonesia,ID,IDN,360,Urban,3,Flush and pour flush - to pit,0.0,Riset Kesehatan Dasar (Riskesdas) - RISK13
+Indonesia,ID,IDN,360,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Riset Kesehatan Dasar (Riskesdas) - RISK13
+Indonesia,ID,IDN,360,Urban,5,Flush and pour flush - to elsewhere,0.0,Riset Kesehatan Dasar (Riskesdas) - RISK13
+Indonesia,ID,IDN,360,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Riset Kesehatan Dasar (Riskesdas) - RISK13
+Indonesia,ID,IDN,360,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.013,Riset Kesehatan Dasar (Riskesdas) - RISK13
+Indonesia,ID,IDN,360,Urban,8,Dry latrines - Traditional latrine,0.0,Riset Kesehatan Dasar (Riskesdas) - RISK13
+Indonesia,ID,IDN,360,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.024,Riset Kesehatan Dasar (Riskesdas) - RISK13
+Indonesia,ID,IDN,360,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Riset Kesehatan Dasar (Riskesdas) - RISK13
+Indonesia,ID,IDN,360,Urban,11,Dry latrines - Bucket latrine,0.0,Riset Kesehatan Dasar (Riskesdas) - RISK13
+Indonesia,ID,IDN,360,Urban,12,Dry latrines - Other,0.0,Riset Kesehatan Dasar (Riskesdas) - RISK13
+Indonesia,ID,IDN,360,Urban,13,Composting toilets,0.0,Riset Kesehatan Dasar (Riskesdas) - RISK13
+Indonesia,ID,IDN,360,Urban,14,Other improved,0.0,Riset Kesehatan Dasar (Riskesdas) - RISK13
+Indonesia,ID,IDN,360,Urban,15,"No facility, bush, field",0.051,Riset Kesehatan Dasar (Riskesdas) - RISK13
+Indonesia,ID,IDN,360,Urban,16,Other unimproved,0.0,Riset Kesehatan Dasar (Riskesdas) - RISK13
+Indonesia,ID,IDN,360,Urban,17,DK/missing information,0.0,Riset Kesehatan Dasar (Riskesdas) - RISK13
+Indonesia,ID,IDN,360,Rural,1,Flush and pour flush - to piped sewer system,0.0,Riset Kesehatan Dasar (Riskesdas) - RISK13
+Indonesia,ID,IDN,360,Rural,2,Flush and pour flush - to septic tank,0.0,Riset Kesehatan Dasar (Riskesdas) - RISK13
+Indonesia,ID,IDN,360,Rural,3,Flush and pour flush - to pit,0.0,Riset Kesehatan Dasar (Riskesdas) - RISK13
+Indonesia,ID,IDN,360,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Riset Kesehatan Dasar (Riskesdas) - RISK13
+Indonesia,ID,IDN,360,Rural,5,Flush and pour flush - to elsewhere,0.0,Riset Kesehatan Dasar (Riskesdas) - RISK13
+Indonesia,ID,IDN,360,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Riset Kesehatan Dasar (Riskesdas) - RISK13
+Indonesia,ID,IDN,360,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.051,Riset Kesehatan Dasar (Riskesdas) - RISK13
+Indonesia,ID,IDN,360,Rural,8,Dry latrines - Traditional latrine,0.0,Riset Kesehatan Dasar (Riskesdas) - RISK13
+Indonesia,ID,IDN,360,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.101,Riset Kesehatan Dasar (Riskesdas) - RISK13
+Indonesia,ID,IDN,360,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Riset Kesehatan Dasar (Riskesdas) - RISK13
+Indonesia,ID,IDN,360,Rural,11,Dry latrines - Bucket latrine,0.0,Riset Kesehatan Dasar (Riskesdas) - RISK13
+Indonesia,ID,IDN,360,Rural,12,Dry latrines - Other,0.0,Riset Kesehatan Dasar (Riskesdas) - RISK13
+Indonesia,ID,IDN,360,Rural,13,Composting toilets,0.0,Riset Kesehatan Dasar (Riskesdas) - RISK13
+Indonesia,ID,IDN,360,Rural,14,Other improved,0.0,Riset Kesehatan Dasar (Riskesdas) - RISK13
+Indonesia,ID,IDN,360,Rural,15,"No facility, bush, field",0.208,Riset Kesehatan Dasar (Riskesdas) - RISK13
+Indonesia,ID,IDN,360,Rural,16,Other unimproved,0.0,Riset Kesehatan Dasar (Riskesdas) - RISK13
+Indonesia,ID,IDN,360,Rural,17,DK/missing information,0.0,Riset Kesehatan Dasar (Riskesdas) - RISK13
+Indonesia,ID,IDN,360,National,1,Flush and pour flush - to piped sewer system,0.0,Riset Kesehatan Dasar (Riskesdas) - RISK13
+Indonesia,ID,IDN,360,National,2,Flush and pour flush - to septic tank,0.0,Riset Kesehatan Dasar (Riskesdas) - RISK13
+Indonesia,ID,IDN,360,National,3,Flush and pour flush - to pit,0.0,Riset Kesehatan Dasar (Riskesdas) - RISK13
+Indonesia,ID,IDN,360,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Riset Kesehatan Dasar (Riskesdas) - RISK13
+Indonesia,ID,IDN,360,National,5,Flush and pour flush - to elsewhere,0.0,Riset Kesehatan Dasar (Riskesdas) - RISK13
+Indonesia,ID,IDN,360,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Riset Kesehatan Dasar (Riskesdas) - RISK13
+Indonesia,ID,IDN,360,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.032,Riset Kesehatan Dasar (Riskesdas) - RISK13
+Indonesia,ID,IDN,360,National,8,Dry latrines - Traditional latrine,0.0,Riset Kesehatan Dasar (Riskesdas) - RISK13
+Indonesia,ID,IDN,360,National,9,Dry latrines - Pit latrine without slab/open pit,0.063,Riset Kesehatan Dasar (Riskesdas) - RISK13
+Indonesia,ID,IDN,360,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Riset Kesehatan Dasar (Riskesdas) - RISK13
+Indonesia,ID,IDN,360,National,11,Dry latrines - Bucket latrine,0.0,Riset Kesehatan Dasar (Riskesdas) - RISK13
+Indonesia,ID,IDN,360,National,12,Dry latrines - Other,0.0,Riset Kesehatan Dasar (Riskesdas) - RISK13
+Indonesia,ID,IDN,360,National,13,Composting toilets,0.0,Riset Kesehatan Dasar (Riskesdas) - RISK13
+Indonesia,ID,IDN,360,National,14,Other improved,0.0,Riset Kesehatan Dasar (Riskesdas) - RISK13
+Indonesia,ID,IDN,360,National,15,"No facility, bush, field",0.129,Riset Kesehatan Dasar (Riskesdas) - RISK13
+Indonesia,ID,IDN,360,National,16,Other unimproved,0.0,Riset Kesehatan Dasar (Riskesdas) - RISK13
+Indonesia,ID,IDN,360,National,17,DK/missing information,0.0,Riset Kesehatan Dasar (Riskesdas) - RISK13
+Indonesia,ID,IDN,360,Urban,1,Flush and pour flush - to piped sewer system,0.001,Indonesia Family Life Survey - IFLS15
+Indonesia,ID,IDN,360,Urban,2,Flush and pour flush - to septic tank,0.0,Indonesia Family Life Survey - IFLS15
+Indonesia,ID,IDN,360,Urban,3,Flush and pour flush - to pit,0.0,Indonesia Family Life Survey - IFLS15
+Indonesia,ID,IDN,360,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Indonesia Family Life Survey - IFLS15
+Indonesia,ID,IDN,360,Urban,5,Flush and pour flush - to elsewhere,0.0,Indonesia Family Life Survey - IFLS15
+Indonesia,ID,IDN,360,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Indonesia Family Life Survey - IFLS15
+Indonesia,ID,IDN,360,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Indonesia Family Life Survey - IFLS15
+Indonesia,ID,IDN,360,Urban,8,Dry latrines - Traditional latrine,0.0,Indonesia Family Life Survey - IFLS15
+Indonesia,ID,IDN,360,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Indonesia Family Life Survey - IFLS15
+Indonesia,ID,IDN,360,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Indonesia Family Life Survey - IFLS15
+Indonesia,ID,IDN,360,Urban,11,Dry latrines - Bucket latrine,0.0,Indonesia Family Life Survey - IFLS15
+Indonesia,ID,IDN,360,Urban,12,Dry latrines - Other,0.0,Indonesia Family Life Survey - IFLS15
+Indonesia,ID,IDN,360,Urban,13,Composting toilets,0.0,Indonesia Family Life Survey - IFLS15
+Indonesia,ID,IDN,360,Urban,14,Other improved,0.0,Indonesia Family Life Survey - IFLS15
+Indonesia,ID,IDN,360,Urban,15,"No facility, bush, field",0.038,Indonesia Family Life Survey - IFLS15
+Indonesia,ID,IDN,360,Urban,16,Other unimproved,0.005,Indonesia Family Life Survey - IFLS15
+Indonesia,ID,IDN,360,Urban,17,DK/missing information,0.0,Indonesia Family Life Survey - IFLS15
+Indonesia,ID,IDN,360,Rural,1,Flush and pour flush - to piped sewer system,0.002,Indonesia Family Life Survey - IFLS15
+Indonesia,ID,IDN,360,Rural,2,Flush and pour flush - to septic tank,0.0,Indonesia Family Life Survey - IFLS15
+Indonesia,ID,IDN,360,Rural,3,Flush and pour flush - to pit,0.0,Indonesia Family Life Survey - IFLS15
+Indonesia,ID,IDN,360,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Indonesia Family Life Survey - IFLS15
+Indonesia,ID,IDN,360,Rural,5,Flush and pour flush - to elsewhere,0.0,Indonesia Family Life Survey - IFLS15
+Indonesia,ID,IDN,360,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Indonesia Family Life Survey - IFLS15
+Indonesia,ID,IDN,360,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Indonesia Family Life Survey - IFLS15
+Indonesia,ID,IDN,360,Rural,8,Dry latrines - Traditional latrine,0.0,Indonesia Family Life Survey - IFLS15
+Indonesia,ID,IDN,360,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Indonesia Family Life Survey - IFLS15
+Indonesia,ID,IDN,360,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Indonesia Family Life Survey - IFLS15
+Indonesia,ID,IDN,360,Rural,11,Dry latrines - Bucket latrine,0.0,Indonesia Family Life Survey - IFLS15
+Indonesia,ID,IDN,360,Rural,12,Dry latrines - Other,0.0,Indonesia Family Life Survey - IFLS15
+Indonesia,ID,IDN,360,Rural,13,Composting toilets,0.0,Indonesia Family Life Survey - IFLS15
+Indonesia,ID,IDN,360,Rural,14,Other improved,0.0,Indonesia Family Life Survey - IFLS15
+Indonesia,ID,IDN,360,Rural,15,"No facility, bush, field",0.107,Indonesia Family Life Survey - IFLS15
+Indonesia,ID,IDN,360,Rural,16,Other unimproved,0.012,Indonesia Family Life Survey - IFLS15
+Indonesia,ID,IDN,360,Rural,17,DK/missing information,0.0,Indonesia Family Life Survey - IFLS15
+Indonesia,ID,IDN,360,National,1,Flush and pour flush - to piped sewer system,0.002,Indonesia Family Life Survey - IFLS15
+Indonesia,ID,IDN,360,National,2,Flush and pour flush - to septic tank,0.0,Indonesia Family Life Survey - IFLS15
+Indonesia,ID,IDN,360,National,3,Flush and pour flush - to pit,0.0,Indonesia Family Life Survey - IFLS15
+Indonesia,ID,IDN,360,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Indonesia Family Life Survey - IFLS15
+Indonesia,ID,IDN,360,National,5,Flush and pour flush - to elsewhere,0.0,Indonesia Family Life Survey - IFLS15
+Indonesia,ID,IDN,360,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Indonesia Family Life Survey - IFLS15
+Indonesia,ID,IDN,360,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Indonesia Family Life Survey - IFLS15
+Indonesia,ID,IDN,360,National,8,Dry latrines - Traditional latrine,0.0,Indonesia Family Life Survey - IFLS15
+Indonesia,ID,IDN,360,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Indonesia Family Life Survey - IFLS15
+Indonesia,ID,IDN,360,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Indonesia Family Life Survey - IFLS15
+Indonesia,ID,IDN,360,National,11,Dry latrines - Bucket latrine,0.0,Indonesia Family Life Survey - IFLS15
+Indonesia,ID,IDN,360,National,12,Dry latrines - Other,0.0,Indonesia Family Life Survey - IFLS15
+Indonesia,ID,IDN,360,National,13,Composting toilets,0.0,Indonesia Family Life Survey - IFLS15
+Indonesia,ID,IDN,360,National,14,Other improved,0.0,Indonesia Family Life Survey - IFLS15
+Indonesia,ID,IDN,360,National,15,"No facility, bush, field",0.085,Indonesia Family Life Survey - IFLS15
+Indonesia,ID,IDN,360,National,16,Other unimproved,0.01,Indonesia Family Life Survey - IFLS15
+Indonesia,ID,IDN,360,National,17,DK/missing information,0.0,Indonesia Family Life Survey - IFLS15
+Indonesia,ID,IDN,360,Urban,1,Flush and pour flush - to piped sewer system,0.0,National Socio-eocnomic survey - SUS15
+Indonesia,ID,IDN,360,Urban,2,Flush and pour flush - to septic tank,0.0,National Socio-eocnomic survey - SUS15
+Indonesia,ID,IDN,360,Urban,3,Flush and pour flush - to pit,0.0,National Socio-eocnomic survey - SUS15
+Indonesia,ID,IDN,360,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Socio-eocnomic survey - SUS15
+Indonesia,ID,IDN,360,Urban,5,Flush and pour flush - to elsewhere,0.0,National Socio-eocnomic survey - SUS15
+Indonesia,ID,IDN,360,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,National Socio-eocnomic survey - SUS15
+Indonesia,ID,IDN,360,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Socio-eocnomic survey - SUS15
+Indonesia,ID,IDN,360,Urban,8,Dry latrines - Traditional latrine,0.02,National Socio-eocnomic survey - SUS15
+Indonesia,ID,IDN,360,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Socio-eocnomic survey - SUS15
+Indonesia,ID,IDN,360,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Socio-eocnomic survey - SUS15
+Indonesia,ID,IDN,360,Urban,11,Dry latrines - Bucket latrine,0.0,National Socio-eocnomic survey - SUS15
+Indonesia,ID,IDN,360,Urban,12,Dry latrines - Other,0.0,National Socio-eocnomic survey - SUS15
+Indonesia,ID,IDN,360,Urban,13,Composting toilets,0.0,National Socio-eocnomic survey - SUS15
+Indonesia,ID,IDN,360,Urban,14,Other improved,0.0,National Socio-eocnomic survey - SUS15
+Indonesia,ID,IDN,360,Urban,15,"No facility, bush, field",0.054,National Socio-eocnomic survey - SUS15
+Indonesia,ID,IDN,360,Urban,16,Other unimproved,0.0,National Socio-eocnomic survey - SUS15
+Indonesia,ID,IDN,360,Urban,17,DK/missing information,0.0,National Socio-eocnomic survey - SUS15
+Indonesia,ID,IDN,360,Rural,1,Flush and pour flush - to piped sewer system,0.0,National Socio-eocnomic survey - SUS15
+Indonesia,ID,IDN,360,Rural,2,Flush and pour flush - to septic tank,0.0,National Socio-eocnomic survey - SUS15
+Indonesia,ID,IDN,360,Rural,3,Flush and pour flush - to pit,0.0,National Socio-eocnomic survey - SUS15
+Indonesia,ID,IDN,360,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Socio-eocnomic survey - SUS15
+Indonesia,ID,IDN,360,Rural,5,Flush and pour flush - to elsewhere,0.0,National Socio-eocnomic survey - SUS15
+Indonesia,ID,IDN,360,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,National Socio-eocnomic survey - SUS15
+Indonesia,ID,IDN,360,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Socio-eocnomic survey - SUS15
+Indonesia,ID,IDN,360,Rural,8,Dry latrines - Traditional latrine,0.107,National Socio-eocnomic survey - SUS15
+Indonesia,ID,IDN,360,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Socio-eocnomic survey - SUS15
+Indonesia,ID,IDN,360,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Socio-eocnomic survey - SUS15
+Indonesia,ID,IDN,360,Rural,11,Dry latrines - Bucket latrine,0.0,National Socio-eocnomic survey - SUS15
+Indonesia,ID,IDN,360,Rural,12,Dry latrines - Other,0.0,National Socio-eocnomic survey - SUS15
+Indonesia,ID,IDN,360,Rural,13,Composting toilets,0.0,National Socio-eocnomic survey - SUS15
+Indonesia,ID,IDN,360,Rural,14,Other improved,0.0,National Socio-eocnomic survey - SUS15
+Indonesia,ID,IDN,360,Rural,15,"No facility, bush, field",0.21,National Socio-eocnomic survey - SUS15
+Indonesia,ID,IDN,360,Rural,16,Other unimproved,0.0,National Socio-eocnomic survey - SUS15
+Indonesia,ID,IDN,360,Rural,17,DK/missing information,0.0,National Socio-eocnomic survey - SUS15
+Indonesia,ID,IDN,360,National,1,Flush and pour flush - to piped sewer system,0.0,National Socio-eocnomic survey - SUS15
+Indonesia,ID,IDN,360,National,2,Flush and pour flush - to septic tank,0.0,National Socio-eocnomic survey - SUS15
+Indonesia,ID,IDN,360,National,3,Flush and pour flush - to pit,0.0,National Socio-eocnomic survey - SUS15
+Indonesia,ID,IDN,360,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Socio-eocnomic survey - SUS15
+Indonesia,ID,IDN,360,National,5,Flush and pour flush - to elsewhere,0.0,National Socio-eocnomic survey - SUS15
+Indonesia,ID,IDN,360,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,National Socio-eocnomic survey - SUS15
+Indonesia,ID,IDN,360,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Socio-eocnomic survey - SUS15
+Indonesia,ID,IDN,360,National,8,Dry latrines - Traditional latrine,0.063,National Socio-eocnomic survey - SUS15
+Indonesia,ID,IDN,360,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Socio-eocnomic survey - SUS15
+Indonesia,ID,IDN,360,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Socio-eocnomic survey - SUS15
+Indonesia,ID,IDN,360,National,11,Dry latrines - Bucket latrine,0.0,National Socio-eocnomic survey - SUS15
+Indonesia,ID,IDN,360,National,12,Dry latrines - Other,0.0,National Socio-eocnomic survey - SUS15
+Indonesia,ID,IDN,360,National,13,Composting toilets,0.0,National Socio-eocnomic survey - SUS15
+Indonesia,ID,IDN,360,National,14,Other improved,0.0,National Socio-eocnomic survey - SUS15
+Indonesia,ID,IDN,360,National,15,"No facility, bush, field",0.132,National Socio-eocnomic survey - SUS15
+Indonesia,ID,IDN,360,National,16,Other unimproved,0.0,National Socio-eocnomic survey - SUS15
+Indonesia,ID,IDN,360,National,17,DK/missing information,0.0,National Socio-eocnomic survey - SUS15
+Indonesia,ID,IDN,360,Urban,1,Flush and pour flush - to piped sewer system,0.0,National Socio-eocnomic survey - SUS16
+Indonesia,ID,IDN,360,Urban,2,Flush and pour flush - to septic tank,0.0,National Socio-eocnomic survey - SUS16
+Indonesia,ID,IDN,360,Urban,3,Flush and pour flush - to pit,0.0,National Socio-eocnomic survey - SUS16
+Indonesia,ID,IDN,360,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Socio-eocnomic survey - SUS16
+Indonesia,ID,IDN,360,Urban,5,Flush and pour flush - to elsewhere,0.0,National Socio-eocnomic survey - SUS16
+Indonesia,ID,IDN,360,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,National Socio-eocnomic survey - SUS16
+Indonesia,ID,IDN,360,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Socio-eocnomic survey - SUS16
+Indonesia,ID,IDN,360,Urban,8,Dry latrines - Traditional latrine,0.017,National Socio-eocnomic survey - SUS16
+Indonesia,ID,IDN,360,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Socio-eocnomic survey - SUS16
+Indonesia,ID,IDN,360,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Socio-eocnomic survey - SUS16
+Indonesia,ID,IDN,360,Urban,11,Dry latrines - Bucket latrine,0.0,National Socio-eocnomic survey - SUS16
+Indonesia,ID,IDN,360,Urban,12,Dry latrines - Other,0.0,National Socio-eocnomic survey - SUS16
+Indonesia,ID,IDN,360,Urban,13,Composting toilets,0.0,National Socio-eocnomic survey - SUS16
+Indonesia,ID,IDN,360,Urban,14,Other improved,0.0,National Socio-eocnomic survey - SUS16
+Indonesia,ID,IDN,360,Urban,15,"No facility, bush, field",0.046,National Socio-eocnomic survey - SUS16
+Indonesia,ID,IDN,360,Urban,16,Other unimproved,0.0,National Socio-eocnomic survey - SUS16
+Indonesia,ID,IDN,360,Urban,17,DK/missing information,0.0,National Socio-eocnomic survey - SUS16
+Indonesia,ID,IDN,360,Rural,1,Flush and pour flush - to piped sewer system,0.0,National Socio-eocnomic survey - SUS16
+Indonesia,ID,IDN,360,Rural,2,Flush and pour flush - to septic tank,0.0,National Socio-eocnomic survey - SUS16
+Indonesia,ID,IDN,360,Rural,3,Flush and pour flush - to pit,0.0,National Socio-eocnomic survey - SUS16
+Indonesia,ID,IDN,360,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Socio-eocnomic survey - SUS16
+Indonesia,ID,IDN,360,Rural,5,Flush and pour flush - to elsewhere,0.0,National Socio-eocnomic survey - SUS16
+Indonesia,ID,IDN,360,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,National Socio-eocnomic survey - SUS16
+Indonesia,ID,IDN,360,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Socio-eocnomic survey - SUS16
+Indonesia,ID,IDN,360,Rural,8,Dry latrines - Traditional latrine,0.102,National Socio-eocnomic survey - SUS16
+Indonesia,ID,IDN,360,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Socio-eocnomic survey - SUS16
+Indonesia,ID,IDN,360,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Socio-eocnomic survey - SUS16
+Indonesia,ID,IDN,360,Rural,11,Dry latrines - Bucket latrine,0.0,National Socio-eocnomic survey - SUS16
+Indonesia,ID,IDN,360,Rural,12,Dry latrines - Other,0.0,National Socio-eocnomic survey - SUS16
+Indonesia,ID,IDN,360,Rural,13,Composting toilets,0.0,National Socio-eocnomic survey - SUS16
+Indonesia,ID,IDN,360,Rural,14,Other improved,0.0,National Socio-eocnomic survey - SUS16
+Indonesia,ID,IDN,360,Rural,15,"No facility, bush, field",0.179,National Socio-eocnomic survey - SUS16
+Indonesia,ID,IDN,360,Rural,16,Other unimproved,0.0,National Socio-eocnomic survey - SUS16
+Indonesia,ID,IDN,360,Rural,17,DK/missing information,0.0,National Socio-eocnomic survey - SUS16
+Indonesia,ID,IDN,360,National,1,Flush and pour flush - to piped sewer system,0.0,National Socio-eocnomic survey - SUS16
+Indonesia,ID,IDN,360,National,2,Flush and pour flush - to septic tank,0.0,National Socio-eocnomic survey - SUS16
+Indonesia,ID,IDN,360,National,3,Flush and pour flush - to pit,0.0,National Socio-eocnomic survey - SUS16
+Indonesia,ID,IDN,360,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Socio-eocnomic survey - SUS16
+Indonesia,ID,IDN,360,National,5,Flush and pour flush - to elsewhere,0.0,National Socio-eocnomic survey - SUS16
+Indonesia,ID,IDN,360,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,National Socio-eocnomic survey - SUS16
+Indonesia,ID,IDN,360,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Socio-eocnomic survey - SUS16
+Indonesia,ID,IDN,360,National,8,Dry latrines - Traditional latrine,0.059,National Socio-eocnomic survey - SUS16
+Indonesia,ID,IDN,360,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Socio-eocnomic survey - SUS16
+Indonesia,ID,IDN,360,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Socio-eocnomic survey - SUS16
+Indonesia,ID,IDN,360,National,11,Dry latrines - Bucket latrine,0.0,National Socio-eocnomic survey - SUS16
+Indonesia,ID,IDN,360,National,12,Dry latrines - Other,0.0,National Socio-eocnomic survey - SUS16
+Indonesia,ID,IDN,360,National,13,Composting toilets,0.0,National Socio-eocnomic survey - SUS16
+Indonesia,ID,IDN,360,National,14,Other improved,0.0,National Socio-eocnomic survey - SUS16
+Indonesia,ID,IDN,360,National,15,"No facility, bush, field",0.111,National Socio-eocnomic survey - SUS16
+Indonesia,ID,IDN,360,National,16,Other unimproved,0.0,National Socio-eocnomic survey - SUS16
+Indonesia,ID,IDN,360,National,17,DK/missing information,0.0,National Socio-eocnomic survey - SUS16
 Indonesia,ID,IDN,360,Urban,1,Flush and pour flush - to piped sewer system,0.095,Performance Monitoring and Accountability 2020  - PMA16
 Indonesia,ID,IDN,360,Urban,2,Flush and pour flush - to septic tank,0.792,Performance Monitoring and Accountability 2020  - PMA16
 Indonesia,ID,IDN,360,Urban,3,Flush and pour flush - to pit,0.0,Performance Monitoring and Accountability 2020  - PMA16
@@ -33,3 +915,329 @@ Indonesia,ID,IDN,360,Rural,14,Other improved,0.0,Performance Monitoring and Acco
 Indonesia,ID,IDN,360,Rural,15,"No facility, bush, field",0.135,Performance Monitoring and Accountability 2020  - PMA16
 Indonesia,ID,IDN,360,Rural,16,Other unimproved,0.017,Performance Monitoring and Accountability 2020  - PMA16
 Indonesia,ID,IDN,360,Rural,17,DK/missing information,0.001,Performance Monitoring and Accountability 2020  - PMA16
+Indonesia,ID,IDN,360,National,1,Flush and pour flush - to piped sewer system,0.116,Performance Monitoring and Accountability 2020  - PMA16
+Indonesia,ID,IDN,360,National,2,Flush and pour flush - to septic tank,0.684,Performance Monitoring and Accountability 2020  - PMA16
+Indonesia,ID,IDN,360,National,3,Flush and pour flush - to pit,0.0,Performance Monitoring and Accountability 2020  - PMA16
+Indonesia,ID,IDN,360,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.003,Performance Monitoring and Accountability 2020  - PMA16
+Indonesia,ID,IDN,360,National,5,Flush and pour flush - to elsewhere,0.043,Performance Monitoring and Accountability 2020  - PMA16
+Indonesia,ID,IDN,360,National,6,Dry latrines - Ventilated Improved Pit latrine,0.005,Performance Monitoring and Accountability 2020  - PMA16
+Indonesia,ID,IDN,360,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.027,Performance Monitoring and Accountability 2020  - PMA16
+Indonesia,ID,IDN,360,National,8,Dry latrines - Traditional latrine,0.0,Performance Monitoring and Accountability 2020  - PMA16
+Indonesia,ID,IDN,360,National,9,Dry latrines - Pit latrine without slab/open pit,0.01,Performance Monitoring and Accountability 2020  - PMA16
+Indonesia,ID,IDN,360,National,10,Dry latrines - Hanging toilet/hanging latrine,0.021,Performance Monitoring and Accountability 2020  - PMA16
+Indonesia,ID,IDN,360,National,11,Dry latrines - Bucket latrine,0.0,Performance Monitoring and Accountability 2020  - PMA16
+Indonesia,ID,IDN,360,National,12,Dry latrines - Other,0.0,Performance Monitoring and Accountability 2020  - PMA16
+Indonesia,ID,IDN,360,National,13,Composting toilets,0.0,Performance Monitoring and Accountability 2020  - PMA16
+Indonesia,ID,IDN,360,National,14,Other improved,0.0,Performance Monitoring and Accountability 2020  - PMA16
+Indonesia,ID,IDN,360,National,15,"No facility, bush, field",0.08,Performance Monitoring and Accountability 2020  - PMA16
+Indonesia,ID,IDN,360,National,16,Other unimproved,0.012,Performance Monitoring and Accountability 2020  - PMA16
+Indonesia,ID,IDN,360,National,17,DK/missing information,0.001,Performance Monitoring and Accountability 2020  - PMA16
+Indonesia,ID,IDN,360,Urban,1,Flush and pour flush - to piped sewer system,0.0,National Socio-eocnomic survey - SUS17
+Indonesia,ID,IDN,360,Urban,2,Flush and pour flush - to septic tank,0.0,National Socio-eocnomic survey - SUS17
+Indonesia,ID,IDN,360,Urban,3,Flush and pour flush - to pit,0.0,National Socio-eocnomic survey - SUS17
+Indonesia,ID,IDN,360,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Socio-eocnomic survey - SUS17
+Indonesia,ID,IDN,360,Urban,5,Flush and pour flush - to elsewhere,0.0,National Socio-eocnomic survey - SUS17
+Indonesia,ID,IDN,360,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,National Socio-eocnomic survey - SUS17
+Indonesia,ID,IDN,360,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Socio-eocnomic survey - SUS17
+Indonesia,ID,IDN,360,Urban,8,Dry latrines - Traditional latrine,0.0,National Socio-eocnomic survey - SUS17
+Indonesia,ID,IDN,360,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Socio-eocnomic survey - SUS17
+Indonesia,ID,IDN,360,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Socio-eocnomic survey - SUS17
+Indonesia,ID,IDN,360,Urban,11,Dry latrines - Bucket latrine,0.0,National Socio-eocnomic survey - SUS17
+Indonesia,ID,IDN,360,Urban,12,Dry latrines - Other,0.0,National Socio-eocnomic survey - SUS17
+Indonesia,ID,IDN,360,Urban,13,Composting toilets,0.0,National Socio-eocnomic survey - SUS17
+Indonesia,ID,IDN,360,Urban,14,Other improved,0.0,National Socio-eocnomic survey - SUS17
+Indonesia,ID,IDN,360,Urban,15,"No facility, bush, field",0.044,National Socio-eocnomic survey - SUS17
+Indonesia,ID,IDN,360,Urban,16,Other unimproved,0.0,National Socio-eocnomic survey - SUS17
+Indonesia,ID,IDN,360,Urban,17,DK/missing information,0.0,National Socio-eocnomic survey - SUS17
+Indonesia,ID,IDN,360,Rural,1,Flush and pour flush - to piped sewer system,0.0,National Socio-eocnomic survey - SUS17
+Indonesia,ID,IDN,360,Rural,2,Flush and pour flush - to septic tank,0.0,National Socio-eocnomic survey - SUS17
+Indonesia,ID,IDN,360,Rural,3,Flush and pour flush - to pit,0.0,National Socio-eocnomic survey - SUS17
+Indonesia,ID,IDN,360,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Socio-eocnomic survey - SUS17
+Indonesia,ID,IDN,360,Rural,5,Flush and pour flush - to elsewhere,0.0,National Socio-eocnomic survey - SUS17
+Indonesia,ID,IDN,360,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,National Socio-eocnomic survey - SUS17
+Indonesia,ID,IDN,360,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Socio-eocnomic survey - SUS17
+Indonesia,ID,IDN,360,Rural,8,Dry latrines - Traditional latrine,0.0,National Socio-eocnomic survey - SUS17
+Indonesia,ID,IDN,360,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Socio-eocnomic survey - SUS17
+Indonesia,ID,IDN,360,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Socio-eocnomic survey - SUS17
+Indonesia,ID,IDN,360,Rural,11,Dry latrines - Bucket latrine,0.0,National Socio-eocnomic survey - SUS17
+Indonesia,ID,IDN,360,Rural,12,Dry latrines - Other,0.0,National Socio-eocnomic survey - SUS17
+Indonesia,ID,IDN,360,Rural,13,Composting toilets,0.0,National Socio-eocnomic survey - SUS17
+Indonesia,ID,IDN,360,Rural,14,Other improved,0.0,National Socio-eocnomic survey - SUS17
+Indonesia,ID,IDN,360,Rural,15,"No facility, bush, field",0.172,National Socio-eocnomic survey - SUS17
+Indonesia,ID,IDN,360,Rural,16,Other unimproved,0.0,National Socio-eocnomic survey - SUS17
+Indonesia,ID,IDN,360,Rural,17,DK/missing information,0.0,National Socio-eocnomic survey - SUS17
+Indonesia,ID,IDN,360,National,1,Flush and pour flush - to piped sewer system,0.0,National Socio-eocnomic survey - SUS17
+Indonesia,ID,IDN,360,National,2,Flush and pour flush - to septic tank,0.0,National Socio-eocnomic survey - SUS17
+Indonesia,ID,IDN,360,National,3,Flush and pour flush - to pit,0.0,National Socio-eocnomic survey - SUS17
+Indonesia,ID,IDN,360,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Socio-eocnomic survey - SUS17
+Indonesia,ID,IDN,360,National,5,Flush and pour flush - to elsewhere,0.0,National Socio-eocnomic survey - SUS17
+Indonesia,ID,IDN,360,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,National Socio-eocnomic survey - SUS17
+Indonesia,ID,IDN,360,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Socio-eocnomic survey - SUS17
+Indonesia,ID,IDN,360,National,8,Dry latrines - Traditional latrine,0.0,National Socio-eocnomic survey - SUS17
+Indonesia,ID,IDN,360,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Socio-eocnomic survey - SUS17
+Indonesia,ID,IDN,360,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Socio-eocnomic survey - SUS17
+Indonesia,ID,IDN,360,National,11,Dry latrines - Bucket latrine,0.0,National Socio-eocnomic survey - SUS17
+Indonesia,ID,IDN,360,National,12,Dry latrines - Other,0.0,National Socio-eocnomic survey - SUS17
+Indonesia,ID,IDN,360,National,13,Composting toilets,0.0,National Socio-eocnomic survey - SUS17
+Indonesia,ID,IDN,360,National,14,Other improved,0.0,National Socio-eocnomic survey - SUS17
+Indonesia,ID,IDN,360,National,15,"No facility, bush, field",0.104,National Socio-eocnomic survey - SUS17
+Indonesia,ID,IDN,360,National,16,Other unimproved,0.0,National Socio-eocnomic survey - SUS17
+Indonesia,ID,IDN,360,National,17,DK/missing information,0.0,National Socio-eocnomic survey - SUS17
+Indonesia,ID,IDN,360,Urban,1,Flush and pour flush - to piped sewer system,0.0,National Socio-eocnomic survey - SUS18
+Indonesia,ID,IDN,360,Urban,2,Flush and pour flush - to septic tank,0.0,National Socio-eocnomic survey - SUS18
+Indonesia,ID,IDN,360,Urban,3,Flush and pour flush - to pit,0.0,National Socio-eocnomic survey - SUS18
+Indonesia,ID,IDN,360,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Socio-eocnomic survey - SUS18
+Indonesia,ID,IDN,360,Urban,5,Flush and pour flush - to elsewhere,0.0,National Socio-eocnomic survey - SUS18
+Indonesia,ID,IDN,360,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,National Socio-eocnomic survey - SUS18
+Indonesia,ID,IDN,360,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Socio-eocnomic survey - SUS18
+Indonesia,ID,IDN,360,Urban,8,Dry latrines - Traditional latrine,0.0,National Socio-eocnomic survey - SUS18
+Indonesia,ID,IDN,360,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Socio-eocnomic survey - SUS18
+Indonesia,ID,IDN,360,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Socio-eocnomic survey - SUS18
+Indonesia,ID,IDN,360,Urban,11,Dry latrines - Bucket latrine,0.0,National Socio-eocnomic survey - SUS18
+Indonesia,ID,IDN,360,Urban,12,Dry latrines - Other,0.0,National Socio-eocnomic survey - SUS18
+Indonesia,ID,IDN,360,Urban,13,Composting toilets,0.0,National Socio-eocnomic survey - SUS18
+Indonesia,ID,IDN,360,Urban,14,Other improved,0.0,National Socio-eocnomic survey - SUS18
+Indonesia,ID,IDN,360,Urban,15,"No facility, bush, field",0.038,National Socio-eocnomic survey - SUS18
+Indonesia,ID,IDN,360,Urban,16,Other unimproved,0.0,National Socio-eocnomic survey - SUS18
+Indonesia,ID,IDN,360,Urban,17,DK/missing information,0.0,National Socio-eocnomic survey - SUS18
+Indonesia,ID,IDN,360,Rural,1,Flush and pour flush - to piped sewer system,0.0,National Socio-eocnomic survey - SUS18
+Indonesia,ID,IDN,360,Rural,2,Flush and pour flush - to septic tank,0.0,National Socio-eocnomic survey - SUS18
+Indonesia,ID,IDN,360,Rural,3,Flush and pour flush - to pit,0.0,National Socio-eocnomic survey - SUS18
+Indonesia,ID,IDN,360,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Socio-eocnomic survey - SUS18
+Indonesia,ID,IDN,360,Rural,5,Flush and pour flush - to elsewhere,0.0,National Socio-eocnomic survey - SUS18
+Indonesia,ID,IDN,360,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,National Socio-eocnomic survey - SUS18
+Indonesia,ID,IDN,360,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Socio-eocnomic survey - SUS18
+Indonesia,ID,IDN,360,Rural,8,Dry latrines - Traditional latrine,0.0,National Socio-eocnomic survey - SUS18
+Indonesia,ID,IDN,360,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Socio-eocnomic survey - SUS18
+Indonesia,ID,IDN,360,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Socio-eocnomic survey - SUS18
+Indonesia,ID,IDN,360,Rural,11,Dry latrines - Bucket latrine,0.0,National Socio-eocnomic survey - SUS18
+Indonesia,ID,IDN,360,Rural,12,Dry latrines - Other,0.0,National Socio-eocnomic survey - SUS18
+Indonesia,ID,IDN,360,Rural,13,Composting toilets,0.0,National Socio-eocnomic survey - SUS18
+Indonesia,ID,IDN,360,Rural,14,Other improved,0.0,National Socio-eocnomic survey - SUS18
+Indonesia,ID,IDN,360,Rural,15,"No facility, bush, field",0.16,National Socio-eocnomic survey - SUS18
+Indonesia,ID,IDN,360,Rural,16,Other unimproved,0.0,National Socio-eocnomic survey - SUS18
+Indonesia,ID,IDN,360,Rural,17,DK/missing information,0.0,National Socio-eocnomic survey - SUS18
+Indonesia,ID,IDN,360,National,1,Flush and pour flush - to piped sewer system,0.0,National Socio-eocnomic survey - SUS18
+Indonesia,ID,IDN,360,National,2,Flush and pour flush - to septic tank,0.0,National Socio-eocnomic survey - SUS18
+Indonesia,ID,IDN,360,National,3,Flush and pour flush - to pit,0.0,National Socio-eocnomic survey - SUS18
+Indonesia,ID,IDN,360,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Socio-eocnomic survey - SUS18
+Indonesia,ID,IDN,360,National,5,Flush and pour flush - to elsewhere,0.0,National Socio-eocnomic survey - SUS18
+Indonesia,ID,IDN,360,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,National Socio-eocnomic survey - SUS18
+Indonesia,ID,IDN,360,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Socio-eocnomic survey - SUS18
+Indonesia,ID,IDN,360,National,8,Dry latrines - Traditional latrine,0.0,National Socio-eocnomic survey - SUS18
+Indonesia,ID,IDN,360,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Socio-eocnomic survey - SUS18
+Indonesia,ID,IDN,360,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Socio-eocnomic survey - SUS18
+Indonesia,ID,IDN,360,National,11,Dry latrines - Bucket latrine,0.0,National Socio-eocnomic survey - SUS18
+Indonesia,ID,IDN,360,National,12,Dry latrines - Other,0.0,National Socio-eocnomic survey - SUS18
+Indonesia,ID,IDN,360,National,13,Composting toilets,0.0,National Socio-eocnomic survey - SUS18
+Indonesia,ID,IDN,360,National,14,Other improved,0.0,National Socio-eocnomic survey - SUS18
+Indonesia,ID,IDN,360,National,15,"No facility, bush, field",0.094,National Socio-eocnomic survey - SUS18
+Indonesia,ID,IDN,360,National,16,Other unimproved,0.0,National Socio-eocnomic survey - SUS18
+Indonesia,ID,IDN,360,National,17,DK/missing information,0.0,National Socio-eocnomic survey - SUS18
+Indonesia,ID,IDN,360,Urban,1,Flush and pour flush - to piped sewer system,0.0,Census - CEN10
+Indonesia,ID,IDN,360,Urban,2,Flush and pour flush - to septic tank,0.0,Census - CEN10
+Indonesia,ID,IDN,360,Urban,3,Flush and pour flush - to pit,0.0,Census - CEN10
+Indonesia,ID,IDN,360,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN10
+Indonesia,ID,IDN,360,Urban,5,Flush and pour flush - to elsewhere,0.0,Census - CEN10
+Indonesia,ID,IDN,360,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN10
+Indonesia,ID,IDN,360,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.13,Census - CEN10
+Indonesia,ID,IDN,360,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.13,Census - CEN10
+Indonesia,ID,IDN,360,Urban,8,Dry latrines - Traditional latrine,0.0,Census - CEN10
+Indonesia,ID,IDN,360,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN10
+Indonesia,ID,IDN,360,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN10
+Indonesia,ID,IDN,360,Urban,11,Dry latrines - Bucket latrine,0.0,Census - CEN10
+Indonesia,ID,IDN,360,Urban,12,Dry latrines - Other,0.0,Census - CEN10
+Indonesia,ID,IDN,360,Urban,13,Composting toilets,0.0,Census - CEN10
+Indonesia,ID,IDN,360,Urban,14,Other improved,0.0,Census - CEN10
+Indonesia,ID,IDN,360,Urban,15,"No facility, bush, field",0.082,Census - CEN10
+Indonesia,ID,IDN,360,Urban,16,Other unimproved,0.0,Census - CEN10
+Indonesia,ID,IDN,360,Urban,17,DK/missing information,0.0,Census - CEN10
+Indonesia,ID,IDN,360,Rural,1,Flush and pour flush - to piped sewer system,0.0,Census - CEN10
+Indonesia,ID,IDN,360,Rural,2,Flush and pour flush - to septic tank,0.0,Census - CEN10
+Indonesia,ID,IDN,360,Rural,3,Flush and pour flush - to pit,0.0,Census - CEN10
+Indonesia,ID,IDN,360,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN10
+Indonesia,ID,IDN,360,Rural,5,Flush and pour flush - to elsewhere,0.0,Census - CEN10
+Indonesia,ID,IDN,360,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN10
+Indonesia,ID,IDN,360,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.105,Census - CEN10
+Indonesia,ID,IDN,360,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.105,Census - CEN10
+Indonesia,ID,IDN,360,Rural,8,Dry latrines - Traditional latrine,0.0,Census - CEN10
+Indonesia,ID,IDN,360,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN10
+Indonesia,ID,IDN,360,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN10
+Indonesia,ID,IDN,360,Rural,11,Dry latrines - Bucket latrine,0.0,Census - CEN10
+Indonesia,ID,IDN,360,Rural,12,Dry latrines - Other,0.0,Census - CEN10
+Indonesia,ID,IDN,360,Rural,13,Composting toilets,0.0,Census - CEN10
+Indonesia,ID,IDN,360,Rural,14,Other improved,0.0,Census - CEN10
+Indonesia,ID,IDN,360,Rural,15,"No facility, bush, field",0.293,Census - CEN10
+Indonesia,ID,IDN,360,Rural,16,Other unimproved,0.0,Census - CEN10
+Indonesia,ID,IDN,360,Rural,17,DK/missing information,0.0,Census - CEN10
+Indonesia,ID,IDN,360,National,1,Flush and pour flush - to piped sewer system,0.0,Census - CEN10
+Indonesia,ID,IDN,360,National,2,Flush and pour flush - to septic tank,0.0,Census - CEN10
+Indonesia,ID,IDN,360,National,3,Flush and pour flush - to pit,0.0,Census - CEN10
+Indonesia,ID,IDN,360,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN10
+Indonesia,ID,IDN,360,National,5,Flush and pour flush - to elsewhere,0.0,Census - CEN10
+Indonesia,ID,IDN,360,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN10
+Indonesia,ID,IDN,360,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.117,Census - CEN10
+Indonesia,ID,IDN,360,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.117,Census - CEN10
+Indonesia,ID,IDN,360,National,8,Dry latrines - Traditional latrine,0.0,Census - CEN10
+Indonesia,ID,IDN,360,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN10
+Indonesia,ID,IDN,360,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN10
+Indonesia,ID,IDN,360,National,11,Dry latrines - Bucket latrine,0.0,Census - CEN10
+Indonesia,ID,IDN,360,National,12,Dry latrines - Other,0.0,Census - CEN10
+Indonesia,ID,IDN,360,National,13,Composting toilets,0.0,Census - CEN10
+Indonesia,ID,IDN,360,National,14,Other improved,0.0,Census - CEN10
+Indonesia,ID,IDN,360,National,15,"No facility, bush, field",0.189,Census - CEN10
+Indonesia,ID,IDN,360,National,16,Other unimproved,0.0,Census - CEN10
+Indonesia,ID,IDN,360,National,17,DK/missing information,0.0,Census - CEN10
+Indonesia,ID,IDN,360,Urban,1,Flush and pour flush - to piped sewer system,0.0,National Socio-Economic Survey - SUS11
+Indonesia,ID,IDN,360,Urban,2,Flush and pour flush - to septic tank,0.0,National Socio-Economic Survey - SUS11
+Indonesia,ID,IDN,360,Urban,3,Flush and pour flush - to pit,0.0,National Socio-Economic Survey - SUS11
+Indonesia,ID,IDN,360,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Socio-Economic Survey - SUS11
+Indonesia,ID,IDN,360,Urban,5,Flush and pour flush - to elsewhere,0.0,National Socio-Economic Survey - SUS11
+Indonesia,ID,IDN,360,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,National Socio-Economic Survey - SUS11
+Indonesia,ID,IDN,360,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Socio-Economic Survey - SUS11
+Indonesia,ID,IDN,360,Urban,8,Dry latrines - Traditional latrine,0.0,National Socio-Economic Survey - SUS11
+Indonesia,ID,IDN,360,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Socio-Economic Survey - SUS11
+Indonesia,ID,IDN,360,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Socio-Economic Survey - SUS11
+Indonesia,ID,IDN,360,Urban,11,Dry latrines - Bucket latrine,0.0,National Socio-Economic Survey - SUS11
+Indonesia,ID,IDN,360,Urban,12,Dry latrines - Other,0.0,National Socio-Economic Survey - SUS11
+Indonesia,ID,IDN,360,Urban,13,Composting toilets,0.0,National Socio-Economic Survey - SUS11
+Indonesia,ID,IDN,360,Urban,14,Other improved,0.0,National Socio-Economic Survey - SUS11
+Indonesia,ID,IDN,360,Urban,15,"No facility, bush, field",0.079,National Socio-Economic Survey - SUS11
+Indonesia,ID,IDN,360,Urban,16,Other unimproved,0.099,National Socio-Economic Survey - SUS11
+Indonesia,ID,IDN,360,Urban,17,DK/missing information,0.0,National Socio-Economic Survey - SUS11
+Indonesia,ID,IDN,360,Rural,1,Flush and pour flush - to piped sewer system,0.0,National Socio-Economic Survey - SUS11
+Indonesia,ID,IDN,360,Rural,2,Flush and pour flush - to septic tank,0.0,National Socio-Economic Survey - SUS11
+Indonesia,ID,IDN,360,Rural,3,Flush and pour flush - to pit,0.0,National Socio-Economic Survey - SUS11
+Indonesia,ID,IDN,360,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Socio-Economic Survey - SUS11
+Indonesia,ID,IDN,360,Rural,5,Flush and pour flush - to elsewhere,0.0,National Socio-Economic Survey - SUS11
+Indonesia,ID,IDN,360,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,National Socio-Economic Survey - SUS11
+Indonesia,ID,IDN,360,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Socio-Economic Survey - SUS11
+Indonesia,ID,IDN,360,Rural,8,Dry latrines - Traditional latrine,0.0,National Socio-Economic Survey - SUS11
+Indonesia,ID,IDN,360,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Socio-Economic Survey - SUS11
+Indonesia,ID,IDN,360,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Socio-Economic Survey - SUS11
+Indonesia,ID,IDN,360,Rural,11,Dry latrines - Bucket latrine,0.0,National Socio-Economic Survey - SUS11
+Indonesia,ID,IDN,360,Rural,12,Dry latrines - Other,0.0,National Socio-Economic Survey - SUS11
+Indonesia,ID,IDN,360,Rural,13,Composting toilets,0.0,National Socio-Economic Survey - SUS11
+Indonesia,ID,IDN,360,Rural,14,Other improved,0.0,National Socio-Economic Survey - SUS11
+Indonesia,ID,IDN,360,Rural,15,"No facility, bush, field",0.275,National Socio-Economic Survey - SUS11
+Indonesia,ID,IDN,360,Rural,16,Other unimproved,0.242,National Socio-Economic Survey - SUS11
+Indonesia,ID,IDN,360,Rural,17,DK/missing information,0.0,National Socio-Economic Survey - SUS11
+Indonesia,ID,IDN,360,National,1,Flush and pour flush - to piped sewer system,0.0,National Socio-Economic Survey - SUS11
+Indonesia,ID,IDN,360,National,2,Flush and pour flush - to septic tank,0.0,National Socio-Economic Survey - SUS11
+Indonesia,ID,IDN,360,National,3,Flush and pour flush - to pit,0.0,National Socio-Economic Survey - SUS11
+Indonesia,ID,IDN,360,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Socio-Economic Survey - SUS11
+Indonesia,ID,IDN,360,National,5,Flush and pour flush - to elsewhere,0.0,National Socio-Economic Survey - SUS11
+Indonesia,ID,IDN,360,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,National Socio-Economic Survey - SUS11
+Indonesia,ID,IDN,360,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Socio-Economic Survey - SUS11
+Indonesia,ID,IDN,360,National,8,Dry latrines - Traditional latrine,0.0,National Socio-Economic Survey - SUS11
+Indonesia,ID,IDN,360,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Socio-Economic Survey - SUS11
+Indonesia,ID,IDN,360,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Socio-Economic Survey - SUS11
+Indonesia,ID,IDN,360,National,11,Dry latrines - Bucket latrine,0.0,National Socio-Economic Survey - SUS11
+Indonesia,ID,IDN,360,National,12,Dry latrines - Other,0.0,National Socio-Economic Survey - SUS11
+Indonesia,ID,IDN,360,National,13,Composting toilets,0.0,National Socio-Economic Survey - SUS11
+Indonesia,ID,IDN,360,National,14,Other improved,0.0,National Socio-Economic Survey - SUS11
+Indonesia,ID,IDN,360,National,15,"No facility, bush, field",0.178,National Socio-Economic Survey - SUS11
+Indonesia,ID,IDN,360,National,16,Other unimproved,0.171,National Socio-Economic Survey - SUS11
+Indonesia,ID,IDN,360,National,17,DK/missing information,0.0,National Socio-Economic Survey - SUS11
+Indonesia,ID,IDN,360,Urban,1,Flush and pour flush - to piped sewer system,0.0,National Socio-Economic Survey: 1st Quarter (March2012) - SUS12
+Indonesia,ID,IDN,360,Urban,2,Flush and pour flush - to septic tank,0.0,National Socio-Economic Survey: 1st Quarter (March2012) - SUS12
+Indonesia,ID,IDN,360,Urban,3,Flush and pour flush - to pit,0.0,National Socio-Economic Survey: 1st Quarter (March2012) - SUS12
+Indonesia,ID,IDN,360,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Socio-Economic Survey: 1st Quarter (March2012) - SUS12
+Indonesia,ID,IDN,360,Urban,5,Flush and pour flush - to elsewhere,0.0,National Socio-Economic Survey: 1st Quarter (March2012) - SUS12
+Indonesia,ID,IDN,360,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,National Socio-Economic Survey: 1st Quarter (March2012) - SUS12
+Indonesia,ID,IDN,360,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Socio-Economic Survey: 1st Quarter (March2012) - SUS12
+Indonesia,ID,IDN,360,Urban,8,Dry latrines - Traditional latrine,0.0,National Socio-Economic Survey: 1st Quarter (March2012) - SUS12
+Indonesia,ID,IDN,360,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Socio-Economic Survey: 1st Quarter (March2012) - SUS12
+Indonesia,ID,IDN,360,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Socio-Economic Survey: 1st Quarter (March2012) - SUS12
+Indonesia,ID,IDN,360,Urban,11,Dry latrines - Bucket latrine,0.0,National Socio-Economic Survey: 1st Quarter (March2012) - SUS12
+Indonesia,ID,IDN,360,Urban,12,Dry latrines - Other,0.0,National Socio-Economic Survey: 1st Quarter (March2012) - SUS12
+Indonesia,ID,IDN,360,Urban,13,Composting toilets,0.0,National Socio-Economic Survey: 1st Quarter (March2012) - SUS12
+Indonesia,ID,IDN,360,Urban,14,Other improved,0.0,National Socio-Economic Survey: 1st Quarter (March2012) - SUS12
+Indonesia,ID,IDN,360,Urban,15,"No facility, bush, field",0.072,National Socio-Economic Survey: 1st Quarter (March2012) - SUS12
+Indonesia,ID,IDN,360,Urban,16,Other unimproved,0.103,National Socio-Economic Survey: 1st Quarter (March2012) - SUS12
+Indonesia,ID,IDN,360,Urban,17,DK/missing information,0.0,National Socio-Economic Survey: 1st Quarter (March2012) - SUS12
+Indonesia,ID,IDN,360,Rural,1,Flush and pour flush - to piped sewer system,0.0,National Socio-Economic Survey: 1st Quarter (March2012) - SUS12
+Indonesia,ID,IDN,360,Rural,2,Flush and pour flush - to septic tank,0.0,National Socio-Economic Survey: 1st Quarter (March2012) - SUS12
+Indonesia,ID,IDN,360,Rural,3,Flush and pour flush - to pit,0.0,National Socio-Economic Survey: 1st Quarter (March2012) - SUS12
+Indonesia,ID,IDN,360,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Socio-Economic Survey: 1st Quarter (March2012) - SUS12
+Indonesia,ID,IDN,360,Rural,5,Flush and pour flush - to elsewhere,0.0,National Socio-Economic Survey: 1st Quarter (March2012) - SUS12
+Indonesia,ID,IDN,360,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,National Socio-Economic Survey: 1st Quarter (March2012) - SUS12
+Indonesia,ID,IDN,360,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Socio-Economic Survey: 1st Quarter (March2012) - SUS12
+Indonesia,ID,IDN,360,Rural,8,Dry latrines - Traditional latrine,0.0,National Socio-Economic Survey: 1st Quarter (March2012) - SUS12
+Indonesia,ID,IDN,360,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Socio-Economic Survey: 1st Quarter (March2012) - SUS12
+Indonesia,ID,IDN,360,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Socio-Economic Survey: 1st Quarter (March2012) - SUS12
+Indonesia,ID,IDN,360,Rural,11,Dry latrines - Bucket latrine,0.0,National Socio-Economic Survey: 1st Quarter (March2012) - SUS12
+Indonesia,ID,IDN,360,Rural,12,Dry latrines - Other,0.0,National Socio-Economic Survey: 1st Quarter (March2012) - SUS12
+Indonesia,ID,IDN,360,Rural,13,Composting toilets,0.0,National Socio-Economic Survey: 1st Quarter (March2012) - SUS12
+Indonesia,ID,IDN,360,Rural,14,Other improved,0.0,National Socio-Economic Survey: 1st Quarter (March2012) - SUS12
+Indonesia,ID,IDN,360,Rural,15,"No facility, bush, field",0.254,National Socio-Economic Survey: 1st Quarter (March2012) - SUS12
+Indonesia,ID,IDN,360,Rural,16,Other unimproved,0.224,National Socio-Economic Survey: 1st Quarter (March2012) - SUS12
+Indonesia,ID,IDN,360,Rural,17,DK/missing information,0.0,National Socio-Economic Survey: 1st Quarter (March2012) - SUS12
+Indonesia,ID,IDN,360,National,1,Flush and pour flush - to piped sewer system,0.0,National Socio-Economic Survey: 1st Quarter (March2012) - SUS12
+Indonesia,ID,IDN,360,National,2,Flush and pour flush - to septic tank,0.0,National Socio-Economic Survey: 1st Quarter (March2012) - SUS12
+Indonesia,ID,IDN,360,National,3,Flush and pour flush - to pit,0.0,National Socio-Economic Survey: 1st Quarter (March2012) - SUS12
+Indonesia,ID,IDN,360,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Socio-Economic Survey: 1st Quarter (March2012) - SUS12
+Indonesia,ID,IDN,360,National,5,Flush and pour flush - to elsewhere,0.0,National Socio-Economic Survey: 1st Quarter (March2012) - SUS12
+Indonesia,ID,IDN,360,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,National Socio-Economic Survey: 1st Quarter (March2012) - SUS12
+Indonesia,ID,IDN,360,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Socio-Economic Survey: 1st Quarter (March2012) - SUS12
+Indonesia,ID,IDN,360,National,8,Dry latrines - Traditional latrine,0.0,National Socio-Economic Survey: 1st Quarter (March2012) - SUS12
+Indonesia,ID,IDN,360,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Socio-Economic Survey: 1st Quarter (March2012) - SUS12
+Indonesia,ID,IDN,360,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Socio-Economic Survey: 1st Quarter (March2012) - SUS12
+Indonesia,ID,IDN,360,National,11,Dry latrines - Bucket latrine,0.0,National Socio-Economic Survey: 1st Quarter (March2012) - SUS12
+Indonesia,ID,IDN,360,National,12,Dry latrines - Other,0.0,National Socio-Economic Survey: 1st Quarter (March2012) - SUS12
+Indonesia,ID,IDN,360,National,13,Composting toilets,0.0,National Socio-Economic Survey: 1st Quarter (March2012) - SUS12
+Indonesia,ID,IDN,360,National,14,Other improved,0.0,National Socio-Economic Survey: 1st Quarter (March2012) - SUS12
+Indonesia,ID,IDN,360,National,15,"No facility, bush, field",0.164,National Socio-Economic Survey: 1st Quarter (March2012) - SUS12
+Indonesia,ID,IDN,360,National,16,Other unimproved,0.164,National Socio-Economic Survey: 1st Quarter (March2012) - SUS12
+Indonesia,ID,IDN,360,National,17,DK/missing information,0.0,National Socio-Economic Survey: 1st Quarter (March2012) - SUS12
+Indonesia,ID,IDN,360,Urban,1,Flush and pour flush - to piped sewer system,0.0,National Socio-eocnomic survey - SUS14
+Indonesia,ID,IDN,360,Urban,2,Flush and pour flush - to septic tank,0.0,National Socio-eocnomic survey - SUS14
+Indonesia,ID,IDN,360,Urban,3,Flush and pour flush - to pit,0.0,National Socio-eocnomic survey - SUS14
+Indonesia,ID,IDN,360,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Socio-eocnomic survey - SUS14
+Indonesia,ID,IDN,360,Urban,5,Flush and pour flush - to elsewhere,0.0,National Socio-eocnomic survey - SUS14
+Indonesia,ID,IDN,360,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,National Socio-eocnomic survey - SUS14
+Indonesia,ID,IDN,360,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Socio-eocnomic survey - SUS14
+Indonesia,ID,IDN,360,Urban,8,Dry latrines - Traditional latrine,0.0,National Socio-eocnomic survey - SUS14
+Indonesia,ID,IDN,360,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Socio-eocnomic survey - SUS14
+Indonesia,ID,IDN,360,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Socio-eocnomic survey - SUS14
+Indonesia,ID,IDN,360,Urban,11,Dry latrines - Bucket latrine,0.0,National Socio-eocnomic survey - SUS14
+Indonesia,ID,IDN,360,Urban,12,Dry latrines - Other,0.0,National Socio-eocnomic survey - SUS14
+Indonesia,ID,IDN,360,Urban,13,Composting toilets,0.0,National Socio-eocnomic survey - SUS14
+Indonesia,ID,IDN,360,Urban,14,Other improved,0.0,National Socio-eocnomic survey - SUS14
+Indonesia,ID,IDN,360,Urban,15,"No facility, bush, field",0.057,National Socio-eocnomic survey - SUS14
+Indonesia,ID,IDN,360,Urban,16,Other unimproved,0.062,National Socio-eocnomic survey - SUS14
+Indonesia,ID,IDN,360,Urban,17,DK/missing information,0.0,National Socio-eocnomic survey - SUS14
+Indonesia,ID,IDN,360,Rural,1,Flush and pour flush - to piped sewer system,0.0,National Socio-eocnomic survey - SUS14
+Indonesia,ID,IDN,360,Rural,2,Flush and pour flush - to septic tank,0.0,National Socio-eocnomic survey - SUS14
+Indonesia,ID,IDN,360,Rural,3,Flush and pour flush - to pit,0.0,National Socio-eocnomic survey - SUS14
+Indonesia,ID,IDN,360,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Socio-eocnomic survey - SUS14
+Indonesia,ID,IDN,360,Rural,5,Flush and pour flush - to elsewhere,0.0,National Socio-eocnomic survey - SUS14
+Indonesia,ID,IDN,360,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,National Socio-eocnomic survey - SUS14
+Indonesia,ID,IDN,360,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Socio-eocnomic survey - SUS14
+Indonesia,ID,IDN,360,Rural,8,Dry latrines - Traditional latrine,0.0,National Socio-eocnomic survey - SUS14
+Indonesia,ID,IDN,360,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Socio-eocnomic survey - SUS14
+Indonesia,ID,IDN,360,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Socio-eocnomic survey - SUS14
+Indonesia,ID,IDN,360,Rural,11,Dry latrines - Bucket latrine,0.0,National Socio-eocnomic survey - SUS14
+Indonesia,ID,IDN,360,Rural,12,Dry latrines - Other,0.0,National Socio-eocnomic survey - SUS14
+Indonesia,ID,IDN,360,Rural,13,Composting toilets,0.0,National Socio-eocnomic survey - SUS14
+Indonesia,ID,IDN,360,Rural,14,Other improved,0.0,National Socio-eocnomic survey - SUS14
+Indonesia,ID,IDN,360,Rural,15,"No facility, bush, field",0.224,National Socio-eocnomic survey - SUS14
+Indonesia,ID,IDN,360,Rural,16,Other unimproved,0.177,National Socio-eocnomic survey - SUS14
+Indonesia,ID,IDN,360,Rural,17,DK/missing information,0.0,National Socio-eocnomic survey - SUS14
+Indonesia,ID,IDN,360,National,1,Flush and pour flush - to piped sewer system,0.0,National Socio-eocnomic survey - SUS14
+Indonesia,ID,IDN,360,National,2,Flush and pour flush - to septic tank,0.0,National Socio-eocnomic survey - SUS14
+Indonesia,ID,IDN,360,National,3,Flush and pour flush - to pit,0.0,National Socio-eocnomic survey - SUS14
+Indonesia,ID,IDN,360,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,National Socio-eocnomic survey - SUS14
+Indonesia,ID,IDN,360,National,5,Flush and pour flush - to elsewhere,0.0,National Socio-eocnomic survey - SUS14
+Indonesia,ID,IDN,360,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,National Socio-eocnomic survey - SUS14
+Indonesia,ID,IDN,360,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,National Socio-eocnomic survey - SUS14
+Indonesia,ID,IDN,360,National,8,Dry latrines - Traditional latrine,0.0,National Socio-eocnomic survey - SUS14
+Indonesia,ID,IDN,360,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,National Socio-eocnomic survey - SUS14
+Indonesia,ID,IDN,360,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,National Socio-eocnomic survey - SUS14
+Indonesia,ID,IDN,360,National,11,Dry latrines - Bucket latrine,0.0,National Socio-eocnomic survey - SUS14
+Indonesia,ID,IDN,360,National,12,Dry latrines - Other,0.0,National Socio-eocnomic survey - SUS14
+Indonesia,ID,IDN,360,National,13,Composting toilets,0.0,National Socio-eocnomic survey - SUS14
+Indonesia,ID,IDN,360,National,14,Other improved,0.0,National Socio-eocnomic survey - SUS14
+Indonesia,ID,IDN,360,National,15,"No facility, bush, field",0.141,National Socio-eocnomic survey - SUS14
+Indonesia,ID,IDN,360,National,16,Other unimproved,0.12,National Socio-eocnomic survey - SUS14
+Indonesia,ID,IDN,360,National,17,DK/missing information,0.0,National Socio-eocnomic survey - SUS14

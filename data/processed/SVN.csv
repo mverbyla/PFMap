@@ -1,0 +1,970 @@
+country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+Slovenia,SI,SVN,705,Urban,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES00
+Slovenia,SI,SVN,705,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES00
+Slovenia,SI,SVN,705,Urban,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES00
+Slovenia,SI,SVN,705,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES00
+Slovenia,SI,SVN,705,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES00
+Slovenia,SI,SVN,705,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES00
+Slovenia,SI,SVN,705,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES00
+Slovenia,SI,SVN,705,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES00
+Slovenia,SI,SVN,705,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES00
+Slovenia,SI,SVN,705,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES00
+Slovenia,SI,SVN,705,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES00
+Slovenia,SI,SVN,705,Urban,12,Dry latrines - Other,0.0,Eurostat environmental database - ES00
+Slovenia,SI,SVN,705,Urban,13,Composting toilets,0.0,Eurostat environmental database - ES00
+Slovenia,SI,SVN,705,Urban,14,Other improved,0.0,Eurostat environmental database - ES00
+Slovenia,SI,SVN,705,Urban,15,"No facility, bush, field",0.0,Eurostat environmental database - ES00
+Slovenia,SI,SVN,705,Urban,16,Other unimproved,0.0,Eurostat environmental database - ES00
+Slovenia,SI,SVN,705,Urban,17,DK/missing information,0.0,Eurostat environmental database - ES00
+Slovenia,SI,SVN,705,Rural,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES00
+Slovenia,SI,SVN,705,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES00
+Slovenia,SI,SVN,705,Rural,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES00
+Slovenia,SI,SVN,705,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES00
+Slovenia,SI,SVN,705,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES00
+Slovenia,SI,SVN,705,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES00
+Slovenia,SI,SVN,705,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES00
+Slovenia,SI,SVN,705,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES00
+Slovenia,SI,SVN,705,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES00
+Slovenia,SI,SVN,705,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES00
+Slovenia,SI,SVN,705,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES00
+Slovenia,SI,SVN,705,Rural,12,Dry latrines - Other,0.0,Eurostat environmental database - ES00
+Slovenia,SI,SVN,705,Rural,13,Composting toilets,0.0,Eurostat environmental database - ES00
+Slovenia,SI,SVN,705,Rural,14,Other improved,0.0,Eurostat environmental database - ES00
+Slovenia,SI,SVN,705,Rural,15,"No facility, bush, field",0.0,Eurostat environmental database - ES00
+Slovenia,SI,SVN,705,Rural,16,Other unimproved,0.0,Eurostat environmental database - ES00
+Slovenia,SI,SVN,705,Rural,17,DK/missing information,0.0,Eurostat environmental database - ES00
+Slovenia,SI,SVN,705,National,1,Flush and pour flush - to piped sewer system,0.53,Eurostat environmental database - ES00
+Slovenia,SI,SVN,705,National,2,Flush and pour flush - to septic tank,0.47,Eurostat environmental database - ES00
+Slovenia,SI,SVN,705,National,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES00
+Slovenia,SI,SVN,705,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES00
+Slovenia,SI,SVN,705,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES00
+Slovenia,SI,SVN,705,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES00
+Slovenia,SI,SVN,705,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES00
+Slovenia,SI,SVN,705,National,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES00
+Slovenia,SI,SVN,705,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES00
+Slovenia,SI,SVN,705,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES00
+Slovenia,SI,SVN,705,National,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES00
+Slovenia,SI,SVN,705,National,12,Dry latrines - Other,0.0,Eurostat environmental database - ES00
+Slovenia,SI,SVN,705,National,13,Composting toilets,0.0,Eurostat environmental database - ES00
+Slovenia,SI,SVN,705,National,14,Other improved,0.0,Eurostat environmental database - ES00
+Slovenia,SI,SVN,705,National,15,"No facility, bush, field",0.0,Eurostat environmental database - ES00
+Slovenia,SI,SVN,705,National,16,Other unimproved,0.0,Eurostat environmental database - ES00
+Slovenia,SI,SVN,705,National,17,DK/missing information,0.0,Eurostat environmental database - ES00
+Slovenia,SI,SVN,705,Urban,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES01
+Slovenia,SI,SVN,705,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES01
+Slovenia,SI,SVN,705,Urban,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES01
+Slovenia,SI,SVN,705,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES01
+Slovenia,SI,SVN,705,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES01
+Slovenia,SI,SVN,705,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES01
+Slovenia,SI,SVN,705,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES01
+Slovenia,SI,SVN,705,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES01
+Slovenia,SI,SVN,705,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES01
+Slovenia,SI,SVN,705,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES01
+Slovenia,SI,SVN,705,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES01
+Slovenia,SI,SVN,705,Urban,12,Dry latrines - Other,0.0,Eurostat environmental database - ES01
+Slovenia,SI,SVN,705,Urban,13,Composting toilets,0.0,Eurostat environmental database - ES01
+Slovenia,SI,SVN,705,Urban,14,Other improved,0.0,Eurostat environmental database - ES01
+Slovenia,SI,SVN,705,Urban,15,"No facility, bush, field",0.0,Eurostat environmental database - ES01
+Slovenia,SI,SVN,705,Urban,16,Other unimproved,0.0,Eurostat environmental database - ES01
+Slovenia,SI,SVN,705,Urban,17,DK/missing information,0.0,Eurostat environmental database - ES01
+Slovenia,SI,SVN,705,Rural,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES01
+Slovenia,SI,SVN,705,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES01
+Slovenia,SI,SVN,705,Rural,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES01
+Slovenia,SI,SVN,705,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES01
+Slovenia,SI,SVN,705,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES01
+Slovenia,SI,SVN,705,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES01
+Slovenia,SI,SVN,705,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES01
+Slovenia,SI,SVN,705,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES01
+Slovenia,SI,SVN,705,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES01
+Slovenia,SI,SVN,705,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES01
+Slovenia,SI,SVN,705,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES01
+Slovenia,SI,SVN,705,Rural,12,Dry latrines - Other,0.0,Eurostat environmental database - ES01
+Slovenia,SI,SVN,705,Rural,13,Composting toilets,0.0,Eurostat environmental database - ES01
+Slovenia,SI,SVN,705,Rural,14,Other improved,0.0,Eurostat environmental database - ES01
+Slovenia,SI,SVN,705,Rural,15,"No facility, bush, field",0.0,Eurostat environmental database - ES01
+Slovenia,SI,SVN,705,Rural,16,Other unimproved,0.0,Eurostat environmental database - ES01
+Slovenia,SI,SVN,705,Rural,17,DK/missing information,0.0,Eurostat environmental database - ES01
+Slovenia,SI,SVN,705,National,1,Flush and pour flush - to piped sewer system,0.53,Eurostat environmental database - ES01
+Slovenia,SI,SVN,705,National,2,Flush and pour flush - to septic tank,0.47,Eurostat environmental database - ES01
+Slovenia,SI,SVN,705,National,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES01
+Slovenia,SI,SVN,705,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES01
+Slovenia,SI,SVN,705,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES01
+Slovenia,SI,SVN,705,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES01
+Slovenia,SI,SVN,705,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES01
+Slovenia,SI,SVN,705,National,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES01
+Slovenia,SI,SVN,705,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES01
+Slovenia,SI,SVN,705,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES01
+Slovenia,SI,SVN,705,National,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES01
+Slovenia,SI,SVN,705,National,12,Dry latrines - Other,0.0,Eurostat environmental database - ES01
+Slovenia,SI,SVN,705,National,13,Composting toilets,0.0,Eurostat environmental database - ES01
+Slovenia,SI,SVN,705,National,14,Other improved,0.0,Eurostat environmental database - ES01
+Slovenia,SI,SVN,705,National,15,"No facility, bush, field",0.0,Eurostat environmental database - ES01
+Slovenia,SI,SVN,705,National,16,Other unimproved,0.0,Eurostat environmental database - ES01
+Slovenia,SI,SVN,705,National,17,DK/missing information,0.0,Eurostat environmental database - ES01
+Slovenia,SI,SVN,705,Urban,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES02
+Slovenia,SI,SVN,705,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES02
+Slovenia,SI,SVN,705,Urban,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES02
+Slovenia,SI,SVN,705,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES02
+Slovenia,SI,SVN,705,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES02
+Slovenia,SI,SVN,705,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES02
+Slovenia,SI,SVN,705,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES02
+Slovenia,SI,SVN,705,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES02
+Slovenia,SI,SVN,705,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES02
+Slovenia,SI,SVN,705,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES02
+Slovenia,SI,SVN,705,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES02
+Slovenia,SI,SVN,705,Urban,12,Dry latrines - Other,0.0,Eurostat environmental database - ES02
+Slovenia,SI,SVN,705,Urban,13,Composting toilets,0.0,Eurostat environmental database - ES02
+Slovenia,SI,SVN,705,Urban,14,Other improved,0.0,Eurostat environmental database - ES02
+Slovenia,SI,SVN,705,Urban,15,"No facility, bush, field",0.0,Eurostat environmental database - ES02
+Slovenia,SI,SVN,705,Urban,16,Other unimproved,0.0,Eurostat environmental database - ES02
+Slovenia,SI,SVN,705,Urban,17,DK/missing information,0.0,Eurostat environmental database - ES02
+Slovenia,SI,SVN,705,Rural,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES02
+Slovenia,SI,SVN,705,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES02
+Slovenia,SI,SVN,705,Rural,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES02
+Slovenia,SI,SVN,705,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES02
+Slovenia,SI,SVN,705,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES02
+Slovenia,SI,SVN,705,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES02
+Slovenia,SI,SVN,705,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES02
+Slovenia,SI,SVN,705,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES02
+Slovenia,SI,SVN,705,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES02
+Slovenia,SI,SVN,705,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES02
+Slovenia,SI,SVN,705,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES02
+Slovenia,SI,SVN,705,Rural,12,Dry latrines - Other,0.0,Eurostat environmental database - ES02
+Slovenia,SI,SVN,705,Rural,13,Composting toilets,0.0,Eurostat environmental database - ES02
+Slovenia,SI,SVN,705,Rural,14,Other improved,0.0,Eurostat environmental database - ES02
+Slovenia,SI,SVN,705,Rural,15,"No facility, bush, field",0.0,Eurostat environmental database - ES02
+Slovenia,SI,SVN,705,Rural,16,Other unimproved,0.0,Eurostat environmental database - ES02
+Slovenia,SI,SVN,705,Rural,17,DK/missing information,0.0,Eurostat environmental database - ES02
+Slovenia,SI,SVN,705,National,1,Flush and pour flush - to piped sewer system,0.63,Eurostat environmental database - ES02
+Slovenia,SI,SVN,705,National,2,Flush and pour flush - to septic tank,0.37,Eurostat environmental database - ES02
+Slovenia,SI,SVN,705,National,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES02
+Slovenia,SI,SVN,705,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES02
+Slovenia,SI,SVN,705,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES02
+Slovenia,SI,SVN,705,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES02
+Slovenia,SI,SVN,705,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES02
+Slovenia,SI,SVN,705,National,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES02
+Slovenia,SI,SVN,705,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES02
+Slovenia,SI,SVN,705,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES02
+Slovenia,SI,SVN,705,National,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES02
+Slovenia,SI,SVN,705,National,12,Dry latrines - Other,0.0,Eurostat environmental database - ES02
+Slovenia,SI,SVN,705,National,13,Composting toilets,0.0,Eurostat environmental database - ES02
+Slovenia,SI,SVN,705,National,14,Other improved,0.0,Eurostat environmental database - ES02
+Slovenia,SI,SVN,705,National,15,"No facility, bush, field",0.0,Eurostat environmental database - ES02
+Slovenia,SI,SVN,705,National,16,Other unimproved,0.0,Eurostat environmental database - ES02
+Slovenia,SI,SVN,705,National,17,DK/missing information,0.0,Eurostat environmental database - ES02
+Slovenia,SI,SVN,705,Urban,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES03
+Slovenia,SI,SVN,705,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES03
+Slovenia,SI,SVN,705,Urban,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES03
+Slovenia,SI,SVN,705,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES03
+Slovenia,SI,SVN,705,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES03
+Slovenia,SI,SVN,705,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES03
+Slovenia,SI,SVN,705,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES03
+Slovenia,SI,SVN,705,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES03
+Slovenia,SI,SVN,705,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES03
+Slovenia,SI,SVN,705,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES03
+Slovenia,SI,SVN,705,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES03
+Slovenia,SI,SVN,705,Urban,12,Dry latrines - Other,0.0,Eurostat environmental database - ES03
+Slovenia,SI,SVN,705,Urban,13,Composting toilets,0.0,Eurostat environmental database - ES03
+Slovenia,SI,SVN,705,Urban,14,Other improved,0.0,Eurostat environmental database - ES03
+Slovenia,SI,SVN,705,Urban,15,"No facility, bush, field",0.0,Eurostat environmental database - ES03
+Slovenia,SI,SVN,705,Urban,16,Other unimproved,0.0,Eurostat environmental database - ES03
+Slovenia,SI,SVN,705,Urban,17,DK/missing information,0.0,Eurostat environmental database - ES03
+Slovenia,SI,SVN,705,Rural,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES03
+Slovenia,SI,SVN,705,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES03
+Slovenia,SI,SVN,705,Rural,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES03
+Slovenia,SI,SVN,705,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES03
+Slovenia,SI,SVN,705,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES03
+Slovenia,SI,SVN,705,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES03
+Slovenia,SI,SVN,705,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES03
+Slovenia,SI,SVN,705,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES03
+Slovenia,SI,SVN,705,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES03
+Slovenia,SI,SVN,705,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES03
+Slovenia,SI,SVN,705,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES03
+Slovenia,SI,SVN,705,Rural,12,Dry latrines - Other,0.0,Eurostat environmental database - ES03
+Slovenia,SI,SVN,705,Rural,13,Composting toilets,0.0,Eurostat environmental database - ES03
+Slovenia,SI,SVN,705,Rural,14,Other improved,0.0,Eurostat environmental database - ES03
+Slovenia,SI,SVN,705,Rural,15,"No facility, bush, field",0.0,Eurostat environmental database - ES03
+Slovenia,SI,SVN,705,Rural,16,Other unimproved,0.0,Eurostat environmental database - ES03
+Slovenia,SI,SVN,705,Rural,17,DK/missing information,0.0,Eurostat environmental database - ES03
+Slovenia,SI,SVN,705,National,1,Flush and pour flush - to piped sewer system,0.63,Eurostat environmental database - ES03
+Slovenia,SI,SVN,705,National,2,Flush and pour flush - to septic tank,0.37,Eurostat environmental database - ES03
+Slovenia,SI,SVN,705,National,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES03
+Slovenia,SI,SVN,705,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES03
+Slovenia,SI,SVN,705,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES03
+Slovenia,SI,SVN,705,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES03
+Slovenia,SI,SVN,705,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES03
+Slovenia,SI,SVN,705,National,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES03
+Slovenia,SI,SVN,705,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES03
+Slovenia,SI,SVN,705,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES03
+Slovenia,SI,SVN,705,National,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES03
+Slovenia,SI,SVN,705,National,12,Dry latrines - Other,0.0,Eurostat environmental database - ES03
+Slovenia,SI,SVN,705,National,13,Composting toilets,0.0,Eurostat environmental database - ES03
+Slovenia,SI,SVN,705,National,14,Other improved,0.0,Eurostat environmental database - ES03
+Slovenia,SI,SVN,705,National,15,"No facility, bush, field",0.0,Eurostat environmental database - ES03
+Slovenia,SI,SVN,705,National,16,Other unimproved,0.0,Eurostat environmental database - ES03
+Slovenia,SI,SVN,705,National,17,DK/missing information,0.0,Eurostat environmental database - ES03
+Slovenia,SI,SVN,705,Urban,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES04
+Slovenia,SI,SVN,705,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES04
+Slovenia,SI,SVN,705,Urban,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES04
+Slovenia,SI,SVN,705,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES04
+Slovenia,SI,SVN,705,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES04
+Slovenia,SI,SVN,705,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES04
+Slovenia,SI,SVN,705,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES04
+Slovenia,SI,SVN,705,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES04
+Slovenia,SI,SVN,705,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES04
+Slovenia,SI,SVN,705,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES04
+Slovenia,SI,SVN,705,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES04
+Slovenia,SI,SVN,705,Urban,12,Dry latrines - Other,0.0,Eurostat environmental database - ES04
+Slovenia,SI,SVN,705,Urban,13,Composting toilets,0.0,Eurostat environmental database - ES04
+Slovenia,SI,SVN,705,Urban,14,Other improved,0.0,Eurostat environmental database - ES04
+Slovenia,SI,SVN,705,Urban,15,"No facility, bush, field",0.0,Eurostat environmental database - ES04
+Slovenia,SI,SVN,705,Urban,16,Other unimproved,0.0,Eurostat environmental database - ES04
+Slovenia,SI,SVN,705,Urban,17,DK/missing information,0.0,Eurostat environmental database - ES04
+Slovenia,SI,SVN,705,Rural,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES04
+Slovenia,SI,SVN,705,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES04
+Slovenia,SI,SVN,705,Rural,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES04
+Slovenia,SI,SVN,705,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES04
+Slovenia,SI,SVN,705,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES04
+Slovenia,SI,SVN,705,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES04
+Slovenia,SI,SVN,705,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES04
+Slovenia,SI,SVN,705,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES04
+Slovenia,SI,SVN,705,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES04
+Slovenia,SI,SVN,705,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES04
+Slovenia,SI,SVN,705,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES04
+Slovenia,SI,SVN,705,Rural,12,Dry latrines - Other,0.0,Eurostat environmental database - ES04
+Slovenia,SI,SVN,705,Rural,13,Composting toilets,0.0,Eurostat environmental database - ES04
+Slovenia,SI,SVN,705,Rural,14,Other improved,0.0,Eurostat environmental database - ES04
+Slovenia,SI,SVN,705,Rural,15,"No facility, bush, field",0.0,Eurostat environmental database - ES04
+Slovenia,SI,SVN,705,Rural,16,Other unimproved,0.0,Eurostat environmental database - ES04
+Slovenia,SI,SVN,705,Rural,17,DK/missing information,0.0,Eurostat environmental database - ES04
+Slovenia,SI,SVN,705,National,1,Flush and pour flush - to piped sewer system,0.63,Eurostat environmental database - ES04
+Slovenia,SI,SVN,705,National,2,Flush and pour flush - to septic tank,0.37,Eurostat environmental database - ES04
+Slovenia,SI,SVN,705,National,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES04
+Slovenia,SI,SVN,705,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES04
+Slovenia,SI,SVN,705,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES04
+Slovenia,SI,SVN,705,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES04
+Slovenia,SI,SVN,705,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES04
+Slovenia,SI,SVN,705,National,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES04
+Slovenia,SI,SVN,705,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES04
+Slovenia,SI,SVN,705,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES04
+Slovenia,SI,SVN,705,National,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES04
+Slovenia,SI,SVN,705,National,12,Dry latrines - Other,0.0,Eurostat environmental database - ES04
+Slovenia,SI,SVN,705,National,13,Composting toilets,0.0,Eurostat environmental database - ES04
+Slovenia,SI,SVN,705,National,14,Other improved,0.0,Eurostat environmental database - ES04
+Slovenia,SI,SVN,705,National,15,"No facility, bush, field",0.0,Eurostat environmental database - ES04
+Slovenia,SI,SVN,705,National,16,Other unimproved,0.0,Eurostat environmental database - ES04
+Slovenia,SI,SVN,705,National,17,DK/missing information,0.0,Eurostat environmental database - ES04
+Slovenia,SI,SVN,705,Urban,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES05
+Slovenia,SI,SVN,705,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES05
+Slovenia,SI,SVN,705,Urban,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES05
+Slovenia,SI,SVN,705,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES05
+Slovenia,SI,SVN,705,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES05
+Slovenia,SI,SVN,705,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES05
+Slovenia,SI,SVN,705,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES05
+Slovenia,SI,SVN,705,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES05
+Slovenia,SI,SVN,705,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES05
+Slovenia,SI,SVN,705,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES05
+Slovenia,SI,SVN,705,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES05
+Slovenia,SI,SVN,705,Urban,12,Dry latrines - Other,0.0,Eurostat environmental database - ES05
+Slovenia,SI,SVN,705,Urban,13,Composting toilets,0.0,Eurostat environmental database - ES05
+Slovenia,SI,SVN,705,Urban,14,Other improved,0.0,Eurostat environmental database - ES05
+Slovenia,SI,SVN,705,Urban,15,"No facility, bush, field",0.0,Eurostat environmental database - ES05
+Slovenia,SI,SVN,705,Urban,16,Other unimproved,0.0,Eurostat environmental database - ES05
+Slovenia,SI,SVN,705,Urban,17,DK/missing information,0.0,Eurostat environmental database - ES05
+Slovenia,SI,SVN,705,Rural,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES05
+Slovenia,SI,SVN,705,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES05
+Slovenia,SI,SVN,705,Rural,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES05
+Slovenia,SI,SVN,705,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES05
+Slovenia,SI,SVN,705,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES05
+Slovenia,SI,SVN,705,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES05
+Slovenia,SI,SVN,705,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES05
+Slovenia,SI,SVN,705,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES05
+Slovenia,SI,SVN,705,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES05
+Slovenia,SI,SVN,705,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES05
+Slovenia,SI,SVN,705,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES05
+Slovenia,SI,SVN,705,Rural,12,Dry latrines - Other,0.0,Eurostat environmental database - ES05
+Slovenia,SI,SVN,705,Rural,13,Composting toilets,0.0,Eurostat environmental database - ES05
+Slovenia,SI,SVN,705,Rural,14,Other improved,0.0,Eurostat environmental database - ES05
+Slovenia,SI,SVN,705,Rural,15,"No facility, bush, field",0.0,Eurostat environmental database - ES05
+Slovenia,SI,SVN,705,Rural,16,Other unimproved,0.0,Eurostat environmental database - ES05
+Slovenia,SI,SVN,705,Rural,17,DK/missing information,0.0,Eurostat environmental database - ES05
+Slovenia,SI,SVN,705,National,1,Flush and pour flush - to piped sewer system,0.63,Eurostat environmental database - ES05
+Slovenia,SI,SVN,705,National,2,Flush and pour flush - to septic tank,0.37,Eurostat environmental database - ES05
+Slovenia,SI,SVN,705,National,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES05
+Slovenia,SI,SVN,705,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES05
+Slovenia,SI,SVN,705,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES05
+Slovenia,SI,SVN,705,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES05
+Slovenia,SI,SVN,705,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES05
+Slovenia,SI,SVN,705,National,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES05
+Slovenia,SI,SVN,705,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES05
+Slovenia,SI,SVN,705,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES05
+Slovenia,SI,SVN,705,National,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES05
+Slovenia,SI,SVN,705,National,12,Dry latrines - Other,0.0,Eurostat environmental database - ES05
+Slovenia,SI,SVN,705,National,13,Composting toilets,0.0,Eurostat environmental database - ES05
+Slovenia,SI,SVN,705,National,14,Other improved,0.0,Eurostat environmental database - ES05
+Slovenia,SI,SVN,705,National,15,"No facility, bush, field",0.0,Eurostat environmental database - ES05
+Slovenia,SI,SVN,705,National,16,Other unimproved,0.0,Eurostat environmental database - ES05
+Slovenia,SI,SVN,705,National,17,DK/missing information,0.0,Eurostat environmental database - ES05
+Slovenia,SI,SVN,705,Urban,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES06
+Slovenia,SI,SVN,705,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES06
+Slovenia,SI,SVN,705,Urban,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES06
+Slovenia,SI,SVN,705,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES06
+Slovenia,SI,SVN,705,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES06
+Slovenia,SI,SVN,705,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES06
+Slovenia,SI,SVN,705,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES06
+Slovenia,SI,SVN,705,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES06
+Slovenia,SI,SVN,705,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES06
+Slovenia,SI,SVN,705,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES06
+Slovenia,SI,SVN,705,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES06
+Slovenia,SI,SVN,705,Urban,12,Dry latrines - Other,0.0,Eurostat environmental database - ES06
+Slovenia,SI,SVN,705,Urban,13,Composting toilets,0.0,Eurostat environmental database - ES06
+Slovenia,SI,SVN,705,Urban,14,Other improved,0.0,Eurostat environmental database - ES06
+Slovenia,SI,SVN,705,Urban,15,"No facility, bush, field",0.0,Eurostat environmental database - ES06
+Slovenia,SI,SVN,705,Urban,16,Other unimproved,0.0,Eurostat environmental database - ES06
+Slovenia,SI,SVN,705,Urban,17,DK/missing information,0.0,Eurostat environmental database - ES06
+Slovenia,SI,SVN,705,Rural,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES06
+Slovenia,SI,SVN,705,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES06
+Slovenia,SI,SVN,705,Rural,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES06
+Slovenia,SI,SVN,705,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES06
+Slovenia,SI,SVN,705,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES06
+Slovenia,SI,SVN,705,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES06
+Slovenia,SI,SVN,705,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES06
+Slovenia,SI,SVN,705,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES06
+Slovenia,SI,SVN,705,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES06
+Slovenia,SI,SVN,705,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES06
+Slovenia,SI,SVN,705,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES06
+Slovenia,SI,SVN,705,Rural,12,Dry latrines - Other,0.0,Eurostat environmental database - ES06
+Slovenia,SI,SVN,705,Rural,13,Composting toilets,0.0,Eurostat environmental database - ES06
+Slovenia,SI,SVN,705,Rural,14,Other improved,0.0,Eurostat environmental database - ES06
+Slovenia,SI,SVN,705,Rural,15,"No facility, bush, field",0.0,Eurostat environmental database - ES06
+Slovenia,SI,SVN,705,Rural,16,Other unimproved,0.0,Eurostat environmental database - ES06
+Slovenia,SI,SVN,705,Rural,17,DK/missing information,0.0,Eurostat environmental database - ES06
+Slovenia,SI,SVN,705,National,1,Flush and pour flush - to piped sewer system,0.513,Eurostat environmental database - ES06
+Slovenia,SI,SVN,705,National,2,Flush and pour flush - to septic tank,0.352,Eurostat environmental database - ES06
+Slovenia,SI,SVN,705,National,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES06
+Slovenia,SI,SVN,705,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES06
+Slovenia,SI,SVN,705,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES06
+Slovenia,SI,SVN,705,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES06
+Slovenia,SI,SVN,705,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES06
+Slovenia,SI,SVN,705,National,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES06
+Slovenia,SI,SVN,705,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES06
+Slovenia,SI,SVN,705,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES06
+Slovenia,SI,SVN,705,National,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES06
+Slovenia,SI,SVN,705,National,12,Dry latrines - Other,0.0,Eurostat environmental database - ES06
+Slovenia,SI,SVN,705,National,13,Composting toilets,0.0,Eurostat environmental database - ES06
+Slovenia,SI,SVN,705,National,14,Other improved,0.0,Eurostat environmental database - ES06
+Slovenia,SI,SVN,705,National,15,"No facility, bush, field",0.0,Eurostat environmental database - ES06
+Slovenia,SI,SVN,705,National,16,Other unimproved,0.113,Eurostat environmental database - ES06
+Slovenia,SI,SVN,705,National,17,DK/missing information,0.0,Eurostat environmental database - ES06
+Slovenia,SI,SVN,705,Urban,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES07
+Slovenia,SI,SVN,705,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES07
+Slovenia,SI,SVN,705,Urban,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES07
+Slovenia,SI,SVN,705,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES07
+Slovenia,SI,SVN,705,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES07
+Slovenia,SI,SVN,705,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES07
+Slovenia,SI,SVN,705,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES07
+Slovenia,SI,SVN,705,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES07
+Slovenia,SI,SVN,705,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES07
+Slovenia,SI,SVN,705,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES07
+Slovenia,SI,SVN,705,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES07
+Slovenia,SI,SVN,705,Urban,12,Dry latrines - Other,0.0,Eurostat environmental database - ES07
+Slovenia,SI,SVN,705,Urban,13,Composting toilets,0.0,Eurostat environmental database - ES07
+Slovenia,SI,SVN,705,Urban,14,Other improved,0.0,Eurostat environmental database - ES07
+Slovenia,SI,SVN,705,Urban,15,"No facility, bush, field",0.0,Eurostat environmental database - ES07
+Slovenia,SI,SVN,705,Urban,16,Other unimproved,0.0,Eurostat environmental database - ES07
+Slovenia,SI,SVN,705,Urban,17,DK/missing information,0.0,Eurostat environmental database - ES07
+Slovenia,SI,SVN,705,Rural,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES07
+Slovenia,SI,SVN,705,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES07
+Slovenia,SI,SVN,705,Rural,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES07
+Slovenia,SI,SVN,705,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES07
+Slovenia,SI,SVN,705,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES07
+Slovenia,SI,SVN,705,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES07
+Slovenia,SI,SVN,705,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES07
+Slovenia,SI,SVN,705,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES07
+Slovenia,SI,SVN,705,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES07
+Slovenia,SI,SVN,705,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES07
+Slovenia,SI,SVN,705,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES07
+Slovenia,SI,SVN,705,Rural,12,Dry latrines - Other,0.0,Eurostat environmental database - ES07
+Slovenia,SI,SVN,705,Rural,13,Composting toilets,0.0,Eurostat environmental database - ES07
+Slovenia,SI,SVN,705,Rural,14,Other improved,0.0,Eurostat environmental database - ES07
+Slovenia,SI,SVN,705,Rural,15,"No facility, bush, field",0.0,Eurostat environmental database - ES07
+Slovenia,SI,SVN,705,Rural,16,Other unimproved,0.0,Eurostat environmental database - ES07
+Slovenia,SI,SVN,705,Rural,17,DK/missing information,0.0,Eurostat environmental database - ES07
+Slovenia,SI,SVN,705,National,1,Flush and pour flush - to piped sewer system,0.525,Eurostat environmental database - ES07
+Slovenia,SI,SVN,705,National,2,Flush and pour flush - to septic tank,0.352,Eurostat environmental database - ES07
+Slovenia,SI,SVN,705,National,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES07
+Slovenia,SI,SVN,705,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES07
+Slovenia,SI,SVN,705,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES07
+Slovenia,SI,SVN,705,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES07
+Slovenia,SI,SVN,705,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES07
+Slovenia,SI,SVN,705,National,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES07
+Slovenia,SI,SVN,705,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES07
+Slovenia,SI,SVN,705,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES07
+Slovenia,SI,SVN,705,National,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES07
+Slovenia,SI,SVN,705,National,12,Dry latrines - Other,0.0,Eurostat environmental database - ES07
+Slovenia,SI,SVN,705,National,13,Composting toilets,0.0,Eurostat environmental database - ES07
+Slovenia,SI,SVN,705,National,14,Other improved,0.0,Eurostat environmental database - ES07
+Slovenia,SI,SVN,705,National,15,"No facility, bush, field",0.0,Eurostat environmental database - ES07
+Slovenia,SI,SVN,705,National,16,Other unimproved,0.101,Eurostat environmental database - ES07
+Slovenia,SI,SVN,705,National,17,DK/missing information,0.0,Eurostat environmental database - ES07
+Slovenia,SI,SVN,705,Urban,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES08
+Slovenia,SI,SVN,705,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES08
+Slovenia,SI,SVN,705,Urban,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES08
+Slovenia,SI,SVN,705,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES08
+Slovenia,SI,SVN,705,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES08
+Slovenia,SI,SVN,705,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES08
+Slovenia,SI,SVN,705,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES08
+Slovenia,SI,SVN,705,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES08
+Slovenia,SI,SVN,705,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES08
+Slovenia,SI,SVN,705,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES08
+Slovenia,SI,SVN,705,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES08
+Slovenia,SI,SVN,705,Urban,12,Dry latrines - Other,0.0,Eurostat environmental database - ES08
+Slovenia,SI,SVN,705,Urban,13,Composting toilets,0.0,Eurostat environmental database - ES08
+Slovenia,SI,SVN,705,Urban,14,Other improved,0.0,Eurostat environmental database - ES08
+Slovenia,SI,SVN,705,Urban,15,"No facility, bush, field",0.0,Eurostat environmental database - ES08
+Slovenia,SI,SVN,705,Urban,16,Other unimproved,0.0,Eurostat environmental database - ES08
+Slovenia,SI,SVN,705,Urban,17,DK/missing information,0.0,Eurostat environmental database - ES08
+Slovenia,SI,SVN,705,Rural,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES08
+Slovenia,SI,SVN,705,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES08
+Slovenia,SI,SVN,705,Rural,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES08
+Slovenia,SI,SVN,705,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES08
+Slovenia,SI,SVN,705,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES08
+Slovenia,SI,SVN,705,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES08
+Slovenia,SI,SVN,705,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES08
+Slovenia,SI,SVN,705,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES08
+Slovenia,SI,SVN,705,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES08
+Slovenia,SI,SVN,705,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES08
+Slovenia,SI,SVN,705,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES08
+Slovenia,SI,SVN,705,Rural,12,Dry latrines - Other,0.0,Eurostat environmental database - ES08
+Slovenia,SI,SVN,705,Rural,13,Composting toilets,0.0,Eurostat environmental database - ES08
+Slovenia,SI,SVN,705,Rural,14,Other improved,0.0,Eurostat environmental database - ES08
+Slovenia,SI,SVN,705,Rural,15,"No facility, bush, field",0.0,Eurostat environmental database - ES08
+Slovenia,SI,SVN,705,Rural,16,Other unimproved,0.0,Eurostat environmental database - ES08
+Slovenia,SI,SVN,705,Rural,17,DK/missing information,0.0,Eurostat environmental database - ES08
+Slovenia,SI,SVN,705,National,1,Flush and pour flush - to piped sewer system,0.524,Eurostat environmental database - ES08
+Slovenia,SI,SVN,705,National,2,Flush and pour flush - to septic tank,0.352,Eurostat environmental database - ES08
+Slovenia,SI,SVN,705,National,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES08
+Slovenia,SI,SVN,705,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES08
+Slovenia,SI,SVN,705,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES08
+Slovenia,SI,SVN,705,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES08
+Slovenia,SI,SVN,705,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES08
+Slovenia,SI,SVN,705,National,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES08
+Slovenia,SI,SVN,705,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES08
+Slovenia,SI,SVN,705,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES08
+Slovenia,SI,SVN,705,National,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES08
+Slovenia,SI,SVN,705,National,12,Dry latrines - Other,0.0,Eurostat environmental database - ES08
+Slovenia,SI,SVN,705,National,13,Composting toilets,0.0,Eurostat environmental database - ES08
+Slovenia,SI,SVN,705,National,14,Other improved,0.0,Eurostat environmental database - ES08
+Slovenia,SI,SVN,705,National,15,"No facility, bush, field",0.0,Eurostat environmental database - ES08
+Slovenia,SI,SVN,705,National,16,Other unimproved,0.101,Eurostat environmental database - ES08
+Slovenia,SI,SVN,705,National,17,DK/missing information,0.0,Eurostat environmental database - ES08
+Slovenia,SI,SVN,705,Urban,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES09
+Slovenia,SI,SVN,705,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES09
+Slovenia,SI,SVN,705,Urban,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES09
+Slovenia,SI,SVN,705,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES09
+Slovenia,SI,SVN,705,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES09
+Slovenia,SI,SVN,705,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES09
+Slovenia,SI,SVN,705,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES09
+Slovenia,SI,SVN,705,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES09
+Slovenia,SI,SVN,705,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES09
+Slovenia,SI,SVN,705,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES09
+Slovenia,SI,SVN,705,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES09
+Slovenia,SI,SVN,705,Urban,12,Dry latrines - Other,0.0,Eurostat environmental database - ES09
+Slovenia,SI,SVN,705,Urban,13,Composting toilets,0.0,Eurostat environmental database - ES09
+Slovenia,SI,SVN,705,Urban,14,Other improved,0.0,Eurostat environmental database - ES09
+Slovenia,SI,SVN,705,Urban,15,"No facility, bush, field",0.0,Eurostat environmental database - ES09
+Slovenia,SI,SVN,705,Urban,16,Other unimproved,0.0,Eurostat environmental database - ES09
+Slovenia,SI,SVN,705,Urban,17,DK/missing information,0.0,Eurostat environmental database - ES09
+Slovenia,SI,SVN,705,Rural,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES09
+Slovenia,SI,SVN,705,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES09
+Slovenia,SI,SVN,705,Rural,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES09
+Slovenia,SI,SVN,705,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES09
+Slovenia,SI,SVN,705,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES09
+Slovenia,SI,SVN,705,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES09
+Slovenia,SI,SVN,705,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES09
+Slovenia,SI,SVN,705,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES09
+Slovenia,SI,SVN,705,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES09
+Slovenia,SI,SVN,705,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES09
+Slovenia,SI,SVN,705,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES09
+Slovenia,SI,SVN,705,Rural,12,Dry latrines - Other,0.0,Eurostat environmental database - ES09
+Slovenia,SI,SVN,705,Rural,13,Composting toilets,0.0,Eurostat environmental database - ES09
+Slovenia,SI,SVN,705,Rural,14,Other improved,0.0,Eurostat environmental database - ES09
+Slovenia,SI,SVN,705,Rural,15,"No facility, bush, field",0.0,Eurostat environmental database - ES09
+Slovenia,SI,SVN,705,Rural,16,Other unimproved,0.0,Eurostat environmental database - ES09
+Slovenia,SI,SVN,705,Rural,17,DK/missing information,0.0,Eurostat environmental database - ES09
+Slovenia,SI,SVN,705,National,1,Flush and pour flush - to piped sewer system,0.534,Eurostat environmental database - ES09
+Slovenia,SI,SVN,705,National,2,Flush and pour flush - to septic tank,0.352,Eurostat environmental database - ES09
+Slovenia,SI,SVN,705,National,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES09
+Slovenia,SI,SVN,705,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES09
+Slovenia,SI,SVN,705,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES09
+Slovenia,SI,SVN,705,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES09
+Slovenia,SI,SVN,705,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES09
+Slovenia,SI,SVN,705,National,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES09
+Slovenia,SI,SVN,705,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES09
+Slovenia,SI,SVN,705,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES09
+Slovenia,SI,SVN,705,National,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES09
+Slovenia,SI,SVN,705,National,12,Dry latrines - Other,0.0,Eurostat environmental database - ES09
+Slovenia,SI,SVN,705,National,13,Composting toilets,0.0,Eurostat environmental database - ES09
+Slovenia,SI,SVN,705,National,14,Other improved,0.0,Eurostat environmental database - ES09
+Slovenia,SI,SVN,705,National,15,"No facility, bush, field",0.0,Eurostat environmental database - ES09
+Slovenia,SI,SVN,705,National,16,Other unimproved,0.092,Eurostat environmental database - ES09
+Slovenia,SI,SVN,705,National,17,DK/missing information,0.0,Eurostat environmental database - ES09
+Slovenia,SI,SVN,705,Urban,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES10
+Slovenia,SI,SVN,705,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES10
+Slovenia,SI,SVN,705,Urban,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES10
+Slovenia,SI,SVN,705,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES10
+Slovenia,SI,SVN,705,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES10
+Slovenia,SI,SVN,705,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES10
+Slovenia,SI,SVN,705,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES10
+Slovenia,SI,SVN,705,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES10
+Slovenia,SI,SVN,705,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES10
+Slovenia,SI,SVN,705,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES10
+Slovenia,SI,SVN,705,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES10
+Slovenia,SI,SVN,705,Urban,12,Dry latrines - Other,0.0,Eurostat environmental database - ES10
+Slovenia,SI,SVN,705,Urban,13,Composting toilets,0.0,Eurostat environmental database - ES10
+Slovenia,SI,SVN,705,Urban,14,Other improved,0.0,Eurostat environmental database - ES10
+Slovenia,SI,SVN,705,Urban,15,"No facility, bush, field",0.0,Eurostat environmental database - ES10
+Slovenia,SI,SVN,705,Urban,16,Other unimproved,0.0,Eurostat environmental database - ES10
+Slovenia,SI,SVN,705,Urban,17,DK/missing information,0.0,Eurostat environmental database - ES10
+Slovenia,SI,SVN,705,Rural,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES10
+Slovenia,SI,SVN,705,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES10
+Slovenia,SI,SVN,705,Rural,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES10
+Slovenia,SI,SVN,705,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES10
+Slovenia,SI,SVN,705,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES10
+Slovenia,SI,SVN,705,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES10
+Slovenia,SI,SVN,705,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES10
+Slovenia,SI,SVN,705,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES10
+Slovenia,SI,SVN,705,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES10
+Slovenia,SI,SVN,705,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES10
+Slovenia,SI,SVN,705,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES10
+Slovenia,SI,SVN,705,Rural,12,Dry latrines - Other,0.0,Eurostat environmental database - ES10
+Slovenia,SI,SVN,705,Rural,13,Composting toilets,0.0,Eurostat environmental database - ES10
+Slovenia,SI,SVN,705,Rural,14,Other improved,0.0,Eurostat environmental database - ES10
+Slovenia,SI,SVN,705,Rural,15,"No facility, bush, field",0.0,Eurostat environmental database - ES10
+Slovenia,SI,SVN,705,Rural,16,Other unimproved,0.0,Eurostat environmental database - ES10
+Slovenia,SI,SVN,705,Rural,17,DK/missing information,0.0,Eurostat environmental database - ES10
+Slovenia,SI,SVN,705,National,1,Flush and pour flush - to piped sewer system,0.53,Eurostat environmental database - ES10
+Slovenia,SI,SVN,705,National,2,Flush and pour flush - to septic tank,0.352,Eurostat environmental database - ES10
+Slovenia,SI,SVN,705,National,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES10
+Slovenia,SI,SVN,705,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES10
+Slovenia,SI,SVN,705,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES10
+Slovenia,SI,SVN,705,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES10
+Slovenia,SI,SVN,705,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES10
+Slovenia,SI,SVN,705,National,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES10
+Slovenia,SI,SVN,705,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES10
+Slovenia,SI,SVN,705,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES10
+Slovenia,SI,SVN,705,National,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES10
+Slovenia,SI,SVN,705,National,12,Dry latrines - Other,0.0,Eurostat environmental database - ES10
+Slovenia,SI,SVN,705,National,13,Composting toilets,0.0,Eurostat environmental database - ES10
+Slovenia,SI,SVN,705,National,14,Other improved,0.0,Eurostat environmental database - ES10
+Slovenia,SI,SVN,705,National,15,"No facility, bush, field",0.0,Eurostat environmental database - ES10
+Slovenia,SI,SVN,705,National,16,Other unimproved,0.096,Eurostat environmental database - ES10
+Slovenia,SI,SVN,705,National,17,DK/missing information,0.0,Eurostat environmental database - ES10
+Slovenia,SI,SVN,705,Urban,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES11
+Slovenia,SI,SVN,705,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES11
+Slovenia,SI,SVN,705,Urban,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES11
+Slovenia,SI,SVN,705,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES11
+Slovenia,SI,SVN,705,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES11
+Slovenia,SI,SVN,705,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES11
+Slovenia,SI,SVN,705,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES11
+Slovenia,SI,SVN,705,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES11
+Slovenia,SI,SVN,705,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES11
+Slovenia,SI,SVN,705,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES11
+Slovenia,SI,SVN,705,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES11
+Slovenia,SI,SVN,705,Urban,12,Dry latrines - Other,0.0,Eurostat environmental database - ES11
+Slovenia,SI,SVN,705,Urban,13,Composting toilets,0.0,Eurostat environmental database - ES11
+Slovenia,SI,SVN,705,Urban,14,Other improved,0.0,Eurostat environmental database - ES11
+Slovenia,SI,SVN,705,Urban,15,"No facility, bush, field",0.0,Eurostat environmental database - ES11
+Slovenia,SI,SVN,705,Urban,16,Other unimproved,0.0,Eurostat environmental database - ES11
+Slovenia,SI,SVN,705,Urban,17,DK/missing information,0.0,Eurostat environmental database - ES11
+Slovenia,SI,SVN,705,Rural,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES11
+Slovenia,SI,SVN,705,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES11
+Slovenia,SI,SVN,705,Rural,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES11
+Slovenia,SI,SVN,705,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES11
+Slovenia,SI,SVN,705,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES11
+Slovenia,SI,SVN,705,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES11
+Slovenia,SI,SVN,705,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES11
+Slovenia,SI,SVN,705,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES11
+Slovenia,SI,SVN,705,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES11
+Slovenia,SI,SVN,705,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES11
+Slovenia,SI,SVN,705,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES11
+Slovenia,SI,SVN,705,Rural,12,Dry latrines - Other,0.0,Eurostat environmental database - ES11
+Slovenia,SI,SVN,705,Rural,13,Composting toilets,0.0,Eurostat environmental database - ES11
+Slovenia,SI,SVN,705,Rural,14,Other improved,0.0,Eurostat environmental database - ES11
+Slovenia,SI,SVN,705,Rural,15,"No facility, bush, field",0.0,Eurostat environmental database - ES11
+Slovenia,SI,SVN,705,Rural,16,Other unimproved,0.0,Eurostat environmental database - ES11
+Slovenia,SI,SVN,705,Rural,17,DK/missing information,0.0,Eurostat environmental database - ES11
+Slovenia,SI,SVN,705,National,1,Flush and pour flush - to piped sewer system,0.545,Eurostat environmental database - ES11
+Slovenia,SI,SVN,705,National,2,Flush and pour flush - to septic tank,0.352,Eurostat environmental database - ES11
+Slovenia,SI,SVN,705,National,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES11
+Slovenia,SI,SVN,705,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES11
+Slovenia,SI,SVN,705,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES11
+Slovenia,SI,SVN,705,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES11
+Slovenia,SI,SVN,705,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES11
+Slovenia,SI,SVN,705,National,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES11
+Slovenia,SI,SVN,705,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES11
+Slovenia,SI,SVN,705,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES11
+Slovenia,SI,SVN,705,National,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES11
+Slovenia,SI,SVN,705,National,12,Dry latrines - Other,0.0,Eurostat environmental database - ES11
+Slovenia,SI,SVN,705,National,13,Composting toilets,0.0,Eurostat environmental database - ES11
+Slovenia,SI,SVN,705,National,14,Other improved,0.0,Eurostat environmental database - ES11
+Slovenia,SI,SVN,705,National,15,"No facility, bush, field",0.0,Eurostat environmental database - ES11
+Slovenia,SI,SVN,705,National,16,Other unimproved,0.081,Eurostat environmental database - ES11
+Slovenia,SI,SVN,705,National,17,DK/missing information,0.0,Eurostat environmental database - ES11
+Slovenia,SI,SVN,705,Urban,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES12
+Slovenia,SI,SVN,705,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES12
+Slovenia,SI,SVN,705,Urban,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES12
+Slovenia,SI,SVN,705,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES12
+Slovenia,SI,SVN,705,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES12
+Slovenia,SI,SVN,705,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES12
+Slovenia,SI,SVN,705,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES12
+Slovenia,SI,SVN,705,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES12
+Slovenia,SI,SVN,705,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES12
+Slovenia,SI,SVN,705,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES12
+Slovenia,SI,SVN,705,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES12
+Slovenia,SI,SVN,705,Urban,12,Dry latrines - Other,0.0,Eurostat environmental database - ES12
+Slovenia,SI,SVN,705,Urban,13,Composting toilets,0.0,Eurostat environmental database - ES12
+Slovenia,SI,SVN,705,Urban,14,Other improved,0.0,Eurostat environmental database - ES12
+Slovenia,SI,SVN,705,Urban,15,"No facility, bush, field",0.0,Eurostat environmental database - ES12
+Slovenia,SI,SVN,705,Urban,16,Other unimproved,0.0,Eurostat environmental database - ES12
+Slovenia,SI,SVN,705,Urban,17,DK/missing information,0.0,Eurostat environmental database - ES12
+Slovenia,SI,SVN,705,Rural,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES12
+Slovenia,SI,SVN,705,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES12
+Slovenia,SI,SVN,705,Rural,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES12
+Slovenia,SI,SVN,705,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES12
+Slovenia,SI,SVN,705,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES12
+Slovenia,SI,SVN,705,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES12
+Slovenia,SI,SVN,705,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES12
+Slovenia,SI,SVN,705,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES12
+Slovenia,SI,SVN,705,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES12
+Slovenia,SI,SVN,705,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES12
+Slovenia,SI,SVN,705,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES12
+Slovenia,SI,SVN,705,Rural,12,Dry latrines - Other,0.0,Eurostat environmental database - ES12
+Slovenia,SI,SVN,705,Rural,13,Composting toilets,0.0,Eurostat environmental database - ES12
+Slovenia,SI,SVN,705,Rural,14,Other improved,0.0,Eurostat environmental database - ES12
+Slovenia,SI,SVN,705,Rural,15,"No facility, bush, field",0.0,Eurostat environmental database - ES12
+Slovenia,SI,SVN,705,Rural,16,Other unimproved,0.0,Eurostat environmental database - ES12
+Slovenia,SI,SVN,705,Rural,17,DK/missing information,0.0,Eurostat environmental database - ES12
+Slovenia,SI,SVN,705,National,1,Flush and pour flush - to piped sewer system,0.547,Eurostat environmental database - ES12
+Slovenia,SI,SVN,705,National,2,Flush and pour flush - to septic tank,0.352,Eurostat environmental database - ES12
+Slovenia,SI,SVN,705,National,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES12
+Slovenia,SI,SVN,705,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES12
+Slovenia,SI,SVN,705,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES12
+Slovenia,SI,SVN,705,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES12
+Slovenia,SI,SVN,705,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES12
+Slovenia,SI,SVN,705,National,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES12
+Slovenia,SI,SVN,705,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES12
+Slovenia,SI,SVN,705,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES12
+Slovenia,SI,SVN,705,National,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES12
+Slovenia,SI,SVN,705,National,12,Dry latrines - Other,0.0,Eurostat environmental database - ES12
+Slovenia,SI,SVN,705,National,13,Composting toilets,0.0,Eurostat environmental database - ES12
+Slovenia,SI,SVN,705,National,14,Other improved,0.0,Eurostat environmental database - ES12
+Slovenia,SI,SVN,705,National,15,"No facility, bush, field",0.0,Eurostat environmental database - ES12
+Slovenia,SI,SVN,705,National,16,Other unimproved,0.08,Eurostat environmental database - ES12
+Slovenia,SI,SVN,705,National,17,DK/missing information,0.0,Eurostat environmental database - ES12
+Slovenia,SI,SVN,705,Urban,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES13
+Slovenia,SI,SVN,705,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES13
+Slovenia,SI,SVN,705,Urban,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES13
+Slovenia,SI,SVN,705,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES13
+Slovenia,SI,SVN,705,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES13
+Slovenia,SI,SVN,705,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES13
+Slovenia,SI,SVN,705,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES13
+Slovenia,SI,SVN,705,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES13
+Slovenia,SI,SVN,705,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES13
+Slovenia,SI,SVN,705,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES13
+Slovenia,SI,SVN,705,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES13
+Slovenia,SI,SVN,705,Urban,12,Dry latrines - Other,0.0,Eurostat environmental database - ES13
+Slovenia,SI,SVN,705,Urban,13,Composting toilets,0.0,Eurostat environmental database - ES13
+Slovenia,SI,SVN,705,Urban,14,Other improved,0.0,Eurostat environmental database - ES13
+Slovenia,SI,SVN,705,Urban,15,"No facility, bush, field",0.0,Eurostat environmental database - ES13
+Slovenia,SI,SVN,705,Urban,16,Other unimproved,0.0,Eurostat environmental database - ES13
+Slovenia,SI,SVN,705,Urban,17,DK/missing information,0.0,Eurostat environmental database - ES13
+Slovenia,SI,SVN,705,Rural,1,Flush and pour flush - to piped sewer system,0.0,Eurostat environmental database - ES13
+Slovenia,SI,SVN,705,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat environmental database - ES13
+Slovenia,SI,SVN,705,Rural,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES13
+Slovenia,SI,SVN,705,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES13
+Slovenia,SI,SVN,705,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES13
+Slovenia,SI,SVN,705,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES13
+Slovenia,SI,SVN,705,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES13
+Slovenia,SI,SVN,705,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES13
+Slovenia,SI,SVN,705,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES13
+Slovenia,SI,SVN,705,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES13
+Slovenia,SI,SVN,705,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES13
+Slovenia,SI,SVN,705,Rural,12,Dry latrines - Other,0.0,Eurostat environmental database - ES13
+Slovenia,SI,SVN,705,Rural,13,Composting toilets,0.0,Eurostat environmental database - ES13
+Slovenia,SI,SVN,705,Rural,14,Other improved,0.0,Eurostat environmental database - ES13
+Slovenia,SI,SVN,705,Rural,15,"No facility, bush, field",0.0,Eurostat environmental database - ES13
+Slovenia,SI,SVN,705,Rural,16,Other unimproved,0.0,Eurostat environmental database - ES13
+Slovenia,SI,SVN,705,Rural,17,DK/missing information,0.0,Eurostat environmental database - ES13
+Slovenia,SI,SVN,705,National,1,Flush and pour flush - to piped sewer system,0.554,Eurostat environmental database - ES13
+Slovenia,SI,SVN,705,National,2,Flush and pour flush - to septic tank,0.352,Eurostat environmental database - ES13
+Slovenia,SI,SVN,705,National,3,Flush and pour flush - to pit,0.0,Eurostat environmental database - ES13
+Slovenia,SI,SVN,705,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat environmental database - ES13
+Slovenia,SI,SVN,705,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat environmental database - ES13
+Slovenia,SI,SVN,705,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat environmental database - ES13
+Slovenia,SI,SVN,705,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat environmental database - ES13
+Slovenia,SI,SVN,705,National,8,Dry latrines - Traditional latrine,0.0,Eurostat environmental database - ES13
+Slovenia,SI,SVN,705,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat environmental database - ES13
+Slovenia,SI,SVN,705,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat environmental database - ES13
+Slovenia,SI,SVN,705,National,11,Dry latrines - Bucket latrine,0.0,Eurostat environmental database - ES13
+Slovenia,SI,SVN,705,National,12,Dry latrines - Other,0.0,Eurostat environmental database - ES13
+Slovenia,SI,SVN,705,National,13,Composting toilets,0.0,Eurostat environmental database - ES13
+Slovenia,SI,SVN,705,National,14,Other improved,0.0,Eurostat environmental database - ES13
+Slovenia,SI,SVN,705,National,15,"No facility, bush, field",0.0,Eurostat environmental database - ES13
+Slovenia,SI,SVN,705,National,16,Other unimproved,0.072,Eurostat environmental database - ES13
+Slovenia,SI,SVN,705,National,17,DK/missing information,0.0,Eurostat environmental database - ES13
+Slovenia,SI,SVN,705,Urban,1,Flush and pour flush - to piped sewer system,0.0,EUROSTAT - ES14
+Slovenia,SI,SVN,705,Urban,2,Flush and pour flush - to septic tank,0.0,EUROSTAT - ES14
+Slovenia,SI,SVN,705,Urban,3,Flush and pour flush - to pit,0.0,EUROSTAT - ES14
+Slovenia,SI,SVN,705,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,EUROSTAT - ES14
+Slovenia,SI,SVN,705,Urban,5,Flush and pour flush - to elsewhere,0.0,EUROSTAT - ES14
+Slovenia,SI,SVN,705,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,EUROSTAT - ES14
+Slovenia,SI,SVN,705,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,EUROSTAT - ES14
+Slovenia,SI,SVN,705,Urban,8,Dry latrines - Traditional latrine,0.0,EUROSTAT - ES14
+Slovenia,SI,SVN,705,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,EUROSTAT - ES14
+Slovenia,SI,SVN,705,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,EUROSTAT - ES14
+Slovenia,SI,SVN,705,Urban,11,Dry latrines - Bucket latrine,0.0,EUROSTAT - ES14
+Slovenia,SI,SVN,705,Urban,12,Dry latrines - Other,0.0,EUROSTAT - ES14
+Slovenia,SI,SVN,705,Urban,13,Composting toilets,0.0,EUROSTAT - ES14
+Slovenia,SI,SVN,705,Urban,14,Other improved,0.0,EUROSTAT - ES14
+Slovenia,SI,SVN,705,Urban,15,"No facility, bush, field",0.0,EUROSTAT - ES14
+Slovenia,SI,SVN,705,Urban,16,Other unimproved,0.0,EUROSTAT - ES14
+Slovenia,SI,SVN,705,Urban,17,DK/missing information,0.0,EUROSTAT - ES14
+Slovenia,SI,SVN,705,Rural,1,Flush and pour flush - to piped sewer system,0.0,EUROSTAT - ES14
+Slovenia,SI,SVN,705,Rural,2,Flush and pour flush - to septic tank,0.0,EUROSTAT - ES14
+Slovenia,SI,SVN,705,Rural,3,Flush and pour flush - to pit,0.0,EUROSTAT - ES14
+Slovenia,SI,SVN,705,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,EUROSTAT - ES14
+Slovenia,SI,SVN,705,Rural,5,Flush and pour flush - to elsewhere,0.0,EUROSTAT - ES14
+Slovenia,SI,SVN,705,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,EUROSTAT - ES14
+Slovenia,SI,SVN,705,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,EUROSTAT - ES14
+Slovenia,SI,SVN,705,Rural,8,Dry latrines - Traditional latrine,0.0,EUROSTAT - ES14
+Slovenia,SI,SVN,705,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,EUROSTAT - ES14
+Slovenia,SI,SVN,705,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,EUROSTAT - ES14
+Slovenia,SI,SVN,705,Rural,11,Dry latrines - Bucket latrine,0.0,EUROSTAT - ES14
+Slovenia,SI,SVN,705,Rural,12,Dry latrines - Other,0.0,EUROSTAT - ES14
+Slovenia,SI,SVN,705,Rural,13,Composting toilets,0.0,EUROSTAT - ES14
+Slovenia,SI,SVN,705,Rural,14,Other improved,0.0,EUROSTAT - ES14
+Slovenia,SI,SVN,705,Rural,15,"No facility, bush, field",0.0,EUROSTAT - ES14
+Slovenia,SI,SVN,705,Rural,16,Other unimproved,0.0,EUROSTAT - ES14
+Slovenia,SI,SVN,705,Rural,17,DK/missing information,0.0,EUROSTAT - ES14
+Slovenia,SI,SVN,705,National,1,Flush and pour flush - to piped sewer system,0.573,EUROSTAT - ES14
+Slovenia,SI,SVN,705,National,2,Flush and pour flush - to septic tank,0.365,EUROSTAT - ES14
+Slovenia,SI,SVN,705,National,3,Flush and pour flush - to pit,0.0,EUROSTAT - ES14
+Slovenia,SI,SVN,705,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,EUROSTAT - ES14
+Slovenia,SI,SVN,705,National,5,Flush and pour flush - to elsewhere,0.0,EUROSTAT - ES14
+Slovenia,SI,SVN,705,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,EUROSTAT - ES14
+Slovenia,SI,SVN,705,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,EUROSTAT - ES14
+Slovenia,SI,SVN,705,National,8,Dry latrines - Traditional latrine,0.0,EUROSTAT - ES14
+Slovenia,SI,SVN,705,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,EUROSTAT - ES14
+Slovenia,SI,SVN,705,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,EUROSTAT - ES14
+Slovenia,SI,SVN,705,National,11,Dry latrines - Bucket latrine,0.0,EUROSTAT - ES14
+Slovenia,SI,SVN,705,National,12,Dry latrines - Other,0.0,EUROSTAT - ES14
+Slovenia,SI,SVN,705,National,13,Composting toilets,0.0,EUROSTAT - ES14
+Slovenia,SI,SVN,705,National,14,Other improved,0.0,EUROSTAT - ES14
+Slovenia,SI,SVN,705,National,15,"No facility, bush, field",0.0,EUROSTAT - ES14
+Slovenia,SI,SVN,705,National,16,Other unimproved,0.062,EUROSTAT - ES14
+Slovenia,SI,SVN,705,National,17,DK/missing information,0.0,EUROSTAT - ES14
+Slovenia,SI,SVN,705,Urban,1,Flush and pour flush - to piped sewer system,0.0,EUROSTAT - ES15
+Slovenia,SI,SVN,705,Urban,2,Flush and pour flush - to septic tank,0.0,EUROSTAT - ES15
+Slovenia,SI,SVN,705,Urban,3,Flush and pour flush - to pit,0.0,EUROSTAT - ES15
+Slovenia,SI,SVN,705,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,EUROSTAT - ES15
+Slovenia,SI,SVN,705,Urban,5,Flush and pour flush - to elsewhere,0.0,EUROSTAT - ES15
+Slovenia,SI,SVN,705,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,EUROSTAT - ES15
+Slovenia,SI,SVN,705,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,EUROSTAT - ES15
+Slovenia,SI,SVN,705,Urban,8,Dry latrines - Traditional latrine,0.0,EUROSTAT - ES15
+Slovenia,SI,SVN,705,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,EUROSTAT - ES15
+Slovenia,SI,SVN,705,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,EUROSTAT - ES15
+Slovenia,SI,SVN,705,Urban,11,Dry latrines - Bucket latrine,0.0,EUROSTAT - ES15
+Slovenia,SI,SVN,705,Urban,12,Dry latrines - Other,0.0,EUROSTAT - ES15
+Slovenia,SI,SVN,705,Urban,13,Composting toilets,0.0,EUROSTAT - ES15
+Slovenia,SI,SVN,705,Urban,14,Other improved,0.0,EUROSTAT - ES15
+Slovenia,SI,SVN,705,Urban,15,"No facility, bush, field",0.0,EUROSTAT - ES15
+Slovenia,SI,SVN,705,Urban,16,Other unimproved,0.0,EUROSTAT - ES15
+Slovenia,SI,SVN,705,Urban,17,DK/missing information,0.0,EUROSTAT - ES15
+Slovenia,SI,SVN,705,Rural,1,Flush and pour flush - to piped sewer system,0.0,EUROSTAT - ES15
+Slovenia,SI,SVN,705,Rural,2,Flush and pour flush - to septic tank,0.0,EUROSTAT - ES15
+Slovenia,SI,SVN,705,Rural,3,Flush and pour flush - to pit,0.0,EUROSTAT - ES15
+Slovenia,SI,SVN,705,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,EUROSTAT - ES15
+Slovenia,SI,SVN,705,Rural,5,Flush and pour flush - to elsewhere,0.0,EUROSTAT - ES15
+Slovenia,SI,SVN,705,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,EUROSTAT - ES15
+Slovenia,SI,SVN,705,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,EUROSTAT - ES15
+Slovenia,SI,SVN,705,Rural,8,Dry latrines - Traditional latrine,0.0,EUROSTAT - ES15
+Slovenia,SI,SVN,705,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,EUROSTAT - ES15
+Slovenia,SI,SVN,705,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,EUROSTAT - ES15
+Slovenia,SI,SVN,705,Rural,11,Dry latrines - Bucket latrine,0.0,EUROSTAT - ES15
+Slovenia,SI,SVN,705,Rural,12,Dry latrines - Other,0.0,EUROSTAT - ES15
+Slovenia,SI,SVN,705,Rural,13,Composting toilets,0.0,EUROSTAT - ES15
+Slovenia,SI,SVN,705,Rural,14,Other improved,0.0,EUROSTAT - ES15
+Slovenia,SI,SVN,705,Rural,15,"No facility, bush, field",0.0,EUROSTAT - ES15
+Slovenia,SI,SVN,705,Rural,16,Other unimproved,0.0,EUROSTAT - ES15
+Slovenia,SI,SVN,705,Rural,17,DK/missing information,0.0,EUROSTAT - ES15
+Slovenia,SI,SVN,705,National,1,Flush and pour flush - to piped sewer system,0.583,EUROSTAT - ES15
+Slovenia,SI,SVN,705,National,2,Flush and pour flush - to septic tank,0.366,EUROSTAT - ES15
+Slovenia,SI,SVN,705,National,3,Flush and pour flush - to pit,0.0,EUROSTAT - ES15
+Slovenia,SI,SVN,705,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,EUROSTAT - ES15
+Slovenia,SI,SVN,705,National,5,Flush and pour flush - to elsewhere,0.0,EUROSTAT - ES15
+Slovenia,SI,SVN,705,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,EUROSTAT - ES15
+Slovenia,SI,SVN,705,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,EUROSTAT - ES15
+Slovenia,SI,SVN,705,National,8,Dry latrines - Traditional latrine,0.0,EUROSTAT - ES15
+Slovenia,SI,SVN,705,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,EUROSTAT - ES15
+Slovenia,SI,SVN,705,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,EUROSTAT - ES15
+Slovenia,SI,SVN,705,National,11,Dry latrines - Bucket latrine,0.0,EUROSTAT - ES15
+Slovenia,SI,SVN,705,National,12,Dry latrines - Other,0.0,EUROSTAT - ES15
+Slovenia,SI,SVN,705,National,13,Composting toilets,0.0,EUROSTAT - ES15
+Slovenia,SI,SVN,705,National,14,Other improved,0.0,EUROSTAT - ES15
+Slovenia,SI,SVN,705,National,15,"No facility, bush, field",0.0,EUROSTAT - ES15
+Slovenia,SI,SVN,705,National,16,Other unimproved,0.051,EUROSTAT - ES15
+Slovenia,SI,SVN,705,National,17,DK/missing information,0.0,EUROSTAT - ES15
+Slovenia,SI,SVN,705,Urban,1,Flush and pour flush - to piped sewer system,0.998,Eurostat SILC database - EUSILC13
+Slovenia,SI,SVN,705,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC13
+Slovenia,SI,SVN,705,Urban,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC13
+Slovenia,SI,SVN,705,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC13
+Slovenia,SI,SVN,705,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC13
+Slovenia,SI,SVN,705,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC13
+Slovenia,SI,SVN,705,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC13
+Slovenia,SI,SVN,705,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC13
+Slovenia,SI,SVN,705,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC13
+Slovenia,SI,SVN,705,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC13
+Slovenia,SI,SVN,705,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC13
+Slovenia,SI,SVN,705,Urban,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC13
+Slovenia,SI,SVN,705,Urban,13,Composting toilets,0.0,Eurostat SILC database - EUSILC13
+Slovenia,SI,SVN,705,Urban,14,Other improved,0.0,Eurostat SILC database - EUSILC13
+Slovenia,SI,SVN,705,Urban,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC13
+Slovenia,SI,SVN,705,Urban,16,Other unimproved,0.002,Eurostat SILC database - EUSILC13
+Slovenia,SI,SVN,705,Urban,17,DK/missing information,0.0,Eurostat SILC database - EUSILC13
+Slovenia,SI,SVN,705,Rural,1,Flush and pour flush - to piped sewer system,0.994,Eurostat SILC database - EUSILC13
+Slovenia,SI,SVN,705,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC13
+Slovenia,SI,SVN,705,Rural,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC13
+Slovenia,SI,SVN,705,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC13
+Slovenia,SI,SVN,705,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC13
+Slovenia,SI,SVN,705,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC13
+Slovenia,SI,SVN,705,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC13
+Slovenia,SI,SVN,705,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC13
+Slovenia,SI,SVN,705,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC13
+Slovenia,SI,SVN,705,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC13
+Slovenia,SI,SVN,705,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC13
+Slovenia,SI,SVN,705,Rural,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC13
+Slovenia,SI,SVN,705,Rural,13,Composting toilets,0.0,Eurostat SILC database - EUSILC13
+Slovenia,SI,SVN,705,Rural,14,Other improved,0.0,Eurostat SILC database - EUSILC13
+Slovenia,SI,SVN,705,Rural,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC13
+Slovenia,SI,SVN,705,Rural,16,Other unimproved,0.006,Eurostat SILC database - EUSILC13
+Slovenia,SI,SVN,705,Rural,17,DK/missing information,0.0,Eurostat SILC database - EUSILC13
+Slovenia,SI,SVN,705,National,1,Flush and pour flush - to piped sewer system,0.995,Eurostat SILC database - EUSILC13
+Slovenia,SI,SVN,705,National,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC13
+Slovenia,SI,SVN,705,National,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC13
+Slovenia,SI,SVN,705,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC13
+Slovenia,SI,SVN,705,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC13
+Slovenia,SI,SVN,705,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC13
+Slovenia,SI,SVN,705,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC13
+Slovenia,SI,SVN,705,National,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC13
+Slovenia,SI,SVN,705,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC13
+Slovenia,SI,SVN,705,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC13
+Slovenia,SI,SVN,705,National,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC13
+Slovenia,SI,SVN,705,National,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC13
+Slovenia,SI,SVN,705,National,13,Composting toilets,0.0,Eurostat SILC database - EUSILC13
+Slovenia,SI,SVN,705,National,14,Other improved,0.0,Eurostat SILC database - EUSILC13
+Slovenia,SI,SVN,705,National,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC13
+Slovenia,SI,SVN,705,National,16,Other unimproved,0.005,Eurostat SILC database - EUSILC13
+Slovenia,SI,SVN,705,National,17,DK/missing information,0.0,Eurostat SILC database - EUSILC13
+Slovenia,SI,SVN,705,Urban,1,Flush and pour flush - to piped sewer system,0.997,Eurostat SILC database - EUSILC14
+Slovenia,SI,SVN,705,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC14
+Slovenia,SI,SVN,705,Urban,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC14
+Slovenia,SI,SVN,705,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC14
+Slovenia,SI,SVN,705,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC14
+Slovenia,SI,SVN,705,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC14
+Slovenia,SI,SVN,705,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC14
+Slovenia,SI,SVN,705,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC14
+Slovenia,SI,SVN,705,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC14
+Slovenia,SI,SVN,705,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC14
+Slovenia,SI,SVN,705,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC14
+Slovenia,SI,SVN,705,Urban,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC14
+Slovenia,SI,SVN,705,Urban,13,Composting toilets,0.0,Eurostat SILC database - EUSILC14
+Slovenia,SI,SVN,705,Urban,14,Other improved,0.0,Eurostat SILC database - EUSILC14
+Slovenia,SI,SVN,705,Urban,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC14
+Slovenia,SI,SVN,705,Urban,16,Other unimproved,0.003,Eurostat SILC database - EUSILC14
+Slovenia,SI,SVN,705,Urban,17,DK/missing information,0.0,Eurostat SILC database - EUSILC14
+Slovenia,SI,SVN,705,Rural,1,Flush and pour flush - to piped sewer system,0.994,Eurostat SILC database - EUSILC14
+Slovenia,SI,SVN,705,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC14
+Slovenia,SI,SVN,705,Rural,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC14
+Slovenia,SI,SVN,705,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC14
+Slovenia,SI,SVN,705,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC14
+Slovenia,SI,SVN,705,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC14
+Slovenia,SI,SVN,705,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC14
+Slovenia,SI,SVN,705,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC14
+Slovenia,SI,SVN,705,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC14
+Slovenia,SI,SVN,705,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC14
+Slovenia,SI,SVN,705,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC14
+Slovenia,SI,SVN,705,Rural,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC14
+Slovenia,SI,SVN,705,Rural,13,Composting toilets,0.0,Eurostat SILC database - EUSILC14
+Slovenia,SI,SVN,705,Rural,14,Other improved,0.0,Eurostat SILC database - EUSILC14
+Slovenia,SI,SVN,705,Rural,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC14
+Slovenia,SI,SVN,705,Rural,16,Other unimproved,0.006,Eurostat SILC database - EUSILC14
+Slovenia,SI,SVN,705,Rural,17,DK/missing information,0.0,Eurostat SILC database - EUSILC14
+Slovenia,SI,SVN,705,National,1,Flush and pour flush - to piped sewer system,0.994,Eurostat SILC database - EUSILC14
+Slovenia,SI,SVN,705,National,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC14
+Slovenia,SI,SVN,705,National,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC14
+Slovenia,SI,SVN,705,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC14
+Slovenia,SI,SVN,705,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC14
+Slovenia,SI,SVN,705,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC14
+Slovenia,SI,SVN,705,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC14
+Slovenia,SI,SVN,705,National,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC14
+Slovenia,SI,SVN,705,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC14
+Slovenia,SI,SVN,705,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC14
+Slovenia,SI,SVN,705,National,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC14
+Slovenia,SI,SVN,705,National,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC14
+Slovenia,SI,SVN,705,National,13,Composting toilets,0.0,Eurostat SILC database - EUSILC14
+Slovenia,SI,SVN,705,National,14,Other improved,0.0,Eurostat SILC database - EUSILC14
+Slovenia,SI,SVN,705,National,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC14
+Slovenia,SI,SVN,705,National,16,Other unimproved,0.006,Eurostat SILC database - EUSILC14
+Slovenia,SI,SVN,705,National,17,DK/missing information,0.0,Eurostat SILC database - EUSILC14
+Slovenia,SI,SVN,705,Urban,1,Flush and pour flush - to piped sewer system,0.999,Eurostat SILC database - EUSILC15
+Slovenia,SI,SVN,705,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC15
+Slovenia,SI,SVN,705,Urban,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC15
+Slovenia,SI,SVN,705,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC15
+Slovenia,SI,SVN,705,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC15
+Slovenia,SI,SVN,705,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC15
+Slovenia,SI,SVN,705,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC15
+Slovenia,SI,SVN,705,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC15
+Slovenia,SI,SVN,705,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC15
+Slovenia,SI,SVN,705,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC15
+Slovenia,SI,SVN,705,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC15
+Slovenia,SI,SVN,705,Urban,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC15
+Slovenia,SI,SVN,705,Urban,13,Composting toilets,0.0,Eurostat SILC database - EUSILC15
+Slovenia,SI,SVN,705,Urban,14,Other improved,0.0,Eurostat SILC database - EUSILC15
+Slovenia,SI,SVN,705,Urban,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC15
+Slovenia,SI,SVN,705,Urban,16,Other unimproved,0.001,Eurostat SILC database - EUSILC15
+Slovenia,SI,SVN,705,Urban,17,DK/missing information,0.0,Eurostat SILC database - EUSILC15
+Slovenia,SI,SVN,705,Rural,1,Flush and pour flush - to piped sewer system,0.997,Eurostat SILC database - EUSILC15
+Slovenia,SI,SVN,705,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC15
+Slovenia,SI,SVN,705,Rural,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC15
+Slovenia,SI,SVN,705,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC15
+Slovenia,SI,SVN,705,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC15
+Slovenia,SI,SVN,705,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC15
+Slovenia,SI,SVN,705,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC15
+Slovenia,SI,SVN,705,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC15
+Slovenia,SI,SVN,705,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC15
+Slovenia,SI,SVN,705,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC15
+Slovenia,SI,SVN,705,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC15
+Slovenia,SI,SVN,705,Rural,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC15
+Slovenia,SI,SVN,705,Rural,13,Composting toilets,0.0,Eurostat SILC database - EUSILC15
+Slovenia,SI,SVN,705,Rural,14,Other improved,0.0,Eurostat SILC database - EUSILC15
+Slovenia,SI,SVN,705,Rural,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC15
+Slovenia,SI,SVN,705,Rural,16,Other unimproved,0.003,Eurostat SILC database - EUSILC15
+Slovenia,SI,SVN,705,Rural,17,DK/missing information,0.0,Eurostat SILC database - EUSILC15
+Slovenia,SI,SVN,705,National,1,Flush and pour flush - to piped sewer system,0.997,Eurostat SILC database - EUSILC15
+Slovenia,SI,SVN,705,National,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC15
+Slovenia,SI,SVN,705,National,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC15
+Slovenia,SI,SVN,705,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC15
+Slovenia,SI,SVN,705,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC15
+Slovenia,SI,SVN,705,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC15
+Slovenia,SI,SVN,705,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC15
+Slovenia,SI,SVN,705,National,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC15
+Slovenia,SI,SVN,705,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC15
+Slovenia,SI,SVN,705,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC15
+Slovenia,SI,SVN,705,National,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC15
+Slovenia,SI,SVN,705,National,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC15
+Slovenia,SI,SVN,705,National,13,Composting toilets,0.0,Eurostat SILC database - EUSILC15
+Slovenia,SI,SVN,705,National,14,Other improved,0.0,Eurostat SILC database - EUSILC15
+Slovenia,SI,SVN,705,National,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC15
+Slovenia,SI,SVN,705,National,16,Other unimproved,0.003,Eurostat SILC database - EUSILC15
+Slovenia,SI,SVN,705,National,17,DK/missing information,0.0,Eurostat SILC database - EUSILC15

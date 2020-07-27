@@ -1,4 +1,157 @@
 country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+Côte d'Ivoire,CI,CIV,384,Urban,1,Flush and pour flush - to piped sewer system,0.0,Multiple Indicator Cluster Survey - MICS00
+Côte d'Ivoire,CI,CIV,384,Urban,2,Flush and pour flush - to septic tank,0.0,Multiple Indicator Cluster Survey - MICS00
+Côte d'Ivoire,CI,CIV,384,Urban,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Côte d'Ivoire,CI,CIV,384,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS00
+Côte d'Ivoire,CI,CIV,384,Urban,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS00
+Côte d'Ivoire,CI,CIV,384,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Côte d'Ivoire,CI,CIV,384,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Côte d'Ivoire,CI,CIV,384,Urban,8,Dry latrines - Traditional latrine,0.274,Multiple Indicator Cluster Survey - MICS00
+Côte d'Ivoire,CI,CIV,384,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.139,Multiple Indicator Cluster Survey - MICS00
+Côte d'Ivoire,CI,CIV,384,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Côte d'Ivoire,CI,CIV,384,Urban,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Côte d'Ivoire,CI,CIV,384,Urban,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS00
+Côte d'Ivoire,CI,CIV,384,Urban,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS00
+Côte d'Ivoire,CI,CIV,384,Urban,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS00
+Côte d'Ivoire,CI,CIV,384,Urban,15,"No facility, bush, field",0.044,Multiple Indicator Cluster Survey - MICS00
+Côte d'Ivoire,CI,CIV,384,Urban,16,Other unimproved,0.011,Multiple Indicator Cluster Survey - MICS00
+Côte d'Ivoire,CI,CIV,384,Urban,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS00
+Côte d'Ivoire,CI,CIV,384,Rural,1,Flush and pour flush - to piped sewer system,0.0,Multiple Indicator Cluster Survey - MICS00
+Côte d'Ivoire,CI,CIV,384,Rural,2,Flush and pour flush - to septic tank,0.0,Multiple Indicator Cluster Survey - MICS00
+Côte d'Ivoire,CI,CIV,384,Rural,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Côte d'Ivoire,CI,CIV,384,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS00
+Côte d'Ivoire,CI,CIV,384,Rural,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS00
+Côte d'Ivoire,CI,CIV,384,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Côte d'Ivoire,CI,CIV,384,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Côte d'Ivoire,CI,CIV,384,Rural,8,Dry latrines - Traditional latrine,0.327,Multiple Indicator Cluster Survey - MICS00
+Côte d'Ivoire,CI,CIV,384,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.09,Multiple Indicator Cluster Survey - MICS00
+Côte d'Ivoire,CI,CIV,384,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Côte d'Ivoire,CI,CIV,384,Rural,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Côte d'Ivoire,CI,CIV,384,Rural,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS00
+Côte d'Ivoire,CI,CIV,384,Rural,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS00
+Côte d'Ivoire,CI,CIV,384,Rural,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS00
+Côte d'Ivoire,CI,CIV,384,Rural,15,"No facility, bush, field",0.521,Multiple Indicator Cluster Survey - MICS00
+Côte d'Ivoire,CI,CIV,384,Rural,16,Other unimproved,0.021,Multiple Indicator Cluster Survey - MICS00
+Côte d'Ivoire,CI,CIV,384,Rural,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS00
+Côte d'Ivoire,CI,CIV,384,National,1,Flush and pour flush - to piped sewer system,0.0,Multiple Indicator Cluster Survey - MICS00
+Côte d'Ivoire,CI,CIV,384,National,2,Flush and pour flush - to septic tank,0.0,Multiple Indicator Cluster Survey - MICS00
+Côte d'Ivoire,CI,CIV,384,National,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Côte d'Ivoire,CI,CIV,384,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS00
+Côte d'Ivoire,CI,CIV,384,National,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS00
+Côte d'Ivoire,CI,CIV,384,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Côte d'Ivoire,CI,CIV,384,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Côte d'Ivoire,CI,CIV,384,National,8,Dry latrines - Traditional latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Côte d'Ivoire,CI,CIV,384,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Multiple Indicator Cluster Survey - MICS00
+Côte d'Ivoire,CI,CIV,384,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Côte d'Ivoire,CI,CIV,384,National,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS00
+Côte d'Ivoire,CI,CIV,384,National,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS00
+Côte d'Ivoire,CI,CIV,384,National,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS00
+Côte d'Ivoire,CI,CIV,384,National,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS00
+Côte d'Ivoire,CI,CIV,384,National,15,"No facility, bush, field",0.0,Multiple Indicator Cluster Survey - MICS00
+Côte d'Ivoire,CI,CIV,384,National,16,Other unimproved,0.0,Multiple Indicator Cluster Survey - MICS00
+Côte d'Ivoire,CI,CIV,384,National,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS00
+Côte d'Ivoire,CI,CIV,384,Urban,1,Flush and pour flush - to piped sewer system,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENVM02
+Côte d'Ivoire,CI,CIV,384,Urban,2,Flush and pour flush - to septic tank,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENVM02
+Côte d'Ivoire,CI,CIV,384,Urban,3,Flush and pour flush - to pit,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENVM02
+Côte d'Ivoire,CI,CIV,384,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENVM02
+Côte d'Ivoire,CI,CIV,384,Urban,5,Flush and pour flush - to elsewhere,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENVM02
+Côte d'Ivoire,CI,CIV,384,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENVM02
+Côte d'Ivoire,CI,CIV,384,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENVM02
+Côte d'Ivoire,CI,CIV,384,Urban,8,Dry latrines - Traditional latrine,0.612,ENQUETE NIVEAU DE VIE DES MENAGES - ENVM02
+Côte d'Ivoire,CI,CIV,384,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENVM02
+Côte d'Ivoire,CI,CIV,384,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENVM02
+Côte d'Ivoire,CI,CIV,384,Urban,11,Dry latrines - Bucket latrine,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENVM02
+Côte d'Ivoire,CI,CIV,384,Urban,12,Dry latrines - Other,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENVM02
+Côte d'Ivoire,CI,CIV,384,Urban,13,Composting toilets,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENVM02
+Côte d'Ivoire,CI,CIV,384,Urban,14,Other improved,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENVM02
+Côte d'Ivoire,CI,CIV,384,Urban,15,"No facility, bush, field",0.087,ENQUETE NIVEAU DE VIE DES MENAGES - ENVM02
+Côte d'Ivoire,CI,CIV,384,Urban,16,Other unimproved,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENVM02
+Côte d'Ivoire,CI,CIV,384,Urban,17,DK/missing information,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENVM02
+Côte d'Ivoire,CI,CIV,384,Rural,1,Flush and pour flush - to piped sewer system,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENVM02
+Côte d'Ivoire,CI,CIV,384,Rural,2,Flush and pour flush - to septic tank,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENVM02
+Côte d'Ivoire,CI,CIV,384,Rural,3,Flush and pour flush - to pit,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENVM02
+Côte d'Ivoire,CI,CIV,384,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENVM02
+Côte d'Ivoire,CI,CIV,384,Rural,5,Flush and pour flush - to elsewhere,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENVM02
+Côte d'Ivoire,CI,CIV,384,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENVM02
+Côte d'Ivoire,CI,CIV,384,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENVM02
+Côte d'Ivoire,CI,CIV,384,Rural,8,Dry latrines - Traditional latrine,0.336,ENQUETE NIVEAU DE VIE DES MENAGES - ENVM02
+Côte d'Ivoire,CI,CIV,384,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENVM02
+Côte d'Ivoire,CI,CIV,384,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENVM02
+Côte d'Ivoire,CI,CIV,384,Rural,11,Dry latrines - Bucket latrine,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENVM02
+Côte d'Ivoire,CI,CIV,384,Rural,12,Dry latrines - Other,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENVM02
+Côte d'Ivoire,CI,CIV,384,Rural,13,Composting toilets,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENVM02
+Côte d'Ivoire,CI,CIV,384,Rural,14,Other improved,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENVM02
+Côte d'Ivoire,CI,CIV,384,Rural,15,"No facility, bush, field",0.645,ENQUETE NIVEAU DE VIE DES MENAGES - ENVM02
+Côte d'Ivoire,CI,CIV,384,Rural,16,Other unimproved,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENVM02
+Côte d'Ivoire,CI,CIV,384,Rural,17,DK/missing information,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENVM02
+Côte d'Ivoire,CI,CIV,384,National,1,Flush and pour flush - to piped sewer system,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENVM02
+Côte d'Ivoire,CI,CIV,384,National,2,Flush and pour flush - to septic tank,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENVM02
+Côte d'Ivoire,CI,CIV,384,National,3,Flush and pour flush - to pit,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENVM02
+Côte d'Ivoire,CI,CIV,384,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENVM02
+Côte d'Ivoire,CI,CIV,384,National,5,Flush and pour flush - to elsewhere,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENVM02
+Côte d'Ivoire,CI,CIV,384,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENVM02
+Côte d'Ivoire,CI,CIV,384,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENVM02
+Côte d'Ivoire,CI,CIV,384,National,8,Dry latrines - Traditional latrine,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENVM02
+Côte d'Ivoire,CI,CIV,384,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENVM02
+Côte d'Ivoire,CI,CIV,384,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENVM02
+Côte d'Ivoire,CI,CIV,384,National,11,Dry latrines - Bucket latrine,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENVM02
+Côte d'Ivoire,CI,CIV,384,National,12,Dry latrines - Other,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENVM02
+Côte d'Ivoire,CI,CIV,384,National,13,Composting toilets,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENVM02
+Côte d'Ivoire,CI,CIV,384,National,14,Other improved,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENVM02
+Côte d'Ivoire,CI,CIV,384,National,15,"No facility, bush, field",0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENVM02
+Côte d'Ivoire,CI,CIV,384,National,16,Other unimproved,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENVM02
+Côte d'Ivoire,CI,CIV,384,National,17,DK/missing information,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENVM02
+Côte d'Ivoire,CI,CIV,384,Urban,1,Flush and pour flush - to piped sewer system,0.0,AIDS Indicator Survey - AIS05
+Côte d'Ivoire,CI,CIV,384,Urban,2,Flush and pour flush - to septic tank,0.0,AIDS Indicator Survey - AIS05
+Côte d'Ivoire,CI,CIV,384,Urban,3,Flush and pour flush - to pit,0.0,AIDS Indicator Survey - AIS05
+Côte d'Ivoire,CI,CIV,384,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,AIDS Indicator Survey - AIS05
+Côte d'Ivoire,CI,CIV,384,Urban,5,Flush and pour flush - to elsewhere,0.0,AIDS Indicator Survey - AIS05
+Côte d'Ivoire,CI,CIV,384,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.092,AIDS Indicator Survey - AIS05
+Côte d'Ivoire,CI,CIV,384,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,AIDS Indicator Survey - AIS05
+Côte d'Ivoire,CI,CIV,384,Urban,8,Dry latrines - Traditional latrine,0.568,AIDS Indicator Survey - AIS05
+Côte d'Ivoire,CI,CIV,384,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,AIDS Indicator Survey - AIS05
+Côte d'Ivoire,CI,CIV,384,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,AIDS Indicator Survey - AIS05
+Côte d'Ivoire,CI,CIV,384,Urban,11,Dry latrines - Bucket latrine,0.0,AIDS Indicator Survey - AIS05
+Côte d'Ivoire,CI,CIV,384,Urban,12,Dry latrines - Other,0.0,AIDS Indicator Survey - AIS05
+Côte d'Ivoire,CI,CIV,384,Urban,13,Composting toilets,0.0,AIDS Indicator Survey - AIS05
+Côte d'Ivoire,CI,CIV,384,Urban,14,Other improved,0.0,AIDS Indicator Survey - AIS05
+Côte d'Ivoire,CI,CIV,384,Urban,15,"No facility, bush, field",0.046,AIDS Indicator Survey - AIS05
+Côte d'Ivoire,CI,CIV,384,Urban,16,Other unimproved,0.0,AIDS Indicator Survey - AIS05
+Côte d'Ivoire,CI,CIV,384,Urban,17,DK/missing information,0.002,AIDS Indicator Survey - AIS05
+Côte d'Ivoire,CI,CIV,384,Rural,1,Flush and pour flush - to piped sewer system,0.0,AIDS Indicator Survey - AIS05
+Côte d'Ivoire,CI,CIV,384,Rural,2,Flush and pour flush - to septic tank,0.0,AIDS Indicator Survey - AIS05
+Côte d'Ivoire,CI,CIV,384,Rural,3,Flush and pour flush - to pit,0.0,AIDS Indicator Survey - AIS05
+Côte d'Ivoire,CI,CIV,384,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,AIDS Indicator Survey - AIS05
+Côte d'Ivoire,CI,CIV,384,Rural,5,Flush and pour flush - to elsewhere,0.0,AIDS Indicator Survey - AIS05
+Côte d'Ivoire,CI,CIV,384,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.036,AIDS Indicator Survey - AIS05
+Côte d'Ivoire,CI,CIV,384,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,AIDS Indicator Survey - AIS05
+Côte d'Ivoire,CI,CIV,384,Rural,8,Dry latrines - Traditional latrine,0.397,AIDS Indicator Survey - AIS05
+Côte d'Ivoire,CI,CIV,384,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,AIDS Indicator Survey - AIS05
+Côte d'Ivoire,CI,CIV,384,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,AIDS Indicator Survey - AIS05
+Côte d'Ivoire,CI,CIV,384,Rural,11,Dry latrines - Bucket latrine,0.0,AIDS Indicator Survey - AIS05
+Côte d'Ivoire,CI,CIV,384,Rural,12,Dry latrines - Other,0.0,AIDS Indicator Survey - AIS05
+Côte d'Ivoire,CI,CIV,384,Rural,13,Composting toilets,0.0,AIDS Indicator Survey - AIS05
+Côte d'Ivoire,CI,CIV,384,Rural,14,Other improved,0.0,AIDS Indicator Survey - AIS05
+Côte d'Ivoire,CI,CIV,384,Rural,15,"No facility, bush, field",0.503,AIDS Indicator Survey - AIS05
+Côte d'Ivoire,CI,CIV,384,Rural,16,Other unimproved,0.0,AIDS Indicator Survey - AIS05
+Côte d'Ivoire,CI,CIV,384,Rural,17,DK/missing information,0.003,AIDS Indicator Survey - AIS05
+Côte d'Ivoire,CI,CIV,384,National,1,Flush and pour flush - to piped sewer system,0.0,AIDS Indicator Survey - AIS05
+Côte d'Ivoire,CI,CIV,384,National,2,Flush and pour flush - to septic tank,0.0,AIDS Indicator Survey - AIS05
+Côte d'Ivoire,CI,CIV,384,National,3,Flush and pour flush - to pit,0.0,AIDS Indicator Survey - AIS05
+Côte d'Ivoire,CI,CIV,384,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,AIDS Indicator Survey - AIS05
+Côte d'Ivoire,CI,CIV,384,National,5,Flush and pour flush - to elsewhere,0.0,AIDS Indicator Survey - AIS05
+Côte d'Ivoire,CI,CIV,384,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,AIDS Indicator Survey - AIS05
+Côte d'Ivoire,CI,CIV,384,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,AIDS Indicator Survey - AIS05
+Côte d'Ivoire,CI,CIV,384,National,8,Dry latrines - Traditional latrine,0.0,AIDS Indicator Survey - AIS05
+Côte d'Ivoire,CI,CIV,384,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,AIDS Indicator Survey - AIS05
+Côte d'Ivoire,CI,CIV,384,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,AIDS Indicator Survey - AIS05
+Côte d'Ivoire,CI,CIV,384,National,11,Dry latrines - Bucket latrine,0.0,AIDS Indicator Survey - AIS05
+Côte d'Ivoire,CI,CIV,384,National,12,Dry latrines - Other,0.0,AIDS Indicator Survey - AIS05
+Côte d'Ivoire,CI,CIV,384,National,13,Composting toilets,0.0,AIDS Indicator Survey - AIS05
+Côte d'Ivoire,CI,CIV,384,National,14,Other improved,0.0,AIDS Indicator Survey - AIS05
+Côte d'Ivoire,CI,CIV,384,National,15,"No facility, bush, field",0.0,AIDS Indicator Survey - AIS05
+Côte d'Ivoire,CI,CIV,384,National,16,Other unimproved,0.0,AIDS Indicator Survey - AIS05
+Côte d'Ivoire,CI,CIV,384,National,17,DK/missing information,0.0,AIDS Indicator Survey - AIS05
 Côte d'Ivoire,CI,CIV,384,Urban,1,Flush and pour flush - to piped sewer system,0.12,Multiple Indicator Cluster Survey - MICS06
 Côte d'Ivoire,CI,CIV,384,Urban,2,Flush and pour flush - to septic tank,0.189,Multiple Indicator Cluster Survey - MICS06
 Côte d'Ivoire,CI,CIV,384,Urban,3,Flush and pour flush - to pit,0.095,Multiple Indicator Cluster Survey - MICS06
@@ -33,6 +186,74 @@ Côte d'Ivoire,CI,CIV,384,Rural,14,Other improved,0.0,Multiple Indicator Cluster
 Côte d'Ivoire,CI,CIV,384,Rural,15,"No facility, bush, field",0.557,Multiple Indicator Cluster Survey - MICS06
 Côte d'Ivoire,CI,CIV,384,Rural,16,Other unimproved,0.002,Multiple Indicator Cluster Survey - MICS06
 Côte d'Ivoire,CI,CIV,384,Rural,17,DK/missing information,0.001,Multiple Indicator Cluster Survey - MICS06
+Côte d'Ivoire,CI,CIV,384,National,1,Flush and pour flush - to piped sewer system,0.0,Multiple Indicator Cluster Survey - MICS06
+Côte d'Ivoire,CI,CIV,384,National,2,Flush and pour flush - to septic tank,0.0,Multiple Indicator Cluster Survey - MICS06
+Côte d'Ivoire,CI,CIV,384,National,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS06
+Côte d'Ivoire,CI,CIV,384,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS06
+Côte d'Ivoire,CI,CIV,384,National,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS06
+Côte d'Ivoire,CI,CIV,384,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Multiple Indicator Cluster Survey - MICS06
+Côte d'Ivoire,CI,CIV,384,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Multiple Indicator Cluster Survey - MICS06
+Côte d'Ivoire,CI,CIV,384,National,8,Dry latrines - Traditional latrine,0.0,Multiple Indicator Cluster Survey - MICS06
+Côte d'Ivoire,CI,CIV,384,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Multiple Indicator Cluster Survey - MICS06
+Côte d'Ivoire,CI,CIV,384,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS06
+Côte d'Ivoire,CI,CIV,384,National,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS06
+Côte d'Ivoire,CI,CIV,384,National,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS06
+Côte d'Ivoire,CI,CIV,384,National,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS06
+Côte d'Ivoire,CI,CIV,384,National,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS06
+Côte d'Ivoire,CI,CIV,384,National,15,"No facility, bush, field",0.0,Multiple Indicator Cluster Survey - MICS06
+Côte d'Ivoire,CI,CIV,384,National,16,Other unimproved,0.0,Multiple Indicator Cluster Survey - MICS06
+Côte d'Ivoire,CI,CIV,384,National,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS06
+Côte d'Ivoire,CI,CIV,384,Urban,1,Flush and pour flush - to piped sewer system,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENV08
+Côte d'Ivoire,CI,CIV,384,Urban,2,Flush and pour flush - to septic tank,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENV08
+Côte d'Ivoire,CI,CIV,384,Urban,3,Flush and pour flush - to pit,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENV08
+Côte d'Ivoire,CI,CIV,384,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENV08
+Côte d'Ivoire,CI,CIV,384,Urban,5,Flush and pour flush - to elsewhere,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENV08
+Côte d'Ivoire,CI,CIV,384,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENV08
+Côte d'Ivoire,CI,CIV,384,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENV08
+Côte d'Ivoire,CI,CIV,384,Urban,8,Dry latrines - Traditional latrine,0.736,ENQUETE NIVEAU DE VIE DES MENAGES - ENV08
+Côte d'Ivoire,CI,CIV,384,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENV08
+Côte d'Ivoire,CI,CIV,384,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENV08
+Côte d'Ivoire,CI,CIV,384,Urban,11,Dry latrines - Bucket latrine,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENV08
+Côte d'Ivoire,CI,CIV,384,Urban,12,Dry latrines - Other,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENV08
+Côte d'Ivoire,CI,CIV,384,Urban,13,Composting toilets,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENV08
+Côte d'Ivoire,CI,CIV,384,Urban,14,Other improved,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENV08
+Côte d'Ivoire,CI,CIV,384,Urban,15,"No facility, bush, field",0.066,ENQUETE NIVEAU DE VIE DES MENAGES - ENV08
+Côte d'Ivoire,CI,CIV,384,Urban,16,Other unimproved,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENV08
+Côte d'Ivoire,CI,CIV,384,Urban,17,DK/missing information,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENV08
+Côte d'Ivoire,CI,CIV,384,Rural,1,Flush and pour flush - to piped sewer system,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENV08
+Côte d'Ivoire,CI,CIV,384,Rural,2,Flush and pour flush - to septic tank,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENV08
+Côte d'Ivoire,CI,CIV,384,Rural,3,Flush and pour flush - to pit,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENV08
+Côte d'Ivoire,CI,CIV,384,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENV08
+Côte d'Ivoire,CI,CIV,384,Rural,5,Flush and pour flush - to elsewhere,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENV08
+Côte d'Ivoire,CI,CIV,384,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENV08
+Côte d'Ivoire,CI,CIV,384,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENV08
+Côte d'Ivoire,CI,CIV,384,Rural,8,Dry latrines - Traditional latrine,0.417,ENQUETE NIVEAU DE VIE DES MENAGES - ENV08
+Côte d'Ivoire,CI,CIV,384,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENV08
+Côte d'Ivoire,CI,CIV,384,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENV08
+Côte d'Ivoire,CI,CIV,384,Rural,11,Dry latrines - Bucket latrine,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENV08
+Côte d'Ivoire,CI,CIV,384,Rural,12,Dry latrines - Other,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENV08
+Côte d'Ivoire,CI,CIV,384,Rural,13,Composting toilets,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENV08
+Côte d'Ivoire,CI,CIV,384,Rural,14,Other improved,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENV08
+Côte d'Ivoire,CI,CIV,384,Rural,15,"No facility, bush, field",0.557,ENQUETE NIVEAU DE VIE DES MENAGES - ENV08
+Côte d'Ivoire,CI,CIV,384,Rural,16,Other unimproved,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENV08
+Côte d'Ivoire,CI,CIV,384,Rural,17,DK/missing information,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENV08
+Côte d'Ivoire,CI,CIV,384,National,1,Flush and pour flush - to piped sewer system,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENV08
+Côte d'Ivoire,CI,CIV,384,National,2,Flush and pour flush - to septic tank,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENV08
+Côte d'Ivoire,CI,CIV,384,National,3,Flush and pour flush - to pit,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENV08
+Côte d'Ivoire,CI,CIV,384,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENV08
+Côte d'Ivoire,CI,CIV,384,National,5,Flush and pour flush - to elsewhere,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENV08
+Côte d'Ivoire,CI,CIV,384,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENV08
+Côte d'Ivoire,CI,CIV,384,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENV08
+Côte d'Ivoire,CI,CIV,384,National,8,Dry latrines - Traditional latrine,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENV08
+Côte d'Ivoire,CI,CIV,384,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENV08
+Côte d'Ivoire,CI,CIV,384,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENV08
+Côte d'Ivoire,CI,CIV,384,National,11,Dry latrines - Bucket latrine,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENV08
+Côte d'Ivoire,CI,CIV,384,National,12,Dry latrines - Other,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENV08
+Côte d'Ivoire,CI,CIV,384,National,13,Composting toilets,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENV08
+Côte d'Ivoire,CI,CIV,384,National,14,Other improved,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENV08
+Côte d'Ivoire,CI,CIV,384,National,15,"No facility, bush, field",0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENV08
+Côte d'Ivoire,CI,CIV,384,National,16,Other unimproved,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENV08
+Côte d'Ivoire,CI,CIV,384,National,17,DK/missing information,0.0,ENQUETE NIVEAU DE VIE DES MENAGES - ENV08
 Côte d'Ivoire,CI,CIV,384,Urban,1,Flush and pour flush - to piped sewer system,0.15,Enquête Démographique et de Santé et à Indicateurs Multiples EDSCI-III - DHS-MICS12
 Côte d'Ivoire,CI,CIV,384,Urban,2,Flush and pour flush - to septic tank,0.236,Enquête Démographique et de Santé et à Indicateurs Multiples EDSCI-III - DHS-MICS12
 Côte d'Ivoire,CI,CIV,384,Urban,3,Flush and pour flush - to pit,0.06,Enquête Démographique et de Santé et à Indicateurs Multiples EDSCI-III - DHS-MICS12
@@ -75,6 +296,27 @@ Côte d'Ivoire,CI,CIV,384,Rural,14,Other improved,0.0,Enquête Démographique et
 Côte d'Ivoire,CI,CIV,384,Rural,15,"No facility, bush, field",0.565,Enquête Démographique et de Santé et à Indicateurs Multiples EDSCI-III - DHS-MICS12
 Côte d'Ivoire,CI,CIV,384,Rural,16,Other unimproved,0.001,Enquête Démographique et de Santé et à Indicateurs Multiples EDSCI-III - DHS-MICS12
 Côte d'Ivoire,CI,CIV,384,Rural,17,DK/missing information,0.002,Enquête Démographique et de Santé et à Indicateurs Multiples EDSCI-III - DHS-MICS12
+Côte d'Ivoire,CI,CIV,384,National,1,Flush and pour flush - to piped sewer system,0.069,Enquête Démographique et de Santé et à Indicateurs Multiples EDSCI-III - DHS-MICS12
+Côte d'Ivoire,CI,CIV,384,National,2,Flush and pour flush - to septic tank,0.12,Enquête Démographique et de Santé et à Indicateurs Multiples EDSCI-III - DHS-MICS12
+Côte d'Ivoire,CI,CIV,384,National,3,Flush and pour flush - to pit,0.031,Enquête Démographique et de Santé et à Indicateurs Multiples EDSCI-III - DHS-MICS12
+Côte d'Ivoire,CI,CIV,384,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquête Démographique et de Santé et à Indicateurs Multiples EDSCI-III - DHS-MICS12
+Côte d'Ivoire,CI,CIV,384,National,5,Flush and pour flush - to elsewhere,0.0,Enquête Démographique et de Santé et à Indicateurs Multiples EDSCI-III - DHS-MICS12
+Côte d'Ivoire,CI,CIV,384,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Enquête Démographique et de Santé et à Indicateurs Multiples EDSCI-III - DHS-MICS12
+Côte d'Ivoire,CI,CIV,384,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.244,Enquête Démographique et de Santé et à Indicateurs Multiples EDSCI-III - DHS-MICS12
+Côte d'Ivoire,CI,CIV,384,National,8,Dry latrines - Traditional latrine,0.0,Enquête Démographique et de Santé et à Indicateurs Multiples EDSCI-III - DHS-MICS12
+Côte d'Ivoire,CI,CIV,384,National,9,Dry latrines - Pit latrine without slab/open pit,0.185,Enquête Démographique et de Santé et à Indicateurs Multiples EDSCI-III - DHS-MICS12
+Côte d'Ivoire,CI,CIV,384,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.069,Enquête Démographique et de Santé et à Indicateurs Multiples EDSCI-III - DHS-MICS12
+Côte d'Ivoire,CI,CIV,384,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.175,Enquête Démographique et de Santé et à Indicateurs Multiples EDSCI-III - DHS-MICS12
+Côte d'Ivoire,CI,CIV,384,National,8,Dry latrines - Traditional latrine,0.0,Enquête Démographique et de Santé et à Indicateurs Multiples EDSCI-III - DHS-MICS12
+Côte d'Ivoire,CI,CIV,384,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Enquête Démographique et de Santé et à Indicateurs Multiples EDSCI-III - DHS-MICS12
+Côte d'Ivoire,CI,CIV,384,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquête Démographique et de Santé et à Indicateurs Multiples EDSCI-III - DHS-MICS12
+Côte d'Ivoire,CI,CIV,384,National,11,Dry latrines - Bucket latrine,0.0,Enquête Démographique et de Santé et à Indicateurs Multiples EDSCI-III - DHS-MICS12
+Côte d'Ivoire,CI,CIV,384,National,12,Dry latrines - Other,0.0,Enquête Démographique et de Santé et à Indicateurs Multiples EDSCI-III - DHS-MICS12
+Côte d'Ivoire,CI,CIV,384,National,13,Composting toilets,0.0,Enquête Démographique et de Santé et à Indicateurs Multiples EDSCI-III - DHS-MICS12
+Côte d'Ivoire,CI,CIV,384,National,14,Other improved,0.0,Enquête Démographique et de Santé et à Indicateurs Multiples EDSCI-III - DHS-MICS12
+Côte d'Ivoire,CI,CIV,384,National,15,"No facility, bush, field",0.338,Enquête Démographique et de Santé et à Indicateurs Multiples EDSCI-III - DHS-MICS12
+Côte d'Ivoire,CI,CIV,384,National,16,Other unimproved,0.002,Enquête Démographique et de Santé et à Indicateurs Multiples EDSCI-III - DHS-MICS12
+Côte d'Ivoire,CI,CIV,384,National,17,DK/missing information,0.004,Enquête Démographique et de Santé et à Indicateurs Multiples EDSCI-III - DHS-MICS12
 Côte d'Ivoire,CI,CIV,384,Urban,1,Flush and pour flush - to piped sewer system,0.187,Enquete sur le niveau de vie des menages - ENV15
 Côte d'Ivoire,CI,CIV,384,Urban,2,Flush and pour flush - to septic tank,0.27,Enquete sur le niveau de vie des menages - ENV15
 Côte d'Ivoire,CI,CIV,384,Urban,3,Flush and pour flush - to pit,0.0,Enquete sur le niveau de vie des menages - ENV15
@@ -109,6 +351,23 @@ Côte d'Ivoire,CI,CIV,384,Rural,14,Other improved,0.0,Enquete sur le niveau de v
 Côte d'Ivoire,CI,CIV,384,Rural,15,"No facility, bush, field",0.433,Enquete sur le niveau de vie des menages - ENV15
 Côte d'Ivoire,CI,CIV,384,Rural,16,Other unimproved,0.0,Enquete sur le niveau de vie des menages - ENV15
 Côte d'Ivoire,CI,CIV,384,Rural,17,DK/missing information,0.0,Enquete sur le niveau de vie des menages - ENV15
+Côte d'Ivoire,CI,CIV,384,National,1,Flush and pour flush - to piped sewer system,0.071,Enquete sur le niveau de vie des menages - ENV15
+Côte d'Ivoire,CI,CIV,384,National,2,Flush and pour flush - to septic tank,0.224,Enquete sur le niveau de vie des menages - ENV15
+Côte d'Ivoire,CI,CIV,384,National,3,Flush and pour flush - to pit,0.0,Enquete sur le niveau de vie des menages - ENV15
+Côte d'Ivoire,CI,CIV,384,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Enquete sur le niveau de vie des menages - ENV15
+Côte d'Ivoire,CI,CIV,384,National,5,Flush and pour flush - to elsewhere,0.0,Enquete sur le niveau de vie des menages - ENV15
+Côte d'Ivoire,CI,CIV,384,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Enquete sur le niveau de vie des menages - ENV15
+Côte d'Ivoire,CI,CIV,384,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Enquete sur le niveau de vie des menages - ENV15
+Côte d'Ivoire,CI,CIV,384,National,8,Dry latrines - Traditional latrine,0.263,Enquete sur le niveau de vie des menages - ENV15
+Côte d'Ivoire,CI,CIV,384,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Enquete sur le niveau de vie des menages - ENV15
+Côte d'Ivoire,CI,CIV,384,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Enquete sur le niveau de vie des menages - ENV15
+Côte d'Ivoire,CI,CIV,384,National,11,Dry latrines - Bucket latrine,0.0,Enquete sur le niveau de vie des menages - ENV15
+Côte d'Ivoire,CI,CIV,384,National,12,Dry latrines - Other,0.128,Enquete sur le niveau de vie des menages - ENV15
+Côte d'Ivoire,CI,CIV,384,National,13,Composting toilets,0.0,Enquete sur le niveau de vie des menages - ENV15
+Côte d'Ivoire,CI,CIV,384,National,14,Other improved,0.0,Enquete sur le niveau de vie des menages - ENV15
+Côte d'Ivoire,CI,CIV,384,National,15,"No facility, bush, field",0.314,Enquete sur le niveau de vie des menages - ENV15
+Côte d'Ivoire,CI,CIV,384,National,16,Other unimproved,0.0,Enquete sur le niveau de vie des menages - ENV15
+Côte d'Ivoire,CI,CIV,384,National,17,DK/missing information,0.0,Enquete sur le niveau de vie des menages - ENV15
 Côte d'Ivoire,CI,CIV,384,Urban,1,Flush and pour flush - to piped sewer system,0.11,Multiple Indicator Cluster Survey - MICS16
 Côte d'Ivoire,CI,CIV,384,Urban,2,Flush and pour flush - to septic tank,0.269,Multiple Indicator Cluster Survey - MICS16
 Côte d'Ivoire,CI,CIV,384,Urban,3,Flush and pour flush - to pit,0.058,Multiple Indicator Cluster Survey - MICS16
@@ -143,6 +402,23 @@ Côte d'Ivoire,CI,CIV,384,Rural,14,Other improved,0.0,Multiple Indicator Cluster
 Côte d'Ivoire,CI,CIV,384,Rural,15,"No facility, bush, field",0.39,Multiple Indicator Cluster Survey - MICS16
 Côte d'Ivoire,CI,CIV,384,Rural,16,Other unimproved,0.004,Multiple Indicator Cluster Survey - MICS16
 Côte d'Ivoire,CI,CIV,384,Rural,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS16
+Côte d'Ivoire,CI,CIV,384,National,1,Flush and pour flush - to piped sewer system,0.056,Multiple Indicator Cluster Survey - MICS16
+Côte d'Ivoire,CI,CIV,384,National,2,Flush and pour flush - to septic tank,0.149,Multiple Indicator Cluster Survey - MICS16
+Côte d'Ivoire,CI,CIV,384,National,3,Flush and pour flush - to pit,0.032,Multiple Indicator Cluster Survey - MICS16
+Côte d'Ivoire,CI,CIV,384,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.018,Multiple Indicator Cluster Survey - MICS16
+Côte d'Ivoire,CI,CIV,384,National,5,Flush and pour flush - to elsewhere,0.005,Multiple Indicator Cluster Survey - MICS16
+Côte d'Ivoire,CI,CIV,384,National,6,Dry latrines - Ventilated Improved Pit latrine,0.001,Multiple Indicator Cluster Survey - MICS16
+Côte d'Ivoire,CI,CIV,384,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.269,Multiple Indicator Cluster Survey - MICS16
+Côte d'Ivoire,CI,CIV,384,National,8,Dry latrines - Traditional latrine,0.0,Multiple Indicator Cluster Survey - MICS16
+Côte d'Ivoire,CI,CIV,384,National,9,Dry latrines - Pit latrine without slab/open pit,0.244,Multiple Indicator Cluster Survey - MICS16
+Côte d'Ivoire,CI,CIV,384,National,10,Dry latrines - Hanging toilet/hanging latrine,0.003,Multiple Indicator Cluster Survey - MICS16
+Côte d'Ivoire,CI,CIV,384,National,11,Dry latrines - Bucket latrine,0.001,Multiple Indicator Cluster Survey - MICS16
+Côte d'Ivoire,CI,CIV,384,National,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS16
+Côte d'Ivoire,CI,CIV,384,National,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS16
+Côte d'Ivoire,CI,CIV,384,National,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS16
+Côte d'Ivoire,CI,CIV,384,National,15,"No facility, bush, field",0.218,Multiple Indicator Cluster Survey - MICS16
+Côte d'Ivoire,CI,CIV,384,National,16,Other unimproved,0.003,Multiple Indicator Cluster Survey - MICS16
+Côte d'Ivoire,CI,CIV,384,National,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS16
 Côte d'Ivoire,CI,CIV,384,Urban,1,Flush and pour flush - to piped sewer system,0.073,Performance Monitoring and Accountability - PMA17
 Côte d'Ivoire,CI,CIV,384,Urban,2,Flush and pour flush - to septic tank,0.257,Performance Monitoring and Accountability - PMA17
 Côte d'Ivoire,CI,CIV,384,Urban,3,Flush and pour flush - to pit,0.036,Performance Monitoring and Accountability - PMA17
@@ -177,3 +453,83 @@ Côte d'Ivoire,CI,CIV,384,Rural,14,Other improved,0.0,Performance Monitoring and
 Côte d'Ivoire,CI,CIV,384,Rural,15,"No facility, bush, field",0.433,Performance Monitoring and Accountability - PMA17
 Côte d'Ivoire,CI,CIV,384,Rural,16,Other unimproved,0.008,Performance Monitoring and Accountability - PMA17
 Côte d'Ivoire,CI,CIV,384,Rural,17,DK/missing information,0.0,Performance Monitoring and Accountability - PMA17
+Côte d'Ivoire,CI,CIV,384,National,1,Flush and pour flush - to piped sewer system,0.044,Performance Monitoring and Accountability - PMA17
+Côte d'Ivoire,CI,CIV,384,National,2,Flush and pour flush - to septic tank,0.157,Performance Monitoring and Accountability - PMA17
+Côte d'Ivoire,CI,CIV,384,National,3,Flush and pour flush - to pit,0.022,Performance Monitoring and Accountability - PMA17
+Côte d'Ivoire,CI,CIV,384,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.008,Performance Monitoring and Accountability - PMA17
+Côte d'Ivoire,CI,CIV,384,National,5,Flush and pour flush - to elsewhere,0.005,Performance Monitoring and Accountability - PMA17
+Côte d'Ivoire,CI,CIV,384,National,6,Dry latrines - Ventilated Improved Pit latrine,0.002,Performance Monitoring and Accountability - PMA17
+Côte d'Ivoire,CI,CIV,384,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.328,Performance Monitoring and Accountability - PMA17
+Côte d'Ivoire,CI,CIV,384,National,8,Dry latrines - Traditional latrine,0.0,Performance Monitoring and Accountability - PMA17
+Côte d'Ivoire,CI,CIV,384,National,9,Dry latrines - Pit latrine without slab/open pit,0.156,Performance Monitoring and Accountability - PMA17
+Côte d'Ivoire,CI,CIV,384,National,10,Dry latrines - Hanging toilet/hanging latrine,0.003,Performance Monitoring and Accountability - PMA17
+Côte d'Ivoire,CI,CIV,384,National,11,Dry latrines - Bucket latrine,0.0,Performance Monitoring and Accountability - PMA17
+Côte d'Ivoire,CI,CIV,384,National,12,Dry latrines - Other,0.0,Performance Monitoring and Accountability - PMA17
+Côte d'Ivoire,CI,CIV,384,National,13,Composting toilets,0.014,Performance Monitoring and Accountability - PMA17
+Côte d'Ivoire,CI,CIV,384,National,14,Other improved,0.0,Performance Monitoring and Accountability - PMA17
+Côte d'Ivoire,CI,CIV,384,National,15,"No facility, bush, field",0.254,Performance Monitoring and Accountability - PMA17
+Côte d'Ivoire,CI,CIV,384,National,16,Other unimproved,0.003,Performance Monitoring and Accountability - PMA17
+Côte d'Ivoire,CI,CIV,384,National,17,DK/missing information,0.004,Performance Monitoring and Accountability - PMA17
+Côte d'Ivoire,CI,CIV,384,Urban,1,Flush and pour flush - to piped sewer system,0.205,World Health Survey - WHS03
+Côte d'Ivoire,CI,CIV,384,Urban,2,Flush and pour flush - to septic tank,0.139,World Health Survey - WHS03
+Côte d'Ivoire,CI,CIV,384,Urban,3,Flush and pour flush - to pit,0.0,World Health Survey - WHS03
+Côte d'Ivoire,CI,CIV,384,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,World Health Survey - WHS03
+Côte d'Ivoire,CI,CIV,384,Urban,5,Flush and pour flush - to elsewhere,0.0,World Health Survey - WHS03
+Côte d'Ivoire,CI,CIV,384,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,World Health Survey - WHS03
+Côte d'Ivoire,CI,CIV,384,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.182,World Health Survey - WHS03
+Côte d'Ivoire,CI,CIV,384,Urban,8,Dry latrines - Traditional latrine,0.0,World Health Survey - WHS03
+Côte d'Ivoire,CI,CIV,384,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.132,World Health Survey - WHS03
+Côte d'Ivoire,CI,CIV,384,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,World Health Survey - WHS03
+Côte d'Ivoire,CI,CIV,384,Urban,11,Dry latrines - Bucket latrine,0.004,World Health Survey - WHS03
+Côte d'Ivoire,CI,CIV,384,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.097,World Health Survey - WHS03
+Côte d'Ivoire,CI,CIV,384,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.085,World Health Survey - WHS03
+Côte d'Ivoire,CI,CIV,384,Urban,8,Dry latrines - Traditional latrine,0.0,World Health Survey - WHS03
+Côte d'Ivoire,CI,CIV,384,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,World Health Survey - WHS03
+Côte d'Ivoire,CI,CIV,384,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,World Health Survey - WHS03
+Côte d'Ivoire,CI,CIV,384,Urban,11,Dry latrines - Bucket latrine,0.0,World Health Survey - WHS03
+Côte d'Ivoire,CI,CIV,384,Urban,12,Dry latrines - Other,0.0,World Health Survey - WHS03
+Côte d'Ivoire,CI,CIV,384,Urban,13,Composting toilets,0.0,World Health Survey - WHS03
+Côte d'Ivoire,CI,CIV,384,Urban,14,Other improved,0.0,World Health Survey - WHS03
+Côte d'Ivoire,CI,CIV,384,Urban,15,"No facility, bush, field",0.158,World Health Survey - WHS03
+Côte d'Ivoire,CI,CIV,384,Urban,16,Other unimproved,0.024,World Health Survey - WHS03
+Côte d'Ivoire,CI,CIV,384,Urban,17,DK/missing information,0.0,World Health Survey - WHS03
+Côte d'Ivoire,CI,CIV,384,Rural,1,Flush and pour flush - to piped sewer system,0.024,World Health Survey - WHS03
+Côte d'Ivoire,CI,CIV,384,Rural,2,Flush and pour flush - to septic tank,0.034,World Health Survey - WHS03
+Côte d'Ivoire,CI,CIV,384,Rural,3,Flush and pour flush - to pit,0.0,World Health Survey - WHS03
+Côte d'Ivoire,CI,CIV,384,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,World Health Survey - WHS03
+Côte d'Ivoire,CI,CIV,384,Rural,5,Flush and pour flush - to elsewhere,0.0,World Health Survey - WHS03
+Côte d'Ivoire,CI,CIV,384,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,World Health Survey - WHS03
+Côte d'Ivoire,CI,CIV,384,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.291,World Health Survey - WHS03
+Côte d'Ivoire,CI,CIV,384,Rural,8,Dry latrines - Traditional latrine,0.0,World Health Survey - WHS03
+Côte d'Ivoire,CI,CIV,384,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.182,World Health Survey - WHS03
+Côte d'Ivoire,CI,CIV,384,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,World Health Survey - WHS03
+Côte d'Ivoire,CI,CIV,384,Rural,11,Dry latrines - Bucket latrine,0.008,World Health Survey - WHS03
+Côte d'Ivoire,CI,CIV,384,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.212,World Health Survey - WHS03
+Côte d'Ivoire,CI,CIV,384,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.079,World Health Survey - WHS03
+Côte d'Ivoire,CI,CIV,384,Rural,8,Dry latrines - Traditional latrine,0.0,World Health Survey - WHS03
+Côte d'Ivoire,CI,CIV,384,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,World Health Survey - WHS03
+Côte d'Ivoire,CI,CIV,384,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,World Health Survey - WHS03
+Côte d'Ivoire,CI,CIV,384,Rural,11,Dry latrines - Bucket latrine,0.0,World Health Survey - WHS03
+Côte d'Ivoire,CI,CIV,384,Rural,12,Dry latrines - Other,0.0,World Health Survey - WHS03
+Côte d'Ivoire,CI,CIV,384,Rural,13,Composting toilets,0.0,World Health Survey - WHS03
+Côte d'Ivoire,CI,CIV,384,Rural,14,Other improved,0.0,World Health Survey - WHS03
+Côte d'Ivoire,CI,CIV,384,Rural,15,"No facility, bush, field",0.39,World Health Survey - WHS03
+Côte d'Ivoire,CI,CIV,384,Rural,16,Other unimproved,0.01,World Health Survey - WHS03
+Côte d'Ivoire,CI,CIV,384,Rural,17,DK/missing information,0.0,World Health Survey - WHS03
+Côte d'Ivoire,CI,CIV,384,National,1,Flush and pour flush - to piped sewer system,0.0,World Health Survey - WHS03
+Côte d'Ivoire,CI,CIV,384,National,2,Flush and pour flush - to septic tank,0.0,World Health Survey - WHS03
+Côte d'Ivoire,CI,CIV,384,National,3,Flush and pour flush - to pit,0.0,World Health Survey - WHS03
+Côte d'Ivoire,CI,CIV,384,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,World Health Survey - WHS03
+Côte d'Ivoire,CI,CIV,384,National,5,Flush and pour flush - to elsewhere,0.0,World Health Survey - WHS03
+Côte d'Ivoire,CI,CIV,384,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,World Health Survey - WHS03
+Côte d'Ivoire,CI,CIV,384,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,World Health Survey - WHS03
+Côte d'Ivoire,CI,CIV,384,National,8,Dry latrines - Traditional latrine,0.0,World Health Survey - WHS03
+Côte d'Ivoire,CI,CIV,384,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,World Health Survey - WHS03
+Côte d'Ivoire,CI,CIV,384,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,World Health Survey - WHS03
+Côte d'Ivoire,CI,CIV,384,National,11,Dry latrines - Bucket latrine,0.0,World Health Survey - WHS03
+Côte d'Ivoire,CI,CIV,384,National,12,Dry latrines - Other,0.0,World Health Survey - WHS03
+Côte d'Ivoire,CI,CIV,384,National,13,Composting toilets,0.0,World Health Survey - WHS03
+Côte d'Ivoire,CI,CIV,384,National,14,Other improved,0.0,World Health Survey - WHS03
+Côte d'Ivoire,CI,CIV,384,National,15,"No facility, bush, field",0.0,World Health Survey - WHS03
+Côte d'Ivoire,CI,CIV,384,National,16,Other unimproved,0.0,World Health Survey - WHS03
+Côte d'Ivoire,CI,CIV,384,National,17,DK/missing information,0.0,World Health Survey - WHS03

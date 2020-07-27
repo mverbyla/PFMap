@@ -1,4 +1,61 @@
 country,alpha-2,alpha-3,numeric,context,classific_id,classification,percentage,source
+Serbia,RS,SRB,688,Urban,1,Flush and pour flush - to piped sewer system,0.39,Living standards and measurement survey - LSMS07
+Serbia,RS,SRB,688,Urban,2,Flush and pour flush - to septic tank,0.078,Living standards and measurement survey - LSMS07
+Serbia,RS,SRB,688,Urban,3,Flush and pour flush - to pit,0.0,Living standards and measurement survey - LSMS07
+Serbia,RS,SRB,688,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Living standards and measurement survey - LSMS07
+Serbia,RS,SRB,688,Urban,5,Flush and pour flush - to elsewhere,0.0,Living standards and measurement survey - LSMS07
+Serbia,RS,SRB,688,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Living standards and measurement survey - LSMS07
+Serbia,RS,SRB,688,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Living standards and measurement survey - LSMS07
+Serbia,RS,SRB,688,Urban,8,Dry latrines - Traditional latrine,0.011,Living standards and measurement survey - LSMS07
+Serbia,RS,SRB,688,Urban,8,Dry latrines - Traditional latrine,0.009,Living standards and measurement survey - LSMS07
+Serbia,RS,SRB,688,Urban,8,Dry latrines - Traditional latrine,0.002,Living standards and measurement survey - LSMS07
+Serbia,RS,SRB,688,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Living standards and measurement survey - LSMS07
+Serbia,RS,SRB,688,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Living standards and measurement survey - LSMS07
+Serbia,RS,SRB,688,Urban,11,Dry latrines - Bucket latrine,0.0,Living standards and measurement survey - LSMS07
+Serbia,RS,SRB,688,Urban,12,Dry latrines - Other,0.0,Living standards and measurement survey - LSMS07
+Serbia,RS,SRB,688,Urban,13,Composting toilets,0.0,Living standards and measurement survey - LSMS07
+Serbia,RS,SRB,688,Urban,14,Other improved,0.0,Living standards and measurement survey - LSMS07
+Serbia,RS,SRB,688,Urban,15,"No facility, bush, field",0.0,Living standards and measurement survey - LSMS07
+Serbia,RS,SRB,688,Urban,16,Other unimproved,0.0,Living standards and measurement survey - LSMS07
+Serbia,RS,SRB,688,Urban,17,DK/missing information,0.521,Living standards and measurement survey - LSMS07
+Serbia,RS,SRB,688,Rural,1,Flush and pour flush - to piped sewer system,0.075,Living standards and measurement survey - LSMS07
+Serbia,RS,SRB,688,Rural,2,Flush and pour flush - to septic tank,0.318,Living standards and measurement survey - LSMS07
+Serbia,RS,SRB,688,Rural,3,Flush and pour flush - to pit,0.0,Living standards and measurement survey - LSMS07
+Serbia,RS,SRB,688,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Living standards and measurement survey - LSMS07
+Serbia,RS,SRB,688,Rural,5,Flush and pour flush - to elsewhere,0.0,Living standards and measurement survey - LSMS07
+Serbia,RS,SRB,688,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Living standards and measurement survey - LSMS07
+Serbia,RS,SRB,688,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Living standards and measurement survey - LSMS07
+Serbia,RS,SRB,688,Rural,8,Dry latrines - Traditional latrine,0.094,Living standards and measurement survey - LSMS07
+Serbia,RS,SRB,688,Rural,8,Dry latrines - Traditional latrine,0.089,Living standards and measurement survey - LSMS07
+Serbia,RS,SRB,688,Rural,8,Dry latrines - Traditional latrine,0.005,Living standards and measurement survey - LSMS07
+Serbia,RS,SRB,688,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Living standards and measurement survey - LSMS07
+Serbia,RS,SRB,688,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Living standards and measurement survey - LSMS07
+Serbia,RS,SRB,688,Rural,11,Dry latrines - Bucket latrine,0.0,Living standards and measurement survey - LSMS07
+Serbia,RS,SRB,688,Rural,12,Dry latrines - Other,0.0,Living standards and measurement survey - LSMS07
+Serbia,RS,SRB,688,Rural,13,Composting toilets,0.0,Living standards and measurement survey - LSMS07
+Serbia,RS,SRB,688,Rural,14,Other improved,0.0,Living standards and measurement survey - LSMS07
+Serbia,RS,SRB,688,Rural,15,"No facility, bush, field",0.004,Living standards and measurement survey - LSMS07
+Serbia,RS,SRB,688,Rural,16,Other unimproved,0.0,Living standards and measurement survey - LSMS07
+Serbia,RS,SRB,688,Rural,17,DK/missing information,0.509,Living standards and measurement survey - LSMS07
+Serbia,RS,SRB,688,National,1,Flush and pour flush - to piped sewer system,0.259,Living standards and measurement survey - LSMS07
+Serbia,RS,SRB,688,National,2,Flush and pour flush - to septic tank,0.177,Living standards and measurement survey - LSMS07
+Serbia,RS,SRB,688,National,3,Flush and pour flush - to pit,0.0,Living standards and measurement survey - LSMS07
+Serbia,RS,SRB,688,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Living standards and measurement survey - LSMS07
+Serbia,RS,SRB,688,National,5,Flush and pour flush - to elsewhere,0.0,Living standards and measurement survey - LSMS07
+Serbia,RS,SRB,688,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Living standards and measurement survey - LSMS07
+Serbia,RS,SRB,688,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Living standards and measurement survey - LSMS07
+Serbia,RS,SRB,688,National,8,Dry latrines - Traditional latrine,0.045,Living standards and measurement survey - LSMS07
+Serbia,RS,SRB,688,National,8,Dry latrines - Traditional latrine,0.042,Living standards and measurement survey - LSMS07
+Serbia,RS,SRB,688,National,8,Dry latrines - Traditional latrine,0.003,Living standards and measurement survey - LSMS07
+Serbia,RS,SRB,688,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Living standards and measurement survey - LSMS07
+Serbia,RS,SRB,688,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Living standards and measurement survey - LSMS07
+Serbia,RS,SRB,688,National,11,Dry latrines - Bucket latrine,0.0,Living standards and measurement survey - LSMS07
+Serbia,RS,SRB,688,National,12,Dry latrines - Other,0.0,Living standards and measurement survey - LSMS07
+Serbia,RS,SRB,688,National,13,Composting toilets,0.0,Living standards and measurement survey - LSMS07
+Serbia,RS,SRB,688,National,14,Other improved,0.0,Living standards and measurement survey - LSMS07
+Serbia,RS,SRB,688,National,15,"No facility, bush, field",0.002,Living standards and measurement survey - LSMS07
+Serbia,RS,SRB,688,National,16,Other unimproved,0.0,Living standards and measurement survey - LSMS07
+Serbia,RS,SRB,688,National,17,DK/missing information,0.516,Living standards and measurement survey - LSMS07
 Serbia,RS,SRB,688,Urban,1,Flush and pour flush - to piped sewer system,0.855,Multiple Indicator Cluster Survey - MICS10
 Serbia,RS,SRB,688,Urban,2,Flush and pour flush - to septic tank,0.13,Multiple Indicator Cluster Survey - MICS10
 Serbia,RS,SRB,688,Urban,3,Flush and pour flush - to pit,0.001,Multiple Indicator Cluster Survey - MICS10
@@ -33,6 +90,74 @@ Serbia,RS,SRB,688,Rural,14,Other improved,0.0,Multiple Indicator Cluster Survey 
 Serbia,RS,SRB,688,Rural,15,"No facility, bush, field",0.0,Multiple Indicator Cluster Survey - MICS10
 Serbia,RS,SRB,688,Rural,16,Other unimproved,0.0,Multiple Indicator Cluster Survey - MICS10
 Serbia,RS,SRB,688,Rural,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS10
+Serbia,RS,SRB,688,National,1,Flush and pour flush - to piped sewer system,0.549,Multiple Indicator Cluster Survey - MICS10
+Serbia,RS,SRB,688,National,2,Flush and pour flush - to septic tank,0.389,Multiple Indicator Cluster Survey - MICS10
+Serbia,RS,SRB,688,National,3,Flush and pour flush - to pit,0.006,Multiple Indicator Cluster Survey - MICS10
+Serbia,RS,SRB,688,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.002,Multiple Indicator Cluster Survey - MICS10
+Serbia,RS,SRB,688,National,5,Flush and pour flush - to elsewhere,0.015,Multiple Indicator Cluster Survey - MICS10
+Serbia,RS,SRB,688,National,6,Dry latrines - Ventilated Improved Pit latrine,0.003,Multiple Indicator Cluster Survey - MICS10
+Serbia,RS,SRB,688,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.035,Multiple Indicator Cluster Survey - MICS10
+Serbia,RS,SRB,688,National,8,Dry latrines - Traditional latrine,0.0,Multiple Indicator Cluster Survey - MICS10
+Serbia,RS,SRB,688,National,9,Dry latrines - Pit latrine without slab/open pit,0.001,Multiple Indicator Cluster Survey - MICS10
+Serbia,RS,SRB,688,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS10
+Serbia,RS,SRB,688,National,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS10
+Serbia,RS,SRB,688,National,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS10
+Serbia,RS,SRB,688,National,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS10
+Serbia,RS,SRB,688,National,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS10
+Serbia,RS,SRB,688,National,15,"No facility, bush, field",0.0,Multiple Indicator Cluster Survey - MICS10
+Serbia,RS,SRB,688,National,16,Other unimproved,0.0,Multiple Indicator Cluster Survey - MICS10
+Serbia,RS,SRB,688,National,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS10
+Serbia,RS,SRB,688,Urban,1,Flush and pour flush - to piped sewer system,0.85,Census - CEN11
+Serbia,RS,SRB,688,Urban,2,Flush and pour flush - to septic tank,0.138,Census - CEN11
+Serbia,RS,SRB,688,Urban,3,Flush and pour flush - to pit,0.0,Census - CEN11
+Serbia,RS,SRB,688,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN11
+Serbia,RS,SRB,688,Urban,5,Flush and pour flush - to elsewhere,0.0,Census - CEN11
+Serbia,RS,SRB,688,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN11
+Serbia,RS,SRB,688,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN11
+Serbia,RS,SRB,688,Urban,8,Dry latrines - Traditional latrine,0.0,Census - CEN11
+Serbia,RS,SRB,688,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN11
+Serbia,RS,SRB,688,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN11
+Serbia,RS,SRB,688,Urban,11,Dry latrines - Bucket latrine,0.0,Census - CEN11
+Serbia,RS,SRB,688,Urban,12,Dry latrines - Other,0.0,Census - CEN11
+Serbia,RS,SRB,688,Urban,13,Composting toilets,0.0,Census - CEN11
+Serbia,RS,SRB,688,Urban,14,Other improved,0.0,Census - CEN11
+Serbia,RS,SRB,688,Urban,15,"No facility, bush, field",0.0,Census - CEN11
+Serbia,RS,SRB,688,Urban,16,Other unimproved,0.0,Census - CEN11
+Serbia,RS,SRB,688,Urban,17,DK/missing information,0.0,Census - CEN11
+Serbia,RS,SRB,688,Rural,1,Flush and pour flush - to piped sewer system,0.078,Census - CEN11
+Serbia,RS,SRB,688,Rural,2,Flush and pour flush - to septic tank,0.764,Census - CEN11
+Serbia,RS,SRB,688,Rural,3,Flush and pour flush - to pit,0.0,Census - CEN11
+Serbia,RS,SRB,688,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN11
+Serbia,RS,SRB,688,Rural,5,Flush and pour flush - to elsewhere,0.0,Census - CEN11
+Serbia,RS,SRB,688,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN11
+Serbia,RS,SRB,688,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN11
+Serbia,RS,SRB,688,Rural,8,Dry latrines - Traditional latrine,0.0,Census - CEN11
+Serbia,RS,SRB,688,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN11
+Serbia,RS,SRB,688,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN11
+Serbia,RS,SRB,688,Rural,11,Dry latrines - Bucket latrine,0.0,Census - CEN11
+Serbia,RS,SRB,688,Rural,12,Dry latrines - Other,0.0,Census - CEN11
+Serbia,RS,SRB,688,Rural,13,Composting toilets,0.0,Census - CEN11
+Serbia,RS,SRB,688,Rural,14,Other improved,0.0,Census - CEN11
+Serbia,RS,SRB,688,Rural,15,"No facility, bush, field",0.0,Census - CEN11
+Serbia,RS,SRB,688,Rural,16,Other unimproved,0.0,Census - CEN11
+Serbia,RS,SRB,688,Rural,17,DK/missing information,0.0,Census - CEN11
+Serbia,RS,SRB,688,National,1,Flush and pour flush - to piped sewer system,0.517,Census - CEN11
+Serbia,RS,SRB,688,National,2,Flush and pour flush - to septic tank,0.408,Census - CEN11
+Serbia,RS,SRB,688,National,3,Flush and pour flush - to pit,0.0,Census - CEN11
+Serbia,RS,SRB,688,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Census - CEN11
+Serbia,RS,SRB,688,National,5,Flush and pour flush - to elsewhere,0.0,Census - CEN11
+Serbia,RS,SRB,688,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Census - CEN11
+Serbia,RS,SRB,688,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Census - CEN11
+Serbia,RS,SRB,688,National,8,Dry latrines - Traditional latrine,0.0,Census - CEN11
+Serbia,RS,SRB,688,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Census - CEN11
+Serbia,RS,SRB,688,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Census - CEN11
+Serbia,RS,SRB,688,National,11,Dry latrines - Bucket latrine,0.0,Census - CEN11
+Serbia,RS,SRB,688,National,12,Dry latrines - Other,0.0,Census - CEN11
+Serbia,RS,SRB,688,National,13,Composting toilets,0.0,Census - CEN11
+Serbia,RS,SRB,688,National,14,Other improved,0.0,Census - CEN11
+Serbia,RS,SRB,688,National,15,"No facility, bush, field",0.0,Census - CEN11
+Serbia,RS,SRB,688,National,16,Other unimproved,0.0,Census - CEN11
+Serbia,RS,SRB,688,National,17,DK/missing information,0.0,Census - CEN11
 Serbia,RS,SRB,688,Urban,1,Flush and pour flush - to piped sewer system,0.833,Multiple Indicator Cluster Surveys - MICS14
 Serbia,RS,SRB,688,Urban,2,Flush and pour flush - to septic tank,0.145,Multiple Indicator Cluster Surveys - MICS14
 Serbia,RS,SRB,688,Urban,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Surveys - MICS14
@@ -67,6 +192,227 @@ Serbia,RS,SRB,688,Rural,14,Other improved,0.0,Multiple Indicator Cluster Surveys
 Serbia,RS,SRB,688,Rural,15,"No facility, bush, field",0.002,Multiple Indicator Cluster Surveys - MICS14
 Serbia,RS,SRB,688,Rural,16,Other unimproved,0.004,Multiple Indicator Cluster Surveys - MICS14
 Serbia,RS,SRB,688,Rural,17,DK/missing information,0.001,Multiple Indicator Cluster Surveys - MICS14
+Serbia,RS,SRB,688,National,1,Flush and pour flush - to piped sewer system,0.572,Multiple Indicator Cluster Surveys - MICS14
+Serbia,RS,SRB,688,National,2,Flush and pour flush - to septic tank,0.353,Multiple Indicator Cluster Surveys - MICS14
+Serbia,RS,SRB,688,National,3,Flush and pour flush - to pit,0.001,Multiple Indicator Cluster Surveys - MICS14
+Serbia,RS,SRB,688,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.003,Multiple Indicator Cluster Surveys - MICS14
+Serbia,RS,SRB,688,National,5,Flush and pour flush - to elsewhere,0.01,Multiple Indicator Cluster Surveys - MICS14
+Serbia,RS,SRB,688,National,6,Dry latrines - Ventilated Improved Pit latrine,0.001,Multiple Indicator Cluster Surveys - MICS14
+Serbia,RS,SRB,688,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.046,Multiple Indicator Cluster Surveys - MICS14
+Serbia,RS,SRB,688,National,8,Dry latrines - Traditional latrine,0.0,Multiple Indicator Cluster Surveys - MICS14
+Serbia,RS,SRB,688,National,9,Dry latrines - Pit latrine without slab/open pit,0.011,Multiple Indicator Cluster Surveys - MICS14
+Serbia,RS,SRB,688,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Surveys - MICS14
+Serbia,RS,SRB,688,National,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Surveys - MICS14
+Serbia,RS,SRB,688,National,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Surveys - MICS14
+Serbia,RS,SRB,688,National,13,Composting toilets,0.0,Multiple Indicator Cluster Surveys - MICS14
+Serbia,RS,SRB,688,National,14,Other improved,0.0,Multiple Indicator Cluster Surveys - MICS14
+Serbia,RS,SRB,688,National,15,"No facility, bush, field",0.001,Multiple Indicator Cluster Surveys - MICS14
+Serbia,RS,SRB,688,National,16,Other unimproved,0.002,Multiple Indicator Cluster Surveys - MICS14
+Serbia,RS,SRB,688,National,17,DK/missing information,0.001,Multiple Indicator Cluster Surveys - MICS14
+Serbia,RS,SRB,688,Urban,1,Flush and pour flush - to piped sewer system,0.984,Eurostat SILC database - EUSILC13
+Serbia,RS,SRB,688,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC13
+Serbia,RS,SRB,688,Urban,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC13
+Serbia,RS,SRB,688,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC13
+Serbia,RS,SRB,688,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC13
+Serbia,RS,SRB,688,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC13
+Serbia,RS,SRB,688,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC13
+Serbia,RS,SRB,688,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC13
+Serbia,RS,SRB,688,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC13
+Serbia,RS,SRB,688,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC13
+Serbia,RS,SRB,688,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC13
+Serbia,RS,SRB,688,Urban,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC13
+Serbia,RS,SRB,688,Urban,13,Composting toilets,0.0,Eurostat SILC database - EUSILC13
+Serbia,RS,SRB,688,Urban,14,Other improved,0.0,Eurostat SILC database - EUSILC13
+Serbia,RS,SRB,688,Urban,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC13
+Serbia,RS,SRB,688,Urban,16,Other unimproved,0.016,Eurostat SILC database - EUSILC13
+Serbia,RS,SRB,688,Urban,17,DK/missing information,0.0,Eurostat SILC database - EUSILC13
+Serbia,RS,SRB,688,Rural,1,Flush and pour flush - to piped sewer system,0.902,Eurostat SILC database - EUSILC13
+Serbia,RS,SRB,688,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC13
+Serbia,RS,SRB,688,Rural,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC13
+Serbia,RS,SRB,688,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC13
+Serbia,RS,SRB,688,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC13
+Serbia,RS,SRB,688,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC13
+Serbia,RS,SRB,688,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC13
+Serbia,RS,SRB,688,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC13
+Serbia,RS,SRB,688,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC13
+Serbia,RS,SRB,688,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC13
+Serbia,RS,SRB,688,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC13
+Serbia,RS,SRB,688,Rural,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC13
+Serbia,RS,SRB,688,Rural,13,Composting toilets,0.0,Eurostat SILC database - EUSILC13
+Serbia,RS,SRB,688,Rural,14,Other improved,0.0,Eurostat SILC database - EUSILC13
+Serbia,RS,SRB,688,Rural,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC13
+Serbia,RS,SRB,688,Rural,16,Other unimproved,0.098,Eurostat SILC database - EUSILC13
+Serbia,RS,SRB,688,Rural,17,DK/missing information,0.0,Eurostat SILC database - EUSILC13
+Serbia,RS,SRB,688,National,1,Flush and pour flush - to piped sewer system,0.952,Eurostat SILC database - EUSILC13
+Serbia,RS,SRB,688,National,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC13
+Serbia,RS,SRB,688,National,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC13
+Serbia,RS,SRB,688,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC13
+Serbia,RS,SRB,688,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC13
+Serbia,RS,SRB,688,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC13
+Serbia,RS,SRB,688,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC13
+Serbia,RS,SRB,688,National,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC13
+Serbia,RS,SRB,688,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC13
+Serbia,RS,SRB,688,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC13
+Serbia,RS,SRB,688,National,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC13
+Serbia,RS,SRB,688,National,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC13
+Serbia,RS,SRB,688,National,13,Composting toilets,0.0,Eurostat SILC database - EUSILC13
+Serbia,RS,SRB,688,National,14,Other improved,0.0,Eurostat SILC database - EUSILC13
+Serbia,RS,SRB,688,National,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC13
+Serbia,RS,SRB,688,National,16,Other unimproved,0.048,Eurostat SILC database - EUSILC13
+Serbia,RS,SRB,688,National,17,DK/missing information,0.0,Eurostat SILC database - EUSILC13
+Serbia,RS,SRB,688,Urban,1,Flush and pour flush - to piped sewer system,0.989,Eurostat SILC database - EUSILC15
+Serbia,RS,SRB,688,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC15
+Serbia,RS,SRB,688,Urban,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC15
+Serbia,RS,SRB,688,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC15
+Serbia,RS,SRB,688,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC15
+Serbia,RS,SRB,688,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC15
+Serbia,RS,SRB,688,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC15
+Serbia,RS,SRB,688,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC15
+Serbia,RS,SRB,688,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC15
+Serbia,RS,SRB,688,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC15
+Serbia,RS,SRB,688,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC15
+Serbia,RS,SRB,688,Urban,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC15
+Serbia,RS,SRB,688,Urban,13,Composting toilets,0.0,Eurostat SILC database - EUSILC15
+Serbia,RS,SRB,688,Urban,14,Other improved,0.0,Eurostat SILC database - EUSILC15
+Serbia,RS,SRB,688,Urban,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC15
+Serbia,RS,SRB,688,Urban,16,Other unimproved,0.011,Eurostat SILC database - EUSILC15
+Serbia,RS,SRB,688,Urban,17,DK/missing information,0.0,Eurostat SILC database - EUSILC15
+Serbia,RS,SRB,688,Rural,1,Flush and pour flush - to piped sewer system,0.913,Eurostat SILC database - EUSILC15
+Serbia,RS,SRB,688,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC15
+Serbia,RS,SRB,688,Rural,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC15
+Serbia,RS,SRB,688,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC15
+Serbia,RS,SRB,688,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC15
+Serbia,RS,SRB,688,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC15
+Serbia,RS,SRB,688,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC15
+Serbia,RS,SRB,688,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC15
+Serbia,RS,SRB,688,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC15
+Serbia,RS,SRB,688,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC15
+Serbia,RS,SRB,688,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC15
+Serbia,RS,SRB,688,Rural,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC15
+Serbia,RS,SRB,688,Rural,13,Composting toilets,0.0,Eurostat SILC database - EUSILC15
+Serbia,RS,SRB,688,Rural,14,Other improved,0.0,Eurostat SILC database - EUSILC15
+Serbia,RS,SRB,688,Rural,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC15
+Serbia,RS,SRB,688,Rural,16,Other unimproved,0.087,Eurostat SILC database - EUSILC15
+Serbia,RS,SRB,688,Rural,17,DK/missing information,0.0,Eurostat SILC database - EUSILC15
+Serbia,RS,SRB,688,National,1,Flush and pour flush - to piped sewer system,0.958,Eurostat SILC database - EUSILC15
+Serbia,RS,SRB,688,National,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC15
+Serbia,RS,SRB,688,National,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC15
+Serbia,RS,SRB,688,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC15
+Serbia,RS,SRB,688,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC15
+Serbia,RS,SRB,688,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC15
+Serbia,RS,SRB,688,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC15
+Serbia,RS,SRB,688,National,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC15
+Serbia,RS,SRB,688,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC15
+Serbia,RS,SRB,688,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC15
+Serbia,RS,SRB,688,National,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC15
+Serbia,RS,SRB,688,National,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC15
+Serbia,RS,SRB,688,National,13,Composting toilets,0.0,Eurostat SILC database - EUSILC15
+Serbia,RS,SRB,688,National,14,Other improved,0.0,Eurostat SILC database - EUSILC15
+Serbia,RS,SRB,688,National,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC15
+Serbia,RS,SRB,688,National,16,Other unimproved,0.042,Eurostat SILC database - EUSILC15
+Serbia,RS,SRB,688,National,17,DK/missing information,0.0,Eurostat SILC database - EUSILC15
+Serbia,RS,SRB,688,Urban,1,Flush and pour flush - to piped sewer system,0.746,Living Standards Measurement Study (LSMS) - LSMS02
+Serbia,RS,SRB,688,Urban,2,Flush and pour flush - to septic tank,0.114,Living Standards Measurement Study (LSMS) - LSMS02
+Serbia,RS,SRB,688,Urban,3,Flush and pour flush - to pit,0.0,Living Standards Measurement Study (LSMS) - LSMS02
+Serbia,RS,SRB,688,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Living Standards Measurement Study (LSMS) - LSMS02
+Serbia,RS,SRB,688,Urban,5,Flush and pour flush - to elsewhere,0.0,Living Standards Measurement Study (LSMS) - LSMS02
+Serbia,RS,SRB,688,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Living Standards Measurement Study (LSMS) - LSMS02
+Serbia,RS,SRB,688,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Living Standards Measurement Study (LSMS) - LSMS02
+Serbia,RS,SRB,688,Urban,8,Dry latrines - Traditional latrine,0.0,Living Standards Measurement Study (LSMS) - LSMS02
+Serbia,RS,SRB,688,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Living Standards Measurement Study (LSMS) - LSMS02
+Serbia,RS,SRB,688,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Living Standards Measurement Study (LSMS) - LSMS02
+Serbia,RS,SRB,688,Urban,11,Dry latrines - Bucket latrine,0.0,Living Standards Measurement Study (LSMS) - LSMS02
+Serbia,RS,SRB,688,Urban,12,Dry latrines - Other,0.0,Living Standards Measurement Study (LSMS) - LSMS02
+Serbia,RS,SRB,688,Urban,13,Composting toilets,0.0,Living Standards Measurement Study (LSMS) - LSMS02
+Serbia,RS,SRB,688,Urban,14,Other improved,0.0,Living Standards Measurement Study (LSMS) - LSMS02
+Serbia,RS,SRB,688,Urban,15,"No facility, bush, field",0.0,Living Standards Measurement Study (LSMS) - LSMS02
+Serbia,RS,SRB,688,Urban,16,Other unimproved,0.14,Living Standards Measurement Study (LSMS) - LSMS02
+Serbia,RS,SRB,688,Urban,17,DK/missing information,0.0,Living Standards Measurement Study (LSMS) - LSMS02
+Serbia,RS,SRB,688,Rural,1,Flush and pour flush - to piped sewer system,0.251,Living Standards Measurement Study (LSMS) - LSMS02
+Serbia,RS,SRB,688,Rural,2,Flush and pour flush - to septic tank,0.332,Living Standards Measurement Study (LSMS) - LSMS02
+Serbia,RS,SRB,688,Rural,3,Flush and pour flush - to pit,0.0,Living Standards Measurement Study (LSMS) - LSMS02
+Serbia,RS,SRB,688,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Living Standards Measurement Study (LSMS) - LSMS02
+Serbia,RS,SRB,688,Rural,5,Flush and pour flush - to elsewhere,0.0,Living Standards Measurement Study (LSMS) - LSMS02
+Serbia,RS,SRB,688,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Living Standards Measurement Study (LSMS) - LSMS02
+Serbia,RS,SRB,688,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Living Standards Measurement Study (LSMS) - LSMS02
+Serbia,RS,SRB,688,Rural,8,Dry latrines - Traditional latrine,0.0,Living Standards Measurement Study (LSMS) - LSMS02
+Serbia,RS,SRB,688,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Living Standards Measurement Study (LSMS) - LSMS02
+Serbia,RS,SRB,688,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Living Standards Measurement Study (LSMS) - LSMS02
+Serbia,RS,SRB,688,Rural,11,Dry latrines - Bucket latrine,0.0,Living Standards Measurement Study (LSMS) - LSMS02
+Serbia,RS,SRB,688,Rural,12,Dry latrines - Other,0.0,Living Standards Measurement Study (LSMS) - LSMS02
+Serbia,RS,SRB,688,Rural,13,Composting toilets,0.0,Living Standards Measurement Study (LSMS) - LSMS02
+Serbia,RS,SRB,688,Rural,14,Other improved,0.0,Living Standards Measurement Study (LSMS) - LSMS02
+Serbia,RS,SRB,688,Rural,15,"No facility, bush, field",0.0,Living Standards Measurement Study (LSMS) - LSMS02
+Serbia,RS,SRB,688,Rural,16,Other unimproved,0.417,Living Standards Measurement Study (LSMS) - LSMS02
+Serbia,RS,SRB,688,Rural,17,DK/missing information,0.0,Living Standards Measurement Study (LSMS) - LSMS02
+Serbia,RS,SRB,688,National,1,Flush and pour flush - to piped sewer system,0.539,Living Standards Measurement Study (LSMS) - LSMS02
+Serbia,RS,SRB,688,National,2,Flush and pour flush - to septic tank,0.205,Living Standards Measurement Study (LSMS) - LSMS02
+Serbia,RS,SRB,688,National,3,Flush and pour flush - to pit,0.0,Living Standards Measurement Study (LSMS) - LSMS02
+Serbia,RS,SRB,688,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Living Standards Measurement Study (LSMS) - LSMS02
+Serbia,RS,SRB,688,National,5,Flush and pour flush - to elsewhere,0.0,Living Standards Measurement Study (LSMS) - LSMS02
+Serbia,RS,SRB,688,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Living Standards Measurement Study (LSMS) - LSMS02
+Serbia,RS,SRB,688,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Living Standards Measurement Study (LSMS) - LSMS02
+Serbia,RS,SRB,688,National,8,Dry latrines - Traditional latrine,0.0,Living Standards Measurement Study (LSMS) - LSMS02
+Serbia,RS,SRB,688,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Living Standards Measurement Study (LSMS) - LSMS02
+Serbia,RS,SRB,688,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Living Standards Measurement Study (LSMS) - LSMS02
+Serbia,RS,SRB,688,National,11,Dry latrines - Bucket latrine,0.0,Living Standards Measurement Study (LSMS) - LSMS02
+Serbia,RS,SRB,688,National,12,Dry latrines - Other,0.0,Living Standards Measurement Study (LSMS) - LSMS02
+Serbia,RS,SRB,688,National,13,Composting toilets,0.0,Living Standards Measurement Study (LSMS) - LSMS02
+Serbia,RS,SRB,688,National,14,Other improved,0.0,Living Standards Measurement Study (LSMS) - LSMS02
+Serbia,RS,SRB,688,National,15,"No facility, bush, field",0.0,Living Standards Measurement Study (LSMS) - LSMS02
+Serbia,RS,SRB,688,National,16,Other unimproved,0.256,Living Standards Measurement Study (LSMS) - LSMS02
+Serbia,RS,SRB,688,National,17,DK/missing information,0.0,Living Standards Measurement Study (LSMS) - LSMS02
+Serbia,RS,SRB,688,Urban,1,Flush and pour flush - to piped sewer system,0.511,Living Standards Measurement Study (LSMS) - LSMS03
+Serbia,RS,SRB,688,Urban,2,Flush and pour flush - to septic tank,0.287,Living Standards Measurement Study (LSMS) - LSMS03
+Serbia,RS,SRB,688,Urban,3,Flush and pour flush - to pit,0.0,Living Standards Measurement Study (LSMS) - LSMS03
+Serbia,RS,SRB,688,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Living Standards Measurement Study (LSMS) - LSMS03
+Serbia,RS,SRB,688,Urban,5,Flush and pour flush - to elsewhere,0.0,Living Standards Measurement Study (LSMS) - LSMS03
+Serbia,RS,SRB,688,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Living Standards Measurement Study (LSMS) - LSMS03
+Serbia,RS,SRB,688,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Living Standards Measurement Study (LSMS) - LSMS03
+Serbia,RS,SRB,688,Urban,8,Dry latrines - Traditional latrine,0.0,Living Standards Measurement Study (LSMS) - LSMS03
+Serbia,RS,SRB,688,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Living Standards Measurement Study (LSMS) - LSMS03
+Serbia,RS,SRB,688,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Living Standards Measurement Study (LSMS) - LSMS03
+Serbia,RS,SRB,688,Urban,11,Dry latrines - Bucket latrine,0.0,Living Standards Measurement Study (LSMS) - LSMS03
+Serbia,RS,SRB,688,Urban,12,Dry latrines - Other,0.0,Living Standards Measurement Study (LSMS) - LSMS03
+Serbia,RS,SRB,688,Urban,13,Composting toilets,0.0,Living Standards Measurement Study (LSMS) - LSMS03
+Serbia,RS,SRB,688,Urban,14,Other improved,0.0,Living Standards Measurement Study (LSMS) - LSMS03
+Serbia,RS,SRB,688,Urban,15,"No facility, bush, field",0.0,Living Standards Measurement Study (LSMS) - LSMS03
+Serbia,RS,SRB,688,Urban,16,Other unimproved,0.203,Living Standards Measurement Study (LSMS) - LSMS03
+Serbia,RS,SRB,688,Urban,17,DK/missing information,0.0,Living Standards Measurement Study (LSMS) - LSMS03
+Serbia,RS,SRB,688,Rural,1,Flush and pour flush - to piped sewer system,0.45,Living Standards Measurement Study (LSMS) - LSMS03
+Serbia,RS,SRB,688,Rural,2,Flush and pour flush - to septic tank,0.327,Living Standards Measurement Study (LSMS) - LSMS03
+Serbia,RS,SRB,688,Rural,3,Flush and pour flush - to pit,0.0,Living Standards Measurement Study (LSMS) - LSMS03
+Serbia,RS,SRB,688,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Living Standards Measurement Study (LSMS) - LSMS03
+Serbia,RS,SRB,688,Rural,5,Flush and pour flush - to elsewhere,0.0,Living Standards Measurement Study (LSMS) - LSMS03
+Serbia,RS,SRB,688,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Living Standards Measurement Study (LSMS) - LSMS03
+Serbia,RS,SRB,688,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Living Standards Measurement Study (LSMS) - LSMS03
+Serbia,RS,SRB,688,Rural,8,Dry latrines - Traditional latrine,0.0,Living Standards Measurement Study (LSMS) - LSMS03
+Serbia,RS,SRB,688,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Living Standards Measurement Study (LSMS) - LSMS03
+Serbia,RS,SRB,688,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Living Standards Measurement Study (LSMS) - LSMS03
+Serbia,RS,SRB,688,Rural,11,Dry latrines - Bucket latrine,0.0,Living Standards Measurement Study (LSMS) - LSMS03
+Serbia,RS,SRB,688,Rural,12,Dry latrines - Other,0.0,Living Standards Measurement Study (LSMS) - LSMS03
+Serbia,RS,SRB,688,Rural,13,Composting toilets,0.0,Living Standards Measurement Study (LSMS) - LSMS03
+Serbia,RS,SRB,688,Rural,14,Other improved,0.0,Living Standards Measurement Study (LSMS) - LSMS03
+Serbia,RS,SRB,688,Rural,15,"No facility, bush, field",0.0,Living Standards Measurement Study (LSMS) - LSMS03
+Serbia,RS,SRB,688,Rural,16,Other unimproved,0.223,Living Standards Measurement Study (LSMS) - LSMS03
+Serbia,RS,SRB,688,Rural,17,DK/missing information,0.0,Living Standards Measurement Study (LSMS) - LSMS03
+Serbia,RS,SRB,688,National,1,Flush and pour flush - to piped sewer system,0.494,Living Standards Measurement Study (LSMS) - LSMS03
+Serbia,RS,SRB,688,National,2,Flush and pour flush - to septic tank,0.298,Living Standards Measurement Study (LSMS) - LSMS03
+Serbia,RS,SRB,688,National,3,Flush and pour flush - to pit,0.0,Living Standards Measurement Study (LSMS) - LSMS03
+Serbia,RS,SRB,688,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Living Standards Measurement Study (LSMS) - LSMS03
+Serbia,RS,SRB,688,National,5,Flush and pour flush - to elsewhere,0.0,Living Standards Measurement Study (LSMS) - LSMS03
+Serbia,RS,SRB,688,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Living Standards Measurement Study (LSMS) - LSMS03
+Serbia,RS,SRB,688,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Living Standards Measurement Study (LSMS) - LSMS03
+Serbia,RS,SRB,688,National,8,Dry latrines - Traditional latrine,0.0,Living Standards Measurement Study (LSMS) - LSMS03
+Serbia,RS,SRB,688,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Living Standards Measurement Study (LSMS) - LSMS03
+Serbia,RS,SRB,688,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Living Standards Measurement Study (LSMS) - LSMS03
+Serbia,RS,SRB,688,National,11,Dry latrines - Bucket latrine,0.0,Living Standards Measurement Study (LSMS) - LSMS03
+Serbia,RS,SRB,688,National,12,Dry latrines - Other,0.0,Living Standards Measurement Study (LSMS) - LSMS03
+Serbia,RS,SRB,688,National,13,Composting toilets,0.0,Living Standards Measurement Study (LSMS) - LSMS03
+Serbia,RS,SRB,688,National,14,Other improved,0.0,Living Standards Measurement Study (LSMS) - LSMS03
+Serbia,RS,SRB,688,National,15,"No facility, bush, field",0.0,Living Standards Measurement Study (LSMS) - LSMS03
+Serbia,RS,SRB,688,National,16,Other unimproved,0.208,Living Standards Measurement Study (LSMS) - LSMS03
+Serbia,RS,SRB,688,National,17,DK/missing information,0.0,Living Standards Measurement Study (LSMS) - LSMS03
 Serbia,RS,SRB,688,Urban,1,Flush and pour flush - to piped sewer system,0.837,Multiple Indicator Cluster Survey - MICS06
 Serbia,RS,SRB,688,Urban,2,Flush and pour flush - to septic tank,0.135,Multiple Indicator Cluster Survey - MICS06
 Serbia,RS,SRB,688,Urban,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS06
@@ -101,3 +447,173 @@ Serbia,RS,SRB,688,Rural,14,Other improved,0.0,Multiple Indicator Cluster Survey 
 Serbia,RS,SRB,688,Rural,15,"No facility, bush, field",0.001,Multiple Indicator Cluster Survey - MICS06
 Serbia,RS,SRB,688,Rural,16,Other unimproved,0.001,Multiple Indicator Cluster Survey - MICS06
 Serbia,RS,SRB,688,Rural,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS06
+Serbia,RS,SRB,688,National,1,Flush and pour flush - to piped sewer system,0.0,Multiple Indicator Cluster Survey - MICS06
+Serbia,RS,SRB,688,National,2,Flush and pour flush - to septic tank,0.0,Multiple Indicator Cluster Survey - MICS06
+Serbia,RS,SRB,688,National,3,Flush and pour flush - to pit,0.0,Multiple Indicator Cluster Survey - MICS06
+Serbia,RS,SRB,688,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Multiple Indicator Cluster Survey - MICS06
+Serbia,RS,SRB,688,National,5,Flush and pour flush - to elsewhere,0.0,Multiple Indicator Cluster Survey - MICS06
+Serbia,RS,SRB,688,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Multiple Indicator Cluster Survey - MICS06
+Serbia,RS,SRB,688,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Multiple Indicator Cluster Survey - MICS06
+Serbia,RS,SRB,688,National,8,Dry latrines - Traditional latrine,0.0,Multiple Indicator Cluster Survey - MICS06
+Serbia,RS,SRB,688,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Multiple Indicator Cluster Survey - MICS06
+Serbia,RS,SRB,688,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Multiple Indicator Cluster Survey - MICS06
+Serbia,RS,SRB,688,National,11,Dry latrines - Bucket latrine,0.0,Multiple Indicator Cluster Survey - MICS06
+Serbia,RS,SRB,688,National,12,Dry latrines - Other,0.0,Multiple Indicator Cluster Survey - MICS06
+Serbia,RS,SRB,688,National,13,Composting toilets,0.0,Multiple Indicator Cluster Survey - MICS06
+Serbia,RS,SRB,688,National,14,Other improved,0.0,Multiple Indicator Cluster Survey - MICS06
+Serbia,RS,SRB,688,National,15,"No facility, bush, field",0.0,Multiple Indicator Cluster Survey - MICS06
+Serbia,RS,SRB,688,National,16,Other unimproved,0.0,Multiple Indicator Cluster Survey - MICS06
+Serbia,RS,SRB,688,National,17,DK/missing information,0.0,Multiple Indicator Cluster Survey - MICS06
+Serbia,RS,SRB,688,Urban,1,Flush and pour flush - to piped sewer system,0.99,Eurostat SILC database - EUSILC14
+Serbia,RS,SRB,688,Urban,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC14
+Serbia,RS,SRB,688,Urban,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC14
+Serbia,RS,SRB,688,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC14
+Serbia,RS,SRB,688,Urban,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC14
+Serbia,RS,SRB,688,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC14
+Serbia,RS,SRB,688,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC14
+Serbia,RS,SRB,688,Urban,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC14
+Serbia,RS,SRB,688,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC14
+Serbia,RS,SRB,688,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC14
+Serbia,RS,SRB,688,Urban,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC14
+Serbia,RS,SRB,688,Urban,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC14
+Serbia,RS,SRB,688,Urban,13,Composting toilets,0.0,Eurostat SILC database - EUSILC14
+Serbia,RS,SRB,688,Urban,14,Other improved,0.0,Eurostat SILC database - EUSILC14
+Serbia,RS,SRB,688,Urban,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC14
+Serbia,RS,SRB,688,Urban,16,Other unimproved,0.01,Eurostat SILC database - EUSILC14
+Serbia,RS,SRB,688,Urban,17,DK/missing information,0.0,Eurostat SILC database - EUSILC14
+Serbia,RS,SRB,688,Rural,1,Flush and pour flush - to piped sewer system,0.909,Eurostat SILC database - EUSILC14
+Serbia,RS,SRB,688,Rural,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC14
+Serbia,RS,SRB,688,Rural,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC14
+Serbia,RS,SRB,688,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC14
+Serbia,RS,SRB,688,Rural,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC14
+Serbia,RS,SRB,688,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC14
+Serbia,RS,SRB,688,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC14
+Serbia,RS,SRB,688,Rural,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC14
+Serbia,RS,SRB,688,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC14
+Serbia,RS,SRB,688,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC14
+Serbia,RS,SRB,688,Rural,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC14
+Serbia,RS,SRB,688,Rural,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC14
+Serbia,RS,SRB,688,Rural,13,Composting toilets,0.0,Eurostat SILC database - EUSILC14
+Serbia,RS,SRB,688,Rural,14,Other improved,0.0,Eurostat SILC database - EUSILC14
+Serbia,RS,SRB,688,Rural,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC14
+Serbia,RS,SRB,688,Rural,16,Other unimproved,0.091,Eurostat SILC database - EUSILC14
+Serbia,RS,SRB,688,Rural,17,DK/missing information,0.0,Eurostat SILC database - EUSILC14
+Serbia,RS,SRB,688,National,1,Flush and pour flush - to piped sewer system,0.958,Eurostat SILC database - EUSILC14
+Serbia,RS,SRB,688,National,2,Flush and pour flush - to septic tank,0.0,Eurostat SILC database - EUSILC14
+Serbia,RS,SRB,688,National,3,Flush and pour flush - to pit,0.0,Eurostat SILC database - EUSILC14
+Serbia,RS,SRB,688,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Eurostat SILC database - EUSILC14
+Serbia,RS,SRB,688,National,5,Flush and pour flush - to elsewhere,0.0,Eurostat SILC database - EUSILC14
+Serbia,RS,SRB,688,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Eurostat SILC database - EUSILC14
+Serbia,RS,SRB,688,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Eurostat SILC database - EUSILC14
+Serbia,RS,SRB,688,National,8,Dry latrines - Traditional latrine,0.0,Eurostat SILC database - EUSILC14
+Serbia,RS,SRB,688,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Eurostat SILC database - EUSILC14
+Serbia,RS,SRB,688,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Eurostat SILC database - EUSILC14
+Serbia,RS,SRB,688,National,11,Dry latrines - Bucket latrine,0.0,Eurostat SILC database - EUSILC14
+Serbia,RS,SRB,688,National,12,Dry latrines - Other,0.0,Eurostat SILC database - EUSILC14
+Serbia,RS,SRB,688,National,13,Composting toilets,0.0,Eurostat SILC database - EUSILC14
+Serbia,RS,SRB,688,National,14,Other improved,0.0,Eurostat SILC database - EUSILC14
+Serbia,RS,SRB,688,National,15,"No facility, bush, field",0.0,Eurostat SILC database - EUSILC14
+Serbia,RS,SRB,688,National,16,Other unimproved,0.042,Eurostat SILC database - EUSILC14
+Serbia,RS,SRB,688,National,17,DK/missing information,0.0,Eurostat SILC database - EUSILC14
+Serbia,RS,SRB,688,Urban,1,Flush and pour flush - to piped sewer system,0.0,Wastewater Discharged - WW15
+Serbia,RS,SRB,688,Urban,2,Flush and pour flush - to septic tank,0.0,Wastewater Discharged - WW15
+Serbia,RS,SRB,688,Urban,3,Flush and pour flush - to pit,0.0,Wastewater Discharged - WW15
+Serbia,RS,SRB,688,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Wastewater Discharged - WW15
+Serbia,RS,SRB,688,Urban,5,Flush and pour flush - to elsewhere,0.0,Wastewater Discharged - WW15
+Serbia,RS,SRB,688,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Wastewater Discharged - WW15
+Serbia,RS,SRB,688,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Wastewater Discharged - WW15
+Serbia,RS,SRB,688,Urban,8,Dry latrines - Traditional latrine,0.0,Wastewater Discharged - WW15
+Serbia,RS,SRB,688,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Wastewater Discharged - WW15
+Serbia,RS,SRB,688,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Wastewater Discharged - WW15
+Serbia,RS,SRB,688,Urban,11,Dry latrines - Bucket latrine,0.0,Wastewater Discharged - WW15
+Serbia,RS,SRB,688,Urban,12,Dry latrines - Other,0.0,Wastewater Discharged - WW15
+Serbia,RS,SRB,688,Urban,13,Composting toilets,0.0,Wastewater Discharged - WW15
+Serbia,RS,SRB,688,Urban,14,Other improved,0.0,Wastewater Discharged - WW15
+Serbia,RS,SRB,688,Urban,15,"No facility, bush, field",0.0,Wastewater Discharged - WW15
+Serbia,RS,SRB,688,Urban,16,Other unimproved,0.0,Wastewater Discharged - WW15
+Serbia,RS,SRB,688,Urban,17,DK/missing information,0.0,Wastewater Discharged - WW15
+Serbia,RS,SRB,688,Rural,1,Flush and pour flush - to piped sewer system,0.0,Wastewater Discharged - WW15
+Serbia,RS,SRB,688,Rural,2,Flush and pour flush - to septic tank,0.0,Wastewater Discharged - WW15
+Serbia,RS,SRB,688,Rural,3,Flush and pour flush - to pit,0.0,Wastewater Discharged - WW15
+Serbia,RS,SRB,688,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Wastewater Discharged - WW15
+Serbia,RS,SRB,688,Rural,5,Flush and pour flush - to elsewhere,0.0,Wastewater Discharged - WW15
+Serbia,RS,SRB,688,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Wastewater Discharged - WW15
+Serbia,RS,SRB,688,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Wastewater Discharged - WW15
+Serbia,RS,SRB,688,Rural,8,Dry latrines - Traditional latrine,0.0,Wastewater Discharged - WW15
+Serbia,RS,SRB,688,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Wastewater Discharged - WW15
+Serbia,RS,SRB,688,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Wastewater Discharged - WW15
+Serbia,RS,SRB,688,Rural,11,Dry latrines - Bucket latrine,0.0,Wastewater Discharged - WW15
+Serbia,RS,SRB,688,Rural,12,Dry latrines - Other,0.0,Wastewater Discharged - WW15
+Serbia,RS,SRB,688,Rural,13,Composting toilets,0.0,Wastewater Discharged - WW15
+Serbia,RS,SRB,688,Rural,14,Other improved,0.0,Wastewater Discharged - WW15
+Serbia,RS,SRB,688,Rural,15,"No facility, bush, field",0.0,Wastewater Discharged - WW15
+Serbia,RS,SRB,688,Rural,16,Other unimproved,0.0,Wastewater Discharged - WW15
+Serbia,RS,SRB,688,Rural,17,DK/missing information,0.0,Wastewater Discharged - WW15
+Serbia,RS,SRB,688,National,1,Flush and pour flush - to piped sewer system,0.0,Wastewater Discharged - WW15
+Serbia,RS,SRB,688,National,2,Flush and pour flush - to septic tank,0.0,Wastewater Discharged - WW15
+Serbia,RS,SRB,688,National,3,Flush and pour flush - to pit,0.0,Wastewater Discharged - WW15
+Serbia,RS,SRB,688,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Wastewater Discharged - WW15
+Serbia,RS,SRB,688,National,5,Flush and pour flush - to elsewhere,0.0,Wastewater Discharged - WW15
+Serbia,RS,SRB,688,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Wastewater Discharged - WW15
+Serbia,RS,SRB,688,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Wastewater Discharged - WW15
+Serbia,RS,SRB,688,National,8,Dry latrines - Traditional latrine,0.0,Wastewater Discharged - WW15
+Serbia,RS,SRB,688,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Wastewater Discharged - WW15
+Serbia,RS,SRB,688,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Wastewater Discharged - WW15
+Serbia,RS,SRB,688,National,11,Dry latrines - Bucket latrine,0.0,Wastewater Discharged - WW15
+Serbia,RS,SRB,688,National,12,Dry latrines - Other,0.0,Wastewater Discharged - WW15
+Serbia,RS,SRB,688,National,13,Composting toilets,0.0,Wastewater Discharged - WW15
+Serbia,RS,SRB,688,National,14,Other improved,0.0,Wastewater Discharged - WW15
+Serbia,RS,SRB,688,National,15,"No facility, bush, field",0.0,Wastewater Discharged - WW15
+Serbia,RS,SRB,688,National,16,Other unimproved,0.0,Wastewater Discharged - WW15
+Serbia,RS,SRB,688,National,17,DK/missing information,0.0,Wastewater Discharged - WW15
+Serbia,RS,SRB,688,Urban,1,Flush and pour flush - to piped sewer system,0.0,Wastewater Discharged - WW16
+Serbia,RS,SRB,688,Urban,2,Flush and pour flush - to septic tank,0.0,Wastewater Discharged - WW16
+Serbia,RS,SRB,688,Urban,3,Flush and pour flush - to pit,0.0,Wastewater Discharged - WW16
+Serbia,RS,SRB,688,Urban,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Wastewater Discharged - WW16
+Serbia,RS,SRB,688,Urban,5,Flush and pour flush - to elsewhere,0.0,Wastewater Discharged - WW16
+Serbia,RS,SRB,688,Urban,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Wastewater Discharged - WW16
+Serbia,RS,SRB,688,Urban,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Wastewater Discharged - WW16
+Serbia,RS,SRB,688,Urban,8,Dry latrines - Traditional latrine,0.0,Wastewater Discharged - WW16
+Serbia,RS,SRB,688,Urban,9,Dry latrines - Pit latrine without slab/open pit,0.0,Wastewater Discharged - WW16
+Serbia,RS,SRB,688,Urban,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Wastewater Discharged - WW16
+Serbia,RS,SRB,688,Urban,11,Dry latrines - Bucket latrine,0.0,Wastewater Discharged - WW16
+Serbia,RS,SRB,688,Urban,12,Dry latrines - Other,0.0,Wastewater Discharged - WW16
+Serbia,RS,SRB,688,Urban,13,Composting toilets,0.0,Wastewater Discharged - WW16
+Serbia,RS,SRB,688,Urban,14,Other improved,0.0,Wastewater Discharged - WW16
+Serbia,RS,SRB,688,Urban,15,"No facility, bush, field",0.0,Wastewater Discharged - WW16
+Serbia,RS,SRB,688,Urban,16,Other unimproved,0.0,Wastewater Discharged - WW16
+Serbia,RS,SRB,688,Urban,17,DK/missing information,0.0,Wastewater Discharged - WW16
+Serbia,RS,SRB,688,Rural,1,Flush and pour flush - to piped sewer system,0.0,Wastewater Discharged - WW16
+Serbia,RS,SRB,688,Rural,2,Flush and pour flush - to septic tank,0.0,Wastewater Discharged - WW16
+Serbia,RS,SRB,688,Rural,3,Flush and pour flush - to pit,0.0,Wastewater Discharged - WW16
+Serbia,RS,SRB,688,Rural,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Wastewater Discharged - WW16
+Serbia,RS,SRB,688,Rural,5,Flush and pour flush - to elsewhere,0.0,Wastewater Discharged - WW16
+Serbia,RS,SRB,688,Rural,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Wastewater Discharged - WW16
+Serbia,RS,SRB,688,Rural,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Wastewater Discharged - WW16
+Serbia,RS,SRB,688,Rural,8,Dry latrines - Traditional latrine,0.0,Wastewater Discharged - WW16
+Serbia,RS,SRB,688,Rural,9,Dry latrines - Pit latrine without slab/open pit,0.0,Wastewater Discharged - WW16
+Serbia,RS,SRB,688,Rural,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Wastewater Discharged - WW16
+Serbia,RS,SRB,688,Rural,11,Dry latrines - Bucket latrine,0.0,Wastewater Discharged - WW16
+Serbia,RS,SRB,688,Rural,12,Dry latrines - Other,0.0,Wastewater Discharged - WW16
+Serbia,RS,SRB,688,Rural,13,Composting toilets,0.0,Wastewater Discharged - WW16
+Serbia,RS,SRB,688,Rural,14,Other improved,0.0,Wastewater Discharged - WW16
+Serbia,RS,SRB,688,Rural,15,"No facility, bush, field",0.0,Wastewater Discharged - WW16
+Serbia,RS,SRB,688,Rural,16,Other unimproved,0.0,Wastewater Discharged - WW16
+Serbia,RS,SRB,688,Rural,17,DK/missing information,0.0,Wastewater Discharged - WW16
+Serbia,RS,SRB,688,National,1,Flush and pour flush - to piped sewer system,0.0,Wastewater Discharged - WW16
+Serbia,RS,SRB,688,National,2,Flush and pour flush - to septic tank,0.0,Wastewater Discharged - WW16
+Serbia,RS,SRB,688,National,3,Flush and pour flush - to pit,0.0,Wastewater Discharged - WW16
+Serbia,RS,SRB,688,National,4,Flush and pour flush - to unknown place/ not sure/DK,0.0,Wastewater Discharged - WW16
+Serbia,RS,SRB,688,National,5,Flush and pour flush - to elsewhere,0.0,Wastewater Discharged - WW16
+Serbia,RS,SRB,688,National,6,Dry latrines - Ventilated Improved Pit latrine,0.0,Wastewater Discharged - WW16
+Serbia,RS,SRB,688,National,7,Dry latrines - Pit latrine with slab/covered latrine,0.0,Wastewater Discharged - WW16
+Serbia,RS,SRB,688,National,8,Dry latrines - Traditional latrine,0.0,Wastewater Discharged - WW16
+Serbia,RS,SRB,688,National,9,Dry latrines - Pit latrine without slab/open pit,0.0,Wastewater Discharged - WW16
+Serbia,RS,SRB,688,National,10,Dry latrines - Hanging toilet/hanging latrine,0.0,Wastewater Discharged - WW16
+Serbia,RS,SRB,688,National,11,Dry latrines - Bucket latrine,0.0,Wastewater Discharged - WW16
+Serbia,RS,SRB,688,National,12,Dry latrines - Other,0.0,Wastewater Discharged - WW16
+Serbia,RS,SRB,688,National,13,Composting toilets,0.0,Wastewater Discharged - WW16
+Serbia,RS,SRB,688,National,14,Other improved,0.0,Wastewater Discharged - WW16
+Serbia,RS,SRB,688,National,15,"No facility, bush, field",0.0,Wastewater Discharged - WW16
+Serbia,RS,SRB,688,National,16,Other unimproved,0.0,Wastewater Discharged - WW16
+Serbia,RS,SRB,688,National,17,DK/missing information,0.0,Wastewater Discharged - WW16
