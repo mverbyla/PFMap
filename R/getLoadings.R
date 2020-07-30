@@ -14,15 +14,15 @@
 #' 1    HND 3.63e+18   5.840389e+16     1.963546e+18     5.738629e+17          5.042712e+17    1.179983e+14       5.297977e+17     2.551866e+18       0.15           0.2970
 #' 2    UGA 1.67e+19   1.565005e+17     1.731193e+18     1.408505e+18          1.340068e+19    0.000000e+00       3.127723e+15     1.890822e+18       0.95           0.8868
 
-getLoadings<-function(inputDF=read.csv("data/input_file_new_kla_div_20200727.csv"),pathogenType="Virus"){
+getLoadings<-function(inputDF=read.csv("data/input_file_new_kla_div_20200728.csv"),pathogenType="Virus"){
 
   df1<-inputDF
 
 #comment out these lines after testing
-#  df1<-df1[,c(1:36)]
-#  colnames(df1)<-c(colnames(df1[,c(1:13)]),substr(colnames(df1[,c(14:36)]),1,nchar(colnames(df1[,c(14:36)]))-4))
-#  colnames(df1)
-#  df1$excreted<-c(1e10,1e6,1e4,1e15,1e11)
+  df1<-df1[,c(1:42)]
+  colnames(df1)<-c(colnames(df1[,c(1:19)]),substr(colnames(df1[,c(20:42)]),1,nchar(colnames(df1[,c(20:42)]))-4))
+  colnames(df1)
+  df1$excreted<-c(1e10,1e10,1e10,1e10,1e10)
 #comment out these lines after testing
 
   pathogenGroups<-c("Virus","Bacteria","Protozoa","Helminth")
@@ -116,16 +116,16 @@ getLoadings<-function(inputDF=read.csv("data/input_file_new_kla_div_20200727.csv
     gid<-df$gid
     population<-df$population
     excreted<-df$excreted
-    isWatertight<-df$isWatertight
-    hasLeach<-df$hasLeach
-    emptyFrequency<-df$emptyFrequency
-    pitAdditive<-df$pitAdditive
-    twinPits<-df$twinPits
-    urine_diverting<-df$urine
+    isWatertight<-if(is.null(df$isWatertight)){0}else{if(is.na(df$isWatertight)){0}else{df$isWatertight}}
+    hasLeach<-if(is.null(df$hasLeach)){0}else{if(is.na(df$hasLeach)){0}else{df$hasLeach}}
+    emptyFrequency<-if(is.null(df$emptyFrequency)){3}else{if(is.na(df$emptyFrequency)){3}else{df$emptyFrequency}}
+    pitAdditive<-if(is.null(df$pitAdditive)){0}else{if(is.na(df$pitAdditive)){0}else{df$pitAdditive}}
+    twinPits<-if(is.null(df$twinPits)){0}else{if(is.na(df$twinPits)){0}else{df$twinPits}}
+    urine_diverting<-if(is.null(df$urine)){0}else{if(is.na(df$urine)){0}else{df$urine}}
 
-    coverBury<-df$coverBury
-    emptiedTreatment<-df$fecalSludgeTreated
-    sewerLeak<-1-df$sewageTreated
+    coverBury<-if(is.null(df$coverBury)){0}else{if(is.na(df$coverBury)){0}else{df$coverBury}}
+    emptiedTreatment<-if(is.null(df$fecalSludgeTreated)){0}else{if(is.na(df$fecalSludgeTreated)){0}else{df$fecalSludgeTreated}}
+    sewerLeak<-if(is.null(df$sewageTreated)){1}else{if(is.na(df$sewageTreated)){1}else{1-df$sewageTreated}}
 
     flushSewer<-if(is.null(df$flushSewer)){0}else{if(is.na(df$flushSewer)){0}else{df$flushSewer}}
     flushSeptic<-if(is.null(df$flushSeptic)){0}else{if(is.na(df$flushSeptic)){0}else{df$flushSeptic}}

@@ -13,7 +13,7 @@
 #'
 #'
 
-getLRV<-function(mySketch="data/lubigisewageandfecalsludgetreatmentsystem2.json"
+getLRV<-function(mySketch="data/lubigisewageandfecalsludgetreatmentsystem2.json" #mySketch="../FERsketch.json"
                  ,
                  myLRVdata="http://data.waterpathogens.org/dataset/eda3c64c-479e-4177-869c-93b3dc247a10/resource/9e172f8f-d8b5-4657-92a4-38da60786327/download/treatmentdata.csv"
                  ,

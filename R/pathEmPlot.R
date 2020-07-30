@@ -62,18 +62,18 @@
 #'   ]
 #' ]
 #'
-pathEmPlot<-function(myLoadings){
+pathEmPlot<-function(myLoadings=getLoadings(inputDF=read.csv("data/input_file_new_kla_div_20200728.csv"))){
   for(i in 1:length(myLoadings$det)){
-    myLoadings$det[[i]]$emitPC <- round((myLoadings$det[[i]]$toSurface + myLoadings$det[[i]]$toGroundwater) / myLoadings$input$population[i] * t(myLoadings$input[i,][,c("flushSewer","flushSeptic","flushPit","flushOpen","flushUnknown","pitSlab","pitNoSlab","compostingTwinSlab","compostingTwinNoSlab","compostingToilet","bucketLatrine","containerBased","hangingToilet","openDefecation","other")])[,1],0)
+    myLoadings$det[[i]]$emitPC <- round((myLoadings$det[[i]]$toSurface + myLoadings$det[[i]]$toGroundwater) / myLoadings$input$population[i] * t(myLoadings$input[i,][,c("flushSewer","flushSeptic","flushPit","flushOpen","flushUnknown","pitSlab","pitNoSlab","compostingToilet","bucketLatrine","containerBased","hangingToilet","openDefecation","other")])[,1],0)
     myLoadings$det[[i]]$emitPC[is.na(myLoadings$det[[i]]$emitPC)]<-0
-    plot1<-data.frame(sanTechCat=c("1 Flush Toilets (Sewered)",rep("2 Flush Toilets (Onsite)",4),rep("4 Dry Toilets",2),rep("3 Composting Toilets",3),rep("4 Dry Toilets",2),rep("5 Open Defecation",3)),myLoadings$det[[i]][,c("sanitationTechnology","emitPC")])
+    plot1<-data.frame(sanTechCat=c("1 Flush Toilets (Sewered)",rep("2 Flush Toilets (Onsite)",4),rep("4 Dry Toilets",2),rep("3 Composting Toilets",1),rep("4 Dry Toilets",2),rep("5 Open Defecation",3)),myLoadings$det[[i]][,c("sanitationTechnology","emitPC")])
     plot2<-aggregate(emitPC~sanTechCat,data=plot1,FUN=sum)
     plotMe<-if(i==1){data.frame(Category=plot2[,1],plot2[i+1])}else{cbind(plotMe,plot2[,2])}
-    names(plotMe)[i+1]<-as.character(myLoadings$input$region[i])
+    names(plotMe)[i+1]<-as.character(myLoadings$input$gid[i])
   }
-  plotMe<-tidyr::gather(plotMe,key=region,value=emissionsPerCapita,-Category)
+  plotMe<-tidyr::gather(plotMe,key=gid,value=emissionsPerCapita,-Category)
   plotMe$emissionsPerCapita<-as.numeric(plotMe$emissionsPerCapita)
-  #ggplot2::ggplot(data=plotMe,ggplot2::aes(x=region,y=emissionsPerCapita,fill=Category)) +
+  #ggplot2::ggplot(data=plotMe,ggplot2::aes(x=gid,y=emissionsPerCapita,fill=Category)) +
   #  ggplot2::geom_bar(stat="identity") + ggplot2::theme_classic() +
   #  ggplot2::theme(axis.text.x = ggplot2::element_text(angle = 90, vjust = 0.5, hjust=1))
   return(jsonlite::toJSON(list(plotMe),pretty = T))
