@@ -19,10 +19,10 @@ getLoadings<-function(inputDF=read.csv("data/input_file_new_kla_div_20200728.csv
   df1<-inputDF
 
 #comment out these lines after testing
-  df1<-df1[,c(1:42)]
-  colnames(df1)<-c(colnames(df1[,c(1:19)]),substr(colnames(df1[,c(20:42)]),1,nchar(colnames(df1[,c(20:42)]))-4))
-  colnames(df1)
-  df1$excreted<-c(1e10,1e10,1e10,1e10,1e10)
+  #df1<-df1[,c(1:42)]
+  #colnames(df1)<-c(colnames(df1[,c(1:19)]),substr(colnames(df1[,c(20:42)]),1,nchar(colnames(df1[,c(20:42)]))-4))
+  #colnames(df1)
+  #df1$excreted<-c(1e10,1e10,1e10,1e10,1e10)
 #comment out these lines after testing
 
   pathogenGroups<-c("Virus","Bacteria","Protozoa","Helminth")
