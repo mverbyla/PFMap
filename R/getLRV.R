@@ -13,7 +13,7 @@
 #'
 #'
 
-getLRV<-function(mySketch="data/lubigisewageandfecalsludgetreatmentsystem2.json" #mySketch="../FERsketch.json"
+getLRV<-function(mySketch="data/sketch_error.json"
                  ,
                  myLRVdata="http://data.waterpathogens.org/dataset/eda3c64c-479e-4177-869c-93b3dc247a10/resource/9e172f8f-d8b5-4657-92a4-38da60786327/download/treatmentdata.csv"
                  ,
@@ -133,6 +133,7 @@ getLRV<-function(mySketch="data/lubigisewageandfecalsludgetreatmentsystem2.json"
   }
 
   nodes[nodes$volume==0,]$volume<-nodes[nodes$volume==0,]$surfaceArea*nodes[nodes$volume==0,]$depth
+  nodes$volume<-as.numeric(nodes$volume)
   nodes$retentionTime<-nodes$volume/nodes$flowRate
   # end of new script
 
@@ -205,7 +206,7 @@ getLRV<-function(mySketch="data/lubigisewageandfecalsludgetreatmentsystem2.json"
     }
 
     ####placeholder LRVs until we get more data into the database####
-    if(any(nodes$subType=="biogas reactor")==TRUE){nodes[nodes$subType=="biogas reactor",c("fit","lwr","upr")]<-c(1,0,2)}
+    if(any(nodes$subType=="anaerobic digester")==TRUE){nodes[nodes$subType=="anaerobic digester",c("fit","lwr","upr")]<-c(1,0,2)}
     if(any(nodes$subType=="composting")==TRUE){nodes[nodes$subType=="composting",c("fit","lwr","upr")]<-c(1,0,2)}
     if(any(nodes$subType=="activated sludge")==TRUE){nodes[nodes$subType=="activated sludge",c("fit","lwr","upr")]<-c(1,0,2)}
     if(any(nodes$subType=="uasb reactor")==TRUE){nodes[nodes$subType=="uasb reactor",c("fit","lwr","upr")]<-c(1,0,2)}

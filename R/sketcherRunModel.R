@@ -26,7 +26,7 @@ cors <- function(req, res) {
 #* @get /lrv
 #* @serializer unboxedJSON
 
-function(mySketch, inFecalSludge=10000000000, inSewage=10000000000){
+function(mySketch, inFecalSludge, inSewage){
 
   #library(igraph)
   #library(networkD3)
@@ -48,7 +48,7 @@ function(mySketch, inFecalSludge=10000000000, inSewage=10000000000){
     lambdas<-c(Virus=0.2,Bacteria=0.3,Protozoa=0.6,Helminth=0.99) # these lambda values are based on data from the literature (Chauret et al., 1999; Lucena et al., 2004; Ramo et al., 2017; Rose et al., 1996; Tanji et al., 2002; Tsai et al., 1998)
     lambda<-as.numeric(lambdas[pathogenType])
 
-    results<-data.frame(In_Fecal_Sludge=inFecalSludge,In_Sewage=inSewage,Sludge_Biosolids=NA,Liquid_Effluent=NA,Centralized_LRV=NA)
+    results<-data.frame(In_Fecal_Sludge=NA,In_Sewage=NA,Sludge_Biosolids=NA,Liquid_Effluent=NA,Centralized_LRV=NA)
 
     sketch=jsonlite::parse_json(mySketch,simplifyVector = T)
     #sketch=jsonlite::read_json(mySketch,simplifyVector = T)
@@ -60,6 +60,11 @@ function(mySketch, inFecalSludge=10000000000, inSewage=10000000000){
     sketch$depth<-as.double(sketch$depth)
     sketch$holdingTime<-as.double(sketch$holdingTime)
     sketch$moistureContent<-as.double(sketch$moistureContent)/100
+
+    sketch[sketch$subType=="fecal sludge","flowRate"]
+    if(any(sketch$subType=="sewerage")==TRUE){sketch[sketch$subType=="sewerage","flowRate"]}
+    results$In_Fecal_Sludge
+    results$In_Sewage
 
     ########((((((((this is the beginning of the old getNodes function))))))))
     #res<-suppressWarnings(getNodes(sketch = sketch, nodes = sketch[,-c(2,3)]))
@@ -117,7 +122,7 @@ function(mySketch, inFecalSludge=10000000000, inSewage=10000000000){
     }
 
     ####(((((((this is the end of the old getNodes function)))))))
-
+    # This is the error with anaerobic sludge digesters: <simpleError in nodes$volume/nodes$flowRate: non-numeric argument to binary operator>
     # Here the flow rates and volumes are used to calculate retention times
     # solve the DAG for the flow rate
     i=1;j=1;stuck=1   # here, j is an index for the nodes, i is an index for the arrows, stuck prevents the loop from getting infinitely stuck
@@ -143,6 +148,7 @@ function(mySketch, inFecalSludge=10000000000, inSewage=10000000000){
     }
 
     nodes[nodes$volume==0,]$volume<-nodes[nodes$volume==0,]$surfaceArea*nodes[nodes$volume==0,]$depth
+    nodes$volume<-as.numeric(nodes$volume)
     nodes$retentionTime<-nodes$volume/nodes$flowRate
     # end of new script
 
@@ -217,7 +223,7 @@ function(mySketch, inFecalSludge=10000000000, inSewage=10000000000){
     }
 
     ####placeholder LRVs until we get more data into the database####
-    if(any(nodes$subType=="biogas reactor")==TRUE){nodes[nodes$subType=="biogas reactor",c("fit","lwr","upr")]<-c(1,0,2)}
+    if(any(nodes$subType=="anaerobic digester")==TRUE){nodes[nodes$subType=="anaerobic digester",c("fit","lwr","upr")]<-c(1,0,2)}
     if(any(nodes$subType=="composting")==TRUE){nodes[nodes$subType=="composting",c("fit","lwr","upr")]<-c(1,0,2)}
     if(any(nodes$subType=="activated sludge")==TRUE){nodes[nodes$subType=="activated sludge",c("fit","lwr","upr")]<-c(1,0,2)}
     if(any(nodes$subType=="uasb reactor")==TRUE){nodes[nodes$subType=="uasb reactor",c("fit","lwr","upr")]<-c(1,0,2)}

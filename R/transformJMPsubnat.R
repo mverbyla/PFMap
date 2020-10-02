@@ -73,4 +73,5 @@ t_JMPsubnat<-function(contx,myRegions="all"){
   head(out)
   return(out)
 }
-#t_JMPsubnat(contx="urban",myRegions="HND")
+df<-t_JMPsubnat(contx="urban",myRegions="all")
+write.csv(df,"subnat_output.csv")
