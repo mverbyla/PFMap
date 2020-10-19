@@ -13,15 +13,11 @@
 #'
 #'
 
-getLRV<-function(mySketch="data/sketch_error.json"
+getLRV<-function(mySketch="data/sketches/nakivubo.json"
                  ,
                  myLRVdata="http://data.waterpathogens.org/dataset/eda3c64c-479e-4177-869c-93b3dc247a10/resource/9e172f8f-d8b5-4657-92a4-38da60786327/download/treatmentdata.csv"
                  ,
                  pathogenType="Virus"
-                 ,
-                 inFecalSludge=10000000000
-                 ,
-                 inSewage=10000000000
                  ){
 
   k2pdata<-read.csv(myLRVdata,header=T)
@@ -40,7 +36,7 @@ getLRV<-function(mySketch="data/sketch_error.json"
   lambdas<-c(Virus=0.2,Bacteria=0.3,Protozoa=0.6,Helminth=0.99) # these lambda values are based on data from the literature (Chauret et al., 1999; Lucena et al., 2004; Ramo et al., 2017; Rose et al., 1996; Tanji et al., 2002; Tsai et al., 1998)
   lambda<-as.numeric(lambdas[pathogenType])
 
-  results<-data.frame(In_Fecal_Sludge=inFecalSludge,In_Sewage=inSewage,Sludge_Biosolids=NA,Liquid_Effluent=NA,Centralized_LRV=NA)
+  results<-data.frame(In_Fecal_Sludge=NA,In_Sewage=NA,Sludge_Biosolids=NA,Liquid_Effluent=NA,Centralized_LRV=NA)
 
   sketch=jsonlite::read_json(mySketch,simplifyVector = T)
   #pData=read.csv(myData,header=T)
@@ -50,6 +46,9 @@ getLRV<-function(mySketch="data/sketch_error.json"
   sketch$depth<-as.double(sketch$depth)
   sketch$holdingTime<-as.double(sketch$holdingTime)
   sketch$moistureContent<-as.double(sketch$moistureContent)/100
+
+  if(any(sketch$subType=="fecal sludge")==TRUE){results$In_Fecal_Sludge<-sketch[sketch$subType=="fecal sludge","flowRate"]}else{results$In_Fecal_Sludge<-0}
+  if(any(sketch$subType=="sewerage")==TRUE){results$In_Sewage<-sketch[sketch$subType=="sewerage","flowRate"]}else{results$In_Sewage<-0}
 
   ########((((((((this is the beginning of the old getNodes function))))))))
   #res<-suppressWarnings(getNodes(sketch = sketch, nodes = sketch[,-c(2,3)]))
@@ -166,8 +165,8 @@ getLRV<-function(mySketch="data/sketch_error.json"
 
   nodes$loading_output<-NA
   arrows$loading<-NA
-  if(skipFS==FALSE){nodes[nodes$subType=="fecal sludge",]$loading_output<-results$In_Fecal_Sludge}
-  if(skipWW==FALSE){nodes[nodes$subType=="sewerage",]$loading_output<-results$In_Sewage}
+  if(skipFS==FALSE & length(nodes[nodes$subType=="fecal sludge",]$loading_output)!=0){nodes[nodes$subType=="fecal sludge",]$loading_output<-results$In_Fecal_Sludge}
+  if(skipWW==FALSE & length(nodes[nodes$subType=="sewerage",]$loading_output)!=0){nodes[nodes$subType=="sewerage",]$loading_output<-results$In_Sewage}
 
 
   ####(((((((this is the beginning of the old estimate, or getLRVs function)))))))
@@ -289,4 +288,4 @@ getLRV<-function(mySketch="data/sketch_error.json"
 
   return(solved)
 }
-
+getLRV()

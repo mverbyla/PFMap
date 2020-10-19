@@ -21,17 +21,15 @@ cors <- function(req, res) {
 
 #* API to estimate the log reduction value for a sketched wastewater or fecal sludge treatment plant for a single pathogen type
 #* @param mySketch Filepath to a JSON file containing a sketch of your treatment plant
-#* @param inFecalSludge The number of pathogens per day taken in at the plant in fecal sludge received
-#* @param inSewage The number of pathogens per day taken in at the plant in sewerage
 #* @get /lrv
 #* @serializer unboxedJSON
 
-function(mySketch, inFecalSludge, inSewage){
+function(mySketch){
 
   #library(igraph)
   #library(networkD3)
 
-  once<-function(mySketch,pathogenType,inFecalSludge,inSewage){
+  once<-function(mySketch,pathogenType){
     k2pdata<-read.csv("http://data.waterpathogens.org/dataset/eda3c64c-479e-4177-869c-93b3dc247a10/resource/9e172f8f-d8b5-4657-92a4-38da60786327/download/treatmentdata.csv",header=T)
     suppressWarnings(k2pdata$SQRTlrv<-sqrt(k2pdata$lrv))
     suppressWarnings(k2pdata$llrv<-log(k2pdata$lrv))
@@ -61,10 +59,8 @@ function(mySketch, inFecalSludge, inSewage){
     sketch$holdingTime<-as.double(sketch$holdingTime)
     sketch$moistureContent<-as.double(sketch$moistureContent)/100
 
-    sketch[sketch$subType=="fecal sludge","flowRate"]
-    if(any(sketch$subType=="sewerage")==TRUE){sketch[sketch$subType=="sewerage","flowRate"]}
-    results$In_Fecal_Sludge
-    results$In_Sewage
+    if(any(sketch$subType=="fecal sludge")==TRUE){results$In_Fecal_Sludge<-sketch[sketch$subType=="fecal sludge","flowRate"]}else{results$In_Fecal_Sludge<-0}
+    if(any(sketch$subType=="sewerage")==TRUE){results$In_Sewage<-sketch[sketch$subType=="sewerage","flowRate"]}else{results$In_Sewage<-0}
 
     ########((((((((this is the beginning of the old getNodes function))))))))
     #res<-suppressWarnings(getNodes(sketch = sketch, nodes = sketch[,-c(2,3)]))
@@ -181,8 +177,8 @@ function(mySketch, inFecalSludge, inSewage){
 
     nodes$loading_output<-NA
     arrows$loading<-NA
-    if(skipFS==FALSE){nodes[nodes$subType=="fecal sludge",]$loading_output<-results$In_Fecal_Sludge}
-    if(skipWW==FALSE){nodes[nodes$subType=="sewerage",]$loading_output<-results$In_Sewage}
+    if(skipFS==FALSE & length(nodes[nodes$subType=="fecal sludge",]$loading_output)!=0){nodes[nodes$subType=="fecal sludge",]$loading_output<-results$In_Fecal_Sludge}
+    if(skipWW==FALSE & length(nodes[nodes$subType=="sewerage",]$loading_output)!=0){nodes[nodes$subType=="sewerage",]$loading_output<-results$In_Sewage}
 
 
     ####(((((((this is the beginning of the old estimate, or getLRVs function)))))))
@@ -296,10 +292,10 @@ function(mySketch, inFecalSludge, inSewage){
     return(list(solved=solved,lrv=solved$loadings$Centralized_LRV,pSolid=solved$loadings$Percent_Solid,pLiquid=solved$loadings$Percent_Liquid))
   }
 
-  v<-once(mySketch,pathogenType="Virus",inFecalSludge,inSewage)
-  b<-once(mySketch,pathogenType="Bacteria",inFecalSludge,inSewage)
-  p<-once(mySketch,pathogenType="Protozoa",inFecalSludge,inSewage)
-  h<-once(mySketch,pathogenType="Helminth",inFecalSludge,inSewage)
+  v<-once(mySketch,pathogenType="Virus")
+  b<-once(mySketch,pathogenType="Bacteria")
+  p<-once(mySketch,pathogenType="Protozoa")
+  h<-once(mySketch,pathogenType="Helminth")
 
   stackChart<-list(
     chart=list(type="column"),
@@ -353,5 +349,5 @@ function(mySketch, inFecalSludge, inSewage){
 }
 
 #library(plumber)
-#r<-plumb("R/sketcherRunModel.R")  # Where 'plumber.R' is the location of the file shown above
-#r$run(port=8000)
+#r<-plumb("R/sketcherRunModel.R")
+#r$run(port=8000) #in the string, type "data/DEMOsketchSIWI.json" without the quotation marks

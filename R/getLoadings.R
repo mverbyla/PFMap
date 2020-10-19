@@ -33,6 +33,7 @@ getLoadings<-function(inputDF=read.csv("data/input_file_new_kla_div_20200728.csv
 
   #persistence model in pits
   persist<-read.csv("http://data.waterpathogens.org/dataset/eda3c64c-479e-4177-869c-93b3dc247a10/resource/f99291ab-d536-4536-a146-083a07ea49b9/download/k2p_persistence.csv",header=T)
+  #persist<-persist[,c("X","X.1","X.2")]
   persist<-persist[persist$matrix=="Fecal sludge",]
   persist$ln_removal<--persist$log10_reduction*log(10)
   N<-length(unique(persist$experiment_id))
@@ -60,6 +61,7 @@ getLoadings<-function(inputDF=read.csv("data/input_file_new_kla_div_20200728.csv
     temperature[z]<-as.numeric(median(persist[persist$ind==z,]$temperature_celsius))
   }
   kPit<-data.frame(microbial_group=group,k=k,num=num,additive=addit,pH=pH,temp=temperature,moisture=moisture,urine=urine,r2=r2)
+  #write.csv(kPit,"kPit3.csv")
   kPit=kPit[-c(30,46,47,73,204,205),] #removing data points that are outliers
   kPit<-kPit[kPit$r2>0.7,] #only keeping data with good log linear fit (r2>0.7)
   kPit<-kPit[kPit$k<0,] #removing any data showing growth
@@ -67,6 +69,7 @@ getLoadings<-function(inputDF=read.csv("data/input_file_new_kla_div_20200728.csv
   kPit$lk<-log(-kPit$k)
   kPit$ltemp<-log(kPit$temp)
   fit_kPit<-lm(lk~factor(microbial_group)+factor(urine)*pH+ltemp+moisture+additive,data=kPit)
+  #summary(fit_kPit)
   # not UDT, no additives
   kValueV<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Fresh Urine",pH=7,ltemp=log(30),moisture=80,additive="None",microbial_group="Virus"))))
   kValueB<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Fresh Urine",pH=7,ltemp=log(30),moisture=80,additive="None",microbial_group="Bacteria"))))
