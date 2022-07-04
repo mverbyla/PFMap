@@ -14,7 +14,7 @@
 #' 1    HND 3.63e+18   5.840389e+16     1.963546e+18     5.738629e+17          5.042712e+17    1.179983e+14       5.297977e+17     2.551866e+18       0.15           0.2970
 #' 2    UGA 1.67e+19   1.565005e+17     1.731193e+18     1.408505e+18          1.340068e+19    0.000000e+00       3.127723e+15     1.890822e+18       0.95           0.8868
 
-getLoadings<-function(inputDF=read.csv("data/input_file_new_kla_div_20200728.csv"),pathogenType="Virus"){
+getLoadings<-function(inputDF=read.csv("data/input_file_new_kla_div_20200729-0Baseline.csv"),pathogenType="Virus"){
 
   df1<-inputDF
 
@@ -22,7 +22,7 @@ getLoadings<-function(inputDF=read.csv("data/input_file_new_kla_div_20200728.csv
   #df1<-df1[,c(1:42)]
   #colnames(df1)<-c(colnames(df1[,c(1:19)]),substr(colnames(df1[,c(20:42)]),1,nchar(colnames(df1[,c(20:42)]))-4))
   #colnames(df1)
-  #df1$excreted<-c(1e10,1e10,1e10,1e10,1e10)
+  #df1$excreted<-rep(1e10,5)
 #comment out these lines after testing
 
   pathogenGroups<-c("Virus","Bacteria","Protozoa","Helminth")
@@ -33,15 +33,17 @@ getLoadings<-function(inputDF=read.csv("data/input_file_new_kla_div_20200728.csv
 
   #persistence model in pits
   persist<-read.csv("http://data.waterpathogens.org/dataset/eda3c64c-479e-4177-869c-93b3dc247a10/resource/f99291ab-d536-4536-a146-083a07ea49b9/download/k2p_persistence.csv",header=T)
-  #persist<-persist[,c("X","X.1","X.2")]
-  persist<-persist[persist$matrix=="Fecal sludge",]
+  persist<-read.csv("data/k2p_persistence_WR.csv",header=T)
+  persist<-persist[1:(length(persist)-1)]
+  #persist<-persist[persist$matrix=="Fecal sludge",]
+  persist<-subset(persist,matrix=="Fecal sludge")
   persist$ln_removal<--persist$log10_reduction*log(10)
   N<-length(unique(persist$experiment_id))
   persist$ind<-NA       # this will be an index variable to distinguish each independent experiment
   for(j in 1:length(persist$experiment_id)){
     persist$ind[j]<-which(data.frame(unique(persist$experiment_id))==persist$experiment_id[j])
   }
-  k<-rep(NA,N);group<-rep(NA,N);addit<-rep(NA,N); pH<-rep(NA,N);urine<-rep(NA,N);moisture<-rep(NA,N);temperature<-rep(NA,N);r2<-rep(NA,N);num<-rep(NA,N);authors<-rep(NA,N)
+  k<-rep(NA,N);group<-rep(NA,N);addit<-rep(NA,N); pH<-rep(NA,N);urine<-rep(NA,N);urea<-rep(NA,N);moisture<-rep(NA,N);temperature<-rep(NA,N);r2<-rep(NA,N);num<-rep(NA,N);authors<-rep(NA,N)
 
   for(z in 1:N){   #in this loop, we calculate the k value for the log linear decay:                 Ct = Co*exp(-k*t)
     time<-persist[persist$ind==z,]$time_days   #get the time only for the present experiment
@@ -57,42 +59,42 @@ getLoadings<-function(inputDF=read.csv("data/input_file_new_kla_div_20200728.csv
     addit[z]<-as.character(unique(persist[persist$ind==z,]$additive))
     pH[z]<-as.numeric(median(persist[persist$ind==z,]$pH))
     urine[z]<-as.character(unique(persist[persist$ind==z,]$urine))
+    urea[z]<-as.character(unique(persist[persist$ind==z,]$urea))
     moisture[z]<-as.numeric(max(persist[persist$ind==z,]$moisture_content_percent))
     temperature[z]<-as.numeric(median(persist[persist$ind==z,]$temperature_celsius))
   }
-  kPit<-data.frame(microbial_group=group,k=k,num=num,additive=addit,pH=pH,temp=temperature,moisture=moisture,urine=urine,r2=r2)
-  #write.csv(kPit,"kPit3.csv")
-  kPit=kPit[-c(30,46,47,73,204,205),] #removing data points that are outliers
-  kPit<-kPit[kPit$r2>0.7,] #only keeping data with good log linear fit (r2>0.7)
-  kPit<-kPit[kPit$k<0,] #removing any data showing growth
-  kPit<-kPit[kPit$num>4,] #removing any results from experiments done with fewer than 4 data points
+  kPit<-data.frame(microbial_group=group,k=k,num=num,additive=addit,pH=pH,temp=temperature,moisture=moisture,urine=urine,urea=urea,r2=r2)
+  #kPit=kPit[-c(30,46,47,73,204,205),] #removing data points that are outliers
+  #kPit<-kPit[kPit$r2>0.7,] #only keeping data with good log linear fit (r2>0.7)
+  #kPit<-kPit[kPit$k<0,] #removing any data showing growth
+  #kPit<-kPit[kPit$num>4,] #removing any results from experiments done with fewer than 4 data points
   kPit$lk<-log(-kPit$k)
-  kPit$ltemp<-log(kPit$temp)
-  fit_kPit<-lm(lk~factor(microbial_group)+factor(urine)*pH+ltemp+moisture+additive,data=kPit)
+  #kPit$ltemp<-log(kPit$temp)
+  fit_kPit<-lm(lk~factor(microbial_group)+pH+temp+moisture+factor(urine)+factor(urea)+factor(additive),data=kPit[kPit$temp<50,])
   #summary(fit_kPit)
   # not UDT, no additives
-  kValueV<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Fresh Urine",pH=7,ltemp=log(30),moisture=80,additive="None",microbial_group="Virus"))))
-  kValueB<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Fresh Urine",pH=7,ltemp=log(30),moisture=80,additive="None",microbial_group="Bacteria"))))
-  kValueP<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Fresh Urine",pH=7,ltemp=log(30),moisture=80,additive="None",microbial_group="Protozoa"))))
-  kValueH<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Fresh Urine",pH=7,ltemp=log(30),moisture=80,additive="None",microbial_group="Helminth"))))
+  kValueV<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Excreta",pH=7,temp=(30),moisture=80,additive="None",urea="None",microbial_group="Virus"))))
+  kValueB<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Excreta",pH=7,temp=(30),moisture=80,additive="None",urea="None",microbial_group="Bacteria"))))
+  kValueP<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Excreta",pH=7,temp=(30),moisture=80,additive="None",urea="None",microbial_group="Protozoa"))))
+  kValueH<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Excreta",pH=7,temp=(30),moisture=80,additive="None",urea="None",microbial_group="Helminth"))))
   # UDT, no additives
-  kValueV_udt<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Feces only",pH=7,ltemp=log(30),moisture=80,additive="None",microbial_group="Virus"))))
-  kValueB_udt<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Feces only",pH=7,ltemp=log(30),moisture=80,additive="None",microbial_group="Bacteria"))))
-  kValueP_udt<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Feces only",pH=7,ltemp=log(30),moisture=80,additive="None",microbial_group="Protozoa"))))
-  kValueH_udt<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Feces only",pH=7,ltemp=log(30),moisture=80,additive="None",microbial_group="Helminth"))))
+  kValueV_udt<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Feces only",pH=7,temp=(30),moisture=80,additive="None",urea="None",microbial_group="Virus"))))
+  kValueB_udt<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Feces only",pH=7,temp=(30),moisture=80,additive="None",urea="None",microbial_group="Bacteria"))))
+  kValueP_udt<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Feces only",pH=7,temp=(30),moisture=80,additive="None",urea="None",microbial_group="Protozoa"))))
+  kValueH_udt<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Feces only",pH=7,temp=(30),moisture=80,additive="None",urea="None",microbial_group="Helminth"))))
   # not UDT, additives
-  kValueV_a<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Fresh Urine",pH=7,ltemp=log(30),moisture=80,additive="Lime",microbial_group="Virus"))))
-  kValueB_a<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Fresh Urine",pH=7,ltemp=log(30),moisture=80,additive="Lime",microbial_group="Bacteria"))))
-  kValueP_a<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Fresh Urine",pH=7,ltemp=log(30),moisture=80,additive="Lime",microbial_group="Protozoa"))))
-  kValueH_a<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Fresh Urine",pH=7,ltemp=log(30),moisture=80,additive="Lime",microbial_group="Helminth"))))
+  kValueV_a<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Excreta",pH=7,temp=(30),moisture=80,additive="Lime",urea="Urea",microbial_group="Virus"))))
+  kValueB_a<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Excreta",pH=7,temp=(30),moisture=80,additive="Lime",urea="Urea",microbial_group="Bacteria"))))
+  kValueP_a<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Excreta",pH=7,temp=(30),moisture=80,additive="Lime",urea="Urea",microbial_group="Protozoa"))))
+  kValueH_a<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Excreta",pH=7,temp=(30),moisture=80,additive="Lime",urea="Urea",microbial_group="Helminth"))))
   # UDT, additives
-  kValueV_udt_a<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Feces only",pH=7,ltemp=log(30),moisture=80,additive="Urea",microbial_group="Virus"))))
-  kValueB_udt_a<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Feces only",pH=7,ltemp=log(30),moisture=80,additive="Urea",microbial_group="Bacteria"))))
-  kValueP_udt_a<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Feces only",pH=7,ltemp=log(30),moisture=80,additive="Urea",microbial_group="Protozoa"))))
-  kValueH_udt_a<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Feces only",pH=7,ltemp=log(30),moisture=80,additive="Urea",microbial_group="Helminth"))))
+  kValueV_udt_a<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Feces only",pH=7,temp=(30),moisture=80,additive="Lime",urea="Urea",microbial_group="Virus"))))
+  kValueB_udt_a<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Feces only",pH=7,temp=(30),moisture=80,additive="Lime",urea="Urea",microbial_group="Bacteria"))))
+  kValueP_udt_a<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Feces only",pH=7,temp=(30),moisture=80,additive="Lime",urea="Urea",microbial_group="Protozoa"))))
+  kValueH_udt_a<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Feces only",pH=7,temp=(30),moisture=80,additive="Lime",urea="Urea",microbial_group="Helminth"))))
 
   kValues<-data.frame(Virus=c(kValueV,kValueV_udt,kValueV_a,kValueV_udt_a),Bacteria=c(kValueB,kValueB_udt,kValueB_a,kValueB_udt_a),Protozoa=c(kValueP,kValueP_udt,kValueP_a,kValueP_udt_a),Helminth=c(kValueH,kValueH_udt,kValueH_a,kValueH_udt_a))
-  rownames(kValues)<-c("conventional","urine-diverting","conventional w/ lime","urine-diverting w/ urea") #the units here are 1/days
+  rownames(kValues)<-c("conventional","urine-diverting","conventional w/ lime.urea","urine-diverting w/ lime.urea") #the units here are 1/days
   # &&&&& END GWPP Inputs &&&&&
 
   loops<-nrow(df1)
@@ -217,8 +219,8 @@ getLoadings<-function(inputDF=read.csv("data/input_file_new_kla_div_20200728.csv
     for(j in 1:13){  # decay for toilets with UNSAFE emptying practices
       remainingTwinNoUD<-exp(-kValues["conventional",i]*(seq(decayTimeUNSAFE,1,by=-1)+decayTimeUNSAFE-1));remainingTwinNoUD<-replace(remainingTwinNoUD,which(remainingTwinNoUD<0.001),0.001) # this limits onsite pathogen reduction to no more than 3-log reduction
       remainingTwinUD<-exp(-kValues["urine-diverting",i]*(seq(decayTimeUNSAFE,1,by=-1)+decayTimeUNSAFE-1));remainingTwinUD<-replace(remainingTwinUD,which(remainingTwinUD<0.001),0.001) # this limits onsite pathogen reduction to no more than 3-log reduction
-      remainingTwinLime<-exp(-kValues["conventional w/ lime",i]*(seq(decayTimeUNSAFE,1,by=-1)+decayTimeUNSAFE-1));remainingTwinLime<-replace(remainingTwinLime,which(remainingTwinLime<0.001),0.001)
-      remainingTwinUrea<-exp(-kValues["urine-diverting w/ urea",i]*(seq(decayTimeUNSAFE,1,by=-1)+decayTimeUNSAFE-1));remainingTwinUrea<-replace(remainingTwinUrea,which(remainingTwinUrea<0.001),0.001)
+      remainingTwinLime<-exp(-kValues["conventional w/ lime.urea",i]*(seq(decayTimeUNSAFE,1,by=-1)+decayTimeUNSAFE-1));remainingTwinLime<-replace(remainingTwinLime,which(remainingTwinLime<0.001),0.001)
+      remainingTwinUrea<-exp(-kValues["urine-diverting w/ lime.urea",i]*(seq(decayTimeUNSAFE,1,by=-1)+decayTimeUNSAFE-1));remainingTwinUrea<-replace(remainingTwinUrea,which(remainingTwinUrea<0.001),0.001)
       toSW_sol_twin_noUDT<-loadings[[m]]$twinPits[j]*(1-loadings[[m]]$pitAdd[j])*(1-loadings[[m]]$UDT[j])*sum(remainingTwinNoUD*loadings[[m]]$inSolid[j]/daysperyear*loadings[[m]]$unsafeEmpty[j])
       toSW_sol_twin_UDT<-loadings[[m]]$twinPits[j]*(1-loadings[[m]]$pitAdd[j])*(loadings[[m]]$UDT[j])*sum(remainingTwinUD*loadings[[m]]$inSolid[j]/daysperyear*loadings[[m]]$unsafeEmpty[j])
       toSW_sol_twin_lime<-loadings[[m]]$twinPits[j]*(loadings[[m]]$pitAdd[j])*(1-loadings[[m]]$UDT[j])*sum(remainingTwinNoUD*loadings[[m]]$inSolid[j]/daysperyear*loadings[[m]]$unsafeEmpty[j])
@@ -232,8 +234,8 @@ getLoadings<-function(inputDF=read.csv("data/input_file_new_kla_div_20200728.csv
 
       remainingSingleNoUD<-exp(-kValues["conventional",i]*seq(decayTimeUNSAFE,1,by=-1));remainingSingleNoUD<-replace(remainingSingleNoUD,which(remainingSingleNoUD<0.001),0.001) # this limits onsite pathogen reduction to no more than 3-log reduction
       remainingSingleUD<-exp(-kValues["urine-diverting",i]*seq(decayTimeUNSAFE,1,by=-1));remainingSingleUD<-replace(remainingSingleUD,which(remainingSingleUD<0.001),0.001) # this limits onsite pathogen reduction to no more than 3-log reduction
-      remainingSingleLime<-exp(-kValues["conventional w/ lime",i]*seq(decayTimeUNSAFE,1,by=-1));remainingSingleLime<-replace(remainingSingleLime,which(remainingSingleLime<0.001),0.001)
-      remainingSingleUrea<-exp(-kValues["urine-diverting w/ urea",i]*seq(decayTimeUNSAFE,1,by=-1));remainingSingleUrea<-replace(remainingSingleUrea,which(remainingSingleUrea<0.001),0.001)
+      remainingSingleLime<-exp(-kValues["conventional w/ lime.urea",i]*seq(decayTimeUNSAFE,1,by=-1));remainingSingleLime<-replace(remainingSingleLime,which(remainingSingleLime<0.001),0.001)
+      remainingSingleUrea<-exp(-kValues["urine-diverting w/ lime.urea",i]*seq(decayTimeUNSAFE,1,by=-1));remainingSingleUrea<-replace(remainingSingleUrea,which(remainingSingleUrea<0.001),0.001)
       toSW_sol_sing_noUDT<-loadings[[m]]$singlePits[j]*(1-loadings[[m]]$pitAdd[j])*(1-loadings[[m]]$UDT[j])*sum(remainingSingleNoUD*loadings[[m]]$inSolid[j]/daysperyear*loadings[[m]]$unsafeEmpty[j])
       toSW_sol_sing_UDT<-loadings[[m]]$singlePits[j]*(1-loadings[[m]]$pitAdd[j])*(loadings[[m]]$UDT[j])*sum(remainingSingleUD*loadings[[m]]$inSolid[j]/daysperyear*loadings[[m]]$unsafeEmpty[j])
       toSW_sol_sing_lime<-loadings[[m]]$singlePits[j]*(loadings[[m]]$pitAdd[j])*(1-loadings[[m]]$UDT[j])*sum(remainingSingleNoUD*loadings[[m]]$inSolid[j]/daysperyear*loadings[[m]]$unsafeEmpty[j])
@@ -251,8 +253,8 @@ getLoadings<-function(inputDF=read.csv("data/input_file_new_kla_div_20200728.csv
     for(j in 1:13){  # decay for toilets with SAFE emptying practices
       remainingTwinNoUD<-exp(-kValues["conventional",i]*(seq(daysperyear*emptyFrequency,1,by=-1)+daysperyear*emptyFrequency-1));remainingTwinNoUD<-replace(remainingTwinNoUD,which(remainingTwinNoUD<0.001),0.001)
       remainingTwinUD<-exp(-kValues["urine-diverting",i]*(seq(daysperyear*emptyFrequency,1,by=-1)+daysperyear*emptyFrequency-1));remainingTwinUD<-replace(remainingTwinUD,which(remainingTwinUD<0.001),0.001)
-      remainingTwinLime<-exp(-kValues["conventional w/ lime",i]*(seq(daysperyear*emptyFrequency,1,by=-1)+daysperyear*emptyFrequency-1));remainingTwinLime<-replace(remainingTwinLime,which(remainingTwinLime<0.001),0.001)
-      remainingTwinUrea<-exp(-kValues["urine-diverting w/ urea",i]*(seq(daysperyear*emptyFrequency,1,by=-1)+daysperyear*emptyFrequency-1));remainingTwinUrea<-replace(remainingTwinUrea,which(remainingTwinUrea<0.001),0.001)
+      remainingTwinLime<-exp(-kValues["conventional w/ lime.urea",i]*(seq(daysperyear*emptyFrequency,1,by=-1)+daysperyear*emptyFrequency-1));remainingTwinLime<-replace(remainingTwinLime,which(remainingTwinLime<0.001),0.001)
+      remainingTwinUrea<-exp(-kValues["urine-diverting w/ lime.urea",i]*(seq(daysperyear*emptyFrequency,1,by=-1)+daysperyear*emptyFrequency-1));remainingTwinUrea<-replace(remainingTwinUrea,which(remainingTwinUrea<0.001),0.001)
       toFSTP_twin_noUDT<-loadings[[m]]$twinPits[j]*(1-loadings[[m]]$pitAdd[j])*(1-loadings[[m]]$UDT[j])*sum(remainingTwinNoUD*loadings[[m]]$inSolid[j]/daysperyear*loadings[[m]]$safeEmpty[j])/emptyFrequency
       toFSTP_twin_UDT<-loadings[[m]]$twinPits[j]*(1-loadings[[m]]$pitAdd[j])*(loadings[[m]]$UDT[j])*sum(remainingTwinUD*loadings[[m]]$inSolid[j]/daysperyear*loadings[[m]]$safeEmpty[j])/emptyFrequency
       toFSTP_twin_lime<-loadings[[m]]$twinPits[j]*(loadings[[m]]$pitAdd[j])*(1-loadings[[m]]$UDT[j])*sum(remainingTwinNoUD*loadings[[m]]$inSolid[j]/daysperyear*loadings[[m]]$safeEmpty[j])/emptyFrequency
@@ -266,8 +268,8 @@ getLoadings<-function(inputDF=read.csv("data/input_file_new_kla_div_20200728.csv
 
       remainingSingleNoUD<-exp(-kValues["conventional",i]*(seq(daysperyear*emptyFrequency,1,by=-1)));remainingSingleNoUD<-replace(remainingSingleNoUD,which(remainingSingleNoUD<0.001),0.001)
       remainingSingleUD<-exp(-kValues["urine-diverting",i]*(seq(daysperyear*emptyFrequency,1,by=-1)));remainingSingleUD<-replace(remainingSingleUD,which(remainingSingleUD<0.001),0.001)
-      remainingSingleLime<-exp(-kValues["conventional w/ lime",i]*(seq(daysperyear*emptyFrequency,1,by=-1)));remainingSingleLime<-replace(remainingSingleLime,which(remainingSingleLime<0.001),0.001)
-      remainingSingleUrea<-exp(-kValues["urine-diverting w/ urea",i]*(seq(daysperyear*emptyFrequency,1,by=-1)));remainingSingleUrea<-replace(remainingSingleUrea,which(remainingSingleUrea<0.001),0.001)
+      remainingSingleLime<-exp(-kValues["conventional w/ lime.urea",i]*(seq(daysperyear*emptyFrequency,1,by=-1)));remainingSingleLime<-replace(remainingSingleLime,which(remainingSingleLime<0.001),0.001)
+      remainingSingleUrea<-exp(-kValues["urine-diverting w/ lime.urea",i]*(seq(daysperyear*emptyFrequency,1,by=-1)));remainingSingleUrea<-replace(remainingSingleUrea,which(remainingSingleUrea<0.001),0.001)
       toFSTP_sing_noUDT<-loadings[[m]]$singlePits[j]*(1-loadings[[m]]$pitAdd[j])*(1-loadings[[m]]$UDT[j])*sum(remainingSingleNoUD*loadings[[m]]$inSolid[j]/daysperyear*loadings[[m]]$safeEmpty[j])/emptyFrequency
       toFSTP_sing_UDT<-loadings[[m]]$singlePits[j]*(1-loadings[[m]]$pitAdd[j])*(loadings[[m]]$UDT[j])*sum(remainingSingleUD*loadings[[m]]$inSolid[j]/daysperyear*loadings[[m]]$safeEmpty[j])/emptyFrequency
       toFSTP_sing_lime<-loadings[[m]]$singlePits[j]*(loadings[[m]]$pitAdd[j])*(1-loadings[[m]]$UDT[j])*sum(remainingSingleNoUD*loadings[[m]]$inSolid[j]/daysperyear*loadings[[m]]$safeEmpty[j])/emptyFrequency
