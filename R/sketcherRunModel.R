@@ -215,7 +215,7 @@ function(mySketch){
       if(pathogenType=="Helminth"){nodes[nodes$subType=="trickling filter",c("fit","lwr","upr")]<-1}else{nodes[nodes$subType=="trickling filter",c("fit","lwr","upr")]<-predict(fit_tf,nodes[nodes$subType=="trickling filter",],interval="confidence")^2}
     }
     if(any(nodes$subType=="settler or clarifier")==TRUE){
-      if(pathogenType=="Protozoa"|pathogenType=="Helminth"){nodes[nodes$subType=="settler or clarifier",c("fit","lwr","upr")]<-0}else{nodes[nodes$subType=="settler or clarifier",c("fit","lwr","upr")]<-predict(fit_sd,nodes[nodes$subType=="settler or clarifier",],interval="confidence")^2}
+      if(pathogenType=="Protozoa"|pathogenType=="Helminth"){nodes[nodes$subType=="settler or clarifier",c("fit","lwr","upr")]<-1}else{nodes[nodes$subType=="settler or clarifier",c("fit","lwr","upr")]<-predict(fit_sd,nodes[nodes$subType=="settler or clarifier",],interval="confidence")^2}
     }
 
     ####placeholder LRVs until we get more data into the database####

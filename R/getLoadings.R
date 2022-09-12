@@ -41,7 +41,7 @@ getLoadings<-function(inputDF=read.csv("data/input_file_new_kla_div_20200728.csv
   for(j in 1:length(persist$experiment_id)){
     persist$ind[j]<-which(data.frame(unique(persist$experiment_id))==persist$experiment_id[j])
   }
-  k<-rep(NA,N);group<-rep(NA,N);addit<-rep(NA,N); pH<-rep(NA,N);urine<-rep(NA,N);moisture<-rep(NA,N);temperature<-rep(NA,N);r2<-rep(NA,N);num<-rep(NA,N);authors<-rep(NA,N)
+  k<-rep(NA,N);group<-rep(NA,N);addit<-rep(NA,N);urea<-rep(NA,N);pH<-rep(NA,N);urine<-rep(NA,N);moisture<-rep(NA,N);temperature<-rep(NA,N);r2<-rep(NA,N);num<-rep(NA,N);authors<-rep(NA,N)
 
   for(z in 1:N){   #in this loop, we calculate the k value for the log linear decay:                 Ct = Co*exp(-k*t)
     time<-persist[persist$ind==z,]$time_days   #get the time only for the present experiment
@@ -57,39 +57,41 @@ getLoadings<-function(inputDF=read.csv("data/input_file_new_kla_div_20200728.csv
     addit[z]<-as.character(unique(persist[persist$ind==z,]$additive))
     pH[z]<-as.numeric(median(persist[persist$ind==z,]$pH))
     urine[z]<-as.character(unique(persist[persist$ind==z,]$urine))
-    moisture[z]<-as.numeric(max(persist[persist$ind==z,]$moisture_content_percent))
+    urea[z]<-as.character(unique(persist[persist$ind==z,]$urea))
+    moisture[z]<-as.numeric(median(persist[persist$ind==z,]$moisture_content_percent))
     temperature[z]<-as.numeric(median(persist[persist$ind==z,]$temperature_celsius))
   }
-  kPit<-data.frame(microbial_group=group,k=k,num=num,additive=addit,pH=pH,temp=temperature,moisture=moisture,urine=urine,r2=r2)
+  kPit<-data.frame(authors=authors,microbial_group=group,k=k,num=num,additive=addit,pH=pH,temp=temperature,moisture=moisture,urea=urea,urine=urine,r2=r2)
   #write.csv(kPit,"kPit3.csv")
-  kPit=kPit[-c(30,46,47,73,204,205),] #removing data points that are outliers
-  kPit<-kPit[kPit$r2>0.7,] #only keeping data with good log linear fit (r2>0.7)
+  #kPit=kPit[-c(30,46,47,73,204,205),] #removing data points that are outliers
+  kPit<-kPit[kPit$r2>0.5,] #only keeping data with good log linear fit (r2>0.7)
   kPit<-kPit[kPit$k<0,] #removing any data showing growth
   kPit<-kPit[kPit$num>4,] #removing any results from experiments done with fewer than 4 data points
   kPit$lk<-log(-kPit$k)
   kPit$ltemp<-log(kPit$temp)
-  fit_kPit<-lm(lk~factor(microbial_group)+factor(urine)*pH+ltemp+moisture+additive,data=kPit)
+  kPit<-kPit[-64,]
+  fit_kPit<-lm(lk~factor(microbial_group)+factor(urine)+factor(urea)*pH+temp+moisture+additive,data=kPit)
   #summary(fit_kPit)
   # not UDT, no additives
-  kValueV<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Fresh Urine",pH=7,ltemp=log(30),moisture=80,additive="None",microbial_group="Virus"))))
-  kValueB<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Fresh Urine",pH=7,ltemp=log(30),moisture=80,additive="None",microbial_group="Bacteria"))))
-  kValueP<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Fresh Urine",pH=7,ltemp=log(30),moisture=80,additive="None",microbial_group="Protozoa"))))
-  kValueH<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Fresh Urine",pH=7,ltemp=log(30),moisture=80,additive="None",microbial_group="Helminth"))))
+  kValueV<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Excreta",pH=7,temp=(30),urea="None",moisture=80,additive="None",microbial_group="Virus"))))
+  kValueB<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Excreta",pH=7,temp=(30),urea="None",moisture=80,additive="None",microbial_group="Bacteria"))))
+  kValueP<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Excreta",pH=7,temp=(30),urea="None",moisture=80,additive="None",microbial_group="Protozoa"))))
+  kValueH<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Excreta",pH=7,temp=(30),urea="None",moisture=80,additive="None",microbial_group="Helminth"))))
   # UDT, no additives
-  kValueV_udt<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Feces only",pH=7,ltemp=log(30),moisture=80,additive="None",microbial_group="Virus"))))
-  kValueB_udt<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Feces only",pH=7,ltemp=log(30),moisture=80,additive="None",microbial_group="Bacteria"))))
-  kValueP_udt<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Feces only",pH=7,ltemp=log(30),moisture=80,additive="None",microbial_group="Protozoa"))))
-  kValueH_udt<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Feces only",pH=7,ltemp=log(30),moisture=80,additive="None",microbial_group="Helminth"))))
+  kValueV_udt<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Feces only",pH=7,temp=(30),urea="None",moisture=40,additive="None",microbial_group="Virus"))))
+  kValueB_udt<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Feces only",pH=7,temp=(30),urea="None",moisture=40,additive="None",microbial_group="Bacteria"))))
+  kValueP_udt<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Feces only",pH=7,temp=(30),urea="None",moisture=40,additive="None",microbial_group="Protozoa"))))
+  kValueH_udt<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Feces only",pH=7,temp=(30),urea="None",moisture=40,additive="None",microbial_group="Helminth"))))
   # not UDT, additives
-  kValueV_a<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Fresh Urine",pH=7,ltemp=log(30),moisture=80,additive="Lime",microbial_group="Virus"))))
-  kValueB_a<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Fresh Urine",pH=7,ltemp=log(30),moisture=80,additive="Lime",microbial_group="Bacteria"))))
-  kValueP_a<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Fresh Urine",pH=7,ltemp=log(30),moisture=80,additive="Lime",microbial_group="Protozoa"))))
-  kValueH_a<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Fresh Urine",pH=7,ltemp=log(30),moisture=80,additive="Lime",microbial_group="Helminth"))))
+  kValueV_a<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Excreta",pH=7,temp=(30),urea="Urea",moisture=80,additive="Lime",microbial_group="Virus"))))
+  kValueB_a<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Excreta",pH=7,temp=(30),urea="Urea",moisture=80,additive="Lime",microbial_group="Bacteria"))))
+  kValueP_a<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Excreta",pH=7,temp=(30),urea="Urea",moisture=80,additive="Lime",microbial_group="Protozoa"))))
+  kValueH_a<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Excreta",pH=7,temp=(30),urea="Urea",moisture=80,additive="Lime",microbial_group="Helminth"))))
   # UDT, additives
-  kValueV_udt_a<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Feces only",pH=7,ltemp=log(30),moisture=80,additive="Urea",microbial_group="Virus"))))
-  kValueB_udt_a<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Feces only",pH=7,ltemp=log(30),moisture=80,additive="Urea",microbial_group="Bacteria"))))
-  kValueP_udt_a<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Feces only",pH=7,ltemp=log(30),moisture=80,additive="Urea",microbial_group="Protozoa"))))
-  kValueH_udt_a<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Feces only",pH=7,ltemp=log(30),moisture=80,additive="Urea",microbial_group="Helminth"))))
+  kValueV_udt_a<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Feces only",pH=7,temp=(30),urea="Urea",moisture=40,additive="Lime",microbial_group="Virus"))))
+  kValueB_udt_a<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Feces only",pH=7,temp=(30),urea="Urea",moisture=40,additive="Lime",microbial_group="Bacteria"))))
+  kValueP_udt_a<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Feces only",pH=7,temp=(30),urea="Urea",moisture=40,additive="Lime",microbial_group="Protozoa"))))
+  kValueH_udt_a<-suppressWarnings(exp(predict(fit_kPit,newdata=data.frame(urine="Feces only",pH=7,temp=(30),urea="Urea",moisture=40,additive="Lime",microbial_group="Helminth"))))
 
   kValues<-data.frame(Virus=c(kValueV,kValueV_udt,kValueV_a,kValueV_udt_a),Bacteria=c(kValueB,kValueB_udt,kValueB_a,kValueB_udt_a),Protozoa=c(kValueP,kValueP_udt,kValueP_a,kValueP_udt_a),Helminth=c(kValueH,kValueH_udt,kValueH_a,kValueH_udt_a))
   rownames(kValues)<-c("conventional","urine-diverting","conventional w/ lime","urine-diverting w/ urea") #the units here are 1/days

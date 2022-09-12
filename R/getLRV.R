@@ -13,7 +13,7 @@
 #'
 #'
 
-getLRV<-function(mySketch="data/sketches/nakivubo.json"
+getLRV<-function(mySketch="data/lubigi.json"
                  ,
                  myLRVdata="http://data.waterpathogens.org/dataset/eda3c64c-479e-4177-869c-93b3dc247a10/resource/9e172f8f-d8b5-4657-92a4-38da60786327/download/treatmentdata.csv"
                  ,
@@ -33,6 +33,9 @@ getLRV<-function(mySketch="data/sketches/nakivubo.json"
   suppressWarnings(k2pdata$temp3<-k2pdata$temperature_celsius^3)
   suppressWarnings(k2pdata$ltemp<-log(k2pdata$temperature_celsius))
   suppressWarnings(k2pdata$SQRTmoist<-sqrt(k2pdata$moisture_content_percent))
+  #############################
+  ##&&&## suppressWarnings(k2pdata$k_ammonia<-df$lrv/(df$ammonia_concentration_mmol_per_liter*df$contact_time_minutes))
+  #############################
   lambdas<-c(Virus=0.2,Bacteria=0.3,Protozoa=0.6,Helminth=0.99) # these lambda values are based on data from the literature (Chauret et al., 1999; Lucena et al., 2004; Ramo et al., 2017; Rose et al., 1996; Tanji et al., 2002; Tsai et al., 1998)
   lambda<-as.numeric(lambdas[pathogenType])
 
@@ -136,14 +139,20 @@ getLRV<-function(mySketch="data/sketches/nakivubo.json"
   nodes$retentionTime<-nodes$volume/nodes$flowRate
   # end of new script
 
-  # transform the K2P data and fit the models
-  # k2pdata<-suppressWarnings(transformData(k2pdata))
-  fit_ap<-lm(SQRTlrv ~ SQRThrt+temp+factor(pathogen),data=subset(k2pdata,technology_description=="Anaerobic Pond"))
+
+
+  # fit the models
+  fit_ap<-lm(SQRTlrv ~ lhrt+temp+factor(pathogen),data=subset(k2pdata,technology_description=="Anaerobic Pond"))
   fit_fp<-lm(SQRTlrv ~ lhrt+temp+factor(pathogen),data=subset(k2pdata,technology_description=="Facultative Pond"|technology_description=="Maturation Pond"))
   fit_mp<-lm(SQRTlrv ~ lhrt+temp+factor(pathogen),data=subset(k2pdata,technology_description=="Facultative Pond"|technology_description=="Maturation Pond"))
   fit_db<-lm(SQRTlrv ~ SQRTht+SQRTmoist+factor(pathogen),data=subset(k2pdata,technology_description=="Sludge Drying Bed"))
   fit_tf<-lm(SQRTlrv ~ factor(pathogen),data=subset(k2pdata,technology_description=="Trickling Filter"))
   fit_sd<-lm(SQRTlrv ~ factor(pathogen),data=subset(k2pdata,technology_description=="Sedimentation"))
+  fit_amm<-lm(lk~factor(pathogen)+material+temperature_celsius+pH,data=subset(k2pdata,technology_description=="Ammonia"))
+
+  par(mfrow=c(2,2))
+  summary(fit_mp)
+  plot(fit_mp)
 
   # find the LRVs for each pathogen group, then solve the DAG!
   pathogenGroups<-c("Virus","Bacteria","Protozoa","Helminth")
@@ -189,6 +198,14 @@ getLRV<-function(mySketch="data/sketches/nakivubo.json"
     nodes$ltemp<-log(nodes$temperature)
     nodes$SQRTmoist<-sqrt(as.double(nodes$moistureContent))
     nodes$pathogen<-pathogenType
+
+    nodes$temperature_celsius<-as.numeric(nodes$temperature) #added for ammonia model
+    nodes$concentration<-as.numeric(nodes$concentration)/14 #added for ammonia model (14 converts mass conc. to molar conc.)
+    nodes$contactTime<-as.numeric(nodes$contactTime)         #added for ammonia model
+    #nodes$pathogen_group<-"virus"
+    nodes$material<-NA                                         #added for ammonia model
+    nodes[nodes$subType=="ammonia",]$material<-"Sewage sludge"  #added for ammonia model
+
     nodes$fit<-0;nodes$upr<-0;nodes$lwr<-0
     # execution of models
     if(any(nodes$subType=="anaerobic pond")==TRUE){nodes[nodes$subType=="anaerobic pond",c("fit","lwr","upr")]<-predict(fit_ap,nodes[nodes$subType=="anaerobic pond",],interval="confidence")^2}
@@ -201,8 +218,31 @@ getLRV<-function(mySketch="data/sketches/nakivubo.json"
       if(pathogenType=="Helminth"){nodes[nodes$subType=="trickling filter",c("fit","lwr","upr")]<-1}else{nodes[nodes$subType=="trickling filter",c("fit","lwr","upr")]<-predict(fit_tf,nodes[nodes$subType=="trickling filter",],interval="confidence")^2}
     }
     if(any(nodes$subType=="settler or clarifier")==TRUE){
-      if(pathogenType=="Protozoa"|pathogenType=="Helminth"){nodes[nodes$subType=="settler or clarifier",c("fit","lwr","upr")]<-0}else{nodes[nodes$subType=="settler or clarifier",c("fit","lwr","upr")]<-predict(fit_sd,nodes[nodes$subType=="settler or clarifier",],interval="confidence")^2}
+      if(pathogenType=="Protozoa"|pathogenType=="Helminth"){nodes[nodes$subType=="settler or clarifier",c("fit","lwr","upr")]<-1}else{nodes[nodes$subType=="settler or clarifier",c("fit","lwr","upr")]<-predict(fit_sd,nodes[nodes$subType=="settler or clarifier",],interval="confidence")^2}
     }
+    ###################
+    ###################
+    ###################
+    ###################
+    ###################
+    ###################
+    ###################
+    ###################
+    ###################
+    ###################
+    if(any(nodes$subType=="ammonia")==TRUE){
+      if(pathogenType=="Protozoa"){nodes[nodes$subType=="settler or clarifier",c("fit","lwr","upr")]<-1}else{nodes[nodes$subType=="ammonia",c("fit","lwr","upr")]<-exp(predict(fit2,nodes[nodes$subType=="ammonia",],interval="confidence"))*nodes[nodes$subType=="ammonia",]$concentration*nodes[nodes$subType=="ammonia",]$contactTime}
+    }
+    ###################
+    ###################
+    ###################
+    ###################
+    ###################
+    ###################
+    ###################
+    ###################
+    ###################
+    ###################
 
     ####placeholder LRVs until we get more data into the database####
     if(any(nodes$subType=="anaerobic digester")==TRUE){nodes[nodes$subType=="anaerobic digester",c("fit","lwr","upr")]<-c(1,0,2)}
@@ -216,7 +256,6 @@ getLRV<-function(mySketch="data/sketches/nakivubo.json"
     if(any(nodes$subType=="fws wetland")==TRUE){nodes[nodes$subType=="fws wetland",c("fit","lwr","upr")]<-c(1,0,2)}
     if(any(nodes$subType=="anaerobic baffled reactor")==TRUE){nodes[nodes$subType=="anaerobic baffled reactor",c("fit","lwr","upr")]<-c(1,0,2)}
     if(any(nodes$subType=="chlorination")==TRUE){nodes[nodes$subType=="chlorination",c("fit","lwr","upr")]<-c(1,0,2)}
-    if(any(nodes$subType=="ammonia")==TRUE){nodes[nodes$subType=="ammonia",c("fit","lwr","upr")]<-c(1,0,2)}
     if(any(nodes$subType=="lime treatment")==TRUE){nodes[nodes$subType=="lime treatment",c("fit","lwr","upr")]<-c(1,0,2)}
     ####
 
